@@ -25,7 +25,10 @@ Copy-Item (Join-Path $ProjectRoot "dist") (Join-Path $stage "dist") -Recurse
 Copy-Item (Join-Path $ProjectRoot "node_modules") (Join-Path $stage "node_modules") -Recurse
 
 if (Test-Path $OutZip) { Remove-Item $OutZip -Force }
-Compress-Archive -Path (Join-Path $stage "*") -DestinationPath $OutZip -CompressionLevel Optimal
+# tar (no Compress-Archive): rutas con / para que Linux en Azure cargue dist/src/index.js
+Push-Location $stage
+& tar.exe -a -cf $OutZip *
+Pop-Location
 Remove-Item $stage -Recurse -Force
 
 $mb = [Math]::Round((Get-Item $OutZip).Length / 1MB, 1)
