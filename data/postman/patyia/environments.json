@@ -1,0 +1,113 @@
+{
+  "active": "staging",
+  "environments": [
+    {
+      "id": "local",
+      "name": "local",
+      "values": [
+        {
+          "key": "HOST",
+          "value": "http://localhost:7071",
+          "enabled": true,
+          "type": ""
+        },
+        {
+          "key": "CONTROLKEY",
+          "value": "",
+          "type": "secret",
+          "enabled": true
+        },
+        {
+          "key": "token",
+          "value": "",
+          "type": "secret",
+          "enabled": true
+        },
+        {
+          "key": "iconversacion",
+          "value": "",
+          "enabled": true,
+          "type": ""
+        },
+        {
+          "key": "THREAD_ID",
+          "value": "",
+          "enabled": true,
+          "type": ""
+        }
+      ]
+    },
+    {
+      "id": "staging",
+      "name": "staging",
+      "values": [
+        {
+          "key": "HOST",
+          "value": "https://ayudascp-ia-staging.azurewebsites.net",
+          "enabled": true,
+          "type": ""
+        },
+        {
+          "key": "CONTROLKEY",
+          "value": "",
+          "type": "secret",
+          "enabled": true
+        },
+        {
+          "key": "token",
+          "value": "",
+          "type": "secret",
+          "enabled": true
+        },
+        {
+          "key": "iconversacion",
+          "value": "",
+          "enabled": true,
+          "type": ""
+        },
+        {
+          "key": "THREAD_ID",
+          "value": "",
+          "enabled": true,
+          "type": ""
+        }
+      ]
+    },
+    {
+      "id": "produccion",
+      "name": "produccion",
+      "values": [
+        {
+          "key": "HOST",
+          "value": "https://ayudascp-ia.azurewebsites.net",
+          "enabled": true,
+          "type": ""
+        },
+        {
+          "key": "CONTROLKEY",
+          "value": "",
+          "type": "secret",
+          "enabled": true
+        },
+        {
+          "key": "token",
+          "value": "",
+          "type": "secret",
+          "enabled": true
+        },
+        {
+          "key": "iconversacion",
+          "value": "",
+          "enabled": true,
+          "type": ""
+        },
+        {
+          "key": "THREAD_ID",
+          "value": "",
+          "enabled": true,
+          "type": ""
+        }
+      ]
+    }
+  ]
+}

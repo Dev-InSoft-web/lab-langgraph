@@ -1,0 +1,481 @@
+---
+title: Informes - Procedimientos de Insolvencia - Inicio
+url: https://www.supersociedades.gov.co/web/procedimientos-de-insolvencia/informes-pbi
+corpus: supersociedades
+tipo: web
+audience: contadores
+pageId: bee5d509ef7ecbc7
+storageRel: supersociedades/2026
+fetchedAt: 2026-06-04T03:36:59.229Z
+---
+
+# Informes - Procedimientos de Insolvencia - Inicio
+
+## Ruta de navegación
+
+## Menú de navegación
+
+Menú auxiliar lateral izquierdo
+
+[Objetivo](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/objetivo) [Estructura](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/estructura)
+
+[Grupo de Admisiones](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/grupo-de-admisiones) [Grupo de Procesos de Reorganización A](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/grupo-de-procesos-de-reorganizacion-a) [Dirección de Procesos de Reorganización I](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/direcci%C3%B3n-de-procesos-de-reorganizaci%C3%B3n-i) [Dirección de Procesos de Reorganización II](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/direccion-de-procesos-de-reorganizacion-ii)
+
+[Grupo de Procesos de Reorganización Abreviada](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/grupo-de-procesos-de-reorganizacion-abreviada)
+
+[Dirección de Acuerdos de Insolvencia en Ejecución](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/direccion-de-acuerdos-de-insolvencia-en-ejecucion)
+
+[Grupo de Acuerdos de Insolvencia en Ejecución C](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/grupo-de-acuerdos-de-insolvencia-en-ejecuci%C3%B3n-c)
+
+[Dirección de Procesos de Liquidación I](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/direccion-de-procesos-de-liquidacion-i) [Dirección de Procesos de Liquidación II](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/direcci%C3%B3n-de-procesos-de-liquidaci%C3%B3n-ii)
+
+[Grupo de Procesos de Liquidación Simplificada](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/grupo-de-procesos-de-liquidaci%C3%B3n-simplificada)
+
+[Grupo de Procesos de Liquidación A](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/grupo-de-procesos-de-liquidacion-a)
+
+[Funciones](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/funciones) [Auxiliares de la Justicia](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/auxiliares-de-la-justicia) [Avisos](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/avisos-landing)
+
+[Avisos Generales](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/avisos-generales) [Avisos liquidación obligatoria](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/avisos-liquidacion-obligatoria) [Avisos de liquidación judicial](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/avisos-de-liquidacion-judicial) [Avisos de liquidación por adjudicación](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/avisos-de-liquidacion-por-adjudicacion) [Avisos de procesos de reorganización empresarial](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/avisos-de-procesos-de-reorganizacion-empresarial)
+
+[Procesos de Insolvencia en Juzgados](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/procesos-de-insolvencia-en-juzgados) [Módulo de Insolvencia](https://mi.ia.supersociedades.gov.co/WebData/inicio/0.pub?logout_time) [Informes](https://www.supersociedades.gov.co/es/web/procedimientos-de-insolvencia/informes)
+
+## CW\_Informes\_y\_Publicaciones
+
+  ![Insolvencia en Colombia](https://www.supersociedades.gov.co/documents/20124/546637/BANNER-INSOLVENCIA-EN-COLOMBIA-02092019-01.jpg/99a84701-aa9e-1a05-a193-6faa56d832e5?t=1646956241046)
+
+[![](https://www.supersociedades.gov.co/documents/58444/7802468/1-MINIATURA-INFORME-POWER-BI-SOLICITUDES.jpg/)](https://app.powerbi.com/view?r=eyJrIjoiNDJlNGRmOGItMmU1NS00ZTYyLWFiMGEtODg0MTEzNzI2MDZjIiwidCI6IjZlZTk0YzM0LWJiZDYtNDY0Ny1hNDgzLTBlMTk2YTRkZTBmZiIsImMiOjR9)
+
+Informe Solicitudes
+
+[![](https://www.supersociedades.gov.co/documents/58444/7802468/2-MINIATURA-INFORME-POWER-BI-ADMISIONES.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzYzNzJiY2YtMzc0NC00ZDYzLTgzYjQtNzU2Y2RkODk1OTlmIiwidCI6IjZlZTk0YzM0LWJiZDYtNDY0Ny1hNDgzLTBlMTk2YTRkZTBmZiIsImMiOjR9)
+
+Informe Admisiones
+
+[![](https://www.supersociedades.gov.co/documents/58444/7802468/3-MINIATURA-INFORME-POWER-BI-PROCESOS.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMzU0YjgwZGEtZGNmNi00ZDQzLTg3YmQtMjE1ODQzYjkwNWNlIiwidCI6IjZlZTk0YzM0LWJiZDYtNDY0Ny1hNDgzLTBlMTk2YTRkZTBmZiIsImMiOjR9)
+
+Informe Procesos
+
+#### El Atlas de Insolvencia es una publicación de la Superintendencia de Sociedades que se elabora como parte de su labor misional, con el fin de cuantificar el impacto económico respecto del inventario, las solicitudes y las admisiones de procesos de insolvencia. Por lo tanto, este documento expone en forma detallada el comportamiento de este fenómeno económico de gran relevancia.
+
+La información con la cual se elabora el Atlas de Insolvencia proviene de fuentes públicas, razón por la cual es deber del usuario dar un uso adecuado a la misma dentro del marco de las normas legales. El uso de la información contenida en el Atlas de Insolvencia se realiza bajo exclusiva responsabilidad del usuario, por lo que la Superintendencia de Sociedades no será responsable por el uso que de la misma realice el usuario ni de los perjuicios que se llegaren a irrogar a éste como a terceros por el uso de la información contenida en el Atlas.
+
+A su vez, se advierte a los usuarios que la información que se publica en el Atlas de Insolvencia presenta variaciones en su contenido, en atención a la continua actualización de datos que se realiza por parte de la Entidad con una periodicidad mensual.
+
+## iFrame
+
+Glosario
+
+1.  Ley 1116 de 2006: Ley de la República en virtud de la cual se establece el Régimen de Insolvencia Empresarial.
+
+2.  Reorganización: Es el proceso que pretende a través de un acuerdo de reorganización, preservar empresas viables y normalizar sus relaciones comerciales y crediticias, mediante su reestructuración operacional, administrativa, de activos o pasivos. Durante el proceso de reorganización, la sociedad mantiene sus órganos de dirección y administración.
+
+3.  Liquidación judicial: Es el proceso que persigue la liquidación pronta y ordenada, buscando el aprovechamiento del patrimonio del deudor.
+
+4.  Acuerdo de Reorganización: Convenio celebrado por los acreedores internos y externos en los que se establecen nuevas condiciones para la atención de los pasivos del deudor anteriores a la fecha de admisión al proceso de reorganización, con el fin de lograr la recuperación y conservación de la empresa como unidad de explotación económica y fuente generadora de empleo.
+
+5.  Promotor: Es la persona natural o jurídica que participa en la negociación, el análisis, el diagnóstico, la elaboración del plan de negocios y del acuerdo de reorganización, así como en la emisión o difusión de la información financiera, administrativa, contable o de orden legal de la entidad en proceso de reorganización, y quien ejerce las demás funciones previstas en la ley, sin ser coadministrador, salvo cuando se trate del representante legal con funciones de promotor. La intervención del promotor en las audiencias del proceso de reorganización es indelegable.
+
+6.  Liquidador: Es la persona natural o jurídica que actúa como administrador y representante legal de la entidad en proceso de liquidación. El liquidador deberá cumplir las cargas, deberes y responsabilidades propias de los administradores, de conformidad con las normas vigentes y así como las de auxiliar de la justicia.
+
+    Los promotores y liquidadores se seleccionan y designan de la lista de auxiliares de la justicia elaborada y administrada por la Superintendencia de la Sociedades, con excepción de los representantes legales o las personas naturales comerciantes y no comerciantes que se nombran como promotores.
+
+7.  Categorías por activos: De conformidad con el monto de activos de la sociedad o persona en proceso de reorganización o liquidación, el artículo 2.2.2.11.2.6 del Decreto 1074 de 2015 establece las siguientes categorías:
+
+    Categorías
+
+    Activos en Unidades
+    de Valor Tributario - UVT
+
+    A
+
+    Más de 1.184.085,9
+
+    B
+
+    Más de 263.130,2 y hasta 1.184.085,9
+
+    C
+
+    Hasta 263.130,2
+
+    Se considerará que la entidad en proceso de reorganización o liquidación pertenece a la categoría A, sin consideración al valor de sus activos, en cualquiera de los siguientes casos:
+
+    -   Cuando el pasivo pensional represente más de la cuarta parte de su pasivo total;
+    -   Cuando el cálculo actuarial represente más de la cuarta parte de su pasivo total;
+    -   En casos de insolvencia transfronteriza.
+8.  Personas sometidas al régimen de insolvencia: De acuerdo con lo establecido en el artículo 2 de la Ley 1116 de 2006, estarán sometidas al régimen de insolvencia:
+
+    -   Las personas naturales comerciantes.
+    -   Las jurídicas no excluidas de la aplicación del mismo, que realicen negocios permanentes en el territorio nacional, de carácter privado o mixto.
+    -   Las sucursales de sociedades extranjeras.
+    -   Los patrimonios autónomos afectos a la realización de actividades empresariales.
+
+Base de Datos Insolvencia
+
+## Listado Documentos
+
+#### [2026](#collapse9506465)
+
+![Base-Soporte-Insolvencia-2026-CORTE-ABRIL.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 575 Kb
+
+[Base-Soporte-Insolvencia-2026-CORTE-ABRIL.xlsx](https://www.supersociedades.gov.co/documents/58444/9506465/Base-Soporte-Insolvencia-2026-CORTE-ABRIL.xlsx/f894d1f1-c461-eddf-fce5-91d03fb1896c?version=1.0&t=1778015777077)
+
+Publicación: 05 may 2026 | Expedición 05 may 2026
+
+![Base-Soporte-Insolvencia-2026-CORTE-MARZO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 573 Kb
+
+[Base-Soporte-Insolvencia-2026-CORTE-MARZO.xlsx](https://www.supersociedades.gov.co/documents/58444/9506465/Base-Soporte-Insolvencia-2026-CORTE-MARZO.xlsx/99a2ecca-c8f2-9fbd-879a-5b644f137c26?version=1.0&t=1775586346450)
+
+Publicación: 07 abr 2026 | Expedición 07 abr 2026
+
+![Base-Soporte-Insolvencia-2026-CORTE-FEBRERO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 572 Kb
+
+[Base-Soporte-Insolvencia-2026-CORTE-FEBRERO.xlsx](https://www.supersociedades.gov.co/documents/58444/9506465/Base-Soporte-Insolvencia-2026-CORTE-FEBRERO.xlsx/ce73d912-6cb3-2328-edd3-34273b313a2b?version=1.0&t=1772547505355)
+
+Publicación: 03 mar 2026 | Expedición 03 mar 2026
+
+![Base-Soporte-Insolvencia-2026-CORTE-ENERO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 571 Kb
+
+[Base-Soporte-Insolvencia-2026-CORTE-ENERO.xlsx](https://www.supersociedades.gov.co/documents/58444/9506465/Base-Soporte-Insolvencia-2026-CORTE-ENERO.xlsx/41222c16-82d5-2357-9846-e17143f1f8f1?version=1.0&t=1770155055506)
+
+Publicación: 03 feb 2026 | Expedición 03 feb 2026
+
+#### [2025](#collapse8332056)
+
+![Base-Soporte-Insolvencia-2025-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 555 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-DICIEMBRE.xlsx/b3b136e2-234a-d640-c79e-5ab0af1fd4c9?version=1.0&t=1767619414849)
+
+Publicación: 05 ene 2026 | Expedición 05 ene 2026
+
+![Base-Soporte-Insolvencia-2025-CORTE-NOVIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 563 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-NOVIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-NOVIEMBRE.xlsx/a7d957b4-ce48-add2-9b17-a9bf457046f6?version=1.0&t=1765326372371)
+
+Publicación: 09 dic 2025 | Expedición 09 dic 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-OCTUBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 561 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-OCTUBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-OCTUBRE.xlsx/e159c102-aa55-7bc0-9239-729be2fa0bd9?version=1.0&t=1762350342089)
+
+Publicación: 05 nov 2025 | Expedición 05 nov 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 563 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-SEPTIEMBRE.xlsx/4be4d81f-d8a7-ca4d-cd6e-7999daa1b08a?version=2.0&t=1760967473131)
+
+Publicación: 02 oct 2025 | Expedición 20 oct 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-AGOSTO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 1018 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-AGOSTO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-AGOSTO.xlsx/54f00498-28ca-9e8a-f3c3-618658f3da39?version=1.0&t=1756824926208)
+
+Publicación: 02 sep 2025 | Expedición 02 sep 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-JULIO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 553 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-JULIO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-JULIO.xlsx/5b78cf66-7905-7650-edf1-fa4848b44f6c?version=1.0&t=1754405793365)
+
+Publicación: 05 ago 2025 | Expedición 05 ago 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-JUNIO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 546 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-JUNIO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-JUNIO.xlsx/1ab548bd-f552-88cc-dab2-f625e141122b?version=1.0&t=1751464239658)
+
+Publicación: 02 jul 2025 | Expedición 02 jul 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-MAYO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 544 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-MAYO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-MAYO.xlsx/aa2baa94-93d6-2084-c032-0b56d5037547?version=2.0&t=1749152224454)
+
+Publicación: 21 may 2025 | Expedición 05 jun 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-ABRIL.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 539 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-ABRIL.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-ABRIL.xlsx/4c4b9fc7-2411-06cc-415c-e2029ffdcd8d?version=1.0&t=1746222372189)
+
+Publicación: 02 may 2025 | Expedición 02 may 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-MARZO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 529 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-MARZO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-MARZO.xlsx/0b77ee69-1c69-8201-71bb-c0aec1b8eb0a?version=1.0&t=1743536062600)
+
+Publicación: 01 abr 2025 | Expedición 01 abr 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-FEBRERO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 518 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-FEBRERO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-FEBRERO.xlsx/02f4476a-1c5d-3033-ef52-6b47e6676f1d?version=1.0&t=1741200824232)
+
+Publicación: 05 mar 2025 | Expedición 05 mar 2025
+
+![Base-Soporte-Insolvencia-2025-CORTE-ENERO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 501 Kb
+
+[Base-Soporte-Insolvencia-2025-CORTE-ENERO.xlsx](https://www.supersociedades.gov.co/documents/58444/8332056/Base-Soporte-Insolvencia-2025-CORTE-ENERO.xlsx/cc72e685-ee2e-393f-7400-a3c84783786a?version=1.0&t=1738613458576)
+
+Publicación: 03 feb 2025 | Expedición 03 feb 2025
+
+#### [2024](#collapse7803983)
+
+![Base-Soporte-Insolvencia-2024-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 515 Kb
+
+[Base-Soporte-Insolvencia-2024-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/7803983/Base-Soporte-Insolvencia-2024-CORTE-DICIEMBRE.xlsx/a5476d0a-46fe-c53f-ea36-417c206c1838?version=1.1&t=1735911388000)
+
+Base Soporte Insolvencia 2024 CORTE DICIEMBRE
+
+Publicación: 03 ene 2025 | Expedición 03 ene 2025
+
+![Base-Soporte-Insolvencia-2024-CORTE-NOVIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 503 Kb
+
+[Base-Soporte-Insolvencia-2024-CORTE-NOVIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/7803983/Base-Soporte-Insolvencia-2024-CORTE-NOVIEMBRE.xlsx/f8888a75-0fe1-504d-647c-c2437743570c?version=1.0&t=1733147141091)
+
+Base Soporte Insolvencia 2024 CORTE NOVIEMBRE
+
+Publicación: 02 dic 2024 | Expedición 02 dic 2024
+
+![Base-Soporte-Insolvencia-2024-CORTE-OCTUBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 501 Kb
+
+[Base-Soporte-Insolvencia-2024-CORTE-OCTUBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/7803983/Base-Soporte-Insolvencia-2024-CORTE-OCTUBRE.xlsx/c4f5e47a-e4fb-d955-5c5b-38c9a35957f6?version=1.1&t=1733147170667)
+
+Base Soporte Insolvencia 2024 CORTE OCTUBRE
+
+Publicación: 07 nov 2024 | Expedición 02 dic 2024
+
+![Base-Soporte-Insolvencia-2024-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 496 Kb
+
+[Base-Soporte-Insolvencia-2024-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/7803983/Base-Soporte-Insolvencia-2024-CORTE-SEPTIEMBRE.xlsx/5a7bfb07-9c38-5507-eb0f-0930c35f3042?version=1.1&t=1733147205059)
+
+Base Soporte Insolvencia 2024 CORTE SEPTIEMBRE
+
+Publicación: 02 oct 2024 | Expedición 02 dic 2024
+
+![Base-Soporte-Insolvencia-2024-CORTE-AGOSTO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 500 Kb
+
+[Base-Soporte-Insolvencia-2024-CORTE-AGOSTO.xlsx](https://www.supersociedades.gov.co/documents/58444/7803983/Base-Soporte-Insolvencia-2024-CORTE-AGOSTO.xlsx/a94f5745-290f-1f4c-490c-6a2ed5dc4d7a?version=1.1&t=1725574310353)
+
+Base Soporte Insolvencia 2024 CORTE AGOSTO
+
+Publicación: 03 Sep 2024 | Expedición 03 Sep 2024
+
+![Base-Soporte-Insolvencia-2024-CORTE-JULIO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 500 Kb
+
+[Base-Soporte-Insolvencia-2024-CORTE-JULIO.xlsx](https://www.supersociedades.gov.co/documents/58444/7803983/Base-Soporte-Insolvencia-2024-CORTE-JULIO.xlsx/2927259f-45e3-24ea-9f53-a76e48b3ec26?version=3.0&t=1725573681147)
+
+Base Soporte Insolvencia 2024 CORTE JULIO
+
+Publicación: 21 Ago 2024 | Expedición 31 Jul 2024
+
+#### [2023](#collapse6515839)
+
+![BASE-SOPORTE-INSOLVENCIA-2023-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 485 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2023-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/6515839/BASE-SOPORTE-INSOLVENCIA-2023-CORTE-DICIEMBRE.xlsx/4e32b9f3-5c45-b1a8-8606-a431fb3f21a3?version=1.1&t=1724249141759)
+
+BASE-SOPORTE-INSOLVENCIA-2023-CORTE-DICIEMBRE
+
+Publicación: 20 mar 2024 | Expedición 21 ago 2024
+
+![BASE-SOPORTE-INSOLVENCIA-2023-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 474 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2023-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/6515839/BASE-SOPORTE-INSOLVENCIA-2023-CORTE-SEPTIEMBRE.xlsx/d9521df0-4645-46f0-502d-6d2efaf17b9e?version=1.1&t=1724249113040)
+
+BASE-SOPORTE-INSOLVENCIA-2023-CORTE-SEPTIEMBRE
+
+Publicación: 04 ene 2024 | Expedición 21 ago 2024
+
+![BASE-SOPORTE-INSOLVENCIA-2023-CORTE-JUNIO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 467 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2023-CORTE-JUNIO.xlsx](https://www.supersociedades.gov.co/documents/58444/6515839/BASE-SOPORTE-INSOLVENCIA-2023-CORTE-JUNIO.xlsx/05219303-041a-07c0-0cc2-69546c210859?version=1.2&t=1701787467931)
+
+BASE-SOPORTE-INSOLVENCIA-2023-CORTE-JUNIO
+
+Publicación: 05 dic 2023 | Expedición 05 dic 2023
+
+![BASE-SOPORTE-INSOLVENCIA-2023-CORTE-MARZO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 463 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2023-CORTE-MARZO.xlsx](https://www.supersociedades.gov.co/documents/58444/6515839/BASE-SOPORTE-INSOLVENCIA-2023-CORTE-MARZO.xlsx/17572852-3c24-82fb-4f16-75278b09e9ba?version=1.1&t=1694026326921)
+
+BASE-SOPORTE-INSOLVENCIA-2023-CORTE-MARZO
+
+Publicación: 06 sep 2023 | Expedición 06 sep 2023
+
+#### [2022](#collapse6515849)
+
+![Base-datos-insolvencia-2022-trimestre-1.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 423 Kb
+
+[Base-datos-insolvencia-2022-trimestre-1.xlsx](https://www.supersociedades.gov.co/documents/58444/6515849/Base-datos-insolvencia-2022-trimestre-1.xlsx/e7ff4568-9416-c4b8-3e7e-7221988b7163?version=1.1&t=1724249223702)
+
+Base de datos Insolvencia - 2022 trimestre 1 (marzo)
+
+Publicación: 10 oct 2022 | Expedición 21 ago 2024
+
+![BASE-SOPORTE-INSOLVENCIA-2022-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 452 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2022-CORTE-DICIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/6515849/BASE-SOPORTE-INSOLVENCIA-2022-CORTE-DICIEMBRE.xlsx/193a9c81-3986-ed94-af98-cdc8ac6c68a9?version=1.0&t=1694026647657)
+
+Base de datos Insolvencia - 2022 trimestre 4 (diciembre)
+
+Publicación: 26 jul 2023 | Expedición 06 sep 2023
+
+![BASE-SOPORTE-INSOLVENCIA-2022-CORTE-JUNIO.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 429 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2022-CORTE-JUNIO.xlsx](https://www.supersociedades.gov.co/documents/58444/6515849/BASE-SOPORTE-INSOLVENCIA-2022-CORTE-JUNIO.xlsx/40803c67-7f2b-dca8-323c-8fff6de530e4?version=1.2&t=1694027135943)
+
+Base de datos Insolvencia - 2022 trimestre 2 (junio) BASE SOPORTE INSOLVENCIA 2022 CORTE JUNIO
+
+Publicación: 20 dic 2022 | Expedición 06 sep 2023
+
+![BASE-SOPORTE-INSOLVENCIA-2022-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 435 Kb
+
+[BASE-SOPORTE-INSOLVENCIA-2022-CORTE-SEPTIEMBRE.xlsx](https://www.supersociedades.gov.co/documents/58444/6515849/BASE-SOPORTE-INSOLVENCIA-2022-CORTE-SEPTIEMBRE.xlsx/4c6f1c12-9414-774c-64e2-03e09ea51a51?version=1.1&t=1694027021629)
+
+Base de datos Insolvencia - 2022 trimestre 3 (septiembre) BASE SOPORTE INSOLVENCIA 2022 CORTE SEPTIEMBRE
+
+Publicación: 21 dic 2022 | Expedición 06 sep 2023
+
+#### [2021](#collapse6516010)
+
+![Base-datos-insolvencia-2022-trimestre-1.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 431 Kb
+
+[Base-datos-insolvencia-2022-trimestre-1.xlsx](https://www.supersociedades.gov.co/documents/58444/6516010/Base-datos-insolvencia-2022-trimestre-1.xlsx/4ea91b29-f0f1-8de6-5723-6e0d19cfbc9d?version=1.1&t=1694028374510)
+
+Nro NIT NOMBRE REGIONAL DEPARTAMENTO CIUDAD
+
+Publicación: 08 oct 2022 | Expedición 06 sep 2023
+
+![Base-datos-insolvencia-diciembre-2021.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 419 Kb
+
+[Base-datos-insolvencia-diciembre-2021.xlsx](https://www.supersociedades.gov.co/documents/58444/6516010/Base-datos-insolvencia-diciembre-2021.xlsx/ffbd0733-6430-c60e-d454-6a47367b6ecd?version=1.0&t=1694028376290)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+![Base-datos-insolvencia-junio-2021.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 417 Kb
+
+[Base-datos-insolvencia-junio-2021.xlsx](https://www.supersociedades.gov.co/documents/58444/6516010/Base-datos-insolvencia-junio-2021.xlsx/fc372230-b500-8eb1-6ac2-5fcbaa18418f?version=1.0&t=1694028433739)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+![Base-datos-insolvencia-septiembre-2021.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 426 Kb
+
+[Base-datos-insolvencia-septiembre-2021.xlsx](https://www.supersociedades.gov.co/documents/58444/6516010/Base-datos-insolvencia-septiembre-2021.xlsx/10ff3123-dcef-abfa-eea5-5c1e5dc7aa80?version=1.0&t=1694028397666)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+#### [2020](#collapse6516168)
+
+![BASE\_SOPORTE\_INSOLVENCIA\_JUN\_2020.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 345 Kb
+
+[BASE\_SOPORTE\_INSOLVENCIA\_JUN\_2020.xlsx](https://www.supersociedades.gov.co/documents/58444/6516168/BASE_SOPORTE_INSOLVENCIA_JUN_2020.xlsx/d9b8d5ec-7d23-7579-7b6a-13023958b62f?version=1.0&t=1694033472440)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+![BASE\_SOPORTE\_INSOLVENCIA\_MAR\_2020.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 351 Kb
+
+[BASE\_SOPORTE\_INSOLVENCIA\_MAR\_2020.xlsx](https://www.supersociedades.gov.co/documents/58444/6516168/BASE_SOPORTE_INSOLVENCIA_MAR_2020.xlsx/2353b53d-0b4a-4317-baba-98c57eb3a542?version=1.0&t=1694033361992)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+![BASE\_SOPORTE\_INSOLVENCIA\_SEP\_2020.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 382 Kb
+
+[BASE\_SOPORTE\_INSOLVENCIA\_SEP\_2020.xlsx](https://www.supersociedades.gov.co/documents/58444/6516168/BASE_SOPORTE_INSOLVENCIA_SEP_2020.xlsx/ffeb2f14-5607-73c6-8591-ef2ee9f1fc94?version=1.0&t=1694033963280)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+#### [2019](#collapse6516407)
+
+![BASE\_SOPORTE\_INSOLVENCIA\_DIC\_2019.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 341 Kb
+
+[BASE\_SOPORTE\_INSOLVENCIA\_DIC\_2019.xlsx](https://www.supersociedades.gov.co/documents/58444/6516407/BASE_SOPORTE_INSOLVENCIA_DIC_2019.xlsx/4b4c0c48-4f23-3cc6-35df-df2b329679fb?version=1.0&t=1694034011022)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+![Base-Insolvencia.xlsx](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 322 Kb
+
+[Base-Insolvencia.xlsx](https://www.supersociedades.gov.co/documents/58444/6516407/Base-Insolvencia.xlsx/11f8e086-bf60-6a8b-6b30-86579f1ae6c0?version=1.0&t=1694033998484)
+
+Publicación: 10 oct 2022 | Expedición 06 sep 2023
+
+Atlas de Insolvencia - Histórico
+
+2023
+
+[![](https://www.supersociedades.gov.co/documents/58444/3165637/Atlas-de-insolvencia.png/83ba844d-8db2-9853-99aa-6ec190630f03?t=1690406934395&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-2023-corte-diciembre.pdf)
+
+Atlas de Insolvencia en Colombia
+Corte de Diciembre de 2023
+
+[![](https://www.supersociedades.gov.co/documents/58444/3165637/Atlas-de-insolvencia.png/83ba844d-8db2-9853-99aa-6ec190630f03?t=1690406934395&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-2023-corte-septiembre.pdf)
+
+Atlas de Insolvencia en Colombia
+Corte de Septiembre de 2023
+
+[![](https://www.supersociedades.gov.co/documents/58444/3165637/Atlas-de-insolvencia.png/83ba844d-8db2-9853-99aa-6ec190630f03?t=1690406934395&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-2023-corte-junio.pdf)
+
+Atlas de Insolvencia en Colombia
+Corte de Junio de 2023
+
+[![](https://www.supersociedades.gov.co/documents/58444/3165637/Atlas-de-insolvencia.png/83ba844d-8db2-9853-99aa-6ec190630f03?t=1690406934395&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-corte-marzo-2023.pdf)
+
+Atlas de Insolvencia en Colombia
+
+Corte de Marzo de 2023
+
+2022
+
+[![](https://www.supersociedades.gov.co/documents/58444/3165637/Atlas-de-insolvencia.png)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-2022-corte-diciembre.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Diciembre de 2022
+
+[![Atlas de Insolvencia en Colombia   Trimestre I de 2022](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-2022-corte-septiembre.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Septiembre de 2022
+
+[![Atlas de Insolvencia en Colombia   Trimestre I de 2022](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-2022-corte-junio.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Junio de 2022
+
+[![Atlas de Insolvencia en Colombia   Trimestre I de 2022](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/atlas-insolvencia-2022-trimestre-1.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Marzo de 2022
+
+2021
+
+[![Atlas de Insolvencia en Colombia Corte de Diciembre de 2021](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-corte-diciembre-2021.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Diciembre de 2021
+
+[![](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-corte-septiembre-2021.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Septiembre de 2021
+
+[![Atlas de Insolvencia en Colombia   Trimestre I de 2022](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-Junio-2021.pdf)
+
+Atlas de Insolvencia en Colombia Corte Junio de 2021
+ 
+
+2020
+
+[![Atlas de Insolvencia en Colombia Corte de Diciembre de 2020](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/ATLAS-INSOLVENCIA-CORTE-DIC-2020.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Diciembre de 2020
+
+[![Atlas de Insolvencia en Colombia Corte de Septiembre de 2020](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/AtlasSep2020.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Septiembre de 2020
+
+[![Atlas de Insolvencia en Colombia   Trimestre I de 2022](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-corte-junio-2020.pdf)
+
+Atlas de Insolvencia en Colombia Corte Junio de 2020
+
+[![Atlas de Insolvencia en Colombia Corte de Diciembre de 2020](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas-Insolvencia-Primer-Trimestre-de-2020.pdf)
+
+Atlas de Insolvencia en Colombia Corte de Marzo de 2020
+
+2019
+
+[![](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas_Diciembre_2019_PDF.pdf/b4541478-f0f7-a95b-a1e6-93ec189436eb?t=1671142314426)
+
+Atlas de Insolvencia en Colombia Corte Diciembre de 2019
+
+[![](https://www.supersociedades.gov.co/documents/58444/0/Atlas%281%29%281%29%281%29.png/7f3a23dc-777f-2aeb-9730-7c21f1843596?t=1671141934666&download=true)](https://www.supersociedades.gov.co/documents/58444/4376286/Atlas+de+Insolvencia-jun-2019.pdf/dfa83595-ad2c-9a0f-f415-db12e1cdddfa?t=1671142336596)
+
+Atlas de Insolvencia en Colombia Corte de Junio de 2019

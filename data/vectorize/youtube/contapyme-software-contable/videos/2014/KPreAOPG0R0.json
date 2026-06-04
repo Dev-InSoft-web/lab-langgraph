@@ -1,0 +1,933 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:23:13.902Z",
+  "videoId": "KPreAOPG0R0",
+  "videoUrl": "https://www.youtube.com/watch?v=KPreAOPG0R0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "KPreAOPG0R0",
+    "title": "ContaExcel Add In - Seminario NIIF Súper Fáciles",
+    "fulltitle": "ContaExcel Add In - Seminario NIIF Súper Fáciles",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 584,
+    "duration_string": "9:44",
+    "upload_date": "20141118",
+    "timestamp": 1416337153,
+    "view_count": 152,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBj2-maI-yNmZiwKmjq3uKD-Y_Cg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUN6Xn3qpGb5LiluurfXXUzXQy5A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHlc6NUgrUUzWDFqaG6Ezf4qLb2w",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXUFjeCdBjIRFdkiU_InAdNsQYlA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KPreAOPG0R0/maxresdefault.jpg",
+        "height": 720,
+        "width": 1280,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1280x720"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KPreAOPG0R0/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "41",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=KPreAOPG0R0",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17123287671232876,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20205479452054795,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20205479452054795,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 24,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 200.865,
+        "asr": 44100,
+        "filesize_approx": 14665003,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "ContaExcel Add In - Seminario NIIF Súper Fáciles",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/KPreAOPG0R0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/KPreAOPG0R0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"ContaExcel Add In - Seminario NIIF Súper Fáciles\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 108,
+    "transcriptChars": 7946,
+    "segments": [
+      {
+        "text": "díaz para todas las personas que se conectan el día de hoy para este",
+        "startMs": 0,
+        "durationMs": 3320
+      },
+      {
+        "text": "seminario virtual nit super fáciles en esta ocasión les voy a presentar una",
+        "startMs": 3320,
+        "durationMs": 5910
+      },
+      {
+        "text": "gran herramienta que se utilizan en conjunto con el sistema con está pyme y",
+        "startMs": 9230,
+        "durationMs": 10040
+      },
+      {
+        "text": "una herramienta que podemos utilizar directamente desde excel entonces los",
+        "startMs": 19280,
+        "durationMs": 5840
+      },
+      {
+        "text": "podamos ver brevemente cómo funciona esta gran herramienta",
+        "startMs": 25120,
+        "durationMs": 4100
+      },
+      {
+        "text": "contex el jardín es un complemento que se adiciona a microsoft excel con el",
+        "startMs": 29220,
+        "durationMs": 6450
+      },
+      {
+        "text": "cual a través de más de 200 funciones especializadas podemos acceder a toda la",
+        "startMs": 35670,
+        "durationMs": 6570
+      },
+      {
+        "text": "información que tenemos almacenada en nuestro sistema con tap in y desde el",
+        "startMs": 42240,
+        "durationMs": 5670
+      },
+      {
+        "text": "entorno de trabajo y las posibilidades y todas las utilidades que nos brinda",
+        "startMs": 47910,
+        "durationMs": 4530
+      },
+      {
+        "text": "excel podemos construir informes a la medida podemos realizar gráficos tablas",
+        "startMs": 52440,
+        "durationMs": 6150
+      },
+      {
+        "text": "dinámicas entre otras muchas funcionalidades que nos brinda con está",
+        "startMs": 58590,
+        "durationMs": 4830
+      },
+      {
+        "text": "excel hay en cómo funciona contexto desde el excel teniendo instalado conta",
+        "startMs": 63420,
+        "durationMs": 7860
+      },
+      {
+        "text": "excel line tenemos total interacción con los diferentes catálogos del sistema y a",
+        "startMs": 71280,
+        "durationMs": 5700
+      },
+      {
+        "text": "través de las más de 200 funciones podemos acceder directamente a la",
+        "startMs": 76980,
+        "durationMs": 5400
+      },
+      {
+        "text": "información que tenemos registrada y procesada en nuestra base de datos y",
+        "startMs": 82380,
+        "durationMs": 5400
+      },
+      {
+        "text": "extraer la información necesaria para ser presentada acá en excel",
+        "startMs": 87780,
+        "durationMs": 4920
+      },
+      {
+        "text": "por ejemplo si yo desde excel quiero consultar el saldo de una cuenta por",
+        "startMs": 92700,
+        "durationMs": 5250
+      },
+      {
+        "text": "ejemplo quiero consultar el saldo de la cuenta",
+        "startMs": 97950,
+        "durationMs": 2510
+      },
+      {
+        "text": "cuenta 11/05/10 esta petición es realizada a la",
+        "startMs": 100460,
+        "durationMs": 4270
+      },
+      {
+        "text": "base de datos de contacto la cual procesa y totaliza esos registros y",
+        "startMs": 104730,
+        "durationMs": 6480
+      },
+      {
+        "text": "retorna una respuesta que es presentada en excel esta herramienta es",
+        "startMs": 111210,
+        "durationMs": 5700
+      },
+      {
+        "text": "especialmente diseñada y pensada para gerentes contadores analistas y en",
+        "startMs": 116910,
+        "durationMs": 6180
+      },
+      {
+        "text": "general para personas inquietas que quieren desarrollar sus propios modelos",
+        "startMs": 123090,
+        "durationMs": 4260
+      },
+      {
+        "text": "o sus propios informes en excel haciendo uso de las propias funciones de excel",
+        "startMs": 127350,
+        "durationMs": 5090
+      },
+      {
+        "text": "sumadas a las de contex zelaya qué tipo de información por ejemplo",
+        "startMs": 132440,
+        "durationMs": 5830
+      },
+      {
+        "text": "podemos consultar las funciones de conta excel están diseñadas para ser",
+        "startMs": 138270,
+        "durationMs": 5670
+      },
+      {
+        "text": "utilizadas de la misma manera que utilizamos las funciones de excel pero",
+        "startMs": 143940,
+        "durationMs": 5520
+      },
+      {
+        "text": "agregándole más funciones para acceder a la información que tenemos en los",
+        "startMs": 149460,
+        "durationMs": 4409
+      },
+      {
+        "text": "diferentes modelos de contacto por ejemplo módulo de contabilidad",
+        "startMs": 153869,
+        "durationMs": 5501
+      },
+      {
+        "text": "allí podemos tener funciones que nos muestre por ejemplo el valor los saldos",
+        "startMs": 159370,
+        "durationMs": 5940
+      },
+      {
+        "text": "de las cuentas movimientos de cuentas naturaleza de las cuentas nombre de",
+        "startMs": 165310,
+        "durationMs": 5610
+      },
+      {
+        "text": "cuenta tipo de cuenta entre muchas más para el módulo de cartera de proveedores",
+        "startMs": 170920,
+        "durationMs": 4640
+      },
+      {
+        "text": "podemos hacer consultas por ejemplo de cartera por edades movimiento de cuentas",
+        "startMs": 175560,
+        "durationMs": 6010
+      },
+      {
+        "text": "por terceros o saldos de cuentas por terceros para el módulo de activos fijos",
+        "startMs": 181570,
+        "durationMs": 5460
+      },
+      {
+        "text": "podemos consultar por ejemplo kahn díaz o histórico calcular la",
+        "startMs": 187030,
+        "durationMs": 7240
+      },
+      {
+        "text": "depreciación o obtener también podemos obtener el valor del activo",
+        "startMs": 194270,
+        "durationMs": 5880
+      },
+      {
+        "text": "funciones muy útiles por ejemplo para consultar consumos entradas existencias",
+        "startMs": 203870,
+        "durationMs": 6570
+      },
+      {
+        "text": "de un elemento salidas del inventario movimientos consultar el costo promedio",
+        "startMs": 210440,
+        "durationMs": 5790
+      },
+      {
+        "text": "ponderado los costos de las ventas entre otras muchas funciones que están",
+        "startMs": 216230,
+        "durationMs": 4890
+      },
+      {
+        "text": "disponibles para este módulo de inventarios para el módulo de",
+        "startMs": 221120,
+        "durationMs": 4110
+      },
+      {
+        "text": "actividades y labores por ejemplo podemos consultar cantidades de labor",
+        "startMs": 225230,
+        "durationMs": 4080
+      },
+      {
+        "text": "cantidad de mano de obra o costo de labor para los centros de costos podemos",
+        "startMs": 200150,
+        "durationMs": 34830
+      },
+      {
+        "text": "calcular por ejemplo cantidad de área población unidades y para las fechas y",
+        "startMs": 234980,
+        "durationMs": 7140
+      },
+      {
+        "text": "las variables de entorno que son muy utilizadas por ejemplo cuando uno va a",
+        "startMs": 242120,
+        "durationMs": 4710
+      },
+      {
+        "text": "elaborar un informe en contexto digamos que en el encabezado o no utiliza estas",
+        "startMs": 246830,
+        "durationMs": 4350
+      },
+      {
+        "text": "variables para poner por ejemplo las fechas nombres de los meses el nombre de",
+        "startMs": 251180,
+        "durationMs": 5190
+      },
+      {
+        "text": "la área de trabajo o de la empresa en la cual estoy consultando esa información",
+        "startMs": 256370,
+        "durationMs": 6370
+      },
+      {
+        "text": "entonces pasemos directamente a conta excel para que veamos con un breve",
+        "startMs": 262740,
+        "durationMs": 5850
+      },
+      {
+        "text": "ejemplo cómo funciona context y laden entonces estamos en contactos el cierto",
+        "startMs": 268590,
+        "durationMs": 6810
+      },
+      {
+        "text": "ya tenemos instalada nuestro contexto el que lo utilizamos por medio de excel y",
+        "startMs": 275400,
+        "durationMs": 4410
+      },
+      {
+        "text": "estamos conectados a una base de datos de contacto donde tenemos nuestra",
+        "startMs": 279810,
+        "durationMs": 4440
+      },
+      {
+        "text": "información entonces vamos a hacer un pequeño ejemplo para que ustedes vean",
+        "startMs": 284250,
+        "durationMs": 3840
+      },
+      {
+        "text": "cómo lo como cómo funciona entonces por ejemplo voy a traer el nombre de mi",
+        "startMs": 288090,
+        "durationMs": 6300
+      },
+      {
+        "text": "empresa voy a utilizar una función de contar excel entonces todas las",
+        "startMs": 294390,
+        "durationMs": 4590
+      },
+      {
+        "text": "funciones de excel empiezan con el igual las de context él también y vamos a",
+        "startMs": 298980,
+        "durationMs": 4110
+      },
+      {
+        "text": "decir que nos muestre el nombre de la empresa",
+        "startMs": 303090,
+        "durationMs": 5280
+      },
+      {
+        "text": "empresa y él me trae que mi empresa se llama un",
+        "startMs": 308370,
+        "durationMs": 2130
+      },
+      {
+        "text": "grupo empresarial mp computadores entonces vamos a hacer un ejemplo",
+        "startMs": 310500,
+        "durationMs": 3960
+      },
+      {
+        "text": "sencillo por ejemplo que me muestre la cuenta",
+        "startMs": 314460,
+        "durationMs": 5080
+      },
+      {
+        "text": "y el nombre de la cuenta y el saldo de una cuenta",
+        "startMs": 319540,
+        "durationMs": 8489
+      },
+      {
+        "text": "organicemos acá un poquito y vamos entonces a digitar las cuentas a las que",
+        "startMs": 328039,
+        "durationMs": 6210
+      },
+      {
+        "text": "le quiero consultar cuál es el saldo a esta fecha determinada por ejemplo tengo",
+        "startMs": 334249,
+        "durationMs": 4470
+      },
+      {
+        "text": "que mi fecha de trabajo hasta el 30 de junio entonces yo puedo digitar",
+        "startMs": 338719,
+        "durationMs": 3870
+      },
+      {
+        "text": "directamente acá las cuentas sin hice las cuentas cierto o puede ingresar",
+        "startMs": 342589,
+        "durationMs": 4891
+      },
+      {
+        "text": "directamente desde contacts el ingresar al catálogo de plan de cuentas que tengo",
+        "startMs": 347480,
+        "durationMs": 6780
+      },
+      {
+        "text": "en mi programa con está pyme y llevarlas al excel y el metraje entonces esas",
+        "startMs": 354260,
+        "durationMs": 6239
+      },
+      {
+        "text": "cuentas que yo seleccione vamos a utilizar una función de context el que",
+        "startMs": 360499,
+        "durationMs": 12641
+      },
+      {
+        "text": "arrastramos la fórmula y él me trae el nombre de cada una de mis cuentas según",
+        "startMs": 373150,
+        "durationMs": 5750
+      },
+      {
+        "text": "lo que yo le haya indicado acá ahora vamos a consultar por ejemplo el saldo",
+        "startMs": 378900,
+        "durationMs": 5370
+      },
+      {
+        "text": "de cada una de estas cuentas miren que es la misma forma como como",
+        "startMs": 384270,
+        "durationMs": 5890
+      },
+      {
+        "text": "utilizamos el excel se utilizan de la misma manera sólo que con está excel",
+        "startMs": 390160,
+        "durationMs": 4140
+      },
+      {
+        "text": "tiene muchas más funciones para acceder a toda la información que tenemos",
+        "startMs": 394300,
+        "durationMs": 4170
+      },
+      {
+        "text": "registrada en nuestra base de datos de contacto",
+        "startMs": 398470,
+        "durationMs": 5209
+      },
+      {
+        "startMs": 403689,
+        "durationMs": 4341,
+        "text": "arrastramos la fórmula"
+      },
+      {
+        "text": "y el sistema ya nos muestra que este es el saldo que tenemos a esta fecha a 30",
+        "startMs": 408040,
+        "durationMs": 6620
+      },
+      {
+        "text": "de junio en estas cuentas así mismo así como lo hicimos acá para para unas",
+        "startMs": 414660,
+        "durationMs": 5400
+      },
+      {
+        "text": "cuentas digamos que un ejemplo muy sencillo este ejemplo yo lo puede",
+        "startMs": 420060,
+        "durationMs": 3390
+      },
+      {
+        "text": "obtener en contra pyme cierto acá lo puedo consultar pero digamos que si",
+        "startMs": 423450,
+        "durationMs": 4440
+      },
+      {
+        "text": "ustedes necesitan unos informes ya muy elaborados y hacer unos gráficos de esta",
+        "startMs": 427890,
+        "durationMs": 4170
+      },
+      {
+        "text": "herramienta es ideal para hacer todos esos gráficos que ustedes necesitan o",
+        "startMs": 432060,
+        "durationMs": 4500
+      },
+      {
+        "text": "esas consultas o tablas dinámicas por ejemplo si yo quiero",
+        "startMs": 436560,
+        "durationMs": 6460
+      },
+      {
+        "text": "graficar esta pequeña consulta que yo hice",
+        "startMs": 443020,
+        "durationMs": 2160
+      },
+      {
+        "text": "entonces lo puedo hacer para que veamos la gran herramienta y cómo se puede",
+        "startMs": 445180,
+        "durationMs": 5340
+      },
+      {
+        "text": "utilizar si yo por ejemplo ya tengo esta información pero quiero cambiar mis",
+        "startMs": 450520,
+        "durationMs": 5640
+      },
+      {
+        "text": "cuentas no quiero consultar estas cuentas sino por ejemplo quiero",
+        "startMs": 456160,
+        "durationMs": 3660
+      },
+      {
+        "text": "consultar las puedo editar acá o irme directamente",
+        "startMs": 459820,
+        "durationMs": 5830
+      },
+      {
+        "text": "a mi catálogo de plan de cuentas y yo digo voy a consultar mejor estas cuentas",
+        "startMs": 465650,
+        "durationMs": 9550
+      },
+      {
+        "text": "por ejemplo estás cierto entonces las traigo recálculo y el sistema como todo",
+        "startMs": 475210,
+        "durationMs": 5449
+      },
+      {
+        "text": "está formulado automáticamente me hace los cálculos y me hace los cambios y",
+        "startMs": 480659,
+        "durationMs": 4530
+      },
+      {
+        "text": "entonces miles que miren que es muy sencillo se utiliza de la misma manera",
+        "startMs": 485189,
+        "durationMs": 3601
+      },
+      {
+        "text": "que se utiliza excel pero desde acá desde context el podemos acceder a toda",
+        "startMs": 488790,
+        "durationMs": 4980
+      },
+      {
+        "text": "la información que tenemos registrada en nuestra base de datos de contamine y",
+        "startMs": 493770,
+        "durationMs": 3900
+      },
+      {
+        "text": "armar nuestros informes como nosotros los necesitemos les voy a mostrar por",
+        "startMs": 497670,
+        "durationMs": 4739
+      },
+      {
+        "text": "ejemplo unos que ya están elaborados por acá por ejemplo un balance general",
+        "startMs": 502409,
+        "durationMs": 5551
+      },
+      {
+        "text": "entonces yo le indico con las variables de entorno le dijo la ficha hasta saldo",
+        "startMs": 507960,
+        "durationMs": 5460
+      },
+      {
+        "text": "anterior y puedo elaborar mis informes este mismo informe yo lo puedo obtener",
+        "startMs": 513420,
+        "durationMs": 3750
+      },
+      {
+        "text": "en contra pyme cierto pero por ejemplo un estado de resultados por función éste",
+        "startMs": 517170,
+        "durationMs": 6330
+      },
+      {
+        "text": "lo puedo elaborar yo en cuenta excel traer toda mi información de contacto",
+        "startMs": 523500,
+        "durationMs": 5400
+      },
+      {
+        "text": "para verlo acá en conta excel podemos por ejemplo realizar o elaborar informes",
+        "startMs": 528900,
+        "durationMs": 6360
+      },
+      {
+        "text": "de cartera por edades digamos vencimientos a determinada fecha",
+        "startMs": 535260,
+        "durationMs": 4800
+      },
+      {
+        "text": "informes de ventas que me muestren por ejemplo los costos de las ventas y el",
+        "startMs": 540060,
+        "durationMs": 5200
+      },
+      {
+        "text": "ingreso y la utilidad para yo graficar y por ejemplo darme cuenta que el elemento",
+        "startMs": 545260,
+        "durationMs": 5580
+      },
+      {
+        "text": "me está generando mayor utilidad o si me está generando pérdidas así como estos",
+        "startMs": 550840,
+        "durationMs": 6200
+      },
+      {
+        "text": "estados por ejemplo en este estado resultados por función o un estado de",
+        "startMs": 557040,
+        "durationMs": 4750
+      },
+      {
+        "text": "resultados por naturaleza como estos y muchos más ustedes pueden elaborar",
+        "startMs": 561790,
+        "durationMs": 5330
+      },
+      {
+        "text": "utilizando esta gran herramienta de contex cell si ustedes requieren",
+        "startMs": 567120,
+        "durationMs": 4810
+      },
+      {
+        "text": "entonces mayor información sobre esta herramienta se pueden comunicar con",
+        "startMs": 571930,
+        "durationMs": 5339
+      },
+      {
+        "text": "nosotros en el departamento de soporte o en el departamento comercial para mayor",
+        "startMs": 577269,
+        "durationMs": 8701
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\ndíaz para todas las personas que se conectan el día de hoy para este\nseminario virtual nit super fáciles en esta ocasión les voy a presentar una\ngran herramienta que se utilizan en conjunto con el sistema con está pyme y\nuna herramienta que podemos utilizar directamente desde excel entonces los\npodamos ver brevemente cómo funciona esta gran herramienta\ncontex el jardín es un complemento que se adiciona a microsoft excel con el\ncual a través de más de 200 funciones especializadas podemos acceder a toda la\ninformación que tenemos almacenada en nuestro sistema con tap in y desde el\nentorno de trabajo y las posibilidades y todas las utilidades que nos brinda\nexcel podemos construir informes a la medida podemos realizar gráficos tablas\ndinámicas entre otras muchas funcionalidades que nos brinda con está\nexcel hay en cómo funciona contexto desde el excel teniendo instalado conta\nexcel line tenemos total interacción con los diferentes catálogos del sistema y a\ntravés de las más de 200 funciones podemos acceder directamente a la\ninformación que tenemos registrada y procesada en nuestra base de datos y\nextraer la información necesaria para ser presentada acá en excel\npor ejemplo si yo desde excel quiero consultar el saldo de una cuenta por\nejemplo quiero consultar el saldo de la cuenta\ncuenta 11/05/10 esta petición es realizada a la\nbase de datos de contacto la cual procesa y totaliza esos registros y\nretorna una respuesta que es presentada en excel esta herramienta es\nespecialmente diseñada y pensada para gerentes contadores analistas y en\ngeneral para personas inquietas que quieren desarrollar sus propios modelos\no sus propios informes en excel haciendo uso de las propias funciones de excel\nsumadas a las de contex zelaya qué tipo de información por ejemplo\npodemos consultar las funciones de conta excel están diseñadas para ser\nutilizadas de la misma manera que utilizamos las funciones de excel pero\nagregándole más funciones para acceder a la información que tenemos en los\ndiferentes modelos de contacto por ejemplo módulo de contabilidad\nallí podemos tener funciones que nos muestre por ejemplo el valor los saldos\nde las cuentas movimientos de cuentas naturaleza de las cuentas nombre de\ncuenta tipo de cuenta entre muchas más para el módulo de cartera de proveedores\npodemos hacer consultas por ejemplo de cartera por edades movimiento de cuentas\npor terceros o saldos de cuentas por terceros para el módulo de activos fijos\npodemos consultar por ejemplo kahn díaz o histórico calcular la\ndepreciación o obtener también podemos obtener el valor del activo\nfunciones muy útiles por ejemplo para consultar consumos entradas existencias\nde un elemento salidas del inventario movimientos consultar el costo promedio\nponderado los costos de las ventas entre otras muchas funciones que están\ndisponibles para este módulo de inventarios para el módulo de\nactividades y labores por ejemplo podemos consultar cantidades de labor\ncantidad de mano de obra o costo de labor para los centros de costos podemos\ncalcular por ejemplo cantidad de área población unidades y para las fechas y\nlas variables de entorno que son muy utilizadas por ejemplo cuando uno va a\nelaborar un informe en contexto digamos que en el encabezado o no utiliza estas\nvariables para poner por ejemplo las fechas nombres de los meses el nombre de\nla área de trabajo o de la empresa en la cual estoy consultando esa información\nentonces pasemos directamente a conta excel para que veamos con un breve\nejemplo cómo funciona context y laden entonces estamos en contactos el cierto\nya tenemos instalada nuestro contexto el que lo utilizamos por medio de excel y\nestamos conectados a una base de datos de contacto donde tenemos nuestra\ninformación entonces vamos a hacer un pequeño ejemplo para que ustedes vean\ncómo lo como cómo funciona entonces por ejemplo voy a traer el nombre de mi\nempresa voy a utilizar una función de contar excel entonces todas las\nfunciones de excel empiezan con el igual las de context él también y vamos a\ndecir que nos muestre el nombre de la empresa\nempresa y él me trae que mi empresa se llama un\ngrupo empresarial mp computadores entonces vamos a hacer un ejemplo\nsencillo por ejemplo que me muestre la cuenta\ny el nombre de la cuenta y el saldo de una cuenta\norganicemos acá un poquito y vamos entonces a digitar las cuentas a las que\nle quiero consultar cuál es el saldo a esta fecha determinada por ejemplo tengo\nque mi fecha de trabajo hasta el 30 de junio entonces yo puedo digitar\ndirectamente acá las cuentas sin hice las cuentas cierto o puede ingresar\ndirectamente desde contacts el ingresar al catálogo de plan de cuentas que tengo\nen mi programa con está pyme y llevarlas al excel y el metraje entonces esas\ncuentas que yo seleccione vamos a utilizar una función de context el que\narrastramos la fórmula y él me trae el nombre de cada una de mis cuentas según\nlo que yo le haya indicado acá ahora vamos a consultar por ejemplo el saldo\nde cada una de estas cuentas miren que es la misma forma como como\nutilizamos el excel se utilizan de la misma manera sólo que con está excel\ntiene muchas más funciones para acceder a toda la información que tenemos\nregistrada en nuestra base de datos de contacto\narrastramos la fórmula\ny el sistema ya nos muestra que este es el saldo que tenemos a esta fecha a 30\nde junio en estas cuentas así mismo así como lo hicimos acá para para unas\ncuentas digamos que un ejemplo muy sencillo este ejemplo yo lo puede\nobtener en contra pyme cierto acá lo puedo consultar pero digamos que si\nustedes necesitan unos informes ya muy elaborados y hacer unos gráficos de esta\nherramienta es ideal para hacer todos esos gráficos que ustedes necesitan o\nesas consultas o tablas dinámicas por ejemplo si yo quiero\ngraficar esta pequeña consulta que yo hice\nentonces lo puedo hacer para que veamos la gran herramienta y cómo se puede\nutilizar si yo por ejemplo ya tengo esta información pero quiero cambiar mis\ncuentas no quiero consultar estas cuentas sino por ejemplo quiero\nconsultar las puedo editar acá o irme directamente\na mi catálogo de plan de cuentas y yo digo voy a consultar mejor estas cuentas\npor ejemplo estás cierto entonces las traigo recálculo y el sistema como todo\nestá formulado automáticamente me hace los cálculos y me hace los cambios y\nentonces miles que miren que es muy sencillo se utiliza de la misma manera\nque se utiliza excel pero desde acá desde context el podemos acceder a toda\nla información que tenemos registrada en nuestra base de datos de contamine y\narmar nuestros informes como nosotros los necesitemos les voy a mostrar por\nejemplo unos que ya están elaborados por acá por ejemplo un balance general\nentonces yo le indico con las variables de entorno le dijo la ficha hasta saldo\nanterior y puedo elaborar mis informes este mismo informe yo lo puedo obtener\nen contra pyme cierto pero por ejemplo un estado de resultados por función éste\nlo puedo elaborar yo en cuenta excel traer toda mi información de contacto\npara verlo acá en conta excel podemos por ejemplo realizar o elaborar informes\nde cartera por edades digamos vencimientos a determinada fecha\ninformes de ventas que me muestren por ejemplo los costos de las ventas y el\ningreso y la utilidad para yo graficar y por ejemplo darme cuenta que el elemento\nme está generando mayor utilidad o si me está generando pérdidas así como estos\nestados por ejemplo en este estado resultados por función o un estado de\nresultados por naturaleza como estos y muchos más ustedes pueden elaborar\nutilizando esta gran herramienta de contex cell si ustedes requieren\nentonces mayor información sobre esta herramienta se pueden comunicar con\nnosotros en el departamento de soporte o en el departamento comercial para mayor"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 24,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 200.865,
+    "asr": 44100,
+    "filesizeApprox": 14665003,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2014",
+    "md": "videos/2014/KPreAOPG0R0.md",
+    "json": "videos/2014/KPreAOPG0R0.json",
+    "infoJson": "videos/2014/KPreAOPG0R0.info.json"
+  },
+  "publishYear": "2014"
+}

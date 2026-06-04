@@ -1,0 +1,41 @@
+{
+	"name": "JWT",
+	"description": "Autenticación. Devuelve un token JWT que se guarda en `{{token}}` automáticamente.",
+	"item": [
+		{
+			"name": "POST - JWT",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"let jData = pm.response.json();",
+							"pm.test('Token devuelto', function () {",
+							"    pm.expect(jData?.respuesta?.token, 'Falta respuesta.token').to.be.a('string');",
+							"    pm.environment.set('token', jData.respuesta.token);",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": { "type": "noauth" },
+				"method": "POST",
+				"header": [{ "key": "Content-Type", "value": "application/json" }],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"controlkey\": \"{{CONTROLKEY}}\",\n    \"iapp\": 20104,\n    \"idmaquina\": \"WebPortal\"\n}",
+					"options": { "raw": { "language": "json" } }
+				},
+				"url": {
+					"raw": "{{HOST}}/api/JWT",
+					"host": ["{{HOST}}"],
+					"path": ["api", "JWT"]
+				},
+				"description": "Genera un token JWT a partir de `controlkey + iapp + idmaquina`. El test guarda `respuesta.token` en la variable de entorno `token`."
+			},
+			"response": []
+		}
+	]
+}

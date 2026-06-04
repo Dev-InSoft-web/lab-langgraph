@@ -1,0 +1,29 @@
+// Generado desde Chart.js · tk1431666_tokens_totales
+digraph tk1431666_tokens_totales {
+graph [
+		bgcolor=transparent
+		splines=none
+		pad=0.55
+		sep="+12,10"
+		nodesep=0.18
+		ranksep=0.4
+		fontname="Segoe UI"
+		fontsize=10
+		rankdir=LR
+	]
+node [
+		shape=box
+		style="filled,rounded"
+		fixedsize=true
+		height=0.44
+		margin="0.22,0.11"
+		color="#808080B3"
+		fontcolor="#3A3A3AE6"
+		fontsize=8
+	]
+	title [shape=plaintext, label="Reducción 41% en tokens de instrucción reinyectada por turno", fontcolor="#1E90FFD9", fontsize=11]
+	{ rank=same; b0; b1; }
+	b0 [label="Instrucciones Base (13 tipos)\n23.520", width=2.500, fillcolor="#9E9E9E55"]
+	b1 [label="Ultra\n13.693", width=1.455, fillcolor="#1E90FF60"]
+	axis_y [shape=plaintext, label="Tokens", fontcolor="#808080BF", fontsize=9]
+}

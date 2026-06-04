@@ -1,0 +1,46 @@
+{
+  "version": 4,
+  "kind": "columns-tree",
+  "tableref": "RECURSOS",
+  "tablemeta": {
+    "originalname": "RECURSOS",
+    "hasifnotexists": true
+  },
+  "nodes": [
+    {
+      "flatpath": "1",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "2",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "3",
+      "kind": "optional",
+      "name": "AUDITORIA"
+    }
+  ],
+  "entities": {
+    "COLUMN": [
+      {
+        "icolumn": "1",
+        "flatpath": "1",
+        "name": "IRECURSO",
+        "type": "BIGINT",
+        "primarykey": true,
+        "kind": "col"
+      },
+      {
+        "icolumn": "2",
+        "flatpath": "2",
+        "name": "NRECURSO",
+        "type": "VARCHAR(255)",
+        "primarykey": false,
+        "kind": "col"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+// TK-1431662 · Modelo de datos INSTRUCCION.MODELO
+digraph tk1431662_instruccion_modelo {
+	graph [
+		bgcolor=transparent
+		splines=polyline
+		pad=0.55
+		sep="+18,14"
+		fontname="Segoe UI"
+		fontsize=10
+		rankdir=LR
+	]
+	node [
+		shape=record
+		style="rounded,filled"
+		margin="0.28,0.14"
+		fillcolor="#8080801A"
+		color="#808080B3"
+		fontcolor="#3A3A3AE6"
+		penwidth=1.2
+	]
+	edge [
+		color="#1E90FFC8"
+		arrowsize=0.65
+		penwidth=1.15
+		tailclip=true
+		headclip=true
+	]
+
+	INSTRUCCION [
+		label="{ INSTRUCCION | MODELO : NVARCHAR(40) NOT NULL | DEFAULT gpt-5-nano }"
+	]
+}

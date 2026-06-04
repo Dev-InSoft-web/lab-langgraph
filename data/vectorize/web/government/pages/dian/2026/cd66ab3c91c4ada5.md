@@ -1,0 +1,54 @@
+---
+title: Inicio
+url: https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/Paginas/Inicio.aspx
+corpus: dian
+tipo: web
+audience: contadores
+pageId: cd66ab3c91c4ada5
+storageRel: dian/2026
+fetchedAt: 2026-06-04T03:26:10.022Z
+---
+
+# Inicio
+
+​  ![](https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/PublishingImages/Banner-SistemaAgendamientoCitas.jpg)
+
+**Bienvenido al sistema de agendamiento de citas de la DIAN**
+
+ ![](https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/PublishingImages/Agende-aqui-la-Cita.png)
+
+**Agende** [**aquí**](https://agendamiento.dian.gov.co/) **la cita**
+
+ “Todos nuestros trámites y servicios son gratuitos"
+
+ ![](https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/PublishingImages/e-peligro.png)
+
+**Tenga presente...**
+
+El sistema de agendamiento únicamente ofrece citas para el mes en curso, y le mostrará el trámite, servicio, ciudad, fecha y oficina donde haya disponibilidad.
+
+Evite desplazamientos, antes de solicitar una cita gestione los trámites, servicios y consultas desde su hogar u oficina. 
+
+![](https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/PublishingImages/Inscribase-aqui-en-el-RUT.png) 
+
+**Inscríbase** [**aquí**](https://muisca.dian.gov.co/WebRutVirtualInscripcion/#/proceso-guiado/inicio) **en el RUT**
+
+  ![](https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/PublishingImages/Icono-SAC-PasoAPaso.jpg)
+
+****Actualice** [**así**](https://www.dian.gov.co/tramitesservicios/Tramites_Impuestos/RUT/Documents/Actualiza_RUT_2020.pdf) **su RUT****
+
+**Agende cita para inscripción o actualización RUT, únicamente en estos casos:**
+
+-   No requiere matrícula mercantil y por incidente o falla técnica, no pudo inscribirse por [RUT Virtual](https://muisca.dian.gov.co/WebRutVirtualInscripcion/#/proceso-guiado/inicio).
+
+-   Requiere actualizar los datos de identificación.
+
+-   Necesita retirar responsabilidades.
+
+-   Debe agregar o retirar calidades aduaneras.
+
+-   Requiere actualizar el RUT por cese de actividades.
+
+Agende cita, cumpla con los requisitos, siga el procedimiento para la atención y tenga éxito en la gestión de trámites, servicios y consultas. 
+
+**“En la DIAN todos los trámites y servicios son gratuitos".**

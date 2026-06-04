@@ -1,0 +1,181 @@
+{
+  "version": 4,
+  "kind": "tables-tree",
+  "nodes": [
+    {
+      "flatpath": "1",
+      "kind": "prefix",
+      "rowname": "CAPAC_",
+      "prefix": "CAPAC_",
+      "wardenaction": {
+        "idaction": "prefix"
+      }
+    },
+    {
+      "flatpath": "1.1",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.2",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.3",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.4",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.5",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.6",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.7",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.8",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.9",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "1.10",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "2",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "3",
+      "ireference": "TABLE",
+      "kind": "table"
+    },
+    {
+      "flatpath": "4",
+      "ireference": "TABLE",
+      "kind": "table"
+    }
+  ],
+  "entities": {
+    "TABLE": [
+      {
+        "itable": "1.1",
+        "flatpath": "1.1",
+        "tableref": "PLANES_ESTUDIO",
+        "rowname": "PLANES_ESTUDIO",
+        "tableid": "tbl_planes_estudio"
+      },
+      {
+        "itable": "1.2",
+        "flatpath": "1.2",
+        "tableref": "CURSOS_DE_PLANES_ESTUDIO",
+        "rowname": "CURSOS_DE_PLANES_ESTUDIO",
+        "tableid": "tbl_cursos_de_planes_estudio"
+      },
+      {
+        "itable": "1.3",
+        "flatpath": "1.3",
+        "tableref": "ATRIBUTOS_PLANES",
+        "rowname": "ATRIBUTOS_PLANES",
+        "tableid": "tbl_atributos_planes"
+      },
+      {
+        "itable": "1.4",
+        "flatpath": "1.4",
+        "tableref": "PLANES_CURSOS",
+        "rowname": "PLANES_CURSOS",
+        "tableid": "tbl_planes_cursos"
+      },
+      {
+        "itable": "1.5",
+        "flatpath": "1.5",
+        "tableref": "DRIVERS",
+        "rowname": "DRIVERS",
+        "tableid": "tbl_drivers"
+      },
+      {
+        "itable": "1.6",
+        "flatpath": "1.6",
+        "tableref": "ATRIBUTOS_X_DRIVERS",
+        "rowname": "ATRIBUTOS_X_DRIVERS",
+        "tableid": "tbl_atributos_x_drivers"
+      },
+      {
+        "itable": "1.7",
+        "flatpath": "1.7",
+        "tableref": "CURSOS",
+        "rowname": "CURSOS",
+        "tableid": "tbl_cursos"
+      },
+      {
+        "itable": "1.8",
+        "flatpath": "1.8",
+        "tableref": "CURSOS_PREREQUISITOS",
+        "rowname": "CURSOS_PREREQUISITOS",
+        "tableid": "tbl_cursos_prerequisitos"
+      },
+      {
+        "itable": "1.9",
+        "flatpath": "1.9",
+        "tableref": "ESTRUCTURAS_CURSOS",
+        "rowname": "ESTRUCTURAS_CURSOS",
+        "tableid": "tbl_estructuras_cursos"
+      },
+      {
+        "itable": "1.10",
+        "flatpath": "1.10",
+        "tableref": "SEGURIDADES_CURSOS",
+        "rowname": "SEGURIDADES_CURSOS",
+        "tableid": "tbl_seguridades_cursos"
+      },
+      {
+        "itable": "2",
+        "flatpath": "2",
+        "tableref": "SOP_TEMAS_V2",
+        "rowname": "SOP_TEMAS_V2",
+        "tableid": "tbl_sop_temas_v2",
+        "snippets": {
+          "sql": false
+        }
+      },
+      {
+        "itable": "3",
+        "flatpath": "3",
+        "tableref": "PERMISOS",
+        "rowname": "PERMISOS",
+        "tableid": "tbl_permisos"
+      },
+      {
+        "itable": "4",
+        "flatpath": "4",
+        "tableref": "RECURSOS",
+        "rowname": "RECURSOS",
+        "tableid": "tbl_recursos",
+        "snippets": {
+          "sql": false
+        }
+      }
+    ]
+  }
+}

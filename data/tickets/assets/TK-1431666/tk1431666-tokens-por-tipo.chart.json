@@ -1,0 +1,92 @@
+{
+	"type": "bar",
+	"data": {
+		"labels": [
+			"SALUDO OTRO",
+			"FUERA DE ALC",
+			"SOLICITUD NO",
+			"REQUIERE CON",
+			"PASO A PASO",
+			"INTERPRETACI",
+			"CONSULTA NOR",
+			"ASESORIA PER",
+			"ERROR TECNIC",
+			"ERROR CONFIG",
+			"ERROR ACCESO",
+			"ERROR DIAN",
+			"COMERCIAL"
+		],
+		"datasets": [
+			{
+				"label": "Base (tokens)",
+				"data": [
+					873,
+					1243,
+					1215,
+					1580,
+					2564,
+					2157,
+					1528,
+					2133,
+					1420,
+					2286,
+					2222,
+					2081,
+					2218
+				],
+				"backgroundColor": "#4472C4"
+			},
+			{
+				"label": "Ultra (tokens)",
+				"data": [
+					447,
+					822,
+					604,
+					1046,
+					1713,
+					1342,
+					935,
+					1223,
+					808,
+					1303,
+					1219,
+					1251,
+					1112
+				],
+				"backgroundColor": "#70AD47"
+			}
+		]
+	},
+	"options": {
+		"plugins": {
+			"title": {
+				"display": true,
+				"text": "Tokens de instrucción por tipo de consulta",
+				"font": {
+					"size": 14
+				}
+			},
+			"legend": {
+				"position": "top"
+			}
+		},
+		"scales": {
+			"x": {
+				"ticks": {
+					"maxRotation": 45,
+					"minRotation": 45,
+					"font": {
+						"size": 9
+					}
+				}
+			},
+			"y": {
+				"beginAtZero": true,
+				"title": {
+					"display": true,
+					"text": "Tokens"
+				}
+			}
+		}
+	}
+}

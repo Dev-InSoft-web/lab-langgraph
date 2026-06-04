@@ -1,0 +1,25 @@
+{
+	"ticketId": "TK-1431666",
+	"assets": [
+		{
+			"id": "tk1431666-carga-ultra",
+			"kind": "mermaid",
+			"source": "tk1431666-carga-ultra.mmd",
+			"png": "tk1431666-carga-ultra.png"
+		},
+		{
+			"id": "tk1431666-tokens-totales",
+			"kind": "chart-graphviz",
+			"source": "tk1431666-tokens-totales.chart.json",
+			"png": "tk1431666-tokens-totales.png",
+			"render": { "width": 920, "height": 520, "plugins": "datalabels" }
+		},
+		{
+			"id": "tk1431666-tokens-por-tipo",
+			"kind": "chart-graphviz",
+			"source": "tk1431666-tokens-por-tipo.chart.json",
+			"png": "tk1431666-tokens-por-tipo.png",
+			"render": { "width": 1000, "height": 720, "plugins": "datalabels" }
+		}
+	]
+}

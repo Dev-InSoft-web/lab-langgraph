@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:42:38.441Z",
+  "videoId": "pEKhL-qa2dc",
+  "videoUrl": "https://www.youtube.com/watch?v=pEKhL-qa2dc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "pEKhL-qa2dc",
+    "title": "Software agrícola AgroWin - Estructura de costeo recursos sacrificados",
+    "fulltitle": "Software agrícola AgroWin - Estructura de costeo recursos sacrificados",
+    "description": "http://www.agrowin.com\nSoftware agrícola AgroWin \nSe explica el concepto de recursos sacrificados y se homologa con el concepto de cuenta de costos.\nAW40-005-020-020B",
+    "duration": 193,
+    "duration_string": "3:13",
+    "upload_date": "20110915",
+    "timestamp": 1316116133,
+    "view_count": 493,
+    "like_count": 2,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/pEKhL-qa2dc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC-AKKAgwIABABGB4gYChyMA8=&rs=AOn4CLAMFBOZKHbSnqU71gNhXr1K2SeMLw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAvgCigIMCAAQARgeIGAocjAP&rs=AOn4CLDSiCdisJdluBeGGaILRNCc_cbwyQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC-AKKAgwIABABGB4gYChyMA8=&rs=AOn4CLCr3wRb9weZkgCaKKi9XDsQwduMPQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC-AKKAgwIABABGB4gYChyMA8=&rs=AOn4CLBWjwbj3OhRGdhsTBRFDk2fSFEQUg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC-AKKAgwIABABGB4gYChyMA8=&rs=AOn4CLBgEaEood8N7ak8dvEEoS3OuVUmTA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAvgCigIMCAAQARgeIGAocjAP&rs=AOn4CLBFjbbBerXwHl-w6wzggZZrTCMRLg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAvgCigIMCAAQARgeIGAocjAP&rs=AOn4CLB5RkLY0xP4xnkGN020JBI8oAg_eQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC-AKKAgwIABABGB4gYChyMA8=&rs=AOn4CLDmOqxkIHvgskBD63dM6rU9p-2XGw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC-AKKAgwIABABGB4gYChyMA8=&rs=AOn4CLAMFBOZKHbSnqU71gNhXr1K2SeMLw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pEKhL-qa2dc/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/pEKhL-qa2dc/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=pEKhL-qa2dc",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.5181347150259067,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "76x45",
+        "width": 76,
+        "height": 45,
+        "fps": 0.5077720207253886,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "153x90",
+        "width": 153,
+        "height": 90,
+        "fps": 0.5077720207253886,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "306x180",
+        "width": 306,
+        "height": 180,
+        "fps": 0.5077720207253886,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "612x360",
+        "width": 612,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 181.421,
+        "asr": 44100,
+        "filesize_approx": 4371066,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agrícola AgroWin - Estructura de costeo recursos sacrificados",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/pEKhL-qa2dc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/pEKhL-qa2dc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agrícola AgroWin - Estructura de costeo recursos sacrificados\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 42,
+    "transcriptChars": 2967,
+    "segments": [
+      {
+        "text": "Introducción general, la definición de los recursos sacrificados.",
+        "startMs": 2560,
+        "durationMs": 6390
+      },
+      {
+        "text": "Según la definición de costos propuesta en el anterior video, podemos concluir",
+        "startMs": 8960,
+        "durationMs": 4510
+      },
+      {
+        "text": "que una estructura de costeo correcta debe incluir el planteamiento de dos",
+        "startMs": 13470,
+        "durationMs": 4760
+      },
+      {
+        "text": "frentes de información, la definición de los",
+        "startMs": 18230,
+        "durationMs": 5480
+      },
+      {
+        "text": "recursos sacrificados descritos en las cuentas de",
+        "startMs": 23710,
+        "durationMs": 2200
+      },
+      {
+        "text": "costos y la definición de los destinos de los recursos descritos en los centros",
+        "startMs": 25910,
+        "durationMs": 4599
+      },
+      {
+        "text": "de costos. En cuanto a la definición de los",
+        "startMs": 30509,
+        "durationMs": 6521
+      },
+      {
+        "text": "recursos sacrificados, vemos que estos se pueden",
+        "startMs": 37030,
+        "durationMs": 2280
+      },
+      {
+        "text": "conceptualizar y configurar desde dos puntos de vista, el punto de vista",
+        "startMs": 39310,
+        "durationMs": 4680
+      },
+      {
+        "text": "contable y el punto de vista administrativo. El punto de vista",
+        "startMs": 43990,
+        "durationMs": 5840
+      },
+      {
+        "text": "contable, a su vez incluye la definición de un conjunto de cuentas,",
+        "startMs": 49830,
+        "durationMs": 4120
+      },
+      {
+        "text": "específicamente las cuentas de gastos empresariales y las cuentas de costos de",
+        "startMs": 53950,
+        "durationMs": 6439
+      },
+      {
+        "text": "producción. Entre las cuentas de gastos",
+        "startMs": 60389,
+        "durationMs": 1160
+      },
+      {
+        "text": "empresariales sobresalen dos en importancia. los gastos operacionales,",
+        "startMs": 61549,
+        "durationMs": 4281
+      },
+      {
+        "text": "que son gastos relacionados con la operación de la empresa, como por",
+        "startMs": 65830,
+        "durationMs": 3800
+      },
+      {
+        "text": "ejemplo todos aquellos generados en la gestión",
+        "startMs": 69630,
+        "durationMs": 2560
+      },
+      {
+        "text": "gestión administrativa, y los gastos no",
+        "startMs": 72190,
+        "durationMs": 2000
+      },
+      {
+        "text": "operacionales, que son gastos no relacionados con la operación de la",
+        "startMs": 74190,
+        "durationMs": 3559
+      },
+      {
+        "text": "empresa, como aquellos generados en el mantenimiento del área social de la",
+        "startMs": 77749,
+        "durationMs": 4641
+      },
+      {
+        "text": "finca, como la casa de recreo, la piscina, los jardines,",
+        "startMs": 82390,
+        "durationMs": 4160
+      },
+      {
+        "text": "etcétera. Por otro lado, las cuentas de costos de producción incluyen dos",
+        "startMs": 86550,
+        "durationMs": 4480
+      },
+      {
+        "text": "conceptos fundamentales. La mano de obra, que puede ser directa o indirecta,",
+        "startMs": 91030,
+        "durationMs": 5359
+      },
+      {
+        "text": "y los insumos, que pueden ser a su vez directos o",
+        "startMs": 96389,
+        "durationMs": 3281
+      },
+      {
+        "text": "indirectos. Ahora bien, el punto de vista administrativo incluye la",
+        "startMs": 99670,
+        "durationMs": 3799
+      },
+      {
+        "text": "definición de dos catálogos, los catálogos de labores y los catálogos de",
+        "startMs": 103469,
+        "durationMs": 5960
+      },
+      {
+        "text": "insumos. El catálogo de labores es un listado",
+        "startMs": 109429,
+        "durationMs": 1960
+      },
+      {
+        "text": "ordenado y codificado de todas las labores que se realizan en cada tipo de",
+        "startMs": 111389,
+        "durationMs": 4360
+      },
+      {
+        "text": "cultivo o proyecto productivo de la finca, nombrados tal como se nombran en",
+        "startMs": 115749,
+        "durationMs": 5000
+      },
+      {
+        "text": "el campo y ordenados en el orden en que se",
+        "startMs": 120749,
+        "durationMs": 4400
+      },
+      {
+        "text": "materiales son un listado debidamente codificado de todos los elementos",
+        "startMs": 127389,
+        "durationMs": 4761
+      },
+      {
+        "text": "materiales que se consumen en el proceso productivo de todos los proyectos",
+        "startMs": 132150,
+        "durationMs": 8960
+      },
+      {
+        "text": "El resultado final del análisis y clasificación de los recursos",
+        "startMs": 141120,
+        "durationMs": 2950
+      },
+      {
+        "text": "sacrificados debe ser un conjunto de catálogos de labores e",
+        "startMs": 144070,
+        "durationMs": 5600
+      },
+      {
+        "text": "insumos y un conjunto de cuentas, todos debidamente codificados y en los que se",
+        "startMs": 125149,
+        "durationMs": 31201
+      },
+      {
+        "text": "incluya la totalidad de los recursos utilizados y por utilizar a lo largo de",
+        "startMs": 156350,
+        "durationMs": 4440
+      },
+      {
+        "text": "todo el proceso productivo. En la filmina se presenta un",
+        "startMs": 160790,
+        "durationMs": 3880
+      },
+      {
+        "text": "conjunto de recursos debidamente estructurado. Puede observarse que",
+        "startMs": 164670,
+        "durationMs": 3520
+      },
+      {
+        "text": "existe una relación uno a uno entre los catálogos de labores y de insumos, ambos",
+        "startMs": 168190,
+        "durationMs": 6039
+      },
+      {
+        "text": "con fines administrativos, y los planes de cuentas, ambos con fines",
+        "startMs": 174229,
+        "durationMs": 5241
+      },
+      {
+        "text": "contables. Esta es la manera como Agro integra la información contable y la",
+        "startMs": 179470,
+        "durationMs": 4000
+      },
+      {
+        "text": "información administrativa de la finca, evitando el manejo duplicado de la",
+        "startMs": 183470,
+        "durationMs": 3560
+      },
+      {
+        "text": "información y garantizando la coherencia de los distintos tipos de informes de la",
+        "startMs": 187030,
+        "durationMs": 7450
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.agrowin.com\nSoftware agrícola AgroWin \nSe explica el concepto de recursos sacrificados y se homologa con el concepto de cuenta de costos.\nAW40-005-020-020B\n\n## Transcripción\n\nIntroducción general, la definición de los recursos sacrificados.\nSegún la definición de costos propuesta en el anterior video, podemos concluir\nque una estructura de costeo correcta debe incluir el planteamiento de dos\nfrentes de información, la definición de los\nrecursos sacrificados descritos en las cuentas de\ncostos y la definición de los destinos de los recursos descritos en los centros\nde costos. En cuanto a la definición de los\nrecursos sacrificados, vemos que estos se pueden\nconceptualizar y configurar desde dos puntos de vista, el punto de vista\ncontable y el punto de vista administrativo. El punto de vista\ncontable, a su vez incluye la definición de un conjunto de cuentas,\nespecíficamente las cuentas de gastos empresariales y las cuentas de costos de\nproducción. Entre las cuentas de gastos\nempresariales sobresalen dos en importancia. los gastos operacionales,\nque son gastos relacionados con la operación de la empresa, como por\nejemplo todos aquellos generados en la gestión\ngestión administrativa, y los gastos no\noperacionales, que son gastos no relacionados con la operación de la\nempresa, como aquellos generados en el mantenimiento del área social de la\nfinca, como la casa de recreo, la piscina, los jardines,\netcétera. Por otro lado, las cuentas de costos de producción incluyen dos\nconceptos fundamentales. La mano de obra, que puede ser directa o indirecta,\ny los insumos, que pueden ser a su vez directos o\nindirectos. Ahora bien, el punto de vista administrativo incluye la\ndefinición de dos catálogos, los catálogos de labores y los catálogos de\ninsumos. El catálogo de labores es un listado\nordenado y codificado de todas las labores que se realizan en cada tipo de\ncultivo o proyecto productivo de la finca, nombrados tal como se nombran en\nel campo y ordenados en el orden en que se\nmateriales son un listado debidamente codificado de todos los elementos\nmateriales que se consumen en el proceso productivo de todos los proyectos\nEl resultado final del análisis y clasificación de los recursos\nsacrificados debe ser un conjunto de catálogos de labores e\ninsumos y un conjunto de cuentas, todos debidamente codificados y en los que se\nincluya la totalidad de los recursos utilizados y por utilizar a lo largo de\ntodo el proceso productivo. En la filmina se presenta un\nconjunto de recursos debidamente estructurado. Puede observarse que\nexiste una relación uno a uno entre los catálogos de labores y de insumos, ambos\ncon fines administrativos, y los planes de cuentas, ambos con fines\ncontables. Esta es la manera como Agro integra la información contable y la\ninformación administrativa de la finca, evitando el manejo duplicado de la\ninformación y garantizando la coherencia de los distintos tipos de informes de la"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "612x360",
+    "width": 612,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 181.421,
+    "asr": 44100,
+    "filesizeApprox": 4371066,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/pEKhL-qa2dc.md",
+    "json": "videos/2011/pEKhL-qa2dc.json",
+    "infoJson": "videos/2011/pEKhL-qa2dc.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

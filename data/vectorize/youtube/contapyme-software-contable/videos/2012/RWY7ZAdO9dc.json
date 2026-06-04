@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:28:47.260Z",
+  "videoId": "RWY7ZAdO9dc",
+  "videoUrl": "https://www.youtube.com/watch?v=RWY7ZAdO9dc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "RWY7ZAdO9dc",
+    "title": "Software contable ContaPyme - Explicación conceptual del ajuste por diferencia en cambio",
+    "fulltitle": "Software contable ContaPyme - Explicación conceptual del ajuste por diferencia en cambio",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme explica el concepto y el movimiento que puede generar un ajuste por diferencia en cambio.\nCP40-075-060-010B",
+    "duration": 264,
+    "duration_string": "4:24",
+    "upload_date": "20120616",
+    "timestamp": 1339855910,
+    "view_count": 163,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/RWY7ZAdO9dc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLBeo5ksZ92zcNis0zRHSAwqCpgvzQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgiID4ofzAP&rs=AOn4CLBa2sp_2ZMZjz2mo-5t42kKeqbzlQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLBCMAaeLrDLHwMQDOu_IADnLJw5jw",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLDuiWMaFRapIzVXk_DP_fZEfmEImA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLDrcH9U8rrfDxL4aXX01yKaLKJkNw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgiID4ofzAP&rs=AOn4CLD_aTQzg6OeMrpgi0_g7z1jZ-b1KQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgiID4ofzAP&rs=AOn4CLAueoSfgcCjH3rw9LrrT0BZ4s1hUw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLCHH9qsTgzQ1bydnuQLd5rInqA0Fg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLBeo5ksZ92zcNis0zRHSAwqCpgvzQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RWY7ZAdO9dc/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=RWY7ZAdO9dc",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.3787878787878788,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5037878787878788,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5037878787878788,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.5037878787878788,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 160.673,
+        "asr": 44100,
+        "filesize_approx": 5292628,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Explicación conceptual del ajuste por diferencia en cambio",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/RWY7ZAdO9dc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/RWY7ZAdO9dc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Explicación conceptual del ajuste por diferencia en cambio\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 41,
+    "transcriptChars": 2940,
+    "segments": [
+      {
+        "text": "explicación conceptual de los ajustes por diferencia en cambio una de las",
+        "startMs": 599,
+        "durationMs": 6111
+      },
+      {
+        "text": "grandes virtudes del módulo de manejo de moneda extranjera es la automatización",
+        "startMs": 6710,
+        "durationMs": 5440
+      },
+      {
+        "text": "de los ajustes por diferencia en cambio este proceso que puede ser bastante",
+        "startMs": 12150,
+        "durationMs": 6199
+      },
+      {
+        "text": "dispendioso lo puede realizar el sistema en diferentes momentos dependiendo de la",
+        "startMs": 18349,
+        "durationMs": 8281
+      },
+      {
+        "text": "configuración seleccionada para mayor información",
+        "startMs": 26630,
+        "durationMs": 2360
+      },
+      {
+        "text": "sobre las configuraciones acerca de los ajustes por diferencia en cambio",
+        "startMs": 28990,
+        "durationMs": 5040
+      },
+      {
+        "text": "consulte los videos del capítulo configuración del manejo de moneda",
+        "startMs": 34030,
+        "durationMs": 5280
+      },
+      {
+        "text": "extranjera en este video veremos a través de un simple ejemplo Cómo",
+        "startMs": 39310,
+        "durationMs": 4800
+      },
+      {
+        "text": "funcionan los ajustes por diferencia en cambio hemos generado una cuenta por",
+        "startMs": 44110,
+        "durationMs": 6079
+      },
+      {
+        "text": "cobrar al señor Juan Gómez por valor de 350 tengamos en cuenta que esta cuenta",
+        "startMs": 50189,
+        "durationMs": 8721
+      },
+      {
+        "text": "por cobrar debe estar configurada para el manejo de moneda",
+        "startMs": 58910,
+        "durationMs": 4959
+      },
+      {
+        "text": "extranjera el sistema procede a consultar la tasa de cambio para esa",
+        "startMs": 63869,
+        "durationMs": 5560
+      },
+      {
+        "text": "moneda a la fecha de creación de la cuenta por cobrar que en este caso es de",
+        "startMs": 69429,
+        "durationMs": 8121
+      },
+      {
+        "text": "1800es al realizar la conversión el sistema convierte",
+        "startMs": 77560,
+        "durationMs": 8150
+      },
+      {
+        "startMs": 85720,
+        "durationMs": 5389,
+        "text": "350 en 630,000"
+      },
+      {
+        "text": "ahora bien ha llegado el día en que el señor Juan Gómez nos cancele la cuenta",
+        "startMs": 91119,
+        "durationMs": 8111
+      },
+      {
+        "text": "cobrar nos cancelará Entonces los $350 el sistema consulta la tasa de",
+        "startMs": 99240,
+        "durationMs": 8549
+      },
+      {
+        "text": "cambio para esa moneda a la fecha del abono la cual en este caso es de",
+        "startMs": 107789,
+        "durationMs": 8320
+      },
+      {
+        "text": "18850 al realizar la conversión el sistema convierte",
+        "startMs": 116119,
+        "durationMs": 6670
+      },
+      {
+        "text": "$350 en este caso en 6 47,500",
+        "startMs": 122789,
+        "durationMs": 7201
+      },
+      {
+        "text": "47,500 pesos si generamos el saldo de la cuenta",
+        "startMs": 129990,
+        "durationMs": 3760
+      },
+      {
+        "text": "por cobrar en dólares veremos que esta se encuentra",
+        "startMs": 133750,
+        "durationMs": 6800
+      },
+      {
+        "text": "cancelada pero si generamos el saldo de la cuenta en",
+        "startMs": 140550,
+        "durationMs": 5200
+      },
+      {
+        "text": "pesos veremos que esta ha quedado con un a favor del cliente por valor de",
+        "startMs": 145750,
+        "durationMs": 8400
+      },
+      {
+        "text": "17,500 pes este saldo a favor queda allí registrado en la contabilidad hasta que",
+        "startMs": 154150,
+        "durationMs": 8359
+      },
+      {
+        "text": "se proceda a realizar los ajustes por diferencia en cambio el ajuste por",
+        "startMs": 162509,
+        "durationMs": 6360
+      },
+      {
+        "text": "diferencia en cambio lo que hace básicamente es Cancelar ese saldo a",
+        "startMs": 168869,
+        "durationMs": 5201
+      },
+      {
+        "text": "favor en este caso para hacerlo debe sumarle a la cuenta los mismos",
+        "startMs": 174070,
+        "durationMs": 6960
+      },
+      {
+        "text": "17,500 pesos para que así la cuenta nos quede con saldo en cero el ajuste por",
+        "startMs": 181030,
+        "durationMs": 7600
+      },
+      {
+        "text": "diferencia en cambio realiza un movimiento contable en este caso realiza",
+        "startMs": 188630,
+        "durationMs": 5679
+      },
+      {
+        "text": "un débito a la cuenta por cobrar para cancelarla y lo cruza contra un crédito",
+        "startMs": 194309,
+        "durationMs": 6521
+      },
+      {
+        "text": "al ingreso en este caso a la cuenta de diferencia en",
+        "startMs": 200830,
+        "durationMs": 5280
+      },
+      {
+        "text": "cambio en caso de que el saldo no hubiese s a favor del cliente el",
+        "startMs": 206110,
+        "durationMs": 5839
+      },
+      {
+        "text": "movimiento hubiese sido cancelar la cuenta por cobrar contra un",
+        "startMs": 211949,
+        "durationMs": 6241
+      },
+      {
+        "text": "cambio son las que se configuraron para cada una de las monedas en el catálogo",
+        "startMs": 223509,
+        "durationMs": 7121
+      },
+      {
+        "text": "de monedas para finalizar recordemos que",
+        "startMs": 230630,
+        "durationMs": 3519
+      },
+      {
+        "text": "los ajustes por diferencia en cambio se pueden realizar en uno de tres momentos",
+        "startMs": 218190,
+        "durationMs": 21959
+      },
+      {
+        "text": "al procesar el movimiento al procesar la operación de registro de tasa de cambio",
+        "startMs": 240149,
+        "durationMs": 5561
+      },
+      {
+        "text": "o al procesar la operación de acciones automáticas de fin de mes todo depende",
+        "startMs": 245710,
+        "durationMs": 6159
+      },
+      {
+        "text": "de la opción para ajustes de cambio que se haya",
+        "startMs": 251869,
+        "durationMs": 3561
+      },
+      {
+        "text": "seleccionado esto es todo acerca de la explicación conceptual de los ajustes",
+        "startMs": 255430,
+        "durationMs": 9610
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme explica el concepto y el movimiento que puede generar un ajuste por diferencia en cambio.\nCP40-075-060-010B\n\n## Transcripción\n\nexplicación conceptual de los ajustes por diferencia en cambio una de las\ngrandes virtudes del módulo de manejo de moneda extranjera es la automatización\nde los ajustes por diferencia en cambio este proceso que puede ser bastante\ndispendioso lo puede realizar el sistema en diferentes momentos dependiendo de la\nconfiguración seleccionada para mayor información\nsobre las configuraciones acerca de los ajustes por diferencia en cambio\nconsulte los videos del capítulo configuración del manejo de moneda\nextranjera en este video veremos a través de un simple ejemplo Cómo\nfuncionan los ajustes por diferencia en cambio hemos generado una cuenta por\ncobrar al señor Juan Gómez por valor de 350 tengamos en cuenta que esta cuenta\npor cobrar debe estar configurada para el manejo de moneda\nextranjera el sistema procede a consultar la tasa de cambio para esa\nmoneda a la fecha de creación de la cuenta por cobrar que en este caso es de\n1800es al realizar la conversión el sistema convierte\n350 en 630,000\nahora bien ha llegado el día en que el señor Juan Gómez nos cancele la cuenta\ncobrar nos cancelará Entonces los $350 el sistema consulta la tasa de\ncambio para esa moneda a la fecha del abono la cual en este caso es de\n18850 al realizar la conversión el sistema convierte\n$350 en este caso en 6 47,500\n47,500 pesos si generamos el saldo de la cuenta\npor cobrar en dólares veremos que esta se encuentra\ncancelada pero si generamos el saldo de la cuenta en\npesos veremos que esta ha quedado con un a favor del cliente por valor de\n17,500 pes este saldo a favor queda allí registrado en la contabilidad hasta que\nse proceda a realizar los ajustes por diferencia en cambio el ajuste por\ndiferencia en cambio lo que hace básicamente es Cancelar ese saldo a\nfavor en este caso para hacerlo debe sumarle a la cuenta los mismos\n17,500 pesos para que así la cuenta nos quede con saldo en cero el ajuste por\ndiferencia en cambio realiza un movimiento contable en este caso realiza\nun débito a la cuenta por cobrar para cancelarla y lo cruza contra un crédito\nal ingreso en este caso a la cuenta de diferencia en\ncambio en caso de que el saldo no hubiese s a favor del cliente el\nmovimiento hubiese sido cancelar la cuenta por cobrar contra un\ncambio son las que se configuraron para cada una de las monedas en el catálogo\nde monedas para finalizar recordemos que\nlos ajustes por diferencia en cambio se pueden realizar en uno de tres momentos\nal procesar el movimiento al procesar la operación de registro de tasa de cambio\no al procesar la operación de acciones automáticas de fin de mes todo depende\nde la opción para ajustes de cambio que se haya\nseleccionado esto es todo acerca de la explicación conceptual de los ajustes"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 160.673,
+    "asr": 44100,
+    "filesizeApprox": 5292628,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/RWY7ZAdO9dc.md",
+    "json": "videos/2012/RWY7ZAdO9dc.json",
+    "infoJson": "videos/2012/RWY7ZAdO9dc.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

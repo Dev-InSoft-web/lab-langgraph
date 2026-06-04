@@ -1,0 +1,246 @@
+---
+title: Participa - Inicio
+url: https://www.supersociedades.gov.co/participa
+corpus: supersociedades
+tipo: web
+audience: contadores
+pageId: b9bb4b965ce1e8be
+storageRel: supersociedades/2026
+fetchedAt: 2026-06-04T03:34:48.634Z
+---
+
+# Participa - Inicio
+
+## Ruta de navegación
+
+## Menú de navegación
+
+Menú auxiliar lateral izquierdo
+
+[Participación para el diagnóstico de necesidades](https://www.supersociedades.gov.co/participacion-para-el-diagnostico-de-necesidades) [Planeación y presupuesto participativo](https://www.supersociedades.gov.co/planeacion-y-presupuesto-participativo) [Consulta ciudadana](https://www.supersociedades.gov.co/consulta-ciudadana) [Colaboración e innovación abierta](https://www.supersociedades.gov.co/colaboracion-e-innovacion-abierta) [Control social](https://www.supersociedades.gov.co/control-social)
+
+## CW\_Banner\_Participa
+
+Participa
+
+  ![Participa](https://www.supersociedades.gov.co/documents/59740/2815543/4.+Participa.jpg/08433452-9693-18b1-b0c8-c821ea1cd46a?t=1665718490597)
+
+En este apartado se encuentra información sobre los distintos espacios y mecanismos dispuestos por la Superintendencia de Sociedades para facilitar la participación de la ciudadanía y demás grupos de interés en la planeación y gestión institucional.
+
+Este espacio se divide en seis secciones y en cada una se indica la manera en que se puede participar, así:
+
+-   Participación en el diagnóstico e identificación de problemas
+-   Planeación y presupuesto participativo
+-   Consulta ciudadana
+-   Colaboración e innovación
+-   Rendición de cuentas
+-   Control social
+
+## CW\_TarjetaParticipa
+
+- [![Participación para el diagnóstico de necesidades e identificación de problemas](https://www.supersociedades.gov.co/documents/20124/180091/Participacion.png/1259f72c-25ff-b825-910a-e131c71523dc?t=1645631164322)
+
+![Participación para el diagnóstico de necesidades e identificación de problemas](https://www.supersociedades.gov.co/documents/20122/180108/5.+Participaci%C3%B3n+para+el+diagn%C3%B3stico+de+necesidades+e+identificaci%C3%B3n+de+problemas..jpg/dfda1e26-d9fa-c414-8cc7-9fa016753071?t=1650997707166)
+
+1\. Participación para el diagnóstico de necesidades y problemáticas](https://www.supersociedades.gov.co/participacion-para-el-diagnostico-de-necesidades)
+
+- [![Planeación y presupuesto participativo](https://www.supersociedades.gov.co/documents/20124/180091/Planeaci%C3%B3nIcono.png/8ae2489d-ebfd-ebbd-a2bc-6f28651e1fe7?t=1645633417560)
+
+![Planeación y presupuesto participativo](https://www.supersociedades.gov.co/documents/20122/180108/7.+Planeaci%C3%B3n+y+presupuesto+participativo..jpg/1a1fefcc-a71d-8fe8-6ab8-8b62b02cd889?t=1650997796042)
+
+2\. Planeación y presupuesto participativo](https://www.supersociedades.gov.co/planeacion-y-presupuesto-participativo)
+
+- [![Consulta ciudadana](https://www.supersociedades.gov.co/documents/20124/180091/ConsultaIcono.png/b21ed5c4-1130-6226-e862-087d55882123?t=1645634736647)
+
+![Consulta ciudadana](https://www.supersociedades.gov.co/documents/20122/180108/9.+Consulta+ciudadana.jpg/7b61dbca-0b45-154a-ca33-774cf1eff437?t=1650997859342)
+
+3\. Consulta ciudadana](https://www.supersociedades.gov.co/consulta-ciudadana)
+
+- [![Colaboración e innovación abierta](https://www.supersociedades.gov.co/documents/20124/180091/Colaboraci%C3%B3nIcono.png/7d271e20-39d6-652f-2cdd-5a612529a10d?t=1645641688703)
+
+![Colaboración e innovación abierta](https://www.supersociedades.gov.co/documents/20122/180108/11.+Colaboraci%C3%B3n+e+innovaci%C3%B3n+abierta.jpg/fed864e3-0e70-c6ed-1243-b99bcfaacabc?t=1650997924354)
+
+4\. Colaboración e innovación abierta](https://www.supersociedades.gov.co/colaboracion-e-innovacion-abierta)
+
+- [![Rendición de cuentas](https://www.supersociedades.gov.co/documents/20124/180091/Rendici%C3%B3nIcono.png/bc8d81be-c5f6-f429-3d77-8736f31b18e9?t=1645645042430)
+
+![Rendición de cuentas](https://www.supersociedades.gov.co/documents/20122/180108/13.+Rendici%C3%B3n+de+cuentas.jpg/e2186814-185b-515c-3e58-10f4eed0881a?t=1650997988353)
+
+5\. Rendición de cuentas](https://www.supersociedades.gov.co/es/web/guest/rendicion-cuentas-landing)
+
+- [![Control social](https://www.supersociedades.gov.co/documents/20124/180091/ControlIcono.png/da0ceb10-5a07-84e3-5df6-4108ebb32085?t=1645645482061)
+
+![Control social](https://www.supersociedades.gov.co/documents/20122/180108/15.+Control+social.jpg/bc479db9-a270-ef04-eace-4a3a53d3c79b?t=1650998019927)
+
+6\. Control social](https://www.supersociedades.gov.co/control-social)
+
+Estrategia de participación ciudadana, monitoreo y seguimiento
+
+# 2025
+
+-   [Estrategia Participación 2025](https://www.supersociedades.gov.co/documents/20122/9126457/Estrategia-Participacion-2025.pdf)
+-   [Monitoreo Estrategia Participación 2025-I](https://www.supersociedades.gov.co/documents/20122/9126457/Monitoreo-Estrategia-Participacion-2025-I.xls)
+
+Histórico
+
+## Listado Documentos
+
+#### [2025](#collapse9126457)
+
+![Estrategia-Participacion-2025.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 120 Kb
+
+[Estrategia-Participacion-2025.pdf](https://www.supersociedades.gov.co/documents/20122/9126457/Estrategia-Participacion-2025.pdf/cb508de6-133e-c515-259d-b44d19ec1afe?version=1.0&t=1755791999664)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo-Estrategia-Participacion-2025-I.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 56 Kb
+
+[Monitoreo-Estrategia-Participacion-2025-I.xls](https://www.supersociedades.gov.co/documents/20122/9126457/Monitoreo-Estrategia-Participacion-2025-I.xls/f25a3149-6a63-8f52-5862-ddb99c5c77b1?version=1.0&t=1755791998589)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+#### [2024](#collapse9127482)
+
+![Estrategia-Participacion-2024.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 197 Kb
+
+[Estrategia-Participacion-2024.pdf](https://www.supersociedades.gov.co/documents/20122/9127482/Estrategia-Participacion-2024.pdf/e728ca8e-1227-db6a-0379-82c871b9d047?version=1.0&t=1755794383683)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Informe\_seguimiento\_programa\_participacion\_ciudadana\_2024\_I.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 1506 Kb
+
+[Informe\_seguimiento\_programa\_participacion\_ciudadana\_2024\_I.pdf](https://www.supersociedades.gov.co/documents/20122/9127482/Informe_seguimiento_programa_participacion_ciudadana_2024_I.pdf/b80ebed0-f301-771a-094b-6e715cb0855f?version=1.0&t=1755794386178)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Informe\_seguimiento\_programa\_participacion\_ciudadana\_2024\_II.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 390 Kb
+
+[Informe\_seguimiento\_programa\_participacion\_ciudadana\_2024\_II.pdf](https://www.supersociedades.gov.co/documents/20122/9127482/Informe_seguimiento_programa_participacion_ciudadana_2024_II.pdf/887764d1-6367-c71a-6d79-a0166f432b1b?version=1.0&t=1755794388026)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2024-I.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 448 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2024-I.xls](https://www.supersociedades.gov.co/documents/20122/9127482/Monitoreo_Estrategia_Participacion_2024-I.xls/a82d3e49-2f8e-612d-7cc5-99a8d4897104?version=1.0&t=1755794389721)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2024-II.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 457 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2024-II.xls](https://www.supersociedades.gov.co/documents/20122/9127482/Monitoreo_Estrategia_Participacion_2024-II.xls/a86acf63-c428-6cbf-47dc-656191d853f5?version=1.0&t=1755794391383)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2024-III.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 465 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2024-III.xls](https://www.supersociedades.gov.co/documents/20122/9127482/Monitoreo_Estrategia_Participacion_2024-III.xls/ae09c687-4710-4321-1c54-63e58556d771?version=1.0&t=1755794393297)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+#### [2023](#collapse9127845)
+
+![Estrategia-Participacion-2023.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 576 Kb
+
+[Estrategia-Participacion-2023.pdf](https://www.supersociedades.gov.co/documents/20122/9127845/Estrategia-Participacion-2023.pdf/fccf950c-d455-d175-3ee7-c248c6ba2c00?version=1.0&t=1755794776715)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Informe\_seguimiento\_programa\_participacion\_ciudadana\_2023\_I.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 594 Kb
+
+[Informe\_seguimiento\_programa\_participacion\_ciudadana\_2023\_I.pdf](https://www.supersociedades.gov.co/documents/20122/9127845/Informe_seguimiento_programa_participacion_ciudadana_2023_I.pdf/277dd28a-53f1-ba1c-8ec7-5ce470f7ab6b?version=1.0&t=1755794778442)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Informe\_seguimiento\_programa\_participacion\_ciudadana\_2023\_II.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 642 Kb
+
+[Informe\_seguimiento\_programa\_participacion\_ciudadana\_2023\_II.pdf](https://www.supersociedades.gov.co/documents/20122/9127845/Informe_seguimiento_programa_participacion_ciudadana_2023_II.pdf/3a5b6d03-a0e7-6a77-6a66-09d82125cee1?version=1.0&t=1755794780210)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2023-I.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 478 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2023-I.xls](https://www.supersociedades.gov.co/documents/20122/9127845/Monitoreo_Estrategia_Participacion_2023-I.xls/82d17ca8-72b6-71dc-42ba-0cacac009896?version=1.0&t=1755794782322)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2023-II.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 489 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2023-II.xls](https://www.supersociedades.gov.co/documents/20122/9127845/Monitoreo_Estrategia_Participacion_2023-II.xls/9c79e8f2-691b-6225-f32e-e2f6e8be47c2?version=1.0&t=1755794783822)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2023-III.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 491 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2023-III.xls](https://www.supersociedades.gov.co/documents/20122/9127845/Monitoreo_Estrategia_Participacion_2023-III.xls/ec5cc375-dfa7-cd8e-5299-59bf08f852b1?version=1.0&t=1755794785197)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+#### [2022](#collapse9128082)
+
+![Estrategia-Participacion-2022.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 565 Kb
+
+[Estrategia-Participacion-2022.pdf](https://www.supersociedades.gov.co/documents/20122/9128082/Estrategia-Participacion-2022.pdf/ea5cd902-e65a-98db-7a38-73fa55bfb2b2?version=1.0&t=1755795122846)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Info-seguimiento-programa-partic-ciudadana-2022-semestre-1.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 495 Kb
+
+[Info-seguimiento-programa-partic-ciudadana-2022-semestre-1.pdf](https://www.supersociedades.gov.co/documents/20122/9128082/Info-seguimiento-programa-partic-ciudadana-2022-semestre-1.pdf/21df2950-2323-51ff-0de1-850419f1d609?version=1.0&t=1755795125994)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Info-seguimiento-programa-partic-ciudadana-2022-semestre-2.pdf](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/pdf-svgrepo-com.svg) 644 Kb
+
+[Info-seguimiento-programa-partic-ciudadana-2022-semestre-2.pdf](https://www.supersociedades.gov.co/documents/20122/9128082/Info-seguimiento-programa-partic-ciudadana-2022-semestre-2.pdf/cce67c1b-209e-1e12-fda1-1ed7b1d0cc39?version=1.0&t=1755795127272)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2022-I.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 533 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2022-I.xls](https://www.supersociedades.gov.co/documents/20122/9128082/Monitoreo_Estrategia_Participacion_2022-I.xls/a5c6235c-a443-adce-1b3d-8eedb7ac2671?version=1.0&t=1755795128663)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2022-II.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 543 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2022-II.xls](https://www.supersociedades.gov.co/documents/20122/9128082/Monitoreo_Estrategia_Participacion_2022-II.xls/0a930c39-8324-f5d9-a990-a9aa318274b0?version=1.0&t=1755795130216)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+![Monitoreo\_Estrategia\_Participacion\_2022-III.xls](https://www.supersociedades.gov.co/o/gov.co.supersociedades.listado.documentos/imagenes/microsoft-excel-2013-logo-svgrepo-com.svg) 548 Kb
+
+[Monitoreo\_Estrategia\_Participacion\_2022-III.xls](https://www.supersociedades.gov.co/documents/20122/9128082/Monitoreo_Estrategia_Participacion_2022-III.xls/4cfe6503-aa74-4761-4103-a4a81692c4e8?version=1.0&t=1755795131376)
+
+Publicación: 21 ago 2025 | Expedición 21 ago 2025
+
+Plan Anticorrupción y de Atención al Ciudadano - PAAC
+
+-   ### [2025](https://www.supersociedades.gov.co/es/web/nuestra-entidad/programa-de-transparencia-y-etica-publica-2025)
+
+-   ### [Histórico](https://www.supersociedades.gov.co/es/web/nuestra-entidad/plan-anticorrupcion-y-de-atencion-al-ciudadano)
+
+Informes de Rendición de Cuentas Generales 
+
+-   ### [Estrategia Rendición de Cuentas](https://www.supersociedades.gov.co/es/web/guest/rendicion-cuentas-landing) a la Ciudadanía
+
+-   ### [Otros Informes](https://www.supersociedades.gov.co/web/nuestra-entidad/informes-de-gestion-evaluacion-y-auditoria)
+
+* * *
+
+## Publicador de contenidos
+
+- [Calendario de eventos](https://www.supersociedades.gov.co/calendario-de-eventos)
+
+![Sociedades-Icono.png](https://www.supersociedades.gov.co/documents/20124/100353/Sociedades-Icono.png/3f919e50-d7a3-3d14-5184-54dcbf18ac8f?t=1642348830078)
+
+- [Canales de atención y "pida una cita"](https://www.supersociedades.gov.co/canales-de-atencion)
+
+![Canales de atención y "pida una cita"](https://www.supersociedades.gov.co/documents/20124/100353/Contacto-Icono.png/99b4bbfb-9873-2b15-7ca8-b3ea8096818e?t=1642434887886)
+
+- [Evaluación espacios de participación ciudadana](https://forms.office.com/r/Dd1n6mpzQJ)
+
+![Evaluación espacios de participación ciudadana](https://www.supersociedades.gov.co/documents/20124/2256591/XMLID_1249_.svg/f3f36eb8-2771-965e-2c60-2643b752fa3b?t=1662139059889)
+
+- [Formulario de Inscripción Ciudadana a Procesos de Participación](https://forms.office.com/r/7Tn0FAiTtx)
+
+![Formulario de Inscripción Ciudadana a Procesos de Participación](https://www.supersociedades.gov.co/documents/20124/100353/Unico-Icono.png/6cbdd0d7-610b-7ca4-2f27-4f6e2f59f2ea?t=1654982370309)

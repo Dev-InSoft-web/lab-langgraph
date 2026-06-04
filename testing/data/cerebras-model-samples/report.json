@@ -1,0 +1,212 @@
+{
+  "updatedAt": "2026-06-04T12:31:38.353Z",
+  "keys": [
+    "CEREBRAS_API_KEY",
+    "CEREBRAS_API_KEY_2"
+  ],
+  "apiModelsByKey": {
+    "CEREBRAS_API_KEY": [
+      "gpt-oss-120b",
+      "zai-glm-4.7"
+    ],
+    "CEREBRAS_API_KEY_2": [
+      "zai-glm-4.7",
+      "gpt-oss-120b"
+    ]
+  },
+  "stream": false,
+  "results": [
+    {
+      "modelId": "gpt-oss-120b",
+      "platformName": "OpenAI GPT OSS 120B",
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "The user says: \"Responde solo con la palabra OK.\" Means \"Respond only with the word OK.\" So they want a single word \"",
+      "elapsedMs": 312
+    },
+    {
+      "modelId": "zai-glm-4.7",
+      "platformName": "Z.ai GLM 4.7",
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 1318
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "deepseek-v3.2",
+      "platformName": "DeepSeek V3.2",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model deepseek-v3.2 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 1146
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "glm-5.1",
+      "platformName": "GLM 5.1",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model glm-5.1 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 5462
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "gpt-oss-120b",
+      "platformName": "OpenAI GPT OSS 120B",
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "429 We're experiencing high traffic right now! Please try again soon.",
+      "stream": false,
+      "elapsedMs": 5073
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "gpt-oss-20b",
+      "platformName": "GPT-OSS 20B",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model gpt-oss-20b does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 2370
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "kimi-k2.6",
+      "platformName": "Kimi K2.6",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model kimi-k2.6 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 588
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "minimax-m2",
+      "platformName": "MiniMax M2",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model minimax-m2 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 2292
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "mistral-large-3",
+      "platformName": "Mistral Large 3",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model mistral-large-3 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 1146
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY",
+      "keySuffix": "···58hy",
+      "modelId": "zai-glm-4.7",
+      "platformName": "Z.ai GLM 4.7",
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "stream": false,
+      "elapsedMs": 4202
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "deepseek-v3.2",
+      "platformName": "DeepSeek V3.2",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model deepseek-v3.2 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 1140
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "glm-5.1",
+      "platformName": "GLM 5.1",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model glm-5.1 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 1835
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "gpt-oss-120b",
+      "platformName": "OpenAI GPT OSS 120B",
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "stream": false,
+      "elapsedMs": 4246
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "gpt-oss-20b",
+      "platformName": "GPT-OSS 20B",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model gpt-oss-20b does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 839
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "kimi-k2.6",
+      "platformName": "Kimi K2.6",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model kimi-k2.6 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 1564
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "minimax-m2",
+      "platformName": "MiniMax M2",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model minimax-m2 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 2120
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "mistral-large-3",
+      "platformName": "Mistral Large 3",
+      "ok": false,
+      "httpStatus": 404,
+      "detail": "404 Model mistral-large-3 does not exist or you do not have access to it.",
+      "stream": false,
+      "elapsedMs": 624
+    },
+    {
+      "apiKeyLabel": "CEREBRAS_API_KEY_2",
+      "keySuffix": "···nmym",
+      "modelId": "zai-glm-4.7",
+      "platformName": "Z.ai GLM 4.7",
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "stream": false,
+      "elapsedMs": 677
+    }
+  ]
+}

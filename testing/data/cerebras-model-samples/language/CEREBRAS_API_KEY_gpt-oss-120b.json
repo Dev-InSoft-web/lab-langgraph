@@ -1,0 +1,11 @@
+{
+  "apiKeyLabel": "CEREBRAS_API_KEY",
+  "keySuffix": "···58hy",
+  "modelId": "gpt-oss-120b",
+  "platformName": "OpenAI GPT OSS 120B",
+  "ok": false,
+  "httpStatus": 429,
+  "detail": "429 We're experiencing high traffic right now! Please try again soon.",
+  "stream": false,
+  "elapsedMs": 5073
+}

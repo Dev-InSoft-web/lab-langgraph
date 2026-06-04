@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:29:43.502Z",
+  "videoId": "Xv4KGaGHKYo",
+  "videoUrl": "https://www.youtube.com/watch?v=Xv4KGaGHKYo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "Xv4KGaGHKYo",
+    "title": "Software contable ContaPyme - Explicación de la arquitectura de la aplicación Móvil",
+    "fulltitle": "Software contable ContaPyme - Explicación de la arquitectura de la aplicación Móvil",
+    "description": "http://www.contapyme.com\nEste video explica los componentes de la arquitectura de la aplicación ContaPyme móvil, muestra también la relación existente entre los componentes.\nCP40-530-070-010B-010M",
+    "duration": 127,
+    "duration_string": "2:07",
+    "upload_date": "20130704",
+    "timestamp": 1372976748,
+    "view_count": 578,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/Xv4KGaGHKYo/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNs1bMvOkCzEnq7ztx5SmJSmgKAA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAh6qlL8ISbd0tW6fmiw11CiRnAOg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChKlKry1Rwe_VTitcbh50PJ7d_hw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4rz0b7vOnWQV8hJKsawX5RiCXFQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Xv4KGaGHKYo/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Xv4KGaGHKYo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.7874015748031497,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5118110236220472,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5118110236220472,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 160.306,
+        "asr": 44100,
+        "filesize_approx": 2552091,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Explicación de la arquitectura de la aplicación Móvil",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/Xv4KGaGHKYo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/Xv4KGaGHKYo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Explicación de la arquitectura de la aplicación Móvil\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 25,
+    "transcriptChars": 1953,
+    "segments": [
+      {
+        "text": "explicación de la arquitectura de la aplicación",
+        "startMs": 400,
+        "durationMs": 4310
+      },
+      {
+        "text": "aplicación la aplicación con está pyme para",
+        "startMs": 4710,
+        "durationMs": 1860
+      },
+      {
+        "text": "dispositivos móviles está desarrollada bajo los más altos estándares de calidad",
+        "startMs": 6570,
+        "durationMs": 4860
+      },
+      {
+        "text": "y utilizando las mejores y más revolucionarias tecnologías tanto para",
+        "startMs": 11430,
+        "durationMs": 5040
+      },
+      {
+        "text": "el desarrollo de aplicaciones de escritorio como para aplicaciones web",
+        "startMs": 16470,
+        "durationMs": 5880
+      },
+      {
+        "text": "adicionalmente aprovecha y potencializa toda la funcionalidad de conta pyme de",
+        "startMs": 22360,
+        "durationMs": 7230
+      },
+      {
+        "text": "escritorio con está pyme móvil cuenta con la",
+        "startMs": 29590,
+        "durationMs": 2160
+      },
+      {
+        "text": "siguiente arquitectura tenemos el equipo del cliente y allí se",
+        "startMs": 31750,
+        "durationMs": 5340
+      },
+      {
+        "text": "encuentra instalado con está pyme bien sea el servidor o el cliente de la",
+        "startMs": 37090,
+        "durationMs": 6370
+      },
+      {
+        "text": "de servicios web quien permitirá realizar la conexión desde dispositivos",
+        "startMs": 47510,
+        "durationMs": 3960
+      },
+      {
+        "text": "móviles a la base de datos central y proporcionar a todas las herramientas",
+        "startMs": 51470,
+        "durationMs": 4680
+      },
+      {
+        "text": "necesarias para poder trabajar vía internet",
+        "startMs": 56150,
+        "durationMs": 4970
+      },
+      {
+        "text": "el agente de servicios web de contamina growing será el encargado de exponer un",
+        "startMs": 43460,
+        "durationMs": 23390
+      },
+      {
+        "text": "sinnúmero de peticiones que permitirán a la aplicación con está pyme móvil y",
+        "startMs": 66850,
+        "durationMs": 5040
+      },
+      {
+        "text": "aplicaciones de terceros acceder a toda la información que se encuentra",
+        "startMs": 71890,
+        "durationMs": 4410
+      },
+      {
+        "text": "centralizada en el servidor de datos de contacto estas peticiones se realizan",
+        "startMs": 76300,
+        "durationMs": 5490
+      },
+      {
+        "text": "mediante el protocolo rest otro componente de la arquitectura de la",
+        "startMs": 81790,
+        "durationMs": 5510
+      },
+      {
+        "text": "aplicación con está pyme móvil es el sistema de clientes internos in soft por",
+        "startMs": 87300,
+        "durationMs": 4980
+      },
+      {
+        "text": "medio del cual se realizan labores de consulta y de redireccionamiento de los",
+        "startMs": 92280,
+        "durationMs": 4500
+      },
+      {
+        "text": "usuarios que se conectan desde su dispositivo móvil",
+        "startMs": 96780,
+        "durationMs": 3810
+      },
+      {
+        "text": "finalmente en nuestra arquitectura encontramos el dispositivo móvil que",
+        "startMs": 100590,
+        "durationMs": 5110
+      },
+      {
+        "text": "puede ser un smartphone una tablet o un computador y desde el cual el usuario",
+        "startMs": 105700,
+        "durationMs": 5820
+      },
+      {
+        "text": "podrá interactuar con la aplicación mediante una interfaz totalmente",
+        "startMs": 111520,
+        "durationMs": 4560
+      },
+      {
+        "text": "amigable diseñada especialmente para facilitar el trabajo desde este tipo de",
+        "startMs": 116080,
+        "durationMs": 6690
+      },
+      {
+        "text": "esto es todo sobre explicación de la arquitectura de la aplicación",
+        "startMs": 122770,
+        "durationMs": 5940
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video explica los componentes de la arquitectura de la aplicación ContaPyme móvil, muestra también la relación existente entre los componentes.\nCP40-530-070-010B-010M\n\n## Transcripción\n\nexplicación de la arquitectura de la aplicación\naplicación la aplicación con está pyme para\ndispositivos móviles está desarrollada bajo los más altos estándares de calidad\ny utilizando las mejores y más revolucionarias tecnologías tanto para\nel desarrollo de aplicaciones de escritorio como para aplicaciones web\nadicionalmente aprovecha y potencializa toda la funcionalidad de conta pyme de\nescritorio con está pyme móvil cuenta con la\nsiguiente arquitectura tenemos el equipo del cliente y allí se\nencuentra instalado con está pyme bien sea el servidor o el cliente de la\nde servicios web quien permitirá realizar la conexión desde dispositivos\nmóviles a la base de datos central y proporcionar a todas las herramientas\nnecesarias para poder trabajar vía internet\nel agente de servicios web de contamina growing será el encargado de exponer un\nsinnúmero de peticiones que permitirán a la aplicación con está pyme móvil y\naplicaciones de terceros acceder a toda la información que se encuentra\ncentralizada en el servidor de datos de contacto estas peticiones se realizan\nmediante el protocolo rest otro componente de la arquitectura de la\naplicación con está pyme móvil es el sistema de clientes internos in soft por\nmedio del cual se realizan labores de consulta y de redireccionamiento de los\nusuarios que se conectan desde su dispositivo móvil\nfinalmente en nuestra arquitectura encontramos el dispositivo móvil que\npuede ser un smartphone una tablet o un computador y desde el cual el usuario\npodrá interactuar con la aplicación mediante una interfaz totalmente\namigable diseñada especialmente para facilitar el trabajo desde este tipo de\nesto es todo sobre explicación de la arquitectura de la aplicación"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 160.306,
+    "asr": 44100,
+    "filesizeApprox": 2552091,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/Xv4KGaGHKYo.md",
+    "json": "videos/2013/Xv4KGaGHKYo.json",
+    "infoJson": "videos/2013/Xv4KGaGHKYo.info.json"
+  },
+  "publishYear": "2013"
+}

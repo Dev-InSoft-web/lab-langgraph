@@ -1,0 +1,20 @@
+{
+  "startedAt": "2026-06-04T06:08:38.210Z",
+  "finishedAt": "2026-06-04T06:13:51.503Z",
+  "totalInCorpus": 1,
+  "inBatch": 1,
+  "processed": 1,
+  "skipped": 0,
+  "failed": 0,
+  "segmentsChangedTotal": 8,
+  "opts": {
+    "limit": 1,
+    "offset": 0,
+    "delayMs": 2000,
+    "resume": false,
+    "videoId": "3cR3sv_emSE",
+    "allowOpenAi": false,
+    "force": true
+  },
+  "errors": []
+}

@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:38:57.968Z",
+  "videoId": "SMijL11LQQk",
+  "videoUrl": "https://www.youtube.com/watch?v=SMijL11LQQk",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "SMijL11LQQk",
+    "title": "Software agricola AgroWin - Presentacion Manejo de productos",
+    "fulltitle": "Software agricola AgroWin - Presentacion Manejo de productos",
+    "description": "http://www.agrowin.com\nSoftware agrícola AgroWin\nPresentaciòn general del tema resaltando su importancia en el manejo de de finca y del sistema\nAW40-220-01-01B",
+    "duration": 226,
+    "duration_string": "3:46",
+    "upload_date": "20111109",
+    "timestamp": 1320852053,
+    "view_count": 103,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/SMijL11LQQk/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8wXD40T3RjzQDy_jF-e8Z5PZC2A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCdhETjgxKIJ6MSZdPUYfslA4yCRA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj-FuvQh46xXqhnioeJUcQfqto1A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt9azVYDNX8ktTlH5Q2ORbxCr2yw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SMijL11LQQk/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SMijL11LQQk/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=SMijL11LQQk",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 165.752,
+        "asr": 44100,
+        "filesize_approx": 4684876,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - Presentacion Manejo de productos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/SMijL11LQQk/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/SMijL11LQQk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - Presentacion Manejo de productos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 49,
+    "transcriptChars": 3334,
+    "segments": [
+      {
+        "text": "agroin presentación del tema manejo de productos los productos de la finca son",
+        "startMs": 2040,
+        "durationMs": 8390
+      },
+      {
+        "text": "el objetivo de nuestra actividad productiva y a su obtención es hacia",
+        "startMs": 10430,
+        "durationMs": 4600
+      },
+      {
+        "text": "donde dirigimos todos los recursos y esfuerzos",
+        "startMs": 15030,
+        "durationMs": 4560
+      },
+      {
+        "text": "esfuerzos administrativos estos productos son la",
+        "startMs": 19590,
+        "durationMs": 2120
+      },
+      {
+        "text": "Fuente básica de ingresos de la empresa agrícola y como tales ameritan su manejo",
+        "startMs": 21710,
+        "durationMs": 4240
+      },
+      {
+        "text": "técnico y ordenado por parte del empresario",
+        "startMs": 25950,
+        "durationMs": 3000
+      },
+      {
+        "text": "empresario agrícola",
+        "startMs": 28950,
+        "durationMs": 1799
+      },
+      {
+        "text": "agrícola dentro de un procedimiento lógico y",
+        "startMs": 30749,
+        "durationMs": 1761
+      },
+      {
+        "text": "ordenado de manejo estos productos una vez cosechados deben ser llevados a la",
+        "startMs": 32510,
+        "durationMs": 6039
+      },
+      {
+        "text": "bodega de productos para su inventario antes de ser vendidos u ocupados en",
+        "startMs": 38549,
+        "durationMs": 9121
+      },
+      {
+        "text": "finca pero la doga de productos cumple además una serie de funciones",
+        "startMs": 47680,
+        "durationMs": 4750
+      },
+      {
+        "text": "adicionales al almacenamiento físico de los",
+        "startMs": 52430,
+        "durationMs": 3040
+      },
+      {
+        "text": "los productos en las fincas que no asumen",
+        "startMs": 55470,
+        "durationMs": 2360
+      },
+      {
+        "text": "labor de poscosecha la de productos suele ser el sitio donde los productos",
+        "startMs": 57830,
+        "durationMs": 4199
+      },
+      {
+        "text": "se preseleccion y se limpian de residuos de",
+        "startMs": 62029,
+        "durationMs": 3521
+      },
+      {
+        "text": "de cosecha de esta manera la huega de",
+        "startMs": 65550,
+        "durationMs": 2360
+      },
+      {
+        "text": "productos es el sitio donde se conoce la cantidad de productos realmente",
+        "startMs": 67910,
+        "durationMs": 3480
+      },
+      {
+        "text": "disponible para la venta en las fincas que realizan algún proceso de",
+        "startMs": 71390,
+        "durationMs": 4240
+      },
+      {
+        "text": "postcosecha los productos se almacenan clasificados en sus diferentes calidades",
+        "startMs": 75630,
+        "durationMs": 4560
+      },
+      {
+        "text": "para la venta cuando se manejan metodologías de",
+        "startMs": 80190,
+        "durationMs": 4080
+      },
+      {
+        "text": "contabilización de costos de producción el inventario físico de los productos",
+        "startMs": 84270,
+        "durationMs": 4120
+      },
+      {
+        "text": "incluye también el registro de sus costos de producción lo que nos",
+        "startMs": 88390,
+        "durationMs": 4079
+      },
+      {
+        "text": "permitirá más adelante deducir la utilidad esperada en cualquier venta que",
+        "startMs": 92469,
+        "durationMs": 6000
+      },
+      {
+        "text": "realice el manejo técnico de los inventarios de productos consiste en",
+        "startMs": 98479,
+        "durationMs": 4791
+      },
+      {
+        "text": "anotar precisamente las cantidades de producto que ingresan en las bodegas de",
+        "startMs": 103270,
+        "durationMs": 4040
+      },
+      {
+        "text": "inventario proveniente de los lotes y cultivos y las cantidades egresadas de",
+        "startMs": 107310,
+        "durationMs": 5640
+      },
+      {
+        "text": "bodega en la venta a los clientes o en los consumos propios de la",
+        "startMs": 112950,
+        "durationMs": 5880
+      },
+      {
+        "text": "finca este manejo nos permite conocer tres datos fundamentales para cualquier",
+        "startMs": 118830,
+        "durationMs": 4440
+      },
+      {
+        "text": "producto en cualquier fecha de consulta primero las cantidades del",
+        "startMs": 123270,
+        "durationMs": 5560
+      },
+      {
+        "text": "producto ingresadas en Bodega con su lote o cultivo",
+        "startMs": 128830,
+        "durationMs": 4200
+      },
+      {
+        "text": "productor segundo las cantidades del producto egresados de bodega con su",
+        "startMs": 133030,
+        "durationMs": 5520
+      },
+      {
+        "text": "respectivo destino cliente o centro de costos de la finca y tercero la cantidad",
+        "startMs": 138550,
+        "durationMs": 6399
+      },
+      {
+        "text": "actual del producto en Bodega disponible para su posterior venta o uso dentro de",
+        "startMs": 144949,
+        "durationMs": 7121
+      },
+      {
+        "text": "esta información es importante para documentar informes administrativos",
+        "startMs": 152080,
+        "durationMs": 3590
+      },
+      {
+        "text": "especializados del sistema como los informes de saldos y movimientos de",
+        "startMs": 155670,
+        "durationMs": 5520
+      },
+      {
+        "text": "inventario que nos presentan la cantidad de producto existente en Bodega y por lo",
+        "startMs": 161190,
+        "durationMs": 4840
+      },
+      {
+        "text": "tanto no vendido o disponible para la venta o los informes de inventario por",
+        "startMs": 166030,
+        "durationMs": 5119
+      },
+      {
+        "text": "centro de costos que muestran la existencia de productos en bodegas",
+        "startMs": 171149,
+        "durationMs": 4321
+      },
+      {
+        "text": "clasificados por su lote origen o los informes de venta",
+        "startMs": 175470,
+        "durationMs": 4920
+      },
+      {
+        "text": "donde se detallan las cantidades de producto vendidas a los diferentes",
+        "startMs": 180390,
+        "durationMs": 3919
+      },
+      {
+        "text": "clientes con información adicional como el valor de la venta o el costo de",
+        "startMs": 184309,
+        "durationMs": 4081
+      },
+      {
+        "text": "producción de la cantidad vendida cuando se manejan metodologías de",
+        "startMs": 188390,
+        "durationMs": 7600
+      },
+      {
+        "text": "producción además la información documentada será la fuente de",
+        "startMs": 196000,
+        "durationMs": 5070
+      },
+      {
+        "text": "alimentación de los diversos informes contables del sistema a través del",
+        "startMs": 201070,
+        "durationMs": 3920
+      },
+      {
+        "text": "módulo de contabilidad automatizada informes como el balance",
+        "startMs": 204990,
+        "durationMs": 6280
+      },
+      {
+        "text": "general el estado de resultados o el estado de",
+        "startMs": 211270,
+        "durationMs": 3039
+      },
+      {
+        "text": "cambios en el patrimonio entre algunos otros esto es todo sobre presentación",
+        "startMs": 214309,
+        "durationMs": 5920
+      },
+      {
+        "text": "del tema manejo de productos gracias por su",
+        "startMs": 220229,
+        "durationMs": 4801
+      },
+      {
+        "text": "su atención",
+        "startMs": 225030,
+        "durationMs": 3010
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.agrowin.com\nSoftware agrícola AgroWin\nPresentaciòn general del tema resaltando su importancia en el manejo de de finca y del sistema\nAW40-220-01-01B\n\n## Transcripción\n\nagroin presentación del tema manejo de productos los productos de la finca son\nel objetivo de nuestra actividad productiva y a su obtención es hacia\ndonde dirigimos todos los recursos y esfuerzos\nesfuerzos administrativos estos productos son la\nFuente básica de ingresos de la empresa agrícola y como tales ameritan su manejo\ntécnico y ordenado por parte del empresario\nempresario agrícola\nagrícola dentro de un procedimiento lógico y\nordenado de manejo estos productos una vez cosechados deben ser llevados a la\nbodega de productos para su inventario antes de ser vendidos u ocupados en\nfinca pero la doga de productos cumple además una serie de funciones\nadicionales al almacenamiento físico de los\nlos productos en las fincas que no asumen\nlabor de poscosecha la de productos suele ser el sitio donde los productos\nse preseleccion y se limpian de residuos de\nde cosecha de esta manera la huega de\nproductos es el sitio donde se conoce la cantidad de productos realmente\ndisponible para la venta en las fincas que realizan algún proceso de\npostcosecha los productos se almacenan clasificados en sus diferentes calidades\npara la venta cuando se manejan metodologías de\ncontabilización de costos de producción el inventario físico de los productos\nincluye también el registro de sus costos de producción lo que nos\npermitirá más adelante deducir la utilidad esperada en cualquier venta que\nrealice el manejo técnico de los inventarios de productos consiste en\nanotar precisamente las cantidades de producto que ingresan en las bodegas de\ninventario proveniente de los lotes y cultivos y las cantidades egresadas de\nbodega en la venta a los clientes o en los consumos propios de la\nfinca este manejo nos permite conocer tres datos fundamentales para cualquier\nproducto en cualquier fecha de consulta primero las cantidades del\nproducto ingresadas en Bodega con su lote o cultivo\nproductor segundo las cantidades del producto egresados de bodega con su\nrespectivo destino cliente o centro de costos de la finca y tercero la cantidad\nactual del producto en Bodega disponible para su posterior venta o uso dentro de\nesta información es importante para documentar informes administrativos\nespecializados del sistema como los informes de saldos y movimientos de\ninventario que nos presentan la cantidad de producto existente en Bodega y por lo\ntanto no vendido o disponible para la venta o los informes de inventario por\ncentro de costos que muestran la existencia de productos en bodegas\nclasificados por su lote origen o los informes de venta\ndonde se detallan las cantidades de producto vendidas a los diferentes\nclientes con información adicional como el valor de la venta o el costo de\nproducción de la cantidad vendida cuando se manejan metodologías de\nproducción además la información documentada será la fuente de\nalimentación de los diversos informes contables del sistema a través del\nmódulo de contabilidad automatizada informes como el balance\ngeneral el estado de resultados o el estado de\ncambios en el patrimonio entre algunos otros esto es todo sobre presentación\ndel tema manejo de productos gracias por su\nsu atención"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 165.752,
+    "asr": 44100,
+    "filesizeApprox": 4684876,
+    "formatCount": 1
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/SMijL11LQQk.md",
+    "json": "videos/2011/SMijL11LQQk.json",
+    "infoJson": "videos/2011/SMijL11LQQk.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

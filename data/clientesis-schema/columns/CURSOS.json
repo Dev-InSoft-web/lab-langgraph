@@ -1,0 +1,113 @@
+{
+  "version": 4,
+  "kind": "columns-tree",
+  "tableref": "CURSOS",
+  "tablemeta": {
+    "originalname": "CURSOS",
+    "hasifnotexists": true
+  },
+  "nodes": [
+    {
+      "flatpath": "1",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "2",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "3",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "4",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "5",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "6",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "7",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "8",
+      "kind": "optional",
+      "name": "AUDITORIA"
+    }
+  ],
+  "entities": {
+    "COLUMN": [
+      {
+        "icolumn": "1",
+        "flatpath": "1",
+        "name": "ICURSO",
+        "type": "VARCHAR(10)",
+        "primarykey": true,
+        "kind": "col"
+      },
+      {
+        "icolumn": "2",
+        "flatpath": "2",
+        "name": "NCURSO",
+        "type": "VARCHAR(255)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "3",
+        "flatpath": "3",
+        "name": "ITEMA",
+        "type": "VARCHAR(25)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "4",
+        "flatpath": "4",
+        "name": "DESCRIPCION",
+        "type": "TEXT",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "5",
+        "flatpath": "5",
+        "name": "IDRIVER",
+        "type": "SMALLINT",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "6",
+        "flatpath": "6",
+        "name": "BACTIVO",
+        "type": "BIT",
+        "defaultvalue": "1",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "7",
+        "flatpath": "7",
+        "name": "BGENERACERTIFICADOS",
+        "type": "BIT",
+        "defaultvalue": "0",
+        "primarykey": false,
+        "kind": "col"
+      }
+    ]
+  }
+}

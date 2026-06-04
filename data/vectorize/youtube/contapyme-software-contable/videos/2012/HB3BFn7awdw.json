@@ -1,0 +1,818 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:28:15.991Z",
+  "videoId": "HB3BFn7awdw",
+  "videoUrl": "https://www.youtube.com/watch?v=HB3BFn7awdw",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "HB3BFn7awdw",
+    "title": "Software contable  ContaPyme - Embodegamiento de elementos compuestos",
+    "fulltitle": "Software contable  ContaPyme - Embodegamiento de elementos compuestos",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo realizar un embodegamiento de un elemento compuesto, el movimiento contable y de inventario que normalmente genera esta operación y la configuración que debe tener el elemento compuesto.\nCP40-140-030-040B",
+    "duration": 595,
+    "duration_string": "9:55",
+    "upload_date": "20120616",
+    "timestamp": 1339866421,
+    "view_count": 1202,
+    "like_count": 3,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software contable",
+      "paquete contable",
+      "software contable colombia",
+      "programa contable",
+      "sistema contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/HB3BFn7awdw/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLBMqMbRjiUxXylp43IPDiogxgBSsQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARghID0ofzAP&rs=AOn4CLDqU5D3HIB69qVMPewgDMXAL-qLxA",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLC9hiZgRFjmDbzOWrfAlkRx9Y0nNA",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLAONIwFo173FG8r52xBd1UcXX2X5Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLDhK4W152-udPvlAMpA292nLgmdww",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARghID0ofzAP&rs=AOn4CLDR08IiIbOw-Dy4jmcgMbm-7LtTXA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARghID0ofzAP&rs=AOn4CLDqbSISUIhqYYh7pxdqo9rTSS0w2Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLCW9pEyc5MpXMUi9n-0paBjjanHbA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLBMqMbRjiUxXylp43IPDiogxgBSsQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HB3BFn7awdw/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HB3BFn7awdw/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=HB3BFn7awdw",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.16806722689075632,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20168067226890757,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20168067226890757,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20168067226890757,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 194.92,
+        "asr": 44100,
+        "filesize_approx": 14488963,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable  ContaPyme - Embodegamiento de elementos compuestos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/HB3BFn7awdw/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/HB3BFn7awdw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable  ContaPyme - Embodegamiento de elementos compuestos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 78,
+    "transcriptChars": 5315,
+    "segments": [
+      {
+        "text": "embodied producir un producto que está compuesto de insumos o partes el cual",
+        "startMs": 5560,
+        "durationMs": 6710
+      },
+      {
+        "text": "necesitamos ingresarlo al inventario del sistema y que cuando se ingrese",
+        "startMs": 12270,
+        "durationMs": 5400
+      },
+      {
+        "text": "automáticamente descargue del inventario los insumos o partes por ejemplo",
+        "startMs": 17670,
+        "durationMs": 5880
+      },
+      {
+        "text": "realizamos el ensamble del computador MP ensamblado 2 el cual Está compuesto por",
+        "startMs": 23550,
+        "durationMs": 7600
+      },
+      {
+        "text": "varios productos como un disco duro de 500",
+        "startMs": 31150,
+        "durationMs": 6760
+      },
+      {
+        "text": "Gb un monitor de 18.5 pulgadas una impresora de inyección de",
+        "startMs": 37920,
+        "durationMs": 8430
+      },
+      {
+        "text": "tinta unos parlantes multimedia entre otros",
+        "startMs": 46350,
+        "durationMs": 17199
+      },
+      {
+        "text": "necesitamos ingresar al inventario tres unidades del computador MP ensamblado 2",
+        "startMs": 63559,
+        "durationMs": 7511
+      },
+      {
+        "text": "y que automáticamente de salida del inventario a cada una de sus partes",
+        "startMs": 71070,
+        "durationMs": 6200
+      },
+      {
+        "text": "estas salidas de las partes y entrada del producto o elemento compuesto lo",
+        "startMs": 77270,
+        "durationMs": 5920
+      },
+      {
+        "text": "podemos realizar a través de la operación de",
+        "startMs": 83190,
+        "durationMs": 6760
+      },
+      {
+        "text": "operación tiene como objetivo ingresar al inventario los productos que se",
+        "startMs": 89960,
+        "durationMs": 5149
+      },
+      {
+        "text": "producen en la empresa cuando se realiza un emodi de un elemento compuesto el",
+        "startMs": 95109,
+        "durationMs": 6521
+      },
+      {
+        "text": "sistema realiza la salida del inventario de las partes del elemento y al mismo",
+        "startMs": 101630,
+        "durationMs": 6320
+      },
+      {
+        "text": "tiempo realizan la entrada al inventario del elemento",
+        "startMs": 107950,
+        "durationMs": 5199
+      },
+      {
+        "text": "compuesto en el sistema para que un elemento compuesto pueda ser embodoe",
+        "startMs": 113149,
+        "durationMs": 5600
+      },
+      {
+        "text": "tener la siguiente configuraciones debe controlar",
+        "startMs": 118749,
+        "durationMs": 4161
+      },
+      {
+        "text": "cantidades en inventario y debe tener activa la opción de ex producto además",
+        "startMs": 122910,
+        "durationMs": 7160
+      },
+      {
+        "text": "en el tipo de comportamiento de las partes debe tener configurada la opción",
+        "startMs": 130070,
+        "durationMs": 12920
+      },
+      {
+        "text": "embodied configurado un elemento compuesto para ser",
+        "startMs": 143000,
+        "durationMs": 6949
+      },
+      {
+        "startMs": 149959,
+        "durationMs": 6350,
+        "text": "Cómo se realiza un"
+      },
+      {
+        "text": "embodied gamiento de tres computadores MP ensamblado 2 ubicados en el manejador",
+        "startMs": 156319,
+        "durationMs": 8231
+      },
+      {
+        "text": "de operaciones ingresamos por más operaciones ventas y seleccionamos la",
+        "startMs": 164550,
+        "durationMs": 10319
+      },
+      {
+        "text": "embodied y nos abre el asistente para registrar la operación",
+        "startMs": 174879,
+        "durationMs": 5671
+      },
+      {
+        "text": "podemos visualizar que hasta el momento esta operación es de tan solo un paso",
+        "startMs": 180550,
+        "durationMs": 6239
+      },
+      {
+        "text": "indicamos la bodega a la cual ingresarán los productos en bodegad en este caso",
+        "startMs": 186789,
+        "durationMs": 14160
+      },
+      {
+        "text": "ensamblados seleccionamos el producto que vamos a bodegar en este caso el",
+        "startMs": 200959,
+        "durationMs": 13511
+      },
+      {
+        "text": "dos y podemos visualizar que automáticamente se activa el botón de",
+        "startMs": 214480,
+        "durationMs": 6070
+      },
+      {
+        "text": "siguiente ya que estamos realizando el registro de un elemento compuesto",
+        "startMs": 220550,
+        "durationMs": 5959
+      },
+      {
+        "text": "indicamos la cantidad que estamos ingresando a la bodega en este caso tres",
+        "startMs": 226509,
+        "durationMs": 13401
+      },
+      {
+        "text": "arle el costo unitario de este elemento ya que Su costo unitario es el total de",
+        "startMs": 239920,
+        "durationMs": 5910
+      },
+      {
+        "text": "la suma del costo total de cada una de las partes que lo",
+        "startMs": 245830,
+        "durationMs": 4640
+      },
+      {
+        "text": "compone indicamos el centro de costos que produjo este",
+        "startMs": 250470,
+        "durationMs": 6240
+      },
+      {
+        "text": "producto en este caso vamos a indicar que el departamento de",
+        "startMs": 256710,
+        "durationMs": 7479
+      },
+      {
+        "text": "ensamble como en este caso solo Vamos a bodegar este producto damos siguiente",
+        "startMs": 264199,
+        "durationMs": 6830
+      },
+      {
+        "text": "recordemos que esta opción se nos activó porque estamos",
+        "startMs": 271029,
+        "durationMs": 6720
+      },
+      {
+        "text": "embodoe en este segundo paso indicamos la bodega",
+        "startMs": 277749,
+        "durationMs": 4241
+      },
+      {
+        "text": "de la cual el sistema egresar o dará salida de las partes que",
+        "startMs": 281990,
+        "durationMs": 4960
+      },
+      {
+        "text": "componen el elemento compuesto en este caso vamos a indicar la bodega uno de",
+        "startMs": 286950,
+        "durationMs": 7160
+      },
+      {
+        "text": "insumos y materiales vamos a visualizar cómo nos",
+        "startMs": 294110,
+        "durationMs": 11680
+      },
+      {
+        "text": "embodied observar que nos indica la bodega a la cual está ingresando el",
+        "startMs": 305800,
+        "durationMs": 6389
+      },
+      {
+        "text": "producto en bodeg nos indica el centro de costos",
+        "startMs": 312189,
+        "durationMs": 5000
+      },
+      {
+        "text": "productor el código y descripción del producto en este caso del computador MP",
+        "startMs": 317189,
+        "durationMs": 7081
+      },
+      {
+        "text": "ensamblado do Con su respectiva cantidad damos cerrar",
+        "startMs": 324270,
+        "durationMs": 12280
+      },
+      {
+        "text": "operación podemos visualizar que la operación de embeg amiento de productos",
+        "startMs": 336560,
+        "durationMs": 5430
+      },
+      {
+        "text": "nos quedó registrada y procesada en el manejador de",
+        "startMs": 341990,
+        "durationMs": 3919
+      },
+      {
+        "text": "operaciones si visualizamos el movimiento contable que generó este",
+        "startMs": 345909,
+        "durationMs": 8361
+      },
+      {
+        "text": "por cada una de las partes del elemento compuesto y lo cruzó contra la cuenta de",
+        "startMs": 360710,
+        "durationMs": 10080
+      },
+      {
+        "text": "producto en proceso además realizó la entrada de la cuenta",
+        "startMs": 370790,
+        "durationMs": 7480
+      },
+      {
+        "text": "de inventarios del elemento compuesto que se embudo y lo cruzó contra la",
+        "startMs": 354280,
+        "durationMs": 29870
+      },
+      {
+        "text": "proceso Generalmente el movimiento contable que",
+        "startMs": 388550,
+        "durationMs": 9400
+      },
+      {
+        "text": "embodied la cuenta de inventarios y la cruza contra la cuenta de egresos que",
+        "startMs": 397960,
+        "durationMs": 6470
+      },
+      {
+        "text": "tengamos configurada en el grupo de inventario es recomendable que cuando no",
+        "startMs": 404430,
+        "durationMs": 5800
+      },
+      {
+        "text": "se manejen costos de producción se configure en la cuenta de egresos del",
+        "startMs": 410230,
+        "durationMs": 5120
+      },
+      {
+        "text": "la cuenta de producto en proceso además genera un crédito de la",
+        "startMs": 420189,
+        "durationMs": 6921
+      },
+      {
+        "text": "cuenta de producto en proceso y cruza contra la cuenta del inventario del",
+        "startMs": 384150,
+        "durationMs": 48439
+      },
+      {
+        "text": "elemento compuesto y el movimiento de inventarios que genera es la salida de",
+        "startMs": 415350,
+        "durationMs": 24320
+      },
+      {
+        "text": "la bodega de cada una de las partes del elemento compuesto Con su respectiva",
+        "startMs": 439670,
+        "durationMs": 6760
+      },
+      {
+        "text": "cantidad costo unitario y costo total además generan la entrada al inventario",
+        "startMs": 446430,
+        "durationMs": 7920
+      },
+      {
+        "text": "del elemento compuesto Con su respectiva cantidad costo unitario y costo",
+        "startMs": 454350,
+        "durationMs": 6440
+      },
+      {
+        "text": "total debemos tener en cuenta que el costo unitario lo Calcula del total de",
+        "startMs": 460790,
+        "durationMs": 6640
+      },
+      {
+        "text": "la sumatoria de los costos de cada una de las partes que compone al elemento",
+        "startMs": 467430,
+        "durationMs": 8080
+      },
+      {
+        "startMs": 475520,
+        "durationMs": 4509,
+        "text": "compuesto cerramos"
+      },
+      {
+        "text": "si visualizamos el movimiento de inventario que generó este",
+        "startMs": 480039,
+        "durationMs": 5951
+      },
+      {
+        "text": "embodied ver movimiento contable y seleccionamos ver movimiento de",
+        "startMs": 485990,
+        "durationMs": 6680
+      },
+      {
+        "text": "inventario podemos observar la salida de cada una de las",
+        "startMs": 492670,
+        "durationMs": 6880
+      },
+      {
+        "text": "partes con su respectiva cantidad costo unitario y costo",
+        "startMs": 499550,
+        "durationMs": 5960
+      },
+      {
+        "text": "total Además nos indica la entrada de las tres unidades del computador MP",
+        "startMs": 505510,
+        "durationMs": 8600
+      },
+      {
+        "text": "ensamblado 2 a un costo unitario de 1 225.500 pesos el cual recordemos que es",
+        "startMs": 514110,
+        "durationMs": 11680
+      },
+      {
+        "text": "el total de la suma del costo total de cada una de las partes y nos indica el",
+        "startMs": 525790,
+        "durationMs": 12640
+      },
+      {
+        "text": "explorador consultamos el informe de saldos de",
+        "startMs": 538440,
+        "durationMs": 7310
+      },
+      {
+        "text": "inventarios solo con el computador MP ensamblado",
+        "startMs": 545760,
+        "durationMs": 15470
+      },
+      {
+        "text": "2 podemos visualizar que nos indica que tenemos tres unidades en la bodega de",
+        "startMs": 561240,
+        "durationMs": 7510
+      },
+      {
+        "text": "equipos ensamblados a un costo unitario de",
+        "startMs": 568750,
+        "durationMs": 5800
+      },
+      {
+        "text": "de 1,225",
+        "startMs": 574550,
+        "durationMs": 1800
+      },
+      {
+        "text": "1,225 500 y un costo total de",
+        "startMs": 576350,
+        "durationMs": 4960
+      },
+      {
+        "text": "3,676 mil500 debido al",
+        "startMs": 581320,
+        "durationMs": 9189
+      },
+      {
+        "startMs": 590519,
+        "durationMs": 5481,
+        "text": "embodied amiento de elementos compuestos"
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo realizar un embodegamiento de un elemento compuesto, el movimiento contable y de inventario que normalmente genera esta operación y la configuración que debe tener el elemento compuesto.\nCP40-140-030-040B\n\n## Transcripción\n\nembodied producir un producto que está compuesto de insumos o partes el cual\nnecesitamos ingresarlo al inventario del sistema y que cuando se ingrese\nautomáticamente descargue del inventario los insumos o partes por ejemplo\nrealizamos el ensamble del computador MP ensamblado 2 el cual Está compuesto por\nvarios productos como un disco duro de 500\nGb un monitor de 18.5 pulgadas una impresora de inyección de\ntinta unos parlantes multimedia entre otros\nnecesitamos ingresar al inventario tres unidades del computador MP ensamblado 2\ny que automáticamente de salida del inventario a cada una de sus partes\nestas salidas de las partes y entrada del producto o elemento compuesto lo\npodemos realizar a través de la operación de\noperación tiene como objetivo ingresar al inventario los productos que se\nproducen en la empresa cuando se realiza un emodi de un elemento compuesto el\nsistema realiza la salida del inventario de las partes del elemento y al mismo\ntiempo realizan la entrada al inventario del elemento\ncompuesto en el sistema para que un elemento compuesto pueda ser embodoe\ntener la siguiente configuraciones debe controlar\ncantidades en inventario y debe tener activa la opción de ex producto además\nen el tipo de comportamiento de las partes debe tener configurada la opción\nembodied configurado un elemento compuesto para ser\nCómo se realiza un\nembodied gamiento de tres computadores MP ensamblado 2 ubicados en el manejador\nde operaciones ingresamos por más operaciones ventas y seleccionamos la\nembodied y nos abre el asistente para registrar la operación\npodemos visualizar que hasta el momento esta operación es de tan solo un paso\nindicamos la bodega a la cual ingresarán los productos en bodegad en este caso\nensamblados seleccionamos el producto que vamos a bodegar en este caso el\ndos y podemos visualizar que automáticamente se activa el botón de\nsiguiente ya que estamos realizando el registro de un elemento compuesto\nindicamos la cantidad que estamos ingresando a la bodega en este caso tres\narle el costo unitario de este elemento ya que Su costo unitario es el total de\nla suma del costo total de cada una de las partes que lo\ncompone indicamos el centro de costos que produjo este\nproducto en este caso vamos a indicar que el departamento de\nensamble como en este caso solo Vamos a bodegar este producto damos siguiente\nrecordemos que esta opción se nos activó porque estamos\nembodoe en este segundo paso indicamos la bodega\nde la cual el sistema egresar o dará salida de las partes que\ncomponen el elemento compuesto en este caso vamos a indicar la bodega uno de\ninsumos y materiales vamos a visualizar cómo nos\nembodied observar que nos indica la bodega a la cual está ingresando el\nproducto en bodeg nos indica el centro de costos\nproductor el código y descripción del producto en este caso del computador MP\nensamblado do Con su respectiva cantidad damos cerrar\noperación podemos visualizar que la operación de embeg amiento de productos\nnos quedó registrada y procesada en el manejador de\noperaciones si visualizamos el movimiento contable que generó este\npor cada una de las partes del elemento compuesto y lo cruzó contra la cuenta de\nproducto en proceso además realizó la entrada de la cuenta\nde inventarios del elemento compuesto que se embudo y lo cruzó contra la\nproceso Generalmente el movimiento contable que\nembodied la cuenta de inventarios y la cruza contra la cuenta de egresos que\ntengamos configurada en el grupo de inventario es recomendable que cuando no\nse manejen costos de producción se configure en la cuenta de egresos del\nla cuenta de producto en proceso además genera un crédito de la\ncuenta de producto en proceso y cruza contra la cuenta del inventario del\nelemento compuesto y el movimiento de inventarios que genera es la salida de\nla bodega de cada una de las partes del elemento compuesto Con su respectiva\ncantidad costo unitario y costo total además generan la entrada al inventario\ndel elemento compuesto Con su respectiva cantidad costo unitario y costo\ntotal debemos tener en cuenta que el costo unitario lo Calcula del total de\nla sumatoria de los costos de cada una de las partes que compone al elemento\ncompuesto cerramos\nsi visualizamos el movimiento de inventario que generó este\nembodied ver movimiento contable y seleccionamos ver movimiento de\ninventario podemos observar la salida de cada una de las\npartes con su respectiva cantidad costo unitario y costo\ntotal Además nos indica la entrada de las tres unidades del computador MP\nensamblado 2 a un costo unitario de 1 225.500 pesos el cual recordemos que es\nel total de la suma del costo total de cada una de las partes y nos indica el\nexplorador consultamos el informe de saldos de\ninventarios solo con el computador MP ensamblado\n2 podemos visualizar que nos indica que tenemos tres unidades en la bodega de\nequipos ensamblados a un costo unitario de\nde 1,225\n1,225 500 y un costo total de\n3,676 mil500 debido al\nembodied amiento de elementos compuestos"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 194.92,
+    "asr": 44100,
+    "filesizeApprox": 14488963,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/HB3BFn7awdw.md",
+    "json": "videos/2012/HB3BFn7awdw.json",
+    "infoJson": "videos/2012/HB3BFn7awdw.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

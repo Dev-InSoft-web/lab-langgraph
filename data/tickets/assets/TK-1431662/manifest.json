@@ -1,0 +1,29 @@
+{
+	"ticketId": "TK-1431662",
+	"assets": [
+		{
+			"id": "tk1431662-instruccion-modelo",
+			"kind": "mermaid",
+			"source": "tk1431662-instruccion-modelo.mmd",
+			"png": "tk1431662-instruccion-modelo.png"
+		},
+		{
+			"id": "tk1431662-fases-modelo",
+			"kind": "mermaid",
+			"source": "tk1431662-fases-modelo.mmd",
+			"png": "tk1431662-fases-modelo.png"
+		},
+		{
+			"id": "tk1431662-instruccion-columna-mode",
+			"kind": "capture",
+			"source": "tk1431662-instruccion-columna-mode.png",
+			"png": "tk1431662-instruccion-columna-mode.png"
+		},
+		{
+			"id": "tk1431662-instruccion-modelo-calibracion-gpt5-nano",
+			"kind": "capture",
+			"source": "tk1431662-instruccion-modelo-calibracion-gpt5-nano.png",
+			"png": "tk1431662-instruccion-modelo-calibracion-gpt5-nano.png"
+		}
+	]
+}

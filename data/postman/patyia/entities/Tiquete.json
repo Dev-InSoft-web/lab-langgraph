@@ -1,0 +1,29 @@
+{
+	"name": "Tiquete",
+	"description": "Escalamiento a tiquete del CRM, asociado a una conversación.",
+	"item": [
+		{
+			"name": "POST - Tiquete",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "POST",
+				"header": [{ "key": "Content-Type", "value": "application/json" }],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"iconversacion\": \"{{iconversacion}}\",\n    \"codigotk\": \"TKTEST01\",\n    \"bcerrar_conversacion\": false,\n    \"bautoriza_visualizacion\": false\n}",
+					"options": { "raw": { "language": "json" } }
+				},
+				"url": {
+					"raw": "{{HOST}}/api/tiquete",
+					"host": ["{{HOST}}"],
+					"path": ["api", "tiquete"]
+				},
+				"description": "Asocia un tiquete de soporte (`codigotk`) a la conversación. Opcionalmente cierra la conversación y/o autoriza visualización del historial al agente."
+			},
+			"response": []
+		}
+	]
+}

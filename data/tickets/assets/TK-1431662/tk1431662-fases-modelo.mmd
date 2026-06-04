@@ -1,0 +1,17 @@
+sequenceDiagram
+  autonumber
+  actor U as Usuario
+  participant P as PatyIA
+  participant O as OpenAI
+
+  U->>P: Mensaje del usuario
+  P->>O: clasificar · PR_TIPO_CONSULTAS · gpt-4.1-nano
+  O-->>P: tipo_consulta (JSON)
+  P->>P: resolverPorTipo · MODELO en BD
+  alt MODELO en fila
+    P->>O: responses.create(MODELO)
+  else fallback system-prompts
+    P->>O: responses.create(modeloConversacion)
+  end
+  O-->>P: respuesta
+  P->>P: log turno · modelo + tokens + costo

@@ -1,0 +1,858 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:35:50.083Z",
+  "videoId": "1zyB_efClRo",
+  "videoUrl": "https://www.youtube.com/watch?v=1zyB_efClRo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "1zyB_efClRo",
+    "title": "Sistema de contabilidad ContaPyme - ¿Cómo se crea un grupo de inventario?",
+    "fulltitle": "Sistema de contabilidad ContaPyme - ¿Cómo se crea un grupo de inventario?",
+    "description": "http://www.contapyme.com\nEste vídeo del software contable ContaPyme presenta como crear un grupo de inventario y su configuracion.\nCP40-130-030-030B",
+    "duration": 443,
+    "duration_string": "7:23",
+    "upload_date": "20120107",
+    "timestamp": 1325945747,
+    "view_count": 8474,
+    "like_count": 16,
+    "comment_count": 2,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/1zyB_efClRo/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZSgiMA8=&rs=AOn4CLDogEnzQzB020qXZNN8PzCtuoYRIw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARhyIGUoIjAP&rs=AOn4CLDKtxcsijerKt6_4MqDSEAU5HVE_g",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZSgiMA8=&rs=AOn4CLAoDxKDG9Wk6V9CO-Fj8IxLzwPJ1A",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgZSgiMA8=&rs=AOn4CLBSxEWW-0jP7m_IOUU3OkJVqi4LqA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgZSgiMA8=&rs=AOn4CLDig_hmCNtuJmPnUsS6Czp_IEk5jw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIGUoIjAP&rs=AOn4CLD6a5DeeRgBWl0R2xsr_fMfPTpsYg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIGUoIjAP&rs=AOn4CLDKYCtbF4jV1tlIj1bFzPbpxMYGPg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZSgiMA8=&rs=AOn4CLAFsgIpkcs3qgC5WXeoCpZiJ9wGpA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZSgiMA8=&rs=AOn4CLDogEnzQzB020qXZNN8PzCtuoYRIw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1zyB_efClRo/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1zyB_efClRo/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=1zyB_efClRo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.22573363431151242,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20316027088036118,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20316027088036118,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20316027088036118,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 193.352,
+        "asr": 44100,
+        "filesize_approx": 10694830,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "UgwlHk7P4-InbePwKGV4AaABAg",
+        "parent": "root",
+        "text": "Muy bueno, gracias, como puedo visualizar una lista de precios oculta y que me dice que no tengo los permisos requeridos para ello?",
+        "like_count": 0,
+        "author_id": "UChdAfeuV9_ReVBRjJYwADcQ",
+        "author": "@FerreteriaTorfer",
+        "author_thumbnail": "https://yt3.ggpht.com/lQDztAvaOKw3N36k__lyRmqFNk5fKIaFcZmLmDyFvqUQEPI65fFNDLbUK-MEhFERBMENCUZY6k0=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@FerreteriaTorfer",
+        "is_favorited": false,
+        "_time_text": "2 years ago",
+        "timestamp": 1717459200,
+        "is_pinned": false
+      },
+      {
+        "id": "UgzG4JWK1MDuZ0KUrm54AaABAg",
+        "parent": "root",
+        "text": "Como hago para hacer un ajuste en el inventario",
+        "like_count": 0,
+        "author_id": "UCh2IqsHcCmGlDzKKWrqvgCw",
+        "author": "@elbarojas7296",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lULwZxJ2GUqCh49_sbAfFrwPuxbUggGZWhBXpOOtK9Z5Q=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@elbarojas7296",
+        "is_favorited": false,
+        "_time_text": "5 years ago",
+        "timestamp": 1622764800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Sistema de contabilidad ContaPyme - ¿Cómo se crea un grupo de inventario?",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/1zyB_efClRo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/1zyB_efClRo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema de contabilidad ContaPyme - ¿Cómo se crea un grupo de inventario?\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 72,
+    "transcriptChars": 5219,
+    "segments": [
+      {
+        "text": "Cómo se crea un grupo de inventario dentro de las múltiples",
+        "startMs": 599,
+        "durationMs": 5710
+      },
+      {
+        "text": "acciones que podemos realizar en el catálogo de grupos de inventario una de",
+        "startMs": 6309,
+        "durationMs": 4961
+      },
+      {
+        "text": "las fundamentales es la creación de un grupo de inventario para crear un grupo",
+        "startMs": 11270,
+        "durationMs": 4880
+      },
+      {
+        "text": "de inventario debemos ubicarnos en el catálogo de grupo de inventario damos",
+        "startMs": 16150,
+        "durationMs": 5959
+      },
+      {
+        "text": "clic derecho y seleccionamos la opción de crear o la otra forma que tenemos es",
+        "startMs": 22109,
+        "durationMs": 6681
+      },
+      {
+        "text": "dar clic en crear que se encuentra en la cinta de",
+        "startMs": 28790,
+        "durationMs": 4640
+      },
+      {
+        "text": "opciones vamos a crear el grupo de inventario de portátiles en donde vamos",
+        "startMs": 33430,
+        "durationMs": 5320
+      },
+      {
+        "text": "a asociar todos los productos relacionados con portátiles el sistema",
+        "startMs": 38750,
+        "durationMs": 5040
+      },
+      {
+        "text": "nos pregunta el código o identificación del nuevo grupo de inventario el cual",
+        "startMs": 43790,
+        "durationMs": 5840
+      },
+      {
+        "text": "debe ser numérico o alfanumérico y admite hasta 10 caracteres indicamos el",
+        "startMs": 49630,
+        "durationMs": 9280
+      },
+      {
+        "text": "código damos clic en el botón de aceptar para",
+        "startMs": 58920,
+        "durationMs": 6070
+      },
+      {
+        "text": "continuar y el sistema nos abre el asistente para el registro del grupo de",
+        "startMs": 64990,
+        "durationMs": 6119
+      },
+      {
+        "text": "inventario lo primero que debemos hacer es indicar el nombre del grupo de",
+        "startMs": 71109,
+        "durationMs": 5601
+      },
+      {
+        "text": "inventario para lo cual disponemos de un campo de hasta 80",
+        "startMs": 76710,
+        "durationMs": 12200
+      },
+      {
+        "text": "nombre podemos visualizar que tenemos varios pasos o pestañas disponibles los",
+        "startMs": 88920,
+        "durationMs": 7590
+      },
+      {
+        "text": "cuales se habilitan y deshabilitan dependiendo de la configuración que",
+        "startMs": 96510,
+        "durationMs": 4599
+      },
+      {
+        "text": "indiquemos en uso en el primer paso en la pestaña de General tenemos la opción",
+        "startMs": 101109,
+        "durationMs": 5801
+      },
+      {
+        "text": "de controlar cantidades en inventario la cual activamos como su nombre nos indica",
+        "startMs": 106910,
+        "durationMs": 6040
+      },
+      {
+        "text": "Si queremos controlar las cantidades de los elementos de control que se asocien",
+        "startMs": 112950,
+        "durationMs": 6040
+      },
+      {
+        "text": "a este grup de inventario al activar esta opción en cualquier momento podemos",
+        "startMs": 118990,
+        "durationMs": 5880
+      },
+      {
+        "text": "consultar las cantidades que tenemos en existencia del elemento en el sistema en",
+        "startMs": 124870,
+        "durationMs": 5799
+      },
+      {
+        "text": "este caso la vamos a activar indicamos el uso de los elementos de control que",
+        "startMs": 130669,
+        "durationMs": 6121
+      },
+      {
+        "text": "pertenecerán a este grupo de inventario en donde tenemos disponible primero la",
+        "startMs": 136790,
+        "durationMs": 6000
+      },
+      {
+        "text": "opción para consumo o materia prima la cual la activamos si los elementos que",
+        "startMs": 142790,
+        "durationMs": 5840
+      },
+      {
+        "text": "pertenecen a este de grupo son para consumo interno de la empresa o son",
+        "startMs": 148630,
+        "durationMs": 4720
+      },
+      {
+        "text": "materia prima al activar esta opción el sistema nos pregunta la cuenta de",
+        "startMs": 153350,
+        "durationMs": 5599
+      },
+      {
+        "text": "egresos en donde indicamos la cuenta a la cual se le realizarán imputaciones",
+        "startMs": 158949,
+        "durationMs": 5601
+      },
+      {
+        "text": "por el débito cuando se realice un consumo de los elementos que pertenezcan",
+        "startMs": 164550,
+        "durationMs": 5240
+      },
+      {
+        "text": "a este grupo tenemos la opción de mercancía",
+        "startMs": 169790,
+        "durationMs": 5159
+      },
+      {
+        "text": "para la venta la cual activamos si los elementos que pertenec peren a este",
+        "startMs": 174949,
+        "durationMs": 5640
+      },
+      {
+        "text": "grupo Son productos que la empresa compra para la",
+        "startMs": 180589,
+        "durationMs": 4360
+      },
+      {
+        "text": "venta tenemos la opción de es producto la cual activamos si los elementos que",
+        "startMs": 184949,
+        "durationMs": 6441
+      },
+      {
+        "text": "pertenecen a este grupo Son productos terminados es decir Son productos que la",
+        "startMs": 191390,
+        "durationMs": 5800
+      },
+      {
+        "text": "empresa fabrica o produce al activar alguna de estas dos opciones ya sea",
+        "startMs": 197190,
+        "durationMs": 6080
+      },
+      {
+        "text": "mercancía para la venta o es producto el sistema nos pregunta la cuenta de",
+        "startMs": 203270,
+        "durationMs": 5720
+      },
+      {
+        "text": "automáticamente el ingreso por la venta de los elementos de este grupo también",
+        "startMs": 213910,
+        "durationMs": 5920
+      },
+      {
+        "text": "nos pregunta la cuenta de costos de venta en donde indicamos la cuenta donde",
+        "startMs": 219830,
+        "durationMs": 6599
+      },
+      {
+        "text": "el sistema llevará automáticamente el costo de venta de los elementos de este",
+        "startMs": 208990,
+        "durationMs": 23120
+      },
+      {
+        "text": "grupo cuando estos sean vendidos Además nos pregunta el concepto en ventas en",
+        "startMs": 232110,
+        "durationMs": 7640
+      },
+      {
+        "text": "donde indicamos los impuestos y retenciones que se deberán liquidar en",
+        "startMs": 239750,
+        "durationMs": 5520
+      },
+      {
+        "text": "la venta de los elementos de control que pertenecen a este grupo En donde podemos",
+        "startMs": 245270,
+        "durationMs": 5360
+      },
+      {
+        "text": "indicar el IVA retención reteica y otro y tenemos la opción de e servicio",
+        "startMs": 250630,
+        "durationMs": 8680
+      },
+      {
+        "text": "la cual activamos como su nombre nos indica si los elementos que pertenecen a",
+        "startMs": 259310,
+        "durationMs": 5000
+      },
+      {
+        "text": "este grupo son Servicios que presta la empresa la cual se activa cuando",
+        "startMs": 264310,
+        "durationMs": 5520
+      },
+      {
+        "text": "desactivamos la opción de control de cantidad en inventario Ya que en los",
+        "startMs": 269830,
+        "durationMs": 4760
+      },
+      {
+        "text": "servicios no se lleva control de cantidades para mayor información sobre",
+        "startMs": 274590,
+        "durationMs": 4760
+      },
+      {
+        "text": "la configuración del uso de los grupos de inventario la podemos encontrar en el",
+        "startMs": 279350,
+        "durationMs": 5119
+      },
+      {
+        "text": "video de configuración del uso de los elementos en este",
+        "startMs": 284469,
+        "durationMs": 6560
+      },
+      {
+        "text": "caso vamos a activar controlar cantidad en inventario y solo la opción de",
+        "startMs": 291029,
+        "durationMs": 6160
+      },
+      {
+        "text": "mercancía para la venta después de configurar los usos de los elementos",
+        "startMs": 297189,
+        "durationMs": 7361
+      },
+      {
+        "text": "damos siguiente y nos pregunta la cuenta de",
+        "startMs": 304550,
+        "durationMs": 3040
+      },
+      {
+        "text": "ingresos debemos tener en cuenta que en una venta el ingreso se cancela contra",
+        "startMs": 307590,
+        "durationMs": 5760
+      },
+      {
+        "text": "una cuenta de efectivo y el costo de venta contra el",
+        "startMs": 313350,
+        "durationMs": 4640
+      },
+      {
+        "text": "inventario indicamos la cuenta la cual la podemos crear o la podemos",
+        "startMs": 317990,
+        "durationMs": 5720
+      },
+      {
+        "text": "seleccionar Del catálogo de cuentas en este caso la vamos a",
+        "startMs": 323710,
+        "durationMs": 8360
+      },
+      {
+        "startMs": 332080,
+        "durationMs": 4990,
+        "text": "indicamos la"
+      },
+      {
+        "text": "cuenta y damos siguiente nos pregunta la cuenta de",
+        "startMs": 337080,
+        "durationMs": 7750
+      },
+      {
+        "text": "costos de venta indicamos la",
+        "startMs": 344830,
+        "durationMs": 9040
+      },
+      {
+        "text": "compras en donde indicamos los impuestos y retenciones que se deberán liquidar en",
+        "startMs": 360390,
+        "durationMs": 5480
+      },
+      {
+        "text": "la compra de los elementos de control que pertenecen a este grupo En donde",
+        "startMs": 365870,
+        "durationMs": 5080
+      },
+      {
+        "text": "podemos indicar el IVA retención reteica y otro para indicar cada concepto damos",
+        "startMs": 370950,
+        "durationMs": 7720
+      },
+      {
+        "text": "clic en el icono de la linterna y nos aparecen en pantalla la lista de los",
+        "startMs": 378670,
+        "durationMs": 5959
+      },
+      {
+        "text": "conceptos en este caso de liquidación en egreso en este caso no vamos a indicar",
+        "startMs": 384629,
+        "durationMs": 6801
+      },
+      {
+        "text": "ningún impuesto y damos siguiente nos",
+        "startMs": 391430,
+        "durationMs": 5960
+      },
+      {
+        "text": "pregunta los conceptos en venta en donde también podemos indicar el IVA retención",
+        "startMs": 353880,
+        "durationMs": 49749
+      },
+      {
+        "text": "reteica y otro pero que aplican en la venta en este caso no vamos a indicar",
+        "startMs": 403629,
+        "durationMs": 8921
+      },
+      {
+        "text": "ningún impuesto una vez se ha configurado el",
+        "startMs": 412550,
+        "durationMs": 2600
+      },
+      {
+        "text": "grupo de inventario debemos dar clic en el botón de aceptar para finalizar el",
+        "startMs": 415150,
+        "durationMs": 5680
+      },
+      {
+        "text": "proceso de creación del grupo podemos visualizar que el grupo de inventario",
+        "startMs": 420830,
+        "durationMs": 6120
+      },
+      {
+        "text": "portátiles ya quedó incluido en el catálogo de grupos de inventario y listo",
+        "startMs": 426950,
+        "durationMs": 6160
+      },
+      {
+        "text": "para ser usado en la configuración de los elementos de control esto es todo",
+        "startMs": 433110,
+        "durationMs": 5880
+      },
+      {
+        "text": "sobre cómo se crea un grupo de inventario",
+        "startMs": 438990,
+        "durationMs": 5410
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste vídeo del software contable ContaPyme presenta como crear un grupo de inventario y su configuracion.\nCP40-130-030-030B\n\n## Transcripción\n\nCómo se crea un grupo de inventario dentro de las múltiples\nacciones que podemos realizar en el catálogo de grupos de inventario una de\nlas fundamentales es la creación de un grupo de inventario para crear un grupo\nde inventario debemos ubicarnos en el catálogo de grupo de inventario damos\nclic derecho y seleccionamos la opción de crear o la otra forma que tenemos es\ndar clic en crear que se encuentra en la cinta de\nopciones vamos a crear el grupo de inventario de portátiles en donde vamos\na asociar todos los productos relacionados con portátiles el sistema\nnos pregunta el código o identificación del nuevo grupo de inventario el cual\ndebe ser numérico o alfanumérico y admite hasta 10 caracteres indicamos el\ncódigo damos clic en el botón de aceptar para\ncontinuar y el sistema nos abre el asistente para el registro del grupo de\ninventario lo primero que debemos hacer es indicar el nombre del grupo de\ninventario para lo cual disponemos de un campo de hasta 80\nnombre podemos visualizar que tenemos varios pasos o pestañas disponibles los\ncuales se habilitan y deshabilitan dependiendo de la configuración que\nindiquemos en uso en el primer paso en la pestaña de General tenemos la opción\nde controlar cantidades en inventario la cual activamos como su nombre nos indica\nSi queremos controlar las cantidades de los elementos de control que se asocien\na este grup de inventario al activar esta opción en cualquier momento podemos\nconsultar las cantidades que tenemos en existencia del elemento en el sistema en\neste caso la vamos a activar indicamos el uso de los elementos de control que\npertenecerán a este grupo de inventario en donde tenemos disponible primero la\nopción para consumo o materia prima la cual la activamos si los elementos que\npertenecen a este de grupo son para consumo interno de la empresa o son\nmateria prima al activar esta opción el sistema nos pregunta la cuenta de\negresos en donde indicamos la cuenta a la cual se le realizarán imputaciones\npor el débito cuando se realice un consumo de los elementos que pertenezcan\na este grupo tenemos la opción de mercancía\npara la venta la cual activamos si los elementos que pertenec peren a este\ngrupo Son productos que la empresa compra para la\nventa tenemos la opción de es producto la cual activamos si los elementos que\npertenecen a este grupo Son productos terminados es decir Son productos que la\nempresa fabrica o produce al activar alguna de estas dos opciones ya sea\nmercancía para la venta o es producto el sistema nos pregunta la cuenta de\nautomáticamente el ingreso por la venta de los elementos de este grupo también\nnos pregunta la cuenta de costos de venta en donde indicamos la cuenta donde\nel sistema llevará automáticamente el costo de venta de los elementos de este\ngrupo cuando estos sean vendidos Además nos pregunta el concepto en ventas en\ndonde indicamos los impuestos y retenciones que se deberán liquidar en\nla venta de los elementos de control que pertenecen a este grupo En donde podemos\nindicar el IVA retención reteica y otro y tenemos la opción de e servicio\nla cual activamos como su nombre nos indica si los elementos que pertenecen a\neste grupo son Servicios que presta la empresa la cual se activa cuando\ndesactivamos la opción de control de cantidad en inventario Ya que en los\nservicios no se lleva control de cantidades para mayor información sobre\nla configuración del uso de los grupos de inventario la podemos encontrar en el\nvideo de configuración del uso de los elementos en este\ncaso vamos a activar controlar cantidad en inventario y solo la opción de\nmercancía para la venta después de configurar los usos de los elementos\ndamos siguiente y nos pregunta la cuenta de\ningresos debemos tener en cuenta que en una venta el ingreso se cancela contra\nuna cuenta de efectivo y el costo de venta contra el\ninventario indicamos la cuenta la cual la podemos crear o la podemos\nseleccionar Del catálogo de cuentas en este caso la vamos a\nindicamos la\ncuenta y damos siguiente nos pregunta la cuenta de\ncostos de venta indicamos la\ncompras en donde indicamos los impuestos y retenciones que se deberán liquidar en\nla compra de los elementos de control que pertenecen a este grupo En donde\npodemos indicar el IVA retención reteica y otro para indicar cada concepto damos\nclic en el icono de la linterna y nos aparecen en pantalla la lista de los\nconceptos en este caso de liquidación en egreso en este caso no vamos a indicar\nningún impuesto y damos siguiente nos\npregunta los conceptos en venta en donde también podemos indicar el IVA retención\nreteica y otro pero que aplican en la venta en este caso no vamos a indicar\nningún impuesto una vez se ha configurado el\ngrupo de inventario debemos dar clic en el botón de aceptar para finalizar el\nproceso de creación del grupo podemos visualizar que el grupo de inventario\nportátiles ya quedó incluido en el catálogo de grupos de inventario y listo\npara ser usado en la configuración de los elementos de control esto es todo\nsobre cómo se crea un grupo de inventario"
+  },
+  "comments": {
+    "fetched": 2,
+    "reportedCount": 2,
+    "items": [
+      {
+        "id": "UgwlHk7P4-InbePwKGV4AaABAg",
+        "parent": "root",
+        "text": "Muy bueno, gracias, como puedo visualizar una lista de precios oculta y que me dice que no tengo los permisos requeridos para ello?",
+        "like_count": 0,
+        "author_id": "UChdAfeuV9_ReVBRjJYwADcQ",
+        "author": "@FerreteriaTorfer",
+        "author_thumbnail": "https://yt3.ggpht.com/lQDztAvaOKw3N36k__lyRmqFNk5fKIaFcZmLmDyFvqUQEPI65fFNDLbUK-MEhFERBMENCUZY6k0=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@FerreteriaTorfer",
+        "is_favorited": false,
+        "_time_text": "2 years ago",
+        "timestamp": 1717459200,
+        "is_pinned": false
+      },
+      {
+        "id": "UgzG4JWK1MDuZ0KUrm54AaABAg",
+        "parent": "root",
+        "text": "Como hago para hacer un ajuste en el inventario",
+        "like_count": 0,
+        "author_id": "UCh2IqsHcCmGlDzKKWrqvgCw",
+        "author": "@elbarojas7296",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lULwZxJ2GUqCh49_sbAfFrwPuxbUggGZWhBXpOOtK9Z5Q=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@elbarojas7296",
+        "is_favorited": false,
+        "_time_text": "5 years ago",
+        "timestamp": 1622764800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 193.352,
+    "asr": 44100,
+    "filesizeApprox": 10694830,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/1zyB_efClRo.md",
+    "json": "videos/2012/1zyB_efClRo.json",
+    "infoJson": "videos/2012/1zyB_efClRo.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

@@ -1,0 +1,393 @@
+---
+title: Compilación Jurídica de la DIAN - Resolución 85 de 2020 DIAN
+url: https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0085_2020.htm
+corpus: dian
+tipo: normativa
+audience: contadores
+pageId: 2ee46baf93b9fa1f
+storageRel: dian/2026
+fetchedAt: 2026-06-04T03:28:08.718Z
+pdf: pdfs/dian/2026/2ee46baf93b9fa1f.pdf
+---
+
+# Compilación Jurídica de la DIAN - Resolución 85 de 2020 DIAN
+
+![Búsqueda](../images/noun_Search_875351_gris_oscuro.svg)BUSCAR
+
+![Índice](../images/noun_listed_3082130.svg)ÍNDICE
+
+RESOLUCIÓN 85 DE 2020
+
+(agosto 21)
+
+Diario Oficial No. 51.419 de 27 de agosto de 2020
+
+DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES
+
+Por la cual se establece el Procedimiento de Mutuo Acuerdo (MAP) en virtud de los convenios para evitar la doble imposición y prevenir la evasión y la elusión fiscal suscritos por Colombia
+
+[Resumen de Notas de Vigencia](javascript:insRow1\(\))
+
+EL DIRECTOR GENERAL DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE IMPUESTOS Y ADUANAS NACIONALES,
+
+en uso de sus facultades legales, en especial las que le confieren el numeral 1 del artículo [6o](decreto_4048_2008.htm#6) del Decreto 4048 de 2008, la delegación de la función de autoridad competente mediante oficio de fecha 30 de enero de 2014 radicado 2-2014-003403, el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario y los convenios para evitar la doble imposición y prevenir la evasión y la elusión fiscal, suscritos por Colombia,
+
+CONSIDERANDO:
+
+Que los convenios para evitar la doble imposición y prevenir la evasión y la elusión fiscal (en adelante los “Convenios”) suscritos por Colombia contienen disposiciones relativas a la protección jurídica del Contribuyente, entre ellas las reglas del Procedimiento de Mutuo Acuerdo (MAP).
+
+Que el Procedimiento de Mutuo Acuerdo (MAP) constituye un mecanismo internacional de solución de conflictos entre administraciones tributarias que les permite resolver disputas fiscales cuando la actuación de una o ambas administraciones produce o es susceptible de producir una tributación no conforme con alguno de los Convenios suscritos entre dos Estados Contratantes, o cuando surjan inconsistencias en la interpretación o aplicación de los Convenios.
+
+Que el Procedimiento de Mutuo Acuerdo (MAP) es un mecanismo suplementario para resolver las cuestiones relativas a las diferencias en la interpretación o en la aplicación de los Convenios, por lo cual se requiere de instrucciones precisas para permitir el acceso de los Contribuyentes al mecanismo con la mayor certeza jurídica posible.
+
+Que el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario, adicionado por el artículo [116](ley_2010_2019.htm#116) de la Ley 2010 del 27 de diciembre de 2019, establece que la Autoridad Competente para desarrollar el Procedimiento de Mutuo Acuerdo (MAP) será el Director General de Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) o quien este delegue.
+
+Que el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario, adicionado por el artículo [116](ley_2010_2019.htm#116) de la Ley 2010 del 27 de diciembre de 2019, establece que el contenido de la solicitud formal ante la Dirección de Impuestos y Aduanas Nacionales (DIAN) de asistencia para el Procedimiento de Mutuo Acuerdo (MAP), así como los detalles del procedimiento, serán aquellos que disponga la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución.
+
+Que para la redacción de la presente Resolución se tuvieron en cuenta los Convenios suscritos por Colombia; los comentarios al artículo 25 del Modelo de Convenio Tributario sobre la Renta y sobre el Patrimonio de la Organización para la Cooperación y el Desarrollo Económico (OCDE), y los comentarios al artículo 25 de la Convención Modelo de las Naciones Unidas sobre la Doble Tributación entre Países Desarrollados y Países en Desarrollo, así como los compromisos adquiridos por el país en materia de estándares mínimos bajo la Acción 14 “Hacer más Efectivos los Mecanismos de Resolución de Controversias” del Proyecto sobre la Erosión de la Base Imponible y el Traslado de Beneficios (BEPS, por sus siglas en inglés).
+
+Que de acuerdo con el Departamento Administrativo de la Función Pública el Procedimiento de Mutuo Acuerdo (MAP) se encuentra por fuera del alcance de la política de racionalización de trámites y en consecuencia no debió surtir el procedimiento para la aprobación de trámites nuevos consagrada en el numeral 2 artículo [1o](ley_0962_2005.htm#1) de la Ley 962 de 2005 (modificado por el artículo [39](decreto_0019_2012.htm#39) del Decreto Ley 019 de 2012).
+
+Que en cumplimiento de la formalidad prevista en el numeral 8 del artículo [8o](ley_1437_2011.htm#8) del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, el proyecto de Resolución fue publicado en la página web de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
+
+En mérito de lo expuesto,
+
+RESUELVE:
+
+CAPÍTULO I.
+
+DISPOSICIONES GENERALES.
+
+ARTÍCULO 1o. OBJETO. <Artículo compilado como artículo [1.6.1.1.1](resolucion_dian_0227_2025.htm#1.6.1.1.1) en la Resolución 227 de 2025> Esta Resolución dispone el contenido y procedimiento aplicable a la solicitud referida en el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario, la cual podrá ser presentada por los Contribuyentes para acceder al Procedimiento de Mutuo Acuerdo (MAP) regulado en los Convenios para Evitar la Doble Imposición y prevenir la evasión y la elusión fiscal suscritos por Colombia, así como suministrar lineamientos para la obtención de asistencia por parte de la Autoridad Competente de Colombia (ACC) conforme a las disposiciones de dichos convenios, en el marco del Procedimiento de Mutuo Acuerdo (MAP).
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 2o. ALCANCE. <Artículo compilado como artículo [1.6.1.1.2](resolucion_dian_0227_2025.htm#1.6.1.1.2) en la Resolución 227 de 2025> La ACC asiste a los Contribuyentes con respecto a asuntos cubiertos en tratados tributarios según se especifica en las disposiciones del procedimiento de mutuo acuerdo u otras disposiciones del Convenio tributario relevante. Esta asistencia se proporciona a los Contribuyentes con el objeto de resolver situaciones en las que los Contribuyentes puedan estar sujetos a tributación que no esté conforme con las disposiciones del Convenio tributario relevante, incluyendo situaciones de doble tributación, así como para pedir aclaraciones en relación con el alcance del Convenio.
+
+Se insta a los Contribuyentes a que examinen las disposiciones específicas del Convenio que otorgan un beneficio con el propósito de determinar si tal beneficio les resulta aplicable en el caso particular. Si, después de examinar el Convenio aplicable, un Contribuyente no está seguro de si el beneficio le resulta aplicable, el Contribuyente debe comunicarse con la ACC de acuerdo con las disposiciones de esta Resolución. Esta Resolución no pretende limitar, modificar o restringir ninguna disposición del Convenio relacionada con asuntos de la Autoridad Competente. En caso de que esta Resolución no regule determinados aspectos del Procedimiento de Mutuo Acuerdo, la ACC tendrá en cuenta el Manual de la Organización para la Cooperación y Desarrollo Económico (OCDE) para el Procedimiento de Mutuo Acuerdo MEMAP, que servirá como criterio adicional para ilustrar o interpretar las disposiciones de esta Resolución.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 3o. DEFINICIONES. <Artículo compilado como artículo [1.6.1.1.3](resolucion_dian_0227_2025.htm#1.6.1.1.3) en la Resolución 227 de 2025> Para efectos de la presente Resolución, se tendrán en cuenta las siguientes definiciones y el uso de las siguientes siglas:
+
+1\. Autoridad Competente de Colombia (ACC): El uso de las siglas ACC, hace referencia al término “Autoridad Competente de Colombia” que a su vez se refiere a la Autoridad Competente por parte de Colombia de que tratan los Convenios suscritos. De conformidad con el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario, la Autoridad Competente para desarrollar el Procedimiento de Mutuo Acuerdo (MAP) será el Director General de la Dirección de Impuestos y Aduanas Nacionales (DIAN) o a quien este delegue.
+
+2\. Consulta Bilateral: El término “Consulta Bilateral” se refiere al mecanismo mediante el cual la ACC notifica a la Autoridad Competente extranjera de la negación de asistencia a un Contribuyente determinado y le da la oportunidad a la Autoridad Competente extranjera de expresar su desacuerdo con dicha decisión. En tal caso, se inicia un MAP en sí mismo para determinar si el Contribuyente tiene derecho o no a acceder al MAP sustancial.
+
+3\. Contribuyente: El término “Contribuyente” o “Contribuyentes” excepto cuando el contexto exija una interpretación diferente, se refiere a la persona o entidad que se encuentra dentro del alcance de los Convenios suscritos y vigentes por Colombia, que solicita la asistencia de la Autoridad Competente.
+
+4\. Convenio: El término “Convenio” o “Convenios” según sea el caso, se refiere a uno o varios de los Convenios para evitar la doble imposición y prevenir la evasión y la elusión fiscal suscritos por Colombia.
+
+5\. Estado: El término “Estado”, “Estado Contratante” o “Estados Contratantes” se refiere al país o países con los cuales Colombia ha suscrito un Convenio.
+
+6\. Procedimiento de Mutuo Acuerdo (MAP): El uso de las siglas MAP o MAPs, hace referencia al Procedimiento de Mutuo Acuerdo (MAP) de que tratan los Convenios. El MAP es un procedimiento independiente de los recursos y acciones legales ordinarios disponibles en la legislación nacional de acuerdo con lo dispuesto en los artículos [31](resolucion_dian_0085_2020.htm#31) y [32](resolucion_dian_0085_2020.htm#32) de la presente Resolución, y permite que la ACC resuelva las diferencias o dificultades con respecto a la interpretación o aplicación del Convenio de manera consensuada con las Autoridades Competentes de los otros Estados Contratantes. Este mecanismo busca garantizar la correcta aplicación e interpretación de los Convenios por parte de los Estados Contratantes para el beneficio de los Contribuyentes.
+
+7\. Solicitud: El término “Solicitud” se refiere a la solicitud de asistencia para el MAP por parte de la ACC de que tratan los artículos [13](resolucion_dian_0085_2020.htm#13) y [14](resolucion_dian_0085_2020.htm#14) de la presente Resolución.
+
+8\. Tributación no conforme: El término “Tributación no conforme” se refiere a aquellos casos en que se imponga un impuesto, se adelante una acción administrativa o se omita una acción por parte de una Autoridad Competente, desatendiendo las disposiciones de un Convenio. La tributación no conforme incluye casos de doble imposición y cualquier otro resultado formal o sustancial que riña con las disposiciones de un Convenio.
+
+9\. MEMAP: El uso de las siglas MEMAP hace referencia al manual de la Organización para la Cooperación y el Desarrollo Económico (OCDE) en Procedimiento Efectivo de Mutuo Acuerdo (Manual on Effective Mutual Agreement Procedures, por su nombre en inglés).
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 4o. INICIACIÓN DEL PROCEDIMIENTO DE MUTUO ACUERDO POR PARTE DE COLOMBIA. <Artículo compilado como artículo [1.6.1.1.4](resolucion_dian_0227_2025.htm#1.6.1.1.4) en la Resolución 227 de 2025> La ACC también podrá iniciar negociaciones como Autoridad Competente en cualquier situación que se considere necesaria para proteger los intereses de Colombia respecto al Convenio aplicable.
+
+CAPÍTULO II.
+
+PRESENTACIÓN DE LA SOLICITUD DE PROCEDIMIENTO DE MUTUO ACUERDO.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 5o. QUIÉN PUEDE PRESENTAR SOLICITUDES DE ASISTENCIA A LA ACC. <Artículo compilado como artículo [1.6.1.2.1](resolucion_dian_0227_2025.htm#1.6.1.2.1) en la Resolución 227 de 2025> Cuando un Contribuyente considere que las acciones de uno o ambos Estados Contratantes resultan o resultarán en una tributación no conforme con las disposiciones del Convenio, el Contribuyente podrá solicitar asistencia de la ACC según el artículo que contemple el MAP en el Convenio relevante.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 6o. SOLICITUD DE ASISTENCIA DE AUTORIDAD COMPETENTE INICIADA EN EL EXTRANJERO. <Artículo compilado como artículo [1.6.1.2.2](resolucion_dian_0227_2025.htm#1.6.1.2.2) en la Resolución 227 de 2025> Cuando en virtud de las disposiciones del Convenio relevante, la Autoridad Competente de un Estado Contratante remita una solicitud de un residente o nacional de Colombia a la ACC para consulta bajo el MAP, la ACC podrá solicitar al residente o nacional presentar una Solicitud de asistencia en Colombia de conformidad con esta Resolución.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 7o. SOLICITUDES RELACIONADAS CON CONFLICTOS DE RESIDENCIA. <Artículo compilado como artículo [1.6.1.2.3](resolucion_dian_0227_2025.htm#1.6.1.2.3) en la Resolución 227 de 2025> La asistencia de la ACC estará disponible para los Contribuyentes que busquen aclarar su estatus de residencia en Colombia. En general, dicha asistencia estará limitada a situaciones en las que la resolución de un conflicto de residencia es necesaria para evitar la doble imposición o para determinar la aplicabilidad de un beneficio en virtud del Convenio. Además, solo se aceptará una solicitud de asistencia con respecto a un conflicto de residencia si la situación requiere una consulta con la Autoridad Competente Extranjera para garantizar un tratamiento coherente por parte de Colombia y el otro Estado Contratante del Convenio aplicable. La ACC no proferirá determinaciones unilaterales con respecto a si un individuo es residente de Colombia o del otro Estado Contratante.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 8o. DETERMINACIONES CON RESPECTO A LA LIMITACIÓN DE BENEFICIOS. <Artículo compilado como artículo [1.6.1.2.4](resolucion_dian_0227_2025.htm#1.6.1.2.4) en la Resolución 227 de 2025> La mayoría de Convenios contienen un artículo de limitación de beneficios que establece los requisitos que deben ser cumplidos para acceder a los beneficios en virtud del Convenio. La ACC no emitirá determinaciones con respecto al estatus del Contribuyente de conformidad con los requisitos establecidos en el artículo de limitación de beneficios. Sin embargo, ciertos Convenios establecen que la ACC puede, a discreción, determinar la disponibilidad de los beneficios del Convenio cuando no se cumplan los requisitos establecidos. En tales casos, las solicitudes de asistencia deberán cumplir con los requisitos establecidos en la presente Resolución, y podrán ser negadas por la ACC de manera motivada.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 9o. ESCENARIOS TÍPICOS EN LOS QUE SE REQUIERE LA ASISTENCIA DE LA AUTORIDAD COMPETENTE. <Artículo compilado como artículo [1.6.1.2.5](resolucion_dian_0227_2025.htm#1.6.1.2.5) en la Resolución 227 de 2025> Un Contribuyente podrá iniciar una solicitud de MAP cuando considere que, debido a las acciones de la Autoridad Competente de un Estado Contratante, está o estará sometido a tributación no conforme con un Convenio.
+
+La tributación no conforme con un Convenio respecto de la cual el Contribuyente podrá solicitar asistencia, puede surgir en diferentes escenarios, incluyendo:
+
+1\. Ajustes de precios de transferencia.
+
+2\. Determinación de residencia.
+
+3\. Retención en la fuente aplicada.
+
+4\. Atribución de rentas a Establecimientos Permanentes (EP).
+
+5\. Determinación de la existencia de un Establecimiento Permanente.
+
+6\. Aplicación de disposiciones antiabuso (Artículos de Limitación de los Beneficios, Test de Propósito Principal, y disposiciones antiabuso de la legislación nacional).
+
+CAPÍTULO III.
+
+PROCEDIMIENTO PARA ACCEDER A LA ASISTENCIA POR PARTE DE LA AUTORIDAD COMPETENTE DE COLOMBIA.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 10. TÉRMINO PARA LA PRESENTACIÓN DE LA SOLICITUD. <Artículo compilado como artículo [1.6.1.3.1](resolucion_dian_0227_2025.htm#1.6.1.3.1) en la Resolución 227 de 2025> La solicitud de asistencia por parte del Contribuyente deberá presentarse en el plazo previsto en el Convenio respectivo, complementado por la Convención Multilateral para Implementar las Medidas Relacionadas con los Tratados Fiscales para Prevenir la Erosión de las Bases Imponibles y el Traslado de Beneficios (“Multilateral Instrument” o “MLI” por sus siglas en inglés) la cual establece un término de tres (3) años, siempre que una acción u omisión de la autoridad tributaria de un Estado Contratante resulte en tributación no conforme con las disposiciones del Convenio aplicable.
+
+La solicitud para iniciar el procedimiento debe presentarse antes del vencimiento del término estipulado en el Convenio complementado por el MLI, contado desde el día siguiente a la primera notificación del acto que contiene la liquidación o determinación, que causa o puede causar tributación no conforme con el Convenio. El término previsto en este artículo no se activará en el caso de MAPs interpretativos o MAPs en los que la administración tributaria no haya notificado una acción u omisión que resulte en una tributación que no se ajuste a las disposiciones del Convenio aplicable, tales como los desempates de residencia y calificación para el acceso a beneficios en virtud de la aplicación de cláusulas antiabuso.
+
+PARÁGRAFO. En aquellos casos en que la tributación no conforme al Convenio se derive de actos administrativos de carácter general o actos de aplicación general, la Solicitud de MAP podrá presentarse incluso antes de que se notifique un acto particular al Contribuyente.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 11. AJUSTE INICIADO POR COLOMBIA. <Artículo compilado como artículo [1.6.1.3.2](resolucion_dian_0227_2025.htm#1.6.1.3.2) en la Resolución 227 de 2025> Cuando la Dirección de Impuestos y Aduanas Nacionales (DIAN) realice un ajuste de costos, deducciones, activos, pasivos o ingresos en virtud de una investigación, el Contribuyente deberá presentar la solicitud de asistencia de que trata la presente Resolución ante la ACC tan pronto como sea posible después de que el monto del ajuste propuesto sea comunicado por escrito a dicho Contribuyente mediante Liquidación Oficial de Revisión.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 12. AJUSTE INICIADO DESDE EL EXTRANJERO. <Artículo compilado como artículo [1.6.1.3.3](resolucion_dian_0227_2025.htm#1.6.1.3.3) en la Resolución 227 de 2025> En el caso de una investigación por parte de una Autoridad Tributaria Extranjera, se podrá presentar una solicitud tan pronto como el Contribuyente considere que dicha presentación está justificada en función de las acciones del Estado Contratante que propone el ajuste. En un caso que involucre un ajuste de precios de transferencia, la solicitud no deberá presentarse sino hasta el momento en que el Contribuyente pueda establecer que existe una probabilidad cierta de doble imposición.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 13. FORMATO DE PRESENTACIÓN DE LA SOLICITUD. <Artículo compilado como artículo [1.6.1.3.4](resolucion_dian_0227_2025.htm#1.6.1.3.4) en la Resolución 227 de 2025> La Solicitud de asistencia por parte de la ACC deberá ser presentada en forma de carta dirigida al Director General de la U. A. E. Dirección de Impuestos y Aduanas Nacionales de Colombia (DIAN). La Solicitud deberá estar fechada y firmada por el Contribuyente o su apoderado. La Solicitud deberá declarar que se está solicitando asistencia por parte de la ACC y deberá incluir la información descrita en el artículo [14](resolucion_dian_0085_2020.htm#14) de esta Resolución. Adicionalmente, también deberá enviarse electrónicamente una copia del texto de la Solicitud y de cualquier material que respalde la Solicitud al siguiente correo electrónico: dirgen\_map@dian.gov.co. La Solicitud se entenderá radicada una vez se hayan recibido tanto la Solicitud escrita como la copia electrónica de la misma.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 14. CONTENIDO DE LA SOLICITUD. <Artículo compilado como artículo [1.6.1.3.5](resolucion_dian_0227_2025.htm#1.6.1.3.5) en la Resolución 227 de 2025> La Solicitud de asistencia de la ACC debe presentarse en español o en inglés en forma de carta dirigida a:
+
+Director General
+
+Dirección de Impuestos y Aduanas Nacionales (DIAN)
+
+Tel: 6079999, ext.: 901060
+
+Dirección: Carrera 8 No. 6C-38 piso 6, Bogotá, Colombia
+
+La solicitud deberá estar fechada y firmada por una persona que tenga la autoridad para firmar las declaraciones de impuestos del Contribuyente o por un abogado con un poder legal debidamente otorgado.
+
+En la Solicitud se deberá declarar que se está solicitando asistencia por parte de la ACC y se deberá incluir la siguiente información:
+
+1\. Convenio: Referencia al Convenio específico y las disposiciones del mismo conforme a las cuales se realiza la Solicitud.
+
+2\. Contribuyente solicitante: El nombre, dirección y número de identificación del Contribuyente solicitante y, si aplica, de todas las personas vinculadas involucradas en el asunto.
+
+3\. Aplicación del Convenio al Contribuyente solicitante: El Contribuyente deberá realizar un análisis sobre la aplicabilidad del Convenio con base en el ámbito de aplicación subjetiva y territorial.
+
+4\. Tributación no conforme, o que puede resultar no conforme con el Convenio: El Contribuyente deberá proporcionar un análisis del o los asuntos involucrados, incluida la interpretación de la aplicación de la(s) disposición(es) específica(s) del Convenio, para respaldar su reclamo en relación a que la disposición del Convenio específico no se aplicó correctamente por uno o ambos Estados Contratantes. El Contribuyente deberá respaldar su análisis con la documentación pertinente incluyendo la posición escrita de la autoridad tributaria así como, la documentación requerida según la legislación publicada de precios de transferencia, copias de las determinaciones o ajustes realizados por la autoridad tributaria, actas de visita y demás documentos de las auditorías realizadas por las autoridades tributarias y cualquier otro documento que demuestre la aplicación incorrecta de la disposición del Convenio.
+
+5\. Vinculación: Si corresponde, una descripción de la situación de control y de las relaciones comerciales entre el Contribuyente y cualquier persona vinculada relevante para los años en cuestión, incluyendo cualquier cambio en dicha vinculación a la fecha de presentación de la Solicitud.
+
+6\. Períodos gravables: Los años o períodos gravables involucrados y los montos involucrados, tanto en moneda local como en moneda extranjera.
+
+7\. Solicitud en el extranjero y frente a otras autoridades: Si la Solicitud de MAP también se presentó a la Autoridad Competente del otro Estado Contratante, el Contribuyente solicitante debe manifestarlo claramente, relacionando la fecha de presentación, el nombre y el cargo de la persona o la oficina a la que se realizó tal solicitud. Se debe incluir una copia de dicha solicitud (incluyendo toda la documentación adjunta a esa presentación) a menos que el contenido de ambas solicitudes de MAP sea exactamente el mismo, en cuyo caso el Contribuyente debe incluir una declaración en ese sentido. Lo mismo se aplica cuando la Solicitud de MAP también se presentó a otra autoridad en virtud de otro Instrumento que proporciona un mecanismo para resolver las controversias relacionadas con el Convenio.
+
+8\. Petición de asistencia: Una explicación de la naturaleza del beneficio o la acción solicitada en Colombia o en el otro Estado Contratante con respecto a los asuntos planteados, con el fin de solucionar la tributación no conforme al Convenio.
+
+9\. Firmeza: Una declaración que indique cuándo expirarán los términos de firmeza para los años sobre los cuales se solicita el beneficio, tanto en Colombia como en el otro Estado Contratante.
+
+10\. Procedimientos administrativos o judiciales iniciados en Colombia: Una declaración que describa los procedimientos judiciales o administrativos pertinentes iniciados en Colombia, que involucran al Contribuyente y a personas vinculadas respecto del asunto sometido a MAP.
+
+11\. Procedimientos administrativos o judiciales iniciados en el extranjero: La Solicitud deberá contener una declaración de los procedimientos judiciales o público-administrativos relevantes, iniciados en el extranjero, que involucran al Contribuyente y a personas vinculadas, así como cualquier procedimiento en el extranjero conocido por el Contribuyente que verse sobre el mismo asunto para el cual se solicita la asistencia de la ACC, aunque no involucre al Contribuyente o personas vinculadas.
+
+12\. Acuerdos previos: La Solicitud deberá indicar si el o los asunto(s) presentado(s) en la Solicitud de MAP se han tratado anteriormente mediante mecanismos tales como acuerdos anticipados de precios, o cualquier otro mecanismo con una autoridad de cualquiera de los Estados Contratantes. En caso afirmativo, se deberá proporcionar una copia de los acuerdos o decisiones.
+
+13\. Exclusiones: Revelación de cualquier tema bajo auditoría o determinación oficial que no será presentado al MAP.
+
+14\. Ajuste o corrección voluntaria de buena fe: Si el Contribuyente inició voluntariamente un ajuste de impuestos de buena fe en el extranjero respecto de los puntos sometidos a MAP ante la ACC, esta situación debe ser revelada a la ACC.
+
+15\. Audiencia por complejidad: Cuando se trate de casos inusuales o complejos, el Contribuyente debe incluir los motivos que, en su opinión, determinan el caso como tal, solicitando la audiencia para realizar una presentación del caso ante la ACC.
+
+16\. Solicitud multianual: Sujeto a los límites de tiempo estipulados en el Convenio relevante, los Contribuyentes pueden solicitar una resolución anual o multianual (que cubra varios años fiscales) de asuntos recurrentes a través del MAP, es decir, en los casos en los que la acción u omisión de la ACC generen tributación no conforme con las disposiciones del Convenio en más de un período gravable, el Contribuyente podrá solicitar que un único MAP resuelva el conflicto para todos los períodos gravables en los que se vio afectado. Cuando el Contribuyente solicita una resolución multianual de asuntos recurrentes con respecto a años fiscales presentados, deberá proporcionar información que demuestre que todos los hechos y circunstancias relevantes son las mismas para cada uno de los años.
+
+17\. Solicitud multilateral: Los Contribuyentes podrán solicitar una resolución multilateral cuando la situación involucre a Colombia y a dos o más Estados.
+
+18\. Autorización uso de información: Una declaración de que el Contribuyente da su consentimiento para la revelación a la Autoridad Competente del otro Estado Contratante (con el nombre del Estado Contratante expresado específicamente) y al personal de esta Autoridad Competente, de cualquiera o todos los elementos de información establecidos o incluidos en la Solicitud de Asistencia a la ACC, dentro de los límites contenidos en el Convenio bajo el cual el Contribuyente está buscando el beneficio. El Contribuyente podrá solicitar, como parte de esta declaración, que sus secretos comerciales no sean revelados a una Autoridad Competente extranjera. Esta declaración debe estar fechada y firmada por la persona que tenga autoridad para firmar las declaraciones de impuestos del Contribuyente.
+
+19\. Poderes: Si resulta aplicable, originales de poderes legales otorgados por el Contribuyente. La Solicitud deberá identificar a la persona que actuará como el punto de contacto inicial del Contribuyente para la ACC.
+
+20\. Declaración de veracidad: La Solicitud deberá contener la siguiente declaración: “Declaro que he examinado esta Solicitud, incluidos los documentos adjuntos, y que, a mi leal saber y entender, los hechos presentados en apoyo de la Solicitud de asistencia de la Autoridad Competente de Colombia son verdaderos, correctos y completos”.
+
+Esta declaración podrá incluirse en la Solicitud o en un documento anexo a la misma, a elección del Contribuyente. En el segundo caso la declaración debe estar fechada y firmada por el Contribuyente o por una persona autorizada por el Contribuyente.
+
+21\. Información adicional requerida para la aceptación o negación de la Solicitud: Cualquier otra información requerida o solicitada bajo esta Resolución. Las solicitudes de información complementaria que realice la ACC para el estudio de la Solicitud pueden incluir elementos como información financiera detallada, análisis de comparabilidad u otro material relevante para un análisis de precios de transferencia, modelos financieros, contratos, o cualquier otra información que la ACC considere necesaria y relevante para el análisis de la Solicitud.
+
+PARÁGRAFO 1o. Documentación adicional solicitada. El Contribuyente deberá presentar cualquier otra información o documentación que la ACC o la Autoridad Competente Extranjera considere necesaria para aceptar o negar la Solicitud. Esto puede incluir traducciones al español de cualquier documentación requerida en relación con la Solicitud. El plazo para presentar información adicional se acordará mutuamente entre la ACC y el Contribuyente, atendiendo a las circunstancias particulares de cada caso. En todo caso, dicho plazo no excederá de cuarenta y cinco (45) días calendario, plazo que será el predeterminado en el evento en que la ACC y el Contribuyente no acuerden un plazo diferente.
+
+En particular, la decisión sobre el plazo de que trata este artículo, se basará en los siguientes criterios:
+
+1\. Complejidad en la obtención de documentación y/o información debido a requisitos legales (por ejemplo, certificación notarial, apostilla, certificaciones de autoridades extranjeras).
+
+2\. Complejidad en la obtención de documentación y/o información debido a los requisitos de idioma (es decir, traducciones oficiales o no oficiales).
+
+3\. Complejidad en la obtención de documentación y/o información debido a su ubicación geográfica.
+
+4\. Complejidad en la obtención de documentación y/o información debido al tiempo transcurrido desde su elaboración.
+
+Con el fin de aceptar o negar la Solicitud por parte de la ACC, esta tendrá cuarenta y cinco (45) días calendario a partir de la fecha de recepción de la Solicitud inicial para solicitar información adicional. En todos los casos, la ACC hará seguimiento a la solicitud de información al menos una (1) vez antes de la expiración del plazo de cuarenta y cinco (45) días.
+
+PARÁGRAFO 2o. Sin perjuicio de lo anterior, durante el proceso de MAP, la ACC podrá solicitar información adicional que en cualquier momento si así lo considera necesario. El plazo para la entrega de dicha información se pactará conjuntamente con el Contribuyente y en ningún caso deberá exceder de cuarenta y cinco (45) días.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 15. ACTUALIZACIONES. <Artículo compilado como artículo [1.6.1.3.6](resolucion_dian_0227_2025.htm#1.6.1.3.6) en la Resolución 227 de 2025> El Contribuyente debe mantener a la ACC informada de todos los cambios relevantes en la información o documentación previamente presentada como parte de, o en conexión con, la Solicitud. El Contribuyente también deberá proporcionar cualquier información actualizada o nueva documentación que se haga conocida o se genere después de que se haya presentado la Solicitud y que sea relevante para la resolución de los asuntos en consideración, incluyendo solicitudes de MAP presentadas ante la Autoridad Competente del otro Estado Contratante.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 16. INFORMACIÓN PROPORCIONADA A AMBAS AUTORIDADES COMPETENTES. <Artículo compilado como artículo [1.6.1.3.7](resolucion_dian_0227_2025.htm#1.6.1.3.7) en la Resolución 227 de 2025> Las actualizaciones a las que se refiere el artículo [15](resolucion_dian_0085_2020.htm#15) de la presente Resolución se deben presentar a ambas Autoridades Competentes, pues es fundamental que tengan la misma información. Por ejemplo, si se hace una solicitud de información adicional por parte de una Autoridad Competente Extranjera, las respuestas también deben enviarse a la ACC (y viceversa). En los casos en los que el flujo de información sea asimétrico, se dará aplicación a lo previsto en el artículo [24](resolucion_dian_0085_2020.htm#24) de la presente Resolución.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 17. CONFERENCIAS. <Artículo compilado como artículo [1.6.1.3.8](resolucion_dian_0227_2025.htm#1.6.1.3.8) en la Resolución 227 de 2025> De manera previa a la presentación de la Solicitud, el Contribuyente podrá solicitar una conferencia con la ACC para discutir el proceso de mutuo acuerdo respecto a los asuntos cubiertos por un Convenio, incluyendo aspectos como la discusión sobre el momento adecuado para la presentación, los aspectos prácticos para obtener el beneficio y las acciones necesarias para facilitar los procedimientos. La información obtenida en dicha conferencia se mantendrá confidencial por la ACC en caso de que el Contribuyente decida no presentar una Solicitud oficial.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 18. PARTICIPACIÓN DEL CONTRIBUYENTE EN PROCEDIMIENTOS DE LA AUTORIDAD COMPETENTE. <Artículo compilado como artículo [1.6.1.3.9](resolucion_dian_0227_2025.htm#1.6.1.3.9) en la Resolución 227 de 2025> Las negociaciones entre Autoridades Competentes son una actividad de gobierno a gobierno que no incluye la participación del Contribuyente. Sin embargo, para casos inusuales o complejos, puede ser valioso que el Contribuyente realice una presentación a la ACC y posteriormente a ambas Autoridades Competentes al mismo tiempo. El Contribuyente deberá incluir en la Solicitud los motivos para determinar que el caso es inusual o complejo, y la ACC determinará si es apropiado permitir la presentación verbal de la Solicitud del Contribuyente. Esta decisión se comunicará en la respuesta que otorga o niega el acceso al MAP.
+
+CAPÍTULO IV.
+
+ACCIÓN POR PARTE DE LA AUTORIDAD COMPETENTE DE COLOMBIA.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 19. NOTIFICACIÓN DE ACEPTACIÓN O NEGACIÓN DE LA SOLICITUD. <Artículo compilado como artículo [1.6.1.4.1](resolucion_dian_0227_2025.htm#1.6.1.4.1) en la Resolución 227 de 2025> Al recibir una Solicitud de asistencia conforme a la presente Resolución, la ACC notificará al Contribuyente si ha aceptado o negado la Solicitud dentro de los noventa (90) días calendario siguientes de haber recibido una Solicitud completa. En el evento en que se niegue la solicitud, se le comunicarán al Contribuyente los motivos en los que se fundamenta dicha decisión y se le otorgarán cuarenta y cinco (45) días calendario para subsanar las deficiencias informadas.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 20. NEGACIÓN DE ASISTENCIA. <Artículo compilado como artículo [1.6.1.4.2](resolucion_dian_0227_2025.htm#1.6.1.4.2) en la Resolución 227 de 2025> La ACC no aceptará una solicitud de asistencia si:
+
+1\. Determina que el Contribuyente no tiene derecho al beneficio o la salvaguardia del Convenio en cuestión, ni a la asistencia solicitada, por ejemplo, en caso de que el término para la presentación haya expirado en virtud del Convenio aplicable;
+
+2\. El Contribuyente no está de acuerdo en que las negociaciones de las Autoridades Competentes sean una actividad de gobierno a gobierno que no incluya la participación del Contribuyente en los procedimientos de negociación;
+
+3\. El Contribuyente no proporciona información completa y precisa o ha incurrido en algún tipo de fraude o declaración engañosa en la información suministrada;
+
+4\. Se descubrió que el Contribuyente había iniciado un ajuste o corrección voluntaria en el extranjero y que, posteriormente, solicitó asistencia de la ACC, pero no reveló tal situación en la Solicitud; o si
+
+5\. La situación que da lugar a la Solicitud está fuera del ámbito personal o territorial de aplicación del Convenio relevante
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 21. CONSULTA DE PROCEDIMIENTO DE MUTUO ACUERDO EN CASO DE NEGACIÓN DE ASISTENCIA. <Artículo compilado como artículo [1.6.1.4.3](resolucion_dian_0227_2025.htm#1.6.1.4.3) en la Resolución 227 de 2025> Cuando una solicitud haya sido negada sobre la base del artículo [20](resolucion_dian_0085_2020.htm#20) de la presente Resolución, la ACC procederá a notificar automáticamente a la Autoridad Competente del otro Estado Contratante de tal negación.
+
+La ACC notificará a la Autoridad Competente del otro Estado Contratante por escrito e incluirá la siguiente información y documentos adjuntos en su comunicación:
+
+1\. Fecha de la solicitud.
+
+2\. Identificación del Contribuyente.
+
+3\. Tipo de MAP solicitado.
+
+4\. Copia de la negación.
+
+5\. Copia de la solicitud y de cualquier documento incluido en soporte de dicha Solicitud.
+
+6\. Indicación del término de seis (6) meses para que la Autoridad Competente del otro Estado Contratante solicite la consulta bilateral, de acuerdo con el siguiente inciso.
+
+La Autoridad Competente del otro Estado Contratante podrá dar inicio a una Consulta Bilateral siempre que considere que la negación realizada por la ACC fue improcedente.
+
+La ACC considerará cualquier solicitud de consulta bilateral por parte de la Autoridad Competente del otro Estado Contratante dentro de los seis (6) meses siguientes a la notificación de la negación. Una vez que la ACC reciba una solicitud de consulta bilateral de la Autoridad Competente del otro Estado Contratante, procederá a establecer bilateralmente los tiempos y procedimientos que deben seguir ambas Autoridades Competentes para llevar a cabo el procedimiento de consulta.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 22. IMPLEMENTACIÓN DEL PROCEDIMIENTO DE MUTUO ACUERDO. <Artículo compilado como artículo [1.6.1.4.4](resolucion_dian_0227_2025.htm#1.6.1.4.4) en la Resolución 227 de 2025> Los acuerdos que suscriba la ACC en desarrollo del MAP podrán ser implementados en cualquier momento independientemente del período de firmeza establecido para las declaraciones pertinentes, de acuerdo con el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario.
+
+Los Contribuyentes podrán solicitar la implementación mediante la presentación de la copia del Acuerdo de MAP que suscriba la ACC, los cuales contendrán la liquidación pertinente.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 23. NO REVISIÓN DE LA NEGACIÓN DE SOLICITUD DE ASISTENCIA. <Artículo compilado como artículo [1.6.1.4.5](resolucion_dian_0227_2025.htm#1.6.1.4.5) en la Resolución 227 de 2025> Independientemente de la consulta bilateral, la negación por parte de la ACC de la Solicitud de asistencia de un Contribuyente, es definitiva y contra ella no procede recurso alguno.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 24. CESE DE LA ASISTENCIA EN EL CURSO DE UN PROCEDIMIENTO DE MUTUO ACUERDO. <Artículo compilado como artículo [1.6.1.4.6](resolucion_dian_0227_2025.htm#1.6.1.4.6) en la Resolución 227 de 2025> La ACC cesará de ofrecer asistencia al Contribuyente si:
+
+1\. El Contribuyente no está de acuerdo en que las negociaciones entre las Autoridades Competentes son una actividad de gobierno a gobierno que no incluye la participación del Contribuyente en los procedimientos de negociación;
+
+2\. El Contribuyente no entrega oportunamente la información o documentación solicitada, o únicamente la entrega a la Autoridad Competente del otro Estado Contratante;
+
+3\. Se comprueba que el Contribuyente había proporcionado información asimétrica a las Autoridades Competentes de los Estados Contratantes;
+
+4\. El Contribuyente: (a) no cumple con la presente Resolución, incluyendo la obligación de desistir de los recursos judiciales dentro de los quince (15) días hábiles siguientes a la notificación de la aceptación de la solicitud; (b) no coopera facilitando a la ACC la información solicitada de los períodos en cuestión y dicha omisión dificulta la capacidad de la ACC para negociar y concluir un acuerdo; (c) no coopera con la ACC; o (d) de otra manera, impide significativamente la capacidad de la ACC para negociar y concluir un acuerdo;
+
+5\. El Contribuyente no reembolsa los gastos que se generen con ocasión del proceso dentro del término concedido por la ACC para ello. Los gastos del proceso no se refieren a los recursos humanos y materiales para llevar a cabo el MAP por parte de la ACC sino a los gastos particulares surgidos con ocasión del proceso y necesarios para su desarrollo, pero distintos al pago de apoderados.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 25. NATURALEZA Y EFECTOS DE LOS ACUERDOS DE PROCEDIMIENTO DE MUTUO ACUERDO. <Artículo compilado como artículo [1.6.1.4.7](resolucion_dian_0227_2025.htm#1.6.1.4.7) en la Resolución 227 de 2025> Los acuerdos alcanzados entre la ACC y la Autoridad Competente Extranjera en un MAP, tendrán la misma naturaleza jurídica y los mismos efectos que los fallos judiciales definitivos, por lo cual prestarán mérito ejecutivo y no serán susceptibles de recurso alguno.
+
+Por lo tanto, el acuerdo alcanzado por las autoridades competentes, es definitivo y no es susceptible de revisión administrativa o judicial posterior.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 26. NOTIFICACIÓN. <Artículo compilado como artículo [1.6.1.4.8](resolucion_dian_0227_2025.htm#1.6.1.4.8) en la Resolución 227 de 2025> La ACC notificará a los Contribuyentes que soliciten asistencia conforme a la presente Resolución de cualquier acuerdo que alcancen la ACC y la Autoridad Competente Extranjera con respecto a la Solicitud.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 27. AUSENCIA DE MUTUO ACUERDO. <Artículo compilado como artículo [1.6.1.4.9](resolucion_dian_0227_2025.htm#1.6.1.4.9) en la Resolución 227 de 2025> Cuando las Autoridades Competentes no lleguen a un acuerdo, no procederán recursos adicionales, excepto con respecto a los Convenios que prevén el arbitraje de la disputa. La solicitud de arbitraje debe realizarse de acuerdo con los procedimientos establecidos en el Convenio aplicable y los documentos relacionados.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 28. ELIMINACIÓN O REDUCCIÓN UNILATERAL DE AJUSTES INICIADOS POR COLOMBIA. <Artículo compilado como artículo [1.6.1.4.10](resolucion_dian_0227_2025.htm#1.6.1.4.10) en la Resolución 227 de 2025> La solicitud de eliminación o reducción unilateral de ajustes iniciados por Colombia en casos en los que estén involucradas empresas asociadas, generalmente no será considerada. Entre otros, la ACC no eliminará ni reducirá un ajuste a los ingresos, costos, deducciones, descuentos u otros conceptos únicamente porque el término de firmeza se haya cumplido en el país extranjero y la Autoridad Competente Extranjera se haya negado a otorgar algún alivio. Si el término de firmeza en el extranjero se ha cumplido, la ACC puede tener en cuenta otros hechos relevantes para determinar si tal eliminación o reducción es apropiada y puede, en circunstancias extraordinarias y discrecionalmente, proporcionar dicho alivio con respecto al ajuste para evitar la doble imposición o para evitar una tributación no conforme con un Convenio.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 29. RECIPROCIDAD ENTRE LAS PARTES CONTRATANTES DEL CONVENIO. <Artículo compilado como artículo [1.6.1.4.11](resolucion_dian_0227_2025.htm#1.6.1.4.11) en la Resolución 227 de 2025> Los Convenios deben aplicarse de manera equilibrada y recíproca, Colombia normalmente no retirará ni reducirá un ajuste cuando el otro Estado Contratante del Convenio no otorgue un beneficio similar en casos equivalentes.
+
+CAPÍTULO V.
+
+COORDINACIÓN CON OTROS PROCEDIMIENTOS.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 30. SUSPENSIÓN DE LA ACCIÓN ADMINISTRATIVA Y COBRO COACTIVO CON RESPECTO A LOS AJUSTES DE LA DIAN. <Artículo compilado como artículo [1.6.1.5.1](resolucion_dian_0227_2025.htm#1.6.1.5.1) en la Resolución 227 de 2025> De acuerdo con lo previsto en el artículo [869-3](estatuto_tributario.htm#869-3) del Estatuto Tributario, desde la fecha de aceptación de una Solicitud de asistencia con respecto a un ajuste iniciado por Colombia, la Dirección de Impuestos y Aduanas Nacionales (DIAN) suspenderá la acción administrativa, una vez se verifique el desistimiento de la acción administrativa o judicial interpuesta por el Contribuyente, así como los procedimientos de cobro coactivo.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 31. COORDINACIÓN CON LOS RECURSOS Y ACCIONES ADMINISTRATIVAS. <Artículo compilado como artículo [1.6.1.5.2](resolucion_dian_0227_2025.htm#1.6.1.5.2) en la Resolución 227 de 2025> Los Contribuyentes que no estén de acuerdo con un ajuste propuesto por la Dirección de Impuestos y Aduanas Nacionales (DIAN), tienen la opción de ejercer su derecho de revisión administrativa ante las autoridades pertinentes antes de solicitar la asistencia de la ACC o pueden solicitar la asistencia de la ACC inmediatamente para consideración bilateral. En caso de que el Contribuyente haya solicitado un recurso administrativo como el de Reconsideración o haya interpuesto una Revocatoria Directa respecto a los asuntos puestos a consideración a través del MAP, una vez que se acepte la Solicitud de asistencia, el Contribuyente deberá desistir de estos recursos o acciones dentro de un plazo máximo de quince (15) días calendario con respecto a los asuntos puestos a consideración a través del MAP.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 32. COORDINACIÓN CON EL LITIGIO. <Artículo compilado como artículo [1.6.1.5.3](resolucion_dian_0227_2025.htm#1.6.1.5.3) en la Resolución 227 de 2025> El Contribuyente puede presentar una Solicitud de asistencia MAP en cualquier momento antes de que el juez competente de Colombia emita una decisión judicial final (de última instancia) sobre el asunto. En estos casos, se solicitará al Contribuyente que desista de la demanda dentro de un plazo máximo de quince (15) días hábiles siguientes a la notificación de aceptación de la Solicitud, de conformidad con el artículo [19](resolucion_dian_0085_2020.htm#19) de esta Resolución. Si el caso contiene asuntos que no serán objeto de consideración en el MAP, se podrá solicitar al Contribuyente que retire parcialmente las pretensiones respecto de los asuntos que se pretenden considerar a través del MAP.
+
+Si la Solicitud involucra un período gravable en el que se ha proferido una decisión judicial final en Colombia, la ACC solo considerará la solicitud de asistencia de un Contribuyente para aliviar la doble tributación en el Estado Contratante Extranjero, pero no desmejorará la situación del Contribuyente según lo determinado por la decisión judicial final.
+
+En los casos en los que la ACC notifique al Contribuyente de la ausencia de un acuerdo en el marco de un MAP, el Contribuyente podrá acudir nuevamente a la jurisdicción considerando que dicha notificación agota la sede administrativa.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 33. EFECTO DE LOS ACUERDOS O CONCILIACIONES SOBRE LOS PROCEDIMIENTOS DE LA AUTORIDAD COMPETENTE. <Artículo compilado como artículo [1.6.1.5.4](resolucion_dian_0227_2025.htm#1.6.1.5.4) en la Resolución 227 de 2025> Si un Contribuyente celebra un acuerdo que ponga fin a una actuación administrativa en curso con la Dirección de Impuestos y Aduanas Nacionales (DIAN), o llega a un acuerdo de conciliación con la Dirección de Impuestos y Aduanas Nacionales (DIAN), o si la responsabilidad de los períodos gravables ya ha sido determinada por un juez colombiano de última instancia, la ACC solo intentará obtener un ajuste correlativo del país con Convenio y no emprenderá ninguna acción que de otro modo cambiaría tales acuerdos o conciliaciones finales.
+
+CAPÍTULO VI.
+
+COBRO, SANCIONES E INTERESES.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 34. COBRO COACTIVO DE IMPUESTOS SOBRE AJUSTES INICIADOS POR LA DIAN. <Artículo compilado como artículo [1.6.1.6.1](resolucion_dian_0227_2025.htm#1.6.1.6.1) en la Resolución 227 de 2025> Como se indica en el artículo [30](resolucion_dian_0085_2020.htm#30) de la presente Resolución, el procedimiento de cobro coactivo se suspenderá con respecto a los asuntos bajo consideración de la ACC.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 35. TRATAMIENTO DE INTERESES Y SANCIONES. <Artículo compilado como artículo [1.6.1.6.2](resolucion_dian_0227_2025.htm#1.6.1.6.2) en la Resolución 227 de 2025> La ACC podrá disminuir los intereses y las sanciones como parte del acuerdo MAP, siempre que dichos intereses y sanciones estén directamente relacionados con los impuestos cubiertos dentro del alcance del Convenio relevante.
+
+La suspensión de intereses operará de acuerdo con lo dispuesto en el parágrafo 2 del artículo [634](estatuto_tributario.htm#634) del Estatuto Tributario colombiano.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 36. PUBLICACIÓN. La presente resolución se publicará en el Diario Oficial de conformidad con el artículo [65](ley_1437_2011.htm#65) del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)
+
+ARTÍCULO 37. VIGENCIA. La presente resolución rige a partir de la fecha de su publicación.
+
+Publíquese y cúmplase.
+
+Dada en Bogotá, D. C., a 21 de agosto de 2020.
+
+El Director General,
+
+José Andrés Romero Tarazona.
+
+[![Ir al inicio](../images/noun-arrow-up-3137361-008000.svg)](#documento_top)

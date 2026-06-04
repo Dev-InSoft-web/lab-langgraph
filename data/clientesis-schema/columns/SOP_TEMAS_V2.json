@@ -1,0 +1,81 @@
+{
+  "version": 4,
+  "kind": "columns-tree",
+  "tableref": "SOP_TEMAS_V2",
+  "tablemeta": {
+    "originalname": "SOP_TEMAS_V2",
+    "hasifnotexists": true
+  },
+  "nodes": [
+    {
+      "flatpath": "1",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "2",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "3",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "4",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "5",
+      "ireference": "COLUMN",
+      "kind": "col"
+    }
+  ],
+  "entities": {
+    "COLUMN": [
+      {
+        "icolumn": "1",
+        "flatpath": "1",
+        "name": "ITEMA",
+        "type": "VARCHAR(25)",
+        "primarykey": true,
+        "kind": "col"
+      },
+      {
+        "icolumn": "2",
+        "flatpath": "2",
+        "name": "ICATEGORIA",
+        "type": "VARCHAR(25)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "3",
+        "flatpath": "3",
+        "name": "NTEMA",
+        "type": "VARCHAR(255)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "4",
+        "flatpath": "4",
+        "name": "ITABLA",
+        "type": "VARCHAR(50)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "5",
+        "flatpath": "5",
+        "name": "BEXIGEPOLIZA",
+        "type": "BIT",
+        "defaultvalue": "0",
+        "primarykey": false,
+        "kind": "col"
+      }
+    ]
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:32:06.008Z",
+  "videoId": "qmRrSL29vS4",
+  "videoUrl": "https://www.youtube.com/watch?v=qmRrSL29vS4",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "qmRrSL29vS4",
+    "title": "Software agricola AgroWin - La planilla de labores en el sistema",
+    "fulltitle": "Software agricola AgroWin - La planilla de labores en el sistema",
+    "description": "http://www.contapyme.com/software-agricola\nSoftware arícola AgroWin.\nAW40-040-050-02B",
+    "duration": 584,
+    "duration_string": "9:44",
+    "upload_date": "20120303",
+    "timestamp": 1330782962,
+    "view_count": 2251,
+    "like_count": 5,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/qmRrSL29vS4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCAgPSh_MA8=&rs=AOn4CLCgKFBldzVMVTHnmxUkxWpCL5R9YA",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARggID0ofzAP&rs=AOn4CLAvr5fGzW___NWrrcgVcoGAtoBNow",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCAgPSh_MA8=&rs=AOn4CLBWcDG0vTRTVXlBzXcIuD2KEvYlRw",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCAgPSh_MA8=&rs=AOn4CLA2CaTOmrHwbn877v-99gCPMxLwlQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCAgPSh_MA8=&rs=AOn4CLC7i3caHPAIPAkE-4P9bLcEaMgxgw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARggID0ofzAP&rs=AOn4CLC7r5tajJHl9yiqRgM3HrjdrxOmRA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARggID0ofzAP&rs=AOn4CLASmy4D2yD2jEp_LKwBvLJ5ZAknGA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCAgPSh_MA8=&rs=AOn4CLD6wfFuv-AX99MU5sLx-LAmRYwaWw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCAgPSh_MA8=&rs=AOn4CLCgKFBldzVMVTHnmxUkxWpCL5R9YA",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/qmRrSL29vS4/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/qmRrSL29vS4/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qmRrSL29vS4",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17123287671232876,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20205479452054795,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20205479452054795,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20205479452054795,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 205.723,
+        "asr": 44100,
+        "filesize_approx": 15015516,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - La planilla de labores en el sistema",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/qmRrSL29vS4/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/qmRrSL29vS4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - La planilla de labores en el sistema\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 106,
+    "transcriptChars": 6717,
+    "segments": [
+      {
+        "text": "Agroin, la planilla de labores en el sistema.",
+        "startMs": 1200,
+        "durationMs": 4790
+      },
+      {
+        "text": "sistema. En Agrobin 4, el manejador de",
+        "startMs": 5990,
+        "durationMs": 1799
+      },
+      {
+        "text": "operaciones cubre cada empresa de trabajo con sus",
+        "startMs": 7789,
+        "durationMs": 2840
+      },
+      {
+        "text": "sedes. Por esta razón, para crear una operación de planilla de labores debemos",
+        "startMs": 10629,
+        "durationMs": 5160
+      },
+      {
+        "text": "estar ubicados en la empresa correspondiente y en cualquiera de sus",
+        "startMs": 15789,
+        "durationMs": 5601
+      },
+      {
+        "text": "sedes. A continuación, seleccionamos el botón de manejador de",
+        "startMs": 21390,
+        "durationMs": 4400
+      },
+      {
+        "text": "operaciones y una vez ubicados en él, desplegamos el menú de adición de",
+        "startMs": 25790,
+        "durationMs": 5520
+      },
+      {
+        "text": "operaciones. Seleccionamos la categoría labores y la operación de planilla de",
+        "startMs": 31310,
+        "durationMs": 7640
+      },
+      {
+        "text": "labores. La primera ventana de la operación de planilla de labores",
+        "startMs": 38960,
+        "durationMs": 3710
+      },
+      {
+        "text": "presenta una información estándar común a todas las operaciones, documentada por",
+        "startMs": 42670,
+        "durationMs": 5399
+      },
+      {
+        "text": "defecto por el sistema, pero que puede ser modificada. La dejaremos tal como",
+        "startMs": 48069,
+        "durationMs": 7081
+      },
+      {
+        "text": "está. Entre la información que debemos",
+        "startMs": 55150,
+        "durationMs": 1320
+      },
+      {
+        "text": "documentar está cuenta de caja. Le asignamos una cuenta de caja a la",
+        "startMs": 56470,
+        "durationMs": 6600
+      },
+      {
+        "text": "planilla. Cuenta de banco. Igualmente le asignamos una cuenta de",
+        "startMs": 63070,
+        "durationMs": 6000
+      },
+      {
+        "text": "banco. El total de la planilla se pagará a un",
+        "startMs": 69070,
+        "durationMs": 3600
+      },
+      {
+        "text": "tercero. Lo dejamos sin chequear. Esto significaría que todos los valores",
+        "startMs": 72670,
+        "durationMs": 6560
+      },
+      {
+        "text": "que se generen en esta planilla van a ser pagados a una sola persona y no a",
+        "startMs": 79230,
+        "durationMs": 4519
+      },
+      {
+        "text": "los terceros que documentemos en ella. Tarifas por labor, lo dejamos sin",
+        "startMs": 83749,
+        "durationMs": 6841
+      },
+      {
+        "text": "chequear. Tarifas diarias por tipo de contrato, lo chequeamos. O sea, que",
+        "startMs": 90590,
+        "durationMs": 5960
+      },
+      {
+        "text": "vamos a pagar con los valores que dejamos consignados en los contratos y",
+        "startMs": 96550,
+        "durationMs": 9599
+      },
+      {
+        "text": "Por lo tanto, en el siguiente paso del asistente se muestran todos los",
+        "startMs": 106159,
+        "durationMs": 4391
+      },
+      {
+        "text": "contratos de labores con los valores diarios que definimos en cada uno de",
+        "startMs": 110550,
+        "durationMs": 4320
+      },
+      {
+        "text": "ellos con el objeto de modificarlos si lo consideramos necesario. Los dejaremos",
+        "startMs": 114870,
+        "durationMs": 7919
+      },
+      {
+        "text": "están. En el próximo campo aparece la planilla propiamente dicha con los",
+        "startMs": 122799,
+        "durationMs": 4751
+      },
+      {
+        "text": "campos que se estudiaron en el video de conceptualización.",
+        "startMs": 127550,
+        "durationMs": 3520
+      },
+      {
+        "text": "conceptualización. Los campos son los siguientes: tipo de",
+        "startMs": 131070,
+        "durationMs": 3000
+      },
+      {
+        "text": "contrato, código del trabajador con su nombre y para cada día de la semana",
+        "startMs": 134070,
+        "durationMs": 6680
+      },
+      {
+        "text": "centro de costos donde trabajó, labor que ejecutó, cantidad de mano de obra",
+        "startMs": 140750,
+        "durationMs": 5800
+      },
+      {
+        "text": "ocupada y cantidad de labor ejecutada. En este ejemplo registraremos tres",
+        "startMs": 146550,
+        "durationMs": 6160
+      },
+      {
+        "text": "labores pagadas cada una de ellas con un tipo de contrato",
+        "startMs": 152710,
+        "durationMs": 3879
+      },
+      {
+        "text": "diferente. Des hierba del lote para la siembra pagado a jornal, siembra del",
+        "startMs": 156589,
+        "durationMs": 5121
+      },
+      {
+        "text": "lote pagado por unidades y mantenimiento de la carretera pagado a",
+        "startMs": 161710,
+        "durationMs": 5439
+      },
+      {
+        "text": "destajo. Iniciaremos con la labor número uno de hierba del lote para la siembra.",
+        "startMs": 167149,
+        "durationMs": 5601
+      },
+      {
+        "text": "Doble clic en la primera columna de la planilla, tipo de contrato y",
+        "startMs": 172750,
+        "durationMs": 4240
+      },
+      {
+        "text": "seleccionamos el contrato número 10, pago a",
+        "startMs": 176990,
+        "durationMs": 5280
+      },
+      {
+        "text": "jornal. Ahora doble clic en el código del",
+        "startMs": 182280,
+        "durationMs": 4110
+      },
+      {
+        "text": "del trabajador y seleccionamos al trabajador",
+        "startMs": 186390,
+        "durationMs": 6559
+      },
+      {
+        "text": "Rivera. A continuación digitamos los campos del día",
+        "startMs": 192959,
+        "durationMs": 9550
+      },
+      {
+        "startMs": 202519,
+        "durationMs": 3591,
+        "text": "Lote Argentina, cultivo"
+      },
+      {
+        "text": "Granadilla. Labor. Seleccionamos la labor 195 de hierba de",
+        "startMs": 206120,
+        "durationMs": 6590
+      },
+      {
+        "text": "asadón. Cantidad de mano de obra, un jornal, el trabajo del día. Cantidad de",
+        "startMs": 212710,
+        "durationMs": 6120
+      },
+      {
+        "text": "labor, lo dejamos tal como está. En este ejercicio, para efectos",
+        "startMs": 218830,
+        "durationMs": 5360
+      },
+      {
+        "text": "prácticos, documentaremos solamente los datos del",
+        "startMs": 224190,
+        "durationMs": 4520
+      },
+      {
+        "text": "lunes. Seguimos con la labor número dos, siembra del",
+        "startMs": 228710,
+        "durationMs": 4280
+      },
+      {
+        "text": "lote. Doble clic en la primera columna de la planilla, tipo de contrato y",
+        "startMs": 232990,
+        "durationMs": 5159
+      },
+      {
+        "text": "seleccionamos el contrato número 20, siembra de",
+        "startMs": 238149,
+        "durationMs": 5000
+      },
+      {
+        "text": "granadilla. A continuación, doble clic en el código del trabajador y",
+        "startMs": 243149,
+        "durationMs": 9321
+      },
+      {
+        "text": "Rivera. A continuación digitamos los datos del día lunes. Centro de",
+        "startMs": 252480,
+        "durationMs": 6269
+      },
+      {
+        "text": "costos, cultivo de granadilla del lote Argentina.",
+        "startMs": 258749,
+        "durationMs": 7961
+      },
+      {
+        "text": "Como el contrato número 20 quedó ligado a la labor",
+        "startMs": 266720,
+        "durationMs": 3990
+      },
+      {
+        "text": "130 de siembra de Colinos, el sistema selecciona automáticamente la labor.",
+        "startMs": 270710,
+        "durationMs": 6120
+      },
+      {
+        "text": "A continuación digitamos la cantidad de mano de obra, un",
+        "startMs": 276830,
+        "durationMs": 4919
+      },
+      {
+        "text": "jornal, un día de trabajo. En este caso se trata de un dato estadístico que no",
+        "startMs": 281749,
+        "durationMs": 4761
+      },
+      {
+        "text": "va a utilizar el sistema para el cálculo del pago. Y finalmente documentamos la",
+        "startMs": 286510,
+        "durationMs": 4800
+      },
+      {
+        "text": "cantidad de trabajo realizado, 190 colinos. Este dato es el que va a",
+        "startMs": 291310,
+        "durationMs": 4360
+      },
+      {
+        "text": "utilizar el sistema para el cálculo del costo a",
+        "startMs": 295670,
+        "durationMs": 3840
+      },
+      {
+        "text": "pagar. Como en el caso anterior, documentaremos solamente los datos del",
+        "startMs": 299510,
+        "durationMs": 4320
+      },
+      {
+        "text": "día lunes para efectos prácticos. Finalmente concluimos con la labor",
+        "startMs": 303830,
+        "durationMs": 5240
+      },
+      {
+        "text": "número tres, mantenimiento de carretera. Doble clic en la primera columna de la",
+        "startMs": 309070,
+        "durationMs": 5440
+      },
+      {
+        "text": "Seleccionamos el contrato número 30. Destajo. A continuación seleccionamos el",
+        "startMs": 314510,
+        "durationMs": 11119
+      },
+      {
+        "text": "trabajador, el trabajador Carlos",
+        "startMs": 325639,
+        "durationMs": 8830
+      },
+      {
+        "text": "Palacio. Y de la misma manera digitamos los datos del día lunes. Centro de",
+        "startMs": 334479,
+        "durationMs": 6150
+      },
+      {
+        "text": "costos. Seleccionamos el centro de costos de",
+        "startMs": 340629,
+        "durationMs": 2641
+      },
+      {
+        "text": "centro de costos indirectos, el 10",
+        "startMs": 343270,
+        "durationMs": 5759
+      },
+      {
+        "text": "20. Seleccionamos la labor, mantenimiento de",
+        "startMs": 349039,
+        "durationMs": 5471
+      },
+      {
+        "text": "carreteras y el número de jornales trabajados en el día, en este caso un",
+        "startMs": 354510,
+        "durationMs": 4880
+      },
+      {
+        "text": "solo jornal. El campo de cantidad de trabajo",
+        "startMs": 359390,
+        "durationMs": 4480
+      },
+      {
+        "text": "realizado lo dejamos vacío en el contrato a destajo. El valor",
+        "startMs": 363870,
+        "durationMs": 4879
+      },
+      {
+        "text": "del pago se digita en el extremo derecho de la planilla, en el campo de valor",
+        "startMs": 368749,
+        "durationMs": 7321
+      },
+      {
+        "startMs": 376080,
+        "durationMs": 5430,
+        "text": "pagar, 200,000"
+      },
+      {
+        "text": "pes. Esta es la información mínima necesaria para documentar la planilla de",
+        "startMs": 381520,
+        "durationMs": 4470
+      },
+      {
+        "text": "labores. En la vida real se deben llenar los datos del lunes al sábado o al",
+        "startMs": 385990,
+        "durationMs": 5039
+      },
+      {
+        "text": "domingo según como se trabaje en la finca. En el extremo derecho de la",
+        "startMs": 391029,
+        "durationMs": 13000
+      },
+      {
+        "text": "registro. Total de mano de obra, total de trabajo",
+        "startMs": 404039,
+        "durationMs": 11430
+      },
+      {
+        "text": "Siguen cuatro columnas de descuentos de libre",
+        "startMs": 415479,
+        "durationMs": 3270
+      },
+      {
+        "text": "libre uso que no consideraremos en este",
+        "startMs": 418749,
+        "durationMs": 3921
+      },
+      {
+        "text": "ejercicio. Finalizando la planilla, tenemos tres",
+        "startMs": 422670,
+        "durationMs": 4199
+      },
+      {
+        "text": "columnas. El total apagar, que es el total anterior menos",
+        "startMs": 426869,
+        "durationMs": 6961
+      },
+      {
+        "text": "los descuentos. Para este caso es el mismo valor, el",
+        "startMs": 433830,
+        "durationMs": 4320
+      },
+      {
+        "text": "número del cheque. En este caso, si anotamos el número del cheque, el valor",
+        "startMs": 438150,
+        "durationMs": 4800
+      },
+      {
+        "text": "de este registro se pagará por la cuenta de",
+        "startMs": 442950,
+        "durationMs": 3239
+      },
+      {
+        "text": "banco configurada en el paso número uno de la",
+        "startMs": 446189,
+        "durationMs": 3521
+      },
+      {
+        "text": "operación. Si no anotamos nada, el registro se pagará por la cuenta de caja",
+        "startMs": 449710,
+        "durationMs": 5400
+      },
+      {
+        "text": "configurada en la misma parte. Finalmente hay un campo para",
+        "startMs": 455110,
+        "durationMs": 8680
+      },
+      {
+        "text": "uso. Pasamos a la siguiente ventana oprimiendo el botón",
+        "startMs": 463800,
+        "durationMs": 5150
+      },
+      {
+        "text": "siguiente. Esta ventana es un resumen de las labores documentadas en la planilla",
+        "startMs": 468950,
+        "durationMs": 4519
+      },
+      {
+        "text": "y clasificadas por lote. Consta de los siguientes datos: tipo de",
+        "startMs": 473469,
+        "durationMs": 6201
+      },
+      {
+        "text": "contrato, centro de costos, labor",
+        "startMs": 479670,
+        "durationMs": 4680
+      },
+      {
+        "text": "ejecutada, cantidad de mano de obra y cantidad de labor de esta semana, o sea,",
+        "startMs": 484350,
+        "durationMs": 6119
+      },
+      {
+        "text": "registradas en esta planilla. Cantidad de mano de obra y",
+        "startMs": 490469,
+        "durationMs": 4361
+      },
+      {
+        "text": "cantidad de labor acumulado con las semanas",
+        "startMs": 494830,
+        "durationMs": 3520
+      },
+      {
+        "text": "semanas anteriores. Sigue una columna",
+        "startMs": 498350,
+        "durationMs": 3040
+      },
+      {
+        "text": "informativa de la semana en que se inició la labor.",
+        "startMs": 501390,
+        "durationMs": 4680
+      },
+      {
+        "text": "A continuación está el campo de chequeo para finalizar las",
+        "startMs": 506070,
+        "durationMs": 3480
+      },
+      {
+        "text": "labores. Este campo se debe chequear la semana en que se termina la",
+        "startMs": 509550,
+        "durationMs": 5080
+      },
+      {
+        "text": "labor. Sigue el campo para el indicador de rendimiento en términos de jornales",
+        "startMs": 514630,
+        "durationMs": 4560
+      },
+      {
+        "text": "por hectárea o árboles por jornal o otro. Este campo solo se calcula cuando",
+        "startMs": 519190,
+        "durationMs": 11360
+      },
+      {
+        "text": "Finalmente, hay un campo de descantar, de descartar para rendimiento para",
+        "startMs": 530560,
+        "durationMs": 4190
+      },
+      {
+        "text": "aquellas labores que consideramos muy sesgadas y no queremos que afecte las",
+        "startMs": 534750,
+        "durationMs": 3680
+      },
+      {
+        "text": "estadísticas internas del sistema. Con esta información, la",
+        "startMs": 538430,
+        "durationMs": 5440
+      },
+      {
+        "text": "planilla queda completamente documentada, de tal forma que podemos",
+        "startMs": 543870,
+        "durationMs": 8399
+      },
+      {
+        "text": "Si la operación queda desprocesada, procedemos a procesarla con un doble",
+        "startMs": 552279,
+        "durationMs": 4751
+      },
+      {
+        "text": "clic en el campo de proceso. En el inspector de",
+        "startMs": 557030,
+        "durationMs": 5520
+      },
+      {
+        "text": "datos, la pestaña movimiento, podemos verificar el movimiento contable",
+        "startMs": 562550,
+        "durationMs": 5839
+      },
+      {
+        "text": "ejecutado por esta operación. Cuenta, centro de costos,",
+        "startMs": 568389,
+        "durationMs": 10680
+      },
+      {
+        "text": "Esto es todo sobre la planilla de labores en el sistema. Gracias por su",
+        "startMs": 579079,
+        "durationMs": 6401
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com/software-agricola\nSoftware arícola AgroWin.\nAW40-040-050-02B\n\n## Transcripción\n\nAgroin, la planilla de labores en el sistema.\nsistema. En Agrobin 4, el manejador de\noperaciones cubre cada empresa de trabajo con sus\nsedes. Por esta razón, para crear una operación de planilla de labores debemos\nestar ubicados en la empresa correspondiente y en cualquiera de sus\nsedes. A continuación, seleccionamos el botón de manejador de\noperaciones y una vez ubicados en él, desplegamos el menú de adición de\noperaciones. Seleccionamos la categoría labores y la operación de planilla de\nlabores. La primera ventana de la operación de planilla de labores\npresenta una información estándar común a todas las operaciones, documentada por\ndefecto por el sistema, pero que puede ser modificada. La dejaremos tal como\nestá. Entre la información que debemos\ndocumentar está cuenta de caja. Le asignamos una cuenta de caja a la\nplanilla. Cuenta de banco. Igualmente le asignamos una cuenta de\nbanco. El total de la planilla se pagará a un\ntercero. Lo dejamos sin chequear. Esto significaría que todos los valores\nque se generen en esta planilla van a ser pagados a una sola persona y no a\nlos terceros que documentemos en ella. Tarifas por labor, lo dejamos sin\nchequear. Tarifas diarias por tipo de contrato, lo chequeamos. O sea, que\nvamos a pagar con los valores que dejamos consignados en los contratos y\nPor lo tanto, en el siguiente paso del asistente se muestran todos los\ncontratos de labores con los valores diarios que definimos en cada uno de\nellos con el objeto de modificarlos si lo consideramos necesario. Los dejaremos\nestán. En el próximo campo aparece la planilla propiamente dicha con los\ncampos que se estudiaron en el video de conceptualización.\nconceptualización. Los campos son los siguientes: tipo de\ncontrato, código del trabajador con su nombre y para cada día de la semana\ncentro de costos donde trabajó, labor que ejecutó, cantidad de mano de obra\nocupada y cantidad de labor ejecutada. En este ejemplo registraremos tres\nlabores pagadas cada una de ellas con un tipo de contrato\ndiferente. Des hierba del lote para la siembra pagado a jornal, siembra del\nlote pagado por unidades y mantenimiento de la carretera pagado a\ndestajo. Iniciaremos con la labor número uno de hierba del lote para la siembra.\nDoble clic en la primera columna de la planilla, tipo de contrato y\nseleccionamos el contrato número 10, pago a\njornal. Ahora doble clic en el código del\ndel trabajador y seleccionamos al trabajador\nRivera. A continuación digitamos los campos del día\nLote Argentina, cultivo\nGranadilla. Labor. Seleccionamos la labor 195 de hierba de\nasadón. Cantidad de mano de obra, un jornal, el trabajo del día. Cantidad de\nlabor, lo dejamos tal como está. En este ejercicio, para efectos\nprácticos, documentaremos solamente los datos del\nlunes. Seguimos con la labor número dos, siembra del\nlote. Doble clic en la primera columna de la planilla, tipo de contrato y\nseleccionamos el contrato número 20, siembra de\ngranadilla. A continuación, doble clic en el código del trabajador y\nRivera. A continuación digitamos los datos del día lunes. Centro de\ncostos, cultivo de granadilla del lote Argentina.\nComo el contrato número 20 quedó ligado a la labor\n130 de siembra de Colinos, el sistema selecciona automáticamente la labor.\nA continuación digitamos la cantidad de mano de obra, un\njornal, un día de trabajo. En este caso se trata de un dato estadístico que no\nva a utilizar el sistema para el cálculo del pago. Y finalmente documentamos la\ncantidad de trabajo realizado, 190 colinos. Este dato es el que va a\nutilizar el sistema para el cálculo del costo a\npagar. Como en el caso anterior, documentaremos solamente los datos del\ndía lunes para efectos prácticos. Finalmente concluimos con la labor\nnúmero tres, mantenimiento de carretera. Doble clic en la primera columna de la\nSeleccionamos el contrato número 30. Destajo. A continuación seleccionamos el\ntrabajador, el trabajador Carlos\nPalacio. Y de la misma manera digitamos los datos del día lunes. Centro de\ncostos. Seleccionamos el centro de costos de\ncentro de costos indirectos, el 10\n20. Seleccionamos la labor, mantenimiento de\ncarreteras y el número de jornales trabajados en el día, en este caso un\nsolo jornal. El campo de cantidad de trabajo\nrealizado lo dejamos vacío en el contrato a destajo. El valor\ndel pago se digita en el extremo derecho de la planilla, en el campo de valor\npagar, 200,000\npes. Esta es la información mínima necesaria para documentar la planilla de\nlabores. En la vida real se deben llenar los datos del lunes al sábado o al\ndomingo según como se trabaje en la finca. En el extremo derecho de la\nregistro. Total de mano de obra, total de trabajo\nSiguen cuatro columnas de descuentos de libre\nlibre uso que no consideraremos en este\nejercicio. Finalizando la planilla, tenemos tres\ncolumnas. El total apagar, que es el total anterior menos\nlos descuentos. Para este caso es el mismo valor, el\nnúmero del cheque. En este caso, si anotamos el número del cheque, el valor\nde este registro se pagará por la cuenta de\nbanco configurada en el paso número uno de la\noperación. Si no anotamos nada, el registro se pagará por la cuenta de caja\nconfigurada en la misma parte. Finalmente hay un campo para\nuso. Pasamos a la siguiente ventana oprimiendo el botón\nsiguiente. Esta ventana es un resumen de las labores documentadas en la planilla\ny clasificadas por lote. Consta de los siguientes datos: tipo de\ncontrato, centro de costos, labor\nejecutada, cantidad de mano de obra y cantidad de labor de esta semana, o sea,\nregistradas en esta planilla. Cantidad de mano de obra y\ncantidad de labor acumulado con las semanas\nsemanas anteriores. Sigue una columna\ninformativa de la semana en que se inició la labor.\nA continuación está el campo de chequeo para finalizar las\nlabores. Este campo se debe chequear la semana en que se termina la\nlabor. Sigue el campo para el indicador de rendimiento en términos de jornales\npor hectárea o árboles por jornal o otro. Este campo solo se calcula cuando\nFinalmente, hay un campo de descantar, de descartar para rendimiento para\naquellas labores que consideramos muy sesgadas y no queremos que afecte las\nestadísticas internas del sistema. Con esta información, la\nplanilla queda completamente documentada, de tal forma que podemos\nSi la operación queda desprocesada, procedemos a procesarla con un doble\nclic en el campo de proceso. En el inspector de\ndatos, la pestaña movimiento, podemos verificar el movimiento contable\nejecutado por esta operación. Cuenta, centro de costos,\nEsto es todo sobre la planilla de labores en el sistema. Gracias por su"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 205.723,
+    "asr": 44100,
+    "filesizeApprox": 15015516,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/qmRrSL29vS4.md",
+    "json": "videos/2012/qmRrSL29vS4.json",
+    "infoJson": "videos/2012/qmRrSL29vS4.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

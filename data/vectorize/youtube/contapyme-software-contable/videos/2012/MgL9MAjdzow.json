@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:31:38.757Z",
+  "videoId": "MgL9MAjdzow",
+  "videoUrl": "https://www.youtube.com/watch?v=MgL9MAjdzow",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "MgL9MAjdzow",
+    "title": "Programa de contabilidad ContaPyme - Concepto de cliente",
+    "fulltitle": "Programa de contabilidad ContaPyme - Concepto de cliente",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme describe lo que es un cliente, la forma como este establece conexión con el servidor.\nCP40-005-010-030B",
+    "duration": 246,
+    "duration_string": "4:06",
+    "upload_date": "20120316",
+    "timestamp": 1331905928,
+    "view_count": 1192,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/MgL9MAjdzow/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjBjbse0o8gSA8V0VJfFLl4TXjYg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_I0-h_4v7Qvotpa_9Rc3M9QiDow",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxn5RGFvLRRbjJ8ClTlAwz-dds7w",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLEVdgz25frDFfjVX9Mo52o12MeQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MgL9MAjdzow/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MgL9MAjdzow/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MgL9MAjdzow",
+    "is_live": false,
+    "was_live": false,
+    "chapters": [
+      {
+        "start_time": 0,
+        "end_time": 3,
+        "title": "<Untitled Chapter 1>"
+      },
+      {
+        "start_time": 3,
+        "title": "Concepto de cliente",
+        "end_time": 18
+      },
+      {
+        "start_time": 18,
+        "title": "Requerimientos técnicos",
+        "end_time": 42
+      },
+      {
+        "start_time": 42,
+        "title": "Instalación",
+        "end_time": 73
+      },
+      {
+        "start_time": 73,
+        "title": "Conexión con el servidor",
+        "end_time": 246
+      }
+    ],
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.4065040650406504,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5040650406504065,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5040650406504065,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 164.338,
+        "asr": 44100,
+        "filesize_approx": 5043204,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Programa de contabilidad ContaPyme - Concepto de cliente",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/MgL9MAjdzow/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/MgL9MAjdzow?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Programa de contabilidad ContaPyme - Concepto de cliente\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 42,
+    "transcriptChars": 2961,
+    "segments": [
+      {
+        "text": "concepto de cliente un cliente es un computador que",
+        "startMs": 640,
+        "durationMs": 4910
+      },
+      {
+        "text": "forma parte de una red y es con el cual nos vamos a conectar al servidor para",
+        "startMs": 5550,
+        "durationMs": 4880
+      },
+      {
+        "text": "realizar peticiones y presentar las respuestas que este",
+        "startMs": 10430,
+        "durationMs": 6960
+      },
+      {
+        "text": "retorne requerimientos técnicos del equipo cliente para el",
+        "startMs": 17400,
+        "durationMs": 4350
+      },
+      {
+        "text": "sistema sistema operativo Windows puede ser Windows XP Windows Vista o Windows 7",
+        "startMs": 21750,
+        "durationMs": 8919
+      },
+      {
+        "text": "memoria RAM de mínimo 1 giga Claro está que a mayor memoria RAM mayor va a ser",
+        "startMs": 30669,
+        "durationMs": 11921
+      },
+      {
+        "text": "cliente en los equipos que actuarán como cliente se instalará cont pye cliente",
+        "startMs": 42600,
+        "durationMs": 6670
+      },
+      {
+        "text": "con este tipo de instalación se instalan solo los archivos de funcionamiento del",
+        "startMs": 49270,
+        "durationMs": 5079
+      },
+      {
+        "text": "sistema y se prepara el equipo para que sirva de cliente y capture toda la",
+        "startMs": 54349,
+        "durationMs": 5520
+      },
+      {
+        "text": "información ingresada por el usuario para así realizar las peticiones al",
+        "startMs": 59869,
+        "durationMs": 5201
+      },
+      {
+        "text": "servidor un equipo Cliente se comunica con el servidor por medio de internet o",
+        "startMs": 65070,
+        "durationMs": 5320
+      },
+      {
+        "text": "por red de área local si realizamos la conexión por",
+        "startMs": 70390,
+        "durationMs": 4840
+      },
+      {
+        "text": "medio de red de área local veamos cómo sería el",
+        "startMs": 75230,
+        "durationMs": 4800
+      },
+      {
+        "text": "proceso tenemos un servidor que es el receptor de todas las",
+        "startMs": 80030,
+        "durationMs": 5520
+      },
+      {
+        "text": "peticiones desde los equipos clientes se establece con",
+        "startMs": 85550,
+        "durationMs": 5000
+      },
+      {
+        "text": "con el servidor ingresando",
+        "startMs": 90550,
+        "durationMs": 5000
+      },
+      {
+        "text": "principalmente en el campo servidor el nombre del servidor al cual nos vamos a",
+        "startMs": 95550,
+        "durationMs": 5599
+      },
+      {
+        "text": "conectar ingresando De igual forma el usuario y la contraseña para realizar la",
+        "startMs": 101149,
+        "durationMs": 10681
+      },
+      {
+        "text": "conexión si realizamos la conexión por internet veamos cómo sería el proceso",
+        "startMs": 111840,
+        "durationMs": 6470
+      },
+      {
+        "text": "tendríamos De igual forma el equipo servidor y desde el equipo cliente se",
+        "startMs": 118310,
+        "durationMs": 4680
+      },
+      {
+        "text": "establecería conexión con el servidor ingresando en el campo servidor de datos",
+        "startMs": 122990,
+        "durationMs": 6160
+      },
+      {
+        "text": "bien sea la dirección IP o la URL del servidor ingresando también el usuario y",
+        "startMs": 129150,
+        "durationMs": 8880
+      },
+      {
+        "text": "la contraseña con la que se realizará la conexión al",
+        "startMs": 138030,
+        "durationMs": 4800
+      },
+      {
+        "text": "servidor al establecer la conexión se pueden empezar a realizar las peticiones",
+        "startMs": 142830,
+        "durationMs": 5920
+      },
+      {
+        "text": "al servidor",
+        "startMs": 148750,
+        "durationMs": 4320
+      },
+      {
+        "text": "debemos tener muy claro que en el servidor al cual nos vamos a conectar se",
+        "startMs": 153080,
+        "durationMs": 4990
+      },
+      {
+        "text": "instalan las licencias para que los equipos clientes accedan por medio de",
+        "startMs": 158070,
+        "durationMs": 4560
+      },
+      {
+        "text": "ellas al servidor la licencia actúa como una llave de acceso al servidor por",
+        "startMs": 162630,
+        "durationMs": 6800
+      },
+      {
+        "text": "ejemplo en el servidor tenemos definidas tres licencias una para el departamento",
+        "startMs": 169430,
+        "durationMs": 5480
+      },
+      {
+        "text": "contable otra para el departamento comercial y otro para secretaría",
+        "startMs": 174910,
+        "durationMs": 7280
+      },
+      {
+        "startMs": 182200,
+        "durationMs": 2990,
+        "text": "cada uno de los"
+      },
+      {
+        "text": "clientes accede al servidor con una de",
+        "startMs": 185200,
+        "durationMs": 5910
+      },
+      {
+        "text": "ellas pero si un cuarto cliente intenta conectarse al servidor no lo va a poder",
+        "startMs": 191110,
+        "durationMs": 7839
+      },
+      {
+        "text": "hacer este cliente debe esperar a que se libere una de las licencias que hay en",
+        "startMs": 198949,
+        "durationMs": 5961
+      },
+      {
+        "text": "el servidor para poder realizar la conexión",
+        "startMs": 204910,
+        "durationMs": 5640
+      },
+      {
+        "text": "conexión los equipos clientes tienen la capacidad",
+        "startMs": 210550,
+        "durationMs": 2120
+      },
+      {
+        "text": "de conectarse al servidor desde cualquier parte por ejemplo si estoy en",
+        "startMs": 212670,
+        "durationMs": 4440
+      },
+      {
+        "text": "la oficina establezco conexión con el servidor y puedo trabajar normalmente en",
+        "startMs": 217110,
+        "durationMs": 5759
+      },
+      {
+        "text": "él Y si estoy en casa Puedo igual forma establecer conexión con el servidor y",
+        "startMs": 222869,
+        "durationMs": 5841
+      },
+      {
+        "text": "trabajar normalmente sobre él esto lo puedo hacer siempre y cuando",
+        "startMs": 228710,
+        "durationMs": 6200
+      },
+      {
+        "text": "haya cerrado sesión en el equipo de la oficina de lo contrario no lo voy a",
+        "startMs": 234910,
+        "durationMs": 6200
+      },
+      {
+        "text": "poder hacer esto es todo sobre concepto de",
+        "startMs": 241110,
+        "durationMs": 6250
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme describe lo que es un cliente, la forma como este establece conexión con el servidor.\nCP40-005-010-030B\n\n## Transcripción\n\nconcepto de cliente un cliente es un computador que\nforma parte de una red y es con el cual nos vamos a conectar al servidor para\nrealizar peticiones y presentar las respuestas que este\nretorne requerimientos técnicos del equipo cliente para el\nsistema sistema operativo Windows puede ser Windows XP Windows Vista o Windows 7\nmemoria RAM de mínimo 1 giga Claro está que a mayor memoria RAM mayor va a ser\ncliente en los equipos que actuarán como cliente se instalará cont pye cliente\ncon este tipo de instalación se instalan solo los archivos de funcionamiento del\nsistema y se prepara el equipo para que sirva de cliente y capture toda la\ninformación ingresada por el usuario para así realizar las peticiones al\nservidor un equipo Cliente se comunica con el servidor por medio de internet o\npor red de área local si realizamos la conexión por\nmedio de red de área local veamos cómo sería el\nproceso tenemos un servidor que es el receptor de todas las\npeticiones desde los equipos clientes se establece con\ncon el servidor ingresando\nprincipalmente en el campo servidor el nombre del servidor al cual nos vamos a\nconectar ingresando De igual forma el usuario y la contraseña para realizar la\nconexión si realizamos la conexión por internet veamos cómo sería el proceso\ntendríamos De igual forma el equipo servidor y desde el equipo cliente se\nestablecería conexión con el servidor ingresando en el campo servidor de datos\nbien sea la dirección IP o la URL del servidor ingresando también el usuario y\nla contraseña con la que se realizará la conexión al\nservidor al establecer la conexión se pueden empezar a realizar las peticiones\nal servidor\ndebemos tener muy claro que en el servidor al cual nos vamos a conectar se\ninstalan las licencias para que los equipos clientes accedan por medio de\nellas al servidor la licencia actúa como una llave de acceso al servidor por\nejemplo en el servidor tenemos definidas tres licencias una para el departamento\ncontable otra para el departamento comercial y otro para secretaría\ncada uno de los\nclientes accede al servidor con una de\nellas pero si un cuarto cliente intenta conectarse al servidor no lo va a poder\nhacer este cliente debe esperar a que se libere una de las licencias que hay en\nel servidor para poder realizar la conexión\nconexión los equipos clientes tienen la capacidad\nde conectarse al servidor desde cualquier parte por ejemplo si estoy en\nla oficina establezco conexión con el servidor y puedo trabajar normalmente en\nél Y si estoy en casa Puedo igual forma establecer conexión con el servidor y\ntrabajar normalmente sobre él esto lo puedo hacer siempre y cuando\nhaya cerrado sesión en el equipo de la oficina de lo contrario no lo voy a\npoder hacer esto es todo sobre concepto de"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 164.338,
+    "asr": 44100,
+    "filesizeApprox": 5043204,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/MgL9MAjdzow.md",
+    "json": "videos/2012/MgL9MAjdzow.json",
+    "infoJson": "videos/2012/MgL9MAjdzow.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

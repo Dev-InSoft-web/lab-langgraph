@@ -1,0 +1,777 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:25:54.685Z",
+  "videoId": "HhkeILOq3OM",
+  "videoUrl": "https://www.youtube.com/watch?v=HhkeILOq3OM",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "HhkeILOq3OM",
+    "title": "Software agricola AgroWin - Maquinaria y Equipo - Ej. Asignación y distribución de costos",
+    "fulltitle": "Software agricola AgroWin - Maquinaria y Equipo - Ej. Asignación y distribución de costos",
+    "description": "http://www.contapyme.com/software-agricola\nEjemplo de asignación y distribución de costos indirectos en centros de costos de maquinaria y equipo en el software agrícola AgroWin.\nAW40-060-06-06B",
+    "duration": 453,
+    "duration_string": "7:33",
+    "upload_date": "20121228",
+    "timestamp": 1356706063,
+    "view_count": 860,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/HhkeILOq3OM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLCiBhP2BELjsPCYss_SHfaZrT6wuA",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgiID4ofzAP&rs=AOn4CLCFg1JdazrktZm6lKXi9S_mLiLzjQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLBT26zHaX1ILJduVxn62ydrAkIEYg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLDwnavylUWlAbqxJVD28eqbk7WRBg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLBOq6NxJpGJg5T8Lp8uqGUP2YW7XA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgiID4ofzAP&rs=AOn4CLCi3uSoRnNJ9xkzsUUC7NdCWAA3FQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgiID4ofzAP&rs=AOn4CLAH23M-P5i3QpJwVVStHFnTwOVJjQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLDtwCrtqBGCJeV3o_HbTSlgKkroEA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCIgPih_MA8=&rs=AOn4CLCiBhP2BELjsPCYss_SHfaZrT6wuA",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/HhkeILOq3OM/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/HhkeILOq3OM/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=HhkeILOq3OM",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.22075055187637968,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20309050772626933,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20309050772626933,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20309050772626933,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 234.704,
+        "asr": 44100,
+        "filesize_approx": 13303668,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - Maquinaria y Equipo - Ej. Asignación y distribución de costos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/HhkeILOq3OM/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/HhkeILOq3OM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - Maquinaria y Equipo - Ej. Asignación y distribución de costos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 69,
+    "transcriptChars": 4459,
+    "segments": [
+      {
+        "text": "agrowin ejemplo de asignación de costos y",
+        "startMs": 1040,
+        "durationMs": 5190
+      },
+      {
+        "text": "distribuciones vamos a realizar un ejemplo de imputación de costos al",
+        "startMs": 6240,
+        "durationMs": 7309
+      },
+      {
+        "text": "1525 la imputación de costos la vamos a hacer A través del manejador de",
+        "startMs": 13559,
+        "durationMs": 6191
+      },
+      {
+        "startMs": 19760,
+        "durationMs": 5669,
+        "text": "operaciones y de la operación de"
+      },
+      {
+        "text": "gastos vamos a buscar un un tercero apropiado",
+        "startMs": 25439,
+        "durationMs": 6830
+      },
+      {
+        "text": "talleres varios cuentas de",
+        "startMs": 32279,
+        "durationMs": 4991
+      },
+      {
+        "text": "egresos tenemos cuentas para la maquinaria como la cuenta de",
+        "startMs": 37270,
+        "durationMs": 5560
+      },
+      {
+        "text": "mantenimiento de maquinaria repuestos y",
+        "startMs": 42830,
+        "durationMs": 5239
+      },
+      {
+        "text": "piezas y por ejemplo combustibles y lubricantes son tres conceptos de costos",
+        "startMs": 48069,
+        "durationMs": 6160
+      },
+      {
+        "text": "normales en las máquinas el centro de costos Entonces",
+        "startMs": 54229,
+        "durationMs": 8640
+      },
+      {
+        "text": "1525 en los tres casos pongamos un valor teórico de",
+        "startMs": 62879,
+        "durationMs": 5831
+      },
+      {
+        "text": "mantenimiento 50.000 pes por",
+        "startMs": 68710,
+        "durationMs": 7840
+      },
+      {
+        "text": "repuestos 20,000 y combustibles y",
+        "startMs": 76550,
+        "durationMs": 8400
+      },
+      {
+        "text": "pes Sería un total de 100000 pesos que vamos a distribuir siguiente",
+        "startMs": 84960,
+        "durationMs": 6149
+      },
+      {
+        "text": "pagamos por caja caja",
+        "startMs": 91109,
+        "durationMs": 4161
+      },
+      {
+        "text": "general y procesamos la operación estamos ubicados el 31 de julio del",
+        "startMs": 95270,
+        "durationMs": 11159
+      },
+      {
+        "text": "explorador Los costos imputados informes miré lo en un mayor y balances",
+        "startMs": 106439,
+        "durationMs": 7511
+      },
+      {
+        "text": "del centro de costos Y estos son los costos que tenemos imputados todos como",
+        "startMs": 113950,
+        "durationMs": 14200
+      },
+      {
+        "text": "fecha volvemos al manejador de operaciones El ejemplo es sintético",
+        "startMs": 128160,
+        "durationMs": 7069
+      },
+      {
+        "text": "vamos a a imputar unas horas de uso de este",
+        "startMs": 135229,
+        "durationMs": 4961
+      },
+      {
+        "text": "aparato en dos lotes de la finca abrimos la",
+        "startMs": 140190,
+        "durationMs": 6480
+      },
+      {
+        "text": "operación de activos planillas de uso de maquinaria",
+        "startMs": 146670,
+        "durationMs": 8120
+      },
+      {
+        "text": "equipo nos pregunta primero por el centro de costos donde trabajó el equipo",
+        "startMs": 154800,
+        "durationMs": 3950
+      },
+      {
+        "text": "vamos a buscar dos cultivos Tenemos aquí tres lotes de",
+        "startMs": 158750,
+        "durationMs": 5199
+      },
+      {
+        "text": "olivo el 11 el 21 y el 31 vamos a imputarle los",
+        "startMs": 163949,
+        "durationMs": 7761
+      },
+      {
+        "text": "dos primeros al 11 una labor cualquiera supongamos que trabajó en la",
+        "startMs": 171710,
+        "durationMs": 6720
+      },
+      {
+        "text": "aplicación de herbicidas el activo",
+        "startMs": 178430,
+        "durationMs": 4719
+      },
+      {
+        "text": "utilizado tractor Ford 1525 y supongamos que en este lote",
+        "startMs": 183149,
+        "durationMs": 13481
+      },
+      {
+        "text": "horas escogemos el segundo lote el 21 la misma labor el mismo equipo pero",
+        "startMs": 196640,
+        "durationMs": 9589
+      },
+      {
+        "text": "60 horas significa que el 60 Los costos deben llegar al lote de Guadalupe y el",
+        "startMs": 206229,
+        "durationMs": 8640
+      },
+      {
+        "text": "40% de Los costos al lote de Santa clar cuando hagamos la distribución Aquí",
+        "startMs": 214869,
+        "durationMs": 6521
+      },
+      {
+        "text": "quedaron registradas entonces las horas de uso del",
+        "startMs": 221390,
+        "durationMs": 4919
+      },
+      {
+        "text": "aparato y trabajando como estoy diciendo de una forma",
+        "startMs": 226319,
+        "durationMs": 4071
+      },
+      {
+        "text": "sintética Vamos a continuar con la distribución esta distribución sucede el",
+        "startMs": 230390,
+        "durationMs": 5640
+      },
+      {
+        "text": "último día del mes con las operaciones de acción automáticas de fin de",
+        "startMs": 236030,
+        "durationMs": 9720
+      },
+      {
+        "text": "mes Vamos a hacer los traslados entre centros de costos vamos a chequear el",
+        "startMs": 245760,
+        "durationMs": 7910
+      },
+      {
+        "text": "resto traslados entre centros de costos vamos a visualizar n más el efecto del",
+        "startMs": 253670,
+        "durationMs": 4480
+      },
+      {
+        "text": "traslado de la operación siguiente",
+        "startMs": 258150,
+        "durationMs": 6319
+      },
+      {
+        "text": "aceptar en este momento el sistema de ejecutado todas las distribuciones vamos",
+        "startMs": 264479,
+        "durationMs": 4631
+      },
+      {
+        "text": "a ver ento contable de la operación refrescamos y",
+        "startMs": 269110,
+        "durationMs": 6000
+      },
+      {
+        "startMs": 275120,
+        "durationMs": 6710,
+        "text": "detallamos podemos observar la cuenta 73"
+      },
+      {
+        "text": "imputada por valores créditos quedaron completamente acreditadas y fueron",
+        "startMs": 281840,
+        "durationMs": 5390
+      },
+      {
+        "text": "debitadas por valores proporcionales en los centros de",
+        "startMs": 287230,
+        "durationMs": 5799
+      },
+      {
+        "text": "costos este crédito es en el centro de costos fuente Estos débitos son en los",
+        "startMs": 293029,
+        "durationMs": 4481
+      },
+      {
+        "text": "centro de costos destino vamos a revisar nuevamente el informe en el explorador",
+        "startMs": 297510,
+        "durationMs": 4200
+      },
+      {
+        "text": "gráfico de la finca miremos primero el tractor veamos el mismo informe consulta",
+        "startMs": 301710,
+        "durationMs": 9800
+      },
+      {
+        "text": "de mayor y balances vemos que está completamente acreditado 100,000 pesos",
+        "startMs": 311510,
+        "durationMs": 5360
+      },
+      {
+        "text": "de los cuales el 40% va para el primer lote y el 60 por para el segundo lote",
+        "startMs": 316870,
+        "durationMs": 4920
+      },
+      {
+        "text": "tal como lo calculamos en la operación de horas de uso de maquinaria equipo",
+        "startMs": 321790,
+        "durationMs": 6040
+      },
+      {
+        "text": "revisem Entonces los lotes vamos a ver el lote de olivo el número",
+        "startMs": 327830,
+        "durationMs": 8040
+      },
+      {
+        "text": "uno informes miremos el mismo libro de mayor",
+        "startMs": 335870,
+        "durationMs": 5759
+      },
+      {
+        "text": "balances y busquemos los valores de maquinaria",
+        "startMs": 341639,
+        "durationMs": 5751
+      },
+      {
+        "text": "equipo costos de producción costos indirectos aquí aparecen 20 28 30 40,000",
+        "startMs": 347390,
+        "durationMs": 6680
+      },
+      {
+        "text": "pes como débitos los 60,000 deben estar entonces en el segundo lote",
+        "startMs": 354070,
+        "durationMs": 9760
+      },
+      {
+        "text": "informes libros legales mayor y balance desde el",
+        "startMs": 363840,
+        "durationMs": 4390
+      },
+      {
+        "text": "lote y podemos verificar los 60,000 pesos en las mismas cuentas imputadas",
+        "startMs": 368230,
+        "durationMs": 9280
+      },
+      {
+        "text": "olivo revisemos un informe de costos de producción en los lotes vamos al primero",
+        "startMs": 377520,
+        "durationMs": 5750
+      },
+      {
+        "text": "costos de producción y venta informe de costos de producción",
+        "startMs": 383270,
+        "durationMs": 9759
+      },
+      {
+        "text": "vamos a revisar la parte final del informe planillas de uso de maquinaria",
+        "startMs": 393039,
+        "durationMs": 5311
+      },
+      {
+        "text": "de equipo aquí podemos verificar que el tractor for 1525 se utilizó 40 horas y",
+        "startMs": 398350,
+        "durationMs": 4800
+      },
+      {
+        "text": "que el costo asignado entonces fue de 40,000 pesos para el",
+        "startMs": 403150,
+        "durationMs": 5360
+      },
+      {
+        "text": "lote veámoslo en el otro lote en el lote de olivo del lote",
+        "startMs": 408510,
+        "durationMs": 7239
+      },
+      {
+        "startMs": 415759,
+        "durationMs": 9430,
+        "text": "Guadalupe costos de producción"
+      },
+      {
+        "text": "efectivamente se utilizó el tractor for 1525 60 horas para un costo total de",
+        "startMs": 425199,
+        "durationMs": 5951
+      },
+      {
+        "text": "60,000 pesos Esta es una síntesis del proceso",
+        "startMs": 431150,
+        "durationMs": 4039
+      },
+      {
+        "text": "de asignación de costos a los centros de costos y el proceso de distribución de",
+        "startMs": 435189,
+        "durationMs": 3601
+      },
+      {
+        "text": "costos a los lotes y cultivos en función de las horas de uso asignadas en la",
+        "startMs": 438790,
+        "durationMs": 4839
+      },
+      {
+        "text": "planilla de horas de uso de maquinaria y equipo esto es todo sobre ejemplo de",
+        "startMs": 443629,
+        "durationMs": 5361
+      },
+      {
+        "text": "asignación de de costos y distribuciones gracias por su atención",
+        "startMs": 448990,
+        "durationMs": 5450
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com/software-agricola\nEjemplo de asignación y distribución de costos indirectos en centros de costos de maquinaria y equipo en el software agrícola AgroWin.\nAW40-060-06-06B\n\n## Transcripción\n\nagrowin ejemplo de asignación de costos y\ndistribuciones vamos a realizar un ejemplo de imputación de costos al\n1525 la imputación de costos la vamos a hacer A través del manejador de\noperaciones y de la operación de\ngastos vamos a buscar un un tercero apropiado\ntalleres varios cuentas de\negresos tenemos cuentas para la maquinaria como la cuenta de\nmantenimiento de maquinaria repuestos y\npiezas y por ejemplo combustibles y lubricantes son tres conceptos de costos\nnormales en las máquinas el centro de costos Entonces\n1525 en los tres casos pongamos un valor teórico de\nmantenimiento 50.000 pes por\nrepuestos 20,000 y combustibles y\npes Sería un total de 100000 pesos que vamos a distribuir siguiente\npagamos por caja caja\ngeneral y procesamos la operación estamos ubicados el 31 de julio del\nexplorador Los costos imputados informes miré lo en un mayor y balances\ndel centro de costos Y estos son los costos que tenemos imputados todos como\nfecha volvemos al manejador de operaciones El ejemplo es sintético\nvamos a a imputar unas horas de uso de este\naparato en dos lotes de la finca abrimos la\noperación de activos planillas de uso de maquinaria\nequipo nos pregunta primero por el centro de costos donde trabajó el equipo\nvamos a buscar dos cultivos Tenemos aquí tres lotes de\nolivo el 11 el 21 y el 31 vamos a imputarle los\ndos primeros al 11 una labor cualquiera supongamos que trabajó en la\naplicación de herbicidas el activo\nutilizado tractor Ford 1525 y supongamos que en este lote\nhoras escogemos el segundo lote el 21 la misma labor el mismo equipo pero\n60 horas significa que el 60 Los costos deben llegar al lote de Guadalupe y el\n40% de Los costos al lote de Santa clar cuando hagamos la distribución Aquí\nquedaron registradas entonces las horas de uso del\naparato y trabajando como estoy diciendo de una forma\nsintética Vamos a continuar con la distribución esta distribución sucede el\núltimo día del mes con las operaciones de acción automáticas de fin de\nmes Vamos a hacer los traslados entre centros de costos vamos a chequear el\nresto traslados entre centros de costos vamos a visualizar n más el efecto del\ntraslado de la operación siguiente\naceptar en este momento el sistema de ejecutado todas las distribuciones vamos\na ver ento contable de la operación refrescamos y\ndetallamos podemos observar la cuenta 73\nimputada por valores créditos quedaron completamente acreditadas y fueron\ndebitadas por valores proporcionales en los centros de\ncostos este crédito es en el centro de costos fuente Estos débitos son en los\ncentro de costos destino vamos a revisar nuevamente el informe en el explorador\ngráfico de la finca miremos primero el tractor veamos el mismo informe consulta\nde mayor y balances vemos que está completamente acreditado 100,000 pesos\nde los cuales el 40% va para el primer lote y el 60 por para el segundo lote\ntal como lo calculamos en la operación de horas de uso de maquinaria equipo\nrevisem Entonces los lotes vamos a ver el lote de olivo el número\nuno informes miremos el mismo libro de mayor\nbalances y busquemos los valores de maquinaria\nequipo costos de producción costos indirectos aquí aparecen 20 28 30 40,000\npes como débitos los 60,000 deben estar entonces en el segundo lote\ninformes libros legales mayor y balance desde el\nlote y podemos verificar los 60,000 pesos en las mismas cuentas imputadas\nolivo revisemos un informe de costos de producción en los lotes vamos al primero\ncostos de producción y venta informe de costos de producción\nvamos a revisar la parte final del informe planillas de uso de maquinaria\nde equipo aquí podemos verificar que el tractor for 1525 se utilizó 40 horas y\nque el costo asignado entonces fue de 40,000 pesos para el\nlote veámoslo en el otro lote en el lote de olivo del lote\nGuadalupe costos de producción\nefectivamente se utilizó el tractor for 1525 60 horas para un costo total de\n60,000 pesos Esta es una síntesis del proceso\nde asignación de costos a los centros de costos y el proceso de distribución de\ncostos a los lotes y cultivos en función de las horas de uso asignadas en la\nplanilla de horas de uso de maquinaria y equipo esto es todo sobre ejemplo de\nasignación de de costos y distribuciones gracias por su atención"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 234.704,
+    "asr": 44100,
+    "filesizeApprox": 13303668,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/HhkeILOq3OM.md",
+    "json": "videos/2012/HhkeILOq3OM.json",
+    "infoJson": "videos/2012/HhkeILOq3OM.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

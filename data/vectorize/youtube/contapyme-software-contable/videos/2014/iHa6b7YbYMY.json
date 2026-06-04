@@ -1,0 +1,992 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:23:35.026Z",
+  "videoId": "iHa6b7YbYMY",
+  "videoUrl": "https://www.youtube.com/watch?v=iHa6b7YbYMY",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "iHa6b7YbYMY",
+    "title": "Plataforma de Capacitación Virtual  - Seminario NIIF Súper Fáciles",
+    "fulltitle": "Plataforma de Capacitación Virtual  - Seminario NIIF Súper Fáciles",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 612,
+    "duration_string": "10:12",
+    "upload_date": "20141111",
+    "timestamp": 1415745384,
+    "view_count": 320,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Editor de video de YouTube"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/iHa6b7YbYMY/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVa7mhDp98lw-qPTtoiK_0gvIKVg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByJ3fauuvy-AyfOZXilkKPkWJ7qA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoVoRk5ZOA4_jvPtbKokR69GZgjg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn2NMBaaC6uK_PkRfQABlJL2wMbg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iHa6b7YbYMY/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iHa6b7YbYMY/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=iHa6b7YbYMY",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.16339869281045752,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20261437908496732,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20261437908496732,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 25,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 184.033,
+        "asr": 44100,
+        "filesize_approx": 14078708,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Plataforma de Capacitación Virtual  - Seminario NIIF Súper Fáciles",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/iHa6b7YbYMY/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/iHa6b7YbYMY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Plataforma de Capacitación Virtual  - Seminario NIIF Súper Fáciles\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 120,
+    "transcriptChars": 8921,
+    "segments": [
+      {
+        "text": "insoft limitada ha desarrollado para sus sistemas cont pime y agroin una novedosa",
+        "startMs": 0,
+        "durationMs": 4749
+      },
+      {
+        "text": "plataforma de capacitación virtual en la cual van a poder ustedes acceder Ver",
+        "startMs": 4749,
+        "durationMs": 5401
+      },
+      {
+        "text": "videos totalmente explicativos con temática eh puntual eh videos cortos que",
+        "startMs": 10150,
+        "durationMs": 6760
+      },
+      {
+        "text": "les van a enseñar el manejo del programa para todas las personas que están",
+        "startMs": 16910,
+        "durationMs": 4640
+      },
+      {
+        "text": "conectadas en este momento ustedes pueden acceder a la plataforma de",
+        "startMs": 21550,
+        "durationMs": 3719
+      },
+      {
+        "text": "capacitación virtual y allí van a encontrar algunos módulos que aparecen",
+        "startMs": 25269,
+        "durationMs": 3681
+      },
+      {
+        "text": "habilitados esos módulos Pues van a poder allí Ver videos y aprender y",
+        "startMs": 28950,
+        "durationMs": 5880
+      },
+      {
+        "text": "conocer más acerca de lo que es contapyme les quiero explicar entonces",
+        "startMs": 34830,
+        "durationMs": 4640
+      },
+      {
+        "text": "Cómo llegamos hasta ese sitio web estando en",
+        "startMs": 39470,
+        "durationMs": 5759
+      },
+      {
+        "text": "ustedes ingresan allí a nuestro sitio web y dan clic en la opción inicie",
+        "startMs": 45229,
+        "durationMs": 6960
+      },
+      {
+        "text": "sesión si ustedes aún no se encuentran registrados deben registrarse en nuestro",
+        "startMs": 52199,
+        "durationMs": 5911
+      },
+      {
+        "text": "sitio web para lo cual Dan clic en el botón regístrese como nuevo usuario para",
+        "startMs": 58110,
+        "durationMs": 5279
+      },
+      {
+        "text": "todas las personas que están registradas en el seminario muy probablemente no",
+        "startMs": 63389,
+        "durationMs": 4121
+      },
+      {
+        "text": "están registradas aquí en en la página de servicio al cliente entonces lo que",
+        "startMs": 67510,
+        "durationMs": 4160
+      },
+      {
+        "text": "deben hacer es ingresar y realizar el registro para que así queden en en",
+        "startMs": 71670,
+        "durationMs": 4200
+      },
+      {
+        "text": "nuestra base de datos Y para que puedan ingresar a la plataforma de capacitación",
+        "startMs": 75870,
+        "durationMs": 7840
+      },
+      {
+        "text": "virtual estando ya en la página de servicio al cliente Ustedes deben",
+        "startMs": 83720,
+        "durationMs": 3670
+      },
+      {
+        "text": "iniciar con un correo electrónico y con una contraseña en este caso entonces voy",
+        "startMs": 87390,
+        "durationMs": 4999
+      },
+      {
+        "text": "a iniciar con estos",
+        "startMs": 92389,
+        "durationMs": 9000
+      },
+      {
+        "text": "datos damos clic en Iniciar sesión se nos cargan una serie de opciones que",
+        "startMs": 101399,
+        "durationMs": 5431
+      },
+      {
+        "text": "tenemos disponibles en este caso nos vamos a centrar en la opción de curso",
+        "startMs": 106830,
+        "durationMs": 4319
+      },
+      {
+        "text": "virtual con tape versión 4 al dar clic en esa opción el sistema",
+        "startMs": 111149,
+        "durationMs": 7081
+      },
+      {
+        "text": "nos mostrará toda la ura de capacitación del",
+        "startMs": 118230,
+        "durationMs": 3400
+      },
+      {
+        "text": "del programa esto es muy importante y es lo",
+        "startMs": 121630,
+        "durationMs": 2560
+      },
+      {
+        "text": "que nos hace diferentes cont pye es una rp que tiene todas estas posibilidades",
+        "startMs": 124190,
+        "durationMs": 3960
+      },
+      {
+        "text": "además de de tener una potencia a nivel del manejo y de todas las posibilidades",
+        "startMs": 128150,
+        "durationMs": 5120
+      },
+      {
+        "text": "que ustedes como usuarios pueden tener con contapyme También tenemos esta",
+        "startMs": 133270,
+        "durationMs": 4080
+      },
+      {
+        "text": "novedosa plataforma de capacitación virtual esta plataforma es única en",
+        "startMs": 137350,
+        "durationMs": 4159
+      },
+      {
+        "text": "sistema crp de nuestro tipo aquí pueden encontrar todos los módulos del programa",
+        "startMs": 141509,
+        "durationMs": 6241
+      },
+      {
+        "text": "a ustedes se les van a habilitar los de acuerdo al licenciamiento que tengan si",
+        "startMs": 147750,
+        "durationMs": 5440
+      },
+      {
+        "text": "todavía no tienen licenciamiento pero ustedes ingresan van a poder ver la los",
+        "startMs": 153190,
+        "durationMs": 4319
+      },
+      {
+        "text": "videos y la información de algunos módulos básicos Aquí les quiero",
+        "startMs": 157509,
+        "durationMs": 4161
+      },
+      {
+        "text": "presentar entonces que es un sistema una plataforma robusta que está",
+        "startMs": 161670,
+        "durationMs": 4479
+      },
+      {
+        "text": "especialmente diseñada para que los usuarios que adquieren contapyme puedan",
+        "startMs": 166149,
+        "durationMs": 4160
+      },
+      {
+        "text": "capacitarse en cualquier momento desde cualquier lugar que no tengan",
+        "startMs": 170309,
+        "durationMs": 4441
+      },
+      {
+        "text": "restricción de tiempo si pueden Aprender a manejar el programa por las noches o",
+        "startMs": 174750,
+        "durationMs": 3520
+      },
+      {
+        "text": "por la mañana si de pronto en el horario laboral no lo pueden hacer pueden",
+        "startMs": 178270,
+        "durationMs": 3280
+      },
+      {
+        "text": "acceder a este sitio web y lo más importante totalmente gratuito muy",
+        "startMs": 181550,
+        "durationMs": 5280
+      },
+      {
+        "text": "diferente eh el caso en el que digamos ustedes adquieren un programa y deben",
+        "startMs": 186830,
+        "durationMs": 3560
+      },
+      {
+        "text": "adquirir también adicionalmente horas de capacitación con contapyme es diferente",
+        "startMs": 190390,
+        "durationMs": 4240
+      },
+      {
+        "text": "con contapyme ustedes tienen un sitio web especialmente diseñado para que se",
+        "startMs": 194630,
+        "durationMs": 4040
+      },
+      {
+        "text": "autocap citen y aprendan a manejar el programa quiero mostrarles Entonces por",
+        "startMs": 198670,
+        "durationMs": 5240
+      },
+      {
+        "text": "ejemplo aquí estamos viendo la estructura de capacitación esta",
+        "startMs": 203910,
+        "durationMs": 3879
+      },
+      {
+        "text": "estructura está ordenada de manera en que un usuario vea la temática básica e",
+        "startMs": 207789,
+        "durationMs": 5440
+      },
+      {
+        "text": "inicial para que aprenda a manejar el resto del programa me explico si por",
+        "startMs": 213229,
+        "durationMs": 4841
+      },
+      {
+        "text": "ejemplo un usuario quiere estudiar y quiere capacitarse en contabilidad",
+        "startMs": 218070,
+        "durationMs": 3840
+      },
+      {
+        "text": "básica el manejo de la contabilidad básica del programa o por ejemplo en el",
+        "startMs": 221910,
+        "durationMs": 4039
+      },
+      {
+        "text": "manejo de activos o en el manejo de ejecución presupuestal debe haber visto",
+        "startMs": 225949,
+        "durationMs": 4441
+      },
+      {
+        "text": "primero que todo el módulo sistema básico el sistema la plataforma les",
+        "startMs": 230390,
+        "durationMs": 4800
+      },
+      {
+        "text": "indicará el porcentaje de vistos de videos que se ha visto el usuario",
+        "startMs": 235190,
+        "durationMs": 5200
+      },
+      {
+        "text": "si damos por ejemplo clic en esta primera tarjeta que aparece de color",
+        "startMs": 240390,
+        "durationMs": 7080
+      },
+      {
+        "text": "básico el sistema nos presentará toda la estructura de videos muy importante que",
+        "startMs": 247480,
+        "durationMs": 6270
+      },
+      {
+        "text": "tengan claro y muy importante que conozcan esta gran funcionalidad aquí",
+        "startMs": 253750,
+        "durationMs": 4080
+      },
+      {
+        "text": "por ejemplo estamos viendo una serie de capítulos el primer",
+        "startMs": 257830,
+        "durationMs": 4320
+      },
+      {
+        "text": "capítulo que tenemos es el capítulo de introducción al sistema básico como aquí",
+        "startMs": 262150,
+        "durationMs": 3680
+      },
+      {
+        "text": "lo estamos observando esta plataforma está diseñada",
+        "startMs": 265830,
+        "durationMs": 4160
+      },
+      {
+        "text": "para que un usuario tenemos tres niveles básico medio y avanzado está diseñada",
+        "startMs": 269990,
+        "durationMs": 6320
+      },
+      {
+        "text": "para que un usuario que quiera Aprender a manejar el programa de manera básica o",
+        "startMs": 276310,
+        "durationMs": 4040
+      },
+      {
+        "text": "sea lo inicial para que pueda desenvolverse en el programa pues vea",
+        "startMs": 280350,
+        "durationMs": 4440
+      },
+      {
+        "text": "simplemente los vos de la columna de básico como aquí le estoy mostrando pero",
+        "startMs": 284790,
+        "durationMs": 5360
+      },
+      {
+        "text": "también tenemos unos videos adicionales que están ubicados en nivel medio y en",
+        "startMs": 290150,
+        "durationMs": 3960
+      },
+      {
+        "text": "nivel avanzado los videos de nivel medio pues ya tienen un poco más de detalle en",
+        "startMs": 294110,
+        "durationMs": 4320
+      },
+      {
+        "text": "las explicaciones ya explican otras opciones adicionales y el nivel avanzado",
+        "startMs": 298430,
+        "durationMs": 4440
+      },
+      {
+        "text": "explica son configuraciones adicionales que tiene el programa Si una persona",
+        "startMs": 302870,
+        "durationMs": 4240
+      },
+      {
+        "text": "quiere tener el manejo total de la aplicación pues deberá ver básico medio",
+        "startMs": 307110,
+        "durationMs": 4280
+      },
+      {
+        "text": "y avanzado pero si es un usuario que quiere aplicar solamente un manejo",
+        "startMs": 311390,
+        "durationMs": 3960
+      },
+      {
+        "text": "básico de la aplicación podrá ver solamente los videos de la columna de",
+        "startMs": 315350,
+        "durationMs": 4119
+      },
+      {
+        "text": "básico los videos se reproducen en el reproductor de YouTube Por lo cual",
+        "startMs": 319469,
+        "durationMs": 5280
+      },
+      {
+        "text": "ustedes pueden ver en pantalla completa abrirlo en YouTube programarlo para ver",
+        "startMs": 324749,
+        "durationMs": 4201
+      },
+      {
+        "text": "más tarde pueden eh ejecutar todas las acciones que nos da el reproductor de",
+        "startMs": 328950,
+        "durationMs": 5480
+      },
+      {
+        "text": "YouTube muy importante esta plataforma lo cual la hace interactiva es que el",
+        "startMs": 334430,
+        "durationMs": 5000
+      },
+      {
+        "text": "usuario puede marcar como visto el video puede calificar el video siendo uno la",
+        "startMs": 339430,
+        "durationMs": 6440
+      },
+      {
+        "text": "una estrella la calificación más baja y cinco la calificación más alta de igual",
+        "startMs": 345870,
+        "durationMs": 4759
+      },
+      {
+        "text": "forma los usuarios pueden hacer preguntas y comentarios acerca de los",
+        "startMs": 350629,
+        "durationMs": 4041
+      },
+      {
+        "text": "videos por ejemplo acá si le doy clic en comentar el sistema me muestra un",
+        "startMs": 354670,
+        "durationMs": 4480
+      },
+      {
+        "text": "globito en el cual yo puedo agregar un comentario al video si quiero hacer una",
+        "startMs": 359150,
+        "durationMs": 4200
+      },
+      {
+        "text": "pregunta de la misma forma el sistema me muestra un globito para que ingrese mi",
+        "startMs": 363350,
+        "durationMs": 3480
+      },
+      {
+        "text": "pregunta y si quiero ver todas las los comentarios y preguntas que se han",
+        "startMs": 366830,
+        "durationMs": 3919
+      },
+      {
+        "text": "realizado al video simplemente debo dar clic en el botón ver y el sistema me",
+        "startMs": 370749,
+        "durationMs": 4961
+      },
+      {
+        "text": "presentará los comentarios las preguntas y respuestas que ha dado el grupo de",
+        "startMs": 375710,
+        "durationMs": 4759
+      },
+      {
+        "text": "asesores de insoft limitada miren entonces que esta plataforma es un",
+        "startMs": 380469,
+        "durationMs": 4601
+      },
+      {
+        "text": "ambiente totalmente interactivo Y eso es lo que buscamos que los usuarios con",
+        "startMs": 385070,
+        "durationMs": 4119
+      },
+      {
+        "text": "esta plataforma con este recurso tan valioso que ponemos a su disposición",
+        "startMs": 389189,
+        "durationMs": 4881
+      },
+      {
+        "text": "puedan capacitarse y retroalimentarse de la información que ingresen allí otros",
+        "startMs": 394070,
+        "durationMs": 5320
+      },
+      {
+        "text": "usuarios de las preguntas y comentarios que otros usuarios Den al",
+        "startMs": 399390,
+        "durationMs": 7040
+      },
+      {
+        "text": "respecto recordemos entonces que ustedes como usuarios como eh usuarios inscritos",
+        "startMs": 406440,
+        "durationMs": 5230
+      },
+      {
+        "text": "al curso ustedes pueden acceder a ese entorno a esa plataforma de capacitación",
+        "startMs": 411670,
+        "durationMs": 4199
+      },
+      {
+        "text": "virtual en la cual van a tener acceso a unos videos de nivel básico para que eh",
+        "startMs": 415869,
+        "durationMs": 5081
+      },
+      {
+        "text": "aprendan y para que conozcan un poco más de lo que es contapyme muy importante",
+        "startMs": 420950,
+        "durationMs": 4519
+      },
+      {
+        "text": "queríamos Resaltar esta novedosa plataforma de capacitación virtual esta",
+        "startMs": 425469,
+        "durationMs": 4840
+      },
+      {
+        "text": "plataforma tiene cerca de 1000 videos los cuales explican detalladamente el",
+        "startMs": 430309,
+        "durationMs": 4320
+      },
+      {
+        "text": "manejo de la aplicación y estamos produciendo más videos estamos",
+        "startMs": 434629,
+        "durationMs": 3921
+      },
+      {
+        "text": "trabajando en la elaboración de más videos más videos relacionados ya con",
+        "startMs": 438550,
+        "durationMs": 4639
+      },
+      {
+        "text": "todo lo que es el manejo de las niif en la aplicación y eh perfeccionando muchos",
+        "startMs": 443189,
+        "durationMs": 4961
+      },
+      {
+        "text": "vdeos de los que ya habíamos elaborado Entonces estamos en constante cambio y",
+        "startMs": 448150,
+        "durationMs": 4640
+      },
+      {
+        "text": "en constante renovación de todo lo que es esta plataforma de capacitación",
+        "startMs": 452790,
+        "durationMs": 25640
+      },
+      {
+        "startMs": 478440,
+        "durationMs": 31670,
+        "text": "interactiva al"
+      },
+      {
+        "text": "ya habiendo conocido nuestra plataforma de capacitación virtual les voy a hacer",
+        "startMs": 510120,
+        "durationMs": 4230
+      },
+      {
+        "text": "entonces un recorderis para que lo tengamos muy claro la plataforma de",
+        "startMs": 514350,
+        "durationMs": 3479
+      },
+      {
+        "text": "capacitación virtual es ese sitio web que me va a permitir a mí como usuario",
+        "startMs": 517829,
+        "durationMs": 4161
+      },
+      {
+        "text": "del programa contapyme o del programa agrowin acceder y capacitarme a través",
+        "startMs": 521990,
+        "durationMs": 4600
+      },
+      {
+        "text": "de videos es una plataforma que está diseñada para que ustedes puedan autocap",
+        "startMs": 526590,
+        "durationMs": 4640
+      },
+      {
+        "text": "citarse y puedan aprender el manejo de la aplicación van a encontrar videos",
+        "startMs": 531230,
+        "durationMs": 4279
+      },
+      {
+        "text": "cortos y totalmente explicativos acerca de lo que es el programa y el manejo de",
+        "startMs": 535509,
+        "durationMs": 4401
+      },
+      {
+        "text": "cada una de sus funcionalidades y características les recuerdo entonces",
+        "startMs": 539910,
+        "durationMs": 3880
+      },
+      {
+        "text": "para ingresar a la a la plataforma de capacitación virtual deben acceder a",
+        "startMs": 543790,
+        "durationMs": 4880
+      },
+      {
+        "text": "www.capy.com dar clic en la opción inicie",
+        "startMs": 548670,
+        "durationMs": 4719
+      },
+      {
+        "text": "inicie sesión iniciar la sesión con su correo",
+        "startMs": 553389,
+        "durationMs": 2801
+      },
+      {
+        "text": "electrónico y con la contraseña En caso de que no se encuentren registrados dan",
+        "startMs": 556190,
+        "durationMs": 4040
+      },
+      {
+        "text": "clic en el botón regístrese ingresan sus datos y realizan el registro",
+        "startMs": 560230,
+        "durationMs": 4279
+      },
+      {
+        "text": "directamente en nuestro sitio y ya pueden acceder a la plataforma de",
+        "startMs": 564509,
+        "durationMs": 3161
+      },
+      {
+        "text": "capacitación virtual una vez han iniciado la sesión van a dar clic en la",
+        "startMs": 567670,
+        "durationMs": 4320
+      },
+      {
+        "text": "opción curso virtual cont pime versión 4 el sistema les presentará toda la",
+        "startMs": 571990,
+        "durationMs": 6000
+      },
+      {
+        "text": "estructura de capacitación del programa contapyme y para acceder a los videos de",
+        "startMs": 577990,
+        "durationMs": 4959
+      },
+      {
+        "text": "un determinado módulo basta con dar clic sobre alguna de las tarjetas para que la",
+        "startMs": 582949,
+        "durationMs": 5201
+      },
+      {
+        "text": "plataforma nos presente así los vdeos tanto en nivel básico medio o avanzado y",
+        "startMs": 588150,
+        "durationMs": 6040
+      },
+      {
+        "text": "ya ustedes pueden iniciar su proceso de capacitación con opciones adicionales",
+        "startMs": 594190,
+        "durationMs": 3960
+      },
+      {
+        "text": "Como por ejemplo marcar el video como visto calificarlo hacer preguntas o",
+        "startMs": 598150,
+        "durationMs": 5000
+      },
+      {
+        "text": "comentarios del video y ver las preguntas y comentarios que otros",
+        "startMs": 603150,
+        "durationMs": 3480
+      },
+      {
+        "text": "usuarios han realizado sobre él como aquí lo podemos",
+        "startMs": 606630,
+        "durationMs": 7290
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\ninsoft limitada ha desarrollado para sus sistemas cont pime y agroin una novedosa\nplataforma de capacitación virtual en la cual van a poder ustedes acceder Ver\nvideos totalmente explicativos con temática eh puntual eh videos cortos que\nles van a enseñar el manejo del programa para todas las personas que están\nconectadas en este momento ustedes pueden acceder a la plataforma de\ncapacitación virtual y allí van a encontrar algunos módulos que aparecen\nhabilitados esos módulos Pues van a poder allí Ver videos y aprender y\nconocer más acerca de lo que es contapyme les quiero explicar entonces\nCómo llegamos hasta ese sitio web estando en\nustedes ingresan allí a nuestro sitio web y dan clic en la opción inicie\nsesión si ustedes aún no se encuentran registrados deben registrarse en nuestro\nsitio web para lo cual Dan clic en el botón regístrese como nuevo usuario para\ntodas las personas que están registradas en el seminario muy probablemente no\nestán registradas aquí en en la página de servicio al cliente entonces lo que\ndeben hacer es ingresar y realizar el registro para que así queden en en\nnuestra base de datos Y para que puedan ingresar a la plataforma de capacitación\nvirtual estando ya en la página de servicio al cliente Ustedes deben\niniciar con un correo electrónico y con una contraseña en este caso entonces voy\na iniciar con estos\ndatos damos clic en Iniciar sesión se nos cargan una serie de opciones que\ntenemos disponibles en este caso nos vamos a centrar en la opción de curso\nvirtual con tape versión 4 al dar clic en esa opción el sistema\nnos mostrará toda la ura de capacitación del\ndel programa esto es muy importante y es lo\nque nos hace diferentes cont pye es una rp que tiene todas estas posibilidades\nademás de de tener una potencia a nivel del manejo y de todas las posibilidades\nque ustedes como usuarios pueden tener con contapyme También tenemos esta\nnovedosa plataforma de capacitación virtual esta plataforma es única en\nsistema crp de nuestro tipo aquí pueden encontrar todos los módulos del programa\na ustedes se les van a habilitar los de acuerdo al licenciamiento que tengan si\ntodavía no tienen licenciamiento pero ustedes ingresan van a poder ver la los\nvideos y la información de algunos módulos básicos Aquí les quiero\npresentar entonces que es un sistema una plataforma robusta que está\nespecialmente diseñada para que los usuarios que adquieren contapyme puedan\ncapacitarse en cualquier momento desde cualquier lugar que no tengan\nrestricción de tiempo si pueden Aprender a manejar el programa por las noches o\npor la mañana si de pronto en el horario laboral no lo pueden hacer pueden\nacceder a este sitio web y lo más importante totalmente gratuito muy\ndiferente eh el caso en el que digamos ustedes adquieren un programa y deben\nadquirir también adicionalmente horas de capacitación con contapyme es diferente\ncon contapyme ustedes tienen un sitio web especialmente diseñado para que se\nautocap citen y aprendan a manejar el programa quiero mostrarles Entonces por\nejemplo aquí estamos viendo la estructura de capacitación esta\nestructura está ordenada de manera en que un usuario vea la temática básica e\ninicial para que aprenda a manejar el resto del programa me explico si por\nejemplo un usuario quiere estudiar y quiere capacitarse en contabilidad\nbásica el manejo de la contabilidad básica del programa o por ejemplo en el\nmanejo de activos o en el manejo de ejecución presupuestal debe haber visto\nprimero que todo el módulo sistema básico el sistema la plataforma les\nindicará el porcentaje de vistos de videos que se ha visto el usuario\nsi damos por ejemplo clic en esta primera tarjeta que aparece de color\nbásico el sistema nos presentará toda la estructura de videos muy importante que\ntengan claro y muy importante que conozcan esta gran funcionalidad aquí\npor ejemplo estamos viendo una serie de capítulos el primer\ncapítulo que tenemos es el capítulo de introducción al sistema básico como aquí\nlo estamos observando esta plataforma está diseñada\npara que un usuario tenemos tres niveles básico medio y avanzado está diseñada\npara que un usuario que quiera Aprender a manejar el programa de manera básica o\nsea lo inicial para que pueda desenvolverse en el programa pues vea\nsimplemente los vos de la columna de básico como aquí le estoy mostrando pero\ntambién tenemos unos videos adicionales que están ubicados en nivel medio y en\nnivel avanzado los videos de nivel medio pues ya tienen un poco más de detalle en\nlas explicaciones ya explican otras opciones adicionales y el nivel avanzado\nexplica son configuraciones adicionales que tiene el programa Si una persona\nquiere tener el manejo total de la aplicación pues deberá ver básico medio\ny avanzado pero si es un usuario que quiere aplicar solamente un manejo\nbásico de la aplicación podrá ver solamente los videos de la columna de\nbásico los videos se reproducen en el reproductor de YouTube Por lo cual\nustedes pueden ver en pantalla completa abrirlo en YouTube programarlo para ver\nmás tarde pueden eh ejecutar todas las acciones que nos da el reproductor de\nYouTube muy importante esta plataforma lo cual la hace interactiva es que el\nusuario puede marcar como visto el video puede calificar el video siendo uno la\nuna estrella la calificación más baja y cinco la calificación más alta de igual\nforma los usuarios pueden hacer preguntas y comentarios acerca de los\nvideos por ejemplo acá si le doy clic en comentar el sistema me muestra un\nglobito en el cual yo puedo agregar un comentario al video si quiero hacer una\npregunta de la misma forma el sistema me muestra un globito para que ingrese mi\npregunta y si quiero ver todas las los comentarios y preguntas que se han\nrealizado al video simplemente debo dar clic en el botón ver y el sistema me\npresentará los comentarios las preguntas y respuestas que ha dado el grupo de\nasesores de insoft limitada miren entonces que esta plataforma es un\nambiente totalmente interactivo Y eso es lo que buscamos que los usuarios con\nesta plataforma con este recurso tan valioso que ponemos a su disposición\npuedan capacitarse y retroalimentarse de la información que ingresen allí otros\nusuarios de las preguntas y comentarios que otros usuarios Den al\nrespecto recordemos entonces que ustedes como usuarios como eh usuarios inscritos\nal curso ustedes pueden acceder a ese entorno a esa plataforma de capacitación\nvirtual en la cual van a tener acceso a unos videos de nivel básico para que eh\naprendan y para que conozcan un poco más de lo que es contapyme muy importante\nqueríamos Resaltar esta novedosa plataforma de capacitación virtual esta\nplataforma tiene cerca de 1000 videos los cuales explican detalladamente el\nmanejo de la aplicación y estamos produciendo más videos estamos\ntrabajando en la elaboración de más videos más videos relacionados ya con\ntodo lo que es el manejo de las niif en la aplicación y eh perfeccionando muchos\nvdeos de los que ya habíamos elaborado Entonces estamos en constante cambio y\nen constante renovación de todo lo que es esta plataforma de capacitación\ninteractiva al\nya habiendo conocido nuestra plataforma de capacitación virtual les voy a hacer\nentonces un recorderis para que lo tengamos muy claro la plataforma de\ncapacitación virtual es ese sitio web que me va a permitir a mí como usuario\ndel programa contapyme o del programa agrowin acceder y capacitarme a través\nde videos es una plataforma que está diseñada para que ustedes puedan autocap\ncitarse y puedan aprender el manejo de la aplicación van a encontrar videos\ncortos y totalmente explicativos acerca de lo que es el programa y el manejo de\ncada una de sus funcionalidades y características les recuerdo entonces\npara ingresar a la a la plataforma de capacitación virtual deben acceder a\nwww.capy.com dar clic en la opción inicie\ninicie sesión iniciar la sesión con su correo\nelectrónico y con la contraseña En caso de que no se encuentren registrados dan\nclic en el botón regístrese ingresan sus datos y realizan el registro\ndirectamente en nuestro sitio y ya pueden acceder a la plataforma de\ncapacitación virtual una vez han iniciado la sesión van a dar clic en la\nopción curso virtual cont pime versión 4 el sistema les presentará toda la\nestructura de capacitación del programa contapyme y para acceder a los videos de\nun determinado módulo basta con dar clic sobre alguna de las tarjetas para que la\nplataforma nos presente así los vdeos tanto en nivel básico medio o avanzado y\nya ustedes pueden iniciar su proceso de capacitación con opciones adicionales\nComo por ejemplo marcar el video como visto calificarlo hacer preguntas o\ncomentarios del video y ver las preguntas y comentarios que otros\nusuarios han realizado sobre él como aquí lo podemos"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 25,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 184.033,
+    "asr": 44100,
+    "filesizeApprox": 14078708,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2014",
+    "md": "videos/2014/iHa6b7YbYMY.md",
+    "json": "videos/2014/iHa6b7YbYMY.json",
+    "infoJson": "videos/2014/iHa6b7YbYMY.info.json"
+  },
+  "publishYear": "2014"
+}

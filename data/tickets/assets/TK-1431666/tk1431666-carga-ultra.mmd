@@ -1,0 +1,9 @@
+%%{init: {"flowchart": {"curve": "stepAfter", "htmlLabels": true, "nodeSpacing": 36, "rankSpacing": 44, "padding": 16}}}%%
+flowchart TB
+  ULTRA["<div style='min-width:300px;text-align:center'>13 prompts Ultra<br/>PROMPT_&lt;TIPO&gt;.md</div>"]
+  MERGE["<div style='min-width:300px;text-align:center'>MERGE INSTRUCCION<br/>textos Ultra</div>"]
+  LINK["<div style='min-width:300px;text-align:center'>MERGE<br/>TDCONSULTAXINSTRUCCION</div>"]
+  BD[("<div style='min-width:300px;text-align:center'>AYUDASCP_IA_STAGING</div>")]
+  PATY["<div style='min-width:300px;text-align:center'>PatyIA · turno<br/>clasificación → instruccion_tipo</div>"]
+
+  ULTRA --> MERGE --> LINK --> BD --> PATY

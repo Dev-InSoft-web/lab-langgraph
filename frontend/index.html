@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FitDocs IA · lab-langgraph</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css"
+    />
+  </head>
+  <body>
+    <div class="layout">
+      <aside class="sidebar">
+        <h2>📄 Tus documentos</h2>
+        <label>
+          Sube tus PDFs
+          <input type="file" id="pdfInput" accept=".pdf" multiple />
+        </label>
+        <p class="status">Usa el selector de archivos (no pegues rutas <code>file://</code>).</p>
+        <button type="button" id="btnIndex">Indexar documentos</button>
+        <p class="status" id="indexStatus"></p>
+        <hr />
+        <h2>Documentos cargados</h2>
+        <ul class="doc-list" id="docList"></ul>
+        <button type="button" class="secondary" id="btnRefreshDocs">Actualizar lista</button>
+        <button type="button" class="secondary" id="btnResetChat">Reiniciar conversación</button>
+        <button type="button" class="secondary" id="btnResetIndex">Vaciar índice (API)</button>
+        <p class="status" id="apiStatus"></p>
+        <p class="status" id="signalrStatus">SignalR: desconectado</p>
+        <hr />
+        <h2>Diagramas LangGraph</h2>
+        <p class="status"><a href="diagrams/index.html" target="_blank" rel="noopener">Ver grafos .mmd / PNG</a> (generar con <code>npm run diagrams:render</code>)</p>
+      </aside>
+      <div class="main">
+        <header class="header">
+          <h1>📄 FitDocs IA</h1>
+          <p>Tu IA conversa con TUS PDFs · HTML + Azure Functions + RAG + PGVector</p>
+        </header>
+        <div id="noIndexBanner" class="banner" hidden>
+          👈 Sube uno o más PDFs en la barra lateral y pulsa «Indexar documentos».
+        </div>
+        <section class="chat" id="chat" aria-live="polite"></section>
+        <form class="composer" id="chatForm">
+          <input
+            type="text"
+            id="questionInput"
+            placeholder="Pregúntame sobre tus documentos..."
+            autocomplete="off"
+          />
+          <button type="submit" id="btnSend">Enviar</button>
+        </form>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@microsoft/signalr@8/dist/browser/signalr.min.js"></script>
+    <script src="config.js"></script>
+    <script src="signalr-lab.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

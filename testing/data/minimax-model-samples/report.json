@@ -1,0 +1,205 @@
+{
+  "at": "2026-06-04T06:49:48.147Z",
+  "key": "MINIMAX_API_KEY (Token Plan) · ···v5sM",
+  "outDir": "C:\\Users\\JAGUDELOE\\Documents\\Contapyme\\ISA-DOC\\data\\lab-langgraph\\minimax-model-samples",
+  "results": [
+    {
+      "modality": "language",
+      "model": "MiniMax-M3",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M3.txt",
+      "detail": "OK",
+      "elapsedMs": 4119
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.7",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.7.txt",
+      "detail": "OK",
+      "elapsedMs": 2572
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.7-highspeed",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.7-highspeed.txt",
+      "detail": "OK",
+      "elapsedMs": 4231
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.5",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.5.txt",
+      "detail": "OK",
+      "elapsedMs": 1327
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.5-highspeed",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.5-highspeed.txt",
+      "detail": "OK",
+      "elapsedMs": 2924
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.1",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.1.txt",
+      "detail": "OK",
+      "elapsedMs": 1858
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.1-highspeed",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.1-highspeed.txt",
+      "detail": "OK",
+      "elapsedMs": 2196
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "",
+      "artifact": "language\\MiniMax-M2.txt",
+      "detail": "OK",
+      "elapsedMs": 2614
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.8-hd",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "speech-2.8-hd.mp3",
+      "elapsedMs": 1067
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.8-turbo",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "speech-2.8-turbo.mp3",
+      "elapsedMs": 936
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.6-hd",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "speech-2.6-hd.mp3",
+      "elapsedMs": 1078
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.6-turbo",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "speech-2.6-turbo.mp3",
+      "elapsedMs": 1255
+    },
+    {
+      "modality": "speech",
+      "model": "speech-02-hd",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "speech-02-hd.mp3",
+      "elapsedMs": 1082
+    },
+    {
+      "modality": "speech",
+      "model": "speech-02-turbo",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "speech-02-turbo.mp3",
+      "elapsedMs": 1177
+    },
+    {
+      "modality": "image",
+      "model": "image-01",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "image/image-01.png",
+      "elapsedMs": 17183
+    },
+    {
+      "modality": "music",
+      "model": "music-2.6",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "music/music-2.6.mp3",
+      "elapsedMs": 59421
+    },
+    {
+      "modality": "music",
+      "model": "music-2.5",
+      "ok": true,
+      "httpStatus": 200,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "music/music-2.5.mp3",
+      "elapsedMs": 28049
+    },
+    {
+      "modality": "video",
+      "model": "MiniMax-Hailuo-2.3",
+      "ok": true,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "video/MiniMax-Hailuo-2.3.json",
+      "detail": "file_id=405511712895111",
+      "elapsedMs": 60119
+    },
+    {
+      "modality": "video",
+      "model": "MiniMax-Hailuo-02",
+      "ok": true,
+      "baseCode": 0,
+      "baseMsg": "success",
+      "artifact": "video/MiniMax-Hailuo-02.json",
+      "detail": "file_id=405508499222704",
+      "elapsedMs": 105914
+    }
+  ]
+}

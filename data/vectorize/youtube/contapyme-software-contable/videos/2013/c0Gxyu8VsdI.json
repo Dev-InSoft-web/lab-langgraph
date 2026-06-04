@@ -1,0 +1,721 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:27:26.880Z",
+  "videoId": "c0Gxyu8VsdI",
+  "videoUrl": "https://www.youtube.com/watch?v=c0Gxyu8VsdI",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "c0Gxyu8VsdI",
+    "title": "Software contable ContaPyme - Instalación de múltiples Agentes de Servicios web",
+    "fulltitle": "Software contable ContaPyme - Instalación de múltiples Agentes de Servicios web",
+    "description": "http://www.contapyme.com\nEste video presenta el proceso de creación de múltiples Agentes de Servicios web, explica mediante ejemplos la creación de Agentes para trabajar vía internet y la creación de Agentes para trabajar por intranet.\nCP40-530-070-030B-010M",
+    "duration": 341,
+    "duration_string": "5:41",
+    "upload_date": "20130806",
+    "timestamp": 1375833415,
+    "view_count": 404,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia",
+      "software contable y administrativo"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/c0Gxyu8VsdI/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogWShyMA8=&rs=AOn4CLCBP58TvBHip-3BqhEtidwnkmih1g",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgqIFkocjAP&rs=AOn4CLDe9v1T-WAluv9WTp9H0a5WMgGm4g",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogWShyMA8=&rs=AOn4CLAzMs4vAT-kdTtr5dJEJdZdDtfJ4Q",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCogWShyMA8=&rs=AOn4CLBv6ThXxu926xKSjYFDGNDHqruz-g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCogWShyMA8=&rs=AOn4CLAHpj0mvdLWbL1mikhNTQ2V7WH0CA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgqIFkocjAP&rs=AOn4CLDDd9bTb8KufC_VMLqrgsrz7GFKNg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgqIFkocjAP&rs=AOn4CLBHsdVcCqK0NMjc8ZqNP4oK_oCmIg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogWShyMA8=&rs=AOn4CLCAzCfmOPTCeEdITnue0zTO4ufY3w",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogWShyMA8=&rs=AOn4CLCBP58TvBHip-3BqhEtidwnkmih1g",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/c0Gxyu8VsdI/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=c0Gxyu8VsdI",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2932551319648094,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20527859237536658,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20527859237536658,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20527859237536658,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 182.844,
+        "asr": 44100,
+        "filesize_approx": 7803987,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Instalación de múltiples Agentes de Servicios web",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/c0Gxyu8VsdI/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/c0Gxyu8VsdI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Instalación de múltiples Agentes de Servicios web\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 58,
+    "transcriptChars": 4319,
+    "segments": [
+      {
+        "text": "instalación de múltiples agentes de servicios web antes de ver este video se",
+        "startMs": 640,
+        "durationMs": 5510
+      },
+      {
+        "text": "recomienda haber visto el video creación y configuración de agentes de servicios",
+        "startMs": 6150,
+        "durationMs": 5519
+      },
+      {
+        "text": "web existen empresas que manejan varias áreas de",
+        "startMs": 11669,
+        "durationMs": 4440
+      },
+      {
+        "text": "trabajo estas empresas tienen la posibilidad de crear y configurar un",
+        "startMs": 16109,
+        "durationMs": 5681
+      },
+      {
+        "text": "agente de servicios web por cada área de trabajo existente lo cual les da la",
+        "startMs": 21790,
+        "durationMs": 5319
+      },
+      {
+        "text": "posibilidad de acceder a toda la información desde dispositivos móviles a",
+        "startMs": 27109,
+        "durationMs": 4640
+      },
+      {
+        "text": "través de internet esto aplica por ejemplo para grupos empresariales o para",
+        "startMs": 31749,
+        "durationMs": 4921
+      },
+      {
+        "text": "contadores que manejen múltiples contabilidades vamos a realizar la",
+        "startMs": 36670,
+        "durationMs": 5320
+      },
+      {
+        "text": "creación de un agente para conexión a través de",
+        "startMs": 41990,
+        "durationMs": 4160
+      },
+      {
+        "text": "internet en el asistente instalador de agentes de servicios web damos clic en",
+        "startMs": 46150,
+        "durationMs": 6000
+      },
+      {
+        "text": "el botón nuevo definimos que el tipo de agente a",
+        "startMs": 52150,
+        "durationMs": 4280
+      },
+      {
+        "text": "crear es un agente de servicios web es decir un agente que conectamos a un área",
+        "startMs": 56430,
+        "durationMs": 5639
+      },
+      {
+        "text": "de trabajo y así podemos gestionar la información de la empresa vía internet",
+        "startMs": 62069,
+        "durationMs": 5080
+      },
+      {
+        "text": "damos clic en el botón siguiente y en este segundo paso damos",
+        "startMs": 67149,
+        "durationMs": 9280
+      },
+      {
+        "text": "puertos y como mencioné anteriormente vamos a realizar la creación de un",
+        "startMs": 76439,
+        "durationMs": 5191
+      },
+      {
+        "text": "agente para que los usuarios se conecten a través de internet dejamos marcada",
+        "startMs": 81630,
+        "durationMs": 4439
+      },
+      {
+        "text": "esta opción y damos clic en el botón siguiente",
+        "startMs": 86069,
+        "durationMs": 4481
+      },
+      {
+        "text": "siguiente en este paso configuramos la IP en el",
+        "startMs": 90550,
+        "durationMs": 4360
+      },
+      {
+        "text": "siguiente paso seguido configuramos el puerto en el router en este caso vamos a",
+        "startMs": 99469,
+        "durationMs": 7000
+      },
+      {
+        "text": "definir un puerto que ya tengo abierto y vamos a dar clic en el botón",
+        "startMs": 106469,
+        "durationMs": 7161
+      },
+      {
+        "text": "finalizar como podemos observar los datos se han agregado en el asistente",
+        "startMs": 113630,
+        "durationMs": 5200
+      },
+      {
+        "text": "principal damos clic en el botón sigui para elegir Ela de trajo a la se conar",
+        "startMs": 118830,
+        "durationMs": 6959
+      },
+      {
+        "text": "elente damos en el botón seleccionara de trabajo y en este caso vamos a conectar",
+        "startMs": 125789,
+        "durationMs": 8601
+      },
+      {
+        "text": "un áa de trabajo que se encuentra en otro servidor por loal Entonces voy",
+        "startMs": 134390,
+        "durationMs": 9880
+      },
+      {
+        "text": "datos y voy a conectarme al área de trabajo que tengo en este otro servidor",
+        "startMs": 144280,
+        "durationMs": 6430
+      },
+      {
+        "text": "damos clic en el botón conectar los datos de conexión del área de trabajo Se",
+        "startMs": 94910,
+        "durationMs": 60360
+      },
+      {
+        "text": "agregan al asistente principal y damos clic en el botón",
+        "startMs": 155270,
+        "durationMs": 5800
+      },
+      {
+        "text": "siguiente dejamos activas la opción iniciar servicio automáticamente y",
+        "startMs": 161070,
+        "durationMs": 5439
+      },
+      {
+        "text": "registrar en su server opciones que lo recomendable es dejarlas activas para",
+        "startMs": 166509,
+        "durationMs": 5321
+      },
+      {
+        "text": "facilitar el trabajo con el agente de servicios",
+        "startMs": 171830,
+        "durationMs": 3119
+      },
+      {
+        "text": "servicios web para finalizar la creación del",
+        "startMs": 174949,
+        "durationMs": 2601
+      },
+      {
+        "text": "agente vamos a dar clic en el botón aceptar damos clic en",
+        "startMs": 177550,
+        "durationMs": 5399
+      },
+      {
+        "text": "aceptar el agente inicia el proceso de conexión con el área de",
+        "startMs": 182949,
+        "durationMs": 7000
+      },
+      {
+        "text": "trabajo y finalmente podemos ver cómo se agrega a la lista y su estado es",
+        "startMs": 189959,
+        "durationMs": 5791
+      },
+      {
+        "text": "iniciado y en línea ahora vamos a crear otro agente",
+        "startMs": 195750,
+        "durationMs": 7000
+      },
+      {
+        "text": "Pero esta vez para que la configuración sea localmente es decir vamos a acceder",
+        "startMs": 202750,
+        "durationMs": 6280
+      },
+      {
+        "text": "por red interna seleccionamos la opción los usuarios móviles se conectarán",
+        "startMs": 209030,
+        "durationMs": 9960
+      },
+      {
+        "text": "siguiente con este tipo de conexión solo es necesario Definir la IP y el puerto",
+        "startMs": 219000,
+        "durationMs": 5390
+      },
+      {
+        "text": "del equipo local la IP se carga por defecto y vamos a definir el puerto en",
+        "startMs": 224390,
+        "durationMs": 8440
+      },
+      {
+        "text": "local como en este tipo de conexión no hay salida hacia internet no es",
+        "startMs": 232840,
+        "durationMs": 5029
+      },
+      {
+        "text": "necesario definir IP público ni realizar apertura y enrutamiento de Puerto en el",
+        "startMs": 237869,
+        "durationMs": 5041
+      },
+      {
+        "text": "modem o router damos clic en el botón finalizar para que los datos se agreguen",
+        "startMs": 242910,
+        "durationMs": 8200
+      },
+      {
+        "text": "en el asistente principal damos clic en el botón siguiente elegimos el área de",
+        "startMs": 251110,
+        "durationMs": 6320
+      },
+      {
+        "text": "trabajo a la cual nos vamos a conectar en este segundo ejemplo me voy a",
+        "startMs": 257430,
+        "durationMs": 4280
+      },
+      {
+        "text": "conectar al a un área de trabajo que tengo instalada en este mismo",
+        "startMs": 261710,
+        "durationMs": 5919
+      },
+      {
+        "text": "equipo diligencias los datos de conexión y damos clic en el botón",
+        "startMs": 267639,
+        "durationMs": 6351
+      },
+      {
+        "text": "conectar damos clic en el botón siguiente se nos activa solo la opción",
+        "startMs": 273990,
+        "durationMs": 6880
+      },
+      {
+        "text": "iniciar servicio automáticamente la opción de registrar",
+        "startMs": 280870,
+        "durationMs": 4280
+      },
+      {
+        "text": "en el s server no se encuentra activa Pues cuando es conexión a través de red",
+        "startMs": 285150,
+        "durationMs": 4840
+      },
+      {
+        "text": "interna no hay comunicación con internet y la conexión del el dispositivo móvil",
+        "startMs": 289990,
+        "durationMs": 5120
+      },
+      {
+        "text": "es directamente con los datos de la IP y el puerto del equipo local",
+        "startMs": 295110,
+        "durationMs": 5720
+      },
+      {
+        "text": "vamos a dar clic en el botón aceptar para guardar la configuración y crear",
+        "startMs": 300830,
+        "durationMs": 11880
+      },
+      {
+        "text": "web el nuevo agente se ha agregado al listado principal como aquí lo podemos",
+        "startMs": 312720,
+        "durationMs": 6070
+      },
+      {
+        "text": "observar con estado iniciado y en línea como pudimos observar con los dos",
+        "startMs": 318790,
+        "durationMs": 6000
+      },
+      {
+        "text": "ejemplos anteriores podemos crear tantos agentes como necesitemos y configurarlos",
+        "startMs": 324790,
+        "durationMs": 5399
+      },
+      {
+        "text": "para funcionamiento a través de internet o a través de intranet según sean",
+        "startMs": 330189,
+        "durationMs": 5401
+      },
+      {
+        "text": "nuestras necesidades esto es todo sobre",
+        "startMs": 335590,
+        "durationMs": 2319
+      },
+      {
+        "text": "instalación de múltiples agentes de servicios web",
+        "startMs": 337909,
+        "durationMs": 5451
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video presenta el proceso de creación de múltiples Agentes de Servicios web, explica mediante ejemplos la creación de Agentes para trabajar vía internet y la creación de Agentes para trabajar por intranet.\nCP40-530-070-030B-010M\n\n## Transcripción\n\ninstalación de múltiples agentes de servicios web antes de ver este video se\nrecomienda haber visto el video creación y configuración de agentes de servicios\nweb existen empresas que manejan varias áreas de\ntrabajo estas empresas tienen la posibilidad de crear y configurar un\nagente de servicios web por cada área de trabajo existente lo cual les da la\nposibilidad de acceder a toda la información desde dispositivos móviles a\ntravés de internet esto aplica por ejemplo para grupos empresariales o para\ncontadores que manejen múltiples contabilidades vamos a realizar la\ncreación de un agente para conexión a través de\ninternet en el asistente instalador de agentes de servicios web damos clic en\nel botón nuevo definimos que el tipo de agente a\ncrear es un agente de servicios web es decir un agente que conectamos a un área\nde trabajo y así podemos gestionar la información de la empresa vía internet\ndamos clic en el botón siguiente y en este segundo paso damos\npuertos y como mencioné anteriormente vamos a realizar la creación de un\nagente para que los usuarios se conecten a través de internet dejamos marcada\nesta opción y damos clic en el botón siguiente\nsiguiente en este paso configuramos la IP en el\nsiguiente paso seguido configuramos el puerto en el router en este caso vamos a\ndefinir un puerto que ya tengo abierto y vamos a dar clic en el botón\nfinalizar como podemos observar los datos se han agregado en el asistente\nprincipal damos clic en el botón sigui para elegir Ela de trajo a la se conar\nelente damos en el botón seleccionara de trabajo y en este caso vamos a conectar\nun áa de trabajo que se encuentra en otro servidor por loal Entonces voy\ndatos y voy a conectarme al área de trabajo que tengo en este otro servidor\ndamos clic en el botón conectar los datos de conexión del área de trabajo Se\nagregan al asistente principal y damos clic en el botón\nsiguiente dejamos activas la opción iniciar servicio automáticamente y\nregistrar en su server opciones que lo recomendable es dejarlas activas para\nfacilitar el trabajo con el agente de servicios\nservicios web para finalizar la creación del\nagente vamos a dar clic en el botón aceptar damos clic en\naceptar el agente inicia el proceso de conexión con el área de\ntrabajo y finalmente podemos ver cómo se agrega a la lista y su estado es\niniciado y en línea ahora vamos a crear otro agente\nPero esta vez para que la configuración sea localmente es decir vamos a acceder\npor red interna seleccionamos la opción los usuarios móviles se conectarán\nsiguiente con este tipo de conexión solo es necesario Definir la IP y el puerto\ndel equipo local la IP se carga por defecto y vamos a definir el puerto en\nlocal como en este tipo de conexión no hay salida hacia internet no es\nnecesario definir IP público ni realizar apertura y enrutamiento de Puerto en el\nmodem o router damos clic en el botón finalizar para que los datos se agreguen\nen el asistente principal damos clic en el botón siguiente elegimos el área de\ntrabajo a la cual nos vamos a conectar en este segundo ejemplo me voy a\nconectar al a un área de trabajo que tengo instalada en este mismo\nequipo diligencias los datos de conexión y damos clic en el botón\nconectar damos clic en el botón siguiente se nos activa solo la opción\niniciar servicio automáticamente la opción de registrar\nen el s server no se encuentra activa Pues cuando es conexión a través de red\ninterna no hay comunicación con internet y la conexión del el dispositivo móvil\nes directamente con los datos de la IP y el puerto del equipo local\nvamos a dar clic en el botón aceptar para guardar la configuración y crear\nweb el nuevo agente se ha agregado al listado principal como aquí lo podemos\nobservar con estado iniciado y en línea como pudimos observar con los dos\nejemplos anteriores podemos crear tantos agentes como necesitemos y configurarlos\npara funcionamiento a través de internet o a través de intranet según sean\nnuestras necesidades esto es todo sobre\ninstalación de múltiples agentes de servicios web"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 182.844,
+    "asr": 44100,
+    "filesizeApprox": 7803987,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/c0Gxyu8VsdI.md",
+    "json": "videos/2013/c0Gxyu8VsdI.json",
+    "infoJson": "videos/2013/c0Gxyu8VsdI.info.json"
+  },
+  "publishYear": "2013"
+}

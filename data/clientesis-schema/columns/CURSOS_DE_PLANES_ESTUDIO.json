@@ -1,0 +1,68 @@
+{
+  "version": 4,
+  "kind": "columns-tree",
+  "tableref": "CURSOS_DE_PLANES_ESTUDIO",
+  "tablemeta": {
+    "originalname": "CURSOS_DE_PLANES_ESTUDIO",
+    "hasifnotexists": true
+  },
+  "nodes": [
+    {
+      "flatpath": "1",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "2",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "3",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "4",
+      "ireference": "COLUMN",
+      "kind": "col"
+    }
+  ],
+  "entities": {
+    "COLUMN": [
+      {
+        "icolumn": "1",
+        "flatpath": "1",
+        "name": "IPLANESTUDIO",
+        "type": "VARCHAR(20)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "2",
+        "flatpath": "2",
+        "name": "ICURSO",
+        "type": "VARCHAR(10)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "3",
+        "flatpath": "3",
+        "name": "QORDEN",
+        "type": "INT",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "4",
+        "flatpath": "4",
+        "name": "BREQUERIDO",
+        "type": "BIT",
+        "defaultvalue": "1",
+        "primarykey": false,
+        "kind": "col"
+      }
+    ]
+  }
+}

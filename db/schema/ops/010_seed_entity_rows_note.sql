@@ -1,0 +1,7 @@
+-- Datos en lab.entity_row (endpoints, imgbb, revisado, postman UI, prompts…)
+-- No se insertan aquí por tamaño variable; ejecutar tras migrate:
+--
+--   npm run catalog:bootstrap
+--   npm run entity:seed
+--
+-- Idempotente: upsert por (project, page, entity, pk).

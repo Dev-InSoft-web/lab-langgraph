@@ -1,0 +1,19 @@
+flowchart TD
+  start([API / conversación / proofread / whisper]) --> sync[syncOrchestratorSlots]
+  sync --> expire[expire_stale_orchestrator_leases]
+  expire --> lock{conversación existente?}
+  lock -->|sí| turnLock[acquireConversationTurnLock]
+  lock -->|no| gap
+  turnLock --> gap[enforceTurnGap]
+  gap --> acquire[acquireOrchestratorLease FOR UPDATE SKIP LOCKED]
+  acquire -->|slot libre| lease[INSERT lab_orchestrator_lease]
+  acquire -->|cooldown| wait[esperar wait_ms_hint]
+  wait --> acquire
+  lease --> invoke[LLM / Whisper con apiKey]
+  invoke -->|ok| releaseOk[release_lease ok + log rotation]
+  invoke -->|429| cooldown[UPDATE slot cooldown_until]
+  cooldown --> releaseErr[release_lease error + log]
+  releaseOk --> turnSave[INSERT conversacion_turnos + turn_index]
+  turnSave --> unlock[releaseConversationTurnLock]
+  releaseErr --> cascade[runCapabilityCascade siguiente provider/key]
+  cascade --> acquire

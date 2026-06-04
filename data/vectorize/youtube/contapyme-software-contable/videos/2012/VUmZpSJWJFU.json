@@ -1,0 +1,794 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:32:04.406Z",
+  "videoId": "VUmZpSJWJFU",
+  "videoUrl": "https://www.youtube.com/watch?v=VUmZpSJWJFU",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "VUmZpSJWJFU",
+    "title": "Software agricola AgroWin - Creación de los contratos de labores en el sistema",
+    "fulltitle": "Software agricola AgroWin - Creación de los contratos de labores en el sistema",
+    "description": "http://www.contapyme.com/software-agricola\nSoftware agrícola AgroWin.\nAW40-040-040-020B",
+    "duration": 457,
+    "duration_string": "7:37",
+    "upload_date": "20120303",
+    "timestamp": 1330783025,
+    "view_count": 566,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/VUmZpSJWJFU/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxPVmnjzJyH5kVVK21vXtnTqHHYA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2OByTIigqrtkQ78dCO3HfiXEOww",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFRXfyQ3Xh4rRxTux0yVC76MG4-w",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjuKPicOHhZK8w3qbGPrBK36NCnQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VUmZpSJWJFU/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VUmZpSJWJFU/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=VUmZpSJWJFU",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2188183807439825,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20350109409190373,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20350109409190373,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 194.865,
+        "asr": 44100,
+        "filesize_approx": 11120141,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - Creación de los contratos de labores en el sistema",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/VUmZpSJWJFU/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/VUmZpSJWJFU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - Creación de los contratos de labores en el sistema\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 79,
+    "transcriptChars": 4804,
+    "segments": [
+      {
+        "text": "los contratos de labores se definen para cada empresa del área de trabajo y",
+        "startMs": 5620,
+        "durationMs": 4589
+      },
+      {
+        "text": "aplican solamente dentro de la empresa en que se definieron",
+        "startMs": 10209,
+        "durationMs": 5281
+      },
+      {
+        "text": "por lo tanto para crear un contrato del sistema partimos del explorador gráfico",
+        "startMs": 15490,
+        "durationMs": 4380
+      },
+      {
+        "text": "de la finca y debemos estar ubicados en la empresa a la cual le vamos a crear el",
+        "startMs": 19870,
+        "durationMs": 8610
+      },
+      {
+        "text": "contrato a continuación basta con seleccionar la",
+        "startMs": 28480,
+        "durationMs": 2039
+      },
+      {
+        "text": "pestaña costos luego el botón catálogos",
+        "startMs": 30519,
+        "durationMs": 5491
+      },
+      {
+        "text": "y seleccionamos el catálogo de tipos de contratación de mano de obra",
+        "startMs": 36010,
+        "durationMs": 7530
+      },
+      {
+        "text": "en este ejercicio vamos a crear tres contratos uno genérico para pagos por",
+        "startMs": 43550,
+        "durationMs": 4670
+      },
+      {
+        "text": "jornal de 25 mil pesos día otro por unidades para siembra de granadilla por",
+        "startMs": 48220,
+        "durationMs": 6149
+      },
+      {
+        "text": "300 pesos la unidad y el tercero para pagos a destajo",
+        "startMs": 54369,
+        "durationMs": 6271
+      },
+      {
+        "text": "empezaremos creando el contrato pago a jornal de 25 mil pesos día código 10 y",
+        "startMs": 60650,
+        "durationMs": 7670
+      },
+      {
+        "text": "unidad jornal empezamos ejecutando el clic derecho",
+        "startMs": 68320,
+        "durationMs": 4200
+      },
+      {
+        "text": "crear sobre cualquier registro del catálogo",
+        "startMs": 72520,
+        "durationMs": 6060
+      },
+      {
+        "text": "el sistema nos presentó un asistente con la siguiente información código del tipo",
+        "startMs": 830,
+        "durationMs": 81980
+      },
+      {
+        "text": "de contrato anotamos el código 10 y luego el botón",
+        "startMs": 82810,
+        "durationMs": 8030
+      },
+      {
+        "text": "en la siguiente ventana del asistente nos pregunta la siguiente información",
+        "startMs": 90850,
+        "durationMs": 11799
+      },
+      {
+        "text": "en la pestaña general nombre corto form",
+        "startMs": 102659,
+        "durationMs": 5831
+      },
+      {
+        "text": "form tipo de cálculo",
+        "startMs": 108490,
+        "durationMs": 2800
+      },
+      {
+        "text": "pago por cantidad de mano de obra o sea jornal",
+        "startMs": 111290,
+        "durationMs": 4550
+      },
+      {
+        "text": "jornal unidad de la mano de obra",
+        "startMs": 115840,
+        "durationMs": 2150
+      },
+      {
+        "text": "seleccionamos jornal en caso de que no existe lo digital los siguientes campos",
+        "startMs": 117990,
+        "durationMs": 5560
+      },
+      {
+        "text": "son opcionales y los dejamos tal como están",
+        "startMs": 123550,
+        "durationMs": 6479
+      },
+      {
+        "text": "en la pestaña comportamiento debe estar se ha quedado el campo afecta",
+        "startMs": 130039,
+        "durationMs": 4101
+      },
+      {
+        "text": "estadísticas de rendimientos y producción esto significa que los datos",
+        "startMs": 134140,
+        "durationMs": 4319
+      },
+      {
+        "text": "de las labores que se pagan con este contrato entrarán a formar parte del",
+        "startMs": 138459,
+        "durationMs": 4261
+      },
+      {
+        "text": "banco de datos de estadísticas del sistema",
+        "startMs": 142720,
+        "durationMs": 2330
+      },
+      {
+        "text": "sistema los otros tres campos deben quedar sin",
+        "startMs": 145050,
+        "durationMs": 4840
+      },
+      {
+        "text": "chequear en la pestaña precios para los días de",
+        "startMs": 149890,
+        "durationMs": 3089
+      },
+      {
+        "text": "la semana tenemos dos opciones excluyentes entre",
+        "startMs": 152979,
+        "durationMs": 3691
+      },
+      {
+        "text": "sí para chequear tarifas diarias por jornal en este caso",
+        "startMs": 156670,
+        "durationMs": 5910
+      },
+      {
+        "text": "la planilla de labores tomará como valor del jornal el que la notemos",
+        "startMs": 162580,
+        "durationMs": 4780
+      },
+      {
+        "text": "para cada día de la semana en los campus de lunes a domingo",
+        "startMs": 167360,
+        "durationMs": 5180
+      },
+      {
+        "text": "y el otro tarifas definidas en la labor si queremos este campo cuando hacemos",
+        "startMs": 172540,
+        "durationMs": 6189
+      },
+      {
+        "text": "este contrato en la planilla de labores la planilla tomará como costo de la",
+        "startMs": 178729,
+        "durationMs": 4051
+      },
+      {
+        "text": "labor el valor o el valor que hayamos definido como costo de mano de obra en",
+        "startMs": 182780,
+        "durationMs": 4979
+      },
+      {
+        "text": "la creación de la labor en este ejemplo si queremos el campo de",
+        "startMs": 187759,
+        "durationMs": 4571
+      },
+      {
+        "text": "tarifas diarias por jornal y pondremos un valor de jornal de 25 mil",
+        "startMs": 192330,
+        "durationMs": 21960
+      },
+      {
+        "text": "la pestaña de configuración avanzada sirve para amarrar el contrato a una",
+        "startMs": 214300,
+        "durationMs": 4730
+      },
+      {
+        "text": "labor específica de alguna actividad no lo tendremos en cuenta en este contrato",
+        "startMs": 219030,
+        "durationMs": 6250
+      },
+      {
+        "text": "finalmente seleccionamos el botón aceptar",
+        "startMs": 225280,
+        "durationMs": 4390
+      },
+      {
+        "text": "y podemos constatar la creación del nuevo contrato en el maestro de tipos de",
+        "startMs": 229680,
+        "durationMs": 6930
+      },
+      {
+        "text": "continuamos con el contrato siembra de granadilla de 300 pesos unidad código 20",
+        "startMs": 236620,
+        "durationMs": 6279
+      },
+      {
+        "text": "nuevamente empezamos ejecutando el clic derecho crear sobre cualquier registro",
+        "startMs": 242899,
+        "durationMs": 8781
+      },
+      {
+        "text": "como código ponemos el número 20 aceptar",
+        "startMs": 251690,
+        "durationMs": 7129
+      },
+      {
+        "text": "en nombre del contacto siembra de granadilla",
+        "startMs": 258829,
+        "durationMs": 12911
+      },
+      {
+        "startMs": 271750,
+        "durationMs": 10140,
+        "text": "en la pestaña general el nombre corto"
+      },
+      {
+        "text": "siembra granadilla tipo de cálculo pago por cantidad de lado realizada",
+        "startMs": 281900,
+        "durationMs": 7910
+      },
+      {
+        "text": "unidad es un dato estadístico en este caso no es para efectos de pago ponemos",
+        "startMs": 289810,
+        "durationMs": 4860
+      },
+      {
+        "text": "jornal los siguientes campos los dejamos tal como están",
+        "startMs": 294670,
+        "durationMs": 6870
+      },
+      {
+        "text": "en la pestaña comportamiento de estar chequeado afecta estadística de",
+        "startMs": 301550,
+        "durationMs": 4220
+      },
+      {
+        "text": "rendimientos y producción en la pestaña precios para cada día de",
+        "startMs": 305770,
+        "durationMs": 4710
+      },
+      {
+        "text": "la semana dejamos chequeado tarifas diarias por",
+        "startMs": 310480,
+        "durationMs": 3960
+      },
+      {
+        "text": "unidad de labor y pondremos un valor por unidad de",
+        "startMs": 314440,
+        "durationMs": 4640
+      },
+      {
+        "text": "granadilla sembrada de 300 pesos para cada día de la semana",
+        "startMs": 319080,
+        "durationMs": 17180
+      },
+      {
+        "text": "en la pestaña de configuración avanzada podemos ligar este contrato a una",
+        "startMs": 336270,
+        "durationMs": 4430
+      },
+      {
+        "text": "actividad específica en este caso granadilla",
+        "startMs": 340700,
+        "durationMs": 2880
+      },
+      {
+        "text": "granadilla y a una labor de la granadilla en este",
+        "startMs": 343580,
+        "durationMs": 6280
+      },
+      {
+        "text": "esto significa que este contrato solamente podrá ser utilizado por la",
+        "startMs": 349870,
+        "durationMs": 3950
+      },
+      {
+        "text": "labor 130 siembra de granadilla de la actividad granadilla",
+        "startMs": 353820,
+        "durationMs": 5620
+      },
+      {
+        "text": "finalmente chequeamos el botón aceptar y podemos constatar la creación del nuevo",
+        "startMs": 359440,
+        "durationMs": 5560
+      },
+      {
+        "text": "contrato en el maestro de tipos de contratación",
+        "startMs": 365000,
+        "durationMs": 4860
+      },
+      {
+        "text": "por último vamos a crear el contrato a destajo código 30 y unidad jornal",
+        "startMs": 369870,
+        "durationMs": 7110
+      },
+      {
+        "text": "nuevamente clic derecho sobre cualquier registro crear código del contrato 30",
+        "startMs": 376980,
+        "durationMs": 11139
+      },
+      {
+        "startMs": 388129,
+        "durationMs": 4131,
+        "text": "nombre del contrato"
+      },
+      {
+        "startMs": 392270,
+        "durationMs": 3160,
+        "text": "destajo"
+      },
+      {
+        "text": "en la pestaña general nombre corto destaca",
+        "startMs": 395440,
+        "durationMs": 5540
+      },
+      {
+        "text": "destaca tipo de cálculo",
+        "startMs": 400980,
+        "durationMs": 2680
+      },
+      {
+        "text": "contratista se establece el pago unidad de mano de obra otro dato",
+        "startMs": 403660,
+        "durationMs": 6130
+      },
+      {
+        "text": "estadístico que podemos dejar como un jornal",
+        "startMs": 409790,
+        "durationMs": 3900
+      },
+      {
+        "text": "jornal dejamos en blanco los campos siguientes",
+        "startMs": 413690,
+        "durationMs": 2760
+      },
+      {
+        "text": "en la pestaña comportamiento afecta estadística de rendimientos y producción",
+        "startMs": 416450,
+        "durationMs": 6380
+      },
+      {
+        "text": "obsérvese que la pestaña de precios para los días de la semana en este caso no",
+        "startMs": 422830,
+        "durationMs": 5440
+      },
+      {
+        "text": "existe la pestaña configuración avanzada la",
+        "startMs": 428270,
+        "durationMs": 2340
+      },
+      {
+        "text": "dejamos tal como está y finalmente seleccionamos",
+        "startMs": 430610,
+        "durationMs": 4060
+      },
+      {
+        "text": "seleccionamos el botón aceptar",
+        "startMs": 434670,
+        "durationMs": 3449
+      },
+      {
+        "text": "y podemos constatar nuevamente la creación del nuevo contrato en el",
+        "startMs": 438119,
+        "durationMs": 5811
+      },
+      {
+        "text": "estos tres contratos los utilizaremos en el vídeo de la planilla de labores en el",
+        "startMs": 443940,
+        "durationMs": 6689
+      },
+      {
+        "text": "sistema esto es todo sobre creación de contratos",
+        "startMs": 450629,
+        "durationMs": 2071
+      },
+      {
+        "text": "de labores en el sistema gracias por su atención",
+        "startMs": 452700,
+        "durationMs": 3779
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com/software-agricola\nSoftware agrícola AgroWin.\nAW40-040-040-020B\n\n## Transcripción\n\nlos contratos de labores se definen para cada empresa del área de trabajo y\naplican solamente dentro de la empresa en que se definieron\npor lo tanto para crear un contrato del sistema partimos del explorador gráfico\nde la finca y debemos estar ubicados en la empresa a la cual le vamos a crear el\ncontrato a continuación basta con seleccionar la\npestaña costos luego el botón catálogos\ny seleccionamos el catálogo de tipos de contratación de mano de obra\nen este ejercicio vamos a crear tres contratos uno genérico para pagos por\njornal de 25 mil pesos día otro por unidades para siembra de granadilla por\n300 pesos la unidad y el tercero para pagos a destajo\nempezaremos creando el contrato pago a jornal de 25 mil pesos día código 10 y\nunidad jornal empezamos ejecutando el clic derecho\ncrear sobre cualquier registro del catálogo\nel sistema nos presentó un asistente con la siguiente información código del tipo\nde contrato anotamos el código 10 y luego el botón\nen la siguiente ventana del asistente nos pregunta la siguiente información\nen la pestaña general nombre corto form\nform tipo de cálculo\npago por cantidad de mano de obra o sea jornal\njornal unidad de la mano de obra\nseleccionamos jornal en caso de que no existe lo digital los siguientes campos\nson opcionales y los dejamos tal como están\nen la pestaña comportamiento debe estar se ha quedado el campo afecta\nestadísticas de rendimientos y producción esto significa que los datos\nde las labores que se pagan con este contrato entrarán a formar parte del\nbanco de datos de estadísticas del sistema\nsistema los otros tres campos deben quedar sin\nchequear en la pestaña precios para los días de\nla semana tenemos dos opciones excluyentes entre\nsí para chequear tarifas diarias por jornal en este caso\nla planilla de labores tomará como valor del jornal el que la notemos\npara cada día de la semana en los campus de lunes a domingo\ny el otro tarifas definidas en la labor si queremos este campo cuando hacemos\neste contrato en la planilla de labores la planilla tomará como costo de la\nlabor el valor o el valor que hayamos definido como costo de mano de obra en\nla creación de la labor en este ejemplo si queremos el campo de\ntarifas diarias por jornal y pondremos un valor de jornal de 25 mil\nla pestaña de configuración avanzada sirve para amarrar el contrato a una\nlabor específica de alguna actividad no lo tendremos en cuenta en este contrato\nfinalmente seleccionamos el botón aceptar\ny podemos constatar la creación del nuevo contrato en el maestro de tipos de\ncontinuamos con el contrato siembra de granadilla de 300 pesos unidad código 20\nnuevamente empezamos ejecutando el clic derecho crear sobre cualquier registro\ncomo código ponemos el número 20 aceptar\nen nombre del contacto siembra de granadilla\nen la pestaña general el nombre corto\nsiembra granadilla tipo de cálculo pago por cantidad de lado realizada\nunidad es un dato estadístico en este caso no es para efectos de pago ponemos\njornal los siguientes campos los dejamos tal como están\nen la pestaña comportamiento de estar chequeado afecta estadística de\nrendimientos y producción en la pestaña precios para cada día de\nla semana dejamos chequeado tarifas diarias por\nunidad de labor y pondremos un valor por unidad de\ngranadilla sembrada de 300 pesos para cada día de la semana\nen la pestaña de configuración avanzada podemos ligar este contrato a una\nactividad específica en este caso granadilla\ngranadilla y a una labor de la granadilla en este\nesto significa que este contrato solamente podrá ser utilizado por la\nlabor 130 siembra de granadilla de la actividad granadilla\nfinalmente chequeamos el botón aceptar y podemos constatar la creación del nuevo\ncontrato en el maestro de tipos de contratación\npor último vamos a crear el contrato a destajo código 30 y unidad jornal\nnuevamente clic derecho sobre cualquier registro crear código del contrato 30\nnombre del contrato\ndestajo\nen la pestaña general nombre corto destaca\ndestaca tipo de cálculo\ncontratista se establece el pago unidad de mano de obra otro dato\nestadístico que podemos dejar como un jornal\njornal dejamos en blanco los campos siguientes\nen la pestaña comportamiento afecta estadística de rendimientos y producción\nobsérvese que la pestaña de precios para los días de la semana en este caso no\nexiste la pestaña configuración avanzada la\ndejamos tal como está y finalmente seleccionamos\nseleccionamos el botón aceptar\ny podemos constatar nuevamente la creación del nuevo contrato en el\nestos tres contratos los utilizaremos en el vídeo de la planilla de labores en el\nsistema esto es todo sobre creación de contratos\nde labores en el sistema gracias por su atención"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 194.865,
+    "asr": 44100,
+    "filesizeApprox": 11120141,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/VUmZpSJWJFU.md",
+    "json": "videos/2012/VUmZpSJWJFU.json",
+    "infoJson": "videos/2012/VUmZpSJWJFU.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

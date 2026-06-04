@@ -1,0 +1,732 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:31:10.525Z",
+  "videoId": "rI2pmhjSeYw",
+  "videoUrl": "https://www.youtube.com/watch?v=rI2pmhjSeYw",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "rI2pmhjSeYw",
+    "title": "Sistema de contabilidad ContaPyme - Asignación en bloque de listas de precios y método de cálculo",
+    "fulltitle": "Sistema de contabilidad ContaPyme - Asignación en bloque de listas de precios y método de cálculo",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo asignar un método de cálculo a una lista de precios en los elementos de inventario.\nCP40-140-015-040B-010M",
+    "duration": 388,
+    "duration_string": "6:28",
+    "upload_date": "20120420",
+    "timestamp": 1334964698,
+    "view_count": 898,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/rI2pmhjSeYw/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZigpMA8=&rs=AOn4CLDAMYEXFpI73IEYaGU_H7-D7W_hRQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARhyIGYoKTAP&rs=AOn4CLA5J6krg6ao3rwC8kHcxftCj_K1aw",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZigpMA8=&rs=AOn4CLAz_R4T3SgY0Asjncz-dbDO15xmew",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgZigpMA8=&rs=AOn4CLAVi_pf4_K9-frTs41Nm8r0t-dPHA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgZigpMA8=&rs=AOn4CLBPbDaEm7oL_X3snwQVIeMpWgsFoA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIGYoKTAP&rs=AOn4CLDCn-iHabfL6ndyi4oCl1YE76U6nQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIGYoKTAP&rs=AOn4CLApJ4LR1ca3mHZ3emmd3dOzOy2Dtw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZigpMA8=&rs=AOn4CLDZ6_QvwI8auLSGa7iPcJtWPbnF9Q",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgZigpMA8=&rs=AOn4CLDAMYEXFpI73IEYaGU_H7-D7W_hRQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rI2pmhjSeYw/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rI2pmhjSeYw/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=rI2pmhjSeYw",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.25773195876288657,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2036082474226804,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2036082474226804,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.2036082474226804,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 210.393,
+        "asr": 44100,
+        "filesize_approx": 10212134,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Sistema de contabilidad ContaPyme - Asignación en bloque de listas de precios y método de cálculo",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/rI2pmhjSeYw/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/rI2pmhjSeYw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema de contabilidad ContaPyme - Asignación en bloque de listas de precios y método de cálculo\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 60,
+    "transcriptChars": 4340,
+    "segments": [
+      {
+        "text": "asignación en bloque de listas de precios y método de",
+        "startMs": 840,
+        "durationMs": 4469
+      },
+      {
+        "text": "cálculo en el sistema Cuando necesitamos que varios productos en una lista de",
+        "startMs": 5309,
+        "durationMs": 5521
+      },
+      {
+        "text": "precios tengan un mismo método de cálculo podemos ingresar elemento por",
+        "startMs": 10830,
+        "durationMs": 5760
+      },
+      {
+        "text": "elemento a configurarlo lo cual puede ser un trabajo largo pero el sistema nos",
+        "startMs": 16590,
+        "durationMs": 6040
+      },
+      {
+        "text": "proporciona la opción de asignar un método de cálculo a una lista de precios",
+        "startMs": 22630,
+        "durationMs": 5680
+      },
+      {
+        "text": "en los elementos de inventario solo con dar clic en dicha opción Para realizar",
+        "startMs": 28310,
+        "durationMs": 5960
+      },
+      {
+        "text": "la asignación de un método de cálculo a una lista de precios debemos estar",
+        "startMs": 34270,
+        "durationMs": 5360
+      },
+      {
+        "text": "ubicados en el catálogo de elementos de inventario En este caso vamos a asignar",
+        "startMs": 39630,
+        "durationMs": 6599
+      },
+      {
+        "text": "a la lista de precios dos al por mayor el método de cálculo basado en costo",
+        "startMs": 46229,
+        "durationMs": 7561
+      },
+      {
+        "text": "ponderado Pero antes vamos a visualizar que en este caso en el teclado",
+        "startMs": 53790,
+        "durationMs": 9319
+      },
+      {
+        "text": "genérico en la lista de precios en la lista de precios al por",
+        "startMs": 63119,
+        "durationMs": 6990
+      },
+      {
+        "text": "cálculo Y si visualizamos la mini torre",
+        "startMs": 74830,
+        "durationMs": 6959
+      },
+      {
+        "text": "genérica en las listas de precios en la lista de precios dos al",
+        "startMs": 81799,
+        "durationMs": 6310
+      },
+      {
+        "text": "seleccionamos los la opción de asignar que se encuentra en la cinta de",
+        "startMs": 98510,
+        "durationMs": 7559
+      },
+      {
+        "text": "opciones y nos abre el asistente de asignar un método de cálculo a elementos",
+        "startMs": 106069,
+        "durationMs": 7561
+      },
+      {
+        "text": "de inventario En este asistente podemos",
+        "startMs": 113630,
+        "durationMs": 3159
+      },
+      {
+        "text": "encontrar el campo de lista de precios en donde seleccionamos la lista de",
+        "startMs": 116789,
+        "durationMs": 6161
+      },
+      {
+        "text": "precios a la cual le vamos a asignar un método de cálculo En caso en que la",
+        "startMs": 122950,
+        "durationMs": 6040
+      },
+      {
+        "text": "lista de precios para un elemento de inventario ya tenga configurado un",
+        "startMs": 93109,
+        "durationMs": 41081
+      },
+      {
+        "text": "método de cálculo este será actualizado Y en caso de que la lista de precios",
+        "startMs": 70109,
+        "durationMs": 69561
+      },
+      {
+        "text": "para un elemento de inventario no tenga configurado un método de cálculo el",
+        "startMs": 139670,
+        "durationMs": 5480
+      },
+      {
+        "text": "asistente Esto depende de la opción que seleccionemos en esta parte",
+        "startMs": 150470,
+        "durationMs": 7759
+      },
+      {
+        "text": "En este caso vamos a seleccionar la lista de precios dos lista de precios al",
+        "startMs": 145150,
+        "durationMs": 18680
+      },
+      {
+        "text": "por mayor Tenemos el campo de método de cálculo en donde seleccionamos el método",
+        "startMs": 163830,
+        "durationMs": 8280
+      },
+      {
+        "text": "de cálculo asignar a la lista de precios En este caso vamos a",
+        "startMs": 172110,
+        "durationMs": 5600
+      },
+      {
+        "text": "seleccionar el basado en el costo promedio",
+        "startMs": 177710,
+        "durationMs": 6000
+      },
+      {
+        "text": "ponderado Si queremos indicar una fecha de vigencia activamos asignar fecha de",
+        "startMs": 183720,
+        "durationMs": 7030
+      },
+      {
+        "text": "vigencia e indicamos la fecha hasta la cual estará vigente el precio de venta",
+        "startMs": 190750,
+        "durationMs": 5880
+      },
+      {
+        "text": "Debemos tener en cuenta que este campo es solo",
+        "startMs": 196630,
+        "durationMs": 3720
+      },
+      {
+        "text": "informativo En este caso el 10 de noviembre del",
+        "startMs": 200350,
+        "durationMs": 7040
+      },
+      {
+        "text": "2012 nos pregunta a qué conjunto de elementos de inventario le vamos a",
+        "startMs": 207390,
+        "durationMs": 5360
+      },
+      {
+        "text": "asignar el método de cálculo a la lista de precios en donde tenemos tres",
+        "startMs": 212750,
+        "durationMs": 6199
+      },
+      {
+        "text": "opciones Si queremos asignar el método de cálculo a los elementos de inventario",
+        "startMs": 218949,
+        "durationMs": 5681
+      },
+      {
+        "text": "que no tengan asignado ningún precio activamos esta primera opción O si",
+        "startMs": 224630,
+        "durationMs": 5760
+      },
+      {
+        "text": "queremos asignarlo a los elementos de inventario que no tengan precio o que",
+        "startMs": 230390,
+        "durationMs": 4759
+      },
+      {
+        "text": "tengan configurado el método de cálculo asignado por el usuario activamos esta",
+        "startMs": 235149,
+        "durationMs": 5841
+      },
+      {
+        "text": "segunda opción o si queremos asignarlo para todos los elementos de inventario",
+        "startMs": 240990,
+        "durationMs": 5640
+      },
+      {
+        "text": "activamos esta tercera opción En este caso vamos a activar la primera",
+        "startMs": 246630,
+        "durationMs": 5720
+      },
+      {
+        "text": "opción para que solo nos asigne el método de cálculo a los elementos de",
+        "startMs": 252350,
+        "durationMs": 5520
+      },
+      {
+        "text": "inventario que no tienen ningún precio Y tenemos la opción de realizar",
+        "startMs": 257870,
+        "durationMs": 5920
+      },
+      {
+        "text": "filtros personalizados para asignar el método de cálculo solo a los elementos",
+        "startMs": 263790,
+        "durationMs": 6040
+      },
+      {
+        "text": "de inventario que necesitemos Damos",
+        "startMs": 269830,
+        "durationMs": 5440
+      },
+      {
+        "text": "Damos asignar y cuando ha terminado el proceso",
+        "startMs": 275270,
+        "durationMs": 3160
+      },
+      {
+        "text": "de asignación el sistema nos muestra en pantalla un mensaje indicándonos que",
+        "startMs": 278430,
+        "durationMs": 7120
+      },
+      {
+        "text": "realizó satisfactoriamente la actualización y",
+        "startMs": 285550,
+        "durationMs": 2800
+      },
+      {
+        "text": "nos indica cuántos registros fueron evaluados En este caso fueron 28 Damos",
+        "startMs": 288350,
+        "durationMs": 8760
+      },
+      {
+        "text": "aceptar damos cerrar Si ingresamos nuevamente al teclado",
+        "startMs": 297110,
+        "durationMs": 8960
+      },
+      {
+        "text": "genérico podemos visualizar que en la lista de precios al por mayor ya tiene",
+        "startMs": 306080,
+        "durationMs": 5910
+      },
+      {
+        "text": "configurado un método de cálculo el basado en costo promedio ponderado",
+        "startMs": 311990,
+        "durationMs": 6680
+      },
+      {
+        "text": "Debemos tener en cuenta que para asignarle un precio de venta a esta",
+        "startMs": 318670,
+        "durationMs": 5160
+      },
+      {
+        "text": "lista de precios debemos utilizar la opción de actualizar ya que cuando en el",
+        "startMs": 323830,
+        "durationMs": 5680
+      },
+      {
+        "text": "método de cálculo tenemos configurado en la actualización del precio la opción de",
+        "startMs": 329510,
+        "durationMs": 5280
+      },
+      {
+        "text": "automática en bloque debemos utilizar esta opción Para mayor información",
+        "startMs": 334790,
+        "durationMs": 5480
+      },
+      {
+        "text": "acerca de la opción de actualizar por favor remitirse al video de actualizar",
+        "startMs": 340270,
+        "durationMs": 5600
+      },
+      {
+        "text": "lista de precios Damos aceptar",
+        "startMs": 345870,
+        "durationMs": 9240
+      },
+      {
+        "text": "nuevamente a la mini torre genérica podemos visualizar que en la",
+        "startMs": 355120,
+        "durationMs": 10110
+      },
+      {
+        "text": "precios también le asignamos el método de cálculo basado en costo promedio",
+        "startMs": 365240,
+        "durationMs": 7630
+      },
+      {
+        "text": "ponderado De esta manera podemos asignar un método de cálculo a la lista de",
+        "startMs": 372880,
+        "durationMs": 5630
+      },
+      {
+        "text": "precios de los elementos de inventario Esto es todo sobre asignación",
+        "startMs": 378510,
+        "durationMs": 5600
+      },
+      {
+        "text": "en bloque de listas de precios y método de cálculo",
+        "startMs": 384110,
+        "durationMs": 5170
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo asignar un método de cálculo a una lista de precios en los elementos de inventario.\nCP40-140-015-040B-010M\n\n## Transcripción\n\nasignación en bloque de listas de precios y método de\ncálculo en el sistema Cuando necesitamos que varios productos en una lista de\nprecios tengan un mismo método de cálculo podemos ingresar elemento por\nelemento a configurarlo lo cual puede ser un trabajo largo pero el sistema nos\nproporciona la opción de asignar un método de cálculo a una lista de precios\nen los elementos de inventario solo con dar clic en dicha opción Para realizar\nla asignación de un método de cálculo a una lista de precios debemos estar\nubicados en el catálogo de elementos de inventario En este caso vamos a asignar\na la lista de precios dos al por mayor el método de cálculo basado en costo\nponderado Pero antes vamos a visualizar que en este caso en el teclado\ngenérico en la lista de precios en la lista de precios al por\ncálculo Y si visualizamos la mini torre\ngenérica en las listas de precios en la lista de precios dos al\nseleccionamos los la opción de asignar que se encuentra en la cinta de\nopciones y nos abre el asistente de asignar un método de cálculo a elementos\nde inventario En este asistente podemos\nencontrar el campo de lista de precios en donde seleccionamos la lista de\nprecios a la cual le vamos a asignar un método de cálculo En caso en que la\nlista de precios para un elemento de inventario ya tenga configurado un\nmétodo de cálculo este será actualizado Y en caso de que la lista de precios\npara un elemento de inventario no tenga configurado un método de cálculo el\nasistente Esto depende de la opción que seleccionemos en esta parte\nEn este caso vamos a seleccionar la lista de precios dos lista de precios al\npor mayor Tenemos el campo de método de cálculo en donde seleccionamos el método\nde cálculo asignar a la lista de precios En este caso vamos a\nseleccionar el basado en el costo promedio\nponderado Si queremos indicar una fecha de vigencia activamos asignar fecha de\nvigencia e indicamos la fecha hasta la cual estará vigente el precio de venta\nDebemos tener en cuenta que este campo es solo\ninformativo En este caso el 10 de noviembre del\n2012 nos pregunta a qué conjunto de elementos de inventario le vamos a\nasignar el método de cálculo a la lista de precios en donde tenemos tres\nopciones Si queremos asignar el método de cálculo a los elementos de inventario\nque no tengan asignado ningún precio activamos esta primera opción O si\nqueremos asignarlo a los elementos de inventario que no tengan precio o que\ntengan configurado el método de cálculo asignado por el usuario activamos esta\nsegunda opción o si queremos asignarlo para todos los elementos de inventario\nactivamos esta tercera opción En este caso vamos a activar la primera\nopción para que solo nos asigne el método de cálculo a los elementos de\ninventario que no tienen ningún precio Y tenemos la opción de realizar\nfiltros personalizados para asignar el método de cálculo solo a los elementos\nde inventario que necesitemos Damos\nDamos asignar y cuando ha terminado el proceso\nde asignación el sistema nos muestra en pantalla un mensaje indicándonos que\nrealizó satisfactoriamente la actualización y\nnos indica cuántos registros fueron evaluados En este caso fueron 28 Damos\naceptar damos cerrar Si ingresamos nuevamente al teclado\ngenérico podemos visualizar que en la lista de precios al por mayor ya tiene\nconfigurado un método de cálculo el basado en costo promedio ponderado\nDebemos tener en cuenta que para asignarle un precio de venta a esta\nlista de precios debemos utilizar la opción de actualizar ya que cuando en el\nmétodo de cálculo tenemos configurado en la actualización del precio la opción de\nautomática en bloque debemos utilizar esta opción Para mayor información\nacerca de la opción de actualizar por favor remitirse al video de actualizar\nlista de precios Damos aceptar\nnuevamente a la mini torre genérica podemos visualizar que en la\nprecios también le asignamos el método de cálculo basado en costo promedio\nponderado De esta manera podemos asignar un método de cálculo a la lista de\nprecios de los elementos de inventario Esto es todo sobre asignación\nen bloque de listas de precios y método de cálculo"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 210.393,
+    "asr": 44100,
+    "filesizeApprox": 10212134,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/rI2pmhjSeYw.md",
+    "json": "videos/2012/rI2pmhjSeYw.json",
+    "infoJson": "videos/2012/rI2pmhjSeYw.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

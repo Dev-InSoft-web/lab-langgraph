@@ -1,0 +1,904 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:38:25.864Z",
+  "videoId": "bLWsLS9w92Q",
+  "videoUrl": "https://www.youtube.com/watch?v=bLWsLS9w92Q",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "bLWsLS9w92Q",
+    "title": "Software contable ContaPyme - Abono a cuenta por pagar por movimiento contable",
+    "fulltitle": "Software contable ContaPyme - Abono a cuenta por pagar por movimiento contable",
+    "description": "http://www.contapyme.com\nEste video del software contable ContaPyme le indica al usuario como registrar en su contabilidad por una operacion de movimiento contable, un abono a una cuenta por pagar de un tercero. Igualmente se indica como visualizar el movimiento generado a través del informe Detalle de cuentas por pagar.\nCP40-080-020-040B",
+    "duration": 569,
+    "duration_string": "9:29",
+    "upload_date": "20111118",
+    "timestamp": 1321624605,
+    "view_count": 3600,
+    "like_count": 7,
+    "comment_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Cartera y proveedores",
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/bLWsLS9w92Q/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDAgUSh_MA8=&rs=AOn4CLBuqy-J_YyT_RJzCPOcTR9DLrYhAw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgwIFEofzAP&rs=AOn4CLDixZZcSAqM5FDZuVRdFp6yj8LAKA",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDAgUSh_MA8=&rs=AOn4CLAzFcOQ_bH71WKv1uH10OUsAJM4bw",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDAgUSh_MA8=&rs=AOn4CLBJXIeu_QZySDTWXyXlUy82XG0Gkg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDAgUSh_MA8=&rs=AOn4CLDNdcM8mlVOyL6EHFMlChlfOKo5Rw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgwIFEofzAP&rs=AOn4CLAY8RvhlEv9CCm0N-DXbFjqh7G1kA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgwIFEofzAP&rs=AOn4CLD0DmetbD7vCBjjCLrmImRl72hLFA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDAgUSh_MA8=&rs=AOn4CLDgMugUeimajeR5DVxDFUEDtKJdeA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDAgUSh_MA8=&rs=AOn4CLBuqy-J_YyT_RJzCPOcTR9DLrYhAw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bLWsLS9w92Q/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bLWsLS9w92Q/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=bLWsLS9w92Q",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.1757469244288225,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20210896309314588,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20210896309314588,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 159.824,
+        "asr": 44100,
+        "filesize_approx": 11374074,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "UgwgCluO3TlByjyGCsV4AaABAg",
+        "parent": "root",
+        "text": "COMO  INGRESO UN MAYOR VALOR  PAGADO A PROVEEDOR PARA QUE ME QUEDE COMO ANTICIPO",
+        "like_count": 0,
+        "author_id": "UCRzjcAVm9-uH2r1x-1u1wJA",
+        "author": "@biocolquimica2687",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9z3CECC3SH0A2MfvMMPL5NU2PfgKXRrThNG8xW4uUOmQ=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@biocolquimica2687",
+        "is_favorited": false,
+        "_time_text": "6 years ago",
+        "timestamp": 1591228800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Abono a cuenta por pagar por movimiento contable",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/bLWsLS9w92Q/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/bLWsLS9w92Q?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Abono a cuenta por pagar por movimiento contable\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 90,
+    "transcriptChars": 6153,
+    "segments": [
+      {
+        "text": "abono a cuenta por pagar por movimiento contable como vimos en el anterior",
+        "startMs": 359,
+        "durationMs": 6231
+      },
+      {
+        "text": "ejemplo se creó una cuenta por pagar mediante una operación de movimiento",
+        "startMs": 6590,
+        "durationMs": 4520
+      },
+      {
+        "text": "contable en donde se registró un pago de asesoría financiera al tercero Pedro",
+        "startMs": 11110,
+        "durationMs": 6360
+      },
+      {
+        "text": "Osorio para el mes de septiembre en este video registraremos",
+        "startMs": 17470,
+        "durationMs": 5520
+      },
+      {
+        "text": "el abono que le realizará Nuestra Empresa a la deuda contraída con el",
+        "startMs": 22990,
+        "durationMs": 5359
+      },
+      {
+        "text": "señor Pedro Osorio recordemos que un abono de una cuenta",
+        "startMs": 28349,
+        "durationMs": 4961
+      },
+      {
+        "text": "por pagar es el pago parcial o la cancelación total de una deuda que",
+        "startMs": 33310,
+        "durationMs": 5520
+      },
+      {
+        "text": "Nuestra Empresa ha adquirido con otro tercero antes de realizar el registro de",
+        "startMs": 38830,
+        "durationMs": 6559
+      },
+      {
+        "text": "esta operación en el sistema consultaremos el informe detalle de",
+        "startMs": 45389,
+        "durationMs": 4680
+      },
+      {
+        "text": "cuentas por pagar para verificar el saldo a pagar al Señor Pedro Osorio para",
+        "startMs": 50069,
+        "durationMs": 6241
+      },
+      {
+        "text": "generar el informe ingresaremos por la pestaña contabilidad y en el menú de",
+        "startMs": 56310,
+        "durationMs": 5960
+      },
+      {
+        "text": "informe nos ubicaremos en el botón de proveedores y seleccionaremos el informe",
+        "startMs": 62270,
+        "durationMs": 5960
+      },
+      {
+        "text": "detalle de cuentas por pagar en el asistente que el sistema",
+        "startMs": 68230,
+        "durationMs": 6280
+      },
+      {
+        "text": "automáticamente visualiza indicaremos que deseamos generar el informe al 10 de",
+        "startMs": 74510,
+        "durationMs": 9200
+      },
+      {
+        "text": "2011 fecha en donde registraremos el abono y en el campo tercero de desde le",
+        "startMs": 83720,
+        "durationMs": 6990
+      },
+      {
+        "text": "indicaremos al sistema mediante el botón de búsqueda que solo deseamos visualizar",
+        "startMs": 90710,
+        "durationMs": 6079
+      },
+      {
+        "text": "el movimiento de las cuentas por pagar del tercero Pedro",
+        "startMs": 96789,
+        "durationMs": 6600
+      },
+      {
+        "text": "Osorio seleccionar para generar el informe",
+        "startMs": 103399,
+        "durationMs": 4831
+      },
+      {
+        "text": "haremos un clic en el botón ver reporte como podemos observar en el",
+        "startMs": 108230,
+        "durationMs": 7320
+      },
+      {
+        "text": "comprobante de causación de egreso número cinco se posee una cuenta por",
+        "startMs": 115550,
+        "durationMs": 4919
+      },
+      {
+        "text": "pagar de 675,000 pes en donde la fecha de",
+        "startMs": 120469,
+        "durationMs": 5280
+      },
+      {
+        "text": "creación del documento es el 28 de septiembre del 2011 y una fecha estimada",
+        "startMs": 125749,
+        "durationMs": 6281
+      },
+      {
+        "text": "de pago el 28 de octubre del mismo año para el señor Pedro",
+        "startMs": 132030,
+        "durationMs": 5880
+      },
+      {
+        "text": "Osorio hacemos un clic en el botón cerrar para generar en el sistema el",
+        "startMs": 137910,
+        "durationMs": 7360
+      },
+      {
+        "text": "abono a una cuenta por pagar debemos ubicarnos en el manejador de operaciones",
+        "startMs": 145270,
+        "durationMs": 5720
+      },
+      {
+        "text": "e Ingresar a través del botón más operaciones contabilidad y seleccionar",
+        "startMs": 150990,
+        "durationMs": 6239
+      },
+      {
+        "text": "la operación movimiento contable como podemos visualizar el",
+        "startMs": 157229,
+        "durationMs": 5441
+      },
+      {
+        "text": "sistema ha abierto la operación para registrar la",
+        "startMs": 162670,
+        "durationMs": 4199
+      },
+      {
+        "text": "transacción para crear un abono a una cuenta por pagar en este ejemplo lo",
+        "startMs": 166869,
+        "durationMs": 5440
+      },
+      {
+        "text": "soportaremos en un comprobante de egreso para ello en el campo tipo documento",
+        "startMs": 172309,
+        "durationMs": 6481
+      },
+      {
+        "text": "ingresaremos por el botón de búsqueda y seleccionaremos de la lista el documento",
+        "startMs": 178790,
+        "durationMs": 6280
+      },
+      {
+        "text": "requerido comprobante de egreso e inmediatamente el sistema nos",
+        "startMs": 185070,
+        "durationMs": 7719
+      },
+      {
+        "text": "indica que el comprobante a registrar es el número",
+        "startMs": 192789,
+        "durationMs": 5041
+      },
+      {
+        "text": "s en el detalle de la operación especificaremos una observación de lo",
+        "startMs": 197830,
+        "durationMs": 5440
+      },
+      {
+        "text": "que deseamos registrar en el documento es decir",
+        "startMs": 203270,
+        "durationMs": 5400
+      },
+      {
+        "text": "abono cuenta por pagar pago asesoría",
+        "startMs": 208670,
+        "durationMs": 9160
+      },
+      {
+        "text": "financiera este abono fue realizado por Nuestra Empresa el 10 de octubre del",
+        "startMs": 217840,
+        "durationMs": 5990
+      },
+      {
+        "text": "2011 por lo tanto modificaremos la fecha de soporte de la",
+        "startMs": 223830,
+        "durationMs": 6360
+      },
+      {
+        "text": "operación en el área de registro nos ubicaremos en la columna cuenta y",
+        "startMs": 230190,
+        "durationMs": 6800
+      },
+      {
+        "text": "mediante el botón de búsqueda una vez ubicados en la columna nombre",
+        "startMs": 236990,
+        "durationMs": 12159
+      },
+      {
+        "text": "nacionales es decir la cuenta 220501 hacemos un click en el botón",
+        "startMs": 249159,
+        "durationMs": 8790
+      },
+      {
+        "text": "seleccionar en el campo detalle especificaremos la observación de la",
+        "startMs": 257949,
+        "durationMs": 5680
+      },
+      {
+        "text": "cuenta Así que registraremos abono asesoría",
+        "startMs": 263629,
+        "durationMs": 7400
+      },
+      {
+        "text": "financiera y en las columnas asiento indicaremos el valor del abono",
+        "startMs": 271029,
+        "durationMs": 6641
+      },
+      {
+        "text": "allí registraremos el movimiento según la naturaleza de la cuenta recordemos",
+        "startMs": 277670,
+        "durationMs": 5640
+      },
+      {
+        "text": "que las cuentas de pasivo es de naturaleza crédito Por tal motivo para",
+        "startMs": 283310,
+        "durationMs": 5719
+      },
+      {
+        "text": "disminuir el saldo de esta cuenta debemos realizar un débito por valor de",
+        "startMs": 289029,
+        "durationMs": 6801
+      },
+      {
+        "text": "420,000 pes valor correspondiente al abono",
+        "startMs": 295830,
+        "durationMs": 5720
+      },
+      {
+        "text": "abono realizado en la operación de movimiento",
+        "startMs": 301550,
+        "durationMs": 2800
+      },
+      {
+        "text": "contable según la cuenta que estemos utilizando debemos indicar el tercero",
+        "startMs": 304350,
+        "durationMs": 5279
+      },
+      {
+        "text": "con el cual se está efectuando la transacción por tal motivo en la columna",
+        "startMs": 309629,
+        "durationMs": 5400
+      },
+      {
+        "text": "tercero en transacción seleccionaremos el tercero requerido es decir el señor",
+        "startMs": 315029,
+        "durationMs": 9201
+      },
+      {
+        "text": "Pedro Osorio y el sistema",
+        "startMs": 324230,
+        "durationMs": 2760
+      },
+      {
+        "text": "automáticamente nos indica el mismo señor Pedro Osorio en la columna tercero",
+        "startMs": 326990,
+        "durationMs": 7520
+      },
+      {
+        "text": "en cartera recordemos que en la columna",
+        "startMs": 334510,
+        "durationMs": 3440
+      },
+      {
+        "text": "tercero en cartera debemos indicar el tercero que nos debe cuál tercero a",
+        "startMs": 337950,
+        "durationMs": 6000
+      },
+      {
+        "text": "quién le debemos un dinero para obtener más información sobre estas",
+        "startMs": 343950,
+        "durationMs": 5799
+      },
+      {
+        "text": "columnas se sugiere consultar el video tercero de transacción y tercero de",
+        "startMs": 349749,
+        "durationMs": 6521
+      },
+      {
+        "text": "cartera ubicado en el capítulo operación en la columna",
+        "startMs": 356270,
+        "durationMs": 6639
+      },
+      {
+        "text": "referencia debemos seleccionar por medio del botón de búsqueda el documento al",
+        "startMs": 362909,
+        "durationMs": 6801
+      },
+      {
+        "text": "cual le vamos a efectuar el abono es decir comprobante de causación de egreso",
+        "startMs": 369710,
+        "durationMs": 6039
+      },
+      {
+        "text": "número 5 que posee hasta la fecha un saldo de",
+        "startMs": 375749,
+        "durationMs": 4560
+      },
+      {
+        "text": "675000 pesos por último indicaremos que este pago la",
+        "startMs": 380309,
+        "durationMs": 7000
+      },
+      {
+        "text": "empresa lo efectuó mediante un cheque del banco da vivienda por el cual en la",
+        "startMs": 387309,
+        "durationMs": 5720
+      },
+      {
+        "text": "columna cuenta seleccionaremos el banco banco de",
+        "startMs": 393029,
+        "durationMs": 10121
+      },
+      {
+        "text": "vivienda seleccionar correspondiente a la cuenta",
+        "startMs": 403150,
+        "durationMs": 5280
+      },
+      {
+        "text": "111502 y llevaremos la diferencia reportada por el sistema de",
+        "startMs": 408430,
+        "durationMs": 5800
+      },
+      {
+        "text": "420.000 pes a la columna crédito empleando el botón de di",
+        "startMs": 414230,
+        "durationMs": 6079
+      },
+      {
+        "text": "o bien sea digitando el valor en la columna para indicar que dicho saldo ha",
+        "startMs": 420309,
+        "durationMs": 7681
+      },
+      {
+        "text": "salido del banco para imprimir el soporte físico de este comprobante",
+        "startMs": 427990,
+        "durationMs": 5960
+      },
+      {
+        "text": "hacemos un clic en el botón imprimir y mediante el botón de búsqueda",
+        "startMs": 433950,
+        "durationMs": 6880
+      },
+      {
+        "text": "podemos seleccionar los diferentes documentos de",
+        "startMs": 440830,
+        "durationMs": 3720
+      },
+      {
+        "text": "imprimirlo cancelar activaremos con un click el botón",
+        "startMs": 444550,
+        "durationMs": 28240
+      },
+      {
+        "text": "autoproclamo guardado y",
+        "startMs": 472800,
+        "durationMs": 3990
+      },
+      {
+        "text": "procesado generando así movimiento en nuestra",
+        "startMs": 476790,
+        "durationMs": 4720
+      },
+      {
+        "text": "nuestra contabilidad para revisar que",
+        "startMs": 481510,
+        "durationMs": 2320
+      },
+      {
+        "text": "efectivamente se ha realizado un abono a la cuenta por pagar del señor Pedro",
+        "startMs": 483830,
+        "durationMs": 5120
+      },
+      {
+        "text": "Osorio generaremos nuevamente el informe detalle de cuentas por",
+        "startMs": 488950,
+        "durationMs": 5519
+      },
+      {
+        "text": "pagar por lo tanto nos ubicaremos en la pestaña contabilidad y en el menú de",
+        "startMs": 494469,
+        "durationMs": 6400
+      },
+      {
+        "text": "informes seleccionaremos el botón proveedores para generar el informe",
+        "startMs": 500869,
+        "durationMs": 7361
+      },
+      {
+        "text": "detalle de vent por pagar especificaremos la fecha de",
+        "startMs": 508230,
+        "durationMs": 5120
+      },
+      {
+        "text": "referencia hasta el 10 de octubre fecha en donde registramos el",
+        "startMs": 513350,
+        "durationMs": 5239
+      },
+      {
+        "text": "abono en el campo tercero desde seleccionaremos el tercero Pedro Osorio",
+        "startMs": 518589,
+        "durationMs": 7360
+      },
+      {
+        "text": "tercero al cual deseamos revisar el movimiento de",
+        "startMs": 525949,
+        "durationMs": 5560
+      },
+      {
+        "text": "proveedores para generar el informe haremos un clic en el botón ver",
+        "startMs": 531509,
+        "durationMs": 6681
+      },
+      {
+        "text": "reporte como podemos apreciar el saldo de la cuenta por pagar del señor Pedro",
+        "startMs": 538190,
+        "durationMs": 6600
+      },
+      {
+        "text": "Osorio ya no es de 675000 pesos sino de",
+        "startMs": 544790,
+        "durationMs": 6440
+      },
+      {
+        "text": "255000 pes confirmando que efectivamente se ha realizado un abono a esta",
+        "startMs": 551230,
+        "durationMs": 8279
+      },
+      {
+        "text": "cuenta esto es todo sobre el registro de un abono a una cuenta por pagar mediante",
+        "startMs": 559509,
+        "durationMs": 6440
+      },
+      {
+        "text": "la operación de movimiento contable",
+        "startMs": 565949,
+        "durationMs": 5251
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video del software contable ContaPyme le indica al usuario como registrar en su contabilidad por una operacion de movimiento contable, un abono a una cuenta por pagar de un tercero. Igualmente se indica como visualizar el movimiento generado a través del informe Detalle de cuentas por pagar.\nCP40-080-020-040B\n\n## Transcripción\n\nabono a cuenta por pagar por movimiento contable como vimos en el anterior\nejemplo se creó una cuenta por pagar mediante una operación de movimiento\ncontable en donde se registró un pago de asesoría financiera al tercero Pedro\nOsorio para el mes de septiembre en este video registraremos\nel abono que le realizará Nuestra Empresa a la deuda contraída con el\nseñor Pedro Osorio recordemos que un abono de una cuenta\npor pagar es el pago parcial o la cancelación total de una deuda que\nNuestra Empresa ha adquirido con otro tercero antes de realizar el registro de\nesta operación en el sistema consultaremos el informe detalle de\ncuentas por pagar para verificar el saldo a pagar al Señor Pedro Osorio para\ngenerar el informe ingresaremos por la pestaña contabilidad y en el menú de\ninforme nos ubicaremos en el botón de proveedores y seleccionaremos el informe\ndetalle de cuentas por pagar en el asistente que el sistema\nautomáticamente visualiza indicaremos que deseamos generar el informe al 10 de\n2011 fecha en donde registraremos el abono y en el campo tercero de desde le\nindicaremos al sistema mediante el botón de búsqueda que solo deseamos visualizar\nel movimiento de las cuentas por pagar del tercero Pedro\nOsorio seleccionar para generar el informe\nharemos un clic en el botón ver reporte como podemos observar en el\ncomprobante de causación de egreso número cinco se posee una cuenta por\npagar de 675,000 pes en donde la fecha de\ncreación del documento es el 28 de septiembre del 2011 y una fecha estimada\nde pago el 28 de octubre del mismo año para el señor Pedro\nOsorio hacemos un clic en el botón cerrar para generar en el sistema el\nabono a una cuenta por pagar debemos ubicarnos en el manejador de operaciones\ne Ingresar a través del botón más operaciones contabilidad y seleccionar\nla operación movimiento contable como podemos visualizar el\nsistema ha abierto la operación para registrar la\ntransacción para crear un abono a una cuenta por pagar en este ejemplo lo\nsoportaremos en un comprobante de egreso para ello en el campo tipo documento\ningresaremos por el botón de búsqueda y seleccionaremos de la lista el documento\nrequerido comprobante de egreso e inmediatamente el sistema nos\nindica que el comprobante a registrar es el número\ns en el detalle de la operación especificaremos una observación de lo\nque deseamos registrar en el documento es decir\nabono cuenta por pagar pago asesoría\nfinanciera este abono fue realizado por Nuestra Empresa el 10 de octubre del\n2011 por lo tanto modificaremos la fecha de soporte de la\noperación en el área de registro nos ubicaremos en la columna cuenta y\nmediante el botón de búsqueda una vez ubicados en la columna nombre\nnacionales es decir la cuenta 220501 hacemos un click en el botón\nseleccionar en el campo detalle especificaremos la observación de la\ncuenta Así que registraremos abono asesoría\nfinanciera y en las columnas asiento indicaremos el valor del abono\nallí registraremos el movimiento según la naturaleza de la cuenta recordemos\nque las cuentas de pasivo es de naturaleza crédito Por tal motivo para\ndisminuir el saldo de esta cuenta debemos realizar un débito por valor de\n420,000 pes valor correspondiente al abono\nabono realizado en la operación de movimiento\ncontable según la cuenta que estemos utilizando debemos indicar el tercero\ncon el cual se está efectuando la transacción por tal motivo en la columna\ntercero en transacción seleccionaremos el tercero requerido es decir el señor\nPedro Osorio y el sistema\nautomáticamente nos indica el mismo señor Pedro Osorio en la columna tercero\nen cartera recordemos que en la columna\ntercero en cartera debemos indicar el tercero que nos debe cuál tercero a\nquién le debemos un dinero para obtener más información sobre estas\ncolumnas se sugiere consultar el video tercero de transacción y tercero de\ncartera ubicado en el capítulo operación en la columna\nreferencia debemos seleccionar por medio del botón de búsqueda el documento al\ncual le vamos a efectuar el abono es decir comprobante de causación de egreso\nnúmero 5 que posee hasta la fecha un saldo de\n675000 pesos por último indicaremos que este pago la\nempresa lo efectuó mediante un cheque del banco da vivienda por el cual en la\ncolumna cuenta seleccionaremos el banco banco de\nvivienda seleccionar correspondiente a la cuenta\n111502 y llevaremos la diferencia reportada por el sistema de\n420.000 pes a la columna crédito empleando el botón de di\no bien sea digitando el valor en la columna para indicar que dicho saldo ha\nsalido del banco para imprimir el soporte físico de este comprobante\nhacemos un clic en el botón imprimir y mediante el botón de búsqueda\npodemos seleccionar los diferentes documentos de\nimprimirlo cancelar activaremos con un click el botón\nautoproclamo guardado y\nprocesado generando así movimiento en nuestra\nnuestra contabilidad para revisar que\nefectivamente se ha realizado un abono a la cuenta por pagar del señor Pedro\nOsorio generaremos nuevamente el informe detalle de cuentas por\npagar por lo tanto nos ubicaremos en la pestaña contabilidad y en el menú de\ninformes seleccionaremos el botón proveedores para generar el informe\ndetalle de vent por pagar especificaremos la fecha de\nreferencia hasta el 10 de octubre fecha en donde registramos el\nabono en el campo tercero desde seleccionaremos el tercero Pedro Osorio\ntercero al cual deseamos revisar el movimiento de\nproveedores para generar el informe haremos un clic en el botón ver\nreporte como podemos apreciar el saldo de la cuenta por pagar del señor Pedro\nOsorio ya no es de 675000 pesos sino de\n255000 pes confirmando que efectivamente se ha realizado un abono a esta\ncuenta esto es todo sobre el registro de un abono a una cuenta por pagar mediante\nla operación de movimiento contable"
+  },
+  "comments": {
+    "fetched": 1,
+    "reportedCount": 1,
+    "items": [
+      {
+        "id": "UgwgCluO3TlByjyGCsV4AaABAg",
+        "parent": "root",
+        "text": "COMO  INGRESO UN MAYOR VALOR  PAGADO A PROVEEDOR PARA QUE ME QUEDE COMO ANTICIPO",
+        "like_count": 0,
+        "author_id": "UCRzjcAVm9-uH2r1x-1u1wJA",
+        "author": "@biocolquimica2687",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9z3CECC3SH0A2MfvMMPL5NU2PfgKXRrThNG8xW4uUOmQ=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@biocolquimica2687",
+        "is_favorited": false,
+        "_time_text": "6 years ago",
+        "timestamp": 1591228800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 159.824,
+    "asr": 44100,
+    "filesizeApprox": 11374074,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/bLWsLS9w92Q.md",
+    "json": "videos/2011/bLWsLS9w92Q.json",
+    "infoJson": "videos/2011/bLWsLS9w92Q.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

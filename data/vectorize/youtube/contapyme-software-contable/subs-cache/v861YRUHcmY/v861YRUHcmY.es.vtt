@@ -1,0 +1,856 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.919 --> 00:00:04.309 align:start position:0%
+ 
+¿Cómo<00:00:01.160><c> fijar</c><00:00:01.480><c> la</c><00:00:01.640><c> IP</c><00:00:01.959><c> en</c><00:00:02.159><c> el</c><00:00:02.320><c> equipo</c><00:00:02.639><c> local?</c>
+
+00:00:04.309 --> 00:00:04.319 align:start position:0%
+¿Cómo fijar la IP en el equipo local?
+ 
+
+00:00:04.319 --> 00:00:06.550 align:start position:0%
+¿Cómo fijar la IP en el equipo local?
+Para<00:00:04.520><c> entender</c><00:00:04.880><c> el</c><00:00:05.040><c> por</c><00:00:05.200><c> qué</c><00:00:05.359><c> la</c><00:00:05.560><c> IP</c><00:00:06.080><c> debe</c><00:00:06.399><c> ser</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+Para entender el por qué la IP debe ser
+ 
+
+00:00:06.560 --> 00:00:08.509 align:start position:0%
+Para entender el por qué la IP debe ser
+fija,<00:00:07.200><c> vamos</c><00:00:07.399><c> a</c><00:00:07.600><c> estudiarlo</c><00:00:08.120><c> con</c><00:00:08.320><c> el</c>
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+fija, vamos a estudiarlo con el
+ 
+
+00:00:08.519 --> 00:00:10.709 align:start position:0%
+fija, vamos a estudiarlo con el
+siguiente<00:00:08.880><c> ejemplo.</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+siguiente ejemplo.
+ 
+
+00:00:10.719 --> 00:00:13.150 align:start position:0%
+siguiente ejemplo.
+Nuestro<00:00:11.120><c> proveedor</c><00:00:11.599><c> de</c><00:00:11.840><c> internet</c><00:00:12.480><c> realiza</c><00:00:12.960><c> el</c>
+
+00:00:13.150 --> 00:00:13.160 align:start position:0%
+Nuestro proveedor de internet realiza el
+ 
+
+00:00:13.160 --> 00:00:16.109 align:start position:0%
+Nuestro proveedor de internet realiza el
+enrutamiento<00:00:13.799><c> del</c><00:00:14.040><c> puerto,</c><00:00:14.960><c> es</c><00:00:15.200><c> decir,</c>
+
+00:00:16.109 --> 00:00:16.119 align:start position:0%
+enrutamiento del puerto, es decir,
+ 
+
+00:00:16.119 --> 00:00:18.029 align:start position:0%
+enrutamiento del puerto, es decir,
+asocia<00:00:16.600><c> que</c><00:00:16.800><c> todo</c><00:00:17.000><c> lo</c><00:00:17.160><c> que</c><00:00:17.400><c> entre</c><00:00:17.720><c> por</c><00:00:17.880><c> el</c>
+
+00:00:18.029 --> 00:00:18.039 align:start position:0%
+asocia que todo lo que entre por el
+ 
+
+00:00:18.039 --> 00:00:19.990 align:start position:0%
+asocia que todo lo que entre por el
+puerto<00:00:18.400><c> que</c><00:00:18.560><c> ha</c><00:00:18.720><c> sido</c><00:00:18.960><c> abierto</c><00:00:19.840><c> se</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+puerto que ha sido abierto se
+ 
+
+00:00:20.000 --> 00:00:21.509 align:start position:0%
+puerto que ha sido abierto se
+redirección<00:00:20.560><c> al</c><00:00:20.760><c> equipo</c><00:00:21.160><c> cuya</c>
+
+00:00:21.509 --> 00:00:21.519 align:start position:0%
+redirección al equipo cuya
+ 
+
+00:00:21.519 --> 00:00:24.310 align:start position:0%
+redirección al equipo cuya
+identificación<00:00:22.240><c> es</c><00:00:22.480><c> esta,</c><00:00:22.760><c> por</c><00:00:22.920><c> ejemplo.</c>
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+identificación es esta, por ejemplo.
+ 
+
+00:00:24.320 --> 00:00:27.189 align:start position:0%
+identificación es esta, por ejemplo.
+Pero,<00:00:24.519><c> ¿qué</c><00:00:24.760><c> pasa</c><00:00:25.439><c> al</c><00:00:25.680><c> no</c><00:00:25.920><c> tener</c><00:00:26.160><c> la</c><00:00:26.359><c> IP</c><00:00:26.760><c> de</c><00:00:26.960><c> ese</c>
+
+00:00:27.189 --> 00:00:27.199 align:start position:0%
+Pero, ¿qué pasa al no tener la IP de ese
+ 
+
+00:00:27.199 --> 00:00:30.029 align:start position:0%
+Pero, ¿qué pasa al no tener la IP de ese
+equipo<00:00:27.519><c> local</c><00:00:28.080><c> fija?</c><00:00:29.119><c> Cada</c><00:00:29.400><c> vez</c><00:00:29.640><c> que</c><00:00:29.840><c> se</c>
+
+00:00:30.029 --> 00:00:30.039 align:start position:0%
+equipo local fija? Cada vez que se
+ 
+
+00:00:30.039 --> 00:00:33.430 align:start position:0%
+equipo local fija? Cada vez que se
+inicie<00:00:30.439><c> el</c><00:00:30.640><c> computador,</c><00:00:31.480><c> la</c><00:00:31.679><c> IP</c><00:00:31.960><c> cambia.</c><00:00:33.280><c> Por</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+inicie el computador, la IP cambia. Por
+ 
+
+00:00:33.440 --> 00:00:36.430 align:start position:0%
+inicie el computador, la IP cambia. Por
+ejemplo,<00:00:34.320><c> un</c><00:00:34.520><c> día</c><00:00:34.800><c> asigna</c><00:00:35.200><c> la</c><00:00:35.360><c> IP</c>
+
+00:00:36.430 --> 00:00:36.440 align:start position:0%
+ejemplo, un día asigna la IP
+ 
+
+00:00:36.440 --> 00:00:41.510 align:start position:0%
+ejemplo, un día asigna la IP
+192.168.1.24.
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+ 
+ 
+
+00:00:41.520 --> 00:00:44.270 align:start position:0%
+ 
+Al<00:00:41.760><c> día</c><00:00:41.960><c> siguiente</c><00:00:42.760><c> la</c><00:00:42.920><c> IP</c><00:00:43.280><c> puede</c><00:00:43.559><c> cambiar</c><00:00:44.079><c> y</c>
+
+00:00:44.270 --> 00:00:44.280 align:start position:0%
+Al día siguiente la IP puede cambiar y
+ 
+
+00:00:44.280 --> 00:00:47.510 align:start position:0%
+Al día siguiente la IP puede cambiar y
+asignar<00:00:44.680><c> la</c><00:00:44.800><c> IP</c><00:00:45.160><c> terminada</c><00:00:45.640><c> en</c><00:00:45.800><c> 28</c><00:00:46.840><c> y</c><00:00:47.039><c> al</c><00:00:47.239><c> otro</c>
+
+00:00:47.510 --> 00:00:47.520 align:start position:0%
+asignar la IP terminada en 28 y al otro
+ 
+
+00:00:47.520 --> 00:00:50.430 align:start position:0%
+asignar la IP terminada en 28 y al otro
+día<00:00:47.840><c> la</c><00:00:48.039><c> IP</c><00:00:48.360><c> terminada</c><00:00:48.800><c> en</c><00:00:48.960><c> 27.</c>
+
+00:00:50.430 --> 00:00:50.440 align:start position:0%
+día la IP terminada en 27.
+ 
+
+00:00:50.440 --> 00:00:52.790 align:start position:0%
+día la IP terminada en 27.
+Con<00:00:50.640><c> este</c><00:00:50.960><c> cambio,</c><00:00:51.559><c> el</c><00:00:51.800><c> redireccionamiento</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+Con este cambio, el redireccionamiento
+ 
+
+00:00:52.800 --> 00:00:55.349 align:start position:0%
+Con este cambio, el redireccionamiento
+que<00:00:53.039><c> realizó</c><00:00:53.559><c> el</c><00:00:53.800><c> proveedor</c><00:00:54.239><c> de</c><00:00:54.440><c> internet</c><00:00:55.160><c> se</c>
+
+00:00:55.349 --> 00:00:55.359 align:start position:0%
+que realizó el proveedor de internet se
+ 
+
+00:00:55.359 --> 00:00:57.069 align:start position:0%
+que realizó el proveedor de internet se
+pierde.
+
+00:00:57.069 --> 00:00:57.079 align:start position:0%
+pierde.
+ 
+
+00:00:57.079 --> 00:00:59.549 align:start position:0%
+pierde.
+Por<00:00:57.359><c> ello</c><00:00:57.640><c> es</c><00:00:57.840><c> que</c><00:00:58.000><c> necesitamos</c><00:00:58.680><c> que</c><00:00:58.840><c> la</c><00:00:59.039><c> IP</c>
+
+00:00:59.549 --> 00:00:59.559 align:start position:0%
+Por ello es que necesitamos que la IP
+ 
+
+00:00:59.559 --> 00:01:02.509 align:start position:0%
+Por ello es que necesitamos que la IP
+nunca<00:01:00.079><c> cambie</c><00:01:00.760><c> y</c><00:01:01.000><c> la</c><00:01:01.160><c> solución</c><00:01:01.680><c> es</c><00:01:01.960><c> fijar</c><00:01:02.359><c> la</c>
+
+00:01:02.509 --> 00:01:02.519 align:start position:0%
+nunca cambie y la solución es fijar la
+ 
+
+00:01:02.519 --> 00:01:05.270 align:start position:0%
+nunca cambie y la solución es fijar la
+IP<00:01:02.879><c> en</c><00:01:03.079><c> el</c><00:01:03.280><c> equipo</c><00:01:03.960><c> para</c><00:01:04.199><c> que</c><00:01:04.320><c> en</c><00:01:04.479><c> cada</c><00:01:04.720><c> inicio</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+IP en el equipo para que en cada inicio
+ 
+
+00:01:05.280 --> 00:01:08.950 align:start position:0%
+IP en el equipo para que en cada inicio
+la<00:01:05.479><c> IP</c><00:01:06.040><c> siempre</c><00:01:06.600><c> sea</c><00:01:06.920><c> la</c><00:01:07.119><c> misma.</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+la IP siempre sea la misma.
+ 
+
+00:01:08.960 --> 00:01:11.390 align:start position:0%
+la IP siempre sea la misma.
+Para<00:01:09.159><c> fijar</c><00:01:09.479><c> la</c><00:01:09.640><c> IP</c><00:01:10.040><c> en</c><00:01:10.280><c> nuestro</c><00:01:10.680><c> equipo</c>
+
+00:01:11.390 --> 00:01:11.400 align:start position:0%
+Para fijar la IP en nuestro equipo
+ 
+
+00:01:11.400 --> 00:01:14.469 align:start position:0%
+Para fijar la IP en nuestro equipo
+debemos<00:01:11.880><c> seguir</c><00:01:12.240><c> los</c><00:01:12.479><c> siguientes</c><00:01:13.000><c> pasos.</c>
+
+00:01:14.469 --> 00:01:14.479 align:start position:0%
+debemos seguir los siguientes pasos.
+ 
+
+00:01:14.479 --> 00:01:17.190 align:start position:0%
+debemos seguir los siguientes pasos.
+En<00:01:14.640><c> la</c><00:01:14.799><c> barra</c><00:01:15.080><c> de</c><00:01:15.240><c> tareas,</c><00:01:15.960><c> en</c><00:01:16.159><c> la</c><00:01:16.320><c> zona</c><00:01:16.960><c> del</c>
+
+00:01:17.190 --> 00:01:17.200 align:start position:0%
+En la barra de tareas, en la zona del
+ 
+
+00:01:17.200 --> 00:01:20.310 align:start position:0%
+En la barra de tareas, en la zona del
+reloj,<00:01:18.240><c> damos</c><00:01:18.640><c> clic</c><00:01:18.960><c> derecho</c><00:01:19.479><c> sobre</c><00:01:19.759><c> el</c><00:01:20.040><c> icono</c>
+
+00:01:20.310 --> 00:01:20.320 align:start position:0%
+reloj, damos clic derecho sobre el icono
+ 
+
+00:01:20.320 --> 00:01:22.710 align:start position:0%
+reloj, damos clic derecho sobre el icono
+que<00:01:20.560><c> representa</c><00:01:21.040><c> la</c><00:01:21.200><c> conexión</c><00:01:21.600><c> a</c><00:01:21.840><c> internet,</c>
+
+00:01:22.710 --> 00:01:22.720 align:start position:0%
+que representa la conexión a internet,
+ 
+
+00:01:22.720 --> 00:01:25.469 align:start position:0%
+que representa la conexión a internet,
+que<00:01:22.920><c> puede</c><00:01:23.200><c> ser</c><00:01:23.520><c> el</c><00:01:23.799><c> icono</c><00:01:24.040><c> del</c><00:01:24.280><c> monitor</c><00:01:25.240><c> el</c>
+
+00:01:25.469 --> 00:01:25.479 align:start position:0%
+que puede ser el icono del monitor el
+ 
+
+00:01:25.479 --> 00:01:26.870 align:start position:0%
+que puede ser el icono del monitor el
+icono<00:01:25.720><c> de</c><00:01:25.880><c> las</c><00:01:26.040><c> barras</c><00:01:26.360><c> si</c><00:01:26.520><c> estamos</c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+icono de las barras si estamos
+ 
+
+00:01:26.880 --> 00:01:30.109 align:start position:0%
+icono de las barras si estamos
+conectados<00:01:27.439><c> de</c><00:01:27.640><c> forma</c><00:01:27.880><c> inalámbrica.</c>
+
+00:01:30.109 --> 00:01:30.119 align:start position:0%
+conectados de forma inalámbrica.
+ 
+
+00:01:30.119 --> 00:01:32.469 align:start position:0%
+conectados de forma inalámbrica.
+Elegimos<00:01:30.600><c> la</c><00:01:30.799><c> opción</c><00:01:31.439><c> abrir</c><00:01:31.720><c> el</c><00:01:31.960><c> centro</c><00:01:32.240><c> de</c>
+
+00:01:32.469 --> 00:01:32.479 align:start position:0%
+Elegimos la opción abrir el centro de
+ 
+
+00:01:32.479 --> 00:01:36.950 align:start position:0%
+Elegimos la opción abrir el centro de
+redes<00:01:32.920><c> y</c><00:01:33.159><c> recursos</c><00:01:33.720><c> compartidos.</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+ 
+ 
+
+00:01:36.960 --> 00:01:39.109 align:start position:0%
+ 
+En<00:01:37.119><c> el</c><00:01:37.240><c> menú</c><00:01:37.479><c> de</c><00:01:37.640><c> la</c><00:01:37.759><c> izquierda</c><00:01:38.439><c> damos</c><00:01:38.759><c> clic</c><00:01:39.000><c> a</c>
+
+00:01:39.109 --> 00:01:39.119 align:start position:0%
+En el menú de la izquierda damos clic a
+ 
+
+00:01:39.119 --> 00:01:41.310 align:start position:0%
+En el menú de la izquierda damos clic a
+la<00:01:39.240><c> opción</c><00:01:39.840><c> cambiar</c><00:01:40.360><c> configuración</c><00:01:41.119><c> del</c>
+
+00:01:41.310 --> 00:01:41.320 align:start position:0%
+la opción cambiar configuración del
+ 
+
+00:01:41.320 --> 00:01:43.630 align:start position:0%
+la opción cambiar configuración del
+adaptador.
+
+00:01:43.630 --> 00:01:43.640 align:start position:0%
+adaptador.
+ 
+
+00:01:43.640 --> 00:01:46.389 align:start position:0%
+adaptador.
+En<00:01:43.840><c> esta</c><00:01:44.079><c> nueva</c><00:01:44.399><c> pantalla</c><00:01:45.159><c> se</c><00:01:45.439><c> presenta</c><00:01:46.159><c> el</c>
+
+00:01:46.389 --> 00:01:46.399 align:start position:0%
+En esta nueva pantalla se presenta el
+ 
+
+00:01:46.399 --> 00:01:48.510 align:start position:0%
+En esta nueva pantalla se presenta el
+tipo<00:01:46.640><c> de</c><00:01:46.840><c> conexión.</c>
+
+00:01:48.510 --> 00:01:48.520 align:start position:0%
+tipo de conexión.
+ 
+
+00:01:48.520 --> 00:01:51.109 align:start position:0%
+tipo de conexión.
+Si<00:01:48.680><c> nuestra</c><00:01:49.040><c> conexión</c><00:01:49.719><c> es</c><00:01:49.920><c> por</c><00:01:50.119><c> cableado,</c>
+
+00:01:51.109 --> 00:01:51.119 align:start position:0%
+Si nuestra conexión es por cableado,
+ 
+
+00:01:51.119 --> 00:01:53.709 align:start position:0%
+Si nuestra conexión es por cableado,
+aparecerá<00:01:51.920><c> conexión</c><00:01:52.439><c> de</c><00:01:52.640><c> área</c><00:01:52.920><c> local,</c><00:01:53.520><c> como</c>
+
+00:01:53.709 --> 00:01:53.719 align:start position:0%
+aparecerá conexión de área local, como
+ 
+
+00:01:53.719 --> 00:01:57.749 align:start position:0%
+aparecerá conexión de área local, como
+es<00:01:53.920><c> mi</c><00:01:54.119><c> caso,</c><00:01:54.920><c> o</c><00:01:55.159><c> aparecerá</c><00:01:56.159><c> ethernet.</c><00:01:57.640><c> Pero</c>
+
+00:01:57.749 --> 00:01:57.759 align:start position:0%
+es mi caso, o aparecerá ethernet. Pero
+ 
+
+00:01:57.759 --> 00:02:00.749 align:start position:0%
+es mi caso, o aparecerá ethernet. Pero
+si<00:01:57.920><c> la</c><00:01:58.119><c> conexión</c><00:01:58.759><c> es</c><00:01:59.039><c> inalámbrica,</c><00:01:59.920><c> aparecerá</c>
+
+00:02:00.749 --> 00:02:00.759 align:start position:0%
+si la conexión es inalámbrica, aparecerá
+ 
+
+00:02:00.759 --> 00:02:03.310 align:start position:0%
+si la conexión es inalámbrica, aparecerá
+conexión<00:02:01.560><c> inalámbrica.</c>
+
+00:02:03.310 --> 00:02:03.320 align:start position:0%
+conexión inalámbrica.
+ 
+
+00:02:03.320 --> 00:02:05.590 align:start position:0%
+conexión inalámbrica.
+Damos<00:02:03.680><c> clic</c><00:02:04.000><c> derecho</c><00:02:04.560><c> y</c><00:02:04.759><c> seleccionamos</c><00:02:05.439><c> la</c>
+
+00:02:05.590 --> 00:02:05.600 align:start position:0%
+Damos clic derecho y seleccionamos la
+ 
+
+00:02:05.600 --> 00:02:10.790 align:start position:0%
+Damos clic derecho y seleccionamos la
+opción<00:02:06.200><c> propiedades.</c>
+
+00:02:10.790 --> 00:02:10.800 align:start position:0%
+ 
+ 
+
+00:02:10.800 --> 00:02:13.630 align:start position:0%
+ 
+Elegimos<00:02:11.239><c> la</c><00:02:11.440><c> opción</c><00:02:12.040><c> protocolo</c><00:02:12.680><c> de</c><00:02:12.959><c> internet</c>
+
+00:02:13.630 --> 00:02:13.640 align:start position:0%
+Elegimos la opción protocolo de internet
+ 
+
+00:02:13.640 --> 00:02:16.670 align:start position:0%
+Elegimos la opción protocolo de internet
+versión<00:02:14.200><c> 4</c><00:02:14.959><c> TCP</c>
+
+00:02:16.670 --> 00:02:16.680 align:start position:0%
+versión 4 TCP
+ 
+
+00:02:16.680 --> 00:02:19.390 align:start position:0%
+versión 4 TCP
+Bv4<00:02:17.800><c> y</c><00:02:18.000><c> damos</c><00:02:18.319><c> clic</c><00:02:18.519><c> a</c><00:02:18.680><c> la</c><00:02:18.760><c> opción</c>
+
+00:02:19.390 --> 00:02:19.400 align:start position:0%
+Bv4 y damos clic a la opción
+ 
+
+00:02:19.400 --> 00:02:21.710 align:start position:0%
+Bv4 y damos clic a la opción
+propiedades.
+
+00:02:21.710 --> 00:02:21.720 align:start position:0%
+propiedades.
+ 
+
+00:02:21.720 --> 00:02:24.509 align:start position:0%
+propiedades.
+En<00:02:21.840><c> la</c><00:02:22.000><c> ventana</c><00:02:22.400><c> que</c><00:02:22.599><c> se</c><00:02:22.800><c> abre</c><00:02:23.239><c> en</c><00:02:23.400><c> la</c><00:02:23.599><c> pestaña</c>
+
+00:02:24.509 --> 00:02:24.519 align:start position:0%
+En la ventana que se abre en la pestaña
+ 
+
+00:02:24.519 --> 00:02:27.470 align:start position:0%
+En la ventana que se abre en la pestaña
+general<00:02:25.519><c> marcamos</c><00:02:26.080><c> la</c><00:02:26.280><c> opción</c><00:02:26.920><c> usar</c><00:02:27.239><c> la</c>
+
+00:02:27.470 --> 00:02:27.480 align:start position:0%
+general marcamos la opción usar la
+ 
+
+00:02:27.480 --> 00:02:30.229 align:start position:0%
+general marcamos la opción usar la
+siguiente<00:02:28.000><c> dirección</c><00:02:28.519><c> IP.</c>
+
+00:02:30.229 --> 00:02:30.239 align:start position:0%
+siguiente dirección IP.
+ 
+
+00:02:30.239 --> 00:02:32.470 align:start position:0%
+siguiente dirección IP.
+Para<00:02:30.440><c> conocer</c><00:02:30.879><c> los</c><00:02:31.080><c> datos</c><00:02:31.440><c> que</c><00:02:31.640><c> vamos</c><00:02:31.879><c> a</c><00:02:32.080><c> poner</c>
+
+00:02:32.470 --> 00:02:32.480 align:start position:0%
+Para conocer los datos que vamos a poner
+ 
+
+00:02:32.480 --> 00:02:35.350 align:start position:0%
+Para conocer los datos que vamos a poner
+en<00:02:32.680><c> estas</c><00:02:33.000><c> cajas</c><00:02:33.360><c> que</c><00:02:33.519><c> se</c><00:02:33.720><c> habilitan,</c>
+
+00:02:35.350 --> 00:02:35.360 align:start position:0%
+en estas cajas que se habilitan,
+ 
+
+00:02:35.360 --> 00:02:38.710 align:start position:0%
+en estas cajas que se habilitan,
+vamos<00:02:35.560><c> a</c><00:02:35.760><c> dirigirnos</c><00:02:36.480><c> al</c><00:02:36.760><c> botón</c><00:02:37.319><c> de</c><00:02:37.560><c> inicio</c><00:02:38.519><c> y</c>
+
+00:02:38.710 --> 00:02:38.720 align:start position:0%
+vamos a dirigirnos al botón de inicio y
+ 
+
+00:02:38.720 --> 00:02:42.470 align:start position:0%
+vamos a dirigirnos al botón de inicio y
+en<00:02:38.879><c> la</c><00:02:39.000><c> barra</c><00:02:39.239><c> de</c><00:02:39.360><c> búsqueda</c><00:02:39.879><c> digitamos</c><00:02:40.800><c> cmd.</c>
+
+00:02:42.470 --> 00:02:42.480 align:start position:0%
+en la barra de búsqueda digitamos cmd.
+ 
+
+00:02:42.480 --> 00:02:44.990 align:start position:0%
+en la barra de búsqueda digitamos cmd.
+Enter.
+
+00:02:44.990 --> 00:02:45.000 align:start position:0%
+Enter.
+ 
+
+00:02:45.000 --> 00:02:51.630 align:start position:0%
+Enter.
+Digitamos<00:02:45.599><c> la</c><00:02:45.840><c> palabra</c><00:02:46.599><c> IP</c><00:02:47.280><c> config</c>
+
+00:02:51.630 --> 00:02:51.640 align:start position:0%
+ 
+ 
+
+00:02:51.640 --> 00:02:53.790 align:start position:0%
+ 
+y<00:02:51.840><c> damos</c><00:02:52.239><c> enter.</c>
+
+00:02:53.790 --> 00:02:53.800 align:start position:0%
+y damos enter.
+ 
+
+00:02:53.800 --> 00:02:55.630 align:start position:0%
+y damos enter.
+Dentro<00:02:54.080><c> de</c><00:02:54.280><c> los</c><00:02:54.440><c> datos</c><00:02:54.720><c> que</c><00:02:54.879><c> nos</c><00:02:55.080><c> arroja,</c>
+
+00:02:55.630 --> 00:02:55.640 align:start position:0%
+Dentro de los datos que nos arroja,
+ 
+
+00:02:55.640 --> 00:02:58.910 align:start position:0%
+Dentro de los datos que nos arroja,
+vamos<00:02:55.879><c> a</c><00:02:56.080><c> tomar</c><00:02:56.400><c> primero</c><00:02:56.920><c> el</c><00:02:57.120><c> de</c><00:02:57.400><c> dirección</c><00:02:58.319><c> IP</c>
+
+00:02:58.910 --> 00:02:58.920 align:start position:0%
+vamos a tomar primero el de dirección IP
+ 
+
+00:02:58.920 --> 00:03:02.589 align:start position:0%
+vamos a tomar primero el de dirección IP
+B4<00:03:00.239><c> y</c><00:03:00.440><c> lo</c><00:03:00.599><c> vamos</c><00:03:00.800><c> a</c><00:03:01.040><c> poner</c><00:03:01.640><c> en</c><00:03:01.879><c> la</c><00:03:02.080><c> caja</c><00:03:02.400><c> que</c>
+
+00:03:02.589 --> 00:03:02.599 align:start position:0%
+B4 y lo vamos a poner en la caja que
+ 
+
+00:03:02.599 --> 00:03:10.309 align:start position:0%
+B4 y lo vamos a poner en la caja que
+dice<00:03:03.080><c> dirección</c><00:03:03.599><c> IP.</c>
+
+00:03:10.309 --> 00:03:10.319 align:start position:0%
+ 
+ 
+
+00:03:10.319 --> 00:03:12.789 align:start position:0%
+ 
+El<00:03:10.519><c> siguiente</c><00:03:10.959><c> dato</c><00:03:11.239><c> que</c><00:03:11.440><c> tomaremos</c><00:03:12.200><c> es</c>
+
+00:03:12.789 --> 00:03:12.799 align:start position:0%
+El siguiente dato que tomaremos es
+ 
+
+00:03:12.799 --> 00:03:16.070 align:start position:0%
+El siguiente dato que tomaremos es
+máscara<00:03:13.480><c> de</c><00:03:13.680><c> su</c><00:03:13.920><c> red.</c>
+
+00:03:16.070 --> 00:03:16.080 align:start position:0%
+máscara de su red.
+ 
+
+00:03:16.080 --> 00:03:18.550 align:start position:0%
+máscara de su red.
+Y<00:03:16.280><c> el</c><00:03:16.519><c> tercer</c><00:03:17.000><c> campo</c><00:03:17.319><c> que</c><00:03:17.560><c> pondremos</c><00:03:18.280><c> es</c>
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+Y el tercer campo que pondremos es
+ 
+
+00:03:18.560 --> 00:03:21.110 align:start position:0%
+Y el tercer campo que pondremos es
+puerta<00:03:18.879><c> de</c><00:03:19.000><c> enlace</c><00:03:19.440><c> predeterminada,</c>
+
+00:03:21.110 --> 00:03:21.120 align:start position:0%
+puerta de enlace predeterminada,
+ 
+
+00:03:21.120 --> 00:03:30.509 align:start position:0%
+puerta de enlace predeterminada,
+que<00:03:21.319><c> lo</c><00:03:21.519><c> encontramos</c><00:03:22.080><c> acá.</c>
+
+00:03:30.509 --> 00:03:30.519 align:start position:0%
+ 
+ 
+
+00:03:30.519 --> 00:03:33.589 align:start position:0%
+ 
+Ya<00:03:30.760><c> podemos</c><00:03:31.159><c> cerrar</c><00:03:31.760><c> nuestra</c><00:03:32.200><c> ventana</c><00:03:32.959><c> CMD</c>
+
+00:03:33.589 --> 00:03:33.599 align:start position:0%
+Ya podemos cerrar nuestra ventana CMD
+ 
+
+00:03:33.599 --> 00:03:35.110 align:start position:0%
+Ya podemos cerrar nuestra ventana CMD
+para<00:03:33.920><c> continuar</c><00:03:34.439><c> con</c><00:03:34.599><c> las</c><00:03:34.799><c> demás</c>
+
+00:03:35.110 --> 00:03:35.120 align:start position:0%
+para continuar con las demás
+ 
+
+00:03:35.120 --> 00:03:37.110 align:start position:0%
+para continuar con las demás
+configuraciones.
+
+00:03:37.110 --> 00:03:37.120 align:start position:0%
+configuraciones.
+ 
+
+00:03:37.120 --> 00:03:39.750 align:start position:0%
+configuraciones.
+Paso<00:03:37.439><c> seguido</c><00:03:37.920><c> vamos</c><00:03:38.360><c> a</c><00:03:38.560><c> activar</c><00:03:38.959><c> la</c><00:03:39.159><c> opción</c>
+
+00:03:39.750 --> 00:03:39.760 align:start position:0%
+Paso seguido vamos a activar la opción
+ 
+
+00:03:39.760 --> 00:03:41.670 align:start position:0%
+Paso seguido vamos a activar la opción
+usar<00:03:40.080><c> las</c><00:03:40.280><c> siguientes</c><00:03:40.760><c> direcciones</c><00:03:41.480><c> de</c>
+
+00:03:41.670 --> 00:03:41.680 align:start position:0%
+usar las siguientes direcciones de
+ 
+
+00:03:41.680 --> 00:03:43.949 align:start position:0%
+usar las siguientes direcciones de
+servidor<00:03:42.159><c> DNS.</c>
+
+00:03:43.949 --> 00:03:43.959 align:start position:0%
+servidor DNS.
+ 
+
+00:03:43.959 --> 00:03:47.910 align:start position:0%
+servidor DNS.
+Y<00:03:44.159><c> en</c><00:03:44.319><c> los</c><00:03:44.560><c> campos</c><00:03:45.239><c> servidor</c><00:03:45.959><c> DNS</c><00:03:46.720><c> preferido</c><00:03:47.640><c> y</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+Y en los campos servidor DNS preferido y
+ 
+
+00:03:47.920 --> 00:03:51.030 align:start position:0%
+Y en los campos servidor DNS preferido y
+servidor<00:03:48.560><c> DNS</c><00:03:49.200><c> alternativo,</c><00:03:50.319><c> vamos</c><00:03:50.599><c> a</c><00:03:50.799><c> poner</c>
+
+00:03:51.030 --> 00:03:51.040 align:start position:0%
+servidor DNS alternativo, vamos a poner
+ 
+
+00:03:51.040 --> 00:03:53.030 align:start position:0%
+servidor DNS alternativo, vamos a poner
+las<00:03:51.280><c> direcciones</c><00:03:52.079><c> según</c><00:03:52.400><c> sea</c><00:03:52.720><c> nuestro</c>
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+las direcciones según sea nuestro
+ 
+
+00:03:53.040 --> 00:03:55.509 align:start position:0%
+las direcciones según sea nuestro
+proveedor<00:03:53.519><c> de</c><00:03:53.720><c> internet.</c>
+
+00:03:55.509 --> 00:03:55.519 align:start position:0%
+proveedor de internet.
+ 
+
+00:03:55.519 --> 00:03:58.149 align:start position:0%
+proveedor de internet.
+Por<00:03:55.640><c> ejemplo,</c><00:03:55.959><c> en</c><00:03:56.120><c> mi</c><00:03:56.319><c> caso</c><00:03:56.760><c> es</c><00:03:57.200><c> une</c><00:03:57.720><c> y</c><00:03:57.920><c> sus</c>
+
+00:03:58.149 --> 00:03:58.159 align:start position:0%
+Por ejemplo, en mi caso es une y sus
+ 
+
+00:03:58.159 --> 00:04:09.110 align:start position:0%
+Por ejemplo, en mi caso es une y sus
+direcciones<00:03:59.000><c> DNS</c><00:03:59.959><c> son</c>
+
+00:04:09.110 --> 00:04:09.120 align:start position:0%
+ 
+ 
+
+00:04:09.120 --> 00:04:20.189 align:start position:0%
+ 
+y<00:04:09.360><c> su</c><00:04:09.560><c> DNS</c><00:04:10.200><c> alternativo</c><00:04:11.159><c> es</c>
+
+00:04:20.189 --> 00:04:20.199 align:start position:0%
+ 
+ 
+
+00:04:20.199 --> 00:04:23.030 align:start position:0%
+ 
+para<00:04:20.479><c> conocer</c><00:04:21.040><c> el</c><00:04:21.280><c> número</c><00:04:21.720><c> del</c><00:04:22.040><c> DNS</c><00:04:22.720><c> de</c><00:04:22.880><c> los</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+para conocer el número del DNS de los
+ 
+
+00:04:23.040 --> 00:04:25.030 align:start position:0%
+para conocer el número del DNS de los
+diferentes<00:04:23.560><c> proveedores</c><00:04:24.080><c> de</c><00:04:24.360><c> internet,</c>
+
+00:04:25.030 --> 00:04:25.040 align:start position:0%
+diferentes proveedores de internet,
+ 
+
+00:04:25.040 --> 00:04:27.030 align:start position:0%
+diferentes proveedores de internet,
+podemos<00:04:25.479><c> consultar</c><00:04:26.000><c> la</c><00:04:26.240><c> siguiente</c><00:04:26.639><c> página</c>
+
+00:04:27.030 --> 00:04:27.040 align:start position:0%
+podemos consultar la siguiente página
+ 
+
+00:04:27.040 --> 00:04:34.990 align:start position:0%
+podemos consultar la siguiente página
+web<00:04:27.919><c> www.contapime.com/dns-isp.</c>
+
+00:04:34.990 --> 00:04:35.000 align:start position:0%
+ 
+ 
+
+00:04:35.000 --> 00:04:36.950 align:start position:0%
+ 
+En<00:04:35.160><c> esta</c><00:04:35.400><c> página</c><00:04:35.720><c> de</c><00:04:35.919><c> internet</c><00:04:36.400><c> podemos</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+En esta página de internet podemos
+ 
+
+00:04:36.960 --> 00:04:40.270 align:start position:0%
+En esta página de internet podemos
+encontrar<00:04:37.800><c> las</c><00:04:38.080><c> direcciones</c><00:04:39.080><c> DNS</c><00:04:40.080><c> de</c>
+
+00:04:40.270 --> 00:04:40.280 align:start position:0%
+encontrar las direcciones DNS de
+ 
+
+00:04:40.280 --> 00:04:49.150 align:start position:0%
+encontrar las direcciones DNS de
+nuestros<00:04:40.639><c> proveedores</c><00:04:41.160><c> de</c><00:04:41.400><c> internet.</c>
+
+00:04:49.150 --> 00:04:49.160 align:start position:0%
+ 
+ 
+
+00:04:49.160 --> 00:04:51.270 align:start position:0%
+ 
+Vamos<00:04:49.360><c> a</c><00:04:49.520><c> dar</c><00:04:49.720><c> clic</c><00:04:50.000><c> en</c><00:04:50.199><c> el</c><00:04:50.360><c> botón</c><00:04:50.680><c> aceptar</c>
+
+00:04:51.270 --> 00:04:51.280 align:start position:0%
+Vamos a dar clic en el botón aceptar
+ 
+
+00:04:51.280 --> 00:04:54.350 align:start position:0%
+Vamos a dar clic en el botón aceptar
+para<00:04:51.520><c> guardar</c><00:04:51.880><c> la</c><00:04:52.080><c> configuración.</c>
+
+00:04:54.350 --> 00:04:54.360 align:start position:0%
+para guardar la configuración.
+ 
+
+00:04:54.360 --> 00:04:57.790 align:start position:0%
+para guardar la configuración.
+Damos<00:04:54.680><c> clic</c><00:04:55.000><c> en</c><00:04:55.199><c> el</c><00:04:55.320><c> botón</c><00:04:56.039><c> cerrar</c><00:04:57.360><c> y</c><00:04:57.600><c> por</c>
+
+00:04:57.790 --> 00:04:57.800 align:start position:0%
+Damos clic en el botón cerrar y por
+ 
+
+00:04:57.800 --> 00:04:59.870 align:start position:0%
+Damos clic en el botón cerrar y por
+último<00:04:58.320><c> vamos</c><00:04:58.560><c> a</c><00:04:58.720><c> verificar</c><00:04:59.320><c> si</c><00:04:59.520><c> nuestro</c>
+
+00:04:59.870 --> 00:04:59.880 align:start position:0%
+último vamos a verificar si nuestro
+ 
+
+00:04:59.880 --> 00:05:02.270 align:start position:0%
+último vamos a verificar si nuestro
+internet<00:05:00.240><c> funciona.</c><00:05:01.320><c> Vamos</c><00:05:01.560><c> a</c><00:05:01.800><c> poner</c><00:05:02.120><c> por</c>
+
+00:05:02.270 --> 00:05:02.280 align:start position:0%
+internet funciona. Vamos a poner por
+ 
+
+00:05:02.280 --> 00:05:06.590 align:start position:0%
+internet funciona. Vamos a poner por
+ejemplo<00:05:03.280><c> www.google.com</c><00:05:04.759><c> google.com</c>
+
+00:05:06.590 --> 00:05:06.600 align:start position:0%
+ejemplo www.google.com google.com
+ 
+
+00:05:06.600 --> 00:05:08.790 align:start position:0%
+ejemplo www.google.com google.com
+para<00:05:06.880><c> verificar</c><00:05:07.400><c> que</c><00:05:07.639><c> nuestro</c><00:05:08.080><c> internet</c><00:05:08.560><c> está</c>
+
+00:05:08.790 --> 00:05:08.800 align:start position:0%
+para verificar que nuestro internet está
+ 
+
+00:05:08.800 --> 00:05:11.830 align:start position:0%
+para verificar que nuestro internet está
+funcionando<00:05:09.400><c> correctamente.</c>
+
+00:05:11.830 --> 00:05:11.840 align:start position:0%
+funcionando correctamente.
+ 
+
+00:05:11.840 --> 00:05:14.749 align:start position:0%
+funcionando correctamente.
+Con<00:05:12.120><c> esto,</c><00:05:12.680><c> nuestra</c><00:05:13.120><c> IP</c><00:05:13.639><c> ahora</c><00:05:13.960><c> está</c><00:05:14.160><c> fija</c><00:05:14.560><c> en</c>
+
+00:05:14.749 --> 00:05:14.759 align:start position:0%
+Con esto, nuestra IP ahora está fija en
+ 
+
+00:05:14.759 --> 00:05:16.790 align:start position:0%
+Con esto, nuestra IP ahora está fija en
+el<00:05:14.919><c> equipo</c><00:05:15.639><c> y</c><00:05:15.880><c> siempre</c><00:05:16.199><c> que</c><00:05:16.400><c> nuestro</c>
+
+00:05:16.790 --> 00:05:16.800 align:start position:0%
+el equipo y siempre que nuestro
+ 
+
+00:05:16.800 --> 00:05:19.309 align:start position:0%
+el equipo y siempre que nuestro
+computador<00:05:17.320><c> se</c><00:05:17.479><c> encienda,</c><00:05:18.199><c> la</c><00:05:18.400><c> IP</c><00:05:18.800><c> va</c><00:05:19.000><c> a</c><00:05:19.160><c> ser</c>
+
+00:05:19.309 --> 00:05:19.319 align:start position:0%
+computador se encienda, la IP va a ser
+ 
+
+00:05:19.319 --> 00:05:21.670 align:start position:0%
+computador se encienda, la IP va a ser
+la<00:05:19.520><c> misma,</c><00:05:20.280><c> por</c><00:05:20.479><c> lo</c><00:05:20.600><c> cual</c><00:05:21.440><c> el</c>
+
+00:05:21.670 --> 00:05:21.680 align:start position:0%
+la misma, por lo cual el
+ 
+
+00:05:21.680 --> 00:05:23.870 align:start position:0%
+la misma, por lo cual el
+redireccionamiento<00:05:22.639><c> que</c><00:05:22.880><c> hace</c><00:05:23.240><c> el</c><00:05:23.440><c> proveedor</c>
+
+00:05:23.870 --> 00:05:23.880 align:start position:0%
+redireccionamiento que hace el proveedor
+ 
+
+00:05:23.880 --> 00:05:26.309 align:start position:0%
+redireccionamiento que hace el proveedor
+de<00:05:24.080><c> internet</c><00:05:24.720><c> no</c><00:05:25.000><c> se</c><00:05:25.160><c> va</c><00:05:25.319><c> a</c><00:05:25.440><c> perder</c><00:05:25.960><c> y</c><00:05:26.160><c> va</c><00:05:26.240><c> a</c>
+
+00:05:26.309 --> 00:05:26.319 align:start position:0%
+de internet no se va a perder y va a
+ 
+
+00:05:26.319 --> 00:05:29.629 align:start position:0%
+de internet no se va a perder y va a
+quedar<00:05:26.720><c> estático</c><00:05:27.440><c> siempre</c><00:05:27.840><c> en</c><00:05:28.120><c> este</c><00:05:28.319><c> equipo.</c>
+
+00:05:29.629 --> 00:05:29.639 align:start position:0%
+quedar estático siempre en este equipo.
+ 
+
+00:05:29.639 --> 00:05:31.990 align:start position:0%
+quedar estático siempre en este equipo.
+Esto<00:05:29.840><c> es</c><00:05:29.960><c> todo</c><00:05:30.199><c> sobre</c><00:05:30.720><c> cómo</c><00:05:30.960><c> fijar</c><00:05:31.280><c> la</c><00:05:31.440><c> IP</c><00:05:31.800><c> en</c>
+
+00:05:31.990 --> 00:05:32.000 align:start position:0%
+Esto es todo sobre cómo fijar la IP en
+ 
+
+00:05:32.000 --> 00:05:35.479 align:start position:0%
+Esto es todo sobre cómo fijar la IP en
+el<00:05:32.160><c> equipo</c><00:05:32.479><c> local.</c><00:05:33.240><c> M.</c>
+

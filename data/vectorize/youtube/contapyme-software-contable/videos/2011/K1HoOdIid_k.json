@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:38:01.940Z",
+  "videoId": "K1HoOdIid_k",
+  "videoUrl": "https://www.youtube.com/watch?v=K1HoOdIid_k",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "K1HoOdIid_k",
+    "title": "Software de contabilidad ContaPyme - Ejemplo 2 pago de honorarios al contador",
+    "fulltitle": "Software de contabilidad ContaPyme - Ejemplo 2 pago de honorarios al contador",
+    "description": "http://www.contapyme.com\nSoftware contable ContaPyme \nCP40-090-020-010B-030M",
+    "duration": 484,
+    "duration_string": "8:04",
+    "upload_date": "20111203",
+    "timestamp": 1322932723,
+    "view_count": 909,
+    "like_count": 2,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/K1HoOdIid_k/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC8gTih_MA8=&rs=AOn4CLC5fxnnepbmDWfwxCKJk4SXk7k2oQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgvIE4ofzAP&rs=AOn4CLBFZ65ci2uLQx3FgQPpWBEaxrfd8g",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC8gTih_MA8=&rs=AOn4CLDdEOS0w34dbqFGM8gHCE7ua3u0GQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC8gTih_MA8=&rs=AOn4CLCfxFeZTTIAuMy-d71bGScswff_zA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC8gTih_MA8=&rs=AOn4CLCMR_mIsZbar3cz4jWO2DJox_4Nkg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgvIE4ofzAP&rs=AOn4CLAoSG7Y1TvNcfR5yF7OdNw5M7odGw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgvIE4ofzAP&rs=AOn4CLCjBih0GLRpgrfPvyxG3GPAvfiigQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC8gTih_MA8=&rs=AOn4CLBTk0K2A_AgpHCGQrmI0GMuAFFJBA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC8gTih_MA8=&rs=AOn4CLC5fxnnepbmDWfwxCKJk4SXk7k2oQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/K1HoOdIid_k/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/K1HoOdIid_k/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=K1HoOdIid_k",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2066115702479339,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2024793388429752,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2024793388429752,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.2024793388429752,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 192.089,
+        "asr": 44100,
+        "filesize_approx": 11625754,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software de contabilidad ContaPyme - Ejemplo 2 pago de honorarios al contador",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/K1HoOdIid_k/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/K1HoOdIid_k?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software de contabilidad ContaPyme - Ejemplo 2 pago de honorarios al contador\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 75,
+    "transcriptChars": 4932,
+    "segments": [
+      {
+        "text": "ejemplo dos pago de honorarios al contador en este segundo ejemplo",
+        "startMs": 320,
+        "durationMs": 7029
+      },
+      {
+        "text": "realizaremos mediante la operación de gastos y pagos el pago de los honorarios",
+        "startMs": 7349,
+        "durationMs": 5121
+      },
+      {
+        "text": "al contador de la empresa pes soluciones por lo que ubicados en el",
+        "startMs": 12470,
+        "durationMs": 6200
+      },
+      {
+        "text": "manejador de operaciones ingresaremos a través del botón más",
+        "startMs": 18670,
+        "durationMs": 4919
+      },
+      {
+        "text": "operaciones ingresos y gastos y seleccionaremos la operación gastos y",
+        "startMs": 23589,
+        "durationMs": 7881
+      },
+      {
+        "text": "pagos como podemos observar el sistema abierto",
+        "startMs": 31470,
+        "durationMs": 2800
+      },
+      {
+        "text": "la operación para registrar la transacción para registrar el pago de",
+        "startMs": 34270,
+        "durationMs": 5560
+      },
+      {
+        "text": "honorarios el contador de Nuestra Empresa en el ejemplo lo soportaremos en",
+        "startMs": 39830,
+        "durationMs": 4640
+      },
+      {
+        "text": "un documento comprobante de egreso para ello en el campo tipo documento",
+        "startMs": 44470,
+        "durationMs": 5440
+      },
+      {
+        "text": "ingresando por el botón de búsqueda seleccionaremos del listado el documento",
+        "startMs": 49910,
+        "durationMs": 6279
+      },
+      {
+        "text": "requerido en este caso el documento de egreso es el documento predeterminado de",
+        "startMs": 56189,
+        "durationMs": 6921
+      },
+      {
+        "text": "esta operación por lo tanto el sistema nos indica que la operación a registrar",
+        "startMs": 63110,
+        "durationMs": 5520
+      },
+      {
+        "text": "será el comprobante de egreso número 109 en el detalle de la operación",
+        "startMs": 68630,
+        "durationMs": 7040
+      },
+      {
+        "text": "especificaremos una observación de lo que deseamos registrar en el documento",
+        "startMs": 75670,
+        "durationMs": 13240
+      },
+      {
+        "startMs": 88920,
+        "durationMs": 5469,
+        "text": "contador corespondiente al mes de"
+      },
+      {
+        "text": "noviembre Generalmente esos pagos se realizan al fin de mes por lo que",
+        "startMs": 94399,
+        "durationMs": 5511
+      },
+      {
+        "text": "indicaremos que el pago se realizará el 28 de noviembre del",
+        "startMs": 99910,
+        "durationMs": 5760
+      },
+      {
+        "text": "2011 fecha de soporte de la operación en el campo gasto ha sido",
+        "startMs": 105670,
+        "durationMs": 7360
+      },
+      {
+        "text": "pagado a indicaremos el tercero al cual le vamos a realizar el pago de los",
+        "startMs": 113030,
+        "durationMs": 5280
+      },
+      {
+        "text": "honorarios en este ejemplo es decir el señor Pedro Osorio para ello",
+        "startMs": 118310,
+        "durationMs": 7360
+      },
+      {
+        "text": "hacemos clic en el botón de búsqueda y seleccionaremos el tercero",
+        "startMs": 125670,
+        "durationMs": 7760
+      },
+      {
+        "text": "requerido seleccionar en el área de registro nos",
+        "startMs": 133440,
+        "durationMs": 5590
+      },
+      {
+        "text": "ubicaremos en la columna cuenta gastos costos allí registraremos la cuenta",
+        "startMs": 139030,
+        "durationMs": 7880
+      },
+      {
+        "text": "511 correspondiente a la cuenta de horarios dado que no poseemos",
+        "startMs": 146910,
+        "durationMs": 6000
+      },
+      {
+        "text": "conocimiento de la cuenta auxiliar a emplear hacemos un clic en el botón de",
+        "startMs": 152910,
+        "durationMs": 7039
+      },
+      {
+        "text": "búsqueda para seleccionar la cuenta auxiliar como podemos observar el",
+        "startMs": 159949,
+        "durationMs": 6241
+      },
+      {
+        "text": "sistema automáticamente filtra el listado de las cuentas visualizando solo",
+        "startMs": 166190,
+        "durationMs": 5600
+      },
+      {
+        "text": "las cuentas que en su código empiecen por",
+        "startMs": 171790,
+        "durationMs": 5040
+      },
+      {
+        "text": "por 5110 de esta manera podemos ubicar la",
+        "startMs": 176830,
+        "durationMs": 3240
+      },
+      {
+        "text": "cuenta requerida en el menor tiempo posible por lo que ubicamos la cuenta 51",
+        "startMs": 180070,
+        "durationMs": 6799
+      },
+      {
+        "text": "1030 correspondiente a asesoría financiera",
+        "startMs": 186869,
+        "durationMs": 5720
+      },
+      {
+        "text": "financiera seleccionar en la columna centro de",
+        "startMs": 192589,
+        "durationMs": 2681
+      },
+      {
+        "text": "costos mediante el botón de búsqueda indicaremos que este gasto se cargará al",
+        "startMs": 195270,
+        "durationMs": 11280
+      },
+      {
+        "text": "contabilidad en la columna valor indicaremos el valor del pago de los",
+        "startMs": 206560,
+        "durationMs": 5150
+      },
+      {
+        "text": "honorarios del contador es decir 620,000",
+        "startMs": 211710,
+        "durationMs": 5239
+      },
+      {
+        "text": "620,000 pes en el campo detalle indicaremos una",
+        "startMs": 216949,
+        "durationMs": 4121
+      },
+      {
+        "text": "observación del gasto Así que digitem pago de honorarios al",
+        "startMs": 221070,
+        "durationMs": 9640
+      },
+      {
+        "text": "contador como podemos observar en esta operación la persona que registra no",
+        "startMs": 230720,
+        "durationMs": 6429
+      },
+      {
+        "text": "requiere tener amplios conocimientos con ya que no requiere indicar si el valor a",
+        "startMs": 237149,
+        "durationMs": 6720
+      },
+      {
+        "text": "registrar hace parte del débito o del crédito sino que el sistema",
+        "startMs": 243869,
+        "durationMs": 5961
+      },
+      {
+        "text": "inmediatamente reconoce al ser una operación de gastos y pagos que el saldo",
+        "startMs": 249830,
+        "durationMs": 5119
+      },
+      {
+        "text": "debe ser llevado al débito según la naturaleza de la",
+        "startMs": 254949,
+        "durationMs": 4361
+      },
+      {
+        "text": "cuenta dado que no poseemos otros gastos a registrar en este",
+        "startMs": 259310,
+        "durationMs": 5560
+      },
+      {
+        "text": "comprobante haremos un clic en el botón siguiente",
+        "startMs": 264870,
+        "durationMs": 6759
+      },
+      {
+        "text": "en el paso número dos de la operación de gastos y pagos haremos la liquidación de",
+        "startMs": 271639,
+        "durationMs": 6031
+      },
+      {
+        "text": "impuestos e indicaremos la forma de pago recordemos que el sistema realiza",
+        "startMs": 277670,
+        "durationMs": 7320
+      },
+      {
+        "text": "el cálculo automático de impuestos con tan solo hacer un clic en el botón de la",
+        "startMs": 284990,
+        "durationMs": 5759
+      },
+      {
+        "text": "calculadora siempre y cuando el sistema se tenga correctamente configurada la",
+        "startMs": 290749,
+        "durationMs": 6361
+      },
+      {
+        "text": "clasificación legal del tercero de la empresa y la configuración de la cuenta",
+        "startMs": 297110,
+        "durationMs": 6040
+      },
+      {
+        "text": "de gastos a emplear como podemos observar el sistema",
+        "startMs": 303150,
+        "durationMs": 5240
+      },
+      {
+        "text": "calculado de forma automática un reteiva al régimen simplificado del 8% un",
+        "startMs": 308390,
+        "durationMs": 7480
+      },
+      {
+        "text": "asumido del 8% y una retención por honorarios a personas naturales del 10%",
+        "startMs": 315870,
+        "durationMs": 6520
+      },
+      {
+        "text": "en donde el valor de la base corresponde al valor del pago de los",
+        "startMs": 322390,
+        "durationMs": 5600
+      },
+      {
+        "text": "honorarios para realizar el registro del comprobante indicaremos que el valor de",
+        "startMs": 327990,
+        "durationMs": 6880
+      },
+      {
+        "text": "558000 pesos lo llevaremos a una cuenta del banco por lo tanto haremos un clic",
+        "startMs": 334870,
+        "durationMs": 6400
+      },
+      {
+        "text": "en el campo banco y mediante el botón de diferencia ubicaremos el",
+        "startMs": 341270,
+        "durationMs": 6720
+      },
+      {
+        "text": "saldo en el campo de la cuenta digitem 1110 correspondiente a bancos y mediante",
+        "startMs": 347990,
+        "durationMs": 9120
+      },
+      {
+        "text": "el botón de búsqueda se seleccionaremos la cuenta auxiliar banco de vivienda",
+        "startMs": 357110,
+        "durationMs": 10240
+      },
+      {
+        "text": "111502 seleccionar en el tipo de movimiento",
+        "startMs": 367360,
+        "durationMs": 5310
+      },
+      {
+        "text": "indicaremos que se realizó el pago mediante un cheque girado a la",
+        "startMs": 372670,
+        "durationMs": 7639
+      },
+      {
+        "text": "fecha con número",
+        "startMs": 380319,
+        "durationMs": 5071
+      },
+      {
+        "text": "número 2805 41 566",
+        "startMs": 385390,
+        "durationMs": 4880
+      },
+      {
+        "text": "e igualmente indicaremos la fecha de transacción 28 de",
+        "startMs": 390270,
+        "durationMs": 6759
+      },
+      {
+        "text": "noviembre para imprimir el documento físico del comprobante hacemos un clic",
+        "startMs": 397029,
+        "durationMs": 5880
+      },
+      {
+        "text": "en el botón de imprimir y mediante el asistente",
+        "startMs": 402909,
+        "durationMs": 4840
+      },
+      {
+        "text": "haciendo clic en el botón de búsqueda podemos seleccionar el tipo de documento",
+        "startMs": 407749,
+        "durationMs": 4801
+      },
+      {
+        "text": "de impresión requerido",
+        "startMs": 412550,
+        "durationMs": 4319
+      },
+      {
+        "text": "requerido Cancelar activaremos con un click el",
+        "startMs": 416869,
+        "durationMs": 21401
+      },
+      {
+        "text": "autoproclamo guardado y procesado generando así un movimiento contable en",
+        "startMs": 438280,
+        "durationMs": 8830
+      },
+      {
+        "text": "nuestra contabilidad para visualizar el mento",
+        "startMs": 447110,
+        "durationMs": 2919
+      },
+      {
+        "text": "generado en la cinta de opciones del manejador de operaciones activaremos con",
+        "startMs": 450029,
+        "durationMs": 5241
+      },
+      {
+        "text": "un clic el inspector de datos y ubicados en la pestaña movimientos haremos un",
+        "startMs": 455270,
+        "durationMs": 6400
+      },
+      {
+        "text": "refrescar allí el sistema nos visualizará el movimiento de las",
+        "startMs": 461670,
+        "durationMs": 11720
+      },
+      {
+        "text": "cuentas esto es todo en cuanto al registro del pago de honorarios al",
+        "startMs": 473400,
+        "durationMs": 4909
+      },
+      {
+        "text": "contador de nuestra ener G yagos",
+        "startMs": 478309,
+        "durationMs": 6371
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nSoftware contable ContaPyme \nCP40-090-020-010B-030M\n\n## Transcripción\n\nejemplo dos pago de honorarios al contador en este segundo ejemplo\nrealizaremos mediante la operación de gastos y pagos el pago de los honorarios\nal contador de la empresa pes soluciones por lo que ubicados en el\nmanejador de operaciones ingresaremos a través del botón más\noperaciones ingresos y gastos y seleccionaremos la operación gastos y\npagos como podemos observar el sistema abierto\nla operación para registrar la transacción para registrar el pago de\nhonorarios el contador de Nuestra Empresa en el ejemplo lo soportaremos en\nun documento comprobante de egreso para ello en el campo tipo documento\ningresando por el botón de búsqueda seleccionaremos del listado el documento\nrequerido en este caso el documento de egreso es el documento predeterminado de\nesta operación por lo tanto el sistema nos indica que la operación a registrar\nserá el comprobante de egreso número 109 en el detalle de la operación\nespecificaremos una observación de lo que deseamos registrar en el documento\ncontador corespondiente al mes de\nnoviembre Generalmente esos pagos se realizan al fin de mes por lo que\nindicaremos que el pago se realizará el 28 de noviembre del\n2011 fecha de soporte de la operación en el campo gasto ha sido\npagado a indicaremos el tercero al cual le vamos a realizar el pago de los\nhonorarios en este ejemplo es decir el señor Pedro Osorio para ello\nhacemos clic en el botón de búsqueda y seleccionaremos el tercero\nrequerido seleccionar en el área de registro nos\nubicaremos en la columna cuenta gastos costos allí registraremos la cuenta\n511 correspondiente a la cuenta de horarios dado que no poseemos\nconocimiento de la cuenta auxiliar a emplear hacemos un clic en el botón de\nbúsqueda para seleccionar la cuenta auxiliar como podemos observar el\nsistema automáticamente filtra el listado de las cuentas visualizando solo\nlas cuentas que en su código empiecen por\npor 5110 de esta manera podemos ubicar la\ncuenta requerida en el menor tiempo posible por lo que ubicamos la cuenta 51\n1030 correspondiente a asesoría financiera\nfinanciera seleccionar en la columna centro de\ncostos mediante el botón de búsqueda indicaremos que este gasto se cargará al\ncontabilidad en la columna valor indicaremos el valor del pago de los\nhonorarios del contador es decir 620,000\n620,000 pes en el campo detalle indicaremos una\nobservación del gasto Así que digitem pago de honorarios al\ncontador como podemos observar en esta operación la persona que registra no\nrequiere tener amplios conocimientos con ya que no requiere indicar si el valor a\nregistrar hace parte del débito o del crédito sino que el sistema\ninmediatamente reconoce al ser una operación de gastos y pagos que el saldo\ndebe ser llevado al débito según la naturaleza de la\ncuenta dado que no poseemos otros gastos a registrar en este\ncomprobante haremos un clic en el botón siguiente\nen el paso número dos de la operación de gastos y pagos haremos la liquidación de\nimpuestos e indicaremos la forma de pago recordemos que el sistema realiza\nel cálculo automático de impuestos con tan solo hacer un clic en el botón de la\ncalculadora siempre y cuando el sistema se tenga correctamente configurada la\nclasificación legal del tercero de la empresa y la configuración de la cuenta\nde gastos a emplear como podemos observar el sistema\ncalculado de forma automática un reteiva al régimen simplificado del 8% un\nasumido del 8% y una retención por honorarios a personas naturales del 10%\nen donde el valor de la base corresponde al valor del pago de los\nhonorarios para realizar el registro del comprobante indicaremos que el valor de\n558000 pesos lo llevaremos a una cuenta del banco por lo tanto haremos un clic\nen el campo banco y mediante el botón de diferencia ubicaremos el\nsaldo en el campo de la cuenta digitem 1110 correspondiente a bancos y mediante\nel botón de búsqueda se seleccionaremos la cuenta auxiliar banco de vivienda\n111502 seleccionar en el tipo de movimiento\nindicaremos que se realizó el pago mediante un cheque girado a la\nfecha con número\nnúmero 2805 41 566\ne igualmente indicaremos la fecha de transacción 28 de\nnoviembre para imprimir el documento físico del comprobante hacemos un clic\nen el botón de imprimir y mediante el asistente\nhaciendo clic en el botón de búsqueda podemos seleccionar el tipo de documento\nde impresión requerido\nrequerido Cancelar activaremos con un click el\nautoproclamo guardado y procesado generando así un movimiento contable en\nnuestra contabilidad para visualizar el mento\ngenerado en la cinta de opciones del manejador de operaciones activaremos con\nun clic el inspector de datos y ubicados en la pestaña movimientos haremos un\nrefrescar allí el sistema nos visualizará el movimiento de las\ncuentas esto es todo en cuanto al registro del pago de honorarios al\ncontador de nuestra ener G yagos"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 192.089,
+    "asr": 44100,
+    "filesizeApprox": 11625754,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/K1HoOdIid_k.md",
+    "json": "videos/2011/K1HoOdIid_k.json",
+    "infoJson": "videos/2011/K1HoOdIid_k.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

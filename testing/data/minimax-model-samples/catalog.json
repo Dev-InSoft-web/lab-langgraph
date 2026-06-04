@@ -1,0 +1,208 @@
+{
+  "source": "https://platform.minimax.io/docs/guides/models-intro",
+  "catalog": [
+    {
+      "modality": "language",
+      "model": "MiniMax-M3",
+      "tier": "current",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.7",
+      "tier": "current",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.7-highspeed",
+      "tier": "current",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.5",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.5-highspeed",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.1",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2.1-highspeed",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "language",
+      "model": "MiniMax-M2",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.8-hd",
+      "tier": "current",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.8-turbo",
+      "tier": "current",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.6-hd",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "speech",
+      "model": "speech-2.6-turbo",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "speech",
+      "model": "speech-02-hd",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "speech",
+      "model": "speech-02-turbo",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "image",
+      "model": "image-01",
+      "tier": "current",
+      "description": "Text-to-image e image-to-image",
+      "testable": true
+    },
+    {
+      "modality": "music",
+      "model": "music-2.6",
+      "tier": "current",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "music",
+      "model": "music-2.5",
+      "tier": "legacy",
+      "description": "Generación previa (no en models-intro 2026)",
+      "testable": true
+    },
+    {
+      "modality": "music",
+      "model": "music-2.0",
+      "tier": "legacy",
+      "description": "",
+      "testable": true
+    },
+    {
+      "modality": "video",
+      "model": "MiniMax-Hailuo-2.3",
+      "tier": "current",
+      "description": "Text/Image to Video",
+      "testable": true
+    },
+    {
+      "modality": "video",
+      "model": "MiniMax-Hailuo-2.3-Fast",
+      "tier": "current",
+      "description": "Image-to-Video (requiere imagen)",
+      "testable": true
+    },
+    {
+      "modality": "video",
+      "model": "MiniMax-Hailuo-02",
+      "tier": "legacy",
+      "description": "Text/Image to Video",
+      "testable": true
+    },
+    {
+      "modality": "tool",
+      "model": "t2a-async",
+      "tier": "current",
+      "description": "TTS asíncrono largo (hasta 1M caracteres) · speech-2.8/2.6/02",
+      "testable": false
+    },
+    {
+      "modality": "tool",
+      "model": "voice-clone",
+      "tier": "current",
+      "description": "Clonación de voz desde audio de referencia",
+      "testable": false
+    },
+    {
+      "modality": "tool",
+      "model": "voice-design",
+      "tier": "current",
+      "description": "Voz personalizada desde descripción textual",
+      "testable": false
+    },
+    {
+      "modality": "tool",
+      "model": "Music-Cover",
+      "tier": "current",
+      "description": "Cover / style transfer desde audio de referencia",
+      "testable": false
+    },
+    {
+      "modality": "tool",
+      "model": "video-agent",
+      "tier": "current",
+      "description": "Plantillas (Diving, Run for Life, Transformers, etc.)",
+      "testable": false
+    },
+    {
+      "modality": "tool",
+      "model": "file-management",
+      "tier": "current",
+      "description": "Upload / List / Retrieve / Delete (mp3, pdf, …)",
+      "testable": false
+    },
+    {
+      "modality": "tool",
+      "model": "lyrics-generation",
+      "tier": "current",
+      "description": "Generación de letras para música",
+      "testable": false
+    },
+    {
+      "modality": "language",
+      "model": "M2-her",
+      "tier": "current",
+      "description": "Chat / role-play (64k); no listado en models-intro principal",
+      "testable": false
+    }
+  ]
+}

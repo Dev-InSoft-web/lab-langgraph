@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:28:28.486Z",
+  "videoId": "yGn5oIgosKo",
+  "videoUrl": "https://www.youtube.com/watch?v=yGn5oIgosKo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "yGn5oIgosKo",
+    "title": "Software contable ContaPyme - Operación de consumo del alias de un elemento",
+    "fulltitle": "Software contable ContaPyme - Operación de consumo del alias de un elemento",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo realizar una operación de consumo de un elemento alias y el movimiento contable y de inventarios que genera.\nCP40-130-050-050B-060M",
+    "duration": 273,
+    "duration_string": "4:33",
+    "upload_date": "20120616",
+    "timestamp": 1339865280,
+    "view_count": 54,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software contable",
+      "paquete contable",
+      "software contable colombia",
+      "programa contable",
+      "sistema contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/yGn5oIgosKo/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD15Ia8XCtUtawL5tISjIXiW0iKFg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAjlKnzbcJ4e9bs1YVQa_hUKAyRjg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZrZYHSmMNqofU6POnc8AtdcTLLA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM_3dGQfy5VJKrbB3RqfIx7lYozQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/yGn5oIgosKo/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/yGn5oIgosKo/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=yGn5oIgosKo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.3663003663003663,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5054945054945055,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5054945054945055,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 259.554,
+        "asr": 44100,
+        "filesize_approx": 8864709,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Operación de consumo del alias de un elemento",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/yGn5oIgosKo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/yGn5oIgosKo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Operación de consumo del alias de un elemento\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 42,
+    "transcriptChars": 3003,
+    "segments": [
+      {
+        "text": "operación de consumo del alias de un elemento cuando ya hemos definido y",
+        "startMs": 440,
+        "durationMs": 6989
+      },
+      {
+        "text": "configurado el alias de un elemento de inventario podemos utilizarlo en la",
+        "startMs": 7429,
+        "durationMs": 5320
+      },
+      {
+        "text": "operación de planilla de uso y o consumo vamos a registrar el consumo de una",
+        "startMs": 12749,
+        "durationMs": 6680
+      },
+      {
+        "text": "resma de papel carta para el departamento",
+        "startMs": 19429,
+        "durationMs": 3721
+      },
+      {
+        "text": "departamento administrativo como es para consumo",
+        "startMs": 23150,
+        "durationMs": 2119
+      },
+      {
+        "text": "interno de la empresa necesitamos que se lleve a una cuenta específica del gasto",
+        "startMs": 25269,
+        "durationMs": 6201
+      },
+      {
+        "text": "por tal motivo tenemos creado el alias resma de papel carta para consumo",
+        "startMs": 31470,
+        "durationMs": 5919
+      },
+      {
+        "text": "ubicados en el manejador de operaciones ingresamos a la operación de planilla de",
+        "startMs": 37389,
+        "durationMs": 6640
+      },
+      {
+        "text": "uso y o consumo y nos abre el asistente para registrar la",
+        "startMs": 44029,
+        "durationMs": 5961
+      },
+      {
+        "text": "operación verificamos el tipo de documento en el cual vamos a soportar la",
+        "startMs": 49990,
+        "durationMs": 5719
+      },
+      {
+        "text": "operación en este caso el sistema nos sugiere una planilla de consumo y nos",
+        "startMs": 55709,
+        "durationMs": 6320
+      },
+      {
+        "text": "indica el número del documento indicamos el",
+        "startMs": 62029,
+        "durationMs": 5521
+      },
+      {
+        "text": "detalle en este caso como lo tenemos en el portapapeles lo vamos a",
+        "startMs": 67550,
+        "durationMs": 6640
+      },
+      {
+        "text": "pegar indicamos el código de la bodega indicamos el",
+        "startMs": 74190,
+        "durationMs": 10440
+      },
+      {
+        "text": "responsable seleccionamos el producto en este caso la",
+        "startMs": 84640,
+        "durationMs": 11710
+      },
+      {
+        "text": "consumo indicamos el centro de costos en este caso el departamento",
+        "startMs": 96360,
+        "durationMs": 10230
+      },
+      {
+        "text": "administrativo indicamos la labor e indicamos la cantidad que se va",
+        "startMs": 106600,
+        "durationMs": 8910
+      },
+      {
+        "text": "a consumir en este caso solo Vamos a",
+        "startMs": 115510,
+        "durationMs": 2720
+      },
+      {
+        "text": "realizar el consumo de este producto vamos a visualizar cómo nos quedará",
+        "startMs": 118230,
+        "durationMs": 10960
+      },
+      {
+        "text": "consumo podemos observar el responsable la bodega de la cual se le",
+        "startMs": 129200,
+        "durationMs": 5950
+      },
+      {
+        "text": "dio salida al producto tenemos el centro de",
+        "startMs": 135150,
+        "durationMs": 4240
+      },
+      {
+        "text": "de costos y el producto Con su respectiva",
+        "startMs": 139390,
+        "durationMs": 3680
+      },
+      {
+        "text": "cantidad valor unitario y valor total cerramos y damos aceptar para guardar la",
+        "startMs": 143070,
+        "durationMs": 11400
+      },
+      {
+        "text": "operación podemos visualizar que este consumo nos quedó registrado y procesado",
+        "startMs": 154480,
+        "durationMs": 6430
+      },
+      {
+        "text": "en el manejador de operaciones vamos a visualizar el",
+        "startMs": 160910,
+        "durationMs": 4920
+      },
+      {
+        "text": "movimiento contable que nos generó este consumo del alias de un elemento de",
+        "startMs": 165830,
+        "durationMs": 6440
+      },
+      {
+        "text": "inventario podemos observar que nos generó el movimiento contable que",
+        "startMs": 172270,
+        "durationMs": 5080
+      },
+      {
+        "text": "normalmente realiza un consumo es decir que realizó un movimiento crédito de la",
+        "startMs": 177350,
+        "durationMs": 6239
+      },
+      {
+        "text": "cuenta de inventarios y lo cruzó contra la cuenta del",
+        "startMs": 183589,
+        "durationMs": 4881
+      },
+      {
+        "text": "gasto es decir que generalmente cuando procesamos el consumo de un alias de un",
+        "startMs": 188470,
+        "durationMs": 6319
+      },
+      {
+        "text": "elemento de inventario el sistema genera el movimiento contable normal de un",
+        "startMs": 194789,
+        "durationMs": 6641
+      },
+      {
+        "text": "consumo pero debemos tener en cuenta que utiliza las cuentas que tenemos",
+        "startMs": 201430,
+        "durationMs": 5960
+      },
+      {
+        "text": "configuradas para el consumo del elemento",
+        "startMs": 207390,
+        "durationMs": 5360
+      },
+      {
+        "text": "alias además el costo del producto que el sistema maneja en la operación es el",
+        "startMs": 212760,
+        "durationMs": 6790
+      },
+      {
+        "text": "costo del elemento base en este caso el costo de la resma de papel",
+        "startMs": 219550,
+        "durationMs": 6640
+      },
+      {
+        "text": "carta si visualizamos el movimiento de inventarios que generó este",
+        "startMs": 226190,
+        "durationMs": 7640
+      },
+      {
+        "text": "consumo podemos observar la salida de la resma de papel carta con su respectiva",
+        "startMs": 233830,
+        "durationMs": 8080
+      },
+      {
+        "text": "cantidad costo unitario y costo total Esto se debe a que en el",
+        "startMs": 241910,
+        "durationMs": 7239
+      },
+      {
+        "text": "movimiento de inventario que genera el consumo de un elemento alias el sistema",
+        "startMs": 249149,
+        "durationMs": 6080
+      },
+      {
+        "text": "siempre dará salida al elemento base al cual hace referencia no al elemento",
+        "startMs": 255229,
+        "durationMs": 7400
+      },
+      {
+        "text": "alias Cerramos el explorador Y esto es todo sobre",
+        "startMs": 262629,
+        "durationMs": 6041
+      },
+      {
+        "text": "operación de consumo del alias de un elemento",
+        "startMs": 268670,
+        "durationMs": 6410
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo realizar una operación de consumo de un elemento alias y el movimiento contable y de inventarios que genera.\nCP40-130-050-050B-060M\n\n## Transcripción\n\noperación de consumo del alias de un elemento cuando ya hemos definido y\nconfigurado el alias de un elemento de inventario podemos utilizarlo en la\noperación de planilla de uso y o consumo vamos a registrar el consumo de una\nresma de papel carta para el departamento\ndepartamento administrativo como es para consumo\ninterno de la empresa necesitamos que se lleve a una cuenta específica del gasto\npor tal motivo tenemos creado el alias resma de papel carta para consumo\nubicados en el manejador de operaciones ingresamos a la operación de planilla de\nuso y o consumo y nos abre el asistente para registrar la\noperación verificamos el tipo de documento en el cual vamos a soportar la\noperación en este caso el sistema nos sugiere una planilla de consumo y nos\nindica el número del documento indicamos el\ndetalle en este caso como lo tenemos en el portapapeles lo vamos a\npegar indicamos el código de la bodega indicamos el\nresponsable seleccionamos el producto en este caso la\nconsumo indicamos el centro de costos en este caso el departamento\nadministrativo indicamos la labor e indicamos la cantidad que se va\na consumir en este caso solo Vamos a\nrealizar el consumo de este producto vamos a visualizar cómo nos quedará\nconsumo podemos observar el responsable la bodega de la cual se le\ndio salida al producto tenemos el centro de\nde costos y el producto Con su respectiva\ncantidad valor unitario y valor total cerramos y damos aceptar para guardar la\noperación podemos visualizar que este consumo nos quedó registrado y procesado\nen el manejador de operaciones vamos a visualizar el\nmovimiento contable que nos generó este consumo del alias de un elemento de\ninventario podemos observar que nos generó el movimiento contable que\nnormalmente realiza un consumo es decir que realizó un movimiento crédito de la\ncuenta de inventarios y lo cruzó contra la cuenta del\ngasto es decir que generalmente cuando procesamos el consumo de un alias de un\nelemento de inventario el sistema genera el movimiento contable normal de un\nconsumo pero debemos tener en cuenta que utiliza las cuentas que tenemos\nconfiguradas para el consumo del elemento\nalias además el costo del producto que el sistema maneja en la operación es el\ncosto del elemento base en este caso el costo de la resma de papel\ncarta si visualizamos el movimiento de inventarios que generó este\nconsumo podemos observar la salida de la resma de papel carta con su respectiva\ncantidad costo unitario y costo total Esto se debe a que en el\nmovimiento de inventario que genera el consumo de un elemento alias el sistema\nsiempre dará salida al elemento base al cual hace referencia no al elemento\nalias Cerramos el explorador Y esto es todo sobre\noperación de consumo del alias de un elemento"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 259.554,
+    "asr": 44100,
+    "filesizeApprox": 8864709,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/yGn5oIgosKo.md",
+    "json": "videos/2012/yGn5oIgosKo.json",
+    "infoJson": "videos/2012/yGn5oIgosKo.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

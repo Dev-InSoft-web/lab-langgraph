@@ -1,0 +1,63 @@
+{
+  "updatedAt": "2026-06-04T14:28:19.508Z",
+  "welcomeStartedAt": "2026-06-04",
+  "welcomeDays": 30,
+  "catalog": [
+    {
+      "platformName": "DeepSeek Chat (V3 / flash)",
+      "modelId": "deepseek-chat",
+      "freeTier": true,
+      "welcomeCredits": true,
+      "notes": "generación rápida"
+    },
+    {
+      "platformName": "DeepSeek Reasoner (R1)",
+      "modelId": "deepseek-reasoner",
+      "freeTier": true,
+      "welcomeCredits": true,
+      "notes": "cadena de pensamiento"
+    }
+  ],
+  "results": [
+    {
+      "apiKeyLabel": "DEEPSEEK_API_KEY",
+      "modelId": "deepseek-chat",
+      "platformName": "DeepSeek Chat (V3 / flash)",
+      "ok": false,
+      "httpStatus": 402,
+      "reply": "",
+      "detail": "{\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+      "elapsedMs": 870
+    },
+    {
+      "apiKeyLabel": "DEEPSEEK_API_KEY",
+      "modelId": "deepseek-reasoner",
+      "platformName": "DeepSeek Reasoner (R1)",
+      "ok": false,
+      "httpStatus": 402,
+      "reply": "",
+      "detail": "{\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+      "elapsedMs": 779
+    },
+    {
+      "apiKeyLabel": "DEEPSEEK_API_KEY_2",
+      "modelId": "deepseek-chat",
+      "platformName": "DeepSeek Chat (V3 / flash)",
+      "ok": false,
+      "httpStatus": 402,
+      "reply": "",
+      "detail": "{\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+      "elapsedMs": 779
+    },
+    {
+      "apiKeyLabel": "DEEPSEEK_API_KEY_2",
+      "modelId": "deepseek-reasoner",
+      "platformName": "DeepSeek Reasoner (R1)",
+      "ok": false,
+      "httpStatus": 402,
+      "reply": "",
+      "detail": "{\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+      "elapsedMs": 740
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:27:06.069Z",
+  "videoId": "5dT3g6sWU00",
+  "videoUrl": "https://www.youtube.com/watch?v=5dT3g6sWU00",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "5dT3g6sWU00",
+    "title": "Software Contable ContaPyme  - ContaExcel Add In - Función movimiento cuenta valor 1",
+    "fulltitle": "Software Contable ContaPyme  - ContaExcel Add In - Función movimiento cuenta valor 1",
+    "description": "http://www.contapyme.com\nhttp://www.contapyme.com/software-agricola\nEste video de ContaExcel Add In explica el uso de la función Movimiento cuenta valor 1, este valor sirve para agregar a los movimientos de las cuentas parámetros adicionales, esto usando el software contable ContaPyme.\nCP40-385-040-030B-010M",
+    "duration": 367,
+    "duration_string": "6:07",
+    "upload_date": "20120915",
+    "timestamp": 1347721226,
+    "view_count": 65,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software contable",
+      "paquete contable",
+      "software contable colombia",
+      "programa contable",
+      "sistema contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/5dT3g6sWU00/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwFxtrIdt0Q_A_4sWSvoryXGhZ8g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLN1dQUqJI1vUCgN6sZZjutukSFQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2bc-MeVuaaqetw0eB_twvVVGicQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAjJQKd8BWH6eeogTu4yCpf61Cbg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5dT3g6sWU00/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5dT3g6sWU00/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=5dT3g6sWU00",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2724795640326976,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20435967302452315,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20435967302452315,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 196.274,
+        "asr": 44100,
+        "filesize_approx": 8992440,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software Contable ContaPyme  - ContaExcel Add In - Función movimiento cuenta valor 1",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/5dT3g6sWU00/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/5dT3g6sWU00?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software Contable ContaPyme  - ContaExcel Add In - Función movimiento cuenta valor 1\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 67,
+    "transcriptChars": 4816,
+    "segments": [
+      {
+        "text": "así como valor base también hay otra serie de funciones que me puedes",
+        "startMs": 3230,
+        "durationMs": 5760
+      },
+      {
+        "text": "permiten ir por ejemplo a movimiento cuenta valor 1 la gente me pregunta",
+        "startMs": 8990,
+        "durationMs": 4259
+      },
+      {
+        "text": "bueno y que es el valor 1 el valor 1 corresponde a una",
+        "startMs": 13249,
+        "durationMs": 4881
+      },
+      {
+        "text": "característica especial de conta pyme donde yo a los movimientos de las",
+        "startMs": 18130,
+        "durationMs": 3960
+      },
+      {
+        "text": "cuentas les puedo poner parámetros adicionales muy bien",
+        "startMs": 22090,
+        "durationMs": 3920
+      },
+      {
+        "text": "estamos abriendo no contaba pymes en sus pruebas muy bien",
+        "startMs": 26010,
+        "durationMs": 9530
+      },
+      {
+        "text": "entonces nosotros podemos configurar digamos la operación de movimiento",
+        "startMs": 35550,
+        "durationMs": 5569
+      },
+      {
+        "text": "contable para que pida parámetros adicionales en este caso he configurado",
+        "startMs": 41119,
+        "durationMs": 4551
+      },
+      {
+        "text": "digamos el movimiento de la cuenta para que yo pueda asignarle cuando se muevan",
+        "startMs": 45670,
+        "durationMs": 5949
+      },
+      {
+        "text": "las cuentas además de un valor base por ejemplo como tengo acá es pero voy a",
+        "startMs": 51619,
+        "durationMs": 3930
+      },
+      {
+        "text": "poner una nueva voy a poner una operación nueva de contabilidad",
+        "startMs": 55549,
+        "durationMs": 7851
+      },
+      {
+        "text": "aquí se las acomodo observen que yo puedo poner aquí yo podía poner el valor",
+        "startMs": 63400,
+        "durationMs": 5310
+      },
+      {
+        "text": "base y todo lo que normalmente conocemos pero aquí me están apareciendo unas",
+        "startMs": 68710,
+        "durationMs": 5550
+      },
+      {
+        "text": "columnas especiales esas columnas especiales son valor 1 y clase 1 que yo",
+        "startMs": 74260,
+        "durationMs": 6389
+      },
+      {
+        "text": "le puedo configurar a las diferentes cuentas",
+        "startMs": 80649,
+        "durationMs": 3091
+      },
+      {
+        "text": "cuentas si yo conozco una cuenta por ejemplo",
+        "startMs": 83740,
+        "durationMs": 3700
+      },
+      {
+        "text": "11 05 05 observemos que él me va a aparecer unas",
+        "startMs": 87440,
+        "durationMs": 5900
+      },
+      {
+        "text": "columnas en blanco que quiere decir que son valores requeridos como pringles a",
+        "startMs": 93340,
+        "durationMs": 3710
+      },
+      {
+        "text": "requiere sin flujo de efectivo pero llegamos acá y valoro mi clase 1 que fue",
+        "startMs": 97050,
+        "durationMs": 6190
+      },
+      {
+        "text": "valores adicionales que quería digitar las cuentas observen que no me aparece",
+        "startMs": 103240,
+        "durationMs": 5070
+      },
+      {
+        "text": "como el requerido sino que me aparece en color verde citó eso significa que yo si",
+        "startMs": 108310,
+        "durationMs": 5520
+      },
+      {
+        "text": "quiero puedo dar el valor de clase 1 y si quiero no doy esos valores pero yo le",
+        "startMs": 113830,
+        "durationMs": 6030
+      },
+      {
+        "text": "puse que a la cuenta de ingresos 41 creo que fue a estas capacitaciones y",
+        "startMs": 119860,
+        "durationMs": 9090
+      },
+      {
+        "text": "auditorías entonces observen que él está poniendo",
+        "startMs": 128950,
+        "durationMs": 2580
+      },
+      {
+        "text": "por ser de estado el resultado no está exhibiéndose entre costos está exigiendo",
+        "startMs": 131530,
+        "durationMs": 4680
+      },
+      {
+        "text": "tercero sí pero observen que aquí ya me está exigiendo valor 1 y clase 1 eso por",
+        "startMs": 136210,
+        "durationMs": 7050
+      },
+      {
+        "text": "qué porque yo fui allá a la cuenta y la configure para que exigieran valor 1 y",
+        "startMs": 143260,
+        "durationMs": 6810
+      },
+      {
+        "text": "clase 1 les voy a mostrar por qué sé que muchos",
+        "startMs": 150070,
+        "durationMs": 3870
+      },
+      {
+        "text": "pueden no saber muy bien cómo es que este manejo esto me sirve por ejemplo en",
+        "startMs": 153940,
+        "durationMs": 3660
+      },
+      {
+        "text": "este caso yo podría decir que esta cuenta que es",
+        "startMs": 157600,
+        "durationMs": 3749
+      },
+      {
+        "text": "capacitaciones por ejemplo aquí voy a andar en en valor uno podría dar por",
+        "startMs": 161349,
+        "durationMs": 6061
+      },
+      {
+        "text": "ejemplo el número de horas de capacitación tenemos 45 y aquí la unidad",
+        "startMs": 167410,
+        "durationMs": 7050
+      },
+      {
+        "text": "horas entonces decíamos que yo puede utilizar",
+        "startMs": 174460,
+        "durationMs": 3450
+      },
+      {
+        "text": "estos para dar información adicional entonces cuando yo doy esta información",
+        "startMs": 177910,
+        "durationMs": 4800
+      },
+      {
+        "text": "yo es de context él podría hacer cálculos con ella por ejemplo el",
+        "startMs": 182710,
+        "durationMs": 4170
+      },
+      {
+        "text": "movimiento cuenta valor 1 y entonces él me diría cuántas horas en total se han",
+        "startMs": 186880,
+        "durationMs": 5430
+      },
+      {
+        "text": "registrado por la cuenta esta que es capacitaciones",
+        "startMs": 192310,
+        "durationMs": 5340
+      },
+      {
+        "text": "capacitaciones entonces yo esto como lo configuró yo",
+        "startMs": 197650,
+        "durationMs": 4260
+      },
+      {
+        "text": "simplemente voy y el plan de cuentas voy a llamar aquí",
+        "startMs": 201910,
+        "durationMs": 5000
+      },
+      {
+        "text": "el plan de cuentas y voy a llamar a esa cuenta 41 algo",
+        "startMs": 206910,
+        "durationMs": 6800
+      },
+      {
+        "text": "las capacitaciones entonces aquí está capacitaciones de",
+        "startMs": 213710,
+        "durationMs": 4590
+      },
+      {
+        "text": "auditoría si yo le doy doble click dentro editar",
+        "startMs": 218300,
+        "durationMs": 4090
+      },
+      {
+        "text": "y entonces observen que aquí hay un botón que se llama",
+        "startMs": 222390,
+        "durationMs": 4760
+      },
+      {
+        "text": "información adicional este botón yo vine y le había marcado",
+        "startMs": 227150,
+        "durationMs": 6540
+      },
+      {
+        "text": "esta cuenta que exigiera clase 1 y que exigiera valor 1 si yo le pusiera que",
+        "startMs": 233690,
+        "durationMs": 6000
+      },
+      {
+        "text": "clase 1 clase 2 valor un valor 2 entonces cuando yo vaya aquí",
+        "startMs": 239690,
+        "durationMs": 10340
+      },
+      {
+        "text": "y digo que si me las marcas como visibles es cuando yo vuelva al",
+        "startMs": 250040,
+        "durationMs": 5450
+      },
+      {
+        "text": "movimiento contable manejador de operaciones y vuelva a dar una cuenta un",
+        "startMs": 255490,
+        "durationMs": 6030
+      },
+      {
+        "text": "movimiento contable y vuelvo a dar la cuenta",
+        "startMs": 261520,
+        "durationMs": 5340
+      },
+      {
+        "text": "las aquellas que eran capacitaciones y auditorías entonces observamos que",
+        "startMs": 266870,
+        "durationMs": 11080
+      },
+      {
+        "text": "bueno en este caso el sistema no me está mostrando el valor 2 y clase 2 muy",
+        "startMs": 277960,
+        "durationMs": 5810
+      },
+      {
+        "text": "posiblemente porque está usando los cachés entonces le voy a decir cerrar un",
+        "startMs": 283770,
+        "durationMs": 6349
+      },
+      {
+        "text": "momentico y le voy a decir aquí que me borre los",
+        "startMs": 290119,
+        "durationMs": 4410
+      },
+      {
+        "text": "cachés se pierden se meten aquí borrar las casillas y refrescar",
+        "startMs": 294529,
+        "durationMs": 6630
+      },
+      {
+        "text": "ventanas abiertas entonces me va a dar un segundito eso pues no son",
+        "startMs": 301159,
+        "durationMs": 3901
+      },
+      {
+        "text": "configuraciones que no haga todo ahora pero cuando encuentran que algo no les",
+        "startMs": 305060,
+        "durationMs": 3720
+      },
+      {
+        "text": "funciona bien recuerden que el sistema tiene caché es respecto al sistema",
+        "startMs": 308780,
+        "durationMs": 4530
+      },
+      {
+        "text": "central y que por tanto pueden tener algunas inconsistencias respecto a",
+        "startMs": 313310,
+        "durationMs": 5940
+      },
+      {
+        "text": "cambios que hayan acabado de hacer es robarse el sistema pues para trabajar",
+        "startMs": 319250,
+        "durationMs": 3600
+      },
+      {
+        "text": "más rápido esperemos pues ahora que me funcione si",
+        "startMs": 322850,
+        "durationMs": 3950
+      },
+      {
+        "text": "miren aquí ahora tengo la columna valor a un valor 2 y la columna clase de mi",
+        "startMs": 326800,
+        "durationMs": 5550
+      },
+      {
+        "text": "clase 2 yo también le puedo dar nombres a esas columnas eso",
+        "startMs": 332350,
+        "durationMs": 5060
+      },
+      {
+        "text": "a ver si me acuerdo eso está por la configuración del plan de cuentas lo",
+        "startMs": 337410,
+        "durationMs": 4260
+      },
+      {
+        "text": "cierto del caso es que si yo doy aquí una cuenta poniendo las 1105 bueno aquí",
+        "startMs": 341670,
+        "durationMs": 5820
+      },
+      {
+        "text": "voy a poner de primero está las capacitaciones observemos que",
+        "startMs": 347490,
+        "durationMs": 6190
+      },
+      {
+        "text": "entonces aquí ya me está exigiendo los cuatro valores",
+        "startMs": 353680,
+        "durationMs": 4810
+      },
+      {
+        "text": "estos valores son muy importantes para personas que quieren llevar datos",
+        "startMs": 358490,
+        "durationMs": 9120
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nhttp://www.contapyme.com/software-agricola\nEste video de ContaExcel Add In explica el uso de la función Movimiento cuenta valor 1, este valor sirve para agregar a los movimientos de las cuentas parámetros adicionales, esto usando el software contable ContaPyme.\nCP40-385-040-030B-010M\n\n## Transcripción\n\nasí como valor base también hay otra serie de funciones que me puedes\npermiten ir por ejemplo a movimiento cuenta valor 1 la gente me pregunta\nbueno y que es el valor 1 el valor 1 corresponde a una\ncaracterística especial de conta pyme donde yo a los movimientos de las\ncuentas les puedo poner parámetros adicionales muy bien\nestamos abriendo no contaba pymes en sus pruebas muy bien\nentonces nosotros podemos configurar digamos la operación de movimiento\ncontable para que pida parámetros adicionales en este caso he configurado\ndigamos el movimiento de la cuenta para que yo pueda asignarle cuando se muevan\nlas cuentas además de un valor base por ejemplo como tengo acá es pero voy a\nponer una nueva voy a poner una operación nueva de contabilidad\naquí se las acomodo observen que yo puedo poner aquí yo podía poner el valor\nbase y todo lo que normalmente conocemos pero aquí me están apareciendo unas\ncolumnas especiales esas columnas especiales son valor 1 y clase 1 que yo\nle puedo configurar a las diferentes cuentas\ncuentas si yo conozco una cuenta por ejemplo\n11 05 05 observemos que él me va a aparecer unas\ncolumnas en blanco que quiere decir que son valores requeridos como pringles a\nrequiere sin flujo de efectivo pero llegamos acá y valoro mi clase 1 que fue\nvalores adicionales que quería digitar las cuentas observen que no me aparece\ncomo el requerido sino que me aparece en color verde citó eso significa que yo si\nquiero puedo dar el valor de clase 1 y si quiero no doy esos valores pero yo le\npuse que a la cuenta de ingresos 41 creo que fue a estas capacitaciones y\nauditorías entonces observen que él está poniendo\npor ser de estado el resultado no está exhibiéndose entre costos está exigiendo\ntercero sí pero observen que aquí ya me está exigiendo valor 1 y clase 1 eso por\nqué porque yo fui allá a la cuenta y la configure para que exigieran valor 1 y\nclase 1 les voy a mostrar por qué sé que muchos\npueden no saber muy bien cómo es que este manejo esto me sirve por ejemplo en\neste caso yo podría decir que esta cuenta que es\ncapacitaciones por ejemplo aquí voy a andar en en valor uno podría dar por\nejemplo el número de horas de capacitación tenemos 45 y aquí la unidad\nhoras entonces decíamos que yo puede utilizar\nestos para dar información adicional entonces cuando yo doy esta información\nyo es de context él podría hacer cálculos con ella por ejemplo el\nmovimiento cuenta valor 1 y entonces él me diría cuántas horas en total se han\nregistrado por la cuenta esta que es capacitaciones\ncapacitaciones entonces yo esto como lo configuró yo\nsimplemente voy y el plan de cuentas voy a llamar aquí\nel plan de cuentas y voy a llamar a esa cuenta 41 algo\nlas capacitaciones entonces aquí está capacitaciones de\nauditoría si yo le doy doble click dentro editar\ny entonces observen que aquí hay un botón que se llama\ninformación adicional este botón yo vine y le había marcado\nesta cuenta que exigiera clase 1 y que exigiera valor 1 si yo le pusiera que\nclase 1 clase 2 valor un valor 2 entonces cuando yo vaya aquí\ny digo que si me las marcas como visibles es cuando yo vuelva al\nmovimiento contable manejador de operaciones y vuelva a dar una cuenta un\nmovimiento contable y vuelvo a dar la cuenta\nlas aquellas que eran capacitaciones y auditorías entonces observamos que\nbueno en este caso el sistema no me está mostrando el valor 2 y clase 2 muy\nposiblemente porque está usando los cachés entonces le voy a decir cerrar un\nmomentico y le voy a decir aquí que me borre los\ncachés se pierden se meten aquí borrar las casillas y refrescar\nventanas abiertas entonces me va a dar un segundito eso pues no son\nconfiguraciones que no haga todo ahora pero cuando encuentran que algo no les\nfunciona bien recuerden que el sistema tiene caché es respecto al sistema\ncentral y que por tanto pueden tener algunas inconsistencias respecto a\ncambios que hayan acabado de hacer es robarse el sistema pues para trabajar\nmás rápido esperemos pues ahora que me funcione si\nmiren aquí ahora tengo la columna valor a un valor 2 y la columna clase de mi\nclase 2 yo también le puedo dar nombres a esas columnas eso\na ver si me acuerdo eso está por la configuración del plan de cuentas lo\ncierto del caso es que si yo doy aquí una cuenta poniendo las 1105 bueno aquí\nvoy a poner de primero está las capacitaciones observemos que\nentonces aquí ya me está exigiendo los cuatro valores\nestos valores son muy importantes para personas que quieren llevar datos"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 196.274,
+    "asr": 44100,
+    "filesizeApprox": 8992440,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/5dT3g6sWU00.md",
+    "json": "videos/2012/5dT3g6sWU00.json",
+    "infoJson": "videos/2012/5dT3g6sWU00.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

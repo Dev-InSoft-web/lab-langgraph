@@ -1,0 +1,23 @@
+{
+  "startedAt": "2026-06-04T02:15:58.362Z",
+  "finishedAt": "2026-06-04T02:15:58.436Z",
+  "videosDir": "C:\\Users\\JAGUDELOE\\Documents\\Contapyme\\ISA-DOC\\data\\lab-langgraph\\vectorize\\youtube\\contapyme-software-contable\\videos",
+  "apiBase": "http://localhost:5500/api",
+  "totalInDir": 1018,
+  "inBatch": 1,
+  "processed": 1,
+  "skipped": 0,
+  "failed": 0,
+  "segmentsChangedTotal": 0,
+  "opts": {
+    "apiBase": "http://localhost:5500/api",
+    "force": true,
+    "dryRun": false,
+    "limit": null,
+    "offset": 0,
+    "delayMs": 0,
+    "skipCorrectedLocally": false,
+    "videoId": "-j1oaghiy3U"
+  },
+  "errors": []
+}

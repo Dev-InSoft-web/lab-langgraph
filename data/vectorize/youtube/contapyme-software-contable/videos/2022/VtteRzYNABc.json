@@ -1,0 +1,799 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:18:45.711Z",
+  "videoId": "VtteRzYNABc",
+  "videoUrl": "https://www.youtube.com/watch?v=VtteRzYNABc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "VtteRzYNABc",
+    "title": "Proceso de actualización del sistema ContaPyme®",
+    "fulltitle": "Proceso de actualización del sistema ContaPyme®",
+    "description": "Mantenga su sistema al día: Actualice súper fácil su ContaPyme® en tan solo tres pasos.",
+    "duration": 332,
+    "duration_string": "5:32",
+    "upload_date": "20220718",
+    "timestamp": 1658152093,
+    "view_count": 4953,
+    "like_count": 21,
+    "comment_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_follower_count": 11800,
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/VtteRzYNABc/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCe1GSdowpxWKppr7eNg49R6Gy5bQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6F3G7ANWvVNHCtYot_kwJhnSCaQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJJ8ZfV0e3C-OiMtvZ8AC-Id3NRg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNYWj5Onnyl8zJQ6HZA9HvDfOIdA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VtteRzYNABc/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VtteRzYNABc/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=VtteRzYNABc",
+    "is_live": false,
+    "was_live": false,
+    "chapters": [
+      {
+        "start_time": 0,
+        "title": "Introducción",
+        "end_time": 33
+      },
+      {
+        "start_time": 33,
+        "title": "Portal de clientes",
+        "end_time": 86
+      },
+      {
+        "start_time": 86,
+        "title": "Descarga de última actualización",
+        "end_time": 161
+      },
+      {
+        "start_time": 161,
+        "title": "Proceso de actualización",
+        "end_time": 309
+      },
+      {
+        "start_time": 309,
+        "title": "Final",
+        "end_time": 332
+      }
+    ],
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.30120481927710846,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20481927710843373,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20481927710843373,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 229.704,
+        "asr": 44100,
+        "filesize_approx": 9534668,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "UgxP6Ekdg3myTsiToSd4AaABAg",
+        "parent": "root",
+        "text": "Hola buen día, ¿porqué ingreso al portal cliente y no me aparece el botón actualizar? Gracias!",
+        "like_count": 0,
+        "author_id": "UC6Kl0ZtN9RKxXowCB9KuX7Q",
+        "author": "@luisfelipecallearias1026",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kuqK2VQ758FNkh4mfU7ESt2of57Yxo9zTVj4ShkIDlPFg=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@luisfelipecallearias1026",
+        "is_favorited": false,
+        "_time_text": "3 years ago",
+        "timestamp": 1685836800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Proceso de actualización del sistema ContaPyme®",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/VtteRzYNABc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VtteRzYNABc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Proceso de actualización del sistema ContaPyme®\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "segmentCount": 68,
+    "transcriptChars": 4983,
+    "segments": [
+      {
+        "text": "al tener el sistema actualizado el objetivo de este vídeo es aprender a",
+        "startMs": 0,
+        "durationMs": 5590
+      },
+      {
+        "text": "actualizar el sistema con está pyme para siempre tenerlo al día y la",
+        "startMs": 5590,
+        "durationMs": 3959
+      },
+      {
+        "text": "actualización se puede realizar en tres sencillos pasos",
+        "startMs": 9549,
+        "durationMs": 4821
+      },
+      {
+        "text": "primero debemos ingresar al portal de clientes y descargar la actualización",
+        "startMs": 14370,
+        "durationMs": 5660
+      },
+      {
+        "text": "actual seguidamente debemos ejecutar esa",
+        "startMs": 20030,
+        "durationMs": 3070
+      },
+      {
+        "text": "actualización y finalmente ingresar al sistema con está pyme y actualizar el",
+        "startMs": 23100,
+        "durationMs": 5579
+      },
+      {
+        "text": "área de trabajo vamos a realizar este proceso en el computador",
+        "startMs": 28679,
+        "durationMs": 4761
+      },
+      {
+        "text": "ubicados en el navegador ingresamos a la página con está pyme puntocom",
+        "startMs": 33440,
+        "durationMs": 4860
+      },
+      {
+        "text": "seguidamente damos clic en el portal clientes que está en la parte superior",
+        "startMs": 38300,
+        "durationMs": 6530
+      },
+      {
+        "text": "derecha nos ingresa al portal de clientes y",
+        "startMs": 44830,
+        "durationMs": 2250
+      },
+      {
+        "text": "debemos iniciar sesión con la cuenta registrante in soft si la cuenta que",
+        "startMs": 47080,
+        "durationMs": 4770
+      },
+      {
+        "text": "usted registró es la misma de facebook puede ingresar por acá si es la misma de",
+        "startMs": 51850,
+        "durationMs": 4800
+      },
+      {
+        "text": "gmail puede ingresar por acá o la de hotmail o en caso de que sea una cuenta",
+        "startMs": 56650,
+        "durationMs": 5190
+      },
+      {
+        "text": "corporativa pueden ingresar por acá indican la contraseña recuerden que si",
+        "startMs": 61840,
+        "durationMs": 5760
+      },
+      {
+        "text": "han olvidado la contraseña simplemente deben dar clic en solicitar contraseña y",
+        "startMs": 67600,
+        "durationMs": 5070
+      },
+      {
+        "text": "a este correo le llegará una nueva contraseña debemos darle click en",
+        "startMs": 72670,
+        "durationMs": 5010
+      },
+      {
+        "text": "iniciar sesión seguida mente debemos indicar la empresa a la que estamos",
+        "startMs": 77680,
+        "durationMs": 5100
+      },
+      {
+        "text": "asociados y dar clic en aceptar ya estamos dentro del portal de clientes",
+        "startMs": 82780,
+        "durationMs": 6540
+      },
+      {
+        "text": "nos da la bienvenida y en la parte izquierda nos aparecen todas las",
+        "startMs": 89320,
+        "durationMs": 4319
+      },
+      {
+        "text": "opciones que se tienen incluida la de actualizaciones debemos ubicarnos en",
+        "startMs": 93639,
+        "durationMs": 5701
+      },
+      {
+        "text": "actualizaciones y podemos encontrar el botón de descargar última actualización",
+        "startMs": 99340,
+        "durationMs": 5629
+      },
+      {
+        "text": "acá podríamos clickear para ver las novedades de dicha actualización y",
+        "startMs": 104969,
+        "durationMs": 5471
+      },
+      {
+        "text": "también podemos la versión el release la actualización y",
+        "startMs": 110440,
+        "durationMs": 5820
+      },
+      {
+        "text": "el compilado y la fecha precisamente de publicación teniendo claridad sobre la",
+        "startMs": 116260,
+        "durationMs": 6300
+      },
+      {
+        "text": "descarga de última actualización simplemente debemos dar clic en",
+        "startMs": 122560,
+        "durationMs": 4020
+      },
+      {
+        "text": "descargar última actualización se nos abre una ventana emergente y empieza la",
+        "startMs": 126580,
+        "durationMs": 5190
+      },
+      {
+        "text": "descarga una vez terminada la descarga podríamos aplicar dicha actualización",
+        "startMs": 131770,
+        "durationMs": 4760
+      },
+      {
+        "text": "pero antes debemos tener en cuenta primero de la actualización siempre se",
+        "startMs": 136530,
+        "durationMs": 5740
+      },
+      {
+        "text": "debe hacer primero en el equipo principal y también debemos tener en",
+        "startMs": 142270,
+        "durationMs": 4289
+      },
+      {
+        "text": "cuenta que nadie puede estar conectado a con está pyme mientras se realiza el",
+        "startMs": 146559,
+        "durationMs": 5341
+      },
+      {
+        "text": "proceso de actualización en este caso como tengo abierto con tap y me voy a",
+        "startMs": 151900,
+        "durationMs": 5340
+      },
+      {
+        "text": "cerrarlo por completo hay que cerrar por completo con tap y me podemos ingresar a",
+        "startMs": 157240,
+        "durationMs": 5760
+      },
+      {
+        "text": "la carpeta de descargas y ya podríamos ejecutar la actualización con doble clic",
+        "startMs": 163000,
+        "durationMs": 5569
+      },
+      {
+        "text": "damos clic en si seguidamente nos sale el asistente para aplicar la",
+        "startMs": 168569,
+        "durationMs": 6091
+      },
+      {
+        "text": "actualización encontramos la documentación sobre qué",
+        "startMs": 174660,
+        "durationMs": 2469
+      },
+      {
+        "text": "hace esto actualización podemos dar clic en siguiente",
+        "startMs": 177129,
+        "durationMs": 3631
+      },
+      {
+        "text": "debemos aceptar el acuerdo de licenciamiento en print shop y el",
+        "startMs": 180760,
+        "durationMs": 3120
+      },
+      {
+        "text": "cliente y dar clic en siguiente en esta ventana la asistente nos pregunta si",
+        "startMs": 183880,
+        "durationMs": 5880
+      },
+      {
+        "text": "deseamos que el programa recopila información estadística sobre el uso del",
+        "startMs": 189760,
+        "durationMs": 3540
+      },
+      {
+        "text": "sistema lo recomendado es dejarlo en sí y siguiente",
+        "startMs": 193300,
+        "durationMs": 4680
+      },
+      {
+        "text": "y acá simplemente nos aparece el programa a actualizar en este caso sería",
+        "startMs": 197980,
+        "durationMs": 5670
+      },
+      {
+        "text": "con está pyme principal y cliente por tanto damos clic en actualizar y empieza",
+        "startMs": 203650,
+        "durationMs": 6540
+      },
+      {
+        "text": "a realizar el sistema la actualización de forma correcta saco el mensaje de",
+        "startMs": 210190,
+        "durationMs": 4620
+      },
+      {
+        "text": "mejora en la seguridad sobre el motor de base de datos que les recomiendo que por",
+        "startMs": 214810,
+        "durationMs": 4530
+      },
+      {
+        "text": "ahora le den clic en no realizar ningún cambio y nos saca el mensaje de",
+        "startMs": 219340,
+        "durationMs": 5010
+      },
+      {
+        "text": "actualización que nos indica que se ha actualizado correctamente entonces ya",
+        "startMs": 224350,
+        "durationMs": 4560
+      },
+      {
+        "text": "podríamos cerrar el asistente éste también lo podemos cancelar",
+        "startMs": 228910,
+        "durationMs": 4370
+      },
+      {
+        "text": "y dar clic en si acá debemos tener presente algo ya descargamos la",
+        "startMs": 233280,
+        "durationMs": 5530
+      },
+      {
+        "text": "actualización del portal ya ejecutamos ese archivo de actualización quedó",
+        "startMs": 238810,
+        "durationMs": 4950
+      },
+      {
+        "text": "actualizado correctamente y falta el tercer paso que es actualizar el área de",
+        "startMs": 243760,
+        "durationMs": 4980
+      },
+      {
+        "text": "trabajo y para ello es necesario ingresar al sistema vamos a ingresar con",
+        "startMs": 248740,
+        "durationMs": 4410
+      },
+      {
+        "text": "doble clic debemos indicar la contraseña a mí me está pidiendo una nueva",
+        "startMs": 253150,
+        "durationMs": 4020
+      },
+      {
+        "text": "contraseña le voy a poner si ustedes ya tenían contraseña pues deben registrar",
+        "startMs": 257170,
+        "durationMs": 4410
+      },
+      {
+        "text": "esa contraseña que ya tenían le voy a dar conectar y acá me saco el mensaje de",
+        "startMs": 261580,
+        "durationMs": 5640
+      },
+      {
+        "text": "precaución que dice que se ha detectado el área de trabajo donde vamos a",
+        "startMs": 267220,
+        "durationMs": 4560
+      },
+      {
+        "text": "ingresar están en una actualización anterior que necesitamos actualizarla se",
+        "startMs": 271780,
+        "durationMs": 4890
+      },
+      {
+        "text": "hace de forma automática solo hay que darle clic en si acá me saca el mensaje",
+        "startMs": 276670,
+        "durationMs": 4470
+      },
+      {
+        "text": "de advertencia porque hay unas licencias que están próximas a vencerse le voy a",
+        "startMs": 281140,
+        "durationMs": 4590
+      },
+      {
+        "text": "dar continuar con el inicio de sesión y acá empieza el proceso de actualización",
+        "startMs": 285730,
+        "durationMs": 4410
+      },
+      {
+        "text": "automática aplicar todas las mejoras que tiene esa actualización y al final me va",
+        "startMs": 290140,
+        "durationMs": 5670
+      },
+      {
+        "text": "a decir que el proceso de actualización ha terminado satisfactoriamente ya",
+        "startMs": 295810,
+        "durationMs": 4290
+      },
+      {
+        "text": "podemos dar clic en cerrar si hace una copia de seguridad e ingresa al sistema",
+        "startMs": 300100,
+        "durationMs": 4800
+      },
+      {
+        "text": "de forma correcta y en la nueva actualización",
+        "startMs": 304900,
+        "durationMs": 4939
+      },
+      {
+        "text": "actualización y así ha quedado actualizado el sistema",
+        "startMs": 309839,
+        "durationMs": 2011
+      },
+      {
+        "text": "con está pyme en tres sencillos pasos de igual forma es muy recomendado entrar al",
+        "startMs": 311850,
+        "durationMs": 5039
+      },
+      {
+        "text": "portal de clientes y verificar en la pestaña de actualización si hay alguna",
+        "startMs": 316889,
+        "durationMs": 4621
+      },
+      {
+        "text": "actualización disponible superior a la que se tiene instalado",
+        "startMs": 321510,
+        "durationMs": 4349
+      },
+      {
+        "text": "esto es todo acerca de actualización del sistema con está pyme",
+        "startMs": 325859,
+        "durationMs": 6060
+      }
+    ],
+    "plainText": "## Descripción del video\n\nMantenga su sistema al día: Actualice súper fácil su ContaPyme® en tan solo tres pasos.\n\n## Transcripción\n\nal tener el sistema actualizado el objetivo de este vídeo es aprender a\nactualizar el sistema con está pyme para siempre tenerlo al día y la\nactualización se puede realizar en tres sencillos pasos\nprimero debemos ingresar al portal de clientes y descargar la actualización\nactual seguidamente debemos ejecutar esa\nactualización y finalmente ingresar al sistema con está pyme y actualizar el\nárea de trabajo vamos a realizar este proceso en el computador\nubicados en el navegador ingresamos a la página con está pyme puntocom\nseguidamente damos clic en el portal clientes que está en la parte superior\nderecha nos ingresa al portal de clientes y\ndebemos iniciar sesión con la cuenta registrante in soft si la cuenta que\nusted registró es la misma de facebook puede ingresar por acá si es la misma de\ngmail puede ingresar por acá o la de hotmail o en caso de que sea una cuenta\ncorporativa pueden ingresar por acá indican la contraseña recuerden que si\nhan olvidado la contraseña simplemente deben dar clic en solicitar contraseña y\na este correo le llegará una nueva contraseña debemos darle click en\niniciar sesión seguida mente debemos indicar la empresa a la que estamos\nasociados y dar clic en aceptar ya estamos dentro del portal de clientes\nnos da la bienvenida y en la parte izquierda nos aparecen todas las\nopciones que se tienen incluida la de actualizaciones debemos ubicarnos en\nactualizaciones y podemos encontrar el botón de descargar última actualización\nacá podríamos clickear para ver las novedades de dicha actualización y\ntambién podemos la versión el release la actualización y\nel compilado y la fecha precisamente de publicación teniendo claridad sobre la\ndescarga de última actualización simplemente debemos dar clic en\ndescargar última actualización se nos abre una ventana emergente y empieza la\ndescarga una vez terminada la descarga podríamos aplicar dicha actualización\npero antes debemos tener en cuenta primero de la actualización siempre se\ndebe hacer primero en el equipo principal y también debemos tener en\ncuenta que nadie puede estar conectado a con está pyme mientras se realiza el\nproceso de actualización en este caso como tengo abierto con tap y me voy a\ncerrarlo por completo hay que cerrar por completo con tap y me podemos ingresar a\nla carpeta de descargas y ya podríamos ejecutar la actualización con doble clic\ndamos clic en si seguidamente nos sale el asistente para aplicar la\nactualización encontramos la documentación sobre qué\nhace esto actualización podemos dar clic en siguiente\ndebemos aceptar el acuerdo de licenciamiento en print shop y el\ncliente y dar clic en siguiente en esta ventana la asistente nos pregunta si\ndeseamos que el programa recopila información estadística sobre el uso del\nsistema lo recomendado es dejarlo en sí y siguiente\ny acá simplemente nos aparece el programa a actualizar en este caso sería\ncon está pyme principal y cliente por tanto damos clic en actualizar y empieza\na realizar el sistema la actualización de forma correcta saco el mensaje de\nmejora en la seguridad sobre el motor de base de datos que les recomiendo que por\nahora le den clic en no realizar ningún cambio y nos saca el mensaje de\nactualización que nos indica que se ha actualizado correctamente entonces ya\npodríamos cerrar el asistente éste también lo podemos cancelar\ny dar clic en si acá debemos tener presente algo ya descargamos la\nactualización del portal ya ejecutamos ese archivo de actualización quedó\nactualizado correctamente y falta el tercer paso que es actualizar el área de\ntrabajo y para ello es necesario ingresar al sistema vamos a ingresar con\ndoble clic debemos indicar la contraseña a mí me está pidiendo una nueva\ncontraseña le voy a poner si ustedes ya tenían contraseña pues deben registrar\nesa contraseña que ya tenían le voy a dar conectar y acá me saco el mensaje de\nprecaución que dice que se ha detectado el área de trabajo donde vamos a\ningresar están en una actualización anterior que necesitamos actualizarla se\nhace de forma automática solo hay que darle clic en si acá me saca el mensaje\nde advertencia porque hay unas licencias que están próximas a vencerse le voy a\ndar continuar con el inicio de sesión y acá empieza el proceso de actualización\nautomática aplicar todas las mejoras que tiene esa actualización y al final me va\na decir que el proceso de actualización ha terminado satisfactoriamente ya\npodemos dar clic en cerrar si hace una copia de seguridad e ingresa al sistema\nde forma correcta y en la nueva actualización\nactualización y así ha quedado actualizado el sistema\ncon está pyme en tres sencillos pasos de igual forma es muy recomendado entrar al\nportal de clientes y verificar en la pestaña de actualización si hay alguna\nactualización disponible superior a la que se tiene instalado\nesto es todo acerca de actualización del sistema con está pyme",
+    "dedupeVersion": 5
+  },
+  "comments": {
+    "fetched": 1,
+    "reportedCount": 1,
+    "items": [
+      {
+        "id": "UgxP6Ekdg3myTsiToSd4AaABAg",
+        "parent": "root",
+        "text": "Hola buen día, ¿porqué ingreso al portal cliente y no me aparece el botón actualizar? Gracias!",
+        "like_count": 0,
+        "author_id": "UC6Kl0ZtN9RKxXowCB9KuX7Q",
+        "author": "@luisfelipecallearias1026",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kuqK2VQ758FNkh4mfU7ESt2of57Yxo9zTVj4ShkIDlPFg=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@luisfelipecallearias1026",
+        "is_favorited": false,
+        "_time_text": "3 years ago",
+        "timestamp": 1685836800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 229.704,
+    "asr": 44100,
+    "filesizeApprox": 9534668,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2022",
+    "md": "videos/2022/VtteRzYNABc.md",
+    "json": "videos/2022/VtteRzYNABc.json",
+    "infoJson": "videos/2022/VtteRzYNABc.info.json"
+  },
+  "publishYear": "2022"
+}

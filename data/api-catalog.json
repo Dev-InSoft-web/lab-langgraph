@@ -1,0 +1,937 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-04T16:02:34.612Z",
+  "source": "lab-data:C:\\Users\\JAGUDELOE\\Documents\\Contapyme\\lab-langgraph\\data",
+  "defaultEnvId": "staging",
+  "projects": {
+    "patyia": {
+      "key": "patyia",
+      "displayName": "PatyIA · AyudasCP-IA",
+      "description": "Asistente IA: JWT, conversaciones, mensajes, tiquetes y timers.",
+      "defaultEnvId": "staging",
+      "environments": [
+        {
+          "id": "local",
+          "name": "local",
+          "values": [
+            {
+              "key": "HOST",
+              "value": "http://localhost:7071",
+              "enabled": true,
+              "type": ""
+            },
+            {
+              "key": "CONTROLKEY",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "token",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "iconversacion",
+              "value": "",
+              "enabled": true,
+              "type": ""
+            },
+            {
+              "key": "THREAD_ID",
+              "value": "",
+              "enabled": true,
+              "type": ""
+            }
+          ]
+        },
+        {
+          "id": "staging",
+          "name": "staging",
+          "values": [
+            {
+              "key": "HOST",
+              "value": "https://ayudascp-ia-staging.azurewebsites.net",
+              "enabled": true,
+              "type": ""
+            },
+            {
+              "key": "CONTROLKEY",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "token",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "iconversacion",
+              "value": "",
+              "enabled": true,
+              "type": ""
+            },
+            {
+              "key": "THREAD_ID",
+              "value": "",
+              "enabled": true,
+              "type": ""
+            }
+          ]
+        },
+        {
+          "id": "produccion",
+          "name": "produccion",
+          "values": [
+            {
+              "key": "HOST",
+              "value": "https://ayudascp-ia.azurewebsites.net",
+              "enabled": true,
+              "type": ""
+            },
+            {
+              "key": "CONTROLKEY",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "token",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "iconversacion",
+              "value": "",
+              "enabled": true,
+              "type": ""
+            },
+            {
+              "key": "THREAD_ID",
+              "value": "",
+              "enabled": true,
+              "type": ""
+            }
+          ]
+        }
+      ],
+      "variables": [
+        {
+          "key": "HOST",
+          "description": "URL base del Function App PatyIA (AyudasCP-IA).",
+          "example": "https://ayudascp-ia-staging.azurewebsites.net"
+        },
+        {
+          "key": "CONTROLKEY",
+          "description": "Clave de control para POST /api/JWT.",
+          "secret": true
+        },
+        {
+          "key": "token",
+          "description": "JWT Bearer devuelto por /api/JWT o token de prueba.",
+          "secret": true
+        },
+        {
+          "key": "iconversacion",
+          "description": "ID de conversación activa (se setea tras crear conversación)."
+        },
+        {
+          "key": "THREAD_ID",
+          "description": "Identificador de hilo LangGraph / sesión (opcional)."
+        }
+      ],
+      "entities": [
+        {
+          "slug": "conversacion",
+          "name": "Conversacion",
+          "description": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "endpointCount": 6
+        },
+        {
+          "slug": "jwt",
+          "name": "JWT",
+          "description": "Autenticación. Devuelve un token JWT que se guarda en `{{token}}` automáticamente.",
+          "endpointCount": 1
+        },
+        {
+          "slug": "mensaje",
+          "name": "Mensaje",
+          "description": "Mensajes calificados (👍 / 👎) sobre respuestas del asistente.",
+          "endpointCount": 1
+        },
+        {
+          "slug": "tiquete",
+          "name": "Tiquete",
+          "description": "Escalamiento a tiquete del CRM, asociado a una conversación.",
+          "endpointCount": 1
+        }
+      ],
+      "endpoints": [
+        {
+          "id": "patyia/conversacion/post-conversacion-crear-continuar",
+          "project": "patyia",
+          "entity": "conversacion",
+          "name": "POST - Conversacion (crear / continuar)",
+          "method": "POST",
+          "pathTemplate": "/api/conversacion",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/conversacion",
+          "description": "Crea una conversación nueva o continúa una existente (enviando `_iconversacion`). El test guarda `respuesta.iconversacion` en `{{iconversacion}}`.",
+          "bodyTemplate": "{\n    \"prompt\": \"Usando la documentación de nómina, responde brevemente: ¿cómo se calcula la prima de servicios?\",\n    \"imodulo\": \"nomina\"\n}",
+          "authBearer": true,
+          "entityDescription": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/conversacion/get-conversacion-detalle",
+          "project": "patyia",
+          "entity": "conversacion",
+          "name": "GET - Conversacion (detalle)",
+          "method": "GET",
+          "pathTemplate": "/api/conversacion/{{iconversacion}}",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/conversacion/{{iconversacion}}",
+          "description": "Devuelve la conversación con sus mensajes (OpenAI + calificados) y tiquetes asociados.",
+          "authBearer": true,
+          "entityDescription": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "mutating": false,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/conversacion/get-conversaciones-listar",
+          "project": "patyia",
+          "entity": "conversacion",
+          "name": "GET - Conversaciones (listar)",
+          "method": "GET",
+          "pathTemplate": "/api/conversaciones/",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/conversaciones/",
+          "description": "Lista las conversaciones del contacto autenticado.",
+          "authBearer": true,
+          "entityDescription": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "mutating": false,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/conversacion/get-resumen-conversacion",
+          "project": "patyia",
+          "entity": "conversacion",
+          "name": "GET - Resumen Conversacion",
+          "method": "GET",
+          "pathTemplate": "/api/resumen_conversacion/{{iconversacion}}",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/resumen_conversacion/{{iconversacion}}",
+          "description": "Devuelve el resumen ejecutivo de una conversación.",
+          "authBearer": true,
+          "entityDescription": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "mutating": false,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/conversacion/delete-conversacion",
+          "project": "patyia",
+          "entity": "conversacion",
+          "name": "DELETE - Conversacion",
+          "method": "DELETE",
+          "pathTemplate": "/api/conversacion/{{iconversacion}}",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/conversacion/{{iconversacion}}",
+          "description": "Elimina (cierra) la conversación indicada.",
+          "authBearer": true,
+          "entityDescription": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/conversacion/get-timer-cerrar-conversaciones",
+          "project": "patyia",
+          "entity": "conversacion",
+          "name": "GET - Timer Cerrar Conversaciones",
+          "method": "GET",
+          "pathTemplate": "/api/timer_cerrarConversaciones",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/timer_cerrarConversaciones",
+          "description": "Variante HTTP del Timer que cierra conversaciones inactivas. Útil para invocarlo manualmente en dev.",
+          "authBearer": false,
+          "entityDescription": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+          "mutating": false,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/jwt/post-jwt",
+          "project": "patyia",
+          "entity": "jwt",
+          "name": "POST - JWT",
+          "method": "POST",
+          "pathTemplate": "/api/JWT",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/JWT",
+          "description": "Genera un token JWT a partir de `controlkey + iapp + idmaquina`. El test guarda `respuesta.token` en la variable de entorno `token`.",
+          "bodyTemplate": "{\n    \"controlkey\": \"{{CONTROLKEY}}\",\n    \"iapp\": 20104,\n    \"idmaquina\": \"WebPortal\"\n}",
+          "authBearer": false,
+          "entityDescription": "Autenticación. Devuelve un token JWT que se guarda en `{{token}}` automáticamente.",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/mensaje/post-mensaje-calificado",
+          "project": "patyia",
+          "entity": "mensaje",
+          "name": "POST - Mensaje calificado",
+          "method": "POST",
+          "pathTemplate": "/api/mensaje",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/mensaje",
+          "description": "Registra una calificación (`butil`) sobre un mensaje (`ireferencia` = fecha-hora epoch del mensaje en el hilo) y persiste su contenido.",
+          "bodyTemplate": "{\n    \"iconversacion\": \"{{iconversacion}}\",\n    \"butil\": true,\n    \"contenido\": \"Respuesta de prueba del asistente — mensaje calificado como útil.\",\n    \"ireferencia\": 1757081809\n}",
+          "authBearer": true,
+          "entityDescription": "Mensajes calificados (👍 / 👎) sobre respuestas del asistente.",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "patyia/tiquete/post-tiquete",
+          "project": "patyia",
+          "entity": "tiquete",
+          "name": "POST - Tiquete",
+          "method": "POST",
+          "pathTemplate": "/api/tiquete",
+          "hostVar": "HOST",
+          "urlTemplate": "{{HOST}}/api/tiquete",
+          "description": "Asocia un tiquete de soporte (`codigotk`) a la conversación. Opcionalmente cierra la conversación y/o autoriza visualización del historial al agente.",
+          "bodyTemplate": "{\n    \"iconversacion\": \"{{iconversacion}}\",\n    \"codigotk\": \"TKTEST01\",\n    \"bcerrar_conversacion\": false,\n    \"bautoriza_visualizacion\": false\n}",
+          "authBearer": true,
+          "entityDescription": "Escalamiento a tiquete del CRM, asociado a una conversación.",
+          "mutating": true,
+          "pathParams": []
+        }
+      ]
+    },
+    "clientesis": {
+      "key": "clientesis",
+      "displayName": "ClientesIS · ContaPymeU",
+      "description": "APIs Azure de capacitación (cursos, planes, drivers, permisos) y microservicios relacionados.",
+      "defaultEnvId": "staging",
+      "environments": [
+        {
+          "id": "staging",
+          "name": "2. Staging (Azure)",
+          "values": [
+            {
+              "key": "token",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "uuidtoken",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "host_soporte",
+              "value": "https://clientesis-soporte.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_titulosgen",
+              "value": "https://clientesis-titulosgen.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_terceros",
+              "value": "https://clientesis-terceros.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_contactos",
+              "value": "https://clientesis-contactos.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_seguridad",
+              "value": "https://clientesis-seguridad.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_general",
+              "value": "https://clientesis-general.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_contapymeu",
+              "value": "https://clientesis-contapymeu.azurewebsites.net",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "desarrollo",
+          "name": "1. Desarrollo",
+          "values": [
+            {
+              "key": "token",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "uuidtoken",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "host_soporte",
+              "value": "http://localhost:20040",
+              "enabled": true
+            },
+            {
+              "key": "host_titulosgen",
+              "value": "http://localhost:20300",
+              "enabled": true
+            },
+            {
+              "key": "host_terceros",
+              "value": "http://localhost:20310",
+              "enabled": true
+            },
+            {
+              "key": "host_contactos",
+              "value": "http://localhost:20320",
+              "enabled": true
+            },
+            {
+              "key": "host_general",
+              "value": "http://localhost:20100",
+              "enabled": true
+            },
+            {
+              "key": "host_seguridad",
+              "value": "https://clientesis-seguridad.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_jwt",
+              "value": "",
+              "enabled": true
+            },
+            {
+              "key": "host_contapymeu",
+              "value": "http://localhost:20040",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "produccion",
+          "name": "3. Produccion",
+          "values": [
+            {
+              "key": "token",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "uuidtoken",
+              "value": "",
+              "type": "secret",
+              "enabled": true
+            },
+            {
+              "key": "host_soporte",
+              "value": "https://clientesis-soporte.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_titulosgen",
+              "value": "https://clientesis-titulosgen.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_terceros",
+              "value": "https://clientesis-terceros.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_contactos",
+              "value": "https://clientesis-contactos.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_seguridad",
+              "value": "https://clientesis-seguridad.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_general",
+              "value": "https://clientesis-general.azurewebsites.net",
+              "enabled": true
+            },
+            {
+              "key": "host_contapymeu",
+              "value": "https://clientesis-contapymeu.azurewebsites.net",
+              "enabled": true
+            }
+          ]
+        }
+      ],
+      "variables": [
+        {
+          "key": "host_contapymeu",
+          "description": "Microservicio ContaPymeU (capacitación, cursos, planes).",
+          "example": "https://clientesis-contapymeu.azurewebsites.net"
+        },
+        {
+          "key": "host_soporte",
+          "description": "Microservicio soporte.",
+          "example": "https://clientesis-soporte.azurewebsites.net"
+        },
+        {
+          "key": "host_titulosgen",
+          "description": "Microservicio títulos generales.",
+          "example": "https://clientesis-titulosgen.azurewebsites.net"
+        },
+        {
+          "key": "host_terceros",
+          "description": "Microservicio terceros.",
+          "example": "https://clientesis-terceros.azurewebsites.net"
+        },
+        {
+          "key": "host_contactos",
+          "description": "Microservicio contactos.",
+          "example": "https://clientesis-contactos.azurewebsites.net"
+        },
+        {
+          "key": "host_seguridad",
+          "description": "Microservicio seguridad / JWT.",
+          "example": "https://clientesis-seguridad.azurewebsites.net"
+        },
+        {
+          "key": "host_general",
+          "description": "Microservicio general.",
+          "example": "https://clientesis-general.azurewebsites.net"
+        },
+        {
+          "key": "host_jwt",
+          "description": "Host emisor JWT (si aplica)."
+        },
+        {
+          "key": "token",
+          "description": "JWT Bearer del usuario autenticado.",
+          "secret": true
+        },
+        {
+          "key": "uuidtoken",
+          "description": "UUID asociado al token de sesión.",
+          "secret": true
+        }
+      ],
+      "entities": [
+        {
+          "slug": "cursos",
+          "name": "Cursos",
+          "description": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "endpointCount": 6
+        },
+        {
+          "slug": "planes-de-estudio",
+          "name": "Planes de Estudio",
+          "description": "# Planes de Estudio\n\n## Alcance\nCRUD básico de planes de estudio que agrupan cursos.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/planes/estudio/:filtro` | Listar |\n| GET | `/api/plan/estudio/:iplanestudio` | Obtener |\n| POST | `/api/plan/estudio` | Crear |\n| PUT | `/api/plan/estudio/:iplanestudio` | Actualizar |\n| DELETE | `/api/plan/estudio/:iplanestudio` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| iplanestudio | string | Identificador del plan (PK) |\n| nombre | string | Nombre del plan |\n| descripcionplan | string | Descripción del plan |\n| ttdvisualizacion | string | Tipo de visualización (`ARBOL` / `LISTA`) |\n| bgeneracertificadog | boolean | Genera certificado global |\n| bactivo | boolean | Estado activo (1/0) |",
+          "endpointCount": 5
+        },
+        {
+          "slug": "drivers",
+          "name": "Drivers",
+          "description": "# Drivers\n\n## Alcance\nCRUD básico de drivers de capacitación: definen la forma en que se evidencia y evalúa un curso.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/drivers/:filtro` | Listar |\n| GET | `/api/driver/:idriver` | Obtener |\n| POST | `/api/driver` | Crear |\n| PUT | `/api/driver/:idriver` | Actualizar |\n| DELETE | `/api/driver/:idriver` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| idriver | string | Identificador del driver (PK) |\n| ndriver | string | Nombre del driver |\n| descripcion | string | Descripción |\n| qniveles | number | Cantidad de niveles del driver |",
+          "endpointCount": 5
+        },
+        {
+          "slug": "permisos",
+          "name": "Permisos",
+          "description": "# Permisos\n\n## Alcance\nCatálogo de **permisos** del módulo de Capacitación. Solo lectura: se exponen `Listar` y `Obtener` para alimentar componentes `BtnRef` desde el front. Las mutaciones están deshabilitadas (no-op).\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/permisos/:filtro` | Listar |\n| GET | `/api/permiso/:ipermiso` | Obtener |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| ipermiso | string | Identificador del permiso (PK) |\n| npermiso | string | Nombre del permiso |",
+          "endpointCount": 2
+        }
+      ],
+      "endpoints": [
+        {
+          "id": "clientesis/cursos/100-listar-cursos",
+          "project": "clientesis",
+          "entity": "cursos",
+          "name": "100 Listar Cursos",
+          "method": "GET",
+          "pathTemplate": "/api/cursos/{{filtro}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/cursos/:filtro",
+          "description": "## Propósito\nObtiene un listado paginado de **cursos** aplicando el filtro Base64 indicado.\n\n## Ruta\n`GET /api/cursos/:filtro`\n\n## Autorización\nBearer token (`Authorization: Bearer {{token}}`).\n\n## Headers\n| Header | Valor | Requerido |\n|---|---|---|\n| Authorization | `Bearer {{token}}` | Sí |\n| Content-Type | `application/json` | Sí (si hay body) |\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `filtro` | string | Sí | Filtro de búsqueda en base64 (`btoa(JSON.stringify(filtro))`). Default `{}` → `e30=`. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Operación exitosa |\n| 400 | Bad Request | Filtro inválido |\n| 401 | Unauthorized | Token ausente o inválido |\n| 500 | Internal Server Error | Error inesperado del servidor |\n\n## Reglas de negocio y observaciones\n- El filtro se construye como `btoa(JSON.stringify(filtro))` (`{}` → `e30=`).\n- Las respuestas siguen el contrato de `ispserver`: `{ datos } | { mensaje } | { error }`.",
+          "authBearer": true,
+          "entityDescription": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "filtro",
+              "description": "Filtro de búsqueda en base64 (JSON.stringify -> btoa). Default `{}` -> `e30=`.",
+              "example": "e30="
+            }
+          ]
+        },
+        {
+          "id": "clientesis/cursos/110-obtener-curso",
+          "project": "clientesis",
+          "entity": "cursos",
+          "name": "110 Obtener Curso",
+          "method": "GET",
+          "pathTemplate": "/api/curso/{{icurso}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/curso/:icurso",
+          "description": "## Propósito\nObtiene un único **curso** por su clave primaria.\n\n## Ruta\n`GET /api/curso/:icurso`\n\n## Autorización\nBearer token (`Authorization: Bearer {{token}}`).\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `icurso` | string | Sí | Identificador del curso. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Curso encontrado |\n| 401 | Unauthorized | Token ausente o inválido |\n| 404 | Not Found | El curso no existe |\n| 500 | Internal Server Error | Error inesperado del servidor |",
+          "authBearer": true,
+          "entityDescription": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "icurso",
+              "description": "Identificador de curso",
+              "example": "202"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/cursos/120-obtener-recurso-plan-de-curso",
+          "project": "clientesis",
+          "entity": "cursos",
+          "name": "120 Obtener Recurso/Plan de Curso",
+          "method": "GET",
+          "pathTemplate": "/api/curso/recursoplan/{{icurso}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/curso/recursoplan/:icurso",
+          "description": "## Propósito\nObtiene el recurso/plan asociado al **curso** indicado.\n\n## Ruta\n`GET /api/curso/recursoplan/:icurso`\n\n## Autorización\nBearer token (`Authorization: Bearer {{token}}`).\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `icurso` | string | Sí | Identificador del curso. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Recurso/plan obtenido |\n| 401 | Unauthorized | Token ausente o inválido |\n| 404 | Not Found | El curso no existe o no tiene recurso/plan |\n| 500 | Internal Server Error | Error inesperado del servidor |",
+          "authBearer": true,
+          "entityDescription": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "icurso",
+              "description": "Identificador de curso",
+              "example": "202"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/cursos/200-crear-curso",
+          "project": "clientesis",
+          "entity": "cursos",
+          "name": "200 Crear Curso",
+          "method": "POST",
+          "pathTemplate": "/api/curso",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/curso",
+          "description": "## Propósito\nCrea un nuevo **curso**.\n\n## Ruta\n`POST /api/curso`\n\n## Autorización\nBearer token (`Authorization: Bearer {{token}}`).\n\n## Body (`application/json`)\n| Campo | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `icurso` | string | Sí | PK del curso |\n| `ncurso` | string | Sí | Nombre del curso |\n| `itema` | string | No | Tema asociado |\n| `idriver` | string | No | Driver al que pertenece |\n| `descripcion` | string | No | Descripción |\n| `bactivo` | boolean | No | Estado activo (1/0) |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 201 | Created | Curso creado correctamente |\n| 400 | Bad Request | Datos inválidos |\n| 401 | Unauthorized | Token ausente o inválido |\n| 409 | Conflict | Ya existe un curso con el mismo `icurso` |",
+          "bodyTemplate": "{\n  \"icurso\": \"TEST9999999\",\n  \"ncurso\": \"Curso de prueba TEST\",\n  \"itema\": null,\n  \"idriver\": 0,\n  \"descripcion\": \"Registro creado por populate-real-examples\",\n  \"bactivo\": 1\n}",
+          "authBearer": true,
+          "entityDescription": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "clientesis/cursos/300-actualizar-curso",
+          "project": "clientesis",
+          "entity": "cursos",
+          "name": "300 Actualizar Curso",
+          "method": "PUT",
+          "pathTemplate": "/api/curso/{{icurso}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/curso/:icurso",
+          "description": "## Propósito\nReemplaza los datos del **curso** indicado.\n\n## Ruta\n`PUT /api/curso/:icurso`\n\n## Body (`application/json`)\n| Campo | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `icurso` | string | Sí | PK del curso |\n| `ncurso` | string | Sí | Nombre del curso |\n| `itema` | string | No | Tema asociado |\n| `idriver` | string | No | Driver al que pertenece |\n| `descripcion` | string | No | Descripción |\n| `bactivo` | boolean | No | Estado activo (1/0) |\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `icurso` | string | Sí | Identificador del curso. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Curso actualizado |\n| 400 | Bad Request | Datos inválidos |\n| 404 | Not Found | El curso no existe |",
+          "bodyTemplate": "{\n  \"icurso\": \"TEST9999999\",\n  \"ncurso\": \"Curso TEST editado\",\n  \"itema\": null,\n  \"idriver\": 0,\n  \"descripcion\": \"Editado por populate-real-examples\",\n  \"bactivo\": 1\n}",
+          "authBearer": true,
+          "entityDescription": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": true,
+          "pathParams": [
+            {
+              "key": "icurso",
+              "description": "Identificador de curso",
+              "example": "TEST9999999"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/cursos/400-eliminar-curso",
+          "project": "clientesis",
+          "entity": "cursos",
+          "name": "400 Eliminar Curso",
+          "method": "DELETE",
+          "pathTemplate": "/api/curso/{{icurso}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/curso/:icurso",
+          "description": "## Propósito\nElimina el **curso** indicado.\n\n## Ruta\n`DELETE /api/curso/:icurso`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `icurso` | string | Sí | Identificador del curso. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Curso eliminado |\n| 404 | Not Found | El curso no existe |\n| 409 | Conflict | El curso tiene dependencias activas |",
+          "authBearer": true,
+          "entityDescription": "# Cursos\n\n## Alcance\nCRUD básico del catálogo de cursos del módulo de Capacitación, más la consulta del recurso/plan asociado.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/cursos/:filtro` | Listar |\n| GET | `/api/curso/:icurso` | Obtener |\n| GET | `/api/curso/recursoplan/:icurso` | Obtener recurso/plan |\n| POST | `/api/curso` | Crear |\n| PUT | `/api/curso/:icurso` | Actualizar |\n| DELETE | `/api/curso/:icurso` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| icurso | string | Identificador del curso (PK) |\n| ncurso | string | Nombre del curso |\n| itema | string | Tema asociado |\n| idriver | string | Driver al que pertenece |\n| descripcion | string | Descripción libre |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": true,
+          "pathParams": [
+            {
+              "key": "icurso",
+              "description": "Identificador de curso",
+              "example": "TEST9999999"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/planes-de-estudio/100-listar-planes-de-estudio",
+          "project": "clientesis",
+          "entity": "planes-de-estudio",
+          "name": "100 Listar Planes de Estudio",
+          "method": "GET",
+          "pathTemplate": "/api/planes/estudio/{{filtro}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/planes/estudio/:filtro",
+          "description": "## Propósito\nObtiene un listado paginado de **planes de estudio** aplicando el filtro Base64 indicado.\n\n## Ruta\n`GET /api/planes/estudio/:filtro`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `filtro` | string | Sí | Filtro en base64 (`btoa(JSON.stringify(filtro))`). |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Operación exitosa |\n| 400 | Bad Request | Filtro inválido |\n| 401 | Unauthorized | Token ausente o inválido |",
+          "authBearer": true,
+          "entityDescription": "# Planes de Estudio\n\n## Alcance\nCRUD básico de planes de estudio que agrupan cursos.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/planes/estudio/:filtro` | Listar |\n| GET | `/api/plan/estudio/:iplanestudio` | Obtener |\n| POST | `/api/plan/estudio` | Crear |\n| PUT | `/api/plan/estudio/:iplanestudio` | Actualizar |\n| DELETE | `/api/plan/estudio/:iplanestudio` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| iplanestudio | string | Identificador del plan (PK) |\n| nombre | string | Nombre del plan |\n| descripcionplan | string | Descripción del plan |\n| ttdvisualizacion | string | Tipo de visualización (`ARBOL` / `LISTA`) |\n| bgeneracertificadog | boolean | Genera certificado global |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "filtro",
+              "description": "Filtro de búsqueda en base64. Default `{}` -> `e30=`.",
+              "example": "e30="
+            }
+          ]
+        },
+        {
+          "id": "clientesis/planes-de-estudio/110-obtener-plan-de-estudio",
+          "project": "clientesis",
+          "entity": "planes-de-estudio",
+          "name": "110 Obtener Plan de Estudio",
+          "method": "GET",
+          "pathTemplate": "/api/plan/estudio/{{iplanestudio}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/plan/estudio/:iplanestudio",
+          "description": "## Propósito\nObtiene un único **plan de estudio** por su clave primaria.\n\n## Ruta\n`GET /api/plan/estudio/:iplanestudio`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `iplanestudio` | string | Sí | Identificador del plan de estudio. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Plan encontrado |\n| 404 | Not Found | El plan no existe |",
+          "authBearer": true,
+          "entityDescription": "# Planes de Estudio\n\n## Alcance\nCRUD básico de planes de estudio que agrupan cursos.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/planes/estudio/:filtro` | Listar |\n| GET | `/api/plan/estudio/:iplanestudio` | Obtener |\n| POST | `/api/plan/estudio` | Crear |\n| PUT | `/api/plan/estudio/:iplanestudio` | Actualizar |\n| DELETE | `/api/plan/estudio/:iplanestudio` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| iplanestudio | string | Identificador del plan (PK) |\n| nombre | string | Nombre del plan |\n| descripcionplan | string | Descripción del plan |\n| ttdvisualizacion | string | Tipo de visualización (`ARBOL` / `LISTA`) |\n| bgeneracertificadog | boolean | Genera certificado global |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "iplanestudio",
+              "description": "Identificador de planestudio",
+              "example": "abc"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/planes-de-estudio/200-crear-plan-de-estudio",
+          "project": "clientesis",
+          "entity": "planes-de-estudio",
+          "name": "200 Crear Plan de Estudio",
+          "method": "POST",
+          "pathTemplate": "/api/plan/estudio",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/plan/estudio",
+          "description": "## Propósito\nCrea un nuevo **plan de estudio**.\n\n## Ruta\n`POST /api/plan/estudio`\n\n## Body (`application/json`)\n| Campo | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `iplanestudio` | string | Sí | PK del plan |\n| `nombre` | string | Sí | Nombre del plan |\n| `descripcionplan` | string | No | Descripción |\n| `ttdvisualizacion` | string | No | `ARBOL` o `LISTA` |\n| `bgeneracertificadog` | boolean | No | Genera certificado global |\n| `bactivo` | boolean | No | Estado activo |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 201 | Created | Plan creado |\n| 400 | Bad Request | Datos inválidos |\n| 409 | Conflict | Ya existe un plan con el mismo `iplanestudio` |",
+          "bodyTemplate": "{\n  \"iplanestudio\": \"TEST9999999\",\n  \"nombre\": \"Plan TEST\",\n  \"descripcionplan\": \"Plan TEST creado por script\",\n  \"ttdvisualizacion\": \"ARBOL\",\n  \"bgeneracertificadog\": false,\n  \"bactivo\": 1\n}",
+          "authBearer": true,
+          "entityDescription": "# Planes de Estudio\n\n## Alcance\nCRUD básico de planes de estudio que agrupan cursos.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/planes/estudio/:filtro` | Listar |\n| GET | `/api/plan/estudio/:iplanestudio` | Obtener |\n| POST | `/api/plan/estudio` | Crear |\n| PUT | `/api/plan/estudio/:iplanestudio` | Actualizar |\n| DELETE | `/api/plan/estudio/:iplanestudio` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| iplanestudio | string | Identificador del plan (PK) |\n| nombre | string | Nombre del plan |\n| descripcionplan | string | Descripción del plan |\n| ttdvisualizacion | string | Tipo de visualización (`ARBOL` / `LISTA`) |\n| bgeneracertificadog | boolean | Genera certificado global |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "clientesis/planes-de-estudio/300-actualizar-plan-de-estudio",
+          "project": "clientesis",
+          "entity": "planes-de-estudio",
+          "name": "300 Actualizar Plan de Estudio",
+          "method": "PUT",
+          "pathTemplate": "/api/plan/estudio/{{iplanestudio}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/plan/estudio/:iplanestudio",
+          "description": "## Propósito\nReemplaza los datos del **plan de estudio** indicado.\n\n## Ruta\n`PUT /api/plan/estudio/:iplanestudio`\n\n## Body (`application/json`)\n| Campo | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `iplanestudio` | string | Sí | PK del plan |\n| `nombre` | string | Sí | Nombre del plan |\n| `descripcionplan` | string | No | Descripción |\n| `ttdvisualizacion` | string | No | `ARBOL` o `LISTA` |\n| `bgeneracertificadog` | boolean | No | Genera certificado global |\n| `bactivo` | boolean | No | Estado activo |\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `iplanestudio` | string | Sí | Identificador del plan de estudio. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Plan actualizado |\n| 400 | Bad Request | Datos inválidos |\n| 404 | Not Found | El plan no existe |",
+          "bodyTemplate": "{\n  \"iplanestudio\": \"TEST9999999\",\n  \"nombre\": \"Plan TEST editado\",\n  \"descripcionplan\": \"Editado por script\",\n  \"ttdvisualizacion\": \"ARBOL\",\n  \"bgeneracertificadog\": false,\n  \"bactivo\": 1\n}",
+          "authBearer": true,
+          "entityDescription": "# Planes de Estudio\n\n## Alcance\nCRUD básico de planes de estudio que agrupan cursos.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/planes/estudio/:filtro` | Listar |\n| GET | `/api/plan/estudio/:iplanestudio` | Obtener |\n| POST | `/api/plan/estudio` | Crear |\n| PUT | `/api/plan/estudio/:iplanestudio` | Actualizar |\n| DELETE | `/api/plan/estudio/:iplanestudio` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| iplanestudio | string | Identificador del plan (PK) |\n| nombre | string | Nombre del plan |\n| descripcionplan | string | Descripción del plan |\n| ttdvisualizacion | string | Tipo de visualización (`ARBOL` / `LISTA`) |\n| bgeneracertificadog | boolean | Genera certificado global |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": true,
+          "pathParams": [
+            {
+              "key": "iplanestudio",
+              "description": "Identificador de planestudio",
+              "example": "TEST9999999"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/planes-de-estudio/400-eliminar-plan-de-estudio",
+          "project": "clientesis",
+          "entity": "planes-de-estudio",
+          "name": "400 Eliminar Plan de Estudio",
+          "method": "DELETE",
+          "pathTemplate": "/api/plan/estudio/{{iplanestudio}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/plan/estudio/:iplanestudio",
+          "description": "## Propósito\nElimina el **plan de estudio** indicado.\n\n## Ruta\n`DELETE /api/plan/estudio/:iplanestudio`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `iplanestudio` | string | Sí | Identificador del plan de estudio. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Plan eliminado |\n| 404 | Not Found | El plan no existe |\n| 409 | Conflict | El plan tiene cursos asociados |",
+          "authBearer": true,
+          "entityDescription": "# Planes de Estudio\n\n## Alcance\nCRUD básico de planes de estudio que agrupan cursos.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/planes/estudio/:filtro` | Listar |\n| GET | `/api/plan/estudio/:iplanestudio` | Obtener |\n| POST | `/api/plan/estudio` | Crear |\n| PUT | `/api/plan/estudio/:iplanestudio` | Actualizar |\n| DELETE | `/api/plan/estudio/:iplanestudio` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| iplanestudio | string | Identificador del plan (PK) |\n| nombre | string | Nombre del plan |\n| descripcionplan | string | Descripción del plan |\n| ttdvisualizacion | string | Tipo de visualización (`ARBOL` / `LISTA`) |\n| bgeneracertificadog | boolean | Genera certificado global |\n| bactivo | boolean | Estado activo (1/0) |",
+          "mutating": true,
+          "pathParams": [
+            {
+              "key": "iplanestudio",
+              "description": "Identificador de planestudio",
+              "example": "TEST9999999"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/drivers/100-listar-drivers",
+          "project": "clientesis",
+          "entity": "drivers",
+          "name": "100 Listar Drivers",
+          "method": "GET",
+          "pathTemplate": "/api/drivers/{{filtro}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/drivers/:filtro",
+          "description": "## Propósito\nObtiene un listado paginado de **drivers** aplicando el filtro Base64 indicado.\n\n## Ruta\n`GET /api/drivers/:filtro`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `filtro` | string | Sí | Filtro en base64 (`btoa(JSON.stringify(filtro))`). |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Operación exitosa |\n| 400 | Bad Request | Filtro inválido |",
+          "authBearer": true,
+          "entityDescription": "# Drivers\n\n## Alcance\nCRUD básico de drivers de capacitación: definen la forma en que se evidencia y evalúa un curso.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/drivers/:filtro` | Listar |\n| GET | `/api/driver/:idriver` | Obtener |\n| POST | `/api/driver` | Crear |\n| PUT | `/api/driver/:idriver` | Actualizar |\n| DELETE | `/api/driver/:idriver` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| idriver | string | Identificador del driver (PK) |\n| ndriver | string | Nombre del driver |\n| descripcion | string | Descripción |\n| qniveles | number | Cantidad de niveles del driver |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "filtro",
+              "description": "Filtro de búsqueda en base64. Default `{}` -> `e30=`.",
+              "example": "e30="
+            }
+          ]
+        },
+        {
+          "id": "clientesis/drivers/110-obtener-driver",
+          "project": "clientesis",
+          "entity": "drivers",
+          "name": "110 Obtener Driver",
+          "method": "GET",
+          "pathTemplate": "/api/driver/{{idriver}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/driver/:idriver",
+          "description": "## Propósito\nObtiene un único **driver** por su clave primaria.\n\n## Ruta\n`GET /api/driver/:idriver`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `idriver` | string | Sí | Identificador del driver. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Driver encontrado |\n| 404 | Not Found | El driver no existe |",
+          "authBearer": true,
+          "entityDescription": "# Drivers\n\n## Alcance\nCRUD básico de drivers de capacitación: definen la forma en que se evidencia y evalúa un curso.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/drivers/:filtro` | Listar |\n| GET | `/api/driver/:idriver` | Obtener |\n| POST | `/api/driver` | Crear |\n| PUT | `/api/driver/:idriver` | Actualizar |\n| DELETE | `/api/driver/:idriver` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| idriver | string | Identificador del driver (PK) |\n| ndriver | string | Nombre del driver |\n| descripcion | string | Descripción |\n| qniveles | number | Cantidad de niveles del driver |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "idriver",
+              "description": "Identificador de driver",
+              "example": "1"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/drivers/200-crear-driver",
+          "project": "clientesis",
+          "entity": "drivers",
+          "name": "200 Crear Driver",
+          "method": "POST",
+          "pathTemplate": "/api/driver",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/driver",
+          "description": "## Propósito\nCrea un nuevo **driver**.\n\n## Ruta\n`POST /api/driver`\n\n## Body (`application/json`)\n| Campo | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `idriver` | string | Sí | PK del driver |\n| `ndriver` | string | Sí | Nombre |\n| `descripcion` | string | No | Descripción |\n| `qniveles` | number | Sí | Cantidad de niveles |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 201 | Created | Driver creado |\n| 400 | Bad Request | Datos inválidos |\n| 409 | Conflict | Ya existe un driver con el mismo `idriver` |",
+          "bodyTemplate": "{\n  \"idriver\": \"TEST9999999\",\n  \"ndriver\": \"Driver TEST\",\n  \"descripcion\": \"Registro creado por populate-real-examples\",\n  \"qniveles\": 1\n}",
+          "authBearer": true,
+          "entityDescription": "# Drivers\n\n## Alcance\nCRUD básico de drivers de capacitación: definen la forma en que se evidencia y evalúa un curso.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/drivers/:filtro` | Listar |\n| GET | `/api/driver/:idriver` | Obtener |\n| POST | `/api/driver` | Crear |\n| PUT | `/api/driver/:idriver` | Actualizar |\n| DELETE | `/api/driver/:idriver` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| idriver | string | Identificador del driver (PK) |\n| ndriver | string | Nombre del driver |\n| descripcion | string | Descripción |\n| qniveles | number | Cantidad de niveles del driver |",
+          "mutating": true,
+          "pathParams": []
+        },
+        {
+          "id": "clientesis/drivers/300-actualizar-driver",
+          "project": "clientesis",
+          "entity": "drivers",
+          "name": "300 Actualizar Driver",
+          "method": "PUT",
+          "pathTemplate": "/api/driver/{{idriver}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/driver/:idriver",
+          "description": "## Propósito\nReemplaza los datos del **driver** indicado.\n\n## Ruta\n`PUT /api/driver/:idriver`\n\n## Body (`application/json`)\n| Campo | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `idriver` | string | Sí | PK del driver |\n| `ndriver` | string | Sí | Nombre |\n| `descripcion` | string | No | Descripción |\n| `qniveles` | number | Sí | Cantidad de niveles |\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `idriver` | string | Sí | Identificador del driver. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Driver actualizado |\n| 400 | Bad Request | Datos inválidos |\n| 404 | Not Found | El driver no existe |",
+          "bodyTemplate": "{\n  \"idriver\": \"TEST9999999\",\n  \"ndriver\": \"Driver TEST editado\",\n  \"descripcion\": \"Editado por populate-real-examples\",\n  \"qniveles\": 2\n}",
+          "authBearer": true,
+          "entityDescription": "# Drivers\n\n## Alcance\nCRUD básico de drivers de capacitación: definen la forma en que se evidencia y evalúa un curso.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/drivers/:filtro` | Listar |\n| GET | `/api/driver/:idriver` | Obtener |\n| POST | `/api/driver` | Crear |\n| PUT | `/api/driver/:idriver` | Actualizar |\n| DELETE | `/api/driver/:idriver` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| idriver | string | Identificador del driver (PK) |\n| ndriver | string | Nombre del driver |\n| descripcion | string | Descripción |\n| qniveles | number | Cantidad de niveles del driver |",
+          "mutating": true,
+          "pathParams": [
+            {
+              "key": "idriver",
+              "description": "Identificador de driver",
+              "example": "TEST9999999"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/drivers/400-eliminar-driver",
+          "project": "clientesis",
+          "entity": "drivers",
+          "name": "400 Eliminar Driver",
+          "method": "DELETE",
+          "pathTemplate": "/api/driver/{{idriver}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/driver/:idriver",
+          "description": "## Propósito\nElimina el **driver** indicado.\n\n## Ruta\n`DELETE /api/driver/:idriver`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `idriver` | string | Sí | Identificador del driver. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Driver eliminado |\n| 404 | Not Found | El driver no existe |\n| 409 | Conflict | El driver tiene dependencias activas |",
+          "authBearer": true,
+          "entityDescription": "# Drivers\n\n## Alcance\nCRUD básico de drivers de capacitación: definen la forma en que se evidencia y evalúa un curso.\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/drivers/:filtro` | Listar |\n| GET | `/api/driver/:idriver` | Obtener |\n| POST | `/api/driver` | Crear |\n| PUT | `/api/driver/:idriver` | Actualizar |\n| DELETE | `/api/driver/:idriver` | Eliminar |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| idriver | string | Identificador del driver (PK) |\n| ndriver | string | Nombre del driver |\n| descripcion | string | Descripción |\n| qniveles | number | Cantidad de niveles del driver |",
+          "mutating": true,
+          "pathParams": [
+            {
+              "key": "idriver",
+              "description": "Identificador de driver",
+              "example": "TEST9999999"
+            }
+          ]
+        },
+        {
+          "id": "clientesis/permisos/100-listar-permisos",
+          "project": "clientesis",
+          "entity": "permisos",
+          "name": "100 Listar Permisos",
+          "method": "GET",
+          "pathTemplate": "/api/drivers/{{filtro}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/permisos/:filtro",
+          "description": "## Propósito\nObtiene un listado paginado de **permisos** aplicando el filtro Base64 indicado.\n\n## Ruta\n`GET /api/permisos/:filtro`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `filtro` | string | Sí | Filtro en base64 (`btoa(JSON.stringify(filtro))`). |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Operación exitosa |\n| 400 | Bad Request | Filtro inválido |",
+          "authBearer": true,
+          "entityDescription": "# Permisos\n\n## Alcance\nCatálogo de **permisos** del módulo de Capacitación. Solo lectura: se exponen `Listar` y `Obtener` para alimentar componentes `BtnRef` desde el front. Las mutaciones están deshabilitadas (no-op).\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/permisos/:filtro` | Listar |\n| GET | `/api/permiso/:ipermiso` | Obtener |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| ipermiso | string | Identificador del permiso (PK) |\n| npermiso | string | Nombre del permiso |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "filtro",
+              "description": "Filtro de búsqueda en base64. Default `{}` -> `e30=`.",
+              "example": "e30="
+            }
+          ]
+        },
+        {
+          "id": "clientesis/permisos/110-obtener-permiso",
+          "project": "clientesis",
+          "entity": "permisos",
+          "name": "110 Obtener Permiso",
+          "method": "GET",
+          "pathTemplate": "/api/driver/{{idriver}}",
+          "hostVar": "host_contapymeu",
+          "urlTemplate": "{{host_contapymeu}}/api/permiso/:ipermiso",
+          "description": "## Propósito\nObtiene un único **permiso** por su clave primaria.\n\n## Ruta\n`GET /api/permiso/:ipermiso`\n\n## Parámetros de path\n| Parámetro | Tipo | Requerido | Descripción |\n|---|---|---|---|\n| `ipermiso` | string | Sí | Identificador del permiso. |\n\n## Respuestas\n| Código | Estado | Cuando ocurre |\n|---|---|---|\n| 200 | OK | Permiso encontrado |\n| 404 | Not Found | El permiso no existe |",
+          "authBearer": true,
+          "entityDescription": "# Permisos\n\n## Alcance\nCatálogo de **permisos** del módulo de Capacitación. Solo lectura: se exponen `Listar` y `Obtener` para alimentar componentes `BtnRef` desde el front. Las mutaciones están deshabilitadas (no-op).\n\n## Operaciones\n| Método | Endpoint | Descripción |\n|---|---|---|\n| GET | `/api/permisos/:filtro` | Listar |\n| GET | `/api/permiso/:ipermiso` | Obtener |\n\n## Modelo de datos\n| Campo | Tipo | Descripción |\n|---|---|---|\n| ipermiso | string | Identificador del permiso (PK) |\n| npermiso | string | Nombre del permiso |",
+          "mutating": false,
+          "pathParams": [
+            {
+              "key": "ipermiso",
+              "description": "Identificador de permiso",
+              "example": "1"
+            },
+            {
+              "key": "idriver",
+              "description": "Path param :idriver"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

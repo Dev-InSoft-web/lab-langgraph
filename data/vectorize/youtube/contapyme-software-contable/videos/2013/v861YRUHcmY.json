@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:29:28.399Z",
+  "videoId": "v861YRUHcmY",
+  "videoUrl": "https://www.youtube.com/watch?v=v861YRUHcmY",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "v861YRUHcmY",
+    "title": "Software contable ContaPyme - ¿Cómo fijar la IP en el equipo local?",
+    "fulltitle": "Software contable ContaPyme - ¿Cómo fijar la IP en el equipo local?",
+    "description": "http://www.contapyme.com\nEste video explica cómo fijar la IP en el equipo local, es decir en el equipo en el que se instala el Agente de servicios web, con el fin de hacer el enrutamiento del puerto persistente.\nCP40-530-070-017B",
+    "duration": 334,
+    "duration_string": "5:34",
+    "upload_date": "20130704",
+    "timestamp": 1372977071,
+    "view_count": 1927,
+    "like_count": 8,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/v861YRUHcmY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCUgXyh_MA8=&rs=AOn4CLB11jwzBEP-Ro1YrBEulq1FKg5J5w",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARglIF8ofzAP&rs=AOn4CLC8xrymzcss1FJwNwizsRgHPwmHjQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCUgXyh_MA8=&rs=AOn4CLASuIEo4WwJtht3xAAqybZM3soVmQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCUgXyh_MA8=&rs=AOn4CLAO4nVjy_oUsU-02zv7BT_uYjcj9A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCUgXyh_MA8=&rs=AOn4CLAsgHm-nGqOIGHiVmjMFEIoXyz9rA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARglIF8ofzAP&rs=AOn4CLDXSA7e7CcBUdbSMXsKY7oJy-PsWw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARglIF8ofzAP&rs=AOn4CLChFtTcM3hfrJurDKSP_4H90CUJKg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCUgXyh_MA8=&rs=AOn4CLAcYjG9kKZuCCjqaiWOGoZEATo1pA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCUgXyh_MA8=&rs=AOn4CLB11jwzBEP-Ro1YrBEulq1FKg5J5w",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/v861YRUHcmY/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/v861YRUHcmY/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=v861YRUHcmY",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2994011976047904,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20359281437125748,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20359281437125748,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20359281437125748,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 200.006,
+        "asr": 44100,
+        "filesize_approx": 8342000,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - ¿Cómo fijar la IP en el equipo local?",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/v861YRUHcmY/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/v861YRUHcmY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - ¿Cómo fijar la IP en el equipo local?\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 51,
+    "transcriptChars": 3588,
+    "segments": [
+      {
+        "text": "¿Cómo fijar la IP en el equipo local? Para entender el por qué la IP debe ser",
+        "startMs": 919,
+        "durationMs": 5631
+      },
+      {
+        "text": "fija, vamos a estudiarlo con el siguiente ejemplo.",
+        "startMs": 6550,
+        "durationMs": 4159
+      },
+      {
+        "text": "Nuestro proveedor de internet realiza el enrutamiento del puerto, es decir,",
+        "startMs": 10709,
+        "durationMs": 5400
+      },
+      {
+        "text": "asocia que todo lo que entre por el puerto que ha sido abierto se",
+        "startMs": 16109,
+        "durationMs": 3881
+      },
+      {
+        "text": "redirección al equipo cuya identificación es esta, por ejemplo.",
+        "startMs": 19990,
+        "durationMs": 4320
+      },
+      {
+        "text": "Pero, ¿qué pasa al no tener la IP de ese equipo local fija? Cada vez que se",
+        "startMs": 24310,
+        "durationMs": 5719
+      },
+      {
+        "text": "inicie el computador, la IP cambia. Por ejemplo, un día asigna la IP",
+        "startMs": 30029,
+        "durationMs": 11481
+      },
+      {
+        "text": "Al día siguiente la IP puede cambiar y asignar la IP terminada en 28 y al otro",
+        "startMs": 41520,
+        "durationMs": 5990
+      },
+      {
+        "text": "día la IP terminada en 27. Con este cambio, el redireccionamiento",
+        "startMs": 47510,
+        "durationMs": 5280
+      },
+      {
+        "text": "que realizó el proveedor de internet se pierde.",
+        "startMs": 52790,
+        "durationMs": 4279
+      },
+      {
+        "text": "nunca cambie y la solución es fijar la IP en el equipo para que en cada inicio",
+        "startMs": 59549,
+        "durationMs": 5721
+      },
+      {
+        "text": "la IP siempre sea la misma. Para fijar la IP en nuestro equipo",
+        "startMs": 57069,
+        "durationMs": 14321
+      },
+      {
+        "text": "debemos seguir los siguientes pasos. En la barra de tareas, en la zona del",
+        "startMs": 71390,
+        "durationMs": 5800
+      },
+      {
+        "text": "reloj, damos clic derecho sobre el icono que representa la conexión a internet,",
+        "startMs": 77190,
+        "durationMs": 5520
+      },
+      {
+        "text": "que puede ser el icono del monitor el icono de las barras si estamos",
+        "startMs": 82710,
+        "durationMs": 4160
+      },
+      {
+        "text": "conectados de forma inalámbrica. Elegimos la opción abrir el centro de",
+        "startMs": 86870,
+        "durationMs": 10080
+      },
+      {
+        "text": "En el menú de la izquierda damos clic a la opción cambiar configuración del",
+        "startMs": 96960,
+        "durationMs": 6670
+      },
+      {
+        "text": "adaptador. En esta nueva pantalla se presenta el",
+        "startMs": 103630,
+        "durationMs": 2759
+      },
+      {
+        "text": "tipo de conexión. Si nuestra conexión es por cableado,",
+        "startMs": 106389,
+        "durationMs": 4720
+      },
+      {
+        "text": "aparecerá conexión de área local, como es mi caso, o aparecerá ethernet. Pero",
+        "startMs": 111109,
+        "durationMs": 6640
+      },
+      {
+        "text": "si la conexión es inalámbrica, aparecerá conexión inalámbrica.",
+        "startMs": 117749,
+        "durationMs": 5561
+      },
+      {
+        "text": "Damos clic derecho y seleccionamos la opción propiedades.",
+        "startMs": 123310,
+        "durationMs": 7480
+      },
+      {
+        "text": "Elegimos la opción protocolo de internet versión 4 TCP",
+        "startMs": 130800,
+        "durationMs": 5870
+      },
+      {
+        "text": "Bv4 y damos clic a la opción propiedades.",
+        "startMs": 136670,
+        "durationMs": 5040
+      },
+      {
+        "text": "propiedades. En la ventana que se abre en la pestaña",
+        "startMs": 141710,
+        "durationMs": 2799
+      },
+      {
+        "text": "general marcamos la opción usar la siguiente dirección IP.",
+        "startMs": 144509,
+        "durationMs": 5720
+      },
+      {
+        "text": "Para conocer los datos que vamos a poner en estas cajas que se habilitan,",
+        "startMs": 150229,
+        "durationMs": 5121
+      },
+      {
+        "text": "vamos a dirigirnos al botón de inicio y en la barra de búsqueda digitamos cmd.",
+        "startMs": 155350,
+        "durationMs": 9640
+      },
+      {
+        "text": "Enter. Digitamos la palabra IP config",
+        "startMs": 164990,
+        "durationMs": 6640
+      },
+      {
+        "text": "y damos enter. Dentro de los datos que nos arroja,",
+        "startMs": 171640,
+        "durationMs": 3990
+      },
+      {
+        "text": "vamos a tomar primero el de dirección IP B4 y lo vamos a poner en la caja que",
+        "startMs": 175630,
+        "durationMs": 14679
+      },
+      {
+        "text": "El siguiente dato que tomaremos es máscara de su red.",
+        "startMs": 190319,
+        "durationMs": 5751
+      },
+      {
+        "text": "Y el tercer campo que pondremos es puerta de enlace predeterminada,",
+        "startMs": 196070,
+        "durationMs": 14439
+      },
+      {
+        "text": "Ya podemos cerrar nuestra ventana CMD para continuar con las demás",
+        "startMs": 210519,
+        "durationMs": 6591
+      },
+      {
+        "text": "configuraciones. Paso seguido vamos a activar la opción",
+        "startMs": 217110,
+        "durationMs": 2640
+      },
+      {
+        "text": "usar las siguientes direcciones de servidor DNS.",
+        "startMs": 219750,
+        "durationMs": 4199
+      },
+      {
+        "text": "Y en los campos servidor DNS preferido y servidor DNS alternativo, vamos a poner",
+        "startMs": 223949,
+        "durationMs": 7081
+      },
+      {
+        "text": "las direcciones según sea nuestro proveedor de internet.",
+        "startMs": 231030,
+        "durationMs": 4479
+      },
+      {
+        "text": "Por ejemplo, en mi caso es une y sus direcciones DNS son",
+        "startMs": 235509,
+        "durationMs": 13601
+      },
+      {
+        "startMs": 249120,
+        "durationMs": 11069,
+        "text": "y su DNS alternativo es"
+      },
+      {
+        "text": "para conocer el número del DNS de los diferentes proveedores de internet,",
+        "startMs": 260199,
+        "durationMs": 4831
+      },
+      {
+        "text": "podemos consultar la siguiente página web www.contapime.com/dns-isp.",
+        "startMs": 265030,
+        "durationMs": 9960
+      },
+      {
+        "text": "En esta página de internet podemos encontrar las direcciones DNS de",
+        "startMs": 275000,
+        "durationMs": 14150
+      },
+      {
+        "text": "Vamos a dar clic en el botón aceptar para guardar la configuración.",
+        "startMs": 289160,
+        "durationMs": 5190
+      },
+      {
+        "text": "Damos clic en el botón cerrar y por último vamos a verificar si nuestro",
+        "startMs": 294350,
+        "durationMs": 5520
+      },
+      {
+        "text": "internet funciona. Vamos a poner por ejemplo www.google.com google.com",
+        "startMs": 299870,
+        "durationMs": 6720
+      },
+      {
+        "text": "para verificar que nuestro internet está funcionando correctamente.",
+        "startMs": 306590,
+        "durationMs": 5240
+      },
+      {
+        "text": "Con esto, nuestra IP ahora está fija en el equipo y siempre que nuestro",
+        "startMs": 311830,
+        "durationMs": 4960
+      },
+      {
+        "text": "computador se encienda, la IP va a ser la misma, por lo cual el",
+        "startMs": 316790,
+        "durationMs": 4880
+      },
+      {
+        "text": "redireccionamiento que hace el proveedor de internet no se va a perder y va a",
+        "startMs": 321670,
+        "durationMs": 4639
+      },
+      {
+        "text": "quedar estático siempre en este equipo. Esto es todo sobre cómo fijar la IP en",
+        "startMs": 326309,
+        "durationMs": 9170
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video explica cómo fijar la IP en el equipo local, es decir en el equipo en el que se instala el Agente de servicios web, con el fin de hacer el enrutamiento del puerto persistente.\nCP40-530-070-017B\n\n## Transcripción\n\n¿Cómo fijar la IP en el equipo local? Para entender el por qué la IP debe ser\nfija, vamos a estudiarlo con el siguiente ejemplo.\nNuestro proveedor de internet realiza el enrutamiento del puerto, es decir,\nasocia que todo lo que entre por el puerto que ha sido abierto se\nredirección al equipo cuya identificación es esta, por ejemplo.\nPero, ¿qué pasa al no tener la IP de ese equipo local fija? Cada vez que se\ninicie el computador, la IP cambia. Por ejemplo, un día asigna la IP\nAl día siguiente la IP puede cambiar y asignar la IP terminada en 28 y al otro\ndía la IP terminada en 27. Con este cambio, el redireccionamiento\nque realizó el proveedor de internet se pierde.\nnunca cambie y la solución es fijar la IP en el equipo para que en cada inicio\nla IP siempre sea la misma. Para fijar la IP en nuestro equipo\ndebemos seguir los siguientes pasos. En la barra de tareas, en la zona del\nreloj, damos clic derecho sobre el icono que representa la conexión a internet,\nque puede ser el icono del monitor el icono de las barras si estamos\nconectados de forma inalámbrica. Elegimos la opción abrir el centro de\nEn el menú de la izquierda damos clic a la opción cambiar configuración del\nadaptador. En esta nueva pantalla se presenta el\ntipo de conexión. Si nuestra conexión es por cableado,\naparecerá conexión de área local, como es mi caso, o aparecerá ethernet. Pero\nsi la conexión es inalámbrica, aparecerá conexión inalámbrica.\nDamos clic derecho y seleccionamos la opción propiedades.\nElegimos la opción protocolo de internet versión 4 TCP\nBv4 y damos clic a la opción propiedades.\npropiedades. En la ventana que se abre en la pestaña\ngeneral marcamos la opción usar la siguiente dirección IP.\nPara conocer los datos que vamos a poner en estas cajas que se habilitan,\nvamos a dirigirnos al botón de inicio y en la barra de búsqueda digitamos cmd.\nEnter. Digitamos la palabra IP config\ny damos enter. Dentro de los datos que nos arroja,\nvamos a tomar primero el de dirección IP B4 y lo vamos a poner en la caja que\nEl siguiente dato que tomaremos es máscara de su red.\nY el tercer campo que pondremos es puerta de enlace predeterminada,\nYa podemos cerrar nuestra ventana CMD para continuar con las demás\nconfiguraciones. Paso seguido vamos a activar la opción\nusar las siguientes direcciones de servidor DNS.\nY en los campos servidor DNS preferido y servidor DNS alternativo, vamos a poner\nlas direcciones según sea nuestro proveedor de internet.\nPor ejemplo, en mi caso es une y sus direcciones DNS son\ny su DNS alternativo es\npara conocer el número del DNS de los diferentes proveedores de internet,\npodemos consultar la siguiente página web www.contapime.com/dns-isp.\nEn esta página de internet podemos encontrar las direcciones DNS de\nVamos a dar clic en el botón aceptar para guardar la configuración.\nDamos clic en el botón cerrar y por último vamos a verificar si nuestro\ninternet funciona. Vamos a poner por ejemplo www.google.com google.com\npara verificar que nuestro internet está funcionando correctamente.\nCon esto, nuestra IP ahora está fija en el equipo y siempre que nuestro\ncomputador se encienda, la IP va a ser la misma, por lo cual el\nredireccionamiento que hace el proveedor de internet no se va a perder y va a\nquedar estático siempre en este equipo. Esto es todo sobre cómo fijar la IP en"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 200.006,
+    "asr": 44100,
+    "filesizeApprox": 8342000,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/v861YRUHcmY.md",
+    "json": "videos/2013/v861YRUHcmY.json",
+    "infoJson": "videos/2013/v861YRUHcmY.info.json"
+  },
+  "publishYear": "2013"
+}

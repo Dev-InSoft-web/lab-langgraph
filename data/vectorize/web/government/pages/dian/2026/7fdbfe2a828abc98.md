@@ -1,0 +1,207 @@
+---
+title: Prevalidadores
+url: https://www.dian.gov.co/Transaccional/Paginas/Prevalidadores.aspx
+corpus: dian
+tipo: web
+audience: contadores
+pageId: 7fdbfe2a828abc98
+storageRel: dian/2026
+fetchedAt: 2026-06-04T03:27:11.476Z
+---
+
+# Prevalidadores
+
+​​
+
+# Prevalidadores
+
+ ##  Acordeón
+
+ ##  Impuestos
+
+-   [
+
+    Programa Ayuda Renta 2025
+
+    ](https://cutt.ly/Yt11Amqk)
+-   [Programa Ayuda Renta 2024](https://cutt.ly/5rcw9FEm)
+
+-   [Programa Ayuda Renta 2023](https://cutt.ly/fetlwr67)
+
+-   [Programa Ayuda Renta 2022](https://cutt.ly/Q6BdKbm)
+
+-   [Programa Ayuda Renta 2021](https://cutt.ly/1KmEmg0)
+
+-   [Programa Ayuda Renta 2020](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Programa-Ayuda-Renta-2020.zip)
+
+-   [Entidades Financieras](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Entidades%20Financieras.zip)
+
+-   [Factura electrónica](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Factura%20electr%c3%b3nica.zip)
+
+-   [Frigoríficos y Pieles 2016 Versión 1.2](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Frigor%c3%adficos%20y%20Pieles%202016%20Versi%c3%b3n%201.2.zip)
+
+-   [Impuesto Nacional a la Gasolina y ACPM](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Impuesto%20Nacional%20a%20la%20Gasolina%20y%20ACPM.zip)
+
+-   [Información Relevancia Tributaria Año Gravable 2016](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informacion%20Relevancia%20Tributaria%20A%c3%b1o%20Gravable%202016.zip)
+
+-   [Información de Relevancia Tributaria Año Gravable 2015](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20de%20Relevancia%20Tributaria%20A%c3%b1o%20Gravable%202015%20.zip)
+
+-   [Información de Relevancia Tributaria vigencia 2013 - 2014](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20de%20Relevancia%20Tributaria%20vigencia%202013%20-%202014%20.zip)
+
+-   [Información de Relevancia Tributaria año gravable 2012](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20de%20Relevancia%20Tributaria%20a%c3%b1o%20gravable%202012%20.zip)
+
+-   [Información Tributaria (Vigenci​a 2025)](https://www.dian.gov.co/Transaccional/Paginas/Prevalidadores-Informacion-Tributaria.aspx)
+
+-   [Información Tributaria (Vigenci​a 2024)](https://www.dian.gov.co/Transaccional/Paginas/Prevalidadores-Informacion-Tributaria.aspx)
+
+-   [Información Tributaria (Vigenci​a 2023)](https://www.dian.gov.co/Transaccional/Paginas/Prevalidadores-Informacion-Tributaria.aspx)
+
+-   ​[Información Tributaria (Vigenci​a 2022)](https://www.dian.gov.co/Transaccional/Paginas/Prevalidadores-Informacion-Tributaria.aspx)
+
+-   [Información Tributaria (Vigencia 2021)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informacion-Tributaria-Vigencia-2021.zip)
+
+-   [Información Tributaria (Vigencia 2020)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informacion%20Tributaria%20%28Vigencia%202020%29.zip)
+
+-   [Información Tributaria (Vigencia 2019)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informacion%20Tributaria%20%28Vigencia%202019%29.zip)
+
+-   [Información Tributaria (Vigencia 2018)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202018%29.zip)
+
+-   [información Tributaria (Vigencia 2017)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informacion%20Tributaria%20%28Vigencia%202017%29.zip)
+
+-   [Información Tributaria (Vigencia 2016)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202016%29.zip)
+
+-   [Información Tributaria (Vigencia 2015)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202015%29.zip)
+
+-   [Información Tributaria (Vigencia 2014)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202014%29.zip)
+
+-   [Información Tributaria (Vigencia 2013)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202013%29.zip)
+
+-   [Información Tributaria (vigencia 2012)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28vigencia%202012%29.zip)
+
+-   [Información Tributaria (Vigencia 2011)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202011%29.zip)
+
+-   [Información Tributaria (Vigencia 2010)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202010%29.zip)
+
+-   [Información Tributaria (Vigencia 2009)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202009%29.zip)
+
+-   [Información Tributaria (Vigencia 2008)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202008%29.zip)
+
+-   [Información Tributaria (Vigencia 2007)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20%28Vigencia%202007%29.zip)
+
+-   [Información Tributaria (Vigencia 2005)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Tributaria%20Vigencia%202005.zip)
+
+-   [Información Usuarios de Entidades Públicas o Privadas](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informaci%c3%b3n%20Usuarios%20de%20Entidades%20P%c3%bablicas%20o%20Privadas.zip)
+
+-   [Información Ventas con Exención de IVA](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Informacion_Ventas_con_Exencion_de_IVA.zip)
+
+-   [Precios de Transferencia (Año gravable 2024) Versión 3.6.1-25](https://cutt.ly/UrnWBVhp)
+
+-   [Precios de Transferencia (Año gravable 2023) Versión 3.6.0-24](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Prevalidador-Precios-Transferencia-AG-2023-v3-6-0-24.zip)
+
+-   [Precios de Transferencia (Año gravable 2022) Versión 3.5.0-23](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Prevalidador_PreciosTransferencia_AG2022_v3.5.0-23.zip)
+
+-   [Precios de Transferencia (Año gravable 2021) Version 3.4.0-22](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Prevalidador_Precios_Transferencia_AG2021_v3_4_0_22.zip)
+
+-   [Precios de Transferencia (Año gravable 2020) Versión 3.3.0-21](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios-de-Transferencia-AG-2020.zip)
+
+-   [Precios de Transferencia (Año gravable 2019) Versión 3.2.0-20](https://bit.ly/3qQynuP)
+
+-   [Precios de Transferencia (Año gravable 2018) Versión 3.1.0-19](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios%20de%20Transferencia%20%28A%c3%b1o%20gravable%202018%29%20Versi%c3%b3n%203.1.0-19.zip)
+
+-   [Precios de Transferencia (Año gravable 2017) Versión 3.0.1-18](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios%20de%20Transferencia%20%28A%c3%b1o%20gravable%202017%29%20Versi%c3%b3n%203.0.1-18.zip)
+
+-   [Precios de Transferencia (Año gravable 2016 Versión Versión 2.0.1-17)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios%20de%20Transferencia%20%28A%c3%b1o%20gravable%202016%20Versi%c3%b3n%20Versi%c3%b3n%202.0.1-17%29.zip)
+
+-   [Precios de Transferencia (Año gravable 2015 Versión 1.1.1)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios%20de%20Transferencia%20%28A%c3%b1o%20gravable%202015%20Versi%c3%b3n%201.1.1%29.zip)
+
+-   [Precios de Transferencia (Año gravable 2014 Versión 1.3)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios%20de%20Transferencia%20%28A%c3%b1o%20gravable%202014%20Versi%c3%b3n%201.3%29.zip)
+
+-   [Precios de Transferencia (Año gravable 2013 Versión 1.4)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Precios%20de%20Transferencia%20%28A%c3%b1o%20gravable%202013%20Versi%c3%b3n%201.4%29.zip)
+
+-   [Prevalidador Convenios Cooperación 2017](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Prevalidador%20Convenios%20Cooperacion%202017.zip)
+
+-   [Registraduría Nacional](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Registradur%c3%ada%20Nacional.zip)
+
+-   [Reporte Conciliación Fiscal F2516v9 (Año gravable 2025)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte-Conciliacion-Fiscal-F2516V9-AG2025-v1-0-0-2026.zip)
+
+-   [Reporte Conciliación Fiscal F2517v8 (Año gravable 2025)](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Reporte_Conciliaci%C3%B3n_Fiscal_F2517V8_AG2025_v1.0.0-2026.zip)
+
+-   [Reporte Conciliación Fiscal F2516v8 (Año gravable 2024​​)](https://cutt.ly/uraFGiTZ)
+
+-   [Reporte Conciliación Fiscal F2517v7 (Año gravable 2024](https://cutt.ly/Trd8Mfgz)
+
+-   [Reporte Conciliación Fiscal F2517v6 (Año gravable 2023)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte-Conciliacion-Fiscal-F2517V6-AG2023-v1-0-2-2024.zip)
+
+-   [Reporte Conciliación Fiscal F2516v7 (Año gravable 2023)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte-Conciliacion-Fiscal-F2516V7-AG2023-V1-0-0-2024.zip)
+
+-   [Reporte Conciliación Fiscal F2516v6 (Año gravable 2022)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte_Conciliacion_Fiscal_F2516V6_AG2022_v_1_0_0_2023.zip)
+
+-   [Reporte Conciliación Fiscal F2517v5 (Año gravable 2022)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte_Conciliacion_Fiscal%20F2517v5.zip)
+
+-   [Reporte Conciliación Fiscal F2516v5 (Año gravable 2021)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte_Conciliaci%C3%B3n_Fiscal_F2516V5_AG2021_v1.0.0-2022.zip)
+
+-   [Reporte Conciliación Fiscal F2517v4 (Año gravable 2021)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte_Conciliaci%C3%B3n_Fiscal_F2517V4_AG2021_v1.1.1-2022.zip)
+
+-   [Reporte Conciliación Fiscal F2516v4 (Año gravable 2020)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte-Conciliacion-Fiscal-F2516v4-AG-2020.zip)
+
+-   [Reporte Conciliación Fiscal F2517v3 (Año gravable 2020)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte-Conciliacion-Fiscal-F2517v3-AG-2020.zip)
+
+-   [Reporte Conciliación Fiscal Naturales F2517v2 (Año gravable 2019)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte%20Conciliaci%C3%B3n%20Fiscal%20Naturales%20F2517v2%20\(A%C3%B1o%20gravable%202019\).zip)
+
+-   [Reporte Conciliación Fiscal F2516v3 (Año gravable 2019)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte-Conciliacion-Fiscal-F2516v3-AG2019.zip)
+
+-   [Reporte Conciliación Fiscal F2516v2 (Año gravable 2018)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte%20Conciliaci%c3%b3n%20Fiscal%20F2516v2%20%28A%c3%b1o%20gravable%202018%29.zip)
+
+-   [Reporte Conciliación Fiscal F2516v1 (Año gravable 2017)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Reporte%20Conciliaci%c3%b3n%20Fiscal%20F2516v1%20%28A%c3%b1o%20gravable%202017%29.zip)
+
+-   [Requisitos Saldo a Favor Ventas (Solo incluye formatos 1439 y 1670 para años 2013 y siguiente​s)](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Devolucion_Saldo_a_favor_Ventas_Relacion_Imp_Descontables_v2.2.0-24.zip)
+
+-   [Requisitos Saldo a Favor Ventas (Todos los formatos con 1439 y 1670 para años 2012](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Requisitos%20Saldo%20a%20Favor%20Ventas%20%28Todos%20los%20formatos%20con%201439%20y%201670%20para%20a%c3%b1os%202012.zip)
+
+-   [Requisitos Saldo a favor Renta](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/Requisitos%20Saldo%20a%20favor%20Renta.zip)
+
+ ##  Aduanas
+
+​
+
+-   [Plásticos de un solo uso](https://cutt.ly/btmwFugn)
+
+-   [Certificado de Producción PROFIA V2-2023](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Prevalidador-CP-PROFIA-V3-0-023.zip)
+
+-   [Certificado de Producción PROFIA-2023](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Prevalidador-CP-PROFIA-V-2-7-0-2023.zip)
+
+-   [Certificado de Producción PROFIA-2022](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Prevalidador_CP_PROFIA_v2.6.0-22.zip)
+
+-   [Certificado de Producción PROFIA-2020](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Certificado%20de%20Producci%C3%B3n%20PROFIA-2020.zip)
+
+-   [Certificado de Producción PROFIA](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Certificado%20de%20Producci%C3%B3n%20PROFIA.zip)
+
+-   [Certificado al Proveedor](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Certificado-al-Proveedor.zip)
+
+-   [Contingencia Carga (Versión optimizada)](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Contingencia%20Carga%20\(Versi%C3%B3n%20optimizada\).zip)
+
+-   [Cuadro Insumo Producto](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Cuadro%20Insumo%20Producto.zip)
+
+-   [Cuadro Insumo Producto PROFIA](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Cuadro%20Insumo%20Producto%20PROFIA.zip)
+
+-   [Declaración Andina del Valor](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Declaraci%C3%B3n%20Andina%20del%20Valor.zip)
+
+-   [Declaración de Exportación](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Declaraci%C3%B3n%20de%20Exportaci%C3%B3n.zip)
+
+-   [Hojas 2 formularios 520 y 540 (2022)](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Prevalidador_Aduanero_v1_8_0_22.zip)
+
+-   [Hojas 2 formularios 520 y 540](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Hojas%202%20formularios%20520%20y%20540.zip)
+
+-   [Importación Carga (Versión optimizada)](https://storagecdndian.blob.core.windows.net/site/Transaccional/Prevalidadores%20aduanas/Importacion-Carga-Version-optimizada.zip)
+
+-   [Registro aduanero](https://storagecdndian.blob.core.windows.net/site/Transaccional/PREVALIDADORES/RegistroAduanero.zip)
+
+-   [Salida de mercancías](https://www.dian.gov.co/Transaccional/Prevalidadores%20aduanas/Salida%20de%20mercanc%C3%ADas.zip)
+
+ ##  Cambios
+
+-   [Información Cambiaria a partir del cuarto trimestre de 2023](https://cutt.ly/prduCwcK)
+
+-   [Información Cambiaria años 2022, segundo trimestre - a 2023, tercer trimestre](https://storagecdndian.blob.core.windows.net/site/Transaccional/prevalidador%20cambios/PrevalidadorCambiario_v2.5.1.zip)
+
+-   [Información Cambiaria años 2006 a 2022 primer trimestre](https://storagecdndian.blob.core.windows.net/site/Transaccional/prevalidador%20cambios/Informaci%C3%B3n%20cambiaria.zip)

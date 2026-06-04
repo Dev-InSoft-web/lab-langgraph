@@ -1,0 +1,985 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T04:55:13.215Z",
+  "videoId": "7ZtACA9GMIs",
+  "videoUrl": "https://www.youtube.com/watch?v=7ZtACA9GMIs",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "7ZtACA9GMIs",
+    "title": "Software agricola AgroWin - Planilla de labores",
+    "fulltitle": "Software agricola AgroWin - Planilla de labores",
+    "description": "http://www.contapyme.com/software-agricola\nSoftware agrícola AgroWin.\nAW40-040-050-01B",
+    "duration": 733,
+    "duration_string": "12:13",
+    "upload_date": "20120303",
+    "view_count": 1880,
+    "like_count": 7,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "age_limit": 0,
+    "live_status": "not_live",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/7ZtACA9GMIs/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "30",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/hqdefault.webp",
+        "preference": -6,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "32",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/sddefault.webp",
+        "preference": -4,
+        "id": "33"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/hq720.jpg",
+        "preference": -3,
+        "id": "34"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/hq720.webp",
+        "preference": -2,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ZtACA9GMIs/maxresdefault.jpg",
+        "preference": -1,
+        "id": "36"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ZtACA9GMIs/maxresdefault.webp",
+        "preference": 0,
+        "id": "37"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7ZtACA9GMIs",
+    "is_live": false,
+    "was_live": false,
+    "chapters": [
+      {
+        "start_time": 0,
+        "title": "Objetivo de la Planilla de labores",
+        "end_time": 90
+      },
+      {
+        "start_time": 90,
+        "title": "Estructura de la planilla de labores",
+        "end_time": 138
+      },
+      {
+        "start_time": 138,
+        "title": "Plantilla de campo para documentar los datos",
+        "end_time": 178
+      },
+      {
+        "start_time": 178,
+        "title": "Maestros relacionados con la planilla de labores",
+        "end_time": 224
+      },
+      {
+        "start_time": 224,
+        "title": "Tipos de contratación",
+        "end_time": 283
+      },
+      {
+        "start_time": 283,
+        "title": "Terceros",
+        "end_time": 327
+      },
+      {
+        "start_time": 327,
+        "title": "Nombre del trabajador",
+        "end_time": 422
+      },
+      {
+        "start_time": 422,
+        "title": "Labores y centros de costos",
+        "end_time": 557
+      },
+      {
+        "start_time": 557,
+        "title": "Cuantificación del pago según el tipo de contrato",
+        "end_time": 622
+      },
+      {
+        "start_time": 622,
+        "title": "Cuantificación del pago de una labor",
+        "end_time": 733
+      }
+    ],
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.1364256480218281,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2019099590723056,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2019099590723056,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 242.689,
+        "asr": 44100,
+        "filesize_approx": 22226035,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - Planilla de labores",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/7ZtACA9GMIs/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/7ZtACA9GMIs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - Planilla de labores\"></iframe>"
+  },
+  "transcript": {
+    "method": "groq-whisper-large-v3-turbo",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 114,
+    "transcriptChars": 9137,
+    "segments": [
+      {
+        "startMs": 520,
+        "durationMs": 2900,
+        "text": "AgroWin, planilla de labores, conceptualización"
+      },
+      {
+        "text": "La planilla de labores se utiliza para registrar, cuantificar y pagar las labores realizadas en la finca durante la semana",
+        "startMs": 3420,
+        "durationMs": 10820
+      },
+      {
+        "startMs": 14240,
+        "durationMs": 4580,
+        "text": "Preguntas básicas al programar una labor"
+      },
+      {
+        "startMs": 18820,
+        "durationMs": 5220,
+        "text": "Antes de programar una labor, hay cuatro datos necesarios para su ejecución"
+      },
+      {
+        "startMs": 24040,
+        "durationMs": 3180,
+        "text": "que son conocidos por el administrador o el mayoromo de la finca"
+      },
+      {
+        "startMs": 27220,
+        "durationMs": 3800,
+        "text": "y sin las cuales faltaría información para la ejecución de la labor."
+      },
+      {
+        "startMs": 31860,
+        "durationMs": 3920,
+        "text": "Estas son, primero, ¿qué labor se realizará?"
+      },
+      {
+        "startMs": 36960,
+        "durationMs": 2400,
+        "text": "Información documentada en el catálogo de labores."
+      },
+      {
+        "startMs": 40460,
+        "durationMs": 1860,
+        "text": "Segundo, ¿dónde se requiere?"
+      },
+      {
+        "startMs": 43440,
+        "durationMs": 3620,
+        "text": "Información documentada en el catálogo de centros de costos."
+      },
+      {
+        "startMs": 48180,
+        "durationMs": 2200,
+        "text": "Tercero, ¿quién realizará la labor?"
+      },
+      {
+        "startMs": 51240,
+        "durationMs": 2780,
+        "text": "Información documentada en el catálogo de terceros."
+      },
+      {
+        "startMs": 54020,
+        "durationMs": 3600,
+        "text": "Y cuarto, ¿Cómo se pagará la labor?"
+      },
+      {
+        "startMs": 58440,
+        "durationMs": 3680,
+        "text": "Es una información documentada en el catálogo de tipos de contratación"
+      },
+      {
+        "startMs": 62120,
+        "durationMs": 8600,
+        "text": "Asimismo, una vez finalizada la labor, surgen a su vez dos datos que son de conocimiento del trabajador que la ejecutó"
+      },
+      {
+        "startMs": 70720,
+        "durationMs": 6000,
+        "text": "Y que significa la información necesaria a tener en cuenta para cuantificar el pago de la labor"
+      },
+      {
+        "startMs": 76720,
+        "durationMs": 1580,
+        "text": "Estas son"
+      },
+      {
+        "startMs": 78300,
+        "durationMs": 5740,
+        "text": "Primero, cuantos días, horas, etc. se demoró en la ejecución de la labor"
+      },
+      {
+        "startMs": 84040,
+        "durationMs": 4060,
+        "text": "Y segundo, cuanta labor se realizó"
+      },
+      {
+        "startMs": 88100,
+        "durationMs": 4260,
+        "text": "Estructura de la planilla de labores"
+      },
+      {
+        "startMs": 92360,
+        "durationMs": 2800,
+        "text": "De la anterior información se deduce que"
+      },
+      {
+        "startMs": 95160,
+        "durationMs": 3060,
+        "text": "La estructura básica de una planilla de labores va a ser la siguiente"
+      },
+      {
+        "startMs": 98220,
+        "durationMs": 3860,
+        "text": "Primero, el tipo de contrato"
+      },
+      {
+        "startMs": 102080,
+        "durationMs": 5880,
+        "text": "Segundo, el nombre del trabajador con su código"
+      },
+      {
+        "startMs": 107960,
+        "durationMs": 4900,
+        "text": "Tercero, el centro de costos donde laboró"
+      },
+      {
+        "startMs": 112860,
+        "durationMs": 3920,
+        "text": "Cuarto, la labor que ejecutó"
+      },
+      {
+        "startMs": 116780,
+        "durationMs": 5580,
+        "text": "Quinto, la cantidad de mano de obra o jornales que ocupó"
+      },
+      {
+        "startMs": 122360,
+        "durationMs": 5440,
+        "text": "Y sexto, la cantidad de trabajo o cantidad de labor ejecutada"
+      },
+      {
+        "startMs": 127800,
+        "durationMs": 7860,
+        "text": "Estos últimos cuatro campos se repiten para cada uno de los días de la semana, de lunes a domingo"
+      },
+      {
+        "startMs": 135660,
+        "durationMs": 6860,
+        "text": "Planilla de campo para documentar los datos de la planilla de labores"
+      },
+      {
+        "startMs": 142520,
+        "durationMs": 6360,
+        "text": "En la diapositiva se presenta un modelo de planilla de labores para captación de datos simplificada"
+      },
+      {
+        "startMs": 148880,
+        "durationMs": 3120,
+        "text": "Perfectamente utilizable en una finca típica"
+      },
+      {
+        "startMs": 152900,
+        "durationMs": 2480,
+        "text": "En ese se pueden observar los campos anotados"
+      },
+      {
+        "startMs": 155380,
+        "durationMs": 9740,
+        "text": "Tipo de contrato, nombre del trabajador, centro de costos donde trabajó, labor realizada"
+      },
+      {
+        "startMs": 165120,
+        "durationMs": 9700,
+        "text": "Y para cada uno de los días de la semana, la cantidad de mano de obra ejecutada y la cantidad de labor ejecutada"
+      },
+      {
+        "startMs": 178420,
+        "durationMs": 13308,
+        "text": "Maestros relacionados con la planilla de labores Los datos generales anotados en la anterior diapositiva no son campos de digitaci directa en la planilla sino de selecci de los distintos maestros del sistema"
+      },
+      {
+        "startMs": 191728,
+        "durationMs": 4440,
+        "text": "Así, maestro de tipos de contratación"
+      },
+      {
+        "startMs": 196168,
+        "durationMs": 1580,
+        "text": "para el tipo de contrato"
+      },
+      {
+        "startMs": 197748,
+        "durationMs": 2480,
+        "text": "maestro de tipos de terceros"
+      },
+      {
+        "startMs": 200228,
+        "durationMs": 1500,
+        "text": "para el trabajador"
+      },
+      {
+        "startMs": 201728,
+        "durationMs": 2920,
+        "text": "maestro de centros de costos"
+      },
+      {
+        "startMs": 204648,
+        "durationMs": 2940,
+        "text": "para el lote ocultivo donde se ejecutó la labor"
+      },
+      {
+        "startMs": 208168,
+        "durationMs": 3740,
+        "text": "y maestro de labores para la labor ejecutada."
+      },
+      {
+        "startMs": 212868,
+        "durationMs": 4740,
+        "text": "Los datos para cada día de la semana son el resultado de las observaciones de campo."
+      },
+      {
+        "startMs": 218588,
+        "durationMs": 3460,
+        "text": "En las siguientes diapositivas detallaremos cada uno de estos campos anotados."
+      },
+      {
+        "startMs": 224068,
+        "durationMs": 1360,
+        "text": "Tipos de contratación."
+      },
+      {
+        "startMs": 225928,
+        "durationMs": 8020,
+        "text": "En el video de tipos de contratación de mano de obra, vimos que los contratos se utilizan para documentar la forma de pago de cada labor realizada en la finca."
+      },
+      {
+        "startMs": 234928,
+        "durationMs": 2900,
+        "text": "También vimos que existen tres tipos básicos de contratación."
+      },
+      {
+        "startMs": 238168,
+        "durationMs": 11820,
+        "text": "Por cantidad de labor realizada, cuando se paga por unidades de labor ejecutada, como árbol podado, sitio sembrado, kilogramos recolectado, etc."
+      },
+      {
+        "startMs": 250908,
+        "durationMs": 9940,
+        "text": "Por cantidad de mano de obra, cuando se paga por unidades de mano de obra medidas en tiempo, como jornal, hora, día, etc."
+      },
+      {
+        "startMs": 260848,
+        "durationMs": 7960,
+        "text": "Y contrato o destajo cuando se paga una cantidad de dinero predefinida no sujeta a unidades de medida."
+      },
+      {
+        "startMs": 270948,
+        "durationMs": 10360,
+        "text": "Finalmente está el contrato de personal administrativo propio de AgroWin que se utiliza para costear labores realizadas por el personal de nómina en los lotes y cultivos de la finca."
+      },
+      {
+        "startMs": 283528,
+        "durationMs": 6900,
+        "text": "Terceros. En el mismo video vimos que desde el punto de vista funcional en la finca trabajan dos tipos de personas."
+      },
+      {
+        "startMs": 290848,
+        "durationMs": 2800,
+        "text": "El personal administrativo y el personal de campo."
+      },
+      {
+        "startMs": 294268,
+        "durationMs": 4840,
+        "text": "Y desde el punto de vista del tipo de contratación, el personal de campo podría ser"
+      },
+      {
+        "startMs": 299108,
+        "durationMs": 7760,
+        "text": "personal fijo cuando permanecen en la finca por periodos largos de tiempo y bajo alguna forma de contratación laboral."
+      },
+      {
+        "startMs": 307688,
+        "durationMs": 5300,
+        "text": "Normalmente realizan labores administrativas y se pagan por operación de gastos o por movimiento contable."
+      },
+      {
+        "startMs": 312988,
+        "durationMs": 9960,
+        "text": "Y el personal ambulante cuando permanecen en la finca por periodos cortos de tiempo, una o dos semanas, para realizar labores específicas de campo."
+      },
+      {
+        "startMs": 323568,
+        "durationMs": 1900,
+        "text": "Estos se pagan por planilla de labores."
+      },
+      {
+        "startMs": 327408,
+        "durationMs": 1440,
+        "text": "Nombre del trabajador."
+      },
+      {
+        "startMs": 332028,
+        "durationMs": 6260,
+        "text": "Todos los trabajadores fijos de la finca deben ser creados en el maestro de terceros para efectos de pago de nómina."
+      },
+      {
+        "startMs": 338288,
+        "durationMs": 8200,
+        "text": "Los trabajadores ambulantes que se pagan por planilla de labores pueden o no estar registrados en el maestro de terceros"
+      },
+      {
+        "startMs": 346488,
+        "durationMs": 7020,
+        "text": "Esto significa que podemos digitalizar directamente el nombre del trabajador en el campo trabajador y sin código"
+      },
+      {
+        "startMs": 353508,
+        "durationMs": 6380,
+        "text": "La creación del personal ambulante en el maestro de terceros es pues opcional"
+      },
+      {
+        "startMs": 363228,
+        "durationMs": 28088,
+        "text": "Centros de costos"
+      },
+      {
+        "startMs": 391336,
+        "durationMs": 3140,
+        "text": "tractores, guadañas, combinadas, etc."
+      },
+      {
+        "startMs": 395796,
+        "durationMs": 5100,
+        "text": "Y lotes y cultivos y proyectos productivos, que son el objetivo principal de la planilla"
+      },
+      {
+        "startMs": 400896,
+        "durationMs": 4420,
+        "text": "por ser las labores agrícolas que apuntan más directamente a la producción,"
+      },
+      {
+        "startMs": 406256,
+        "durationMs": 5380,
+        "text": "como trazados, hollados, fumigaciones, fertilizaciones, cosechas, etc."
+      },
+      {
+        "startMs": 412676,
+        "durationMs": 4840,
+        "text": "En todos estos tipos de centros de costos es donde se ejecuta la mano de obra de la finca,"
+      },
+      {
+        "startMs": 417516,
+        "durationMs": 2360,
+        "text": "que se documenta en la planilla de labores."
+      },
+      {
+        "startMs": 422076,
+        "durationMs": 1700,
+        "text": "Labores y centros de costos."
+      },
+      {
+        "startMs": 424316,
+        "durationMs": 8580,
+        "text": "En la diapositiva se presenta, a manera de ejemplo, un juego de labores típicas para cada uno de los tipos de centros de costos anotados en la firmina anterior."
+      },
+      {
+        "startMs": 434696,
+        "durationMs": 1180,
+        "text": "Labores al gasto."
+      },
+      {
+        "startMs": 436576,
+        "durationMs": 6720,
+        "text": "Incluye labores como mantenimiento de piscinas, casas principales, jardines, canchas de fútbol, etc."
+      },
+      {
+        "startMs": 444716,
+        "durationMs": 1440,
+        "text": "Labores de maquinaria de equipo."
+      },
+      {
+        "startMs": 446156,
+        "durationMs": 6440,
+        "text": "Incluye labores como mantenimiento y reparación de maquinarias, equipos agrícolas y otro tipo de equipos"
+      },
+      {
+        "startMs": 452596,
+        "durationMs": 3000,
+        "text": "Labores generales"
+      },
+      {
+        "startMs": 455596,
+        "durationMs": 9440,
+        "text": "Incluye labores como mantenimiento de vías de comunicación, cercas y linderos, acueductos, construcciones, redes eléctricas, vehículos de trabajo"
+      },
+      {
+        "startMs": 465036,
+        "durationMs": 3620,
+        "text": "Y por último, labores directas"
+      },
+      {
+        "startMs": 468656,
+        "durationMs": 11800,
+        "text": "que incluyen todas las labores de carácter agronómico como preparación de terreno, trazado, hollados, siembras, resiembras, fertilizaciones, plateos, desyerbas, etc."
+      },
+      {
+        "startMs": 483736,
+        "durationMs": 1720,
+        "text": "Cuantificación del pago de una labor"
+      },
+      {
+        "startMs": 485456,
+        "durationMs": 5020,
+        "text": "La cuantificación del pago de una labor depende de tres datos"
+      },
+      {
+        "startMs": 490476,
+        "durationMs": 3480,
+        "text": "Primero, la forma de pago de la labor"
+      },
+      {
+        "startMs": 493956,
+        "durationMs": 8520,
+        "text": "O sea, si se paga por unidades de labor, como kilogramos, unidades, sitios, árboles, etc."
+      },
+      {
+        "startMs": 502956,
+        "durationMs": 5280,
+        "text": "O si se paga por unidades de tiempo, como día, hora, jornal, etc."
+      },
+      {
+        "startMs": 509816,
+        "durationMs": 13800,
+        "text": "Segundo, de la cantidad de unidades de trabajo efectivamente realizadas, cantidad de unidades de labor, cantidad de kilogramos de unidades ejecutadas, o cantidad de unidades de tiempo, días o horas ocupados en la ejecución de la labor."
+      },
+      {
+        "startMs": 523956,
+        "durationMs": 19040,
+        "text": "Y finalmente el valor unitario de pago o el valor unitario de la labor que puede ser valor por unidad de labor, valor por planta trabajada, valor por sitio ejecutado, valor por kilogramos recolectado o el valor por unidad de tiempo, valor del jornal o el valor de la hora ejecutada."
+      },
+      {
+        "startMs": 542996,
+        "durationMs": 17588,
+        "text": "Finalmente el pago de una planilla puede estar dirigido a un solo tercero a un pagador o a cada uno de los trabajadores registrados en la planilla Cuantificaci del pago seg el tipo de contrato"
+      },
+      {
+        "startMs": 560584,
+        "durationMs": 7700,
+        "text": "La forma de cuantificación del pago de una labor va a depender fundamentalmente del tipo de contrato utilizado"
+      },
+      {
+        "startMs": 568284,
+        "durationMs": 9100,
+        "text": "Así, para el pago por cantidad de labor se requiere la cantidad de labor realizada para el cálculo del pago"
+      },
+      {
+        "startMs": 577384,
+        "durationMs": 10200,
+        "text": "Para el pago por cantidad de mano de obra se requiere la cantidad de mano de obra para el cálculo del valor del pago"
+      },
+      {
+        "startMs": 587584,
+        "durationMs": 12660,
+        "text": "En el primer caso, el dato de cantidad de mano de obra no es requerido para efectos del pago"
+      },
+      {
+        "startMs": 600244,
+        "durationMs": 5460,
+        "text": "pero se recomienda recolectarlo para efectos de estadísticas de rendimiento de labores"
+      },
+      {
+        "startMs": 605704,
+        "durationMs": 6580,
+        "text": "En el segundo caso, la cantidad de labor no es requerida para efectos del pago"
+      },
+      {
+        "startMs": 612284,
+        "durationMs": 7700,
+        "text": "pero en caso de poderse recolectar sería conveniente para efectos de estadísticas de rendimientos de labores"
+      },
+      {
+        "startMs": 619984,
+        "durationMs": 4740,
+        "text": "Cuantificación del pago de una labor"
+      },
+      {
+        "startMs": 624724,
+        "durationMs": 7840,
+        "text": "En la diapositiva se presenta un ejemplo gráfico donde se visualiza esquemáticamente la forma de realización del pago anterior"
+      },
+      {
+        "startMs": 632564,
+        "durationMs": 3020,
+        "text": "Pago por cantidad de mano de obra"
+      },
+      {
+        "startMs": 638564,
+        "durationMs": 1980,
+        "text": "Y pago a estajo"
+      },
+      {
+        "startMs": 640544,
+        "durationMs": 8600,
+        "text": "En el pago por cantidad de mano de obra al trabajador Jorge Toro por trabajar en el lote 1 en la labor de deshierva"
+      },
+      {
+        "startMs": 649144,
+        "durationMs": 6220,
+        "text": "Documentamos la cantidad de mano de obra ejecutada durante cada uno de los días de la semana"
+      },
+      {
+        "startMs": 655364,
+        "durationMs": 6280,
+        "text": "Un total de 5 jornales que multiplicamos por su valor unitario para obtener el valor total a pagarle"
+      },
+      {
+        "startMs": 661644,
+        "durationMs": 6140,
+        "text": "En este tipo de contrato no se requiere la cantidad de labor ejecutada para efectos del pago"
+      },
+      {
+        "text": "Pago por cantidad de labor al señor Jaime Toro por trabajar en el lote 2 en la labor de siembra",
+        "startMs": 635584,
+        "durationMs": 40320
+      },
+      {
+        "startMs": 675904,
+        "durationMs": 5960,
+        "text": "Le registramos la cantidad de labor ejecutada durante cada uno de los días de la semana"
+      },
+      {
+        "startMs": 681864,
+        "durationMs": 8280,
+        "text": "El valor total lo multiplicamos por el valor unitario de la labor para obtener el valor total a pagar"
+      },
+      {
+        "startMs": 690684,
+        "durationMs": 6140,
+        "text": "Podemos documentar la cantidad de manobra ejecutada pero no la requerimos para efectos del pago"
+      },
+      {
+        "startMs": 696824,
+        "durationMs": 7860,
+        "text": "y el contrato a destajo, el señor Jesús Marín por trabajar en el lote 3 en la labor de fumigación"
+      },
+      {
+        "startMs": 704684,
+        "durationMs": 5740,
+        "text": "podemos documentarle la cantidad de jornales ocupados durante cada uno de los días de la semana"
+      },
+      {
+        "startMs": 710424,
+        "durationMs": 4940,
+        "text": "pero para efectos de pago no lo requerimos, no usamos valor unitario de pago"
+      },
+      {
+        "startMs": 715364,
+        "durationMs": 5000,
+        "text": "por lo tanto digitamos el valor total a pagar en el campo de valor total"
+      },
+      {
+        "startMs": 720364,
+        "durationMs": 9080,
+        "text": "Esto es todo sobre planilla de labores y su conceptualización"
+      },
+      {
+        "startMs": 729444,
+        "durationMs": 1440,
+        "text": "Gracias por su atención"
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com/software-agricola\nSoftware agrícola AgroWin.\nAW40-040-050-01B\n\n## Transcripción\n\nAgroWin, planilla de labores, conceptualización\nLa planilla de labores se utiliza para registrar, cuantificar y pagar las labores realizadas en la finca durante la semana\nPreguntas básicas al programar una labor\nAntes de programar una labor, hay cuatro datos necesarios para su ejecución\nque son conocidos por el administrador o el mayoromo de la finca\ny sin las cuales faltaría información para la ejecución de la labor.\nEstas son, primero, ¿qué labor se realizará?\nInformación documentada en el catálogo de labores.\nSegundo, ¿dónde se requiere?\nInformación documentada en el catálogo de centros de costos.\nTercero, ¿quién realizará la labor?\nInformación documentada en el catálogo de terceros.\nY cuarto, ¿Cómo se pagará la labor?\nEs una información documentada en el catálogo de tipos de contratación\nAsimismo, una vez finalizada la labor, surgen a su vez dos datos que son de conocimiento del trabajador que la ejecutó\nY que significa la información necesaria a tener en cuenta para cuantificar el pago de la labor\nEstas son\nPrimero, cuantos días, horas, etc. se demoró en la ejecución de la labor\nY segundo, cuanta labor se realizó\nEstructura de la planilla de labores\nDe la anterior información se deduce que\nLa estructura básica de una planilla de labores va a ser la siguiente\nPrimero, el tipo de contrato\nSegundo, el nombre del trabajador con su código\nTercero, el centro de costos donde laboró\nCuarto, la labor que ejecutó\nQuinto, la cantidad de mano de obra o jornales que ocupó\nY sexto, la cantidad de trabajo o cantidad de labor ejecutada\nEstos últimos cuatro campos se repiten para cada uno de los días de la semana, de lunes a domingo\nPlanilla de campo para documentar los datos de la planilla de labores\nEn la diapositiva se presenta un modelo de planilla de labores para captación de datos simplificada\nPerfectamente utilizable en una finca típica\nEn ese se pueden observar los campos anotados\nTipo de contrato, nombre del trabajador, centro de costos donde trabajó, labor realizada\nY para cada uno de los días de la semana, la cantidad de mano de obra ejecutada y la cantidad de labor ejecutada\nMaestros relacionados con la planilla de labores Los datos generales anotados en la anterior diapositiva no son campos de digitaci directa en la planilla sino de selecci de los distintos maestros del sistema\nAsí, maestro de tipos de contratación\npara el tipo de contrato\nmaestro de tipos de terceros\npara el trabajador\nmaestro de centros de costos\npara el lote ocultivo donde se ejecutó la labor\ny maestro de labores para la labor ejecutada.\nLos datos para cada día de la semana son el resultado de las observaciones de campo.\nEn las siguientes diapositivas detallaremos cada uno de estos campos anotados.\nTipos de contratación.\nEn el video de tipos de contratación de mano de obra, vimos que los contratos se utilizan para documentar la forma de pago de cada labor realizada en la finca.\nTambién vimos que existen tres tipos básicos de contratación.\nPor cantidad de labor realizada, cuando se paga por unidades de labor ejecutada, como árbol podado, sitio sembrado, kilogramos recolectado, etc.\nPor cantidad de mano de obra, cuando se paga por unidades de mano de obra medidas en tiempo, como jornal, hora, día, etc.\nY contrato o destajo cuando se paga una cantidad de dinero predefinida no sujeta a unidades de medida.\nFinalmente está el contrato de personal administrativo propio de AgroWin que se utiliza para costear labores realizadas por el personal de nómina en los lotes y cultivos de la finca.\nTerceros. En el mismo video vimos que desde el punto de vista funcional en la finca trabajan dos tipos de personas.\nEl personal administrativo y el personal de campo.\nY desde el punto de vista del tipo de contratación, el personal de campo podría ser\npersonal fijo cuando permanecen en la finca por periodos largos de tiempo y bajo alguna forma de contratación laboral.\nNormalmente realizan labores administrativas y se pagan por operación de gastos o por movimiento contable.\nY el personal ambulante cuando permanecen en la finca por periodos cortos de tiempo, una o dos semanas, para realizar labores específicas de campo.\nEstos se pagan por planilla de labores.\nNombre del trabajador.\nTodos los trabajadores fijos de la finca deben ser creados en el maestro de terceros para efectos de pago de nómina.\nLos trabajadores ambulantes que se pagan por planilla de labores pueden o no estar registrados en el maestro de terceros\nEsto significa que podemos digitalizar directamente el nombre del trabajador en el campo trabajador y sin código\nLa creación del personal ambulante en el maestro de terceros es pues opcional\nCentros de costos\ntractores, guadañas, combinadas, etc.\nY lotes y cultivos y proyectos productivos, que son el objetivo principal de la planilla\npor ser las labores agrícolas que apuntan más directamente a la producción,\ncomo trazados, hollados, fumigaciones, fertilizaciones, cosechas, etc.\nEn todos estos tipos de centros de costos es donde se ejecuta la mano de obra de la finca,\nque se documenta en la planilla de labores.\nLabores y centros de costos.\nEn la diapositiva se presenta, a manera de ejemplo, un juego de labores típicas para cada uno de los tipos de centros de costos anotados en la firmina anterior.\nLabores al gasto.\nIncluye labores como mantenimiento de piscinas, casas principales, jardines, canchas de fútbol, etc.\nLabores de maquinaria de equipo.\nIncluye labores como mantenimiento y reparación de maquinarias, equipos agrícolas y otro tipo de equipos\nLabores generales\nIncluye labores como mantenimiento de vías de comunicación, cercas y linderos, acueductos, construcciones, redes eléctricas, vehículos de trabajo\nY por último, labores directas\nque incluyen todas las labores de carácter agronómico como preparación de terreno, trazado, hollados, siembras, resiembras, fertilizaciones, plateos, desyerbas, etc.\nCuantificación del pago de una labor\nLa cuantificación del pago de una labor depende de tres datos\nPrimero, la forma de pago de la labor\nO sea, si se paga por unidades de labor, como kilogramos, unidades, sitios, árboles, etc.\nO si se paga por unidades de tiempo, como día, hora, jornal, etc.\nSegundo, de la cantidad de unidades de trabajo efectivamente realizadas, cantidad de unidades de labor, cantidad de kilogramos de unidades ejecutadas, o cantidad de unidades de tiempo, días o horas ocupados en la ejecución de la labor.\nY finalmente el valor unitario de pago o el valor unitario de la labor que puede ser valor por unidad de labor, valor por planta trabajada, valor por sitio ejecutado, valor por kilogramos recolectado o el valor por unidad de tiempo, valor del jornal o el valor de la hora ejecutada.\nFinalmente el pago de una planilla puede estar dirigido a un solo tercero a un pagador o a cada uno de los trabajadores registrados en la planilla Cuantificaci del pago seg el tipo de contrato\nLa forma de cuantificación del pago de una labor va a depender fundamentalmente del tipo de contrato utilizado\nAsí, para el pago por cantidad de labor se requiere la cantidad de labor realizada para el cálculo del pago\nPara el pago por cantidad de mano de obra se requiere la cantidad de mano de obra para el cálculo del valor del pago\nEn el primer caso, el dato de cantidad de mano de obra no es requerido para efectos del pago\npero se recomienda recolectarlo para efectos de estadísticas de rendimiento de labores\nEn el segundo caso, la cantidad de labor no es requerida para efectos del pago\npero en caso de poderse recolectar sería conveniente para efectos de estadísticas de rendimientos de labores\nCuantificación del pago de una labor\nEn la diapositiva se presenta un ejemplo gráfico donde se visualiza esquemáticamente la forma de realización del pago anterior\nPago por cantidad de mano de obra\nY pago a estajo\nEn el pago por cantidad de mano de obra al trabajador Jorge Toro por trabajar en el lote 1 en la labor de deshierva\nDocumentamos la cantidad de mano de obra ejecutada durante cada uno de los días de la semana\nUn total de 5 jornales que multiplicamos por su valor unitario para obtener el valor total a pagarle\nEn este tipo de contrato no se requiere la cantidad de labor ejecutada para efectos del pago\nPago por cantidad de labor al señor Jaime Toro por trabajar en el lote 2 en la labor de siembra\nLe registramos la cantidad de labor ejecutada durante cada uno de los días de la semana\nEl valor total lo multiplicamos por el valor unitario de la labor para obtener el valor total a pagar\nPodemos documentar la cantidad de manobra ejecutada pero no la requerimos para efectos del pago\ny el contrato a destajo, el señor Jesús Marín por trabajar en el lote 3 en la labor de fumigación\npodemos documentarle la cantidad de jornales ocupados durante cada uno de los días de la semana\npero para efectos de pago no lo requerimos, no usamos valor unitario de pago\npor lo tanto digitamos el valor total a pagar en el campo de valor total\nEsto es todo sobre planilla de labores y su conceptualización\nGracias por su atención",
+    "whisperModel": "whisper-large-v3-turbo",
+    "whisperAt": "2026-06-04T04:55:13.215Z"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 242.689,
+    "asr": 44100,
+    "filesizeApprox": 22226035,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2012",
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/7ZtACA9GMIs.md",
+    "json": "videos/2012/7ZtACA9GMIs.json",
+    "infoJson": "videos/2012/7ZtACA9GMIs.info.json"
+  }
+}

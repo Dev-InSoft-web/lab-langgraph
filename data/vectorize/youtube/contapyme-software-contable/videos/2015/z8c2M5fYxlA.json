@@ -1,0 +1,846 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:21:21.374Z",
+  "videoId": "z8c2M5fYxlA",
+  "videoUrl": "https://www.youtube.com/watch?v=z8c2M5fYxlA",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "z8c2M5fYxlA",
+    "title": "ContaExcel AddIn  - Seminario NIIF Súper Fáciles Recargado",
+    "fulltitle": "ContaExcel AddIn  - Seminario NIIF Súper Fáciles Recargado",
+    "description": "Es un complemento que se adiciona a Microsoft Excel con el cual a través de más de 200 funciones especializadas podemos acceder a toda la información almacenada en nuestro sistema ContaPyme y desde el entorno de trabajo que nos brinda Excel, podemos construir informes a la medida, podemos realizar gráficos y tablas dinámicas entre otras muchas funcionalidades que nos brinda ContaExcel addin.",
+    "duration": 425,
+    "duration_string": "7:05",
+    "upload_date": "20151125",
+    "timestamp": 1448458312,
+    "view_count": 230,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_follower_count": 11800,
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/z8c2M5fYxlA/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARhqIGooajAP&rs=AOn4CLBh7lp0GHOILFbVZLACJAuQftnK3w",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLBrlIKB-_PMn5e1xgC8NW0nGAggCQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLAN2v4fAf_cW9M9jWH-ccH5y8T5IQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLAvqvpZwl8nR1vtdUMs1A3rJqdtKg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhqIGooajAP&rs=AOn4CLAR8C6hcgcFMGMJP8QcYuJ6RpylXg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhqIGooajAP&rs=AOn4CLAKnAEBu57kxU8zNiR6Ugm3upWBuw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLAizrtLb81pmkb5KrBtIijo5cTVCQ",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLBQhpAnYybTnLZyKA6kHt-kxMzE-Q",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLCtf436mYfOeX_Bi16_QbbrVrXMCQ",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z8c2M5fYxlA/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "45",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/z8c2M5fYxlA/maxresdefault.webp",
+        "preference": 0,
+        "id": "46"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=z8c2M5fYxlA",
+    "is_live": false,
+    "was_live": false,
+    "chapters": [
+      {
+        "start_time": 0,
+        "title": "Inicio",
+        "end_time": 35
+      },
+      {
+        "start_time": 35,
+        "title": "¿Cómo funciona ContaExcel AddIn?",
+        "end_time": 110
+      },
+      {
+        "start_time": 110,
+        "title": "Módulos de ContaExcel AddIn",
+        "end_time": 278
+      },
+      {
+        "start_time": 278,
+        "title": "Ejemplos de Informes",
+        "end_time": 425
+      }
+    ],
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.23529411764705882,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.2023529411764706,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.2023529411764706,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "320x180",
+        "width": 320,
+        "height": 180,
+        "fps": 0.2023529411764706,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 25,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 160.67,
+        "asr": 44100,
+        "filesize_approx": 8536879,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "ContaExcel AddIn  - Seminario NIIF Súper Fáciles Recargado",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/z8c2M5fYxlA/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/z8c2M5fYxlA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"ContaExcel AddIn  - Seminario NIIF Súper Fáciles Recargado\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "segmentCount": 79,
+    "transcriptChars": 6133,
+    "segments": [
+      {
+        "text": "Muy buenos días mi nombre es Ángela",
+        "startMs": 430,
+        "durationMs": 2199
+      },
+      {
+        "text": "Janet tabarz soy jefe del departamento de soporte técnico nuevamente damos la",
+        "startMs": 2629,
+        "durationMs": 4401
+      },
+      {
+        "text": "bienvenida a todas las personas que se conectan el día de hoy para participar",
+        "startMs": 7030,
+        "durationMs": 3599
+      },
+      {
+        "text": "de esta sesión del seminario virtual mif superfáciles recargado en esta ocasión",
+        "startMs": 10629,
+        "durationMs": 6041
+      },
+      {
+        "text": "les voy a presentar una gran herramienta que se utiliza en conjunto con el",
+        "startMs": 16670,
+        "durationMs": 4280
+      },
+      {
+        "text": "sistema contapyme y es conta Excel adin una herramienta que podemos utilizar",
+        "startMs": 20950,
+        "durationMs": 5880
+      },
+      {
+        "text": "directamente desde Excel conta Excel adding Es un",
+        "startMs": 26830,
+        "durationMs": 5360
+      },
+      {
+        "text": "complemento que se adiciona a Microsoft Excel con el cual a través de más de 200",
+        "startMs": 32190,
+        "durationMs": 7120
+      },
+      {
+        "text": "funciones especializadas podemos acceder a toda la información que tenemos",
+        "startMs": 39310,
+        "durationMs": 5200
+      },
+      {
+        "text": "almacenada en nuestro sistema cont pime y desde el entorno de trabajo y las",
+        "startMs": 44510,
+        "durationMs": 5359
+      },
+      {
+        "text": "posibilidades y todas las utilidades que nos brinda Excel podemos construir",
+        "startMs": 49869,
+        "durationMs": 4801
+      },
+      {
+        "text": "informes a la medida podemos realizar gráficos tablas dinámicas entre otras",
+        "startMs": 54670,
+        "durationMs": 5800
+      },
+      {
+        "text": "muchas funcionalidades que nos brinda conta Excel",
+        "startMs": 60470,
+        "durationMs": 4240
+      },
+      {
+        "text": "adin Entonces cómo funciona desde Excel teniendo instalado conta Excel miren que",
+        "startMs": 64710,
+        "durationMs": 6039
+      },
+      {
+        "text": "acá tengo eh abierto digamos eh un libro de Excel se instala conta Excel queda",
+        "startMs": 70749,
+        "durationMs": 4801
+      },
+      {
+        "text": "directamente acá para utilizarlo desde Excel tenemos total interacción con los",
+        "startMs": 75550,
+        "durationMs": 5440
+      },
+      {
+        "text": "diferentes catálogos del sistema contapyme como les decía a través de las",
+        "startMs": 80990,
+        "durationMs": 4439
+      },
+      {
+        "text": "más de 200 funciones podemos acceder directamente a la información que",
+        "startMs": 85429,
+        "durationMs": 4521
+      },
+      {
+        "text": "tenemos registrada y procesada en nuestra base de datos y extraer la",
+        "startMs": 89950,
+        "durationMs": 4280
+      },
+      {
+        "text": "información necesaria para ser presentada en Excel Por ejemplo si yo",
+        "startMs": 94230,
+        "durationMs": 4800
+      },
+      {
+        "text": "desde Excel Quiero consultar el saldo de una cuenta por ejemplo Quiero saber el",
+        "startMs": 99030,
+        "durationMs": 4079
+      },
+      {
+        "text": "saldo de la cuenta 110510 Esta petición es realizada a la",
+        "startMs": 103109,
+        "durationMs": 5040
+      },
+      {
+        "text": "base de datos de conta pyme la cual procesa Y totaliza estos registros y",
+        "startMs": 108149,
+        "durationMs": 5081
+      },
+      {
+        "text": "retorna una respuesta que es presentada en Excel esta herramienta está",
+        "startMs": 113230,
+        "durationMs": 5519
+      },
+      {
+        "text": "especialmente diseñ Ada y pensada para gerentes contadores analistas y en",
+        "startMs": 118749,
+        "durationMs": 5280
+      },
+      {
+        "text": "general pues como para todas esas personas inquietas que quieren",
+        "startMs": 124029,
+        "durationMs": 2881
+      },
+      {
+        "text": "desarrollar sus propios modelos o desarrollar sus propios informes en",
+        "startMs": 126910,
+        "durationMs": 4080
+      },
+      {
+        "text": "Excel haciendo uso de las propias funciones de Excel sumadas a las de",
+        "startMs": 130990,
+        "durationMs": 4040
+      },
+      {
+        "text": "conta Excel adin las funciones en conta Excel están",
+        "startMs": 135030,
+        "durationMs": 5919
+      },
+      {
+        "text": "diseñadas para ser utilizadas de la misma forma que las utilizamos en Excel",
+        "startMs": 140949,
+        "durationMs": 5121
+      },
+      {
+        "text": "pero agregándole más funciones para acceder a la información de diferentes",
+        "startMs": 146070,
+        "durationMs": 4120
+      },
+      {
+        "text": "módulos módulos por ejemplo como cuál el módulo de contabilidad podemos tener",
+        "startMs": 150190,
+        "durationMs": 5399
+      },
+      {
+        "text": "funciones que nos muestren por ejemplo el movimiento de las cuentas el saldo de",
+        "startMs": 155589,
+        "durationMs": 4041
+      },
+      {
+        "text": "las cuentas la naturaleza el nombre el tipo de cuentas entre otros en el módulo",
+        "startMs": 159630,
+        "durationMs": 6160
+      },
+      {
+        "text": "de cartera y proveedores e sacar informes por ejemplo de cartera por",
+        "startMs": 165790,
+        "durationMs": 3560
+      },
+      {
+        "text": "edades movimiento de cuentas por tercero saldos de cuentas por tercero entre",
+        "startMs": 169350,
+        "durationMs": 4200
+      },
+      {
+        "text": "muchos otros en activos fijos podemos extraer información por ejemplo para",
+        "startMs": 173550,
+        "durationMs": 5440
+      },
+      {
+        "text": "sacar informes de cantidad de uso de activo costo histórico calcular las",
+        "startMs": 178990,
+        "durationMs": 5040
+      },
+      {
+        "text": "depreciaciones o el valor a hoy de los activos eh para el módulo de inventarios",
+        "startMs": 184030,
+        "durationMs": 5640
+      },
+      {
+        "text": "y facturación hay una gran cantidad de funciones que son muy útiles por ejemplo",
+        "startMs": 189670,
+        "durationMs": 4279
+      },
+      {
+        "text": "para consultar los consumos las entradas existencias de elementos salidas de",
+        "startMs": 193949,
+        "durationMs": 5200
+      },
+      {
+        "text": "inventarios movimientos consultar el costo promedio ponderado costos de",
+        "startMs": 199149,
+        "durationMs": 4881
+      },
+      {
+        "text": "ventas entre otras muchas más funciones que están disponibles para este módulo",
+        "startMs": 204030,
+        "durationMs": 4199
+      },
+      {
+        "text": "de inventarios Tenemos también las variables de entorno para conocer por",
+        "startMs": 208229,
+        "durationMs": 3881
+      },
+      {
+        "text": "ejemplo el nombre del área de trabajo en la cual estoy trabajando el nombre de la",
+        "startMs": 212110,
+        "durationMs": 3800
+      },
+      {
+        "text": "empresa que son variables junto con las variables de fecha que generalmente las",
+        "startMs": 215910,
+        "durationMs": 4080
+      },
+      {
+        "text": "ponemos pues como en el encabezado de los informes en las variables de fecha",
+        "startMs": 219990,
+        "durationMs": 3519
+      },
+      {
+        "text": "por ejemplo para saber el inicio de la semana primer y último día del mes la",
+        "startMs": 223509,
+        "durationMs": 4521
+      },
+      {
+        "text": "edad los nombres de los meses que generalmente van pues como en el",
+        "startMs": 228030,
+        "durationMs": 3320
+      },
+      {
+        "text": "encabezado de todos los informes para centros de costos a ver cantidad de área",
+        "startMs": 231350,
+        "durationMs": 5120
+      },
+      {
+        "text": "población unidades y también para el módulo lo de actividades y labores para",
+        "startMs": 236470,
+        "durationMs": 5560
+      },
+      {
+        "text": "saber cantidad de labor cantidad de mano de obra costo de labor sí Entonces como",
+        "startMs": 242030,
+        "durationMs": 4520
+      },
+      {
+        "text": "les digo son múltiples las opciones que tenemos para generarnos los pues",
+        "startMs": 246550,
+        "durationMs": 4280
+      },
+      {
+        "text": "nuestros informes a la medida como nosotros los necesitemos son más de 200",
+        "startMs": 250830,
+        "durationMs": 4520
+      },
+      {
+        "text": "funciones que nos ofrece conta Excel adicional a las funciones propias de",
+        "startMs": 255350,
+        "durationMs": 4240
+      },
+      {
+        "text": "Excel que podemos utilizar para construir nuestros informes miremos eh",
+        "startMs": 259590,
+        "durationMs": 5560
+      },
+      {
+        "text": "rápidamente en un archivo Qué tipo de informes podemos generar",
+        "startMs": 265150,
+        "durationMs": 33400
+      },
+      {
+        "startMs": 298560,
+        "durationMs": 14990,
+        "text": "ah"
+      },
+      {
+        "text": "miremos por ejemplo es tipo de informes sabemos que en cont pime Pues hay una",
+        "startMs": 313560,
+        "durationMs": 3790
+      },
+      {
+        "text": "gran cantidad de informes pero por medio de conta Excel podemos crearlos eh a la",
+        "startMs": 317350,
+        "durationMs": 4240
+      },
+      {
+        "text": "medida cierto con lo que nosotros pues necesitemos podemos construir por",
+        "startMs": 321590,
+        "durationMs": 3800
+      },
+      {
+        "text": "ejemplo un balance general entonces tenemos las variables de entorno las",
+        "startMs": 325390,
+        "durationMs": 4120
+      },
+      {
+        "text": "variables de fecha y esto simplemente es utilizar las fórmulas igual que las",
+        "startMs": 329510,
+        "durationMs": 4480
+      },
+      {
+        "text": "utilizamos en Excel es utilizar las fórmulas de conta Excel para extraer la",
+        "startMs": 333990,
+        "durationMs": 4039
+      },
+      {
+        "text": "información que tenemos registrada en la base de datos informes por ejemplo de",
+        "startMs": 338029,
+        "durationMs": 4440
+      },
+      {
+        "text": "cartera por edades para saber vencimientos entre ciertos rangos de",
+        "startMs": 342469,
+        "durationMs": 4280
+      },
+      {
+        "text": "días o fechas en el módulo de inventarios y ventas para sacar gráficos",
+        "startMs": 346749,
+        "durationMs": 5481
+      },
+      {
+        "text": "toda esta información la utilizamos o la extraemos estando directamente en Excel",
+        "startMs": 352230,
+        "durationMs": 5320
+      },
+      {
+        "text": "por medio de conta Excel podemos crear por ejemplo un estado de resultados por",
+        "startMs": 357550,
+        "durationMs": 4840
+      },
+      {
+        "text": "función sí simplemente es Eh como nosotros diseñar ese modelo lo diseñamos",
+        "startMs": 362390,
+        "durationMs": 6359
+      },
+      {
+        "text": "una sola vez y simplemente es venir y actualizar las fechas para seguir",
+        "startMs": 368749,
+        "durationMs": 4201
+      },
+      {
+        "text": "consultando el informe estado de resultados por",
+        "startMs": 372950,
+        "durationMs": 3600
+      },
+      {
+        "text": "naturaleza miren que es muy fácil pues hacerlo este informe también que me",
+        "startMs": 376550,
+        "durationMs": 6600
+      },
+      {
+        "text": "discrimina activo corriente activo no corriente Entonces miren que son",
+        "startMs": 383150,
+        "durationMs": 3920
+      },
+      {
+        "text": "múltiples las opciones que tenemos para que crear nuestros propios informes en",
+        "startMs": 387070,
+        "durationMs": 4119
+      },
+      {
+        "text": "conta Excel adin si requieren más información acerca de este de este",
+        "startMs": 391189,
+        "durationMs": 6761
+      },
+      {
+        "text": "producto de este módulo nos pueden escribir o nos pueden",
+        "startMs": 397950,
+        "durationMs": 17160
+      },
+      {
+        "text": "llamar si desean más información sobre este módulo nos pueden escribir nos",
+        "startMs": 415120,
+        "durationMs": 3710
+      },
+      {
+        "text": "pueden llamar con mucho gusto los vamos a asesorar sobre este módulo si",
+        "startMs": 418830,
+        "durationMs": 8130
+      }
+    ],
+    "plainText": "## Descripción del video\n\nEs un complemento que se adiciona a Microsoft Excel con el cual a través de más de 200 funciones especializadas podemos acceder a toda la información almacenada en nuestro sistema ContaPyme y desde el entorno de trabajo que nos brinda Excel, podemos construir informes a la medida, podemos realizar gráficos y tablas dinámicas entre otras muchas funcionalidades que nos brinda ContaExcel addin.\n\n## Transcripción\n\nMuy buenos días mi nombre es Ángela\nJanet tabarz soy jefe del departamento de soporte técnico nuevamente damos la\nbienvenida a todas las personas que se conectan el día de hoy para participar\nde esta sesión del seminario virtual mif superfáciles recargado en esta ocasión\nles voy a presentar una gran herramienta que se utiliza en conjunto con el\nsistema contapyme y es conta Excel adin una herramienta que podemos utilizar\ndirectamente desde Excel conta Excel adding Es un\ncomplemento que se adiciona a Microsoft Excel con el cual a través de más de 200\nfunciones especializadas podemos acceder a toda la información que tenemos\nalmacenada en nuestro sistema cont pime y desde el entorno de trabajo y las\nposibilidades y todas las utilidades que nos brinda Excel podemos construir\ninformes a la medida podemos realizar gráficos tablas dinámicas entre otras\nmuchas funcionalidades que nos brinda conta Excel\nadin Entonces cómo funciona desde Excel teniendo instalado conta Excel miren que\nacá tengo eh abierto digamos eh un libro de Excel se instala conta Excel queda\ndirectamente acá para utilizarlo desde Excel tenemos total interacción con los\ndiferentes catálogos del sistema contapyme como les decía a través de las\nmás de 200 funciones podemos acceder directamente a la información que\ntenemos registrada y procesada en nuestra base de datos y extraer la\ninformación necesaria para ser presentada en Excel Por ejemplo si yo\ndesde Excel Quiero consultar el saldo de una cuenta por ejemplo Quiero saber el\nsaldo de la cuenta 110510 Esta petición es realizada a la\nbase de datos de conta pyme la cual procesa Y totaliza estos registros y\nretorna una respuesta que es presentada en Excel esta herramienta está\nespecialmente diseñ Ada y pensada para gerentes contadores analistas y en\ngeneral pues como para todas esas personas inquietas que quieren\ndesarrollar sus propios modelos o desarrollar sus propios informes en\nExcel haciendo uso de las propias funciones de Excel sumadas a las de\nconta Excel adin las funciones en conta Excel están\ndiseñadas para ser utilizadas de la misma forma que las utilizamos en Excel\npero agregándole más funciones para acceder a la información de diferentes\nmódulos módulos por ejemplo como cuál el módulo de contabilidad podemos tener\nfunciones que nos muestren por ejemplo el movimiento de las cuentas el saldo de\nlas cuentas la naturaleza el nombre el tipo de cuentas entre otros en el módulo\nde cartera y proveedores e sacar informes por ejemplo de cartera por\nedades movimiento de cuentas por tercero saldos de cuentas por tercero entre\nmuchos otros en activos fijos podemos extraer información por ejemplo para\nsacar informes de cantidad de uso de activo costo histórico calcular las\ndepreciaciones o el valor a hoy de los activos eh para el módulo de inventarios\ny facturación hay una gran cantidad de funciones que son muy útiles por ejemplo\npara consultar los consumos las entradas existencias de elementos salidas de\ninventarios movimientos consultar el costo promedio ponderado costos de\nventas entre otras muchas más funciones que están disponibles para este módulo\nde inventarios Tenemos también las variables de entorno para conocer por\nejemplo el nombre del área de trabajo en la cual estoy trabajando el nombre de la\nempresa que son variables junto con las variables de fecha que generalmente las\nponemos pues como en el encabezado de los informes en las variables de fecha\npor ejemplo para saber el inicio de la semana primer y último día del mes la\nedad los nombres de los meses que generalmente van pues como en el\nencabezado de todos los informes para centros de costos a ver cantidad de área\npoblación unidades y también para el módulo lo de actividades y labores para\nsaber cantidad de labor cantidad de mano de obra costo de labor sí Entonces como\nles digo son múltiples las opciones que tenemos para generarnos los pues\nnuestros informes a la medida como nosotros los necesitemos son más de 200\nfunciones que nos ofrece conta Excel adicional a las funciones propias de\nExcel que podemos utilizar para construir nuestros informes miremos eh\nrápidamente en un archivo Qué tipo de informes podemos generar\nah\nmiremos por ejemplo es tipo de informes sabemos que en cont pime Pues hay una\ngran cantidad de informes pero por medio de conta Excel podemos crearlos eh a la\nmedida cierto con lo que nosotros pues necesitemos podemos construir por\nejemplo un balance general entonces tenemos las variables de entorno las\nvariables de fecha y esto simplemente es utilizar las fórmulas igual que las\nutilizamos en Excel es utilizar las fórmulas de conta Excel para extraer la\ninformación que tenemos registrada en la base de datos informes por ejemplo de\ncartera por edades para saber vencimientos entre ciertos rangos de\ndías o fechas en el módulo de inventarios y ventas para sacar gráficos\ntoda esta información la utilizamos o la extraemos estando directamente en Excel\npor medio de conta Excel podemos crear por ejemplo un estado de resultados por\nfunción sí simplemente es Eh como nosotros diseñar ese modelo lo diseñamos\nuna sola vez y simplemente es venir y actualizar las fechas para seguir\nconsultando el informe estado de resultados por\nnaturaleza miren que es muy fácil pues hacerlo este informe también que me\ndiscrimina activo corriente activo no corriente Entonces miren que son\nmúltiples las opciones que tenemos para que crear nuestros propios informes en\nconta Excel adin si requieren más información acerca de este de este\nproducto de este módulo nos pueden escribir o nos pueden\nllamar si desean más información sobre este módulo nos pueden escribir nos\npueden llamar con mucho gusto los vamos a asesorar sobre este módulo si",
+    "dedupeVersion": 5
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 25,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 160.67,
+    "asr": 44100,
+    "filesizeApprox": 8536879,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2015",
+    "md": "videos/2015/z8c2M5fYxlA.md",
+    "json": "videos/2015/z8c2M5fYxlA.json",
+    "infoJson": "videos/2015/z8c2M5fYxlA.info.json"
+  },
+  "publishYear": "2015"
+}

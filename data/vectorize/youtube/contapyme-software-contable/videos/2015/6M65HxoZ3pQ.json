@@ -1,0 +1,926 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:22:13.363Z",
+  "videoId": "6M65HxoZ3pQ",
+  "videoUrl": "https://www.youtube.com/watch?v=6M65HxoZ3pQ",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "6M65HxoZ3pQ",
+    "title": "Software contable ContaPyme - Ejemplo 1 Operación de conciliación bancaria manual",
+    "fulltitle": "Software contable ContaPyme - Ejemplo 1 Operación de conciliación bancaria manual",
+    "description": "http: //www.contapyme.com\nEn este vídeo se explica por medio de un ejemplo, como realizar la operación de conciliación bancaria manual.\nCP40-060-050-010-010",
+    "duration": 559,
+    "duration_string": "9:19",
+    "upload_date": "20150923",
+    "timestamp": 1443021738,
+    "view_count": 931,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_follower_count": 11800,
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestión empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable Colombia",
+      "software contable y administrativo",
+      "software niif",
+      "normas internacionales de información financiera",
+      "niif",
+      "Conciliación bancaria"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/6M65HxoZ3pQ/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZ56XG9jhjtHDKmYzxfCiHlhlqLg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8JTiD82S3SDEXC7R-iXz4WXZACg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgc0YMSrqBiI9At8LAO54JLr70Qg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIEeVrXg8SPDmUx7WMyC5OpQ471Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/6M65HxoZ3pQ/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=6M65HxoZ3pQ",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17889087656529518,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20214669051878353,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20214669051878353,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "320x180",
+        "width": 320,
+        "height": 180,
+        "fps": 0.20214669051878353,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 240.275,
+        "asr": 44100,
+        "filesize_approx": 16789125,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ejemplo 1 Operación de conciliación bancaria manual",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/6M65HxoZ3pQ/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/6M65HxoZ3pQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ejemplo 1 Operación de conciliación bancaria manual\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "segmentCount": 102,
+    "transcriptChars": 6355,
+    "segments": [
+      {
+        "text": "ejemplo uno operación de conciliación bancaria manual el objetivo de este",
+        "startMs": 599,
+        "durationMs": 5471
+      },
+      {
+        "text": "video es Mostrar por medio de un ejemplo Cómo se realiza la operación de",
+        "startMs": 6070,
+        "durationMs": 4840
+      },
+      {
+        "text": "conciliación bancaria manual ubicados en el manejador de",
+        "startMs": 10910,
+        "durationMs": 5519
+      },
+      {
+        "text": "operaciones Vamos a ingresar a más operaciones",
+        "startMs": 16429,
+        "durationMs": 6801
+      },
+      {
+        "text": "operaciones contabilidad y encontramos la operación",
+        "startMs": 23230,
+        "durationMs": 2480
+      },
+      {
+        "text": "de conciliación bancaria manual",
+        "startMs": 25710,
+        "durationMs": 6399
+      },
+      {
+        "text": "vamos a realizar nuestra conciliación al 3 de mayo de",
+        "startMs": 32119,
+        "durationMs": 4991
+      },
+      {
+        "text": "2014 en el detalle vamos a colocar conciliación banco de Colombia al 30 de",
+        "startMs": 37110,
+        "durationMs": 5040
+      },
+      {
+        "text": "abril de 2014 en fecha de conciliación colocamos",
+        "startMs": 42150,
+        "durationMs": 5239
+      },
+      {
+        "text": "como fecha de corte el 30 de abril de 2014 vamos a conciliar la cuenta",
+        "startMs": 47389,
+        "durationMs": 6561
+      },
+      {
+        "text": "bancaria de banco de Colombia abrimos el seleccionador e indic la",
+        "startMs": 53950,
+        "durationMs": 8239
+      },
+      {
+        "text": "cuenta vamos a visualizar nuestro extracto bancario para colocar el valor",
+        "startMs": 62189,
+        "durationMs": 4801
+      },
+      {
+        "text": "del saldo del extracto que en este caso es de",
+        "startMs": 66990,
+        "durationMs": 5880
+      },
+      {
+        "text": "19888 977 p77 centavos indicamos el",
+        "startMs": 72880,
+        "durationMs": 11950
+      },
+      {
+        "text": "valor vemos que el sistema carga los respectivos valores tanto positivos como",
+        "startMs": 84840,
+        "durationMs": 6309
+      },
+      {
+        "text": "negativos del movimiento contable así como el valor del extracto",
+        "startMs": 91149,
+        "durationMs": 5801
+      },
+      {
+        "text": "que acabamos de digitar adicionalmente carga el valor",
+        "startMs": 96950,
+        "durationMs": 5320
+      },
+      {
+        "text": "del saldo contable a la fecha de corte es decir al 30 de abril de",
+        "startMs": 102270,
+        "durationMs": 7720
+      },
+      {
+        "text": "2014 con el comando control enter vamos al segundo paso de la",
+        "startMs": 109990,
+        "durationMs": 7880
+      },
+      {
+        "text": "operación vemos que el cargo todos los movimientos de la cuenta del banco que",
+        "startMs": 117880,
+        "durationMs": 4869
+      },
+      {
+        "text": "estamos conciliando mostrando la fecha de",
+        "startMs": 122749,
+        "durationMs": 4081
+      },
+      {
+        "text": "de registro el código de tipo de movimiento",
+        "startMs": 126830,
+        "durationMs": 3759
+      },
+      {
+        "text": "el número del movimiento y el valor de la",
+        "startMs": 130589,
+        "durationMs": 3401
+      },
+      {
+        "text": "la transacción también encontramos la",
+        "startMs": 133990,
+        "durationMs": 3720
+      },
+      {
+        "text": "columna estado ahora vamos a tomar los datos del",
+        "startMs": 137710,
+        "durationMs": 3239
+      },
+      {
+        "text": "extracto bancario y los vamos a comparar con los movimientos contables cargados",
+        "startMs": 140949,
+        "durationMs": 4640
+      },
+      {
+        "text": "en la operación de conciliación recordemos que nos podemos",
+        "startMs": 145589,
+        "durationMs": 3881
+      },
+      {
+        "text": "valer del número del movimiento para conciliarlo también del valor o la",
+        "startMs": 149470,
+        "durationMs": 6759
+      },
+      {
+        "text": "fecha vemos el primer valor un cheque girado por valor de 350,000 pesos con el",
+        "startMs": 156229,
+        "durationMs": 8121
+      },
+      {
+        "text": "número 4589 vamos a buscarlo en la",
+        "startMs": 164350,
+        "durationMs": 4440
+      },
+      {
+        "text": "conciliación hemos encontrado el movimiento vamos a proceder a marcarlo",
+        "startMs": 168790,
+        "durationMs": 6519
+      },
+      {
+        "text": "como conciliado movimiento ok",
+        "startMs": 175309,
+        "durationMs": 5200
+      },
+      {
+        "text": "ok ahora vamos a proceder a marcar y a",
+        "startMs": 180509,
+        "durationMs": 2761
+      },
+      {
+        "text": "conciliar los demás movimientos del extracto",
+        "startMs": 183270,
+        "durationMs": 4239
+      },
+      {
+        "text": "extracto bancario hemos encontrado un movimiento",
+        "startMs": 187509,
+        "durationMs": 2561
+      },
+      {
+        "text": "en particular cuyos datos coinciden parcialmente con los datos del",
+        "startMs": 190070,
+        "durationMs": 4960
+      },
+      {
+        "text": "extracto es una transferencia del 24 de abril con el número 2227 por valor de",
+        "startMs": 195030,
+        "durationMs": 7360
+      },
+      {
+        "text": "89.652 pesos pero el valor difiere levemente con el valor del extracto hay",
+        "startMs": 202390,
+        "durationMs": 6320
+      },
+      {
+        "text": "una diferencia de 23 centavos en este caso el movimiento vamos a marcarlo como",
+        "startMs": 208710,
+        "durationMs": 11480
+      },
+      {
+        "text": "diferencia el sistema lo conciliar pero debemos tener en cuenta que esos 23",
+        "startMs": 220200,
+        "durationMs": 4949
+      },
+      {
+        "text": "centavos debemos ajustarlos en El Paso de movimiento contable para que el valor",
+        "startMs": 225149,
+        "durationMs": 4720
+      },
+      {
+        "text": "del extracto y del movimiento contable queden",
+        "startMs": 229869,
+        "durationMs": 3560
+      },
+      {
+        "text": "queden iguales también hemos encontrado un",
+        "startMs": 233429,
+        "durationMs": 2601
+      },
+      {
+        "text": "valor en el movimiento contable de fecha 25 de abril un cheque de número",
+        "startMs": 236030,
+        "durationMs": 5960
+      },
+      {
+        "text": "4592 por valor de 425,000 pesos podemos ver que este valor",
+        "startMs": 241990,
+        "durationMs": 5879
+      },
+      {
+        "text": "no vino plasmado en el extracto bancario es posible que este cheque aún no haya",
+        "startMs": 247869,
+        "durationMs": 5841
+      },
+      {
+        "text": "sido cobrado por el beneficiario Por lo cual el banco aún no ha descontado este",
+        "startMs": 253710,
+        "durationMs": 5000
+      },
+      {
+        "text": "valor de la cuenta en este caso este movimiento debemos dejarlo sin marcar es",
+        "startMs": 258710,
+        "durationMs": 5800
+      },
+      {
+        "text": "decir sin conciliar para que el sistema lo cargue en la próxima conciliación",
+        "startMs": 264510,
+        "durationMs": 4720
+      },
+      {
+        "text": "bancaria que realicemos seguramente en el próximo extracto",
+        "startMs": 269230,
+        "durationMs": 4120
+      },
+      {
+        "text": "bancario este valor ya venga reflejado y podamos finalmente",
+        "startMs": 273350,
+        "durationMs": 4440
+      },
+      {
+        "text": "conciliarlo en la parte de abajo vemos como el sistema nos muestra que hay",
+        "startMs": 277790,
+        "durationMs": 4520
+      },
+      {
+        "text": "pendiente un saldo por ajustar de 3629",
+        "startMs": 282310,
+        "durationMs": 5719
+      },
+      {
+        "text": "3629 p77 este valor pertenece a algunos",
+        "startMs": 288029,
+        "durationMs": 2761
+      },
+      {
+        "text": "valores del extracto que aún no se han contabilizado acá podemos apreciar que",
+        "startMs": 290790,
+        "durationMs": 5239
+      },
+      {
+        "text": "15,950 pesos y unos gastos bancarios de 12,320 pes Entonces si tomamos los",
+        "startMs": 300350,
+        "durationMs": 7480
+      },
+      {
+        "text": "intereses bancarios de 15,950 pes y le restamos los 12,320 pes",
+        "startMs": 296029,
+        "durationMs": 18761
+      },
+      {
+        "text": "de los gastos bancarios nos da un valor de",
+        "startMs": 314790,
+        "durationMs": 3519
+      },
+      {
+        "text": "de 3,630 pes y adicionalmente debemos",
+        "startMs": 318309,
+        "durationMs": 3320
+      },
+      {
+        "text": "restar los 23 centavos que faltan por ajustar por el movimiento que tenía una",
+        "startMs": 321629,
+        "durationMs": 5000
+      },
+      {
+        "text": "pequeña diferencia eso nos da el total de los",
+        "startMs": 326629,
+        "durationMs": 6201
+      },
+      {
+        "text": "3,629 p77 vamos al paso siguiente ahora vamos",
+        "startMs": 332830,
+        "durationMs": 4040
+      },
+      {
+        "text": "a registrar los intereses bancarios buscamos la cuenta 421",
+        "startMs": 336870,
+        "durationMs": 10640
+      },
+      {
+        "text": "00505 indicamos el centro de costos en este caso contabilidad el valor crédito",
+        "startMs": 347520,
+        "durationMs": 8750
+      },
+      {
+        "text": "15,950 y el tercero respectivo que en este caso sería el banco de",
+        "startMs": 356270,
+        "durationMs": 7840
+      },
+      {
+        "text": "Colombia ahora vamos a hacer la contrapartida de este valor Qué sería",
+        "startMs": 364120,
+        "durationMs": 4830
+      },
+      {
+        "text": "contra la cuenta de banco que estamos conciliando banco de",
+        "startMs": 368950,
+        "durationMs": 6239
+      },
+      {
+        "text": "Colombia indicamos el valor débito de 15,950 pesos y recordemos que debemos",
+        "startMs": 375189,
+        "durationMs": 6761
+      },
+      {
+        "text": "registrar el tipo de movimiento bancario que",
+        "startMs": 381950,
+        "durationMs": 3079
+      },
+      {
+        "text": "que corresponde en este caso intereses",
+        "startMs": 385029,
+        "durationMs": 5961
+      },
+      {
+        "text": "colocamos el número de movimiento el cual podemos encontrar en el",
+        "startMs": 390990,
+        "durationMs": 10759
+      },
+      {
+        "text": "extracto hacemos lo mismo con los gastos bancarios ahora vemos cómo faltan por",
+        "startMs": 401759,
+        "durationMs": 6791
+      },
+      {
+        "text": "conciliar 23 centavos que corresponden a la diferencia menor que encontramos en",
+        "startMs": 408550,
+        "durationMs": 5440
+      },
+      {
+        "text": "la transferencia 2227 del 24 de abril vamos a contabilizar este valor en la",
+        "startMs": 413990,
+        "durationMs": 7639
+      },
+      {
+        "text": "cuenta de ajustes al peso 4295",
+        "startMs": 421629,
+        "durationMs": 7560
+      },
+      {
+        "text": "8105 indicamos el respectivo centro de costos",
+        "startMs": 429199,
+        "durationMs": 5791
+      },
+      {
+        "text": "costos contabilidad y el valor débito de 23",
+        "startMs": 434990,
+        "durationMs": 4639
+      },
+      {
+        "text": "centavos también el tercero que corresponde nuevamente al banco de",
+        "startMs": 439629,
+        "durationMs": 5361
+      },
+      {
+        "text": "Colombia ahora hacemos la contrapartida contra la cuenta de banco",
+        "startMs": 444990,
+        "durationMs": 8479
+      },
+      {
+        "text": "indicamos el valor crédito y recordemos también indicar el tipo de movimiento",
+        "startMs": 453479,
+        "durationMs": 5671
+      },
+      {
+        "text": "bancario para nuestro ejemplo vamos a seleccionar otros gastos",
+        "startMs": 459150,
+        "durationMs": 6120
+      },
+      {
+        "text": "financieros como podemos ver en la parte de abajo el sistema nos muestra que el",
+        "startMs": 465270,
+        "durationMs": 5080
+      },
+      {
+        "text": "saldo contable y el saldo del extracto han quedado iguales en este punto",
+        "startMs": 470350,
+        "durationMs": 5480
+      },
+      {
+        "text": "nuestro banco ha quedado conciliado a ahora vamos a imprimir",
+        "startMs": 475830,
+        "durationMs": 4720
+      },
+      {
+        "text": "nuestra conciliación bancaria damos clic al botón",
+        "startMs": 480550,
+        "durationMs": 4560
+      },
+      {
+        "text": "imprimir y vista previa ampliamos la",
+        "startMs": 485110,
+        "durationMs": 6199
+      },
+      {
+        "text": "pantalla y vemos que el documento nos muestra el cheque que quedó pendiente",
+        "startMs": 491309,
+        "durationMs": 4600
+      },
+      {
+        "text": "por conciliar con toda la información como el valor y número la fecha y el",
+        "startMs": 495909,
+        "durationMs": 5601
+      },
+      {
+        "text": "documento vemos la demás información como el saldo ajustado del",
+        "startMs": 501510,
+        "durationMs": 5280
+      },
+      {
+        "text": "extracto el saldo contable a la fecha de corte luego vemos las notas crédito y",
+        "startMs": 506790,
+        "durationMs": 6400
+      },
+      {
+        "text": "las notas débito registradas en la conciliación Esos son los valores que",
+        "startMs": 513190,
+        "durationMs": 4560
+      },
+      {
+        "text": "venían en el extracto pero que aún no estaban",
+        "startMs": 517750,
+        "durationMs": 3920
+      },
+      {
+        "text": "estaban contabilizados por último vemos el saldo",
+        "startMs": 521670,
+        "durationMs": 2680
+      },
+      {
+        "text": "contable ajustado el cual debe coincidir con el saldo del extracto",
+        "startMs": 524350,
+        "durationMs": 4800
+      },
+      {
+        "text": "ajustado vamos a cerrar el documento de impresión y finalmente damos aceptar a",
+        "startMs": 529150,
+        "durationMs": 5880
+      },
+      {
+        "text": "la operación Si vemos el movimiento contable de esta operación por medio del",
+        "startMs": 535030,
+        "durationMs": 4799
+      },
+      {
+        "text": "inspector de datos podemos ver los ajustes que",
+        "startMs": 539829,
+        "durationMs": 4321
+      },
+      {
+        "text": "hicimos de los valores que venían en el extracto pero que aún no estaban",
+        "startMs": 544150,
+        "durationMs": 3840
+      },
+      {
+        "text": "contabilizados Además del ajuste de los 23",
+        "startMs": 547990,
+        "durationMs": 3880
+      },
+      {
+        "text": "23 centavos esto es todo acerca de ejemplo",
+        "startMs": 551870,
+        "durationMs": 2959
+      },
+      {
+        "text": "uno de operación de conciliación bancaria",
+        "startMs": 554829,
+        "durationMs": 3081
+      },
+      {
+        "text": "bancaria manual",
+        "startMs": 557910,
+        "durationMs": 3010
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este vídeo se explica por medio de un ejemplo, como realizar la operación de conciliación bancaria manual.\nCP40-060-050-010-010\n\n## Transcripción\n\nejemplo uno operación de conciliación bancaria manual el objetivo de este\nvideo es Mostrar por medio de un ejemplo Cómo se realiza la operación de\nconciliación bancaria manual ubicados en el manejador de\noperaciones Vamos a ingresar a más operaciones\noperaciones contabilidad y encontramos la operación\nde conciliación bancaria manual\nvamos a realizar nuestra conciliación al 3 de mayo de\n2014 en el detalle vamos a colocar conciliación banco de Colombia al 30 de\nabril de 2014 en fecha de conciliación colocamos\ncomo fecha de corte el 30 de abril de 2014 vamos a conciliar la cuenta\nbancaria de banco de Colombia abrimos el seleccionador e indic la\ncuenta vamos a visualizar nuestro extracto bancario para colocar el valor\ndel saldo del extracto que en este caso es de\n19888 977 p77 centavos indicamos el\nvalor vemos que el sistema carga los respectivos valores tanto positivos como\nnegativos del movimiento contable así como el valor del extracto\nque acabamos de digitar adicionalmente carga el valor\ndel saldo contable a la fecha de corte es decir al 30 de abril de\n2014 con el comando control enter vamos al segundo paso de la\noperación vemos que el cargo todos los movimientos de la cuenta del banco que\nestamos conciliando mostrando la fecha de\nde registro el código de tipo de movimiento\nel número del movimiento y el valor de la\nla transacción también encontramos la\ncolumna estado ahora vamos a tomar los datos del\nextracto bancario y los vamos a comparar con los movimientos contables cargados\nen la operación de conciliación recordemos que nos podemos\nvaler del número del movimiento para conciliarlo también del valor o la\nfecha vemos el primer valor un cheque girado por valor de 350,000 pesos con el\nnúmero 4589 vamos a buscarlo en la\nconciliación hemos encontrado el movimiento vamos a proceder a marcarlo\ncomo conciliado movimiento ok\nok ahora vamos a proceder a marcar y a\nconciliar los demás movimientos del extracto\nextracto bancario hemos encontrado un movimiento\nen particular cuyos datos coinciden parcialmente con los datos del\nextracto es una transferencia del 24 de abril con el número 2227 por valor de\n89.652 pesos pero el valor difiere levemente con el valor del extracto hay\nuna diferencia de 23 centavos en este caso el movimiento vamos a marcarlo como\ndiferencia el sistema lo conciliar pero debemos tener en cuenta que esos 23\ncentavos debemos ajustarlos en El Paso de movimiento contable para que el valor\ndel extracto y del movimiento contable queden\nqueden iguales también hemos encontrado un\nvalor en el movimiento contable de fecha 25 de abril un cheque de número\n4592 por valor de 425,000 pesos podemos ver que este valor\nno vino plasmado en el extracto bancario es posible que este cheque aún no haya\nsido cobrado por el beneficiario Por lo cual el banco aún no ha descontado este\nvalor de la cuenta en este caso este movimiento debemos dejarlo sin marcar es\ndecir sin conciliar para que el sistema lo cargue en la próxima conciliación\nbancaria que realicemos seguramente en el próximo extracto\nbancario este valor ya venga reflejado y podamos finalmente\nconciliarlo en la parte de abajo vemos como el sistema nos muestra que hay\npendiente un saldo por ajustar de 3629\n3629 p77 este valor pertenece a algunos\nvalores del extracto que aún no se han contabilizado acá podemos apreciar que\n15,950 pesos y unos gastos bancarios de 12,320 pes Entonces si tomamos los\nintereses bancarios de 15,950 pes y le restamos los 12,320 pes\nde los gastos bancarios nos da un valor de\nde 3,630 pes y adicionalmente debemos\nrestar los 23 centavos que faltan por ajustar por el movimiento que tenía una\npequeña diferencia eso nos da el total de los\n3,629 p77 vamos al paso siguiente ahora vamos\na registrar los intereses bancarios buscamos la cuenta 421\n00505 indicamos el centro de costos en este caso contabilidad el valor crédito\n15,950 y el tercero respectivo que en este caso sería el banco de\nColombia ahora vamos a hacer la contrapartida de este valor Qué sería\ncontra la cuenta de banco que estamos conciliando banco de\nColombia indicamos el valor débito de 15,950 pesos y recordemos que debemos\nregistrar el tipo de movimiento bancario que\nque corresponde en este caso intereses\ncolocamos el número de movimiento el cual podemos encontrar en el\nextracto hacemos lo mismo con los gastos bancarios ahora vemos cómo faltan por\nconciliar 23 centavos que corresponden a la diferencia menor que encontramos en\nla transferencia 2227 del 24 de abril vamos a contabilizar este valor en la\ncuenta de ajustes al peso 4295\n8105 indicamos el respectivo centro de costos\ncostos contabilidad y el valor débito de 23\ncentavos también el tercero que corresponde nuevamente al banco de\nColombia ahora hacemos la contrapartida contra la cuenta de banco\nindicamos el valor crédito y recordemos también indicar el tipo de movimiento\nbancario para nuestro ejemplo vamos a seleccionar otros gastos\nfinancieros como podemos ver en la parte de abajo el sistema nos muestra que el\nsaldo contable y el saldo del extracto han quedado iguales en este punto\nnuestro banco ha quedado conciliado a ahora vamos a imprimir\nnuestra conciliación bancaria damos clic al botón\nimprimir y vista previa ampliamos la\npantalla y vemos que el documento nos muestra el cheque que quedó pendiente\npor conciliar con toda la información como el valor y número la fecha y el\ndocumento vemos la demás información como el saldo ajustado del\nextracto el saldo contable a la fecha de corte luego vemos las notas crédito y\nlas notas débito registradas en la conciliación Esos son los valores que\nvenían en el extracto pero que aún no estaban\nestaban contabilizados por último vemos el saldo\ncontable ajustado el cual debe coincidir con el saldo del extracto\najustado vamos a cerrar el documento de impresión y finalmente damos aceptar a\nla operación Si vemos el movimiento contable de esta operación por medio del\ninspector de datos podemos ver los ajustes que\nhicimos de los valores que venían en el extracto pero que aún no estaban\ncontabilizados Además del ajuste de los 23\n23 centavos esto es todo acerca de ejemplo\nuno de operación de conciliación bancaria\nbancaria manual",
+    "dedupeVersion": 5
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 240.275,
+    "asr": 44100,
+    "filesizeApprox": 16789125,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2015",
+    "md": "videos/2015/6M65HxoZ3pQ.md",
+    "json": "videos/2015/6M65HxoZ3pQ.json",
+    "infoJson": "videos/2015/6M65HxoZ3pQ.info.json"
+  },
+  "publishYear": "2015"
+}

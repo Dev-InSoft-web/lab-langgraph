@@ -1,0 +1,584 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:29:32.796Z",
+  "videoId": "RHUmsLRKRXo",
+  "videoUrl": "https://www.youtube.com/watch?v=RHUmsLRKRXo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "RHUmsLRKRXo",
+    "title": "Sistema contable ContaPyme - Introducción al manejo de elementos en alquiler",
+    "fulltitle": "Sistema contable ContaPyme - Introducción al manejo de elementos en alquiler",
+    "description": "http://www.contapyme.com\nDescripción de alquiler de servicios en alquiler, ejemplo en manejo de mesas de juego en el software contable ContaPyme.\nCP40-150-080-010B",
+    "duration": 200,
+    "duration_string": "3:20",
+    "upload_date": "20120519",
+    "timestamp": 1337433663,
+    "view_count": 288,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/RHUmsLRKRXo/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2XeDIfNfFRVSrOP54qBjn7gZqTw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDwKk1RI6DO3uj3YExHHoNpC1VTBQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ5oOXYujQ9uwVM3VA3OQuHZ8lzw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByfR_fy5P1SSYJ1jMu8mAcByONXg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RHUmsLRKRXo/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RHUmsLRKRXo/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=RHUmsLRKRXo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.5,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.505,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.505,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 166.085,
+        "asr": 44100,
+        "filesize_approx": 4151979,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Sistema contable ContaPyme - Introducción al manejo de elementos en alquiler",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/RHUmsLRKRXo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/RHUmsLRKRXo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema contable ContaPyme - Introducción al manejo de elementos en alquiler\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 37,
+    "transcriptChars": 2798,
+    "segments": [
+      {
+        "text": "introducción al manejo de elementos en alquiler en la operación de inventarios",
+        "startMs": 699,
+        "durationMs": 4741
+      },
+      {
+        "text": "punto de venta en las empresas se cuentan con productos",
+        "startMs": 5440,
+        "durationMs": 5180
+      },
+      {
+        "text": "que son comprados para luego ser vendidos",
+        "startMs": 10620,
+        "durationMs": 3930
+      },
+      {
+        "text": "vendidos o productos que son comprados para ser",
+        "startMs": 14550,
+        "durationMs": 3000
+      },
+      {
+        "text": "procesados y con ellos crear otros productos los cuales si son para la",
+        "startMs": 17550,
+        "durationMs": 6500
+      },
+      {
+        "text": "venta también existen servicios que son para",
+        "startMs": 24050,
+        "durationMs": 3150
+      },
+      {
+        "text": "la venta algunos servicios simplemente son cobrados de manera global un",
+        "startMs": 27200,
+        "durationMs": 4979
+      },
+      {
+        "text": "servicio de capacitación o de instalación de una red",
+        "startMs": 32179,
+        "durationMs": 3901
+      },
+      {
+        "text": "sin embargo existen servicios que son cobrados de acuerdo a la cantidad de",
+        "startMs": 36080,
+        "durationMs": 5820
+      },
+      {
+        "text": "minutos horas o tiempo que el cliente se demore utilizándolo por ejemplo cuando",
+        "startMs": 41900,
+        "durationMs": 6990
+      },
+      {
+        "text": "se paga por el servicio de alquilar una mesa de juego el tiempo que transcurre",
+        "startMs": 48890,
+        "durationMs": 5220
+      },
+      {
+        "text": "el cliente jugando en la mesa es analizado por el sistema teniendo en",
+        "startMs": 54110,
+        "durationMs": 4680
+      },
+      {
+        "text": "cuenta la hora de inicio y la hora de finalización para calcular el valor",
+        "startMs": 58790,
+        "durationMs": 5160
+      },
+      {
+        "text": "total que debe pagar el cliente por el uso de este alquiler del servicio",
+        "startMs": 63950,
+        "durationMs": 5090
+      },
+      {
+        "text": "adicionalmente el sistema con está pyme permite que junto a este servicio se le",
+        "startMs": 69040,
+        "durationMs": 5380
+      },
+      {
+        "text": "adición en los demás productos que el cliente está consumiendo como bebidas",
+        "startMs": 74420,
+        "durationMs": 4500
+      },
+      {
+        "text": "alimentos etcétera la gran ventaja de esta configuración en",
+        "startMs": 78920,
+        "durationMs": 5140
+      },
+      {
+        "text": "el sistema con está pyme es que el mismo calcula el tiempo transcurrido desde la",
+        "startMs": 84060,
+        "durationMs": 5640
+      },
+      {
+        "text": "hora de inicio y la hora de finalización del alquiler del servicio para poder",
+        "startMs": 89700,
+        "durationMs": 4769
+      },
+      {
+        "text": "indicar la tarifa a cobrar al cliente además si se cuenta con cambios en las",
+        "startMs": 94469,
+        "durationMs": 5490
+      },
+      {
+        "text": "tarifas debido a la hora el sistema analiza los tiempos transcurridos antes",
+        "startMs": 99959,
+        "durationMs": 4981
+      },
+      {
+        "text": "y después de la hora indicada como base y genera el costo de cada tiempo",
+        "startMs": 104940,
+        "durationMs": 5750
+      },
+      {
+        "text": "miremos con un sencillo ejemplo como el servicio de alquiler de una mesa",
+        "startMs": 110690,
+        "durationMs": 6150
+      },
+      {
+        "text": "de juego puede tener un valor antes de una hora y otro valor pasada a esta hora",
+        "startMs": 116840,
+        "durationMs": 5820
+      },
+      {
+        "text": "en este caso tenemos dos configuraciones una que dice tarifa día que va hasta las",
+        "startMs": 122660,
+        "durationMs": 5430
+      },
+      {
+        "text": "6 pm cuyo valor por 30 minutos es de 1500 pesos y otra tarifa que es la",
+        "startMs": 128090,
+        "durationMs": 5790
+      },
+      {
+        "text": "tarifa noche que comienza después de las 6 pm cuyo valor por 30 minutos es de 2",
+        "startMs": 133880,
+        "durationMs": 5520
+      },
+      {
+        "text": "mil pesos si un cliente consume el servicio en un",
+        "startMs": 139400,
+        "durationMs": 4580
+      },
+      {
+        "text": "horario que contempla ambas tarifas por ejemplo el cliente juega entre las 5 pm",
+        "startMs": 143980,
+        "durationMs": 5400
+      },
+      {
+        "text": "y las 7 pm el sistema analiza ambas tarifas",
+        "startMs": 149380,
+        "durationMs": 5900
+      },
+      {
+        "text": "tarifas analiza que se transcurrió una hora en",
+        "startMs": 155280,
+        "durationMs": 2740
+      },
+      {
+        "text": "tarifa díaz por lo tanto hace el cálculo y también analiza el tiempo transcurrido",
+        "startMs": 158020,
+        "durationMs": 6210
+      },
+      {
+        "text": "en la tarifa noche y hace el cálculo para que al final se refleje en la",
+        "startMs": 164230,
+        "durationMs": 5670
+      },
+      {
+        "text": "factura un solo valor en este caso siete mil pesos que corresponden a tres mil",
+        "startMs": 169900,
+        "durationMs": 6210
+      },
+      {
+        "text": "pesos de haber jugado en la tarifa día una hora y cuatro mil pesos por haber",
+        "startMs": 176110,
+        "durationMs": 6180
+      },
+      {
+        "text": "jugado una hora en la tarifa noche así automáticamente el sistema controla",
+        "startMs": 182290,
+        "durationMs": 7430
+      },
+      {
+        "text": "los tiempos del alquiler de un servicio esto es todo acerca de introducción al",
+        "startMs": 189720,
+        "durationMs": 11150
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nDescripción de alquiler de servicios en alquiler, ejemplo en manejo de mesas de juego en el software contable ContaPyme.\nCP40-150-080-010B\n\n## Transcripción\n\nintroducción al manejo de elementos en alquiler en la operación de inventarios\npunto de venta en las empresas se cuentan con productos\nque son comprados para luego ser vendidos\nvendidos o productos que son comprados para ser\nprocesados y con ellos crear otros productos los cuales si son para la\nventa también existen servicios que son para\nla venta algunos servicios simplemente son cobrados de manera global un\nservicio de capacitación o de instalación de una red\nsin embargo existen servicios que son cobrados de acuerdo a la cantidad de\nminutos horas o tiempo que el cliente se demore utilizándolo por ejemplo cuando\nse paga por el servicio de alquilar una mesa de juego el tiempo que transcurre\nel cliente jugando en la mesa es analizado por el sistema teniendo en\ncuenta la hora de inicio y la hora de finalización para calcular el valor\ntotal que debe pagar el cliente por el uso de este alquiler del servicio\nadicionalmente el sistema con está pyme permite que junto a este servicio se le\nadición en los demás productos que el cliente está consumiendo como bebidas\nalimentos etcétera la gran ventaja de esta configuración en\nel sistema con está pyme es que el mismo calcula el tiempo transcurrido desde la\nhora de inicio y la hora de finalización del alquiler del servicio para poder\nindicar la tarifa a cobrar al cliente además si se cuenta con cambios en las\ntarifas debido a la hora el sistema analiza los tiempos transcurridos antes\ny después de la hora indicada como base y genera el costo de cada tiempo\nmiremos con un sencillo ejemplo como el servicio de alquiler de una mesa\nde juego puede tener un valor antes de una hora y otro valor pasada a esta hora\nen este caso tenemos dos configuraciones una que dice tarifa día que va hasta las\n6 pm cuyo valor por 30 minutos es de 1500 pesos y otra tarifa que es la\ntarifa noche que comienza después de las 6 pm cuyo valor por 30 minutos es de 2\nmil pesos si un cliente consume el servicio en un\nhorario que contempla ambas tarifas por ejemplo el cliente juega entre las 5 pm\ny las 7 pm el sistema analiza ambas tarifas\ntarifas analiza que se transcurrió una hora en\ntarifa díaz por lo tanto hace el cálculo y también analiza el tiempo transcurrido\nen la tarifa noche y hace el cálculo para que al final se refleje en la\nfactura un solo valor en este caso siete mil pesos que corresponden a tres mil\npesos de haber jugado en la tarifa día una hora y cuatro mil pesos por haber\njugado una hora en la tarifa noche así automáticamente el sistema controla\nlos tiempos del alquiler de un servicio esto es todo acerca de introducción al"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 166.085,
+    "asr": 44100,
+    "filesizeApprox": 4151979,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/RHUmsLRKRXo.md",
+    "json": "videos/2012/RHUmsLRKRXo.json",
+    "infoJson": "videos/2012/RHUmsLRKRXo.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

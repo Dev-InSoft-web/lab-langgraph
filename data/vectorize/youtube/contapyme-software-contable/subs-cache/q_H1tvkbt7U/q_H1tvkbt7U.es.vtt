@@ -1,0 +1,2888 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.000 --> 00:00:04.309 align:start position:0%
+ 
+introducción<00:00:01.760><c> a</c><00:00:01.920><c> la</c><00:00:02.080><c> función</c><00:00:02.800><c> saldo</c><00:00:03.319><c> cuenta</c>
+
+00:00:04.309 --> 00:00:04.319 align:start position:0%
+introducción a la función saldo cuenta
+ 
+
+00:00:04.319 --> 00:00:06.550 align:start position:0%
+introducción a la función saldo cuenta
+durante<00:00:04.680><c> este</c><00:00:05.000><c> video</c><00:00:05.400><c> vamos</c><00:00:05.640><c> a</c><00:00:05.799><c> realizar</c><00:00:06.319><c> una</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+durante este video vamos a realizar una
+ 
+
+00:00:06.560 --> 00:00:08.870 align:start position:0%
+durante este video vamos a realizar una
+serie<00:00:06.799><c> de</c><00:00:06.960><c> lecciones</c><00:00:07.520><c> con</c><00:00:07.759><c> ejemplos</c><00:00:08.519><c> que</c><00:00:08.679><c> nos</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+serie de lecciones con ejemplos que nos
+ 
+
+00:00:08.880 --> 00:00:11.110 align:start position:0%
+serie de lecciones con ejemplos que nos
+permitirán<00:00:09.440><c> tener</c><00:00:09.800><c> un</c><00:00:10.000><c> conocimiento</c><00:00:10.599><c> básico</c>
+
+00:00:11.110 --> 00:00:11.120 align:start position:0%
+permitirán tener un conocimiento básico
+ 
+
+00:00:11.120 --> 00:00:14.390 align:start position:0%
+permitirán tener un conocimiento básico
+de<00:00:11.280><c> la</c><00:00:11.400><c> función</c><00:00:12.120><c> saldo</c><00:00:12.839><c> cuenta</c><00:00:13.839><c> vamos</c><00:00:14.080><c> a</c><00:00:14.240><c> dar</c>
+
+00:00:14.390 --> 00:00:14.400 align:start position:0%
+de la función saldo cuenta vamos a dar
+ 
+
+00:00:14.400 --> 00:00:16.670 align:start position:0%
+de la función saldo cuenta vamos a dar
+inicio<00:00:14.920><c> con</c><00:00:15.120><c> la</c><00:00:15.240><c> lección</c><00:00:15.599><c> número</c><00:00:16.000><c> uno</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+inicio con la lección número uno
+ 
+
+00:00:16.680 --> 00:00:20.310 align:start position:0%
+inicio con la lección número uno
+consulta<00:00:17.400><c> saldo</c><00:00:18.279><c> cuenta</c><00:00:19.279><c> vamos</c><00:00:19.480><c> a</c><00:00:19.680><c> realizar</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+consulta saldo cuenta vamos a realizar
+ 
+
+00:00:20.320 --> 00:00:24.470 align:start position:0%
+consulta saldo cuenta vamos a realizar
+la<00:00:20.600><c> consulta</c><00:00:21.519><c> sobre</c><00:00:21.800><c> el</c><00:00:22.000><c> saldo</c><00:00:22.519><c> de</c><00:00:22.760><c> una</c><00:00:23.400><c> cuenta</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+la consulta sobre el saldo de una cuenta
+ 
+
+00:00:24.480 --> 00:00:27.109 align:start position:0%
+la consulta sobre el saldo de una cuenta
+en<00:00:24.640><c> esta</c><00:00:24.920><c> celda</c><00:00:25.400><c> la</c><00:00:25.560><c> celda</c><00:00:25.880><c> B1</c><00:00:26.720><c> vamos</c><00:00:26.960><c> a</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+en esta celda la celda B1 vamos a
+ 
+
+00:00:27.119 --> 00:00:29.230 align:start position:0%
+en esta celda la celda B1 vamos a
+escribir<00:00:27.400><c> la</c><00:00:27.560><c> función</c><00:00:28.119><c> para</c><00:00:28.320><c> que</c><00:00:28.519><c> Excel</c><00:00:29.039><c> a</c>
+
+00:00:29.230 --> 00:00:29.240 align:start position:0%
+escribir la función para que Excel a
+ 
+
+00:00:29.240 --> 00:00:31.669 align:start position:0%
+escribir la función para que Excel a
+través<00:00:29.439><c> de</c><00:00:29.599><c> su</c><00:00:29.759><c> adinta</c><00:00:30.320><c> Excel</c><00:00:31.080><c> comunique</c><00:00:31.519><c> con</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+través de su adinta Excel comunique con
+ 
+
+00:00:31.679 --> 00:00:34.030 align:start position:0%
+través de su adinta Excel comunique con
+la<00:00:31.800><c> base</c><00:00:31.960><c> de</c><00:00:32.079><c> datos</c><00:00:32.360><c> de</c><00:00:32.559><c> contapyme</c><00:00:33.559><c> resuelva</c>
+
+00:00:34.030 --> 00:00:34.040 align:start position:0%
+la base de datos de contapyme resuelva
+ 
+
+00:00:34.040 --> 00:00:36.630 align:start position:0%
+la base de datos de contapyme resuelva
+la<00:00:34.239><c> función</c><00:00:34.760><c> y</c><00:00:34.960><c> deposite</c><00:00:35.480><c> el</c><00:00:35.600><c> dato</c><00:00:35.920><c> consultado</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+la función y deposite el dato consultado
+ 
+
+00:00:36.640 --> 00:00:38.430 align:start position:0%
+la función y deposite el dato consultado
+acá<00:00:36.879><c> en</c><00:00:37.000><c> la</c><00:00:37.120><c> celda</c>
+
+00:00:38.430 --> 00:00:38.440 align:start position:0%
+acá en la celda
+ 
+
+00:00:38.440 --> 00:00:40.150 align:start position:0%
+acá en la celda
+debemos<00:00:38.879><c> tener</c><00:00:39.120><c> en</c><00:00:39.320><c> cuenta</c><00:00:39.800><c> que</c><00:00:40.000><c> las</c>
+
+00:00:40.150 --> 00:00:40.160 align:start position:0%
+debemos tener en cuenta que las
+ 
+
+00:00:40.160 --> 00:00:41.910 align:start position:0%
+debemos tener en cuenta que las
+funciones<00:00:40.559><c> se</c><00:00:40.680><c> ejecutan</c><00:00:41.320><c> tomando</c><00:00:41.719><c> las</c>
+
+00:00:41.910 --> 00:00:41.920 align:start position:0%
+funciones se ejecutan tomando las
+ 
+
+00:00:41.920 --> 00:00:44.709 align:start position:0%
+funciones se ejecutan tomando las
+variables<00:00:42.360><c> de</c><00:00:42.559><c> entorno</c><00:00:43.520><c> es</c><00:00:43.760><c> decir</c><00:00:44.239><c> la</c><00:00:44.440><c> fecha</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+variables de entorno es decir la fecha
+ 
+
+00:00:44.719 --> 00:00:48.350 align:start position:0%
+variables de entorno es decir la fecha
+de<00:00:44.960><c> trabajo</c><00:00:45.600><c> activa</c><00:00:46.520><c> en</c><00:00:46.719><c> este</c><00:00:47.000><c> caso</c><00:00:47.320><c> el</c><00:00:47.559><c> 31</c><00:00:48.160><c> de</c>
+
+00:00:48.350 --> 00:00:48.360 align:start position:0%
+de trabajo activa en este caso el 31 de
+ 
+
+00:00:48.360 --> 00:00:51.830 align:start position:0%
+de trabajo activa en este caso el 31 de
+marzo<00:00:48.840><c> del</c><00:00:49.039><c> año</c><00:00:49.600><c> 2005</c><00:00:50.600><c> y</c><00:00:50.800><c> el</c><00:00:50.960><c> área</c><00:00:51.160><c> de</c><00:00:51.320><c> trabajo</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+marzo del año 2005 y el área de trabajo
+ 
+
+00:00:51.840 --> 00:00:54.150 align:start position:0%
+marzo del año 2005 y el área de trabajo
+a<00:00:52.000><c> la</c><00:00:52.079><c> cual</c><00:00:52.280><c> nos</c><00:00:52.440><c> hemos</c><00:00:52.680><c> conectado</c><00:00:53.680><c> en</c><00:00:53.879><c> este</c>
+
+00:00:54.150 --> 00:00:54.160 align:start position:0%
+a la cual nos hemos conectado en este
+ 
+
+00:00:54.160 --> 00:00:55.790 align:start position:0%
+a la cual nos hemos conectado en este
+caso<00:00:54.559><c> PC</c>
+
+00:00:55.790 --> 00:00:55.800 align:start position:0%
+caso PC
+ 
+
+00:00:55.800 --> 00:00:58.430 align:start position:0%
+caso PC
+soluciones<00:00:56.879><c> por</c><00:00:57.039><c> ejemplo</c><00:00:57.800><c> cuando</c><00:00:58.079><c> nosotros</c>
+
+00:00:58.430 --> 00:00:58.440 align:start position:0%
+soluciones por ejemplo cuando nosotros
+ 
+
+00:00:58.440 --> 00:01:00.950 align:start position:0%
+soluciones por ejemplo cuando nosotros
+le<00:00:58.640><c> preguntamos</c><00:00:59.239><c> a</c><00:00:59.399><c> un</c><00:00:59.559><c> contador</c><00:01:00.359><c> el</c><00:01:00.519><c> saldo</c><00:01:00.800><c> de</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+le preguntamos a un contador el saldo de
+ 
+
+00:01:00.960 --> 00:01:03.389 align:start position:0%
+le preguntamos a un contador el saldo de
+una<00:01:01.160><c> cuenta</c><00:01:01.920><c> le</c><00:01:02.079><c> debemos</c><00:01:02.440><c> especificar</c><00:01:03.160><c> la</c>
+
+00:01:03.389 --> 00:01:03.399 align:start position:0%
+una cuenta le debemos especificar la
+ 
+
+00:01:03.399 --> 00:01:05.990 align:start position:0%
+una cuenta le debemos especificar la
+fecha<00:01:03.840><c> a</c><00:01:04.000><c> la</c><00:01:04.080><c> cual</c><00:01:04.320><c> necesitamos</c><00:01:04.879><c> la</c><00:01:05.119><c> consulta</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+fecha a la cual necesitamos la consulta
+ 
+
+00:01:06.000 --> 00:01:08.469 align:start position:0%
+fecha a la cual necesitamos la consulta
+y<00:01:06.200><c> la</c><00:01:06.400><c> empresa</c><00:01:06.840><c> o</c><00:01:07.000><c> el</c><00:01:07.159><c> centro</c><00:01:07.400><c> de</c><00:01:07.600><c> costos</c><00:01:08.280><c> sobre</c>
+
+00:01:08.469 --> 00:01:08.479 align:start position:0%
+y la empresa o el centro de costos sobre
+ 
+
+00:01:08.479 --> 00:01:11.390 align:start position:0%
+y la empresa o el centro de costos sobre
+el<00:01:08.640><c> cual</c><00:01:09.040><c> necesitamos</c><00:01:09.720><c> este</c><00:01:10.000><c> dato</c><00:01:10.960><c> lo</c><00:01:11.080><c> mismo</c>
+
+00:01:11.390 --> 00:01:11.400 align:start position:0%
+el cual necesitamos este dato lo mismo
+ 
+
+00:01:11.400 --> 00:01:14.030 align:start position:0%
+el cual necesitamos este dato lo mismo
+pasa<00:01:11.680><c> en</c><00:01:11.840><c> este</c><00:01:12.040><c> caso</c><00:01:13.000><c> el</c><00:01:13.119><c> sistema</c><00:01:13.400><c> nos</c><00:01:13.640><c> permite</c>
+
+00:01:14.030 --> 00:01:14.040 align:start position:0%
+pasa en este caso el sistema nos permite
+ 
+
+00:01:14.040 --> 00:01:16.230 align:start position:0%
+pasa en este caso el sistema nos permite
+definir<00:01:14.600><c> unas</c><00:01:14.920><c> variables</c><00:01:15.360><c> de</c><00:01:15.479><c> entorno</c><00:01:16.040><c> como</c>
+
+00:01:16.230 --> 00:01:16.240 align:start position:0%
+definir unas variables de entorno como
+ 
+
+00:01:16.240 --> 00:01:19.550 align:start position:0%
+definir unas variables de entorno como
+lo<00:01:16.400><c> veremos</c><00:01:16.920><c> más</c><00:01:17.320><c> adelante</c><00:01:18.320><c> pero</c><00:01:18.600><c> si</c><00:01:18.840><c> estas</c><00:01:19.360><c> no</c>
+
+00:01:19.550 --> 00:01:19.560 align:start position:0%
+lo veremos más adelante pero si estas no
+ 
+
+00:01:19.560 --> 00:01:21.590 align:start position:0%
+lo veremos más adelante pero si estas no
+son<00:01:19.799><c> definidas</c><00:01:20.439><c> a</c><00:01:20.600><c> la</c><00:01:20.680><c> hora</c><00:01:20.840><c> de</c><00:01:21.000><c> realizar</c><00:01:21.360><c> la</c>
+
+00:01:21.590 --> 00:01:21.600 align:start position:0%
+son definidas a la hora de realizar la
+ 
+
+00:01:21.600 --> 00:01:24.149 align:start position:0%
+son definidas a la hora de realizar la
+consulta<00:01:22.479><c> el</c><00:01:22.720><c> sistema</c><00:01:23.240><c> la</c><00:01:23.439><c> realizará</c><00:01:23.920><c> sobre</c>
+
+00:01:24.149 --> 00:01:24.159 align:start position:0%
+consulta el sistema la realizará sobre
+ 
+
+00:01:24.159 --> 00:01:26.469 align:start position:0%
+consulta el sistema la realizará sobre
+la<00:01:24.400><c> fecha</c><00:01:24.920><c> de</c><00:01:25.159><c> trabajo</c>
+
+00:01:26.469 --> 00:01:26.479 align:start position:0%
+la fecha de trabajo
+ 
+
+00:01:26.479 --> 00:01:29.230 align:start position:0%
+la fecha de trabajo
+activa<00:01:27.479><c> y</c><00:01:27.720><c> sobre</c><00:01:27.960><c> el</c><00:01:28.079><c> área</c><00:01:28.320><c> de</c><00:01:28.479><c> trabajo</c><00:01:28.960><c> a</c><00:01:29.119><c> la</c>
+
+00:01:29.230 --> 00:01:29.240 align:start position:0%
+activa y sobre el área de trabajo a la
+ 
+
+00:01:29.240 --> 00:01:31.390 align:start position:0%
+activa y sobre el área de trabajo a la
+cual<00:01:29.439><c> nos</c><00:01:29.600><c> hemos</c><00:01:29.840><c> conectado</c><00:01:30.759><c> tal</c><00:01:31.040><c> como</c><00:01:31.240><c> lo</c>
+
+00:01:31.390 --> 00:01:31.400 align:start position:0%
+cual nos hemos conectado tal como lo
+ 
+
+00:01:31.400 --> 00:01:34.510 align:start position:0%
+cual nos hemos conectado tal como lo
+veremos<00:01:32.000><c> en</c><00:01:32.280><c> este</c>
+
+00:01:34.510 --> 00:01:34.520 align:start position:0%
+veremos en este
+ 
+
+00:01:34.520 --> 00:01:37.469 align:start position:0%
+veremos en este
+caso<00:01:35.520><c> entonces</c><00:01:36.079><c> en</c><00:01:36.320><c> esta</c><00:01:36.560><c> celda</c><00:01:37.079><c> vamos</c><00:01:37.320><c> a</c>
+
+00:01:37.469 --> 00:01:37.479 align:start position:0%
+caso entonces en esta celda vamos a
+ 
+
+00:01:37.479 --> 00:01:40.350 align:start position:0%
+caso entonces en esta celda vamos a
+escribir<00:01:37.840><c> la</c><00:01:38.000><c> función</c><00:01:38.799><c> para</c><00:01:39.040><c> llamar</c><00:01:39.600><c> el</c><00:01:39.799><c> saldo</c>
+
+00:01:40.350 --> 00:01:40.360 align:start position:0%
+escribir la función para llamar el saldo
+ 
+
+00:01:40.360 --> 00:01:43.950 align:start position:0%
+escribir la función para llamar el saldo
+de<00:01:40.560><c> la</c><00:01:40.720><c> cuenta</c><00:01:41.759><c> vamos</c><00:01:41.920><c> a</c><00:01:42.079><c> tomar</c><00:01:42.520><c> como</c><00:01:42.960><c> ejemplo</c>
+
+00:01:43.950 --> 00:01:43.960 align:start position:0%
+de la cuenta vamos a tomar como ejemplo
+ 
+
+00:01:43.960 --> 00:01:46.749 align:start position:0%
+de la cuenta vamos a tomar como ejemplo
+la<00:01:44.200><c> cuenta</c><00:01:44.840><c> de</c>
+
+00:01:46.749 --> 00:01:46.759 align:start position:0%
+la cuenta de
+ 
+
+00:01:46.759 --> 00:01:49.550 align:start position:0%
+la cuenta de
+activos<00:01:47.759><c> vemos</c><00:01:48.200><c> como</c><00:01:48.399><c> una</c><00:01:48.640><c> vez</c><00:01:49.000><c> escrita</c><00:01:49.360><c> la</c>
+
+00:01:49.550 --> 00:01:49.560 align:start position:0%
+activos vemos como una vez escrita la
+ 
+
+00:01:49.560 --> 00:01:52.109 align:start position:0%
+activos vemos como una vez escrita la
+función<00:01:50.399><c> el</c><00:01:50.600><c> sistema</c><00:01:50.960><c> realiza</c><00:01:51.360><c> la</c><00:01:51.560><c> consulta</c>
+
+00:01:52.109 --> 00:01:52.119 align:start position:0%
+función el sistema realiza la consulta
+ 
+
+00:01:52.119 --> 00:01:54.270 align:start position:0%
+función el sistema realiza la consulta
+sobre<00:01:52.360><c> la</c><00:01:52.520><c> base</c><00:01:52.680><c> de</c><00:01:52.799><c> datos</c><00:01:53.079><c> de</c><00:01:53.240><c> cuenta</c><00:01:53.520><c> pyme</c><00:01:54.119><c> y</c>
+
+00:01:54.270 --> 00:01:54.280 align:start position:0%
+sobre la base de datos de cuenta pyme y
+ 
+
+00:01:54.280 --> 00:01:56.389 align:start position:0%
+sobre la base de datos de cuenta pyme y
+llama<00:01:54.560><c> el</c><00:01:54.680><c> saldo</c><00:01:54.960><c> de</c><00:01:55.079><c> la</c><00:01:55.159><c> cuenta</c><00:01:55.399><c> de</c><00:01:55.600><c> activos</c><00:01:56.240><c> a</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+llama el saldo de la cuenta de activos a
+ 
+
+00:01:56.399 --> 00:01:59.389 align:start position:0%
+llama el saldo de la cuenta de activos a
+la<00:01:56.600><c> fecha</c><00:01:57.240><c> activa</c><00:01:58.240><c> y</c><00:01:58.640><c> sobre</c><00:01:58.880><c> el</c><00:01:59.000><c> área</c><00:01:59.200><c> de</c>
+
+00:01:59.389 --> 00:01:59.399 align:start position:0%
+la fecha activa y sobre el área de
+ 
+
+00:01:59.399 --> 00:02:03.550 align:start position:0%
+la fecha activa y sobre el área de
+trabajo<00:01:59.880><c> a</c><00:02:00.039><c> la</c><00:02:00.159><c> cual</c><00:02:00.479><c> nos</c><00:02:00.680><c> hemos</c>
+
+00:02:03.550 --> 00:02:03.560 align:start position:0%
+ 
+ 
+
+00:02:03.560 --> 00:02:06.709 align:start position:0%
+ 
+conectado<00:02:04.560><c> lección</c><00:02:04.960><c> dos</c><00:02:05.600><c> consulta</c><00:02:06.039><c> de</c><00:02:06.240><c> saldo</c>
+
+00:02:06.709 --> 00:02:06.719 align:start position:0%
+conectado lección dos consulta de saldo
+ 
+
+00:02:06.719 --> 00:02:09.910 align:start position:0%
+conectado lección dos consulta de saldo
+sobre<00:02:07.039><c> cuenta</c><00:02:07.479><c> de</c><00:02:07.680><c> cualquier</c><00:02:08.119><c> nivel</c>
+
+00:02:09.910 --> 00:02:09.920 align:start position:0%
+sobre cuenta de cualquier nivel
+ 
+
+00:02:09.920 --> 00:02:12.309 align:start position:0%
+sobre cuenta de cualquier nivel
+la<00:02:10.160><c> consulta</c><00:02:10.800><c> sobre</c><00:02:11.039><c> el</c><00:02:11.160><c> saldo</c><00:02:11.480><c> de</c><00:02:11.599><c> una</c><00:02:11.760><c> cuenta</c>
+
+00:02:12.309 --> 00:02:12.319 align:start position:0%
+la consulta sobre el saldo de una cuenta
+ 
+
+00:02:12.319 --> 00:02:14.229 align:start position:0%
+la consulta sobre el saldo de una cuenta
+no<00:02:12.520><c> solo</c><00:02:12.720><c> la</c><00:02:12.920><c> podemos</c><00:02:13.280><c> realizar</c><00:02:13.800><c> sobre</c><00:02:14.080><c> las</c>
+
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+no solo la podemos realizar sobre las
+ 
+
+00:02:14.239 --> 00:02:16.390 align:start position:0%
+no solo la podemos realizar sobre las
+cuentas<00:02:14.560><c> de</c><00:02:14.800><c> primer</c><00:02:15.120><c> nivel</c><00:02:15.879><c> la</c><00:02:16.080><c> podemos</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+cuentas de primer nivel la podemos
+ 
+
+00:02:16.400 --> 00:02:19.390 align:start position:0%
+cuentas de primer nivel la podemos
+llevar<00:02:16.760><c> a</c><00:02:16.879><c> cabo</c><00:02:17.280><c> sobre</c><00:02:17.599><c> cuentas</c><00:02:18.280><c> de</c><00:02:18.519><c> cualquier</c>
+
+00:02:19.390 --> 00:02:19.400 align:start position:0%
+llevar a cabo sobre cuentas de cualquier
+ 
+
+00:02:19.400 --> 00:02:22.630 align:start position:0%
+llevar a cabo sobre cuentas de cualquier
+nivel<00:02:20.400><c> por</c><00:02:20.599><c> ejemplo</c><00:02:21.280><c> vamos</c><00:02:21.519><c> a</c><00:02:21.720><c> consultar</c><00:02:22.400><c> el</c>
+
+00:02:22.630 --> 00:02:22.640 align:start position:0%
+nivel por ejemplo vamos a consultar el
+ 
+
+00:02:22.640 --> 00:02:27.750 align:start position:0%
+nivel por ejemplo vamos a consultar el
+saldo<00:02:23.440><c> de</c><00:02:23.640><c> las</c><00:02:23.840><c> siguientes</c><00:02:24.920><c> cuentas</c><00:02:25.920><c> de</c>
+
+00:02:27.750 --> 00:02:27.760 align:start position:0%
+saldo de las siguientes cuentas de
+ 
+
+00:02:27.760 --> 00:02:30.990 align:start position:0%
+saldo de las siguientes cuentas de
+efectivo<00:02:28.760><c> la</c><00:02:29.120><c> cuenta</c><00:02:30.120><c> de</c>
+
+00:02:30.990 --> 00:02:31.000 align:start position:0%
+efectivo la cuenta de
+ 
+
+00:02:31.000 --> 00:02:36.630 align:start position:0%
+efectivo la cuenta de
+caja<00:02:32.000><c> la</c><00:02:32.239><c> cuenta</c><00:02:33.239><c> de</c><00:02:33.840><c> banco</c><00:02:34.840><c> y</c><00:02:35.080><c> la</c><00:02:35.400><c> cuenta</c><00:02:36.400><c> de</c>
+
+00:02:36.630 --> 00:02:36.640 align:start position:0%
+caja la cuenta de banco y la cuenta de
+ 
+
+00:02:36.640 --> 00:02:38.150 align:start position:0%
+caja la cuenta de banco y la cuenta de
+ahorro
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+ahorro
+ 
+
+00:02:38.160 --> 00:02:40.430 align:start position:0%
+ahorro
+en<00:02:38.319><c> la</c><00:02:38.480><c> celda</c><00:02:38.920><c> B2</c><00:02:39.560><c> vamos</c><00:02:39.840><c> a</c><00:02:39.959><c> escribir</c><00:02:40.239><c> la</c>
+
+00:02:40.430 --> 00:02:40.440 align:start position:0%
+en la celda B2 vamos a escribir la
+ 
+
+00:02:40.440 --> 00:02:43.509 align:start position:0%
+en la celda B2 vamos a escribir la
+función<00:02:41.080><c> saldo</c><00:02:41.560><c> cuenta</c><00:02:42.400><c> para</c><00:02:42.599><c> que</c><00:02:42.760><c> el</c><00:02:42.920><c> sistema</c>
+
+00:02:43.509 --> 00:02:43.519 align:start position:0%
+función saldo cuenta para que el sistema
+ 
+
+00:02:43.519 --> 00:02:46.149 align:start position:0%
+función saldo cuenta para que el sistema
+nos<00:02:43.720><c> llame</c><00:02:43.959><c> el</c><00:02:44.080><c> saldo</c><00:02:44.400><c> de</c><00:02:44.560><c> la</c><00:02:44.680><c> cuenta</c><00:02:44.959><c> de</c><00:02:45.200><c> caja</c>
+
+00:02:46.149 --> 00:02:46.159 align:start position:0%
+nos llame el saldo de la cuenta de caja
+ 
+
+00:02:46.159 --> 00:02:48.149 align:start position:0%
+nos llame el saldo de la cuenta de caja
+en<00:02:46.319><c> este</c><00:02:46.560><c> caso</c><00:02:46.800><c> entre</c><00:02:47.040><c> paréntesis</c><00:02:47.800><c> vamos</c><00:02:48.000><c> a</c>
+
+00:02:48.149 --> 00:02:48.159 align:start position:0%
+en este caso entre paréntesis vamos a
+ 
+
+00:02:48.159 --> 00:02:52.430 align:start position:0%
+en este caso entre paréntesis vamos a
+escribir<00:02:48.640><c> el</c><00:02:48.800><c> código</c><00:02:49.159><c> de</c><00:02:49.280><c> esta</c><00:02:49.519><c> cuenta</c>
+
+00:02:52.430 --> 00:02:52.440 align:start position:0%
+ 
+ 
+
+00:02:52.440 --> 00:02:55.470 align:start position:0%
+ 
+1105<00:02:53.440><c> y</c><00:02:53.640><c> lo</c><00:02:53.840><c> mismo</c><00:02:54.280><c> vamos</c><00:02:54.519><c> a</c><00:02:54.720><c> realizar</c><00:02:55.239><c> para</c>
+
+00:02:55.470 --> 00:02:55.480 align:start position:0%
+1105 y lo mismo vamos a realizar para
+ 
+
+00:02:55.480 --> 00:02:59.070 align:start position:0%
+1105 y lo mismo vamos a realizar para
+las<00:02:55.640><c> demás</c><00:02:56.000><c> cuentas</c><00:02:57.159><c> escribimos</c><00:02:57.840><c> la</c><00:02:58.080><c> función</c>
+
+00:02:59.070 --> 00:02:59.080 align:start position:0%
+las demás cuentas escribimos la función
+ 
+
+00:02:59.080 --> 00:03:02.070 align:start position:0%
+las demás cuentas escribimos la función
+y<00:02:59.319><c> entre</c><00:02:59.560><c> paréntesis</c><00:03:00.440><c> escribimos</c><00:03:01.319><c> el</c><00:03:01.519><c> código</c>
+
+00:03:02.070 --> 00:03:02.080 align:start position:0%
+y entre paréntesis escribimos el código
+ 
+
+00:03:02.080 --> 00:03:06.750 align:start position:0%
+y entre paréntesis escribimos el código
+de<00:03:02.280><c> la</c>
+
+00:03:06.750 --> 00:03:06.760 align:start position:0%
+ 
+ 
+
+00:03:06.760 --> 00:03:09.110 align:start position:0%
+ 
+cuenta<00:03:07.760><c> en</c><00:03:07.920><c> este</c><00:03:08.200><c> caso</c><00:03:08.480><c> el</c><00:03:08.599><c> código</c><00:03:08.879><c> de</c><00:03:09.000><c> la</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+cuenta en este caso el código de la
+ 
+
+00:03:09.120 --> 00:03:13.350 align:start position:0%
+cuenta en este caso el código de la
+cuenta<00:03:09.360><c> de</c><00:03:09.560><c> ahorros</c><00:03:10.040><c> es</c>
+
+00:03:13.350 --> 00:03:13.360 align:start position:0%
+ 
+ 
+
+00:03:13.360 --> 00:03:16.430 align:start position:0%
+ 
+1120<00:03:14.360><c> una</c><00:03:14.599><c> vez</c><00:03:15.000><c> tenemos</c><00:03:15.319><c> la</c><00:03:15.560><c> consulta</c><00:03:16.200><c> de</c>
+
+00:03:16.430 --> 00:03:16.440 align:start position:0%
+1120 una vez tenemos la consulta de
+ 
+
+00:03:16.440 --> 00:03:19.110 align:start position:0%
+1120 una vez tenemos la consulta de
+estas<00:03:16.720><c> tres</c><00:03:17.000><c> cuentas</c><00:03:17.920><c> podemos</c><00:03:18.360><c> hacer</c><00:03:18.560><c> uso</c><00:03:18.920><c> de</c>
+
+00:03:19.110 --> 00:03:19.120 align:start position:0%
+estas tres cuentas podemos hacer uso de
+ 
+
+00:03:19.120 --> 00:03:21.550 align:start position:0%
+estas tres cuentas podemos hacer uso de
+las<00:03:19.280><c> funciones</c><00:03:20.000><c> propias</c><00:03:20.360><c> de</c><00:03:20.519><c> Excel</c><00:03:21.360><c> por</c>
+
+00:03:21.550 --> 00:03:21.560 align:start position:0%
+las funciones propias de Excel por
+ 
+
+00:03:21.560 --> 00:03:25.470 align:start position:0%
+las funciones propias de Excel por
+ejemplo<00:03:22.440><c> vamos</c><00:03:22.680><c> a</c><00:03:22.879><c> usar</c><00:03:23.440><c> la</c><00:03:23.680><c> función</c><00:03:24.480><c> suma</c>
+
+00:03:25.470 --> 00:03:25.480 align:start position:0%
+ejemplo vamos a usar la función suma
+ 
+
+00:03:25.480 --> 00:03:27.830 align:start position:0%
+ejemplo vamos a usar la función suma
+para<00:03:25.760><c> hallar</c><00:03:26.440><c> el</c><00:03:26.680><c> total</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+para hallar el total
+ 
+
+00:03:27.840 --> 00:03:31.390 align:start position:0%
+para hallar el total
+efectivo<00:03:28.840><c> en</c><00:03:29.000><c> la</c><00:03:29.159><c> celda</c><00:03:29.680><c> B5</c><00:03:30.680><c> escribimos</c><00:03:31.200><c> la</c>
+
+00:03:31.390 --> 00:03:31.400 align:start position:0%
+efectivo en la celda B5 escribimos la
+ 
+
+00:03:31.400 --> 00:03:34.270 align:start position:0%
+efectivo en la celda B5 escribimos la
+función<00:03:31.879><c> suma</c><00:03:32.840><c> y</c><00:03:33.080><c> realizamos</c><00:03:33.560><c> la</c><00:03:33.720><c> suma</c><00:03:33.959><c> de</c><00:03:34.120><c> la</c>
+
+00:03:34.270 --> 00:03:34.280 align:start position:0%
+función suma y realizamos la suma de la
+ 
+
+00:03:34.280 --> 00:03:38.229 align:start position:0%
+función suma y realizamos la suma de la
+celda<00:03:34.760><c> B2</c><00:03:35.400><c> B3</c><00:03:36.000><c> y</c><00:03:36.159><c> B4</c>
+
+00:03:38.229 --> 00:03:38.239 align:start position:0%
+celda B2 B3 y B4
+ 
+
+00:03:38.239 --> 00:03:40.429 align:start position:0%
+celda B2 B3 y B4
+miremos<00:03:38.760><c> cómo</c><00:03:39.000><c> también</c><00:03:39.560><c> le</c><00:03:39.760><c> podemos</c><00:03:40.159><c> dar</c>
+
+00:03:40.429 --> 00:03:40.439 align:start position:0%
+miremos cómo también le podemos dar
+ 
+
+00:03:40.439 --> 00:03:43.949 align:start position:0%
+miremos cómo también le podemos dar
+formato<00:03:41.120><c> a</c><00:03:41.319><c> nuestro</c><00:03:41.760><c> informe</c><00:03:42.680><c> por</c><00:03:42.959><c> ejemplo</c>
+
+00:03:43.949 --> 00:03:43.959 align:start position:0%
+formato a nuestro informe por ejemplo
+ 
+
+00:03:43.959 --> 00:03:45.869 align:start position:0%
+formato a nuestro informe por ejemplo
+especificarle
+
+00:03:45.869 --> 00:03:45.879 align:start position:0%
+especificarle
+ 
+
+00:03:45.879 --> 00:03:49.470 align:start position:0%
+especificarle
+color<00:03:46.879><c> como</c><00:03:47.080><c> lo</c><00:03:47.280><c> estamos</c><00:03:47.599><c> haciendo</c><00:03:48.239><c> en</c><00:03:48.480><c> este</c>
+
+00:03:49.470 --> 00:03:49.480 align:start position:0%
+color como lo estamos haciendo en este
+ 
+
+00:03:49.480 --> 00:03:53.869 align:start position:0%
+color como lo estamos haciendo en este
+caso<00:03:50.480><c> y</c><00:03:51.200><c> algunas</c><00:03:52.000><c> otras</c><00:03:52.400><c> opciones</c><00:03:53.319><c> para</c><00:03:53.640><c> tener</c>
+
+00:03:53.869 --> 00:03:53.879 align:start position:0%
+caso y algunas otras opciones para tener
+ 
+
+00:03:53.879 --> 00:03:59.429 align:start position:0%
+caso y algunas otras opciones para tener
+un<00:03:54.079><c> informe</c><00:03:54.599><c> mucho</c><00:03:54.879><c> más</c><00:03:55.319><c> entendible</c>
+
+00:03:59.429 --> 00:03:59.439 align:start position:0%
+ 
+ 
+
+00:03:59.439 --> 00:04:02.350 align:start position:0%
+ 
+lección<00:03:59.920><c> 3</c><00:04:00.560><c> variables</c><00:04:01.200><c> de</c>
+
+00:04:02.350 --> 00:04:02.360 align:start position:0%
+lección 3 variables de
+ 
+
+00:04:02.360 --> 00:04:04.869 align:start position:0%
+lección 3 variables de
+entorno<00:04:03.360><c> vamos</c><00:04:03.519><c> a</c><00:04:03.720><c> hacer</c><00:04:03.920><c> uso</c><00:04:04.280><c> del</c><00:04:04.519><c> ejemplo</c>
+
+00:04:04.869 --> 00:04:04.879 align:start position:0%
+entorno vamos a hacer uso del ejemplo
+ 
+
+00:04:04.879 --> 00:04:07.429 align:start position:0%
+entorno vamos a hacer uso del ejemplo
+anterior<00:04:05.480><c> para</c><00:04:05.760><c> visualizar</c><00:04:06.599><c> cómo</c><00:04:06.760><c> al</c><00:04:06.959><c> cambiar</c>
+
+00:04:07.429 --> 00:04:07.439 align:start position:0%
+anterior para visualizar cómo al cambiar
+ 
+
+00:04:07.439 --> 00:04:09.670 align:start position:0%
+anterior para visualizar cómo al cambiar
+las<00:04:07.640><c> variables</c><00:04:08.079><c> de</c><00:04:08.239><c> entorno</c><00:04:09.000><c> nos</c><00:04:09.239><c> cambian</c><00:04:09.560><c> de</c>
+
+00:04:09.670 --> 00:04:09.680 align:start position:0%
+las variables de entorno nos cambian de
+ 
+
+00:04:09.680 --> 00:04:11.949 align:start position:0%
+las variables de entorno nos cambian de
+inmediato<00:04:10.319><c> los</c><00:04:10.560><c> saldos</c>
+
+00:04:11.949 --> 00:04:11.959 align:start position:0%
+inmediato los saldos
+ 
+
+00:04:11.959 --> 00:04:14.910 align:start position:0%
+inmediato los saldos
+consultados<00:04:12.959><c> en</c><00:04:13.159><c> este</c><00:04:13.519><c> momento</c><00:04:14.159><c> el</c><00:04:14.400><c> sistema</c>
+
+00:04:14.910 --> 00:04:14.920 align:start position:0%
+consultados en este momento el sistema
+ 
+
+00:04:14.920 --> 00:04:17.310 align:start position:0%
+consultados en este momento el sistema
+nos<00:04:15.200><c> está</c><00:04:15.400><c> realizando</c><00:04:15.920><c> la</c><00:04:16.160><c> consulta</c><00:04:17.000><c> de</c><00:04:17.199><c> los</c>
+
+00:04:17.310 --> 00:04:17.320 align:start position:0%
+nos está realizando la consulta de los
+ 
+
+00:04:17.320 --> 00:04:20.590 align:start position:0%
+nos está realizando la consulta de los
+saldos<00:04:17.680><c> de</c><00:04:17.840><c> estas</c><00:04:18.280><c> cuentas</c><00:04:19.280><c> sobre</c><00:04:19.759><c> la</c><00:04:20.040><c> fecha</c>
+
+00:04:20.590 --> 00:04:20.600 align:start position:0%
+saldos de estas cuentas sobre la fecha
+ 
+
+00:04:20.600 --> 00:04:24.110 align:start position:0%
+saldos de estas cuentas sobre la fecha
+de<00:04:20.880><c> trabajo</c><00:04:21.680><c> activa</c><00:04:22.680><c> en</c><00:04:22.880><c> este</c><00:04:23.160><c> caso</c><00:04:23.479><c> 31</c><00:04:23.960><c> de</c>
+
+00:04:24.110 --> 00:04:24.120 align:start position:0%
+de trabajo activa en este caso 31 de
+ 
+
+00:04:24.120 --> 00:04:27.390 align:start position:0%
+de trabajo activa en este caso 31 de
+marzo<00:04:24.720><c> del</c><00:04:24.919><c> año</c><00:04:25.160><c> 2005</c><00:04:26.600><c> y</c><00:04:26.720><c> sobre</c><00:04:26.960><c> el</c><00:04:27.080><c> área</c><00:04:27.320><c> de</c>
+
+00:04:27.390 --> 00:04:27.400 align:start position:0%
+marzo del año 2005 y sobre el área de
+ 
+
+00:04:27.400 --> 00:04:31.350 align:start position:0%
+marzo del año 2005 y sobre el área de
+trabajo<00:04:27.880><c> al</c><00:04:28.080><c> cual</c><00:04:28.280><c> nos</c><00:04:28.440><c> hemos</c><00:04:28.680><c> conectado</c><00:04:29.600><c> pese</c>
+
+00:04:31.350 --> 00:04:31.360 align:start position:0%
+trabajo al cual nos hemos conectado pese
+ 
+
+00:04:31.360 --> 00:04:34.749 align:start position:0%
+trabajo al cual nos hemos conectado pese
+soluciones<00:04:32.360><c> miremos</c><00:04:32.840><c> que</c><00:04:33.039><c> en</c><00:04:33.240><c> este</c><00:04:33.759><c> momento</c>
+
+00:04:34.749 --> 00:04:34.759 align:start position:0%
+soluciones miremos que en este momento
+ 
+
+00:04:34.759 --> 00:04:41.390 align:start position:0%
+soluciones miremos que en este momento
+el<00:04:35.000><c> total</c><00:04:35.600><c> efectivo</c><00:04:36.560><c> son</c>
+
+00:04:41.390 --> 00:04:41.400 align:start position:0%
+ 
+ 
+
+00:04:41.400 --> 00:04:44.670 align:start position:0%
+ 
+25,852,680es<00:04:42.400><c> ahora</c><00:04:43.199><c> vamos</c><00:04:43.479><c> a</c><00:04:43.680><c> realizar</c><00:04:44.440><c> la</c>
+
+00:04:44.670 --> 00:04:44.680 align:start position:0%
+25,852,680es ahora vamos a realizar la
+ 
+
+00:04:44.680 --> 00:04:47.350 align:start position:0%
+25,852,680es ahora vamos a realizar la
+consulta<00:04:45.120><c> de</c><00:04:45.280><c> los</c><00:04:45.479><c> saldos</c><00:04:46.360><c> sobre</c><00:04:46.800><c> una</c><00:04:47.080><c> fecha</c>
+
+00:04:47.350 --> 00:04:47.360 align:start position:0%
+consulta de los saldos sobre una fecha
+ 
+
+00:04:47.360 --> 00:04:50.870 align:start position:0%
+consulta de los saldos sobre una fecha
+de<00:04:47.560><c> trabajo</c><00:04:48.560><c> diferente</c><00:04:49.560><c> por</c><00:04:49.720><c> ejemplo</c><00:04:50.479><c> vamos</c><00:04:50.680><c> a</c>
+
+00:04:50.870 --> 00:04:50.880 align:start position:0%
+de trabajo diferente por ejemplo vamos a
+ 
+
+00:04:50.880 --> 00:04:52.670 align:start position:0%
+de trabajo diferente por ejemplo vamos a
+hacerlo<00:04:51.400><c> un</c><00:04:51.600><c> mes</c><00:04:51.800><c> más</c>
+
+00:04:52.670 --> 00:04:52.680 align:start position:0%
+hacerlo un mes más
+ 
+
+00:04:52.680 --> 00:04:55.430 align:start position:0%
+hacerlo un mes más
+adelante<00:04:53.759><c> en</c><00:04:53.919><c> este</c><00:04:54.160><c> caso</c><00:04:54.400><c> estamos</c><00:04:54.680><c> realizando</c>
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+adelante en este caso estamos realizando
+ 
+
+00:04:55.440 --> 00:04:58.670 align:start position:0%
+adelante en este caso estamos realizando
+la<00:04:55.680><c> consulta</c><00:04:56.120><c> de</c><00:04:56.280><c> estos</c><00:04:56.560><c> saldos</c><00:04:57.240><c> al</c><00:04:57.560><c> 30</c><00:04:58.479><c> de</c>
+
+00:04:58.670 --> 00:04:58.680 align:start position:0%
+la consulta de estos saldos al 30 de
+ 
+
+00:04:58.680 --> 00:05:01.950 align:start position:0%
+la consulta de estos saldos al 30 de
+abril<00:04:59.160><c> del</c><00:04:59.400><c> año</c><00:05:00.000><c> 2005</c><00:05:01.000><c> vemos</c><00:05:01.360><c> como</c><00:05:01.560><c> el</c><00:05:01.680><c> total</c>
+
+00:05:01.950 --> 00:05:01.960 align:start position:0%
+abril del año 2005 vemos como el total
+ 
+
+00:05:01.960 --> 00:05:04.670 align:start position:0%
+abril del año 2005 vemos como el total
+de<00:05:02.120><c> efectivo</c><00:05:02.800><c> ya</c><00:05:03.000><c> nos</c><00:05:03.199><c> ha</c><00:05:03.520><c> cambiado</c><00:05:04.520><c> ya</c>
+
+00:05:04.670 --> 00:05:04.680 align:start position:0%
+de efectivo ya nos ha cambiado ya
+ 
+
+00:05:04.680 --> 00:05:08.950 align:start position:0%
+de efectivo ya nos ha cambiado ya
+tenemos<00:05:05.400><c> un</c><00:05:05.639><c> saldo</c><00:05:06.080><c> de</c>
+
+00:05:08.950 --> 00:05:08.960 align:start position:0%
+ 
+ 
+
+00:05:08.960 --> 00:05:11.870 align:start position:0%
+ 
+33,215,537<00:05:09.960><c> pesos</c>
+
+00:05:11.870 --> 00:05:11.880 align:start position:0%
+33,215,537 pesos
+ 
+
+00:05:11.880 --> 00:05:14.909 align:start position:0%
+33,215,537 pesos
+y<00:05:12.039><c> esto</c><00:05:12.440><c> va</c><00:05:12.600><c> a</c><00:05:12.720><c> seguir</c><00:05:13.000><c> pasando</c><00:05:13.880><c> si</c><00:05:14.160><c> nosotros</c>
+
+00:05:14.909 --> 00:05:14.919 align:start position:0%
+y esto va a seguir pasando si nosotros
+ 
+
+00:05:14.919 --> 00:05:17.790 align:start position:0%
+y esto va a seguir pasando si nosotros
+cambiamos<00:05:15.400><c> la</c><00:05:15.600><c> fecha</c><00:05:15.840><c> de</c><00:05:16.320><c> trabajo</c><00:05:17.320><c> siempre</c>
+
+00:05:17.790 --> 00:05:17.800 align:start position:0%
+cambiamos la fecha de trabajo siempre
+ 
+
+00:05:17.800 --> 00:05:19.990 align:start position:0%
+cambiamos la fecha de trabajo siempre
+los<00:05:18.000><c> saldos</c><00:05:18.319><c> de</c><00:05:18.479><c> estas</c><00:05:18.759><c> cuentas</c><00:05:19.520><c> van</c><00:05:19.680><c> a</c><00:05:19.840><c> ser</c>
+
+00:05:19.990 --> 00:05:20.000 align:start position:0%
+los saldos de estas cuentas van a ser
+ 
+
+00:05:20.000 --> 00:05:22.430 align:start position:0%
+los saldos de estas cuentas van a ser
+halladas<00:05:20.720><c> a</c><00:05:20.960><c> esta</c><00:05:21.199><c> fecha</c><00:05:21.440><c> de</c><00:05:21.639><c> trabajo</c><00:05:22.080><c> que</c><00:05:22.280><c> le</c>
+
+00:05:22.430 --> 00:05:22.440 align:start position:0%
+halladas a esta fecha de trabajo que le
+ 
+
+00:05:22.440 --> 00:05:24.510 align:start position:0%
+halladas a esta fecha de trabajo que le
+estamos
+
+00:05:24.510 --> 00:05:24.520 align:start position:0%
+estamos
+ 
+
+00:05:24.520 --> 00:05:27.110 align:start position:0%
+estamos
+especificando<00:05:25.520><c> en</c><00:05:25.720><c> conclusión</c><00:05:26.600><c> el</c><00:05:26.800><c> sistema</c>
+
+00:05:27.110 --> 00:05:27.120 align:start position:0%
+especificando en conclusión el sistema
+ 
+
+00:05:27.120 --> 00:05:29.950 align:start position:0%
+especificando en conclusión el sistema
+nos<00:05:27.360><c> realiza</c><00:05:28.000><c> la</c><00:05:28.240><c> consulta</c><00:05:28.720><c> de</c><00:05:28.880><c> estos</c><00:05:29.199><c> saldos</c>
+
+00:05:29.950 --> 00:05:29.960 align:start position:0%
+nos realiza la consulta de estos saldos
+ 
+
+00:05:29.960 --> 00:05:32.029 align:start position:0%
+nos realiza la consulta de estos saldos
+a<00:05:30.160><c> la</c><00:05:30.319><c> fecha</c><00:05:30.639><c> de</c><00:05:30.880><c> trabajo</c><00:05:31.319><c> que</c><00:05:31.479><c> tengamos</c>
+
+00:05:32.029 --> 00:05:32.039 align:start position:0%
+a la fecha de trabajo que tengamos
+ 
+
+00:05:32.039 --> 00:05:34.309 align:start position:0%
+a la fecha de trabajo que tengamos
+activa<00:05:32.759><c> y</c><00:05:32.919><c> al</c><00:05:33.120><c> área</c><00:05:33.319><c> de</c><00:05:33.479><c> trabajo</c><00:05:33.919><c> a</c><00:05:34.039><c> la</c><00:05:34.160><c> cual</c>
+
+00:05:34.309 --> 00:05:34.319 align:start position:0%
+activa y al área de trabajo a la cual
+ 
+
+00:05:34.319 --> 00:05:37.550 align:start position:0%
+activa y al área de trabajo a la cual
+nos<00:05:34.479><c> hemos</c><00:05:35.120><c> conectado</c><00:05:36.199><c> esto</c><00:05:36.440><c> pasa</c><00:05:36.919><c> porque</c><00:05:37.199><c> aún</c>
+
+00:05:37.550 --> 00:05:37.560 align:start position:0%
+nos hemos conectado esto pasa porque aún
+ 
+
+00:05:37.560 --> 00:05:39.710 align:start position:0%
+nos hemos conectado esto pasa porque aún
+no<00:05:37.720><c> le</c><00:05:37.880><c> hemos</c><00:05:38.199><c> definido</c><00:05:38.639><c> variables</c><00:05:39.360><c> como</c><00:05:39.560><c> lo</c>
+
+00:05:39.710 --> 00:05:39.720 align:start position:0%
+no le hemos definido variables como lo
+ 
+
+00:05:39.720 --> 00:05:43.629 align:start position:0%
+no le hemos definido variables como lo
+miraremos<00:05:40.520><c> más</c>
+
+00:05:43.629 --> 00:05:43.639 align:start position:0%
+ 
+ 
+
+00:05:43.639 --> 00:05:48.309 align:start position:0%
+ 
+adelante<00:05:44.639><c> lección</c><00:05:45.120><c> cuatro</c><00:05:45.960><c> referencia</c><00:05:46.759><c> a</c>
+
+00:05:48.309 --> 00:05:48.319 align:start position:0%
+adelante lección cuatro referencia a
+ 
+
+00:05:48.319 --> 00:05:51.150 align:start position:0%
+adelante lección cuatro referencia a
+celdas<00:05:49.319><c> tanto</c><00:05:49.600><c> en</c><00:05:49.800><c> Excel</c><00:05:50.520><c> como</c><00:05:50.759><c> en</c>
+
+00:05:51.150 --> 00:05:51.160 align:start position:0%
+celdas tanto en Excel como en
+ 
+
+00:05:51.160 --> 00:05:53.710 align:start position:0%
+celdas tanto en Excel como en
+contaxeladin<00:05:52.160><c> podemos</c><00:05:52.520><c> hacer</c><00:05:52.759><c> referencia</c><00:05:53.479><c> a</c>
+
+00:05:53.710 --> 00:05:53.720 align:start position:0%
+contaxeladin podemos hacer referencia a
+ 
+
+00:05:53.720 --> 00:05:55.590 align:start position:0%
+contaxeladin podemos hacer referencia a
+una<00:05:54.000><c> celda</c>
+
+00:05:55.590 --> 00:05:55.600 align:start position:0%
+una celda
+ 
+
+00:05:55.600 --> 00:05:58.309 align:start position:0%
+una celda
+en<00:05:55.800><c> este</c><00:05:56.080><c> caso</c><00:05:56.759><c> vamos</c><00:05:57.000><c> a</c><00:05:57.160><c> escribir</c><00:05:57.960><c> en</c><00:05:58.160><c> la</c>
+
+00:05:58.309 --> 00:05:58.319 align:start position:0%
+en este caso vamos a escribir en la
+ 
+
+00:05:58.319 --> 00:06:01.830 align:start position:0%
+en este caso vamos a escribir en la
+celda<00:05:58.960><c> A1</c><00:05:59.840><c> el</c><00:06:00.120><c> código</c><00:06:00.520><c> de</c><00:06:00.680><c> la</c><00:06:00.840><c> cuenta</c><00:06:01.360><c> sobre</c><00:06:01.639><c> la</c>
+
+00:06:01.830 --> 00:06:01.840 align:start position:0%
+celda A1 el código de la cuenta sobre la
+ 
+
+00:06:01.840 --> 00:06:03.909 align:start position:0%
+celda A1 el código de la cuenta sobre la
+cual<00:06:02.199><c> queremos</c><00:06:02.600><c> realizar</c><00:06:03.080><c> la</c><00:06:03.280><c> consulta</c><00:06:03.680><c> del</c>
+
+00:06:03.909 --> 00:06:03.919 align:start position:0%
+cual queremos realizar la consulta del
+ 
+
+00:06:03.919 --> 00:06:06.070 align:start position:0%
+cual queremos realizar la consulta del
+saldo<00:06:04.639><c> como</c><00:06:04.880><c> ejemplo</c><00:06:05.360><c> vamos</c><00:06:05.560><c> a</c><00:06:05.680><c> escribir</c><00:06:05.960><c> el</c>
+
+00:06:06.070 --> 00:06:06.080 align:start position:0%
+saldo como ejemplo vamos a escribir el
+ 
+
+00:06:06.080 --> 00:06:09.870 align:start position:0%
+saldo como ejemplo vamos a escribir el
+código<00:06:06.360><c> de</c><00:06:06.479><c> la</c><00:06:06.599><c> cuenta</c><00:06:06.880><c> de</c><00:06:07.039><c> caja</c>
+
+00:06:09.870 --> 00:06:09.880 align:start position:0%
+código de la cuenta de caja
+ 
+
+00:06:09.880 --> 00:06:13.270 align:start position:0%
+código de la cuenta de caja
+1105<00:06:10.880><c> y</c><00:06:11.080><c> en</c><00:06:11.199><c> la</c><00:06:11.400><c> celda</c><00:06:12.000><c> B1</c><00:06:12.639><c> vamos</c><00:06:12.840><c> a</c><00:06:13.000><c> escribir</c>
+
+00:06:13.270 --> 00:06:13.280 align:start position:0%
+1105 y en la celda B1 vamos a escribir
+ 
+
+00:06:13.280 --> 00:06:16.029 align:start position:0%
+1105 y en la celda B1 vamos a escribir
+la<00:06:13.479><c> función</c><00:06:14.199><c> para</c><00:06:14.479><c> realizar</c><00:06:14.919><c> la</c><00:06:15.160><c> consulta</c><00:06:15.759><c> del</c>
+
+00:06:16.029 --> 00:06:16.039 align:start position:0%
+la función para realizar la consulta del
+ 
+
+00:06:16.039 --> 00:06:18.749 align:start position:0%
+la función para realizar la consulta del
+saldo<00:06:16.360><c> de</c><00:06:16.520><c> la</c><00:06:16.960><c> cuenta</c><00:06:18.039><c> miremos</c><00:06:18.360><c> que</c><00:06:18.520><c> entre</c>
+
+00:06:18.749 --> 00:06:18.759 align:start position:0%
+saldo de la cuenta miremos que entre
+ 
+
+00:06:18.759 --> 00:06:21.150 align:start position:0%
+saldo de la cuenta miremos que entre
+paréntesis<00:06:19.639><c> ya</c><00:06:19.880><c> no</c><00:06:20.080><c> vamos</c><00:06:20.319><c> a</c><00:06:20.479><c> escribir</c><00:06:20.880><c> el</c>
+
+00:06:21.150 --> 00:06:21.160 align:start position:0%
+paréntesis ya no vamos a escribir el
+ 
+
+00:06:21.160 --> 00:06:23.870 align:start position:0%
+paréntesis ya no vamos a escribir el
+código<00:06:21.759><c> de</c><00:06:21.960><c> la</c><00:06:22.120><c> cuenta</c><00:06:22.800><c> como</c><00:06:23.000><c> lo</c><00:06:23.160><c> hacíamos</c><00:06:23.720><c> en</c>
+
+00:06:23.870 --> 00:06:23.880 align:start position:0%
+código de la cuenta como lo hacíamos en
+ 
+
+00:06:23.880 --> 00:06:26.670 align:start position:0%
+código de la cuenta como lo hacíamos en
+los<00:06:24.039><c> anteriores</c><00:06:24.560><c> ejemplos</c><00:06:25.560><c> sino</c><00:06:26.080><c> que</c><00:06:26.319><c> vamos</c><00:06:26.520><c> a</c>
+
+00:06:26.670 --> 00:06:26.680 align:start position:0%
+los anteriores ejemplos sino que vamos a
+ 
+
+00:06:26.680 --> 00:06:29.469 align:start position:0%
+los anteriores ejemplos sino que vamos a
+hacer<00:06:26.880><c> referencia</c><00:06:27.759><c> a</c><00:06:28.000><c> una</c><00:06:28.280><c> celda</c><00:06:29.000><c> en</c><00:06:29.199><c> este</c>
+
+00:06:29.469 --> 00:06:29.479 align:start position:0%
+hacer referencia a una celda en este
+ 
+
+00:06:29.479 --> 00:06:32.629 align:start position:0%
+hacer referencia a una celda en este
+caso<00:06:29.800><c> la</c><00:06:30.000><c> celda</c><00:06:30.520><c> A1</c><00:06:31.280><c> la</c><00:06:31.440><c> cual</c><00:06:31.680><c> nos</c><00:06:31.880><c> contiene</c><00:06:32.440><c> el</c>
+
+00:06:32.629 --> 00:06:32.639 align:start position:0%
+caso la celda A1 la cual nos contiene el
+ 
+
+00:06:32.639 --> 00:06:34.589 align:start position:0%
+caso la celda A1 la cual nos contiene el
+código<00:06:32.960><c> de</c><00:06:33.080><c> la</c><00:06:33.240><c> cuenta</c><00:06:33.639><c> sobre</c><00:06:33.919><c> la</c><00:06:34.080><c> cual</c>
+
+00:06:34.589 --> 00:06:34.599 align:start position:0%
+código de la cuenta sobre la cual
+ 
+
+00:06:34.599 --> 00:06:38.350 align:start position:0%
+código de la cuenta sobre la cual
+deseamos<00:06:35.120><c> realizar</c><00:06:35.520><c> la</c><00:06:35.720><c> consulta</c>
+
+00:06:38.350 --> 00:06:38.360 align:start position:0%
+deseamos realizar la consulta
+ 
+
+00:06:38.360 --> 00:06:40.749 align:start position:0%
+deseamos realizar la consulta
+miremos<00:06:38.759><c> que</c><00:06:38.960><c> ahora</c><00:06:39.440><c> podemos</c><00:06:39.880><c> cambiar</c><00:06:40.560><c> el</c>
+
+00:06:40.749 --> 00:06:40.759 align:start position:0%
+miremos que ahora podemos cambiar el
+ 
+
+00:06:40.759 --> 00:06:43.550 align:start position:0%
+miremos que ahora podemos cambiar el
+código<00:06:41.160><c> de</c><00:06:41.360><c> la</c><00:06:41.560><c> cuenta</c><00:06:42.400><c> por</c><00:06:42.560><c> ejemplo</c><00:06:43.199><c> vamos</c><00:06:43.400><c> a</c>
+
+00:06:43.550 --> 00:06:43.560 align:start position:0%
+código de la cuenta por ejemplo vamos a
+ 
+
+00:06:43.560 --> 00:06:46.189 align:start position:0%
+código de la cuenta por ejemplo vamos a
+realizar<00:06:43.880><c> la</c><00:06:44.120><c> consulta</c><00:06:44.599><c> sobre</c><00:06:44.880><c> la</c><00:06:45.120><c> cuenta</c><00:06:46.039><c> eh</c>
+
+00:06:46.189 --> 00:06:46.199 align:start position:0%
+realizar la consulta sobre la cuenta eh
+ 
+
+00:06:46.199 --> 00:06:50.189 align:start position:0%
+realizar la consulta sobre la cuenta eh
+de<00:06:46.400><c> ahorros</c><00:06:46.960><c> la</c><00:06:47.120><c> cuenta</c><00:06:47.840><c> 1120</c><00:06:48.840><c> y</c><00:06:49.039><c> miremos</c><00:06:49.720><c> cómo</c>
+
+00:06:50.189 --> 00:06:50.199 align:start position:0%
+de ahorros la cuenta 1120 y miremos cómo
+ 
+
+00:06:50.199 --> 00:06:52.749 align:start position:0%
+de ahorros la cuenta 1120 y miremos cómo
+automáticamente<00:06:51.199><c> nos</c><00:06:51.479><c> cambia</c><00:06:52.039><c> el</c><00:06:52.280><c> saldo</c><00:06:52.599><c> de</c>
+
+00:06:52.749 --> 00:06:52.759 align:start position:0%
+automáticamente nos cambia el saldo de
+ 
+
+00:06:52.759 --> 00:06:54.469 align:start position:0%
+automáticamente nos cambia el saldo de
+la
+
+00:06:54.469 --> 00:06:54.479 align:start position:0%
+la
+ 
+
+00:06:54.479 --> 00:06:56.869 align:start position:0%
+la
+cuenta<00:06:55.479><c> lo</c><00:06:55.639><c> mismo</c><00:06:55.879><c> nos</c><00:06:56.160><c> pasa</c><00:06:56.520><c> si</c><00:06:56.720><c> lo</c>
+
+00:06:56.869 --> 00:06:56.879 align:start position:0%
+cuenta lo mismo nos pasa si lo
+ 
+
+00:06:56.879 --> 00:06:59.550 align:start position:0%
+cuenta lo mismo nos pasa si lo
+realizamos<00:06:57.720><c> con</c><00:06:57.960><c> cualquier</c><00:06:58.479><c> cuenta</c><00:06:59.319><c> de</c>
+
+00:06:59.550 --> 00:06:59.560 align:start position:0%
+realizamos con cualquier cuenta de
+ 
+
+00:06:59.560 --> 00:07:02.189 align:start position:0%
+realizamos con cualquier cuenta de
+cualquier
+
+00:07:02.189 --> 00:07:02.199 align:start position:0%
+ 
+ 
+
+00:07:02.199 --> 00:07:07.309 align:start position:0%
+ 
+nivel<00:07:03.199><c> lección</c><00:07:03.639><c> cinco</c><00:07:04.360><c> copiar</c><00:07:04.800><c> fórmulas</c>
+
+00:07:07.309 --> 00:07:07.319 align:start position:0%
+nivel lección cinco copiar fórmulas
+ 
+
+00:07:07.319 --> 00:07:09.430 align:start position:0%
+nivel lección cinco copiar fórmulas
+ahora<00:07:07.800><c> teniendo</c><00:07:08.120><c> ya</c><00:07:08.319><c> esta</c><00:07:08.520><c> fórmula</c><00:07:09.080><c> de</c><00:07:09.280><c> la</c>
+
+00:07:09.430 --> 00:07:09.440 align:start position:0%
+ahora teniendo ya esta fórmula de la
+ 
+
+00:07:09.440 --> 00:07:12.150 align:start position:0%
+ahora teniendo ya esta fórmula de la
+lección<00:07:09.919><c> cuatro</c><00:07:10.919><c> podemos</c><00:07:11.319><c> copiarla</c><00:07:11.919><c> para</c>
+
+00:07:12.150 --> 00:07:12.160 align:start position:0%
+lección cuatro podemos copiarla para
+ 
+
+00:07:12.160 --> 00:07:15.270 align:start position:0%
+lección cuatro podemos copiarla para
+realizar<00:07:12.680><c> otras</c><00:07:13.319><c> consultas</c><00:07:14.319><c> por</c><00:07:14.520><c> ejemplo</c><00:07:15.120><c> en</c>
+
+00:07:15.270 --> 00:07:15.280 align:start position:0%
+realizar otras consultas por ejemplo en
+ 
+
+00:07:15.280 --> 00:07:18.029 align:start position:0%
+realizar otras consultas por ejemplo en
+la<00:07:15.479><c> celda</c><00:07:16.000><c> A2</c><00:07:16.639><c> vamos</c><00:07:16.840><c> a</c><00:07:17.000><c> copiar</c><00:07:17.319><c> el</c><00:07:17.479><c> código</c><00:07:17.840><c> de</c>
+
+00:07:18.029 --> 00:07:18.039 align:start position:0%
+la celda A2 vamos a copiar el código de
+ 
+
+00:07:18.039 --> 00:07:20.830 align:start position:0%
+la celda A2 vamos a copiar el código de
+la<00:07:18.199><c> cuenta</c><00:07:18.800><c> de</c><00:07:19.039><c> banco</c><00:07:19.639><c> la</c><00:07:19.840><c> cuenta</c>
+
+00:07:20.830 --> 00:07:20.840 align:start position:0%
+la cuenta de banco la cuenta
+ 
+
+00:07:20.840 --> 00:07:24.070 align:start position:0%
+la cuenta de banco la cuenta
+1110<00:07:21.840><c> y</c><00:07:21.960><c> en</c><00:07:22.080><c> la</c><00:07:22.240><c> celda</c><00:07:22.680><c> A3</c><00:07:23.280><c> vamos</c><00:07:23.479><c> a</c><00:07:23.639><c> copiar</c><00:07:23.919><c> el</c>
+
+00:07:24.070 --> 00:07:24.080 align:start position:0%
+1110 y en la celda A3 vamos a copiar el
+ 
+
+00:07:24.080 --> 00:07:26.589 align:start position:0%
+1110 y en la celda A3 vamos a copiar el
+código<00:07:24.560><c> de</c><00:07:24.720><c> la</c><00:07:24.879><c> cuenta</c><00:07:25.160><c> de</c><00:07:25.360><c> ahorro</c><00:07:25.919><c> la</c><00:07:26.080><c> cuenta</c>
+
+00:07:26.589 --> 00:07:26.599 align:start position:0%
+código de la cuenta de ahorro la cuenta
+ 
+
+00:07:26.599 --> 00:07:30.309 align:start position:0%
+código de la cuenta de ahorro la cuenta
+1120<00:07:27.720><c> ahora</c><00:07:28.240><c> vamos</c><00:07:28.479><c> a</c><00:07:28.680><c> proceder</c><00:07:29.160><c> a</c><00:07:29.400><c> copiar</c><00:07:30.120><c> en</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+1120 ahora vamos a proceder a copiar en
+ 
+
+00:07:30.319 --> 00:07:34.070 align:start position:0%
+1120 ahora vamos a proceder a copiar en
+la<00:07:30.479><c> celda</c><00:07:30.879><c> B2</c><00:07:31.360><c> y</c><00:07:31.520><c> en</c><00:07:31.680><c> la</c><00:07:31.800><c> celda</c><00:07:32.240><c> B3</c><00:07:33.240><c> la</c><00:07:33.479><c> función</c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+la celda B2 y en la celda B3 la función
+ 
+
+00:07:34.080 --> 00:07:37.510 align:start position:0%
+la celda B2 y en la celda B3 la función
+que<00:07:34.360><c> tenemos</c><00:07:34.759><c> en</c><00:07:34.919><c> la</c><00:07:35.080><c> celda</c><00:07:35.599><c> B1</c><00:07:36.599><c> con</c><00:07:36.840><c> el</c><00:07:37.000><c> fin</c><00:07:37.319><c> de</c>
+
+00:07:37.510 --> 00:07:37.520 align:start position:0%
+que tenemos en la celda B1 con el fin de
+ 
+
+00:07:37.520 --> 00:07:41.070 align:start position:0%
+que tenemos en la celda B1 con el fin de
+realizar<00:07:38.240><c> esta</c><00:07:38.520><c> misma</c><00:07:39.120><c> consulta</c><00:07:40.120><c> para</c><00:07:40.759><c> estas</c>
+
+00:07:41.070 --> 00:07:41.080 align:start position:0%
+realizar esta misma consulta para estas
+ 
+
+00:07:41.080 --> 00:07:45.469 align:start position:0%
+realizar esta misma consulta para estas
+dos<00:07:41.759><c> cuentas</c><00:07:42.759><c> entonces</c><00:07:43.080><c> damos</c><00:07:43.639><c> control</c><00:07:44.479><c> C</c>
+
+00:07:45.469 --> 00:07:45.479 align:start position:0%
+dos cuentas entonces damos control C
+ 
+
+00:07:45.479 --> 00:07:49.070 align:start position:0%
+dos cuentas entonces damos control C
+control<00:07:45.960><c> V</c><00:07:46.639><c> sobre</c><00:07:47.000><c> estas</c><00:07:47.319><c> celdas</c>
+
+00:07:49.070 --> 00:07:49.080 align:start position:0%
+control V sobre estas celdas
+ 
+
+00:07:49.080 --> 00:07:52.149 align:start position:0%
+control V sobre estas celdas
+miremos<00:07:50.000><c> como</c><00:07:50.400><c> esta</c><00:07:50.759><c> misma</c><00:07:51.199><c> consulta</c><00:07:51.879><c> del</c>
+
+00:07:52.149 --> 00:07:52.159 align:start position:0%
+miremos como esta misma consulta del
+ 
+
+00:07:52.159 --> 00:07:55.350 align:start position:0%
+miremos como esta misma consulta del
+saldo<00:07:52.479><c> de</c><00:07:52.759><c> cuenta</c><00:07:53.759><c> sobre</c><00:07:54.080><c> la</c><00:07:54.280><c> cuenta</c><00:07:54.599><c> de</c><00:07:54.840><c> caja</c>
+
+00:07:55.350 --> 00:07:55.360 align:start position:0%
+saldo de cuenta sobre la cuenta de caja
+ 
+
+00:07:55.360 --> 00:07:59.110 align:start position:0%
+saldo de cuenta sobre la cuenta de caja
+que<00:07:55.599><c> realizamos</c><00:07:56.400><c> en</c><00:07:56.560><c> la</c><00:07:56.759><c> celda</c><00:07:57.599><c> B1</c><00:07:58.599><c> también</c><00:07:58.960><c> se</c>
+
+00:07:59.110 --> 00:07:59.120 align:start position:0%
+que realizamos en la celda B1 también se
+ 
+
+00:07:59.120 --> 00:08:01.469 align:start position:0%
+que realizamos en la celda B1 también se
+nos<00:07:59.280><c> ha</c><00:07:59.440><c> copiado</c><00:07:59.960><c> para</c><00:08:00.159><c> la</c><00:08:00.360><c> celda</c><00:08:00.639><c> B2</c><00:08:01.120><c> y</c><00:08:01.319><c> la</c>
+
+00:08:01.469 --> 00:08:01.479 align:start position:0%
+nos ha copiado para la celda B2 y la
+ 
+
+00:08:01.479 --> 00:08:02.510 align:start position:0%
+nos ha copiado para la celda B2 y la
+celda
+
+00:08:02.510 --> 00:08:02.520 align:start position:0%
+celda
+ 
+
+00:08:02.520 --> 00:08:08.350 align:start position:0%
+celda
+B3<00:08:03.520><c> cuenta</c><00:08:04.400><c> de</c><00:08:04.720><c> banco</c><00:08:05.159><c> y</c><00:08:05.400><c> cuenta</c><00:08:05.759><c> de</c><00:08:05.919><c> ahorro</c>
+
+00:08:08.350 --> 00:08:08.360 align:start position:0%
+B3 cuenta de banco y cuenta de ahorro
+ 
+
+00:08:08.360 --> 00:08:10.309 align:start position:0%
+B3 cuenta de banco y cuenta de ahorro
+miremos<00:08:08.720><c> que</c><00:08:08.879><c> a</c><00:08:09.000><c> través</c><00:08:09.199><c> de</c><00:08:09.360><c> contex</c><00:08:09.919><c> adin</c>
+
+00:08:10.309 --> 00:08:10.319 align:start position:0%
+miremos que a través de contex adin
+ 
+
+00:08:10.319 --> 00:08:11.830 align:start position:0%
+miremos que a través de contex adin
+también<00:08:10.680><c> podemos</c><00:08:11.000><c> copiar</c><00:08:11.360><c> fórmulas</c>
+
+00:08:11.830 --> 00:08:11.840 align:start position:0%
+también podemos copiar fórmulas
+ 
+
+00:08:11.840 --> 00:08:13.950 align:start position:0%
+también podemos copiar fórmulas
+relativas<00:08:12.319><c> sin</c><00:08:12.520><c> ningún</c><00:08:12.800><c> inconveniente</c><00:08:13.759><c> tal</c>
+
+00:08:13.950 --> 00:08:13.960 align:start position:0%
+relativas sin ningún inconveniente tal
+ 
+
+00:08:13.960 --> 00:08:17.950 align:start position:0%
+relativas sin ningún inconveniente tal
+como<00:08:14.120><c> lo</c><00:08:14.280><c> hacemos</c><00:08:14.599><c> en</c><00:08:14.800><c> Excel</c>
+
+00:08:17.950 --> 00:08:17.960 align:start position:0%
+ 
+ 
+
+00:08:17.960 --> 00:08:22.110 align:start position:0%
+ 
+normalmente<00:08:18.960><c> lección</c><00:08:19.400><c> seis</c><00:08:19.960><c> definición</c><00:08:20.599><c> de</c>
+
+00:08:22.110 --> 00:08:22.120 align:start position:0%
+normalmente lección seis definición de
+ 
+
+00:08:22.120 --> 00:08:24.430 align:start position:0%
+normalmente lección seis definición de
+parámetros<00:08:23.120><c> como</c><00:08:23.400><c> decíamos</c><00:08:24.000><c> desde</c><00:08:24.280><c> la</c>
+
+00:08:24.430 --> 00:08:24.440 align:start position:0%
+parámetros como decíamos desde la
+ 
+
+00:08:24.440 --> 00:08:26.950 align:start position:0%
+parámetros como decíamos desde la
+lección<00:08:25.039><c> uno</c><00:08:25.639><c> sobre</c><00:08:25.919><c> la</c><00:08:26.080><c> consulta</c><00:08:26.479><c> del</c><00:08:26.680><c> saldo</c>
+
+00:08:26.950 --> 00:08:26.960 align:start position:0%
+lección uno sobre la consulta del saldo
+ 
+
+00:08:26.960 --> 00:08:29.510 align:start position:0%
+lección uno sobre la consulta del saldo
+de<00:08:27.080><c> una</c><00:08:27.280><c> cuenta</c><00:08:27.879><c> podemos</c><00:08:28.280><c> definir</c><00:08:28.879><c> diferentes</c>
+
+00:08:29.510 --> 00:08:29.520 align:start position:0%
+de una cuenta podemos definir diferentes
+ 
+
+00:08:29.520 --> 00:08:32.190 align:start position:0%
+de una cuenta podemos definir diferentes
+parámetros<00:08:30.840><c> por</c><00:08:31.000><c> ejemplo</c><00:08:31.520><c> podemos</c><00:08:31.879><c> definir</c>
+
+00:08:32.190 --> 00:08:32.200 align:start position:0%
+parámetros por ejemplo podemos definir
+ 
+
+00:08:32.200 --> 00:08:34.670 align:start position:0%
+parámetros por ejemplo podemos definir
+la<00:08:32.399><c> fecha</c><00:08:32.800><c> a</c><00:08:32.959><c> la</c><00:08:33.080><c> cual</c><00:08:33.240><c> queremos</c><00:08:33.640><c> realizar</c><00:08:34.440><c> la</c>
+
+00:08:34.670 --> 00:08:34.680 align:start position:0%
+la fecha a la cual queremos realizar la
+ 
+
+00:08:34.680 --> 00:08:36.709 align:start position:0%
+la fecha a la cual queremos realizar la
+consulta<00:08:35.120><c> del</c>
+
+00:08:36.709 --> 00:08:36.719 align:start position:0%
+consulta del
+ 
+
+00:08:36.719 --> 00:08:40.430 align:start position:0%
+consulta del
+saldo<00:08:37.719><c> en</c><00:08:37.880><c> la</c><00:08:38.080><c> celda</c><00:08:38.680><c> B1</c><00:08:39.599><c> vamos</c><00:08:39.800><c> a</c><00:08:39.919><c> involucrar</c>
+
+00:08:40.430 --> 00:08:40.440 align:start position:0%
+saldo en la celda B1 vamos a involucrar
+ 
+
+00:08:40.440 --> 00:08:43.750 align:start position:0%
+saldo en la celda B1 vamos a involucrar
+la<00:08:40.680><c> fecha</c><00:08:41.360><c> a</c><00:08:41.560><c> la</c><00:08:41.719><c> cual</c><00:08:42.200><c> deseamos</c><00:08:42.719><c> realizar</c><00:08:43.159><c> la</c>
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+la fecha a la cual deseamos realizar la
+ 
+
+00:08:43.760 --> 00:08:47.550 align:start position:0%
+la fecha a la cual deseamos realizar la
+consulta<00:08:44.760><c> por</c><00:08:44.959><c> ejemplo</c><00:08:45.720><c> vamos</c><00:08:45.959><c> a</c><00:08:46.560><c> realizarla</c>
+
+00:08:47.550 --> 00:08:47.560 align:start position:0%
+consulta por ejemplo vamos a realizarla
+ 
+
+00:08:47.560 --> 00:08:52.670 align:start position:0%
+consulta por ejemplo vamos a realizarla
+a<00:08:47.800><c> 31</c><00:08:48.720><c> de</c><00:08:48.959><c> marzo</c><00:08:49.839><c> del</c><00:08:50.120><c> año</c><00:08:50.399><c> 2005</c>
+
+00:08:52.670 --> 00:08:52.680 align:start position:0%
+a 31 de marzo del año 2005
+ 
+
+00:08:52.680 --> 00:08:55.550 align:start position:0%
+a 31 de marzo del año 2005
+en<00:08:52.800><c> la</c><00:08:53.000><c> celda</c><00:08:53.480><c> A2</c><00:08:54.360><c> vamos</c><00:08:54.600><c> a</c><00:08:54.760><c> copiar</c><00:08:55.080><c> el</c><00:08:55.240><c> código</c>
+
+00:08:55.550 --> 00:08:55.560 align:start position:0%
+en la celda A2 vamos a copiar el código
+ 
+
+00:08:55.560 --> 00:08:57.949 align:start position:0%
+en la celda A2 vamos a copiar el código
+de<00:08:55.720><c> la</c><00:08:55.839><c> cuenta</c><00:08:56.519><c> sobre</c><00:08:56.800><c> la</c><00:08:57.000><c> cual</c><00:08:57.440><c> deseamos</c>
+
+00:08:57.949 --> 00:08:57.959 align:start position:0%
+de la cuenta sobre la cual deseamos
+ 
+
+00:08:57.959 --> 00:09:00.870 align:start position:0%
+de la cuenta sobre la cual deseamos
+realizar<00:08:58.600><c> la</c><00:08:58.880><c> consulta</c><00:08:59.279><c> del</c><00:08:59.560><c> saldo</c><00:09:00.519><c> vamos</c><00:09:00.720><c> a</c>
+
+00:09:00.870 --> 00:09:00.880 align:start position:0%
+realizar la consulta del saldo vamos a
+ 
+
+00:09:00.880 --> 00:09:04.030 align:start position:0%
+realizar la consulta del saldo vamos a
+tomar<00:09:01.120><c> como</c><00:09:01.320><c> ejemplo</c><00:09:01.839><c> la</c><00:09:02.000><c> cuenta</c><00:09:02.320><c> de</c><00:09:02.800><c> caja</c><00:09:03.800><c> la</c>
+
+00:09:04.030 --> 00:09:04.040 align:start position:0%
+tomar como ejemplo la cuenta de caja la
+ 
+
+00:09:04.040 --> 00:09:06.269 align:start position:0%
+tomar como ejemplo la cuenta de caja la
+cuenta
+
+00:09:06.269 --> 00:09:06.279 align:start position:0%
+cuenta
+ 
+
+00:09:06.279 --> 00:09:10.269 align:start position:0%
+cuenta
+1105<00:09:07.279><c> y</c><00:09:07.440><c> en</c><00:09:07.600><c> la</c><00:09:07.760><c> celda</c><00:09:08.360><c> B2</c><00:09:09.360><c> vamos</c><00:09:09.640><c> a</c><00:09:09.800><c> escribir</c>
+
+00:09:10.269 --> 00:09:10.279 align:start position:0%
+1105 y en la celda B2 vamos a escribir
+ 
+
+00:09:10.279 --> 00:09:11.110 align:start position:0%
+1105 y en la celda B2 vamos a escribir
+la
+
+00:09:11.110 --> 00:09:11.120 align:start position:0%
+la
+ 
+
+00:09:11.120 --> 00:09:15.150 align:start position:0%
+la
+función<00:09:12.120><c> saldo</c><00:09:12.880><c> cuenta</c><00:09:13.880><c> para</c><00:09:14.560><c> que</c><00:09:14.720><c> nos</c><00:09:14.920><c> llame</c>
+
+00:09:15.150 --> 00:09:15.160 align:start position:0%
+función saldo cuenta para que nos llame
+ 
+
+00:09:15.160 --> 00:09:17.350 align:start position:0%
+función saldo cuenta para que nos llame
+el<00:09:15.279><c> saldo</c><00:09:15.600><c> de</c><00:09:15.760><c> la</c><00:09:15.880><c> cuenta</c><00:09:16.600><c> de</c>
+
+00:09:17.350 --> 00:09:17.360 align:start position:0%
+el saldo de la cuenta de
+ 
+
+00:09:17.360 --> 00:09:21.190 align:start position:0%
+el saldo de la cuenta de
+caja<00:09:18.440><c> entre</c><00:09:18.760><c> paréntesis</c><00:09:19.760><c> vamos</c><00:09:20.040><c> a</c><00:09:20.200><c> llamar</c><00:09:20.959><c> la</c>
+
+00:09:21.190 --> 00:09:21.200 align:start position:0%
+caja entre paréntesis vamos a llamar la
+ 
+
+00:09:21.200 --> 00:09:23.389 align:start position:0%
+caja entre paréntesis vamos a llamar la
+celda<00:09:21.519><c> que</c><00:09:21.720><c> contiene</c><00:09:22.560><c> el</c><00:09:22.760><c> código</c><00:09:23.120><c> de</c><00:09:23.240><c> la</c>
+
+00:09:23.389 --> 00:09:23.399 align:start position:0%
+celda que contiene el código de la
+ 
+
+00:09:23.399 --> 00:09:25.710 align:start position:0%
+celda que contiene el código de la
+cuenta<00:09:23.720><c> que</c><00:09:23.920><c> deseamos</c>
+
+00:09:25.710 --> 00:09:25.720 align:start position:0%
+cuenta que deseamos
+ 
+
+00:09:25.720 --> 00:09:28.550 align:start position:0%
+cuenta que deseamos
+consultar<00:09:26.720><c> y</c><00:09:26.920><c> ahora</c><00:09:27.560><c> también</c><00:09:28.160><c> vamos</c><00:09:28.399><c> a</c>
+
+00:09:28.550 --> 00:09:28.560 align:start position:0%
+consultar y ahora también vamos a
+ 
+
+00:09:28.560 --> 00:09:30.910 align:start position:0%
+consultar y ahora también vamos a
+involucrar<00:09:29.519><c> la</c><00:09:29.760><c> fecha</c><00:09:30.200><c> sobre</c><00:09:30.519><c> la</c><00:09:30.680><c> cual</c>
+
+00:09:30.910 --> 00:09:30.920 align:start position:0%
+involucrar la fecha sobre la cual
+ 
+
+00:09:30.920 --> 00:09:35.790 align:start position:0%
+involucrar la fecha sobre la cual
+deseamos<00:09:31.480><c> realizar</c><00:09:32.079><c> la</c>
+
+00:09:35.790 --> 00:09:35.800 align:start position:0%
+ 
+ 
+
+00:09:35.800 --> 00:09:38.269 align:start position:0%
+ 
+consulta<00:09:36.800><c> miremos</c><00:09:37.160><c> que</c><00:09:37.320><c> esta</c><00:09:37.519><c> función</c><00:09:38.079><c> ya</c>
+
+00:09:38.269 --> 00:09:38.279 align:start position:0%
+consulta miremos que esta función ya
+ 
+
+00:09:38.279 --> 00:09:40.750 align:start position:0%
+consulta miremos que esta función ya
+tiene<00:09:38.560><c> definido</c><00:09:39.240><c> dos</c>
+
+00:09:40.750 --> 00:09:40.760 align:start position:0%
+tiene definido dos
+ 
+
+00:09:40.760 --> 00:09:44.190 align:start position:0%
+tiene definido dos
+parámetros<00:09:41.760><c> uno</c><00:09:42.519><c> es</c><00:09:42.760><c> el</c><00:09:42.920><c> código</c><00:09:43.279><c> de</c><00:09:43.440><c> la</c><00:09:43.600><c> cuenta</c>
+
+00:09:44.190 --> 00:09:44.200 align:start position:0%
+parámetros uno es el código de la cuenta
+ 
+
+00:09:44.200 --> 00:09:46.350 align:start position:0%
+parámetros uno es el código de la cuenta
+sobre<00:09:44.480><c> el</c><00:09:44.640><c> cual</c><00:09:45.279><c> estamos</c><00:09:45.600><c> realizando</c><00:09:46.120><c> la</c>
+
+00:09:46.350 --> 00:09:46.360 align:start position:0%
+sobre el cual estamos realizando la
+ 
+
+00:09:46.360 --> 00:09:47.829 align:start position:0%
+sobre el cual estamos realizando la
+consulta
+
+00:09:47.829 --> 00:09:47.839 align:start position:0%
+consulta
+ 
+
+00:09:47.839 --> 00:09:51.269 align:start position:0%
+consulta
+la<00:09:48.040><c> cual</c><00:09:48.240><c> se</c><00:09:48.440><c> encuentra</c><00:09:48.920><c> en</c><00:09:49.079><c> la</c><00:09:49.240><c> celda</c><00:09:49.959><c> A2</c><00:09:50.959><c> y</c><00:09:51.120><c> el</c>
+
+00:09:51.269 --> 00:09:51.279 align:start position:0%
+la cual se encuentra en la celda A2 y el
+ 
+
+00:09:51.279 --> 00:09:54.310 align:start position:0%
+la cual se encuentra en la celda A2 y el
+otro<00:09:51.560><c> parámetro</c><00:09:52.279><c> es</c><00:09:52.480><c> la</c><00:09:52.680><c> fecha</c><00:09:53.519><c> a</c><00:09:53.720><c> la</c><00:09:53.839><c> cual</c>
+
+00:09:54.310 --> 00:09:54.320 align:start position:0%
+otro parámetro es la fecha a la cual
+ 
+
+00:09:54.320 --> 00:09:56.550 align:start position:0%
+otro parámetro es la fecha a la cual
+estamos<00:09:54.640><c> realizando</c><00:09:55.160><c> la</c><00:09:55.360><c> consulta</c><00:09:56.160><c> la</c><00:09:56.320><c> cual</c>
+
+00:09:56.550 --> 00:09:56.560 align:start position:0%
+estamos realizando la consulta la cual
+ 
+
+00:09:56.560 --> 00:10:00.269 align:start position:0%
+estamos realizando la consulta la cual
+se<00:09:56.760><c> encuentra</c><00:09:57.240><c> en</c><00:09:57.440><c> la</c><00:09:57.600><c> celda</c>
+
+00:10:00.269 --> 00:10:00.279 align:start position:0%
+ 
+ 
+
+00:10:00.279 --> 00:10:02.790 align:start position:0%
+ 
+B1<00:10:01.279><c> visualicemos</c><00:10:02.000><c> que</c><00:10:02.200><c> si</c><00:10:02.360><c> nosotros</c>
+
+00:10:02.790 --> 00:10:02.800 align:start position:0%
+B1 visualicemos que si nosotros
+ 
+
+00:10:02.800 --> 00:10:06.110 align:start position:0%
+B1 visualicemos que si nosotros
+cambiamos<00:10:03.640><c> la</c><00:10:03.880><c> fecha</c><00:10:04.200><c> de</c><00:10:04.600><c> trabajo</c><00:10:05.600><c> sobre</c><00:10:05.880><c> la</c>
+
+00:10:06.110 --> 00:10:06.120 align:start position:0%
+cambiamos la fecha de trabajo sobre la
+ 
+
+00:10:06.120 --> 00:10:08.190 align:start position:0%
+cambiamos la fecha de trabajo sobre la
+consulta<00:10:06.600><c> que</c><00:10:06.800><c> estamos</c><00:10:07.079><c> realizando</c><00:10:07.839><c> ya</c><00:10:08.040><c> no</c>
+
+00:10:08.190 --> 00:10:08.200 align:start position:0%
+consulta que estamos realizando ya no
+ 
+
+00:10:08.200 --> 00:10:11.230 align:start position:0%
+consulta que estamos realizando ya no
+nos<00:10:08.399><c> pasa</c><00:10:08.760><c> nada</c><00:10:09.680><c> ¿por</c><00:10:09.880><c> qué</c><00:10:10.320><c> porque</c><00:10:10.600><c> nosotros</c>
+
+00:10:11.230 --> 00:10:11.240 align:start position:0%
+nos pasa nada ¿por qué porque nosotros
+ 
+
+00:10:11.240 --> 00:10:13.910 align:start position:0%
+nos pasa nada ¿por qué porque nosotros
+ya<00:10:11.440><c> hemos</c><00:10:11.800><c> definido</c><00:10:12.480><c> un</c><00:10:12.720><c> parámetro</c><00:10:13.440><c> dentro</c><00:10:13.720><c> de</c>
+
+00:10:13.910 --> 00:10:13.920 align:start position:0%
+ya hemos definido un parámetro dentro de
+ 
+
+00:10:13.920 --> 00:10:15.550 align:start position:0%
+ya hemos definido un parámetro dentro de
+la<00:10:14.040><c> función</c>
+
+00:10:15.550 --> 00:10:15.560 align:start position:0%
+la función
+ 
+
+00:10:15.560 --> 00:10:17.910 align:start position:0%
+la función
+ahora<00:10:16.000><c> si</c><00:10:16.240><c> nosotros</c><00:10:16.640><c> cambiamos</c><00:10:17.120><c> la</c><00:10:17.320><c> fecha</c><00:10:17.760><c> que</c>
+
+00:10:17.910 --> 00:10:17.920 align:start position:0%
+ahora si nosotros cambiamos la fecha que
+ 
+
+00:10:17.920 --> 00:10:22.509 align:start position:0%
+ahora si nosotros cambiamos la fecha que
+le<00:10:18.120><c> hemos</c><00:10:18.440><c> definido</c><00:10:19.360><c> por</c><00:10:19.600><c> ejemplo</c><00:10:20.600><c> por</c><00:10:21.320><c> 31</c><00:10:22.320><c> de</c>
+
+00:10:22.509 --> 00:10:22.519 align:start position:0%
+le hemos definido por ejemplo por 31 de
+ 
+
+00:10:22.519 --> 00:10:24.990 align:start position:0%
+le hemos definido por ejemplo por 31 de
+diciembre<00:10:23.240><c> del</c><00:10:23.480><c> año</c>
+
+00:10:24.990 --> 00:10:25.000 align:start position:0%
+diciembre del año
+ 
+
+00:10:25.000 --> 00:10:28.110 align:start position:0%
+diciembre del año
+2005<00:10:26.000><c> visualicemos</c><00:10:26.720><c> que</c><00:10:26.920><c> inmediatamente</c><00:10:27.880><c> el</c>
+
+00:10:28.110 --> 00:10:28.120 align:start position:0%
+2005 visualicemos que inmediatamente el
+ 
+
+00:10:28.120 --> 00:10:31.829 align:start position:0%
+2005 visualicemos que inmediatamente el
+saldo<00:10:28.680><c> sí</c><00:10:28.839><c> nos</c><00:10:29.560><c> cambia</c><00:10:30.560><c> ahora</c><00:10:31.160><c> la</c><00:10:31.399><c> definición</c>
+
+00:10:31.829 --> 00:10:31.839 align:start position:0%
+saldo sí nos cambia ahora la definición
+ 
+
+00:10:31.839 --> 00:10:35.710 align:start position:0%
+saldo sí nos cambia ahora la definición
+de<00:10:32.079><c> parámetros</c><00:10:33.000><c> también</c><00:10:33.360><c> la</c><00:10:33.600><c> podemos</c><00:10:34.079><c> hacer</c><00:10:34.880><c> a</c>
+
+00:10:35.710 --> 00:10:35.720 align:start position:0%
+de parámetros también la podemos hacer a
+ 
+
+00:10:35.720 --> 00:10:39.190 align:start position:0%
+de parámetros también la podemos hacer a
+través<00:10:36.720><c> de</c><00:10:37.000><c> insertar</c><00:10:37.560><c> función</c><00:10:38.519><c> la</c><00:10:38.720><c> opción</c><00:10:39.040><c> que</c>
+
+00:10:39.190 --> 00:10:39.200 align:start position:0%
+través de insertar función la opción que
+ 
+
+00:10:39.200 --> 00:10:42.870 align:start position:0%
+través de insertar función la opción que
+pone<00:10:39.399><c> a</c><00:10:39.760><c> disposición</c><00:10:40.760><c> Excel</c><00:10:41.880><c> miremos</c><00:10:42.480><c> cómo</c><00:10:42.680><c> al</c>
+
+00:10:42.870 --> 00:10:42.880 align:start position:0%
+pone a disposición Excel miremos cómo al
+ 
+
+00:10:42.880 --> 00:10:46.069 align:start position:0%
+pone a disposición Excel miremos cómo al
+dar<00:10:43.120><c> clic</c><00:10:43.519><c> allí</c><00:10:44.240><c> se</c><00:10:44.399><c> nos</c><00:10:44.600><c> abre</c><00:10:44.800><c> el</c><00:10:45.079><c> asistente</c>
+
+00:10:46.069 --> 00:10:46.079 align:start position:0%
+dar clic allí se nos abre el asistente
+ 
+
+00:10:46.079 --> 00:10:48.629 align:start position:0%
+dar clic allí se nos abre el asistente
+para<00:10:46.600><c> definición</c><00:10:47.120><c> de</c>
+
+00:10:48.629 --> 00:10:48.639 align:start position:0%
+para definición de
+ 
+
+00:10:48.639 --> 00:10:51.590 align:start position:0%
+para definición de
+parámetros<00:10:49.639><c> esto</c><00:10:50.120><c> es</c><00:10:50.399><c> muestra</c><00:10:50.920><c> de</c><00:10:51.120><c> la</c><00:10:51.240><c> total</c>
+
+00:10:51.590 --> 00:10:51.600 align:start position:0%
+parámetros esto es muestra de la total
+ 
+
+00:10:51.600 --> 00:10:54.350 align:start position:0%
+parámetros esto es muestra de la total
+integración<00:10:52.360><c> que</c><00:10:52.720><c> tenemos</c><00:10:53.360><c> entre</c><00:10:53.639><c> Excel</c><00:10:54.040><c> y</c>
+
+00:10:54.350 --> 00:10:54.360 align:start position:0%
+integración que tenemos entre Excel y
+ 
+
+00:10:54.360 --> 00:10:57.990 align:start position:0%
+integración que tenemos entre Excel y
+contra<00:10:54.560><c> Excel</c>
+
+00:10:57.990 --> 00:10:58.000 align:start position:0%
+ 
+ 
+
+00:10:58.000 --> 00:11:01.350 align:start position:0%
+ 
+ad<00:10:59.000><c> en</c><00:10:59.200><c> conclusión</c><00:11:00.200><c> a</c><00:11:00.399><c> una</c><00:11:00.639><c> función</c><00:11:01.120><c> le</c>
+
+00:11:01.350 --> 00:11:01.360 align:start position:0%
+ad en conclusión a una función le
+ 
+
+00:11:01.360 --> 00:11:03.710 align:start position:0%
+ad en conclusión a una función le
+podemos<00:11:01.720><c> definir</c><00:11:02.279><c> varios</c><00:11:02.680><c> parámetros</c><00:11:03.440><c> según</c>
+
+00:11:03.710 --> 00:11:03.720 align:start position:0%
+podemos definir varios parámetros según
+ 
+
+00:11:03.720 --> 00:11:05.590 align:start position:0%
+podemos definir varios parámetros según
+las<00:11:03.920><c> necesidades</c><00:11:04.440><c> que</c><00:11:04.639><c> presentemos</c><00:11:05.320><c> para</c>
+
+00:11:05.590 --> 00:11:05.600 align:start position:0%
+las necesidades que presentemos para
+ 
+
+00:11:05.600 --> 00:11:09.430 align:start position:0%
+las necesidades que presentemos para
+realizar<00:11:06.200><c> la</c><00:11:06.480><c> consulta</c>
+
+00:11:09.430 --> 00:11:09.440 align:start position:0%
+realizar la consulta
+ 
+
+00:11:09.440 --> 00:11:12.870 align:start position:0%
+realizar la consulta
+lección<00:11:09.920><c> siete</c><00:11:10.600><c> definición</c><00:11:11.200><c> de</c><00:11:11.399><c> múltiples</c>
+
+00:11:12.870 --> 00:11:12.880 align:start position:0%
+lección siete definición de múltiples
+ 
+
+00:11:12.880 --> 00:11:15.269 align:start position:0%
+lección siete definición de múltiples
+parámetros<00:11:13.880><c> ahora</c><00:11:14.320><c> vamos</c><00:11:14.519><c> a</c><00:11:14.720><c> realizar</c><00:11:15.079><c> un</c>
+
+00:11:15.269 --> 00:11:15.279 align:start position:0%
+parámetros ahora vamos a realizar un
+ 
+
+00:11:15.279 --> 00:11:17.550 align:start position:0%
+parámetros ahora vamos a realizar un
+ejemplo<00:11:15.760><c> en</c><00:11:15.920><c> donde</c><00:11:16.160><c> se</c><00:11:16.279><c> hará</c><00:11:16.519><c> más</c><00:11:16.760><c> notoria</c><00:11:17.320><c> la</c>
+
+00:11:17.550 --> 00:11:17.560 align:start position:0%
+ejemplo en donde se hará más notoria la
+ 
+
+00:11:17.560 --> 00:11:21.750 align:start position:0%
+ejemplo en donde se hará más notoria la
+definición<00:11:18.240><c> de</c><00:11:18.440><c> múltiples</c><00:11:18.959><c> parámetros</c>
+
+00:11:21.750 --> 00:11:21.760 align:start position:0%
+definición de múltiples parámetros
+ 
+
+00:11:21.760 --> 00:11:23.870 align:start position:0%
+definición de múltiples parámetros
+vamos<00:11:22.120><c> a</c><00:11:22.320><c> definir</c><00:11:22.880><c> como</c>
+
+00:11:23.870 --> 00:11:23.880 align:start position:0%
+vamos a definir como
+ 
+
+00:11:23.880 --> 00:11:26.710 align:start position:0%
+vamos a definir como
+parámetro<00:11:24.880><c> la</c><00:11:25.160><c> cuenta</c><00:11:25.760><c> sobre</c><00:11:26.040><c> la</c><00:11:26.200><c> cual</c><00:11:26.519><c> vamos</c>
+
+00:11:26.710 --> 00:11:26.720 align:start position:0%
+parámetro la cuenta sobre la cual vamos
+ 
+
+00:11:26.720 --> 00:11:30.389 align:start position:0%
+parámetro la cuenta sobre la cual vamos
+a<00:11:26.920><c> consultar</c><00:11:27.440><c> el</c><00:11:27.920><c> saldo</c><00:11:28.920><c> la</c><00:11:29.200><c> fecha</c><00:11:29.880><c> a</c><00:11:30.040><c> la</c><00:11:30.160><c> cual</c>
+
+00:11:30.389 --> 00:11:30.399 align:start position:0%
+a consultar el saldo la fecha a la cual
+ 
+
+00:11:30.399 --> 00:11:33.350 align:start position:0%
+a consultar el saldo la fecha a la cual
+realizamos<00:11:30.920><c> la</c><00:11:31.360><c> consulta</c><00:11:32.360><c> y</c><00:11:32.720><c> un</c><00:11:32.920><c> nuevo</c>
+
+00:11:33.350 --> 00:11:33.360 align:start position:0%
+realizamos la consulta y un nuevo
+ 
+
+00:11:33.360 --> 00:11:36.590 align:start position:0%
+realizamos la consulta y un nuevo
+parámetro<00:11:34.120><c> llamado</c>
+
+00:11:36.590 --> 00:11:36.600 align:start position:0%
+parámetro llamado
+ 
+
+00:11:36.600 --> 00:11:38.990 align:start position:0%
+parámetro llamado
+empresa<00:11:37.600><c> es</c><00:11:37.680><c> decir</c><00:11:38.040><c> que</c><00:11:38.279><c> ahora</c><00:11:38.519><c> le</c><00:11:38.680><c> vamos</c><00:11:38.880><c> a</c>
+
+00:11:38.990 --> 00:11:39.000 align:start position:0%
+empresa es decir que ahora le vamos a
+ 
+
+00:11:39.000 --> 00:11:41.310 align:start position:0%
+empresa es decir que ahora le vamos a
+indicar<00:11:39.320><c> la</c><00:11:39.480><c> empresa</c><00:11:39.959><c> sobre</c><00:11:40.240><c> la</c><00:11:40.440><c> cual</c><00:11:41.000><c> estamos</c>
+
+00:11:41.310 --> 00:11:41.320 align:start position:0%
+indicar la empresa sobre la cual estamos
+ 
+
+00:11:41.320 --> 00:11:45.310 align:start position:0%
+indicar la empresa sobre la cual estamos
+realizando<00:11:42.160><c> la</c><00:11:42.440><c> consulta</c><00:11:43.800><c> como</c><00:11:44.079><c> último</c><00:11:45.079><c> vamos</c>
+
+00:11:45.310 --> 00:11:45.320 align:start position:0%
+realizando la consulta como último vamos
+ 
+
+00:11:45.320 --> 00:11:48.509 align:start position:0%
+realizando la consulta como último vamos
+a<00:11:45.760><c> realizar</c><00:11:46.760><c> la</c><00:11:47.000><c> consulta</c><00:11:47.720><c> del</c><00:11:47.959><c> saldo</c><00:11:48.240><c> de</c><00:11:48.399><c> la</c>
+
+00:11:48.509 --> 00:11:48.519 align:start position:0%
+a realizar la consulta del saldo de la
+ 
+
+00:11:48.519 --> 00:11:50.710 align:start position:0%
+a realizar la consulta del saldo de la
+cuenta<00:11:49.320><c> en</c><00:11:49.480><c> la</c><00:11:49.639><c> celda</c>
+
+00:11:50.710 --> 00:11:50.720 align:start position:0%
+cuenta en la celda
+ 
+
+00:11:50.720 --> 00:11:54.550 align:start position:0%
+cuenta en la celda
+B1<00:11:52.040><c> vamos</c><00:11:53.040><c> a</c><00:11:53.200><c> escribir</c><00:11:53.720><c> el</c><00:11:53.920><c> código</c><00:11:54.279><c> de</c><00:11:54.440><c> la</c>
+
+00:11:54.550 --> 00:11:54.560 align:start position:0%
+B1 vamos a escribir el código de la
+ 
+
+00:11:54.560 --> 00:11:56.870 align:start position:0%
+B1 vamos a escribir el código de la
+cuenta<00:11:55.079><c> consultada</c><00:11:56.079><c> en</c><00:11:56.240><c> este</c><00:11:56.440><c> caso</c><00:11:56.720><c> como</c>
+
+00:11:56.870 --> 00:11:56.880 align:start position:0%
+cuenta consultada en este caso como
+ 
+
+00:11:56.880 --> 00:11:58.629 align:start position:0%
+cuenta consultada en este caso como
+ejemplo<00:11:57.279><c> lo</c><00:11:57.440><c> vamos</c><00:11:57.600><c> a</c><00:11:57.760><c> realizar</c><00:11:58.200><c> sobre</c><00:11:58.440><c> la</c>
+
+00:11:58.629 --> 00:11:58.639 align:start position:0%
+ejemplo lo vamos a realizar sobre la
+ 
+
+00:11:58.639 --> 00:12:02.829 align:start position:0%
+ejemplo lo vamos a realizar sobre la
+cuenta<00:11:58.959><c> de</c><00:11:59.519><c> caja</c><00:12:00.519><c> en</c><00:12:00.639><c> fecha</c><00:12:00.920><c> de</c><00:12:01.120><c> saldo</c><00:12:01.839><c> vamos</c><00:12:02.079><c> a</c>
+
+00:12:02.829 --> 00:12:02.839 align:start position:0%
+cuenta de caja en fecha de saldo vamos a
+ 
+
+00:12:02.839 --> 00:12:05.310 align:start position:0%
+cuenta de caja en fecha de saldo vamos a
+escribir
+
+00:12:05.310 --> 00:12:05.320 align:start position:0%
+escribir
+ 
+
+00:12:05.320 --> 00:12:09.430 align:start position:0%
+escribir
+31<00:12:06.320><c> de</c><00:12:06.519><c> julio</c><00:12:07.240><c> del</c><00:12:07.480><c> año</c><00:12:07.760><c> 2005</c>
+
+00:12:09.430 --> 00:12:09.440 align:start position:0%
+31 de julio del año 2005
+ 
+
+00:12:09.440 --> 00:12:11.710 align:start position:0%
+31 de julio del año 2005
+en<00:12:09.639><c> empresa</c><00:12:10.320><c> vamos</c><00:12:10.560><c> a</c><00:12:10.760><c> definir</c><00:12:11.200><c> que</c><00:12:11.399><c> vamos</c><00:12:11.560><c> a</c>
+
+00:12:11.710 --> 00:12:11.720 align:start position:0%
+en empresa vamos a definir que vamos a
+ 
+
+00:12:11.720 --> 00:12:14.189 align:start position:0%
+en empresa vamos a definir que vamos a
+realizar<00:12:12.079><c> la</c><00:12:12.240><c> consulta</c><00:12:13.040><c> sobre</c><00:12:13.519><c> la</c><00:12:13.760><c> empresa</c>
+
+00:12:14.189 --> 00:12:14.199 align:start position:0%
+realizar la consulta sobre la empresa
+ 
+
+00:12:14.199 --> 00:12:18.230 align:start position:0%
+realizar la consulta sobre la empresa
+con<00:12:14.440><c> código</c><00:12:15.160><c> uno</c><00:12:16.160><c> y</c><00:12:16.360><c> en</c><00:12:16.519><c> saldo</c><00:12:16.920><c> cuenta</c><00:12:17.720><c> vamos</c><00:12:17.959><c> a</c>
+
+00:12:18.230 --> 00:12:18.240 align:start position:0%
+con código uno y en saldo cuenta vamos a
+ 
+
+00:12:18.240 --> 00:12:21.990 align:start position:0%
+con código uno y en saldo cuenta vamos a
+escribir<00:12:19.240><c> la</c><00:12:19.519><c> función</c><00:12:20.320><c> para</c><00:12:20.639><c> realizar</c><00:12:21.600><c> esta</c>
+
+00:12:21.990 --> 00:12:22.000 align:start position:0%
+escribir la función para realizar esta
+ 
+
+00:12:22.000 --> 00:12:25.910 align:start position:0%
+escribir la función para realizar esta
+consulta<00:12:23.199><c> entre</c><00:12:23.519><c> paréntesis</c><00:12:24.680><c> entonces</c><00:12:25.680><c> vamos</c>
+
+00:12:25.910 --> 00:12:25.920 align:start position:0%
+consulta entre paréntesis entonces vamos
+ 
+
+00:12:25.920 --> 00:12:29.150 align:start position:0%
+consulta entre paréntesis entonces vamos
+a<00:12:26.440><c> involucrar</c><00:12:27.440><c> el</c><00:12:27.720><c> código</c><00:12:28.120><c> de</c><00:12:28.320><c> la</c><00:12:28.480><c> cuenta</c>
+
+00:12:29.150 --> 00:12:29.160 align:start position:0%
+a involucrar el código de la cuenta
+ 
+
+00:12:29.160 --> 00:12:31.150 align:start position:0%
+a involucrar el código de la cuenta
+sobre<00:12:29.399><c> la</c><00:12:29.600><c> cual</c><00:12:29.920><c> estamos</c><00:12:30.199><c> realizando</c><00:12:30.639><c> la</c>
+
+00:12:31.150 --> 00:12:31.160 align:start position:0%
+sobre la cual estamos realizando la
+ 
+
+00:12:31.160 --> 00:12:34.310 align:start position:0%
+sobre la cual estamos realizando la
+consulta<00:12:32.160><c> la</c><00:12:32.440><c> fecha</c><00:12:33.240><c> a</c><00:12:33.440><c> la</c><00:12:33.560><c> cual</c><00:12:33.800><c> realizamos</c>
+
+00:12:34.310 --> 00:12:34.320 align:start position:0%
+consulta la fecha a la cual realizamos
+ 
+
+00:12:34.320 --> 00:12:37.949 align:start position:0%
+consulta la fecha a la cual realizamos
+la<00:12:34.560><c> consulta</c><00:12:35.560><c> y</c><00:12:36.079><c> la</c>
+
+00:12:37.949 --> 00:12:37.959 align:start position:0%
+la consulta y la
+ 
+
+00:12:37.959 --> 00:12:41.310 align:start position:0%
+la consulta y la
+empresa<00:12:38.959><c> ahora</c><00:12:39.399><c> no</c><00:12:39.639><c> solo</c><00:12:40.000><c> podemos</c><00:12:40.440><c> definir</c>
+
+00:12:41.310 --> 00:12:41.320 align:start position:0%
+empresa ahora no solo podemos definir
+ 
+
+00:12:41.320 --> 00:12:43.870 align:start position:0%
+empresa ahora no solo podemos definir
+empresa<00:12:42.199><c> también</c><00:12:42.519><c> podríamos</c><00:12:43.040><c> realizar</c><00:12:43.560><c> una</c>
+
+00:12:43.870 --> 00:12:43.880 align:start position:0%
+empresa también podríamos realizar una
+ 
+
+00:12:43.880 --> 00:12:46.790 align:start position:0%
+empresa también podríamos realizar una
+consulta<00:12:44.800><c> más</c><00:12:45.160><c> específica</c><00:12:45.959><c> sobre</c><00:12:46.279><c> un</c><00:12:46.480><c> centro</c>
+
+00:12:46.790 --> 00:12:46.800 align:start position:0%
+consulta más específica sobre un centro
+ 
+
+00:12:46.800 --> 00:12:49.829 align:start position:0%
+consulta más específica sobre un centro
+de<00:12:47.040><c> costos</c><00:12:47.480><c> que</c><00:12:47.639><c> le</c><00:12:47.800><c> indiquemos</c>
+
+00:12:49.829 --> 00:12:49.839 align:start position:0%
+de costos que le indiquemos
+ 
+
+00:12:49.839 --> 00:12:52.030 align:start position:0%
+de costos que le indiquemos
+miremos<00:12:50.320><c> que</c><00:12:50.519><c> si</c><00:12:50.680><c> nosotros</c><00:12:51.120><c> cambiamos</c><00:12:51.839><c> por</c>
+
+00:12:52.030 --> 00:12:52.040 align:start position:0%
+miremos que si nosotros cambiamos por
+ 
+
+00:12:52.040 --> 00:12:55.550 align:start position:0%
+miremos que si nosotros cambiamos por
+ejemplo<00:12:52.959><c> la</c><00:12:53.199><c> empresa</c><00:12:53.600><c> de</c><00:12:54.240><c> trabajo</c><00:12:55.240><c> ahora</c>
+
+00:12:55.550 --> 00:12:55.560 align:start position:0%
+ejemplo la empresa de trabajo ahora
+ 
+
+00:12:55.560 --> 00:12:58.350 align:start position:0%
+ejemplo la empresa de trabajo ahora
+vamos<00:12:55.760><c> a</c><00:12:56.000><c> definir</c><00:12:57.000><c> la</c><00:12:57.199><c> empresa</c><00:12:57.639><c> número</c><00:12:58.000><c> dos</c>
+
+00:12:58.350 --> 00:12:58.360 align:start position:0%
+vamos a definir la empresa número dos
+ 
+
+00:12:58.360 --> 00:13:01.550 align:start position:0%
+vamos a definir la empresa número dos
+tienda<00:12:59.360><c> online</c><00:13:00.360><c> no</c><00:13:00.440><c> nos</c><00:13:00.680><c> pasa</c><00:13:00.959><c> nada</c><00:13:01.199><c> con</c><00:13:01.360><c> la</c>
+
+00:13:01.550 --> 00:13:01.560 align:start position:0%
+tienda online no nos pasa nada con la
+ 
+
+00:13:01.560 --> 00:13:03.990 align:start position:0%
+tienda online no nos pasa nada con la
+consulta<00:13:02.440><c> ¿por</c><00:13:02.639><c> qué</c><00:13:03.079><c> porque</c><00:13:03.320><c> dentro</c><00:13:03.639><c> de</c><00:13:03.839><c> la</c>
+
+00:13:03.990 --> 00:13:04.000 align:start position:0%
+consulta ¿por qué porque dentro de la
+ 
+
+00:13:04.000 --> 00:13:06.470 align:start position:0%
+consulta ¿por qué porque dentro de la
+función<00:13:04.720><c> ya</c><00:13:04.920><c> hemos</c><00:13:05.279><c> definido</c><00:13:05.920><c> la</c><00:13:06.120><c> empresa</c>
+
+00:13:06.470 --> 00:13:06.480 align:start position:0%
+función ya hemos definido la empresa
+ 
+
+00:13:06.480 --> 00:13:09.030 align:start position:0%
+función ya hemos definido la empresa
+sobre<00:13:06.760><c> la</c><00:13:06.920><c> cual</c><00:13:07.360><c> estamos</c><00:13:07.680><c> realizando</c><00:13:08.160><c> la</c>
+
+00:13:09.030 --> 00:13:09.040 align:start position:0%
+sobre la cual estamos realizando la
+ 
+
+00:13:09.040 --> 00:13:11.710 align:start position:0%
+sobre la cual estamos realizando la
+consulta<00:13:10.040><c> la</c><00:13:10.240><c> cual</c><00:13:10.560><c> es</c><00:13:10.720><c> la</c><00:13:10.880><c> empresa</c><00:13:11.320><c> número</c>
+
+00:13:11.710 --> 00:13:11.720 align:start position:0%
+consulta la cual es la empresa número
+ 
+
+00:13:11.720 --> 00:13:14.389 align:start position:0%
+consulta la cual es la empresa número
+uno<00:13:12.560><c> lo</c><00:13:12.680><c> mismo</c><00:13:13.040><c> pasa</c><00:13:13.560><c> con</c><00:13:13.760><c> la</c><00:13:13.920><c> fecha</c><00:13:14.160><c> de</c>
+
+00:13:14.389 --> 00:13:14.399 align:start position:0%
+uno lo mismo pasa con la fecha de
+ 
+
+00:13:14.399 --> 00:13:17.110 align:start position:0%
+uno lo mismo pasa con la fecha de
+trabajo<00:13:15.040><c> miremos</c><00:13:15.760><c> que</c><00:13:16.000><c> nosotros</c><00:13:16.399><c> al</c><00:13:16.600><c> cambiar</c>
+
+00:13:17.110 --> 00:13:17.120 align:start position:0%
+trabajo miremos que nosotros al cambiar
+ 
+
+00:13:17.120 --> 00:13:19.990 align:start position:0%
+trabajo miremos que nosotros al cambiar
+la<00:13:17.360><c> fecha</c><00:13:17.639><c> de</c><00:13:18.079><c> trabajo</c><00:13:19.079><c> el</c><00:13:19.320><c> saldo</c><00:13:19.680><c> de</c><00:13:19.839><c> la</c>
+
+00:13:19.990 --> 00:13:20.000 align:start position:0%
+la fecha de trabajo el saldo de la
+ 
+
+00:13:20.000 --> 00:13:23.110 align:start position:0%
+la fecha de trabajo el saldo de la
+cuenta<00:13:20.519><c> no</c><00:13:20.720><c> nos</c><00:13:20.959><c> cambia</c><00:13:21.760><c> porque</c><00:13:22.199><c> esta</c><00:13:22.680><c> ya</c><00:13:22.880><c> está</c>
+
+00:13:23.110 --> 00:13:23.120 align:start position:0%
+cuenta no nos cambia porque esta ya está
+ 
+
+00:13:23.120 --> 00:13:27.150 align:start position:0%
+cuenta no nos cambia porque esta ya está
+definida<00:13:23.600><c> como</c><00:13:23.880><c> parámetro</c><00:13:24.480><c> en</c><00:13:24.680><c> la</c>
+
+00:13:27.150 --> 00:13:27.160 align:start position:0%
+ 
+ 
+
+00:13:27.160 --> 00:13:30.389 align:start position:0%
+ 
+función<00:13:28.160><c> lección</c><00:13:28.560><c> ocho</c><00:13:29.120><c> referencia</c><00:13:29.760><c> a</c><00:13:29.959><c> celdas</c>
+
+00:13:30.389 --> 00:13:30.399 align:start position:0%
+función lección ocho referencia a celdas
+ 
+
+00:13:30.399 --> 00:13:32.470 align:start position:0%
+función lección ocho referencia a celdas
+absolutas
+
+00:13:32.470 --> 00:13:32.480 align:start position:0%
+absolutas
+ 
+
+00:13:32.480 --> 00:13:34.350 align:start position:0%
+absolutas
+ahora<00:13:32.880><c> vamos</c><00:13:33.120><c> a</c><00:13:33.279><c> realizar</c><00:13:33.680><c> un</c><00:13:33.839><c> ejemplo</c>
+
+00:13:34.350 --> 00:13:34.360 align:start position:0%
+ahora vamos a realizar un ejemplo
+ 
+
+00:13:34.360 --> 00:13:37.110 align:start position:0%
+ahora vamos a realizar un ejemplo
+haciendo<00:13:34.760><c> referencia</c><00:13:35.399><c> a</c><00:13:35.560><c> celdas</c><00:13:36.120><c> absolutas</c>
+
+00:13:37.110 --> 00:13:37.120 align:start position:0%
+haciendo referencia a celdas absolutas
+ 
+
+00:13:37.120 --> 00:13:38.710 align:start position:0%
+haciendo referencia a celdas absolutas
+vamos<00:13:37.320><c> a</c><00:13:37.480><c> hacer</c><00:13:37.639><c> uso</c><00:13:38.000><c> del</c><00:13:38.199><c> ejemplo</c><00:13:38.480><c> de</c><00:13:38.600><c> la</c>
+
+00:13:38.710 --> 00:13:38.720 align:start position:0%
+vamos a hacer uso del ejemplo de la
+ 
+
+00:13:38.720 --> 00:13:40.629 align:start position:0%
+vamos a hacer uso del ejemplo de la
+lección<00:13:39.160><c> seis</c><00:13:39.639><c> para</c>
+
+00:13:40.629 --> 00:13:40.639 align:start position:0%
+lección seis para
+ 
+
+00:13:40.639 --> 00:13:43.389 align:start position:0%
+lección seis para
+partir<00:13:41.639><c> entonces</c><00:13:41.959><c> ¿qué</c><00:13:42.120><c> queremos</c><00:13:43.000><c> queremos</c>
+
+00:13:43.389 --> 00:13:43.399 align:start position:0%
+partir entonces ¿qué queremos queremos
+ 
+
+00:13:43.399 --> 00:13:45.710 align:start position:0%
+partir entonces ¿qué queremos queremos
+hallar<00:13:43.720><c> el</c><00:13:43.920><c> saldo</c><00:13:44.199><c> de</c><00:13:44.320><c> la</c><00:13:44.480><c> cuenta</c>
+
+00:13:45.710 --> 00:13:45.720 align:start position:0%
+hallar el saldo de la cuenta
+ 
+
+00:13:45.720 --> 00:13:47.910 align:start position:0%
+hallar el saldo de la cuenta
+1110<00:13:46.720><c> y</c>
+
+00:13:47.910 --> 00:13:47.920 align:start position:0%
+1110 y
+ 
+
+00:13:47.920 --> 00:13:52.189 align:start position:0%
+1110 y
+1120<00:13:48.920><c> usando</c><00:13:49.560><c> esta</c><00:13:49.880><c> misma</c><00:13:50.600><c> fórmula</c><00:13:51.600><c> pero</c>
+
+00:13:52.189 --> 00:13:52.199 align:start position:0%
+1120 usando esta misma fórmula pero
+ 
+
+00:13:52.199 --> 00:13:54.990 align:start position:0%
+1120 usando esta misma fórmula pero
+copiándola<00:13:52.959><c> para</c><00:13:53.199><c> las</c><00:13:53.360><c> demás</c><00:13:53.639><c> celdas</c><00:13:54.800><c> ¿qué</c>
+
+00:13:54.990 --> 00:13:55.000 align:start position:0%
+copiándola para las demás celdas ¿qué
+ 
+
+00:13:55.000 --> 00:13:57.230 align:start position:0%
+copiándola para las demás celdas ¿qué
+debemos<00:13:55.480><c> hacer</c><00:13:55.720><c> para</c><00:13:56.040><c> poder</c><00:13:56.279><c> arrastrar</c><00:13:56.880><c> esta</c>
+
+00:13:57.230 --> 00:13:57.240 align:start position:0%
+debemos hacer para poder arrastrar esta
+ 
+
+00:13:57.240 --> 00:14:00.710 align:start position:0%
+debemos hacer para poder arrastrar esta
+fórmula<00:13:57.880><c> hacia</c><00:13:58.199><c> la</c><00:13:58.399><c> celda</c><00:13:58.920><c> B3</c><00:13:59.480><c> y</c><00:13:59.639><c> B4</c><00:14:00.360><c> sin</c><00:14:00.560><c> que</c>
+
+00:14:00.710 --> 00:14:00.720 align:start position:0%
+fórmula hacia la celda B3 y B4 sin que
+ 
+
+00:14:00.720 --> 00:14:03.269 align:start position:0%
+fórmula hacia la celda B3 y B4 sin que
+se<00:14:00.839><c> nos</c><00:14:01.040><c> dañe</c><00:14:01.920><c> lo</c><00:14:02.040><c> que</c><00:14:02.160><c> debemos</c><00:14:02.600><c> hacer</c><00:14:03.040><c> es</c>
+
+00:14:03.269 --> 00:14:03.279 align:start position:0%
+se nos dañe lo que debemos hacer es
+ 
+
+00:14:03.279 --> 00:14:06.550 align:start position:0%
+se nos dañe lo que debemos hacer es
+fijar<00:14:04.120><c> la</c><00:14:04.360><c> fila</c><00:14:04.839><c> de</c><00:14:05.040><c> la</c><00:14:05.199><c> columna</c><00:14:06.199><c> esta</c>
+
+00:14:06.550 --> 00:14:06.560 align:start position:0%
+fijar la fila de la columna esta
+ 
+
+00:14:06.560 --> 00:14:09.590 align:start position:0%
+fijar la fila de la columna esta
+fijación<00:14:07.560><c> la</c><00:14:07.800><c> podemos</c><00:14:08.160><c> realizar</c><00:14:08.839><c> poniendo</c><00:14:09.360><c> un</c>
+
+00:14:09.590 --> 00:14:09.600 align:start position:0%
+fijación la podemos realizar poniendo un
+ 
+
+00:14:09.600 --> 00:14:12.629 align:start position:0%
+fijación la podemos realizar poniendo un
+signo<00:14:09.959><c> pesos</c><00:14:10.680><c> antes</c><00:14:11.040><c> del</c>
+
+00:14:12.629 --> 00:14:12.639 align:start position:0%
+signo pesos antes del
+ 
+
+00:14:12.639 --> 00:14:15.829 align:start position:0%
+signo pesos antes del
+número<00:14:13.639><c> de</c><00:14:13.880><c> esta</c><00:14:14.199><c> forma</c><00:14:14.759><c> podemos</c><00:14:15.120><c> arrastrar</c>
+
+00:14:15.829 --> 00:14:15.839 align:start position:0%
+número de esta forma podemos arrastrar
+ 
+
+00:14:15.839 --> 00:14:18.509 align:start position:0%
+número de esta forma podemos arrastrar
+la<00:14:16.079><c> función</c><00:14:16.680><c> hacia</c><00:14:16.959><c> las</c><00:14:17.160><c> demás</c><00:14:17.480><c> celdas</c><00:14:18.240><c> sin</c>
+
+00:14:18.509 --> 00:14:18.519 align:start position:0%
+la función hacia las demás celdas sin
+ 
+
+00:14:18.519 --> 00:14:19.910 align:start position:0%
+la función hacia las demás celdas sin
+que<00:14:18.800><c> esta</c><00:14:19.040><c> se</c><00:14:19.199><c> nos</c>
+
+00:14:19.910 --> 00:14:19.920 align:start position:0%
+que esta se nos
+ 
+
+00:14:19.920 --> 00:14:23.110 align:start position:0%
+que esta se nos
+dañe<00:14:20.920><c> visualicemos</c><00:14:21.920><c> cómo</c><00:14:22.120><c> la</c><00:14:22.360><c> fórmula</c><00:14:22.920><c> ha</c>
+
+00:14:23.110 --> 00:14:23.120 align:start position:0%
+dañe visualicemos cómo la fórmula ha
+ 
+
+00:14:23.120 --> 00:14:25.670 align:start position:0%
+dañe visualicemos cómo la fórmula ha
+quedado<00:14:23.720><c> correctamente</c><00:14:24.440><c> copiada</c><00:14:25.240><c> para</c><00:14:25.480><c> la</c>
+
+00:14:25.670 --> 00:14:25.680 align:start position:0%
+quedado correctamente copiada para la
+ 
+
+00:14:25.680 --> 00:14:30.590 align:start position:0%
+quedado correctamente copiada para la
+celda<00:14:26.000><c> B3</c><00:14:26.519><c> y</c><00:14:26.720><c> para</c><00:14:26.880><c> la</c><00:14:27.079><c> celda</c><00:14:27.480><c> B4</c>
+
+00:14:30.590 --> 00:14:30.600 align:start position:0%
+ 
+ 
+
+00:14:30.600 --> 00:14:33.990 align:start position:0%
+ 
+lección<00:14:31.000><c> nueve</c><00:14:31.519><c> realización</c><00:14:32.199><c> de</c>
+
+00:14:33.990 --> 00:14:34.000 align:start position:0%
+lección nueve realización de
+ 
+
+00:14:34.000 --> 00:14:36.509 align:start position:0%
+lección nueve realización de
+informes<00:14:35.000><c> como</c><00:14:35.199><c> ya</c><00:14:35.399><c> hemos</c><00:14:35.680><c> aprendido</c><00:14:36.040><c> a</c><00:14:36.160><c> fijar</c>
+
+00:14:36.509 --> 00:14:36.519 align:start position:0%
+informes como ya hemos aprendido a fijar
+ 
+
+00:14:36.519 --> 00:14:39.030 align:start position:0%
+informes como ya hemos aprendido a fijar
+filas<00:14:37.160><c> y</c><00:14:37.320><c> en</c><00:14:37.440><c> este</c><00:14:37.600><c> ejemplo</c><00:14:38.240><c> vamos</c><00:14:38.440><c> a</c><00:14:38.600><c> aprender</c>
+
+00:14:39.030 --> 00:14:39.040 align:start position:0%
+filas y en este ejemplo vamos a aprender
+ 
+
+00:14:39.040 --> 00:14:41.870 align:start position:0%
+filas y en este ejemplo vamos a aprender
+a<00:14:39.199><c> fijar</c><00:14:39.759><c> columnas</c><00:14:40.759><c> vamos</c><00:14:41.000><c> a</c><00:14:41.199><c> realizar</c><00:14:41.680><c> un</c>
+
+00:14:41.870 --> 00:14:41.880 align:start position:0%
+a fijar columnas vamos a realizar un
+ 
+
+00:14:41.880 --> 00:14:44.629 align:start position:0%
+a fijar columnas vamos a realizar un
+ejemplo<00:14:42.560><c> un</c><00:14:42.759><c> poco</c><00:14:43.000><c> más</c><00:14:43.320><c> completo</c><00:14:44.160><c> donde</c><00:14:44.440><c> vamos</c>
+
+00:14:44.629 --> 00:14:44.639 align:start position:0%
+ejemplo un poco más completo donde vamos
+ 
+
+00:14:44.639 --> 00:14:46.790 align:start position:0%
+ejemplo un poco más completo donde vamos
+a<00:14:44.839><c> realizar</c><00:14:45.279><c> un</c><00:14:45.600><c> informe</c><00:14:46.079><c> con</c><00:14:46.279><c> una</c><00:14:46.519><c> sola</c>
+
+00:14:46.790 --> 00:14:46.800 align:start position:0%
+a realizar un informe con una sola
+ 
+
+00:14:46.800 --> 00:14:49.269 align:start position:0%
+a realizar un informe con una sola
+fórmula
+
+00:14:49.269 --> 00:14:49.279 align:start position:0%
+fórmula
+ 
+
+00:14:49.279 --> 00:14:51.790 align:start position:0%
+fórmula
+vamos<00:14:49.480><c> a</c><00:14:49.600><c> hallar</c><00:14:50.240><c> para</c><00:14:50.480><c> la</c><00:14:50.680><c> cuenta</c>
+
+00:14:51.790 --> 00:14:51.800 align:start position:0%
+vamos a hallar para la cuenta
+ 
+
+00:14:51.800 --> 00:14:55.230 align:start position:0%
+vamos a hallar para la cuenta
+1105<00:14:52.959><c> 1110</c><00:14:53.959><c> y</c>
+
+00:14:55.230 --> 00:14:55.240 align:start position:0%
+1105 1110 y
+ 
+
+00:14:55.240 --> 00:14:59.629 align:start position:0%
+1105 1110 y
+1120<00:14:56.240><c> a</c><00:14:56.480><c> tres</c><00:14:56.800><c> fechas</c><00:14:58.040><c> diferentes</c><00:14:59.040><c> en</c><00:14:59.279><c> este</c>
+
+00:14:59.629 --> 00:14:59.639 align:start position:0%
+1120 a tres fechas diferentes en este
+ 
+
+00:14:59.639 --> 00:15:03.870 align:start position:0%
+1120 a tres fechas diferentes en este
+caso<00:15:00.519><c> a</c><00:15:00.720><c> 31</c><00:15:01.560><c> de</c><00:15:01.720><c> enero</c><00:15:02.360><c> del</c><00:15:02.600><c> año</c>
+
+00:15:03.870 --> 00:15:03.880 align:start position:0%
+caso a 31 de enero del año
+ 
+
+00:15:03.880 --> 00:15:08.030 align:start position:0%
+caso a 31 de enero del año
+2005<00:15:04.880><c> a</c><00:15:05.120><c> 28</c><00:15:05.959><c> de</c><00:15:06.160><c> febrero</c><00:15:06.800><c> del</c><00:15:07.040><c> año</c>
+
+00:15:08.030 --> 00:15:08.040 align:start position:0%
+2005 a 28 de febrero del año
+ 
+
+00:15:08.040 --> 00:15:13.389 align:start position:0%
+2005 a 28 de febrero del año
+2005<00:15:09.040><c> y</c><00:15:09.240><c> a</c><00:15:09.440><c> 31</c><00:15:10.440><c> de</c><00:15:10.639><c> marzo</c><00:15:11.240><c> del</c><00:15:11.519><c> año</c><00:15:12.160><c> 2005</c><00:15:13.160><c> los</c>
+
+00:15:13.389 --> 00:15:13.399 align:start position:0%
+2005 y a 31 de marzo del año 2005 los
+ 
+
+00:15:13.399 --> 00:15:16.509 align:start position:0%
+2005 y a 31 de marzo del año 2005 los
+saldos<00:15:14.000><c> de</c><00:15:14.279><c> estas</c><00:15:14.639><c> cuentas</c>
+
+00:15:16.509 --> 00:15:16.519 align:start position:0%
+saldos de estas cuentas
+ 
+
+00:15:16.519 --> 00:15:19.470 align:start position:0%
+saldos de estas cuentas
+entonces<00:15:17.040><c> en</c><00:15:17.199><c> la</c><00:15:17.360><c> celda</c><00:15:17.680><c> B2</c><00:15:18.360><c> vamos</c><00:15:18.639><c> a</c><00:15:18.800><c> copiar</c>
+
+00:15:19.470 --> 00:15:19.480 align:start position:0%
+entonces en la celda B2 vamos a copiar
+ 
+
+00:15:19.480 --> 00:15:23.749 align:start position:0%
+entonces en la celda B2 vamos a copiar
+la<00:15:19.759><c> fórmula</c><00:15:20.680><c> para</c><00:15:20.920><c> hallar</c><00:15:21.800><c> el</c><00:15:22.079><c> saldo</c><00:15:22.720><c> de</c><00:15:23.000><c> esta</c>
+
+00:15:23.749 --> 00:15:23.759 align:start position:0%
+la fórmula para hallar el saldo de esta
+ 
+
+00:15:23.759 --> 00:15:26.150 align:start position:0%
+la fórmula para hallar el saldo de esta
+cuenta<00:15:24.759><c> ¿qué</c><00:15:24.959><c> debemos</c><00:15:25.360><c> poner</c><00:15:25.639><c> dentro</c><00:15:25.920><c> del</c>
+
+00:15:26.150 --> 00:15:26.160 align:start position:0%
+cuenta ¿qué debemos poner dentro del
+ 
+
+00:15:26.160 --> 00:15:28.870 align:start position:0%
+cuenta ¿qué debemos poner dentro del
+paréntesis<00:15:27.040><c> como</c><00:15:27.320><c> primer</c><00:15:27.639><c> parámetro</c><00:15:28.440><c> debemos</c>
+
+00:15:28.870 --> 00:15:28.880 align:start position:0%
+paréntesis como primer parámetro debemos
+ 
+
+00:15:28.880 --> 00:15:30.910 align:start position:0%
+paréntesis como primer parámetro debemos
+poner<00:15:29.440><c> el</c><00:15:29.639><c> código</c><00:15:30.040><c> de</c><00:15:30.199><c> la</c>
+
+00:15:30.910 --> 00:15:30.920 align:start position:0%
+poner el código de la
+ 
+
+00:15:30.920 --> 00:15:34.309 align:start position:0%
+poner el código de la
+cuenta<00:15:31.920><c> pero</c><00:15:32.160><c> en</c><00:15:32.319><c> este</c><00:15:32.600><c> caso</c><00:15:33.040><c> debemos</c><00:15:33.519><c> fijar</c>
+
+00:15:34.309 --> 00:15:34.319 align:start position:0%
+cuenta pero en este caso debemos fijar
+ 
+
+00:15:34.319 --> 00:15:37.110 align:start position:0%
+cuenta pero en este caso debemos fijar
+la<00:15:34.639><c> columna</c><00:15:35.639><c> con</c><00:15:35.920><c> el</c><00:15:36.079><c> fin</c><00:15:36.319><c> de</c><00:15:36.480><c> que</c><00:15:36.600><c> arrastremos</c>
+
+00:15:37.110 --> 00:15:37.120 align:start position:0%
+la columna con el fin de que arrastremos
+ 
+
+00:15:37.120 --> 00:15:39.749 align:start position:0%
+la columna con el fin de que arrastremos
+la<00:15:37.319><c> fórmula</c><00:15:37.800><c> hacia</c><00:15:38.120><c> las</c><00:15:38.279><c> demás</c><00:15:38.560><c> celdas</c><00:15:39.240><c> y</c><00:15:39.480><c> esta</c>
+
+00:15:39.749 --> 00:15:39.759 align:start position:0%
+la fórmula hacia las demás celdas y esta
+ 
+
+00:15:39.759 --> 00:15:41.910 align:start position:0%
+la fórmula hacia las demás celdas y esta
+no<00:15:39.959><c> se</c><00:15:40.079><c> nos</c><00:15:40.279><c> vaya</c><00:15:40.480><c> a</c><00:15:40.600><c> dañar</c>
+
+00:15:41.910 --> 00:15:41.920 align:start position:0%
+no se nos vaya a dañar
+ 
+
+00:15:41.920 --> 00:15:44.870 align:start position:0%
+no se nos vaya a dañar
+como<00:15:42.160><c> segundo</c><00:15:42.639><c> parámetro</c><00:15:43.519><c> debemos</c><00:15:44.040><c> indicar</c>
+
+00:15:44.870 --> 00:15:44.880 align:start position:0%
+como segundo parámetro debemos indicar
+ 
+
+00:15:44.880 --> 00:15:47.990 align:start position:0%
+como segundo parámetro debemos indicar
+la<00:15:45.160><c> fecha</c><00:15:46.040><c> a</c><00:15:46.240><c> la</c><00:15:46.360><c> cual</c><00:15:46.759><c> estamos</c><00:15:47.079><c> realizando</c><00:15:47.759><c> la</c>
+
+00:15:47.990 --> 00:15:48.000 align:start position:0%
+la fecha a la cual estamos realizando la
+ 
+
+00:15:48.000 --> 00:15:50.430 align:start position:0%
+la fecha a la cual estamos realizando la
+consulta<00:15:48.480><c> del</c><00:15:48.680><c> saldo</c><00:15:48.920><c> de</c><00:15:49.040><c> esta</c><00:15:49.279><c> cuenta</c><00:15:50.199><c> pero</c>
+
+00:15:50.430 --> 00:15:50.440 align:start position:0%
+consulta del saldo de esta cuenta pero
+ 
+
+00:15:50.440 --> 00:15:53.389 align:start position:0%
+consulta del saldo de esta cuenta pero
+en<00:15:50.600><c> este</c><00:15:50.880><c> caso</c><00:15:51.319><c> lo</c><00:15:51.480><c> que</c><00:15:51.600><c> debemos</c><00:15:52.040><c> fijar</c><00:15:52.759><c> es</c><00:15:53.000><c> la</c>
+
+00:15:53.389 --> 00:15:53.399 align:start position:0%
+en este caso lo que debemos fijar es la
+ 
+
+00:15:53.399 --> 00:15:56.629 align:start position:0%
+en este caso lo que debemos fijar es la
+fila<00:15:54.399><c> con</c><00:15:54.639><c> el</c><00:15:54.800><c> fin</c><00:15:55.120><c> de</c><00:15:55.319><c> arrastrar</c><00:15:55.759><c> la</c><00:15:55.959><c> fórmula</c>
+
+00:15:56.629 --> 00:15:56.639 align:start position:0%
+fila con el fin de arrastrar la fórmula
+ 
+
+00:15:56.639 --> 00:15:59.990 align:start position:0%
+fila con el fin de arrastrar la fórmula
+y<00:15:56.839><c> que</c><00:15:57.079><c> esta</c><00:15:57.480><c> se</c><00:15:57.720><c> conserve</c><00:15:58.240><c> en</c><00:15:58.440><c> las</c><00:15:58.560><c> demás</c>
+
+00:15:59.990 --> 00:16:00.000 align:start position:0%
+y que esta se conserve en las demás
+ 
+
+00:16:00.000 --> 00:16:03.389 align:start position:0%
+y que esta se conserve en las demás
+celdas<00:16:01.000><c> ahora</c><00:16:01.480><c> ya</c><00:16:01.720><c> teniendo</c><00:16:02.079><c> esta</c><00:16:02.399><c> fórmula</c>
+
+00:16:03.389 --> 00:16:03.399 align:start position:0%
+celdas ahora ya teniendo esta fórmula
+ 
+
+00:16:03.399 --> 00:16:05.990 align:start position:0%
+celdas ahora ya teniendo esta fórmula
+con<00:16:03.639><c> la</c><00:16:03.800><c> fijación</c><00:16:04.639><c> correspondiente</c><00:16:05.639><c> vamos</c><00:16:05.839><c> a</c>
+
+00:16:05.990 --> 00:16:06.000 align:start position:0%
+con la fijación correspondiente vamos a
+ 
+
+00:16:06.000 --> 00:16:09.829 align:start position:0%
+con la fijación correspondiente vamos a
+arrastrarla<00:16:06.920><c> hacia</c><00:16:07.240><c> las</c><00:16:07.399><c> demás</c><00:16:07.720><c> celdas</c>
+
+00:16:09.829 --> 00:16:09.839 align:start position:0%
+arrastrarla hacia las demás celdas
+ 
+
+00:16:09.839 --> 00:16:12.509 align:start position:0%
+arrastrarla hacia las demás celdas
+visualicemos<00:16:10.839><c> como</c><00:16:11.040><c> en</c><00:16:11.240><c> poco</c><00:16:11.560><c> tiempo</c><00:16:12.160><c> hemos</c>
+
+00:16:12.509 --> 00:16:12.519 align:start position:0%
+visualicemos como en poco tiempo hemos
+ 
+
+00:16:12.519 --> 00:16:15.710 align:start position:0%
+visualicemos como en poco tiempo hemos
+hallado<00:16:13.079><c> el</c><00:16:13.319><c> saldo</c><00:16:13.800><c> de</c><00:16:14.040><c> estas</c><00:16:14.360><c> tres</c><00:16:14.680><c> cuentas</c><00:16:15.519><c> a</c>
+
+00:16:15.710 --> 00:16:15.720 align:start position:0%
+hallado el saldo de estas tres cuentas a
+ 
+
+00:16:15.720 --> 00:16:18.710 align:start position:0%
+hallado el saldo de estas tres cuentas a
+tres<00:16:16.000><c> fechas</c>
+
+00:16:18.710 --> 00:16:18.720 align:start position:0%
+ 
+ 
+
+00:16:18.720 --> 00:16:21.749 align:start position:0%
+ 
+diferentes<00:16:19.720><c> miremos</c><00:16:20.480><c> que</c><00:16:20.720><c> la</c><00:16:20.920><c> fórmula</c><00:16:21.560><c> ha</c>
+
+00:16:21.749 --> 00:16:21.759 align:start position:0%
+diferentes miremos que la fórmula ha
+ 
+
+00:16:21.759 --> 00:16:24.509 align:start position:0%
+diferentes miremos que la fórmula ha
+quedado<00:16:22.160><c> copiada</c><00:16:22.959><c> de</c><00:16:23.199><c> forma</c><00:16:23.600><c> correcta</c><00:16:24.279><c> para</c>
+
+00:16:24.509 --> 00:16:24.519 align:start position:0%
+quedado copiada de forma correcta para
+ 
+
+00:16:24.519 --> 00:16:26.949 align:start position:0%
+quedado copiada de forma correcta para
+las<00:16:24.720><c> demás</c><00:16:25.040><c> celdas</c>
+
+00:16:26.949 --> 00:16:26.959 align:start position:0%
+las demás celdas
+ 
+
+00:16:26.959 --> 00:16:29.470 align:start position:0%
+las demás celdas
+en<00:16:27.160><c> conclusión</c><00:16:28.160><c> el</c><00:16:28.319><c> usar</c><00:16:28.639><c> referencia</c><00:16:29.279><c> a</c>
+
+00:16:29.470 --> 00:16:29.480 align:start position:0%
+en conclusión el usar referencia a
+ 
+
+00:16:29.480 --> 00:16:32.230 align:start position:0%
+en conclusión el usar referencia a
+celdas<00:16:29.959><c> tanto</c><00:16:30.279><c> absolutas</c><00:16:30.959><c> como</c><00:16:31.319><c> relativas</c>
+
+00:16:32.230 --> 00:16:32.240 align:start position:0%
+celdas tanto absolutas como relativas
+ 
+
+00:16:32.240 --> 00:16:34.150 align:start position:0%
+celdas tanto absolutas como relativas
+permite<00:16:32.600><c> la</c><00:16:32.759><c> elaboración</c><00:16:33.279><c> de</c><00:16:33.560><c> informes</c><00:16:33.959><c> e</c>
+
+00:16:34.150 --> 00:16:34.160 align:start position:0%
+permite la elaboración de informes e
+ 
+
+00:16:34.160 --> 00:16:36.470 align:start position:0%
+permite la elaboración de informes e
+indicadores<00:16:34.920><c> de</c><00:16:35.160><c> manera</c><00:16:35.639><c> mucho</c><00:16:35.959><c> más</c>
+
+00:16:36.470 --> 00:16:36.480 align:start position:0%
+indicadores de manera mucho más
+ 
+
+00:16:36.480 --> 00:16:39.269 align:start position:0%
+indicadores de manera mucho más
+eficiente<00:16:37.480><c> tal</c><00:16:37.839><c> como</c><00:16:38.079><c> lo</c><00:16:38.240><c> podemos</c><00:16:38.560><c> visualizar</c>
+
+00:16:39.269 --> 00:16:39.279 align:start position:0%
+eficiente tal como lo podemos visualizar
+ 
+
+00:16:39.279 --> 00:16:41.550 align:start position:0%
+eficiente tal como lo podemos visualizar
+en<00:16:39.519><c> este</c>
+
+00:16:41.550 --> 00:16:41.560 align:start position:0%
+en este
+ 
+
+00:16:41.560 --> 00:16:44.430 align:start position:0%
+en este
+ejemplo<00:16:42.560><c> lección</c><00:16:42.920><c> 10</c>
+
+00:16:44.430 --> 00:16:44.440 align:start position:0%
+ejemplo lección 10
+ 
+
+00:16:44.440 --> 00:16:46.790 align:start position:0%
+ejemplo lección 10
+graficación<00:16:45.440><c> ahora</c><00:16:45.720><c> vamos</c><00:16:45.920><c> a</c><00:16:46.079><c> hacer</c><00:16:46.240><c> uso</c><00:16:46.600><c> del</c>
+
+00:16:46.790 --> 00:16:46.800 align:start position:0%
+graficación ahora vamos a hacer uso del
+ 
+
+00:16:46.800 --> 00:16:49.150 align:start position:0%
+graficación ahora vamos a hacer uso del
+ejemplo<00:16:47.120><c> que</c><00:16:47.319><c> realizamos</c><00:16:47.920><c> en</c><00:16:48.079><c> la</c><00:16:48.240><c> lección</c><00:16:48.600><c> dos</c>
+
+00:16:49.150 --> 00:16:49.160 align:start position:0%
+ejemplo que realizamos en la lección dos
+ 
+
+00:16:49.160 --> 00:16:51.030 align:start position:0%
+ejemplo que realizamos en la lección dos
+para<00:16:49.399><c> realizar</c><00:16:49.800><c> un</c><00:16:49.959><c> gráfico</c><00:16:50.560><c> de</c><00:16:50.759><c> forma</c>
+
+00:16:51.030 --> 00:16:51.040 align:start position:0%
+para realizar un gráfico de forma
+ 
+
+00:16:51.040 --> 00:16:54.150 align:start position:0%
+para realizar un gráfico de forma
+sencilla<00:16:51.759><c> como</c><00:16:51.959><c> lo</c><00:16:52.079><c> veremos</c><00:16:52.440><c> a</c><00:16:52.639><c> continuación</c>
+
+00:16:54.150 --> 00:16:54.160 align:start position:0%
+sencilla como lo veremos a continuación
+ 
+
+00:16:54.160 --> 00:16:56.550 align:start position:0%
+sencilla como lo veremos a continuación
+lo<00:16:54.319><c> que</c><00:16:54.440><c> queremos</c><00:16:54.920><c> es</c><00:16:55.199><c> graficar</c><00:16:55.680><c> el</c><00:16:55.839><c> saldo</c><00:16:56.319><c> de</c>
+
+00:16:56.550 --> 00:16:56.560 align:start position:0%
+lo que queremos es graficar el saldo de
+ 
+
+00:16:56.560 --> 00:16:59.110 align:start position:0%
+lo que queremos es graficar el saldo de
+estas<00:16:56.880><c> tres</c><00:16:57.160><c> cuentas</c><00:16:57.800><c> la</c><00:16:57.959><c> cuenta</c><00:16:58.240><c> de</c><00:16:58.440><c> caja</c><00:16:58.959><c> la</c>
+
+00:16:59.110 --> 00:16:59.120 align:start position:0%
+estas tres cuentas la cuenta de caja la
+ 
+
+00:16:59.120 --> 00:17:02.030 align:start position:0%
+estas tres cuentas la cuenta de caja la
+cuenta<00:16:59.399><c> de</c><00:16:59.600><c> banco</c><00:17:00.000><c> y</c><00:17:00.160><c> la</c><00:17:00.279><c> cuenta</c><00:17:00.560><c> de</c><00:17:01.040><c> ahorro</c>
+
+00:17:02.030 --> 00:17:02.040 align:start position:0%
+cuenta de banco y la cuenta de ahorro
+ 
+
+00:17:02.040 --> 00:17:04.189 align:start position:0%
+cuenta de banco y la cuenta de ahorro
+entonces<00:17:02.639><c> debemos</c><00:17:03.040><c> seleccionar</c><00:17:03.800><c> estas</c>
+
+00:17:04.189 --> 00:17:04.199 align:start position:0%
+entonces debemos seleccionar estas
+ 
+
+00:17:04.199 --> 00:17:09.390 align:start position:0%
+entonces debemos seleccionar estas
+cuentas<00:17:05.000><c> y</c><00:17:05.199><c> nos</c><00:17:05.400><c> vamos</c><00:17:05.600><c> a</c><00:17:05.760><c> dirigir</c><00:17:06.240><c> a</c><00:17:06.400><c> insertar</c>
+
+00:17:09.390 --> 00:17:09.400 align:start position:0%
+ 
+ 
+
+00:17:09.400 --> 00:17:12.390 align:start position:0%
+ 
+gráfico<00:17:10.400><c> mira</c><00:17:10.839><c> cómo</c><00:17:11.079><c> de</c><00:17:11.319><c> forma</c><00:17:11.880><c> rápida</c><00:17:12.240><c> y</c>
+
+00:17:12.390 --> 00:17:12.400 align:start position:0%
+gráfico mira cómo de forma rápida y
+ 
+
+00:17:12.400 --> 00:17:15.029 align:start position:0%
+gráfico mira cómo de forma rápida y
+sencilla<00:17:13.120><c> hemos</c><00:17:13.400><c> realizado</c><00:17:13.880><c> el</c><00:17:14.039><c> gráfico</c><00:17:14.839><c> de</c>
+
+00:17:15.029 --> 00:17:15.039 align:start position:0%
+sencilla hemos realizado el gráfico de
+ 
+
+00:17:15.039 --> 00:17:18.029 align:start position:0%
+sencilla hemos realizado el gráfico de
+las<00:17:15.199><c> tres</c><00:17:15.439><c> cuentas</c><00:17:16.000><c> indicadas</c>
+
+00:17:18.029 --> 00:17:18.039 align:start position:0%
+las tres cuentas indicadas
+ 
+
+00:17:18.039 --> 00:17:20.630 align:start position:0%
+las tres cuentas indicadas
+en<00:17:18.240><c> conclusión</c><00:17:19.240><c> podemos</c><00:17:19.640><c> usar</c><00:17:20.160><c> toda</c><00:17:20.439><c> la</c>
+
+00:17:20.630 --> 00:17:20.640 align:start position:0%
+en conclusión podemos usar toda la
+ 
+
+00:17:20.640 --> 00:17:24.270 align:start position:0%
+en conclusión podemos usar toda la
+potencia<00:17:21.039><c> de</c><00:17:21.240><c> Excel</c><00:17:22.400><c> funciones</c><00:17:23.400><c> gráficos</c>
+
+00:17:24.270 --> 00:17:24.280 align:start position:0%
+potencia de Excel funciones gráficos
+ 
+
+00:17:24.280 --> 00:17:27.270 align:start position:0%
+potencia de Excel funciones gráficos
+referencias<00:17:24.839><c> a</c><00:17:25.039><c> celdas</c><00:17:25.799><c> entre</c><00:17:26.120><c> otras</c><00:17:26.799><c> y</c><00:17:27.039><c> toda</c>
+
+00:17:27.270 --> 00:17:27.280 align:start position:0%
+referencias a celdas entre otras y toda
+ 
+
+00:17:27.280 --> 00:17:28.990 align:start position:0%
+referencias a celdas entre otras y toda
+la<00:17:27.480><c> potencia</c><00:17:28.039><c> de</c><00:17:28.199><c> las</c><00:17:28.360><c> funciones</c><00:17:28.760><c> de</c>
+
+00:17:28.990 --> 00:17:29.000 align:start position:0%
+la potencia de las funciones de
+ 
+
+00:17:29.000 --> 00:17:31.070 align:start position:0%
+la potencia de las funciones de
+contaxeladin<00:17:30.000><c> y</c><00:17:30.160><c> de</c><00:17:30.280><c> esta</c><00:17:30.520><c> forma</c><00:17:30.799><c> hacer</c>
+
+00:17:31.070 --> 00:17:31.080 align:start position:0%
+contaxeladin y de esta forma hacer
+ 
+
+00:17:31.080 --> 00:17:32.830 align:start position:0%
+contaxeladin y de esta forma hacer
+informes<00:17:31.520><c> y</c><00:17:31.720><c> hallar</c><00:17:32.000><c> indicadores</c><00:17:32.559><c> a</c><00:17:32.720><c> la</c>
+
+00:17:32.830 --> 00:17:32.840 align:start position:0%
+informes y hallar indicadores a la
+ 
+
+00:17:32.840 --> 00:17:35.029 align:start position:0%
+informes y hallar indicadores a la
+medida<00:17:33.320><c> y</c><00:17:33.480><c> de</c><00:17:33.600><c> acuerdo</c><00:17:33.840><c> a</c><00:17:34.000><c> las</c><00:17:34.120><c> necesidades</c><00:17:34.840><c> de</c>
+
+00:17:35.029 --> 00:17:35.039 align:start position:0%
+medida y de acuerdo a las necesidades de
+ 
+
+00:17:35.039 --> 00:17:38.200 align:start position:0%
+medida y de acuerdo a las necesidades de
+nuestra<00:17:35.360><c> empresa</c><00:17:35.720><c> sen</c>
+

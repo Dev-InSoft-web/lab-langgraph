@@ -1,0 +1,916 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:35:33.366Z",
+  "videoId": "grvCK-ndwmw",
+  "videoUrl": "https://www.youtube.com/watch?v=grvCK-ndwmw",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "grvCK-ndwmw",
+    "title": "Lanzamiento Version 4 ContaPyme y AgroWin",
+    "fulltitle": "Lanzamiento Version 4 ContaPyme y AgroWin",
+    "description": "Software contable ContaPyme y Software agrícola AgroWin",
+    "duration": 455,
+    "duration_string": "7:35",
+    "upload_date": "20120112",
+    "timestamp": 1326387848,
+    "view_count": 3031,
+    "like_count": 2,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software agricola",
+      "software erp",
+      "software contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/grvCK-ndwmw/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAyRD58ujEZZQ_lhu01BmaZkXlr3w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6LCvapF_ZenU-gM20XxX_I41nhQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA8yQVIyBDA8ruS1fYqdpSwEHYbg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_3YocehTVQ6hUId-eD0-R6g7f8g",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/grvCK-ndwmw/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/grvCK-ndwmw/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=grvCK-ndwmw",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.21978021978021978,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.2021978021978022,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.2021978021978022,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 250.947,
+        "asr": 44100,
+        "filesize_approx": 14268062,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Lanzamiento Version 4 ContaPyme y AgroWin",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/grvCK-ndwmw/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/grvCK-ndwmw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Lanzamiento Version 4 ContaPyme y AgroWin\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 104,
+    "transcriptChars": 7795,
+    "segments": [
+      {
+        "text": "hola alejandro sabella y saludamos a todos nuestros clientes que en este",
+        "startMs": 260,
+        "durationMs": 4039
+      },
+      {
+        "text": "momento nos escuchan hoy les tenemos una gran noticia y es el gran lanzamiento de",
+        "startMs": 4299,
+        "durationMs": 4831
+      },
+      {
+        "text": "la versión 4 de nuestros sistemas con tapicería growing city para in soft es",
+        "startMs": 9130,
+        "durationMs": 5790
+      },
+      {
+        "text": "un gran placer anunciarles el lanzamiento de la nueva versión de conta",
+        "startMs": 14920,
+        "durationMs": 2939
+      },
+      {
+        "text": "pib y de agro de inversión 4 recordemos que para esta versión y soba ha",
+        "startMs": 17859,
+        "durationMs": 4291
+      },
+      {
+        "text": "trabajado durante los últimos dos años y medio con grandes esfuerzos para",
+        "startMs": 22150,
+        "durationMs": 3360
+      },
+      {
+        "text": "incorporar nuevas herramientas y funcionalidades como una novedosa",
+        "startMs": 25510,
+        "durationMs": 3240
+      },
+      {
+        "text": "interfaz gráfica similar a la de microsoft office 2007 y 2010 un sistema",
+        "startMs": 28750,
+        "durationMs": 4770
+      },
+      {
+        "text": "cliente servidor un sistema donde podemos trabajarlo a través de red y a",
+        "startMs": 33520,
+        "durationMs": 3750
+      },
+      {
+        "text": "través de internet donde tenemos seguridad a nivel de tipo de datos donde",
+        "startMs": 37270,
+        "durationMs": 4349
+      },
+      {
+        "text": "también tenemos context el ahora lo podemos trabajar directamente desde",
+        "startMs": 41619,
+        "durationMs": 3780
+      },
+      {
+        "text": "excel y no como antes que simplemente era otro programa anexado hacia el",
+        "startMs": 45399,
+        "durationMs": 4170
+      },
+      {
+        "text": "sistema tenemos la posibilidad de crear múltiples empresas y múltiples sedes con",
+        "startMs": 49569,
+        "durationMs": 5370
+      },
+      {
+        "text": "múltiples niveles de centros de costos en sí tenemos muchísimas configuraciones",
+        "startMs": 54939,
+        "durationMs": 4410
+      },
+      {
+        "text": "que en esta nueva versión se han desarrollado bueno y porque no le",
+        "startMs": 59349,
+        "durationMs": 3120
+      },
+      {
+        "text": "contamos a nuestros clientes cómo se va a realizar la migración de los",
+        "startMs": 62469,
+        "durationMs": 4051
+      },
+      {
+        "text": "versión 3 a versión 4 y en la intimidad este proceso se tiene planeado de la",
+        "startMs": 66520,
+        "durationMs": 5129
+      },
+      {
+        "text": "siguiente forma en grupos de usuarios diga 100 personas o de 100 clientes sea",
+        "startMs": 71649,
+        "durationMs": 5100
+      },
+      {
+        "text": "empezar a hacer el proceso de migración de la versión 3 a la versión 4 esto para",
+        "startMs": 76749,
+        "durationMs": 3750
+      },
+      {
+        "text": "que para que nuestro departamento de soporte tenga la capacidad de atender",
+        "startMs": 80499,
+        "durationMs": 4681
+      },
+      {
+        "text": "todas las solicitudes de estos clientes para que así puedan pues tener una nueva",
+        "startMs": 85180,
+        "durationMs": 4260
+      },
+      {
+        "text": "capacitación o un pleno con montaje de esta versión 4 en sus empresas y también",
+        "startMs": 89440,
+        "durationMs": 5010
+      },
+      {
+        "text": "a través de todos nuestros distribuidores correcto porque los",
+        "startMs": 94450,
+        "durationMs": 3089
+      },
+      {
+        "text": "historiadores así van a poder empezar con grupos pequeños hacer el proceso de",
+        "startMs": 97539,
+        "durationMs": 3630
+      },
+      {
+        "text": "migración y van a poder dar un soporte casi personalizado a los nuevos clientes",
+        "startMs": 101169,
+        "durationMs": 3750
+      },
+      {
+        "text": "bueno y cuéntanos cómo va a ser la capacitación para nuestros clientes en",
+        "startMs": 104919,
+        "durationMs": 4351
+      },
+      {
+        "text": "esta nueva versión la intimidad hay dos formas uno a través de la plataforma de",
+        "startMs": 109270,
+        "durationMs": 5070
+      },
+      {
+        "text": "capacitación virtual interactiva esta plataforma la ha desarrollado en soft",
+        "startMs": 114340,
+        "durationMs": 4409
+      },
+      {
+        "text": "para que la persona se auto capacite en todos los conocimientos de la nueva",
+        "startMs": 118749,
+        "durationMs": 4291
+      },
+      {
+        "text": "versión 4 allí hay módulos tanto el nivel básico",
+        "startMs": 123040,
+        "durationMs": 3420
+      },
+      {
+        "text": "intermedio y avanzado donde la persona poder analizar cada uno de estos vídeos",
+        "startMs": 126460,
+        "durationMs": 4450
+      },
+      {
+        "text": "cortos y va a poder capacitarse en todos los modelos que posee o la otra forma es",
+        "startMs": 130910,
+        "durationMs": 5490
+      },
+      {
+        "text": "a través de contratar la capacitación directamente con el sofocón un",
+        "startMs": 136400,
+        "durationMs": 3360
+      },
+      {
+        "text": "distribuidor autorizado pero nosotros recomendamos principalmente que se",
+        "startMs": 139760,
+        "durationMs": 3689
+      },
+      {
+        "text": "realice la capacitación a través de la plataforma de capacitación virtual",
+        "startMs": 143449,
+        "durationMs": 3421
+      },
+      {
+        "text": "interactiva que por cierto es única en el en el mercado y cuéntanos por qué",
+        "startMs": 146870,
+        "durationMs": 5189
+      },
+      {
+        "text": "dice esto que es interactiva mira leidy es interactiva porque los usuarios van a",
+        "startMs": 152059,
+        "durationMs": 4711
+      },
+      {
+        "text": "poder preguntar y allí un ingeniero nuestro departamento de soporte para",
+        "startMs": 156770,
+        "durationMs": 5310
+      },
+      {
+        "text": "poderle dar una respuesta casi inmediata a la solicitud para poder comentar el",
+        "startMs": 162080,
+        "durationMs": 4649
+      },
+      {
+        "text": "vídeo va a poder marcarlo como visto y lo va a poder calificar entonces mira",
+        "startMs": 166729,
+        "durationMs": 3841
+      },
+      {
+        "text": "que hay una interacción directa entre el cliente y nosotros nuestro departamento",
+        "startMs": 170570,
+        "durationMs": 3719
+      },
+      {
+        "text": "de soporte bueno y entonces por qué no nos enseñas como es el ingreso a esta",
+        "startMs": 174289,
+        "durationMs": 5910
+      },
+      {
+        "text": "plataforma de capacitación virtual interactiva para que todos nuestros",
+        "startMs": 180199,
+        "durationMs": 3601
+      },
+      {
+        "text": "clientes aprendan y puedan empezar la capacitación en esta nueva versión muy",
+        "startMs": 183800,
+        "durationMs": 4679
+      },
+      {
+        "text": "bien lady entonces vamos a mirar dentro de la página de internet www punto",
+        "startMs": 188479,
+        "durationMs": 4051
+      },
+      {
+        "text": "cuanta pyme puntocom como uno de los requisitos es primero verse",
+        "startMs": 192530,
+        "durationMs": 3570
+      },
+      {
+        "text": "los vídeos de instalación y de configuración segundo verse toda la",
+        "startMs": 196100,
+        "durationMs": 3840
+      },
+      {
+        "text": "parte básica de los módulos que la empresa posee para que así pueda tener",
+        "startMs": 199940,
+        "durationMs": 3900
+      },
+      {
+        "text": "pues el conocimiento adecuado de qué es lo que debe hacer en la versión 4",
+        "startMs": 203840,
+        "durationMs": 3150
+      },
+      {
+        "text": "entonces ingresemos a la página de internet y analicemos cómo es este",
+        "startMs": 206990,
+        "durationMs": 5000
+      },
+      {
+        "text": "ingresemos entonces desde el navegador web a la página de internet www.fifa.com",
+        "startMs": 211990,
+        "durationMs": 9770
+      },
+      {
+        "text": "dentro de la página de insa que está www.time.com podemos iniciar sesión para",
+        "startMs": 221770,
+        "durationMs": 7670
+      },
+      {
+        "text": "plataforma de servicio al cliente podemos lograr nos debemos registrar",
+        "startMs": 233100,
+        "durationMs": 4020
+      },
+      {
+        "text": "nuestro correo electrónico y contraseña para poder iniciar allí los servicios en",
+        "startMs": 237120,
+        "durationMs": 4680
+      },
+      {
+        "text": "este caso recuerden si ustedes no tienen una contraseña o no la recuerdan pueden",
+        "startMs": 241800,
+        "durationMs": 4920
+      },
+      {
+        "text": "decirle recordar contraseña mediante esta opción ustedes escriben el",
+        "startMs": 246720,
+        "durationMs": 3450
+      },
+      {
+        "text": "correo electrónico al cual se le envía toda la información del soft y le dicen",
+        "startMs": 250170,
+        "durationMs": 4350
+      },
+      {
+        "text": "enviar y a este mismo correo electrónico se les va a llevar la contraseña que",
+        "startMs": 254520,
+        "durationMs": 4709
+      },
+      {
+        "text": "tienen registrante in soft para poderlo quedarse dentro de la plataforma vamos",
+        "startMs": 259229,
+        "durationMs": 4651
+      },
+      {
+        "text": "entonces a ingresar aquí con un correo electrónico y con la contraseña",
+        "startMs": 263880,
+        "durationMs": 3960
+      },
+      {
+        "text": "respectiva para que después iniciemos sesión",
+        "startMs": 267840,
+        "durationMs": 3340
+      },
+      {
+        "text": "sesión damos clic entonces en iniciar sesión",
+        "startMs": 271180,
+        "durationMs": 1980
+      },
+      {
+        "text": "después de escribir el correo electrónico y la contraseña el sistema",
+        "startMs": 273160,
+        "durationMs": 2880
+      },
+      {
+        "text": "nos va a preguntar que si desea que le recuerde la contraseña si es un equipo",
+        "startMs": 276040,
+        "durationMs": 3360
+      },
+      {
+        "text": "seguro pues entonces le podemos decir aceptar o si no puedes cancelar",
+        "startMs": 279400,
+        "durationMs": 4010
+      },
+      {
+        "text": "y ya con el logo pues estamos directamente a dentro de la plataforma",
+        "startMs": 283410,
+        "durationMs": 3960
+      },
+      {
+        "text": "de servicio al cliente dentro de esta opción pues entonces lo importante es",
+        "startMs": 287370,
+        "durationMs": 3750
+      },
+      {
+        "text": "conocer que tenemos la plataforma de capacitación virtual interactiva donde",
+        "startMs": 291120,
+        "durationMs": 5730
+      },
+      {
+        "text": "podemos entonces analizar todos los vídeos de capacitación de la versión 4",
+        "startMs": 296850,
+        "durationMs": 4230
+      },
+      {
+        "text": "en este caso ingresemos a la plataforma para la capacitación de con tap y mi",
+        "startMs": 301080,
+        "durationMs": 4440
+      },
+      {
+        "text": "versión 4 y miremos como sistema inmediatamente nos lleva a una",
+        "startMs": 305520,
+        "durationMs": 3210
+      },
+      {
+        "text": "estructura de capacitación donde dentro de esta estructura pues podemos analizar",
+        "startMs": 308730,
+        "durationMs": 3900
+      },
+      {
+        "text": "cada uno de los módulos con sus respectivos vídeos y donde podemos",
+        "startMs": 312630,
+        "durationMs": 4020
+      },
+      {
+        "text": "encontrar también dentro de cada uno de ellos una estructura de vídeos básicos",
+        "startMs": 316650,
+        "durationMs": 4500
+      },
+      {
+        "text": "avanzados e intermedios donde podemos analizar cada uno de sus vídeos",
+        "startMs": 321150,
+        "durationMs": 4350
+      },
+      {
+        "text": "marcarlos como vistos bueno leí de esta explicación de todo este funcionamiento",
+        "startMs": 325500,
+        "durationMs": 4200
+      },
+      {
+        "text": "de esta plataforma la podemos encontrar en otro vídeo que se encuentra también",
+        "startMs": 229440,
+        "durationMs": 103680
+      },
+      {
+        "text": "publicado en esta plataforma de capacitación virtual o también",
+        "startMs": 333120,
+        "durationMs": 3840
+      },
+      {
+        "text": "directamente dentro de la página de internet www punto contrapié puntocom",
+        "startMs": 336960,
+        "durationMs": 3420
+      },
+      {
+        "text": "de capacitación virtual interactiva por lo tanto entonces recuerda lady",
+        "startMs": 343440,
+        "durationMs": 4270
+      },
+      {
+        "text": "quien en soft recomienda que todas las personas se auto capaciten a través de",
+        "startMs": 347710,
+        "durationMs": 5460
+      },
+      {
+        "text": "esta plataforma porque el gran beneficio es que primero es gratuito y segundo",
+        "startMs": 340380,
+        "durationMs": 18790
+      },
+      {
+        "text": "pues múltiples usuarios se pueden auto capacitar de forma simultánea sin la",
+        "startMs": 359170,
+        "durationMs": 5760
+      },
+      {
+        "text": "necesidad de tener que esperar a que el departamento de soporte o algún",
+        "startMs": 364930,
+        "durationMs": 2880
+      },
+      {
+        "text": "distribuidor programe pues con ellos la capacitación por lo tanto entonces para",
+        "startMs": 367810,
+        "durationMs": 5460
+      },
+      {
+        "text": "todas las personas que ingresen a esta plataforma de",
+        "startMs": 373270,
+        "durationMs": 4100
+      },
+      {
+        "text": "capacitación virtual interactiva los invitamos para que analicen muy bien",
+        "startMs": 377370,
+        "durationMs": 3810
+      },
+      {
+        "text": "toda su estructura y de los módulos que tienen en sus licencias pues se auto",
+        "startMs": 381180,
+        "durationMs": 4320
+      },
+      {
+        "text": "capaciten recuerda la idea que vuelvo y repito es totalmente gratuito la auto",
+        "startMs": 385500,
+        "durationMs": 4590
+      },
+      {
+        "text": "capacitación por esta opción y para todos los usuarios que tienen póliza",
+        "startMs": 390090,
+        "durationMs": 3450
+      },
+      {
+        "text": "vigente pues el pasar de la versión 3 a la versión 4 es totalmente gratuito por",
+        "startMs": 393540,
+        "durationMs": 5520
+      },
+      {
+        "text": "lo tanto mira qué costos adicionales que se puedan generar de pasar de versión",
+        "startMs": 399060,
+        "durationMs": 4290
+      },
+      {
+        "text": "que esa versión 4 no habría si la persona decide hacer la capacitación por",
+        "startMs": 403350,
+        "durationMs": 5160
+      },
+      {
+        "text": "medio de esta plataforma y de también tener la póliza vigente pues",
+        "startMs": 408510,
+        "durationMs": 4230
+      },
+      {
+        "text": "automáticamente le da el derecho de tener la versión 4 en sus computadores",
+        "startMs": 412740,
+        "durationMs": 5760
+      },
+      {
+        "text": "por lo tanto entonces pues quedamos muy animados con todo este lanzamiento y",
+        "startMs": 418500,
+        "durationMs": 4620
+      },
+      {
+        "text": "esperamos que todas las personas y todos los clientes también aprovechen esta",
+        "startMs": 423120,
+        "durationMs": 3240
+      },
+      {
+        "text": "nueva funcionalidad y que puedan ingresar nuestra página de internet www",
+        "startMs": 426360,
+        "durationMs": 4710
+      },
+      {
+        "text": "punto cuanta pyme puntocom analizar todos los vídeos que allí se encuentran",
+        "startMs": 431070,
+        "durationMs": 3600
+      },
+      {
+        "text": "publicados de todos los de todas las novedades y los nuevos desarrollos e",
+        "startMs": 434670,
+        "durationMs": 3870
+      },
+      {
+        "text": "implementaciones que se han generado dentro de estos sistemas con tapie",
+        "startMs": 438540,
+        "durationMs": 3900
+      },
+      {
+        "text": "milagro inversión 4 y que los aprovechen al máximo entonces de nuevo lady muchas",
+        "startMs": 442440,
+        "durationMs": 5070
+      },
+      {
+        "text": "gracias a ti por estar acompañándonos en este momento y muchas gracias a todas",
+        "startMs": 447510,
+        "durationMs": 2850
+      },
+      {
+        "text": "las personas que nos están escuchando nos veremos en una próxima ocasión",
+        "startMs": 450360,
+        "durationMs": 4950
+      }
+    ],
+    "plainText": "## Descripción del video\n\nSoftware contable ContaPyme y Software agrícola AgroWin\n\n## Transcripción\n\nhola alejandro sabella y saludamos a todos nuestros clientes que en este\nmomento nos escuchan hoy les tenemos una gran noticia y es el gran lanzamiento de\nla versión 4 de nuestros sistemas con tapicería growing city para in soft es\nun gran placer anunciarles el lanzamiento de la nueva versión de conta\npib y de agro de inversión 4 recordemos que para esta versión y soba ha\ntrabajado durante los últimos dos años y medio con grandes esfuerzos para\nincorporar nuevas herramientas y funcionalidades como una novedosa\ninterfaz gráfica similar a la de microsoft office 2007 y 2010 un sistema\ncliente servidor un sistema donde podemos trabajarlo a través de red y a\ntravés de internet donde tenemos seguridad a nivel de tipo de datos donde\ntambién tenemos context el ahora lo podemos trabajar directamente desde\nexcel y no como antes que simplemente era otro programa anexado hacia el\nsistema tenemos la posibilidad de crear múltiples empresas y múltiples sedes con\nmúltiples niveles de centros de costos en sí tenemos muchísimas configuraciones\nque en esta nueva versión se han desarrollado bueno y porque no le\ncontamos a nuestros clientes cómo se va a realizar la migración de los\nversión 3 a versión 4 y en la intimidad este proceso se tiene planeado de la\nsiguiente forma en grupos de usuarios diga 100 personas o de 100 clientes sea\nempezar a hacer el proceso de migración de la versión 3 a la versión 4 esto para\nque para que nuestro departamento de soporte tenga la capacidad de atender\ntodas las solicitudes de estos clientes para que así puedan pues tener una nueva\ncapacitación o un pleno con montaje de esta versión 4 en sus empresas y también\na través de todos nuestros distribuidores correcto porque los\nhistoriadores así van a poder empezar con grupos pequeños hacer el proceso de\nmigración y van a poder dar un soporte casi personalizado a los nuevos clientes\nbueno y cuéntanos cómo va a ser la capacitación para nuestros clientes en\nesta nueva versión la intimidad hay dos formas uno a través de la plataforma de\ncapacitación virtual interactiva esta plataforma la ha desarrollado en soft\npara que la persona se auto capacite en todos los conocimientos de la nueva\nversión 4 allí hay módulos tanto el nivel básico\nintermedio y avanzado donde la persona poder analizar cada uno de estos vídeos\ncortos y va a poder capacitarse en todos los modelos que posee o la otra forma es\na través de contratar la capacitación directamente con el sofocón un\ndistribuidor autorizado pero nosotros recomendamos principalmente que se\nrealice la capacitación a través de la plataforma de capacitación virtual\ninteractiva que por cierto es única en el en el mercado y cuéntanos por qué\ndice esto que es interactiva mira leidy es interactiva porque los usuarios van a\npoder preguntar y allí un ingeniero nuestro departamento de soporte para\npoderle dar una respuesta casi inmediata a la solicitud para poder comentar el\nvídeo va a poder marcarlo como visto y lo va a poder calificar entonces mira\nque hay una interacción directa entre el cliente y nosotros nuestro departamento\nde soporte bueno y entonces por qué no nos enseñas como es el ingreso a esta\nplataforma de capacitación virtual interactiva para que todos nuestros\nclientes aprendan y puedan empezar la capacitación en esta nueva versión muy\nbien lady entonces vamos a mirar dentro de la página de internet www punto\ncuanta pyme puntocom como uno de los requisitos es primero verse\nlos vídeos de instalación y de configuración segundo verse toda la\nparte básica de los módulos que la empresa posee para que así pueda tener\npues el conocimiento adecuado de qué es lo que debe hacer en la versión 4\nentonces ingresemos a la página de internet y analicemos cómo es este\ningresemos entonces desde el navegador web a la página de internet www.fifa.com\ndentro de la página de insa que está www.time.com podemos iniciar sesión para\nplataforma de servicio al cliente podemos lograr nos debemos registrar\nnuestro correo electrónico y contraseña para poder iniciar allí los servicios en\neste caso recuerden si ustedes no tienen una contraseña o no la recuerdan pueden\ndecirle recordar contraseña mediante esta opción ustedes escriben el\ncorreo electrónico al cual se le envía toda la información del soft y le dicen\nenviar y a este mismo correo electrónico se les va a llevar la contraseña que\ntienen registrante in soft para poderlo quedarse dentro de la plataforma vamos\nentonces a ingresar aquí con un correo electrónico y con la contraseña\nrespectiva para que después iniciemos sesión\nsesión damos clic entonces en iniciar sesión\ndespués de escribir el correo electrónico y la contraseña el sistema\nnos va a preguntar que si desea que le recuerde la contraseña si es un equipo\nseguro pues entonces le podemos decir aceptar o si no puedes cancelar\ny ya con el logo pues estamos directamente a dentro de la plataforma\nde servicio al cliente dentro de esta opción pues entonces lo importante es\nconocer que tenemos la plataforma de capacitación virtual interactiva donde\npodemos entonces analizar todos los vídeos de capacitación de la versión 4\nen este caso ingresemos a la plataforma para la capacitación de con tap y mi\nversión 4 y miremos como sistema inmediatamente nos lleva a una\nestructura de capacitación donde dentro de esta estructura pues podemos analizar\ncada uno de los módulos con sus respectivos vídeos y donde podemos\nencontrar también dentro de cada uno de ellos una estructura de vídeos básicos\navanzados e intermedios donde podemos analizar cada uno de sus vídeos\nmarcarlos como vistos bueno leí de esta explicación de todo este funcionamiento\nde esta plataforma la podemos encontrar en otro vídeo que se encuentra también\npublicado en esta plataforma de capacitación virtual o también\ndirectamente dentro de la página de internet www punto contrapié puntocom\nde capacitación virtual interactiva por lo tanto entonces recuerda lady\nquien en soft recomienda que todas las personas se auto capaciten a través de\nesta plataforma porque el gran beneficio es que primero es gratuito y segundo\npues múltiples usuarios se pueden auto capacitar de forma simultánea sin la\nnecesidad de tener que esperar a que el departamento de soporte o algún\ndistribuidor programe pues con ellos la capacitación por lo tanto entonces para\ntodas las personas que ingresen a esta plataforma de\ncapacitación virtual interactiva los invitamos para que analicen muy bien\ntoda su estructura y de los módulos que tienen en sus licencias pues se auto\ncapaciten recuerda la idea que vuelvo y repito es totalmente gratuito la auto\ncapacitación por esta opción y para todos los usuarios que tienen póliza\nvigente pues el pasar de la versión 3 a la versión 4 es totalmente gratuito por\nlo tanto mira qué costos adicionales que se puedan generar de pasar de versión\nque esa versión 4 no habría si la persona decide hacer la capacitación por\nmedio de esta plataforma y de también tener la póliza vigente pues\nautomáticamente le da el derecho de tener la versión 4 en sus computadores\npor lo tanto entonces pues quedamos muy animados con todo este lanzamiento y\nesperamos que todas las personas y todos los clientes también aprovechen esta\nnueva funcionalidad y que puedan ingresar nuestra página de internet www\npunto cuanta pyme puntocom analizar todos los vídeos que allí se encuentran\npublicados de todos los de todas las novedades y los nuevos desarrollos e\nimplementaciones que se han generado dentro de estos sistemas con tapie\nmilagro inversión 4 y que los aprovechen al máximo entonces de nuevo lady muchas\ngracias a ti por estar acompañándonos en este momento y muchas gracias a todas\nlas personas que nos están escuchando nos veremos en una próxima ocasión"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 250.947,
+    "asr": 44100,
+    "filesizeApprox": 14268062,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/grvCK-ndwmw.md",
+    "json": "videos/2012/grvCK-ndwmw.json",
+    "infoJson": "videos/2012/grvCK-ndwmw.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

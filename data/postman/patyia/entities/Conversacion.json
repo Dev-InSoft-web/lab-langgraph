@@ -1,0 +1,132 @@
+{
+	"name": "Conversacion",
+	"description": "CRUD y consultas sobre conversaciones del asistente PatyIA.",
+	"item": [
+		{
+			"name": "POST - Conversacion (crear / continuar)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"let jData = pm.response.json();",
+							"pm.test('iconversacion devuelto', function () {",
+							"    const i = jData?.respuesta?.iconversacion;",
+							"    pm.expect(i, 'Falta respuesta.iconversacion').to.exist;",
+							"    pm.environment.set('iconversacion', String(i));",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "POST",
+				"header": [{ "key": "Content-Type", "value": "application/json" }],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"prompt\": \"Usando la documentación de nómina, responde brevemente: ¿cómo se calcula la prima de servicios?\",\n    \"imodulo\": \"nomina\"\n}",
+					"options": { "raw": { "language": "json" } }
+				},
+				"url": {
+					"raw": "{{HOST}}/api/conversacion",
+					"host": ["{{HOST}}"],
+					"path": ["api", "conversacion"]
+				},
+				"description": "Crea una conversación nueva o continúa una existente (enviando `_iconversacion`). El test guarda `respuesta.iconversacion` en `{{iconversacion}}`."
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Conversacion (detalle)",
+			"protocolProfileBehavior": { "disableBodyPruning": true },
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}/api/conversacion/{{iconversacion}}",
+					"host": ["{{HOST}}"],
+					"path": ["api", "conversacion", "{{iconversacion}}"]
+				},
+				"description": "Devuelve la conversación con sus mensajes (OpenAI + calificados) y tiquetes asociados."
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Conversaciones (listar)",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}/api/conversaciones/",
+					"host": ["{{HOST}}"],
+					"path": ["api", "conversaciones", ""]
+				},
+				"description": "Lista las conversaciones del contacto autenticado."
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Resumen Conversacion",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}/api/resumen_conversacion/{{iconversacion}}",
+					"host": ["{{HOST}}"],
+					"path": ["api", "resumen_conversacion", "{{iconversacion}}"]
+				},
+				"description": "Devuelve el resumen ejecutivo de una conversación."
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE - Conversacion",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}/api/conversacion/{{iconversacion}}",
+					"host": ["{{HOST}}"],
+					"path": ["api", "conversacion", "{{iconversacion}}"]
+				},
+				"description": "Elimina (cierra) la conversación indicada."
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Timer Cerrar Conversaciones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{HOST}}/api/timer_cerrarConversaciones",
+					"host": ["{{HOST}}"],
+					"path": ["api", "timer_cerrarConversaciones"]
+				},
+				"description": "Variante HTTP del Timer que cierra conversaciones inactivas. Útil para invocarlo manualmente en dev."
+			},
+			"response": []
+		}
+	]
+}

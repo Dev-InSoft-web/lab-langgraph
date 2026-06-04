@@ -1,0 +1,788 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:26:26.008Z",
+  "videoId": "FaAS-KnCiK4",
+  "videoUrl": "https://www.youtube.com/watch?v=FaAS-KnCiK4",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "FaAS-KnCiK4",
+    "title": "Software agricola AgroWin - Creación de un cultivo perenne",
+    "fulltitle": "Software agricola AgroWin - Creación de un cultivo perenne",
+    "description": "http://www.contapyme.com/software-agricola\nPasos a seguir para la creación de un cultivo perenne en el software agrícola AgroWin.\nAW40-110-040-04B",
+    "duration": 380,
+    "duration_string": "6:20",
+    "upload_date": "20121117",
+    "timestamp": 1353159748,
+    "view_count": 243,
+    "like_count": 1,
+    "comment_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/FaAS-KnCiK4/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOU8EsJah77cRaF0FNhoNlwLjqQw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBD4juSyLnKJG3ZeCUuhqOJl9EYtg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX7fn0we8jm1zWIbyJzwuPM-6kZQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSG744l8rrtnxqizeCIsef8m7QpA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FaAS-KnCiK4/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/FaAS-KnCiK4/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=FaAS-KnCiK4",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2631578947368421,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2026315789473684,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2026315789473684,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 172.951,
+        "asr": 44100,
+        "filesize_approx": 8205508,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "UgwvIA0MdChIvoNTFaN4AaABAg",
+        "parent": "root",
+        "text": "pueden subir esto por pantallazos para llevarlo acabo en el programa? \nG R A C I A S !",
+        "like_count": 0,
+        "author_id": "UC-9_U-6op6lJg-wolFyXDkw",
+        "author": "@Dawer8D",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nnAasoQZp9vr0C_Z2XP7z8bZeWbTv4qPBNglwYcfW_rQ=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@Dawer8D",
+        "is_favorited": false,
+        "_time_text": "12 years ago",
+        "timestamp": 1401840000,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - Creación de un cultivo perenne",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/FaAS-KnCiK4/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/FaAS-KnCiK4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - Creación de un cultivo perenne\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 71,
+    "transcriptChars": 4802,
+    "segments": [
+      {
+        "text": "criterios de codificación de cultivos perennes",
+        "startMs": 8400,
+        "durationMs": 3710
+      },
+      {
+        "text": "perennes A diferencia de los cultivos",
+        "startMs": 12110,
+        "durationMs": 1320
+      },
+      {
+        "text": "transitorios los cultivos perennes se siembran para varios años de explotación",
+        "startMs": 13430,
+        "durationMs": 6419
+      },
+      {
+        "text": "por esta razón el sistema de codificación puede ser más sencillo ya",
+        "startMs": 19859,
+        "durationMs": 4731
+      },
+      {
+        "text": "que los códigos no necesitan extensiones relacionados con las fechas de siembra",
+        "startMs": 24590,
+        "durationMs": 3419
+      },
+      {
+        "text": "Como sucede con los cultivos transitorios",
+        "startMs": 28009,
+        "durationMs": 3961
+      },
+      {
+        "text": "transitorios para la codificación de cultivos",
+        "startMs": 31970,
+        "durationMs": 1560
+      },
+      {
+        "text": "peremines se pueden utilizar valores numéricos ordinales como uno dos tres",
+        "startMs": 33530,
+        "durationMs": 6500
+      },
+      {
+        "text": "subordinados al código del lote que puede ser alfanumérico",
+        "startMs": 40030,
+        "durationMs": 5740
+      },
+      {
+        "text": "un ejemplo de codificación de cultivos peremios se presenta en la diapositiva",
+        "startMs": 45780,
+        "durationMs": 5749
+      },
+      {
+        "text": "tenemos dos lotes codificados con códigos alfanuméricos l1 Azucenas L2 el",
+        "startMs": 51529,
+        "durationMs": 8340
+      },
+      {
+        "text": "río el lote 1 Azucenas tiene dos cultivos",
+        "startMs": 59869,
+        "durationMs": 2820
+      },
+      {
+        "text": "perennes cacao y plátano codificados también con códigos",
+        "startMs": 62689,
+        "durationMs": 4801
+      },
+      {
+        "text": "sencillos y ordinales el código final para el cacao sería l1",
+        "startMs": 67490,
+        "durationMs": 14040
+      },
+      {
+        "text": "creación de un cultivo perenne tal Como sucede con los cultivos",
+        "startMs": 719,
+        "durationMs": 85250
+      },
+      {
+        "text": "transitorios la creación de un cultivo perenne exige una información mínima que",
+        "startMs": 85969,
+        "durationMs": 5101
+      },
+      {
+        "text": "lo describe y lo ubica en el espacio y en el tiempo",
+        "startMs": 91070,
+        "durationMs": 4560
+      },
+      {
+        "text": "el código del nuevo cultivo un código único y diferente al de los",
+        "startMs": 95640,
+        "durationMs": 5149
+      },
+      {
+        "text": "otros centros de costos que sirve como guía de referencia en el campo para el",
+        "startMs": 100789,
+        "durationMs": 4621
+      },
+      {
+        "text": "registro de labores y aplicación de insumos",
+        "startMs": 105410,
+        "durationMs": 3360
+      },
+      {
+        "text": "insumos este código debe ser sintético y lógico",
+        "startMs": 108770,
+        "durationMs": 3900
+      },
+      {
+        "text": "sintético ya que es el dato que se digita en el sistema y lógico por ser el",
+        "startMs": 112670,
+        "durationMs": 4920
+      },
+      {
+        "text": "parámetro que ubica el centro de costos dentro del complejo de centros de costos",
+        "startMs": 117590,
+        "durationMs": 8220
+      },
+      {
+        "text": "lote donde se ubica el cultivo como lote 1 lote 5 lote las margaritas",
+        "startMs": 125820,
+        "durationMs": 6769
+      },
+      {
+        "text": "los lotes No son centros de costos son solo agrupadores de centros de costos",
+        "startMs": 132589,
+        "durationMs": 5301
+      },
+      {
+        "text": "los verdaderos centros de costos son los cultivos que se albergan dentro de los",
+        "startMs": 137890,
+        "durationMs": 7180
+      },
+      {
+        "text": "lotes así como en la realidad dentro de un",
+        "startMs": 145070,
+        "durationMs": 2100
+      },
+      {
+        "text": "lote o área geográfica de la finca se pueden ubicar varios cultivos en el",
+        "startMs": 147170,
+        "durationMs": 5520
+      },
+      {
+        "text": "sistema se crean esos mismos lotes como áreas geográficas para crear dentro de",
+        "startMs": 152690,
+        "durationMs": 5520
+      },
+      {
+        "text": "ellas los cultivos que le corresponden en el campo",
+        "startMs": 158210,
+        "durationMs": 3840
+      },
+      {
+        "text": "una buena práctica en agro Win consiste en crear en el sistema los lotes tal",
+        "startMs": 162050,
+        "durationMs": 5759
+      },
+      {
+        "text": "como se conocen tradicionalmente en la finca",
+        "startMs": 167809,
+        "durationMs": 2601
+      },
+      {
+        "text": "finca inclusive respetando sus nombres",
+        "startMs": 170410,
+        "durationMs": 2020
+      },
+      {
+        "text": "tradicionales pero codificandolos con un nuevo orden que corresponda por ejemplo",
+        "startMs": 172430,
+        "durationMs": 5640
+      },
+      {
+        "text": "a su ubicación relativa dentro de la finca",
+        "startMs": 178070,
+        "durationMs": 3900
+      },
+      {
+        "text": "finca para el caso de los cultivos perennes",
+        "startMs": 181970,
+        "durationMs": 1860
+      },
+      {
+        "text": "puede ser conveniente hacer coincidir el cultivo con el lote geográfico",
+        "startMs": 183830,
+        "durationMs": 5640
+      },
+      {
+        "text": "O sea que se tengan los límites del cultivo como límites del lote en este",
+        "startMs": 189470,
+        "durationMs": 5700
+      },
+      {
+        "text": "caso siempre habrá un lote por cada cultivo perenne que se siembre",
+        "startMs": 195170,
+        "durationMs": 5699
+      },
+      {
+        "text": "esto es conveniente debido a que los cultivos perennes por la duración de su",
+        "startMs": 200869,
+        "durationMs": 4440
+      },
+      {
+        "text": "vida en realidad pasan a ser parte de la infraestructura de la finca",
+        "startMs": 205309,
+        "durationMs": 6541
+      },
+      {
+        "text": "nombre de cultivo como café de cacao plátano",
+        "startMs": 211860,
+        "durationMs": 6170
+      },
+      {
+        "text": "plátano como nombre del centro de costo se puede",
+        "startMs": 218030,
+        "durationMs": 2160
+      },
+      {
+        "text": "utilizar el mismo nombre de cultivo recuérdese que para efectos de captación",
+        "startMs": 220190,
+        "durationMs": 4740
+      },
+      {
+        "text": "de información lo correcto es usar el código del cultivo y no su nombre ya que",
+        "startMs": 224930,
+        "durationMs": 5340
+      },
+      {
+        "text": "el código Es un rasgo único de cada centro de costos y con su uso se tiene",
+        "startMs": 230270,
+        "durationMs": 4860
+      },
+      {
+        "text": "la garantía de que no se repetirá en ningún momento en el tiempo",
+        "startMs": 235130,
+        "durationMs": 4860
+      },
+      {
+        "text": "conviene también incluir el nombre corto del lote que debe ser una síntesis Clara",
+        "startMs": 239990,
+        "durationMs": 5159
+      },
+      {
+        "text": "y entendible del nombre largo ya que el sistema lo utiliza en reemplazo del",
+        "startMs": 245149,
+        "durationMs": 4800
+      },
+      {
+        "text": "nombre largo en los informes y bases de datos donde se usa",
+        "startMs": 249949,
+        "durationMs": 6601
+      },
+      {
+        "text": "actividad que se desarrolla en el nuevo centro de costos como guayaba naranja o",
+        "startMs": 256560,
+        "durationMs": 8150
+      },
+      {
+        "text": "aguacate cada actividad empresarial tiene",
+        "startMs": 264710,
+        "durationMs": 2160
+      },
+      {
+        "text": "configurado el conjunto de labores que lo son propias",
+        "startMs": 266870,
+        "durationMs": 3319
+      },
+      {
+        "text": "al asignarle la actividad correspondiente al cultivo que se está",
+        "startMs": 270189,
+        "durationMs": 3881
+      },
+      {
+        "text": "creando el nuevo centro de costos hereda de ella el conjunto de labores que le",
+        "startMs": 274070,
+        "durationMs": 9119
+      },
+      {
+        "text": "área del nuevo cultivo como se dice hectáreas o cinco cuadras",
+        "startMs": 283199,
+        "durationMs": 5811
+      },
+      {
+        "text": "este dato se necesita para el cálculo de los indicadores de costos y rendimientos",
+        "startMs": 289010,
+        "durationMs": 4500
+      },
+      {
+        "text": "de labores en función del área del lote como costos por hectárea de algún",
+        "startMs": 293510,
+        "durationMs": 5040
+      },
+      {
+        "text": "recurso kilogramos por hectárea en la aplicación de un insumo o jornales por",
+        "startMs": 298550,
+        "durationMs": 10740
+      },
+      {
+        "text": "población del nuevo cultivo 500 árboles 6000 sitios etcétera",
+        "startMs": 309300,
+        "durationMs": 7190
+      },
+      {
+        "text": "este dato se necesita para el cálculo de indicadores de costos y rendimientos de",
+        "startMs": 316490,
+        "durationMs": 5040
+      },
+      {
+        "text": "labores en función de la población del lote como costos por árbol de algún",
+        "startMs": 321530,
+        "durationMs": 6420
+      },
+      {
+        "text": "recurso árboles por kilogramo en la aplicación",
+        "startMs": 327950,
+        "durationMs": 1980
+      },
+      {
+        "text": "de un insumo árboles por jornal en la aplicación de",
+        "startMs": 329930,
+        "durationMs": 9960
+      },
+      {
+        "text": "fecha de creación que corresponde a la fecha de trabajo",
+        "startMs": 339900,
+        "durationMs": 5629
+      },
+      {
+        "text": "el cultivo queda creado en el sistema solo a partir de la fecha de trabajo en",
+        "startMs": 345529,
+        "durationMs": 4741
+      },
+      {
+        "text": "que se cree si una vez creado el cultivo se ubica la fecha de trabajo en una",
+        "startMs": 350270,
+        "durationMs": 5880
+      },
+      {
+        "text": "fecha anterior a esta el sistema declarará el cultivo como fuera de",
+        "startMs": 356150,
+        "durationMs": 5580
+      },
+      {
+        "text": "vigencia en la práctica como inexistente",
+        "startMs": 361730,
+        "durationMs": 3480
+      },
+      {
+        "text": "Más allá de la fecha de finalización del cultivo el sistema también considerar el",
+        "startMs": 365210,
+        "durationMs": 8580
+      },
+      {
+        "text": "esto es todo sobre creación de un cultivo perenne gracias por su atención",
+        "startMs": 373800,
+        "durationMs": 6440
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com/software-agricola\nPasos a seguir para la creación de un cultivo perenne en el software agrícola AgroWin.\nAW40-110-040-04B\n\n## Transcripción\n\ncriterios de codificación de cultivos perennes\nperennes A diferencia de los cultivos\ntransitorios los cultivos perennes se siembran para varios años de explotación\npor esta razón el sistema de codificación puede ser más sencillo ya\nque los códigos no necesitan extensiones relacionados con las fechas de siembra\nComo sucede con los cultivos transitorios\ntransitorios para la codificación de cultivos\nperemines se pueden utilizar valores numéricos ordinales como uno dos tres\nsubordinados al código del lote que puede ser alfanumérico\nun ejemplo de codificación de cultivos peremios se presenta en la diapositiva\ntenemos dos lotes codificados con códigos alfanuméricos l1 Azucenas L2 el\nrío el lote 1 Azucenas tiene dos cultivos\nperennes cacao y plátano codificados también con códigos\nsencillos y ordinales el código final para el cacao sería l1\ncreación de un cultivo perenne tal Como sucede con los cultivos\ntransitorios la creación de un cultivo perenne exige una información mínima que\nlo describe y lo ubica en el espacio y en el tiempo\nel código del nuevo cultivo un código único y diferente al de los\notros centros de costos que sirve como guía de referencia en el campo para el\nregistro de labores y aplicación de insumos\ninsumos este código debe ser sintético y lógico\nsintético ya que es el dato que se digita en el sistema y lógico por ser el\nparámetro que ubica el centro de costos dentro del complejo de centros de costos\nlote donde se ubica el cultivo como lote 1 lote 5 lote las margaritas\nlos lotes No son centros de costos son solo agrupadores de centros de costos\nlos verdaderos centros de costos son los cultivos que se albergan dentro de los\nlotes así como en la realidad dentro de un\nlote o área geográfica de la finca se pueden ubicar varios cultivos en el\nsistema se crean esos mismos lotes como áreas geográficas para crear dentro de\nellas los cultivos que le corresponden en el campo\nuna buena práctica en agro Win consiste en crear en el sistema los lotes tal\ncomo se conocen tradicionalmente en la finca\nfinca inclusive respetando sus nombres\ntradicionales pero codificandolos con un nuevo orden que corresponda por ejemplo\na su ubicación relativa dentro de la finca\nfinca para el caso de los cultivos perennes\npuede ser conveniente hacer coincidir el cultivo con el lote geográfico\nO sea que se tengan los límites del cultivo como límites del lote en este\ncaso siempre habrá un lote por cada cultivo perenne que se siembre\nesto es conveniente debido a que los cultivos perennes por la duración de su\nvida en realidad pasan a ser parte de la infraestructura de la finca\nnombre de cultivo como café de cacao plátano\nplátano como nombre del centro de costo se puede\nutilizar el mismo nombre de cultivo recuérdese que para efectos de captación\nde información lo correcto es usar el código del cultivo y no su nombre ya que\nel código Es un rasgo único de cada centro de costos y con su uso se tiene\nla garantía de que no se repetirá en ningún momento en el tiempo\nconviene también incluir el nombre corto del lote que debe ser una síntesis Clara\ny entendible del nombre largo ya que el sistema lo utiliza en reemplazo del\nnombre largo en los informes y bases de datos donde se usa\nactividad que se desarrolla en el nuevo centro de costos como guayaba naranja o\naguacate cada actividad empresarial tiene\nconfigurado el conjunto de labores que lo son propias\nal asignarle la actividad correspondiente al cultivo que se está\ncreando el nuevo centro de costos hereda de ella el conjunto de labores que le\nárea del nuevo cultivo como se dice hectáreas o cinco cuadras\neste dato se necesita para el cálculo de los indicadores de costos y rendimientos\nde labores en función del área del lote como costos por hectárea de algún\nrecurso kilogramos por hectárea en la aplicación de un insumo o jornales por\npoblación del nuevo cultivo 500 árboles 6000 sitios etcétera\neste dato se necesita para el cálculo de indicadores de costos y rendimientos de\nlabores en función de la población del lote como costos por árbol de algún\nrecurso árboles por kilogramo en la aplicación\nde un insumo árboles por jornal en la aplicación de\nfecha de creación que corresponde a la fecha de trabajo\nel cultivo queda creado en el sistema solo a partir de la fecha de trabajo en\nque se cree si una vez creado el cultivo se ubica la fecha de trabajo en una\nfecha anterior a esta el sistema declarará el cultivo como fuera de\nvigencia en la práctica como inexistente\nMás allá de la fecha de finalización del cultivo el sistema también considerar el\nesto es todo sobre creación de un cultivo perenne gracias por su atención"
+  },
+  "comments": {
+    "fetched": 1,
+    "reportedCount": 1,
+    "items": [
+      {
+        "id": "UgwvIA0MdChIvoNTFaN4AaABAg",
+        "parent": "root",
+        "text": "pueden subir esto por pantallazos para llevarlo acabo en el programa? \nG R A C I A S !",
+        "like_count": 0,
+        "author_id": "UC-9_U-6op6lJg-wolFyXDkw",
+        "author": "@Dawer8D",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nnAasoQZp9vr0C_Z2XP7z8bZeWbTv4qPBNglwYcfW_rQ=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@Dawer8D",
+        "is_favorited": false,
+        "_time_text": "12 years ago",
+        "timestamp": 1401840000,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 172.951,
+    "asr": 44100,
+    "filesizeApprox": 8205508,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/FaAS-KnCiK4.md",
+    "json": "videos/2012/FaAS-KnCiK4.json",
+    "infoJson": "videos/2012/FaAS-KnCiK4.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

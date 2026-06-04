@@ -1,0 +1,762 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:28:39.399Z",
+  "videoId": "2o07SXWQIyE",
+  "videoUrl": "https://www.youtube.com/watch?v=2o07SXWQIyE",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "2o07SXWQIyE",
+    "title": "Software contable ContaPyme - Ajuste por diferencia en cambio al procesar la oper de acciones mes",
+    "fulltitle": "Software contable ContaPyme - Ajuste por diferencia en cambio al procesar la oper de acciones mes",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme explica a tráves de un ejemplo cómo se realizan los ajustes por diferencia en cambio al momento de realizar la operación de acciones automáticas de fin de mes.\nCP40-075-060-050B",
+    "duration": 434,
+    "duration_string": "7:14",
+    "upload_date": "20120616",
+    "timestamp": 1339856614,
+    "view_count": 299,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software contable",
+      "paquete contable",
+      "software contable colombia",
+      "programa contable",
+      "sistema contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/2o07SXWQIyE/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCwgTih_MA8=&rs=AOn4CLD95aphr4jWkHQmM1_sqFrZk-Gwrw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgsIE4ofzAP&rs=AOn4CLAY0OpAqvssL6m80t51ISLHT6iuVw",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCwgTih_MA8=&rs=AOn4CLBXsLtSL4WS-rydTPF2Qg1S9vSlXg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCwgTih_MA8=&rs=AOn4CLBI5a9Ehu4bZVycffpY18guI0JLlw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCwgTih_MA8=&rs=AOn4CLCTjfkIBP97u5hwvFmMSLdC1i_WHQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgsIE4ofzAP&rs=AOn4CLBHJWqHT1IEw0w9bOAGqWjvWdrJjg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgsIE4ofzAP&rs=AOn4CLDEV3utjAb-1-3y2EVRBcGFe_eKow",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCwgTih_MA8=&rs=AOn4CLDYJt7GbiGH-9gkr2IkSwUogn1M1Q",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCwgTih_MA8=&rs=AOn4CLD95aphr4jWkHQmM1_sqFrZk-Gwrw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/2o07SXWQIyE/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/2o07SXWQIyE/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=2o07SXWQIyE",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2304147465437788,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20276497695852536,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20276497695852536,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20276497695852536,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 187.026,
+        "asr": 44100,
+        "filesize_approx": 10156563,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ajuste por diferencia en cambio al procesar la oper de acciones mes",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/2o07SXWQIyE/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/2o07SXWQIyE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ajuste por diferencia en cambio al procesar la oper de acciones mes\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 67,
+    "transcriptChars": 4695,
+    "segments": [
+      {
+        "text": "ajuste por diferencia en cambio al procesar la operación de acciones",
+        "startMs": 520,
+        "durationMs": 4990
+      },
+      {
+        "text": "automáticas de fin de mes como mencionamos en el video anterior Existen",
+        "startMs": 5510,
+        "durationMs": 5640
+      },
+      {
+        "text": "tres momentos en los cuales se pueden realizar los ajustes por diferencia en",
+        "startMs": 11150,
+        "durationMs": 5080
+      },
+      {
+        "text": "cambio siendo uno de ellos Al momento de procesar la operación de acciones",
+        "startMs": 16230,
+        "durationMs": 5640
+      },
+      {
+        "text": "automáticas de fin de mes en este video veremos a través de un ejemplo cómo se",
+        "startMs": 21870,
+        "durationMs": 6399
+      },
+      {
+        "text": "realizan los ajustes por encia en cambio al procesar la operación de acciones",
+        "startMs": 28269,
+        "durationMs": 5361
+      },
+      {
+        "text": "automáticas de fin de mes para realizar este ejemplo debemos",
+        "startMs": 33630,
+        "durationMs": 6439
+      },
+      {
+        "text": "ingresar a la configuración del manejo de moneda extranjera y verificar que no",
+        "startMs": 40069,
+        "durationMs": 6201
+      },
+      {
+        "text": "se tenga activa ninguna de las opciones de ajuste por diferencia En cambio no se",
+        "startMs": 46270,
+        "durationMs": 5799
+      },
+      {
+        "text": "debe tener activa ni la de habilitar ajustes de diferencia en cambio cada que",
+        "startMs": 52069,
+        "durationMs": 5561
+      },
+      {
+        "text": "se realice un movimiento como tampoco la de realizar ajustes cada que se procese",
+        "startMs": 57630,
+        "durationMs": 5559
+      },
+      {
+        "text": "la operación de registro de tasa de cambio El ejemplo lo basaremos en la",
+        "startMs": 63189,
+        "durationMs": 8481
+      },
+      {
+        "text": "creación y abono de una cuenta por cobrar inicialmente se registran las",
+        "startMs": 71670,
+        "durationMs": 6160
+      },
+      {
+        "text": "tasas de cambio de las diferentes monedas en este caso la tasa de cambio",
+        "startMs": 77830,
+        "durationMs": 5360
+      },
+      {
+        "text": "del dólar es de 800 generamos una cuenta por cobrar al",
+        "startMs": 83190,
+        "durationMs": 11919
+      },
+      {
+        "text": "$350 lo cual según la tasa de cambio registrada de 800 pesos equivale a",
+        "startMs": 95119,
+        "durationMs": 9030
+      },
+      {
+        "text": "630,000 pesos Ese es el saldo por el cual se generará la cuenta por",
+        "startMs": 104149,
+        "durationMs": 7640
+      },
+      {
+        "text": "cobrar veamos en el sistema esta secuencia de",
+        "startMs": 111789,
+        "durationMs": 5041
+      },
+      {
+        "text": "acciones tenemos registrada una operación de registro de tasas de cambio",
+        "startMs": 116830,
+        "durationMs": 6440
+      },
+      {
+        "text": "donde podemos observar la tasa de cambio de las diferentes monedas en este caso",
+        "startMs": 123270,
+        "durationMs": 6080
+      },
+      {
+        "text": "la tasa de cambio del dólar es de 800 pes Tenemos también la creación de la",
+        "startMs": 129350,
+        "durationMs": 8879
+      },
+      {
+        "text": "cuenta por cobrar por $350 a nombre del señor Juan Gómez con",
+        "startMs": 138229,
+        "durationMs": 7241
+      },
+      {
+        "text": "cargo a la cuenta de clientes del exterior",
+        "startMs": 145470,
+        "durationMs": 5880
+      },
+      {
+        "text": "exterior si consultamos un detalle de cuentas por",
+        "startMs": 151350,
+        "durationMs": 2760
+      },
+      {
+        "text": "cobrar para este tercero Juan Gómez encontraremos que se ha generado a su",
+        "startMs": 154110,
+        "durationMs": 6080
+      },
+      {
+        "text": "nombre una cuenta por cobrar por valor de",
+        "startMs": 160190,
+        "durationMs": 4280
+      },
+      {
+        "text": "de 630.000",
+        "startMs": 164470,
+        "durationMs": 4200
+      },
+      {
+        "text": "pesos días después se realiza el abono a la cuenta por cobrar el señor Juan Gómez",
+        "startMs": 168680,
+        "durationMs": 8469
+      },
+      {
+        "text": "nos Cancela los 350 lo cual a la tasa de cambio registrada",
+        "startMs": 177149,
+        "durationMs": 7681
+      },
+      {
+        "text": "para el dólar que es de 850 pesos equivale a",
+        "startMs": 184830,
+        "durationMs": 8360
+      },
+      {
+        "text": "67,500 pes ese será el valor del abono a la cuenta por",
+        "startMs": 193200,
+        "durationMs": 6630
+      },
+      {
+        "text": "cobrar después de realizar el abono si se calcula el saldo de la cuenta por",
+        "startMs": 199830,
+        "durationMs": 5840
+      },
+      {
+        "text": "cobrar vamos a encontrar que este ha quedado con un saldo negativo un saldo a",
+        "startMs": 205670,
+        "durationMs": 6720
+      },
+      {
+        "text": "favor del cliente por valor de 17,500 pes este saldo se genera porque",
+        "startMs": 212390,
+        "durationMs": 7559
+      },
+      {
+        "text": "se abonó un mayor valor al saldo que tenía la",
+        "startMs": 219949,
+        "durationMs": 6041
+      },
+      {
+        "text": "deuda veamos en el sistema esta secuencia de",
+        "startMs": 226000,
+        "durationMs": 4910
+      },
+      {
+        "text": "acciones tenemos la operación de registro de tasas de cambio como vemos",
+        "startMs": 230910,
+        "durationMs": 6239
+      },
+      {
+        "text": "se indicó la tasa de cambio de todas las monedas en este caso la tasa de cambio",
+        "startMs": 237149,
+        "durationMs": 10561
+      },
+      {
+        "text": "50es luego se registró el abono a la cuenta por cobrar en este caso el señor",
+        "startMs": 247720,
+        "durationMs": 13510
+      },
+      {
+        "text": "$350 si consultamos un detalle de cuentas por cobrar para el señor Juan",
+        "startMs": 261240,
+        "durationMs": 5509
+      },
+      {
+        "text": "Gómez encontraremos que el saldo de la cuenta por cobrar ya no es de 630,000",
+        "startMs": 266749,
+        "durationMs": 6720
+      },
+      {
+        "text": "pes sino de men 17,500",
+        "startMs": 273469,
+        "durationMs": 5361
+      },
+      {
+        "text": "17,500 pes como habíamos visto este saldo Se",
+        "startMs": 278830,
+        "durationMs": 3520
+      },
+      {
+        "text": "generó ya que el valor del abono es más alto que el valor de la cuenta por",
+        "startMs": 282350,
+        "durationMs": 6839
+      },
+      {
+        "text": "cobrar este saldo negativo se quedará allí registrado hasta que finalmente se",
+        "startMs": 289189,
+        "durationMs": 5961
+      },
+      {
+        "text": "realice el proceso de ajustes por diferencia en cambio",
+        "startMs": 295150,
+        "durationMs": 5280
+      },
+      {
+        "text": "se realiza entonces la operación de acciones automáticas de fin de mes esta",
+        "startMs": 300430,
+        "durationMs": 6759
+      },
+      {
+        "text": "operación realizará el ajuste sobre el saldo de la cuenta por cobrar tomará el",
+        "startMs": 307189,
+        "durationMs": 6761
+      },
+      {
+        "text": "saldo de la cuenta que en este caso es de -",
+        "startMs": 313950,
+        "durationMs": 3959
+      },
+      {
+        "text": "17,500 pes y lo cancelará para ello realizará un ajuste",
+        "startMs": 317909,
+        "durationMs": 6000
+      },
+      {
+        "text": "contable que consiste en realizar un débito a la cuenta por cobrar por",
+        "startMs": 323909,
+        "durationMs": 7241
+      },
+      {
+        "text": "17,500 para cancelarla y la cruza contra un crédito a la cuenta de ingresos en",
+        "startMs": 331150,
+        "durationMs": 7400
+      },
+      {
+        "text": "este caso la cuenta por diferencia en cambio de esta manera el saldo de la",
+        "startMs": 338550,
+        "durationMs": 6919
+      },
+      {
+        "text": "cuenta por cobrar ha quedado en 0 pesos y la cuenta ha quedado cancelada veamos",
+        "startMs": 345469,
+        "durationMs": 8160
+      },
+      {
+        "text": "en el sistema dicha acción tenemos la operación de acción automáticas de fin",
+        "startMs": 353629,
+        "durationMs": 7280
+      },
+      {
+        "text": "de mes donde se ha activado el proceso de ajustes por diferencia en cambio al",
+        "startMs": 360909,
+        "durationMs": 6801
+      },
+      {
+        "text": "igual que se ha indicado el centro de costos donde se cargarán dichos",
+        "startMs": 367710,
+        "durationMs": 5720
+      },
+      {
+        "text": "ajustes al procesar esta operación si consultamos el movimiento contable",
+        "startMs": 373430,
+        "durationMs": 6960
+      },
+      {
+        "text": "generado vamos a encontrar que el sistema realizó el respectivo ajuste un",
+        "startMs": 380390,
+        "durationMs": 6480
+      },
+      {
+        "text": "débito a la cuenta por cobrar por valor de",
+        "startMs": 386870,
+        "durationMs": 5000
+      },
+      {
+        "text": "de 17,500 contra un crédito de",
+        "startMs": 391870,
+        "durationMs": 3719
+      },
+      {
+        "text": "17,500 a la cuenta de ingresos por diferencia en",
+        "startMs": 395589,
+        "durationMs": 11281
+      },
+      {
+        "text": "diapositiva si consultamos un informe de cuentas por cobrar para el tercero Juan",
+        "startMs": 406880,
+        "durationMs": 5950
+      },
+      {
+        "text": "Gómez encontraremos que el saldo de la cuenta por cobrar ya es de 0",
+        "startMs": 412830,
+        "durationMs": 5560
+      },
+      {
+        "text": "pes esto debido a que ya se realizó el ajuste por diferencia en cambio esto es",
+        "startMs": 418390,
+        "durationMs": 6440
+      },
+      {
+        "text": "todo acerca de ajustes por diferencia en cambio al procesar la operación de",
+        "startMs": 424830,
+        "durationMs": 5960
+      },
+      {
+        "text": "acciones automáticas de fin de mes",
+        "startMs": 430790,
+        "durationMs": 5570
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme explica a tráves de un ejemplo cómo se realizan los ajustes por diferencia en cambio al momento de realizar la operación de acciones automáticas de fin de mes.\nCP40-075-060-050B\n\n## Transcripción\n\najuste por diferencia en cambio al procesar la operación de acciones\nautomáticas de fin de mes como mencionamos en el video anterior Existen\ntres momentos en los cuales se pueden realizar los ajustes por diferencia en\ncambio siendo uno de ellos Al momento de procesar la operación de acciones\nautomáticas de fin de mes en este video veremos a través de un ejemplo cómo se\nrealizan los ajustes por encia en cambio al procesar la operación de acciones\nautomáticas de fin de mes para realizar este ejemplo debemos\ningresar a la configuración del manejo de moneda extranjera y verificar que no\nse tenga activa ninguna de las opciones de ajuste por diferencia En cambio no se\ndebe tener activa ni la de habilitar ajustes de diferencia en cambio cada que\nse realice un movimiento como tampoco la de realizar ajustes cada que se procese\nla operación de registro de tasa de cambio El ejemplo lo basaremos en la\ncreación y abono de una cuenta por cobrar inicialmente se registran las\ntasas de cambio de las diferentes monedas en este caso la tasa de cambio\ndel dólar es de 800 generamos una cuenta por cobrar al\n$350 lo cual según la tasa de cambio registrada de 800 pesos equivale a\n630,000 pesos Ese es el saldo por el cual se generará la cuenta por\ncobrar veamos en el sistema esta secuencia de\nacciones tenemos registrada una operación de registro de tasas de cambio\ndonde podemos observar la tasa de cambio de las diferentes monedas en este caso\nla tasa de cambio del dólar es de 800 pes Tenemos también la creación de la\ncuenta por cobrar por $350 a nombre del señor Juan Gómez con\ncargo a la cuenta de clientes del exterior\nexterior si consultamos un detalle de cuentas por\ncobrar para este tercero Juan Gómez encontraremos que se ha generado a su\nnombre una cuenta por cobrar por valor de\nde 630.000\npesos días después se realiza el abono a la cuenta por cobrar el señor Juan Gómez\nnos Cancela los 350 lo cual a la tasa de cambio registrada\npara el dólar que es de 850 pesos equivale a\n67,500 pes ese será el valor del abono a la cuenta por\ncobrar después de realizar el abono si se calcula el saldo de la cuenta por\ncobrar vamos a encontrar que este ha quedado con un saldo negativo un saldo a\nfavor del cliente por valor de 17,500 pes este saldo se genera porque\nse abonó un mayor valor al saldo que tenía la\ndeuda veamos en el sistema esta secuencia de\nacciones tenemos la operación de registro de tasas de cambio como vemos\nse indicó la tasa de cambio de todas las monedas en este caso la tasa de cambio\n50es luego se registró el abono a la cuenta por cobrar en este caso el señor\n$350 si consultamos un detalle de cuentas por cobrar para el señor Juan\nGómez encontraremos que el saldo de la cuenta por cobrar ya no es de 630,000\npes sino de men 17,500\n17,500 pes como habíamos visto este saldo Se\ngeneró ya que el valor del abono es más alto que el valor de la cuenta por\ncobrar este saldo negativo se quedará allí registrado hasta que finalmente se\nrealice el proceso de ajustes por diferencia en cambio\nse realiza entonces la operación de acciones automáticas de fin de mes esta\noperación realizará el ajuste sobre el saldo de la cuenta por cobrar tomará el\nsaldo de la cuenta que en este caso es de -\n17,500 pes y lo cancelará para ello realizará un ajuste\ncontable que consiste en realizar un débito a la cuenta por cobrar por\n17,500 para cancelarla y la cruza contra un crédito a la cuenta de ingresos en\neste caso la cuenta por diferencia en cambio de esta manera el saldo de la\ncuenta por cobrar ha quedado en 0 pesos y la cuenta ha quedado cancelada veamos\nen el sistema dicha acción tenemos la operación de acción automáticas de fin\nde mes donde se ha activado el proceso de ajustes por diferencia en cambio al\nigual que se ha indicado el centro de costos donde se cargarán dichos\najustes al procesar esta operación si consultamos el movimiento contable\ngenerado vamos a encontrar que el sistema realizó el respectivo ajuste un\ndébito a la cuenta por cobrar por valor de\nde 17,500 contra un crédito de\n17,500 a la cuenta de ingresos por diferencia en\ndiapositiva si consultamos un informe de cuentas por cobrar para el tercero Juan\nGómez encontraremos que el saldo de la cuenta por cobrar ya es de 0\npes esto debido a que ya se realizó el ajuste por diferencia en cambio esto es\ntodo acerca de ajustes por diferencia en cambio al procesar la operación de\nacciones automáticas de fin de mes"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 187.026,
+    "asr": 44100,
+    "filesizeApprox": 10156563,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/2o07SXWQIyE.md",
+    "json": "videos/2012/2o07SXWQIyE.json",
+    "infoJson": "videos/2012/2o07SXWQIyE.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

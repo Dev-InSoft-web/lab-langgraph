@@ -1,0 +1,358 @@
+---
+title: Páginas - RUT
+url: https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/tributarios/Paginas/RUT.aspx
+corpus: dian
+tipo: web
+audience: contadores
+pageId: f1f5d6bfc2ccab03
+storageRel: dian/2026
+fetchedAt: 2026-06-04T03:26:31.368Z
+---
+
+# Páginas - RUT
+
+# ​RUT
+
+ ##  Acordeón
+
+ ##  Inscripción en el Registro Único Tributario (RUT)
+
+**Conoce todo sobre el trámite en** [**SUIT**](https://visorsuit.funcionpublica.gov.co/auth/visor?fi=159) **y/o** [**GOV.CO**](https://www.gov.co/ficha-tramites-y-servicios/T5870)
+
+**Preguntas frecuentes**
+
+**¿Qué es el RUT?**
+
+Es la sigla de Registro Único Tributario, el cual es administrado por la DIAN, y constituye el mecanismo único para identificar, ubicar y clasificar a los sujetos de obligaciones administradas por la DIAN, así como aquellos que por disposición legal deban hacerlo o por decisión de la DIAN conforme con las normas legales y reglamentarias vigentes. 
+
+**¿Qué es el Número de Identificación Tributaria (NIT)?**
+
+El Número de Identificación Tributaria (NIT), es un número único, que se utiliza en Colombia por la UAE-DIAN para identificar a sus administrados y permite la individualización inequívoca de los inscritos, para todos los efectos, en materia tributaria, aduanera y de control cambiario y, en especial, para el cumplimiento de las obligaciones de la misma naturaleza. 
+
+**¿Cuáles son los beneficios del RUT?** 
+
+El RUT facilita al inscrito el cumplimiento de las obligaciones tributarias, aduaneras y cambiarias; le permite una comunicación fluida y eficaz con la DIAN; de igual manera la DIAN podrá desarrollar una gestión efectiva en materia de recaudo, control y servicio a sus administrados, así como la simplificación de trámites y reducción de costos. 
+
+**¿Para qué sirve el RUT?**
+
+-   Realizar los trámites relacionados con el cumplimiento de las obligaciones Tributarias, Aduaneras y Cambiarias (TAC) a través de los servicios en línea o presenciales que le ofrece la DIAN.
+
+-   Identificar y reconocer sus obligaciones TAC frente al Estado colombiano.
+
+-   Permitir que terceros con quienes usted sostenga una relación comercial, laboral o económica identifiquen su actividad económica registrada en el RUT.
+
+-   Acreditar e identificar la actividad económica ante terceros con quienes sostenga una relación comercial, laboral o económica en general.
+
+-   Suministrar información importante para facilitarle el cumplimiento de sus obligaciones TACI.
+
+-   Finalmente, define cada una de las responsabilidades de índole tributaria y aduanera a las cuales está sujeto, permitiéndole a la entidad ejercer un mejor control sobre el cumplimiento de estas y, adicionalmente, comunicarle oportunamente sobre el vencimiento de las obligaciones.
+
+**¿Qué costo tiene la inscripción en el RUT?** 
+
+La inscripción en el RUT no tiene ningún costo, el trámite es completamente gratuito, así como el formulario requerido para ello. 
+
+**¿Quiénes están obligados a inscribirse en el RUT?**
+
+-   Las personas naturales sin residencia en Colombia y las sociedades y entidades extranjeras por cada establecimiento permanente o sucursal que tengan en el territorio nacional;
+
+-   Las personas naturales sin residencia en Colombia y las sociedades y entidades extranjeras están obligadas a inscribirse en el Registro Único Tributario (RUT) para el cumplimento de sus obligaciones fiscales, incluida la de declarar por las rentas y ganancias ocasionales de fuente nacional percibidas directamente y no atribuibles a algún establecimiento permanente o sucursal en el país, cuando ello proceda de conformidad con lo previsto en los artículos 591 y 592 del Estatuto Tributario;
+
+-   Los sujetos sin residencia o sin domicilio en Colombia que presten servicios desde el exterior, gravados con el impuesto sobre las ventas (IVA) y/o con presencia económica significativa (PES)en Colombia, a sujetos que no estén en la obligación de practicarles la retención en la fuente a título del impuesto sobre las ventas (IVA), prevista en el numeral 3 del artículo 437-2 del Estatuto Tributario, deberán inscribirse para el cumplimento de sus obligaciones fiscales, incluidas las de recaudar, declarar y pagar el impuesto sobre las ventas (IVA), de conformidad con lo previsto en el parágrafo 3 del artículo 420 y parágrafo 2 del artículo 437 del Estatuto Tributario;
+
+-   Las personas y entidades que tengan la calidad de contribuyentes declarantes del impuesto sobre la renta y complementario de ganancias ocasionales, y demás impuestos administrados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN);
+
+-   Los patrimonios autónomos constituidos para desarrollar operaciones de comercio exterior, en desarrollo y cumplimiento de la regulación aduanera y aquellos casos que por disposiciones especiales deban contar con un Número de Identificación Tributaria (NIT) individual;
+
+-   Los inversionistas extranjeros obligados a cumplir deberes formales;
+
+-   Los inversionistas no residentes ni domiciliados en Colombia titulares de inversiones de capital del exterior de portafolio, independientemente de la modalidad o vehículo utilizado para efectuar la inversión;
+
+-   Las sucursales en el país de personas jurídicas o entidades extranjeras;
+
+-   Las personas naturales que actúan en calidad de representantes legales, mandatarios, delegados, apoderados y representantes en general que deban suscribir declaraciones, presentar información y cumplir otros deberes a nombre del contribuyente, responsable, agente retenedor, declarante, informante o inversionista extranjero, en materia tributaria, aduanera o cambiaria. Así mismo, deben cumplir con esta inscripción los revisores fiscales y contadores, que deban suscribir declaraciones por disposición legal;
+
+-   Las personas y entidades no contribuyentes declarantes de ingresos y patrimonio y las personas naturales no responsables del impuesto nacional al consumo de restaurantes y bares;
+
+-   Los responsables del impuesto sobre las ventas (IVA) y no responsables del impuesto sobre las ventas (IVA);
+
+-   Las personas o entidades no responsables del impuesto sobre las ventas (IVA), que requieran la expedición de NIT cuando por disposiciones especiales están obligadas a expedir factura, o como consecuencia del desarrollo de una actividad económica no gravada;
+
+-   Los responsables y no responsables del impuesto nacional al consumo;
+
+-   Los responsables del impuesto nacional a la gasolina y al ACPM;
+
+-   Los agentes retenedores;
+
+-   Los importadores, exportadores y demás usuarios aduaneros;
+
+-   Los profesionales de compra y venta de divisas en efectivo y cheques de viajeros;
+
+-   Los obligados a declarar el ingreso o salida del país de divisas o moneda legal colombiana en efectivo;
+
+-   Los sujetos sobre los cuales la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) requiera la inscripción para efectos del control del cumplimiento de las obligaciones sustanciales y formales que administra;
+
+-   Las personas que decidan acogerse voluntariamente al Impuesto Unificado SIMPLE; o
+
+-   Quienes estén obligados al cumplimiento con las obligaciones sustanciales y formales de las estructuras sin personería jurídica o similares.
+
+**¿Puedo usar la copia de un poder especial para realizar el trámite de inscripción, actualización o cancelación del RUT?** 
+
+Cuando el poder especial esté dirigido a varias entidades para varios trámites o para diferentes áreas de la entidad, se aceptará copia física o digital del mismo previa manifestación verbal o escrita del solicitante indicando que el original fue entregado para otro trámite u otra entidad.
+
+**¿Quiénes no están obligados a inscribirse en el RUT?**　 
+
+Los sujetos que no deben cumplir obligaciones administradas por la DIAN.
+
+Para efectos de las operaciones de importación, exportación, tránsito aduanero, no estarán obligados a inscribirse en el RUT en calidad de usuarios aduaneros:
+
+-   Los extranjeros no residentes, diplomáticos, misiones diplomáticas, misiones consulares y misiones técnicas acreditadas en Colombia, los sujetos al régimen de menajes y de viajeros, los transportadores internacionales no residentes, las personas naturales destinatarias o remitentes de mercancías bajo la modalidad de tráfico postal y envíos urgentes, salvo cuando utilicen la modalidad para la importación y/o exportación de expediciones comerciales.
+
+-   Estos usuarios aduaneros podrán identificarse con el número de pasaporte, número de documento de identidad o el número del documento que acredita la misión. Lo anterior sin perjuicio de la inscripción que deban cumplir en virtud de otras responsabilidades u obligaciones a que estén sujetos.
+
+**¿En qué momento debo inscribirme en el RUT?** 
+
+La inscripción en el RUT deberá efectuarse en forma previa al inicio de la actividad económica, al cumplimiento de obligaciones administradas por la DIAN, y en general, a la realización de operaciones en calidad de importador, exportador o usuario aduanero.
+
+Las personas naturales que en el correspondiente año gravable adquieran la calidad de declarantes del impuesto sobre la renta y complementarios, acorde con lo establecido en los artículos 592, 593 y 594-1 del Estatuto Tributario, tendrán plazo para inscribirse en el RUT hasta la fecha de vencimiento prevista para presentar la respectiva declaración. Lo anterior, sin perjuicio de la obligación de registrarse por una situación diferente. 
+
+**¿Necesito tener una cuenta de ahorros o corriente para poder inscribirme en el RUT?**　 
+
+De acuerdo con lo establecido en el artículo 1 del Decreto 768 del 6 de mayo de 2016 no se requiere de la cuenta bancaria para la inscripción en el RUT.　　　 
+
+**¿Las sucesiones ilíquidas que no hayan iniciado el proceso de liquidación ante juzgado o notaría, pueden inscribir o actualizar el RUT?**
+
+Sí, de acuerdo con el numeral 3.3.2. del artículo 1.6.1.2.11 del Decreto Único Reglamentario 1625 de 2016 y oficio 100208192-326 del 14 de marzo de 2023 de la Subdirección de Normativa y Doctrina de la Dirección de Gestión Jurídica, cuando no se haya iniciado el proceso de sucesión ante notaría o juzgado, los herederos de común acuerdo podrán designar entre ellos mismos a un heredero o a un tercero como representante de la sucesión.
+
+Requisitos del documento:
+
+-   Debe estar autenticado ante notario o autoridad competente.
+
+-   Se deberá manifestar que el nombramiento es autorizado por los herederos conocidos.
+
+-   De existir un único heredero, este deberá suscribir un documento a través del cual manifieste que ostenta esta condición, el cual se entiende presentado bajo la gravedad del juramento.
+
+-   Tratándose de menores o incapaces, el documento mencionado se suscribirá por sus representantes o apoderados debidamente acreditados. En estos casos se deberá aportar copia física o digital del documento que acredita la representación o del poder.
+
+**¿Qué vigencia tiene la inscripción en el RUT?**
+
+La inscripción en el RUT tendrá vigencia indefinida, salvo que sin perjuicio de las actualizaciones a que haya lugar y, en consecuencia, no se exigirá su renovación. 
+
+**¿Cómo me inscribo en el RUT?**
+
+El trámite de inscripción se podrá realizar de forma presencial en las instalaciones de la UAE-DIAN:  
+
+-   Directamente por el interesado o por quien ejerza la representación legal, acreditando la calidad correspondiente; 
+
+-   A través de apoderado debidamente acreditado, el cual no requiere tener la calidad de abogado.
+
+También podrá formalizar la inscripción de forma electrónica a través de la página web de la DIAN:
+
+-   Las personas naturales identificadas con cédula de ciudadanía colombiana que no realicen actividades mercantiles, previa verificación de la información que realizará el sistema. Igualmente, se podrá realizar la inscripción en las Cámaras de Comercio o Ventanilla Única Empresarial -VUE y en otras entidades públicas o privadas facultadas para tal fin por la DIAN.
+
+A continuación, se comparte el link donde encontrarán el paso a paso para la realización del trámite: [https://www.dian.gov.co/impuestos/RUT/Paginas/Inscripcion-y-actualizacion-RUT.aspx](https://www.dian.gov.co/impuestos/RUT/Paginas/Inscripcion-y-actualizacion-RUT.aspx) 
+
+**¿Si me encuentro en el exterior cómo realizo el trámite de inscripción, actualización o cancelación del RUT?** 
+
+Las personas naturales que se encuentren en el exterior podrán hacer su inscripción a través de la página w_eb_ de la entidad, en el enlace de [https://muisca.dian.gov.co/WebRutVirtualInscripcion/#/proceso-guiado/tipoPersona](https://muisca.dian.gov.co/WebRutVirtualInscripcion/#/proceso-guiado/tipoPersona)
+
+Cuando no puedan acceder a los canales autorizados por la DIAN, podrán enviar la solicitud de inscripción o actualización del Registro Único Tributario (RUT), a través del servicio de "PQSR y Denuncias" de la página web de la DIAN, o por el medio que se establezca para tal fin, anexando copia de su documento de identidad y pasaporte, en donde conste la fecha de salida del país. En caso de que por política de migración el solicitante no cuente con esta constancia, deberá manifestarse por escrito la fecha de salida del país.
+
+Las personas naturales sin residencia, las sociedades o entidades extranjeras sin domicilio en Colombia, responsables del impuesto sobre las ventas (IVA) y/o con presencia económica significativa (PES) en Colombia, podrán igualmente enviar la solicitud de inscripción o actualización del Registro Único Tributario (RUT), a través del servicio de "PQSR y Denuncias" de la página web de la DIAN, o por el medio que se establezca para tal fin, aportando los documentos exigidos en el numeral 11 del artículo 1.6.12.11. del Decreto Único Reglamentario 1625 de 2016.
+
+Se entenderá formalizado el trámite, una vez se cumpla el proceso de autenticación, validación e incorporación de la información suministrada por el obligado ante la DIAN y se expida el respectivo certificado
+
+Una vez la DIAN formalice el respectivo trámite, enviará a la dirección electrónica informada por el peticionario el certificado del RUT.
+
+**¿Cuáles son las sanciones relativas al incumplimiento en la obligación de inscribirse en el RUT y obtención del NIT?** 
+
+1.  Sanción por no inscribirse en el Registro Único Tributario (RUT), antes del inicio de la actividad, por parte de quien esté obligado a hacerlo. Se impondrá la clausura del establecimiento, sede, local, negocio u oficina, por el término de un (1) día por cada mes o fracción de mes de retraso en la inscripción, o una multa equivalente a una (1) UVT por cada día de retraso en la inscripción, para quienes no tengan establecimiento, sede, local, negocio u oficina.  
+
+2.  Sanción por no actualizar la información dentro del mes siguiente al hecho que genera la actualización, por parte de las personas o entidades inscritas en el Registro Único Tributario (RUT). Se impondrá una multa equivalente a una (1) UVT por cada día de retraso en la actualización de la información. Cuando la desactualización del RUT se refiera a la dirección o a la actividad económica del obligado, la sanción será de dos (2) UVT por cada día de retraso en la actualización de la información.
+
+3.  Se impondrá una multa equivalente a cien (100) UVT por informar datos falsos, incompletos o equivocados, por parte del inscrito o del obligado a inscribirse en el Registro Único Tributario, RUT. 
+
+**¿Cómo puedo obtener una copia del Certificado del Registro Único Tributario?**
+
+-   Para solicitar la copia del RUT vía Internet es necesario habilitar una cuenta y generar firma electrónica, para ello por favor ingrese al enlace: [https://muisca.dian.gov.co/WebIdentidadLogin/](https://muisca.dian.gov.co/WebIdentidadLogin/)
+
+-   Después de habilitada puede ingresar la opción Obtener copia RUT – Descargue su certificado con un solo click. 
+
+**¿Las sucursales de sociedades extranjeras deben registrarse en el RUT?** 
+
+Las sucursales de sociedades extranjeras que tengan la condición de sujetos pasivos de obligaciones o deberes formales de carácter tributario, aduanero o cambiario u otros que la ley colombiana les asigne y que deban cumplir ante la DIAN, deben solicitar la inscripción en el Registro Único Tributario RUT. 
+
+**¿Cuándo se puede realizar una inscripción de oficio en el RUT?**
+
+La DIAN podrá, mediante acto administrativo debidamente motivado, inscribir de oficio en el RUT a cualquier persona natural de acuerdo con la información que disponga la entidad y de fuentes confiables como Departamento Nacional de Planeación, Registraduría Nacional del Estado Civil y la Unidad Administrativa Especial Migración Colombia.
+
+El acto administrativo que ordene la inscripción de oficio en el RUT se notificará de acuerdo con lo establecido en el artículo 565 del Estatuto Tributario.
+
+**¿Quiénes pueden consultar la información del Registro Único Tributario a través de los servicios del portal?**
+
+Podrán hacer uso del servicio de consultas, las personas naturales que figuren como "Representantes" en la hoja 3 del RUT, ingresando a la plataforma MUISCA / Usuario Registrado, por la opción “a nombre de un tercero" a los cuales se encuentran relacionados, a excepción de:
+
+-   Asignatario
+
+-   Donatario
+
+-   Mandatario
+
+-   Representante aduanero
+
+-   Agente de aduanas
+
+-   Comunero
+
+Además, las personas naturales que cumplan alguno de los roles determinados en la hoja 5 de "Revisor Fiscal y/o Contador", ingresando a la plataforma MUISCA / Usuario Registrado, por la opción “a nombre de un tercero" a los cuales se encuentran relacionados:
+
+-   Revisor fiscal principal
+
+-   Revisor fiscal suplente
+
+-   Contador
+
+**¿Quiénes no podrán utilizar estos servicios?**
+
+El representante legal en calidad de Factor (administrador) y los Socios y/o Miembros de Juntas Directivas (Hoja 4). Y los indicados en la primera parte de la pregunta anterior.
+
+ ##  Cancelación de la inscripción en el Registro Único Tributario (RUT)
+
+**Conozca todo sobre el trámite en** [**SUIT**](https://visorsuit.funcionpublica.gov.co/auth/visor?fi=8030) **y/o** [**GOV.CO**](https://www.gov.co/ficha-tramites-y-servicios/T8030)
+
+**Preguntas frecuentes**
+
+**¿En cuáles casos procede la cancelación de la inscripción en el Registro Único Tributario (RUT) a solicitud de parte?**　
+
+La cancelación de la inscripción en el RUT a solicitud de parte, procederá en los siguientes casos:　
+
+-   Por liquidación, fusión o escisión de la persona jurídica o asimilada.
+
+-   Al liquidarse la sucesión del causante cuando a ello hubiere lugar.
+
+-   Por finalización del contrato de consorcio o unión temporal o cualquier otro de colaboración empresarial.
+
+-   Por sustitución o cancelación definitiva de la inversión extranjera directa.
+
+-   Por cambio de género, previa expedición del nuevo documento de identidad.
+
+-   Por el cese definitivo de la inversión de portafolio del exterior, sin perjuicio de su posterior reactivación, a solicitud de parte, con el cumpliendo de los requisitos de que trata el artículo 1.6.1.2.11.del capítulo 2 del título 1 de la parte 6 del libro 1 del presente decreto.
+
+-   Por el cese de actividades a través de establecimiento permanente en Colombia.
+
+-   Por el cambio de la sede efectiva de administración fuera del territorio nacional, sin perjuicio de su posterior reactivación, a solicitud de parte, con el cumplimiento de los requisitos de que trata el artículo 1.6.1.2.11. del capítulo 2 del título 1 de la parte 6 del libro 1 del presente decreto.
+
+-   Por terminación y/o liquidación del contrato de fiducia mercantil.
+
+-   En el caso de prestadores de servicios desde el exterior responsables del impuesto sobre las ventas (IVA) por la no realización definitiva del hecho generador, o los sujetos con presencia económica significativa (PES) en Colombia por la cesación definitiva de las actividades que dan lugar a la presencia económica significativa (PES) en Colombia.
+
+-   En el caso de prestadores de servicios desde el exterior responsables del impuesto sobre las ventas (IVA) y/o con presencia económica significativa (PES) en Colombia, por liquidación, fusión o escisión de la sociedad o entidad extranjera.
+
+-   En el caso de prestadores de servicios desde el exterior responsables del impuesto sobre las ventas (IVA) y/o con presencia económica significativa (PES) en Colombia, por liquidación de la sucesión de la persona natural sin residencia en Colombia.
+
+-   Por unificación de las entidades de derecho público del orden nacional, departamental, municipal y descentralizados que deban cumplir sus obligaciones de forma consolidada.
+
+Cuando se detecten 2 o más NIT y/o de tipo y número de documento que corresponda a una misma persona natural y/o jurídica.
+
+Cuando la persona natural extranjera no tenga domicilio fiscal en Colombia y no tenga que cumplir con obligaciones exigibles ante la Dirección de Impuestos y Aduanas Nacionales -DIAN.
+
+**¿En qué casos procede la cancelación de la inscripción en el RUT de oficio?**　
+
+La cancelación de la inscripción en el RUT, de oficio por parte de la DIAN, procederá en los siguientes casos:
+
+• Por inactividad tributaria, por la ausencia de registros en las bases de datos electrónicas de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) que evidencia la inexistencia de operaciones comerciales, financieras, tributarias, aduaneras o cambiarias de las personas registradas.
+
+• Por no realizar el proceso de inscripción en el Registro Único Tributario (RUT) dentro del término establecido en el artículo 19 transitorio del Decreto 2788 del 31 de agosto de 2004.
+
+• Cuando por declaratoria de autoridad competente se establezca que existió suplantación en la inscripción en el Registro Único Tributario (RUT).
+
+• Por orden de autoridad competente.
+
+• Por el cese de actividades a través de establecimiento permanente en Colombia.
+
+• Por unificación de las entidades de derecho público del orden nacional, departamental, municipal y descentralizados que deban cumplir sus obligaciones de forma consolidada.
+
+• Cuando se detecte que hay duplicidad de Número de Identificación Tributaria (NIT) a una misma persona natural y/o jurídica.
+
+• Cuando la Dirección de Impuestos y Aduanas Nacionales (DIAN) constate a través de sus procesos internos o de fuentes de información confiable, que la inscripción en el Registro Único Tributario (RUT) fue autenticado, validado y/o formalizado por una persona no autorizada o facultada por el titular.
+
+• Cuando se cancele la personería jurídica de una entidad por orden de autoridad competente.　
+
+¿Cuándo se puede realizar el trámite de solicitud de cancelación de la inscripción en el RUT?　　
+
+La solicitud de cancelación de la inscripción en el RUT se puede realizar una vez suceda cualquiera de los hechos enunciados en el artículo 1.6.1.2.18 del Decreto 1625 de 2016.
+
+**¿Dónde se puede realizar el trámite de solicitud de cancelación de la inscripción en el RUT?**　　
+
+La solicitud de cancelación de la inscripción en el RUT puede realizarse de manera presencial en los puntos de atención de la DIAN con previo agendamiento ([aquí](https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/Paginas/Inicio.aspx)) o en línea a través del portal web de la entidad.　
+
+**¿Cómo se deben adjuntar los documentos para la solicitud de cancelación de la inscripción en el RUT cuando la solicitud se realiza en línea?**　
+
+Cuando la solicitud de cancelación se realiza a través de los servicios en línea de la DIAN, los documentos soporte deberán anexarse después de formalizada por el enlace de Adjuntar soportes, si este no se los permite deberán remitirse de manera física a la división de Servicio al Ciudadano de la dirección seccional de impuestos y aduanas de la jurisdicción del cliente.　　
+
+**¿Cuál es el proceso de Cancelación de RUT cuando una empresa absorbe a otra?**
+
+El procedimiento es igual, se deberá allegar el documento expedido por autoridad competente donde se acredite el estado de la sociedad. Se cancela el RUT de la entidad absorbida y el ente absorbente responde por las obligaciones de aquella. 
+
+**¿Cómo se activa un RUT de una persona jurídica que ha sido cancelado, que está solicitando una devolución?**
+
+La reactivación del RUT en los casos en que hubiere lugar a ello será solicitada por el área competente de la DIAN.
+
+**¿Cuánto tiempo tiene la DIAN para informarme de los faltantes de los Requisitos para la actualización del RUT sujetas a verificación?**
+
+De no cumplir con los requisitos establecidos en el artículo 1.6.1.2.28. del Decreto Único Reglamentario 1625 de 2016, la actualización no se realizará, informando al usuario, a más tardar dentro de los 8 días hábiles siguientes a su recepción, de tal situación y la posibilidad de radicar los documentos con el cumplimiento de los requisitos establecidos para poder iniciar la verificación. Sin embargo, el cliente podrá desistir de la solicitud en cualquier momento, siempre y cuando sea antes de que se registre la decisión a la solicitud de actualización del RUT sujeta a verificación.
+
+**¿Cuáles son los términos para resolver la solicitud?**
+
+Una vez presentada en debida forma la solicitud, la actualización del RUT será decidida dentro de los 30 días hábiles siguientes a la formalización de la solicitud a través de los servicios en línea de la DIAN, mediante acto administrativo que se notificará al interesado o a su apoderado, de acuerdo con lo establecido en el Estatuto Tributario.
+
+**¿Qué verificaciones hace la DIAN para aprobar la solicitud de cancelación de la inscripción en el RUT?**　
+
+El trámite de cancelación estará sujeto a la verificación del cumplimiento de todas las obligaciones administradas por la DIAN, sin perjuicio de la aplicación de lo previsto en el artículo 820 del Estatuto Tributario.　　
+
+**Si una sociedad tiene deudas pendientes con la DIAN, ¿puede cancelar el RUT?**　
+
+El trámite de cancelación estará sujeto a la verificación del cumplimiento de todas las obligaciones administradas por la DIAN, sin perjuicio de la aplicación de lo previsto en el artículo 820 del Estatuto Tributario.　
+
+**¿En qué casos puede la DIAN de oficio cancelar el RUT?**　
+
+Cuando la persona natural hubiere fallecido, de acuerdo con información suministrada por la Registraduría Nacional del Estado Civil y se encuentre inscrita sin responsabilidades en el RUT, también cuando exista orden de cancelación que provenga de autoridad en ejercicio de funciones jurisdiccionales o de la DIAN, en este último caso por razones de control y/o inactividad tributaria.　
+
+**¿Qué debo tener en cuenta al momento de cancelar una sucesión ilíquida?**
+
+No se debe aceptar el poder otorgado por un cliente a un menor de edad, ya que las actuaciones adelantadas por ellos no tienen ninguna validez jurídica.
+
+• Los abogados a quienes los herederos le den el poder para adelantar el proceso de partición de bienes (Hijuelas), dicho poder no les faculta para actualizar el RUT del fallecido (registrar la sucesión ilíquida ante la DIAN), salvo que en el mismo poder le estén facultando para realizar dicha inscripción y/o actualización.　
+
+• No se requiere tramitar el RUT si el contribuyente no cumple con ningún parámetro establecido por ley para declarar renta, o el cumplimiento de alguna otra obligación tributaria
+
+• La sucesión ilíquida deja de ser contribuyente del impuesto de renta tan pronto la sentencia o escritura de adjudicación, según corresponda, sea expedida y notificada.
+
+• Si es una Herencia Yacente (No hay herederos), se debe anexar documento expedido por el Juez nombrando al Curador que representa al causante.
+
+• Cuando no se haya iniciado el proceso de sucesión ante notaría o juzgado, los herederos de común acuerdo podrán designar entre ellos mismos a un heredero como representante de la sucesión, en el mencionado documento se deberá manifestar que el cual se entiende presentado bajo la gravedad del juramento y que el nombramiento es autorizado por los herederos conocidos.
+
+• De existir un único heredero, este deberá suscribir un documento a través del cual manifieste que ostenta esta condición, el cual se entiende presentado bajo la gravedad del juramento.
+
+• Tratándose de menores o incapaces, el documento mencionado se suscribirá por sus representantes o apoderados debidamente acreditados. En estos casos se deberá aportar copia física o digital del documento que acredita la representación o del poder.
+
+• Si el representante de la sucesión es un Albacea, deberá acompañarse de fotocopia del testamento y/o del documento que lo designe.
+
+• Para la Cancelación del RUT por el fallecimiento de personas naturales al liquidarse la sucesión cuando a ello hubiere lugar el contribuyente No debe tener obligaciones pendientes con la DIAN.
+
+**Glosario**
+
+**Cancelación de la inscripción en el RUT:** Permite a las personas naturales cancelar el RUT por sucesión liquidada o a personas jurídicas y asimiladas cuando se presente liquidación, fusión, o escisión; en ninguno de los casos se debe tener obligaciones pendientes con la entidad. Procede a solicitud del interesado en los eventos señalados en la normatividad vigente.
+
+**Cancelación de oficio:** Permite realizar la cancelación del RUT cuando la persona natural inscrita hubiere fallecido, de acuerdo con información suministrada por la Registraduría Nacional del Estado Civil y se encuentre inscrita sin responsabilidades en el Registro Único Tributario (RUT) o únicamente como no responsable del impuesto sobre las ventas o No responsable de Consumo restaurantes y bares; cuando la persona jurídica o asimilada se encuentre liquidada de acuerdo con información suministrada por la cámara de comercio o autoridad competente; Cuando por declaratoria de autoridad competente se establezca que existió suplantación en la inscripción en el RUT o por orden expresa de autoridad competente.
+
+**Desistimiento expreso de la petición:** Los interesados podrán desistir en cualquier tiempo sus peticiones, sin perjuicio de que la respectiva solicitud pueda ser nuevamente presentada con el lleno de los requisitos legales, pero las autoridades podrán continuar de oficio la actuación si la consideran necesaria por razones de interés público; en tal caso expedirán resolución motivada.
+
+**Normalización:** Consiste en el proceso de autenticación, validación e incorporación de la información, suministrada virtual o físicamente por el obligado ante la DIAN o demás entidades autorizadas, y la expedición del respectivo certificado.
+
+**Generar Firma Electrónica (IFE):** Generación de código y contraseña que sirve para el cumplimiento de deberes formales y tareas electrónicas habilitadas en los servicios electrónicos de la entidad.
+
+Recurso de reposición: Recurso presentado ante el mismo funcionario que tomó la decisión, para que la aclare, modifique o revoque el acto administrativo.
+
+**Recurso de reconsideración:** recurso presentado para que se aclare, modifique o revoque el acto administrativo, ante el área Jurídica o quien haga sus veces, de la Dirección Seccional que hubiere practicado el acto respectivo. Cuando el acto haya sido proferido por el Director Seccional de Impuestos o de Impuestos y Aduanas o sus delegados, el recurso de reconsideración deberá interponerse ante el mismo funcionario que lo profirió.
+
+**Solicitudes de actualización del RUT sujetas a verificación**: Son aquellas actualizaciones del Registro Único Tributario que por disposición legal se encuentran sujetas a verificación por parte de DIAN, en consecuencia, solo se registra la actualización en el RUT una vez se demuestre por el solicitante el cumplimiento de los presupuestos legales y procedimentales para su procedencia y se expida el acto administrativo correspondiente.

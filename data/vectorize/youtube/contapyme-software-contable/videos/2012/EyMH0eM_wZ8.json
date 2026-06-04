@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:31:02.701Z",
+  "videoId": "EyMH0eM_wZ8",
+  "videoUrl": "https://www.youtube.com/watch?v=EyMH0eM_wZ8",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "EyMH0eM_wZ8",
+    "title": "Software contable ContaPyme - Ej 1  Facturación de elementos con lista de precios con IVA",
+    "fulltitle": "Software contable ContaPyme - Ej 1  Facturación de elementos con lista de precios con IVA",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta un ejemplo de una venta de productos con una lista de precios que incluye IVA.\nCP40-140-015-042B-010M",
+    "duration": 222,
+    "duration_string": "3:42",
+    "upload_date": "20120426",
+    "timestamp": 1335459299,
+    "view_count": 448,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/EyMH0eM_wZ8/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDEgTyh_MA8=&rs=AOn4CLB3Jv9YX53ojWJsXK2DJ3ug2Du-Zw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgxIE8ofzAP&rs=AOn4CLCZpouhyI2YgQWP34xHXMPkEajTtQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDEgTyh_MA8=&rs=AOn4CLAAhC1Fh_4F_Vz5_fMTbXt5df3M4g",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDEgTyh_MA8=&rs=AOn4CLC5bE-govBhqAcUfXXOTpIUz-BqHg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDEgTyh_MA8=&rs=AOn4CLCk6JKb4_VMJMwLsf7rRKrGN56xKQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgxIE8ofzAP&rs=AOn4CLDYlD1dtUm8EqAMiT1yrpsJtgo3SQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgxIE8ofzAP&rs=AOn4CLCU4w4rLyQ8whZvPZ9d2Pn0-zO9fA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDEgTyh_MA8=&rs=AOn4CLDu6lrGaTJ8_bUo1FUOvvQzEBGw4g",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDEgTyh_MA8=&rs=AOn4CLB3Jv9YX53ojWJsXK2DJ3ug2Du-Zw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/EyMH0eM_wZ8/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=EyMH0eM_wZ8",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.45045045045045046,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.509009009009009,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.509009009009009,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.509009009009009,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 200.18,
+        "asr": 44100,
+        "filesize_approx": 5560950,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ej 1  Facturación de elementos con lista de precios con IVA",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/EyMH0eM_wZ8/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/EyMH0eM_wZ8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ej 1  Facturación de elementos con lista de precios con IVA\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 34,
+    "transcriptChars": 2338,
+    "segments": [
+      {
+        "text": "ejemplo uno facturación de elementos con lista de precios con",
+        "startMs": 799,
+        "durationMs": 5711
+      },
+      {
+        "text": "IVA antes de visualizar este video se recomienda haber visto el video",
+        "startMs": 6510,
+        "durationMs": 5279
+      },
+      {
+        "text": "operación de facturación de elementos con lista de precios vamos a realizar un",
+        "startMs": 11789,
+        "durationMs": 5521
+      },
+      {
+        "text": "ejemplo de facturación de elementos con una lista de precios la cual incluye el",
+        "startMs": 17310,
+        "durationMs": 4840
+      },
+      {
+        "text": "IVA para lo cual registraremos la venta de contado de una impresora de matriz de",
+        "startMs": 22150,
+        "durationMs": 5720
+      },
+      {
+        "text": "punto ubicados en el manejador de operaciones ingresamos por más",
+        "startMs": 27870,
+        "durationMs": 6400
+      },
+      {
+        "text": "operaciones ventas y seleccionamos la opción de facturación y",
+        "startMs": 34270,
+        "durationMs": 5200
+      },
+      {
+        "text": "ventas y nos abre el asistente para registrar la operación es importante",
+        "startMs": 39470,
+        "durationMs": 5440
+      },
+      {
+        "text": "mencionar que el objetivo de este video no es definir cada uno de los campos de",
+        "startMs": 44910,
+        "durationMs": 4880
+      },
+      {
+        "text": "la operación ya que dichos conceptos se debieron haber estudiado con",
+        "startMs": 49790,
+        "durationMs": 5200
+      },
+      {
+        "text": "anterioridad en el video operación de facturación y venta",
+        "startMs": 54990,
+        "durationMs": 6000
+      },
+      {
+        "text": "indicamos el detalle de la operación en este caso venta al Señor",
+        "startMs": 60990,
+        "durationMs": 15200
+      },
+      {
+        "text": "García indicamos El cliente el señor Alberto",
+        "startMs": 76200,
+        "durationMs": 7510
+      },
+      {
+        "text": "García indicamos la lista de precios con IVA en este caso será la lista de",
+        "startMs": 83710,
+        "durationMs": 6680
+      },
+      {
+        "text": "precios tres la cual ya tenemos configurada verificamos la bodega en",
+        "startMs": 90390,
+        "durationMs": 6560
+      },
+      {
+        "text": "este caso la dos verificamos El vendedor en este caso Manuela",
+        "startMs": 96950,
+        "durationMs": 11920
+      },
+      {
+        "startMs": 108880,
+        "durationMs": 6869,
+        "text": "producto la impresora matriz de"
+      },
+      {
+        "text": "puntos y podemos visualizar que el sistema cargó automáticamente el precio",
+        "startMs": 115759,
+        "durationMs": 5791
+      },
+      {
+        "text": "del producto en la parte inferior de la operación el sistema nos indica en valor",
+        "startMs": 121550,
+        "durationMs": 7720
+      },
+      {
+        "text": "parcial el total de la sumatoria de los precios de los productos antes de IVA",
+        "startMs": 129270,
+        "durationMs": 6959
+      },
+      {
+        "text": "recordemos que como esta lista de precios incluye IVA el sistema realiza",
+        "startMs": 136229,
+        "durationMs": 5401
+      },
+      {
+        "text": "el cálculo del precio de cada producto antes de IVA y nos lo indica en el valor",
+        "startMs": 141630,
+        "durationMs": 8959
+      },
+      {
+        "text": "parcial nos indica el valor del IVA y el valor",
+        "startMs": 150589,
+        "durationMs": 3841
+      },
+      {
+        "text": "total de la venta damos",
+        "startMs": 154430,
+        "durationMs": 6600
+      },
+      {
+        "text": "siguiente adicionamos Las observaciones damos",
+        "startMs": 161040,
+        "durationMs": 7070
+      },
+      {
+        "text": "siguiente en este caso no vamos a indicar ningún ingreso",
+        "startMs": 168110,
+        "durationMs": 4920
+      },
+      {
+        "text": "adicional damos siguiente podemos visualizar que el",
+        "startMs": 173030,
+        "durationMs": 4400
+      },
+      {
+        "text": "sistema calculó automáticamente el IVA y en forma de pago vamos a",
+        "startMs": 177430,
+        "durationMs": 6519
+      },
+      {
+        "text": "indicar que es de contado para imprimir el soporte físico",
+        "startMs": 183949,
+        "durationMs": 4560
+      },
+      {
+        "text": "de la operación damos clic en imprimir damos vista",
+        "startMs": 188509,
+        "durationMs": 6481
+      },
+      {
+        "text": "previa y podemos visualizar en pantalla cómo nos quedará nuestra",
+        "startMs": 194990,
+        "durationMs": 6440
+      },
+      {
+        "text": "factura de venta",
+        "startMs": 201430,
+        "durationMs": 4120
+      },
+      {
+        "text": "venta cerramos y damos aceptar para guardar la",
+        "startMs": 205550,
+        "durationMs": 8440
+      },
+      {
+        "text": "esto es todo sobre ejemplo uno facturación de elementos con lista de",
+        "startMs": 214000,
+        "durationMs": 9280
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta un ejemplo de una venta de productos con una lista de precios que incluye IVA.\nCP40-140-015-042B-010M\n\n## Transcripción\n\nejemplo uno facturación de elementos con lista de precios con\nIVA antes de visualizar este video se recomienda haber visto el video\noperación de facturación de elementos con lista de precios vamos a realizar un\nejemplo de facturación de elementos con una lista de precios la cual incluye el\nIVA para lo cual registraremos la venta de contado de una impresora de matriz de\npunto ubicados en el manejador de operaciones ingresamos por más\noperaciones ventas y seleccionamos la opción de facturación y\nventas y nos abre el asistente para registrar la operación es importante\nmencionar que el objetivo de este video no es definir cada uno de los campos de\nla operación ya que dichos conceptos se debieron haber estudiado con\nanterioridad en el video operación de facturación y venta\nindicamos el detalle de la operación en este caso venta al Señor\nGarcía indicamos El cliente el señor Alberto\nGarcía indicamos la lista de precios con IVA en este caso será la lista de\nprecios tres la cual ya tenemos configurada verificamos la bodega en\neste caso la dos verificamos El vendedor en este caso Manuela\nproducto la impresora matriz de\npuntos y podemos visualizar que el sistema cargó automáticamente el precio\ndel producto en la parte inferior de la operación el sistema nos indica en valor\nparcial el total de la sumatoria de los precios de los productos antes de IVA\nrecordemos que como esta lista de precios incluye IVA el sistema realiza\nel cálculo del precio de cada producto antes de IVA y nos lo indica en el valor\nparcial nos indica el valor del IVA y el valor\ntotal de la venta damos\nsiguiente adicionamos Las observaciones damos\nsiguiente en este caso no vamos a indicar ningún ingreso\nadicional damos siguiente podemos visualizar que el\nsistema calculó automáticamente el IVA y en forma de pago vamos a\nindicar que es de contado para imprimir el soporte físico\nde la operación damos clic en imprimir damos vista\nprevia y podemos visualizar en pantalla cómo nos quedará nuestra\nfactura de venta\nventa cerramos y damos aceptar para guardar la\nesto es todo sobre ejemplo uno facturación de elementos con lista de"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 200.18,
+    "asr": 44100,
+    "filesizeApprox": 5560950,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/EyMH0eM_wZ8.md",
+    "json": "videos/2012/EyMH0eM_wZ8.json",
+    "infoJson": "videos/2012/EyMH0eM_wZ8.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

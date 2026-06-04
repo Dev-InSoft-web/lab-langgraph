@@ -1,0 +1,72 @@
+{
+  "version": 4,
+  "kind": "columns-tree",
+  "tableref": "ATRIBUTOS_PLANES",
+  "tablemeta": {
+    "originalname": "ATRIBUTOS_PLANES",
+    "hasifnotexists": true
+  },
+  "nodes": [
+    {
+      "flatpath": "1",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "2",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "3",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "4",
+      "ireference": "COLUMN",
+      "kind": "col"
+    },
+    {
+      "flatpath": "5",
+      "kind": "optional",
+      "name": "AUDITORIA"
+    }
+  ],
+  "entities": {
+    "COLUMN": [
+      {
+        "icolumn": "1",
+        "flatpath": "1",
+        "name": "IPLAN",
+        "type": "VARCHAR(100)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "2",
+        "flatpath": "2",
+        "name": "ICURSO",
+        "type": "VARCHAR(10)",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "3",
+        "flatpath": "3",
+        "name": "IATRIBUTO",
+        "type": "SMALLINT",
+        "primarykey": false,
+        "kind": "col"
+      },
+      {
+        "icolumn": "4",
+        "flatpath": "4",
+        "name": "VALOR",
+        "type": "VARCHAR(MAX)",
+        "primarykey": false,
+        "kind": "col"
+      }
+    ]
+  }
+}

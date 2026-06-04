@@ -1,0 +1,821 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:41:14.130Z",
+  "videoId": "886JFH9Av_g",
+  "videoUrl": "https://www.youtube.com/watch?v=886JFH9Av_g",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "886JFH9Av_g",
+    "title": "Software contable ContaPyme - Requerimientos de entrada de datos de terceros",
+    "fulltitle": "Software contable ContaPyme - Requerimientos de entrada de datos de terceros",
+    "description": "http://www.contapyme.com\nEste vídeo del software contable ContaPyme  explica como se puede configurar el catalogo de terceros para que al momento de crear un tercero se exija el diligenciamiento de ciertos campos que originalmente son opcionales.\nCP40-010-060-020B-100A",
+    "duration": 585,
+    "duration_string": "9:45",
+    "upload_date": "20110929",
+    "timestamp": 1317309889,
+    "view_count": 386,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "terceros",
+      "catalogo de terceros",
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/886JFH9Av_g/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoV_Nd9ZYzrUSpYpMFnQMXGSymcA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuPB3v95E5QraWFCEMt5e_Q5h3Ug",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZMRlTZyIF4souN91P9nR0126vFA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDswUdZnoK2Sl_U5FKAMEkvuhcEbw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/886JFH9Av_g/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/886JFH9Av_g/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=886JFH9Av_g",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17094017094017094,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20341880341880342,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20341880341880342,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 225.48,
+        "asr": 44100,
+        "filesize_approx": 16502063,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Requerimientos de entrada de datos de terceros",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/886JFH9Av_g/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/886JFH9Av_g?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Requerimientos de entrada de datos de terceros\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 84,
+    "transcriptChars": 5980,
+    "segments": [
+      {
+        "text": "requerimientos de entrada de datos de terceros",
+        "startMs": 590,
+        "durationMs": 4730
+      },
+      {
+        "text": "terceros cuando se registra la información de un",
+        "startMs": 5320,
+        "durationMs": 2130
+      },
+      {
+        "text": "tercero encontramos que normalmente hay campos que deben diligenciar se",
+        "startMs": 7450,
+        "durationMs": 4380
+      },
+      {
+        "text": "obligatoriamente y otros son opcionales recordemos que los campos de color",
+        "startMs": 11830,
+        "durationMs": 7200
+      },
+      {
+        "text": "blanco son obligatorios y los campos de color verde",
+        "startMs": 19030,
+        "durationMs": 7810
+      },
+      {
+        "text": "son opcionales siempre es recomendable digitar la mayor",
+        "startMs": 26850,
+        "durationMs": 6039
+      },
+      {
+        "text": "cantidad de datos posibles acerca de los terceros pero en la mayoría de los casos",
+        "startMs": 32889,
+        "durationMs": 6541
+      },
+      {
+        "text": "si los datos no son obligatorios es decir si el sistema no genera error ante",
+        "startMs": 39430,
+        "durationMs": 6030
+      },
+      {
+        "text": "su ausencia el digitador tiende a omitirlos",
+        "startMs": 45460,
+        "durationMs": 4520
+      },
+      {
+        "text": "omitirlos por eso en este vídeo veremos cómo",
+        "startMs": 49980,
+        "durationMs": 2430
+      },
+      {
+        "text": "configurar los requerimientos de entrada de datos de los terceros cómo configurar",
+        "startMs": 52410,
+        "durationMs": 5460
+      },
+      {
+        "text": "cuáles datos serán obligatorios y cuáles opcionales",
+        "startMs": 57870,
+        "durationMs": 6249
+      },
+      {
+        "text": "en algunos países como colombia se requiere información detallada de los",
+        "startMs": 64129,
+        "durationMs": 5090
+      },
+      {
+        "text": "terceros al momento de reportar información exógena ante las entidades",
+        "startMs": 69219,
+        "durationMs": 6411
+      },
+      {
+        "text": "gubernamentales por ello estas configuraciones deben",
+        "startMs": 75630,
+        "durationMs": 3009
+      },
+      {
+        "text": "establecerse desde el principio para que no se tengan inconvenientes al momento",
+        "startMs": 78639,
+        "durationMs": 10601
+      },
+      {
+        "text": "como vemos en la información de un tercero hay múltiples pestañas de datos",
+        "startMs": 89250,
+        "durationMs": 6780
+      },
+      {
+        "text": "tipos de tercero personales dirección contactos",
+        "startMs": 96030,
+        "durationMs": 5780
+      },
+      {
+        "text": "contactos clasificación entre otras la cantidad de",
+        "startMs": 101810,
+        "durationMs": 3640
+      },
+      {
+        "text": "pestañas disponibles depende del tipo de tercero que se haya seleccionado al",
+        "startMs": 105450,
+        "durationMs": 10180
+      },
+      {
+        "text": "la configuración de los requerimientos de entrada de datos de terceros también",
+        "startMs": 115640,
+        "durationMs": 4820
+      },
+      {
+        "text": "se hace por pestañas es decir por cada una de ellas vamos a indicar qué datos",
+        "startMs": 120460,
+        "durationMs": 12230
+      },
+      {
+        "text": "para ello debemos estar por fuera del asistente de creación o modificación de",
+        "startMs": 132700,
+        "durationMs": 5749
+      },
+      {
+        "text": "terceros y debemos ingresar al configurador del catálogo de terceros",
+        "startMs": 138449,
+        "durationMs": 5941
+      },
+      {
+        "text": "cuyo icono encontramos en la cinta de opciones del catálogo de terceros",
+        "startMs": 144390,
+        "durationMs": 13770
+      },
+      {
+        "text": "en la opción de requerimientos de datos por pestaña",
+        "startMs": 158170,
+        "durationMs": 5090
+      },
+      {
+        "text": "el sistema nos indica que se pueden hacer configuraciones con respecto a las",
+        "startMs": 163260,
+        "durationMs": 7500
+      },
+      {
+        "text": "etiquetas si los campos son visibles o no si son de sólo lectura si son",
+        "startMs": 170760,
+        "durationMs": 7200
+      },
+      {
+        "text": "requeridos u obligatorios si tienen algún valor por defecto o si se les",
+        "startMs": 177960,
+        "durationMs": 5880
+      },
+      {
+        "text": "indica una nueva etiqueta reemplazando la etiqueta que viene por defecto de",
+        "startMs": 183840,
+        "durationMs": 5969
+      },
+      {
+        "text": "igual manera se puede indicar al sistema el nivel de acceso que tiene cada uno de",
+        "startMs": 189809,
+        "durationMs": 10881
+      },
+      {
+        "text": "la primera opción que encontramos es el requerimiento de datos por tipo de",
+        "startMs": 200700,
+        "durationMs": 8070
+      },
+      {
+        "text": "terceros se debe seleccionar cada uno de los",
+        "startMs": 208770,
+        "durationMs": 3179
+      },
+      {
+        "text": "tipos de tercero e indicar qué pestañas se mostrarán al momento de crear o",
+        "startMs": 211949,
+        "durationMs": 7711
+      },
+      {
+        "text": "modificar un tercero si notamos cada uno de los tipos de",
+        "startMs": 219660,
+        "durationMs": 5870
+      },
+      {
+        "text": "tercero tiene unas pestañas configuradas como obligatorias",
+        "startMs": 225530,
+        "durationMs": 15000
+      },
+      {
+        "text": "después de indicar las pestañas que estarán visibles",
+        "startMs": 240540,
+        "durationMs": 5410
+      },
+      {
+        "text": "debemos indicar los datos principales allí tenemos primero la lista de",
+        "startMs": 245950,
+        "durationMs": 8609
+      },
+      {
+        "text": "etiquetas luego la columna donde se indican si son",
+        "startMs": 254559,
+        "durationMs": 3301
+      },
+      {
+        "text": "y en algunas etiquetas en especial se puede configurar si deben ser requeridos",
+        "startMs": 262970,
+        "durationMs": 6430
+      },
+      {
+        "text": "o no en este caso en tipo de documento y nombre comercial",
+        "startMs": 269400,
+        "durationMs": 6450
+      },
+      {
+        "text": "la opción de requerido es la que obliga a que dicho dato sea digital o de lo",
+        "startMs": 275850,
+        "durationMs": 6119
+      },
+      {
+        "text": "contrario el sistema mostrará error y no permitirá guardar la información del",
+        "startMs": 281969,
+        "durationMs": 9611
+      },
+      {
+        "text": "en esta primera pestaña no todas las etiquetas son requeridas ya que algunas",
+        "startMs": 291590,
+        "durationMs": 5990
+      },
+      {
+        "text": "lo son por naturaleza por ejemplo el nombre del tercero",
+        "startMs": 297580,
+        "durationMs": 6330
+      },
+      {
+        "text": "también existe la columna de valor por defecto es decir al momento de crear un",
+        "startMs": 303920,
+        "durationMs": 6740
+      },
+      {
+        "text": "tercero que el sistema nos muestre una información por defecto como puede ser",
+        "startMs": 310660,
+        "durationMs": 7830
+      },
+      {
+        "text": "que tenga configurado que es persona jurídica o que sea",
+        "startMs": 318490,
+        "durationMs": 10100
+      },
+      {
+        "text": "de igual manera en esta primera pestaña se nos permite especificar el tamaño",
+        "startMs": 328600,
+        "durationMs": 13660
+      },
+      {
+        "text": "luego de la pestaña de datos principales está la pestaña de tipo de tercero donde",
+        "startMs": 342270,
+        "durationMs": 6920
+      },
+      {
+        "text": "se puede configurar si los tipos de terceros son visibles o no si son de",
+        "startMs": 349190,
+        "durationMs": 5430
+      },
+      {
+        "text": "sólo lectura y si son requeridos igual sucede con las demás pestañas",
+        "startMs": 257860,
+        "durationMs": 104170
+      },
+      {
+        "text": "personales dirección principal otras direcciones internet",
+        "startMs": 362030,
+        "durationMs": 11340
+      },
+      {
+        "text": "en la pestaña de personales también se puede indicar un valor por defecto en",
+        "startMs": 373380,
+        "durationMs": 7580
+      },
+      {
+        "text": "donde indicamos el tratamiento la profesión y el cargo que sale indicada",
+        "startMs": 380960,
+        "durationMs": 6360
+      },
+      {
+        "text": "por defecto al momento de crear un nuevo tercero",
+        "startMs": 387320,
+        "durationMs": 5650
+      },
+      {
+        "text": "cada una de estas pestañas tiene opciones particulares una de ellas es la",
+        "startMs": 392980,
+        "durationMs": 6860
+      },
+      {
+        "text": "pestaña de clasificación donde fuera del valor por defecto nos permite la opción",
+        "startMs": 399840,
+        "durationMs": 7680
+      },
+      {
+        "text": "de indicarle un nuevo nombre a las etiquetas de clase dato y valor estos",
+        "startMs": 407520,
+        "durationMs": 8190
+      },
+      {
+        "text": "son campos adicionales que el sistema nos ofrece para registrar información",
+        "startMs": 415710,
+        "durationMs": 9910
+      },
+      {
+        "text": "en este caso vamos a configurar para que en la pestaña de dirección principal la",
+        "startMs": 425630,
+        "durationMs": 9480
+      },
+      {
+        "text": "dirección y el celular sean requeridos u",
+        "startMs": 435110,
+        "durationMs": 3570
+      },
+      {
+        "text": "obligatorios si notamos al momento de activar estas opciones las etiquetas nos",
+        "startMs": 438680,
+        "durationMs": 7620
+      },
+      {
+        "text": "han cambiado de color indicándonos que se han hecho cambios en la configuración",
+        "startMs": 446300,
+        "durationMs": 12390
+      },
+      {
+        "text": "todas estas configuraciones de pestañas de datos de terceros se pueden",
+        "startMs": 458700,
+        "durationMs": 5930
+      },
+      {
+        "text": "configurar para que sólo apliquen para empresas perfiles de usuarios o usuarios",
+        "startMs": 464630,
+        "durationMs": 11140
+      },
+      {
+        "text": "después de haber hecho la configuración de los requerimientos de datos para los",
+        "startMs": 475780,
+        "durationMs": 6230
+      },
+      {
+        "text": "terceros basta con dar clic en aceptar para hacerlos efectivos",
+        "startMs": 482010,
+        "durationMs": 6200
+      },
+      {
+        "text": "si ingresamos nuevamente a la información del tercero jose joan lópez",
+        "startMs": 488210,
+        "durationMs": 5660
+      },
+      {
+        "text": "y nos ubicamos en la pestaña de dirección encontramos que el campo de",
+        "startMs": 493870,
+        "durationMs": 6130
+      },
+      {
+        "text": "dirección y celular han cambiado de color",
+        "startMs": 500000,
+        "durationMs": 4160
+      },
+      {
+        "text": "color inicialmente eran de color verde",
+        "startMs": 504160,
+        "durationMs": 2410
+      },
+      {
+        "text": "indicándonos que eran opcionales ahora son de color blanco indicándonos que son",
+        "startMs": 506570,
+        "durationMs": 5990
+      },
+      {
+        "text": "obligatorios en el caso de que pretendiera mos grabar la información de",
+        "startMs": 512560,
+        "durationMs": 5110
+      },
+      {
+        "text": "este tercero sin haber digitado esta información el sistema en la",
+        "startMs": 517670,
+        "durationMs": 5700
+      },
+      {
+        "text": "verificación nos indica que el campo celular y dirección son requeridos por",
+        "startMs": 523370,
+        "durationMs": 7110
+      },
+      {
+        "text": "tanto hasta que esta información no sea digital",
+        "startMs": 530480,
+        "durationMs": 6540
+      },
+      {
+        "text": "no se podrá grabar la información del tercero",
+        "startMs": 537030,
+        "durationMs": 10940
+      },
+      {
+        "text": "como vemos después de haber digitado la información que el sistema nos",
+        "startMs": 547980,
+        "durationMs": 4610
+      },
+      {
+        "text": "solicitaba como requerida nos permitió grabar la información del tercero",
+        "startMs": 552590,
+        "durationMs": 7620
+      },
+      {
+        "text": "como mencionamos al principio de este vídeo es recomendable digitar la mayor",
+        "startMs": 560220,
+        "durationMs": 5480
+      },
+      {
+        "text": "cantidad de datos posibles acerca de los terceros pero en la mayoría de los casos",
+        "startMs": 565700,
+        "durationMs": 6000
+      },
+      {
+        "text": "si los datos no son obligatorios se tiende a omitirlos",
+        "startMs": 571700,
+        "durationMs": 7349
+      },
+      {
+        "text": "esto es todo acerca de requerimientos de entrada de datos de terceros",
+        "startMs": 579059,
+        "durationMs": 7640
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste vídeo del software contable ContaPyme  explica como se puede configurar el catalogo de terceros para que al momento de crear un tercero se exija el diligenciamiento de ciertos campos que originalmente son opcionales.\nCP40-010-060-020B-100A\n\n## Transcripción\n\nrequerimientos de entrada de datos de terceros\nterceros cuando se registra la información de un\ntercero encontramos que normalmente hay campos que deben diligenciar se\nobligatoriamente y otros son opcionales recordemos que los campos de color\nblanco son obligatorios y los campos de color verde\nson opcionales siempre es recomendable digitar la mayor\ncantidad de datos posibles acerca de los terceros pero en la mayoría de los casos\nsi los datos no son obligatorios es decir si el sistema no genera error ante\nsu ausencia el digitador tiende a omitirlos\nomitirlos por eso en este vídeo veremos cómo\nconfigurar los requerimientos de entrada de datos de los terceros cómo configurar\ncuáles datos serán obligatorios y cuáles opcionales\nen algunos países como colombia se requiere información detallada de los\nterceros al momento de reportar información exógena ante las entidades\ngubernamentales por ello estas configuraciones deben\nestablecerse desde el principio para que no se tengan inconvenientes al momento\ncomo vemos en la información de un tercero hay múltiples pestañas de datos\ntipos de tercero personales dirección contactos\ncontactos clasificación entre otras la cantidad de\npestañas disponibles depende del tipo de tercero que se haya seleccionado al\nla configuración de los requerimientos de entrada de datos de terceros también\nse hace por pestañas es decir por cada una de ellas vamos a indicar qué datos\npara ello debemos estar por fuera del asistente de creación o modificación de\nterceros y debemos ingresar al configurador del catálogo de terceros\ncuyo icono encontramos en la cinta de opciones del catálogo de terceros\nen la opción de requerimientos de datos por pestaña\nel sistema nos indica que se pueden hacer configuraciones con respecto a las\netiquetas si los campos son visibles o no si son de sólo lectura si son\nrequeridos u obligatorios si tienen algún valor por defecto o si se les\nindica una nueva etiqueta reemplazando la etiqueta que viene por defecto de\nigual manera se puede indicar al sistema el nivel de acceso que tiene cada uno de\nla primera opción que encontramos es el requerimiento de datos por tipo de\nterceros se debe seleccionar cada uno de los\ntipos de tercero e indicar qué pestañas se mostrarán al momento de crear o\nmodificar un tercero si notamos cada uno de los tipos de\ntercero tiene unas pestañas configuradas como obligatorias\ndespués de indicar las pestañas que estarán visibles\ndebemos indicar los datos principales allí tenemos primero la lista de\netiquetas luego la columna donde se indican si son\ny en algunas etiquetas en especial se puede configurar si deben ser requeridos\no no en este caso en tipo de documento y nombre comercial\nla opción de requerido es la que obliga a que dicho dato sea digital o de lo\ncontrario el sistema mostrará error y no permitirá guardar la información del\nen esta primera pestaña no todas las etiquetas son requeridas ya que algunas\nlo son por naturaleza por ejemplo el nombre del tercero\ntambién existe la columna de valor por defecto es decir al momento de crear un\ntercero que el sistema nos muestre una información por defecto como puede ser\nque tenga configurado que es persona jurídica o que sea\nde igual manera en esta primera pestaña se nos permite especificar el tamaño\nluego de la pestaña de datos principales está la pestaña de tipo de tercero donde\nse puede configurar si los tipos de terceros son visibles o no si son de\nsólo lectura y si son requeridos igual sucede con las demás pestañas\npersonales dirección principal otras direcciones internet\nen la pestaña de personales también se puede indicar un valor por defecto en\ndonde indicamos el tratamiento la profesión y el cargo que sale indicada\npor defecto al momento de crear un nuevo tercero\ncada una de estas pestañas tiene opciones particulares una de ellas es la\npestaña de clasificación donde fuera del valor por defecto nos permite la opción\nde indicarle un nuevo nombre a las etiquetas de clase dato y valor estos\nson campos adicionales que el sistema nos ofrece para registrar información\nen este caso vamos a configurar para que en la pestaña de dirección principal la\ndirección y el celular sean requeridos u\nobligatorios si notamos al momento de activar estas opciones las etiquetas nos\nhan cambiado de color indicándonos que se han hecho cambios en la configuración\ntodas estas configuraciones de pestañas de datos de terceros se pueden\nconfigurar para que sólo apliquen para empresas perfiles de usuarios o usuarios\ndespués de haber hecho la configuración de los requerimientos de datos para los\nterceros basta con dar clic en aceptar para hacerlos efectivos\nsi ingresamos nuevamente a la información del tercero jose joan lópez\ny nos ubicamos en la pestaña de dirección encontramos que el campo de\ndirección y celular han cambiado de color\ncolor inicialmente eran de color verde\nindicándonos que eran opcionales ahora son de color blanco indicándonos que son\nobligatorios en el caso de que pretendiera mos grabar la información de\neste tercero sin haber digitado esta información el sistema en la\nverificación nos indica que el campo celular y dirección son requeridos por\ntanto hasta que esta información no sea digital\nno se podrá grabar la información del tercero\ncomo vemos después de haber digitado la información que el sistema nos\nsolicitaba como requerida nos permitió grabar la información del tercero\ncomo mencionamos al principio de este vídeo es recomendable digitar la mayor\ncantidad de datos posibles acerca de los terceros pero en la mayoría de los casos\nsi los datos no son obligatorios se tiende a omitirlos\nesto es todo acerca de requerimientos de entrada de datos de terceros"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 225.48,
+    "asr": 44100,
+    "filesizeApprox": 16502063,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/886JFH9Av_g.md",
+    "json": "videos/2011/886JFH9Av_g.json",
+    "infoJson": "videos/2011/886JFH9Av_g.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

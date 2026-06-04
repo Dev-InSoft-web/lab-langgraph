@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:32:47.178Z",
+  "videoId": "7g9RMZDw868",
+  "videoUrl": "https://www.youtube.com/watch?v=7g9RMZDw868",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "7g9RMZDw868",
+    "title": "Sistema contable ContaPyme - Asignación básica de una lista de precios a un elemento",
+    "fulltitle": "Sistema contable ContaPyme - Asignación básica de una lista de precios a un elemento",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo asignar una lista de precios a un elemento de inventario.\nCP40-140-015-040B",
+    "duration": 224,
+    "duration_string": "3:44",
+    "upload_date": "20120215",
+    "timestamp": 1329338152,
+    "view_count": 1348,
+    "like_count": 1,
+    "comment_count": 2,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/7g9RMZDw868/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgYCgeMA8=&rs=AOn4CLAwr8HuhV9HXRlELRSGIPQV-c-0YA",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARhyIGAoHjAP&rs=AOn4CLCzIxa9e69a_fyKuDzDSDHe1MLy_w",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgYCgeMA8=&rs=AOn4CLCvCenqDT1_VifVEa1_ffGljiR7tA",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgYCgeMA8=&rs=AOn4CLD7B0BMEGm1xpef-lOak8JwBQIyGg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgYCgeMA8=&rs=AOn4CLAhf4laAb5Iyjl9itTryPoK7jhsVQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIGAoHjAP&rs=AOn4CLBdpPJnlMnTOp1nyX9v4JpU6A0NWA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIGAoHjAP&rs=AOn4CLCsQGNO2NTihoio_v_HxEQxIZ9ufA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgYCgeMA8=&rs=AOn4CLAEQv-VeFIYUu9xDbQSSrKZ3qejSw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgYCgeMA8=&rs=AOn4CLAwr8HuhV9HXRlELRSGIPQV-c-0YA",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7g9RMZDw868/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7g9RMZDw868/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7g9RMZDw868",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.44642857142857145,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5044642857142857,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5044642857142857,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.5044642857142857,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 191.776,
+        "asr": 44100,
+        "filesize_approx": 5374786,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "Ugje41vdf58vm3gCoAEC",
+        "parent": "root",
+        "text": "los vídeos son muy buenos, pero la voz de la muchacha es algo aburridora... mejoren eso, porque la verdad me vi todo el vídeo porque no hay otro mas que explique... mejor dicho porque me toco...",
+        "like_count": 1,
+        "author_id": "UCY5jBFTPyHXeHdjw9ZbxFZA",
+        "author": "@erikaalejandragomez2077",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mIKwUFC5SSHaX7jXldnTv7UsoJxFeMaf6OrhmxBqYcGzgH=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@erikaalejandragomez2077",
+        "is_favorited": false,
+        "_time_text": "10 years ago",
+        "timestamp": 1464998400,
+        "is_pinned": false
+      },
+      {
+        "id": "UgyBd2fdc8zwkjfNfDp4AaABAg",
+        "parent": "root",
+        "text": "Se puede realizar esta operación de manera masiva?",
+        "like_count": 0,
+        "author_id": "UCzaQa5uUYlfL8RFCXtOAX5Q",
+        "author": "@operadoreslogisticosensalu7839",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_miVzW6r68N2lEp2qC-mqg6qIiSXJgy5-pWYELsdFvoLg=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@operadoreslogisticosensalu7839",
+        "is_favorited": false,
+        "_time_text": "5 years ago",
+        "timestamp": 1622764800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Sistema contable ContaPyme - Asignación básica de una lista de precios a un elemento",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/7g9RMZDw868/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/7g9RMZDw868?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema contable ContaPyme - Asignación básica de una lista de precios a un elemento\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 37,
+    "transcriptChars": 2769,
+    "segments": [
+      {
+        "text": "asignación básica de una lista de precios a un",
+        "startMs": 560,
+        "durationMs": 4390
+      },
+      {
+        "text": "elemento en el sistema le podemos indicar el precio de venta a cada",
+        "startMs": 4950,
+        "durationMs": 5040
+      },
+      {
+        "text": "producto o elemento de inventario que esté configurado como mercancía para la",
+        "startMs": 9990,
+        "durationMs": 4360
+      },
+      {
+        "text": "venta para indicar el precio de venta a un producto estando en el catálogo de",
+        "startMs": 14350,
+        "durationMs": 6600
+      },
+      {
+        "text": "elementos de inventario modificamos el producto al cual le queremos adicionar",
+        "startMs": 20950,
+        "durationMs": 5159
+      },
+      {
+        "text": "el precio de venta en este caso vamos a modif",
+        "startMs": 26109,
+        "durationMs": 4480
+      },
+      {
+        "text": "modif El Monitor de 15",
+        "startMs": 30589,
+        "durationMs": 3841
+      },
+      {
+        "text": "pulgadas seleccionamos la pestaña de listas de precios y podemos visualizar",
+        "startMs": 34440,
+        "durationMs": 6470
+      },
+      {
+        "text": "que tenemos varias columnas disponibles como listas de precios en donde nos",
+        "startMs": 40910,
+        "durationMs": 5600
+      },
+      {
+        "text": "indica cada lista de precios que tenemos creada en el sistema tenemos el método",
+        "startMs": 46510,
+        "durationMs": 5519
+      },
+      {
+        "text": "de cálculo de la lista de precios el cual recordemos que es el procedimiento",
+        "startMs": 52029,
+        "durationMs": 4881
+      },
+      {
+        "text": "que utilizamos para calcular o indicar el precio de venta de un producto estos",
+        "startMs": 56910,
+        "durationMs": 5959
+      },
+      {
+        "text": "métodos ya deben estar definidos con anterioridad en el sistema para indicar",
+        "startMs": 62869,
+        "durationMs": 4721
+      },
+      {
+        "text": "el método de cálculo damos clic en el icono de la linterna y nos",
+        "startMs": 67590,
+        "durationMs": 7400
+      },
+      {
+        "text": "aparece en pantalla el catálogo de los métodos de cálculo lo",
+        "startMs": 74990,
+        "durationMs": 5320
+      },
+      {
+        "text": "seleccionamos en este caso el manual precio asignado por el usuario ya que",
+        "startMs": 80310,
+        "durationMs": 6560
+      },
+      {
+        "text": "queremos indicarle un precio al producto manualmente y damos clic en el botón de",
+        "startMs": 86870,
+        "durationMs": 9199
+      },
+      {
+        "text": "seleccionar tenemos la columna actualización del precio en donde nos",
+        "startMs": 96079,
+        "durationMs": 5511
+      },
+      {
+        "text": "indica Cómo es la actualización del precio del producto según el método de",
+        "startMs": 101590,
+        "durationMs": 5159
+      },
+      {
+        "text": "cálculo que hayamos seleccionado en este caso nos indica que es manual asignado",
+        "startMs": 106749,
+        "durationMs": 6040
+      },
+      {
+        "text": "por el usuario tenemos la columna de precio en donde según el método de",
+        "startMs": 112789,
+        "durationMs": 6041
+      },
+      {
+        "text": "cálculo que es acemos nos permite indicar el precio de venta del producto",
+        "startMs": 118830,
+        "durationMs": 5000
+      },
+      {
+        "text": "o el sistema lo Calcula automáticamente en este caso como el método de cálculo",
+        "startMs": 123830,
+        "durationMs": 6680
+      },
+      {
+        "text": "que indicamos fue el manual por tal motivo podemos indicar el precio del",
+        "startMs": 130510,
+        "durationMs": 9560
+      },
+      {
+        "text": "precio y automáticamente el sistema nos indica la fecha de la última",
+        "startMs": 140080,
+        "durationMs": 6310
+      },
+      {
+        "text": "actualización de precio del producto y tenemos la columna de vigente hasta en",
+        "startMs": 146390,
+        "durationMs": 6360
+      },
+      {
+        "text": "donde indicamos la fecha hasta la cual estará vigente el precio del producto en",
+        "startMs": 152750,
+        "durationMs": 6680
+      },
+      {
+        "text": "este caso no vamos a indicar ninguna fecha vamos a indicar para la lista de",
+        "startMs": 159430,
+        "durationMs": 12439
+      },
+      {
+        "text": "cálculo será basado en el último precio de",
+        "startMs": 171879,
+        "durationMs": 6951
+      },
+      {
+        "text": "compra en este caso podemos visualizar que en esta lista de precios el sistema",
+        "startMs": 178840,
+        "durationMs": 7070
+      },
+      {
+        "text": "realiza el cálculo del precio de venta del producto de esta forma indicamos por",
+        "startMs": 185910,
+        "durationMs": 6800
+      },
+      {
+        "text": "cada lista de precios el método de cálculo y el precio de venta del",
+        "startMs": 192710,
+        "durationMs": 4760
+      },
+      {
+        "text": "producto o el sistema lo Calcula automáticamente damos aceptar para",
+        "startMs": 197470,
+        "durationMs": 5600
+      },
+      {
+        "text": "guardar la configuración y de esta forma le",
+        "startMs": 203070,
+        "durationMs": 4840
+      },
+      {
+        "text": "indicamos a cada de inventario disponible para la venta el precio de",
+        "startMs": 207910,
+        "durationMs": 5679
+      },
+      {
+        "text": "venta correspondiente para cada lista de precios esto es todo sobre asignación",
+        "startMs": 213589,
+        "durationMs": 6601
+      },
+      {
+        "text": "básica de una lista de precios a un elemento",
+        "startMs": 220190,
+        "durationMs": 5930
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta cómo asignar una lista de precios a un elemento de inventario.\nCP40-140-015-040B\n\n## Transcripción\n\nasignación básica de una lista de precios a un\nelemento en el sistema le podemos indicar el precio de venta a cada\nproducto o elemento de inventario que esté configurado como mercancía para la\nventa para indicar el precio de venta a un producto estando en el catálogo de\nelementos de inventario modificamos el producto al cual le queremos adicionar\nel precio de venta en este caso vamos a modif\nmodif El Monitor de 15\npulgadas seleccionamos la pestaña de listas de precios y podemos visualizar\nque tenemos varias columnas disponibles como listas de precios en donde nos\nindica cada lista de precios que tenemos creada en el sistema tenemos el método\nde cálculo de la lista de precios el cual recordemos que es el procedimiento\nque utilizamos para calcular o indicar el precio de venta de un producto estos\nmétodos ya deben estar definidos con anterioridad en el sistema para indicar\nel método de cálculo damos clic en el icono de la linterna y nos\naparece en pantalla el catálogo de los métodos de cálculo lo\nseleccionamos en este caso el manual precio asignado por el usuario ya que\nqueremos indicarle un precio al producto manualmente y damos clic en el botón de\nseleccionar tenemos la columna actualización del precio en donde nos\nindica Cómo es la actualización del precio del producto según el método de\ncálculo que hayamos seleccionado en este caso nos indica que es manual asignado\npor el usuario tenemos la columna de precio en donde según el método de\ncálculo que es acemos nos permite indicar el precio de venta del producto\no el sistema lo Calcula automáticamente en este caso como el método de cálculo\nque indicamos fue el manual por tal motivo podemos indicar el precio del\nprecio y automáticamente el sistema nos indica la fecha de la última\nactualización de precio del producto y tenemos la columna de vigente hasta en\ndonde indicamos la fecha hasta la cual estará vigente el precio del producto en\neste caso no vamos a indicar ninguna fecha vamos a indicar para la lista de\ncálculo será basado en el último precio de\ncompra en este caso podemos visualizar que en esta lista de precios el sistema\nrealiza el cálculo del precio de venta del producto de esta forma indicamos por\ncada lista de precios el método de cálculo y el precio de venta del\nproducto o el sistema lo Calcula automáticamente damos aceptar para\nguardar la configuración y de esta forma le\nindicamos a cada de inventario disponible para la venta el precio de\nventa correspondiente para cada lista de precios esto es todo sobre asignación\nbásica de una lista de precios a un elemento"
+  },
+  "comments": {
+    "fetched": 2,
+    "reportedCount": 2,
+    "items": [
+      {
+        "id": "Ugje41vdf58vm3gCoAEC",
+        "parent": "root",
+        "text": "los vídeos son muy buenos, pero la voz de la muchacha es algo aburridora... mejoren eso, porque la verdad me vi todo el vídeo porque no hay otro mas que explique... mejor dicho porque me toco...",
+        "like_count": 1,
+        "author_id": "UCY5jBFTPyHXeHdjw9ZbxFZA",
+        "author": "@erikaalejandragomez2077",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mIKwUFC5SSHaX7jXldnTv7UsoJxFeMaf6OrhmxBqYcGzgH=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@erikaalejandragomez2077",
+        "is_favorited": false,
+        "_time_text": "10 years ago",
+        "timestamp": 1464998400,
+        "is_pinned": false
+      },
+      {
+        "id": "UgyBd2fdc8zwkjfNfDp4AaABAg",
+        "parent": "root",
+        "text": "Se puede realizar esta operación de manera masiva?",
+        "like_count": 0,
+        "author_id": "UCzaQa5uUYlfL8RFCXtOAX5Q",
+        "author": "@operadoreslogisticosensalu7839",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_miVzW6r68N2lEp2qC-mqg6qIiSXJgy5-pWYELsdFvoLg=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@operadoreslogisticosensalu7839",
+        "is_favorited": false,
+        "_time_text": "5 years ago",
+        "timestamp": 1622764800,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 191.776,
+    "asr": 44100,
+    "filesizeApprox": 5374786,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/7g9RMZDw868.md",
+    "json": "videos/2012/7g9RMZDw868.json",
+    "infoJson": "videos/2012/7g9RMZDw868.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

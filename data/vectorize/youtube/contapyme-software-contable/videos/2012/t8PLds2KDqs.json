@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:27:53.251Z",
+  "videoId": "t8PLds2KDqs",
+  "videoUrl": "https://www.youtube.com/watch?v=t8PLds2KDqs",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "t8PLds2KDqs",
+    "title": "Software contable ContaPyme - Proceso de migración",
+    "fulltitle": "Software contable ContaPyme - Proceso de migración",
+    "description": "http://www.contapyme.com\nEste video presenta el proceso de migración de un área de trabajo de versión 3 a versión 4 del software contable ContaPyme.\nCP40-005-020-050B",
+    "duration": 748,
+    "duration_string": "12:28",
+    "upload_date": "20120830",
+    "timestamp": 1346336295,
+    "view_count": 2381,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software contable",
+      "paquete contable",
+      "software contable colombia",
+      "programa contable",
+      "sistema contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/t8PLds2KDqs/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnseF3AgAzsyHRRKL7UfvKL0H_Vg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnx5NRKpcwwXd3JhuF7llT9XvfUg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ7eIwVsqtrO-BocYOJKW9U0x9JA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyUYIiL_exqKPAyy_bTTnz5YfIew",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t8PLds2KDqs/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t8PLds2KDqs/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=t8PLds2KDqs",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.13368983957219252,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2018716577540107,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2018716577540107,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 187.278,
+        "asr": 44100,
+        "filesize_approx": 17507402,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Proceso de migración",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/t8PLds2KDqs/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/t8PLds2KDqs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Proceso de migración\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 114,
+    "transcriptChars": 7957,
+    "segments": [
+      {
+        "text": "proceso de migración para pasar toda la información",
+        "startMs": 719,
+        "durationMs": 5590
+      },
+      {
+        "text": "que tenemos en cada área de trabajo en la versión 3 a la versión 4 podemos",
+        "startMs": 6309,
+        "durationMs": 6200
+      },
+      {
+        "text": "realizar este proceso a través del programa migrador cont pye agrowin",
+        "startMs": 12509,
+        "durationMs": 5801
+      },
+      {
+        "text": "versión 3 a versión 4 para ingresar este asistente damos doble clic en el icono",
+        "startMs": 18310,
+        "durationMs": 7279
+      },
+      {
+        "text": "de acceso directo a este programa que normalmente lo encontramos en el",
+        "startMs": 25589,
+        "durationMs": 6201
+      },
+      {
+        "text": "escritorio después de su instalación y nos abre el asistente de",
+        "startMs": 31790,
+        "durationMs": 5279
+      },
+      {
+        "text": "migración el cual es muy sencillo y de varios",
+        "startMs": 37069,
+        "durationMs": 5281
+      },
+      {
+        "text": "varios pasos en el primer paso podemos",
+        "startMs": 42350,
+        "durationMs": 2920
+      },
+      {
+        "text": "encontrar las consideraciones que debemos tener en cuenta y que debemos",
+        "startMs": 45270,
+        "durationMs": 5200
+      },
+      {
+        "text": "cumplir antes de comenzar el proceso de migración con el fin de no tener",
+        "startMs": 50470,
+        "durationMs": 6200
+      },
+      {
+        "text": "inconvenientes y realizar correctamente este este proceso lo primero que debemos",
+        "startMs": 56670,
+        "durationMs": 6120
+      },
+      {
+        "text": "tener en cuenta es que esta migración la debemos realizar en el equipo donde",
+        "startMs": 62790,
+        "durationMs": 6319
+      },
+      {
+        "text": "quedarán guardadas las áreas de trabajo ya que cada área de trabajo que migremos",
+        "startMs": 69109,
+        "durationMs": 6561
+      },
+      {
+        "text": "quedará guardada en el disco duro del equipo en el cual hayamos realizado este",
+        "startMs": 75670,
+        "durationMs": 6240
+      },
+      {
+        "text": "proceso después de cumplir el primer punto debemos tener instalados en este",
+        "startMs": 81910,
+        "durationMs": 6239
+      },
+      {
+        "text": "equipo los programas de cont pyme y o agroin tipo servidor o tipo",
+        "startMs": 88149,
+        "durationMs": 7441
+      },
+      {
+        "text": "monousuario dependiendo del que hayamos adquirido los respectivos instaladores",
+        "startMs": 95590,
+        "durationMs": 6280
+      },
+      {
+        "text": "los podemos encontrar en el c instalación o lo podemos descargar de la",
+        "startMs": 101870,
+        "durationMs": 5879
+      },
+      {
+        "text": "página web www.ape.com para la instalación de estos",
+        "startMs": 107749,
+        "durationMs": 6241
+      },
+      {
+        "text": "programas remitirse a los videos propios de cada tipo de instalador después de",
+        "startMs": 113990,
+        "durationMs": 6799
+      },
+      {
+        "text": "cumplir los dos puntos anteriores debemos tener el área de trabajo que",
+        "startMs": 120789,
+        "durationMs": 5640
+      },
+      {
+        "text": "vamos a migrar en el relas 55 parche 28 o superior en caso de no tener instalado",
+        "startMs": 126429,
+        "durationMs": 8361
+      },
+      {
+        "text": "este o un Release superior se debe comunicar con su distribuidor y en caso",
+        "startMs": 134790,
+        "durationMs": 6560
+      },
+      {
+        "text": "de no tener el parche requerido lo puede descargar de nuestro sitio web",
+        "startMs": 141350,
+        "durationMs": 10000
+      },
+      {
+        "text": "www.ape com cuando cumplimos los tres puntos",
+        "startMs": 151350,
+        "durationMs": 4080
+      },
+      {
+        "text": "activamos la opción de este computador y las áreas de trabajo cumplen con las",
+        "startMs": 155430,
+        "durationMs": 7120
+      },
+      {
+        "text": "tres consideraciones mencionadas en este",
+        "startMs": 162550,
+        "durationMs": 3640
+      },
+      {
+        "text": "paso podemos visualizar que al activar esta opción se habilita la opción de",
+        "startMs": 166190,
+        "durationMs": 6840
+      },
+      {
+        "text": "siguiente en donde damos clic para continuar en el segundo paso este",
+        "startMs": 173030,
+        "durationMs": 7160
+      },
+      {
+        "text": "asistente nos pregunta cuál es el programa al que le vamos a migrar el",
+        "startMs": 180190,
+        "durationMs": 5720
+      },
+      {
+        "text": "área de trabajo en este caso como en este equipo tenemos instalado tanto",
+        "startMs": 185910,
+        "durationMs": 6039
+      },
+      {
+        "text": "contapyme como agrin por tal motivo nos aparecen estas dos opciones",
+        "startMs": 191949,
+        "durationMs": 6961
+      },
+      {
+        "text": "seleccionamos el programa en este caso conta pyme y damos",
+        "startMs": 198910,
+        "durationMs": 6039
+      },
+      {
+        "text": "siguiente en el tercer paso nos pregunta cuál es el área de trabajo que vamos a",
+        "startMs": 204949,
+        "durationMs": 7041
+      },
+      {
+        "text": "migrar para lo cual disponemos de tres opciones que nos permiten indicar el",
+        "startMs": 211990,
+        "durationMs": 6439
+      },
+      {
+        "text": "área de trabajo tenemos la opción de maestro de áreas de trabajo en donde al",
+        "startMs": 218429,
+        "durationMs": 7800
+      },
+      {
+        "text": "seleccionarla nos Aparecen las áreas de trabajo que tenemos en contapyme versión",
+        "startMs": 226229,
+        "durationMs": 6961
+      },
+      {
+        "text": "3 es decir que utilizamos esta opción cuando en este equipo tenemos hemos",
+        "startMs": 233190,
+        "durationMs": 6720
+      },
+      {
+        "text": "instalado cont pime versión 3 y además tenemos las áreas de trabajo en las",
+        "startMs": 239910,
+        "durationMs": 6599
+      },
+      {
+        "text": "cuales trabajamos actualmente o hemos trabajado alguna",
+        "startMs": 246509,
+        "durationMs": 5241
+      },
+      {
+        "text": "vez otra opción que tenemos es la de copia de seguridad la cual seleccionamos",
+        "startMs": 251750,
+        "durationMs": 6719
+      },
+      {
+        "text": "como su nombre nos indica cuando el área de trabajo que vamos a migrar la tenemos",
+        "startMs": 258469,
+        "durationMs": 6160
+      },
+      {
+        "text": "en una copia de seguridad en donde damos clic en el botón de seleccionar la copia",
+        "startMs": 264629,
+        "durationMs": 7601
+      },
+      {
+        "text": "copia Y tenemos la opción de área de trabajo grabada en una carpeta la cual",
+        "startMs": 276790,
+        "durationMs": 7280
+      },
+      {
+        "text": "seleccionamos cuando el área de trabajo la tenemos guardada en una carpeta",
+        "startMs": 284070,
+        "durationMs": 6760
+      },
+      {
+        "text": "diferente a datos contapyme que recordemos es la carpeta en la cual el",
+        "startMs": 290830,
+        "durationMs": 6760
+      },
+      {
+        "text": "sistema Guarda por efecto las áreas de trabajo en la versión",
+        "startMs": 297590,
+        "durationMs": 5520
+      },
+      {
+        "text": "3 damos clic en el botón de seleccionar la ubicación del área de trabajo y",
+        "startMs": 303110,
+        "durationMs": 8280
+      },
+      {
+        "text": "seleccionamos la carpeta del área de trabajo en donde se encuentra",
+        "startMs": 272230,
+        "durationMs": 45480
+      },
+      {
+        "text": "guardada en este caso vamos a migrar el área de trabajo que tenemos en el",
+        "startMs": 317710,
+        "durationMs": 6919
+      },
+      {
+        "text": "maestro de áreas de trabajo de contapyme versión 3 para para ello activamos la",
+        "startMs": 324629,
+        "durationMs": 6560
+      },
+      {
+        "text": "primera opción seleccionamos el área de trabajo el cual es MP",
+        "startMs": 331189,
+        "durationMs": 7801
+      },
+      {
+        "text": "computadores al seleccionar el área de trabajo podemos visualizar que al lado",
+        "startMs": 338990,
+        "durationMs": 5840
+      },
+      {
+        "text": "derecho nos aparece una información básica del área de trabajo como el",
+        "startMs": 344830,
+        "durationMs": 6040
+      },
+      {
+        "text": "nombre el Release y parche en el que se encuentra también podemos visualizar una",
+        "startMs": 350870,
+        "durationMs": 9640
+      },
+      {
+        "text": "descripción tenemos la ubicación donde se encuentra",
+        "startMs": 360510,
+        "durationMs": 3200
+      },
+      {
+        "text": "guardada esta área las empresas que tiene creadas y la fecha de la última",
+        "startMs": 363710,
+        "durationMs": 9240
+      },
+      {
+        "text": "operación además en caso de que el área de trabajo ya haya sido migrada nos",
+        "startMs": 372950,
+        "durationMs": 6480
+      },
+      {
+        "text": "muestra un mensaje para así recordar cuál ya fue migrada cuando tenemos",
+        "startMs": 379430,
+        "durationMs": 5599
+      },
+      {
+        "text": "muchas áreas de trabajo en el sistema después de I el área de trabajo damos",
+        "startMs": 385029,
+        "durationMs": 7921
+      },
+      {
+        "text": "siguiente en el cuarto paso el asistente de migración realiza algunos procesos de",
+        "startMs": 392950,
+        "durationMs": 6519
+      },
+      {
+        "text": "mantenimiento como reindex y verificación de integridad",
+        "startMs": 399469,
+        "durationMs": 4961
+      },
+      {
+        "text": "referencial además realiza otras verificaciones del área de trabajo que",
+        "startMs": 404430,
+        "durationMs": 5440
+      },
+      {
+        "text": "vamos a migrar esto es con el fin de garantizar el correcto paso de los datos",
+        "startMs": 409870,
+        "durationMs": 6480
+      },
+      {
+        "text": "a la versión 4 debemos tener en cuenta que antes de",
+        "startMs": 416350,
+        "durationMs": 5040
+      },
+      {
+        "text": "iniciar este proceso de verificación el programa cont pye debe estar cerrado",
+        "startMs": 421390,
+        "durationMs": 6320
+      },
+      {
+        "text": "cuando se trabaja en Red debe estar cerrado en todos los equipos y damos",
+        "startMs": 427710,
+        "durationMs": 6360
+      },
+      {
+        "text": "clic en el botón de iniciar verificación y podemos",
+        "startMs": 434070,
+        "durationMs": 7440
+      },
+      {
+        "text": "visualizar que el sistema realiza varias verificaciones debemos tener en cuenta",
+        "startMs": 441520,
+        "durationMs": 6550
+      },
+      {
+        "text": "que el tiempo que esta verificación depende del tamaño de",
+        "startMs": 448070,
+        "durationMs": 17200
+      },
+      {
+        "text": "datos cuando ha terminado todas las verificaciones y no hay ningún error nos",
+        "startMs": 465280,
+        "durationMs": 6550
+      },
+      {
+        "text": "indica un mensaje que podemos continuar en caso de que la base de",
+        "startMs": 471830,
+        "durationMs": 5880
+      },
+      {
+        "text": "datos tenga errores no se puede continuar con la migración y deben ser",
+        "startMs": 477710,
+        "durationMs": 5360
+      },
+      {
+        "text": "corregidos esto es con el fin de garantizar la correcta migración de",
+        "startMs": 483070,
+        "durationMs": 4559
+      },
+      {
+        "text": "versión 3 a versión 4ro en este caso no hay ningún error damos",
+        "startMs": 487629,
+        "durationMs": 6840
+      },
+      {
+        "text": "siguiente en el quinto paso nos indica la asignación de códigos a los centros",
+        "startMs": 494469,
+        "durationMs": 6081
+      },
+      {
+        "text": "de costos según la nueva estructura de la versión 4ro en donde podemos",
+        "startMs": 500550,
+        "durationMs": 5560
+      },
+      {
+        "text": "visualizar en la parte izquierda la ura de centros de costos de la versión 3 y",
+        "startMs": 506110,
+        "durationMs": 7039
+      },
+      {
+        "text": "en la parte derecha el código correspondiente para la versión",
+        "startMs": 513149,
+        "durationMs": 5800
+      },
+      {
+        "text": "4 en este paso podemos volver a cargar el listado de centros de costos podemos",
+        "startMs": 518949,
+        "durationMs": 8521
+      },
+      {
+        "text": "cambiar el código del centro de costos por el que queramos y al realizar la",
+        "startMs": 527470,
+        "durationMs": 5799
+      },
+      {
+        "text": "migración automáticamente quedarán los diferentes catálogos operaciones y",
+        "startMs": 533269,
+        "durationMs": 6761
+      },
+      {
+        "text": "movimientos también podemos visualizar en pantalla el explorador gráfico de la",
+        "startMs": 540030,
+        "durationMs": 6720
+      },
+      {
+        "text": "empresa como lo tenemos en la versión tres y Cómo quedará en la versión",
+        "startMs": 546750,
+        "durationMs": 8639
+      },
+      {
+        "text": "cuatro en este caso vamos a dejar la estructura tal cual la sugiere el",
+        "startMs": 555399,
+        "durationMs": 6911
+      },
+      {
+        "text": "asistente y damos siguiente podemos visualizar que al dar",
+        "startMs": 562310,
+        "durationMs": 6400
+      },
+      {
+        "text": "clic el sistema realiza un proceso de verificación de los códigos de los",
+        "startMs": 568710,
+        "durationMs": 6440
+      },
+      {
+        "text": "centros de costos",
+        "startMs": 575150,
+        "durationMs": 4080
+      },
+      {
+        "text": "costos cerramos en el sexto paso debemos",
+        "startMs": 579230,
+        "durationMs": 3480
+      },
+      {
+        "text": "configurar el nombre de la nueva área de trabajo en la versión 4ro y la ubicación",
+        "startMs": 582710,
+        "durationMs": 7760
+      },
+      {
+        "text": "en el equipo donde será almacenada esta área de",
+        "startMs": 590470,
+        "durationMs": 5280
+      },
+      {
+        "text": "trabajo podemos visualizar que el asistente nos sugiere tanto el nombre",
+        "startMs": 595750,
+        "durationMs": 5680
+      },
+      {
+        "text": "como la ubicación de la nueva área de trabajo debemos tener en cuenta que la",
+        "startMs": 601430,
+        "durationMs": 5280
+      },
+      {
+        "text": "ubicación debe ser un disco local es decir una ubicación en el disco duro del",
+        "startMs": 606710,
+        "durationMs": 6040
+      },
+      {
+        "text": "equipo en este caso vamos a dejar estos datos y damos clic en iniciar",
+        "startMs": 612750,
+        "durationMs": 7960
+      },
+      {
+        "text": "preparación para que el sistema verifique tanto el nombre como la",
+        "startMs": 620710,
+        "durationMs": 7320
+      },
+      {
+        "text": "ubicación damos siguiente y en El séptimo paso podemos",
+        "startMs": 628040,
+        "durationMs": 5750
+      },
+      {
+        "text": "visualizar que tenemos el botón de iniciar migración al dar clic en este",
+        "startMs": 633790,
+        "durationMs": 6080
+      },
+      {
+        "text": "botón se realiza el proceso de migración de toda la información que está en",
+        "startMs": 639870,
+        "durationMs": 6320
+      },
+      {
+        "text": "versión 3 a la nueva área de trabajo en la versión",
+        "startMs": 646190,
+        "durationMs": 6360
+      },
+      {
+        "text": "4 debemos tener en cuenta que el tiempo que dure la migración depende de la",
+        "startMs": 652560,
+        "durationMs": 6550
+      },
+      {
+        "text": "cantidad de registros que tenga la base de",
+        "startMs": 659110,
+        "durationMs": 17320
+      },
+      {
+        "text": "datos cuando termina el proceso nos muestra una ventana informando nos quea",
+        "startMs": 676440,
+        "durationMs": 7270
+      },
+      {
+        "text": "terminado el proceso de migración y al dar",
+        "startMs": 683710,
+        "durationMs": 4239
+      },
+      {
+        "text": "dar aceptar",
+        "startMs": 687949,
+        "durationMs": 3921
+      },
+      {
+        "text": "nos muestra el informe de migración en donde podemos visualizar todas las",
+        "startMs": 691880,
+        "durationMs": 5990
+      },
+      {
+        "text": "tablas que fueron migradas al igual que las advertencias y los errores que se",
+        "startMs": 697870,
+        "durationMs": 5800
+      },
+      {
+        "text": "pudieron presentar en la migración",
+        "startMs": 703670,
+        "durationMs": 5680
+      },
+      {
+        "text": "migración cerramos podemos visualizar que en este",
+        "startMs": 709350,
+        "durationMs": 2800
+      },
+      {
+        "text": "último paso tenemos el botón para visualizar nuevamente el informe de",
+        "startMs": 712150,
+        "durationMs": 5359
+      },
+      {
+        "text": "migración y Si queremos migrar otra área de trabajo damos clic en este botón y",
+        "startMs": 717509,
+        "durationMs": 10521
+      },
+      {
+        "text": "damos finalizar si ingresamos al sistema",
+        "startMs": 728030,
+        "durationMs": 5440
+      },
+      {
+        "text": "contapyme podemos visualizar que tenemos disponible el",
+        "startMs": 733480,
+        "durationMs": 5750
+      },
+      {
+        "text": "área de trabajo que acabamos de migrar esto es todo sobre proceso de",
+        "startMs": 739230,
+        "durationMs": 10490
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video presenta el proceso de migración de un área de trabajo de versión 3 a versión 4 del software contable ContaPyme.\nCP40-005-020-050B\n\n## Transcripción\n\nproceso de migración para pasar toda la información\nque tenemos en cada área de trabajo en la versión 3 a la versión 4 podemos\nrealizar este proceso a través del programa migrador cont pye agrowin\nversión 3 a versión 4 para ingresar este asistente damos doble clic en el icono\nde acceso directo a este programa que normalmente lo encontramos en el\nescritorio después de su instalación y nos abre el asistente de\nmigración el cual es muy sencillo y de varios\nvarios pasos en el primer paso podemos\nencontrar las consideraciones que debemos tener en cuenta y que debemos\ncumplir antes de comenzar el proceso de migración con el fin de no tener\ninconvenientes y realizar correctamente este este proceso lo primero que debemos\ntener en cuenta es que esta migración la debemos realizar en el equipo donde\nquedarán guardadas las áreas de trabajo ya que cada área de trabajo que migremos\nquedará guardada en el disco duro del equipo en el cual hayamos realizado este\nproceso después de cumplir el primer punto debemos tener instalados en este\nequipo los programas de cont pyme y o agroin tipo servidor o tipo\nmonousuario dependiendo del que hayamos adquirido los respectivos instaladores\nlos podemos encontrar en el c instalación o lo podemos descargar de la\npágina web www.ape.com para la instalación de estos\nprogramas remitirse a los videos propios de cada tipo de instalador después de\ncumplir los dos puntos anteriores debemos tener el área de trabajo que\nvamos a migrar en el relas 55 parche 28 o superior en caso de no tener instalado\neste o un Release superior se debe comunicar con su distribuidor y en caso\nde no tener el parche requerido lo puede descargar de nuestro sitio web\nwww.ape com cuando cumplimos los tres puntos\nactivamos la opción de este computador y las áreas de trabajo cumplen con las\ntres consideraciones mencionadas en este\npaso podemos visualizar que al activar esta opción se habilita la opción de\nsiguiente en donde damos clic para continuar en el segundo paso este\nasistente nos pregunta cuál es el programa al que le vamos a migrar el\nárea de trabajo en este caso como en este equipo tenemos instalado tanto\ncontapyme como agrin por tal motivo nos aparecen estas dos opciones\nseleccionamos el programa en este caso conta pyme y damos\nsiguiente en el tercer paso nos pregunta cuál es el área de trabajo que vamos a\nmigrar para lo cual disponemos de tres opciones que nos permiten indicar el\nárea de trabajo tenemos la opción de maestro de áreas de trabajo en donde al\nseleccionarla nos Aparecen las áreas de trabajo que tenemos en contapyme versión\n3 es decir que utilizamos esta opción cuando en este equipo tenemos hemos\ninstalado cont pime versión 3 y además tenemos las áreas de trabajo en las\ncuales trabajamos actualmente o hemos trabajado alguna\nvez otra opción que tenemos es la de copia de seguridad la cual seleccionamos\ncomo su nombre nos indica cuando el área de trabajo que vamos a migrar la tenemos\nen una copia de seguridad en donde damos clic en el botón de seleccionar la copia\ncopia Y tenemos la opción de área de trabajo grabada en una carpeta la cual\nseleccionamos cuando el área de trabajo la tenemos guardada en una carpeta\ndiferente a datos contapyme que recordemos es la carpeta en la cual el\nsistema Guarda por efecto las áreas de trabajo en la versión\n3 damos clic en el botón de seleccionar la ubicación del área de trabajo y\nseleccionamos la carpeta del área de trabajo en donde se encuentra\nguardada en este caso vamos a migrar el área de trabajo que tenemos en el\nmaestro de áreas de trabajo de contapyme versión 3 para para ello activamos la\nprimera opción seleccionamos el área de trabajo el cual es MP\ncomputadores al seleccionar el área de trabajo podemos visualizar que al lado\nderecho nos aparece una información básica del área de trabajo como el\nnombre el Release y parche en el que se encuentra también podemos visualizar una\ndescripción tenemos la ubicación donde se encuentra\nguardada esta área las empresas que tiene creadas y la fecha de la última\noperación además en caso de que el área de trabajo ya haya sido migrada nos\nmuestra un mensaje para así recordar cuál ya fue migrada cuando tenemos\nmuchas áreas de trabajo en el sistema después de I el área de trabajo damos\nsiguiente en el cuarto paso el asistente de migración realiza algunos procesos de\nmantenimiento como reindex y verificación de integridad\nreferencial además realiza otras verificaciones del área de trabajo que\nvamos a migrar esto es con el fin de garantizar el correcto paso de los datos\na la versión 4 debemos tener en cuenta que antes de\niniciar este proceso de verificación el programa cont pye debe estar cerrado\ncuando se trabaja en Red debe estar cerrado en todos los equipos y damos\nclic en el botón de iniciar verificación y podemos\nvisualizar que el sistema realiza varias verificaciones debemos tener en cuenta\nque el tiempo que esta verificación depende del tamaño de\ndatos cuando ha terminado todas las verificaciones y no hay ningún error nos\nindica un mensaje que podemos continuar en caso de que la base de\ndatos tenga errores no se puede continuar con la migración y deben ser\ncorregidos esto es con el fin de garantizar la correcta migración de\nversión 3 a versión 4ro en este caso no hay ningún error damos\nsiguiente en el quinto paso nos indica la asignación de códigos a los centros\nde costos según la nueva estructura de la versión 4ro en donde podemos\nvisualizar en la parte izquierda la ura de centros de costos de la versión 3 y\nen la parte derecha el código correspondiente para la versión\n4 en este paso podemos volver a cargar el listado de centros de costos podemos\ncambiar el código del centro de costos por el que queramos y al realizar la\nmigración automáticamente quedarán los diferentes catálogos operaciones y\nmovimientos también podemos visualizar en pantalla el explorador gráfico de la\nempresa como lo tenemos en la versión tres y Cómo quedará en la versión\ncuatro en este caso vamos a dejar la estructura tal cual la sugiere el\nasistente y damos siguiente podemos visualizar que al dar\nclic el sistema realiza un proceso de verificación de los códigos de los\ncentros de costos\ncostos cerramos en el sexto paso debemos\nconfigurar el nombre de la nueva área de trabajo en la versión 4ro y la ubicación\nen el equipo donde será almacenada esta área de\ntrabajo podemos visualizar que el asistente nos sugiere tanto el nombre\ncomo la ubicación de la nueva área de trabajo debemos tener en cuenta que la\nubicación debe ser un disco local es decir una ubicación en el disco duro del\nequipo en este caso vamos a dejar estos datos y damos clic en iniciar\npreparación para que el sistema verifique tanto el nombre como la\nubicación damos siguiente y en El séptimo paso podemos\nvisualizar que tenemos el botón de iniciar migración al dar clic en este\nbotón se realiza el proceso de migración de toda la información que está en\nversión 3 a la nueva área de trabajo en la versión\n4 debemos tener en cuenta que el tiempo que dure la migración depende de la\ncantidad de registros que tenga la base de\ndatos cuando termina el proceso nos muestra una ventana informando nos quea\nterminado el proceso de migración y al dar\ndar aceptar\nnos muestra el informe de migración en donde podemos visualizar todas las\ntablas que fueron migradas al igual que las advertencias y los errores que se\npudieron presentar en la migración\nmigración cerramos podemos visualizar que en este\núltimo paso tenemos el botón para visualizar nuevamente el informe de\nmigración y Si queremos migrar otra área de trabajo damos clic en este botón y\ndamos finalizar si ingresamos al sistema\ncontapyme podemos visualizar que tenemos disponible el\nárea de trabajo que acabamos de migrar esto es todo sobre proceso de"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 187.278,
+    "asr": 44100,
+    "filesizeApprox": 17507402,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/t8PLds2KDqs.md",
+    "json": "videos/2012/t8PLds2KDqs.json",
+    "infoJson": "videos/2012/t8PLds2KDqs.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

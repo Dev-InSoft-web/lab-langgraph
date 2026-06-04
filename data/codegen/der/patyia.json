@@ -1,0 +1,5 @@
+{
+  "hash": "39458eb4369c9dd67117d40e00ec7da16ac28dc9",
+  "source": "---\nconfig:\n  layout: elk\n  theme: dark\n  look: classic\n---\nerDiagram\n  direction LR\n  CONVERSACIONES {}\n  MENSAJESCALIFICADOS {}\n  PROPIETARIOXTERCERO {}\n  TIQUETESCONVERSACION {}\n  CONSULTAS {}\n  INSTRUCCION {}\n  TDCONSULTA {}\n  TDCONSULTAXINSTRUCCION {}\n  TDCONSULTAXVECTOR_STORE {}\n  VECTOR_STORE {}\n  CONVERSACIONES ||--o{ MENSAJESCALIFICADOS : \"contiene\"\n  CONVERSACIONES ||--o{ TIQUETESCONVERSACION : \"contiene\"\n  TDCONSULTA ||--o{ CONSULTAS : \"contiene\"\n  TDCONSULTA ||--o{ CONVERSACIONES : \"ref\"\n  TDCONSULTA ||--o{ TDCONSULTAXINSTRUCCION : \"agrupa\"\n  TDCONSULTA ||--o{ TDCONSULTAXVECTOR_STORE : \"agrupa\"\n  TDCONSULTAXINSTRUCCION ||--o{ INSTRUCCION : \"contiene\"\n  TDCONSULTAXVECTOR_STORE ||--o{ VECTOR_STORE : \"contiene\"",
+  "updatedAt": "2026-05-27T13:56:05.062Z"
+}

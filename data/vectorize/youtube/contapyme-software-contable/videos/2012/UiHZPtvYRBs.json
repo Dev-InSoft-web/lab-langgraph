@@ -1,0 +1,709 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:32:36.038Z",
+  "videoId": "UiHZPtvYRBs",
+  "videoUrl": "https://www.youtube.com/watch?v=UiHZPtvYRBs",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "UiHZPtvYRBs",
+    "title": "Sistema contable ContaPyme - Configuración de lista de precios y vendedor por defecto",
+    "fulltitle": "Sistema contable ContaPyme - Configuración de lista de precios y vendedor por defecto",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme muestra:\nAsignación de un vendedor fijo a un cliente.\nPredeterminar lista de precios a un cliente\nCP40-150-020-020B-100M",
+    "duration": 329,
+    "duration_string": "5:29",
+    "upload_date": "20120215",
+    "timestamp": 1329343970,
+    "view_count": 400,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/UiHZPtvYRBs/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_FIFWBxDsK5SuZZxAtpti7OHYlg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDz_FjLdOpOvCbcVMt9SSDjRDxR2Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbZdULu0JI-UAVA8nibKrv4pIlEw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUFj0-geGNFcB0nPdVMX1rccDGyQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UiHZPtvYRBs/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/UiHZPtvYRBs/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=UiHZPtvYRBs",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.303951367781155,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20364741641337386,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20364741641337386,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 223.768,
+        "asr": 44100,
+        "filesize_approx": 9198654,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Sistema contable ContaPyme - Configuración de lista de precios y vendedor por defecto",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/UiHZPtvYRBs/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/UiHZPtvYRBs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema contable ContaPyme - Configuración de lista de precios y vendedor por defecto\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 62,
+    "transcriptChars": 4775,
+    "segments": [
+      {
+        "text": "configuración de listas de precios y vendedor por defecto para un",
+        "startMs": 719,
+        "durationMs": 5231
+      },
+      {
+        "text": "cliente esta configuración se utiliza para asignarle a cada cliente un",
+        "startMs": 5950,
+        "durationMs": 5040
+      },
+      {
+        "text": "vendedor por defecto o para asignarle una lista de precios especial que se",
+        "startMs": 10990,
+        "durationMs": 5240
+      },
+      {
+        "text": "tenga pactada con el cliente supongamos un caso cuando un",
+        "startMs": 16230,
+        "durationMs": 5520
+      },
+      {
+        "text": "cliente se siente bien atendido por un vendedor en particular casi siempre que",
+        "startMs": 21750,
+        "durationMs": 5200
+      },
+      {
+        "text": "el cliente vuelve a la empresa a realizar una distinta este pregunta o",
+        "startMs": 26950,
+        "durationMs": 5880
+      },
+      {
+        "text": "solicita ser atendido por El vendedor que tan amablemente lo Atendió durante",
+        "startMs": 32830,
+        "durationMs": 4559
+      },
+      {
+        "text": "su última visita de compra para este caso sería muy útil",
+        "startMs": 37389,
+        "durationMs": 5201
+      },
+      {
+        "text": "configurarle y asignarle al cliente El vendedor por defecto para que así Cada",
+        "startMs": 42590,
+        "durationMs": 5720
+      },
+      {
+        "text": "vez que el cliente llegue a realizar una nueva compra en el sistema quede",
+        "startMs": 48310,
+        "durationMs": 4600
+      },
+      {
+        "text": "registrada la venta al asesor comercial o vendedor que el cliente",
+        "startMs": 52910,
+        "durationMs": 6000
+      },
+      {
+        "text": "eligió De igual forma la empresa puede tener clientes especiales a quienes por",
+        "startMs": 58910,
+        "durationMs": 6120
+      },
+      {
+        "text": "algún motivo familiaridad amistad o simplemente negocios se le otorgan",
+        "startMs": 65030,
+        "durationMs": 6320
+      },
+      {
+        "text": "regulares estos precios la empresa los puede tener previamente configurados en",
+        "startMs": 75270,
+        "durationMs": 4600
+      },
+      {
+        "text": "una lista de precios especial para más información de manejo y configuración de",
+        "startMs": 79870,
+        "durationMs": 4720
+      },
+      {
+        "text": "listas de precios pueden Consultar los videos del módulo de inventarios gestión",
+        "startMs": 84590,
+        "durationMs": 4240
+      },
+      {
+        "text": "comercial título listas de precios y siempre serán los precios que van a",
+        "startMs": 88830,
+        "durationMs": 5840
+      },
+      {
+        "text": "ofrecerle a este cliente por lo tanto dentro del sistema se realiza la",
+        "startMs": 94670,
+        "durationMs": 5240
+      },
+      {
+        "text": "configuración para que cada vez que le facturemos a un cliente el sistema",
+        "startMs": 99910,
+        "durationMs": 4760
+      },
+      {
+        "text": "analice si este tiene configurada una lista de precios especial para cargarle",
+        "startMs": 104670,
+        "durationMs": 5960
+      },
+      {
+        "text": "los precios o si no para tomar la lista de precios genérica que por defecto trae",
+        "startMs": 71350,
+        "durationMs": 44640
+      },
+      {
+        "text": "configurada el sistema para asignar estas",
+        "startMs": 115990,
+        "durationMs": 4159
+      },
+      {
+        "text": "configuraciones a un cliente primero nos debemos ubicar dentro del catálogo de",
+        "startMs": 120149,
+        "durationMs": 4000
+      },
+      {
+        "text": "terceros y segundo ubicamos al tercero al cual le vamos a realizar la",
+        "startMs": 124149,
+        "durationMs": 6201
+      },
+      {
+        "text": "configuración le podemos indicar clic derecho modificar para que dentro de sus",
+        "startMs": 130350,
+        "durationMs": 4640
+      },
+      {
+        "text": "datos internos dentro de la pestaña datos de cliente podamos configurar",
+        "startMs": 134990,
+        "durationMs": 4640
+      },
+      {
+        "text": "tanto El vendedor por defecto como la lista de precios asociada en la pestaña",
+        "startMs": 139630,
+        "durationMs": 5040
+      },
+      {
+        "text": "generales podemos indicarle Cuál es el vendedor por defecto por ejemplo para",
+        "startMs": 144670,
+        "durationMs": 4400
+      },
+      {
+        "text": "este caso para el señor Esteban Carbajal vamos a indicarle que El vendedor por",
+        "startMs": 149070,
+        "durationMs": 3600
+      },
+      {
+        "text": "defecto es el señor Julián Diego Arias y dentro de la pestaña datos de control",
+        "startMs": 152670,
+        "durationMs": 4680
+      },
+      {
+        "text": "podemos indicarle que la lista de precios que va a tener siempre asociada",
+        "startMs": 157350,
+        "durationMs": 4000
+      },
+      {
+        "text": "este cliente es la lista de precios número dos lista de precios para ventas",
+        "startMs": 161350,
+        "durationMs": 3799
+      },
+      {
+        "text": "a crédito indiqué modle aceptar verifiquemos también otro",
+        "startMs": 165149,
+        "durationMs": 5401
+      },
+      {
+        "text": "tercero por ejemplo este señor Alejandro López digamos clic derecho modificar y",
+        "startMs": 170550,
+        "durationMs": 5520
+      },
+      {
+        "text": "analicemos en la pestaña de datos de cliente que este tercero tiene como",
+        "startMs": 176070,
+        "durationMs": 4120
+      },
+      {
+        "text": "vendedor por defecto a la señora Sandra Milena y dentro de datos de control",
+        "startMs": 180190,
+        "durationMs": 5119
+      },
+      {
+        "text": "tenemos la lista de precios número uno vamos entonces a realizar dos ejercicios",
+        "startMs": 185309,
+        "durationMs": 5241
+      },
+      {
+        "text": "prácticos uno cargando la información para el Señor Alejandro López y viendo",
+        "startMs": 190550,
+        "durationMs": 4360
+      },
+      {
+        "text": "como el sistema automáticamente hereda o toma esta configuración de vendedor por",
+        "startMs": 194910,
+        "durationMs": 4520
+      },
+      {
+        "text": "defecto y de lista de precios por defecto y la otra operación de venta",
+        "startMs": 199430,
+        "durationMs": 4600
+      },
+      {
+        "text": "para el señor Esteban Carvajal analizando Cómo el sistema",
+        "startMs": 204030,
+        "durationMs": 3360
+      },
+      {
+        "text": "automáticamente carga el vendedor Julián Diego Arias y datos de control la lista",
+        "startMs": 207390,
+        "durationMs": 6280
+      },
+      {
+        "text": "de precios número dos ingresemos Entonces al manejador de operaciones e",
+        "startMs": 213670,
+        "durationMs": 6680
+      },
+      {
+        "text": "ingresemos a una operación de punto de venta borremos el tercero que tenemos",
+        "startMs": 220350,
+        "durationMs": 5400
+      },
+      {
+        "text": "allí por defecto y carguemos con la linternita el",
+        "startMs": 225750,
+        "durationMs": 6679
+      },
+      {
+        "text": "automáticamente cargó lista de precios número uno y vendedor por defecto Sandra",
+        "startMs": 238429,
+        "durationMs": 6241
+      },
+      {
+        "text": "si cargamos un producto con F7 llamemos cualquiera de las referencias",
+        "startMs": 244670,
+        "durationMs": 5119
+      },
+      {
+        "text": "automáticamente el sistema nos indica que por ejemplo este producto monitor",
+        "startMs": 249789,
+        "durationMs": 4080
+      },
+      {
+        "text": "LCD vale 380,000 pes para lista de precios número uno digámosle aceptar",
+        "startMs": 253869,
+        "durationMs": 6801
+      },
+      {
+        "text": "f8 carguemos ahora el siguiente tercero que era con código 75098 621 Esteban",
+        "startMs": 260670,
+        "durationMs": 7920
+      },
+      {
+        "text": "Carvajal vemos cómo el sistema automáticamente cambió la configuración",
+        "startMs": 268590,
+        "durationMs": 4360
+      },
+      {
+        "text": "que se tiene asignada dentro de la operación puso la lista de precios",
+        "startMs": 272950,
+        "durationMs": 3880
+      },
+      {
+        "text": "número dos venta a crédito y El vendedor por defecto el señor",
+        "startMs": 276830,
+        "durationMs": 5320
+      },
+      {
+        "text": "Julián llamemos nuevamente la referencia con F7 carguemos el monitor y miremos",
+        "startMs": 282150,
+        "durationMs": 7000
+      },
+      {
+        "text": "como el sistema ya cambia el precio ya dice que este producto en la lista de",
+        "startMs": 232429,
+        "durationMs": 61200
+      },
+      {
+        "text": "precios dos ventas a crédito vale 410,000 es así como dependiendo de la",
+        "startMs": 293629,
+        "durationMs": 6120
+      },
+      {
+        "text": "configuración que se le tenga asignada a cada uno de los clientes el sistema va a",
+        "startMs": 299749,
+        "durationMs": 4761
+      },
+      {
+        "text": "poder configurar la operación de venta con la lista de precios y vendedor por",
+        "startMs": 304510,
+        "durationMs": 4280
+      },
+      {
+        "text": "defecto que se tiene asignada si no se tiene asignada ninguna lista de precios",
+        "startMs": 308790,
+        "durationMs": 4480
+      },
+      {
+        "text": "ni ningún vendedor por defecto a un cliente el sistema va a tomar las",
+        "startMs": 313270,
+        "durationMs": 4320
+      },
+      {
+        "text": "configuraciones generales que se tienen predeterminadas para toda la operación",
+        "startMs": 317590,
+        "durationMs": 3520
+      },
+      {
+        "text": "de ventas esto es todo acerca de configuración de lista de precios y",
+        "startMs": 321110,
+        "durationMs": 9649
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme muestra:\nAsignación de un vendedor fijo a un cliente.\nPredeterminar lista de precios a un cliente\nCP40-150-020-020B-100M\n\n## Transcripción\n\nconfiguración de listas de precios y vendedor por defecto para un\ncliente esta configuración se utiliza para asignarle a cada cliente un\nvendedor por defecto o para asignarle una lista de precios especial que se\ntenga pactada con el cliente supongamos un caso cuando un\ncliente se siente bien atendido por un vendedor en particular casi siempre que\nel cliente vuelve a la empresa a realizar una distinta este pregunta o\nsolicita ser atendido por El vendedor que tan amablemente lo Atendió durante\nsu última visita de compra para este caso sería muy útil\nconfigurarle y asignarle al cliente El vendedor por defecto para que así Cada\nvez que el cliente llegue a realizar una nueva compra en el sistema quede\nregistrada la venta al asesor comercial o vendedor que el cliente\neligió De igual forma la empresa puede tener clientes especiales a quienes por\nalgún motivo familiaridad amistad o simplemente negocios se le otorgan\nregulares estos precios la empresa los puede tener previamente configurados en\nuna lista de precios especial para más información de manejo y configuración de\nlistas de precios pueden Consultar los videos del módulo de inventarios gestión\ncomercial título listas de precios y siempre serán los precios que van a\nofrecerle a este cliente por lo tanto dentro del sistema se realiza la\nconfiguración para que cada vez que le facturemos a un cliente el sistema\nanalice si este tiene configurada una lista de precios especial para cargarle\nlos precios o si no para tomar la lista de precios genérica que por defecto trae\nconfigurada el sistema para asignar estas\nconfiguraciones a un cliente primero nos debemos ubicar dentro del catálogo de\nterceros y segundo ubicamos al tercero al cual le vamos a realizar la\nconfiguración le podemos indicar clic derecho modificar para que dentro de sus\ndatos internos dentro de la pestaña datos de cliente podamos configurar\ntanto El vendedor por defecto como la lista de precios asociada en la pestaña\ngenerales podemos indicarle Cuál es el vendedor por defecto por ejemplo para\neste caso para el señor Esteban Carbajal vamos a indicarle que El vendedor por\ndefecto es el señor Julián Diego Arias y dentro de la pestaña datos de control\npodemos indicarle que la lista de precios que va a tener siempre asociada\neste cliente es la lista de precios número dos lista de precios para ventas\na crédito indiqué modle aceptar verifiquemos también otro\ntercero por ejemplo este señor Alejandro López digamos clic derecho modificar y\nanalicemos en la pestaña de datos de cliente que este tercero tiene como\nvendedor por defecto a la señora Sandra Milena y dentro de datos de control\ntenemos la lista de precios número uno vamos entonces a realizar dos ejercicios\nprácticos uno cargando la información para el Señor Alejandro López y viendo\ncomo el sistema automáticamente hereda o toma esta configuración de vendedor por\ndefecto y de lista de precios por defecto y la otra operación de venta\npara el señor Esteban Carvajal analizando Cómo el sistema\nautomáticamente carga el vendedor Julián Diego Arias y datos de control la lista\nde precios número dos ingresemos Entonces al manejador de operaciones e\ningresemos a una operación de punto de venta borremos el tercero que tenemos\nallí por defecto y carguemos con la linternita el\nautomáticamente cargó lista de precios número uno y vendedor por defecto Sandra\nsi cargamos un producto con F7 llamemos cualquiera de las referencias\nautomáticamente el sistema nos indica que por ejemplo este producto monitor\nLCD vale 380,000 pes para lista de precios número uno digámosle aceptar\nf8 carguemos ahora el siguiente tercero que era con código 75098 621 Esteban\nCarvajal vemos cómo el sistema automáticamente cambió la configuración\nque se tiene asignada dentro de la operación puso la lista de precios\nnúmero dos venta a crédito y El vendedor por defecto el señor\nJulián llamemos nuevamente la referencia con F7 carguemos el monitor y miremos\ncomo el sistema ya cambia el precio ya dice que este producto en la lista de\nprecios dos ventas a crédito vale 410,000 es así como dependiendo de la\nconfiguración que se le tenga asignada a cada uno de los clientes el sistema va a\npoder configurar la operación de venta con la lista de precios y vendedor por\ndefecto que se tiene asignada si no se tiene asignada ninguna lista de precios\nni ningún vendedor por defecto a un cliente el sistema va a tomar las\nconfiguraciones generales que se tienen predeterminadas para toda la operación\nde ventas esto es todo acerca de configuración de lista de precios y"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 223.768,
+    "asr": 44100,
+    "filesizeApprox": 9198654,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/UiHZPtvYRBs.md",
+    "json": "videos/2012/UiHZPtvYRBs.json",
+    "infoJson": "videos/2012/UiHZPtvYRBs.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

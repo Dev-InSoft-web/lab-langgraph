@@ -1,0 +1,24 @@
+{
+  "pageId": "d72b253f39af1539",
+  "url": "https://certificadosdeorigen.dian.gov.co/Verifica/indexmex2.php",
+  "title": "Certificados de Origen Digitales",
+  "corpus": "dian",
+  "tipo": "web",
+  "audience": "contadores",
+  "fetchedAt": "2026-06-04T03:51:48.242Z",
+  "content": {
+    "markdown": "# Certificados de Origen Digitales\n\n**URL:** https://certificadosdeorigen.dian.gov.co/Verifica/indexmex2.php\n\n![logo](../corigen_digital/CargueCertImport/images/logo-dian.png)\n\n![logo](../corigen_digital/CargueCertImport/images/logo-minhacienda.png)\n\n* * *\n\n## Control de acceso a consulta CODs\n\nIngrese sus credenciales.\n\nCódigo Funcionario\n\nClave Funcionario\n\nEntrar\n",
+    "plainText": "Certificados de Origen Digitales URL: https://certificadosdeorigen.dian.gov.co/Verifica/indexmex2.php ! logo ../corigen digital/CargueCertImport/images/logo dian.png ! logo ../corigen digital/CargueCertImport/images/logo minhacienda.png Ingrese sus credenciales. Código Funcionario Clave Funcionario Entrar"
+  },
+  "sections": [
+    {
+      "heading": "Introducción",
+      "text": "# Certificados de Origen Digitales\n\n**URL:** https://certificadosdeorigen.dian.gov.co/Verifica/indexmex2.php\n\n![logo](../corigen_digital/CargueCertImport/images/logo-dian.png)\n\n![logo](../corigen_digital/CargueCertImport/images/logo-minhacienda.png)\n\n* * *"
+    },
+    {
+      "heading": "Control de acceso a consulta CODs",
+      "text": "Ingrese sus credenciales.\n\nCódigo Funcionario\n\nClave Funcionario\n\nEntrar"
+    }
+  ],
+  "storageRel": "dian/2026"
+}

@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:29:56.211Z",
+  "videoId": "bRDvR7bzXP4",
+  "videoUrl": "https://www.youtube.com/watch?v=bRDvR7bzXP4",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "bRDvR7bzXP4",
+    "title": "Programa contable ContaPyme - Explicación conceptual del manejo de memorias en el POS",
+    "fulltitle": "Programa contable ContaPyme - Explicación conceptual del manejo de memorias en el POS",
+    "description": "http://www.contapyme.com\nExplicación de manejo de colas de espera y proceso de facturación en el software contable ContaPyme.\nCP40-150-020-050B",
+    "duration": 231,
+    "duration_string": "3:51",
+    "upload_date": "20120503",
+    "timestamp": 1336052195,
+    "view_count": 316,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/bRDvR7bzXP4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLBWFMHAptMpvNOHKMBtc-XC5nNqdg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARghID0ofzAP&rs=AOn4CLCpDomgiAPNIP9dk8gERWfV6bQXjA",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLDLVMIrkyg2hFgrLJ18cLE818zk3A",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLCUSveuRu9kjDVUhJA4ca4gWijRPg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLC2fUJbXTGj8PDkI2C8C94UWOWvyg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARghID0ofzAP&rs=AOn4CLDJzBHdCNweRkX6KcTFROAcb5srVw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARghID0ofzAP&rs=AOn4CLAh9Hc6Ml1w95EuORvYNHyeyYj_Yw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLCD9-TTf4x7cBTABJL1VZ1zfvyLWA",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCEgPSh_MA8=&rs=AOn4CLBWFMHAptMpvNOHKMBtc-XC5nNqdg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bRDvR7bzXP4/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bRDvR7bzXP4/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=bRDvR7bzXP4",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.4329004329004329,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5064935064935064,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5064935064935064,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.5064935064935064,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 190.486,
+        "asr": 44100,
+        "filesize_approx": 5508926,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Programa contable ContaPyme - Explicación conceptual del manejo de memorias en el POS",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/bRDvR7bzXP4/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/bRDvR7bzXP4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Programa contable ContaPyme - Explicación conceptual del manejo de memorias en el POS\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 50,
+    "transcriptChars": 3542,
+    "segments": [
+      {
+        "text": "explicación conceptual del manejo de memorias en el post configuración de la",
+        "startMs": 760,
+        "durationMs": 5109
+      },
+      {
+        "text": "operación de inventario punto de venta dentro de la operación de venta",
+        "startMs": 5869,
+        "durationMs": 4680
+      },
+      {
+        "text": "tipo post se encuentran en la parte inferior izquierda cuatro Campos",
+        "startMs": 10549,
+        "durationMs": 5521
+      },
+      {
+        "text": "reservados para el manejo de memorias estas memorias en otros",
+        "startMs": 16070,
+        "durationMs": 4560
+      },
+      {
+        "text": "programas llamadas colas de espera permiten cambiarse de un cliente a otro",
+        "startMs": 20630,
+        "durationMs": 4920
+      },
+      {
+        "text": "cuando por algún motivo al cliente que se le está registrando los productos",
+        "startMs": 25550,
+        "durationMs": 4119
+      },
+      {
+        "text": "para la facturación se le debe dejar en espera y mientras se organiza el",
+        "startMs": 29669,
+        "durationMs": 4681
+      },
+      {
+        "text": "problema con él se puede cargar en otra memoria los datos a registrar en la",
+        "startMs": 34350,
+        "durationMs": 4879
+      },
+      {
+        "text": "factura para el siguiente cliente que está en la cola de espera y cuando el",
+        "startMs": 39229,
+        "durationMs": 5561
+      },
+      {
+        "text": "cliente original ya solucione el problema volver a recuperar los datos",
+        "startMs": 44790,
+        "durationMs": 4160
+      },
+      {
+        "text": "registrados y continuar con el proceso de",
+        "startMs": 48950,
+        "durationMs": 4040
+      },
+      {
+        "text": "de facturación supongamos el siguiente caso",
+        "startMs": 52990,
+        "durationMs": 5920
+      },
+      {
+        "text": "mirémonos en un supermercado en la memoria 1 un cliente está registrando",
+        "startMs": 58920,
+        "durationMs": 5509
+      },
+      {
+        "text": "los productos que va a comprar y al momento de pagar se le presenta una",
+        "startMs": 64429,
+        "durationMs": 4601
+      },
+      {
+        "text": "dificultad con el pago puede ser que el datáfono Se bloqueó que el cliente no",
+        "startMs": 69030,
+        "durationMs": 5119
+      },
+      {
+        "text": "tenía la plata completa o están buscando otro",
+        "startMs": 74149,
+        "durationMs": 4121
+      },
+      {
+        "text": "otro producto entonces para no perder la",
+        "startMs": 78270,
+        "durationMs": 2360
+      },
+      {
+        "text": "información ya registrada y también para no retrasar el proceso de facturación a",
+        "startMs": 80630,
+        "durationMs": 5360
+      },
+      {
+        "text": "los demás clientes el cajero decide cargar el nuevo cliente en la memoria",
+        "startMs": 85990,
+        "durationMs": 6439
+      },
+      {
+        "text": "número dos se ubica en la memoria número dos y",
+        "startMs": 92429,
+        "durationMs": 3360
+      },
+      {
+        "text": "allí puede cargar la información del siguiente cliente que estaba en",
+        "startMs": 95789,
+        "durationMs": 5841
+      },
+      {
+        "text": "espera es así como en la memoria un tenemos registrados los productos del",
+        "startMs": 101630,
+        "durationMs": 5240
+      },
+      {
+        "text": "primer cliente y en la memoria número dos tenemos registrado los productos del",
+        "startMs": 106870,
+        "durationMs": 6599
+      },
+      {
+        "text": "segundo cliente como estamos analizando el",
+        "startMs": 113469,
+        "durationMs": 2201
+      },
+      {
+        "text": "manejo de memorias el sistema automáticamente cuando cuando se hace el",
+        "startMs": 115670,
+        "durationMs": 4560
+      },
+      {
+        "text": "intercambio entre memoria uno y memoria dos o cualquiera de las otras memorias",
+        "startMs": 120230,
+        "durationMs": 5239
+      },
+      {
+        "text": "detecta este manejo y automáticamente controla el proceso de asignación de los",
+        "startMs": 125469,
+        "durationMs": 5200
+      },
+      {
+        "text": "consecutivos para la numeración de las facturas cuando el primer cliente logra",
+        "startMs": 130669,
+        "durationMs": 5681
+      },
+      {
+        "text": "solucionar el problema del pago el cajero puede volverse nuevamente a los",
+        "startMs": 136350,
+        "durationMs": 4320
+      },
+      {
+        "text": "datos que tenía registrados y terminar con el proceso de facturación indicarle",
+        "startMs": 140670,
+        "durationMs": 4720
+      },
+      {
+        "text": "la forma de pago en efectivo crédito banco y decirle aceptar para que termine",
+        "startMs": 145390,
+        "durationMs": 5320
+      },
+      {
+        "text": "todo el proceso de facturación miremos que allí teníamos la factura de venta",
+        "startMs": 150710,
+        "durationMs": 3920
+      },
+      {
+        "text": "número 106 sin embargo el sistema automáticamente se lo asignó a ese",
+        "startMs": 154630,
+        "durationMs": 4800
+      },
+      {
+        "text": "primer registro que se hizo en la factura si nos ubicamos nuevamente en la",
+        "startMs": 159430,
+        "durationMs": 3840
+      },
+      {
+        "text": "memoria número dos que es donde teníamos registrada la información del siguiente",
+        "startMs": 163270,
+        "durationMs": 4480
+      },
+      {
+        "text": "cliente el sistema automáticamente asigna el consecutivo siguiente factura",
+        "startMs": 167750,
+        "durationMs": 4600
+      },
+      {
+        "text": "de venta número 107 nuevamente Si se presenta algún",
+        "startMs": 172350,
+        "durationMs": 4000
+      },
+      {
+        "text": "problema podemos ubicarnos en otra memoria cargar los",
+        "startMs": 176350,
+        "durationMs": 4879
+      },
+      {
+        "text": "productos basta con seleccionarlos y allí el sistema también",
+        "startMs": 181229,
+        "durationMs": 5560
+      },
+      {
+        "text": "entonces nos indica que tanto en la memoria 3 como en la memoria 2 tenemos",
+        "startMs": 186789,
+        "durationMs": 4360
+      },
+      {
+        "text": "información nos podemos ubicar en la memoria 2 y allí vemos los datos de ese",
+        "startMs": 191149,
+        "durationMs": 3800
+      },
+      {
+        "text": "cliente podemos indicarle f8 para aceptar o podemos dar aquí clic en la",
+        "startMs": 194949,
+        "durationMs": 5200
+      },
+      {
+        "text": "tecla f8 y automáticamente el sistema Entonces asigna el consecutivo siguiente",
+        "startMs": 200149,
+        "durationMs": 5481
+      },
+      {
+        "text": "Si volvemos nuevamente hacia la memoria número tres allí tenemos los datos",
+        "startMs": 205630,
+        "durationMs": 4159
+      },
+      {
+        "text": "registrados de ese cliente a quien le estamos",
+        "startMs": 209789,
+        "durationMs": 2481
+      },
+      {
+        "text": "estamos facturando es así como esta estupenda",
+        "startMs": 212270,
+        "durationMs": 2599
+      },
+      {
+        "text": "configuración permite facilitar y agilizar el proceso de facturación",
+        "startMs": 214869,
+        "durationMs": 4681
+      },
+      {
+        "text": "cuando se presentan problemas en las filas de",
+        "startMs": 219550,
+        "durationMs": 3200
+      },
+      {
+        "text": "espera esto es todo acerca de explicación conceptual del manejo de",
+        "startMs": 222750,
+        "durationMs": 5559
+      },
+      {
+        "text": "memorias en el punto de venta",
+        "startMs": 228309,
+        "durationMs": 4971
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nExplicación de manejo de colas de espera y proceso de facturación en el software contable ContaPyme.\nCP40-150-020-050B\n\n## Transcripción\n\nexplicación conceptual del manejo de memorias en el post configuración de la\noperación de inventario punto de venta dentro de la operación de venta\ntipo post se encuentran en la parte inferior izquierda cuatro Campos\nreservados para el manejo de memorias estas memorias en otros\nprogramas llamadas colas de espera permiten cambiarse de un cliente a otro\ncuando por algún motivo al cliente que se le está registrando los productos\npara la facturación se le debe dejar en espera y mientras se organiza el\nproblema con él se puede cargar en otra memoria los datos a registrar en la\nfactura para el siguiente cliente que está en la cola de espera y cuando el\ncliente original ya solucione el problema volver a recuperar los datos\nregistrados y continuar con el proceso de\nde facturación supongamos el siguiente caso\nmirémonos en un supermercado en la memoria 1 un cliente está registrando\nlos productos que va a comprar y al momento de pagar se le presenta una\ndificultad con el pago puede ser que el datáfono Se bloqueó que el cliente no\ntenía la plata completa o están buscando otro\notro producto entonces para no perder la\ninformación ya registrada y también para no retrasar el proceso de facturación a\nlos demás clientes el cajero decide cargar el nuevo cliente en la memoria\nnúmero dos se ubica en la memoria número dos y\nallí puede cargar la información del siguiente cliente que estaba en\nespera es así como en la memoria un tenemos registrados los productos del\nprimer cliente y en la memoria número dos tenemos registrado los productos del\nsegundo cliente como estamos analizando el\nmanejo de memorias el sistema automáticamente cuando cuando se hace el\nintercambio entre memoria uno y memoria dos o cualquiera de las otras memorias\ndetecta este manejo y automáticamente controla el proceso de asignación de los\nconsecutivos para la numeración de las facturas cuando el primer cliente logra\nsolucionar el problema del pago el cajero puede volverse nuevamente a los\ndatos que tenía registrados y terminar con el proceso de facturación indicarle\nla forma de pago en efectivo crédito banco y decirle aceptar para que termine\ntodo el proceso de facturación miremos que allí teníamos la factura de venta\nnúmero 106 sin embargo el sistema automáticamente se lo asignó a ese\nprimer registro que se hizo en la factura si nos ubicamos nuevamente en la\nmemoria número dos que es donde teníamos registrada la información del siguiente\ncliente el sistema automáticamente asigna el consecutivo siguiente factura\nde venta número 107 nuevamente Si se presenta algún\nproblema podemos ubicarnos en otra memoria cargar los\nproductos basta con seleccionarlos y allí el sistema también\nentonces nos indica que tanto en la memoria 3 como en la memoria 2 tenemos\ninformación nos podemos ubicar en la memoria 2 y allí vemos los datos de ese\ncliente podemos indicarle f8 para aceptar o podemos dar aquí clic en la\ntecla f8 y automáticamente el sistema Entonces asigna el consecutivo siguiente\nSi volvemos nuevamente hacia la memoria número tres allí tenemos los datos\nregistrados de ese cliente a quien le estamos\nestamos facturando es así como esta estupenda\nconfiguración permite facilitar y agilizar el proceso de facturación\ncuando se presentan problemas en las filas de\nespera esto es todo acerca de explicación conceptual del manejo de\nmemorias en el punto de venta"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 190.486,
+    "asr": 44100,
+    "filesizeApprox": 5508926,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/bRDvR7bzXP4.md",
+    "json": "videos/2012/bRDvR7bzXP4.json",
+    "infoJson": "videos/2012/bRDvR7bzXP4.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

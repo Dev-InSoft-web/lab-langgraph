@@ -1,0 +1,331 @@
+{
+  "updatedAt": "2026-06-04T13:16:34.944Z",
+  "keys": [
+    "GEMINI_API_KEY",
+    "GEMINI_API_KEY_2"
+  ],
+  "rpdLimitPerKey": 250,
+  "probeDelayMs": 2000,
+  "apiModelsByKey": {
+    "GEMINI_API_KEY": [
+      "gemini-2.5-flash-image"
+    ],
+    "GEMINI_API_KEY_2": [
+      "gemini-2.5-flash-image"
+    ]
+  },
+  "targetsByKey": {
+    "GEMINI_API_KEY": [
+      {
+        "modelId": "gemini-2.5-flash-image",
+        "modality": "image",
+        "methods": [
+          "generateContent",
+          "countTokens",
+          "batchGenerateContent"
+        ]
+      }
+    ],
+    "GEMINI_API_KEY_2": [
+      {
+        "modelId": "gemini-2.5-flash-image",
+        "modality": "image",
+        "methods": [
+          "generateContent",
+          "countTokens",
+          "batchGenerateContent"
+        ]
+      }
+    ]
+  },
+  "freeTierDoc": [
+    {
+      "platformName": "Gemini 2.5 Flash",
+      "modelId": "gemini-2.5-flash",
+      "freeTierDoc": true
+    },
+    {
+      "platformName": "Gemini 2.5 Flash-Lite",
+      "modelId": "gemini-2.5-flash-lite",
+      "freeTierDoc": true
+    },
+    {
+      "platformName": "Gemini 2.0 Flash",
+      "modelId": "gemini-2.0-flash",
+      "freeTierDoc": true
+    },
+    {
+      "platformName": "Gemini 2.0 Flash-Lite",
+      "modelId": "gemini-2.0-flash-lite",
+      "freeTierDoc": true
+    },
+    {
+      "platformName": "Gemini 3 Flash",
+      "modelId": "gemini-3-flash-preview",
+      "freeTierDoc": true
+    },
+    {
+      "platformName": "Gemini 3.1 Flash-Lite",
+      "modelId": "gemini-3.1-flash-lite",
+      "freeTierDoc": true
+    },
+    {
+      "platformName": "Gemini 3.5 Flash",
+      "modelId": "gemini-3.5-flash",
+      "freeTierDoc": false,
+      "notes": "probar cuota"
+    },
+    {
+      "platformName": "Gemini Flash (alias)",
+      "modelId": "gemini-flash-latest",
+      "freeTierDoc": false
+    },
+    {
+      "platformName": "Gemini Flash-Lite (alias)",
+      "modelId": "gemini-flash-lite-latest",
+      "freeTierDoc": false
+    }
+  ],
+  "rateState": {
+    "GEMINI_API_KEY": {
+      "utcDay": "2026-06-04",
+      "requestCount": 5,
+      "cooldownUntil": null,
+      "lastQuotaHint": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\\n* Quota exceeded for metric: generativelanguage.googleapis.co"
+    },
+    "GEMINI_API_KEY_2": {
+      "utcDay": "2026-06-04",
+      "requestCount": 5,
+      "cooldownUntil": null,
+      "lastQuotaHint": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\\n* Quota exceeded for metric: generativelanguage.googleapis.co"
+    }
+  },
+  "results": [
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-2.0-flash",
+      "platformName": "Gemini 2.0 Flash",
+      "freeTierDoc": true,
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "Gemini gemini-2.0-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_f",
+      "elapsedMs": 180
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-2.0-flash-lite",
+      "platformName": "Gemini 2.0 Flash-Lite",
+      "freeTierDoc": true,
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "Gemini gemini-2.0-flash-lite 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_cont",
+      "elapsedMs": 191
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-2.5-flash",
+      "platformName": "Gemini 2.5 Flash",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 1008
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-2.5-flash-lite",
+      "platformName": "Gemini 2.5 Flash-Lite",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 504
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-3-flash-preview",
+      "platformName": "Gemini 3 Flash",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 22283
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-3.1-flash-lite",
+      "platformName": "Gemini 3.1 Flash-Lite",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK.",
+      "elapsedMs": 685
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-3.5-flash",
+      "platformName": "Gemini 3.5 Flash",
+      "freeTierDoc": false,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 967
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-flash-latest",
+      "platformName": "Gemini Flash (alias)",
+      "freeTierDoc": false,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 1023
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-flash-lite-latest",
+      "platformName": "Gemini Flash-Lite (alias)",
+      "freeTierDoc": false,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK.",
+      "elapsedMs": 644
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-2.0-flash",
+      "platformName": "Gemini 2.0 Flash",
+      "freeTierDoc": true,
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "Gemini gemini-2.0-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_f",
+      "elapsedMs": 193
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-2.0-flash-lite",
+      "platformName": "Gemini 2.0 Flash-Lite",
+      "freeTierDoc": true,
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "Gemini gemini-2.0-flash-lite 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_cont",
+      "elapsedMs": 174
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-2.5-flash",
+      "platformName": "Gemini 2.5 Flash",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 823
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-2.5-flash-lite",
+      "platformName": "Gemini 2.5 Flash-Lite",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 453
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-3-flash-preview",
+      "platformName": "Gemini 3 Flash",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 19703
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-3.1-flash-lite",
+      "platformName": "Gemini 3.1 Flash-Lite",
+      "freeTierDoc": true,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK.",
+      "elapsedMs": 669
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-3.5-flash",
+      "platformName": "Gemini 3.5 Flash",
+      "freeTierDoc": false,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 1046
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-flash-latest",
+      "platformName": "Gemini Flash (alias)",
+      "freeTierDoc": false,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK",
+      "elapsedMs": 954
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-flash-lite-latest",
+      "platformName": "Gemini Flash-Lite (alias)",
+      "freeTierDoc": false,
+      "ok": true,
+      "httpStatus": 200,
+      "reply": "OK.",
+      "elapsedMs": 707
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY",
+      "keySuffix": "···qC_U",
+      "modelId": "gemini-2.5-flash-image",
+      "modality": "image",
+      "platformName": "gemini-2.5-flash-image",
+      "freeTierDoc": false,
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\\n* Quota exceeded for metric: generativelanguage.googleapis.co",
+      "attempts": 5,
+      "waitedMs429": 360000,
+      "elapsedMs": 363171
+    },
+    {
+      "apiKeyLabel": "GEMINI_API_KEY_2",
+      "keySuffix": "···hAmk",
+      "modelId": "gemini-2.5-flash-image",
+      "modality": "image",
+      "platformName": "gemini-2.5-flash-image",
+      "freeTierDoc": false,
+      "ok": false,
+      "httpStatus": 429,
+      "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\\n* Quota exceeded for metric: generativelanguage.googleapis.co",
+      "attempts": 5,
+      "waitedMs429": 360000,
+      "elapsedMs": 362171
+    }
+  ]
+}

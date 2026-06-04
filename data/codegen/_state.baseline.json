@@ -1,0 +1,240 @@
+{
+  "domains": {
+    "dom_plan_estudio": {
+      "id": "dom_plan_estudio",
+      "name": "Plan de Estudio",
+      "masterTable": "tbl_planes_estudio",
+      "prefix": "CAPAC_",
+      "members": [
+        "tbl_planes_estudio"
+      ],
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_planes_estudio"
+        },
+        {
+          "kind": "pivot",
+          "key": "piv_nn_curso_prereq"
+        },
+        {
+          "kind": "pivot",
+          "key": "piv_nn_cpe_cursos"
+        }
+      ]
+    },
+    "piv_nn_curso_prereq": {
+      "id": "piv_nn_curso_prereq",
+      "name": "",
+      "type": "pivot",
+      "cardinality": "N:N",
+      "masterTable": "tbl_cursos_prerequisitos",
+      "members": [
+        "tbl_cursos_prerequisitos"
+      ],
+      "parentId": "dom_plan_estudio",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_cursos_prerequisitos"
+        },
+        {
+          "kind": "pointer",
+          "key": "tbl_cursos"
+        }
+      ]
+    },
+    "piv_nn_cpe_cursos": {
+      "id": "piv_nn_cpe_cursos",
+      "name": "",
+      "type": "pivot",
+      "cardinality": "N:N",
+      "masterTable": "tbl_cursos_de_planes_estudio",
+      "members": [
+        "tbl_cursos_de_planes_estudio"
+      ],
+      "parentId": "dom_plan_estudio",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_cursos_de_planes_estudio"
+        },
+        {
+          "kind": "domain",
+          "key": "dom_cursos"
+        }
+      ]
+    },
+    "dom_cursos": {
+      "id": "dom_cursos",
+      "name": "Cursos",
+      "masterTable": "tbl_cursos",
+      "members": [
+        "tbl_cursos",
+        "tbl_estructuras_cursos",
+        "tbl_historialcurso"
+      ],
+      "parentId": "piv_nn_cpe_cursos",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_cursos"
+        },
+        {
+          "kind": "pointer",
+          "key": "tbl_sop_temas_v2",
+          "cardinality": "1:1"
+        },
+        {
+          "kind": "table",
+          "key": "tbl_estructuras_cursos"
+        },
+        {
+          "kind": "table",
+          "key": "tbl_historialcurso"
+        },
+        {
+          "kind": "pivot",
+          "key": "piv_seg_permisos"
+        },
+        {
+          "kind": "pivot",
+          "key": "piv_planes_curso"
+        },
+        {
+          "kind": "pivot",
+          "key": "piv_drivers"
+        }
+      ]
+    },
+    "piv_seg_permisos": {
+      "id": "piv_seg_permisos",
+      "name": "",
+      "type": "pivot-domain",
+      "cardinality": "1:N",
+      "masterTable": "tbl_seguridades_cursos",
+      "members": [
+        "tbl_seguridades_cursos"
+      ],
+      "parentId": "dom_cursos",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_seguridades_cursos"
+        },
+        {
+          "kind": "pointer",
+          "key": "tbl_permisos"
+        }
+      ]
+    },
+    "piv_planes_curso": {
+      "id": "piv_planes_curso",
+      "name": "",
+      "type": "pivot-domain",
+      "cardinality": "1:N",
+      "masterTable": "tbl_planes_cursos",
+      "members": [
+        "tbl_planes_cursos"
+      ],
+      "parentId": "dom_cursos",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_planes_cursos"
+        },
+        {
+          "kind": "pointer",
+          "key": "tbl_sop_temas_v2",
+          "cardinality": "1:1"
+        },
+        {
+          "kind": "pointer",
+          "key": "tbl_recursos",
+          "cardinality": "1:1"
+        },
+        {
+          "kind": "pivot",
+          "key": "piv_atributos_planes"
+        }
+      ]
+    },
+    "piv_atributos_planes": {
+      "id": "piv_atributos_planes",
+      "name": "",
+      "type": "pivot-domain",
+      "cardinality": "1:N",
+      "masterTable": "tbl_atributos_planes",
+      "members": [
+        "tbl_atributos_planes"
+      ],
+      "parentId": "piv_planes_curso",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_atributos_planes"
+        },
+        {
+          "kind": "pointer",
+          "key": "tbl_atributos_x_drivers",
+          "cardinality": "1:1"
+        }
+      ]
+    },
+    "piv_drivers": {
+      "id": "piv_drivers",
+      "name": "",
+      "type": "pivot-domain",
+      "cardinality": "1:1",
+      "masterTable": "tbl_drivers",
+      "members": [
+        "tbl_drivers",
+        "tbl_atributos_x_drivers"
+      ],
+      "parentId": "dom_cursos",
+      "childrenOrder": [
+        {
+          "kind": "table",
+          "key": "tbl_drivers"
+        },
+        {
+          "kind": "table",
+          "key": "tbl_atributos_x_drivers"
+        }
+      ]
+    }
+  },
+  "targetFilePaths": [
+    "ISP-ClientesIS/src/sources/010 Objetos/6.ContaPymeU/2.Capacitacion/02.Cursos/01.Modelo.ts",
+    "ISP-ClientesIS/src/sources/010 Objetos/6.ContaPymeU/2.Capacitacion/02.Cursos/02.Datos.ts",
+    "ISP-ClientesIS/src/sources/010 Objetos/6.ContaPymeU/2.Capacitacion/01.PlanDeEstudio.ts",
+    "ISP-ClientesIS/src/sources/010 Objetos/6.ContaPymeU/2.Capacitacion/130_UlTema.ts",
+    "ISP-ClientesIS/src/sources/010 Objetos/6.ContaPymeU/2.Capacitacion/150_UlPermiso.ts",
+    "ISP-ClientesIS/src/sources/020 Controllers/6.ContaPymeU/2.Capacitacion/UlCapacitacionClient.ts",
+    "ISP-CLientesISServer/src/sources/6.ContaPymeU/2.Capacitacion/01_PlanDeEstudio.ts",
+    "ISP-CLientesISServer/src/sources/6.ContaPymeU/2.Capacitacion/02_Cursos.ts",
+    "ISW-ClientesIS/src/lib/ContaPymeU/2.Capacitacion/Cursos.ts",
+    "ISW-ClientesIS/src/lib/ContaPymeU/2.Capacitacion/PlanDeEstudio.ts"
+  ],
+  "childPrefixes": {},
+  "topOrder": [
+    {
+      "kind": "domain",
+      "key": "dom_plan_estudio"
+    },
+    {
+      "kind": "table",
+      "key": "tbl_sop_temas_v2"
+    },
+    {
+      "kind": "table",
+      "key": "tbl_permisos"
+    },
+    {
+      "kind": "table",
+      "key": "tbl_recursos"
+    }
+  ],
+  "prefixOrders": {
+  }
+}

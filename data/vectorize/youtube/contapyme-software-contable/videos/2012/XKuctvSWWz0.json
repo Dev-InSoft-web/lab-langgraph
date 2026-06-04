@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:35:18.868Z",
+  "videoId": "XKuctvSWWz0",
+  "videoUrl": "https://www.youtube.com/watch?v=XKuctvSWWz0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "XKuctvSWWz0",
+    "title": "Sistema contable ContaPyme - Ej 2 Creación de cuenta por cobrar por movimiento contable",
+    "fulltitle": "Sistema contable ContaPyme - Ej 2 Creación de cuenta por cobrar por movimiento contable",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta el ejemplo 2 de creacion de una cuenta por cobrar por movimiento contable.\nCP40-080-020-010B-007M",
+    "duration": 329,
+    "duration_string": "5:29",
+    "upload_date": "20120123",
+    "timestamp": 1327337549,
+    "view_count": 41,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/XKuctvSWWz0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCYgSSh_MA8=&rs=AOn4CLDaDOs5Uv_1wjM32F6EEvL89Fv3hA",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgmIEkofzAP&rs=AOn4CLDqXBfXGZZcDyryYlgt68n-xE6AwQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCYgSSh_MA8=&rs=AOn4CLCIOR4Ak941HbQ4jkUusokgPLvp6g",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCYgSSh_MA8=&rs=AOn4CLBJNE9wWGpkqSE-1GrxSDmC1Qfu2w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCYgSSh_MA8=&rs=AOn4CLBOEWLuviZ4HX_iK5sr5BwqqRVDbA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgmIEkofzAP&rs=AOn4CLASSMcN3jcepcH15VanhmzuMwZcHw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgmIEkofzAP&rs=AOn4CLACZN7008ta9rp0R-fsgdIGRuBCRQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCYgSSh_MA8=&rs=AOn4CLDmI4EwTOxIzglsHxr-Bw8usq_QWw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCYgSSh_MA8=&rs=AOn4CLDaDOs5Uv_1wjM32F6EEvL89Fv3hA",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XKuctvSWWz0/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/XKuctvSWWz0/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=XKuctvSWWz0",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.303951367781155,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20364741641337386,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20364741641337386,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20364741641337386,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 212.927,
+        "asr": 44100,
+        "filesize_approx": 8766603,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Sistema contable ContaPyme - Ej 2 Creación de cuenta por cobrar por movimiento contable",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/XKuctvSWWz0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/XKuctvSWWz0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema contable ContaPyme - Ej 2 Creación de cuenta por cobrar por movimiento contable\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 47,
+    "transcriptChars": 3199,
+    "segments": [
+      {
+        "text": "contable antes de visualizar este video se recomienda haber visto el video",
+        "startMs": 5630,
+        "durationMs": 5680
+      },
+      {
+        "text": "creación de cuenta por cobrar por movimiento contable el segundo ejemplo",
+        "startMs": 599,
+        "durationMs": 15631
+      },
+      {
+        "text": "que realizaremos mediante la operación de movimiento",
+        "startMs": 16230,
+        "durationMs": 3720
+      },
+      {
+        "text": "contable será el registro de una venta a crédito a la señora Beatriz Duque",
+        "startMs": 19950,
+        "durationMs": 5559
+      },
+      {
+        "text": "ubicados en el manejador de operaciones ingresamos por más operaciones",
+        "startMs": 25509,
+        "durationMs": 5880
+      },
+      {
+        "text": "contabilidad y seleccionamos la opción de movimiento",
+        "startMs": 31389,
+        "durationMs": 4641
+      },
+      {
+        "text": "contable y nos abre el asistente para registrar la operación seleccionamos el",
+        "startMs": 36030,
+        "durationMs": 6280
+      },
+      {
+        "text": "tipo de documento en el cual vamos a soportar la",
+        "startMs": 42310,
+        "durationMs": 3719
+      },
+      {
+        "text": "operación en este caso vamos a seleccionar una factura de",
+        "startMs": 46029,
+        "durationMs": 6241
+      },
+      {
+        "text": "venta y el sistema nos sugiere un número de documento en el campo detalle de la",
+        "startMs": 52270,
+        "durationMs": 6919
+      },
+      {
+        "text": "operación vamos a digitar venta de otros productos a la señora Beatriz",
+        "startMs": 59189,
+        "durationMs": 19240
+      },
+      {
+        "text": "Duque y vamos a indicar que la fecha de soporte de la operación es el 5 de",
+        "startMs": 78439,
+        "durationMs": 5710
+      },
+      {
+        "text": "diciembre del 2011 en el campo cuenta seleccionamos la",
+        "startMs": 84149,
+        "durationMs": 6000
+      },
+      {
+        "text": "cuenta del ingreso en este caso vamos a seleccionar la",
+        "startMs": 90149,
+        "durationMs": 6201
+      },
+      {
+        "text": "4135 95 venta de otros productos indicamos el centro de",
+        "startMs": 96350,
+        "durationMs": 14119
+      },
+      {
+        "startMs": 110479,
+        "durationMs": 7230,
+        "text": "nacionales digitamos el detalle del"
+      },
+      {
+        "text": "movimiento indicamos la imputación contable que en este caso son",
+        "startMs": 117719,
+        "durationMs": 9151
+      },
+      {
+        "text": "112,000 pes indicamos el tercero de",
+        "startMs": 126870,
+        "durationMs": 4120
+      },
+      {
+        "text": "transacción la cual Será la señora Beatriz",
+        "startMs": 130990,
+        "durationMs": 7120
+      },
+      {
+        "text": "Duque indicamos el impuesto para lo cual utilizamos la herramienta de cálculo",
+        "startMs": 138120,
+        "durationMs": 6749
+      },
+      {
+        "text": "automático de impuestos recordemos que lo podemos encontrar en la barra de",
+        "startMs": 144869,
+        "durationMs": 4521
+      },
+      {
+        "text": "botones de la operación damos clic y podemos visualizar que el sistema nos",
+        "startMs": 149390,
+        "durationMs": 5839
+      },
+      {
+        "text": "sugiere el impuesto como es una venta a crédito seleccionamos la cuenta por",
+        "startMs": 155229,
+        "durationMs": 7481
+      },
+      {
+        "text": "cobrar en este caso la 13505",
+        "startMs": 162710,
+        "durationMs": 8200
+      },
+      {
+        "text": "nacionales e indicamos la imputación contable que en este caso son 1336",
+        "startMs": 170920,
+        "durationMs": 13990
+      },
+      {
+        "startMs": 184920,
+        "durationMs": 5350,
+        "text": "20es indicamos el tercero de"
+      },
+      {
+        "text": "transacción que en este caso recordemos que la señora Beatriz Duque y el sistema",
+        "startMs": 190280,
+        "durationMs": 5550
+      },
+      {
+        "text": "nos sugiere el mismo tercero de cartera en este caso la señora Beatriz Duque es",
+        "startMs": 195830,
+        "durationMs": 5560
+      },
+      {
+        "text": "quien nos queda debiendo indicamos la fecha de pago la cual",
+        "startMs": 201390,
+        "durationMs": 11280
+      },
+      {
+        "text": "2012 indicamos el documento referencia el cual será el mismo número de",
+        "startMs": 212680,
+        "durationMs": 6310
+      },
+      {
+        "text": "documento de soporte de esta operación ya que recordemos que estamos creando la",
+        "startMs": 218990,
+        "durationMs": 4720
+      },
+      {
+        "text": "cuenta por cobrar en este caso es la fb",
+        "startMs": 223710,
+        "durationMs": 7120
+      },
+      {
+        "text": "42 ya terminamos de registrar la venta de mercancía a crédito damos",
+        "startMs": 230830,
+        "durationMs": 9080
+      },
+      {
+        "text": "soporte físico de la operación damos clic en el icono de",
+        "startMs": 239920,
+        "durationMs": 5790
+      },
+      {
+        "text": "imprimir y seleccionamos el tipo de documento de impresión en el cual",
+        "startMs": 245710,
+        "durationMs": 5040
+      },
+      {
+        "text": "queremos imprimir la operación en este caso vamos a",
+        "startMs": 250750,
+        "durationMs": 5280
+      },
+      {
+        "text": "seleccionar factura de venta nota de contabilidad damos vista previa y",
+        "startMs": 256030,
+        "durationMs": 7240
+      },
+      {
+        "text": "podemos visualizar en pantalla cómo nos quedará impresa nuestra",
+        "startMs": 263270,
+        "durationMs": 5440
+      },
+      {
+        "text": "operación damos cerrar y damos clic en",
+        "startMs": 268710,
+        "durationMs": 7199
+      },
+      {
+        "text": "aceptar podemos visualizar que la operación quedó guardada en el manejador",
+        "startMs": 275919,
+        "durationMs": 5391
+      },
+      {
+        "text": "de operaciones procesada y cargada en la contabilidad ahora vamos a generar el",
+        "startMs": 281310,
+        "durationMs": 6439
+      },
+      {
+        "text": "informe de consulta de saldos de cuentas por cobrar para visualizar Cómo quedó",
+        "startMs": 287749,
+        "durationMs": 13641
+      },
+      {
+        "text": "podemos visualizar que la cuenta por cobrar que acabamos de crear quedó",
+        "startMs": 301400,
+        "durationMs": 4270
+      },
+      {
+        "text": "registrada en nuestra cartera en este caso el tercero Beatriz Duque la fecha",
+        "startMs": 305670,
+        "durationMs": 7799
+      },
+      {
+        "text": "de soporte del documento la fecha de pago la referencia",
+        "startMs": 313469,
+        "durationMs": 5961
+      },
+      {
+        "text": "el saldo y la dedad de cartera esto es todo sobre ejemplo dos",
+        "startMs": 319430,
+        "durationMs": 6000
+      },
+      {
+        "text": "creación de cuenta por cobrar por movimiento contable",
+        "startMs": 325430,
+        "durationMs": 5450
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta el ejemplo 2 de creacion de una cuenta por cobrar por movimiento contable.\nCP40-080-020-010B-007M\n\n## Transcripción\n\ncontable antes de visualizar este video se recomienda haber visto el video\ncreación de cuenta por cobrar por movimiento contable el segundo ejemplo\nque realizaremos mediante la operación de movimiento\ncontable será el registro de una venta a crédito a la señora Beatriz Duque\nubicados en el manejador de operaciones ingresamos por más operaciones\ncontabilidad y seleccionamos la opción de movimiento\ncontable y nos abre el asistente para registrar la operación seleccionamos el\ntipo de documento en el cual vamos a soportar la\noperación en este caso vamos a seleccionar una factura de\nventa y el sistema nos sugiere un número de documento en el campo detalle de la\noperación vamos a digitar venta de otros productos a la señora Beatriz\nDuque y vamos a indicar que la fecha de soporte de la operación es el 5 de\ndiciembre del 2011 en el campo cuenta seleccionamos la\ncuenta del ingreso en este caso vamos a seleccionar la\n4135 95 venta de otros productos indicamos el centro de\nnacionales digitamos el detalle del\nmovimiento indicamos la imputación contable que en este caso son\n112,000 pes indicamos el tercero de\ntransacción la cual Será la señora Beatriz\nDuque indicamos el impuesto para lo cual utilizamos la herramienta de cálculo\nautomático de impuestos recordemos que lo podemos encontrar en la barra de\nbotones de la operación damos clic y podemos visualizar que el sistema nos\nsugiere el impuesto como es una venta a crédito seleccionamos la cuenta por\ncobrar en este caso la 13505\nnacionales e indicamos la imputación contable que en este caso son 1336\n20es indicamos el tercero de\ntransacción que en este caso recordemos que la señora Beatriz Duque y el sistema\nnos sugiere el mismo tercero de cartera en este caso la señora Beatriz Duque es\nquien nos queda debiendo indicamos la fecha de pago la cual\n2012 indicamos el documento referencia el cual será el mismo número de\ndocumento de soporte de esta operación ya que recordemos que estamos creando la\ncuenta por cobrar en este caso es la fb\n42 ya terminamos de registrar la venta de mercancía a crédito damos\nsoporte físico de la operación damos clic en el icono de\nimprimir y seleccionamos el tipo de documento de impresión en el cual\nqueremos imprimir la operación en este caso vamos a\nseleccionar factura de venta nota de contabilidad damos vista previa y\npodemos visualizar en pantalla cómo nos quedará impresa nuestra\noperación damos cerrar y damos clic en\naceptar podemos visualizar que la operación quedó guardada en el manejador\nde operaciones procesada y cargada en la contabilidad ahora vamos a generar el\ninforme de consulta de saldos de cuentas por cobrar para visualizar Cómo quedó\npodemos visualizar que la cuenta por cobrar que acabamos de crear quedó\nregistrada en nuestra cartera en este caso el tercero Beatriz Duque la fecha\nde soporte del documento la fecha de pago la referencia\nel saldo y la dedad de cartera esto es todo sobre ejemplo dos\ncreación de cuenta por cobrar por movimiento contable"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 212.927,
+    "asr": 44100,
+    "filesizeApprox": 8766603,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/XKuctvSWWz0.md",
+    "json": "videos/2012/XKuctvSWWz0.json",
+    "infoJson": "videos/2012/XKuctvSWWz0.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

@@ -1,0 +1,368 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.120 --> 00:00:03.990 align:start position:0%
+ 
+Codificación<00:00:01.839><c> de</c><00:00:02.040><c> las</c><00:00:02.240><c> cuentas.</c>
+
+00:00:03.990 --> 00:00:04.000 align:start position:0%
+Codificación de las cuentas.
+ 
+
+00:00:04.000 --> 00:00:06.030 align:start position:0%
+Codificación de las cuentas.
+El<00:00:04.200><c> sistema</c><00:00:04.720><c> permite</c><00:00:05.120><c> que</c><00:00:05.279><c> el</c><00:00:05.400><c> usuario</c>
+
+00:00:06.030 --> 00:00:06.040 align:start position:0%
+El sistema permite que el usuario
+ 
+
+00:00:06.040 --> 00:00:08.190 align:start position:0%
+El sistema permite que el usuario
+estructure<00:00:06.680><c> el</c><00:00:06.879><c> código</c><00:00:07.240><c> de</c><00:00:07.439><c> las</c><00:00:07.600><c> cuentas</c><00:00:08.040><c> que</c>
+
+00:00:08.190 --> 00:00:08.200 align:start position:0%
+estructure el código de las cuentas que
+ 
+
+00:00:08.200 --> 00:00:11.310 align:start position:0%
+estructure el código de las cuentas que
+va<00:00:08.320><c> a</c><00:00:08.440><c> utilizar</c><00:00:09.080><c> según</c><00:00:09.400><c> sus</c><00:00:09.639><c> necesidades.</c>
+
+00:00:11.310 --> 00:00:11.320 align:start position:0%
+va a utilizar según sus necesidades.
+ 
+
+00:00:11.320 --> 00:00:13.789 align:start position:0%
+va a utilizar según sus necesidades.
+Siempre<00:00:11.799><c> el</c><00:00:11.960><c> esquema</c><00:00:12.320><c> de</c><00:00:12.480><c> codificación</c><00:00:13.440><c> debe</c>
+
+00:00:13.789 --> 00:00:13.799 align:start position:0%
+Siempre el esquema de codificación debe
+ 
+
+00:00:13.799 --> 00:00:16.950 align:start position:0%
+Siempre el esquema de codificación debe
+cumplir<00:00:14.360><c> con</c><00:00:14.599><c> una</c><00:00:14.839><c> estructura</c><00:00:15.920><c> de</c><00:00:16.199><c> padres</c><00:00:16.720><c> a</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+cumplir con una estructura de padres a
+ 
+
+00:00:16.960 --> 00:00:19.990 align:start position:0%
+cumplir con una estructura de padres a
+hijos<00:00:17.800><c> y</c><00:00:18.080><c> siempre</c><00:00:18.640><c> la</c><00:00:18.840><c> cuenta</c><00:00:19.240><c> hijo</c><00:00:19.600><c> debe</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+hijos y siempre la cuenta hijo debe
+ 
+
+00:00:20.000 --> 00:00:23.269 align:start position:0%
+hijos y siempre la cuenta hijo debe
+contener<00:00:20.640><c> el</c><00:00:20.880><c> código</c><00:00:21.400><c> de</c><00:00:21.600><c> la</c><00:00:21.720><c> cuenta</c><00:00:22.119><c> padre.</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+contener el código de la cuenta padre.
+ 
+
+00:00:23.279 --> 00:00:25.670 align:start position:0%
+contener el código de la cuenta padre.
+Analicemos<00:00:23.880><c> con</c><00:00:24.080><c> un</c><00:00:24.279><c> ejemplo</c><00:00:24.800><c> la</c><00:00:25.039><c> estructura</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+Analicemos con un ejemplo la estructura
+ 
+
+00:00:25.680 --> 00:00:29.070 align:start position:0%
+Analicemos con un ejemplo la estructura
+del<00:00:25.920><c> código</c><00:00:26.279><c> de</c><00:00:26.480><c> una</c><00:00:26.760><c> cuenta.</c>
+
+00:00:29.070 --> 00:00:29.080 align:start position:0%
+del código de una cuenta.
+ 
+
+00:00:29.080 --> 00:00:31.390 align:start position:0%
+del código de una cuenta.
+Siempre<00:00:29.560><c> el</c><00:00:29.840><c> primer</c><00:00:30.160><c> dígito</c><00:00:31.039><c> va</c><00:00:31.240><c> a</c>
+
+00:00:31.390 --> 00:00:31.400 align:start position:0%
+Siempre el primer dígito va a
+ 
+
+00:00:31.400 --> 00:00:34.750 align:start position:0%
+Siempre el primer dígito va a
+corresponder<00:00:32.320><c> a</c><00:00:32.520><c> la</c><00:00:32.719><c> clase</c><00:00:33.040><c> de</c><00:00:33.239><c> la</c><00:00:33.399><c> cuenta,</c><00:00:34.559><c> la</c>
+
+00:00:34.750 --> 00:00:34.760 align:start position:0%
+corresponder a la clase de la cuenta, la
+ 
+
+00:00:34.760 --> 00:00:39.030 align:start position:0%
+corresponder a la clase de la cuenta, la
+cual<00:00:35.239><c> puede</c><00:00:35.600><c> ser</c><00:00:36.040><c> en</c><00:00:36.239><c> este</c><00:00:36.559><c> caso</c><00:00:37.920><c> uno</c><00:00:38.280><c> activo,</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+cual puede ser en este caso uno activo,
+ 
+
+00:00:39.040 --> 00:00:42.029 align:start position:0%
+cual puede ser en este caso uno activo,
+dos<00:00:39.360><c> pasivo,</c><00:00:40.320><c> tres</c><00:00:40.640><c> patrimonio,</c><00:00:41.440><c> cuatro</c>
+
+00:00:42.029 --> 00:00:42.039 align:start position:0%
+dos pasivo, tres patrimonio, cuatro
+ 
+
+00:00:42.039 --> 00:00:44.950 align:start position:0%
+dos pasivo, tres patrimonio, cuatro
+ingresos,<00:00:43.000><c> cinco</c><00:00:43.440><c> gastos,</c>
+
+00:00:44.950 --> 00:00:44.960 align:start position:0%
+ingresos, cinco gastos,
+ 
+
+00:00:44.960 --> 00:00:48.630 align:start position:0%
+ingresos, cinco gastos,
+costo<00:00:45.280><c> de</c><00:00:45.480><c> ventas</c><00:00:46.000><c> o</c><00:00:46.199><c> costos</c><00:00:46.559><c> de</c><00:00:46.800><c> producción.</c>
+
+00:00:48.630 --> 00:00:48.640 align:start position:0%
+costo de ventas o costos de producción.
+ 
+
+00:00:48.640 --> 00:00:51.709 align:start position:0%
+costo de ventas o costos de producción.
+El<00:00:48.800><c> segundo</c><00:00:49.239><c> dígito</c><00:00:50.239><c> indicará</c><00:00:51.039><c> el</c><00:00:51.280><c> grupo</c><00:00:51.559><c> de</c>
+
+00:00:51.709 --> 00:00:51.719 align:start position:0%
+El segundo dígito indicará el grupo de
+ 
+
+00:00:51.719 --> 00:00:54.630 align:start position:0%
+El segundo dígito indicará el grupo de
+la<00:00:51.879><c> cuenta,</c><00:00:52.719><c> los</c><00:00:52.960><c> cuales</c><00:00:53.600><c> son</c><00:00:53.920><c> propios</c><00:00:54.399><c> de</c>
+
+00:00:54.630 --> 00:00:54.640 align:start position:0%
+la cuenta, los cuales son propios de
+ 
+
+00:00:54.640 --> 00:00:57.830 align:start position:0%
+la cuenta, los cuales son propios de
+cada<00:00:54.920><c> clase.</c><00:00:56.039><c> En</c><00:00:56.239><c> este</c><00:00:56.559><c> ejemplo</c><00:00:57.199><c> tenemos</c><00:00:57.640><c> los</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+cada clase. En este ejemplo tenemos los
+ 
+
+00:00:57.840 --> 00:01:01.549 align:start position:0%
+cada clase. En este ejemplo tenemos los
+siguientes<00:00:58.359><c> grupos.</c><00:00:59.440><c> Uno</c><00:01:00.199><c> para</c><00:01:00.600><c> disponible,</c>
+
+00:01:01.549 --> 00:01:01.559 align:start position:0%
+siguientes grupos. Uno para disponible,
+ 
+
+00:01:01.559 --> 00:01:04.030 align:start position:0%
+siguientes grupos. Uno para disponible,
+dos<00:01:01.920><c> para</c><00:01:02.199><c> inversiones,</c><00:01:03.440><c> tres</c><00:01:03.800><c> para</c>
+
+00:01:04.030 --> 00:01:04.040 align:start position:0%
+dos para inversiones, tres para
+ 
+
+00:01:04.040 --> 00:01:06.990 align:start position:0%
+dos para inversiones, tres para
+deudores,<00:01:04.879><c> cuatro</c><00:01:05.280><c> para</c><00:01:05.519><c> inventarios,</c><00:01:06.560><c> cinco</c>
+
+00:01:06.990 --> 00:01:07.000 align:start position:0%
+deudores, cuatro para inventarios, cinco
+ 
+
+00:01:07.000 --> 00:01:10.390 align:start position:0%
+deudores, cuatro para inventarios, cinco
+para<00:01:07.280><c> activos</c><00:01:07.680><c> fijos,</c><00:01:08.400><c> entre</c><00:01:08.720><c> otros.</c>
+
+00:01:10.390 --> 00:01:10.400 align:start position:0%
+para activos fijos, entre otros.
+ 
+
+00:01:10.400 --> 00:01:13.270 align:start position:0%
+para activos fijos, entre otros.
+Los<00:01:10.560><c> dos</c><00:01:10.759><c> siguientes</c><00:01:11.320><c> dígitos</c><00:01:12.400><c> corresponden</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+Los dos siguientes dígitos corresponden
+ 
+
+00:01:13.280 --> 00:01:15.950 align:start position:0%
+Los dos siguientes dígitos corresponden
+al<00:01:13.560><c> número</c><00:01:13.880><c> de</c><00:01:14.080><c> la</c><00:01:14.240><c> cuenta,</c>
+
+00:01:15.950 --> 00:01:15.960 align:start position:0%
+al número de la cuenta,
+ 
+
+00:01:15.960 --> 00:01:19.789 align:start position:0%
+al número de la cuenta,
+el<00:01:16.159><c> cual</c><00:01:16.640><c> es</c><00:01:16.960><c> propio</c><00:01:17.759><c> cada</c><00:01:18.080><c> grupo.</c><00:01:19.240><c> En</c><00:01:19.439><c> este</c>
+
+00:01:19.789 --> 00:01:19.799 align:start position:0%
+el cual es propio cada grupo. En este
+ 
+
+00:01:19.799 --> 00:01:25.149 align:start position:0%
+el cual es propio cada grupo. En este
+caso<00:01:21.200><c> corresponde</c><00:01:22.079><c> al</c><00:01:22.360><c> número</c><00:01:22.799><c> 10,</c><00:01:23.400><c> que</c><00:01:23.640><c> es</c><00:01:25.000><c> eh</c>
+
+00:01:25.149 --> 00:01:25.159 align:start position:0%
+caso corresponde al número 10, que es eh
+ 
+
+00:01:25.159 --> 00:01:28.109 align:start position:0%
+caso corresponde al número 10, que es eh
+la<00:01:25.360><c> cuenta</c><00:01:25.720><c> de</c><00:01:25.960><c> bancos.</c>
+
+00:01:28.109 --> 00:01:28.119 align:start position:0%
+la cuenta de bancos.
+ 
+
+00:01:28.119 --> 00:01:30.510 align:start position:0%
+la cuenta de bancos.
+Los<00:01:28.280><c> dos</c><00:01:28.479><c> siguientes</c><00:01:29.000><c> dígitos</c><00:01:29.720><c> corresponden</c>
+
+00:01:30.510 --> 00:01:30.520 align:start position:0%
+Los dos siguientes dígitos corresponden
+ 
+
+00:01:30.520 --> 00:01:33.350 align:start position:0%
+Los dos siguientes dígitos corresponden
+ya<00:01:30.960><c> a</c><00:01:31.159><c> las</c><00:01:31.360><c> cuentas</c><00:01:31.759><c> auxiliares.</c>
+
+00:01:33.350 --> 00:01:33.360 align:start position:0%
+ya a las cuentas auxiliares.
+ 
+
+00:01:33.360 --> 00:01:35.710 align:start position:0%
+ya a las cuentas auxiliares.
+Tengamos<00:01:33.799><c> en</c><00:01:34.000><c> cuenta</c><00:01:34.439><c> que</c><00:01:34.640><c> las</c><00:01:34.840><c> auxiliares</c>
+
+00:01:35.710 --> 00:01:35.720 align:start position:0%
+Tengamos en cuenta que las auxiliares
+ 
+
+00:01:35.720 --> 00:01:38.149 align:start position:0%
+Tengamos en cuenta que las auxiliares
+son<00:01:36.119><c> como</c><00:01:36.399><c> los</c><00:01:36.720><c> apéndices</c><00:01:37.320><c> de</c><00:01:37.479><c> las</c><00:01:37.680><c> cuentas</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+son como los apéndices de las cuentas
+ 
+
+00:01:38.159 --> 00:01:40.510 align:start position:0%
+son como los apéndices de las cuentas
+principales<00:01:39.119><c> y</c><00:01:39.320><c> nos</c><00:01:39.560><c> van</c><00:01:39.720><c> a</c><00:01:39.799><c> ayudar</c><00:01:40.320><c> a</c>
+
+00:01:40.510 --> 00:01:40.520 align:start position:0%
+principales y nos van a ayudar a
+ 
+
+00:01:40.520 --> 00:01:43.310 align:start position:0%
+principales y nos van a ayudar a
+clasificar<00:01:41.159><c> las</c><00:01:41.399><c> cuentas</c><00:01:42.240><c> de</c><00:01:42.439><c> acuerdo</c><00:01:42.920><c> a</c><00:01:43.119><c> las</c>
+
+00:01:43.310 --> 00:01:43.320 align:start position:0%
+clasificar las cuentas de acuerdo a las
+ 
+
+00:01:43.320 --> 00:01:46.230 align:start position:0%
+clasificar las cuentas de acuerdo a las
+necesidades<00:01:44.000><c> de</c><00:01:44.240><c> cada</c><00:01:44.520><c> empresa.</c><00:01:45.640><c> tengamos</c><00:01:46.079><c> en</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+necesidades de cada empresa. tengamos en
+ 
+
+00:01:46.240 --> 00:01:48.429 align:start position:0%
+necesidades de cada empresa. tengamos en
+cuenta<00:01:46.640><c> que</c><00:01:46.840><c> las</c><00:01:47.000><c> cuentas</c><00:01:47.360><c> auxiliares</c><00:01:48.159><c> son</c>
+
+00:01:48.429 --> 00:01:48.439 align:start position:0%
+cuenta que las cuentas auxiliares son
+ 
+
+00:01:48.439 --> 00:01:51.910 align:start position:0%
+cuenta que las cuentas auxiliares son
+opcionales,<00:01:49.600><c> es</c><00:01:49.840><c> decir,</c><00:01:50.560><c> una</c><00:01:50.840><c> cuenta</c><00:01:51.320><c> puede</c><00:01:51.719><c> o</c>
+
+00:01:51.910 --> 00:01:51.920 align:start position:0%
+opcionales, es decir, una cuenta puede o
+ 
+
+00:01:51.920 --> 00:01:56.789 align:start position:0%
+opcionales, es decir, una cuenta puede o
+no<00:01:52.360><c> subdividirse</c><00:01:53.439><c> en</c><00:01:53.680><c> cuentas</c><00:01:54.079><c> auxiliares.</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+no subdividirse en cuentas auxiliares.
+ 
+
+00:01:56.799 --> 00:01:59.789 align:start position:0%
+no subdividirse en cuentas auxiliares.
+De<00:01:57.039><c> esta</c><00:01:57.320><c> manera</c><00:01:57.920><c> entonces</c><00:01:58.360><c> vemos</c><00:01:59.079><c> como</c><00:01:59.600><c> el</c>
+
+00:01:59.789 --> 00:01:59.799 align:start position:0%
+De esta manera entonces vemos como el
+ 
+
+00:01:59.799 --> 00:02:02.830 align:start position:0%
+De esta manera entonces vemos como el
+código<00:02:00.159><c> de</c><00:02:00.360><c> las</c><00:02:00.600><c> cuentas</c><00:02:01.560><c> debe</c><00:02:01.960><c> tener</c><00:02:02.600><c> una</c>
+
+00:02:02.830 --> 00:02:02.840 align:start position:0%
+código de las cuentas debe tener una
+ 
+
+00:02:02.840 --> 00:02:05.670 align:start position:0%
+código de las cuentas debe tener una
+determinada<00:02:03.560><c> estructura.</c><00:02:04.840><c> El</c><00:02:05.000><c> sistema</c><00:02:05.439><c> nos</c>
+
+00:02:05.670 --> 00:02:05.680 align:start position:0%
+determinada estructura. El sistema nos
+ 
+
+00:02:05.680 --> 00:02:08.350 align:start position:0%
+determinada estructura. El sistema nos
+permite<00:02:06.200><c> codificar</c><00:02:06.840><c> las</c><00:02:07.079><c> cuentas</c><00:02:07.719><c> hasta</c><00:02:08.080><c> con</c>
+
+00:02:08.350 --> 00:02:08.360 align:start position:0%
+permite codificar las cuentas hasta con
+ 
+
+00:02:08.360 --> 00:02:11.350 align:start position:0%
+permite codificar las cuentas hasta con
+30<00:02:08.759><c> dígitos</c><00:02:09.800><c> y</c><00:02:10.080><c> permite</c><00:02:10.640><c> códigos</c>
+
+00:02:11.350 --> 00:02:11.360 align:start position:0%
+30 dígitos y permite códigos
+ 
+
+00:02:11.360 --> 00:02:14.630 align:start position:0%
+30 dígitos y permite códigos
+alfanuméricos.
+
+00:02:14.630 --> 00:02:14.640 align:start position:0%
+ 
+ 
+
+00:02:14.640 --> 00:02:17.350 align:start position:0%
+ 
+Esto<00:02:14.879><c> es</c><00:02:15.040><c> todo</c><00:02:15.640><c> acerca</c><00:02:16.319><c> de</c><00:02:16.480><c> la</c><00:02:16.599><c> codificación</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+Esto es todo acerca de la codificación
+ 
+
+00:02:17.360 --> 00:02:20.239 align:start position:0%
+Esto es todo acerca de la codificación
+de<00:02:17.560><c> las</c><00:02:17.720><c> cuentas.</c>
+

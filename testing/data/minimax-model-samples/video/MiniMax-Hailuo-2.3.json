@@ -1,0 +1,20 @@
+{
+  "create": {
+    "task_id": "405510822289679",
+    "base_resp": {
+      "status_code": 0,
+      "status_msg": "success"
+    }
+  },
+  "polled": {
+    "task_id": "405510822289679",
+    "status": "Success",
+    "file_id": "405511712895111",
+    "video_width": 1366,
+    "video_height": 768,
+    "base_resp": {
+      "status_code": 0,
+      "status_msg": "success"
+    }
+  }
+}

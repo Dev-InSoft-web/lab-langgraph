@@ -1,0 +1,11 @@
+{
+  "apiKeyLabel": "CEREBRAS_API_KEY",
+  "keySuffix": "···58hy",
+  "modelId": "gpt-oss-20b",
+  "platformName": "GPT-OSS 20B",
+  "ok": false,
+  "httpStatus": 404,
+  "detail": "404 Model gpt-oss-20b does not exist or you do not have access to it.",
+  "stream": false,
+  "elapsedMs": 2370
+}

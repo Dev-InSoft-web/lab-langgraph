@@ -1,0 +1,782 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:31:30.894Z",
+  "videoId": "GA3NMziLkVc",
+  "videoUrl": "https://www.youtube.com/watch?v=GA3NMziLkVc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "GA3NMziLkVc",
+    "title": "Sistema de contabilidad ContaPyme - Ingreso al POS por primera vez",
+    "fulltitle": "Sistema de contabilidad ContaPyme - Ingreso al POS por primera vez",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme muestra:\nRuta de ingreso a la operación de punto de venta (POS).\nConfiguraciones iniciales para su adecuado uso.\nCP40-150-020-010B",
+    "duration": 368,
+    "duration_string": "6:08",
+    "upload_date": "20120420",
+    "timestamp": 1334945860,
+    "view_count": 2539,
+    "like_count": 4,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/GA3NMziLkVc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGFMgXShlMA8=&rs=AOn4CLDx-cHk0aDDTZHzzd_p7hm3OWwlCw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARhTIF0oZTAP&rs=AOn4CLCIiUfGW_4sngsbPyGs84Gnq5wNIg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGFMgXShlMA8=&rs=AOn4CLDxgITk4aNlJgZmBs5eQNKmpHDhsg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGFMgXShlMA8=&rs=AOn4CLDvpes0U3DMhGaM8f09MWCpyd0fbQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGFMgXShlMA8=&rs=AOn4CLD17L5CD0xIxLxrThy9lHMW_qc_Ng",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhTIF0oZTAP&rs=AOn4CLC8j4neIOAtKDF21Y-funP-ukHVuw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhTIF0oZTAP&rs=AOn4CLCFn6W41f9_xXOiGkhKCz72Yb3lcg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGFMgXShlMA8=&rs=AOn4CLBg1Hxn3ITgQ1KfeafV1BEmuM8F7g",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGFMgXShlMA8=&rs=AOn4CLDx-cHk0aDDTZHzzd_p7hm3OWwlCw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GA3NMziLkVc/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GA3NMziLkVc/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=GA3NMziLkVc",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2717391304347826,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20380434782608695,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20380434782608695,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20380434782608695,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 198.944,
+        "asr": 44100,
+        "filesize_approx": 9162714,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Sistema de contabilidad ContaPyme - Ingreso al POS por primera vez",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/GA3NMziLkVc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/GA3NMziLkVc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema de contabilidad ContaPyme - Ingreso al POS por primera vez\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 70,
+    "transcriptChars": 5131,
+    "segments": [
+      {
+        "text": "configuración de la operación de inventarios punto de venta ingreso al",
+        "startMs": 1360,
+        "durationMs": 5029
+      },
+      {
+        "text": "post por primera vez la ruta para ingresar a la operación",
+        "startMs": 6389,
+        "durationMs": 5081
+      },
+      {
+        "text": "de punto de venta es ingresar al manejador de operaciones y dentro del",
+        "startMs": 11470,
+        "durationMs": 5440
+      },
+      {
+        "text": "manejador de operaciones podemos ingresar por la opción de más",
+        "startMs": 16910,
+        "durationMs": 4480
+      },
+      {
+        "text": "operaciones ventas operación de punto de venta o también podemos hacerlo por el",
+        "startMs": 21390,
+        "durationMs": 6879
+      },
+      {
+        "text": "acceso directo que tengamos en la barra de herramientas operación punto de",
+        "startMs": 28269,
+        "durationMs": 7120
+      },
+      {
+        "text": "venta para iniciar con la operación de ventas se recomienda realizar una serie",
+        "startMs": 35399,
+        "durationMs": 5111
+      },
+      {
+        "text": "de configuraciones iniciales que van a ser útiles para automatizar y agilizar",
+        "startMs": 40510,
+        "durationMs": 5760
+      },
+      {
+        "text": "casi al 100% el proceso de facturación estas configuraciones",
+        "startMs": 46270,
+        "durationMs": 5040
+      },
+      {
+        "text": "básicas el sistema las pregunta en una ventana inicial que se muestra cuando",
+        "startMs": 51310,
+        "durationMs": 5000
+      },
+      {
+        "text": "ingresamos al post por primera vez miren vemos de aquí en",
+        "startMs": 56310,
+        "durationMs": 5600
+      },
+      {
+        "text": "pantalla son útiles puesto que contienen información que el sistema usará por",
+        "startMs": 61910,
+        "durationMs": 5839
+      },
+      {
+        "text": "defecto en todas las nuevas operaciones de venta es así como el sistema pregunta",
+        "startMs": 67749,
+        "durationMs": 7121
+      },
+      {
+        "text": "Cliente por defecto es el código del tercero cliente",
+        "startMs": 74870,
+        "durationMs": 4879
+      },
+      {
+        "text": "que se cargará por defecto en todas las operaciones de",
+        "startMs": 79749,
+        "durationMs": 4121
+      },
+      {
+        "text": "venta es muy común que en puntos de facturación rápida se tenga creado un",
+        "startMs": 83870,
+        "durationMs": 5400
+      },
+      {
+        "text": "tercero llamado ventas de contado o clientes generales para poderle cargar a",
+        "startMs": 89270,
+        "durationMs": 5479
+      },
+      {
+        "text": "él todas las facturas que se realizan y en las cuales el cliente real no desea",
+        "startMs": 94749,
+        "durationMs": 5360
+      },
+      {
+        "text": "suministrar información personal para ser ingresado a la base de datos de",
+        "startMs": 100109,
+        "durationMs": 5161
+      },
+      {
+        "text": "clientes recordemos que dentro de la operación de venta podemos crear al",
+        "startMs": 105270,
+        "durationMs": 4040
+      },
+      {
+        "text": "cliente al momento de ser necesario a través de esta opcion cita de la llave o",
+        "startMs": 109310,
+        "durationMs": 4920
+      },
+      {
+        "text": "si el tercero Ya lo tenemos creado en nuestra base de datos lo podemos Buscar",
+        "startMs": 114230,
+        "durationMs": 3799
+      },
+      {
+        "text": "con la opción de la linterna deos clic y busquemos",
+        "startMs": 118029,
+        "durationMs": 4881
+      },
+      {
+        "text": "busquemos ventas genérico o ventas de contado allí",
+        "startMs": 122910,
+        "durationMs": 4000
+      },
+      {
+        "text": "tenemos el cliente configurado por defecto nos pregunta la",
+        "startMs": 126910,
+        "durationMs": 6959
+      },
+      {
+        "text": "bodega se indica el código de la bodega de la cual en ese punto de facturación",
+        "startMs": 133869,
+        "durationMs": 5521
+      },
+      {
+        "text": "se van a egresar los productos Al momento de",
+        "startMs": 139390,
+        "durationMs": 3479
+      },
+      {
+        "text": "facturar en la estructura de una empresa es común que en los puntos de venta se",
+        "startMs": 142869,
+        "durationMs": 5080
+      },
+      {
+        "text": "administre una bodega propia la cual es Útil para poderle Consultar",
+        "startMs": 147949,
+        "durationMs": 5401
+      },
+      {
+        "text": "los saldos de los productos y Tener información precisa de las cantidades",
+        "startMs": 153350,
+        "durationMs": 4720
+      },
+      {
+        "text": "que pueden ofrecerse al momento de la facturación De igual forma por la opción",
+        "startMs": 158070,
+        "durationMs": 5120
+      },
+      {
+        "text": "de la linternita podemos Buscar las bodegas y allí carguemos la bodega que",
+        "startMs": 163190,
+        "durationMs": 3880
+      },
+      {
+        "text": "costos en esta opción se puede indicar el código del centro de costos que el",
+        "startMs": 172949,
+        "durationMs": 4841
+      },
+      {
+        "text": "sistema utilizará cuando cuando se realice la venta recordemos que la venta",
+        "startMs": 177790,
+        "durationMs": 5760
+      },
+      {
+        "text": "genera un ingreso Y como tal las cuentas de ingreso exigen centros de costos muy",
+        "startMs": 183550,
+        "durationMs": 6840
+      },
+      {
+        "text": "útil para que después en un informe de ingresos se puedan consultar todos los",
+        "startMs": 190390,
+        "durationMs": 4240
+      },
+      {
+        "text": "ingresos discriminados por centros de costos que la empresa tiene",
+        "startMs": 194630,
+        "durationMs": 4040
+      },
+      {
+        "text": "estructurados podemos dar entonces clic en la linternita analizar la estructura",
+        "startMs": 198670,
+        "durationMs": 4479
+      },
+      {
+        "text": "de centros de costos y allí Llamar el centro de costos que vamos a asignarle",
+        "startMs": 203149,
+        "durationMs": 4681
+      },
+      {
+        "text": "si en la empresa nada más se maneja un centro de costos Pues asignamos el",
+        "startMs": 207830,
+        "durationMs": 3880
+      },
+      {
+        "text": "centro de costos de gastos empresariales generales por defecto que trae el",
+        "startMs": 167070,
+        "durationMs": 49719
+      },
+      {
+        "text": "sistema cuenta de caja se debe indicar el código del plan",
+        "startMs": 216789,
+        "durationMs": 5360
+      },
+      {
+        "text": "de cuentas correspondiente a la cuenta de caja la cual está ubicada dentro de",
+        "startMs": 222149,
+        "durationMs": 4640
+      },
+      {
+        "text": "la estructura de la 1105 podemos dar clic en la linterna",
+        "startMs": 226789,
+        "durationMs": 5961
+      },
+      {
+        "text": "para analizarla esta cuenta será la que el",
+        "startMs": 232750,
+        "durationMs": 2720
+      },
+      {
+        "text": "sistema mueva contablemente cuando El vendedor le indique que el pago lo va a",
+        "startMs": 235470,
+        "durationMs": 5000
+      },
+      {
+        "text": "realizar el cliente en efectivo que es el caso más común en un punto de",
+        "startMs": 240470,
+        "durationMs": 8119
+      },
+      {
+        "text": "rápido y tenemos la opción de procesar automáticamente al grabar la operación",
+        "startMs": 248599,
+        "durationMs": 5391
+      },
+      {
+        "text": "Que si se activa esta opción el sistema cada vez que guarde una factura de venta",
+        "startMs": 253990,
+        "durationMs": 6160
+      },
+      {
+        "text": "procesará la operación registrada generando que módulos como contabilidad",
+        "startMs": 260150,
+        "durationMs": 6599
+      },
+      {
+        "text": "cartera inventarios sean afectados de manera manera inmediata con el registro",
+        "startMs": 266749,
+        "durationMs": 4880
+      },
+      {
+        "text": "y proceso de la nueva factura Ya teniendo estos Campos",
+        "startMs": 271629,
+        "durationMs": 5721
+      },
+      {
+        "text": "configurados podemos indicarle aceptar y el sistema nos cargará la operación de",
+        "startMs": 277350,
+        "durationMs": 7240
+      },
+      {
+        "text": "punto de venta tipo post para que iniciemos el proceso de facturación",
+        "startMs": 284590,
+        "durationMs": 4159
+      },
+      {
+        "text": "rápido en la empresa si realizamos un rápido",
+        "startMs": 288749,
+        "durationMs": 4000
+      },
+      {
+        "text": "ejercicio de una venta podemos ver que el cliente que cargó el sistema en la",
+        "startMs": 292749,
+        "durationMs": 5121
+      },
+      {
+        "text": "operación por defecto fue el cliente de ventas de contado que configuramos",
+        "startMs": 297870,
+        "durationMs": 4240
+      },
+      {
+        "text": "inicialmente De igual forma llamemos un producto",
+        "startMs": 302110,
+        "durationMs": 5160
+      },
+      {
+        "text": "cualquiera Y si le indicamos que vamos a decirle la forma de pago",
+        "startMs": 307280,
+        "durationMs": 6150
+      },
+      {
+        "text": "efectivo el sistema automáticamente cuando veamos el movimiento contable que",
+        "startMs": 313430,
+        "durationMs": 4440
+      },
+      {
+        "text": "genera la operación de venta vamos a ver que el sistema lleva a la cuenta de caja",
+        "startMs": 317870,
+        "durationMs": 5520
+      },
+      {
+        "text": "que configuramos también inicialmente además también el producto",
+        "startMs": 323390,
+        "durationMs": 5480
+      },
+      {
+        "text": "tarjeta aceleradora que en este caso estamos facturando va a ser descargado",
+        "startMs": 328870,
+        "durationMs": 4879
+      },
+      {
+        "text": "del Código de la bodega que preconfigurado",
+        "startMs": 333749,
+        "durationMs": 4280
+      },
+      {
+        "text": "preconfigurado inicial si por algún motivo el usuario",
+        "startMs": 338029,
+        "durationMs": 2921
+      },
+      {
+        "text": "desea modificar alguno de los puntos anteriormente configurados podemos",
+        "startMs": 340950,
+        "durationMs": 4200
+      },
+      {
+        "text": "ingresar dentro de la operación de punto de venta por el menú",
+        "startMs": 345150,
+        "durationMs": 5200
+      },
+      {
+        "text": "operación configuración inicial para operación de punto de venta y allí vamos",
+        "startMs": 350350,
+        "durationMs": 5600
+      },
+      {
+        "text": "a ver nuevamente todos los puntos que el sistema nos solicitó y podde hacer las",
+        "startMs": 355950,
+        "durationMs": 6239
+      },
+      {
+        "text": "requeridas esto es todo acerca de ingreso al post por primera vez",
+        "startMs": 362189,
+        "durationMs": 8010
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme muestra:\nRuta de ingreso a la operación de punto de venta (POS).\nConfiguraciones iniciales para su adecuado uso.\nCP40-150-020-010B\n\n## Transcripción\n\nconfiguración de la operación de inventarios punto de venta ingreso al\npost por primera vez la ruta para ingresar a la operación\nde punto de venta es ingresar al manejador de operaciones y dentro del\nmanejador de operaciones podemos ingresar por la opción de más\noperaciones ventas operación de punto de venta o también podemos hacerlo por el\nacceso directo que tengamos en la barra de herramientas operación punto de\nventa para iniciar con la operación de ventas se recomienda realizar una serie\nde configuraciones iniciales que van a ser útiles para automatizar y agilizar\ncasi al 100% el proceso de facturación estas configuraciones\nbásicas el sistema las pregunta en una ventana inicial que se muestra cuando\ningresamos al post por primera vez miren vemos de aquí en\npantalla son útiles puesto que contienen información que el sistema usará por\ndefecto en todas las nuevas operaciones de venta es así como el sistema pregunta\nCliente por defecto es el código del tercero cliente\nque se cargará por defecto en todas las operaciones de\nventa es muy común que en puntos de facturación rápida se tenga creado un\ntercero llamado ventas de contado o clientes generales para poderle cargar a\nél todas las facturas que se realizan y en las cuales el cliente real no desea\nsuministrar información personal para ser ingresado a la base de datos de\nclientes recordemos que dentro de la operación de venta podemos crear al\ncliente al momento de ser necesario a través de esta opcion cita de la llave o\nsi el tercero Ya lo tenemos creado en nuestra base de datos lo podemos Buscar\ncon la opción de la linterna deos clic y busquemos\nbusquemos ventas genérico o ventas de contado allí\ntenemos el cliente configurado por defecto nos pregunta la\nbodega se indica el código de la bodega de la cual en ese punto de facturación\nse van a egresar los productos Al momento de\nfacturar en la estructura de una empresa es común que en los puntos de venta se\nadministre una bodega propia la cual es Útil para poderle Consultar\nlos saldos de los productos y Tener información precisa de las cantidades\nque pueden ofrecerse al momento de la facturación De igual forma por la opción\nde la linternita podemos Buscar las bodegas y allí carguemos la bodega que\ncostos en esta opción se puede indicar el código del centro de costos que el\nsistema utilizará cuando cuando se realice la venta recordemos que la venta\ngenera un ingreso Y como tal las cuentas de ingreso exigen centros de costos muy\nútil para que después en un informe de ingresos se puedan consultar todos los\ningresos discriminados por centros de costos que la empresa tiene\nestructurados podemos dar entonces clic en la linternita analizar la estructura\nde centros de costos y allí Llamar el centro de costos que vamos a asignarle\nsi en la empresa nada más se maneja un centro de costos Pues asignamos el\ncentro de costos de gastos empresariales generales por defecto que trae el\nsistema cuenta de caja se debe indicar el código del plan\nde cuentas correspondiente a la cuenta de caja la cual está ubicada dentro de\nla estructura de la 1105 podemos dar clic en la linterna\npara analizarla esta cuenta será la que el\nsistema mueva contablemente cuando El vendedor le indique que el pago lo va a\nrealizar el cliente en efectivo que es el caso más común en un punto de\nrápido y tenemos la opción de procesar automáticamente al grabar la operación\nQue si se activa esta opción el sistema cada vez que guarde una factura de venta\nprocesará la operación registrada generando que módulos como contabilidad\ncartera inventarios sean afectados de manera manera inmediata con el registro\ny proceso de la nueva factura Ya teniendo estos Campos\nconfigurados podemos indicarle aceptar y el sistema nos cargará la operación de\npunto de venta tipo post para que iniciemos el proceso de facturación\nrápido en la empresa si realizamos un rápido\nejercicio de una venta podemos ver que el cliente que cargó el sistema en la\noperación por defecto fue el cliente de ventas de contado que configuramos\ninicialmente De igual forma llamemos un producto\ncualquiera Y si le indicamos que vamos a decirle la forma de pago\nefectivo el sistema automáticamente cuando veamos el movimiento contable que\ngenera la operación de venta vamos a ver que el sistema lleva a la cuenta de caja\nque configuramos también inicialmente además también el producto\ntarjeta aceleradora que en este caso estamos facturando va a ser descargado\ndel Código de la bodega que preconfigurado\npreconfigurado inicial si por algún motivo el usuario\ndesea modificar alguno de los puntos anteriormente configurados podemos\ningresar dentro de la operación de punto de venta por el menú\noperación configuración inicial para operación de punto de venta y allí vamos\na ver nuevamente todos los puntos que el sistema nos solicitó y podde hacer las\nrequeridas esto es todo acerca de ingreso al post por primera vez"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 198.944,
+    "asr": 44100,
+    "filesizeApprox": 9162714,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/GA3NMziLkVc.md",
+    "json": "videos/2012/GA3NMziLkVc.json",
+    "infoJson": "videos/2012/GA3NMziLkVc.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

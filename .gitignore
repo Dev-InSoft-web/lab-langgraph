@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.azure/
+.env
+local.settings.json
+storage/
+*.log
+secrets/
+*.PublishSettings
+publish-profile*.xml
+.env.*
+!local.settings.json.example
+
+# Corpus vectorización (generado por scripts lab:yt:* / lab:gov:*)
+data/vectorize/youtube/**/fetch-cache/
+data/vectorize/youtube/**/corpus.md
+data/vectorize/youtube/**/manifest.json
+data/vectorize/youtube/**/run.log
+data/vectorize/youtube/contapyme-software-contable/audio-cache/
+data/vectorize/youtube/contapyme-software-contable/whisper-chunks/
+data/vectorize/youtube/contapyme-software-contable/whisper-stats.json
+data/vectorize/youtube/contapyme-software-contable/whisper-fallback.log

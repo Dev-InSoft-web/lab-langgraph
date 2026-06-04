@@ -1,0 +1,854 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:36:33.071Z",
+  "videoId": "xmikVHRDddw",
+  "videoUrl": "https://www.youtube.com/watch?v=xmikVHRDddw",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "xmikVHRDddw",
+    "title": "Sistema contable ContaPyme - Ejemplo 1 Anticipo de un cliente",
+    "fulltitle": "Sistema contable ContaPyme - Ejemplo 1 Anticipo de un cliente",
+    "description": "http://www.contapyme.com\nEste vídeo del software contable ContaPyme le indica al usuario como registrar en el sistema anticipos de clientes mediante la operación Crear crédito o anticipo.\nCP40-090-027-010B-020M",
+    "duration": 407,
+    "duration_string": "6:47",
+    "upload_date": "20120105",
+    "timestamp": 1325771109,
+    "view_count": 4060,
+    "like_count": 13,
+    "comment_count": 2,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/xmikVHRDddw/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBEgcigRMA8=&rs=AOn4CLAUPOIBEwQQG16zRPKxisXJtUfoGg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgRIHIoETAP&rs=AOn4CLA2VnQ6aiio9GEEu0FKLy9KqTK6mg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBEgcigRMA8=&rs=AOn4CLDLOxUvEDWNZsJDzIt5eV3oMCk_9w",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGBEgcigRMA8=&rs=AOn4CLAvAXB0wm2_CzueR-OEv5FXIl-7MQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGBEgcigRMA8=&rs=AOn4CLAsQfD6nSCghKxIthb0yDxu1G7dug",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgRIHIoETAP&rs=AOn4CLA1-dkydIJXVFVdeYOV-V5F8k2u8w",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgRIHIoETAP&rs=AOn4CLAYSqT8GcSBOQWFChNq7Ej6yJOnhw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBEgcigRMA8=&rs=AOn4CLDwMr3UFKgGwr6PIaSI6_z8xsq5cg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBEgcigRMA8=&rs=AOn4CLAUPOIBEwQQG16zRPKxisXJtUfoGg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xmikVHRDddw/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xmikVHRDddw/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xmikVHRDddw",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2457002457002457,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20393120393120392,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20393120393120392,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20393120393120392,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 174.868,
+        "asr": 44100,
+        "filesize": 8886769,
+        "filesize_approx": 8886748,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "Ugz4KKF8R6GchM5izMR4AaABAg",
+        "parent": "root",
+        "text": "Pq si es un a anticipo de cliente ingresan x proveedores",
+        "like_count": 0,
+        "author_id": "UC8memw7OYtV9fLn0A9rrmfg",
+        "author": "@barbershopcorteyestilo9742",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2olzbC1VUgywYLYFAPFFqglUt5K3Vp_-M-djbFwI=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@barbershopcorteyestilo9742",
+        "is_favorited": false,
+        "_time_text": "3 years ago",
+        "timestamp": 1685836800,
+        "is_pinned": false
+      },
+      {
+        "id": "UggO8KDq3Y0fXHgCoAEC",
+        "parent": "root",
+        "text": "muy bueno!",
+        "like_count": 0,
+        "author_id": "UCCgCIA02tpPlkg5SnmA5ffg",
+        "author": "@Sebaslr95",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l63Asxjnytpvvax0yE5dl1KOyl-jsJ7MPjx_1PQuCMsomP=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@Sebaslr95",
+        "is_favorited": false,
+        "_time_text": "12 years ago",
+        "timestamp": 1401840000,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Sistema contable ContaPyme - Ejemplo 1 Anticipo de un cliente",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/xmikVHRDddw/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/xmikVHRDddw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sistema contable ContaPyme - Ejemplo 1 Anticipo de un cliente\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 71,
+    "transcriptChars": 4671,
+    "segments": [
+      {
+        "text": "Ejemplo uno, anticipo de un cliente. Es importante mencionar que un anticipo",
+        "startMs": 599,
+        "durationMs": 7511
+      },
+      {
+        "text": "de un cliente se genera en el momento en el que un cliente realice un adelanto de",
+        "startMs": 8110,
+        "durationMs": 5599
+      },
+      {
+        "text": "dinero a nuestra empresa por concepto de mercadería aún no entregada o un",
+        "startMs": 13709,
+        "durationMs": 5681
+      },
+      {
+        "text": "servicio que todavía no se ha prestado. Para este ejemplo registraremos entonces",
+        "startMs": 19390,
+        "durationMs": 6920
+      },
+      {
+        "text": "un anticipo realizado por el señor Jorge Cardona, el cual nos dio un adelanto de",
+        "startMs": 26310,
+        "durationMs": 6200
+      },
+      {
+        "text": "78000 pesos para una asesoría financiera que recibirá la próxima semana con",
+        "startMs": 32510,
+        "durationMs": 5800
+      },
+      {
+        "text": "nuestra empresa. Ubicados en el manejador de operaciones,",
+        "startMs": 38310,
+        "durationMs": 6120
+      },
+      {
+        "text": "ingresaremos a través del botón más operaciones,",
+        "startMs": 44430,
+        "durationMs": 4400
+      },
+      {
+        "text": "operaciones, proveedores,",
+        "startMs": 48830,
+        "durationMs": 2239
+      },
+      {
+        "text": "proveedores, donde seleccionaremos la opción crear",
+        "startMs": 51069,
+        "durationMs": 2921
+      },
+      {
+        "text": "crédito o anticipo. Como podemos visualizar, el sistema ha",
+        "startMs": 53990,
+        "durationMs": 6120
+      },
+      {
+        "text": "abierto la operación para registrar la transacción.",
+        "startMs": 60110,
+        "durationMs": 4600
+      },
+      {
+        "text": "transacción. Para registrar el anticipo realizado por",
+        "startMs": 64710,
+        "durationMs": 2520
+      },
+      {
+        "text": "el Sr. Jorge Cardona, lo soportaremos mediante un documento comprobante de",
+        "startMs": 67230,
+        "durationMs": 5280
+      },
+      {
+        "text": "ingreso. Para ello, en el campo tipo documento, ingresaremos a través del",
+        "startMs": 72510,
+        "durationMs": 5840
+      },
+      {
+        "text": "botón de búsqueda para seleccionar de la lista el documento requerido.",
+        "startMs": 78350,
+        "durationMs": 6320
+      },
+      {
+        "text": "En este caso, el comprobante de ingreso es el documento predeterminado de esta",
+        "startMs": 84670,
+        "durationMs": 5119
+      },
+      {
+        "text": "operación, por lo que nos indica que el comprobante de ingreso a registrar",
+        "startMs": 89789,
+        "durationMs": 5081
+      },
+      {
+        "text": "corresponderá al número 3034. Dicho anticipo se realizó el día 6 de",
+        "startMs": 94870,
+        "durationMs": 7760
+      },
+      {
+        "text": "junio, por lo que modificaremos la fecha de soporte de la operación.",
+        "startMs": 102630,
+        "durationMs": 8360
+      },
+      {
+        "text": "Y en el detalle de la operación especificaremos una observación de la",
+        "startMs": 111000,
+        "durationMs": 5029
+      },
+      {
+        "text": "transacción, por lo que digitaremos anticipo",
+        "startMs": 116029,
+        "durationMs": 4921
+      },
+      {
+        "text": "anticipo asesoría financiera.",
+        "startMs": 120950,
+        "durationMs": 5720
+      },
+      {
+        "startMs": 126680,
+        "durationMs": 8909,
+        "text": "Señor Jorge Cardona,"
+      },
+      {
+        "text": "en el campo cuenta por pagar indicaremos el valor del anticipo, es decir,",
+        "startMs": 135599,
+        "durationMs": 9990
+      },
+      {
+        "text": "En el área detalle del crédito o anticipo indicaremos el tercero al cual",
+        "startMs": 145599,
+        "durationMs": 5910
+      },
+      {
+        "text": "debemos pagarle dicha deuda. Es muy importante mencionar que esta operación",
+        "startMs": 151509,
+        "durationMs": 5521
+      },
+      {
+        "text": "se convierte en una deuda hacia el cliente hasta que se le haga la",
+        "startMs": 157030,
+        "durationMs": 4199
+      },
+      {
+        "text": "respectiva entrega de la mercancía o se le preste el servicio acordado.",
+        "startMs": 161229,
+        "durationMs": 5360
+      },
+      {
+        "text": "Para este ejemplo indicaremos que el tercero al cual le debemos es al señor",
+        "startMs": 166589,
+        "durationMs": 9640
+      },
+      {
+        "startMs": 176239,
+        "durationMs": 3111,
+        "text": "Seleccionar."
+      },
+      {
+        "text": "En la cuenta por pagar seleccionaremos la cuenta de anticipos,",
+        "startMs": 179360,
+        "durationMs": 12190
+      },
+      {
+        "text": "Anticipo de clientes. El sistema estima que la fecha estimada",
+        "startMs": 191560,
+        "durationMs": 5949
+      },
+      {
+        "text": "de pago son 30 días después del registro del anticipo.",
+        "startMs": 197509,
+        "durationMs": 5280
+      },
+      {
+        "text": "Esto depende de la configuración que se haya realizado en el momento de crear la",
+        "startMs": 202789,
+        "durationMs": 4841
+      },
+      {
+        "text": "empresa, por lo que la fecha estimada de pago corresponde al 7 de julio e indica",
+        "startMs": 207630,
+        "durationMs": 6480
+      },
+      {
+        "text": "también una descripción de la cuenta por pagar.",
+        "startMs": 214110,
+        "durationMs": 4640
+      },
+      {
+        "text": "pagar. Para continuar con la operación, hacemos",
+        "startMs": 218750,
+        "durationMs": 2440
+      },
+      {
+        "text": "clic en el botón siguiente. En el segundo paso de la operación,",
+        "startMs": 221190,
+        "durationMs": 5039
+      },
+      {
+        "text": "crear crédito o anticipo, indicaremos en dónde entró el dinero del anticipo a la",
+        "startMs": 226229,
+        "durationMs": 5321
+      },
+      {
+        "text": "empresa, por lo que ubicados en el campo caja, llevaremos allí el valor de 78000",
+        "startMs": 231550,
+        "durationMs": 6360
+      },
+      {
+        "text": "pesos, empleando el botón de diferencia y seleccionaremos la cuenta caja",
+        "startMs": 237910,
+        "durationMs": 11000
+      },
+      {
+        "text": "1105. En el caso de que se requiere imprimir",
+        "startMs": 248920,
+        "durationMs": 4830
+      },
+      {
+        "text": "el soporte físico de la operación, hacemos un clic en el botón imprimir",
+        "startMs": 253750,
+        "durationMs": 6199
+      },
+      {
+        "text": "y en el campo documento, mediante el botón de búsqueda, seleccionaremos el",
+        "startMs": 259949,
+        "durationMs": 5081
+      },
+      {
+        "text": "documento de impresión requerido. Para este ejemplo visualizaremos el",
+        "startMs": 265030,
+        "durationMs": 5800
+      },
+      {
+        "text": "comprobante de ingreso. Vista previa.",
+        "startMs": 270830,
+        "durationMs": 5280
+      },
+      {
+        "text": "Como podemos observar, el sistema indica que se realizó un anticipo por concepto",
+        "startMs": 276110,
+        "durationMs": 6000
+      },
+      {
+        "text": "de asesoría financiera al señor Jorge Cardona en el comprobante de ingreso",
+        "startMs": 282110,
+        "durationMs": 5280
+      },
+      {
+        "text": "número 3034 por un valor de 78,000 pesos, el cual",
+        "startMs": 287390,
+        "durationMs": 5760
+      },
+      {
+        "text": "entró a nuestra empresa en efectivo. Cerrar.",
+        "startMs": 293150,
+        "durationMs": 6960
+      },
+      {
+        "text": "Para finalizar la operación, hacemos un clic en el botón autoprocesar",
+        "startMs": 300120,
+        "durationMs": 5629
+      },
+      {
+        "text": "y aceptar. Como podemos visualizar en el catálogo,",
+        "startMs": 305749,
+        "durationMs": 5481
+      },
+      {
+        "text": "el comprobante de ingreso número 3034 ha quedado guardado y procesado,",
+        "startMs": 311230,
+        "durationMs": 7440
+      },
+      {
+        "text": "generando así un movimiento contable de nuestra contabilidad.",
+        "startMs": 318670,
+        "durationMs": 5040
+      },
+      {
+        "text": "Ahora generaremos un informe de proveedores para visualizar el anticipo",
+        "startMs": 323710,
+        "durationMs": 5080
+      },
+      {
+        "text": "realizado por el señor Jorge Cardona. Recordemos que para su generación",
+        "startMs": 328790,
+        "durationMs": 5399
+      },
+      {
+        "text": "debemos ubicarnos en la pestaña Contabilidad,",
+        "startMs": 334189,
+        "durationMs": 3440
+      },
+      {
+        "text": "Contabilidad, seleccionar en el menú de informes",
+        "startMs": 337629,
+        "durationMs": 5481
+      },
+      {
+        "text": "proveedores e indicar el informe a generar. En este",
+        "startMs": 343110,
+        "durationMs": 3000
+      },
+      {
+        "text": "caso generaremos movimiento de cuentas por pagar.",
+        "startMs": 346110,
+        "durationMs": 5120
+      },
+      {
+        "text": "Dicho informe lo generaremos hasta el 30 de junio, por lo que modificaremos la",
+        "startMs": 351230,
+        "durationMs": 5440
+      },
+      {
+        "text": "fecha final. Para el tercero, Jorge Cardona.",
+        "startMs": 356670,
+        "durationMs": 7200
+      },
+      {
+        "text": "Seleccionar. Para generar el informe haremos un clic",
+        "startMs": 363880,
+        "durationMs": 4149
+      },
+      {
+        "text": "en el botón B reporte. Como podemos observar, el sistema nos ha",
+        "startMs": 368029,
+        "durationMs": 6160
+      },
+      {
+        "text": "generado el informe indicando que hay una cuenta por pagar al señor Jorge",
+        "startMs": 374189,
+        "durationMs": 4881
+      },
+      {
+        "text": "Cardona en la cuenta 2805 de Anticipo Clientes.",
+        "startMs": 379070,
+        "durationMs": 6119
+      },
+      {
+        "text": "Una deuda creada en el comprobante de ingreso 3034",
+        "startMs": 385189,
+        "durationMs": 5241
+      },
+      {
+        "text": "el 6 de junio del 2011 por un valor de 78,000es.",
+        "startMs": 390430,
+        "durationMs": 6680
+      },
+      {
+        "text": "Esto es todo sobre el registro de un anticipo de un cliente mediante la",
+        "startMs": 397120,
+        "durationMs": 4830
+      },
+      {
+        "text": "operación crear crédito o anticipo en el sistema.",
+        "startMs": 401950,
+        "durationMs": 6130
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste vídeo del software contable ContaPyme le indica al usuario como registrar en el sistema anticipos de clientes mediante la operación Crear crédito o anticipo.\nCP40-090-027-010B-020M\n\n## Transcripción\n\nEjemplo uno, anticipo de un cliente. Es importante mencionar que un anticipo\nde un cliente se genera en el momento en el que un cliente realice un adelanto de\ndinero a nuestra empresa por concepto de mercadería aún no entregada o un\nservicio que todavía no se ha prestado. Para este ejemplo registraremos entonces\nun anticipo realizado por el señor Jorge Cardona, el cual nos dio un adelanto de\n78000 pesos para una asesoría financiera que recibirá la próxima semana con\nnuestra empresa. Ubicados en el manejador de operaciones,\ningresaremos a través del botón más operaciones,\noperaciones, proveedores,\nproveedores, donde seleccionaremos la opción crear\ncrédito o anticipo. Como podemos visualizar, el sistema ha\nabierto la operación para registrar la transacción.\ntransacción. Para registrar el anticipo realizado por\nel Sr. Jorge Cardona, lo soportaremos mediante un documento comprobante de\ningreso. Para ello, en el campo tipo documento, ingresaremos a través del\nbotón de búsqueda para seleccionar de la lista el documento requerido.\nEn este caso, el comprobante de ingreso es el documento predeterminado de esta\noperación, por lo que nos indica que el comprobante de ingreso a registrar\ncorresponderá al número 3034. Dicho anticipo se realizó el día 6 de\njunio, por lo que modificaremos la fecha de soporte de la operación.\nY en el detalle de la operación especificaremos una observación de la\ntransacción, por lo que digitaremos anticipo\nanticipo asesoría financiera.\nSeñor Jorge Cardona,\nen el campo cuenta por pagar indicaremos el valor del anticipo, es decir,\nEn el área detalle del crédito o anticipo indicaremos el tercero al cual\ndebemos pagarle dicha deuda. Es muy importante mencionar que esta operación\nse convierte en una deuda hacia el cliente hasta que se le haga la\nrespectiva entrega de la mercancía o se le preste el servicio acordado.\nPara este ejemplo indicaremos que el tercero al cual le debemos es al señor\nSeleccionar.\nEn la cuenta por pagar seleccionaremos la cuenta de anticipos,\nAnticipo de clientes. El sistema estima que la fecha estimada\nde pago son 30 días después del registro del anticipo.\nEsto depende de la configuración que se haya realizado en el momento de crear la\nempresa, por lo que la fecha estimada de pago corresponde al 7 de julio e indica\ntambién una descripción de la cuenta por pagar.\npagar. Para continuar con la operación, hacemos\nclic en el botón siguiente. En el segundo paso de la operación,\ncrear crédito o anticipo, indicaremos en dónde entró el dinero del anticipo a la\nempresa, por lo que ubicados en el campo caja, llevaremos allí el valor de 78000\npesos, empleando el botón de diferencia y seleccionaremos la cuenta caja\n1105. En el caso de que se requiere imprimir\nel soporte físico de la operación, hacemos un clic en el botón imprimir\ny en el campo documento, mediante el botón de búsqueda, seleccionaremos el\ndocumento de impresión requerido. Para este ejemplo visualizaremos el\ncomprobante de ingreso. Vista previa.\nComo podemos observar, el sistema indica que se realizó un anticipo por concepto\nde asesoría financiera al señor Jorge Cardona en el comprobante de ingreso\nnúmero 3034 por un valor de 78,000 pesos, el cual\nentró a nuestra empresa en efectivo. Cerrar.\nPara finalizar la operación, hacemos un clic en el botón autoprocesar\ny aceptar. Como podemos visualizar en el catálogo,\nel comprobante de ingreso número 3034 ha quedado guardado y procesado,\ngenerando así un movimiento contable de nuestra contabilidad.\nAhora generaremos un informe de proveedores para visualizar el anticipo\nrealizado por el señor Jorge Cardona. Recordemos que para su generación\ndebemos ubicarnos en la pestaña Contabilidad,\nContabilidad, seleccionar en el menú de informes\nproveedores e indicar el informe a generar. En este\ncaso generaremos movimiento de cuentas por pagar.\nDicho informe lo generaremos hasta el 30 de junio, por lo que modificaremos la\nfecha final. Para el tercero, Jorge Cardona.\nSeleccionar. Para generar el informe haremos un clic\nen el botón B reporte. Como podemos observar, el sistema nos ha\ngenerado el informe indicando que hay una cuenta por pagar al señor Jorge\nCardona en la cuenta 2805 de Anticipo Clientes.\nUna deuda creada en el comprobante de ingreso 3034\nel 6 de junio del 2011 por un valor de 78,000es.\nEsto es todo sobre el registro de un anticipo de un cliente mediante la\noperación crear crédito o anticipo en el sistema."
+  },
+  "comments": {
+    "fetched": 2,
+    "reportedCount": 2,
+    "items": [
+      {
+        "id": "Ugz4KKF8R6GchM5izMR4AaABAg",
+        "parent": "root",
+        "text": "Pq si es un a anticipo de cliente ingresan x proveedores",
+        "like_count": 0,
+        "author_id": "UC8memw7OYtV9fLn0A9rrmfg",
+        "author": "@barbershopcorteyestilo9742",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2olzbC1VUgywYLYFAPFFqglUt5K3Vp_-M-djbFwI=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@barbershopcorteyestilo9742",
+        "is_favorited": false,
+        "_time_text": "3 years ago",
+        "timestamp": 1685836800,
+        "is_pinned": false
+      },
+      {
+        "id": "UggO8KDq3Y0fXHgCoAEC",
+        "parent": "root",
+        "text": "muy bueno!",
+        "like_count": 0,
+        "author_id": "UCCgCIA02tpPlkg5SnmA5ffg",
+        "author": "@Sebaslr95",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l63Asxjnytpvvax0yE5dl1KOyl-jsJ7MPjx_1PQuCMsomP=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@Sebaslr95",
+        "is_favorited": false,
+        "_time_text": "12 years ago",
+        "timestamp": 1401840000,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 174.868,
+    "asr": 44100,
+    "filesizeApprox": 8886748,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/xmikVHRDddw.md",
+    "json": "videos/2012/xmikVHRDddw.json",
+    "infoJson": "videos/2012/xmikVHRDddw.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

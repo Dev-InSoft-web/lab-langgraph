@@ -1,0 +1,40 @@
+// TK-1431666 · Carga prompts Ultra en BD (MERGE)
+digraph tk1431666_carga_ultra {
+	graph [
+		bgcolor=transparent
+		splines=polyline
+		pad=0.55
+		sep="+22,18"
+		nodesep=0.5
+		ranksep=0.7
+		fontname="Segoe UI"
+		fontsize=10
+		rankdir=TB
+	]
+	node [
+		shape=box
+		style="rounded,filled"
+		margin="0.32,0.16"
+		fillcolor="#8080801A"
+		color="#808080B3"
+		fontcolor="#3A3A3AE6"
+		penwidth=1.15
+	]
+	edge [
+		color="#1E90FFC8"
+		fontcolor="#5C5C5CBF"
+		fontsize=9
+		arrowsize=0.65
+		penwidth=1.15
+		tailclip=true
+		headclip=true
+	]
+
+	OPS [label="Operador / bitácora\nSqlExecCard"]
+	SCR [label="seed-prompts-ultra-\ntdconsulta.sql"]
+	MERGE [label="MERGE INSTRUCCION\n13 tipos Ultra"]
+	LINK [label="MERGE\nTDCONSULTAXINSTRUCCION"]
+	BD [label="AYUDASCP_IA_STAGING", shape=cylinder, fillcolor="#1E90FF28", color="#1E90FFAA", fontcolor="#1E90FFD9"]
+
+	OPS -> SCR -> MERGE -> LINK -> BD
+}

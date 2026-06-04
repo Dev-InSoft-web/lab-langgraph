@@ -1,0 +1,982 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:29:46.809Z",
+  "videoId": "5LpnXW4uL10",
+  "videoUrl": "https://www.youtube.com/watch?v=5LpnXW4uL10",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "5LpnXW4uL10",
+    "title": "Software de contabilidad ContaPyme - Informe de cuadre de caja",
+    "fulltitle": "Software de contabilidad ContaPyme - Informe de cuadre de caja",
+    "description": "http://www.contapyme.com\nGeneración de informe de cuadre de caja y explicación de contenido reportado en el software contable ContaPyme.\nCP40-150-070-050B",
+    "duration": 615,
+    "duration_string": "10:15",
+    "upload_date": "20120503",
+    "timestamp": 1336055069,
+    "view_count": 3170,
+    "like_count": 8,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/5LpnXW4uL10/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgTShyMA8=&rs=AOn4CLBLpbv2o_bOiVapY3ZKRT0mmG1giQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARg1IE0ocjAP&rs=AOn4CLAZeNnGeQgdn0SMJ2jq7_oEBD33iA",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgTShyMA8=&rs=AOn4CLD5k-GnEO9BWmRbR47X33PptTuEIw",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDUgTShyMA8=&rs=AOn4CLBUiQLH5_JokChflgOgwNYrolt1UA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDUgTShyMA8=&rs=AOn4CLDZSLr2DEBfOSCU-mWw1jzsJdIY5A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARg1IE0ocjAP&rs=AOn4CLD8bJcu9vbGDmv3-k6d4RUoFVA8sg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARg1IE0ocjAP&rs=AOn4CLAgjVE_zkUOuJGc-6s88hUse3G3hg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgTShyMA8=&rs=AOn4CLDTLqNl9oL5p8MgI3FGP8-zeTisiw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgTShyMA8=&rs=AOn4CLBLpbv2o_bOiVapY3ZKRT0mmG1giQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5LpnXW4uL10/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5LpnXW4uL10/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=5LpnXW4uL10",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.16260162601626016,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2016260162601626,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2016260162601626,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.2016260162601626,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 197.661,
+        "asr": 44100,
+        "filesize_approx": 15201588,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software de contabilidad ContaPyme - Informe de cuadre de caja",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/5LpnXW4uL10/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/5LpnXW4uL10?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software de contabilidad ContaPyme - Informe de cuadre de caja\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 110,
+    "transcriptChars": 7510,
+    "segments": [
+      {
+        "text": "informe de cuadre de caja configuración del usuario cajero en la operación de",
+        "startMs": 919,
+        "durationMs": 5151
+      },
+      {
+        "text": "consiste en el análisis de las transacciones del efectivo durante un",
+        "startMs": 11589,
+        "durationMs": 4680
+      },
+      {
+        "text": "lapso determinado o un turno con el objeto de comprobar si se ha",
+        "startMs": 16269,
+        "durationMs": 5760
+      },
+      {
+        "text": "contabilizado todo el efectivo recibido y por tanto el saldo que arroja esta",
+        "startMs": 22029,
+        "durationMs": 5361
+      },
+      {
+        "text": "cuenta corresponde con lo que se encuentra físicamente en caja en dinero",
+        "startMs": 27390,
+        "durationMs": 6280
+      },
+      {
+        "text": "in efectivo cheques",
+        "startMs": 33670,
+        "durationMs": 2399
+      },
+      {
+        "text": "ovales sirve también para saber si los controles internos se están llevando",
+        "startMs": 36069,
+        "durationMs": 6960
+      },
+      {
+        "text": "adecuadamente esta operación es realizada diariamente por el cajero los",
+        "startMs": 43029,
+        "durationMs": 5520
+      },
+      {
+        "text": "auditores o ejecutivos asignados para ello suelen efectuar arqueos de caja en",
+        "startMs": 48549,
+        "durationMs": 5961
+      },
+      {
+        "text": "fechas no previstas por el cajero para verificar y consolidar la",
+        "startMs": 54510,
+        "durationMs": 7160
+      },
+      {
+        "text": "reportada miremos dentro del sistema contapyme que una vez que se Inicia",
+        "startMs": 61670,
+        "durationMs": 5960
+      },
+      {
+        "text": "sesión con el usuario cajero y Se le indica la base monetaria del turno",
+        "startMs": 67630,
+        "durationMs": 6600
+      },
+      {
+        "text": "digámosle en este caso 400000 y digamos aceptar el cajero debe empezar a",
+        "startMs": 74230,
+        "durationMs": 7559
+      },
+      {
+        "text": "registrar las operaciones de ventas que surgen durante el",
+        "startMs": 81789,
+        "durationMs": 4161
+      },
+      {
+        "text": "día si el cajero solo tiene permisos para facturas entonces en el informe de",
+        "startMs": 85950,
+        "durationMs": 6600
+      },
+      {
+        "text": "cuadre de caja no se van a reportar salidas de dinero sino solo entradas de",
+        "startMs": 6070,
+        "durationMs": 92600
+      },
+      {
+        "text": "plata correspondientes a los pagos de las facturas de los clientes pero si el",
+        "startMs": 98670,
+        "durationMs": 5560
+      },
+      {
+        "text": "usuario cajero tiene permisos para registrar ventas y adicionalmente",
+        "startMs": 104230,
+        "durationMs": 4680
+      },
+      {
+        "text": "también tiene permisos para registrar abonos a cuentas por cobrar y abonos a",
+        "startMs": 108910,
+        "durationMs": 5799
+      },
+      {
+        "text": "cuentas por pagar asentar gastos y pagos en el informe de cuadre de caja se van a",
+        "startMs": 114709,
+        "durationMs": 6121
+      },
+      {
+        "text": "reportar entradas y salidas de dinero en efectivo de la caja por lo tanto se hace",
+        "startMs": 120830,
+        "durationMs": 6000
+      },
+      {
+        "text": "un proceso de sumas y restas para consolidar el saldo al final del",
+        "startMs": 126830,
+        "durationMs": 5920
+      },
+      {
+        "text": "turno para generar el informe se ingresa en la cinta de opciones por la pestaña",
+        "startMs": 132750,
+        "durationMs": 6720
+      },
+      {
+        "text": "de inventarios se ingresa por el menú",
+        "startMs": 139470,
+        "durationMs": 3399
+      },
+      {
+        "text": "informes dentro de la opción de ventas encontramos los informes de cuadre de",
+        "startMs": 142869,
+        "durationMs": 7801
+      },
+      {
+        "text": "caja allí encontramos dos",
+        "startMs": 150670,
+        "durationMs": 3600
+      },
+      {
+        "text": "opciones el primer formato informe de cuadre de",
+        "startMs": 154270,
+        "durationMs": 3879
+      },
+      {
+        "text": "caja permite ser generado para imprimirlo en una impresora láser matriz",
+        "startMs": 158149,
+        "durationMs": 5720
+      },
+      {
+        "text": "de punto inyección de tinta etcétera el segundo formato permite ser",
+        "startMs": 163869,
+        "durationMs": 6360
+      },
+      {
+        "text": "generado para ser impreso en una impresora de punto de venta en una",
+        "startMs": 170229,
+        "durationMs": 4761
+      },
+      {
+        "text": "impresora que imprima en formato tirilla como ambos presentan la misma",
+        "startMs": 174990,
+        "durationMs": 5720
+      },
+      {
+        "text": "información vamos a consultar el primero informe de cuadre de caja demos clic en",
+        "startMs": 180710,
+        "durationMs": 5640
+      },
+      {
+        "text": "él y analicemos su información Presenta una opción para",
+        "startMs": 186350,
+        "durationMs": 4720
+      },
+      {
+        "text": "activar o desactivar el cuadre de caja por",
+        "startMs": 191070,
+        "durationMs": 3799
+      },
+      {
+        "text": "por turnos supongamos que durante el día",
+        "startMs": 194869,
+        "durationMs": 2601
+      },
+      {
+        "text": "varios cajeros trabajan en turnos sobre la misma caja al Desactivar esta opción",
+        "startMs": 197470,
+        "durationMs": 4960
+      },
+      {
+        "text": "el sistema mostrará el total del día si la activa el sistema permitirá generar",
+        "startMs": 202430,
+        "durationMs": 10079
+      },
+      {
+        "text": "equipo Allí se debe seleccionar el computador o el equipo del cual se va a",
+        "startMs": 212519,
+        "durationMs": 6710
+      },
+      {
+        "text": "generar el informe de cuadre de caja pues en una empresa pueden haber",
+        "startMs": 219229,
+        "durationMs": 5881
+      },
+      {
+        "text": "diferentes computadores destinados a la facturación por lo tanto es importante",
+        "startMs": 225110,
+        "durationMs": 4759
+      },
+      {
+        "text": "identificar de cuál máquina se va a imprimir el",
+        "startMs": 229869,
+        "durationMs": 6961
+      },
+      {
+        "text": "reporte usuario se debe escoger a a cuá usuario",
+        "startMs": 236830,
+        "durationMs": 4239
+      },
+      {
+        "text": "cajero se le va a imprimir el reporte de cuadre de",
+        "startMs": 241069,
+        "durationMs": 3561
+      },
+      {
+        "text": "caja si en la empresa solo es un usuario cajero en el listado siempre se mostrará",
+        "startMs": 244630,
+        "durationMs": 5720
+      },
+      {
+        "text": "el mismo usuario Pero si son varios cajeros los que se encargan de facturar",
+        "startMs": 250350,
+        "durationMs": 5560
+      },
+      {
+        "text": "Al momento de imprimir el reporte se debe indicar A cuál usuario en",
+        "startMs": 255910,
+        "durationMs": 4480
+      },
+      {
+        "text": "particular se le va a realizar el cuadre de",
+        "startMs": 260390,
+        "durationMs": 3359
+      },
+      {
+        "text": "de caja turno en este campo el sistema",
+        "startMs": 263749,
+        "durationMs": 3681
+      },
+      {
+        "text": "muestra todos los turnos que se han generado dadoo para el usuario y el",
+        "startMs": 267430,
+        "durationMs": 3720
+      },
+      {
+        "text": "equipo seleccionados en los campos superiores Como cada día o cada cierta",
+        "startMs": 271150,
+        "durationMs": 6520
+      },
+      {
+        "text": "cantidad de horas se puede generar un turno el sistema permite imprimir la",
+        "startMs": 277670,
+        "durationMs": 4040
+      },
+      {
+        "text": "información de cada turno fácilmente también muestra la fecha las horas de",
+        "startMs": 281710,
+        "durationMs": 7360
+      },
+      {
+        "text": "inicio y finalización del turno para poder generar el informe de una manera",
+        "startMs": 289070,
+        "durationMs": 4880
+      },
+      {
+        "text": "concisa además si ese usuario tiene un turno abierto también lo muestra allí en",
+        "startMs": 293950,
+        "durationMs": 7160
+      },
+      {
+        "text": "el listado base de caja en este campo el",
+        "startMs": 301110,
+        "durationMs": 4040
+      },
+      {
+        "text": "sistema presenta el valor en efectivo con el que el usuario cajero inició el",
+        "startMs": 305150,
+        "durationMs": 6200
+      },
+      {
+        "text": "turno seleccionado generemos el informe con",
+        "startMs": 311350,
+        "durationMs": 3360
+      },
+      {
+        "text": "estas configuraciones y posteriormente",
+        "startMs": 314710,
+        "durationMs": 2240
+      },
+      {
+        "text": "analicemos las demás opciones que se presentan en la parte inferior digamos",
+        "startMs": 316950,
+        "durationMs": 4920
+      },
+      {
+        "text": "entonces ver reporte miremos como el sistema muestra",
+        "startMs": 321870,
+        "durationMs": 5520
+      },
+      {
+        "text": "todas las transacciones realizadas durante el turno muestra un resumen de",
+        "startMs": 327390,
+        "durationMs": 6840
+      },
+      {
+        "text": "impuestos y un resumen de las formas de pago Además de que presenta el reporte",
+        "startMs": 334230,
+        "durationMs": 6360
+      },
+      {
+        "text": "oficial del cuadre de efectivo en la caja el cual contempla todos los dineros",
+        "startMs": 340590,
+        "durationMs": 6640
+      },
+      {
+        "text": "recibidos en efectivo más el valor base con el que el cajero inició el turno",
+        "startMs": 347230,
+        "durationMs": 5360
+      },
+      {
+        "text": "podemos analizarlo también en la siguiente hoja y allí nos muestra Cuánto",
+        "startMs": 352590,
+        "durationMs": 4439
+      },
+      {
+        "text": "es el valor en efectivo que se debe tener allí en la la",
+        "startMs": 357029,
+        "durationMs": 3481
+      },
+      {
+        "text": "caja ahora bien indiquemos en la cinta de opciones la opción ver datos para",
+        "startMs": 360510,
+        "durationMs": 7600
+      },
+      {
+        "text": "analizar las demás opciones que se tienen para la generación de este",
+        "startMs": 368110,
+        "durationMs": 5720
+      },
+      {
+        "text": "informe opción de ver detalle de documentos registrados con sus",
+        "startMs": 373830,
+        "durationMs": 5720
+      },
+      {
+        "text": "valores al activar esta opción el sistema relaciona todos los documentos",
+        "startMs": 379550,
+        "durationMs": 5240
+      },
+      {
+        "text": "registrados durante el turno o la fecha de cálculo por cada documento se",
+        "startMs": 384790,
+        "durationMs": 6640
+      },
+      {
+        "text": "discrimina el valor bruto valor de descuento valor de IVA retención y el",
+        "startMs": 391430,
+        "durationMs": 6840
+      },
+      {
+        "text": "valor neto pagado o recibido en la transacción ver detalle de pagos en",
+        "startMs": 398270,
+        "durationMs": 7039
+      },
+      {
+        "text": "transacciones bancarias créditos y bonos al activar esta opción el sistema",
+        "startMs": 405309,
+        "durationMs": 7081
+      },
+      {
+        "text": "relaciona y detalla todas las transacciones realizadas diferentes a",
+        "startMs": 412390,
+        "durationMs": 5000
+      },
+      {
+        "text": "pagos en efectivo como facturación o pagos con",
+        "startMs": 417390,
+        "durationMs": 4120
+      },
+      {
+        "text": "bancos con cuentas por cobrar o cruces de deudas llamadas",
+        "startMs": 421510,
+        "durationMs": 6799
+      },
+      {
+        "text": "amortizaciones generar informe con base en la fecha de soporte de las",
+        "startMs": 428309,
+        "durationMs": 7121
+      },
+      {
+        "text": "operaciones normalmente el informe de cuadre de caja se calcula tomando las",
+        "startMs": 435430,
+        "durationMs": 5240
+      },
+      {
+        "text": "operaciones creadas durante el turno sin importar la fecha de soporte o durante",
+        "startMs": 440670,
+        "durationMs": 5600
+      },
+      {
+        "text": "la fecha de cálculo si es que no se manejan T",
+        "startMs": 446270,
+        "durationMs": 4400
+      },
+      {
+        "text": "sin embargo es posible que se requiera generar este informe para las",
+        "startMs": 450670,
+        "durationMs": 4880
+      },
+      {
+        "text": "operaciones cuya fecha de soporte esté dentro del turno o en la fecha de",
+        "startMs": 455550,
+        "durationMs": 8039
+      },
+      {
+        "text": "cálculo ocultar explicación de cada componente del",
+        "startMs": 463589,
+        "durationMs": 5841
+      },
+      {
+        "text": "informe debajo de los títulos de agrupación de cada una de las",
+        "startMs": 469430,
+        "durationMs": 4719
+      },
+      {
+        "text": "características configurables en el informe se genera una serie de",
+        "startMs": 474149,
+        "durationMs": 4281
+      },
+      {
+        "text": "explicaciones que permiten analizar la información presentada es decir un",
+        "startMs": 478430,
+        "durationMs": 10199
+      },
+      {
+        "text": "reportados calidad borrador si en la empresa se está utilizando una impresora",
+        "startMs": 488639,
+        "durationMs": 5711
+      },
+      {
+        "text": "matriz de punto el sistema permite imprimir el reporte con un diseño",
+        "startMs": 494350,
+        "durationMs": 8239
+      },
+      {
+        "text": "impresoras visualizar la fecha y hora en el pie de",
+        "startMs": 502599,
+        "durationMs": 5831
+      },
+      {
+        "text": "página al activarlo el sistema imprime al final del reporte la fecha y la hora",
+        "startMs": 508430,
+        "durationMs": 7039
+      },
+      {
+        "text": "exacta en la que se generó el informe es muy útil tenerlo activado para así",
+        "startMs": 515469,
+        "durationMs": 5641
+      },
+      {
+        "text": "llevar un control de la impresión del cuadre de",
+        "startMs": 521110,
+        "durationMs": 4440
+      },
+      {
+        "text": "caja activemos algunas opciones e imprimamos nuevamente el informe para",
+        "startMs": 525550,
+        "durationMs": 5959
+      },
+      {
+        "text": "que analicemos có el sistema relación a los documentos registrados digámosle",
+        "startMs": 531509,
+        "durationMs": 6921
+      },
+      {
+        "text": "recalcular y vemos como el sistema muestra el",
+        "startMs": 538440,
+        "durationMs": 3750
+      },
+      {
+        "text": "detalle de los documentos registrados con sus valor bruto valor de IVA si hay",
+        "startMs": 542190,
+        "durationMs": 4960
+      },
+      {
+        "text": "retención y el valor neto también muestra un resumen de los impuestos y",
+        "startMs": 547150,
+        "durationMs": 6080
+      },
+      {
+        "text": "también muestra un detalle si podemos ampliarle un poco a la resolución del",
+        "startMs": 553230,
+        "durationMs": 6159
+      },
+      {
+        "text": "informe podemos analizar que allí se muestra un resumen de cada uno de estos",
+        "startMs": 559389,
+        "durationMs": 6321
+      },
+      {
+        "text": "subtítulos o ítems además también muestra la fecha y",
+        "startMs": 565710,
+        "durationMs": 5799
+      },
+      {
+        "text": "la hora en el pie de página Al momento de generar o imprimir este",
+        "startMs": 571509,
+        "durationMs": 5401
+      },
+      {
+        "text": "reporte ya es decisión de cada usuario analizar qué opción activa o Desactiva",
+        "startMs": 576910,
+        "durationMs": 6599
+      },
+      {
+        "text": "en el reporte para que se imprima o no cierta",
+        "startMs": 583509,
+        "durationMs": 3721
+      },
+      {
+        "text": "cierta información pero recordemos que en",
+        "startMs": 587230,
+        "durationMs": 2520
+      },
+      {
+        "text": "cualquier momento si deseamos generar el informe de cuadre de caja debemos",
+        "startMs": 589750,
+        "durationMs": 4680
+      },
+      {
+        "text": "ingresar por la cinta de opciones al menú de inventarios dentro de los",
+        "startMs": 594430,
+        "durationMs": 5000
+      },
+      {
+        "text": "informes en ventas encontramos el informe de cuadre de caja formato para",
+        "startMs": 599430,
+        "durationMs": 5800
+      },
+      {
+        "text": "impresión de impresora normal o para impresora de",
+        "startMs": 605230,
+        "durationMs": 4279
+      },
+      {
+        "text": "tirilla esto es todo acerca de informe de cuadre de caja",
+        "startMs": 609509,
+        "durationMs": 7651
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nGeneración de informe de cuadre de caja y explicación de contenido reportado en el software contable ContaPyme.\nCP40-150-070-050B\n\n## Transcripción\n\ninforme de cuadre de caja configuración del usuario cajero en la operación de\nconsiste en el análisis de las transacciones del efectivo durante un\nlapso determinado o un turno con el objeto de comprobar si se ha\ncontabilizado todo el efectivo recibido y por tanto el saldo que arroja esta\ncuenta corresponde con lo que se encuentra físicamente en caja en dinero\nin efectivo cheques\novales sirve también para saber si los controles internos se están llevando\nadecuadamente esta operación es realizada diariamente por el cajero los\nauditores o ejecutivos asignados para ello suelen efectuar arqueos de caja en\nfechas no previstas por el cajero para verificar y consolidar la\nreportada miremos dentro del sistema contapyme que una vez que se Inicia\nsesión con el usuario cajero y Se le indica la base monetaria del turno\ndigámosle en este caso 400000 y digamos aceptar el cajero debe empezar a\nregistrar las operaciones de ventas que surgen durante el\ndía si el cajero solo tiene permisos para facturas entonces en el informe de\ncuadre de caja no se van a reportar salidas de dinero sino solo entradas de\nplata correspondientes a los pagos de las facturas de los clientes pero si el\nusuario cajero tiene permisos para registrar ventas y adicionalmente\ntambién tiene permisos para registrar abonos a cuentas por cobrar y abonos a\ncuentas por pagar asentar gastos y pagos en el informe de cuadre de caja se van a\nreportar entradas y salidas de dinero en efectivo de la caja por lo tanto se hace\nun proceso de sumas y restas para consolidar el saldo al final del\nturno para generar el informe se ingresa en la cinta de opciones por la pestaña\nde inventarios se ingresa por el menú\ninformes dentro de la opción de ventas encontramos los informes de cuadre de\ncaja allí encontramos dos\nopciones el primer formato informe de cuadre de\ncaja permite ser generado para imprimirlo en una impresora láser matriz\nde punto inyección de tinta etcétera el segundo formato permite ser\ngenerado para ser impreso en una impresora de punto de venta en una\nimpresora que imprima en formato tirilla como ambos presentan la misma\ninformación vamos a consultar el primero informe de cuadre de caja demos clic en\nél y analicemos su información Presenta una opción para\nactivar o desactivar el cuadre de caja por\npor turnos supongamos que durante el día\nvarios cajeros trabajan en turnos sobre la misma caja al Desactivar esta opción\nel sistema mostrará el total del día si la activa el sistema permitirá generar\nequipo Allí se debe seleccionar el computador o el equipo del cual se va a\ngenerar el informe de cuadre de caja pues en una empresa pueden haber\ndiferentes computadores destinados a la facturación por lo tanto es importante\nidentificar de cuál máquina se va a imprimir el\nreporte usuario se debe escoger a a cuá usuario\ncajero se le va a imprimir el reporte de cuadre de\ncaja si en la empresa solo es un usuario cajero en el listado siempre se mostrará\nel mismo usuario Pero si son varios cajeros los que se encargan de facturar\nAl momento de imprimir el reporte se debe indicar A cuál usuario en\nparticular se le va a realizar el cuadre de\nde caja turno en este campo el sistema\nmuestra todos los turnos que se han generado dadoo para el usuario y el\nequipo seleccionados en los campos superiores Como cada día o cada cierta\ncantidad de horas se puede generar un turno el sistema permite imprimir la\ninformación de cada turno fácilmente también muestra la fecha las horas de\ninicio y finalización del turno para poder generar el informe de una manera\nconcisa además si ese usuario tiene un turno abierto también lo muestra allí en\nel listado base de caja en este campo el\nsistema presenta el valor en efectivo con el que el usuario cajero inició el\nturno seleccionado generemos el informe con\nestas configuraciones y posteriormente\nanalicemos las demás opciones que se presentan en la parte inferior digamos\nentonces ver reporte miremos como el sistema muestra\ntodas las transacciones realizadas durante el turno muestra un resumen de\nimpuestos y un resumen de las formas de pago Además de que presenta el reporte\noficial del cuadre de efectivo en la caja el cual contempla todos los dineros\nrecibidos en efectivo más el valor base con el que el cajero inició el turno\npodemos analizarlo también en la siguiente hoja y allí nos muestra Cuánto\nes el valor en efectivo que se debe tener allí en la la\ncaja ahora bien indiquemos en la cinta de opciones la opción ver datos para\nanalizar las demás opciones que se tienen para la generación de este\ninforme opción de ver detalle de documentos registrados con sus\nvalores al activar esta opción el sistema relaciona todos los documentos\nregistrados durante el turno o la fecha de cálculo por cada documento se\ndiscrimina el valor bruto valor de descuento valor de IVA retención y el\nvalor neto pagado o recibido en la transacción ver detalle de pagos en\ntransacciones bancarias créditos y bonos al activar esta opción el sistema\nrelaciona y detalla todas las transacciones realizadas diferentes a\npagos en efectivo como facturación o pagos con\nbancos con cuentas por cobrar o cruces de deudas llamadas\namortizaciones generar informe con base en la fecha de soporte de las\noperaciones normalmente el informe de cuadre de caja se calcula tomando las\noperaciones creadas durante el turno sin importar la fecha de soporte o durante\nla fecha de cálculo si es que no se manejan T\nsin embargo es posible que se requiera generar este informe para las\noperaciones cuya fecha de soporte esté dentro del turno o en la fecha de\ncálculo ocultar explicación de cada componente del\ninforme debajo de los títulos de agrupación de cada una de las\ncaracterísticas configurables en el informe se genera una serie de\nexplicaciones que permiten analizar la información presentada es decir un\nreportados calidad borrador si en la empresa se está utilizando una impresora\nmatriz de punto el sistema permite imprimir el reporte con un diseño\nimpresoras visualizar la fecha y hora en el pie de\npágina al activarlo el sistema imprime al final del reporte la fecha y la hora\nexacta en la que se generó el informe es muy útil tenerlo activado para así\nllevar un control de la impresión del cuadre de\ncaja activemos algunas opciones e imprimamos nuevamente el informe para\nque analicemos có el sistema relación a los documentos registrados digámosle\nrecalcular y vemos como el sistema muestra el\ndetalle de los documentos registrados con sus valor bruto valor de IVA si hay\nretención y el valor neto también muestra un resumen de los impuestos y\ntambién muestra un detalle si podemos ampliarle un poco a la resolución del\ninforme podemos analizar que allí se muestra un resumen de cada uno de estos\nsubtítulos o ítems además también muestra la fecha y\nla hora en el pie de página Al momento de generar o imprimir este\nreporte ya es decisión de cada usuario analizar qué opción activa o Desactiva\nen el reporte para que se imprima o no cierta\ncierta información pero recordemos que en\ncualquier momento si deseamos generar el informe de cuadre de caja debemos\ningresar por la cinta de opciones al menú de inventarios dentro de los\ninformes en ventas encontramos el informe de cuadre de caja formato para\nimpresión de impresora normal o para impresora de\ntirilla esto es todo acerca de informe de cuadre de caja"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 197.661,
+    "asr": 44100,
+    "filesizeApprox": 15201588,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/5LpnXW4uL10.md",
+    "json": "videos/2012/5LpnXW4uL10.json",
+    "infoJson": "videos/2012/5LpnXW4uL10.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

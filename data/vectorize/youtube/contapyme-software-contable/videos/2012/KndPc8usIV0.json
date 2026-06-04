@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:34:37.564Z",
+  "videoId": "KndPc8usIV0",
+  "videoUrl": "https://www.youtube.com/watch?v=KndPc8usIV0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "KndPc8usIV0",
+    "title": "Programa contable ContaPyme - Configuración de la precisión de decimales de impuestos",
+    "fulltitle": "Programa contable ContaPyme - Configuración de la precisión de decimales de impuestos",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta como configurar la precision de decimales del valor de impuestos y retenciones solo para la operacion de venta que necesitemos.\nCP40-130-060-030B-035A",
+    "duration": 207,
+    "duration_string": "3:27",
+    "upload_date": "20120124",
+    "timestamp": 1327429907,
+    "view_count": 1252,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/KndPc8usIV0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogTyh_MA8=&rs=AOn4CLA22T2Ujc_bm3icudZh0Mbu29_vaQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgqIE8ofzAP&rs=AOn4CLAVsWs53LMYn5f0iWgKaY-9WGcOVw",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogTyh_MA8=&rs=AOn4CLAznMeHJFhy1zLPZtOeYuAAQNoFdA",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCogTyh_MA8=&rs=AOn4CLBJcmcm88NCOFsiXfz9k7i18NaKug",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCogTyh_MA8=&rs=AOn4CLAlVW9bzwFNGWOb25bpIkr5XYN4ew",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgqIE8ofzAP&rs=AOn4CLDDEJxXJ38SJx17osnUVfxKfN5YvQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgqIE8ofzAP&rs=AOn4CLA4bP4iEWNDFejqlTD64lmFu0aWgg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogTyh_MA8=&rs=AOn4CLA-NjdiUKyyspA0IkewY4kUVVN4Pg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCogTyh_MA8=&rs=AOn4CLA22T2Ujc_bm3icudZh0Mbu29_vaQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/KndPc8usIV0/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/KndPc8usIV0/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=KndPc8usIV0",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.4830917874396135,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5072463768115942,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5072463768115942,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.5072463768115942,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 217.028,
+        "asr": 44100,
+        "filesize_approx": 5625826,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Programa contable ContaPyme - Configuración de la precisión de decimales de impuestos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/KndPc8usIV0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/KndPc8usIV0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Programa contable ContaPyme - Configuración de la precisión de decimales de impuestos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 29,
+    "transcriptChars": 2214,
+    "segments": [
+      {
+        "text": "de facturación y venta una operación de facturación y",
+        "startMs": 5070,
+        "durationMs": 5360
+      },
+      {
+        "text": "venta la podemos configurar para utilizar decimales en el valor del",
+        "startMs": 10430,
+        "durationMs": 4480
+      },
+      {
+        "text": "impuesto y retenciones solo en esa operación ya que se nos puede presentar",
+        "startMs": 14910,
+        "durationMs": 5519
+      },
+      {
+        "text": "el caso de que necesitemos utilizar decimales solo una vez sin afectar la",
+        "startMs": 20429,
+        "durationMs": 5721
+      },
+      {
+        "text": "configuración de las demás operaciones de venta que sigamos regist",
+        "startMs": 26150,
+        "durationMs": 5279
+      },
+      {
+        "text": "antes de realizar dicha configuración ya tenemos una operación de venta con datos",
+        "startMs": 31429,
+        "durationMs": 5041
+      },
+      {
+        "text": "de impuestos seleccionamos un",
+        "startMs": 41709,
+        "durationMs": 10201
+      },
+      {
+        "text": "concepto activamos la opción para indicar el",
+        "startMs": 51920,
+        "durationMs": 11309
+      },
+      {
+        "text": "decimales y podemos visualizar que el sistema nos aproxima el valor del",
+        "startMs": 63239,
+        "durationMs": 4910
+      },
+      {
+        "text": "decimales de impuestos en la operación seleccionamos opciones que se encuentran",
+        "startMs": 719,
+        "durationMs": 77511
+      },
+      {
+        "text": "en el menú superior seleccionamos la opción de precisión de decimales para",
+        "startMs": 78230,
+        "durationMs": 5320
+      },
+      {
+        "text": "liquidación de impuestos podemos visualizar que nos Abre una caja de",
+        "startMs": 36470,
+        "durationMs": 51560
+      },
+      {
+        "text": "diálogo donde nos pregunta el número de decimales en este caso vamos a indicar",
+        "startMs": 88030,
+        "durationMs": 5480
+      },
+      {
+        "text": "el dos y damos clic en Ok el sistema nos muestra en pantalla un mensaje",
+        "startMs": 93510,
+        "durationMs": 6599
+      },
+      {
+        "text": "informándonos que la precisión de decimales para el precio de venta y para",
+        "startMs": 100109,
+        "durationMs": 4721
+      },
+      {
+        "text": "la liquidación de impuestos deben ser iguales Por tal motivo nos indica que a",
+        "startMs": 104830,
+        "durationMs": 5000
+      },
+      {
+        "text": "la precisión de decimales para el precio de venta también le asigno el dos damos",
+        "startMs": 68149,
+        "durationMs": 46841
+      },
+      {
+        "text": "clic en aceptar Y si digitamos nuevamente el valor del concepto",
+        "startMs": 114990,
+        "durationMs": 9600
+      },
+      {
+        "text": "decimales podemos visualizar que el sistema ya no realiza la aproximación y",
+        "startMs": 124600,
+        "durationMs": 5190
+      },
+      {
+        "text": "Deja los decimales que le indicamos digitamos los demás datos de la",
+        "startMs": 129790,
+        "durationMs": 9439
+      },
+      {
+        "startMs": 139239,
+        "durationMs": 5111,
+        "text": "operación procesamos y guardamos la"
+      },
+      {
+        "text": "operación si registramos una nueva operación de venta",
+        "startMs": 144360,
+        "durationMs": 16630
+      },
+      {
+        "text": "en El Paso de liquidación de impuestos y retenciones seleccionamos el",
+        "startMs": 161000,
+        "durationMs": 13670
+      },
+      {
+        "text": "concepto habilitamos para indicar el valor",
+        "startMs": 174680,
+        "durationMs": 6629
+      },
+      {
+        "text": "indicamos el valor con decimales y podemos visualizar que el",
+        "startMs": 181319,
+        "durationMs": 5591
+      },
+      {
+        "text": "sistema aproxima nuevamente el valor ya que recordemos que la configuración de",
+        "startMs": 186910,
+        "durationMs": 5120
+      },
+      {
+        "text": "la precisión de decimales de los impuestos es solo para la operación en",
+        "startMs": 192030,
+        "durationMs": 4880
+      },
+      {
+        "text": "la cual se la configuremos esto es todo sobre configuración de la precisión de",
+        "startMs": 196910,
+        "durationMs": 5760
+      },
+      {
+        "text": "decimales de impuestos en la operación de facturación y venta",
+        "startMs": 202670,
+        "durationMs": 6569
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta como configurar la precision de decimales del valor de impuestos y retenciones solo para la operacion de venta que necesitemos.\nCP40-130-060-030B-035A\n\n## Transcripción\n\nde facturación y venta una operación de facturación y\nventa la podemos configurar para utilizar decimales en el valor del\nimpuesto y retenciones solo en esa operación ya que se nos puede presentar\nel caso de que necesitemos utilizar decimales solo una vez sin afectar la\nconfiguración de las demás operaciones de venta que sigamos regist\nantes de realizar dicha configuración ya tenemos una operación de venta con datos\nde impuestos seleccionamos un\nconcepto activamos la opción para indicar el\ndecimales y podemos visualizar que el sistema nos aproxima el valor del\ndecimales de impuestos en la operación seleccionamos opciones que se encuentran\nen el menú superior seleccionamos la opción de precisión de decimales para\nliquidación de impuestos podemos visualizar que nos Abre una caja de\ndiálogo donde nos pregunta el número de decimales en este caso vamos a indicar\nel dos y damos clic en Ok el sistema nos muestra en pantalla un mensaje\ninformándonos que la precisión de decimales para el precio de venta y para\nla liquidación de impuestos deben ser iguales Por tal motivo nos indica que a\nla precisión de decimales para el precio de venta también le asigno el dos damos\nclic en aceptar Y si digitamos nuevamente el valor del concepto\ndecimales podemos visualizar que el sistema ya no realiza la aproximación y\nDeja los decimales que le indicamos digitamos los demás datos de la\noperación procesamos y guardamos la\noperación si registramos una nueva operación de venta\nen El Paso de liquidación de impuestos y retenciones seleccionamos el\nconcepto habilitamos para indicar el valor\nindicamos el valor con decimales y podemos visualizar que el\nsistema aproxima nuevamente el valor ya que recordemos que la configuración de\nla precisión de decimales de los impuestos es solo para la operación en\nla cual se la configuremos esto es todo sobre configuración de la precisión de\ndecimales de impuestos en la operación de facturación y venta"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 217.028,
+    "asr": 44100,
+    "filesizeApprox": 5625826,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/KndPc8usIV0.md",
+    "json": "videos/2012/KndPc8usIV0.json",
+    "infoJson": "videos/2012/KndPc8usIV0.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

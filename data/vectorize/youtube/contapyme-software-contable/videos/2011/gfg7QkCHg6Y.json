@@ -1,0 +1,783 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:39:54.900Z",
+  "videoId": "gfg7QkCHg6Y",
+  "videoUrl": "https://www.youtube.com/watch?v=gfg7QkCHg6Y",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "gfg7QkCHg6Y",
+    "title": "Programa de contabilidad ContaPyme - Ejemplo 2  - Pago servicios publicos",
+    "fulltitle": "Programa de contabilidad ContaPyme - Ejemplo 2  - Pago servicios publicos",
+    "description": "http://www.contapyme.com\nEste video del software contable ContaPyme ilustra la forma en la que el usuario podrá registrar en su contabilidad el pago de los servicios públicos de la empresa, empleando la operación de movimiento contable.\nCP40-020-020-010B-050M",
+    "duration": 462,
+    "duration_string": "7:42",
+    "upload_date": "20111031",
+    "timestamp": 1320068890,
+    "view_count": 5882,
+    "like_count": 7,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "contabilidad basica",
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/gfg7QkCHg6Y/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC0gTCh_MA8=&rs=AOn4CLBAEWNQli3TLuia3VV0Z7kDgRI97A",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgtIEwofzAP&rs=AOn4CLB6lbUm0UJw9QW3cIKhReNJ4vNzVQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC0gTCh_MA8=&rs=AOn4CLD9vynLr87WT5jwePLftqzLF4dUVg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC0gTCh_MA8=&rs=AOn4CLAkCKqPaHS8i-_Bj3BzjHSHInz2Bw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC0gTCh_MA8=&rs=AOn4CLCVJqSCLmYmd0cXOa_QNzTSukt2OQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgtIEwofzAP&rs=AOn4CLDtjhTgetytiUX2GPvR8G1UW5PhTg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgtIEwofzAP&rs=AOn4CLDjiPJiBpnC4LF5-zNk1n09eLiDug",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC0gTCh_MA8=&rs=AOn4CLBhAeALIwaJh_0t6zWQfI_Oi68EXg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC0gTCh_MA8=&rs=AOn4CLBAEWNQli3TLuia3VV0Z7kDgRI97A",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/gfg7QkCHg6Y/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=gfg7QkCHg6Y",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.21645021645021645,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20346320346320346,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20346320346320346,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20346320346320346,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 206.079,
+        "asr": 44100,
+        "filesize_approx": 11899439,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Programa de contabilidad ContaPyme - Ejemplo 2  - Pago servicios publicos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/gfg7QkCHg6Y/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/gfg7QkCHg6Y?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Programa de contabilidad ContaPyme - Ejemplo 2  - Pago servicios publicos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 70,
+    "transcriptChars": 4741,
+    "segments": [
+      {
+        "text": "ejemplo dos operación de movimiento contable pago de servicios públicos",
+        "startMs": 680,
+        "durationMs": 5830
+      },
+      {
+        "text": "antes de visualizar este video se recomienda haber visto el video",
+        "startMs": 6510,
+        "durationMs": 4280
+      },
+      {
+        "text": "operación de movimiento contable en este ejemplo mediante la",
+        "startMs": 10790,
+        "durationMs": 5399
+      },
+      {
+        "text": "operación de movimiento contable realizaremos el pago de los servicios",
+        "startMs": 16189,
+        "durationMs": 4281
+      },
+      {
+        "text": "públicos de la empresa ubicados en el manejador de operaciones ingresaremos",
+        "startMs": 20470,
+        "durationMs": 5600
+      },
+      {
+        "text": "por el botón de más operaciones contabilidad y seleccionaremos la opción",
+        "startMs": 26070,
+        "durationMs": 7799
+      },
+      {
+        "text": "movimiento contable como se puede apreciar el",
+        "startMs": 33869,
+        "durationMs": 2921
+      },
+      {
+        "text": "sistema nos ha abierto la operación para registrar la",
+        "startMs": 36790,
+        "durationMs": 4400
+      },
+      {
+        "text": "transacción para registrar el pago de servicios públicos de la empresa en este",
+        "startMs": 41190,
+        "durationMs": 5359
+      },
+      {
+        "text": "ejemplo lo soportaremos en un documento comprobante de egreso para ello en el",
+        "startMs": 46549,
+        "durationMs": 5721
+      },
+      {
+        "text": "campo tipo documento ingresaremos por el botón de la búsqueda y seleccionaremos",
+        "startMs": 52270,
+        "durationMs": 5840
+      },
+      {
+        "text": "de la lista el documento requerido comprobante de egreso e inmediatamente",
+        "startMs": 58110,
+        "durationMs": 6960
+      },
+      {
+        "text": "el sistema nos indica que el comprobante de egreso a registrar es el comprobante",
+        "startMs": 65070,
+        "durationMs": 6000
+      },
+      {
+        "text": "número 12 en el detalle de la operación",
+        "startMs": 71070,
+        "durationMs": 3280
+      },
+      {
+        "text": "especificaremos una observación de lo que deseamos registrar en el documento",
+        "startMs": 74350,
+        "durationMs": 12320
+      },
+      {
+        "text": "públicos correspondientes al mes de septiembre",
+        "startMs": 86680,
+        "durationMs": 5990
+      },
+      {
+        "text": "e indicaremos que dicho pago Se efectuará el 28 de septiembre por lo que",
+        "startMs": 92680,
+        "durationMs": 11310
+      },
+      {
+        "text": "documento en el área de registro nos ubicaremos en la columna cuenta mediante",
+        "startMs": 104000,
+        "durationMs": 7069
+      },
+      {
+        "text": "el botón de búsqueda el sistema nos despliega una ventana para seleccionar",
+        "startMs": 111069,
+        "durationMs": 4960
+      },
+      {
+        "text": "las cuentas requeridas por lo que nos ubicaremos en la columna nombre cuenta y",
+        "startMs": 116029,
+        "durationMs": 5760
+      },
+      {
+        "text": "digitar deos energía eléctrica como podemos apreciar el",
+        "startMs": 121789,
+        "durationMs": 5680
+      },
+      {
+        "text": "sistema automáticamente nos ubica en la cuenta 51",
+        "startMs": 127469,
+        "durationMs": 5441
+      },
+      {
+        "text": "3530 hacemos un clic en el botón seleccionar Generalmente las cuentas de",
+        "startMs": 132910,
+        "durationMs": 7280
+      },
+      {
+        "text": "gastos se encuentran parametrizadas para que deija centros de costos por tal",
+        "startMs": 140190,
+        "durationMs": 5399
+      },
+      {
+        "text": "motivo en la columna centrro de costos mediante el botón de",
+        "startMs": 145589,
+        "durationMs": 10481
+      },
+      {
+        "text": "generales en el campo del detalle especificaremos la observación de la",
+        "startMs": 156080,
+        "durationMs": 11229
+      },
+      {
+        "text": "energía eléctrica y en las columnas de asiento",
+        "startMs": 167319,
+        "durationMs": 5791
+      },
+      {
+        "text": "indicaremos el valor del pago allí registraremos el movimiento según la",
+        "startMs": 173110,
+        "durationMs": 5399
+      },
+      {
+        "text": "naturaleza de la cuenta recordemos que las cuentas de gastos es",
+        "startMs": 178509,
+        "durationMs": 4800
+      },
+      {
+        "text": "de naturaleza débito por tal motivo para aumentar el gasto debemos realizar un",
+        "startMs": 183309,
+        "durationMs": 5801
+      },
+      {
+        "text": "débito por un valor de 120,000 pesos correspondientes al pago de la",
+        "startMs": 189110,
+        "durationMs": 6399
+      },
+      {
+        "text": "energía en la operación de movimiento contable según la cuenta que estemos",
+        "startMs": 195509,
+        "durationMs": 5241
+      },
+      {
+        "text": "empleando debemos indicar el tercero con el cual se está efectuando la",
+        "startMs": 200750,
+        "durationMs": 5080
+      },
+      {
+        "text": "transacción Por tal motivo en la columna tercer en transacción seleccionaremos el",
+        "startMs": 205830,
+        "durationMs": 6399
+      },
+      {
+        "text": "tercero requerido es decir la empresa de energía eléctrica para esto hacemos un",
+        "startMs": 212229,
+        "durationMs": 7401
+      },
+      {
+        "text": "clic en el botón de la búsqueda y ubicados en la columna nombre",
+        "startMs": 219630,
+        "durationMs": 5679
+      },
+      {
+        "text": "o razón social digitar remos el nombre del",
+        "startMs": 225309,
+        "durationMs": 3961
+      },
+      {
+        "text": "del tercero empresa de energía",
+        "startMs": 229270,
+        "durationMs": 5280
+      },
+      {
+        "text": "eléctrica seleccionar registraremos también el",
+        "startMs": 234550,
+        "durationMs": 2879
+      },
+      {
+        "text": "pago de acueducto y alcantarillado por lo que ubicándonos en la columna cuenta",
+        "startMs": 237429,
+        "durationMs": 6640
+      },
+      {
+        "text": "ingresando mediante el botón de la búsqueda y ubicados en la columna nombre",
+        "startMs": 244069,
+        "durationMs": 6601
+      },
+      {
+        "text": "digitar acueducto y acantar yado y el sistema nos ubicará automáticamente en",
+        "startMs": 250670,
+        "durationMs": 6480
+      },
+      {
+        "text": "la cuenta 51 3525 le relacionaremos el mismo centro",
+        "startMs": 257150,
+        "durationMs": 7319
+      },
+      {
+        "text": "de costos gastos generales es necesario mencionar que",
+        "startMs": 264469,
+        "durationMs": 5761
+      },
+      {
+        "text": "para realizar la copia o el copiado del mismo centro de costos que existe en el",
+        "startMs": 270230,
+        "durationMs": 5000
+      },
+      {
+        "text": "campo superior se puede hacer uso de las teclas control a para mayor información",
+        "startMs": 275230,
+        "durationMs": 7040
+      },
+      {
+        "text": "Se sugiere consultar el video facilidades en la edición de la",
+        "startMs": 282270,
+        "durationMs": 4000
+      },
+      {
+        "text": "operación de movimiento contable en el detalle especificaremos pago de",
+        "startMs": 286270,
+        "durationMs": 9160
+      },
+      {
+        "text": "acueducto e indicaremos en la columna débito el valor a pagar por este",
+        "startMs": 295440,
+        "durationMs": 9309
+      },
+      {
+        "text": "concepto 85,000 al",
+        "startMs": 304749,
+        "durationMs": 9321
+      },
+      {
+        "startMs": 314080,
+        "durationMs": 3030,
+        "text": "potable"
+      },
+      {
+        "text": "seleccionar además cancelaremos el valor del teléfono imputando la cuenta",
+        "startMs": 317120,
+        "durationMs": 9110
+      },
+      {
+        "text": "51 3535 por un valor de 120",
+        "startMs": 326230,
+        "durationMs": 4320
+      },
+      {
+        "text": "800 pes al tercero empresa de",
+        "startMs": 330550,
+        "durationMs": 10520
+      },
+      {
+        "text": "telecomunicaciones seleccionar indicaremos que al mismo",
+        "startMs": 341080,
+        "durationMs": 4710
+      },
+      {
+        "text": "centro de costos gastos generales por",
+        "startMs": 345790,
+        "durationMs": 8119
+      },
+      {
+        "text": "teléfono para finalizar el pago de servicios públicos indicaremos que dicho",
+        "startMs": 353919,
+        "durationMs": 5390
+      },
+      {
+        "text": "pago se realizará en efectivo por lo que seleccionaremos la cuenta caja",
+        "startMs": 359309,
+        "durationMs": 11921
+      },
+      {
+        "text": "general y llevaremos la diferencia reportada por el sistema de",
+        "startMs": 371240,
+        "durationMs": 6710
+      },
+      {
+        "text": "33,800 pes a la columna crédito ya sea empleando el botón de",
+        "startMs": 377950,
+        "durationMs": 6320
+      },
+      {
+        "text": "diferencia o digitando el valor en la columna al visualizar en la parte",
+        "startMs": 384270,
+        "durationMs": 6639
+      },
+      {
+        "text": "inferior de la operación se puede apreciar que no se tiene ninguna",
+        "startMs": 390909,
+        "durationMs": 4720
+      },
+      {
+        "text": "diferencia débitos y créditos iguales cumpliendo así la partida doble del",
+        "startMs": 395629,
+        "durationMs": 8000
+      },
+      {
+        "text": "ejercicio para imprimir el documento de soporte físico de este comprobante",
+        "startMs": 403629,
+        "durationMs": 6521
+      },
+      {
+        "text": "hacemos un clic en el botón imprimir y mediante el botón de búsqueda podemos",
+        "startMs": 410150,
+        "durationMs": 5560
+      },
+      {
+        "text": "seleccionar el tipo de documento de impresión requerido",
+        "startMs": 415710,
+        "durationMs": 6599
+      },
+      {
+        "startMs": 422319,
+        "durationMs": 27351,
+        "text": "Cancelar hacemos un clic en el botón"
+      },
+      {
+        "text": "ando así un movimiento contable en nuestra",
+        "startMs": 449680,
+        "durationMs": 3430
+      },
+      {
+        "text": "nuestra contabilidad esto es todo sobre el",
+        "startMs": 453110,
+        "durationMs": 2280
+      },
+      {
+        "text": "registro de pagos de los servicios públicos en una operación de movimiento",
+        "startMs": 455390,
+        "durationMs": 7730
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video del software contable ContaPyme ilustra la forma en la que el usuario podrá registrar en su contabilidad el pago de los servicios públicos de la empresa, empleando la operación de movimiento contable.\nCP40-020-020-010B-050M\n\n## Transcripción\n\nejemplo dos operación de movimiento contable pago de servicios públicos\nantes de visualizar este video se recomienda haber visto el video\noperación de movimiento contable en este ejemplo mediante la\noperación de movimiento contable realizaremos el pago de los servicios\npúblicos de la empresa ubicados en el manejador de operaciones ingresaremos\npor el botón de más operaciones contabilidad y seleccionaremos la opción\nmovimiento contable como se puede apreciar el\nsistema nos ha abierto la operación para registrar la\ntransacción para registrar el pago de servicios públicos de la empresa en este\nejemplo lo soportaremos en un documento comprobante de egreso para ello en el\ncampo tipo documento ingresaremos por el botón de la búsqueda y seleccionaremos\nde la lista el documento requerido comprobante de egreso e inmediatamente\nel sistema nos indica que el comprobante de egreso a registrar es el comprobante\nnúmero 12 en el detalle de la operación\nespecificaremos una observación de lo que deseamos registrar en el documento\npúblicos correspondientes al mes de septiembre\ne indicaremos que dicho pago Se efectuará el 28 de septiembre por lo que\ndocumento en el área de registro nos ubicaremos en la columna cuenta mediante\nel botón de búsqueda el sistema nos despliega una ventana para seleccionar\nlas cuentas requeridas por lo que nos ubicaremos en la columna nombre cuenta y\ndigitar deos energía eléctrica como podemos apreciar el\nsistema automáticamente nos ubica en la cuenta 51\n3530 hacemos un clic en el botón seleccionar Generalmente las cuentas de\ngastos se encuentran parametrizadas para que deija centros de costos por tal\nmotivo en la columna centrro de costos mediante el botón de\ngenerales en el campo del detalle especificaremos la observación de la\nenergía eléctrica y en las columnas de asiento\nindicaremos el valor del pago allí registraremos el movimiento según la\nnaturaleza de la cuenta recordemos que las cuentas de gastos es\nde naturaleza débito por tal motivo para aumentar el gasto debemos realizar un\ndébito por un valor de 120,000 pesos correspondientes al pago de la\nenergía en la operación de movimiento contable según la cuenta que estemos\nempleando debemos indicar el tercero con el cual se está efectuando la\ntransacción Por tal motivo en la columna tercer en transacción seleccionaremos el\ntercero requerido es decir la empresa de energía eléctrica para esto hacemos un\nclic en el botón de la búsqueda y ubicados en la columna nombre\no razón social digitar remos el nombre del\ndel tercero empresa de energía\neléctrica seleccionar registraremos también el\npago de acueducto y alcantarillado por lo que ubicándonos en la columna cuenta\ningresando mediante el botón de la búsqueda y ubicados en la columna nombre\ndigitar acueducto y acantar yado y el sistema nos ubicará automáticamente en\nla cuenta 51 3525 le relacionaremos el mismo centro\nde costos gastos generales es necesario mencionar que\npara realizar la copia o el copiado del mismo centro de costos que existe en el\ncampo superior se puede hacer uso de las teclas control a para mayor información\nSe sugiere consultar el video facilidades en la edición de la\noperación de movimiento contable en el detalle especificaremos pago de\nacueducto e indicaremos en la columna débito el valor a pagar por este\nconcepto 85,000 al\npotable\nseleccionar además cancelaremos el valor del teléfono imputando la cuenta\n51 3535 por un valor de 120\n800 pes al tercero empresa de\ntelecomunicaciones seleccionar indicaremos que al mismo\ncentro de costos gastos generales por\nteléfono para finalizar el pago de servicios públicos indicaremos que dicho\npago se realizará en efectivo por lo que seleccionaremos la cuenta caja\ngeneral y llevaremos la diferencia reportada por el sistema de\n33,800 pes a la columna crédito ya sea empleando el botón de\ndiferencia o digitando el valor en la columna al visualizar en la parte\ninferior de la operación se puede apreciar que no se tiene ninguna\ndiferencia débitos y créditos iguales cumpliendo así la partida doble del\nejercicio para imprimir el documento de soporte físico de este comprobante\nhacemos un clic en el botón imprimir y mediante el botón de búsqueda podemos\nseleccionar el tipo de documento de impresión requerido\nCancelar hacemos un clic en el botón\nando así un movimiento contable en nuestra\nnuestra contabilidad esto es todo sobre el\nregistro de pagos de los servicios públicos en una operación de movimiento"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 206.079,
+    "asr": 44100,
+    "filesizeApprox": 11899439,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/gfg7QkCHg6Y.md",
+    "json": "videos/2011/gfg7QkCHg6Y.json",
+    "infoJson": "videos/2011/gfg7QkCHg6Y.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

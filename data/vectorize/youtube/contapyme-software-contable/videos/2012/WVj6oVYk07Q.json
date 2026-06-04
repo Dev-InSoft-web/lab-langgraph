@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:29:34.352Z",
+  "videoId": "WVj6oVYk07Q",
+  "videoUrl": "https://www.youtube.com/watch?v=WVj6oVYk07Q",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "WVj6oVYk07Q",
+    "title": "Programa contable ContaPyme - Ejemplo de facturación a cliente con dto por monto de ventas",
+    "fulltitle": "Programa contable ContaPyme - Ejemplo de facturación a cliente con dto por monto de ventas",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta un ejemplo de facturación que pertenece al perfil de clientes distribuidores, el cual está configurado para aplicar el descuento en ventas según el monto de ventas acumulado en el mes actual.\nCP40-140-090-010B-100M",
+    "duration": 245,
+    "duration_string": "4:05",
+    "upload_date": "20120512",
+    "timestamp": 1336830195,
+    "view_count": 1388,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/WVj6oVYk07Q/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZChbMA8=&rs=AOn4CLBCdoYxkveIIldKdEQCTKQzYZVvEA",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARhlIGQoWzAP&rs=AOn4CLArhO-V7JNxLmu_ub-CLTdpb-H0nw",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZChbMA8=&rs=AOn4CLCJ3j0JwEaFsHkWgFMiHeWYGBcHdA",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGGUgZChbMA8=&rs=AOn4CLBQ82GsH4xYRAGslVYFHsdiNTpN0A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGGUgZChbMA8=&rs=AOn4CLAnL1VxcTPKa9ryLw_s5BW0GawaJA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGQoWzAP&rs=AOn4CLBKixAjAWMPUN1AfbPy7bcjC_xgzA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIGQoWzAP&rs=AOn4CLD3e_2lX9IAGbnoVoQhg4pu-qgScA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZChbMA8=&rs=AOn4CLATBlK2xforTJRy4scm-ydK8FRjDg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZChbMA8=&rs=AOn4CLBCdoYxkveIIldKdEQCTKQzYZVvEA",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WVj6oVYk07Q/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/WVj6oVYk07Q/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=WVj6oVYk07Q",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.40816326530612246,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5061224489795918,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5061224489795918,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.5061224489795918,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 211.952,
+        "asr": 44100,
+        "filesize_approx": 6492699,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Programa contable ContaPyme - Ejemplo de facturación a cliente con dto por monto de ventas",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/WVj6oVYk07Q/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/WVj6oVYk07Q?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Programa contable ContaPyme - Ejemplo de facturación a cliente con dto por monto de ventas\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 31,
+    "transcriptChars": 2397,
+    "segments": [
+      {
+        "text": "ejemplo de facturación a cliente con descuento por monto de",
+        "startMs": 640,
+        "durationMs": 5269
+      },
+      {
+        "text": "ventas antes de visualizar este video se recomienda haber visto el video",
+        "startMs": 5909,
+        "durationMs": 5441
+      },
+      {
+        "text": "configuración de perfil con descuento por monto de ventas vamos a realizar un",
+        "startMs": 11350,
+        "durationMs": 5960
+      },
+      {
+        "text": "ejemplo de facturación en donde vamos a registrar la venta a la empresa almacén",
+        "startMs": 17310,
+        "durationMs": 5680
+      },
+      {
+        "text": "tu equipo limitada que pertenece al perfil de clientes distribuidores el",
+        "startMs": 22990,
+        "durationMs": 5359
+      },
+      {
+        "text": "cual está configurado para aplicar el descuento en ventas según el monto de",
+        "startMs": 28349,
+        "durationMs": 6401
+      },
+      {
+        "text": "ventas acumulado en el mes actual en este caso en mayo ubicados en el",
+        "startMs": 34750,
+        "durationMs": 6720
+      },
+      {
+        "text": "manejador de operaciones seleccionamos facturación y",
+        "startMs": 41470,
+        "durationMs": 6040
+      },
+      {
+        "text": "ventas y nos abre el asistente para registrar la operación indicamos el",
+        "startMs": 47510,
+        "durationMs": 17959
+      },
+      {
+        "text": "cliente en este caso almacén tu equipo limitada seleccionamos el",
+        "startMs": 65479,
+        "durationMs": 12111
+      },
+      {
+        "startMs": 77600,
+        "durationMs": 7350,
+        "text": "producto en este caso una impresora"
+      },
+      {
+        "text": "láser y podemos visualizar que el sistema cargó automáticamente un",
+        "startMs": 84960,
+        "durationMs": 10429
+      },
+      {
+        "text": "5% el sistema aplicó este descuento ya que a este cliente se le han realizado",
+        "startMs": 95399,
+        "durationMs": 7431
+      },
+      {
+        "text": "en el mes dos ventas una por valor de 2,625 pes y la otra por valor de ,",
+        "startMs": 102830,
+        "durationMs": 11879
+      },
+      {
+        "text": "585,000 pes las cuales hacen que el monto o valor acumulado de las ventas en",
+        "startMs": 114709,
+        "durationMs": 7320
+      },
+      {
+        "text": "el mes sean de 5,210 1000 pes este valor acumulado se",
+        "startMs": 122029,
+        "durationMs": 7560
+      },
+      {
+        "text": "encuentra en este Rango de monto mínimo de ventas el cual recordemos que ya está",
+        "startMs": 129589,
+        "durationMs": 6041
+      },
+      {
+        "text": "definido en el sistema en el perfil del distribuidor y para este monto podemos",
+        "startMs": 135630,
+        "durationMs": 6360
+      },
+      {
+        "text": "visualizar que aplica un descuento del 5% en las ventas el cual es el descuento",
+        "startMs": 141990,
+        "durationMs": 7239
+      },
+      {
+        "text": "que el sist cargó automáticamente en la venta que estamos",
+        "startMs": 149229,
+        "durationMs": 11241
+      },
+      {
+        "startMs": 160480,
+        "durationMs": 7389,
+        "text": "cantidad seleccionamos otro"
+      },
+      {
+        "text": "producto y podemos visualizar que también cargó automáticamente el",
+        "startMs": 167879,
+        "durationMs": 5350
+      },
+      {
+        "text": "descuento del 5% e indicamos la cantidad en la parte",
+        "startMs": 173229,
+        "durationMs": 5961
+      },
+      {
+        "text": "inferior de de la operación el sistema nos indica el valor parcial el cual es",
+        "startMs": 179190,
+        "durationMs": 6039
+      },
+      {
+        "text": "antes del IVA y los descuentos nos indica el valor total del descuento",
+        "startMs": 185229,
+        "durationMs": 6321
+      },
+      {
+        "text": "aplicado en la venta el valor del IVA y el valor total de la venta damos",
+        "startMs": 191550,
+        "durationMs": 7239
+      },
+      {
+        "text": "siguiente podemos visualizar el IVA y en forma de",
+        "startMs": 198789,
+        "durationMs": 12160
+      },
+      {
+        "text": "vamos a visualizar cómo nos quedará impresa nuestra",
+        "startMs": 210959,
+        "durationMs": 7311
+      },
+      {
+        "text": "venta podemos observar que por cada producto nos indica el porcentaje de",
+        "startMs": 218280,
+        "durationMs": 10509
+      },
+      {
+        "text": "descuento cerramos y damos aceptar para guardar la",
+        "startMs": 228789,
+        "durationMs": 7440
+      },
+      {
+        "text": "operación esto es todo sobre ejemplo de facturación a cliente con descuento por",
+        "startMs": 236239,
+        "durationMs": 10280
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta un ejemplo de facturación que pertenece al perfil de clientes distribuidores, el cual está configurado para aplicar el descuento en ventas según el monto de ventas acumulado en el mes actual.\nCP40-140-090-010B-100M\n\n## Transcripción\n\nejemplo de facturación a cliente con descuento por monto de\nventas antes de visualizar este video se recomienda haber visto el video\nconfiguración de perfil con descuento por monto de ventas vamos a realizar un\nejemplo de facturación en donde vamos a registrar la venta a la empresa almacén\ntu equipo limitada que pertenece al perfil de clientes distribuidores el\ncual está configurado para aplicar el descuento en ventas según el monto de\nventas acumulado en el mes actual en este caso en mayo ubicados en el\nmanejador de operaciones seleccionamos facturación y\nventas y nos abre el asistente para registrar la operación indicamos el\ncliente en este caso almacén tu equipo limitada seleccionamos el\nproducto en este caso una impresora\nláser y podemos visualizar que el sistema cargó automáticamente un\n5% el sistema aplicó este descuento ya que a este cliente se le han realizado\nen el mes dos ventas una por valor de 2,625 pes y la otra por valor de ,\n585,000 pes las cuales hacen que el monto o valor acumulado de las ventas en\nel mes sean de 5,210 1000 pes este valor acumulado se\nencuentra en este Rango de monto mínimo de ventas el cual recordemos que ya está\ndefinido en el sistema en el perfil del distribuidor y para este monto podemos\nvisualizar que aplica un descuento del 5% en las ventas el cual es el descuento\nque el sist cargó automáticamente en la venta que estamos\ncantidad seleccionamos otro\nproducto y podemos visualizar que también cargó automáticamente el\ndescuento del 5% e indicamos la cantidad en la parte\ninferior de de la operación el sistema nos indica el valor parcial el cual es\nantes del IVA y los descuentos nos indica el valor total del descuento\naplicado en la venta el valor del IVA y el valor total de la venta damos\nsiguiente podemos visualizar el IVA y en forma de\nvamos a visualizar cómo nos quedará impresa nuestra\nventa podemos observar que por cada producto nos indica el porcentaje de\ndescuento cerramos y damos aceptar para guardar la\noperación esto es todo sobre ejemplo de facturación a cliente con descuento por"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 211.952,
+    "asr": 44100,
+    "filesizeApprox": 6492699,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/WVj6oVYk07Q.md",
+    "json": "videos/2012/WVj6oVYk07Q.json",
+    "infoJson": "videos/2012/WVj6oVYk07Q.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos"
+}

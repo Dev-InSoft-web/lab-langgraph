@@ -1,0 +1,34 @@
+﻿flowchart TB
+  U[Mensaje del usuario] --> PATY[PatyIA · respuestaIA]
+
+  PATY --> CL[Clasificación PR_TIPO_CONSULTAS]
+  CL --> BD[(BD · INSTRUCCION por tipo)]
+  BD --> TXT[Texto instrucción + placeholders resueltos]
+  PATY --> NOM[nombre desde sesión]
+
+  subgraph REQ["POST /v1/responses · sin instructions en body"]
+    BODY["input · mensaje del turno<br/>conversation · conv_*<br/>model · MODELO en BD o fallback<br/>tools · file_search si aplica"]
+    subgraph PR["prompt · PR_GENERAL"]
+      ID[id · PR_GENERAL desde local.settings.json]
+      subgraph VAR["prompt.variables"]
+        NU[nombre_usuario]
+        IT[instrucion_tipo ← texto BD]
+      end
+    end
+  end
+
+  PATY --> REQ
+  TXT --> IT
+  NOM --> NU
+
+  subgraph TMPL["Composición plantilla PR_GENERAL v13"]
+    BASE[Reglas base Paty · saludo y límites]
+    SLOT_NU["slot {{nombre_usuario}}"]
+    SEP[---]
+    SLOT_IT["slot {{instrucion_tipo}}"]
+    BASE --> SLOT_NU --> SEP --> SLOT_IT
+  end
+
+  ID --> TMPL
+  NU -.-> SLOT_NU
+  IT -.-> SLOT_IT

@@ -1,0 +1,24 @@
+{
+  "pageId": "6f8732fc6828cb37",
+  "url": "https://certificadosdeorigen.dian.gov.co/Verifica/indexmex.php",
+  "title": "Certificados de Origen Digitales",
+  "corpus": "dian",
+  "tipo": "web",
+  "audience": "contadores",
+  "fetchedAt": "2026-06-04T03:26:47.034Z",
+  "content": {
+    "markdown": "# Certificados de Origen Digitales\n\n**URL:** https://certificadosdeorigen.dian.gov.co/Verifica/indexmex.php\n\n![logo](../corigen_digital/CargueCertImport/images/logo-dian.png)\n\n![logo](../corigen_digital/CargueCertImport/images/logo-minhacienda.png)\n\n* * *\n\n## Certificados de Origen Digitales\n\nSeleccione el aplicativo.\n\n[VISUALIZADOR DE CERTIFICADOS DE ORIGEN DIGITALES](../Verifica/indexmex2.php)\n\n[RECEPCIÒN DE CERTIFICADOS DE ORIGEN DIGITALES - ACE 072](../corigen_digital/CargueCertImport/index.php)\n",
+    "plainText": "Certificados de Origen Digitales URL: https://certificadosdeorigen.dian.gov.co/Verifica/indexmex.php ! logo ../corigen digital/CargueCertImport/images/logo dian.png ! logo ../corigen digital/CargueCertImport/images/logo minhacienda.png Seleccione el aplicativo. VISUALIZADOR DE CERTIFICADOS DE ORIGEN DIGITALES ../Verifica/indexmex2.php RECEPCIÒN DE CERTIFICADOS DE ORIGEN DIGITALES ACE 072 ../corigen digital/CargueCertImport/index.php"
+  },
+  "sections": [
+    {
+      "heading": "Introducción",
+      "text": "# Certificados de Origen Digitales\n\n**URL:** https://certificadosdeorigen.dian.gov.co/Verifica/indexmex.php\n\n![logo](../corigen_digital/CargueCertImport/images/logo-dian.png)\n\n![logo](../corigen_digital/CargueCertImport/images/logo-minhacienda.png)\n\n* * *"
+    },
+    {
+      "heading": "Certificados de Origen Digitales",
+      "text": "Seleccione el aplicativo.\n\n[VISUALIZADOR DE CERTIFICADOS DE ORIGEN DIGITALES](../Verifica/indexmex2.php)\n\n[RECEPCIÒN DE CERTIFICADOS DE ORIGEN DIGITALES - ACE 072](../corigen_digital/CargueCertImport/index.php)"
+    }
+  ],
+  "storageRel": "dian/2026"
+}

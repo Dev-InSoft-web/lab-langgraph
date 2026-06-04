@@ -1,0 +1,66 @@
+// Generado desde Chart.js · tk1431666_tokens_por_tipo
+digraph tk1431666_tokens_por_tipo {
+graph [
+		bgcolor=transparent
+		splines=none
+		pad=0.55
+		sep="+12,10"
+		nodesep=0.18
+		ranksep=0.4
+		fontname="Segoe UI"
+		fontsize=10
+		rankdir=LR
+	]
+node [
+		shape=box
+		style="filled,rounded"
+		fixedsize=true
+		height=0.44
+		margin="0.22,0.11"
+		color="#808080B3"
+		fontcolor="#3A3A3AE6"
+		fontsize=8
+	]
+	title [shape=plaintext, label="Tokens de instrucción por tipo (PROMPT_<TIPO>.md)", fontcolor="#1E90FFD9", fontsize=11]
+	{ rank=same; t0_d0; t0_d1; }
+	t0_d0 [label="SALUDO OTRO\nBase (tokens)\n873", width=0.851, fillcolor="#9E9E9E55"]
+	t0_d1 [label="SALUDO OTRO\nUltra (tokens)\n435", width=0.424, fillcolor="#1E90FF60"]
+	{ rank=same; t1_d0; t1_d1; }
+	t1_d0 [label="FUERA DE ALC\nBase (tokens)\n1.243", width=1.212, fillcolor="#9E9E9E55"]
+	t1_d1 [label="FUERA DE ALC\nUltra (tokens)\n817", width=0.797, fillcolor="#1E90FF60"]
+	{ rank=same; t2_d0; t2_d1; }
+	t2_d0 [label="SOLICITUD NO\nBase (tokens)\n1.215", width=1.185, fillcolor="#9E9E9E55"]
+	t2_d1 [label="SOLICITUD NO\nUltra (tokens)\n599", width=0.584, fillcolor="#1E90FF60"]
+	{ rank=same; t3_d0; t3_d1; }
+	t3_d0 [label="REQUIERE CON\nBase (tokens)\n1.580", width=1.541, fillcolor="#9E9E9E55"]
+	t3_d1 [label="REQUIERE CON\nUltra (tokens)\n1.041", width=1.015, fillcolor="#1E90FF60"]
+	{ rank=same; t4_d0; t4_d1; }
+	t4_d0 [label="PASO A PASO\nBase (tokens)\n2.564", width=2.500, fillcolor="#9E9E9E55"]
+	t4_d1 [label="PASO A PASO\nUltra (tokens)\n1.701", width=1.659, fillcolor="#1E90FF60"]
+	{ rank=same; t5_d0; t5_d1; }
+	t5_d0 [label="INTERPRETACI\nBase (tokens)\n2.157", width=2.103, fillcolor="#9E9E9E55"]
+	t5_d1 [label="INTERPRETACI\nUltra (tokens)\n1.330", width=1.297, fillcolor="#1E90FF60"]
+	{ rank=same; t6_d0; t6_d1; }
+	t6_d0 [label="CONSULTA NOR\nBase (tokens)\n1.528", width=1.490, fillcolor="#9E9E9E55"]
+	t6_d1 [label="CONSULTA NOR\nUltra (tokens)\n933", width=0.910, fillcolor="#1E90FF60"]
+	{ rank=same; t7_d0; t7_d1; }
+	t7_d0 [label="ASESORIA PER\nBase (tokens)\n2.133", width=2.080, fillcolor="#9E9E9E55"]
+	t7_d1 [label="ASESORIA PER\nUltra (tokens)\n1.208", width=1.178, fillcolor="#1E90FF60"]
+	{ rank=same; t8_d0; t8_d1; }
+	t8_d0 [label="ERROR TECNIC\nBase (tokens)\n1.420", width=1.385, fillcolor="#9E9E9E55"]
+	t8_d1 [label="ERROR TECNIC\nUltra (tokens)\n803", width=0.783, fillcolor="#1E90FF60"]
+	{ rank=same; t9_d0; t9_d1; }
+	t9_d0 [label="ERROR CONFIG\nBase (tokens)\n2.286", width=2.229, fillcolor="#9E9E9E55"]
+	t9_d1 [label="ERROR CONFIG\nUltra (tokens)\n1.288", width=1.256, fillcolor="#1E90FF60"]
+	{ rank=same; t10_d0; t10_d1; }
+	t10_d0 [label="ERROR ACCESO\nBase (tokens)\n2.222", width=2.167, fillcolor="#9E9E9E55"]
+	t10_d1 [label="ERROR ACCESO\nUltra (tokens)\n1.204", width=1.174, fillcolor="#1E90FF60"]
+	{ rank=same; t11_d0; t11_d1; }
+	t11_d0 [label="ERROR DIAN\nBase (tokens)\n2.081", width=2.029, fillcolor="#9E9E9E55"]
+	t11_d1 [label="ERROR DIAN\nUltra (tokens)\n1.236", width=1.205, fillcolor="#1E90FF60"]
+	{ rank=same; t12_d0; t12_d1; }
+	t12_d0 [label="COMERCIAL\nBase (tokens)\n2.218", width=2.163, fillcolor="#9E9E9E55"]
+	t12_d1 [label="COMERCIAL\nUltra (tokens)\n1.098", width=1.071, fillcolor="#1E90FF60"]
+	legend [shape=plaintext, label="Base (tokens) (#9E9E9E)   ·   Ultra (tokens) (#1E90FF)", fontcolor="#808080BF", fontsize=9]
+	axis_y [shape=plaintext, label="Tokens", fontcolor="#808080BF", fontsize=9]
+}

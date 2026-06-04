@@ -1,0 +1,719 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:36:53.595Z",
+  "videoId": "SpFgAYfVbAI",
+  "videoUrl": "https://www.youtube.com/watch?v=SpFgAYfVbAI",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "SpFgAYfVbAI",
+    "title": "Software de contabilidad ContaPyme - Ejemplo 1 prestamo a empleado a cuotas",
+    "fulltitle": "Software de contabilidad ContaPyme - Ejemplo 1 prestamo a empleado a cuotas",
+    "description": "http://www.contapyme.com\nEste vídeo del software contable ContaPyme explica como crear una cuenta por cobrar a cuotas.\nCP40-090-025-010B-020M",
+    "duration": 381,
+    "duration_string": "6:21",
+    "upload_date": "20111228",
+    "timestamp": 1325087176,
+    "view_count": 1241,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/SpFgAYfVbAI/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBQczbo_nr0Y_5ZZaNMJ5U-TXETiA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCz_RLCICG4pAhXt4F0-uuBfF1wJQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdor3dYar9phrqj18mzf5zztWbfw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmXjpXCPIWlPhtOwa2yOdmdQDgEw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SpFgAYfVbAI/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/SpFgAYfVbAI/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=SpFgAYfVbAI",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.26246719160104987,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.2047244094488189,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.2047244094488189,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 259.453,
+        "asr": 44100,
+        "filesize_approx": 12367508,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software de contabilidad ContaPyme - Ejemplo 1 prestamo a empleado a cuotas",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/SpFgAYfVbAI/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/SpFgAYfVbAI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software de contabilidad ContaPyme - Ejemplo 1 prestamo a empleado a cuotas\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 64,
+    "transcriptChars": 4393,
+    "segments": [
+      {
+        "text": "ejemplo 1 préstamo a empleado a cuotas para realizar la operación de cuenta por",
+        "startMs": 439,
+        "durationMs": 6361
+      },
+      {
+        "text": "cobrar debemos estar ubicados en el manejador de operaciones y dando clic en",
+        "startMs": 6800,
+        "durationMs": 5249
+      },
+      {
+        "text": "el botón de más operaciones seleccionamos la opción de cartera crear",
+        "startMs": 12049,
+        "durationMs": 8491
+      },
+      {
+        "text": "inmediatamente el sistema nos abrirá la operación donde debemos registrar la",
+        "startMs": 20550,
+        "durationMs": 6540
+      },
+      {
+        "text": "información para este ejemplo soportaremos el",
+        "startMs": 27090,
+        "durationMs": 2430
+      },
+      {
+        "text": "préstamo empleado a cuotas en el tipo de documento comprobante de egreso el cual",
+        "startMs": 29520,
+        "durationMs": 5460
+      },
+      {
+        "text": "lo podemos seleccionar dando clic en el botón de referencia que nos despliega",
+        "startMs": 34980,
+        "durationMs": 5310
+      },
+      {
+        "text": "todo el estado de tipos de documentos de soporte disponibles para esta operación",
+        "startMs": 40290,
+        "durationMs": 6510
+      },
+      {
+        "text": "al definir el tipo de documento el sistema automáticamente nos sugerirá el",
+        "startMs": 46800,
+        "durationMs": 5250
+      },
+      {
+        "text": "número del documento en este caso comprobante de regreso",
+        "startMs": 52050,
+        "durationMs": 6769
+      },
+      {
+        "text": "544 en el detalle de la operación",
+        "startMs": 58819,
+        "durationMs": 1701
+      },
+      {
+        "text": "indicaremos una observación de lo que se desea registrar en el documento para",
+        "startMs": 60520,
+        "durationMs": 5890
+      },
+      {
+        "text": "este ejemplo vamos a indicar en el detalle préstamo",
+        "startMs": 66410,
+        "durationMs": 5800
+      },
+      {
+        "startMs": 72220,
+        "durationMs": 6150,
+        "text": "a empleado diego lópez"
+      },
+      {
+        "text": "le indicaremos que dicha causa acción se realizará el día 15 de noviembre",
+        "startMs": 78380,
+        "durationMs": 6240
+      },
+      {
+        "text": "en el campo cuenta por cobrar indicaremos el valor del préstamo para",
+        "startMs": 84620,
+        "durationMs": 5099
+      },
+      {
+        "text": "este ejemplo 800 mil pesos y al lado derecho indicaremos a quien le",
+        "startMs": 89719,
+        "durationMs": 6941
+      },
+      {
+        "text": "estamos prestando y la forma de pago en el campo cobrar a debemos de",
+        "startMs": 96660,
+        "durationMs": 5600
+      },
+      {
+        "text": "seleccionar de nuestro catálogo de terceros el empleado al cual estamos",
+        "startMs": 102260,
+        "durationMs": 4740
+      },
+      {
+        "text": "realizando el préstamo en este caso el señor diego lópez",
+        "startMs": 107000,
+        "durationMs": 5350
+      },
+      {
+        "text": "y debemos indicar la cuenta para la cuenta por cobrar",
+        "startMs": 112350,
+        "durationMs": 4550
+      },
+      {
+        "text": "para este ejemplo una cuenta de las 365 cuentas por cobrar a trabajadores",
+        "startMs": 116900,
+        "durationMs": 7710
+      },
+      {
+        "text": "recordemos que con digitar parte del código al abrir el catálogo de cuentas",
+        "startMs": 124610,
+        "durationMs": 4470
+      },
+      {
+        "text": "veremos sólo las cuentas que inician por el código solicitado en este caso solo",
+        "startMs": 129080,
+        "durationMs": 5400
+      },
+      {
+        "text": "las cuentas que inician por el código 1365",
+        "startMs": 134480,
+        "durationMs": 3380
+      },
+      {
+        "text": "1365 seleccionaremos entonces la 13 65 95",
+        "startMs": 137860,
+        "durationMs": 8270
+      },
+      {
+        "text": "como estamos generando el préstamo a nuestro empleado a cuotas vamos a darle",
+        "startMs": 146140,
+        "durationMs": 4880
+      },
+      {
+        "text": "clic en el botón programación de cuotas para indicarle el número de cuotas la",
+        "startMs": 151020,
+        "durationMs": 10910
+      },
+      {
+        "text": "indicaremos que se cancelará en cinco cuotas iguales",
+        "startMs": 161940,
+        "durationMs": 6480
+      },
+      {
+        "text": "y le vamos a dar clic en el botón programar cuotas",
+        "startMs": 168430,
+        "durationMs": 5100
+      },
+      {
+        "text": "el sistema nos sugiere la fecha en la que deberá ser cancelada cada cuota y el",
+        "startMs": 173530,
+        "durationMs": 6059
+      },
+      {
+        "text": "valor de cada una pero nosotros podemos modificarlos de acuerdo a las",
+        "startMs": 179589,
+        "durationMs": 6601
+      },
+      {
+        "text": "necesidades vamos a dejarlo como lo sugiere el sistema",
+        "startMs": 186190,
+        "durationMs": 5960
+      },
+      {
+        "text": "y le vamos a dar clic en el botón de aceptar para guardar los cambios y",
+        "startMs": 192160,
+        "durationMs": 4430
+      },
+      {
+        "text": "finalizar para mayor información sobre la programación por cuotas remitirse al",
+        "startMs": 196590,
+        "durationMs": 5760
+      },
+      {
+        "text": "vídeo programación a cuotas observemos que en fecha de pago el",
+        "startMs": 202350,
+        "durationMs": 5379
+      },
+      {
+        "text": "sistema automáticamente me pone la fecha de la última cuota y en el campo",
+        "startMs": 207729,
+        "durationMs": 6121
+      },
+      {
+        "text": "descripción de cuenta por cobrar el sistema nos indica que se está generando",
+        "startMs": 213850,
+        "durationMs": 4290
+      },
+      {
+        "text": "una cuenta por cobrar en cinco cuotas a diego lópez cardona",
+        "startMs": 218140,
+        "durationMs": 6260
+      },
+      {
+        "text": "vamos a darle clic en el botón siguiente para continuar con el registro de la",
+        "startMs": 224400,
+        "durationMs": 6310
+      },
+      {
+        "text": "operación en este paso debemos indicar el origen",
+        "startMs": 230710,
+        "durationMs": 2760
+      },
+      {
+        "text": "de los fondos para el dinero prestado para este ejemplo indicaremos que el",
+        "startMs": 233470,
+        "durationMs": 9300
+      },
+      {
+        "text": "y al lado derecho debemos indicar la cuenta de banco",
+        "startMs": 242780,
+        "durationMs": 4990
+      },
+      {
+        "text": "vamos a seleccionar la de nuestro catálogo de cuentas la cuenta de banco",
+        "startMs": 247770,
+        "durationMs": 7570
+      },
+      {
+        "text": "nacional y le indicaremos el tipo de movimiento",
+        "startMs": 255340,
+        "durationMs": 3800
+      },
+      {
+        "text": "que para el ejemplo indicaremos que fue un cheque girado a la fecha",
+        "startMs": 259140,
+        "durationMs": 7880
+      },
+      {
+        "text": "el número indicaremos el número del cheque",
+        "startMs": 267030,
+        "durationMs": 6800
+      },
+      {
+        "startMs": 273840,
+        "durationMs": 7620,
+        "text": "al igual que la fecha de la transacción"
+      },
+      {
+        "text": "si damos clic en el botón de imprimir podemos ver la vista previa de la",
+        "startMs": 281470,
+        "durationMs": 11390
+      },
+      {
+        "text": "para finalizar haremos un clic en auto procesar y aceptar",
+        "startMs": 292870,
+        "durationMs": 7820
+      },
+      {
+        "text": "observemos que me quedo creada la cuenta por cobrar y ésta se encuentra procesada",
+        "startMs": 300700,
+        "durationMs": 9330
+      },
+      {
+        "text": "vamos a generar un informe de cuentas por cobrar para visualizar el préstamo",
+        "startMs": 310030,
+        "durationMs": 4680
+      },
+      {
+        "text": "realizado al tercero diego lópez recordemos que para generar el informe",
+        "startMs": 314710,
+        "durationMs": 4830
+      },
+      {
+        "text": "ingresamos por la pestaña de contabilidad",
+        "startMs": 319540,
+        "durationMs": 3260
+      },
+      {
+        "text": "contabilidad cartera y vamos a generar por ejemplo el",
+        "startMs": 322800,
+        "durationMs": 3400
+      },
+      {
+        "text": "informe de detalle de cuentas por cobrar debemos indicarle la fecha en la que",
+        "startMs": 326200,
+        "durationMs": 6610
+      },
+      {
+        "text": "queremos consultar nuestro informe vamos a dejarle la que el sistema nos sugiere",
+        "startMs": 332810,
+        "durationMs": 3630
+      },
+      {
+        "text": "el 30 de noviembre del 2011 que recordemos que esta fecha la toma de la",
+        "startMs": 336440,
+        "durationMs": 4320
+      },
+      {
+        "text": "fecha de trabajo vamos a indicarle que nos muestre las cuentas por cobrar para",
+        "startMs": 340760,
+        "durationMs": 10150
+      },
+      {
+        "text": "le damos clic en el botón de ver reporte y observemos que me muestra entonces el",
+        "startMs": 350920,
+        "durationMs": 6320
+      },
+      {
+        "text": "detalle para la cuenta que tiene el señor diego lópez cardona indicándome",
+        "startMs": 357240,
+        "durationMs": 5040
+      },
+      {
+        "text": "que tiene 54 la fecha de creación de la operación la fecha de pago de cada una",
+        "startMs": 362280,
+        "durationMs": 7410
+      },
+      {
+        "text": "de las cuotas y el plazo que tiene a la fecha",
+        "startMs": 369690,
+        "durationMs": 6850
+      },
+      {
+        "text": "esto es todo acerca del ejemplo préstamo empleado a cuotas",
+        "startMs": 376550,
+        "durationMs": 6500
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste vídeo del software contable ContaPyme explica como crear una cuenta por cobrar a cuotas.\nCP40-090-025-010B-020M\n\n## Transcripción\n\nejemplo 1 préstamo a empleado a cuotas para realizar la operación de cuenta por\ncobrar debemos estar ubicados en el manejador de operaciones y dando clic en\nel botón de más operaciones seleccionamos la opción de cartera crear\ninmediatamente el sistema nos abrirá la operación donde debemos registrar la\ninformación para este ejemplo soportaremos el\npréstamo empleado a cuotas en el tipo de documento comprobante de egreso el cual\nlo podemos seleccionar dando clic en el botón de referencia que nos despliega\ntodo el estado de tipos de documentos de soporte disponibles para esta operación\nal definir el tipo de documento el sistema automáticamente nos sugerirá el\nnúmero del documento en este caso comprobante de regreso\n544 en el detalle de la operación\nindicaremos una observación de lo que se desea registrar en el documento para\neste ejemplo vamos a indicar en el detalle préstamo\na empleado diego lópez\nle indicaremos que dicha causa acción se realizará el día 15 de noviembre\nen el campo cuenta por cobrar indicaremos el valor del préstamo para\neste ejemplo 800 mil pesos y al lado derecho indicaremos a quien le\nestamos prestando y la forma de pago en el campo cobrar a debemos de\nseleccionar de nuestro catálogo de terceros el empleado al cual estamos\nrealizando el préstamo en este caso el señor diego lópez\ny debemos indicar la cuenta para la cuenta por cobrar\npara este ejemplo una cuenta de las 365 cuentas por cobrar a trabajadores\nrecordemos que con digitar parte del código al abrir el catálogo de cuentas\nveremos sólo las cuentas que inician por el código solicitado en este caso solo\nlas cuentas que inician por el código 1365\n1365 seleccionaremos entonces la 13 65 95\ncomo estamos generando el préstamo a nuestro empleado a cuotas vamos a darle\nclic en el botón programación de cuotas para indicarle el número de cuotas la\nindicaremos que se cancelará en cinco cuotas iguales\ny le vamos a dar clic en el botón programar cuotas\nel sistema nos sugiere la fecha en la que deberá ser cancelada cada cuota y el\nvalor de cada una pero nosotros podemos modificarlos de acuerdo a las\nnecesidades vamos a dejarlo como lo sugiere el sistema\ny le vamos a dar clic en el botón de aceptar para guardar los cambios y\nfinalizar para mayor información sobre la programación por cuotas remitirse al\nvídeo programación a cuotas observemos que en fecha de pago el\nsistema automáticamente me pone la fecha de la última cuota y en el campo\ndescripción de cuenta por cobrar el sistema nos indica que se está generando\nuna cuenta por cobrar en cinco cuotas a diego lópez cardona\nvamos a darle clic en el botón siguiente para continuar con el registro de la\noperación en este paso debemos indicar el origen\nde los fondos para el dinero prestado para este ejemplo indicaremos que el\ny al lado derecho debemos indicar la cuenta de banco\nvamos a seleccionar la de nuestro catálogo de cuentas la cuenta de banco\nnacional y le indicaremos el tipo de movimiento\nque para el ejemplo indicaremos que fue un cheque girado a la fecha\nel número indicaremos el número del cheque\nal igual que la fecha de la transacción\nsi damos clic en el botón de imprimir podemos ver la vista previa de la\npara finalizar haremos un clic en auto procesar y aceptar\nobservemos que me quedo creada la cuenta por cobrar y ésta se encuentra procesada\nvamos a generar un informe de cuentas por cobrar para visualizar el préstamo\nrealizado al tercero diego lópez recordemos que para generar el informe\ningresamos por la pestaña de contabilidad\ncontabilidad cartera y vamos a generar por ejemplo el\ninforme de detalle de cuentas por cobrar debemos indicarle la fecha en la que\nqueremos consultar nuestro informe vamos a dejarle la que el sistema nos sugiere\nel 30 de noviembre del 2011 que recordemos que esta fecha la toma de la\nfecha de trabajo vamos a indicarle que nos muestre las cuentas por cobrar para\nle damos clic en el botón de ver reporte y observemos que me muestra entonces el\ndetalle para la cuenta que tiene el señor diego lópez cardona indicándome\nque tiene 54 la fecha de creación de la operación la fecha de pago de cada una\nde las cuotas y el plazo que tiene a la fecha\nesto es todo acerca del ejemplo préstamo empleado a cuotas"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 259.453,
+    "asr": 44100,
+    "filesizeApprox": 12367508,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/SpFgAYfVbAI.md",
+    "json": "videos/2011/SpFgAYfVbAI.json",
+    "infoJson": "videos/2011/SpFgAYfVbAI.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos"
+}

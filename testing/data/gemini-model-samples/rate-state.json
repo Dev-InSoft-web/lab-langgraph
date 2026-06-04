@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2026-06-04T14:13:27.351Z",
+  "rpdLimitPerKey": 250,
+  "keys": {
+    "GEMINI_API_KEY": {
+      "utcDay": "2026-06-04",
+      "requestCount": 7,
+      "cooldownUntil": "2026-06-04T14:14:57.351Z",
+      "lastQuotaHint": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: lyria-3-clip\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content"
+    },
+    "GEMINI_API_KEY_2": {
+      "utcDay": "2026-06-04",
+      "requestCount": 5,
+      "cooldownUntil": null,
+      "lastQuotaHint": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\\n* Quota exceeded for metric: generativelanguage.googleapis.co"
+    }
+  }
+}

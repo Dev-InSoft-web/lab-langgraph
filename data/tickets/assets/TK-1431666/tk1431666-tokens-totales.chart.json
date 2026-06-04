@@ -1,0 +1,51 @@
+{
+	"type": "bar",
+	"data": {
+		"labels": [
+			"Instrucciones Base (13 tipos)",
+			"Ultra"
+		],
+		"datasets": [
+			{
+				"label": "Tokens de instrucción",
+				"data": [
+					23520,
+					13825
+				],
+				"backgroundColor": [
+					"#4472C4",
+					"#70AD47"
+				]
+			}
+		]
+	},
+	"options": {
+		"plugins": {
+			"title": {
+				"display": true,
+				"text": "Reducción 41% en tokens de instrucción reinyectada por turno",
+				"font": {
+					"size": 14
+				}
+			},
+			"subtitle": {
+				"display": true,
+				"text": "23.520 → 13.825 tokens · 113.212 → 62.031 caracteres"
+			},
+			"datalabels": {
+				"display": true,
+				"anchor": "end",
+				"align": "top"
+			}
+		},
+		"scales": {
+			"y": {
+				"beginAtZero": true,
+				"title": {
+					"display": true,
+					"text": "Tokens"
+				}
+			}
+		}
+	}
+}

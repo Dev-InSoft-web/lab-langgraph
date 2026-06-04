@@ -1,0 +1,32 @@
+{
+  "IsEncrypted": false,
+  "Host": { "LocalHttpPort": 5500, "CORS": "*" },
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureSignalRConnectionString": "Endpoint=https://<sigr>.service.signalr.net;AccessKey=...;Version=1.0;",
+    "SIGNALR_HUB_NAME": "lab",
+    "LAB_NOTIFY_TOKEN": "",
+
+    "PATY_DATABASE_URL": "postgresql://USER:PASS@HOST/langlab",
+    "CLIENTESIS_DATABASE_URL": "postgresql://USER:PASS@HOST/clientesis_lab",
+    "DATABASE_URL": "postgresql://USER:PASS@HOST/langlab",
+    "RAG_DATABASE_URL": "postgresql://USER:PASS@HOST/rag_5hen",
+
+    "CLIENTESIS_MSSQL_HOST": "mssql2.insoft.co",
+    "CLIENTESIS_MSSQL_PORT": "51433",
+    "CLIENTESIS_MSSQL_USER": "",
+    "CLIENTESIS_MSSQL_PASS": "",
+    "CLIENTESIS_MSSQL_DB": "CLIENTES",
+
+    "PATY_MSSQL_HOST": "mssql2.insoft.co",
+    "PATY_MSSQL_PORT": "51433",
+    "PATY_MSSQL_USER": "",
+    "PATY_MSSQL_PASS": "",
+    "PATY_MSSQL_DB": "AYUDASCP_IA_STAGING",
+
+    "GROQ_API_KEY": "",
+    "HUGGINGFACE_API_KEY": "",
+    "OPENAI_API_KEY": ""
+  }
+}

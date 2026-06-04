@@ -1,0 +1,29 @@
+{
+	"name": "Mensaje",
+	"description": "Mensajes calificados (👍 / 👎) sobre respuestas del asistente.",
+	"item": [
+		{
+			"name": "POST - Mensaje calificado",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+				},
+				"method": "POST",
+				"header": [{ "key": "Content-Type", "value": "application/json" }],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"iconversacion\": \"{{iconversacion}}\",\n    \"butil\": true,\n    \"contenido\": \"Respuesta de prueba del asistente — mensaje calificado como útil.\",\n    \"ireferencia\": 1757081809\n}",
+					"options": { "raw": { "language": "json" } }
+				},
+				"url": {
+					"raw": "{{HOST}}/api/mensaje",
+					"host": ["{{HOST}}"],
+					"path": ["api", "mensaje"]
+				},
+				"description": "Registra una calificación (`butil`) sobre un mensaje (`ireferencia` = fecha-hora epoch del mensaje en el hilo) y persiste su contenido."
+			},
+			"response": []
+		}
+	]
+}

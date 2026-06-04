@@ -1,0 +1,1472 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:03.919 --> 00:00:06.710 align:start position:0%
+ 
+cantidad<00:00:04.440><c> de</c><00:00:04.560><c> existencias</c><00:00:05.560><c> que</c><00:00:06.160><c> es</c><00:00:06.480><c> para</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+cantidad de existencias que es para
+ 
+
+00:00:06.720 --> 00:00:09.830 align:start position:0%
+cantidad de existencias que es para
+obtener<00:00:07.399><c> la</c><00:00:07.799><c> cantidad</c><00:00:08.480><c> de</c><00:00:08.599><c> las</c><00:00:08.840><c> existencias</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+obtener la cantidad de las existencias
+ 
+
+00:00:09.840 --> 00:00:13.270 align:start position:0%
+obtener la cantidad de las existencias
+en<00:00:10.320><c> inventario</c><00:00:11.320><c> Sí</c><00:00:12.160><c> entonces</c><00:00:12.599><c> lo</c><00:00:12.719><c> que</c><00:00:12.880><c> hay</c><00:00:13.080><c> que</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+en inventario Sí entonces lo que hay que
+ 
+
+00:00:13.280 --> 00:00:14.470 align:start position:0%
+en inventario Sí entonces lo que hay que
+dar
+
+00:00:14.470 --> 00:00:14.480 align:start position:0%
+dar
+ 
+
+00:00:14.480 --> 00:00:17.390 align:start position:0%
+dar
+es<00:00:15.480><c> Obviamente</c><00:00:16.279><c> si</c><00:00:16.440><c> estamos</c><00:00:16.760><c> preguntando</c><00:00:17.240><c> por</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+es Obviamente si estamos preguntando por
+ 
+
+00:00:17.400 --> 00:00:19.189 align:start position:0%
+es Obviamente si estamos preguntando por
+un<00:00:17.680><c> inventario</c><00:00:18.199><c> Entonces</c><00:00:18.520><c> tenemos</c><00:00:18.760><c> que</c><00:00:18.960><c> dar</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+un inventario Entonces tenemos que dar
+ 
+
+00:00:19.199 --> 00:00:21.230 align:start position:0%
+un inventario Entonces tenemos que dar
+primero<00:00:19.560><c> que</c><00:00:19.640><c> todo</c><00:00:19.960><c> la</c>
+
+00:00:21.230 --> 00:00:21.240 align:start position:0%
+primero que todo la
+ 
+
+00:00:21.240 --> 00:00:24.950 align:start position:0%
+primero que todo la
+bodega<00:00:22.240><c> que</c><00:00:22.560><c> es</c><00:00:22.680><c> el</c><00:00:22.840><c> código</c><00:00:23.240><c> de</c><00:00:23.359><c> la</c><00:00:23.960><c> bodega</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+bodega que es el código de la bodega
+ 
+
+00:00:24.960 --> 00:00:27.230 align:start position:0%
+bodega que es el código de la bodega
+luego<00:00:25.439><c> el</c><00:00:25.640><c> identificador</c><00:00:26.400><c> del</c><00:00:26.720><c> elemento</c><00:00:27.080><c> o</c>
+
+00:00:27.230 --> 00:00:27.240 align:start position:0%
+luego el identificador del elemento o
+ 
+
+00:00:27.240 --> 00:00:28.950 align:start position:0%
+luego el identificador del elemento o
+sea<00:00:27.480><c> el</c><00:00:27.599><c> código</c><00:00:27.960><c> del</c>
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+sea el código del
+ 
+
+00:00:28.960 --> 00:00:33.310 align:start position:0%
+sea el código del
+elemento<00:00:30.240><c> y</c><00:00:30.480><c> luego</c><00:00:30.920><c> la</c><00:00:31.160><c> fecha</c><00:00:31.400><c> a</c><00:00:32.000><c> la</c><00:00:32.160><c> cual</c><00:00:33.040><c> yo</c>
+
+00:00:33.310 --> 00:00:33.320 align:start position:0%
+elemento y luego la fecha a la cual yo
+ 
+
+00:00:33.320 --> 00:00:35.670 align:start position:0%
+elemento y luego la fecha a la cual yo
+quiero<00:00:33.640><c> obtener</c><00:00:34.360><c> el</c><00:00:34.559><c> estado</c><00:00:34.920><c> actual</c><00:00:35.239><c> de</c><00:00:35.360><c> las</c>
+
+00:00:35.670 --> 00:00:35.680 align:start position:0%
+quiero obtener el estado actual de las
+ 
+
+00:00:35.680 --> 00:00:37.310 align:start position:0%
+quiero obtener el estado actual de las
+existencias<00:00:36.360><c> o</c><00:00:36.520><c> sea</c><00:00:36.719><c> el</c><00:00:36.840><c> saldo</c><00:00:37.120><c> de</c>
+
+00:00:37.310 --> 00:00:37.320 align:start position:0%
+existencias o sea el saldo de
+ 
+
+00:00:37.320 --> 00:00:39.510 align:start position:0%
+existencias o sea el saldo de
+inventarios<00:00:38.040><c> en</c><00:00:38.239><c> esa</c><00:00:38.480><c> fecha</c>
+
+00:00:39.510 --> 00:00:39.520 align:start position:0%
+inventarios en esa fecha
+ 
+
+00:00:39.520 --> 00:00:42.430 align:start position:0%
+inventarios en esa fecha
+específica<00:00:40.520><c> entonces</c><00:00:41.200><c> para</c><00:00:41.360><c> eso</c><00:00:41.600><c> se</c><00:00:41.760><c> usa</c>
+
+00:00:42.430 --> 00:00:42.440 align:start position:0%
+específica entonces para eso se usa
+ 
+
+00:00:42.440 --> 00:00:44.950 align:start position:0%
+específica entonces para eso se usa
+cantidad<00:00:42.960><c> de</c>
+
+00:00:44.950 --> 00:00:44.960 align:start position:0%
+cantidad de
+ 
+
+00:00:44.960 --> 00:00:47.590 align:start position:0%
+cantidad de
+existencias<00:00:45.960><c> veamos</c><00:00:46.480><c> Aquí</c><00:00:46.719><c> voy</c><00:00:46.879><c> a</c><00:00:47.039><c> hacer</c><00:00:47.239><c> un</c>
+
+00:00:47.590 --> 00:00:47.600 align:start position:0%
+existencias veamos Aquí voy a hacer un
+ 
+
+00:00:47.600 --> 00:00:51.350 align:start position:0%
+existencias veamos Aquí voy a hacer un
+ejercicio<00:00:48.600><c> en</c><00:00:48.879><c> este</c><00:00:49.120><c> caso</c><00:00:49.920><c> voy</c><00:00:50.199><c> a</c><00:00:50.480><c> colocar</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+ejercicio en este caso voy a colocar
+ 
+
+00:00:51.360 --> 00:00:54.029 align:start position:0%
+ejercicio en este caso voy a colocar
+bodega<00:00:51.920><c> dos</c><00:00:52.600><c> para</c><00:00:52.920><c> que</c><00:00:53.199><c> aquí</c><00:00:53.320><c> tengo</c><00:00:53.600><c> anotado</c>
+
+00:00:54.029 --> 00:00:54.039 align:start position:0%
+bodega dos para que aquí tengo anotado
+ 
+
+00:00:54.039 --> 00:00:55.670 align:start position:0%
+bodega dos para que aquí tengo anotado
+Que<00:00:54.160><c> aquí</c><00:00:54.320><c> hay</c><00:00:54.480><c> una</c><00:00:54.600><c> bodega</c><00:00:54.960><c> que</c><00:00:55.039><c> es</c><00:00:55.120><c> la</c><00:00:55.239><c> dos</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+Que aquí hay una bodega que es la dos
+ 
+
+00:00:55.680 --> 00:01:00.270 align:start position:0%
+Que aquí hay una bodega que es la dos
+voy<00:00:55.879><c> a</c><00:00:56.120><c> ponerle</c><00:00:57.120><c> que</c><00:00:57.559><c> en</c><00:00:57.719><c> el</c><00:00:57.879><c> año</c><00:00:58.719><c> 2012</c><00:00:59.519><c> aquí</c>
+
+00:01:00.270 --> 00:01:00.280 align:start position:0%
+voy a ponerle que en el año 2012 aquí
+ 
+
+00:01:00.280 --> 00:01:03.430 align:start position:0%
+voy a ponerle que en el año 2012 aquí
+algo<00:01:00.519><c> pues</c><00:01:00.719><c> ya</c><00:01:01.199><c> precho</c><00:01:02.199><c> Y</c><00:01:02.840><c> entonces</c><00:01:03.239><c> aquí</c>
+
+00:01:03.430 --> 00:01:03.440 align:start position:0%
+algo pues ya precho Y entonces aquí
+ 
+
+00:01:03.440 --> 00:01:05.789 align:start position:0%
+algo pues ya precho Y entonces aquí
+tengo<00:01:03.719><c> fecha</c><00:01:04.000><c> inicial</c><00:01:04.360><c> y</c><00:01:04.519><c> fecha</c><00:01:04.799><c> final</c><00:01:05.119><c> 2012</c>
+
+00:01:05.789 --> 00:01:05.799 align:start position:0%
+tengo fecha inicial y fecha final 2012
+ 
+
+00:01:05.799 --> 00:01:07.990 align:start position:0%
+tengo fecha inicial y fecha final 2012
+eso<00:01:06.040><c> ya</c><00:01:06.119><c> lo</c><00:01:06.240><c> saben</c><00:01:06.520><c> hacer</c><00:01:06.760><c> todos</c><00:01:07.320><c> este</c><00:01:07.680><c> es</c><00:01:07.840><c> el</c>
+
+00:01:07.990 --> 00:01:08.000 align:start position:0%
+eso ya lo saben hacer todos este es el
+ 
+
+00:01:08.000 --> 00:01:09.990 align:start position:0%
+eso ya lo saben hacer todos este es el
+código<00:01:08.280><c> de</c><00:01:08.320><c> la</c><00:01:08.439><c> bodega</c><00:01:08.840><c> que</c><00:01:08.920><c> es</c><00:01:09.040><c> un</c><00:01:09.119><c> dato</c><00:01:09.640><c> muy</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+código de la bodega que es un dato muy
+ 
+
+00:01:10.000 --> 00:01:12.590 align:start position:0%
+código de la bodega que es un dato muy
+importante<00:01:11.000><c> voy</c><00:01:11.240><c> a</c><00:01:11.360><c> ponerlo</c><00:01:11.720><c> aquí</c><00:01:11.920><c> con</c>
+
+00:01:12.590 --> 00:01:12.600 align:start position:0%
+importante voy a ponerlo aquí con
+ 
+
+00:01:12.600 --> 00:01:17.550 align:start position:0%
+importante voy a ponerlo aquí con
+verdecito<00:01:13.640><c> Sí</c><00:01:14.640><c> y</c><00:01:15.200><c> el</c><00:01:15.479><c> año</c><00:01:16.200><c> 2012</c><00:01:17.080><c> también</c><00:01:17.320><c> es</c><00:01:17.439><c> un</c>
+
+00:01:17.550 --> 00:01:17.560 align:start position:0%
+verdecito Sí y el año 2012 también es un
+ 
+
+00:01:17.560 --> 00:01:18.990 align:start position:0%
+verdecito Sí y el año 2012 también es un
+dato<00:01:17.759><c> de</c><00:01:17.920><c> entrada</c><00:01:18.240><c> también</c><00:01:18.479><c> lo</c><00:01:18.560><c> voy</c><00:01:18.680><c> a</c><00:01:18.759><c> poner</c>
+
+00:01:18.990 --> 00:01:19.000 align:start position:0%
+dato de entrada también lo voy a poner
+ 
+
+00:01:19.000 --> 00:01:21.710 align:start position:0%
+dato de entrada también lo voy a poner
+en<00:01:19.520><c> verde</c><00:01:20.520><c> y</c>
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+en verde y
+ 
+
+00:01:21.720 --> 00:01:23.990 align:start position:0%
+en verde y
+entonces<00:01:22.720><c> voy</c><00:01:22.960><c> a</c><00:01:23.079><c> poner</c>
+
+00:01:23.990 --> 00:01:24.000 align:start position:0%
+entonces voy a poner
+ 
+
+00:01:24.000 --> 00:01:28.910 align:start position:0%
+entonces voy a poner
+aquí<00:01:25.000><c> los</c><00:01:25.280><c> códigos</c>
+
+00:01:28.910 --> 00:01:28.920 align:start position:0%
+ 
+ 
+
+00:01:28.920 --> 00:01:31.630 align:start position:0%
+ 
+1100<00:01:29.880><c> 21</c>
+
+00:01:31.630 --> 00:01:31.640 align:start position:0%
+1100 21
+ 
+
+00:01:31.640 --> 00:01:34.350 align:start position:0%
+1100 21
+10
+
+00:01:34.350 --> 00:01:34.360 align:start position:0%
+10
+ 
+
+00:01:34.360 --> 00:01:36.910 align:start position:0%
+10
+4150<00:01:35.360><c> Estoy</c><00:01:35.720><c> buscando</c><00:01:36.119><c> elementos</c><00:01:36.520><c> que</c><00:01:36.600><c> tengan</c>
+
+00:01:36.910 --> 00:01:36.920 align:start position:0%
+4150 Estoy buscando elementos que tengan
+ 
+
+00:01:36.920 --> 00:01:38.670 align:start position:0%
+4150 Estoy buscando elementos que tengan
+pues<00:01:37.200><c> movimiento</c><00:01:37.600><c> como</c><00:01:37.720><c> para</c><00:01:38.000><c> poder</c><00:01:38.200><c> hacer</c><00:01:38.479><c> el</c>
+
+00:01:38.670 --> 00:01:38.680 align:start position:0%
+pues movimiento como para poder hacer el
+ 
+
+00:01:38.680 --> 00:01:40.190 align:start position:0%
+pues movimiento como para poder hacer el
+ejercicio
+
+00:01:40.190 --> 00:01:40.200 align:start position:0%
+ejercicio
+ 
+
+00:01:40.200 --> 00:01:43.270 align:start position:0%
+ejercicio
+611<00:01:41.200><c> este</c><00:01:41.560><c> ejercicio</c><00:01:41.960><c> tiene</c><00:01:42.159><c> datos</c><00:01:42.520><c> es</c><00:01:42.759><c> en</c><00:01:42.880><c> el</c>
+
+00:01:43.270 --> 00:01:43.280 align:start position:0%
+611 este ejercicio tiene datos es en el
+ 
+
+00:01:43.280 --> 00:01:47.149 align:start position:0%
+611 este ejercicio tiene datos es en el
+2011<00:01:44.280><c> entonces</c><00:01:44.759><c> voy</c><00:01:45.119><c> a</c><00:01:46.119><c> hacer</c><00:01:46.560><c> que</c><00:01:46.640><c> me</c><00:01:46.799><c> salga</c>
+
+00:01:47.149 --> 00:01:47.159 align:start position:0%
+2011 entonces voy a hacer que me salga
+ 
+
+00:01:47.159 --> 00:01:49.350 align:start position:0%
+2011 entonces voy a hacer que me salga
+este<00:01:47.320><c> pequeño</c><00:01:47.640><c> cuadrito</c><00:01:48.119><c> que</c><00:01:48.280><c> es</c><00:01:48.520><c> dado</c><00:01:49.240><c> un</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+este pequeño cuadrito que es dado un
+ 
+
+00:01:49.360 --> 00:01:52.870 align:start position:0%
+este pequeño cuadrito que es dado un
+código<00:01:49.680><c> de</c><00:01:49.840><c> un</c><00:01:50.000><c> elemento</c><00:01:50.920><c> voy</c><00:01:51.399><c> a</c><00:01:51.520><c> ponerlo</c><00:01:51.960><c> más</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+código de un elemento voy a ponerlo más
+ 
+
+00:01:52.880 --> 00:01:56.469 align:start position:0%
+código de un elemento voy a ponerlo más
+pequeñito<00:01:53.880><c> que</c><00:01:54.040><c> me</c><00:01:54.159><c> saque</c><00:01:54.680><c> el</c><00:01:55.240><c> nombre</c><00:01:56.240><c> la</c>
+
+00:01:56.469 --> 00:01:56.479 align:start position:0%
+pequeñito que me saque el nombre la
+ 
+
+00:01:56.479 --> 00:01:58.749 align:start position:0%
+pequeñito que me saque el nombre la
+unidad<00:01:56.880><c> del</c><00:01:57.119><c> elemento</c><00:01:57.759><c> pongamoslo</c><00:01:58.600><c> más</c>
+
+00:01:58.749 --> 00:01:58.759 align:start position:0%
+unidad del elemento pongamoslo más
+ 
+
+00:01:58.759 --> 00:02:02.109 align:start position:0%
+unidad del elemento pongamoslo más
+pequeñito<00:01:59.399><c> y</c><00:01:59.960><c> la</c><00:02:00.039><c> cantidad</c><00:02:00.360><c> de</c>
+
+00:02:02.109 --> 00:02:02.119 align:start position:0%
+pequeñito y la cantidad de
+ 
+
+00:02:02.119 --> 00:02:04.910 align:start position:0%
+pequeñito y la cantidad de
+inexistencias<00:02:03.119><c> Entonces</c><00:02:03.600><c> le</c><00:02:03.719><c> voy</c><00:02:03.880><c> a</c><00:02:03.960><c> decir</c>
+
+00:02:04.910 --> 00:02:04.920 align:start position:0%
+inexistencias Entonces le voy a decir
+ 
+
+00:02:04.920 --> 00:02:06.990 align:start position:0%
+inexistencias Entonces le voy a decir
+igual<00:02:05.920><c> ya</c><00:02:06.000><c> vimos</c><00:02:06.240><c> que</c><00:02:06.320><c> hay</c><00:02:06.520><c> una</c><00:02:06.640><c> función</c><00:02:06.920><c> que</c>
+
+00:02:06.990 --> 00:02:07.000 align:start position:0%
+igual ya vimos que hay una función que
+ 
+
+00:02:07.000 --> 00:02:10.510 align:start position:0%
+igual ya vimos que hay una función que
+se<00:02:07.079><c> llama</c><00:02:07.360><c> nombre</c>
+
+00:02:10.510 --> 00:02:10.520 align:start position:0%
+ 
+ 
+
+00:02:10.520 --> 00:02:13.750 align:start position:0%
+ 
+elemento<00:02:11.520><c> y</c><00:02:12.000><c> le</c><00:02:12.319><c> voy</c><00:02:12.480><c> a</c><00:02:12.599><c> colocar</c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+elemento y le voy a colocar
+ 
+
+00:02:13.760 --> 00:02:18.270 align:start position:0%
+elemento y le voy a colocar
+aquí<00:02:15.000><c> listo</c><00:02:16.000><c> copio</c><00:02:16.440><c> eso</c><00:02:17.319><c> ya</c><00:02:17.560><c> me</c><00:02:17.680><c> calculó</c><00:02:18.160><c> los</c>
+
+00:02:18.270 --> 00:02:18.280 align:start position:0%
+aquí listo copio eso ya me calculó los
+ 
+
+00:02:18.280 --> 00:02:20.229 align:start position:0%
+aquí listo copio eso ya me calculó los
+nombres<00:02:18.640><c> Ahora</c><00:02:18.840><c> quiero</c><00:02:19.040><c> que</c><00:02:19.120><c> me</c><00:02:19.640><c> traigan</c><00:02:20.080><c> las</c>
+
+00:02:20.229 --> 00:02:20.239 align:start position:0%
+nombres Ahora quiero que me traigan las
+ 
+
+00:02:20.239 --> 00:02:22.070 align:start position:0%
+nombres Ahora quiero que me traigan las
+unidades<00:02:20.720><c> igual</c>
+
+00:02:22.070 --> 00:02:22.080 align:start position:0%
+unidades igual
+ 
+
+00:02:22.080 --> 00:02:26.710 align:start position:0%
+unidades igual
+unidad
+
+00:02:26.710 --> 00:02:26.720 align:start position:0%
+ 
+ 
+
+00:02:26.720 --> 00:02:30.350 align:start position:0%
+ 
+elemento<00:02:27.720><c> le</c><00:02:27.800><c> digo</c><00:02:28.040><c> el</c><00:02:28.200><c> código</c><00:02:28.840><c> observen</c><00:02:30.120><c> no</c>
+
+00:02:30.350 --> 00:02:30.360 align:start position:0%
+elemento le digo el código observen no
+ 
+
+00:02:30.360 --> 00:02:31.750 align:start position:0%
+elemento le digo el código observen no
+el<00:02:30.519><c> nombre</c><00:02:30.800><c> ojo</c><00:02:31.040><c> que</c><00:02:31.160><c> muchas</c><00:02:31.360><c> veces</c><00:02:31.599><c> se</c>
+
+00:02:31.750 --> 00:02:31.760 align:start position:0%
+el nombre ojo que muchas veces se
+ 
+
+00:02:31.760 --> 00:02:37.070 align:start position:0%
+el nombre ojo que muchas veces se
+equivocan<00:02:32.160><c> es</c><00:02:32.319><c> dando</c><00:02:32.560><c> el</c><00:02:32.720><c> nombre</c><00:02:33.239><c> en</c><00:02:33.599><c> es</c><00:02:34.239><c> el</c>
+
+00:02:37.070 --> 00:02:37.080 align:start position:0%
+ 
+ 
+
+00:02:37.080 --> 00:02:39.430 align:start position:0%
+ 
+código<00:02:38.080><c> tengo</c>
+
+00:02:39.430 --> 00:02:39.440 align:start position:0%
+código tengo
+ 
+
+00:02:39.440 --> 00:02:42.869 align:start position:0%
+código tengo
+unidad<00:02:40.440><c> parece</c><00:02:40.800><c> que</c><00:02:40.920><c> todos</c><00:02:41.200><c> tienen</c><00:02:41.720><c> und</c><00:02:42.640><c> como</c>
+
+00:02:42.869 --> 00:02:42.879 align:start position:0%
+unidad parece que todos tienen und como
+ 
+
+00:02:42.879 --> 00:02:45.830 align:start position:0%
+unidad parece que todos tienen und como
+unidad<00:02:43.560><c> y</c><00:02:43.840><c> luego</c><00:02:44.159><c> digo</c><00:02:44.519><c> existencias</c><00:02:45.280><c> en</c><00:02:45.440><c> el</c>
+
+00:02:45.830 --> 00:02:45.840 align:start position:0%
+unidad y luego digo existencias en el
+ 
+
+00:02:45.840 --> 00:02:49.070 align:start position:0%
+unidad y luego digo existencias en el
+del<00:02:46.080><c> elemento</c><00:02:46.480><c> Entonces</c><00:02:47.040><c> no</c><00:02:47.480><c> olvidemos</c><00:02:48.080><c> que</c>
+
+00:02:49.070 --> 00:02:49.080 align:start position:0%
+del elemento Entonces no olvidemos que
+ 
+
+00:02:49.080 --> 00:02:51.309 align:start position:0%
+del elemento Entonces no olvidemos que
+hay<00:02:49.360><c> que</c><00:02:49.560><c> dar</c><00:02:49.879><c> el</c><00:02:50.159><c> código</c><00:02:50.560><c> de</c><00:02:50.680><c> la</c>
+
+00:02:51.309 --> 00:02:51.319 align:start position:0%
+hay que dar el código de la
+ 
+
+00:02:51.319 --> 00:02:54.309 align:start position:0%
+hay que dar el código de la
+bodega<00:02:52.319><c> el</c><00:02:52.680><c> identificador</c><00:02:53.319><c> del</c><00:02:53.560><c> elemento</c><00:02:54.159><c> y</c>
+
+00:02:54.309 --> 00:02:54.319 align:start position:0%
+bodega el identificador del elemento y
+ 
+
+00:02:54.319 --> 00:02:57.630 align:start position:0%
+bodega el identificador del elemento y
+la<00:02:54.440><c> fecha</c><00:02:54.920><c> finalización</c><00:02:55.920><c> ahora</c><00:02:56.319><c> observen</c><00:02:57.239><c> que</c>
+
+00:02:57.630 --> 00:02:57.640 align:start position:0%
+la fecha finalización ahora observen que
+ 
+
+00:02:57.640 --> 00:02:59.390 align:start position:0%
+la fecha finalización ahora observen que
+como<00:02:57.920><c> todas</c><00:02:58.280><c> las</c><00:02:58.400><c> otras</c><00:02:58.680><c> funciones</c><00:02:59.040><c> también</c>
+
+00:02:59.390 --> 00:02:59.400 align:start position:0%
+como todas las otras funciones también
+ 
+
+00:02:59.400 --> 00:03:02.070 align:start position:0%
+como todas las otras funciones también
+un<00:02:59.800><c> podí</c><00:03:00.080><c> darle</c><00:03:00.319><c> la</c><00:03:00.400><c> empresa</c><00:03:00.879><c> y</c><00:03:01.040><c> el</c><00:03:01.200><c> centro</c><00:03:01.519><c> de</c>
+
+00:03:02.070 --> 00:03:02.080 align:start position:0%
+un podí darle la empresa y el centro de
+ 
+
+00:03:02.080 --> 00:03:05.869 align:start position:0%
+un podí darle la empresa y el centro de
+costos<00:03:03.080><c> en</c><00:03:03.319><c> este</c><00:03:03.519><c> caso</c><00:03:03.840><c> origen</c><00:03:04.599><c> O</c><00:03:04.840><c> sea</c><00:03:05.360><c> que</c><00:03:05.560><c> si</c>
+
+00:03:05.869 --> 00:03:05.879 align:start position:0%
+costos en este caso origen O sea que si
+ 
+
+00:03:05.879 --> 00:03:07.949 align:start position:0%
+costos en este caso origen O sea que si
+estamos<00:03:06.319><c> en</c><00:03:06.480><c> un</c><00:03:06.760><c> centro</c><00:03:07.080><c> de</c><00:03:07.200><c> producción</c>
+
+00:03:07.949 --> 00:03:07.959 align:start position:0%
+estamos en un centro de producción
+ 
+
+00:03:07.959 --> 00:03:10.789 align:start position:0%
+estamos en un centro de producción
+podríamos<00:03:08.480><c> decir</c><00:03:08.840><c> bueno</c><00:03:09.200><c> Cuántos</c><00:03:10.040><c> elementos</c>
+
+00:03:10.789 --> 00:03:10.799 align:start position:0%
+podríamos decir bueno Cuántos elementos
+ 
+
+00:03:10.799 --> 00:03:14.350 align:start position:0%
+podríamos decir bueno Cuántos elementos
+de<00:03:11.040><c> este</c><00:03:11.280><c> tipo</c><00:03:11.560><c> hay</c><00:03:12.239><c> pero</c><00:03:12.519><c> que</c><00:03:13.040><c> vengan</c><00:03:13.400><c> de</c><00:03:13.959><c> tal</c>
+
+00:03:14.350 --> 00:03:14.360 align:start position:0%
+de este tipo hay pero que vengan de tal
+ 
+
+00:03:14.360 --> 00:03:16.789 align:start position:0%
+de este tipo hay pero que vengan de tal
+centro<00:03:14.720><c> de</c><00:03:14.799><c> costos</c><00:03:15.120><c> de</c><00:03:15.200><c> producción</c><00:03:15.799><c> puede</c><00:03:16.000><c> ser</c>
+
+00:03:16.789 --> 00:03:16.799 align:start position:0%
+centro de costos de producción puede ser
+ 
+
+00:03:16.799 --> 00:03:19.030 align:start position:0%
+centro de costos de producción puede ser
+una<00:03:17.000><c> finca</c><00:03:17.319><c> agrícola</c><00:03:17.760><c> un</c><00:03:17.879><c> cultivo</c><00:03:18.280><c> un</c><00:03:18.360><c> lote</c>
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+una finca agrícola un cultivo un lote
+ 
+
+00:03:19.040 --> 00:03:21.710 align:start position:0%
+una finca agrícola un cultivo un lote
+etcétera<00:03:20.040><c> entonces</c><00:03:20.760><c> vamos</c><00:03:20.920><c> a</c><00:03:21.080><c> decir</c><00:03:21.400><c> aquí</c>
+
+00:03:21.710 --> 00:03:21.720 align:start position:0%
+etcétera entonces vamos a decir aquí
+ 
+
+00:03:21.720 --> 00:03:26.910 align:start position:0%
+etcétera entonces vamos a decir aquí
+igual<00:03:23.080><c> cantidad</c>
+
+00:03:26.910 --> 00:03:26.920 align:start position:0%
+ 
+ 
+
+00:03:26.920 --> 00:03:29.910 align:start position:0%
+ 
+existencias<00:03:27.920><c> Muy</c><00:03:28.159><c> bien</c><00:03:28.760><c> Entonces</c><00:03:29.319><c> primero</c>
+
+00:03:29.910 --> 00:03:29.920 align:start position:0%
+existencias Muy bien Entonces primero
+ 
+
+00:03:29.920 --> 00:03:32.309 align:start position:0%
+existencias Muy bien Entonces primero
+todo<00:03:30.080><c> tengo</c><00:03:30.280><c> que</c><00:03:30.360><c> dar</c><00:03:30.519><c> la</c><00:03:30.640><c> bodega</c><00:03:31.319><c> observemos</c>
+
+00:03:32.309 --> 00:03:32.319 align:start position:0%
+todo tengo que dar la bodega observemos
+ 
+
+00:03:32.319 --> 00:03:33.190 align:start position:0%
+todo tengo que dar la bodega observemos
+acá<00:03:32.519><c> la</c>
+
+00:03:33.190 --> 00:03:33.200 align:start position:0%
+acá la
+ 
+
+00:03:33.200 --> 00:03:37.309 align:start position:0%
+acá la
+fijamos<00:03:34.360><c> luego</c><00:03:35.360><c> tengo</c><00:03:35.680><c> que</c><00:03:35.920><c> dar</c><00:03:36.599><c> el</c><00:03:36.959><c> código</c>
+
+00:03:37.309 --> 00:03:37.319 align:start position:0%
+fijamos luego tengo que dar el código
+ 
+
+00:03:37.319 --> 00:03:40.149 align:start position:0%
+fijamos luego tengo que dar el código
+del<00:03:37.640><c> elemento</c><00:03:38.640><c> lo</c><00:03:38.879><c> tengo</c><00:03:39.159><c> acá</c><00:03:39.519><c> no</c><00:03:39.720><c> tengo</c><00:03:40.000><c> que</c>
+
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+del elemento lo tengo acá no tengo que
+ 
+
+00:03:40.159 --> 00:03:41.949 align:start position:0%
+del elemento lo tengo acá no tengo que
+fijar<00:03:40.519><c> nada</c><00:03:40.720><c> porque</c><00:03:40.840><c> no</c><00:03:40.959><c> voy</c><00:03:41.159><c> a</c><00:03:41.239><c> copiar</c><00:03:41.519><c> a</c><00:03:41.680><c> la</c>
+
+00:03:41.949 --> 00:03:41.959 align:start position:0%
+fijar nada porque no voy a copiar a la
+ 
+
+00:03:41.959 --> 00:03:43.750 align:start position:0%
+fijar nada porque no voy a copiar a la
+derecha
+
+00:03:43.750 --> 00:03:43.760 align:start position:0%
+derecha
+ 
+
+00:03:43.760 --> 00:03:46.270 align:start position:0%
+derecha
+luego<00:03:44.760><c> tengo</c><00:03:45.120><c> que</c><00:03:45.360><c> dar</c><00:03:45.640><c> la</c><00:03:45.879><c> fecha</c>
+
+00:03:46.270 --> 00:03:46.280 align:start position:0%
+luego tengo que dar la fecha
+ 
+
+00:03:46.280 --> 00:03:48.229 align:start position:0%
+luego tengo que dar la fecha
+finalización<00:03:47.080><c> o</c><00:03:47.280><c> sea</c><00:03:47.480><c> la</c><00:03:47.599><c> fecha</c><00:03:47.799><c> a</c><00:03:48.000><c> la</c><00:03:48.080><c> cual</c>
+
+00:03:48.229 --> 00:03:48.239 align:start position:0%
+finalización o sea la fecha a la cual
+ 
+
+00:03:48.239 --> 00:03:50.309 align:start position:0%
+finalización o sea la fecha a la cual
+voy<00:03:48.439><c> a</c><00:03:48.560><c> obtener</c><00:03:48.920><c> el</c><00:03:49.120><c> saldo</c><00:03:49.519><c> de</c><00:03:49.720><c> esas</c>
+
+00:03:50.309 --> 00:03:50.319 align:start position:0%
+voy a obtener el saldo de esas
+ 
+
+00:03:50.319 --> 00:03:52.789 align:start position:0%
+voy a obtener el saldo de esas
+existencias<00:03:51.319><c> y</c><00:03:51.879><c> cierro</c><00:03:52.280><c> porque</c><00:03:52.519><c> pues</c><00:03:52.760><c> la</c>
+
+00:03:52.789 --> 00:03:52.799 align:start position:0%
+existencias y cierro porque pues la
+ 
+
+00:03:52.799 --> 00:03:54.190 align:start position:0%
+existencias y cierro porque pues la
+empresa<00:03:53.120><c> va</c><00:03:53.239><c> a</c><00:03:53.319><c> hacer</c><00:03:53.480><c> la</c><00:03:53.599><c> trabajo</c><00:03:53.920><c> y</c><00:03:54.000><c> centro</c>
+
+00:03:54.190 --> 00:03:54.200 align:start position:0%
+empresa va a hacer la trabajo y centro
+ 
+
+00:03:54.200 --> 00:03:55.990 align:start position:0%
+empresa va a hacer la trabajo y centro
+de<00:03:54.280><c> costos</c><00:03:54.640><c> no</c><00:03:54.799><c> lo</c><00:03:54.879><c> voy</c><00:03:55.040><c> a</c>
+
+00:03:55.990 --> 00:03:56.000 align:start position:0%
+de costos no lo voy a
+ 
+
+00:03:56.000 --> 00:03:58.350 align:start position:0%
+de costos no lo voy a
+especificar<00:03:57.000><c> entonces</c><00:03:57.519><c> me</c><00:03:57.599><c> dicen</c><00:03:57.879><c> que</c><00:03:57.959><c> a</c><00:03:58.159><c> esta</c>
+
+00:03:58.350 --> 00:03:58.360 align:start position:0%
+especificar entonces me dicen que a esta
+ 
+
+00:03:58.360 --> 00:04:01.470 align:start position:0%
+especificar entonces me dicen que a esta
+fecha<00:03:58.760><c> tenía</c><00:04:00.200><c> unidades</c><00:04:00.720><c> aquí</c><00:04:00.959><c> Este</c><00:04:01.239><c> me</c><00:04:01.360><c> está</c>
+
+00:04:01.470 --> 00:04:01.480 align:start position:0%
+fecha tenía unidades aquí Este me está
+ 
+
+00:04:01.480 --> 00:04:04.350 align:start position:0%
+fecha tenía unidades aquí Este me está
+sobrando<00:04:01.879><c> quitos</c><00:04:02.599><c> a</c><00:04:02.959><c> esta</c><00:04:03.200><c> fecha</c><00:04:03.599><c> 31</c><00:04:04.239><c> de</c>
+
+00:04:04.350 --> 00:04:04.360 align:start position:0%
+sobrando quitos a esta fecha 31 de
+ 
+
+00:04:04.360 --> 00:04:05.550 align:start position:0%
+sobrando quitos a esta fecha 31 de
+diciembre<00:04:04.720><c> del</c>
+
+00:04:05.550 --> 00:04:05.560 align:start position:0%
+diciembre del
+ 
+
+00:04:05.560 --> 00:04:10.670 align:start position:0%
+diciembre del
+2012<00:04:06.560><c> debo</c><00:04:07.439><c> fijar</c><00:04:08.200><c> la</c><00:04:08.439><c> fecha</c><00:04:09.400><c> y</c><00:04:10.360><c> tengo</c><00:04:10.560><c> que</c>
+
+00:04:10.670 --> 00:04:10.680 align:start position:0%
+2012 debo fijar la fecha y tengo que
+ 
+
+00:04:10.680 --> 00:04:13.270 align:start position:0%
+2012 debo fijar la fecha y tengo que
+fijar<00:04:10.959><c> el</c><00:04:11.280><c> 23</c><00:04:11.879><c> porque</c><00:04:12.360><c> no</c><00:04:12.640><c> al</c><00:04:12.760><c> copiar</c><00:04:13.079><c> hacia</c>
+
+00:04:13.270 --> 00:04:13.280 align:start position:0%
+fijar el 23 porque no al copiar hacia
+ 
+
+00:04:13.280 --> 00:04:15.590 align:start position:0%
+fijar el 23 porque no al copiar hacia
+abajo<00:04:13.680><c> me</c><00:04:13.959><c> va</c><00:04:14.120><c> a</c><00:04:14.239><c> ir</c>
+
+00:04:15.590 --> 00:04:15.600 align:start position:0%
+abajo me va a ir
+ 
+
+00:04:15.600 --> 00:04:19.069 align:start position:0%
+abajo me va a ir
+bajando<00:04:16.600><c> Entonces</c><00:04:17.199><c> al</c><00:04:17.400><c> copiar</c><00:04:18.359><c> en</c><00:04:18.600><c> este</c><00:04:18.799><c> caso</c>
+
+00:04:19.069 --> 00:04:19.079 align:start position:0%
+bajando Entonces al copiar en este caso
+ 
+
+00:04:19.079 --> 00:04:21.909 align:start position:0%
+bajando Entonces al copiar en este caso
+del<00:04:19.359><c> ejemplo</c><00:04:19.759><c> Tengo</c><00:04:20.440><c> cuatro</c><00:04:21.000><c> en</c><00:04:21.320><c> cada</c><00:04:21.560><c> uno</c><00:04:21.759><c> de</c>
+
+00:04:21.909 --> 00:04:21.919 align:start position:0%
+del ejemplo Tengo cuatro en cada uno de
+ 
+
+00:04:21.919 --> 00:04:25.270 align:start position:0%
+del ejemplo Tengo cuatro en cada uno de
+esos<00:04:22.199><c> meses</c><00:04:23.199><c> de</c><00:04:23.360><c> cada</c><00:04:23.960><c> uno</c><00:04:24.960><c> es</c><00:04:25.160><c> una</c>
+
+00:04:25.270 --> 00:04:25.280 align:start position:0%
+esos meses de cada uno es una
+ 
+
+00:04:25.280 --> 00:04:26.790 align:start position:0%
+esos meses de cada uno es una
+coincidencia<00:04:25.840><c> voy</c><00:04:25.960><c> a</c><00:04:26.080><c> hacer</c><00:04:26.320><c> que</c><00:04:26.440><c> la</c><00:04:26.560><c> fecha</c>
+
+00:04:26.790 --> 00:04:26.800 align:start position:0%
+coincidencia voy a hacer que la fecha
+ 
+
+00:04:26.800 --> 00:04:32.270 align:start position:0%
+coincidencia voy a hacer que la fecha
+aquí<00:04:27.320><c> igual</c><00:04:28.720><c> fecha</c><00:04:29.840><c> calcule</c><00:04:30.280><c> como</c>
+
+00:04:32.270 --> 00:04:32.280 align:start position:0%
+aquí igual fecha calcule como
+ 
+
+00:04:32.280 --> 00:04:37.469 align:start position:0%
+aquí igual fecha calcule como
+este<00:04:33.280><c> como</c><00:04:33.639><c> año</c><00:04:34.199><c> este</c><00:04:34.800><c> como</c><00:04:35.120><c> mes</c><00:04:36.120><c> punto</c><00:04:36.520><c> y</c><00:04:36.680><c> coma</c>
+
+00:04:37.469 --> 00:04:37.479 align:start position:0%
+este como año este como mes punto y coma
+ 
+
+00:04:37.479 --> 00:04:39.870 align:start position:0%
+este como año este como mes punto y coma
+y
+
+00:04:39.870 --> 00:04:39.880 align:start position:0%
+y
+ 
+
+00:04:39.880 --> 00:04:44.469 align:start position:0%
+y
+uno<00:04:40.880><c> voy</c><00:04:41.400><c> a</c><00:04:41.560><c> dejarlo</c><00:04:42.240><c> así</c><00:04:43.120><c> y</c><00:04:43.520><c> voy</c><00:04:43.680><c> a</c><00:04:44.080><c> decirle</c>
+
+00:04:44.469 --> 00:04:44.479 align:start position:0%
+uno voy a dejarlo así y voy a decirle
+ 
+
+00:04:44.479 --> 00:04:46.909 align:start position:0%
+uno voy a dejarlo así y voy a decirle
+que<00:04:44.600><c> el</c><00:04:44.720><c> último</c><00:04:45.080><c> día</c><00:04:45.280><c> de</c><00:04:45.440><c> esta</c>
+
+00:04:46.909 --> 00:04:46.919 align:start position:0%
+que el último día de esta
+ 
+
+00:04:46.919 --> 00:04:49.950 align:start position:0%
+que el último día de esta
+fecha<00:04:47.919><c> para</c><00:04:48.160><c> que</c><00:04:48.280><c> me</c><00:04:48.560><c> calcule</c><00:04:49.120><c> el</c><00:04:49.320><c> último</c><00:04:49.759><c> día</c>
+
+00:04:49.950 --> 00:04:49.960 align:start position:0%
+fecha para que me calcule el último día
+ 
+
+00:04:49.960 --> 00:04:52.390 align:start position:0%
+fecha para que me calcule el último día
+de<00:04:50.080><c> este</c><00:04:50.280><c> mes</c><00:04:50.960><c> cosa</c><00:04:51.360><c> que</c><00:04:51.479><c> aquí</c><00:04:51.680><c> yo</c><00:04:51.800><c> ponga</c><00:04:52.199><c> una</c>
+
+00:04:52.390 --> 00:04:52.400 align:start position:0%
+de este mes cosa que aquí yo ponga una
+ 
+
+00:04:52.400 --> 00:04:54.430 align:start position:0%
+de este mes cosa que aquí yo ponga una
+fecha<00:04:52.680><c> por</c><00:04:52.800><c> ejemplo</c><00:04:53.160><c> el</c><00:04:53.400><c> mes</c><00:04:53.720><c> 12</c><00:04:54.240><c> voy</c><00:04:54.360><c> a</c>
+
+00:04:54.430 --> 00:04:54.440 align:start position:0%
+fecha por ejemplo el mes 12 voy a
+ 
+
+00:04:54.440 --> 00:04:57.830 align:start position:0%
+fecha por ejemplo el mes 12 voy a
+ponerle<00:04:54.919><c> aquí</c><00:04:55.919><c> que</c><00:04:56.320><c> el</c><00:04:56.479><c> formato</c><00:04:56.840><c> es</c><00:04:57.120><c> numérico</c>
+
+00:04:57.830 --> 00:04:57.840 align:start position:0%
+ponerle aquí que el formato es numérico
+ 
+
+00:04:57.840 --> 00:05:00.550 align:start position:0%
+ponerle aquí que el formato es numérico
+entonces<00:04:58.400><c> si</c><00:04:58.520><c> yo</c><00:04:58.639><c> pongo</c><00:04:58.880><c> el</c><00:04:59.039><c> mes</c><00:04:59.280><c> 12</c><00:05:00.120><c> si</c><00:05:00.360><c> pongo</c>
+
+00:05:00.550 --> 00:05:00.560 align:start position:0%
+entonces si yo pongo el mes 12 si pongo
+ 
+
+00:05:00.560 --> 00:05:03.870 align:start position:0%
+entonces si yo pongo el mes 12 si pongo
+el<00:05:00.800><c> mes</c><00:05:01.240><c> cuatro</c><00:05:02.039><c> hay</c><00:05:02.639><c> Cinco</c><00:05:02.919><c> de</c><00:05:03.080><c> cada</c><00:05:03.280><c> una</c><00:05:03.680><c> en</c>
+
+00:05:03.870 --> 00:05:03.880 align:start position:0%
+el mes cuatro hay Cinco de cada una en
+ 
+
+00:05:03.880 --> 00:05:05.550 align:start position:0%
+el mes cuatro hay Cinco de cada una en
+la<00:05:04.000><c> medida</c><00:05:04.400><c> que</c><00:05:04.520><c> yo</c><00:05:04.639><c> aquí</c><00:05:04.800><c> voy</c><00:05:05.000><c> dando</c><00:05:05.360><c> los</c>
+
+00:05:05.550 --> 00:05:05.560 align:start position:0%
+la medida que yo aquí voy dando los
+ 
+
+00:05:05.560 --> 00:05:07.430 align:start position:0%
+la medida que yo aquí voy dando los
+meses<00:05:06.160><c> él</c><00:05:06.479><c> me</c><00:05:06.639><c> va</c><00:05:06.840><c> calculando</c><00:05:07.199><c> las</c>
+
+00:05:07.430 --> 00:05:07.440 align:start position:0%
+meses él me va calculando las
+ 
+
+00:05:07.440 --> 00:05:09.590 align:start position:0%
+meses él me va calculando las
+existencias<00:05:08.320><c> entonces</c><00:05:08.759><c> tengo</c><00:05:09.000><c> ya</c><00:05:09.160><c> un</c><00:05:09.280><c> sistema</c>
+
+00:05:09.590 --> 00:05:09.600 align:start position:0%
+existencias entonces tengo ya un sistema
+ 
+
+00:05:09.600 --> 00:05:12.909 align:start position:0%
+existencias entonces tengo ya un sistema
+automático<00:05:10.160><c> donde</c><00:05:10.919><c> yo</c><00:05:11.639><c> lo</c><00:05:11.919><c> he</c><00:05:12.080><c> parametrizado</c>
+
+00:05:12.909 --> 00:05:12.919 align:start position:0%
+automático donde yo lo he parametrizado
+ 
+
+00:05:12.919 --> 00:05:15.749 align:start position:0%
+automático donde yo lo he parametrizado
+con<00:05:13.120><c> tres</c><00:05:13.440><c> valores</c><00:05:14.280><c> uno</c><00:05:14.680><c> es</c><00:05:14.880><c> el</c><00:05:15.000><c> año</c><00:05:15.240><c> otro</c><00:05:15.600><c> es</c>
+
+00:05:15.749 --> 00:05:15.759 align:start position:0%
+con tres valores uno es el año otro es
+ 
+
+00:05:15.759 --> 00:05:17.990 align:start position:0%
+con tres valores uno es el año otro es
+el<00:05:15.880><c> mes</c><00:05:16.080><c> y</c><00:05:16.199><c> otro</c><00:05:16.479><c> es</c><00:05:16.560><c> la</c><00:05:16.680><c> bodega</c><00:05:17.160><c> y</c><00:05:17.320><c> aquí</c><00:05:17.720><c> pongo</c>
+
+00:05:17.990 --> 00:05:18.000 align:start position:0%
+el mes y otro es la bodega y aquí pongo
+ 
+
+00:05:18.000 --> 00:05:19.510 align:start position:0%
+el mes y otro es la bodega y aquí pongo
+los<00:05:18.160><c> códigos</c><00:05:18.560><c> de</c><00:05:18.759><c> los</c><00:05:19.000><c> elementos</c><00:05:19.360><c> y</c>
+
+00:05:19.510 --> 00:05:19.520 align:start position:0%
+los códigos de los elementos y
+ 
+
+00:05:19.520 --> 00:05:21.029 align:start position:0%
+los códigos de los elementos y
+automáticamente<00:05:20.120><c> me</c><00:05:20.319><c> van</c><00:05:20.479><c> a</c><00:05:20.600><c> aparecer</c><00:05:20.919><c> los</c>
+
+00:05:21.029 --> 00:05:21.039 align:start position:0%
+automáticamente me van a aparecer los
+ 
+
+00:05:21.039 --> 00:05:23.990 align:start position:0%
+automáticamente me van a aparecer los
+nombres<00:05:21.400><c> las</c><00:05:21.600><c> unidades</c><00:05:22.319><c> y</c><00:05:22.560><c> las</c>
+
+00:05:23.990 --> 00:05:24.000 align:start position:0%
+nombres las unidades y las
+ 
+
+00:05:24.000 --> 00:05:26.830 align:start position:0%
+nombres las unidades y las
+existencias<00:05:25.000><c> Yo</c><00:05:25.240><c> también</c><00:05:25.600><c> podría</c><00:05:26.039><c> decir</c><00:05:26.440><c> que</c>
+
+00:05:26.830 --> 00:05:26.840 align:start position:0%
+existencias Yo también podría decir que
+ 
+
+00:05:26.840 --> 00:05:28.670 align:start position:0%
+existencias Yo también podría decir que
+me<00:05:27.000><c> aparezca</c><00:05:27.400><c> por</c><00:05:27.520><c> ejemplo</c><00:05:27.880><c> el</c><00:05:28.000><c> costo</c><00:05:28.240><c> de</c><00:05:28.400><c> esas</c>
+
+00:05:28.670 --> 00:05:28.680 align:start position:0%
+me aparezca por ejemplo el costo de esas
+ 
+
+00:05:28.680 --> 00:05:31.550 align:start position:0%
+me aparezca por ejemplo el costo de esas
+existencias<00:05:29.240><c> entonces</c><00:05:29.720><c> Yo</c><00:05:29.840><c> podría</c><00:05:30.160><c> poner</c><00:05:30.400><c> acá</c>
+
+00:05:31.550 --> 00:05:31.560 align:start position:0%
+existencias entonces Yo podría poner acá
+ 
+
+00:05:31.560 --> 00:05:34.430 align:start position:0%
+existencias entonces Yo podría poner acá
+igual<00:05:32.680><c> costo</c>
+
+00:05:34.430 --> 00:05:34.440 align:start position:0%
+igual costo
+ 
+
+00:05:34.440 --> 00:05:36.909 align:start position:0%
+igual costo
+existencias<00:05:35.440><c> yo</c><00:05:35.600><c> creo</c><00:05:35.800><c> que</c><00:05:36.319><c> ya</c><00:05:36.440><c> todos</c><00:05:36.759><c> se</c>
+
+00:05:36.909 --> 00:05:36.919 align:start position:0%
+existencias yo creo que ya todos se
+ 
+
+00:05:36.919 --> 00:05:39.510 align:start position:0%
+existencias yo creo que ya todos se
+saben<00:05:37.199><c> cómo</c><00:05:37.400><c> funcionan</c><00:05:38.120><c> estas</c><00:05:38.360><c> fórmulas</c><00:05:39.319><c> le</c>
+
+00:05:39.510 --> 00:05:39.520 align:start position:0%
+saben cómo funcionan estas fórmulas le
+ 
+
+00:05:39.520 --> 00:05:42.790 align:start position:0%
+saben cómo funcionan estas fórmulas le
+pongo<00:05:39.759><c> el</c><00:05:39.919><c> código</c><00:05:40.280><c> de</c><00:05:40.400><c> la</c><00:05:40.479><c> bodega</c><00:05:41.400><c> lo</c><00:05:41.800><c> fijo</c>
+
+00:05:42.790 --> 00:05:42.800 align:start position:0%
+pongo el código de la bodega lo fijo
+ 
+
+00:05:42.800 --> 00:05:46.710 align:start position:0%
+pongo el código de la bodega lo fijo
+coloco<00:05:43.440><c> el</c><00:05:43.759><c> código</c><00:05:44.120><c> del</c><00:05:44.680><c> elemento</c><00:05:45.680><c> y</c><00:05:46.039><c> coloco</c>
+
+00:05:46.710 --> 00:05:46.720 align:start position:0%
+coloco el código del elemento y coloco
+ 
+
+00:05:46.720 --> 00:05:49.230 align:start position:0%
+coloco el código del elemento y coloco
+la<00:05:46.960><c> fecha</c><00:05:47.479><c> fijo</c><00:05:48.280><c> solo</c>
+
+00:05:49.230 --> 00:05:49.240 align:start position:0%
+la fecha fijo solo
+ 
+
+00:05:49.240 --> 00:05:53.749 align:start position:0%
+la fecha fijo solo
+fila<00:05:50.240><c> cierro</c><00:05:51.160><c> y</c><00:05:52.160><c> me</c><00:05:52.400><c> aparece</c><00:05:52.919><c> el</c><00:05:53.160><c> costo</c><00:05:53.479><c> de</c>
+
+00:05:53.749 --> 00:05:53.759 align:start position:0%
+fila cierro y me aparece el costo de
+ 
+
+00:05:53.759 --> 00:05:55.550 align:start position:0%
+fila cierro y me aparece el costo de
+esas<00:05:53.960><c> existencias</c><00:05:54.600><c> Vamos</c><00:05:54.800><c> a</c>
+
+00:05:55.550 --> 00:05:55.560 align:start position:0%
+esas existencias Vamos a
+ 
+
+00:05:55.560 --> 00:05:57.870 align:start position:0%
+esas existencias Vamos a
+ponerle<00:05:56.560><c> el</c>
+
+00:05:57.870 --> 00:05:57.880 align:start position:0%
+ponerle el
+ 
+
+00:05:57.880 --> 00:06:00.870 align:start position:0%
+ponerle el
+valor<00:05:58.880><c> y</c><00:05:59.120><c> entonces</c>
+
+00:06:00.870 --> 00:06:00.880 align:start position:0%
+valor y entonces
+ 
+
+00:06:00.880 --> 00:06:02.950 align:start position:0%
+valor y entonces
+copiamos<00:06:01.360><c> esto</c><00:06:01.560><c> hacia</c><00:06:01.840><c> abajo</c><00:06:02.160><c> y</c><00:06:02.319><c> entonces</c><00:06:02.680><c> ahí</c>
+
+00:06:02.950 --> 00:06:02.960 align:start position:0%
+copiamos esto hacia abajo y entonces ahí
+ 
+
+00:06:02.960 --> 00:06:06.469 align:start position:0%
+copiamos esto hacia abajo y entonces ahí
+me<00:06:03.080><c> aparece</c><00:06:03.759><c> el</c><00:06:04.280><c> costo</c><00:06:05.280><c> de</c><00:06:05.680><c> esos</c><00:06:06.080><c> elementos</c>
+
+00:06:06.469 --> 00:06:06.479 align:start position:0%
+me aparece el costo de esos elementos
+ 
+
+00:06:06.479 --> 00:06:08.309 align:start position:0%
+me aparece el costo de esos elementos
+que<00:06:06.599><c> hay</c><00:06:06.880><c> en</c><00:06:07.039><c> un</c><00:06:07.199><c> inventario</c><00:06:07.639><c> a</c><00:06:07.720><c> esa</c><00:06:07.919><c> fecha</c><00:06:08.160><c> si</c>
+
+00:06:08.309 --> 00:06:08.319 align:start position:0%
+que hay en un inventario a esa fecha si
+ 
+
+00:06:08.319 --> 00:06:11.150 align:start position:0%
+que hay en un inventario a esa fecha si
+yo<00:06:08.479><c> ya</c><00:06:08.639><c> le</c><00:06:08.759><c> pongo</c><00:06:09.039><c> otro</c><00:06:09.319><c> mes</c><00:06:09.759><c> el</c><00:06:10.039><c> o</c><00:06:10.560><c> entonces</c>
+
+00:06:11.150 --> 00:06:11.160 align:start position:0%
+yo ya le pongo otro mes el o entonces
+ 
+
+00:06:11.160 --> 00:06:14.110 align:start position:0%
+yo ya le pongo otro mes el o entonces
+ahí<00:06:11.319><c> me</c><00:06:11.440><c> aparece</c><00:06:11.960><c> le</c><00:06:12.280><c> coloco</c><00:06:12.560><c> el</c><00:06:12.639><c> nu</c><00:06:13.440><c> ahí</c><00:06:13.800><c> me</c>
+
+00:06:14.110 --> 00:06:14.120 align:start position:0%
+ahí me aparece le coloco el nu ahí me
+ 
+
+00:06:14.120 --> 00:06:16.189 align:start position:0%
+ahí me aparece le coloco el nu ahí me
+aparece<00:06:15.120><c> la</c><00:06:15.319><c> cantidad</c><00:06:15.800><c> que</c><00:06:15.880><c> hay</c><00:06:16.080><c> en</c>
+
+00:06:16.189 --> 00:06:16.199 align:start position:0%
+aparece la cantidad que hay en
+ 
+
+00:06:16.199 --> 00:06:18.670 align:start position:0%
+aparece la cantidad que hay en
+existencias<00:06:16.800><c> y</c><00:06:16.880><c> el</c><00:06:17.000><c> valor</c><00:06:17.599><c> coloco</c><00:06:17.919><c> el</c><00:06:18.039><c> uno</c><00:06:18.400><c> y</c>
+
+00:06:18.670 --> 00:06:18.680 align:start position:0%
+existencias y el valor coloco el uno y
+ 
+
+00:06:18.680 --> 00:06:21.830 align:start position:0%
+existencias y el valor coloco el uno y
+ahí<00:06:19.039><c> me</c><00:06:19.120><c> aparece</c><00:06:19.680><c> y</c><00:06:19.960><c> así</c><00:06:20.160><c> me</c><00:06:20.280><c> puedo</c><00:06:20.599><c> ir</c><00:06:21.120><c> sí</c><00:06:21.599><c> en</c>
+
+00:06:21.830 --> 00:06:21.840 align:start position:0%
+ahí me aparece y así me puedo ir sí en
+ 
+
+00:06:21.840 --> 00:06:23.469 align:start position:0%
+ahí me aparece y así me puedo ir sí en
+la<00:06:22.000><c> medida</c><00:06:22.319><c> que</c><00:06:22.440><c> vaya</c><00:06:22.680><c> cambiando</c><00:06:22.960><c> él</c><00:06:23.199><c> me</c><00:06:23.360><c> va</c>
+
+00:06:23.469 --> 00:06:23.479 align:start position:0%
+la medida que vaya cambiando él me va
+ 
+
+00:06:23.479 --> 00:06:25.670 align:start position:0%
+la medida que vaya cambiando él me va
+dando<00:06:23.800><c> los</c><00:06:23.919><c> datos</c><00:06:24.520><c> y</c><00:06:24.759><c> finalmente</c><00:06:25.199><c> entonces</c>
+
+00:06:25.670 --> 00:06:25.680 align:start position:0%
+dando los datos y finalmente entonces
+ 
+
+00:06:25.680 --> 00:06:27.589 align:start position:0%
+dando los datos y finalmente entonces
+hago<00:06:25.919><c> la</c><00:06:26.039><c> valoración</c><00:06:26.520><c> del</c><00:06:26.840><c> inventario</c><00:06:27.440><c> que</c>
+
+00:06:27.589 --> 00:06:27.599 align:start position:0%
+hago la valoración del inventario que
+ 
+
+00:06:27.599 --> 00:06:31.990 align:start position:0%
+hago la valoración del inventario que
+sería<00:06:27.880><c> igual</c><00:06:28.560><c> suma</c><00:06:29.599><c> de</c><00:06:30.280><c> esto</c><00:06:31.039><c> ahora</c><00:06:31.560><c> tengamos</c>
+
+00:06:31.990 --> 00:06:32.000 align:start position:0%
+sería igual suma de esto ahora tengamos
+ 
+
+00:06:32.000 --> 00:06:34.550 align:start position:0%
+sería igual suma de esto ahora tengamos
+en<00:06:32.120><c> cuenta</c><00:06:32.360><c> que</c><00:06:32.520><c> esta</c><00:06:32.759><c> información</c><00:06:33.759><c> nos</c><00:06:34.160><c> la</c><00:06:34.319><c> va</c>
+
+00:06:34.550 --> 00:06:34.560 align:start position:0%
+en cuenta que esta información nos la va
+ 
+
+00:06:34.560 --> 00:06:37.390 align:start position:0%
+en cuenta que esta información nos la va
+a<00:06:34.800><c> entregar</c><00:06:35.560><c> el</c><00:06:35.919><c> contapyme</c><00:06:36.759><c> con</c><00:06:36.880><c> los</c><00:06:37.000><c> informes</c>
+
+00:06:37.390 --> 00:06:37.400 align:start position:0%
+a entregar el contapyme con los informes
+ 
+
+00:06:37.400 --> 00:06:40.270 align:start position:0%
+a entregar el contapyme con los informes
+que<00:06:37.560><c> él</c><00:06:37.759><c> tiene</c><00:06:38.039><c> pero</c><00:06:38.199><c> el</c><00:06:38.639><c> el</c><00:06:39.199><c> la</c><00:06:39.520><c> ventaja</c><00:06:40.039><c> de</c>
+
+00:06:40.270 --> 00:06:40.280 align:start position:0%
+que él tiene pero el el la ventaja de
+ 
+
+00:06:40.280 --> 00:06:42.589 align:start position:0%
+que él tiene pero el el la ventaja de
+trabajarlo<00:06:40.880><c> aquí</c><00:06:41.039><c> en</c><00:06:41.160><c> Excel</c><00:06:41.880><c> es</c><00:06:42.080><c> que</c><00:06:42.240><c> podemos</c>
+
+00:06:42.589 --> 00:06:42.599 align:start position:0%
+trabajarlo aquí en Excel es que podemos
+ 
+
+00:06:42.599 --> 00:06:45.589 align:start position:0%
+trabajarlo aquí en Excel es que podemos
+hacer<00:06:43.039><c> indicadores</c><00:06:43.680><c> y</c><00:06:43.880><c> podemos</c><00:06:44.240><c> hacer</c><00:06:45.199><c> muchos</c>
+
+00:06:45.589 --> 00:06:45.599 align:start position:0%
+hacer indicadores y podemos hacer muchos
+ 
+
+00:06:45.599 --> 00:06:49.670 align:start position:0%
+hacer indicadores y podemos hacer muchos
+más<00:06:45.840><c> análisis</c><00:06:46.680><c> que</c><00:06:47.160><c> los</c><00:06:47.880><c> lo</c><00:06:48.199><c> que</c><00:06:48.680><c> presenta</c>
+
+00:06:49.670 --> 00:06:49.680 align:start position:0%
+más análisis que los lo que presenta
+ 
+
+00:06:49.680 --> 00:06:51.790 align:start position:0%
+más análisis que los lo que presenta
+cont<00:06:50.160><c> pim</c><00:06:50.599><c> o</c><00:06:50.720><c> cualquier</c><00:06:51.080><c> programa</c><00:06:51.440><c> por</c><00:06:51.599><c> sí</c>
+
+00:06:51.790 --> 00:06:51.800 align:start position:0%
+cont pim o cualquier programa por sí
+ 
+
+00:06:51.800 --> 00:06:53.950 align:start position:0%
+cont pim o cualquier programa por sí
+solo<00:06:52.520><c> aquí</c><00:06:52.720><c> podemos</c><00:06:53.000><c> formatear</c><00:06:53.680><c> hacer</c>
+
+00:06:53.950 --> 00:06:53.960 align:start position:0%
+solo aquí podemos formatear hacer
+ 
+
+00:06:53.960 --> 00:06:56.670 align:start position:0%
+solo aquí podemos formatear hacer
+reportes<00:06:54.479><c> especiales</c><00:06:55.280><c> y</c><00:06:56.120><c> tiene</c><00:06:56.440><c> pues</c>
+
+00:06:56.670 --> 00:06:56.680 align:start position:0%
+reportes especiales y tiene pues
+ 
+
+00:06:56.680 --> 00:06:59.629 align:start position:0%
+reportes especiales y tiene pues
+muchísimas<00:06:57.360><c> ventajas</c><00:06:58.360><c> aquí</c><00:06:58.560><c> me</c><00:06:58.720><c> soplaron</c><00:06:59.199><c> por</c>
+
+00:06:59.629 --> 00:06:59.639 align:start position:0%
+muchísimas ventajas aquí me soplaron por
+ 
+
+00:06:59.639 --> 00:07:02.510 align:start position:0%
+muchísimas ventajas aquí me soplaron por
+por<00:06:59.800><c> el</c><00:06:59.919><c> celular</c><00:07:00.840><c> que</c><00:07:01.520><c> que</c><00:07:01.680><c> había</c><00:07:01.960><c> cometido</c><00:07:02.400><c> un</c>
+
+00:07:02.510 --> 00:07:02.520 align:start position:0%
+por el celular que que había cometido un
+ 
+
+00:07:02.520 --> 00:07:04.309 align:start position:0%
+por el celular que que había cometido un
+error<00:07:02.800><c> pues</c><00:07:03.440><c> yo</c><00:07:03.520><c> estaba</c><00:07:03.759><c> aterrado</c><00:07:04.120><c> porque</c>
+
+00:07:04.309 --> 00:07:04.319 align:start position:0%
+error pues yo estaba aterrado porque
+ 
+
+00:07:04.319 --> 00:07:05.790 align:start position:0%
+error pues yo estaba aterrado porque
+esto<00:07:04.440><c> me</c><00:07:04.599><c> da</c><00:07:04.800><c> igual</c><00:07:05.120><c> es</c><00:07:05.280><c> porque</c><00:07:05.440><c> tengo</c><00:07:05.720><c> un</c>
+
+00:07:05.790 --> 00:07:05.800 align:start position:0%
+esto me da igual es porque tengo un
+ 
+
+00:07:05.800 --> 00:07:08.430 align:start position:0%
+esto me da igual es porque tengo un
+error<00:07:06.039><c> en</c><00:07:06.160><c> la</c><00:07:06.560><c> fórmula</c><00:07:07.560><c> miren</c><00:07:07.879><c> ustedes</c><00:07:08.280><c> para</c>
+
+00:07:08.430 --> 00:07:08.440 align:start position:0%
+error en la fórmula miren ustedes para
+ 
+
+00:07:08.440 --> 00:07:11.550 align:start position:0%
+error en la fórmula miren ustedes para
+que<00:07:08.639><c> no</c><00:07:08.800><c> les</c><00:07:09.000><c> pase</c><00:07:09.919><c> esta</c><00:07:10.199><c> fórmula</c><00:07:10.599><c> la</c><00:07:10.879><c> basé</c>
+
+00:07:11.550 --> 00:07:11.560 align:start position:0%
+que no les pase esta fórmula la basé
+ 
+
+00:07:11.560 --> 00:07:15.510 align:start position:0%
+que no les pase esta fórmula la basé
+dije<00:07:12.440><c> Primero</c><00:07:12.919><c> era</c><00:07:13.240><c> el</c><00:07:13.479><c> código</c><00:07:13.879><c> de</c><00:07:13.960><c> la</c>
+
+00:07:15.510 --> 00:07:15.520 align:start position:0%
+dije Primero era el código de la
+ 
+
+00:07:15.520 --> 00:07:19.390 align:start position:0%
+dije Primero era el código de la
+bodega<00:07:16.520><c> que</c><00:07:17.039><c> observen</c><00:07:17.560><c> lo</c><00:07:17.720><c> es</c><00:07:17.879><c> esta</c><00:07:18.280><c> esta</c>
+
+00:07:19.390 --> 00:07:19.400 align:start position:0%
+bodega que observen lo es esta esta
+ 
+
+00:07:19.400 --> 00:07:23.150 align:start position:0%
+bodega que observen lo es esta esta
+celda<00:07:20.400><c> luego</c><00:07:20.720><c> dije</c><00:07:21.160><c> que</c><00:07:21.240><c> era</c><00:07:21.440><c> el</c><00:07:21.599><c> código</c><00:07:22.160><c> del</c>
+
+00:07:23.150 --> 00:07:23.160 align:start position:0%
+celda luego dije que era el código del
+ 
+
+00:07:23.160 --> 00:07:26.950 align:start position:0%
+celda luego dije que era el código del
+elemento<00:07:24.160><c> pero</c><00:07:24.400><c> Miren</c><00:07:24.840><c> el</c><00:07:25.039><c> error</c><00:07:25.319><c> que</c><00:07:25.960><c> cometí</c>
+
+00:07:26.950 --> 00:07:26.960 align:start position:0%
+elemento pero Miren el error que cometí
+ 
+
+00:07:26.960 --> 00:07:30.230 align:start position:0%
+elemento pero Miren el error que cometí
+observen<00:07:27.720><c> el</c><00:07:27.879><c> error</c><00:07:28.199><c> que</c><00:07:28.520><c> cometí</c><00:07:29.560><c> fije</c><00:07:30.000><c> la</c>
+
+00:07:30.230 --> 00:07:30.240 align:start position:0%
+observen el error que cometí fije la
+ 
+
+00:07:30.240 --> 00:07:34.270 align:start position:0%
+observen el error que cometí fije la
+fila<00:07:30.560><c> 25</c><00:07:31.160><c> Entonces</c><00:07:31.560><c> al</c><00:07:31.759><c> copiar</c><00:07:32.120><c> hacia</c>
+
+00:07:34.270 --> 00:07:34.280 align:start position:0%
+fila 25 Entonces al copiar hacia
+ 
+
+00:07:34.280 --> 00:07:37.670 align:start position:0%
+fila 25 Entonces al copiar hacia
+abajo<00:07:35.280><c> el</c><00:07:35.560><c> sistema</c><00:07:36.319><c> siempre</c><00:07:36.720><c> se</c><00:07:36.879><c> me</c><00:07:37.039><c> quedó</c>
+
+00:07:37.670 --> 00:07:37.680 align:start position:0%
+abajo el sistema siempre se me quedó
+ 
+
+00:07:37.680 --> 00:07:41.230 align:start position:0%
+abajo el sistema siempre se me quedó
+parado<00:07:38.120><c> en</c><00:07:38.240><c> la</c><00:07:38.479><c> celda</c><00:07:39.240><c> b25</c><00:07:40.240><c> O</c><00:07:40.479><c> sea</c><00:07:40.720><c> que</c><00:07:40.919><c> todas</c>
+
+00:07:41.230 --> 00:07:41.240 align:start position:0%
+parado en la celda b25 O sea que todas
+ 
+
+00:07:41.240 --> 00:07:44.510 align:start position:0%
+parado en la celda b25 O sea que todas
+las<00:07:41.400><c> fórmulas</c><00:07:41.960><c> acá</c><00:07:42.560><c> me</c><00:07:42.840><c> están</c><00:07:43.039><c> dando</c><00:07:43.599><c> la</c>
+
+00:07:44.510 --> 00:07:44.520 align:start position:0%
+las fórmulas acá me están dando la
+ 
+
+00:07:44.520 --> 00:07:47.230 align:start position:0%
+las fórmulas acá me están dando la
+existencia<00:07:45.520><c> de</c><00:07:45.960><c> esta</c><00:07:46.280><c> celda</c><00:07:46.639><c> observen</c><00:07:47.120><c> que</c>
+
+00:07:47.230 --> 00:07:47.240 align:start position:0%
+existencia de esta celda observen que
+ 
+
+00:07:47.240 --> 00:07:49.629 align:start position:0%
+existencia de esta celda observen que
+siempre<00:07:47.520><c> me</c><00:07:47.680><c> está</c><00:07:47.879><c> apuntando</c><00:07:48.280><c> a</c><00:07:48.400><c> esta</c><00:07:49.159><c> Por</c><00:07:49.360><c> qué</c>
+
+00:07:49.629 --> 00:07:49.639 align:start position:0%
+siempre me está apuntando a esta Por qué
+ 
+
+00:07:49.639 --> 00:07:51.390 align:start position:0%
+siempre me está apuntando a esta Por qué
+por<00:07:49.759><c> el</c><00:07:49.960><c> error</c><00:07:50.280><c> que</c><00:07:50.440><c> cometí</c><00:07:50.919><c> Qué</c><00:07:51.080><c> bueno</c><00:07:51.280><c> que</c>
+
+00:07:51.390 --> 00:07:51.400 align:start position:0%
+por el error que cometí Qué bueno que
+ 
+
+00:07:51.400 --> 00:07:52.790 align:start position:0%
+por el error que cometí Qué bueno que
+haya<00:07:51.680><c> cometido</c><00:07:52.039><c> este</c><00:07:52.199><c> error</c><00:07:52.440><c> de</c><00:07:52.520><c> todas</c>
+
+00:07:52.790 --> 00:07:52.800 align:start position:0%
+haya cometido este error de todas
+ 
+
+00:07:52.800 --> 00:07:56.749 align:start position:0%
+haya cometido este error de todas
+maneras<00:07:53.680><c> porque</c><00:07:54.120><c> me</c><00:07:54.319><c> da</c>
+
+00:07:56.749 --> 00:07:56.759 align:start position:0%
+ 
+ 
+
+00:07:56.759 --> 00:07:59.510 align:start position:0%
+ 
+la<00:07:57.759><c> que</c><00:07:57.919><c> vean</c><00:07:58.240><c> que</c><00:07:58.319><c> esto</c><00:07:58.520><c> depende</c><00:07:58.919><c> del</c><00:07:59.039><c> cuidado</c>
+
+00:07:59.510 --> 00:07:59.520 align:start position:0%
+la que vean que esto depende del cuidado
+ 
+
+00:07:59.520 --> 00:08:02.189 align:start position:0%
+la que vean que esto depende del cuidado
+que<00:07:59.639><c> uno</c><00:07:59.800><c> le</c><00:07:59.919><c> coloque</c><00:08:00.520><c> entonces</c><00:08:01.000><c> aquí</c><00:08:01.800><c> qué</c><00:08:02.080><c> es</c>
+
+00:08:02.189 --> 00:08:02.199 align:start position:0%
+que uno le coloque entonces aquí qué es
+ 
+
+00:08:02.199 --> 00:08:06.070 align:start position:0%
+que uno le coloque entonces aquí qué es
+lo<00:08:02.280><c> que</c><00:08:02.440><c> tengo</c><00:08:02.680><c> que</c><00:08:02.800><c> hacer</c><00:08:03.319><c> No</c><00:08:03.720><c> fijar</c><00:08:04.319><c> el</c><00:08:05.080><c> 25</c>
+
+00:08:06.070 --> 00:08:06.080 align:start position:0%
+lo que tengo que hacer No fijar el 25
+ 
+
+00:08:06.080 --> 00:08:08.670 align:start position:0%
+lo que tengo que hacer No fijar el 25
+para<00:08:06.280><c> que</c><00:08:06.400><c> el</c><00:08:06.599><c> 25</c><00:08:07.120><c> sea</c><00:08:07.479><c> móvil</c><00:08:07.840><c> o</c><00:08:07.919><c> sea</c><00:08:08.360><c> que</c>
+
+00:08:08.670 --> 00:08:08.680 align:start position:0%
+para que el 25 sea móvil o sea que
+ 
+
+00:08:08.680 --> 00:08:11.430 align:start position:0%
+para que el 25 sea móvil o sea que
+cuando<00:08:08.960><c> Aquí</c><00:08:09.360><c> esta</c><00:08:09.680><c> celda</c><00:08:10.280><c> la</c><00:08:10.680><c> copie</c><00:08:11.120><c> para</c>
+
+00:08:11.430 --> 00:08:11.440 align:start position:0%
+cuando Aquí esta celda la copie para
+ 
+
+00:08:11.440 --> 00:08:15.629 align:start position:0%
+cuando Aquí esta celda la copie para
+esta<00:08:11.759><c> otra</c><00:08:12.039><c> nueva</c><00:08:12.360><c> posición</c><00:08:13.520><c> Entonces</c><00:08:14.639><c> esta</c>
+
+00:08:15.629 --> 00:08:15.639 align:start position:0%
+esta otra nueva posición Entonces esta
+ 
+
+00:08:15.639 --> 00:08:19.270 align:start position:0%
+esta otra nueva posición Entonces esta
+casilla<00:08:16.520><c> ya</c><00:08:16.720><c> va</c><00:08:16.919><c> a</c><00:08:17.039><c> quedar</c><00:08:17.879><c> en</c><00:08:18.560><c> esta</c><00:08:18.879><c> posición</c>
+
+00:08:19.270 --> 00:08:19.280 align:start position:0%
+casilla ya va a quedar en esta posición
+ 
+
+00:08:19.280 --> 00:08:23.469 align:start position:0%
+casilla ya va a quedar en esta posición
+o<00:08:19.479><c> sea</c><00:08:19.759><c> relativa</c><00:08:20.759><c> vamos</c><00:08:21.080><c> a</c><00:08:21.360><c> copiarla</c><00:08:22.360><c> pegar</c><00:08:22.759><c> a</c>
+
+00:08:23.469 --> 00:08:23.479 align:start position:0%
+o sea relativa vamos a copiarla pegar a
+ 
+
+00:08:23.479 --> 00:08:25.869 align:start position:0%
+o sea relativa vamos a copiarla pegar a
+claro<00:08:23.720><c> ahí</c><00:08:24.159><c> sí</c><00:08:24.400><c> da</c><00:08:25.039><c> muy</c><00:08:25.240><c> bien</c><00:08:25.360><c> entonces</c><00:08:25.720><c> si</c>
+
+00:08:25.869 --> 00:08:25.879 align:start position:0%
+claro ahí sí da muy bien entonces si
+ 
+
+00:08:25.879 --> 00:08:27.790 align:start position:0%
+claro ahí sí da muy bien entonces si
+ponemos<00:08:26.159><c> aquí</c><00:08:26.280><c> uno</c><00:08:26.680><c> ahí</c><00:08:27.000><c> tenemos</c><00:08:27.280><c> los</c><00:08:27.479><c> saldos</c>
+
+00:08:27.790 --> 00:08:27.800 align:start position:0%
+ponemos aquí uno ahí tenemos los saldos
+ 
+
+00:08:27.800 --> 00:08:30.510 align:start position:0%
+ponemos aquí uno ahí tenemos los saldos
+que<00:08:27.879><c> habían</c><00:08:28.599><c> en</c><00:08:28.759><c> ese</c><00:08:28.960><c> momento</c><00:08:29.879><c> Recuerden</c><00:08:30.400><c> que</c>
+
+00:08:30.510 --> 00:08:30.520 align:start position:0%
+que habían en ese momento Recuerden que
+ 
+
+00:08:30.520 --> 00:08:32.269 align:start position:0%
+que habían en ese momento Recuerden que
+yo<00:08:30.680><c> podría</c><00:08:31.120><c> tener</c><00:08:31.360><c> aquí</c><00:08:31.599><c> una</c><00:08:31.800><c> serie</c><00:08:32.039><c> también</c>
+
+00:08:32.269 --> 00:08:32.279 align:start position:0%
+yo podría tener aquí una serie también
+ 
+
+00:08:32.279 --> 00:08:35.110 align:start position:0%
+yo podría tener aquí una serie también
+hacia<00:08:32.800><c> a</c><00:08:32.880><c> la</c><00:08:33.000><c> derecha</c><00:08:33.800><c> con</c><00:08:34.039><c> todos</c><00:08:34.360><c> los</c><00:08:34.560><c> meses</c><00:08:34.880><c> y</c>
+
+00:08:35.110 --> 00:08:35.120 align:start position:0%
+hacia a la derecha con todos los meses y
+ 
+
+00:08:35.120 --> 00:08:36.550 align:start position:0%
+hacia a la derecha con todos los meses y
+viendo<00:08:35.399><c> las</c><00:08:35.560><c> existencias</c><00:08:36.120><c> que</c><00:08:36.240><c> ahorita</c>
+
+00:08:36.550 --> 00:08:36.560 align:start position:0%
+viendo las existencias que ahorita
+ 
+
+00:08:36.560 --> 00:08:40.519 align:start position:0%
+viendo las existencias que ahorita
+hacemos<00:08:36.880><c> de</c><00:08:37.000><c> pronto</c><00:08:37.599><c> un</c><00:08:37.839><c> ejer</c>
+

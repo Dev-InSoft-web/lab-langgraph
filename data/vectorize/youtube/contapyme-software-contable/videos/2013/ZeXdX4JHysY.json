@@ -1,0 +1,819 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:28:23.713Z",
+  "videoId": "ZeXdX4JHysY",
+  "videoUrl": "https://www.youtube.com/watch?v=ZeXdX4JHysY",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "ZeXdX4JHysY",
+    "title": "Software contable ContaPyme - Configurando la operación de pedidos desde ContaPyme de escritorio",
+    "fulltitle": "Software contable ContaPyme - Configurando la operación de pedidos desde ContaPyme de escritorio",
+    "description": "http://www.contapyme.com\nEste video explica cada una de las configuración que se pueden realizar para la operación de pedidos, con el fin de que el usuario defina valores por defecto para los campos y así el registro de un pedido sea mucho mas rápido y sencillo tanto en ContaPyme de escritorio como en ContaPyme móvil.\nCP40-530-030-020B-010M",
+    "duration": 401,
+    "duration_string": "6:41",
+    "upload_date": "20130705",
+    "timestamp": 1373039731,
+    "view_count": 159,
+    "like_count": 2,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia",
+      "software contable y administrativo"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/ZeXdX4JHysY/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgBvgeAAtAFigIMCAAQARg7IFIocjAP&rs=AOn4CLCFO__DUTec50_nPeuNCANJS1pRDw",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLDURZ42VqxcUFF7-v0UxLnlon28gg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-B4AC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLA1ImvtTqoKKnB2TBDiPiOfNRzhfg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-B4AC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLDhjS8X9uOM-saJnE-rUnglxwya6g",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARg7IFIocjAP&rs=AOn4CLBFEAb-ERPBbZfOctfFIf9WGZAX8w",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARg7IFIocjAP&rs=AOn4CLByvC-IuTkUhf7p2miUYpOwb6Vbyg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLDAxpzr_nOaRNj6E7iYwOk9vNFbHg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLD1qH8Lhb03t2tr7lFJZA92N-OBcA",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGDsgUihyMA8=&rs=AOn4CLBLQ2wtm7T6JYZ5ouexBtSFSg_QDg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ZeXdX4JHysY/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "45",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ZeXdX4JHysY/maxresdefault.webp",
+        "preference": 0,
+        "id": "46"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ZeXdX4JHysY",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.24937655860349128,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20448877805486285,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20448877805486285,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20448877805486285,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 177.423,
+        "asr": 44100,
+        "filesize_approx": 8887317,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Configurando la operación de pedidos desde ContaPyme de escritorio",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/ZeXdX4JHysY/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/ZeXdX4JHysY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Configurando la operación de pedidos desde ContaPyme de escritorio\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 76,
+    "transcriptChars": 5638,
+    "segments": [
+      {
+        "text": "configurando la operación de pedidos desde contapyme de escritorio la",
+        "startMs": 680,
+        "durationMs": 4629
+      },
+      {
+        "text": "operación de pedidos se puede configurar para que en el registro del pedido solo",
+        "startMs": 5309,
+        "durationMs": 4521
+      },
+      {
+        "text": "sea necesario diligenciar unos cuantos datos Y así el proceso sea mucho más",
+        "startMs": 9830,
+        "durationMs": 4799
+      },
+      {
+        "text": "ágil y efectivo desde cont pime móvil para configurar la operación de",
+        "startMs": 14629,
+        "durationMs": 5161
+      },
+      {
+        "text": "pedidos debemos seguir los siguientes pasos en contap pime de escritorio",
+        "startMs": 19790,
+        "durationMs": 9160
+      },
+      {
+        "text": "pedidos damos clic al botón de configuración que",
+        "startMs": 28960,
+        "durationMs": 4230
+      },
+      {
+        "text": "se encuentra en la parte inferior de la ventana y elegimos la opción configurar",
+        "startMs": 33190,
+        "durationMs": 6440
+      },
+      {
+        "text": "operación podemos configurar la operación para el usuario activo o para",
+        "startMs": 39630,
+        "durationMs": 4040
+      },
+      {
+        "text": "todos los usuarios en este caso vamos a configurar para el usuario",
+        "startMs": 43670,
+        "durationMs": 7640
+      },
+      {
+        "text": "activo en el asistente que se abre en la parte izquierda encontramos las opciones",
+        "startMs": 51320,
+        "durationMs": 6430
+      },
+      {
+        "text": "de configuración dentro de las que tenemos modo de grabar para definir la",
+        "startMs": 57750,
+        "durationMs": 5799
+      },
+      {
+        "text": "forma en como se grabarán las nuevas operaciones al hacer clic en el botón",
+        "startMs": 63549,
+        "durationMs": 4641
+      },
+      {
+        "text": "aceptar esta configuración es aplicable para cont pime de",
+        "startMs": 68190,
+        "durationMs": 4320
+      },
+      {
+        "text": "escritorio modo de imprimir para definir la forma en como se imprimirá el",
+        "startMs": 72510,
+        "durationMs": 5320
+      },
+      {
+        "text": "documento de la operación imprimir manualmente imprimir automáticamente o",
+        "startMs": 77830,
+        "durationMs": 4639
+      },
+      {
+        "text": "preguntar antes de imprimir esta configuración es aplicable",
+        "startMs": 82469,
+        "durationMs": 4481
+      },
+      {
+        "text": "para contapyme de escritorio tipo documento de soporte por",
+        "startMs": 86950,
+        "durationMs": 5080
+      },
+      {
+        "text": "defecto determina el tipo de documento de soporte por defecto al crear nuevas",
+        "startMs": 92030,
+        "durationMs": 5000
+      },
+      {
+        "text": "operaciones de pedido el tipo de documento de soporte a utilizar es el 33",
+        "startMs": 97030,
+        "durationMs": 5560
+      },
+      {
+        "text": "pedido de un cliente en esta opción también podemos definir si el tipo de",
+        "startMs": 102590,
+        "durationMs": 4839
+      },
+      {
+        "text": "documento podrá ser modificado o no por el",
+        "startMs": 107429,
+        "durationMs": 4561
+      },
+      {
+        "text": "el usuario código de centro de costos base",
+        "startMs": 111990,
+        "durationMs": 2920
+      },
+      {
+        "text": "por defecto determina el código del centro de costos base que se usará para",
+        "startMs": 114910,
+        "durationMs": 4920
+      },
+      {
+        "text": "para el registro del pedido en este caso vamos a definir por defecto el centro de",
+        "startMs": 119830,
+        "durationMs": 5400
+      },
+      {
+        "text": "costos departamento comercial tipo de documento de impresión",
+        "startMs": 125230,
+        "durationMs": 5920
+      },
+      {
+        "text": "por defecto determina el tipo de documento de impresión que se usará por",
+        "startMs": 131150,
+        "durationMs": 4680
+      },
+      {
+        "text": "defecto al imprimir las nuevas operaciones de pedido el tipo de",
+        "startMs": 135830,
+        "durationMs": 3880
+      },
+      {
+        "text": "documento de impresión a utilizar es el 30 pedido de un",
+        "startMs": 139710,
+        "durationMs": 5159
+      },
+      {
+        "text": "cliente moneda por defecto determina la moneda que se usará para las nuevas",
+        "startMs": 144869,
+        "durationMs": 5521
+      },
+      {
+        "text": "operaciones de pedido de todas formas en la operación la moneda se puede",
+        "startMs": 150390,
+        "durationMs": 3800
+      },
+      {
+        "text": "modificar si así se requiere vamos a dejarla que nos aparece acá por defecto",
+        "startMs": 154190,
+        "durationMs": 4679
+      },
+      {
+        "text": "que es 10 pesos visualización de pasos en el",
+        "startMs": 158869,
+        "durationMs": 6000
+      },
+      {
+        "text": "asistente en esta opción podemos habilitar o Deshabilitar pasos del",
+        "startMs": 164869,
+        "durationMs": 4360
+      },
+      {
+        "text": "asistente de registro de la operación de pedidos para este caso vamos a dejar",
+        "startMs": 169229,
+        "durationMs": 4080
+      },
+      {
+        "text": "activas todas las opciones permisos adicionales para la",
+        "startMs": 173309,
+        "durationMs": 5441
+      },
+      {
+        "text": "operación donde podemos definir si se habilita o no la columna para descuentos",
+        "startMs": 178750,
+        "durationMs": 5199
+      },
+      {
+        "text": "en pedido de productos o si se permite o no cambiar el modo de registro de",
+        "startMs": 183949,
+        "durationMs": 4761
+      },
+      {
+        "text": "precios vamos a dejar activas estas dos opciones de",
+        "startMs": 188710,
+        "durationMs": 6000
+      },
+      {
+        "text": "configuración configuración para datos del",
+        "startMs": 194720,
+        "durationMs": 3149
+      },
+      {
+        "text": "del encabezado podemos Definir la clase de",
+        "startMs": 197869,
+        "durationMs": 2401
+      },
+      {
+        "text": "operación que se utilizará por defecto en la creación de nuevos pedidos vamos a",
+        "startMs": 200270,
+        "durationMs": 4560
+      },
+      {
+        "text": "definir por ejemplo que la clase por defecto siempre va a ser clase uno",
+        "startMs": 204830,
+        "durationMs": 6360
+      },
+      {
+        "text": "podemos también definir si la clase de operación puede ser modificada o no por",
+        "startMs": 211190,
+        "durationMs": 4319
+      },
+      {
+        "text": "el usuario y si la fecha de soporte también puede ser modificada o no por el",
+        "startMs": 215509,
+        "durationMs": 7481
+      },
+      {
+        "text": "usuario configuración de columnas en pedido de un cliente donde podemos",
+        "startMs": 223000,
+        "durationMs": 4990
+      },
+      {
+        "text": "definir si las columnas en el listado de productos serán visibles de solo lectura",
+        "startMs": 227990,
+        "durationMs": 9000
+      },
+      {
+        "text": "requeridos configuración de Campos donde podemos definir si los campos estarán",
+        "startMs": 237000,
+        "durationMs": 6270
+      },
+      {
+        "text": "visibles de solo lectura o requeridos también podemos definir valores por",
+        "startMs": 243270,
+        "durationMs": 5159
+      },
+      {
+        "text": "defecto para los campos Como por ejemplo vamos a definir que la lista de precios",
+        "startMs": 248429,
+        "durationMs": 4201
+      },
+      {
+        "text": "a utilizar siempre en el registro de pedidos va a ser la lista de precios",
+        "startMs": 252630,
+        "durationMs": 5680
+      },
+      {
+        "text": "uno que la bodega a utilizar por defecto es la bodega uno es decir la bodega de",
+        "startMs": 258310,
+        "durationMs": 6080
+      },
+      {
+        "text": "insumos y materiales que El vendedor en todas las",
+        "startMs": 264390,
+        "durationMs": 4079
+      },
+      {
+        "text": "operaciones de va a ser Manuela giraldo y que la cuenta",
+        "startMs": 268469,
+        "durationMs": 5641
+      },
+      {
+        "text": "de clientes a utilizar siempre por defecto es la",
+        "startMs": 274110,
+        "durationMs": 8320
+      },
+      {
+        "text": "280505 al definir estos datos de esta manera el sistema los presentará por",
+        "startMs": 282440,
+        "durationMs": 5550
+      },
+      {
+        "text": "defecto al realizar el registro de un pedido lo cual nos ahorra tiempo y no",
+        "startMs": 287990,
+        "durationMs": 4639
+      },
+      {
+        "text": "debemos digitar todos estos Campos en cada pedido que realicemos",
+        "startMs": 292629,
+        "durationMs": 6921
+      },
+      {
+        "text": "datos adicionales para la operación donde podemos definir Campos",
+        "startMs": 299560,
+        "durationMs": 4390
+      },
+      {
+        "text": "que se requieran particularmente para el registro de la operación estos Campos",
+        "startMs": 303950,
+        "durationMs": 4079
+      },
+      {
+        "text": "son opcionales y de libre definición por el",
+        "startMs": 308029,
+        "durationMs": 3600
+      },
+      {
+        "text": "el usuario configuración de la forma de",
+        "startMs": 311629,
+        "durationMs": 2441
+      },
+      {
+        "text": "cobro donde podemos definir para cada forma de cobro la cuenta a utilizar el",
+        "startMs": 314070,
+        "durationMs": 5559
+      },
+      {
+        "text": "flujo de efectivo se aplica y el tipo de movimiento se aplica también por ejemplo",
+        "startMs": 319629,
+        "durationMs": 5321
+      },
+      {
+        "text": "en esta configuración vamos a definir que la forma de cobro caja va a tener",
+        "startMs": 324950,
+        "durationMs": 5200
+      },
+      {
+        "text": "siempre como cuenta por defecto la cuenta caja almacén principal y el flujo",
+        "startMs": 330150,
+        "durationMs": 6360
+      },
+      {
+        "text": "de efectivo por defecto Siempre será efectivo recibido de los",
+        "startMs": 336510,
+        "durationMs": 4920
+      },
+      {
+        "text": "clientes en la forma de cobro banco vamos a definir que la cuenta de banco",
+        "startMs": 341430,
+        "durationMs": 6080
+      },
+      {
+        "text": "siempre va a ser banco del Norte el tipo de movimiento va a ser cheques recibidos",
+        "startMs": 347510,
+        "durationMs": 5440
+      },
+      {
+        "text": "a la fecha y el flujo de efectivo va a ser efectivo recibido de los",
+        "startMs": 352950,
+        "durationMs": 4760
+      },
+      {
+        "text": "clientes en la forma de cobro cuenta por cobrar vamos a definir que la cuenta por",
+        "startMs": 357710,
+        "durationMs": 10280
+      },
+      {
+        "text": "130505 al definir estos datos en las formas de cobro cuando estemos en la",
+        "startMs": 368000,
+        "durationMs": 5309
+      },
+      {
+        "text": "operación de pedido y elijamos alguna de estas formas el sistema cargará",
+        "startMs": 373309,
+        "durationMs": 4681
+      },
+      {
+        "text": "automáticamente los datos por defecto finalmente para guardar esta",
+        "startMs": 377990,
+        "durationMs": 5639
+      },
+      {
+        "text": "configuración damos clic en el botón aceptar y con esto el de pedidos se",
+        "startMs": 383629,
+        "durationMs": 6761
+      },
+      {
+        "text": "ajusta a nuestros requerimientos y solo registramos la información necesaria",
+        "startMs": 390390,
+        "durationMs": 5239
+      },
+      {
+        "text": "esto es todo sobre configurando la operación de pedidos desde contapyme de",
+        "startMs": 395629,
+        "durationMs": 6970
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video explica cada una de las configuración que se pueden realizar para la operación de pedidos, con el fin de que el usuario defina valores por defecto para los campos y así el registro de un pedido sea mucho mas rápido y sencillo tanto en ContaPyme de escritorio como en ContaPyme móvil.\nCP40-530-030-020B-010M\n\n## Transcripción\n\nconfigurando la operación de pedidos desde contapyme de escritorio la\noperación de pedidos se puede configurar para que en el registro del pedido solo\nsea necesario diligenciar unos cuantos datos Y así el proceso sea mucho más\nágil y efectivo desde cont pime móvil para configurar la operación de\npedidos debemos seguir los siguientes pasos en contap pime de escritorio\npedidos damos clic al botón de configuración que\nse encuentra en la parte inferior de la ventana y elegimos la opción configurar\noperación podemos configurar la operación para el usuario activo o para\ntodos los usuarios en este caso vamos a configurar para el usuario\nactivo en el asistente que se abre en la parte izquierda encontramos las opciones\nde configuración dentro de las que tenemos modo de grabar para definir la\nforma en como se grabarán las nuevas operaciones al hacer clic en el botón\naceptar esta configuración es aplicable para cont pime de\nescritorio modo de imprimir para definir la forma en como se imprimirá el\ndocumento de la operación imprimir manualmente imprimir automáticamente o\npreguntar antes de imprimir esta configuración es aplicable\npara contapyme de escritorio tipo documento de soporte por\ndefecto determina el tipo de documento de soporte por defecto al crear nuevas\noperaciones de pedido el tipo de documento de soporte a utilizar es el 33\npedido de un cliente en esta opción también podemos definir si el tipo de\ndocumento podrá ser modificado o no por el\nel usuario código de centro de costos base\npor defecto determina el código del centro de costos base que se usará para\npara el registro del pedido en este caso vamos a definir por defecto el centro de\ncostos departamento comercial tipo de documento de impresión\npor defecto determina el tipo de documento de impresión que se usará por\ndefecto al imprimir las nuevas operaciones de pedido el tipo de\ndocumento de impresión a utilizar es el 30 pedido de un\ncliente moneda por defecto determina la moneda que se usará para las nuevas\noperaciones de pedido de todas formas en la operación la moneda se puede\nmodificar si así se requiere vamos a dejarla que nos aparece acá por defecto\nque es 10 pesos visualización de pasos en el\nasistente en esta opción podemos habilitar o Deshabilitar pasos del\nasistente de registro de la operación de pedidos para este caso vamos a dejar\nactivas todas las opciones permisos adicionales para la\noperación donde podemos definir si se habilita o no la columna para descuentos\nen pedido de productos o si se permite o no cambiar el modo de registro de\nprecios vamos a dejar activas estas dos opciones de\nconfiguración configuración para datos del\ndel encabezado podemos Definir la clase de\noperación que se utilizará por defecto en la creación de nuevos pedidos vamos a\ndefinir por ejemplo que la clase por defecto siempre va a ser clase uno\npodemos también definir si la clase de operación puede ser modificada o no por\nel usuario y si la fecha de soporte también puede ser modificada o no por el\nusuario configuración de columnas en pedido de un cliente donde podemos\ndefinir si las columnas en el listado de productos serán visibles de solo lectura\nrequeridos configuración de Campos donde podemos definir si los campos estarán\nvisibles de solo lectura o requeridos también podemos definir valores por\ndefecto para los campos Como por ejemplo vamos a definir que la lista de precios\na utilizar siempre en el registro de pedidos va a ser la lista de precios\nuno que la bodega a utilizar por defecto es la bodega uno es decir la bodega de\ninsumos y materiales que El vendedor en todas las\noperaciones de va a ser Manuela giraldo y que la cuenta\nde clientes a utilizar siempre por defecto es la\n280505 al definir estos datos de esta manera el sistema los presentará por\ndefecto al realizar el registro de un pedido lo cual nos ahorra tiempo y no\ndebemos digitar todos estos Campos en cada pedido que realicemos\ndatos adicionales para la operación donde podemos definir Campos\nque se requieran particularmente para el registro de la operación estos Campos\nson opcionales y de libre definición por el\nel usuario configuración de la forma de\ncobro donde podemos definir para cada forma de cobro la cuenta a utilizar el\nflujo de efectivo se aplica y el tipo de movimiento se aplica también por ejemplo\nen esta configuración vamos a definir que la forma de cobro caja va a tener\nsiempre como cuenta por defecto la cuenta caja almacén principal y el flujo\nde efectivo por defecto Siempre será efectivo recibido de los\nclientes en la forma de cobro banco vamos a definir que la cuenta de banco\nsiempre va a ser banco del Norte el tipo de movimiento va a ser cheques recibidos\na la fecha y el flujo de efectivo va a ser efectivo recibido de los\nclientes en la forma de cobro cuenta por cobrar vamos a definir que la cuenta por\n130505 al definir estos datos en las formas de cobro cuando estemos en la\noperación de pedido y elijamos alguna de estas formas el sistema cargará\nautomáticamente los datos por defecto finalmente para guardar esta\nconfiguración damos clic en el botón aceptar y con esto el de pedidos se\najusta a nuestros requerimientos y solo registramos la información necesaria\nesto es todo sobre configurando la operación de pedidos desde contapyme de"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 177.423,
+    "asr": 44100,
+    "filesizeApprox": 8887317,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/ZeXdX4JHysY.md",
+    "json": "videos/2013/ZeXdX4JHysY.json",
+    "infoJson": "videos/2013/ZeXdX4JHysY.info.json"
+  },
+  "publishYear": "2013"
+}
