@@ -81,9 +81,8 @@ Workflow: `.github/workflows/deploy-azure-functions.yml`
 | App | Plan | Método en CI |
 | --- | --- | --- |
 | **`rag-lab`** (prod) | Flex Consumption | `build-deploy-zip.ps1` + `publish-flex-package.ps1` (`/api/publish?RemoteBuild=false`) |
-| `func-insoft-lablanggraph` / otra clásica | Consumption | `Azure/functions-action@v1.5.0` (`vars.FLEX_CONSUMPTION=false`) |
 
-Variable de repo **`FLEX_CONSUMPTION`**: `true` (default) para `rag-lab`; `false` para desplegar con functions-action a app clásica.
+**No** uses `Azure/functions-action` en `rag-lab` (Kudu 503). Si existe la variable de repo `FLEX_CONSUMPTION=false`, elimínala.
 
 | Secret | Valor |
 | --- | --- |

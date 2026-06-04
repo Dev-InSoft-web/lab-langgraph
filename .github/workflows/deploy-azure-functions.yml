@@ -1,12 +1,8 @@
-# Docs: https://github.com/Azure/functions-action
+# rag-lab = Flex Consumption → NO usar Azure/functions-action (Kudu settings 503).
+# Deploy: zip precompilado + POST /api/publish?RemoteBuild=false
 #
-# rag-lab (Flex): scripts/azure/publish-flex-package.ps1 → /api/publish?RemoteBuild=false
-#   (evita zipdeploy + 502 en SCM). Repo variable FLEX_CONSUMPTION=false para plan clásico.
-#
-# func-lab-langgraph (clásico): Azure/functions-action@v1.5.0 como ayudascp-ia.
-#
-# Secrets: AZURE_FUNCTIONAPP_PUBLISH_PROFILE
-# Opcional: variable FLEX_CONSUMPTION = false | true (default true)
+# Secret: AZURE_FUNCTIONAPP_PUBLISH_PROFILE (XML completo)
+# Opcional: AZURE_FUNCTIONAPP_HOSTNAME (smoke test post-deploy)
 
 name: Build and deploy Node.js project to Azure Function App
 
@@ -15,6 +11,10 @@ on:
     branches:
       - main
   workflow_dispatch:
+
+concurrency:
+  group: azure-functions-${{ github.ref }}
+  cancel-in-progress: true
 
 env:
   AZURE_FUNCTIONAPP_PACKAGE_PATH: "."
@@ -25,15 +25,15 @@ jobs:
     runs-on: windows-latest
     timeout-minutes: 45
     steps:
-      - name: "Checkout GitHub Action"
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node ${{ env.NODE_VERSION }} Environment
+      - name: Setup Node ${{ env.NODE_VERSION }}
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - name: "Install dependencies"
+      - name: Install dependencies and build
         shell: pwsh
         run: |
           pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
@@ -42,30 +42,41 @@ jobs:
           npm run build --if-present
           popd
 
-      - name: "Create deployment package"
+      - name: Create deployment package
         shell: pwsh
         id: package
         run: |
           $zip = & ./scripts/azure/build-deploy-zip.ps1
           "zip_path=$zip" >> $env:GITHUB_OUTPUT
 
-      - name: "Deploy (Flex Consumption — api/publish)"
-        if: ${{ vars.FLEX_CONSUMPTION != 'false' }}
+      - name: Deploy to Flex Consumption (api/publish)
         shell: pwsh
         env:
           PUBLISH_PROFILE: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
         run: |
+          if (-not $env:PUBLISH_PROFILE) { throw "Falta secret AZURE_FUNCTIONAPP_PUBLISH_PROFILE" }
           $profilePath = Join-Path $env:RUNNER_TEMP 'publish-profile.xml'
           [System.IO.File]::WriteAllText($profilePath, $env:PUBLISH_PROFILE, [System.Text.UTF8Encoding]::new($false))
           & ./scripts/azure/publish-flex-package.ps1 `
             -ZipPath '${{ steps.package.outputs.zip_path }}' `
             -PublishProfilePath $profilePath
 
-      - name: "Deploy (classic — ayudascp-ia)"
-        if: ${{ vars.FLEX_CONSUMPTION == 'false' }}
-        uses: Azure/functions-action@v1.5.0
-        with:
-          app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
-          package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
-          respect-funcignore: true
+      - name: Smoke test (openapi)
+        shell: pwsh
+        env:
+          SMOKE_HOST: ${{ secrets.AZURE_FUNCTIONAPP_HOSTNAME }}
+        run: |
+          $host = $env:SMOKE_HOST?.Trim()
+          if (-not $host) { Write-Host "Skip smoke test (sin AZURE_FUNCTIONAPP_HOSTNAME)"; exit 0 }
+          $url = "https://$host/api/openapi.json"
+          Write-Host "GET $url"
+          for ($i = 1; $i -le 12; $i++) {
+            try {
+              $r = Invoke-WebRequest -Uri $url -UseBasicParsing -TimeoutSec 90
+              if ($r.StatusCode -eq 200) { Write-Host "OK openapi.json ($($r.Content.Length) bytes)"; exit 0 }
+            } catch {
+              Write-Host "Attempt $i/12: $($_.Exception.Message)"
+            }
+            Start-Sleep -Seconds 15
+          }
+          throw "Smoke test failed: $url"

@@ -60,10 +60,11 @@ Si `/api/docs` es 200 pero la página sale en blanco: CDN bloqueado; usar `/api/
 
 ## Cómo despliega el CI (leer antes de “arreglar” el yml)
 
-| `vars.FLEX_CONSUMPTION` | Método | Script |
-| --- | --- | --- |
-| no `false` (default) | Zip precompilado → Kudu **`/api/publish?RemoteBuild=false`** | `build-deploy-zip.ps1` + `publish-flex-package.ps1` |
-| `false` | `Azure/functions-action@v1.5.0` (patrón ayudascp-ia) | package desde raíz, `respect-funcignore: true` |
+**Solo** zip precompilado → Kudu **`/api/publish?RemoteBuild=false`** (`build-deploy-zip.ps1` + `publish-flex-package.ps1`).
+
+**No usar** `Azure/functions-action` en `rag-lab` (Flex): falla con *Failed to fetch Kudu App Settings · Site Unavailable (503)*.
+
+Si el repo tenía variable `FLEX_CONSUMPTION=false`, **eliminarla** en GitHub → Settings → Variables → Actions.
 
 Pasos comunes del job (Windows, Node **22.x**):
 
