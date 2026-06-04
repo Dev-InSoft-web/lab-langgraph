@@ -181,4 +181,36 @@ if (await pingRagDb()) {
 	console.log("\nRAG: omitido (sin RAG_DATABASE_URL)");
 }
 
+/** Esquemas bd_* vacíos tras mover tablas a "BD_*" (confunden en pgAdmin). */
+async function dropEmptyLegacySchemas(pool: { query: Function }): Promise<void> {
+	for (const legacy of ["bd_lab", "bd_paty", "bd_clientesis", "bd_rag"]) {
+		const t = await pool.query(
+			`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname = $1`,
+			[legacy],
+		);
+		const s = await pool.query(
+			`SELECT count(*)::int AS n FROM pg_sequences WHERE schemaname = $1`,
+			[legacy],
+		);
+		const n = (t.rows[0]?.n ?? 0) + (s.rows[0]?.n ?? 0);
+		if (n > 0) {
+			console.log(`  conservar ${legacy} (${n} objeto(s) aún)`);
+			continue;
+		}
+		const exists = await pool.query(`SELECT 1 FROM pg_namespace WHERE nspname = $1`, [legacy]);
+		if ((exists.rowCount ?? 0) === 0) continue;
+		await pool.query(`DROP SCHEMA ${pgQ(legacy)} CASCADE`);
+		console.log(`  DROP SCHEMA ${legacy} (vacío)`);
+	}
+}
+
+console.log("\nLimpieza esquemas legacy vacíos…");
+await dropEmptyLegacySchemas(opsPool);
+try {
+	await dropEmptyLegacySchemas(getClientesisPgPool());
+} catch {
+	/* misma instancia */
+}
+if (await pingRagDb()) await dropEmptyLegacySchemas(getRagPgPool());
+
 console.log("\n[ok] Migración nomenclatura terminada.");

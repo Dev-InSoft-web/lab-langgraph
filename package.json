@@ -24,6 +24,8 @@
     "openapi:export": "npm run build && npx tsx scripts/export-openapi.mts",
     "auth:apply-pg": "npm run build && npx tsx scripts/apply-lab-auth-pg.mts --seed",
     "db:migrate-nomenclature": "npm run build && npx tsx scripts/migrate-nomenclature-bd.mts",
+    "db:verify-nomenclature": "npm run build && npx tsx scripts/verify-bd-nomenclature.mts",
+    "db:nomenclature-status": "npx tsx scripts/db-nomenclature-status.mts",
     "db:migrate-ientityid": "npm run build && npx tsx scripts/migrate-entity-ientityid.mts",
     "auth:seed-user": "npm run build && npx tsx scripts/seed-lab-auth-user.mts",
     "catalog:build": "npm run build && npx tsx scripts/build-api-catalog.mts",

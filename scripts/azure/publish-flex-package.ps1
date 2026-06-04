@@ -45,10 +45,10 @@ for ($attempt = 1; $attempt -le $MaxAttempts; $attempt++) {
 	} catch {
 		$status = $null
 		if ($_.Exception.Response) { $status = [int]$_.Exception.Response.StatusCode }
-		Write-Host "Error HTTP $status — $($_.Exception.Message)"
+		Write-Host "Error HTTP $status - $($_.Exception.Message)"
 		if ($status -notin 502, 503, 504, $null) { throw }
 	}
 	Start-Sleep -Seconds ([Math]::Min(30, 5 * $attempt))
 }
 
-throw "Flex publish failed after $MaxAttempts attempts (SCM 502/503). Reintente el workflow o use func-lab-langgraph (plan clásico)."
+throw "Flex publish failed after $MaxAttempts attempts (SCM 502/503). Reintente el workflow o FLEX_CONSUMPTION=false."

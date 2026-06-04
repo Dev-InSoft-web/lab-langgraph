@@ -41,14 +41,20 @@ cd C:\Users\JAGUDELOE\Documents\Contapyme\lab-langgraph
 ```
 
 3. **Push** a `main` o **workflow_dispatch** → workflow `.github/workflows/deploy-azure-functions.yml`.
-4. **Post-deploy** (esperar 1–2 min por cold start):
+4. **Post-deploy** (esperar 1–2 min; comprobar que hay funciones):
 
 ```powershell
+$az = "$env:ProgramFiles\Microsoft SDKs\Azure\CLI2\wbin\az.cmd"
+& $az functionapp function list -n rag-lab -g rg-lab-langgraph --query "length(@)"
+
 $base = "https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net"
-Invoke-WebRequest "$base/api/health" -UseBasicParsing
-Invoke-WebRequest "$base/api/tools/health" -UseBasicParsing
-Invoke-WebRequest "$base/api/docs" -UseBasicParsing
+Invoke-WebRequest "$base/api/openapi.json" -UseBasicParsing   # debe ser 200
+Invoke-WebRequest "$base/api/docs" -UseBasicParsing         # HTML Swagger
 ```
+
+Si `function list` devuelve `[]` o todo `/api/*` es **404**: el host no cargó los triggers. En `src/index.ts` deben importarse `./functions/*.js` (no confiar solo en el glob de `package.json` en Flex).
+
+Si `/api/docs` es 200 pero la página sale en blanco: CDN bloqueado; usar `/api/openapi.json` o importar en Postman.
 
 5. **ISA-DOC**: `PUBLIC_LAB_LANGGRAPH_URL=<base sin /api>` en `secrets/patyia/lab-client.env` o variable gh-pages.
 

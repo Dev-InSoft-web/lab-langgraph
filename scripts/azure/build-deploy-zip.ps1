@@ -10,8 +10,9 @@ param(
 
 $ErrorActionPreference = "Stop"
 if (-not $OutZip) {
-	$OutZip = Join-Path $env:RUNNER_TEMP "lab-langgraph-deploy.zip"
-	if (-not $env:RUNNER_TEMP) { $OutZip = Join-Path $env:TEMP "lab-langgraph-deploy.zip" }
+	$base = if ($env:RUNNER_TEMP) { $env:RUNNER_TEMP } else { $env:TEMP }
+	if (-not $base) { $base = [System.IO.Path]::GetTempPath() }
+	$OutZip = Join-Path $base "lab-langgraph-deploy.zip"
 }
 
 $stage = Join-Path $env:TEMP "lab-langgraph-fn-stage-$PID"
