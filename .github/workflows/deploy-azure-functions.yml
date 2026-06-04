@@ -1,12 +1,10 @@
-# Docs: https://github.com/Azure/functions-action
-# App: rag-lab (Flex Consumption, rg-lab-langgraph)
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/functions-action
+# More GitHub Actions for Azure: https://github.com/Azure/actions
 #
-# Secrets:
-#   AZURE_FUNCTIONAPP_NAME
-#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE
-#   AZURE_FUNCTIONAPP_HOSTNAME (opcional, health check)
+# Mismo flujo que ayudascp-ia: publish-profile → functions-action empaqueta y despliega
+# (Zip Deploy vía la action; no script manual a Kudu/SCM).
 #
-# Portal: SCM Basic Auth Publishing Credentials = On
+# Secrets: AZURE_FUNCTIONAPP_PUBLISH_PROFILE (XML del perfil de publicación)
 
 name: Build and deploy Node.js project to Azure Function App - rag-lab
 
@@ -16,10 +14,6 @@ on:
       - main
   workflow_dispatch:
 
-concurrency:
-  group: azure-functions-${{ github.ref }}
-  cancel-in-progress: true
-
 env:
   AZURE_FUNCTIONAPP_PACKAGE_PATH: "."
   NODE_VERSION: "22.x"
@@ -27,18 +21,16 @@ env:
 jobs:
   build-and-deploy:
     runs-on: windows-latest
-    timeout-minutes: 30
     steps:
-      - name: Checkout GitHub Action
+      - name: "Checkout GitHub Action"
         uses: actions/checkout@v4
 
       - name: Setup Node ${{ env.NODE_VERSION }} Environment
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: npm
 
-      - name: Install dependencies
+      - name: "Install dependencies"
         shell: pwsh
         run: |
           pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
@@ -47,35 +39,9 @@ jobs:
           npm run build --if-present
           popd
 
-      - name: Deploy to Azure Function App
+      - name: "Deploy to Azure Function App"
         uses: Azure/functions-action@v1.5.0
         with:
           app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          sku: flexconsumption
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
-
-      - name: Health check
-        shell: pwsh
-        env:
-          APP_HOST: ${{ secrets.AZURE_FUNCTIONAPP_HOSTNAME }}
-        run: |
-          if (-not $env:APP_HOST) {
-            Write-Host 'AZURE_FUNCTIONAPP_HOSTNAME not set; skipping health check.'
-            exit 0
-          }
-          $base = "https://$($env:APP_HOST)"
-          foreach ($wait in @(5, 10, 15, 20, 30, 45, 60)) {
-            Write-Host "Health attempt (wait ${wait}s)..."
-            Start-Sleep -Seconds $wait
-            try {
-              $r = Invoke-WebRequest -Uri "$base/api/health" -UseBasicParsing -TimeoutSec 90
-              Write-Host $r.Content
-              exit 0
-            } catch {
-              $code = $_.Exception.Response.StatusCode.value__
-              Write-Host "HTTP $code — retrying..."
-            }
-          }
-          Write-Host 'Health check failed — verify functions in portal (EnableWorkerIndexing).'
-          exit 1
