@@ -14,7 +14,7 @@ if (-not $OutZip) {
 	if (-not $env:RUNNER_TEMP) { $OutZip = Join-Path $env:TEMP "lab-langgraph-deploy.zip" }
 }
 
-$stage = Join-Path ([System.IO.Path]::GetDirectoryName($OutZip)) "fn-stage"
+$stage = Join-Path $env:TEMP "lab-langgraph-fn-stage-$PID"
 if (Test-Path $stage) { Remove-Item $stage -Recurse -Force }
 New-Item -ItemType Directory -Path $stage | Out-Null
 

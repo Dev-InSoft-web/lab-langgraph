@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "FitDocs RAG — Azure Functions + LangChain.js + PGVector (Render PostgreSQL)",
-  "main": "dist/src/index.js",
+  "main": "dist/src/{index.js,functions/*.js}",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",

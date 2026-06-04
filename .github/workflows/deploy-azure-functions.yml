@@ -40,7 +40,6 @@ jobs:
           npm install
           npm install typescript -D
           npm run build --if-present
-          npm prune --omit=dev
           popd
 
       - name: "Create deployment package"
