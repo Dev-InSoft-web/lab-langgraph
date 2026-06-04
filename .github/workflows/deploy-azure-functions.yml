@@ -1,14 +1,14 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/functions-action
-# More GitHub Actions for Azure: https://github.com/Azure/actions
+# Docs: https://github.com/Azure/functions-action
 #
-# Mismo flujo que ayudascp-ia (publish-profile + functions-action@v1.5.0).
-# rag-lab es Flex Consumption: sin sku:flexconsumption la action intenta Kudu
-# (SCM_DO_BUILD_DURING_DEPLOYMENT → 405 y bucle de reintentos).
-# Build en el runner (npm install + tsc); remote-build=false en Flex.
+# rag-lab (Flex): scripts/azure/publish-flex-package.ps1 → /api/publish?RemoteBuild=false
+#   (evita zipdeploy + 502 en SCM). Repo variable FLEX_CONSUMPTION=false para plan clásico.
 #
-# Secrets: AZURE_FUNCTIONAPP_NAME, AZURE_FUNCTIONAPP_PUBLISH_PROFILE
+# func-lab-langgraph (clásico): Azure/functions-action@v1.5.0 como ayudascp-ia.
+#
+# Secrets: AZURE_FUNCTIONAPP_PUBLISH_PROFILE
+# Opcional: variable FLEX_CONSUMPTION = false | true (default true)
 
-name: Build and deploy Node.js project to Azure Function App - rag-lab
+name: Build and deploy Node.js project to Azure Function App
 
 on:
   push:
@@ -23,6 +23,7 @@ env:
 jobs:
   build-and-deploy:
     runs-on: windows-latest
+    timeout-minutes: 45
     steps:
       - name: "Checkout GitHub Action"
         uses: actions/checkout@v4
@@ -41,11 +42,30 @@ jobs:
           npm run build --if-present
           popd
 
-      - name: "Deploy to Azure Function App"
+      - name: "Create deployment package"
+        shell: pwsh
+        id: package
+        run: |
+          $zip = & ./scripts/azure/build-deploy-zip.ps1
+          "zip_path=$zip" >> $env:GITHUB_OUTPUT
+
+      - name: "Deploy (Flex Consumption — api/publish)"
+        if: ${{ vars.FLEX_CONSUMPTION != 'false' }}
+        shell: pwsh
+        env:
+          PUBLISH_PROFILE: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+        run: |
+          $profilePath = Join-Path $env:RUNNER_TEMP 'publish-profile.xml'
+          [System.IO.File]::WriteAllText($profilePath, $env:PUBLISH_PROFILE, [System.Text.UTF8Encoding]::new($false))
+          & ./scripts/azure/publish-flex-package.ps1 `
+            -ZipPath '${{ steps.package.outputs.zip_path }}' `
+            -PublishProfilePath $profilePath
+
+      - name: "Deploy (classic — ayudascp-ia)"
+        if: ${{ vars.FLEX_CONSUMPTION == 'false' }}
         uses: Azure/functions-action@v1.5.0
         with:
           app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
-          sku: flexconsumption
-          remote-build: false
+          respect-funcignore: true

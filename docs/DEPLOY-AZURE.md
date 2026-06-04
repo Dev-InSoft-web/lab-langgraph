@@ -59,6 +59,13 @@ Repo esperado: `https://github.com/Dev-InSoft-web/lab-langgraph`
 
 Workflow: `.github/workflows/deploy-azure-functions.yml`
 
+| App | Plan | Método en CI |
+| --- | --- | --- |
+| `rag-lab` | Flex Consumption | `api/publish?RemoteBuild=false` (script `publish-flex-package.ps1`; evita zipdeploy 502) |
+| `func-lab-langgraph` | Consumption clásico | `Azure/functions-action@v1.5.0` (como ayudascp-ia) |
+
+Variable de repo **`FLEX_CONSUMPTION`**: `true` (default) para `rag-lab`; `false` para desplegar con functions-action a app clásica.
+
 | Secret | Valor |
 | --- | --- |
 | `AZURE_FUNCTIONAPP_NAME` | Nombre de la app, ej. `func-insoft-lablanggraph` |
