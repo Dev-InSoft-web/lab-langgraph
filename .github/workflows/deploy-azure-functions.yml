@@ -1,7 +1,11 @@
-# Despliega lab-langgraph en Azure Functions en cada push a main.
-# Secretos (Settings → Secrets → Actions):
-#   AZURE_FUNCTIONAPP_NAME
-#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE  — XML completo (scripts/azure/fetch-publish-profile.ps1)
+# Deploy lab-langgraph → Azure Functions (Consumption Linux, Node 24)
+#
+# Secrets (repo → Settings → Secrets → Actions):
+#   AZURE_FUNCTIONAPP_NAME              = func-insoft-lablanggraph
+#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE   = XML completo (scripts/github/set-azure-deploy-secrets.ps1)
+#
+# Nota: no usar Azure/webapps-deploy con slot-name "production" ni scm-do-build-during-deployment
+# (no son inputs válidos y provocan "Publish profile is invalid").
 
 name: Deploy lab-langgraph (Azure Functions)
 
@@ -14,42 +18,114 @@ concurrency:
   group: azure-functions-${{ github.ref }}
   cancel-in-progress: true
 
+env:
+  NODE_VERSION: "20"
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js 20
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: ${{ env.NODE_VERSION }}
           cache: npm
 
-      - name: Install dependencies
-        run: npm ci
+      - name: Install and build
+        run: |
+          npm ci
+          npm run build
 
-      - name: Build TypeScript
-        run: npm run build
+      - name: Create deployment package
+        run: |
+          zip -rq deploy.zip \
+            host.json package.json package-lock.json dist node_modules \
+            -x "*.git*" "*/test/*" "*/testing/*"
 
-      - name: Deploy to Azure Functions
-        uses: Azure/functions-action@v1
-        with:
-          app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
-          package: .
-          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
-          scm-do-build-during-deployment: false
-          respect-funcignore: true
+      - name: Zip Deploy (publish profile, retries on 503)
+        env:
+          PUBLISH_PROFILE: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+        run: |
+          python3 <<'PY'
+          import base64
+          import os
+          import subprocess
+          import sys
+          import time
+          import xml.etree.ElementTree as ET
+
+          xml = os.environ.get("PUBLISH_PROFILE", "").strip()
+          if not xml or "<publishData>" not in xml:
+              print("AZURE_FUNCTIONAPP_PUBLISH_PROFILE missing or invalid XML")
+              sys.exit(1)
+
+          root = ET.fromstring(xml)
+          prof = next(
+              p
+              for p in root.findall("publishProfile")
+              if p.get("publishMethod") == "ZipDeploy"
+          )
+          host = prof.get("publishUrl", "").split(":")[0]
+          user = prof.get("userName")
+          pwd = prof.get("userPWD")
+          if not all([host, user, pwd]):
+              print("ZipDeploy credentials not found in publish profile")
+              sys.exit(1)
+
+          url = f"https://{host}/api/zipdeploy?isAsync=true"
+          auth = base64.b64encode(f"{user}:{pwd}".encode()).decode()
+          print(f"Deploying to {url}")
+
+          for attempt in range(1, 16):
+              print(f"Attempt {attempt}/15")
+              proc = subprocess.run(
+                  [
+                      "curl", "-sS", "-X", "POST", url,
+                      "-H", f"Authorization: Basic {auth}",
+                      "-H", "Content-Type: application/zip",
+                      "--data-binary", "@deploy.zip",
+                      "-w", "\nHTTP_CODE:%{http_code}",
+                  ],
+                  capture_output=True,
+                  text=True,
+                  timeout=600,
+              )
+              out = (proc.stdout or "") + (proc.stderr or "")
+              if proc.returncode != 0:
+                  print(out[-2000:])
+              code = "000"
+              if "HTTP_CODE:" in out:
+                  code = out.rsplit("HTTP_CODE:", 1)[-1].strip()[:3]
+              print(f"HTTP {code}")
+              if code in ("200", "202"):
+                  print("Zip deploy accepted")
+                  sys.exit(0)
+              if code == "503":
+                  time.sleep(30)
+                  continue
+              print(out[-2000:])
+              time.sleep(20)
+
+          print("Zip deploy failed after retries (Kudu/SCM may be unavailable)")
+          sys.exit(1)
+          PY
 
       - name: Health check
-        if: success()
+        env:
+          APP_NAME: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
         run: |
-          BASE="https://${{ secrets.AZURE_FUNCTIONAPP_NAME }}.azurewebsites.net"
-          for i in 1 2 3 4 5; do
-            if curl -fsS "${BASE}/api/health"; then exit 0; fi
-            echo "Retry $i..."
-            sleep 15
+          BASE="https://${APP_NAME}.azurewebsites.net"
+          for i in 1 2 3 4 5 6 8 10; do
+            echo "Health attempt (wait ${i}s)..."
+            sleep "$i"
+            if curl -fsS "${BASE}/api/health"; then
+              echo ""
+              exit 0
+            fi
           done
+          echo "Health check failed — app may still be warming up; check Azure Portal."
           exit 1

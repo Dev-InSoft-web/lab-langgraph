@@ -9,6 +9,7 @@ secrets/
 *.PublishSettings
 publish-profile*.xml
 .azure-scm-auth.json
+deploy.zip
 .env.*
 !local.settings.json.example
 

@@ -2,34 +2,28 @@
 
 Alojamiento recomendado: **Azure Function App**, Linux, **Node 20**, plan **Consumption (Y1)** — incluye [capa gratuita mensual](https://azure.microsoft.com/pricing/details/functions/) (sujeta a límites de ejecución y almacenamiento).
 
-## 1. Portal o CLI — crear la Function App
+## 1. Crear la Function App
 
-### Opción A — Script (recomendado)
+### Opción A — Portal (recomendado)
 
-En PowerShell, desde la raíz del repo:
+El asistente del portal enlaza storage, file share y runtime de forma coherente y reduce Kudu 503 tras recreaciones por CLI.
+
+Guía paso a paso: **[CREATE-FUNCTION-APP-PORTAL.md](./CREATE-FUNCTION-APP-PORTAL.md)**
+
+Resumen: crear `func-insoft-lablanggraph` en `rg-insoft-lab-langgraph`, Linux, **Node 24**, consumo, **storage nuevo**, activar **SCM Basic Auth Publishing Credentials**, luego `set-azure-deploy-secrets.ps1`.
+
+### Opción B — Script Bicep/CLI
+
+Solo si ya dominas el flujo o es entorno automatizado:
 
 ```powershell
 az login
 .\scripts\azure\provision.ps1 -Location eastus2 -FunctionAppName func-insoft-lablanggraph
 ```
 
-Portal de referencia: [Azure Portal](https://portal.azure.com/) → Resource groups → `rg-insoft-lab-langgraph`.
+El script crea también **SignalR** (`Free_F1`, Serverless). Detalle: [SIGNALR.md](./SIGNALR.md).
 
-El script Bicep crea también **Azure SignalR Service** (`Free_F1`, modo **Serverless**) para sockets front/server sin proceso local. Detalle: [SIGNALR.md](./SIGNALR.md).
-
-### Opción B — Portal manual
-
-1. **Create a resource** → **Function App**.
-2. **Publish**: Code · **Runtime**: Node.js · **Version**: 20 · **OS**: Linux.
-3. **Hosting**: plan **Consumption (Serverless)**.
-4. Storage: cuenta nueva (LRS).
-5. Tras crear, **Configuration** → Application settings:
-   - `FUNCTIONS_WORKER_RUNTIME` = `node`
-   - `FUNCTIONS_EXTENSION_VERSION` = `~4`
-   - `AzureWebJobsStorage` = connection string del storage
-   - `WEBSITE_RUN_FROM_PACKAGE` = `1`
-   - `SCM_DO_BUILD_DURING_DEPLOYMENT` = `false`
-6. **CORS**: permitir orígenes del front (ISA-DOC gh-pages, localhost) o `*` solo en lab.
+Si el deploy en GitHub falla con 503, **recrea la Function App por portal** (opción A) y vuelve a descargar el publish profile.
 
 ## 2. Application settings (secretos)
 
@@ -76,9 +70,21 @@ Obtener perfil:
 .\scripts\azure\fetch-publish-profile.ps1
 ```
 
-En GitHub: **Settings → Secrets and variables → Actions → New repository secret**.
+Actualizar secretos (recomendado tras recrear la Function App):
 
-Cada **push a `main`** ejecuta `npm ci`, `npm run build` y publica con [Azure/functions-action](https://github.com/Azure/functions-action).
+```powershell
+.\scripts\github\set-azure-deploy-secrets.ps1
+```
+
+Cada **push a `main`** ejecuta `npm ci`, `npm run build` y **Zip Deploy** vía publish profile (sin `slot-name` ni `webapps-deploy`).
+
+### Errores frecuentes en Actions
+
+| Error | Causa | Solución |
+| --- | --- | --- |
+| `Publish profile is invalid for app-name and slot-name` | `Azure/webapps-deploy` con `slot-name: production` o secretos viejos | Usar el workflow actual (zip directo); ejecutar `set-azure-deploy-secrets.ps1` |
+| `Unexpected input scm-do-build-during-deployment` | Parámetro no válido en `webapps-deploy@v3` | No usar ese input; el workflow actual no lo incluye |
+| `Failed to fetch Kudu App Settings` **503** | App Linux Consumption sin primer deploy o SCM caído | El workflow reintenta zip deploy; en portal: **SCM Basic Auth Publishing Credentials = On**, reiniciar app, volver a descargar perfil |
 
 ## 5. Enlazar ISA-DOC
 
