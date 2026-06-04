@@ -1,7 +1,7 @@
 # Despliega lab-langgraph en Azure Functions en cada push a main.
-# Secretos en el repo (Settings → Secrets → Actions):
-#   AZURE_FUNCTIONAPP_NAME          — ej. func-insoft-lablanggraph
-#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE — XML del perfil de publicación (portal o provision.ps1)
+# Secretos (Settings → Secrets → Actions):
+#   AZURE_FUNCTIONAPP_NAME
+#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE  — XML completo (scripts/azure/fetch-publish-profile.ps1)
 
 name: Deploy lab-langgraph (Azure Functions)
 
@@ -17,7 +17,7 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,18 +35,21 @@ jobs:
         run: npm run build
 
       - name: Deploy to Azure Functions
-        uses: Azure/webapps-deploy@v3
-        id: deploy
+        uses: Azure/functions-action@v1
         with:
           app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
           package: .
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
           scm-do-build-during-deployment: false
-          slot-name: production
+          respect-funcignore: true
 
       - name: Health check
         if: success()
         run: |
           BASE="https://${{ secrets.AZURE_FUNCTIONAPP_NAME }}.azurewebsites.net"
-          curl -fsS "${BASE}/api/health" | head -c 2000
-          echo ""
+          for i in 1 2 3 4 5; do
+            if curl -fsS "${BASE}/api/health"; then exit 0; fi
+            echo "Retry $i..."
+            sleep 15
+          done
+          exit 1
