@@ -53,10 +53,21 @@ jobs:
         shell: pwsh
         env:
           PUBLISH_PROFILE: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+          EXPECTED_HOST: ${{ secrets.AZURE_FUNCTIONAPP_HOSTNAME }}
         run: |
           if (-not $env:PUBLISH_PROFILE) { throw "Falta secret AZURE_FUNCTIONAPP_PUBLISH_PROFILE" }
           $profilePath = Join-Path $env:RUNNER_TEMP 'publish-profile.xml'
           [System.IO.File]::WriteAllText($profilePath, $env:PUBLISH_PROFILE, [System.Text.UTF8Encoding]::new($false))
+          [xml]$doc = Get-Content -Raw -Encoding UTF8 $profilePath
+          $prof = $doc.publishData.publishProfile | Where-Object { $_.publishMethod -eq 'ZipDeploy' } | Select-Object -First 1
+          $scmHost = ($prof.publishUrl -split ':')[0]
+          Write-Host "SCM host from publish profile: $scmHost"
+          if ($scmHost -match 'func-lab-langgraph') {
+            throw "Publish profile apunta a func-lab-langgraph (SCM 503). Ejecuta scripts/github/set-azure-deploy-secrets.ps1 para rag-lab."
+          }
+          if ($env:EXPECTED_HOST -and $scmHost -notmatch [regex]::Escape($env:EXPECTED_HOST.Split('.')[0])) {
+            Write-Host "WARN: SCM host no coincide con AZURE_FUNCTIONAPP_HOSTNAME=$($env:EXPECTED_HOST)"
+          }
           & ./scripts/azure/publish-flex-package.ps1 `
             -ZipPath '${{ steps.package.outputs.zip_path }}' `
             -PublishProfilePath $profilePath
