@@ -1,10 +1,12 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/functions-action
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 #
-# Mismo flujo que ayudascp-ia: publish-profile → functions-action empaqueta y despliega
-# (Zip Deploy vía la action; no script manual a Kudu/SCM).
+# Mismo flujo que ayudascp-ia (publish-profile + functions-action@v1.5.0).
+# rag-lab es Flex Consumption: sin sku:flexconsumption la action intenta Kudu
+# (SCM_DO_BUILD_DURING_DEPLOYMENT → 405 y bucle de reintentos).
+# Build en el runner (npm install + tsc); remote-build=false en Flex.
 #
-# Secrets: AZURE_FUNCTIONAPP_PUBLISH_PROFILE (XML del perfil de publicación)
+# Secrets: AZURE_FUNCTIONAPP_NAME, AZURE_FUNCTIONAPP_PUBLISH_PROFILE
 
 name: Build and deploy Node.js project to Azure Function App - rag-lab
 
@@ -45,3 +47,5 @@ jobs:
           app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+          sku: flexconsumption
+          remote-build: false
