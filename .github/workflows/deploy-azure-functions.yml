@@ -1,17 +1,19 @@
-# Deploy lab-langgraph → Azure Functions Flex Consumption (Linux, Node 22)
+# Docs: https://github.com/Azure/functions-action
+# App: rag-lab (Flex Consumption, rg-lab-langgraph)
 #
-# Secrets (repo → Settings → Secrets → Actions):
-#   AZURE_FUNCTIONAPP_NAME              = rag-lab
-#   AZURE_FUNCTIONAPP_HOSTNAME          = rag-lab-....azurewebsites.net (scripts/github/set-azure-deploy-secrets.ps1)
-#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE   = XML completo del perfil de publicación
+# Secrets:
+#   AZURE_FUNCTIONAPP_NAME
+#   AZURE_FUNCTIONAPP_PUBLISH_PROFILE
+#   AZURE_FUNCTIONAPP_HOSTNAME (opcional, health check)
 #
-# Flex Consumption: usar Azure/functions-action con sku flexconsumption (no zip deploy directo a Kudu).
+# Portal: SCM Basic Auth Publishing Credentials = On
 
-name: Deploy lab-langgraph (Azure Functions)
+name: Build and deploy Node.js project to Azure Function App - rag-lab
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   workflow_dispatch:
 
 concurrency:
@@ -19,57 +21,61 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  NODE_VERSION: "22"
+  AZURE_FUNCTIONAPP_PACKAGE_PATH: "."
+  NODE_VERSION: "22.x"
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     timeout-minutes: 30
     steps:
-      - name: Checkout
+      - name: Checkout GitHub Action
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node ${{ env.NODE_VERSION }} Environment
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: npm
 
-      - name: Install and build
+      - name: Install dependencies
+        shell: pwsh
         run: |
-          npm ci
-          npm run build
+          pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
+          npm install
+          npm install typescript -D
+          npm run build --if-present
+          popd
 
-      - name: Stage deployment package
-        run: |
-          mkdir -p deploy_pkg
-          cp host.json package.json package-lock.json deploy_pkg/
-          cp -r dist node_modules deploy_pkg/
-
-      - name: Deploy to Azure Functions (Flex Consumption)
-        uses: Azure/functions-action@v1
+      - name: Deploy to Azure Function App
+        uses: Azure/functions-action@v1.5.0
         with:
           app-name: ${{ secrets.AZURE_FUNCTIONAPP_NAME }}
-          package: deploy_pkg
+          package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
           sku: flexconsumption
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
 
       - name: Health check
+        shell: pwsh
         env:
           APP_HOST: ${{ secrets.AZURE_FUNCTIONAPP_HOSTNAME }}
         run: |
-          if [ -z "$APP_HOST" ]; then
-            echo "AZURE_FUNCTIONAPP_HOSTNAME not set; skipping health check."
+          if (-not $env:APP_HOST) {
+            Write-Host 'AZURE_FUNCTIONAPP_HOSTNAME not set; skipping health check.'
             exit 0
-          fi
-          BASE="https://${APP_HOST}"
-          for i in 1 2 3 4 5 6 8 10; do
-            echo "Health attempt (wait ${i}s)..."
-            sleep "$i"
-            if curl -fsS "${BASE}/api/health"; then
-              echo ""
+          }
+          $base = "https://$($env:APP_HOST)"
+          foreach ($wait in @(5, 10, 15, 20, 30, 45, 60)) {
+            Write-Host "Health attempt (wait ${wait}s)..."
+            Start-Sleep -Seconds $wait
+            try {
+              $r = Invoke-WebRequest -Uri "$base/api/health" -UseBasicParsing -TimeoutSec 90
+              Write-Host $r.Content
               exit 0
-            fi
-          done
-          echo "Health check failed — app may still be warming up; check Azure Portal."
+            } catch {
+              $code = $_.Exception.Response.StatusCode.value__
+              Write-Host "HTTP $code — retrying..."
+            }
+          }
+          Write-Host 'Health check failed — verify functions in portal (EnableWorkerIndexing).'
           exit 1
