@@ -1,5 +1,5 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import {
 	getController,
 	listRegisteredControllers,
@@ -22,7 +22,8 @@ async function registryHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	await ensureEntityControllersRegisteredAsync();
 	return jsonResponse(
 		{
@@ -30,7 +31,7 @@ async function registryHandler(
 			segment: "{project}/{page}/{entity}",
 			entities: listRegisteredControllers(),
 			hints: {
-				list: "GET /api/entity/{project}/{page}/{entity}?limit=&offset=&q=&fields=&parentPk=&tags=&filter.x=",
+				list: "GET /api/entity/{project}/{page}/{entity}?limit=&offset=&q=&fields=&parentEntityId=&tags=&filter.x=",
 				detail: "GET .../{pk}?detail=todo | detail={\"assets\":{\"todo\":true}}",
 				propagate: "POST body con arrays en claves de details (ej. assets)",
 			},
@@ -45,7 +46,8 @@ async function seedHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	if (request.method !== "POST") {
 		return jsonResponse({ ok: false, error: "POST requerido" }, 405, storeCors(origin));
 	}
@@ -65,13 +67,14 @@ async function entityHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	await ensureEntityControllersRegisteredAsync();
 	const project = request.params.project?.trim();
 	const page = request.params.page?.trim();
 	const entity = request.params.entity?.trim();
-	const pk = request.params.pk?.trim();
+	const pk = (request.params.ientityid ?? request.params.pk)?.trim();
 
 	if (!project || !page || !entity) {
 		return jsonResponse({ ok: false, error: "project, page y entity requeridos" }, 400, storeCors(origin));
@@ -97,15 +100,16 @@ async function entityHandler(
 			if (request.method === "POST") {
 				const text = await request.text();
 				const body = text.trim() ? (JSON.parse(text) as Record<string, unknown>) : {};
-				const parentPk = url.searchParams.get("parentPk") ?? undefined;
+				const parentEntityId =
+					url.searchParams.get("parentEntityId") ?? url.searchParams.get("parentPk") ?? undefined;
 				const tags = url.searchParams.get("tags")?.split(",").filter(Boolean);
 				const res = await ctrl.create(body, {
-					parent: parentPk
+					parent: parentEntityId
 						? {
 								project: url.searchParams.get("parentProject") ?? project,
 								page: url.searchParams.get("parentPage") ?? page,
 								entity: url.searchParams.get("parentEntity") ?? "ticket",
-								pk: parentPk,
+								ientityid: parentEntityId,
 							}
 						: undefined,
 					tags,
@@ -169,7 +173,7 @@ app.http("entitySeed", {
 });
 
 app.http("entityCrud", {
-	route: "entity/{project}/{page}/{entity}/{pk?}",
+	route: "entity/{project}/{page}/{entity}/{ientityid?}",
 	methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
 	authLevel: "anonymous",
 	handler: entityHandler,

@@ -10,16 +10,18 @@ function schemaDir(...parts: string[]): string {
 let patyApplied = false;
 let clientesisApplied = false;
 
-/** BD Paty/Lab: esquemas `bd_paty`, `bd_lab` (prompts, orquestador, catálogo, entity_row). */
+/** BD Paty/Lab: esquemas BD_PATY, BD_LAB (prompts, orquestador, catálogo, entity row). */
 export async function ensurePatySchema(): Promise<string[]> {
 	if (patyApplied) return [];
 	const files = await applySqlFiles(getPatyPgPool(), schemaDir("ops"));
-	await getPatyPgPool().query("SELECT bd_paty.paty_expire_stale_orchestrator_leases()").catch(() => {});
+	await getPatyPgPool()
+		.query('SELECT "BD_PATY"."PATY_EXPIRESTALORCHESTRATORLEASES"()')
+		.catch(() => {});
 	patyApplied = true;
 	return files;
 }
 
-/** BD ClientesIS: esquema `bd_clientesis` (`cis_entity_row`). */
+/** BD ClientesIS: esquema BD_CLIENTESIS (CIS_ENTITYROW). */
 export async function ensureClientesisSchema(): Promise<string[]> {
 	if (clientesisApplied) return [];
 	const files = await applySqlFiles(getClientesisPgPool(), schemaDir("clientesis"));

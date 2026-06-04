@@ -1,6 +1,6 @@
 import { stat } from "node:fs/promises";
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import {
 	acquireOrchestratorLease,
 	listOrchestratorSlots,
@@ -40,7 +40,8 @@ async function orchestratorStatusHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const capability = parseCapability(request.query.get("capability"));
@@ -74,7 +75,8 @@ async function orchestratorSyncHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{ capability?: string }>(request);
@@ -93,7 +95,8 @@ async function orchestratorLeaseHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{ capability?: string; provider?: string }>(request);
@@ -132,7 +135,8 @@ async function orchestratorReleaseHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{
@@ -163,7 +167,8 @@ async function youtubeWhisperTranscribeHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{

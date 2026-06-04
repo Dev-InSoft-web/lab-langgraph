@@ -1,5 +1,5 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { loadGovernmentWebDocuments, resolveGovernmentPagesDir } from "../lib/rag/webChunks.js";
 import { indexWebDocuments } from "../lib/rag/vectorstore.js";
 
@@ -8,7 +8,8 @@ async function indexWebHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const append = request.query.get("append") === "true";

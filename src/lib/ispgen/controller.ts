@@ -64,7 +64,10 @@ export class DetailEntityController {
 
 	async create(
 		body: Record<string, unknown>,
-		opts?: { parent?: { project: string; page: string; entity: string; pk: string }; tags?: string[] },
+		opts?: {
+			parent?: { project: string; page: string; entity: string; ientityid: string; pk?: string };
+			tags?: string[];
+		},
 	): Promise<IspgenResponse> {
 		const normalized = BasePojo.fromSchema(this.schema, body);
 		const pk = this.resolvePk(normalized);
@@ -149,7 +152,7 @@ export class DetailEntityController {
 				const childBody = BasePojo.fromSchema(childCtrl.schema, item);
 				const childPk = childCtrl.resolvePk(childBody);
 				await upsertEntityRow(rel.child, childPk, childBody, {
-					parent: { ...this.segment, pk: parentPk },
+					parent: { ...this.segment, ientityid: parentPk, pk: parentPk },
 					sort_key: i,
 				});
 				await childCtrl.propagateDetails(childBody, "upsert");
@@ -194,8 +197,14 @@ export function parseListQuery(url: URL): EntityListQuery {
 	if (search) q.q = search;
 	const fields = url.searchParams.get("fields");
 	if (fields) q.fields = fields.split(",").map((s) => s.trim()).filter(Boolean);
-	const parentPk = url.searchParams.get("parentPk") ?? url.searchParams.get("ticketId");
-	if (parentPk) q.parentPk = parentPk;
+	const parentId =
+		url.searchParams.get("parentEntityId") ??
+		url.searchParams.get("parentPk") ??
+		url.searchParams.get("ticketId");
+	if (parentId) {
+		q.parentEntityId = parentId;
+		q.parentPk = parentId;
+	}
 	const tags = url.searchParams.get("tags");
 	if (tags) q.tags = tags.split(",").map((s) => s.trim()).filter(Boolean);
 	const filter: Record<string, string> = {};

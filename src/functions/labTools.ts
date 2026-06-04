@@ -1,6 +1,6 @@
 import { stat } from "node:fs/promises";
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { syncOrchestratorSlots, listOrchestratorSlots } from "../lib/orchestrator/store.js";
 import type { LabCapability } from "../lib/orchestrator/types.js";
 import { runWhisperWithOrchestrator } from "../lib/orchestrator/run-whisper.js";
@@ -25,7 +25,8 @@ async function toolsHealthHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	try {
 		let orchestrator: { slots: number; ready: number; pg?: boolean; note?: string };
 		try {
@@ -61,7 +62,8 @@ async function toolsWhisperHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{
@@ -135,7 +137,8 @@ async function toolsProofreadHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{

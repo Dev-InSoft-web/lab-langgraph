@@ -1,10 +1,11 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { listIndexedSources } from "../lib/rag/vectorstore.js";
 
 async function documentsHandler(request: HttpRequest, _context: InvocationContext): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const sources = await listIndexedSources();

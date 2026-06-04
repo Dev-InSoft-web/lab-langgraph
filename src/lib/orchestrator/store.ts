@@ -1,5 +1,6 @@
 import { getPgPool } from "../db/pg.js";
 import { Q_LAB_API_KEY_SLOT, Q_LAB_ORCHESTRATOR_LEASE } from "../db/pg-identifiers.js";
+import { sqlCol } from "../db/pg-quote.js";
 import { ensurePatyiaSchema } from "../patyia/db/ensureSchema.js";
 import {
 	resolveApiKeySecret,
@@ -35,10 +36,10 @@ export async function syncOrchestratorSlots(capability?: LabCapability): Promise
 		for (const d of defs) {
 			if (!resolveApiKeySecret(d.provider, d.keyLabel)) continue;
 			await pool.query(
-				`INSERT INTO ${Q_LAB_API_KEY_SLOT} (provider, capability, keylabel, sortorder, benabled)
+				`INSERT INTO ${Q_LAB_API_KEY_SLOT} (${sqlCol("provider")}, ${sqlCol("capability")}, ${sqlCol("keylabel")}, ${sqlCol("sortorder")}, ${sqlCol("benabled")})
 				 VALUES ($1, $2, $3, $4, TRUE)
-				 ON CONFLICT (provider, capability, keylabel)
-				 DO UPDATE SET sortorder = EXCLUDED.sortorder, benabled = TRUE, fhultact = NOW()`,
+				 ON CONFLICT (${sqlCol("provider")}, ${sqlCol("capability")}, ${sqlCol("keylabel")})
+				 DO UPDATE SET ${sqlCol("sortorder")} = EXCLUDED.${sqlCol("sortorder")}, ${sqlCol("benabled")} = TRUE, ${sqlCol("fhultact")} = NOW()`,
 				[d.provider, d.capability, d.keyLabel, d.sortOrder],
 			);
 			n += 1;
@@ -47,31 +48,39 @@ export async function syncOrchestratorSlots(capability?: LabCapability): Promise
 	return n;
 }
 
+function pick(r: Record<string, unknown>, ...keys: string[]): unknown {
+	for (const k of keys) {
+		if (r[k] !== undefined) return r[k];
+		const u = k.toUpperCase();
+		if (r[u] !== undefined) return r[u];
+	}
+	return undefined;
+}
+
 function rowFromDb(r: Record<string, unknown>): LabApiKeySlotRow {
 	return {
-		provider: String(r.provider),
-		capability: String(r.capability),
-		key_label: String(r.keylabel ?? r.key_label),
-		sort_order: Number(r.sortorder ?? r.sort_order),
-		enabled: Boolean(r.benabled ?? r.enabled),
-		cooldown_until: (r.cooldownuntil ?? r.cooldown_until)
-			? new Date(String(r.cooldownuntil ?? r.cooldown_until))
+		provider: String(pick(r, "provider")),
+		capability: String(pick(r, "capability")),
+		key_label: String(pick(r, "keylabel", "key_label")),
+		sort_order: Number(pick(r, "sortorder", "sort_order") ?? 0),
+		enabled: Boolean(pick(r, "benabled", "enabled")),
+		cooldown_until: pick(r, "cooldownuntil", "cooldown_until")
+			? new Date(String(pick(r, "cooldownuntil", "cooldown_until")))
 			: null,
-		last_used_at: (r.lastusedat ?? r.last_used_at)
-			? new Date(String(r.lastusedat ?? r.last_used_at))
+		last_used_at: pick(r, "lastusedat", "last_used_at")
+			? new Date(String(pick(r, "lastusedat", "last_used_at")))
 			: null,
 		last_http_status:
-			r.lasthttpstatus != null
-				? Number(r.lasthttpstatus)
-				: r.last_http_status != null
-					? Number(r.last_http_status)
-					: null,
-		last_error: r.lasterror != null ? String(r.lasterror) : r.last_error != null ? String(r.last_error) : null,
+			pick(r, "lasthttpstatus", "last_http_status") != null
+				? Number(pick(r, "lasthttpstatus", "last_http_status"))
+				: null,
+		last_error:
+			pick(r, "lasterror", "last_error") != null ? String(pick(r, "lasterror", "last_error")) : null,
 		wait_ms_hint:
-			r.waitmshint != null ? Number(r.waitmshint) : r.wait_ms_hint != null ? Number(r.wait_ms_hint) : null,
-		consecutive_failures: Number(r.consecutivefailures ?? r.consecutive_failures ?? 0),
-		meta: (r.meta as Record<string, unknown>) ?? {},
-		updated_at: new Date(String(r.fhultact ?? r.updated_at)),
+			pick(r, "waitmshint", "wait_ms_hint") != null ? Number(pick(r, "waitmshint", "wait_ms_hint")) : null,
+		consecutive_failures: Number(pick(r, "consecutivefailures", "consecutive_failures") ?? 0),
+		meta: (pick(r, "meta") as Record<string, unknown>) ?? {},
+		updated_at: new Date(String(pick(r, "fhultact", "updated_at"))),
 	};
 }
 
@@ -85,15 +94,15 @@ export async function listOrchestratorSlots(
 	const params: unknown[] = [];
 	if (capability) {
 		params.push(capability);
-		clauses.push(`capability = $${params.length}`);
+		clauses.push(`${sqlCol("capability")} = $${params.length}`);
 	}
 	if (provider) {
 		params.push(provider);
-		clauses.push(`provider = $${params.length}`);
+		clauses.push(`${sqlCol("provider")} = $${params.length}`);
 	}
 	const where = clauses.length ? `WHERE ${clauses.join(" AND ")}` : "";
 	const res = await pool.query(
-		`SELECT * FROM ${Q_LAB_API_KEY_SLOT} ${where} ORDER BY capability, sortorder, keylabel`,
+		`SELECT * FROM ${Q_LAB_API_KEY_SLOT} ${where} ORDER BY ${sqlCol("capability")}, ${sqlCol("sortorder")}, ${sqlCol("keylabel")}`,
 		params,
 	);
 	return res.rows.map((r) => rowFromDb(r as Record<string, unknown>));
@@ -108,14 +117,14 @@ async function pickAvailableSlotInTx(
 	let providerClause = "";
 	if (provider) {
 		params.push(provider);
-		providerClause = ` AND provider = $${params.length}`;
+		providerClause = ` AND ${sqlCol("provider")} = $${params.length}`;
 	}
 	const res = await client.query(
 		`SELECT * FROM ${Q_LAB_API_KEY_SLOT}
-		 WHERE capability = $1 AND benabled = TRUE
-		   AND (cooldownuntil IS NULL OR cooldownuntil <= NOW())
+		 WHERE ${sqlCol("capability")} = $1 AND ${sqlCol("benabled")} = TRUE
+		   AND (${sqlCol("cooldownuntil")} IS NULL OR ${sqlCol("cooldownuntil")} <= NOW())
 		   ${providerClause}
-		 ORDER BY sortorder ASC, lastusedat NULLS FIRST
+		 ORDER BY ${sqlCol("sortorder")} ASC, ${sqlCol("lastusedat")} NULLS FIRST
 		 LIMIT 1
 		 FOR UPDATE SKIP LOCKED`,
 		params,
@@ -171,15 +180,15 @@ export async function acquireOrchestratorLease(
 		}
 
 		const ins = await client.query(
-			`INSERT INTO ${Q_LAB_ORCHESTRATOR_LEASE} (provider, capability, keylabel)
+			`INSERT INTO ${Q_LAB_ORCHESTRATOR_LEASE} (${sqlCol("provider")}, ${sqlCol("capability")}, ${sqlCol("keylabel")})
 			 VALUES ($1, $2, $3)
-			 RETURNING ilease`,
+			 RETURNING ${sqlCol("ilease")}`,
 			[slot.provider, slot.capability, slot.key_label],
 		);
 		await client.query(
 			`UPDATE ${Q_LAB_API_KEY_SLOT}
-			 SET lastusedat = NOW(), fhultact = NOW()
-			 WHERE provider = $1 AND capability = $2 AND keylabel = $3`,
+			 SET ${sqlCol("lastusedat")} = NOW(), ${sqlCol("fhultact")} = NOW()
+			 WHERE ${sqlCol("provider")} = $1 AND ${sqlCol("capability")} = $2 AND ${sqlCol("keylabel")} = $3`,
 			[slot.provider, slot.capability, slot.key_label],
 		);
 		await client.query("COMMIT");
@@ -215,7 +224,7 @@ export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promis
 	await ensurePatyiaSchema();
 	const pool = getPgPool();
 	const leaseRes = await pool.query(
-		`SELECT * FROM ${Q_LAB_ORCHESTRATOR_LEASE} WHERE ilease = $1 AND releasedat IS NULL`,
+		`SELECT * FROM ${Q_LAB_ORCHESTRATOR_LEASE} WHERE ${sqlCol("ilease")} = $1 AND ${sqlCol("releasedat")} IS NULL`,
 		[input.leaseId],
 	);
 	if (!leaseRes.rows.length) return;
@@ -239,21 +248,21 @@ export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promis
 		await client.query("BEGIN");
 		await client.query(
 			`UPDATE ${Q_LAB_ORCHESTRATOR_LEASE}
-			 SET releasedat = NOW(), bok = $2, lasterror = $3, waitmsapplied = $4
-			 WHERE ilease = $1`,
+			 SET ${sqlCol("releasedat")} = NOW(), ${sqlCol("bok")} = $2, ${sqlCol("lasterror")} = $3, ${sqlCol("waitmsapplied")} = $4
+			 WHERE ${sqlCol("ilease")} = $1`,
 			[input.leaseId, input.ok, input.errorMessage?.slice(0, 2000) ?? null, waitMs || null],
 		);
 
 		if (!input.ok && waitMs > 0) {
 			await client.query(
 				`UPDATE ${Q_LAB_API_KEY_SLOT}
-				 SET cooldownuntil = NOW() + ($4::numeric * INTERVAL '1 millisecond'),
-				     waitmshint = $4,
-				     lasthttpstatus = $5,
-				     lasterror = $3,
-				     consecutivefailures = consecutivefailures + 1,
-				     fhultact = NOW()
-				 WHERE provider = $1 AND capability = $2 AND keylabel = $6`,
+				 SET ${sqlCol("cooldownuntil")} = NOW() + ($4::numeric * INTERVAL '1 millisecond'),
+				     ${sqlCol("waitmshint")} = $4,
+				     ${sqlCol("lasthttpstatus")} = $5,
+				     ${sqlCol("lasterror")} = $3,
+				     ${sqlCol("consecutivefailures")} = ${sqlCol("consecutivefailures")} + 1,
+				     ${sqlCol("fhultact")} = NOW()
+				 WHERE ${sqlCol("provider")} = $1 AND ${sqlCol("capability")} = $2 AND ${sqlCol("keylabel")} = $6`,
 				[
 					row.provider,
 					row.capability,
@@ -266,11 +275,11 @@ export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promis
 		} else if (input.ok) {
 			await client.query(
 				`UPDATE ${Q_LAB_API_KEY_SLOT}
-				 SET consecutivefailures = 0,
-				     lasthttpstatus = $4,
-				     lasterror = NULL,
-				     fhultact = NOW()
-				 WHERE provider = $1 AND capability = $2 AND keylabel = $3`,
+				 SET ${sqlCol("consecutivefailures")} = 0,
+				     ${sqlCol("lasthttpstatus")} = $4,
+				     ${sqlCol("lasterror")} = NULL,
+				     ${sqlCol("fhultact")} = NOW()
+				 WHERE ${sqlCol("provider")} = $1 AND ${sqlCol("capability")} = $2 AND ${sqlCol("keylabel")} = $3`,
 				[row.provider, row.capability, keyLabel, input.httpStatus ?? 200],
 			);
 		}

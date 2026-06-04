@@ -52,10 +52,10 @@ function routeAfterPlan(state: typeof ApiTaskGraphState.State): "execute" | type
 
 export function buildApiTaskGraph() {
 	const g = new StateGraph(ApiTaskGraphState)
-		.addNode("plan", planNode)
+		.addNode("planning", planNode)
 		.addNode("execute", executeNode)
-		.addEdge("__start__", "plan")
-		.addConditionalEdges("plan", routeAfterPlan)
+		.addEdge("__start__", "planning")
+		.addConditionalEdges("planning", routeAfterPlan)
 		.addEdge("execute", END);
 	return g.compile();
 }

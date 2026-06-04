@@ -1,5 +1,5 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { getPromptCatalogSummary } from "../lib/patyia/prompts/catalog.js";
 
 async function getPatyiaPromptsHandler(
@@ -7,7 +7,8 @@ async function getPatyiaPromptsHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		if (request.query.get("refresh") === "1") {
@@ -18,7 +19,7 @@ async function getPatyiaPromptsHandler(
 		return jsonResponse(
 			{
 				ok: true,
-				storage: "postgresql:bd_paty.paty_instruccion",
+				storage: "postgresql:BD_PATY.PATY_INSTRUCCION",
 				syncedAt: catalog.syncedAt,
 				agents: catalog.agents,
 			},

@@ -16,15 +16,15 @@ export {
 	Q_LAB_ORCHESTRATOR_LEASE,
 } from "../db/pg-identifiers.js";
 
-export const TABLE_LAB_API_KEY_SLOT = "lab_api_key_slot";
-export const TABLE_LAB_ORCHESTRATOR_LEASE = "lab_orchestrator_lease";
-export const TABLE_CONVERSACION_TURN_LOCK = "paty_conversacion_turno_lock";
-export const TABLE_CONVERSACION_TURN_TIMING = "paty_conversacion_turno_timing";
-export const TABLE_LAB_CAPABILITY_TIMING = "lab_capability_timing";
-export const TABLE_LAB_ORCHESTRATOR_ROTATION_LOG = "lab_orchestrator_rotation_log";
+export const TABLE_LAB_API_KEY_SLOT = "LAB_APIKEYSLOT";
+export const TABLE_LAB_ORCHESTRATOR_LEASE = "LAB_ORCHESTRATORLEASE";
+export const TABLE_CONVERSACION_TURN_LOCK = "PATY_CONVERSACIONTURNOLOCK";
+export const TABLE_CONVERSACION_TURN_TIMING = "PATY_CONVERSACIONTURNOTIMING";
+export const TABLE_LAB_CAPABILITY_TIMING = "LAB_CAPABILITYTIMING";
+export const TABLE_LAB_ORCHESTRATOR_ROTATION_LOG = "LAB_ORCHESTRATORROTATIONLOG";
 
-export const PGVECTOR_TABLE_FITDOCS = "rag_vec_fitdocs";
-export const PGVECTOR_TABLE_CONTAPYME = "rag_vec_contapyme";
+export const PGVECTOR_TABLE_FITDOCS = "RAG_VECFITDOCS";
+export const PGVECTOR_TABLE_CONTAPYME = "RAG_VECCONTAPYME";
 
 /** @deprecated Usar getRagVectorTableName() */
 export const PGVECTOR_COLLECTION = PGVECTOR_TABLE_CONTAPYME;

@@ -1,5 +1,5 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { getConnectionsSummary } from "../lib/integrations/connections.js";
 import { loadCatalog, searchCatalog, loadFullManifest, getFullProjectCatalog } from "../lib/integrations/postman/catalog.js";
 import { loadApiCatalogManifest } from "../lib/integrations/postman/manifest.js";
@@ -24,7 +24,8 @@ async function connectionsHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	try {
 		return jsonResponse({ ok: true, ...(await getConnectionsSummary()) }, 200, corsHeaders(origin));
 	} catch (err) {
@@ -38,7 +39,8 @@ async function catalogHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	if (request.query.get("full") === "1") {
 		const manifest = await loadApiCatalogManifest();
@@ -76,7 +78,8 @@ async function postmanUiHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	const project = parseProject(request.query.get("project"));
 	if (!project) {
 		return jsonResponse({ ok: false, error: "project=patyia|clientesis requerido" }, 400, corsHeaders(origin));
@@ -95,7 +98,8 @@ async function manifestHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	const manifest = await loadApiCatalogManifest(request.query.get("refresh") === "1");
 	return jsonResponse({ ok: true, manifest }, 200, corsHeaders(origin));
 }
@@ -105,7 +109,8 @@ async function workflowsHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	return jsonResponse({ ok: true, workflows: WORKFLOWS }, 200, corsHeaders(origin));
 }
 
@@ -114,7 +119,8 @@ async function taskHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{
@@ -163,7 +169,8 @@ async function executeOneHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const body = await readJsonBody<{

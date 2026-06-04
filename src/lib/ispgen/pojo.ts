@@ -1,4 +1,5 @@
 import type { ColumnDef, EntitySchema } from "./types.js";
+import { normalizeBodyIdFields } from "./entity-id-fields.js";
 
 function coerceValue(kind: ColumnDef["kind"], v: unknown): unknown {
 	if (v === undefined || v === null) return v;
@@ -34,14 +35,15 @@ export class BasePojo {
 	}
 
 	static fromSchema(schema: EntitySchema, data: Record<string, unknown>): Record<string, unknown> {
+		const normalized = normalizeBodyIdFields(schema.entity, data);
 		const out: Record<string, unknown> = {};
 		for (const col of schema.columns) {
-			if (data[col.name] !== undefined) {
-				out[col.name] = coerceValue(col.kind, data[col.name]);
+			if (normalized[col.name] !== undefined) {
+				out[col.name] = coerceValue(col.kind, normalized[col.name]);
 			}
 		}
 		for (const pk of schema.primaryKeys) {
-			if (data[pk] !== undefined) out[pk] = data[pk];
+			if (normalized[pk] !== undefined) out[pk] = normalized[pk];
 		}
 		return out;
 	}

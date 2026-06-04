@@ -5,6 +5,7 @@ import {
 	Q_PATY_TDCONSULTA_CORPUS,
 	Q_PATY_TDCONSULTA_INSTRUCCION,
 } from "../../db/pg-identifiers.js";
+import { sqlCol } from "../../db/pg-quote.js";
 import { interpolatePromptVars } from "../prompts/vars.js";
 import type { PatyPromptTipo } from "../prompts/types.js";
 import { ensurePatyiaSchema } from "./ensureSchema.js";
@@ -21,15 +22,15 @@ export async function upsertInstruccion(row: {
 }): Promise<void> {
 	await ensurePatyiaSchema();
 	await query(
-		`INSERT INTO ${Q_PATY_INSTRUCCION} (iinstruccion, ninstruccion, modelo, instruccion, descripcion, version, fhultact)
+		`INSERT INTO ${Q_PATY_INSTRUCCION} (${sqlCol("iinstruccion")}, ${sqlCol("ninstruccion")}, ${sqlCol("modelo")}, ${sqlCol("instruccion")}, ${sqlCol("descripcion")}, ${sqlCol("version")}, ${sqlCol("fhultact")})
      VALUES ($1, $2, $3, $4, $5, $6, NOW())
-     ON CONFLICT (iinstruccion) DO UPDATE SET
-       ninstruccion = EXCLUDED.ninstruccion,
-       modelo = EXCLUDED.modelo,
-       instruccion = EXCLUDED.instruccion,
-       descripcion = EXCLUDED.descripcion,
-       version = EXCLUDED.version,
-       fhultact = NOW()`,
+     ON CONFLICT (${sqlCol("iinstruccion")}) DO UPDATE SET
+       ${sqlCol("ninstruccion")} = EXCLUDED.${sqlCol("ninstruccion")},
+       ${sqlCol("modelo")} = EXCLUDED.${sqlCol("modelo")},
+       ${sqlCol("instruccion")} = EXCLUDED.${sqlCol("instruccion")},
+       ${sqlCol("descripcion")} = EXCLUDED.${sqlCol("descripcion")},
+       ${sqlCol("version")} = EXCLUDED.${sqlCol("version")},
+       ${sqlCol("fhultact")} = NOW()`,
 		[
 			row.iinstruccion,
 			row.ninstruccion,
@@ -48,18 +49,18 @@ export async function upsertTdConsulta(row: {
 }): Promise<void> {
 	await ensurePatyiaSchema();
 	await query(
-		`INSERT INTO ${Q_PATY_TDCONSULTA} (itdconsulta, nconsulta, descripcion)
+		`INSERT INTO ${Q_PATY_TDCONSULTA} (${sqlCol("itdconsulta")}, ${sqlCol("nconsulta")}, ${sqlCol("descripcion")})
      VALUES ($1, $2, $3)
-     ON CONFLICT (itdconsulta) DO UPDATE SET
-       nconsulta = EXCLUDED.nconsulta,
-       descripcion = EXCLUDED.descripcion`,
+     ON CONFLICT (${sqlCol("itdconsulta")}) DO UPDATE SET
+       ${sqlCol("nconsulta")} = EXCLUDED.${sqlCol("nconsulta")},
+       ${sqlCol("descripcion")} = EXCLUDED.${sqlCol("descripcion")}`,
 		[row.itdconsulta, row.nconsulta ?? row.itdconsulta, row.descripcion ?? ""],
 	);
 }
 
 export async function linkTdInstruccion(itdconsulta: string, iinstruccion: string, orden = 1): Promise<void> {
 	await query(
-		`INSERT INTO ${Q_PATY_TDCONSULTA_INSTRUCCION} (itdconsulta, iinstruccion, iorden)
+		`INSERT INTO ${Q_PATY_TDCONSULTA_INSTRUCCION} (${sqlCol("itdconsulta")}, ${sqlCol("iinstruccion")}, ${sqlCol("iorden")})
      VALUES ($1, $2, $3)
      ON CONFLICT DO NOTHING`,
 		[itdconsulta, iinstruccion, orden],
@@ -67,10 +68,10 @@ export async function linkTdInstruccion(itdconsulta: string, iinstruccion: strin
 }
 
 export async function setTdCorpus(itdconsulta: string, corpusList: string[]): Promise<void> {
-	await query(`DELETE FROM ${Q_PATY_TDCONSULTA_CORPUS} WHERE itdconsulta = $1`, [itdconsulta]);
-	for (let i = 0; i < corpusList.length; i += 1) {
+	await query(`DELETE FROM ${Q_PATY_TDCONSULTA_CORPUS} WHERE ${sqlCol("itdconsulta")} = $1`, [itdconsulta]);
+		for (let i = 0; i < corpusList.length; i += 1) {
 		await query(
-			`INSERT INTO ${Q_PATY_TDCONSULTA_CORPUS} (itdconsulta, corpus, iorden) VALUES ($1, $2, $3)`,
+			`INSERT INTO ${Q_PATY_TDCONSULTA_CORPUS} (${sqlCol("itdconsulta")}, ${sqlCol("corpus")}, ${sqlCol("iorden")}) VALUES ($1, $2, $3)`,
 			[itdconsulta, corpusList[i], i + 1],
 		);
 	}
@@ -79,7 +80,7 @@ export async function setTdCorpus(itdconsulta: string, corpusList: string[]): Pr
 export async function getBasePromptMarkdown(): Promise<string> {
 	await ensurePatyiaSchema();
 	const row = await queryOne<{ instruccion: string }>(
-		`SELECT instruccion FROM ${Q_PATY_INSTRUCCION} WHERE iinstruccion = $1`,
+		`SELECT ${sqlCol("instruccion")} AS instruccion FROM ${Q_PATY_INSTRUCCION} WHERE ${sqlCol("iinstruccion")} = $1`,
 		[BASE_KEY],
 	);
 	return row?.instruccion ?? "";
@@ -92,7 +93,7 @@ export async function getAgentSystemPromptFromDb(
 	await ensurePatyiaSchema();
 	const base = await getBasePromptMarkdown();
 	const agent = await queryOne<{ instruccion: string }>(
-		`SELECT instruccion FROM ${Q_PATY_INSTRUCCION} WHERE iinstruccion = $1`,
+		`SELECT ${sqlCol("instruccion")} AS instruccion FROM ${Q_PATY_INSTRUCCION} WHERE ${sqlCol("iinstruccion")} = $1`,
 		[tipo],
 	);
 	if (!agent) {
@@ -109,9 +110,9 @@ export async function getAgentSystemPromptFromDb(
 export async function listAgentTipos(): Promise<PatyPromptTipo[]> {
 	await ensurePatyiaSchema();
 	const rows = await query<{ iinstruccion: string }>(
-		`SELECT iinstruccion FROM ${Q_PATY_INSTRUCCION}
-     WHERE iinstruccion <> 'PATY_BASE'
-     ORDER BY iinstruccion`,
+		`SELECT ${sqlCol("iinstruccion")} AS iinstruccion FROM ${Q_PATY_INSTRUCCION}
+     WHERE ${sqlCol("iinstruccion")} <> 'PATY_BASE'
+     ORDER BY ${sqlCol("iinstruccion")}`,
 	);
 	return rows.map((r) => r.iinstruccion as PatyPromptTipo);
 }
@@ -119,7 +120,7 @@ export async function listAgentTipos(): Promise<PatyPromptTipo[]> {
 export async function getCorpusForTipo(tipo: PatyPromptTipo): Promise<string[]> {
 	await ensurePatyiaSchema();
 	const rows = await query<{ corpus: string }>(
-		`SELECT corpus FROM ${Q_PATY_TDCONSULTA_CORPUS} WHERE itdconsulta = $1 ORDER BY iorden`,
+		`SELECT ${sqlCol("corpus")} AS corpus FROM ${Q_PATY_TDCONSULTA_CORPUS} WHERE ${sqlCol("itdconsulta")} = $1 ORDER BY ${sqlCol("iorden")}`,
 		[tipo],
 	);
 	return rows.map((r) => r.corpus);

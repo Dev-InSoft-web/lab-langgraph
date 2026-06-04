@@ -1,9 +1,11 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders } from "../lib/core/http.js";
+import { beginHttpRequest, corsHeaders } from "../lib/core/http.js";
 import { readMediaPng } from "../lib/media/store.js";
 
 async function mediaHandler(request: HttpRequest, _context: InvocationContext): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	const id = request.params.id?.replace(/\.png$/i, "") ?? "";
 
 	const png = await readMediaPng(id);
@@ -23,7 +25,7 @@ async function mediaHandler(request: HttpRequest, _context: InvocationContext): 
 }
 
 app.http("serveMedia", {
-	methods: ["GET"],
+	methods: ["GET", "OPTIONS"],
 	authLevel: "anonymous",
 	route: "media/{id}",
 	handler: mediaHandler,

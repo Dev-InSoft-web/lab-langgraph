@@ -25,7 +25,7 @@ export async function seedImgbbFromMap(mapPath?: string): Promise<number> {
 			{
 				tags: ticketId ? [ticketId] : [],
 				parent: ticketId
-					? { project: ISA_DOC, page: TICKETS, entity: "ticket", pk: ticketId }
+					? { project: ISA_DOC, page: TICKETS, entity: "ticket", ientityid: ticketId }
 					: undefined,
 			},
 		);

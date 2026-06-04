@@ -1,105 +1,184 @@
 /**
- * Nomenclatura PostgreSQL alineada a INSOFT / ispgen.
+ * Nomenclatura PostgreSQL INSOFT / ispgen.
  *
- * - Esquemas con prefijo BD_: `bd_paty`, `bd_lab`, `bd_clientesis`, `bd_rag`
- * - Tablas: DOMINIO_NOMBRE (minúsculas en PG sin comillas)
- * - Columnas: sin `_` (ej. parentproject, fhultact); ids con prefijo I
+ * - Esquemas: BD_PATY, BD_LAB, BD_CLIENTESIS, BD_RAG
+ * - Tablas: PREFIJO_DOMINIO + nombre (mayúsculas, sin _ extra salvo en compuestos largos)
+ * - Columnas: mayúsculas, sin guion bajo; ids con I; fechas fhcre/fhultact; booleanos b*
  */
 
-/** Esquema (= dominio lógico de BD en la misma instancia Render). */
-export const PG_SCHEMA_PATY = "bd_paty";
-export const PG_SCHEMA_LAB = "bd_lab";
-export const PG_SCHEMA_CLIENTESIS = "bd_clientesis";
-export const PG_SCHEMA_RAG = "bd_rag";
+import { pgQ, qualifiedQ, qualifiedSeq } from "./pg-quote.js";
+
+export { pgQ, qualifiedQ, qualifiedSeq };
+
+/** Esquema (= dominio lógico). */
+export const PG_SCHEMA_PATY = "BD_PATY";
+export const PG_SCHEMA_LAB = "BD_LAB";
+export const PG_SCHEMA_CLIENTESIS = "BD_CLIENTESIS";
+export const PG_SCHEMA_RAG = "BD_RAG";
 
 /** @deprecated Usar PG_SCHEMA_* */
 export const PG_SCHEMA_OPS = PG_SCHEMA_PATY;
 
 export function qualified(schema: string, table: string): string {
-	return `${schema}.${table}`;
+	return qualifiedQ(schema, table);
 }
 
-// --- PatyIA (bd_paty) ---
-export const T_PATY_TDCONSULTA = "paty_tdconsulta";
-export const T_PATY_INSTRUCCION = "paty_instruccion";
-export const T_PATY_TDCONSULTA_INSTRUCCION = "paty_tdconsulta_instruccion";
-export const T_PATY_TDCONSULTA_CORPUS = "paty_tdconsulta_corpus";
-export const T_PATY_CONVERSACION = "paty_conversacion";
-export const T_PATY_CONVERSACION_TURNO = "paty_conversacion_turno";
-export const T_PATY_MENSAJE_CALIFICADO = "paty_mensaje_calificado";
-export const T_PATY_CONVERSACION_TURNO_LOCK = "paty_conversacion_turno_lock";
-export const T_PATY_CONVERSACION_TURNO_TIMING = "paty_conversacion_turno_timing";
+// --- PatyIA (BD_PATY) ---
+export const T_PATY_TDCONSULTA = "PATY_TDCONSULTA";
+export const T_PATY_INSTRUCCION = "PATY_INSTRUCCION";
+export const T_PATY_TDCONSULTAINSTRUCCION = "PATY_TDCONSULTAINSTRUCCION";
+export const T_PATY_TDCONSULTACORPUS = "PATY_TDCONSULTACORPUS";
+export const T_PATY_CONVERSACION = "PATY_CONVERSACION";
+export const T_PATY_CONVERSACIONTURNO = "PATY_CONVERSACIONTURNO";
+export const T_PATY_MENSAJECALIFICADO = "PATY_MENSAJECALIFICADO";
+export const T_PATY_CONVERSACIONTURNOLOCK = "PATY_CONVERSACIONTURNOLOCK";
+export const T_PATY_CONVERSACIONTURNOTIMING = "PATY_CONVERSACIONTURNOTIMING";
 
 export const Q_PATY_INSTRUCCION = qualified(PG_SCHEMA_PATY, T_PATY_INSTRUCCION);
 export const Q_PATY_TDCONSULTA = qualified(PG_SCHEMA_PATY, T_PATY_TDCONSULTA);
-export const Q_PATY_TDCONSULTA_INSTRUCCION = qualified(PG_SCHEMA_PATY, T_PATY_TDCONSULTA_INSTRUCCION);
-export const Q_PATY_TDCONSULTA_CORPUS = qualified(PG_SCHEMA_PATY, T_PATY_TDCONSULTA_CORPUS);
+export const Q_PATY_TDCONSULTAINSTRUCCION = qualified(PG_SCHEMA_PATY, T_PATY_TDCONSULTAINSTRUCCION);
+export const Q_PATY_TDCONSULTACORPUS = qualified(PG_SCHEMA_PATY, T_PATY_TDCONSULTACORPUS);
 export const Q_PATY_CONVERSACION = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACION);
-export const Q_PATY_CONVERSACION_TURNO = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACION_TURNO);
-export const Q_PATY_MENSAJE_CALIFICADO = qualified(PG_SCHEMA_PATY, T_PATY_MENSAJE_CALIFICADO);
-export const Q_PATY_CONVERSACION_TURNO_LOCK = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACION_TURNO_LOCK);
-export const Q_PATY_CONVERSACION_TURNO_TIMING = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACION_TURNO_TIMING);
+export const Q_PATY_CONVERSACIONTURNO = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACIONTURNO);
+export const Q_PATY_MENSAJECALIFICADO = qualified(PG_SCHEMA_PATY, T_PATY_MENSAJECALIFICADO);
+export const Q_PATY_CONVERSACIONTURNOLOCK = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACIONTURNOLOCK);
+export const Q_PATY_CONVERSACIONTURNOTIMING = qualified(PG_SCHEMA_PATY, T_PATY_CONVERSACIONTURNOTIMING);
 
-// --- Lab / catálogo / entity store (bd_lab) ---
-export const T_LAB_ENTITY_ROW = "lab_entity_row";
-export const T_LAB_STORE_PROJECT = "lab_store_project";
-export const T_LAB_STORE_SECTION = "lab_store_section";
-export const T_LAB_ENTITY_DEFINITION = "lab_entity_definition";
-export const T_LAB_API_CATALOG_MANIFEST = "lab_api_catalog_manifest";
-export const T_LAB_BITACORA_REVISADO = "lab_bitacora_revisado";
-export const T_LAB_API_KEY_SLOT = "lab_api_key_slot";
-export const T_LAB_ORCHESTRATOR_LEASE = "lab_orchestrator_lease";
-export const T_LAB_CAPABILITY_TIMING = "lab_capability_timing";
-export const T_LAB_ORCHESTRATOR_ROTATION_LOG = "lab_orchestrator_rotation_log";
+// --- Lab (BD_LAB) ---
+export const T_LAB_ENTITYROW = "LAB_ENTITYROW";
+export const T_LAB_STOREPROJECT = "LAB_STOREPROJECT";
+export const T_LAB_STORESECTION = "LAB_STORESECTION";
+export const T_LAB_ENTITYDEFINITION = "LAB_ENTITYDEFINITION";
+export const T_LAB_APICATALOGMANIFEST = "LAB_APICATALOGMANIFEST";
+export const T_LAB_BITACORAREVISADO = "LAB_BITACORAREVISADO";
+export const T_LAB_APIKEYSLOT = "LAB_APIKEYSLOT";
+export const T_LAB_ORCHESTRATORLEASE = "LAB_ORCHESTRATORLEASE";
+export const T_LAB_CAPABILITYTIMING = "LAB_CAPABILITYTIMING";
+export const T_LAB_ORCHESTRATORROTATIONLOG = "LAB_ORCHESTRATORROTATIONLOG";
+export const T_LAB_AUTHUSER = "LAB_AUTHUSER";
 
-export const SEQ_LAB_STORE_PROJECT = "seq_lab_store_project";
-export const SEQ_LAB_STORE_SECTION = "seq_lab_store_section";
-export const SEQ_LAB_ENTITY_DEFINITION = "seq_lab_entity_definition";
+export const SEQ_LAB_STOREPROJECT = "SEQ_LAB_STOREPROJECT";
+export const SEQ_LAB_STORESECTION = "SEQ_LAB_STORESECTION";
+export const SEQ_LAB_ENTITYDEFINITION = "SEQ_LAB_ENTITYDEFINITION";
 
-export const Q_LAB_ENTITY_ROW = qualified(PG_SCHEMA_LAB, T_LAB_ENTITY_ROW);
-export const Q_LAB_STORE_PROJECT = qualified(PG_SCHEMA_LAB, T_LAB_STORE_PROJECT);
-export const Q_LAB_STORE_SECTION = qualified(PG_SCHEMA_LAB, T_LAB_STORE_SECTION);
-export const Q_LAB_ENTITY_DEFINITION = qualified(PG_SCHEMA_LAB, T_LAB_ENTITY_DEFINITION);
-export const Q_LAB_API_CATALOG_MANIFEST = qualified(PG_SCHEMA_LAB, T_LAB_API_CATALOG_MANIFEST);
-export const Q_LAB_BITACORA_REVISADO = qualified(PG_SCHEMA_LAB, T_LAB_BITACORA_REVISADO);
-export const Q_LAB_API_KEY_SLOT = qualified(PG_SCHEMA_LAB, T_LAB_API_KEY_SLOT);
-export const Q_LAB_ORCHESTRATOR_LEASE = qualified(PG_SCHEMA_LAB, T_LAB_ORCHESTRATOR_LEASE);
-export const Q_LAB_CAPABILITY_TIMING = qualified(PG_SCHEMA_LAB, T_LAB_CAPABILITY_TIMING);
-export const Q_LAB_ORCHESTRATOR_ROTATION_LOG = qualified(PG_SCHEMA_LAB, T_LAB_ORCHESTRATOR_ROTATION_LOG);
+export const Q_LAB_ENTITY_ROW = qualified(PG_SCHEMA_LAB, T_LAB_ENTITYROW);
+export const Q_LAB_STORE_PROJECT = qualified(PG_SCHEMA_LAB, T_LAB_STOREPROJECT);
+export const Q_LAB_STORE_SECTION = qualified(PG_SCHEMA_LAB, T_LAB_STORESECTION);
+export const Q_LAB_ENTITY_DEFINITION = qualified(PG_SCHEMA_LAB, T_LAB_ENTITYDEFINITION);
+export const Q_LAB_API_CATALOG_MANIFEST = qualified(PG_SCHEMA_LAB, T_LAB_APICATALOGMANIFEST);
+export const Q_LAB_BITACORA_REVISADO = qualified(PG_SCHEMA_LAB, T_LAB_BITACORAREVISADO);
+export const Q_LAB_API_KEY_SLOT = qualified(PG_SCHEMA_LAB, T_LAB_APIKEYSLOT);
+export const Q_LAB_ORCHESTRATOR_LEASE = qualified(PG_SCHEMA_LAB, T_LAB_ORCHESTRATORLEASE);
+export const Q_LAB_CAPABILITY_TIMING = qualified(PG_SCHEMA_LAB, T_LAB_CAPABILITYTIMING);
+export const Q_LAB_ORCHESTRATOR_ROTATION_LOG = qualified(PG_SCHEMA_LAB, T_LAB_ORCHESTRATORROTATIONLOG);
+export const Q_LAB_AUTH_USER = qualified(PG_SCHEMA_LAB, T_LAB_AUTHUSER);
 
-// --- ClientesIS store (bd_clientesis) ---
-export const T_CIS_ENTITY_ROW = "cis_entity_row";
-export const Q_CIS_ENTITY_ROW = qualified(PG_SCHEMA_CLIENTESIS, T_CIS_ENTITY_ROW);
+export const Q_SEQ_LAB_STORE_PROJECT = qualifiedSeq(PG_SCHEMA_LAB, SEQ_LAB_STOREPROJECT);
+export const Q_SEQ_LAB_STORE_SECTION = qualifiedSeq(PG_SCHEMA_LAB, SEQ_LAB_STORESECTION);
+export const Q_SEQ_LAB_ENTITY_DEFINITION = qualifiedSeq(PG_SCHEMA_LAB, SEQ_LAB_ENTITYDEFINITION);
 
-// --- RAG (bd_rag) ---
-export const T_RAG_INDEX_RUN = "rag_index_run";
-export const T_RAG_VEC_CONTAPYME = "rag_vec_contapyme";
-export const T_RAG_VEC_FITDOCS = "rag_vec_fitdocs";
+// --- ClientesIS (BD_CLIENTESIS) ---
+export const T_CIS_ENTITYROW = "CIS_ENTITYROW";
+export const Q_CIS_ENTITY_ROW = qualified(PG_SCHEMA_CLIENTESIS, T_CIS_ENTITYROW);
 
-export const Q_RAG_INDEX_RUN = qualified(PG_SCHEMA_RAG, T_RAG_INDEX_RUN);
-export const Q_RAG_VEC_CONTAPYME = qualified(PG_SCHEMA_RAG, T_RAG_VEC_CONTAPYME);
-export const Q_RAG_VEC_FITDOCS = qualified(PG_SCHEMA_RAG, T_RAG_VEC_FITDOCS);
+// --- RAG (BD_RAG) ---
+export const T_RAG_INDEXRUN = "RAG_INDEXRUN";
+export const T_RAG_VECCONTAPYME = "RAG_VECCONTAPYME";
+export const T_RAG_VECFITDOCS = "RAG_VECFITDOCS";
 
-/** Columnas lab_entity_row / cis_entity_row (sin guiones bajos). */
+export const Q_RAG_INDEX_RUN = qualified(PG_SCHEMA_RAG, T_RAG_INDEXRUN);
+export const Q_RAG_VEC_CONTAPYME = qualified(PG_SCHEMA_RAG, T_RAG_VECCONTAPYME);
+export const Q_RAG_VEC_FITDOCS = qualified(PG_SCHEMA_RAG, T_RAG_VECFITDOCS);
+
+/** Columnas entity row (SQL quoted, sin _). */
 export const COL_ER = {
+	PROJECT: pgQ("PROJECT"),
+	PAGE: pgQ("PAGE"),
+	ENTITY: pgQ("ENTITY"),
+	IENTITYID: pgQ("IENTITYID"),
+	BODY: pgQ("BODY"),
+	PARENTPROJECT: pgQ("PARENTPROJECT"),
+	PARENTPAGE: pgQ("PARENTPAGE"),
+	PARENTENTITY: pgQ("PARENTENTITY"),
+	IPARENTENTITYID: pgQ("IPARENTENTITYID"),
+	SORTKEY: pgQ("SORTKEY"),
+	TAGS: pgQ("TAGS"),
+	FHCRE: pgQ("FHCRE"),
+	FHULTACT: pgQ("FHULTACT"),
+} as const;
+
+/** Alias en SELECT para filas TS (minúsculas). */
+export const COL_ER_ALIASES = {
 	PROJECT: "project",
 	PAGE: "page",
 	ENTITY: "entity",
-	PK: "pk",
+	IENTITYID: "ientityid",
 	BODY: "body",
 	PARENTPROJECT: "parentproject",
 	PARENTPAGE: "parentpage",
 	PARENTENTITY: "parententity",
-	PARENTPK: "parentpk",
+	IPARENTENTITYID: "iparententityid",
 	SORTKEY: "sortkey",
 	TAGS: "tags",
 	FHCRE: "fhcre",
 	FHULTACT: "fhultact",
 } as const;
 
+export function selectEntityRowCols(prefix = ""): string {
+	const p = prefix ? `${prefix}.` : "";
+	const a = COL_ER_ALIASES;
+	return [
+		`${p}${COL_ER.PROJECT} AS ${a.PROJECT}`,
+		`${p}${COL_ER.PAGE} AS ${a.PAGE}`,
+		`${p}${COL_ER.ENTITY} AS ${a.ENTITY}`,
+		`${p}${COL_ER.IENTITYID} AS ${a.IENTITYID}`,
+		`${p}${COL_ER.BODY} AS ${a.BODY}`,
+		`${p}${COL_ER.PARENTPROJECT} AS ${a.PARENTPROJECT}`,
+		`${p}${COL_ER.PARENTPAGE} AS ${a.PARENTPAGE}`,
+		`${p}${COL_ER.PARENTENTITY} AS ${a.PARENTENTITY}`,
+		`${p}${COL_ER.IPARENTENTITYID} AS ${a.IPARENTENTITYID}`,
+		`${p}${COL_ER.SORTKEY} AS ${a.SORTKEY}`,
+		`${p}${COL_ER.TAGS} AS ${a.TAGS}`,
+		`${p}${COL_ER.FHCRE} AS ${a.FHCRE}`,
+		`${p}${COL_ER.FHULTACT} AS ${a.FHULTACT}`,
+	].join(", ");
+}
+
 /** Columnas lab_bitacora_revisado */
 export const COL_REV = {
-	KEY: "revisadokey",
-	BCHECKED: "bchecked",
-	FHULTACT: "fhultact",
+	KEY: pgQ("REVISADOKEY"),
+	BCHECKED: pgQ("BCHECKED"),
+	FHULTACT: pgQ("FHULTACT"),
 } as const;
+
+export const COL_AUTH = {
+	USERNAME: pgQ("USERNAME"),
+	PASSWORDHASH: pgQ("PASSWORDHASH"),
+	DISPLAYNAME: pgQ("DISPLAYNAME"),
+	ACTIVE: pgQ("ACTIVE"),
+	FHCRE: pgQ("FHCRE"),
+	FHULTACT: pgQ("FHULTACT"),
+} as const;
+
+/** Alias de nombres previos (imports legacy). */
+export const Q_PATY_CONVERSACION_TURNO = Q_PATY_CONVERSACIONTURNO;
+export const Q_PATY_MENSAJE_CALIFICADO = Q_PATY_MENSAJECALIFICADO;
+export const Q_PATY_CONVERSACION_TURNO_LOCK = Q_PATY_CONVERSACIONTURNOLOCK;
+export const Q_PATY_CONVERSACION_TURNO_TIMING = Q_PATY_CONVERSACIONTURNOTIMING;
+export const Q_PATY_TDCONSULTA_INSTRUCCION = Q_PATY_TDCONSULTAINSTRUCCION;
+export const Q_PATY_TDCONSULTA_CORPUS = Q_PATY_TDCONSULTACORPUS;
+export const T_PATY_CONVERSACION_TURNO = T_PATY_CONVERSACIONTURNO;
+export const T_PATY_CONVERSACION_TURNO_LOCK = T_PATY_CONVERSACIONTURNOLOCK;
+export const T_PATY_CONVERSACION_TURNO_TIMING = T_PATY_CONVERSACIONTURNOTIMING;
+export const T_LAB_API_KEY_SLOT = T_LAB_APIKEYSLOT;
+export const T_LAB_ORCHESTRATOR_LEASE = T_LAB_ORCHESTRATORLEASE;
+export const T_LAB_CAPABILITY_TIMING = T_LAB_CAPABILITYTIMING;
+export const T_LAB_ORCHESTRATOR_ROTATION_LOG = T_LAB_ORCHESTRATORROTATIONLOG;
+export const T_LAB_ENTITY_ROW = T_LAB_ENTITYROW;
+export const T_CIS_ENTITY_ROW = T_CIS_ENTITYROW;
+export const T_RAG_VEC_CONTAPYME = T_RAG_VECCONTAPYME;
+export const T_RAG_VEC_FITDOCS = T_RAG_VECFITDOCS;
+export const T_RAG_INDEX_RUN = T_RAG_INDEXRUN;
+
+/** @deprecated usar IENTITYID */
+export const COL_ER_PK = COL_ER.IENTITYID;

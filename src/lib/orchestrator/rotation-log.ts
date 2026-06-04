@@ -1,5 +1,6 @@
 import { getPgPool } from "../db/pg.js";
 import { Q_LAB_ORCHESTRATOR_ROTATION_LOG } from "../db/pg-identifiers.js";
+import { sqlCol } from "../db/pg-quote.js";
 import { ensurePatyiaSchema } from "../patyia/db/ensureSchema.js";
 import type { LabCapability, LabProvider } from "./types.js";
 
@@ -26,7 +27,7 @@ export async function logOrchestratorRotation(input: {
 	await ensurePatyiaSchema();
 	await getPgPool().query(
 		`INSERT INTO ${Q_LAB_ORCHESTRATOR_ROTATION_LOG}
-		 (capability, provider, keylabel, ilease, iconversacion, iturnindex, event, waitms, meta)
+		 (${sqlCol("capability")}, ${sqlCol("provider")}, ${sqlCol("keylabel")}, ${sqlCol("ilease")}, ${sqlCol("iconversacion")}, ${sqlCol("iturnindex")}, ${sqlCol("event")}, ${sqlCol("waitms")}, ${sqlCol("meta")})
 		 VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)`,
 		[
 			input.capability,

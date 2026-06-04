@@ -1,49 +1,47 @@
 # Nomenclatura PostgreSQL (INSOFT / ispgen)
 
-Objetivo: alinear lab-langgraph con convenciones ispgen para que la migración desde npm general requiera pocos renombres.
-
-## Esquemas (`BD_` lógico)
+## Esquemas (`BD_`)
 
 | Esquema PG | Dominio |
 | --- | --- |
-| `bd_paty` | PatyIA operacional (prompts, conversaciones, locks de turno) |
-| `bd_lab` | Catálogo maestro, `entity_row` isa-doc/patyia, orquestador, bitácora revisado |
-| `bd_clientesis` | `cis_entity_row` (proyecto lógico clientesis) |
-| `bd_rag` | Vectores RAG (`rag_vec_*`) |
+| `BD_PATY` | PatyIA operacional |
+| `BD_LAB` | Catálogo, entity store, orquestador, revisado, auth |
+| `BD_CLIENTESIS` | `CIS_ENTITYROW` |
+| `BD_RAG` | Vectores RAG |
 
-Los esquemas legacy `paty`, `lab`, `clientesis`, `rag` pueden coexistir hasta aplicar `013_migrate_legacy_to_bd.sql`.
+En PostgreSQL se declaran con comillas: `"BD_LAB"."LAB_ENTITYROW"`.
 
 ## Tablas
 
-- Prefijo de dominio + nombre descriptivo, con `_` permitido en el nombre de tabla.
-- Ejemplos: `paty_instruccion`, `lab_entity_row`, `cis_entity_row`, `lab_bitacora_revisado`.
+- Prefijo de dominio + nombre en **MAYÚSCULAS** (ej. `LAB_ENTITYROW`, `PATY_CONVERSACION`).
+- Sin guion bajo dentro del nombre salvo compuestos históricos ya migrados a una sola palabra (`PATY_TDCONSULTAINSTRUCCION`).
 
 ## Columnas
 
-- **Sin guiones bajos** en nombres de columna (ej. `nombreusuario`, `fhultact`, `keylabel`, `projectslug`).
-- Identificadores con prefijo **`I`**: `iconversacion`, `iinstruccion`, `iturno`, `ilease`, `iid` (catálogo).
-- Fechas: `fhcre`, `fhultact` (no `created_at` / `updated_at`).
-- Booleanos: prefijo **`b`**: `benabled`, `bchecked`, `bjailbreak`.
+- **MAYÚSCULAS**, sin `_` (ej. `PARENTPROJECT`, `FHULTACT`, `PASSWORDHASH`).
+- Identificadores con prefijo `I`: `ICONVERSACION`, `IINSTRUCCION`, `ITICKET`, `IIMGBB`, `IENTITYID`.
+- Entity store: valor de ruta en `IENTITYID` (antes `pk`); padre en `IPARENTENTITYID`.
+- Catálogo: claves de negocio en JSON con `I` (`ITICKET`, `IIMGBB`, `IENDPOINT`, …).
+- Booleanos con prefijo `B`: `BENABLED`, `BCHECKED`.
 
 ## TypeScript
 
-Constantes centralizadas en `src/lib/db/pg-identifiers.ts` (`PG_SCHEMA_*`, `Q_*`, `COL_ER`, `COL_REV`).
+- `src/lib/db/pg-identifiers.ts` — constantes `PG_SCHEMA_*`, `Q_*`, `COL_*`.
+- `src/lib/db/pg-quote.ts` — `pgQ()`, `sqlCol()` para SQL dinámico.
+- Los `SELECT` hacia la app usan alias en minúsculas cuando hace falta (`COL_ER_ALIASES`).
 
-Los tipos de dominio en TS pueden seguir snake_case (`project_slug`, `key_label`); el mapeo a columnas PG ocurre en repositorios.
+## Migración (conserva filas)
+
+```bash
+npm run db:migrate-nomenclature
+npm run db:migrate-ientityid
+```
+
+Renombra `bd_*` → `BD_*` y columnas a mayúsculas sin `_`. Idempotente si ya migró.
 
 ## Comandos
 
 ```bash
-npm run db:apply-pg-ops   # aplica db/schema/ops/*.sql (incluye 013)
-npm run catalog:sql:gen   # regenera 009 con bd_lab.lab_entity_definition
+npm run db:apply-pg-ops
+npm run auth:apply-pg
 ```
-
-## Referencia rápida (Paty)
-
-| Antes | Después |
-| --- | --- |
-| `paty.instruccion` | `bd_paty.paty_instruccion` |
-| `paty.conversaciones` | `bd_paty.paty_conversacion` |
-| `paty.conversacion_turnos` | `bd_paty.paty_conversacion_turno` |
-| `lab.entity_row` | `bd_lab.lab_entity_row` |
-| `lab.bitacora_revisado` | `bd_lab.lab_bitacora_revisado` |

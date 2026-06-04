@@ -1,13 +1,14 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 import type { Document } from "@langchain/core/documents";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { clearAllMedia } from "../lib/media/store.js";
 import { loadPdfWithMedia } from "../lib/rag/pdfLoad.js";
 import { clearVectorStore, indexDocuments } from "../lib/rag/vectorstore.js";
 
 async function indexHandler(request: HttpRequest, context: InvocationContext): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	try {
 		const replace = request.query.get("replace") !== "false";

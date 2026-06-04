@@ -1,6 +1,6 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 
 import { applyPunctuationAndBrandsToVideo } from "../lib/youtube/proofread/run.js";
 
@@ -15,8 +15,8 @@ async function punctuateYoutubeHandler(
 ): Promise<HttpResponseInit> {
 
 	const origin = request.headers.get("origin");
-
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 
 

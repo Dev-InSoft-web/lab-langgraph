@@ -7,6 +7,8 @@
     "AzureSignalRConnectionString": "Endpoint=https://<sigr>.service.signalr.net;AccessKey=...;Version=1.0;",
     "SIGNALR_HUB_NAME": "lab",
     "LAB_NOTIFY_TOKEN": "",
+    "LAB_JWT_SECRET": "cambiar-en-produccion-min-32-chars",
+    "LAB_AUTH_REQUIRED": "true",
 
     "PATY_DATABASE_URL": "postgresql://USER:PASS@HOST/langlab",
     "CLIENTESIS_DATABASE_URL": "postgresql://USER:PASS@HOST/clientesis_lab",

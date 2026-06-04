@@ -1,6 +1,10 @@
 # Despliegue Azure + GitHub Actions (lab-langgraph)
 
-Alojamiento recomendado: **Azure Function App**, Linux, **Node 20**, plan **Consumption (Y1)** — incluye [capa gratuita mensual](https://azure.microsoft.com/pricing/details/functions/) (sujeta a límites de ejecución y almacenamiento).
+**Skill para agentes (checklist y errores conocidos):** `.cursor/skills/deploy-azure-functions/SKILL.md`
+
+**Producción actual:** Function App **`rag-lab`** en **`rg-lab-langgraph`** (Flex Consumption). Los nombres `func-insoft-lablanggraph` / `rg-insoft-lab-langgraph` en este doc son la plantilla portal/Bicep alternativa.
+
+Alojamiento: **Azure Function App**, Linux, **Node 22+**, plan **Flex Consumption** o Consumption (Y1) — [precios Functions](https://azure.microsoft.com/pricing/details/functions/).
 
 ## 1. Crear la Function App
 
@@ -42,7 +46,22 @@ No subir `local.settings.json` al repo. Copiar desde `local.settings.json.exampl
 
 Proveedores opcionales y MSSQL: ver `local.settings.json.example` y `src/lib/core/secrets.ts`.
 
-Comprobar: `GET https://<app>.azurewebsites.net/api/health`
+Comprobar API documentada:
+
+- Swagger UI: `GET https://<app>.azurewebsites.net/api/docs`
+- OpenAPI JSON: `GET https://<app>.azurewebsites.net/api/openapi.json`
+- Export local: `npm run openapi:export` → `docs/openapi.json`
+
+Autenticación JWT (usuarios en `bd_lab.lab_auth_user`, contraseña bcrypt):
+
+- App settings: `LAB_JWT_SECRET` (mín. 32 caracteres), `LAB_AUTH_REQUIRED=true` (o `false` solo en local).
+- Login: `POST /api/auth/token` body `{ "username", "password" }` → `token` (30 días).
+- Cabecera en el resto de rutas: `Authorization: Bearer <token>`.
+- Crear tabla + usuario en PG: `npm run auth:apply-pg` (aplica `014_lab_auth_users.sql` y seed; no requiere RAG).
+- Solo actualizar hash: `npm run auth:seed-user` (variables `LAB_SEED_USERNAME`, `LAB_SEED_PASSWORD`).
+- Postman: carpeta **Auth** → `POST auth/token` (guarda `labJwt`); el pre-request de la colección añade el Bearer.
+
+Ping opcional: `GET https://<app>.azurewebsites.net/api/tools/health`
 
 ## 3. Repositorio GitHub
 
@@ -61,8 +80,8 @@ Workflow: `.github/workflows/deploy-azure-functions.yml`
 
 | App | Plan | Método en CI |
 | --- | --- | --- |
-| `rag-lab` | Flex Consumption | `api/publish?RemoteBuild=false` (script `publish-flex-package.ps1`; evita zipdeploy 502) |
-| `func-lab-langgraph` | Consumption clásico | `Azure/functions-action@v1.5.0` (como ayudascp-ia) |
+| **`rag-lab`** (prod) | Flex Consumption | `build-deploy-zip.ps1` + `publish-flex-package.ps1` (`/api/publish?RemoteBuild=false`) |
+| `func-insoft-lablanggraph` / otra clásica | Consumption | `Azure/functions-action@v1.5.0` (`vars.FLEX_CONSUMPTION=false`) |
 
 Variable de repo **`FLEX_CONSUMPTION`**: `true` (default) para `rag-lab`; `false` para desplegar con functions-action a app clásica.
 

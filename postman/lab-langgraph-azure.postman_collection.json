@@ -1,0 +1,429 @@
+{
+  "info": {
+    "_postman_id": "lab-langgraph-azure-2026",
+    "name": "lab-langgraph — Azure Functions",
+    "description": "Colección generada desde `src/functions/*.ts`. Prefijo de ruta: `/api`.\n\nVariables:\n- `baseUrl`: `https://func-lab-langgraph.azurewebsites.net/api` (recomendado) o `https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net/api`\n- Local: `http://127.0.0.1:5500/api`\n\nNo incluye `/health` (opcional en código; usa `GET tools/health` si quieres un ping ligero).",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "https://func-lab-langgraph.azurewebsites.net/api" },
+    { "key": "iconversacion", "value": "1" },
+    { "key": "labUsername", "value": "JAGUDELOE" },
+    { "key": "labPassword", "value": "" },
+    { "key": "labJwt", "value": "" }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "const jwt = pm.collectionVariables.get('labJwt');",
+          "const url = pm.request.url.toString();",
+          "if (jwt && url.indexOf('/auth/token') < 0) {",
+          "  pm.request.headers.upsert({ key: 'Authorization', value: 'Bearer ' + jwt });",
+          "}"
+        ]
+      }
+    }
+  ],
+  "item": [
+    {
+      "name": "Auth",
+      "item": [
+        {
+          "name": "POST auth/token",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "const j = pm.response.json();",
+                  "if (j && j.token) pm.collectionVariables.set('labJwt', j.token);"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"{{labUsername}}\",\n  \"password\": \"{{labPassword}}\"\n}"
+            },
+            "url": "{{baseUrl}}/auth/token"
+          }
+        },
+        {
+          "name": "GET auth/me",
+          "request": { "method": "GET", "url": "{{baseUrl}}/auth/me" }
+        }
+      ]
+    },
+    {
+      "name": "RAG",
+      "item": [
+        {
+          "name": "POST ask",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"question\": \"¿Qué es ContaPyme?\",\n  \"k\": 4,\n  \"corpus\": [\"contapyme\"]\n}"
+            },
+            "url": "{{baseUrl}}/ask"
+          }
+        },
+        {
+          "name": "GET documents",
+          "request": { "method": "GET", "url": "{{baseUrl}}/documents" }
+        },
+        {
+          "name": "POST index (PDF multipart)",
+          "request": {
+            "method": "POST",
+            "url": { "raw": "{{baseUrl}}/index?replace=true", "host": ["{{baseUrl}}"], "path": ["index"], "query": [{ "key": "replace", "value": "true" }] },
+            "body": {
+              "mode": "formdata",
+              "formdata": [{ "key": "file", "type": "file", "src": [], "description": "Uno o más .pdf" }]
+            }
+          }
+        },
+        {
+          "name": "POST index/youtube",
+          "request": {
+            "method": "POST",
+            "url": { "raw": "{{baseUrl}}/index/youtube?replace=true", "host": ["{{baseUrl}}"], "path": ["index", "youtube"], "query": [{ "key": "replace", "value": "true" }] }
+          }
+        },
+        {
+          "name": "POST index/web",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"urls\": [\"https://www.example.gov.co/pagina\"]\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/index/web?replace=true", "host": ["{{baseUrl}}"], "path": ["index", "web"], "query": [{ "key": "replace", "value": "true" }] }
+          }
+        },
+        {
+          "name": "POST youtube/proofread",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"videoId\": \"0G2kLZeFHbc\",\n  \"promote\": false\n}" },
+            "url": "{{baseUrl}}/youtube/proofread"
+          }
+        },
+        {
+          "name": "POST youtube/punctuate",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"videoId\": \"0G2kLZeFHbc\"\n}" },
+            "url": "{{baseUrl}}/youtube/punctuate"
+          }
+        },
+        {
+          "name": "POST youtube/whisper/transcribe",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"videoId\": \"0G2kLZeFHbc\"\n}" },
+            "url": "{{baseUrl}}/youtube/whisper/transcribe"
+          }
+        },
+        {
+          "name": "DELETE reset",
+          "request": { "method": "DELETE", "url": "{{baseUrl}}/reset" }
+        },
+        {
+          "name": "GET media/{id}",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/media/:id", "host": ["{{baseUrl}}"], "path": ["media", ":id"], "variable": [{ "key": "id", "value": "media-id-ejemplo" }] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "PatyIA — conversación",
+      "item": [
+        {
+          "name": "POST conversacion (SSE)",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }, { "key": "Accept", "value": "text/event-stream" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"itercero\": \"lab-test\",\n  \"icontacto\": \"1\",\n  \"nombre_usuario\": \"Jeffrey\",\n  \"prompt\": \"Hola, ¿qué puedes hacer?\",\n  \"corpus\": [\"contapyme\"]\n}"
+            },
+            "url": "{{baseUrl}}/conversacion"
+          }
+        },
+        {
+          "name": "POST conversacion/jailbreak (SSE)",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"itercero\": \"lab-test\",\n  \"icontacto\": \"1\",\n  \"prompt\": \"Mensaje de prueba jailbreak\",\n  \"jailbreak\": true\n}"
+            },
+            "url": "{{baseUrl}}/conversacion/jailbreak"
+          }
+        },
+        {
+          "name": "GET conversacion",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/conversacion?iconversacion={{iconversacion}}",
+              "host": ["{{baseUrl}}"],
+              "path": ["conversacion"],
+              "query": [{ "key": "iconversacion", "value": "{{iconversacion}}" }]
+            }
+          }
+        },
+        {
+          "name": "POST mensaje (calificación)",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"iconversacion\": 1,\n  \"calificacion\": 5,\n  \"comentario\": \"útil\"\n}"
+            },
+            "url": "{{baseUrl}}/mensaje"
+          }
+        },
+        {
+          "name": "GET patyia/prompts",
+          "request": { "method": "GET", "url": "{{baseUrl}}/patyia/prompts" }
+        }
+      ]
+    },
+    {
+      "name": "Catálogo API (Postman)",
+      "item": [
+        { "name": "GET catalog/projects", "request": { "method": "GET", "url": "{{baseUrl}}/catalog/projects" } },
+        {
+          "name": "GET catalog/projects/{project}/sections",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/catalog/projects/:project/sections", "host": ["{{baseUrl}}"], "path": ["catalog", "projects", ":project", "sections"], "variable": [{ "key": "project", "value": "patyia" }] }
+          }
+        },
+        {
+          "name": "GET catalog/.../entities",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/catalog/projects/:project/sections/:page/entities",
+              "host": ["{{baseUrl}}"],
+              "path": ["catalog", "projects", ":project", "sections", ":page", "entities"],
+              "variable": [{ "key": "project", "value": "patyia" }, { "key": "page", "value": "conversaciones" }]
+            }
+          }
+        },
+        { "name": "POST catalog/bootstrap", "request": { "method": "POST", "url": "{{baseUrl}}/catalog/bootstrap" } }
+      ]
+    },
+    {
+      "name": "Entity store (CRUD)",
+      "item": [
+        { "name": "GET entity (registry)", "request": { "method": "GET", "url": "{{baseUrl}}/entity" } },
+        { "name": "POST entity/seed", "request": { "method": "POST", "url": "{{baseUrl}}/entity/seed" } },
+        {
+          "name": "GET entity/{project}/{page}/{entity}",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/entity/:project/:page/:entity",
+              "host": ["{{baseUrl}}"],
+              "path": ["entity", ":project", ":page", ":entity"],
+              "variable": [{ "key": "project", "value": "patyia" }, { "key": "page", "value": "conversaciones" }, { "key": "entity", "value": "conversacion" }]
+            }
+          }
+        },
+        {
+          "name": "POST entity/{project}/{page}/{entity}",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{}" },
+            "url": {
+              "raw": "{{baseUrl}}/entity/:project/:page/:entity",
+              "host": ["{{baseUrl}}"],
+              "path": ["entity", ":project", ":page", ":entity"],
+              "variable": [{ "key": "project", "value": "patyia" }, { "key": "page", "value": "conversaciones" }, { "key": "entity", "value": "conversacion" }]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "API Agent",
+      "item": [
+        { "name": "GET agent/connections", "request": { "method": "GET", "url": "{{baseUrl}}/agent/connections" } },
+        { "name": "GET agent/catalog", "request": { "method": "GET", "url": "{{baseUrl}}/agent/catalog?project=patyia" } },
+        { "name": "GET agent/manifest", "request": { "method": "GET", "url": "{{baseUrl}}/agent/manifest?project=patyia" } },
+        { "name": "GET agent/postman-ui", "request": { "method": "GET", "url": "{{baseUrl}}/agent/postman-ui?project=patyia" } },
+        { "name": "GET agent/workflows", "request": { "method": "GET", "url": "{{baseUrl}}/agent/workflows?project=patyia" } },
+        {
+          "name": "POST agent/task",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"project\": \"patyia\",\n  \"task\": \"Lista las conversaciones recientes\"\n}" },
+            "url": "{{baseUrl}}/agent/task"
+          }
+        },
+        {
+          "name": "POST agent/execute",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"project\": \"patyia\",\n  \"catalogId\": \"GET-conversacion\",\n  \"allowMutations\": false\n}"
+            },
+            "url": "{{baseUrl}}/agent/execute"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orchestrator",
+      "item": [
+        { "name": "GET orchestrator/status", "request": { "method": "GET", "url": "{{baseUrl}}/orchestrator/status" } },
+        { "name": "POST orchestrator/sync-keys", "request": { "method": "POST", "url": "{{baseUrl}}/orchestrator/sync-keys" } },
+        {
+          "name": "POST orchestrator/lease",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"capability\": \"chat\",\n  \"provider\": \"groq\"\n}" },
+            "url": "{{baseUrl}}/orchestrator/lease"
+          }
+        },
+        {
+          "name": "POST orchestrator/release",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"leaseId\": \"uuid-del-lease\"\n}" },
+            "url": "{{baseUrl}}/orchestrator/release"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "item": [
+        { "name": "GET tools/health", "request": { "method": "GET", "url": "{{baseUrl}}/tools/health", "description": "Ping ligero (sin chequeo RAG completo)." } },
+        {
+          "name": "POST tools/whisper/transcribe",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"audioPath\": \"C:\\\\ruta\\\\audio.mp3\",\n  \"videoId\": \"0G2kLZeFHbc\"\n}" },
+            "url": "{{baseUrl}}/tools/whisper/transcribe"
+          }
+        },
+        {
+          "name": "POST tools/proofread",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"videoId\": \"0G2kLZeFHbc\"\n}" },
+            "url": "{{baseUrl}}/tools/proofread"
+          }
+        }
+      ]
+    },
+    {
+      "name": "SignalR",
+      "item": [
+        {
+          "name": "GET signalr/negotiate",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/signalr/negotiate?userId=lab-user-1", "host": ["{{baseUrl}}"], "path": ["signalr", "negotiate"], "query": [{ "key": "userId", "value": "lab-user-1" }] }
+          }
+        },
+        {
+          "name": "POST signalr/notify",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" },
+              { "key": "x-lab-notify-token", "value": "", "description": "Si LAB_NOTIFY_TOKEN está configurado" }
+            ],
+            "body": { "mode": "raw", "raw": "{\n  \"target\": \"lab\",\n  \"event\": \"refresh\",\n  \"payload\": { \"scope\": \"revisado\" }\n}" },
+            "url": "{{baseUrl}}/signalr/notify"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Persistence / ISA-DOC",
+      "item": [
+        { "name": "GET persistence (inventory)", "request": { "method": "GET", "url": "{{baseUrl}}/persistence" } },
+        { "name": "GET persistence/{path}", "request": { "method": "GET", "url": { "raw": "{{baseUrl}}/persistence/tickets", "host": ["{{baseUrl}}"], "path": ["persistence", "tickets"] } } },
+        {
+          "name": "PUT persistence/{path}",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{}" },
+            "url": { "raw": "{{baseUrl}}/persistence/tickets", "host": ["{{baseUrl}}"], "path": ["persistence", "tickets"] }
+          }
+        },
+        { "name": "GET revisado", "request": { "method": "GET", "url": "{{baseUrl}}/revisado" } },
+        {
+          "name": "POST revisado",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"TK-1431163\": true\n}" },
+            "url": "{{baseUrl}}/revisado"
+          }
+        },
+        { "name": "GET patyia/cache/conversaciones", "request": { "method": "GET", "url": "{{baseUrl}}/patyia/cache/conversaciones" } },
+        { "name": "GET patyia/cache/identidades", "request": { "method": "GET", "url": "{{baseUrl}}/patyia/cache/identidades" } }
+      ]
+    },
+    {
+      "name": "ImgBB assets",
+      "item": [
+        { "name": "GET imgbb/assets", "request": { "method": "GET", "url": "{{baseUrl}}/imgbb/assets" } },
+        {
+          "name": "GET imgbb/assets/{filename}",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/imgbb/assets/:filename", "host": ["{{baseUrl}}"], "path": ["imgbb", "assets", ":filename"], "variable": [{ "key": "filename", "value": "ejemplo.png" }] }
+          }
+        },
+        {
+          "name": "POST imgbb/assets/upload",
+          "request": {
+            "method": "POST",
+            "body": { "mode": "formdata", "formdata": [{ "key": "file", "type": "file", "src": [] }] },
+            "url": "{{baseUrl}}/imgbb/assets/upload"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Config",
+      "item": [
+        { "name": "GET config/connections", "request": { "method": "GET", "url": "{{baseUrl}}/config/connections" } }
+      ]
+    }
+  ]
+}

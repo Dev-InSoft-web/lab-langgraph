@@ -11,7 +11,7 @@ export function getEntityStoreSchema(project: string): string {
 	return isClientesisStoreProject(project) ? PG_SCHEMA_CLIENTESIS : PG_SCHEMA_LAB;
 }
 
-/** Tabla calificada (`bd_lab.lab_entity_row` | `bd_clientesis.cis_entity_row`). */
+/** Tabla calificada (`BD_LAB.LAB_ENTITYROW` | `BD_CLIENTESIS.CIS_ENTITYROW`). */
 export function getEntityRowTable(project: string): string {
 	return isClientesisStoreProject(project) ? Q_CIS_ENTITY_ROW : Q_LAB_ENTITY_ROW;
 }

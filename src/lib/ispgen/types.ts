@@ -41,8 +41,9 @@ export type EntityListQuery = {
 	q?: string;
 	/** Proyección: solo estas claves del body (+ PKs) */
 	fields?: string[];
-	/** Filtro por padre */
+	/** Filtro por padre (valor IENTITYID del padre) */
 	parentPk?: string;
+	parentEntityId?: string;
 	/** Etiquetas (todas deben estar presentes) */
 	tags?: string[];
 	/** Filtros arbitrarios en body (?filter.key=value) */
@@ -53,11 +54,16 @@ export type EntityRow<T extends Record<string, unknown> = Record<string, unknown
 	project: string;
 	page: string;
 	entity: string;
+	/** Valor compuesto de clave (ruta /ientityid) */
+	ientityid: string;
+	/** @deprecated usar ientityid */
 	pk: string;
 	body: T;
 	parent_project?: string | null;
 	parent_page?: string | null;
 	parent_entity?: string | null;
+	iparententityid?: string | null;
+	/** @deprecated usar iparententityid */
 	parent_pk?: string | null;
 	sort_key: number;
 	tags: string[];

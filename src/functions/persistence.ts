@@ -1,5 +1,5 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { persistenceInventory, PERSISTENCE_ALLOWLIST } from "../lib/core/lab-data-paths.js";
 import { readPersistenceJson, writePersistenceJson } from "../lib/persistence/json-store.js";
 import { readRevisadoAll, writeRevisadoMany } from "../lib/persistence/revisado.js";
@@ -15,7 +15,8 @@ async function inventoryHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	return jsonResponse(
 		{ ok: true, allowlist: PERSISTENCE_ALLOWLIST, ...persistenceInventory() },
 		200,
@@ -28,7 +29,8 @@ async function genericStoreHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	const rel = request.params.path?.replace(/\\/g, "/") ?? "";
 	if (!rel) {
@@ -59,7 +61,8 @@ async function revisadoHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	try {
 		if (request.method === "GET") {
 			return jsonResponse(await readRevisadoAll(), 200, corsHeaders(origin));
@@ -82,7 +85,8 @@ async function patyiaConversacionesHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	const db = request.query.get("db")?.trim() ?? "";
 	const itercero = request.query.get("itercero")?.trim() ?? "";
 	const icontacto = request.query.get("icontacto")?.trim() ?? "";
@@ -114,7 +118,8 @@ async function patyiaIdentidadesHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	try {
 		if (request.method === "GET") {
 			return jsonResponse({ ok: true, cache: await loadIdentidadesCache() }, 200, corsHeaders(origin));

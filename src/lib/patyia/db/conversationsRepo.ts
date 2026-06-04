@@ -4,6 +4,7 @@ import {
 	Q_PATY_CONVERSACION_TURNO,
 	Q_PATY_MENSAJE_CALIFICADO,
 } from "../../db/pg-identifiers.js";
+import { sqlCol } from "../../db/pg-quote.js";
 import type { ConversationRecord, ConversationTurn, RatedMessage } from "../conversation/types.js";
 import type { PatyPromptTipo } from "../prompts/types.js";
 import { ensurePatyiaSchema } from "./ensureSchema.js";
@@ -64,9 +65,11 @@ function rowToRecord(row: ConvRow, turnos: ConversationTurn[]): ConversationReco
 
 async function loadTurnos(iconversacion: number): Promise<ConversationTurn[]> {
 	const rows = await query<TurnRow>(
-		`SELECT ts, prompttext, responsetext, prompttipo, corpus, bjailbreak, latencyms,
-            iturnindex, ilease, provider, keylabel
-     FROM ${Q_PATY_CONVERSACION_TURNO} WHERE iconversacion = $1 ORDER BY ts`,
+		`SELECT ${sqlCol("ts")} AS ts, ${sqlCol("prompttext")} AS prompttext, ${sqlCol("responsetext")} AS responsetext,
+            ${sqlCol("prompttipo")} AS prompttipo, ${sqlCol("corpus")} AS corpus, ${sqlCol("bjailbreak")} AS bjailbreak,
+            ${sqlCol("latencyms")} AS latencyms, ${sqlCol("iturnindex")} AS iturnindex, ${sqlCol("ilease")} AS ilease,
+            ${sqlCol("provider")} AS provider, ${sqlCol("keylabel")} AS keylabel
+     FROM ${Q_PATY_CONVERSACION_TURNO} WHERE ${sqlCol("iconversacion")} = $1 ORDER BY ${sqlCol("ts")}`,
 		[iconversacion],
 	);
 	return rows.map((t) => ({
@@ -89,10 +92,10 @@ export async function insertConversationPg(record: Omit<ConversationRecord, "ico
 	await ensurePatyiaSchema();
 	const row = await queryOne<{ iconversacion: string }>(
 		`INSERT INTO ${Q_PATY_CONVERSACION} (
-       itercero, icontacto, nombreusuario, titulo, hilo, modeloia, versionayuda,
-       prompt, respuesta, qtokens, qmensajes, fhcre, fhultact
+       ${sqlCol("itercero")}, ${sqlCol("icontacto")}, ${sqlCol("nombreusuario")}, ${sqlCol("titulo")}, ${sqlCol("hilo")}, ${sqlCol("modeloia")}, ${sqlCol("versionayuda")},
+       ${sqlCol("prompt")}, ${sqlCol("respuesta")}, ${sqlCol("qtokens")}, ${sqlCol("qmensajes")}, ${sqlCol("fhcre")}, ${sqlCol("fhultact")}
      ) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,NOW(),NOW())
-     RETURNING iconversacion`,
+     RETURNING ${sqlCol("iconversacion")} AS iconversacion`,
 		[
 			record.itercero,
 			record.icontacto,
@@ -114,9 +117,9 @@ export async function updateConversationPg(record: ConversationRecord): Promise<
 	await ensurePatyiaSchema();
 	await query(
 		`UPDATE ${Q_PATY_CONVERSACION} SET
-       itercero=$2, icontacto=$3, nombreusuario=$4, titulo=$5, hilo=$6, modeloia=$7,
-       prompt=$8, respuesta=$9, qtokens=$10, qmensajes=$11, fhultact=NOW()
-     WHERE iconversacion=$1`,
+       ${sqlCol("itercero")}=$2, ${sqlCol("icontacto")}=$3, ${sqlCol("nombreusuario")}=$4, ${sqlCol("titulo")}=$5, ${sqlCol("hilo")}=$6, ${sqlCol("modeloia")}=$7,
+       ${sqlCol("prompt")}=$8, ${sqlCol("respuesta")}=$9, ${sqlCol("qtokens")}=$10, ${sqlCol("qmensajes")}=$11, ${sqlCol("fhultact")}=NOW()
+     WHERE ${sqlCol("iconversacion")}=$1`,
 		[
 			record.iconversacion,
 			record.itercero,
@@ -136,7 +139,11 @@ export async function updateConversationPg(record: ConversationRecord): Promise<
 export async function loadConversationPg(id: number): Promise<ConversationRecord | null> {
 	await ensurePatyiaSchema();
 	const row = await queryOne<ConvRow>(
-		`SELECT * FROM ${Q_PATY_CONVERSACION} WHERE iconversacion = $1`,
+		`SELECT ${sqlCol("iconversacion")} AS iconversacion, ${sqlCol("itercero")} AS itercero, ${sqlCol("icontacto")} AS icontacto,
+       ${sqlCol("nombreusuario")} AS nombreusuario, ${sqlCol("titulo")} AS titulo, ${sqlCol("hilo")} AS hilo, ${sqlCol("modeloia")} AS modeloia,
+       ${sqlCol("versionayuda")} AS versionayuda, ${sqlCol("itdestado")} AS itdestado, ${sqlCol("prompt")} AS prompt, ${sqlCol("respuesta")} AS respuesta,
+       ${sqlCol("qtokens")} AS qtokens, ${sqlCol("qmensajes")} AS qmensajes, ${sqlCol("fhcre")} AS fhcre, ${sqlCol("fhultact")} AS fhultact
+     FROM ${Q_PATY_CONVERSACION} WHERE ${sqlCol("iconversacion")} = $1`,
 		[id],
 	);
 	if (!row) return null;
@@ -152,8 +159,8 @@ export async function appendTurnPg(
 
 	await query(
 		`INSERT INTO ${Q_PATY_CONVERSACION_TURNO} (
-       iconversacion, ts, prompttext, responsetext, prompttipo, corpus, bjailbreak, latencyms,
-       iturnindex, ilease, provider, keylabel
+       ${sqlCol("iconversacion")}, ${sqlCol("ts")}, ${sqlCol("prompttext")}, ${sqlCol("responsetext")}, ${sqlCol("prompttipo")}, ${sqlCol("corpus")}, ${sqlCol("bjailbreak")}, ${sqlCol("latencyms")},
+       ${sqlCol("iturnindex")}, ${sqlCol("ilease")}, ${sqlCol("provider")}, ${sqlCol("keylabel")}
      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)`,
 		[
 			iconversacion,
@@ -176,7 +183,7 @@ export async function appendRatingPg(msg: RatedMessage): Promise<void> {
 	await ensurePatyiaSchema();
 	const texto = msg.comentario?.trim() || `calificacion=${msg.calificacion ?? ""}`;
 	await query(
-		`INSERT INTO ${Q_PATY_MENSAJE_CALIFICADO} (iconversacion, contenido, calificacion, comentario)
+		`INSERT INTO ${Q_PATY_MENSAJE_CALIFICADO} (${sqlCol("iconversacion")}, ${sqlCol("contenido")}, ${sqlCol("calificacion")}, ${sqlCol("comentario")})
      VALUES ($1, $2, $3, $4)`,
 		[msg.iconversacion, texto, msg.calificacion ?? null, msg.comentario ?? null],
 	);

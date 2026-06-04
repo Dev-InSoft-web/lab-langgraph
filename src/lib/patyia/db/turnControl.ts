@@ -4,6 +4,7 @@ import {
 	Q_PATY_CONVERSACION_TURNO_LOCK,
 	Q_PATY_CONVERSACION_TURNO_TIMING,
 } from "../../db/pg-identifiers.js";
+import { sqlCol } from "../../db/pg-quote.js";
 import { logOrchestratorRotation } from "../../orchestrator/rotation-log.js";
 import type { LabCapability } from "../../orchestrator/types.js";
 import { ensurePatyiaSchema } from "./ensureSchema.js";
@@ -15,7 +16,7 @@ export type TurnLockResult =
 export async function expireStaleLabState(): Promise<number> {
 	await ensurePatyiaSchema();
 	const res = await getPgPool().query<{ expire_stale_orchestrator_leases: number }>(
-		"SELECT bd_paty.paty_expire_stale_orchestrator_leases() AS expire_stale_orchestrator_leases",
+		'SELECT "BD_PATY"."PATY_EXPIRESTALORCHESTRATORLEASES"() AS expire_stale_orchestrator_leases',
 	);
 	return Number(res.rows[0]?.expire_stale_orchestrator_leases ?? 0);
 }
@@ -23,7 +24,7 @@ export async function expireStaleLabState(): Promise<number> {
 export async function nextTurnIndex(iconversacion: number): Promise<number> {
 	await ensurePatyiaSchema();
 	const res = await getPgPool().query<{ next_conversacion_turn_index: number }>(
-		"SELECT bd_paty.paty_next_turn_index($1) AS next_conversacion_turn_index",
+		'SELECT "BD_PATY"."PATY_NEXTTURNINDEX"($1) AS next_conversacion_turn_index',
 		[iconversacion],
 	);
 	return Number(res.rows[0]?.next_conversacion_turn_index ?? 1);
@@ -31,7 +32,7 @@ export async function nextTurnIndex(iconversacion: number): Promise<number> {
 
 async function minTurnGapMs(capability: LabCapability): Promise<number> {
 	const res = await getPgPool().query<{ minturngapms: number }>(
-		`SELECT minturngapms FROM ${Q_LAB_CAPABILITY_TIMING} WHERE capability = $1`,
+		`SELECT ${sqlCol("minturngapms")} AS minturngapms FROM ${Q_LAB_CAPABILITY_TIMING} WHERE ${sqlCol("capability")} = $1`,
 		[capability],
 	);
 	return Number(res.rows[0]?.minturngapms ?? 0);
@@ -47,7 +48,7 @@ export async function enforceTurnGap(
 
 	const pool = getPgPool();
 	const row = await pool.query<{ lastturnat: Date }>(
-		`SELECT lastturnat FROM ${Q_PATY_CONVERSACION_TURNO_TIMING} WHERE iconversacion = $1`,
+		`SELECT ${sqlCol("lastturnat")} AS lastturnat FROM ${Q_PATY_CONVERSACION_TURNO_TIMING} WHERE ${sqlCol("iconversacion")} = $1`,
 		[iconversacion],
 	);
 	if (!row.rows.length) return;
@@ -73,12 +74,12 @@ export async function touchTurnTiming(
 ): Promise<void> {
 	await ensurePatyiaSchema();
 	await getPgPool().query(
-		`INSERT INTO ${Q_PATY_CONVERSACION_TURNO_TIMING} (iconversacion, lastturnat, lastcapability, fhultact)
+		`INSERT INTO ${Q_PATY_CONVERSACION_TURNO_TIMING} (${sqlCol("iconversacion")}, ${sqlCol("lastturnat")}, ${sqlCol("lastcapability")}, ${sqlCol("fhultact")})
 		 VALUES ($1, NOW(), $2, NOW())
-		 ON CONFLICT (iconversacion) DO UPDATE SET
-		   lastturnat = NOW(),
-		   lastcapability = EXCLUDED.lastcapability,
-		   fhultact = NOW()`,
+		 ON CONFLICT (${sqlCol("iconversacion")}) DO UPDATE SET
+		   ${sqlCol("lastturnat")} = NOW(),
+		   ${sqlCol("lastcapability")} = EXCLUDED.${sqlCol("lastcapability")},
+		   ${sqlCol("fhultact")} = NOW()`,
 		[iconversacion, capability],
 	);
 }
@@ -92,9 +93,9 @@ export async function acquireConversationTurnLock(
 	const client = await pool.connect();
 	try {
 		await client.query("BEGIN");
-		await client.query(`DELETE FROM ${Q_PATY_CONVERSACION_TURNO_LOCK} WHERE lockeduntil < NOW()`);
+		await client.query(`DELETE FROM ${Q_PATY_CONVERSACION_TURNO_LOCK} WHERE ${sqlCol("lockeduntil")} < NOW()`);
 		const existing = await client.query(
-			`SELECT lockeduntil FROM ${Q_PATY_CONVERSACION_TURNO_LOCK} WHERE iconversacion = $1 FOR UPDATE`,
+			`SELECT ${sqlCol("lockeduntil")} AS lockeduntil FROM ${Q_PATY_CONVERSACION_TURNO_LOCK} WHERE ${sqlCol("iconversacion")} = $1 FOR UPDATE`,
 			[iconversacion],
 		);
 		if (existing.rows.length) {
@@ -104,7 +105,7 @@ export async function acquireConversationTurnLock(
 			return { ok: false, waitMs, reason: "conversation_locked" };
 		}
 		await client.query(
-			`INSERT INTO ${Q_PATY_CONVERSACION_TURNO_LOCK} (iconversacion, holder, lockeduntil)
+			`INSERT INTO ${Q_PATY_CONVERSACION_TURNO_LOCK} (${sqlCol("iconversacion")}, ${sqlCol("holder")}, ${sqlCol("lockeduntil")})
 			 VALUES ($1, $2, NOW() + INTERVAL '4 minutes')`,
 			[iconversacion, holder],
 		);
@@ -127,7 +128,7 @@ export async function acquireConversationTurnLock(
 
 export async function releaseConversationTurnLock(iconversacion: number): Promise<void> {
 	await ensurePatyiaSchema();
-	await getPgPool().query(`DELETE FROM ${Q_PATY_CONVERSACION_TURNO_LOCK} WHERE iconversacion = $1`, [iconversacion]);
+	await getPgPool().query(`DELETE FROM ${Q_PATY_CONVERSACION_TURNO_LOCK} WHERE ${sqlCol("iconversacion")} = $1`, [iconversacion]);
 	await logOrchestratorRotation({
 		capability: "chat",
 		provider: "groq",

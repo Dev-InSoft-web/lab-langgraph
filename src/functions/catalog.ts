@@ -1,5 +1,5 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { bootstrapCatalogFromDefinitions } from "../lib/ispgen/catalog-bootstrap.js";
 import {
 	listEntityDefinitions,
@@ -21,7 +21,8 @@ async function projectsHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	await ensureEntityControllersRegisteredAsync();
 	const projects = await listProjects();
 	const enriched = await Promise.all(
@@ -38,7 +39,8 @@ async function sectionsHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	const project = request.params.project?.trim();
 	if (!project) {
 		return jsonResponse({ ok: false, error: "project requerido" }, 400, catalogCors(origin));
@@ -52,7 +54,8 @@ async function entitiesHandler(
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	const project = request.params.project?.trim();
 	const page = request.params.page?.trim();
 	if (!project || !page) {
@@ -85,7 +88,8 @@ async function bootstrapHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	if (request.method !== "POST") {
 		return jsonResponse({ ok: false, error: "POST requerido" }, 405, catalogCors(origin));
 	}

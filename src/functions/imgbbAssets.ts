@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { resolveLabDataRoot } from "../lib/core/lab-data-paths.js";
 import { getController } from "../lib/ispgen/controller.js";
 import { ensureEntityControllersRegisteredAsync } from "../lib/ispgen/register.js";
@@ -36,7 +36,7 @@ async function upsertAssetRow(
 	if (!res.encabezado.resultado) {
 		const created = await ctrl.create(body, {
 			parent: ticketId
-				? { project: "isa-doc", page: "tickets", entity: "ticket", pk: ticketId }
+				? { project: "isa-doc", page: "tickets", entity: "ticket", ientityid: ticketId }
 				: undefined,
 			tags: ticketId ? [ticketId] : [],
 		});
@@ -54,7 +54,8 @@ async function imgbbGetHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	await ensureEntityControllersRegisteredAsync();
 	const ctrl = getController(SEGMENT.project, SEGMENT.page, SEGMENT.entity);
@@ -106,7 +107,8 @@ async function imgbbUploadHandler(
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 	if (request.method !== "POST") {
 		return jsonResponse({ ok: false, error: "POST requerido" }, 405, storeCors(origin));
 	}

@@ -6,7 +6,7 @@ import {
 	getPatyMssqlConfig,
 	getRagDatabaseUrl,
 } from "../lib/core/config.js";
-import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
+import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { pingClientesisDb, pingPatyDb, pingRagDb } from "../lib/db/pg.js";
 
 function pgLabel(url: string): string {
@@ -31,7 +31,8 @@ function maskMssql(cfg: ReturnType<typeof getPatyMssqlConfig>): Record<string, u
 
 async function handler(request: HttpRequest, _ctx: InvocationContext): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");
-	if (request.method === "OPTIONS") return optionsResponse(origin);
+	const authBlock = await beginHttpRequest(request, origin);
+	if (authBlock) return authBlock;
 
 	const patyPg = getPatyDatabaseUrl();
 	const clientesisPg = getClientesisDatabaseUrl();
@@ -53,18 +54,18 @@ async function handler(request: HttpRequest, _ctx: InvocationContext): Promise<H
 				paty: {
 					label: pgLabel(patyPg),
 					ping: patyOk,
-					schemas: ["bd_paty", "bd_lab"],
+					schemas: ["BD_PATY", "BD_LAB"],
 					role: "PatyIA, ISA-DOC, catálogo maestro (bd_*)",
 				},
 				clientesis: {
 					label: pgLabel(clientesisPg),
 					ping: clientesisOk,
 					sameInstanceAsPaty: patyPg === clientesisPg,
-					schemas: ["bd_clientesis"],
-					role: "bd_clientesis.cis_entity_row (capacitación / postman-catalog)",
+					schemas: ["BD_CLIENTESIS"],
+					role: "BD_CLIENTESIS.CIS_ENTITYROW (capacitación / postman-catalog)",
 				},
 				rag: ragUrl
-					? { label: pgLabel(ragUrl), ping: ragOk, schemas: ["bd_rag"] }
+					? { label: pgLabel(ragUrl), ping: ragOk, schemas: ["BD_RAG"] }
 					: { configured: false },
 			},
 			mssql: {

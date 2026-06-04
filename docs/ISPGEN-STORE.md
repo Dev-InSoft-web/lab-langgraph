@@ -30,11 +30,11 @@ Filtros en listados (evitan dumps):
 | `limit`, `offset` | Paginación (máx. 500) |
 | `q` | Búsqueda en body |
 | `fields` | Proyección de columnas |
-| `parentPk`, `ticketId` | Hijos de un ticket |
+| `parentEntityId` (alias `parentPk`), `ITICKET` en body | Hijos de un ticket |
 | `tags` | Etiquetas (AND) |
 | `filter.campo=valor` | Filtro en `body` |
 
-Detalle anidado (GET por PK):
+Detalle anidado (GET por `IENTITYID` en ruta `/entity/.../{ientityid}`):
 
 - `?detail=todo`
 - `?detail=assets` o `?detail={"assets":{"todo":true}}`
