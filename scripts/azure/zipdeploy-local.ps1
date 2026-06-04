@@ -1,7 +1,7 @@
 #Requires -Version 5.1
 param(
-	[string]$ResourceGroup = "rg-insoft-lab-langgraph",
-	[string]$FunctionAppName = "func-insoft-lablanggraph",
+	[string]$ResourceGroup = "rg-lab-langgraph",
+	[string]$FunctionAppName = "rag-lab",
 	[string]$ZipPath = ""
 )
 
