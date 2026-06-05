@@ -20,10 +20,12 @@
     "db:verify-store": "npm run build && npx tsx scripts/verify-store-db.mts",
     "db:apply-schema:rag": "npm run build && npx tsx scripts/apply-rag-schema.mts",
     "diagrams:render": "npm run build && npx tsx scripts/render-langgraph-diagrams.mts",
+    "frontend:serve": "npx --yes serve frontend -p 5501",
     "postman:sync": "npx tsx scripts/sync-postman-catalog.mts",
     "openapi:export": "npm run build && npx tsx scripts/export-openapi.mts",
     "auth:apply-pg": "npm run build && npx tsx scripts/apply-lab-auth-pg.mts --seed",
     "db:migrate-nomenclature": "npm run build && npx tsx scripts/migrate-nomenclature-bd.mts",
+    "db:migrate-entity-domain": "npm run build && npx tsx scripts/migrate-entity-domain-prefix.mts",
     "db:verify-nomenclature": "npm run build && npx tsx scripts/verify-bd-nomenclature.mts",
     "db:nomenclature-status": "npx tsx scripts/db-nomenclature-status.mts",
     "azure:sync-settings": "npx tsx scripts/azure/sync-app-settings.mts",
@@ -74,6 +76,7 @@
     "@types/pdf-parse": "^1.1.4",
     "@types/pg": "^8.11.11",
     "@types/pngjs": "^6.0.5",
+    "esbuild": "^0.25.0",
     "rimraf": "^6.0.1",
     "typescript": "^5.8.2"
   }

@@ -41,13 +41,18 @@ Además en este repo:
 
 Ver `testing/README.md`.
 
-## Front de prueba
+## Front de prueba (React 18 + MUI UMD, sin build)
+
+Stack estático: React/MUI/Babel desde CDN (unpkg) + JSX en `frontend/comun/`. No requiere `npm run build` para el front.
 
 ```bash
-npx --yes serve frontend -p 5173
+npm run frontend:serve
+# → http://127.0.0.1:5501/index.html
 ```
 
-Edita `frontend/config.js` si cambias el puerto local.
+- `frontend/comun/jsx/` — App, layouts, páginas (FitDocs, PatyIA)
+- `frontend/comun/js/` — auth, `labFetch`, SSE, API conversaciones
+- Edita `frontend/config.js` si cambias el puerto de la API local
 
 ## API
 

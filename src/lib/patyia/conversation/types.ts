@@ -1,4 +1,5 @@
 import type { PatyPromptTipo } from "../prompts/types.js";
+import type { ConversationTurnMeta } from "./turnLog.js";
 
 /** Contrato alineado con PatyIA (TConversacion + turno SSE). */
 export type ConversationState = 0 | 1 | 2; // activa | cerrada inactividad | eliminada
@@ -17,6 +18,8 @@ export interface ConversationTurn {
 	corpus?: string[];
 	jailbreak?: boolean;
 	latencyMs?: number;
+	/** Auditoría LangGraph: clasificación, tokens, coste, RAG. */
+	meta?: ConversationTurnMeta;
 }
 
 export interface RatedMessage {
@@ -68,6 +71,22 @@ export interface ConversationPostBody {
 
 export interface MensajePostBody {
 	iconversacion: number;
+	/** Texto del usuario → LangGraph (lab). */
+	mensaje?: string;
+	prompt?: string;
 	calificacion?: number;
 	comentario?: string;
+}
+
+export interface CreateConversationBody {
+	titulo?: string;
+	itercero?: string;
+	icontacto?: string;
+	nombre_usuario?: string;
+}
+
+export interface PatchConversationBody {
+	titulo?: string;
+	/** 0 activa, 1 cerrada, 2 eliminada */
+	itdestado?: ConversationState;
 }

@@ -34,9 +34,9 @@ const pool = getPatyPgPool();
 
 const check = await pool.query<{ n: string }>(
 	`SELECT COUNT(*)::text AS n FROM information_schema.tables
-	 WHERE table_schema = 'BD_LAB' AND table_name = 'LAB_AUTHUSER'`,
+	 WHERE table_schema = 'BD_LAB' AND table_name = 'AUTH_AUTHUSER'`,
 );
-console.log("  tabla LAB_AUTHUSER:", check.rows[0]?.n === "1" ? "OK" : "FALTA");
+console.log("  tabla AUTH_AUTHUSER:", check.rows[0]?.n === "1" ? "OK" : "FALTA");
 
 const seed = process.argv.includes("--seed");
 if (seed) {

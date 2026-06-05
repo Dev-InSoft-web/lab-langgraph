@@ -12,16 +12,16 @@ async function healthHandler(request: HttpRequest, _context: InvocationContext):
 
 	return jsonResponse(
 		{
-			ok: opsOk && ragOk,
+			ok: opsOk,
 			service: "lab-langgraph",
 			databases: {
 				ops: { ok: opsOk, schemas: [PG_SCHEMA_PATY, PG_SCHEMA_LAB] },
-				rag: { ok: ragOk, schemas: [PG_SCHEMA_RAG] },
+				rag: { configured: ragOk, ok: ragOk, schemas: [PG_SCHEMA_RAG] },
 			},
 			signalR: { configured: signalRConfigured() },
 			hint: "POST /api/index, /api/ask, GET /api/signalr/negotiate, POST /api/signalr/notify",
 		},
-		opsOk && ragOk ? 200 : 503,
+		opsOk ? 200 : 503,
 		corsHeaders(origin),
 	);
 }

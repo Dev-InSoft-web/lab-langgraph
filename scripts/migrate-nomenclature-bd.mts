@@ -135,27 +135,27 @@ async function renameSequences(pool: { query: Function }): Promise<void> {
 async function recreatePatyFunctions(pool: { query: Function }): Promise<void> {
 	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_PATY"`);
 	await pool.query(`
-		CREATE OR REPLACE FUNCTION "BD_PATY"."PATY_NEXTTURNINDEX"(p_iconversacion BIGINT)
+		CREATE OR REPLACE FUNCTION "BD_PATY"."CONVERSACION_NEXTTURNINDEX"(p_iconversacion BIGINT)
 		RETURNS INT LANGUAGE sql STABLE AS $$
 			SELECT COALESCE(MAX("ITURNINDEX"), 0) + 1
-			FROM "BD_PATY"."PATY_CONVERSACIONTURNO"
+			FROM "BD_PATY"."CONVERSACION_CONVERSACIONTURNO"
 			WHERE "ICONVERSACION" = p_iconversacion;
 		$$`);
 	await pool.query(`
-		CREATE OR REPLACE FUNCTION "BD_PATY"."PATY_EXPIRESTALORCHESTRATORLEASES"()
+		CREATE OR REPLACE FUNCTION "BD_PATY"."ORCHESTRATOR_EXPIRESTALORCHESTRATORLEASES"()
 		RETURNS INT LANGUAGE plpgsql AS $$
 		DECLARE n INT;
 		BEGIN
-			UPDATE "BD_LAB"."LAB_ORCHESTRATORLEASE"
+			UPDATE "BD_LAB"."ORCHESTRATOR_ORCHESTRATORLEASE"
 			SET "RELEASEDAT" = NOW(), "BOK" = FALSE,
 				"LASTERROR" = COALESCE("LASTERROR", 'expired_stale_lease')
 			WHERE "RELEASEDAT" IS NULL AND "EXPIRESAT" < NOW();
 			GET DIAGNOSTICS n = ROW_COUNT;
-			DELETE FROM "BD_PATY"."PATY_CONVERSACIONTURNOLOCK" WHERE "LOCKEDUNTIL" < NOW();
+			DELETE FROM "BD_PATY"."CONVERSACION_CONVERSACIONTURNOLOCK" WHERE "LOCKEDUNTIL" < NOW();
 			RETURN n;
 		END;
 		$$`);
-	console.log("  funciones BD_PATY actualizadas");
+	console.log("  funciones BD_PATY actualizadas (prefijo entidad)");
 }
 
 console.log("Migración nomenclatura BD_* …\nOps (paty+lab+clientesis):");

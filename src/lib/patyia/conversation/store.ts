@@ -1,10 +1,17 @@
 import {
 	appendRatingPg,
 	appendTurnPg,
+	createConversationPg,
+	deleteConversationPg,
 	insertConversationPg,
+	listConversationsPg,
 	loadConversationPg,
+	patchConversationPg,
 	updateConversationPg,
+	type ConversationListItem,
 } from "../db/conversationsRepo.js";
+
+export type { ConversationListItem };
 import type { ConversationRecord, RatedMessage } from "./types.js";
 
 /** Persistencia única: PostgreSQL (schema `paty`). Sin JSON en disco. */
@@ -35,6 +42,13 @@ export async function loadConversation(id: number): Promise<ConversationRecord |
 	return loadConversationPg(id);
 }
 
+export async function listConversations(
+	itercero: string,
+	icontacto?: string,
+): Promise<ConversationListItem[]> {
+	return listConversationsPg(itercero, icontacto);
+}
+
 export async function saveConversation(record: ConversationRecord): Promise<void> {
 	record.fhultact = new Date().toISOString();
 	if (!record.iconversacion) {
@@ -52,4 +66,25 @@ export async function saveConversationTurn(record: ConversationRecord, turnIndex
 
 export async function appendRating(msg: RatedMessage): Promise<void> {
 	await appendRatingPg(msg);
+}
+
+export async function createConversation(input: {
+	itercero: string;
+	icontacto: string;
+	nombreUsuario: string;
+	titulo?: string;
+}): Promise<ConversationRecord | null> {
+	const id = await createConversationPg(input);
+	return loadConversationPg(id);
+}
+
+export async function patchConversation(
+	id: number,
+	patch: { titulo?: string; itdestado?: ConversationRecord["itdestado"] },
+): Promise<boolean> {
+	return patchConversationPg(id, patch);
+}
+
+export async function deleteConversation(id: number): Promise<boolean> {
+	return deleteConversationPg(id);
 }

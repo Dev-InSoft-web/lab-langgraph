@@ -5,14 +5,16 @@ import {
 	parsePromptTipoOverride,
 	persistTurnNode,
 	resolveSimulatedSession,
-	routeAgentNode,
 	runAgentNode,
 } from "./nodes.js";
+import { classifyPromptTipo } from "../prompts/router.js";
 import { getCorpusForTipo } from "../db/promptsRepo.js";
 import { corpusForAgent } from "../agents/config.js";
+import { buildTurnMeta } from "./turnLog.js";
 import type { PatyPromptTipo } from "../prompts/types.js";
 import type { ConversationPostBody, ConversationRecord } from "./types.js";
 import type { SimulatedPatySession } from "../session/simulate.js";
+import type { ConversationTurnMeta } from "./turnLog.js";
 
 export const ConversationGraphState = Annotation.Root({
 	body: Annotation<ConversationPostBody>(),
@@ -32,6 +34,14 @@ export const ConversationGraphState = Annotation.Root({
 	promptTipo: Annotation<PatyPromptTipo>({
 		reducer: (_l, r) => r,
 		default: () => "REQUIERE_CONTEXTO",
+	}),
+	classifierRaw: Annotation<string>({
+		reducer: (_l, r) => r,
+		default: () => "",
+	}),
+	classifierLatencyMs: Annotation<number>({
+		reducer: (_l, r) => r,
+		default: () => 0,
 	}),
 	corpus: Annotation<string[]>({
 		reducer: (_l, r) => r,
@@ -65,6 +75,14 @@ export const ConversationGraphState = Annotation.Root({
 		reducer: (_l, r) => r,
 		default: () => "",
 	}),
+	turnMeta: Annotation<ConversationTurnMeta | null>({
+		reducer: (_l, r) => r,
+		default: () => null,
+	}),
+	agentFile: Annotation<string>({
+		reducer: (_l, r) => r,
+		default: () => "",
+	}),
 });
 
 async function ensureNode(state: typeof ConversationGraphState.State) {
@@ -77,13 +95,30 @@ async function ensureNode(state: typeof ConversationGraphState.State) {
 	return { record, created };
 }
 
-async function routeNode(state: typeof ConversationGraphState.State) {
+/** Agente clasificador → tipo_consulta (13 códigos). */
+async function classifyNode(state: typeof ConversationGraphState.State) {
+	if (state.jailbreak) {
+		return {
+			promptTipo: "REQUIERE_CONTEXTO" as PatyPromptTipo,
+			classifierRaw: '{"tipo_consulta":"REQUIERE_CONTEXTO","jailbreak":true}',
+			classifierLatencyMs: 0,
+		};
+	}
 	const override = parsePromptTipoOverride(state.body);
-	const promptTipo = await routeAgentNode(state.record!.prompt, state.jailbreak, override);
+	const result = await classifyPromptTipo(state.record!.prompt, override);
+	return {
+		promptTipo: result.promptTipo,
+		classifierRaw: result.raw,
+		classifierLatencyMs: result.latencyMs,
+	};
+}
+
+/** Resuelve corpus RAG según tipo clasificado. */
+async function resolveCorpusNode(state: typeof ConversationGraphState.State) {
 	const corpusOverride = parseCorpusOverride(state.body);
-	let corpus = corpusOverride?.length ? corpusOverride : await getCorpusForTipo(promptTipo);
-	if (!corpus.length) corpus = corpusForAgent(promptTipo);
-	return { promptTipo, corpus };
+	let corpus = corpusOverride?.length ? corpusOverride : await getCorpusForTipo(state.promptTipo);
+	if (!corpus.length) corpus = corpusForAgent(state.promptTipo);
+	return { corpus };
 }
 
 async function agentNode(state: typeof ConversationGraphState.State) {
@@ -94,17 +129,39 @@ async function agentNode(state: typeof ConversationGraphState.State) {
 		state.jailbreak,
 		state.corpus,
 	);
-	const { answer, ragContext, corpus } = agent;
+	const agentLatencyMs = Date.now() - t0;
 	return {
-		answer,
-		ragContext,
-		corpus,
-		latencyMs: Date.now() - t0,
+		answer: agent.answer,
+		ragContext: agent.ragContext,
+		corpus: agent.corpus,
+		latencyMs: agentLatencyMs,
 		chatProvider: agent.provider ?? "",
 		chatKeyLabel: agent.keyLabel ?? "",
 		chatLeaseId: agent.leaseId ?? "",
 		chatModel: agent.model ?? "",
+		agentFile: agent.agentFile ?? "",
 	};
+}
+
+async function buildLogNode(state: typeof ConversationGraphState.State) {
+	const turnMeta = buildTurnMeta({
+		promptTipo: state.promptTipo,
+		classifierRaw: state.classifierRaw,
+		classifierOverride: Boolean(parsePromptTipoOverride(state.body)),
+		classifierLatencyMs: state.classifierLatencyMs,
+		agentLatencyMs: state.latencyMs,
+		provider: state.chatProvider || undefined,
+		keyLabel: state.chatKeyLabel || undefined,
+		leaseId: state.chatLeaseId || undefined,
+		model: state.chatModel || undefined,
+		corpus: state.corpus,
+		ragContext: state.ragContext,
+		agentFile: state.agentFile || `PROMPT_${state.promptTipo}.md`,
+		jailbreak: state.jailbreak,
+		userPrompt: state.record!.prompt,
+		answer: state.answer,
+	});
+	return { turnMeta };
 }
 
 async function persistNode(state: typeof ConversationGraphState.State) {
@@ -112,11 +169,12 @@ async function persistNode(state: typeof ConversationGraphState.State) {
 		promptTipo: state.promptTipo,
 		corpus: state.corpus,
 		jailbreak: state.jailbreak,
-		latencyMs: state.latencyMs,
+		latencyMs: state.latencyMs + state.classifierLatencyMs,
 		provider: state.chatProvider || undefined,
 		keyLabel: state.chatKeyLabel || undefined,
 		leaseId: state.chatLeaseId || undefined,
 		model: state.chatModel || undefined,
+		meta: state.turnMeta ?? undefined,
 	});
 	return { record };
 }
@@ -124,13 +182,17 @@ async function persistNode(state: typeof ConversationGraphState.State) {
 export function buildConversationGraph() {
 	const g = new StateGraph(ConversationGraphState)
 		.addNode("ensureConversation", ensureNode)
-		.addNode("routeAgent", routeNode)
+		.addNode("classifyMessage", classifyNode)
+		.addNode("resolveCorpus", resolveCorpusNode)
 		.addNode("runAgent", agentNode)
+		.addNode("buildTurnLog", buildLogNode)
 		.addNode("persistTurn", persistNode)
 		.addEdge("__start__", "ensureConversation")
-		.addEdge("ensureConversation", "routeAgent")
-		.addEdge("routeAgent", "runAgent")
-		.addEdge("runAgent", "persistTurn")
+		.addEdge("ensureConversation", "classifyMessage")
+		.addEdge("classifyMessage", "resolveCorpus")
+		.addEdge("resolveCorpus", "runAgent")
+		.addEdge("runAgent", "buildTurnLog")
+		.addEdge("buildTurnLog", "persistTurn")
 		.addEdge("persistTurn", END);
 
 	return g.compile();

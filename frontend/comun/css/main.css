@@ -1,0 +1,26 @@
+:root {
+  --bg: #0f1419;
+  --text: #e7ecf3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100vh;
+}
+
+body {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.fa-solid {
+  width: 1.25rem;
+  text-align: center;
+}

@@ -7,6 +7,7 @@ import {
 } from "../../db/pg-identifiers.js";
 import { sqlCol } from "../../db/pg-quote.js";
 import { interpolatePromptVars } from "../prompts/vars.js";
+import { wrapAgentPrompt } from "../prompts/prompt-common.js";
 import type { PatyPromptTipo } from "../prompts/types.js";
 import { ensurePatyiaSchema } from "./ensureSchema.js";
 
@@ -101,9 +102,7 @@ export async function getAgentSystemPromptFromDb(
 			`Agente no encontrado en PG: ${tipo}. Desde ISA-DOC: npm run lab:patyia:sync-prompts`,
 		);
 	}
-	const merged = base
-		? `${base.trim()}\n\n---\n\n## Agente activo\n\n${agent.instruccion.trim()}`
-		: agent.instruccion.trim();
+	const merged = wrapAgentPrompt(base, agent.instruccion);
 	return interpolatePromptVars(merged, { nombre_usuario: nombreUsuario });
 }
 

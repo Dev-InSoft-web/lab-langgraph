@@ -5,6 +5,7 @@ import {
 	Q_PATY_MENSAJE_CALIFICADO,
 } from "../../db/pg-identifiers.js";
 import { sqlCol } from "../../db/pg-quote.js";
+import type { ConversationTurnMeta } from "../conversation/turnLog.js";
 import type { ConversationRecord, ConversationTurn, RatedMessage } from "../conversation/types.js";
 import type { PatyPromptTipo } from "../prompts/types.js";
 import { ensurePatyiaSchema } from "./ensureSchema.js";
@@ -40,6 +41,7 @@ type TurnRow = {
 	ilease: string | null;
 	provider: string | null;
 	keylabel: string | null;
+	metalog: ConversationTurnMeta | null;
 };
 
 function rowToRecord(row: ConvRow, turnos: ConversationTurn[]): ConversationRecord {
@@ -68,7 +70,8 @@ async function loadTurnos(iconversacion: number): Promise<ConversationTurn[]> {
 		`SELECT ${sqlCol("ts")} AS ts, ${sqlCol("prompttext")} AS prompttext, ${sqlCol("responsetext")} AS responsetext,
             ${sqlCol("prompttipo")} AS prompttipo, ${sqlCol("corpus")} AS corpus, ${sqlCol("bjailbreak")} AS bjailbreak,
             ${sqlCol("latencyms")} AS latencyms, ${sqlCol("iturnindex")} AS iturnindex, ${sqlCol("ilease")} AS ilease,
-            ${sqlCol("provider")} AS provider, ${sqlCol("keylabel")} AS keylabel
+            ${sqlCol("provider")} AS provider, ${sqlCol("keylabel")} AS keylabel,
+            ${sqlCol("metalog")} AS metalog
      FROM ${Q_PATY_CONVERSACION_TURNO} WHERE ${sqlCol("iconversacion")} = $1 ORDER BY ${sqlCol("ts")}`,
 		[iconversacion],
 	);
@@ -85,6 +88,34 @@ async function loadTurnos(iconversacion: number): Promise<ConversationTurn[]> {
 		leaseId: t.ilease ?? undefined,
 		provider: t.provider ?? undefined,
 		keyLabel: t.keylabel ?? undefined,
+		meta: t.metalog ?? undefined,
+	}));
+}
+
+export async function listConversationTurnLogsPg(iconversacion: number): Promise<
+	Array<{
+		turnIndex: number;
+		ts: string;
+		promptText: string;
+		responseText: string;
+		promptTipo: string;
+		meta: ConversationTurnMeta;
+	}>
+> {
+	await ensurePatyiaSchema();
+	const rows = await query<TurnRow>(
+		`SELECT ${sqlCol("ts")} AS ts, ${sqlCol("prompttext")} AS prompttext, ${sqlCol("responsetext")} AS responsetext,
+            ${sqlCol("prompttipo")} AS prompttipo, ${sqlCol("iturnindex")} AS iturnindex, ${sqlCol("metalog")} AS metalog
+     FROM ${Q_PATY_CONVERSACION_TURNO} WHERE ${sqlCol("iconversacion")} = $1 ORDER BY ${sqlCol("iturnindex")}, ${sqlCol("ts")}`,
+		[iconversacion],
+	);
+	return rows.map((t) => ({
+		turnIndex: t.iturnindex ?? 0,
+		ts: t.ts.toISOString(),
+		promptText: t.prompttext,
+		responseText: t.responsetext,
+		promptTipo: t.prompttipo ?? "REQUIERE_CONTEXTO",
+		meta: (t.metalog ?? {}) as ConversationTurnMeta,
 	}));
 }
 
@@ -160,8 +191,8 @@ export async function appendTurnPg(
 	await query(
 		`INSERT INTO ${Q_PATY_CONVERSACION_TURNO} (
        ${sqlCol("iconversacion")}, ${sqlCol("ts")}, ${sqlCol("prompttext")}, ${sqlCol("responsetext")}, ${sqlCol("prompttipo")}, ${sqlCol("corpus")}, ${sqlCol("bjailbreak")}, ${sqlCol("latencyms")},
-       ${sqlCol("iturnindex")}, ${sqlCol("ilease")}, ${sqlCol("provider")}, ${sqlCol("keylabel")}
-     ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)`,
+       ${sqlCol("iturnindex")}, ${sqlCol("ilease")}, ${sqlCol("provider")}, ${sqlCol("keylabel")}, ${sqlCol("metalog")}
+     ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13::jsonb)`,
 		[
 			iconversacion,
 			turn.ts,
@@ -175,8 +206,113 @@ export async function appendTurnPg(
 			turn.leaseId ?? null,
 			turn.provider ?? null,
 			turn.keyLabel ?? null,
+			JSON.stringify(turn.meta ?? {}),
 		],
 	);
+}
+
+export type ConversationListItem = {
+	iconversacion: number;
+	itercero: string;
+	icontacto: string;
+	nombreUsuario: string;
+	titulo: string;
+	hilo: string;
+	prompt: string;
+	qmensajes: number;
+	fhcre: string;
+	fhultact: string;
+};
+
+export async function listConversationsPg(
+	itercero: string,
+	icontacto?: string,
+	limit = 200,
+): Promise<ConversationListItem[]> {
+	await ensurePatyiaSchema();
+	const params: unknown[] = [itercero];
+	let where = `${sqlCol("itercero")} = $1 AND ${sqlCol("itdestado")} <> 2`;
+	if (icontacto?.trim()) {
+		params.push(icontacto.trim());
+		where += ` AND ${sqlCol("icontacto")} = $2`;
+	}
+	params.push(limit);
+	const limIdx = params.length;
+	const rows = await query<ConvRow>(
+		`SELECT ${sqlCol("iconversacion")} AS iconversacion, ${sqlCol("itercero")} AS itercero, ${sqlCol("icontacto")} AS icontacto,
+       ${sqlCol("nombreusuario")} AS nombreusuario, ${sqlCol("titulo")} AS titulo, ${sqlCol("hilo")} AS hilo,
+       ${sqlCol("prompt")} AS prompt, ${sqlCol("qmensajes")} AS qmensajes, ${sqlCol("fhcre")} AS fhcre, ${sqlCol("fhultact")} AS fhultact
+     FROM ${Q_PATY_CONVERSACION}
+     WHERE ${where}
+     ORDER BY ${sqlCol("fhultact")} DESC
+     LIMIT $${limIdx}`,
+		params,
+	);
+	return rows.map((row) => ({
+		iconversacion: Number(row.iconversacion),
+		itercero: row.itercero,
+		icontacto: row.icontacto,
+		nombreUsuario: row.nombreusuario,
+		titulo: row.titulo,
+		hilo: row.hilo,
+		prompt: row.prompt,
+		qmensajes: row.qmensajes,
+		fhcre: row.fhcre.toISOString(),
+		fhultact: row.fhultact.toISOString(),
+	}));
+}
+
+export async function createConversationPg(input: {
+	itercero: string;
+	icontacto: string;
+	nombreUsuario: string;
+	titulo?: string;
+}): Promise<number> {
+	return insertConversationPg({
+		itercero: input.itercero,
+		icontacto: input.icontacto,
+		nombreUsuario: input.nombreUsuario,
+		titulo: input.titulo?.trim() || "Nueva conversación",
+		prompt: "",
+		respuesta: "",
+		hilo: "",
+		modelo: "",
+		itdestado: 0,
+		qtokens: 0,
+		qmensajes: 0,
+		fhcre: new Date().toISOString(),
+		fhultact: new Date().toISOString(),
+		version_ayuda: "lab-langgraph",
+	});
+}
+
+export async function patchConversationPg(
+	id: number,
+	patch: { titulo?: string; itdestado?: number },
+): Promise<boolean> {
+	await ensurePatyiaSchema();
+	const sets: string[] = [];
+	const params: unknown[] = [id];
+	let i = 2;
+	if (patch.titulo !== undefined) {
+		sets.push(`${sqlCol("titulo")} = $${i++}`);
+		params.push(patch.titulo.trim());
+	}
+	if (patch.itdestado !== undefined) {
+		sets.push(`${sqlCol("itdestado")} = $${i++}`);
+		params.push(patch.itdestado);
+	}
+	if (!sets.length) return true;
+	sets.push(`${sqlCol("fhultact")} = NOW()`);
+	const row = await queryOne<{ iconversacion: string }>(
+		`UPDATE ${Q_PATY_CONVERSACION} SET ${sets.join(", ")} WHERE ${sqlCol("iconversacion")} = $1 RETURNING ${sqlCol("iconversacion")} AS iconversacion`,
+		params,
+	);
+	return Boolean(row);
+}
+
+export async function deleteConversationPg(id: number): Promise<boolean> {
+	return patchConversationPg(id, { itdestado: 2 });
 }
 
 export async function appendRatingPg(msg: RatedMessage): Promise<void> {

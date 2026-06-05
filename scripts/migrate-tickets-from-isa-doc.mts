@@ -1,6 +1,6 @@
 /**
  * Migra metadatos de TICKETS[] (ISA-DOC) → bd_lab.lab_entity_row (isa-doc/tickets/ticket).
- * El HTML del cuerpo sigue en records/**/TK-*.ts; en PG solo bodyModule + JSON.
+ * El HTML del cuerpo sigue en records/.../TK-*.ts; en PG solo bodyModule + JSON.
  *
  *   ISA_DOC_ROOT=../ISA-DOC npx tsx scripts/migrate-tickets-from-isa-doc.mts
  */

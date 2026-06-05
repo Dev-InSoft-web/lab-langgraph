@@ -51,3 +51,49 @@ export async function runConversationTurn(body: ConversationPostBody): Promise<{
 		promptTipo: result.promptTipo,
 	};
 }
+
+/** Mismo flujo LangGraph que SSE, respuesta JSON (lab POST /mensaje). */
+export async function runConversationTurnJson(body: ConversationPostBody): Promise<{
+	iconversacion: number;
+	answer: string;
+	promptTipo: string;
+	qmensajes: number;
+	titulo: string;
+}> {
+	const jailbreak = Boolean(body.jailbreak);
+	const id = Number(body.iconversacion);
+	const existing = Number.isFinite(id) && id > 0 ? await loadConversation(id) : null;
+
+	await expireStaleLabState();
+	await syncOrchestratorSlots("chat");
+
+	if (existing?.iconversacion) {
+		const lock = await acquireConversationTurnLock(existing.iconversacion);
+		if (!lock.ok) {
+			await new Promise((r) => setTimeout(r, lock.waitMs));
+			const retry = await acquireConversationTurnLock(existing.iconversacion);
+			if (!retry.ok) {
+				throw new Error(`Conversación ocupada (${retry.reason}); reintenta en ${retry.waitMs}ms`);
+			}
+		}
+		await enforceTurnGap(existing.iconversacion, "chat");
+	}
+
+	let result;
+	try {
+		result = await invokeConversationTurn(body, existing);
+	} finally {
+		if (existing?.iconversacion) {
+			await releaseConversationTurnLock(existing.iconversacion);
+		}
+	}
+
+	const record = result.record!;
+	return {
+		iconversacion: record.iconversacion,
+		answer: result.answer,
+		promptTipo: result.promptTipo,
+		qmensajes: record.qmensajes,
+		titulo: record.titulo,
+	};
+}

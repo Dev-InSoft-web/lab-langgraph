@@ -20,7 +20,7 @@ if (!(await pingPatyDb())) process.exit(1);
 const pool = getPatyPgPool();
 
 const ENTITY_STORES = [
-	["BD_LAB", "LAB_ENTITYROW"],
+	["BD_LAB", "ENTITY_ENTITYROW"],
 	["BD_CLIENTESIS", "CIS_ENTITYROW"],
 ] as const;
 

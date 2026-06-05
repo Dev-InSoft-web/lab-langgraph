@@ -8,6 +8,10 @@ import { sqlCol } from "../../db/pg-quote.js";
 import { logOrchestratorRotation } from "../../orchestrator/rotation-log.js";
 import type { LabCapability } from "../../orchestrator/types.js";
 import { ensurePatyiaSchema } from "./ensureSchema.js";
+import {
+	FN_CONVERSACION_NEXT_TURN_INDEX,
+	FN_ORCHESTRATOR_EXPIRE_STALE_LEASES,
+} from "./pg-functions.js";
 
 export type TurnLockResult =
 	| { ok: true }
@@ -16,7 +20,7 @@ export type TurnLockResult =
 export async function expireStaleLabState(): Promise<number> {
 	await ensurePatyiaSchema();
 	const res = await getPgPool().query<{ expire_stale_orchestrator_leases: number }>(
-		'SELECT "BD_PATY"."PATY_EXPIRESTALORCHESTRATORLEASES"() AS expire_stale_orchestrator_leases',
+		`SELECT ${FN_ORCHESTRATOR_EXPIRE_STALE_LEASES}() AS expire_stale_orchestrator_leases`,
 	);
 	return Number(res.rows[0]?.expire_stale_orchestrator_leases ?? 0);
 }
@@ -24,7 +28,7 @@ export async function expireStaleLabState(): Promise<number> {
 export async function nextTurnIndex(iconversacion: number): Promise<number> {
 	await ensurePatyiaSchema();
 	const res = await getPgPool().query<{ next_conversacion_turn_index: number }>(
-		'SELECT "BD_PATY"."PATY_NEXTTURNINDEX"($1) AS next_conversacion_turn_index',
+		`SELECT ${FN_CONVERSACION_NEXT_TURN_INDEX}($1) AS next_conversacion_turn_index`,
 		[iconversacion],
 	);
 	return Number(res.rows[0]?.next_conversacion_turn_index ?? 1);

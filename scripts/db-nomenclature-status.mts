@@ -56,10 +56,10 @@ console.log(`Tablas BD_*: ${nuevo.rows[0]?.n ?? 0}`);
 
 const er = await pool.query(
 	`SELECT column_name FROM information_schema.columns
-	 WHERE table_schema = 'BD_LAB' AND table_name = 'LAB_ENTITYROW' ORDER BY ordinal_position`,
+	 WHERE table_schema = 'BD_LAB' AND table_name = 'ENTITY_ENTITYROW' ORDER BY ordinal_position`,
 );
 if (er.rows.length) {
-	console.log("\nBD_LAB.LAB_ENTITYROW:", er.rows.map((r: { column_name: string }) => r.column_name).join(", "));
+	console.log("\nBD_LAB.ENTITY_ENTITYROW:", er.rows.map((r: { column_name: string }) => r.column_name).join(", "));
 } else {
 	const old = await pool.query(
 		`SELECT column_name FROM information_schema.columns
@@ -70,7 +70,7 @@ if (er.rows.length) {
 		console.log("\n→ Ejecutar: npm run db:migrate-nomenclature");
 		process.exit(1);
 	}
-	console.log("\n[WARN] No hay LAB_ENTITYROW ni lab_entity_row");
+	console.log("\n[WARN] No hay ENTITY_ENTITYROW ni lab_entity_row");
 	process.exit(1);
 }
 

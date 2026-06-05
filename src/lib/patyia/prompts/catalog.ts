@@ -5,6 +5,8 @@ import { getAgentSystemPromptFromDb, listAgentTipos } from "../db/promptsRepo.js
 import type { PatyPromptTipo, PromptCatalogFile } from "./types.js";
 import { PATY_PROMPT_TIPOS } from "./types.js";
 import { interpolatePromptVars } from "./vars.js";
+import { wrapAgentPrompt } from "./prompt-common.js";
+import { access } from "node:fs/promises";
 
 export { interpolatePromptVars };
 
@@ -17,11 +19,19 @@ export async function loadBundledPromptFiles(): Promise<{
 	const baseMarkdown = await readFile(join(catalogRoot, "90-general.md"), "utf8");
 	const agents = {} as Record<PatyPromptTipo, { markdown: string; filename: string }>;
 	for (const tipo of PATY_PROMPT_TIPOS) {
-		const markdown = await readFile(
-			join(catalogRoot, "Ultra", `PROMPT_${tipo}.md`),
-			"utf8",
-		);
-		agents[tipo] = { markdown, filename: `PROMPT_${tipo}.md` };
+		const catalogPath = join(catalogRoot, `PROMPT_${tipo}.md`);
+		const ultraPath = join(catalogRoot, "Ultra", `PROMPT_${tipo}.md`);
+		let markdown: string;
+		let filename: string;
+		try {
+			await access(catalogPath);
+			markdown = await readFile(catalogPath, "utf8");
+			filename = `PROMPT_${tipo}.md`;
+		} catch {
+			markdown = await readFile(ultraPath, "utf8");
+			filename = `Ultra/PROMPT_${tipo}.md`;
+		}
+		agents[tipo] = { markdown, filename };
 	}
 	return { baseMarkdown, agents };
 }
@@ -57,10 +67,9 @@ export async function getPromptCatalog(_forceRefresh = false): Promise<PromptCat
 			tipo,
 			filename: a.filename,
 			markdown: a.markdown,
-			systemPrompt: interpolatePromptVars(
-				`${baseMarkdown}\n\n---\n\n## Agente activo\n\n${a.markdown}`,
-				{ nombre_usuario: "{{nombre_usuario}}" },
-			),
+			systemPrompt: interpolatePromptVars(wrapAgentPrompt(baseMarkdown, a.markdown), {
+				nombre_usuario: "{{nombre_usuario}}",
+			}),
 		};
 	}
 	return {

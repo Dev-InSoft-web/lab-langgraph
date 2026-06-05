@@ -3,11 +3,11 @@ import { ChatPromptTemplate } from "@langchain/core/prompts";
 import { createChatLlm } from "../../llm/chat-llm.js";
 import { CHAT_MODEL } from "../../core/config.js";
 import { runPatyAgent } from "../agents/run.js";
-import { routePromptTipo } from "../prompts/router.js";
 import { isPatyPromptTipo, type PatyPromptTipo } from "../prompts/types.js";
 import { resolveSimulatedSession, type SimulatedPatySession } from "../session/simulate.js";
 import { insertConversationPg } from "../db/conversationsRepo.js";
 import { saveConversation, saveConversationTurn } from "./store.js";
+import type { ConversationTurnMeta } from "./turnLog.js";
 import type { ConversationPostBody, ConversationRecord } from "./types.js";
 
 export type TurnGraphInput = {
@@ -75,15 +75,6 @@ export async function ensureConversationNode(input: TurnGraphInput): Promise<{
 	return { record, created: true };
 }
 
-export async function routeAgentNode(
-	prompt: string,
-	jailbreak: boolean,
-	override?: PatyPromptTipo,
-): Promise<PatyPromptTipo> {
-	if (jailbreak) return "REQUIERE_CONTEXTO";
-	return routePromptTipo(prompt, override);
-}
-
 export async function runAgentNode(
 	record: ConversationRecord,
 	promptTipo: PatyPromptTipo,
@@ -97,6 +88,7 @@ export async function runAgentNode(
 	keyLabel?: string;
 	leaseId?: string;
 	model?: string;
+	agentFile?: string;
 }> {
 	if (jailbreak) {
 		const libre = ChatPromptTemplate.fromMessages([
@@ -113,12 +105,13 @@ export async function runAgentNode(
 		return { answer, ragContext: "", corpus: [] };
 	}
 
-	return runPatyAgent({
+	const result = await runPatyAgent({
 		tipo: promptTipo,
 		userPrompt: record.prompt,
 		nombreUsuario: record.nombreUsuario,
 		corpusOverride,
 	});
+	return { ...result, agentFile: `PROMPT_${promptTipo}.md` };
 }
 
 export async function persistTurnNode(
@@ -133,10 +126,19 @@ export async function persistTurnNode(
 		keyLabel?: string;
 		leaseId?: string;
 		model?: string;
+		meta?: ConversationTurnMeta;
 	},
 ): Promise<ConversationRecord> {
 	record.respuesta = responseText;
 	record.qmensajes += 1;
+	if (meta.meta) {
+		const ti =
+			(meta.meta.classification.tokensIn ?? 0) +
+			(meta.meta.classification.tokensOut ?? 0) +
+			(meta.meta.agent.tokensIn ?? 0) +
+			(meta.meta.agent.tokensOut ?? 0);
+		record.qtokens += ti;
+	}
 	const turn = {
 		ts: new Date().toISOString(),
 		promptText: record.prompt,
@@ -149,6 +151,7 @@ export async function persistTurnNode(
 		provider: meta.provider,
 		keyLabel: meta.keyLabel,
 		leaseId: meta.leaseId,
+		meta: meta.meta,
 	};
 	record.turnos.push(turn);
 	if (meta.model) record.modelo = meta.model.slice(0, 40);

@@ -46,17 +46,17 @@ if (legacyTables.length) {
 
 const sample = await pool.query<{ column_name: string }>(
 	`SELECT column_name FROM information_schema.columns
-	 WHERE table_schema = 'BD_LAB' AND table_name = 'LAB_ENTITYROW'
+	 WHERE table_schema = 'BD_LAB' AND table_name = 'ENTITY_ENTITYROW'
 	 ORDER BY ordinal_position`,
 );
 if (sample.rows.length) {
 	const cols = sample.rows.map((r) => r.column_name);
 	const hasUnderscore = cols.some((c) => c.includes("_"));
-	console.log("\n=== BD_LAB.LAB_ENTITYROW ===");
+	console.log("\n=== BD_LAB.ENTITY_ENTITYROW ===");
 	console.log("  columnas:", cols.join(", "));
 	console.log(hasUnderscore ? "  [WARN] aún hay columnas con _" : "  [OK] sin _ en columnas");
 } else {
-	console.log("\n[WARN] No existe BD_LAB.LAB_ENTITYROW — ejecutar npm run db:migrate-nomenclature");
+	console.log("\n[WARN] No existe BD_LAB.ENTITY_ENTITYROW — ejecutar npm run db:migrate-entity-domain");
 }
 
 if (legacyTables.length > 0) {

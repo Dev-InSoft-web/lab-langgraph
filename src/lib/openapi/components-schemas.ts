@@ -31,18 +31,35 @@ export const OPENAPI_COMPONENT_SCHEMAS: Record<string, Record<string, unknown>> 
 	},
 	ConversacionRequest: {
 		type: "object",
+		required: ["prompt"],
 		properties: {
-			iconversacion: { type: "integer", example: 1 },
-			mensaje: { type: "string", example: "Hola" },
-			agente: { type: "string", example: "paty" },
+			iconversacion: { type: "integer", description: "Omitir = nueva conversación" },
+			prompt: { type: "string", example: "¿Cómo creo una factura electrónica?" },
+			itercero: { type: "string", example: "lab-tercero" },
+			icontacto: { type: "string", example: "lab-contacto" },
+			nombre_usuario: { type: "string", example: "Usuario lab" },
+			prompt_tipo: { type: "string", example: "PASO_A_PASO" },
+			corpus: { oneOf: [{ type: "string" }, { type: "array", items: { type: "string" } }] },
 		},
 	},
 	MensajeRequest: {
 		type: "object",
+		required: ["iconversacion"],
 		properties: {
 			iconversacion: { type: "integer", example: 1 },
+			mensaje: { type: "string", description: "Mensaje usuario → LangGraph (JSON)" },
+			prompt: { type: "string", description: "Alias de mensaje" },
 			calificacion: { type: "integer", minimum: 1, maximum: 5, example: 5 },
 			comentario: { type: "string", example: "" },
+		},
+	},
+	CreateConversationRequest: {
+		type: "object",
+		properties: {
+			titulo: { type: "string", example: "Nueva conversación" },
+			itercero: { type: "string", example: "lab-langgraph" },
+			icontacto: { type: "string", example: "jagudeloe" },
+			nombre_usuario: { type: "string", example: "Usuario lab" },
 		},
 	},
 	AgentTaskRequest: {

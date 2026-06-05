@@ -1,6 +1,5 @@
 import { HumanMessage, SystemMessage } from "@langchain/core/messages";
 import { StringOutputParser } from "@langchain/core/output_parsers";
-import { ChatPromptTemplate } from "@langchain/core/prompts";
 import { ChatGroq } from "@langchain/groq";
 import { ChatOpenAI } from "@langchain/openai";
 import { CHAT_MODEL } from "../core/config.js";
@@ -62,13 +61,9 @@ async function invokeChatOnProvider(
 	if (provider === "groq") {
 		const model = CHAT_MODEL;
 		const llm = new ChatGroq({ apiKey, model, temperature: opts.temperature });
-		const text = await ChatPromptTemplate.fromMessages([
-			["system", opts.systemPrompt],
-			["human", "{input}"],
-		])
-			.pipe(llm)
+		const text = await llm
 			.pipe(new StringOutputParser())
-			.invoke({ input: opts.human });
+			.invoke([new SystemMessage(opts.systemPrompt), new HumanMessage(opts.human)]);
 		return { text, model };
 	}
 
@@ -109,12 +104,8 @@ async function invokeChatOnProvider(
 		temperature: opts.temperature,
 		configuration: { baseURL: openAiBase },
 	});
-	const text = await ChatPromptTemplate.fromMessages([
-		["system", opts.systemPrompt],
-		["human", "{input}"],
-	])
-		.pipe(llm)
+	const text = await llm
 		.pipe(new StringOutputParser())
-		.invoke({ input: opts.human });
+		.invoke([new SystemMessage(opts.systemPrompt), new HumanMessage(opts.human)]);
 	return { text, model };
 }

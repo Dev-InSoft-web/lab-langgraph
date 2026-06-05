@@ -15,7 +15,7 @@ export async function ensurePatySchema(): Promise<string[]> {
 	if (patyApplied) return [];
 	const files = await applySqlFiles(getPatyPgPool(), schemaDir("ops"));
 	await getPatyPgPool()
-		.query('SELECT "BD_PATY"."PATY_EXPIRESTALORCHESTRATORLEASES"()')
+		.query('SELECT "BD_PATY"."ORCHESTRATOR_EXPIRESTALORCHESTRATORLEASES"()')
 		.catch(() => {});
 	patyApplied = true;
 	return files;

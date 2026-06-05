@@ -2,8 +2,8 @@ import {
 	COL_ER,
 	PG_SCHEMA_CLIENTESIS,
 	PG_SCHEMA_LAB,
-	T_CIS_ENTITYROW,
-	T_LAB_ENTITYROW,
+	T_CLIENTESIS_ENTITYROW,
+	T_ENTITY_ENTITYROW,
 } from "../db/pg-identifiers.js";
 import { pgQ, qualifiedQ } from "../db/pg-quote.js";
 import { getEntityStoreSchema } from "../db/entity-store-table.js";
@@ -36,12 +36,12 @@ CREATE INDEX IF NOT EXISTS ix_entity_row_tags ON ${q} USING gin (${C.TAGS});
 `;
 }
 
-export const LAB_ENTITY_STORE_DDL = entityStoreDdl(PG_SCHEMA_LAB, T_LAB_ENTITYROW);
-export const CLIENTESIS_ENTITY_STORE_DDL = entityStoreDdl(PG_SCHEMA_CLIENTESIS, T_CIS_ENTITYROW);
+export const LAB_ENTITY_STORE_DDL = entityStoreDdl(PG_SCHEMA_LAB, T_ENTITY_ENTITYROW);
+export const CLIENTESIS_ENTITY_STORE_DDL = entityStoreDdl(PG_SCHEMA_CLIENTESIS, T_CLIENTESIS_ENTITYROW);
 
 export function ddlForEntityStoreProject(project: string): string {
 	return entityStoreDdl(
 		getEntityStoreSchema(project),
-		getEntityStoreSchema(project) === PG_SCHEMA_CLIENTESIS ? T_CIS_ENTITYROW : T_LAB_ENTITYROW,
+		getEntityStoreSchema(project) === PG_SCHEMA_CLIENTESIS ? T_CLIENTESIS_ENTITYROW : T_ENTITY_ENTITYROW,
 	);
 }

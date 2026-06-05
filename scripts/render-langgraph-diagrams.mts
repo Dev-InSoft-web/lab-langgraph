@@ -110,4 +110,4 @@ for (const OUT_DIR of OUT_DIRS) {
 	await writeFile(join(OUT_DIR, "index.html"), indexHtml, "utf8");
 }
 
-console.log("\nDiagramas en docs/diagrams/ y frontend/diagrams/ (abre frontend/diagrams/index.html)");
+console.log("\nDiagramas en docs/diagrams/ y frontend/diagrams/ (SPA: frontend/?s= con page diagramas)");

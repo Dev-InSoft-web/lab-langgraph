@@ -68,14 +68,18 @@ export function getPatyMssqlConfig(): MssqlConnectionConfig | null {
 	return { host, port, user, pass, database };
 }
 
-/** BD RAG dedicada (pgvector, schema `rag`). */
-export function getRagDatabaseUrl(): string {
+/** BD RAG dedicada (pgvector). Opcional: FitDocs/vectores sin instancia RAG separada. */
+export function getRagDatabaseUrlOptional(): string | null {
 	preloadIsaDocSecrets();
 	const url = env("RAG_DATABASE_URL");
+	return url || null;
+}
+
+/** BD RAG dedicada (pgvector). Lanza solo si un endpoint RAG lo requiere. */
+export function getRagDatabaseUrl(): string {
+	const url = getRagDatabaseUrlOptional();
 	if (!url) {
-		throw new Error(
-			"RAG_DATABASE_URL no configurada (Render rag_5hen).",
-		);
+		throw new Error("RAG_DATABASE_URL no configurada");
 	}
 	return url;
 }

@@ -181,6 +181,50 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 					responses: { "200": ok, "404": err },
 				},
 			}),
+			"/conversaciones": op({
+				get: {
+					summary: "Listar conversaciones lab",
+					tags: ["PatyIA"],
+					parameters: [
+						{ name: "itercero", in: "query", schema: { type: "string", default: "lab-langgraph" } },
+						{ name: "icontacto", in: "query", schema: { type: "string", default: "default" } },
+					],
+					responses: { "200": ok },
+				},
+				post: {
+					summary: "Crear conversación vacía",
+					tags: ["PatyIA"],
+					requestBody: body(jsonBodyRef("CreateConversationRequest")),
+					responses: { "201": ok },
+				},
+			}),
+			"/conversacion/{iconversacion}": op({
+				get: {
+					summary: "Detalle conversación + turnos",
+					tags: ["PatyIA"],
+					parameters: [
+						{ name: "iconversacion", in: "path", required: true, schema: { type: "integer" } },
+					],
+					responses: { "200": ok, "404": err },
+				},
+				patch: {
+					summary: "Actualizar título o estado",
+					tags: ["PatyIA"],
+					parameters: [
+						{ name: "iconversacion", in: "path", required: true, schema: { type: "integer" } },
+					],
+					requestBody: body(jsonBodyRef("JsonBody")),
+					responses: { "200": ok, "404": err },
+				},
+				delete: {
+					summary: "Eliminar conversación (soft)",
+					tags: ["PatyIA"],
+					parameters: [
+						{ name: "iconversacion", in: "path", required: true, schema: { type: "integer" } },
+					],
+					responses: { "200": ok, "404": err },
+				},
+			}),
 			"/conversacion/jailbreak": op({
 				post: {
 					summary: "Conversación jailbreak (SSE)",
@@ -191,7 +235,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 			}),
 			"/mensaje": op({
 				post: {
-					summary: "Calificar conversación",
+					summary: "Enviar mensaje (LangGraph JSON) o calificar",
 					tags: ["PatyIA"],
 					requestBody: body(jsonBodyRef("MensajeRequest")),
 					responses: { "200": ok },

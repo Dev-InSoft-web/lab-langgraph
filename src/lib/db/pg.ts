@@ -2,7 +2,7 @@ import { Pool, type PoolConfig, type QueryResultRow } from "pg";
 import {
 	getClientesisDatabaseUrl,
 	getPatyDatabaseUrl,
-	getRagDatabaseUrl,
+	getRagDatabaseUrlOptional,
 } from "../core/config.js";
 import { DATABASE_SSL_ENABLED } from "../core/lab-constants.js";
 
@@ -36,10 +36,12 @@ export function getClientesisPgPool(): Pool {
 	return clientesisPool;
 }
 
-/** BD RAG dedicada: pgvector (`rag`). */
+/** BD RAG dedicada: pgvector (`BD_RAG`). Requiere `RAG_DATABASE_URL`. */
 export function getRagPgPool(): Pool {
 	if (!ragPool) {
-		ragPool = new Pool(poolConfig(getRagDatabaseUrl()));
+		const url = getRagDatabaseUrlOptional();
+		if (!url) throw new Error("RAG_DATABASE_URL no configurada");
+		ragPool = new Pool(poolConfig(url));
 	}
 	return ragPool;
 }

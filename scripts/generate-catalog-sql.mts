@@ -21,14 +21,14 @@ for (const e of ENTITY_DEFINITIONS) {
 	const sf = JSON.stringify(e.search_fields ?? []).replace(/'/g, "''");
 	const desc = e.description ? `'${e.description.replace(/'/g, "''")}'` : "NULL";
 	lines.push(
-		`INSERT INTO bd_lab.lab_entity_definition (projectslug, sectionslug, entityslug, name, description, primarykeys, columns, details, searchfields, sortkey)`,
+		`INSERT INTO "BD_LAB"."ENTITY_ENTITYDEFINITION" ("PROJECTSLUG", "SECTIONSLUG", "ENTITYSLUG", "NAME", "DESCRIPTION", "PRIMARYKEYS", "COLUMNS", "DETAILS", "SEARCHFIELDS", "SORTKEY")`,
 		`VALUES ('${e.project_slug}', '${e.section_slug}', '${e.entity_slug}', '${e.name.replace(/'/g, "''")}', ${desc},`,
 		`  '${pk}'::jsonb, '${cols}'::jsonb, '${det}'::jsonb, '${sf}'::jsonb, ${e.sort_key})`,
-		`ON CONFLICT (projectslug, sectionslug, entityslug) DO UPDATE SET`,
-		`  name = EXCLUDED.name, description = EXCLUDED.description,`,
-		`  primarykeys = EXCLUDED.primarykeys, columns = EXCLUDED.columns,`,
-		`  details = EXCLUDED.details, searchfields = EXCLUDED.searchfields,`,
-		`  sortkey = EXCLUDED.sortkey, fhultact = now();`,
+		`ON CONFLICT ("PROJECTSLUG", "SECTIONSLUG", "ENTITYSLUG") DO UPDATE SET`,
+		`  "NAME" = EXCLUDED."NAME", "DESCRIPTION" = EXCLUDED."DESCRIPTION",`,
+		`  "PRIMARYKEYS" = EXCLUDED."PRIMARYKEYS", "COLUMNS" = EXCLUDED."COLUMNS",`,
+		`  "DETAILS" = EXCLUDED."DETAILS", "SEARCHFIELDS" = EXCLUDED."SEARCHFIELDS",`,
+		`  "SORTKEY" = EXCLUDED."SORTKEY", "FHULTACT" = now();`,
 		"",
 	);
 }
