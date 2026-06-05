@@ -1,8 +1,13 @@
 /** OpenAPI 3.0 — lab-langgraph Azure Functions (/api). */
 
+import { jsonBodyRef, OPENAPI_COMPONENT_SCHEMAS } from "./components-schemas.js";
+
 export type OpenApiDocument = Record<string, unknown>;
 
 const json = { type: "object", additionalProperties: true } as const;
+const body = (schema: ReturnType<typeof jsonBodyRef> | typeof json) => ({
+	content: { "application/json": { schema } },
+});
 const ok = { description: "OK", content: { "application/json": { schema: json } } };
 const err = { description: "Error", content: { "application/json": { schema: json } } };
 
@@ -46,9 +51,10 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 			{ name: "ImgBB", description: "Assets ImgBB" },
 			{ name: "Config", description: "Conexiones configuradas" },
 			{ name: "Docs", description: "OpenAPI / Swagger UI" },
-			{ name: "Auth", description: "JWT lab (30 días)" },
+			{ name: "Auth", description: "JWT lab (30 días). Contraseña con César en Swagger." },
 		],
 		components: {
+			schemas: OPENAPI_COMPONENT_SCHEMAS,
 			securitySchemes: {
 				bearerAuth: {
 					type: "http",
@@ -65,20 +71,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 					summary: "Obtener JWT (30 días)",
 					tags: ["Auth"],
 					security: [],
-					requestBody: {
-						content: {
-							"application/json": {
-								schema: {
-									type: "object",
-									required: ["username", "password"],
-									properties: {
-										username: { type: "string", example: "JAGUDELOE" },
-										password: { type: "string", format: "password" },
-									},
-								},
-							},
-						},
-					},
+					requestBody: body(jsonBodyRef("AuthTokenRequest")),
 					responses: { "200": ok, "401": err },
 				},
 			}),
@@ -93,22 +86,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Pregunta RAG",
 					tags: ["RAG"],
-					requestBody: {
-						content: {
-							"application/json": {
-								schema: {
-									type: "object",
-									required: ["question"],
-									properties: {
-										question: { type: "string" },
-										k: { type: "integer", default: 4 },
-										corpus: { oneOf: [{ type: "string" }, { type: "array", items: { type: "string" } }] },
-										tipo: { oneOf: [{ type: "string" }, { type: "array", items: { type: "string" } }] },
-									},
-								},
-							},
-						},
-					},
+					requestBody: body(jsonBodyRef("AskRequest")),
 					responses: { "200": ok, "400": err, "500": err },
 				},
 			}),
@@ -144,16 +122,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 					summary: "Indexar URLs web",
 					tags: ["RAG"],
 					parameters: [{ name: "replace", in: "query", schema: { type: "boolean", default: true } }],
-					requestBody: {
-						content: {
-							"application/json": {
-								schema: {
-									type: "object",
-									properties: { urls: { type: "array", items: { type: "string" } } },
-								},
-							},
-						},
-					},
+					requestBody: body(jsonBodyRef("IndexWebRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -161,7 +130,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Proofread transcripción YouTube",
 					tags: ["RAG"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("YoutubeWhisperRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -169,7 +138,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Puntuación español YouTube",
 					tags: ["RAG"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("YoutubeWhisperRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -177,7 +146,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Transcribir video YouTube (Whisper)",
 					tags: ["RAG"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("YoutubeWhisperRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -197,7 +166,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Turno conversación (SSE)",
 					tags: ["PatyIA"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("ConversacionRequest")),
 					responses: {
 						"200": { description: "text/event-stream", content: { "text/event-stream": { schema: { type: "string" } } } },
 					},
@@ -216,7 +185,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Conversación jailbreak (SSE)",
 					tags: ["PatyIA"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("ConversacionRequest")),
 					responses: { "200": { description: "text/event-stream" } },
 				},
 			}),
@@ -224,7 +193,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Calificar conversación",
 					tags: ["PatyIA"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("MensajeRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -254,12 +223,30 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 			"/entity/seed": op({ post: { summary: "Seed entity store", tags: ["Entity"], responses: { "200": ok } } }),
 			"/entity/{project}/{page}/{entity}": op({
 				get: { summary: "CRUD — GET (lista / sin IENTITYID)", tags: ["Entity"], parameters: pathEntityParams(false), responses: { "200": ok } },
-				post: { summary: "CRUD — POST", tags: ["Entity"], parameters: pathEntityParams(false), requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
+				post: {
+					summary: "CRUD — POST",
+					tags: ["Entity"],
+					parameters: pathEntityParams(false),
+					requestBody: body(jsonBodyRef("EntityBody")),
+					responses: { "200": ok },
+				},
 			}),
 			"/entity/{project}/{page}/{entity}/{ientityid}": op({
 				get: { summary: "CRUD — GET por IENTITYID", tags: ["Entity"], parameters: pathEntityParams(true), responses: { "200": ok } },
-				put: { summary: "CRUD — PUT", tags: ["Entity"], parameters: pathEntityParams(true), requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
-				patch: { summary: "CRUD — PATCH", tags: ["Entity"], parameters: pathEntityParams(true), requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
+				put: {
+					summary: "CRUD — PUT",
+					tags: ["Entity"],
+					parameters: pathEntityParams(true),
+					requestBody: body(jsonBodyRef("EntityBody")),
+					responses: { "200": ok },
+				},
+				patch: {
+					summary: "CRUD — PATCH",
+					tags: ["Entity"],
+					parameters: pathEntityParams(true),
+					requestBody: body(jsonBodyRef("EntityBody")),
+					responses: { "200": ok },
+				},
 				delete: { summary: "CRUD — DELETE", tags: ["Entity"], parameters: pathEntityParams(true), responses: { "200": ok } },
 			}),
 			"/agent/connections": op({ get: { summary: "Conexiones agente", tags: ["Agent"], responses: { "200": ok } } }),
@@ -299,7 +286,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Tarea agente (LLM)",
 					tags: ["Agent"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("AgentTaskRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -307,7 +294,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Ejecutar entrada catálogo",
 					tags: ["Agent"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("AgentTaskRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -317,7 +304,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Obtener lease",
 					tags: ["Orchestrator"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("OrchestratorLeaseRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -325,7 +312,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Liberar lease",
 					tags: ["Orchestrator"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("OrchestratorLeaseRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -334,7 +321,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Whisper transcribe",
 					tags: ["Tools"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("YoutubeWhisperRequest")),
 					responses: { "200": ok },
 				},
 			}),
@@ -342,7 +329,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 				post: {
 					summary: "Proofread tools",
 					tags: ["Tools"],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("JsonBody")),
 					responses: { "200": ok },
 				},
 			}),
@@ -360,29 +347,46 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 					summary: "Notificar hub SignalR",
 					tags: ["SignalR"],
 					parameters: [{ name: "x-lab-notify-token", in: "header", schema: { type: "string" } }],
-					requestBody: { content: { "application/json": { schema: json } } },
+					requestBody: body(jsonBodyRef("SignalRNotifyRequest")),
 					responses: { "202": ok },
 				},
 			}),
 			"/persistence": op({ get: { summary: "Inventario persistence", tags: ["Persistence"], responses: { "200": ok } } }),
 			"/persistence/{path}": op({
 				get: { summary: "Leer JSON store", tags: ["Persistence"], parameters: [{ name: "path", in: "path", required: true, schema: { type: "string" } }], responses: { "200": ok } },
-				put: { summary: "Escribir JSON store", tags: ["Persistence"], parameters: [{ name: "path", in: "path", required: true, schema: { type: "string" } }], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
-				post: { summary: "Escribir JSON store (POST)", tags: ["Persistence"], parameters: [{ name: "path", in: "path", required: true, schema: { type: "string" } }], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
+				put: {
+					summary: "Escribir JSON store",
+					tags: ["Persistence"],
+					parameters: [{ name: "path", in: "path", required: true, schema: { type: "string" } }],
+					requestBody: body(jsonBodyRef("JsonBody")),
+					responses: { "200": ok },
+				},
+				post: {
+					summary: "Escribir JSON store (POST)",
+					tags: ["Persistence"],
+					parameters: [{ name: "path", in: "path", required: true, schema: { type: "string" } }],
+					requestBody: body(jsonBodyRef("JsonBody")),
+					responses: { "200": ok },
+				},
 			}),
 			"/revisado": op({
 				get: { summary: "Mapa revisado", tags: ["Persistence"], responses: { "200": ok } },
-				post: { summary: "Actualizar revisado", tags: ["Persistence"], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
+				post: {
+					summary: "Actualizar revisado",
+					tags: ["Persistence"],
+					requestBody: body(jsonBodyRef("RevisadoRequest")),
+					responses: { "200": ok },
+				},
 			}),
 			"/patyia/cache/conversaciones": op({
 				get: { summary: "Cache conversaciones", tags: ["Persistence"], responses: { "200": ok } },
-				put: { summary: "Cache conversaciones PUT", tags: ["Persistence"], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
-				post: { summary: "Cache conversaciones POST", tags: ["Persistence"], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
+				put: { summary: "Cache conversaciones PUT", tags: ["Persistence"], requestBody: body(jsonBodyRef("JsonBody")), responses: { "200": ok } },
+				post: { summary: "Cache conversaciones POST", tags: ["Persistence"], requestBody: body(jsonBodyRef("JsonBody")), responses: { "200": ok } },
 			}),
 			"/patyia/cache/identidades": op({
 				get: { summary: "Cache identidades", tags: ["Persistence"], responses: { "200": ok } },
-				put: { summary: "Cache identidades PUT", tags: ["Persistence"], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
-				post: { summary: "Cache identidades POST", tags: ["Persistence"], requestBody: { content: { "application/json": { schema: json } } }, responses: { "200": ok } },
+				put: { summary: "Cache identidades PUT", tags: ["Persistence"], requestBody: body(jsonBodyRef("JsonBody")), responses: { "200": ok } },
+				post: { summary: "Cache identidades POST", tags: ["Persistence"], requestBody: body(jsonBodyRef("JsonBody")), responses: { "200": ok } },
 			}),
 			"/imgbb/assets": op({ get: { summary: "Listar assets ImgBB", tags: ["ImgBB"], responses: { "200": ok } } }),
 			"/imgbb/assets/{filename}": op({

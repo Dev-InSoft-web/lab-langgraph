@@ -6,6 +6,7 @@ import {
 	signLabJwt,
 	verifyLabJwt,
 } from "../lib/auth/lab-jwt.js";
+import { unwrapTransportPassword } from "../lib/auth/caesar-transport.js";
 import { verifyPassword } from "../lib/auth/password.js";
 import { findLabUser } from "../lib/auth/users.js";
 
@@ -25,7 +26,7 @@ async function tokenHandler(request: HttpRequest, _context: InvocationContext): 
 	}
 
 	const username = String(body.username ?? "").trim();
-	const password = String(body.password ?? "");
+	const password = unwrapTransportPassword(String(body.password ?? ""));
 	if (!username || !password) {
 		return jsonResponse({ ok: false, error: "username y password requeridos" }, 400, corsHeaders(origin));
 	}
