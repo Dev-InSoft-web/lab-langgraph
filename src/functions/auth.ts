@@ -30,7 +30,23 @@ async function tokenHandler(request: HttpRequest, _context: InvocationContext): 
 		return jsonResponse({ ok: false, error: "username y password requeridos" }, 400, corsHeaders(origin));
 	}
 
-	const user = await findLabUser(username);
+	let user;
+	try {
+		user = await findLabUser(username);
+	} catch (err) {
+		const message = err instanceof Error ? err.message : String(err);
+		_context.error("auth/token DB", err);
+		return jsonResponse(
+			{
+				ok: false,
+				error: "Auth no disponible (base de datos)",
+				hint: "Configura PATY_DATABASE_URL o DATABASE_URL en Azure App Settings",
+				detail: message,
+			},
+			503,
+			corsHeaders(origin),
+		);
+	}
 	if (!user?.active) {
 		return jsonResponse({ ok: false, error: "Credenciales inválidas" }, 401, corsHeaders(origin));
 	}

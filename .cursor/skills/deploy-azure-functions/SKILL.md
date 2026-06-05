@@ -1,174 +1,126 @@
 ---
 name: deploy-azure-functions
 description: >-
-  Despliega lab-langgraph a Azure Function App (rag-lab Flex Consumption o plan clásico).
-  Usar en push a main, fallos de GitHub Actions, 502/503 SCM, secretos publish profile,
-  app settings en Azure, verificación post-deploy e ISA-DOC PUBLIC_LAB_LANGGRAPH_URL.
+  Despliega lab-langgraph a Azure Function App rag-lab (Flex Consumption).
+  Usar en CI/CD, 502/503 SCM, secretos publish profile, app settings Azure,
+  auth/token colgado, Swagger y verificación post-deploy.
 ---
 
-# Azure Functions — deploy lab-langgraph
+# Azure Functions — deploy lab-langgraph (rag-lab)
 
-Skill operativa basada en el despliegue real a **`rag-lab`** (`rg-lab-langgraph`, Flex Consumption, Canada Central). Evita repetir errores de la primera publicación (docs desactualizados, Kudu 503, perfiles viejos, health check prematuro).
+Skill validada con deploy exitoso en [Actions run #20](https://github.com/Dev-InSoft-web/lab-langgraph/actions/runs/26983461510) (`d4efd71`, ~3 min).
 
-## Fuente de verdad (no improvisar nombres)
+## Fuente de verdad
 
-| Concepto | Valor en producción (2026) | Obsoleto en docs viejos |
-| --- | --- | --- |
-| Function App | **`rag-lab`** | `func-insoft-lablanggraph` |
-| Resource group | **`rg-lab-langgraph`** | `rg-insoft-lab-langgraph` |
-| Repo GitHub | `Dev-InSoft-web/lab-langgraph` | — |
-| URL base | `https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net` | hostnames de otra región/app |
-| Plan | **Flex Consumption** (`sku.name` ≈ `flexconsumption`) | Consumption Y1 clásico |
+| Concepto | Valor producción |
+| --- | --- |
+| Function App | **`rag-lab`** |
+| Resource group | **`rg-lab-langgraph`** |
+| Repo | `Dev-InSoft-web/lab-langgraph` |
+| URL | `https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net` |
+| Plan | **Flex Consumption** |
 
-Antes de tocar CI o secretos, confirmar app real:
+**No usar** `func-lab-langgraph` en secretos ni publish profile (SCM 503).
 
-```powershell
-$az = "$env:ProgramFiles\Microsoft SDKs\Azure\CLI2\wbin\az.cmd"
-& $az functionapp show -n rag-lab -g rg-lab-langgraph --query "{name:name, sku:sku.name, hostname:defaultHostName}" -o json
-```
+## Flujo deploy correcto (orden)
 
-Si el SKU es **flexconsumption**, el deploy **no** puede ser el zipdeploy “ingenuo” de ayudascp-ia clásico sin adaptar (ver abajo).
-
-## Flujo rápido (próximo deploy)
-
-1. **Código en `main`**: `npm run build` local debe pasar.
-2. **Secretos GitHub** al día (tras recrear la app o rotar perfil):
+1. `npm run build` local OK.
+2. **Secretos GitHub** (perfil de **rag-lab**, no func-lab-langgraph):
 
 ```powershell
-cd C:\Users\JAGUDELOE\Documents\Contapyme\lab-langgraph
 .\scripts\github\set-azure-deploy-secrets.ps1
-# Parámetros por defecto: rag-lab, rg-lab-langgraph
+# rag-lab, rg-lab-langgraph por defecto
 ```
 
-3. **Push** a `main` o **workflow_dispatch** → workflow `.github/workflows/deploy-azure-functions.yml`.
-4. **Post-deploy** (esperar 1–2 min; comprobar que hay funciones):
+3. **App settings Azure** (obligatorio tras crear app; el zip NO los incluye):
 
 ```powershell
-$az = "$env:ProgramFiles\Microsoft SDKs\Azure\CLI2\wbin\az.cmd"
-& $az functionapp function list -n rag-lab -g rg-lab-langgraph --query "length(@)"
-
-$base = "https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net"
-Invoke-WebRequest "$base/api/openapi.json" -UseBasicParsing   # debe ser 200
-Invoke-WebRequest "$base/api/docs" -UseBasicParsing         # HTML Swagger
+# Añadir LAB_JWT_SECRET y LAB_AUTH_REQUIRED en local.settings.json primero
+npx tsx scripts/azure/sync-app-settings.mts
 ```
 
-Si `function list` devuelve `[]` o todo `/api/*` es **404**: el host no cargó los triggers. En `src/index.ts` deben importarse `./functions/*.js` (no confiar solo en el glob de `package.json` en Flex).
+Sin `DATABASE_URL` / `PATY_DATABASE_URL` → `POST /api/auth/token` **cuelga o 503** (PG + timeout Flex).
 
-Si `/api/docs` es 200 pero la página sale en blanco: CDN bloqueado; usar `/api/openapi.json` o importar en Postman.
+4. Push `main` → workflow `.github/workflows/deploy-azure-functions.yml`.
 
-5. **ISA-DOC**: `PUBLIC_LAB_LANGGRAPH_URL=<base sin /api>` en `secrets/patyia/lab-client.env` o variable gh-pages.
+5. Verificar:
 
-## Cómo despliega el CI (leer antes de “arreglar” el yml)
+```powershell
+& $az functionapp function list -n rag-lab -g rg-lab-langgraph --query "length(@)"  # > 0
+Invoke-WebRequest "https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net/api/openapi.json"
+```
 
-**Solo** zip precompilado → Kudu **`/api/publish?RemoteBuild=false`** (`build-deploy-zip.ps1` + `publish-flex-package.ps1`).
+## CI — qué funciona (no revertir)
 
-**No usar** `Azure/functions-action` en `rag-lab` (Flex): falla con *Failed to fetch Kudu App Settings · Site Unavailable (503)*.
+| Paso | Detalle |
+| --- | --- |
+| Runner | `windows-latest`, Node 22 |
+| Build | `npm install` + `tsc` |
+| Package | `build-deploy-zip.ps1` → `host.json`, `package.json`, `dist/`, `node_modules/` (**tar.exe**, rutas POSIX) |
+| Deploy | **`publish-flex-package.ps1`** → `POST /api/publish?RemoteBuild=false` → **202** |
+| Registro funciones | `src/index.ts` importa explícito `./functions/*.js` (glob en `package.json` no basta en Flex) |
+| Concurrencia | `cancel-in-progress: false` (evita cancelar run del push al disparar workflow_dispatch) |
+| Smoke test | `$fnHost` (no `$host` reservada PS); `continue-on-error: true` |
 
-Si el repo tenía variable `FLEX_CONSUMPTION=false`, **eliminarla** en GitHub → Settings → Variables → Actions.
+**Prohibido en rag-lab:** `Azure/functions-action` (Kudu App Settings 503).
 
-Pasos comunes del job (Windows, Node **22.x**):
+## Errores reales y solución
 
-1. `npm install` + `npm install typescript -D` + `npm run build`
-2. **Flex**: empaquetar solo `host.json`, `package.json`, `package-lock.json`, `dist/`, `node_modules/`
-3. Publicar con publish profile del secret `AZURE_FUNCTIONAPP_PUBLISH_PROFILE`
-
-**No cambiar** a `Azure/webapps-deploy` ni `slot-name: production` — provoca *Publish profile is invalid*.
-
-**No usar** input `scm-do-build-during-deployment` en actions de terceros — no es válido en `webapps-deploy@v3`.
-
-## Errores que ya ocurrieron → acción directa
-
-| Síntoma | Causa | Qué hacer |
+| Síntoma | Causa | Acción |
 | --- | --- | --- |
-| Kudu **503** / *Failed to fetch Kudu App Settings* en zip a `/api/zipdeploy` | App **Flex** o SCM caído / perfil viejo | Usar rama Flex del workflow (`publish-flex-package.ps1`); activar **SCM Basic Auth**; `set-azure-deploy-secrets.ps1`; reintentar workflow |
-| **502** en `/api/publish` | SCM saturado o cold | El script reintenta hasta 12 veces; esperar y relanzar workflow |
-| *Publish profile is invalid* + slot | `webapps-deploy` con slot | Quitar slot; solo publish profile XML completo |
-| Deploy OK pero **404** en `/api/*` | Paquete sin `dist/` o rutas Windows `\` en zip | Usar `build-deploy-zip.ps1` (**tar.exe**, no `Compress-Archive`) |
-| Health check falla justo tras deploy | **Cold start** Flex | Esperar 60–120 s; probar `/api/health` y `/api/tools/health` |
-| Secretos apuntan a otra app | Docs decían `func-insoft-*` | Regenerar con `set-azure-deploy-secrets.ps1` para **`rag-lab`** |
-| `az` / `gh` no encontrados en agente local | PATH en Windows | Rutas: `Program Files\Microsoft SDKs\Azure\CLI2\wbin\az.cmd`, `Program Files\GitHub CLI\gh.exe` |
+| Publish a `func-lab-langgraph.scm...` 503 | Secret `AZURE_FUNCTIONAPP_PUBLISH_PROFILE` viejo | `set-azure-deploy-secrets.ps1` |
+| Run **cancelled** (no failure) | Dos runs + `cancel-in-progress: true` | Ignorar ese job; mirar el otro run o desactivar cancel |
+| Smoke test `InvalidOperation` `$host` | Variable reservada PowerShell | Ya corregido: `$fnHost` |
+| Todo `/api/*` 404 | Sin funciones registradas | `index.ts` imports + redeploy |
+| `/api/docs` fallback “No se pudo cargar Swagger UI” | CDN jsdelivr bloqueado en red usuario | Usar `/api/openapi.json` o Postman |
+| `POST /api/auth/token` **pending eterno** | Sin `DATABASE_URL` en Azure; o `ensureLabAuthSchema` leía `db/` (no va en zip) | `sync-app-settings.mts` + DDL embebido en código + `LAB_JWT_SECRET` |
+| Workflow verde pero auth falla | Solo deploy; faltan app settings | Paso 3 arriba |
 
-## App settings obligatorias en Azure (portal)
+## App settings mínimas (portal o sync script)
 
-No van en el zip. Configurar en **Function App → Environment variables**:
-
-| Variable | Notas |
+| Variable | Uso |
 | --- | --- |
-| `FUNCTIONS_WORKER_RUNTIME` | `node` |
-| `SCM_DO_BUILD_DURING_DEPLOYMENT` | `false` (build en CI) |
-| `PATY_DATABASE_URL` / `DATABASE_URL` | Render external URL |
-| `RAG_DATABASE_URL` | pgvector (RAG) |
-| `GROQ_API_KEY`, `HUGGINGFACE_API_KEY` | RAG |
-| `AzureSignalRConnectionString`, `SIGNALR_HUB_NAME` | SignalR (`lab`) |
-| `LAB_JWT_SECRET` | ≥ 32 caracteres |
+| `PATY_DATABASE_URL` / `DATABASE_URL` | Render `langlab` — **auth, entity store** |
+| `LAB_JWT_SECRET` | ≥ 32 chars — **obligatorio para token** |
 | `LAB_AUTH_REQUIRED` | `true` en prod |
-| `LAB_NOTIFY_TOKEN` | Recomendado para notify |
+| `RAG_DATABASE_URL`, `GROQ_API_KEY`, … | RAG |
+| `FUNCTIONS_WORKER_RUNTIME` | `node` (portal) |
+| `SCM_DO_BUILD_DURING_DEPLOYMENT` | `false` |
 
-**JWT / usuarios** viven en **PostgreSQL (Render)**, no en Azure:
+Usuarios JWT en PG: `npm run auth:apply-pg` (local/Render, no en Azure).
 
-```bash
-npm run auth:apply-pg   # solo 014 auth + seed; no exige RAG
-```
+## Secretos GitHub
 
-No ejecutar `npm run db:apply-schema` si falta `RAG_DATABASE_URL`; para ops: `npm run db:apply-pg-ops`.
+| Secret | Valor |
+| --- | --- |
+| `AZURE_FUNCTIONAPP_PUBLISH_PROFILE` | XML **rag-lab** (SCM `...canadacentral-01...`) |
+| `AZURE_FUNCTIONAPP_NAME` | `rag-lab` |
+| `AZURE_FUNCTIONAPP_HOSTNAME` | `rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net` |
 
-Portal: **SCM Basic Auth Publishing Credentials = On** antes del primer deploy desde GitHub.
+Validación en workflow: si SCM host contiene `func-lab-langgraph` → falla con mensaje claro.
 
-## Empaquetado (agentes y local)
-
-Contenido mínimo del zip de producción:
-
-- `host.json`, `package.json`, `package-lock.json`
-- `dist/` (salida de `tsc`; `package.json` → `"main": "dist/src/{index.js,functions/*.js}"`)
-- `node_modules/` (producción; el CI hace `npm install` en el runner)
-
-`.funcignore` excluye `src/`, `scripts/`, `db/`, etc. Eso es correcto para **functions-action**; en Flex el zip lo arma `build-deploy-zip.ps1` y **sí** debe llevar `dist/`.
-
-Deploy local a Flex (diagnóstico):
+## QA post-deploy
 
 ```powershell
-npm install
-npm run build
-$zip = .\scripts\azure\build-deploy-zip.ps1
-.\scripts\azure\fetch-publish-profile.ps1
-.\scripts\azure\publish-flex-package.ps1 -ZipPath $zip -PublishProfilePath "$env:TEMP\lab-langgraph-publish-profile.xml"
+$base = "https://rag-lab-bsczhqfgchgegabr.canadacentral-01.azurewebsites.net"
+# Spec
+Invoke-WebRequest "$base/api/openapi.json" -UseBasicParsing
+# Auth (credenciales de npm run auth:apply-pg)
+$body = '{"username":"JAGUDELOE","password":"<pass>"}'
+Invoke-WebRequest "$base/api/auth/token" -Method POST -Body $body -ContentType "application/json" -UseBasicParsing
 ```
 
-**No** usar `zipdeploy-local.ps1` (`/api/zipdeploy`) contra **rag-lab** Flex — suele devolver 503.
+Respuesta esperada auth: `200` + `token`. Si `503` + hint DATABASE_URL → app settings.
 
-## Secretos GitHub Actions
+## Anti-patrones
 
-| Secret / variable | Valor |
-| --- | --- |
-| `AZURE_FUNCTIONAPP_PUBLISH_PROFILE` | XML **completo** (UTF-8 sin BOM raro) |
-| `AZURE_FUNCTIONAPP_NAME` | `rag-lab` |
-| `AZURE_FUNCTIONAPP_HOSTNAME` | opcional; `defaultHostName` de la app |
-| `vars.FLEX_CONSUMPTION` | omitir o ≠ `false` para Flex; `false` solo app clásica |
+- `FLEX_CONSUMPTION=false` + functions-action en rag-lab.
+- Push + workflow_dispatch simultáneo con cancel-in-progress true.
+- Asumir que deploy incluye secretos o carpeta `db/`.
+- Probar auth antes de `sync-app-settings.mts`.
 
-Regenerar siempre después de **eliminar/recrear** la Function App en portal.
-
-## Checklist agente (orden fijo)
-
-1. Confirmar **nombre de app y SKU** (`az functionapp show`).
-2. Si falló deploy: `gh run view <id> -R Dev-InSoft-web/lab-langgraph --log-failed` — no adivinar.
-3. Si 503/502 en SCM: verificar SCM Basic Auth + `set-azure-deploy-secrets.ps1` + re-run workflow (no cambiar a webapps-deploy).
-4. Si 404 API: verificar que el zip incluye `dist/src/functions/*.js`.
-5. Si 401 en API: `LAB_JWT_SECRET` / `LAB_AUTH_REQUIRED` en Azure + usuario en PG (`auth:apply-pg`).
-6. Actualizar ISA-DOC solo con hostname verificado (`defaultHostName`).
-7. Documentación humana extendida: `docs/DEPLOY-AZURE.md`, `docs/CREATE-FUNCTION-APP-PORTAL.md`.
-
-## Anti-patrones (no repetir)
-
-- Buscar `func-insoft-lablanggraph` en secretos cuando la app viva es **`rag-lab`**.
-- Probar solo `/api/health` en el primer minuto y declarar “deploy roto”.
-- Subir `local.settings.json` o secretos al repo.
-- `npm run db:apply-schema` en CI de Azure (no es paso de deploy).
-- Recrear la app solo por CLI si el portal ya la dejó estable; si recreas, **siempre** nuevo publish profile.
-- Cambiar el workflow a zipdeploy clásico en Flex sin `api/publish?RemoteBuild=false`.
-
-## Referencias en repo
+## Referencias repo
 
 - Workflow: `.github/workflows/deploy-azure-functions.yml`
-- Scripts: `scripts/azure/build-deploy-zip.ps1`, `publish-flex-package.ps1`, `scripts/github/set-azure-deploy-secrets.ps1`
-- PG en deploy (auth): skill `pg-direct-exec` + `npm run auth:apply-pg`
-- Nomenclatura BD: `docs/db-naming.md` (esquemas `BD_*`, columnas sin `_`)
+- Scripts: `scripts/azure/build-deploy-zip.ps1`, `publish-flex-package.ps1`, `sync-app-settings.mts`, `scripts/github/set-azure-deploy-secrets.ps1`
+- Auth: `src/functions/auth.ts`, `src/lib/auth/ensure-auth-schema.ts` (DDL embebido)
