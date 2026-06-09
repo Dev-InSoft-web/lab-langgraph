@@ -75,9 +75,9 @@ async function loadCache(force = false): Promise<Cache> {
 	const pool = getPatyPgPool();
 
 	const roleRows = await pool.query<{ rolecode: string; description: string | null }>(
-		`SELECT ${COL_AUTH_ROLE.ROLECODE} AS rolecode, ${COL_AUTH_ROLE.DESCRIPTION} AS description
-		 FROM ${Q_AUTH_ROLE}
-		 WHERE ${COL_AUTH_ROLE.ACTIVE} = true`,
+		`SELECT r.${COL_AUTH_ROLE.ROLECODE} AS rolecode, r.${COL_AUTH_ROLE.DESCRIPTION} AS description
+		 FROM ${Q_AUTH_ROLE} r
+		 WHERE r.${COL_AUTH_ROLE.ACTIVE} = true`,
 	);
 
 	const allowRows = await pool.query<{ rolecode: string; allowrule: string }>(
@@ -88,9 +88,9 @@ async function loadCache(force = false): Promise<Cache> {
 	);
 
 	const userRows = await pool.query<{ username: string; rolecode: string | null }>(
-		`SELECT ${COL_AUTH.USERNAME} AS username, ${COL_AUTH.ROLECODE} AS rolecode
-		 FROM ${Q_LAB_AUTH_USER}
-		 WHERE ${COL_AUTH.ACTIVE} = true AND ${COL_AUTH.ROLECODE} IS NOT NULL`,
+		`SELECT u.${COL_AUTH.USERNAME} AS username, u.${COL_AUTH.ROLECODE} AS rolecode
+		 FROM ${Q_LAB_AUTH_USER} u
+		 WHERE u.${COL_AUTH.ACTIVE} = true AND u.${COL_AUTH.ROLECODE} IS NOT NULL`,
 	);
 
 	const userAllowRows = await pool.query<{
