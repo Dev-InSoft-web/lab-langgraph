@@ -15,10 +15,20 @@ DO $$
 BEGIN
 	IF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LAB' AND tablename = 'LAB_AUTHUSER')
 	   AND EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'AUTH_USER') THEN
-		INSERT INTO "BD_LANGLAB"."AUTH_USER" ("USERNAME", "PASSWORDHASH", "DISPLAYNAME", "ROLECODE", "ACTIVE", "FHCRE", "FHULTACT")
-		SELECT s."USERNAME", s."PASSWORDHASH", s."DISPLAYNAME", s."ROLECODE", s."ACTIVE", s."FHCRE", s."FHULTACT"
-		FROM "BD_LAB"."LAB_AUTHUSER" s
-		WHERE NOT EXISTS (SELECT 1 FROM "BD_LANGLAB"."AUTH_USER" t WHERE t."USERNAME" = s."USERNAME");
+		IF EXISTS (
+			SELECT 1 FROM information_schema.columns
+			WHERE table_schema = 'BD_LAB' AND table_name = 'LAB_AUTHUSER' AND column_name = 'ROLECODE'
+		) THEN
+			INSERT INTO "BD_LANGLAB"."AUTH_USER" ("USERNAME", "PASSWORDHASH", "DISPLAYNAME", "ROLECODE", "ACTIVE", "FHCRE", "FHULTACT")
+			SELECT s."USERNAME", s."PASSWORDHASH", s."DISPLAYNAME", s."ROLECODE", s."ACTIVE", s."FHCRE", s."FHULTACT"
+			FROM "BD_LAB"."LAB_AUTHUSER" s
+			WHERE NOT EXISTS (SELECT 1 FROM "BD_LANGLAB"."AUTH_USER" t WHERE t."USERNAME" = s."USERNAME");
+		ELSE
+			INSERT INTO "BD_LANGLAB"."AUTH_USER" ("USERNAME", "PASSWORDHASH", "DISPLAYNAME", "ROLECODE", "ACTIVE", "FHCRE", "FHULTACT")
+			SELECT s."USERNAME", s."PASSWORDHASH", s."DISPLAYNAME", NULL::TEXT, s."ACTIVE", s."FHCRE", s."FHULTACT"
+			FROM "BD_LAB"."LAB_AUTHUSER" s
+			WHERE NOT EXISTS (SELECT 1 FROM "BD_LANGLAB"."AUTH_USER" t WHERE t."USERNAME" = s."USERNAME");
+		END IF;
 		DROP TABLE "BD_LAB"."LAB_AUTHUSER";
 	ELSIF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LAB' AND tablename = 'LAB_AUTHUSER')
 	   AND NOT EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename IN ('AUTH_USER', 'LAB_AUTHUSER')) THEN
@@ -95,9 +105,11 @@ function loadConsolidate019Sql(): string {
 export async function ensureLabAuthSchema(): Promise<void> {
 	if (applied) return;
 	const pool = getPatyPgPool();
+	// DDL primero: AUTH_USER.ROLECODE debe existir antes de consolidar legacy.
+	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_LANGLAB";`);
+	await pool.query(LAB_AUTH_DDL);
 	await pool.query(CONSOLIDATE_BD_LAB);
 	const full019 = loadConsolidate019Sql();
 	if (full019) await pool.query(full019);
-	await pool.query(LAB_AUTH_DDL);
 	applied = true;
 }
