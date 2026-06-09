@@ -68,7 +68,7 @@ async function tokenHandler(request: HttpRequest, _context: InvocationContext): 
 
 	try {
 		const { token, expiresAt } = await signLabJwt(user.username);
-		const role = await getUserRole(user.username);
+		const role = user.rolecode?.trim() || (await getUserRole(user.username));
 		return jsonResponse(
 			{
 				ok: true,

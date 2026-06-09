@@ -10,6 +10,7 @@ import {
 	Q_LAB_AUTH_USER,
 } from "../db/pg-identifiers.js";
 import { ensureLabAuthSchema } from "./ensure-auth-schema.js";
+import { findLabUser } from "./users.js";
 
 export type UserExceptionDef = {
 	description?: string;
@@ -87,11 +88,16 @@ async function loadCache(force = false): Promise<Cache> {
 		 WHERE r.${COL_AUTH_ROLE.ACTIVE} = true`,
 	);
 
-	const userRows = await pool.query<{ username: string; rolecode: string | null }>(
-		`SELECT u.${COL_AUTH.USERNAME} AS username, u.${COL_AUTH.ROLECODE} AS rolecode
-		 FROM ${Q_LAB_AUTH_USER} u
-		 WHERE u.${COL_AUTH.ACTIVE} = true AND u.${COL_AUTH.ROLECODE} IS NOT NULL`,
-	);
+	let userRows: { rows: Array<{ username: string; rolecode: string | null }> };
+	try {
+		userRows = await pool.query(
+			`SELECT ${COL_AUTH.USERNAME} AS username, ${COL_AUTH.ROLECODE} AS rolecode
+			 FROM ${Q_LAB_AUTH_USER}
+			 WHERE ${COL_AUTH.ACTIVE} = true AND ${COL_AUTH.ROLECODE} IS NOT NULL`,
+		);
+	} catch {
+		userRows = { rows: [] };
+	}
 
 	let userAllowRows: {
 		rows: Array<{
@@ -138,7 +144,7 @@ async function loadCache(force = false): Promise<Cache> {
 	for (const row of userAllowRows.rows) {
 		const u = normalizeUser(row.username);
 		const allowrule = row.allowrule?.trim();
-		if (!u || !allowrule || !userRoles.has(u)) continue;
+		if (!u || !allowrule) continue;
 		const list = userExceptions.get(u) ?? [];
 		list.push({
 			allowrule,
@@ -152,9 +158,17 @@ async function loadCache(force = false): Promise<Cache> {
 	return cache;
 }
 
-export async function getUserRole(username: string): Promise<string | null> {
+async function resolveUserRole(username: string): Promise<string | null> {
+	const u = normalizeUser(username);
 	const c = await loadCache();
-	return c.userRoles.get(normalizeUser(username)) ?? null;
+	const cached = c.userRoles.get(u);
+	if (cached) return cached;
+	const row = await findLabUser(u);
+	return row?.rolecode?.trim() || null;
+}
+
+export async function getUserRole(username: string): Promise<string | null> {
+	return resolveUserRole(username);
 }
 
 export async function userMayAccessEndpoint(
@@ -168,7 +182,8 @@ export async function userMayAccessEndpoint(
 	if (method.toUpperCase() === "GET") return true;
 
 	const c = await loadCache();
-	const roleName = c.userRoles.get(normalizeUser(username));
+	const u = normalizeUser(username);
+	const roleName = c.userRoles.get(u) ?? (await resolveUserRole(username));
 	if (!roleName) return false;
 
 	const exceptions = c.userExceptions.get(normalizeUser(username)) ?? [];
