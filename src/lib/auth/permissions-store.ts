@@ -93,20 +93,25 @@ async function loadCache(force = false): Promise<Cache> {
 		 WHERE u.${COL_AUTH.ACTIVE} = true AND u.${COL_AUTH.ROLECODE} IS NOT NULL`,
 	);
 
-	const userAllowRows = await pool.query<{
-		username: string;
-		allowrule: string;
-		sqlscope: string | null;
-		description: string | null;
-	}>(
-		`SELECT ${COL_AUTH_USERALLOW.USERNAME} AS username,
-		        ${COL_AUTH_USERALLOW.ALLOWRULE} AS allowrule,
-		        ${COL_AUTH_USERALLOW.SQLSCOPE} AS sqlscope,
-		        ${COL_AUTH_USERALLOW.DESCRIPTION} AS description
-		 FROM ${Q_AUTH_USERALLOW} a
-		 INNER JOIN ${Q_LAB_AUTH_USER} u ON u.${COL_AUTH.USERNAME} = a.${COL_AUTH_USERALLOW.USERNAME}
-		 WHERE u.${COL_AUTH.ACTIVE} = true`,
-	);
+	let userAllowRows: {
+		rows: Array<{
+			username: string;
+			allowrule: string;
+			sqlscope: string | null;
+			description: string | null;
+		}>;
+	};
+	try {
+		userAllowRows = await pool.query(
+			`SELECT ${COL_AUTH_USERALLOW.USERNAME} AS username,
+			        ${COL_AUTH_USERALLOW.ALLOWRULE} AS allowrule,
+			        ${COL_AUTH_USERALLOW.SQLSCOPE} AS sqlscope,
+			        ${COL_AUTH_USERALLOW.DESCRIPTION} AS description
+			 FROM ${Q_AUTH_USERALLOW}`,
+		);
+	} catch {
+		userAllowRows = { rows: [] };
+	}
 
 	const roles = new Map<string, RoleDef>();
 	for (const row of roleRows.rows) {
@@ -133,7 +138,7 @@ async function loadCache(force = false): Promise<Cache> {
 	for (const row of userAllowRows.rows) {
 		const u = normalizeUser(row.username);
 		const allowrule = row.allowrule?.trim();
-		if (!u || !allowrule) continue;
+		if (!u || !allowrule || !userRoles.has(u)) continue;
 		const list = userExceptions.get(u) ?? [];
 		list.push({
 			allowrule,
@@ -206,7 +211,7 @@ export async function upsertRole(roleCode: string, description?: string): Promis
 		`INSERT INTO ${Q_AUTH_ROLE} (${COL_AUTH_ROLE.ROLECODE}, ${COL_AUTH_ROLE.DESCRIPTION}, ${COL_AUTH_ROLE.ACTIVE})
 		 VALUES ($1, $2, true)
 		 ON CONFLICT (${COL_AUTH_ROLE.ROLECODE}) DO UPDATE SET
-		   ${COL_AUTH_ROLE.DESCRIPTION} = COALESCE(EXCLUDED.${COL_AUTH_ROLE.DESCRIPTION}, ${Q_AUTH_ROLE}.${COL_AUTH_ROLE.DESCRIPTION}),
+		   ${COL_AUTH_ROLE.DESCRIPTION} = COALESCE(EXCLUDED.${COL_AUTH_ROLE.DESCRIPTION}, ${COL_AUTH_ROLE.DESCRIPTION}),
 		   ${COL_AUTH_ROLE.ACTIVE} = true,
 		   ${COL_AUTH_ROLE.FHULTACT} = now()`,
 		[code, description?.trim() ?? null],
