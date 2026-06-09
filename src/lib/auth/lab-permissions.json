@@ -8,7 +8,6 @@
     "instrucciones_editor": {
       "description": "GET libre para todos; solo POST de persistencia de instrucciones (MD → BD_LANGLAB)",
       "allow": [
-        "POST:/pg/langlab/exec",
         "POST:/patyia/prompts/upsert-sql"
       ]
     }
@@ -18,21 +17,5 @@
     "VRESTREPO": { "role": "instrucciones_editor" },
     "INTEGRACIONES": { "role": "admin" }
   },
-  "user_exceptions": {
-    "VRESTREPO": [
-      {
-        "description": "Guardar prompts en BD_LANGLAB (botón Guardar apptools)",
-        "allow": "POST:/pg/langlab/exec"
-      },
-      {
-        "description": "Alias apptools guardar langlab",
-        "allow": "POST:/patyia/prompts/upsert-sql"
-      },
-      {
-        "description": "Única mutación MSSQL staging: fusión prompts en INSTRUCCION (+ enlace TDCONSULTAXINSTRUCCION)",
-        "allow": "POST:/mssql/paty/exec",
-        "sql_scope": "paty_staging_instrucciones"
-      }
-    ]
-  }
+  "user_exceptions": {}
 }
