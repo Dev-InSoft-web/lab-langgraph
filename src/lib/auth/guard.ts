@@ -82,3 +82,14 @@ export function unauthorizedBody(): Record<string, unknown> {
 export async function labAuthDeniedResponse(): Promise<HttpResponseInit["jsonBody"]> {
 	return unauthorizedBody();
 }
+
+const integracionesUser = (): string =>
+	(process.env.LAB_INTEGRACIONES_USER?.trim() || "INTEGRACIONES").toUpperCase();
+
+/** Usuario cuyo rol/excepciones aplican al request (token técnico INTEGRACIONES → onBehalfOf). */
+export function permissionSubjectFromClaims(claims: LabJwtClaims): string {
+	const actor = claims.username.trim().toUpperCase();
+	const delegate = typeof claims.onBehalfOf === "string" ? claims.onBehalfOf.trim() : "";
+	if (actor === integracionesUser() && delegate) return delegate;
+	return claims.username;
+}

@@ -223,10 +223,10 @@ export async function upsertRole(roleCode: string, description?: string): Promis
 	const code = roleCode.trim();
 	const pool = getPatyPgPool();
 	await pool.query(
-		`INSERT INTO ${Q_AUTH_ROLE} (${COL_AUTH_ROLE.ROLECODE}, ${COL_AUTH_ROLE.DESCRIPTION}, ${COL_AUTH_ROLE.ACTIVE})
+		`INSERT INTO ${Q_AUTH_ROLE} AS t (${COL_AUTH_ROLE.ROLECODE}, ${COL_AUTH_ROLE.DESCRIPTION}, ${COL_AUTH_ROLE.ACTIVE})
 		 VALUES ($1, $2, true)
 		 ON CONFLICT (${COL_AUTH_ROLE.ROLECODE}) DO UPDATE SET
-		   ${COL_AUTH_ROLE.DESCRIPTION} = COALESCE(EXCLUDED.${COL_AUTH_ROLE.DESCRIPTION}, ${COL_AUTH_ROLE.DESCRIPTION}),
+		   ${COL_AUTH_ROLE.DESCRIPTION} = COALESCE(EXCLUDED.${COL_AUTH_ROLE.DESCRIPTION}, t.${COL_AUTH_ROLE.DESCRIPTION}),
 		   ${COL_AUTH_ROLE.ACTIVE} = true,
 		   ${COL_AUTH_ROLE.FHULTACT} = now()`,
 		[code, description?.trim() ?? null],

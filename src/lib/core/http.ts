@@ -1,6 +1,11 @@
 import { HttpRequest, HttpResponseInit } from "@azure/functions";
 
-import { labAuthDeniedResponse, normalizeApiPath, verifyRequestLabJwt } from "../auth/guard.js";
+import {
+	labAuthDeniedResponse,
+	normalizeApiPath,
+	permissionSubjectFromClaims,
+	verifyRequestLabJwt,
+} from "../auth/guard.js";
 import { permissionDeniedBody, userMayAccessEndpoint } from "../auth/permissions.js";
 import { CORS_ALLOW_ORIGIN } from "./lab-constants.js";
 
@@ -53,7 +58,7 @@ export async function beginHttpRequest(
 	const claims = await verifyRequestLabJwt(request);
 	if (!claims) return jsonResponse(await labAuthDeniedResponse(), 401, corsHeaders(origin));
 
-	const u = claims.username;
+	const u = permissionSubjectFromClaims(claims);
 	if (u && u !== "public" && u !== "anonymous") {
 		const apiPath = normalizeApiPath(new URL(request.url).pathname);
 		if (!(await userMayAccessEndpoint(u, request.method, apiPath))) {
