@@ -1,0 +1,882 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:34:28.544Z",
+  "videoId": "bO9URwRBDeQ",
+  "videoUrl": "https://www.youtube.com/watch?v=bO9URwRBDeQ",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "bO9URwRBDeQ",
+    "title": "Software contable ContaPyme - Descripción general del módulo de Inventarios comercial",
+    "fulltitle": "Software contable ContaPyme - Descripción general del módulo de Inventarios comercial",
+    "description": "http: //www.contapyme.com\nEn este video se explican las funcionalidades, ventajas y características del módulo de inventarios comercial y su integración con los demás módulos del sistema. \nCP40-090-010-010",
+    "duration": 441,
+    "duration_string": "7:21",
+    "upload_date": "20170111",
+    "timestamp": 1484151782,
+    "view_count": 165,
+    "like_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "Sistema contable",
+      "Software contable",
+      "sistema de contabilidad",
+      "Software para pymes",
+      "sistema de gestión empresarial",
+      "Software para contadores",
+      "programas contables",
+      "software contable Colombia",
+      "Software contable y administrativo",
+      "software NIIF",
+      "Normas internacionales de informaión financiera",
+      "NIIF",
+      "software de facturación",
+      "facturación",
+      "sistemas de facturación"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxisHMS_WaJZ7s0lZwwdLurGgrBg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_X3fKkQ9-iFvvnyRxhY52tamJ3g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsoYL_jswxhJOaJVRcmVq42vXcoA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBz5NO01M6iQ2oGqwzjfcjSWekK7A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6M71lnoEP51QkUhSXvzuQmAYTww",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXZ3o7ic8xdhjxVbVqtwQhIhyUeA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7uyZEExYzTrT_P8LwgtGaaMd10g",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDry21n91MNgKO1cGS6NKlGIdUxww",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bO9URwRBDeQ/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bO9URwRBDeQ/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=bO9URwRBDeQ",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.22675736961451248,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20408163265306123,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20408163265306123,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 187.467,
+        "asr": 44100,
+        "filesize_approx": 10333954,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Descripción general del módulo de Inventarios comercial",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/bO9URwRBDeQ/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/bO9URwRBDeQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Descripción general del módulo de Inventarios comercial\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 88,
+    "transcriptChars": 6732,
+    "segments": [
+      {
+        "text": "descripción general del módulo el objetivo de este video es conocer de",
+        "startMs": 480,
+        "durationMs": 4829
+      },
+      {
+        "text": "forma general la importancia y ventajas que brinda el submódulo de inventarios",
+        "startMs": 5309,
+        "durationMs": 5561
+      },
+      {
+        "text": "comercial a los usuarios del sistema contapyme el módulo de inventarios",
+        "startMs": 10870,
+        "durationMs": 4679
+      },
+      {
+        "text": "compras facturación y punto de venta permite al usuario llevar un fácil",
+        "startMs": 15549,
+        "durationMs": 4560
+      },
+      {
+        "text": "manejo y control de sus inventarios a través del registro de operaciones",
+        "startMs": 20109,
+        "durationMs": 5201
+      },
+      {
+        "text": "especializadas y una gran variedad de informes cuenta con operaciones como la",
+        "startMs": 25310,
+        "durationMs": 5039
+      },
+      {
+        "text": "compra y la venta que permiten al usuario registrar los ingresos y egresos",
+        "startMs": 30349,
+        "durationMs": 4520
+      },
+      {
+        "text": "de sus elementos de inventario adicionalmente permite al usuario",
+        "startMs": 34869,
+        "durationMs": 4761
+      },
+      {
+        "text": "realizar un completo manejo comercial con sus clientes a través del submódulo",
+        "startMs": 39630,
+        "durationMs": 5280
+      },
+      {
+        "text": "de inventarios comercial que se encuentra incluido en el módulo de",
+        "startMs": 44910,
+        "durationMs": 4760
+      },
+      {
+        "text": "inventarios compras facturación y punto de venta el submódulo de inventarios",
+        "startMs": 49670,
+        "durationMs": 6120
+      },
+      {
+        "text": "comercial brinda al usuario la posibilidad de crear múltiples listas de",
+        "startMs": 55790,
+        "durationMs": 4759
+      },
+      {
+        "text": "precios que luego pueden ser asignadas a los diferentes elementos de inventario",
+        "startMs": 60549,
+        "durationMs": 5161
+      },
+      {
+        "text": "contapyme a través del manejo comercial de los inventarios nos permite asignar a",
+        "startMs": 65710,
+        "durationMs": 5360
+      },
+      {
+        "text": "un mismo elemento de inventario varias listas de precios permitiendo así",
+        "startMs": 71070,
+        "durationMs": 4399
+      },
+      {
+        "text": "agilizar el registro de la operación de facturación y ventas evitando que",
+        "startMs": 75469,
+        "durationMs": 4241
+      },
+      {
+        "text": "debamos recordar los precios de cada elemento Y asignarlos de forma manual el",
+        "startMs": 79710,
+        "durationMs": 5240
+      },
+      {
+        "text": "submódulo de inventarios comercial cuenta con un catálogo especializado de",
+        "startMs": 84950,
+        "durationMs": 4960
+      },
+      {
+        "text": "métodos de cálculo de listas de preciosos catálogo en el cual podremos",
+        "startMs": 89910,
+        "durationMs": 4199
+      },
+      {
+        "text": "crear o definir los parámetros que el sistema va a utilizar para definir los",
+        "startMs": 94109,
+        "durationMs": 5481
+      },
+      {
+        "text": "precios de venta de los productos evitando así que el usuario deba",
+        "startMs": 99590,
+        "durationMs": 4040
+      },
+      {
+        "text": "realizar dichos cálculos o asignar los precios a los productos de forma manual",
+        "startMs": 103630,
+        "durationMs": 5560
+      },
+      {
+        "text": "el manejo comercial de los inventarios en contapyme permite realizar la",
+        "startMs": 109190,
+        "durationMs": 4680
+      },
+      {
+        "text": "actualización de listas de precios de los productos de forma automática cuando",
+        "startMs": 113870,
+        "durationMs": 5320
+      },
+      {
+        "text": "el usuario así lo requiera a través de la creación de perfiles de clientes",
+        "startMs": 119190,
+        "durationMs": 5199
+      },
+      {
+        "text": "vamos a poder agruparlos por características similares como la lista",
+        "startMs": 124389,
+        "durationMs": 4121
+      },
+      {
+        "text": "de precios a usar los días de plazo en cartera para las cuentas por cobrar el",
+        "startMs": 128510,
+        "durationMs": 4920
+      },
+      {
+        "text": "centro de costos de ingreso Y los descuentos a otorgar a dichos clientes",
+        "startMs": 133430,
+        "durationMs": 4799
+      },
+      {
+        "text": "entre otras el submódulo de inventarios comercial permite dar un manejo especial",
+        "startMs": 138229,
+        "durationMs": 6041
+      },
+      {
+        "text": "a los elementos tipo servicio que presta la empresa recordemos que los servicios",
+        "startMs": 144270,
+        "durationMs": 4480
+      },
+      {
+        "text": "son intangi a los cuales no se les puede controlar",
+        "startMs": 148750,
+        "durationMs": 3640
+      },
+      {
+        "text": "sus cantidades en existencias pero sí requieren ser facturados Al momento de",
+        "startMs": 152390,
+        "durationMs": 4680
+      },
+      {
+        "text": "ser prestados a través de la creación de elementos de inventario compuestos",
+        "startMs": 157070,
+        "durationMs": 5040
+      },
+      {
+        "text": "brinda al usuario la posibilidad de crear sus propios kits conformados por",
+        "startMs": 162110,
+        "durationMs": 4640
+      },
+      {
+        "text": "otros elementos de inventarios con los cuales cuenta la empresa También para su",
+        "startMs": 166750,
+        "durationMs": 5240
+      },
+      {
+        "text": "comercialización por medio de la creación y asignación de departamentos o",
+        "startMs": 171990,
+        "durationMs": 5000
+      },
+      {
+        "text": "líneas a los elementos de inventario permite generar informes consolidados y",
+        "startMs": 176990,
+        "durationMs": 5200
+      },
+      {
+        "text": "detallados por grupos de elementos de inventario que cuentan con",
+        "startMs": 182190,
+        "durationMs": 3679
+      },
+      {
+        "text": "características similares como su uso y conformación a través de la creación de",
+        "startMs": 185869,
+        "durationMs": 5440
+      },
+      {
+        "text": "elementos equivalentes permite al usuario brindar más opciones de compra a",
+        "startMs": 191309,
+        "durationMs": 4601
+      },
+      {
+        "text": "sus clientes conociendo Qué productos pueden satisfacer la misma necesidad de",
+        "startMs": 195910,
+        "durationMs": 4879
+      },
+      {
+        "text": "aquellos con los cuales no se cuente en existencias el submódulo de inventarios",
+        "startMs": 200789,
+        "durationMs": 5481
+      },
+      {
+        "text": "comercial permite al usuario realizar configuraciones especiales a los",
+        "startMs": 206270,
+        "durationMs": 4319
+      },
+      {
+        "text": "elementos de inventario como es la personalización de cuentas esto permite",
+        "startMs": 210589,
+        "durationMs": 5241
+      },
+      {
+        "text": "configuradas en la bodega o en el grupo de inventario En caso que así se",
+        "startMs": 219830,
+        "durationMs": 4959
+      },
+      {
+        "text": "requiera una vez se han realizado las configuraciones correspondientes para",
+        "startMs": 224789,
+        "durationMs": 4800
+      },
+      {
+        "text": "iniciar el manejo de los inventarios en el sistema como es la creación de las",
+        "startMs": 229589,
+        "durationMs": 4640
+      },
+      {
+        "text": "Bodegas los grupos de inventario y los elementos de inventario podremos iniciar",
+        "startMs": 234229,
+        "durationMs": 5601
+      },
+      {
+        "text": "la labor comercial el manejo comercial de los inventarios en conta pyme permite",
+        "startMs": 239830,
+        "durationMs": 5239
+      },
+      {
+        "text": "al usuario realizar esta gestión de forma ágil y automatizada ya que una vez",
+        "startMs": 245069,
+        "durationMs": 5000
+      },
+      {
+        "text": "tenemos creados los elementos de inventario podemos proceder a crear las",
+        "startMs": 250069,
+        "durationMs": 5201
+      },
+      {
+        "text": "listas de precios a usar y a crear los diferentes métodos de cálculo a asignar",
+        "startMs": 255270,
+        "durationMs": 5799
+      },
+      {
+        "text": "a las listas de precios creadas las listas de precios deberemos asignarlas a",
+        "startMs": 215830,
+        "durationMs": 51200
+      },
+      {
+        "text": "los elementos de inventario que tiene la empresa y que se encuentran disponibles",
+        "startMs": 267030,
+        "durationMs": 4240
+      },
+      {
+        "text": "para la venta y al momento de asignar dichas listas de precios deberemos",
+        "startMs": 271270,
+        "durationMs": 4359
+      },
+      {
+        "text": "configurar los métodos de cálculo de listas de precios recordemos que estos",
+        "startMs": 275629,
+        "durationMs": 4840
+      },
+      {
+        "text": "métodos de cálculo nos permiten calcular los precios O valores de venta que se",
+        "startMs": 280469,
+        "durationMs": 4761
+      },
+      {
+        "text": "asignarán a los productos o Servicios que presta la empresa así Al momento de",
+        "startMs": 285230,
+        "durationMs": 5720
+      },
+      {
+        "text": "registrar una operación de facturación y ventas y Llamar el elemento de",
+        "startMs": 290950,
+        "durationMs": 4600
+      },
+      {
+        "text": "inventario a facturar el sistema cargará automáticamente ente el precio de venta",
+        "startMs": 295550,
+        "durationMs": 5440
+      },
+      {
+        "text": "correspondiente según la lista de precios indicada en la operación con el",
+        "startMs": 300990,
+        "durationMs": 4800
+      },
+      {
+        "text": "submódulo de inventarios comercial también podremos realizar de forma",
+        "startMs": 305790,
+        "durationMs": 4679
+      },
+      {
+        "text": "automática la actualización de listas de precios dependiendo del método de",
+        "startMs": 310469,
+        "durationMs": 5521
+      },
+      {
+        "text": "cálculo asignado este proceso permite realizar cambios a los precios de venta",
+        "startMs": 315990,
+        "durationMs": 5360
+      },
+      {
+        "text": "de los elementos de inventario de forma automática teniendo en cuenta los",
+        "startMs": 321350,
+        "durationMs": 5119
+      },
+      {
+        "text": "parámetros indicados al método de cálculo asignado a la lista de precios",
+        "startMs": 326469,
+        "durationMs": 4801
+      },
+      {
+        "text": "evitando Así que el usuario deba realizar cálculos manuales a través de",
+        "startMs": 331270,
+        "durationMs": 5039
+      },
+      {
+        "text": "la creación de perfiles de clientes podremos asignar las mismas",
+        "startMs": 336309,
+        "durationMs": 3961
+      },
+      {
+        "text": "configuraciones a diferentes clientes que cuenten con características",
+        "startMs": 340270,
+        "durationMs": 3840
+      },
+      {
+        "text": "similares podemos asignar una lista de precios por defecto El vendedor por",
+        "startMs": 344110,
+        "durationMs": 6120
+      },
+      {
+        "text": "defecto los días de plazo para cuentas por cobrar un cupo de crédito estipulado",
+        "startMs": 350230,
+        "durationMs": 6640
+      },
+      {
+        "text": "y adicionalmente podremos configurar descuentos comerciales y descuentos",
+        "startMs": 356870,
+        "durationMs": 5599
+      },
+      {
+        "text": "financieros por pronto pago una vez creados los perfiles pueden ser",
+        "startMs": 362469,
+        "durationMs": 5041
+      },
+      {
+        "text": "asignados a los clientes correspondientes esto permite agilizar",
+        "startMs": 367510,
+        "durationMs": 3959
+      },
+      {
+        "text": "el proceso comercial de la venta ya que al momento de llamarlo en una operación",
+        "startMs": 371469,
+        "durationMs": 4440
+      },
+      {
+        "text": "de facturación y ventas el sistema automáticamente cargará los datos",
+        "startMs": 375909,
+        "durationMs": 5161
+      },
+      {
+        "text": "configurados en el perfil de clientes y evitará también que se incurra en",
+        "startMs": 381070,
+        "durationMs": 4519
+      },
+      {
+        "text": "podemos crear departamentos o líneas y asignarlos a los elementos de inventario",
+        "startMs": 390830,
+        "durationMs": 5880
+      },
+      {
+        "text": "para así generar informes consolidados o filtrados por los departamentos o líneas",
+        "startMs": 396710,
+        "durationMs": 5560
+      },
+      {
+        "text": "asignados a los elementos de inventario y verificar la información la gran",
+        "startMs": 402270,
+        "durationMs": 4840
+      },
+      {
+        "text": "mayoría de los informes del módulo permiten ser filtrados por departamentos",
+        "startMs": 407110,
+        "durationMs": 4199
+      },
+      {
+        "text": "o líneas entre ellos el informe de entradas y salidas en el periodo el",
+        "startMs": 411309,
+        "durationMs": 5720
+      },
+      {
+        "text": "movimiento detallado de elementos de inventar",
+        "startMs": 417029,
+        "durationMs": 3201
+      },
+      {
+        "text": "inventar el informe de saldos de inventarios",
+        "startMs": 420230,
+        "durationMs": 2480
+      },
+      {
+        "text": "entre otros veamos entonces que son múltiples las ventajas que nos brinda el",
+        "startMs": 422710,
+        "durationMs": 4319
+      },
+      {
+        "text": "submódulo de inventarios comercial ya que es este el cual nos permite agilizar",
+        "startMs": 385589,
+        "durationMs": 46280
+      },
+      {
+        "text": "la gestión del proceso comercial con nuestros",
+        "startMs": 431869,
+        "durationMs": 3561
+      },
+      {
+        "text": "clientes esto es todo acerca de descripción general del módulo",
+        "startMs": 435430,
+        "durationMs": 7449
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este video se explican las funcionalidades, ventajas y características del módulo de inventarios comercial y su integración con los demás módulos del sistema. \nCP40-090-010-010\n\n## Transcripción\n\ndescripción general del módulo el objetivo de este video es conocer de\nforma general la importancia y ventajas que brinda el submódulo de inventarios\ncomercial a los usuarios del sistema contapyme el módulo de inventarios\ncompras facturación y punto de venta permite al usuario llevar un fácil\nmanejo y control de sus inventarios a través del registro de operaciones\nespecializadas y una gran variedad de informes cuenta con operaciones como la\ncompra y la venta que permiten al usuario registrar los ingresos y egresos\nde sus elementos de inventario adicionalmente permite al usuario\nrealizar un completo manejo comercial con sus clientes a través del submódulo\nde inventarios comercial que se encuentra incluido en el módulo de\ninventarios compras facturación y punto de venta el submódulo de inventarios\ncomercial brinda al usuario la posibilidad de crear múltiples listas de\nprecios que luego pueden ser asignadas a los diferentes elementos de inventario\ncontapyme a través del manejo comercial de los inventarios nos permite asignar a\nun mismo elemento de inventario varias listas de precios permitiendo así\nagilizar el registro de la operación de facturación y ventas evitando que\ndebamos recordar los precios de cada elemento Y asignarlos de forma manual el\nsubmódulo de inventarios comercial cuenta con un catálogo especializado de\nmétodos de cálculo de listas de preciosos catálogo en el cual podremos\ncrear o definir los parámetros que el sistema va a utilizar para definir los\nprecios de venta de los productos evitando así que el usuario deba\nrealizar dichos cálculos o asignar los precios a los productos de forma manual\nel manejo comercial de los inventarios en contapyme permite realizar la\nactualización de listas de precios de los productos de forma automática cuando\nel usuario así lo requiera a través de la creación de perfiles de clientes\nvamos a poder agruparlos por características similares como la lista\nde precios a usar los días de plazo en cartera para las cuentas por cobrar el\ncentro de costos de ingreso Y los descuentos a otorgar a dichos clientes\nentre otras el submódulo de inventarios comercial permite dar un manejo especial\na los elementos tipo servicio que presta la empresa recordemos que los servicios\nson intangi a los cuales no se les puede controlar\nsus cantidades en existencias pero sí requieren ser facturados Al momento de\nser prestados a través de la creación de elementos de inventario compuestos\nbrinda al usuario la posibilidad de crear sus propios kits conformados por\notros elementos de inventarios con los cuales cuenta la empresa También para su\ncomercialización por medio de la creación y asignación de departamentos o\nlíneas a los elementos de inventario permite generar informes consolidados y\ndetallados por grupos de elementos de inventario que cuentan con\ncaracterísticas similares como su uso y conformación a través de la creación de\nelementos equivalentes permite al usuario brindar más opciones de compra a\nsus clientes conociendo Qué productos pueden satisfacer la misma necesidad de\naquellos con los cuales no se cuente en existencias el submódulo de inventarios\ncomercial permite al usuario realizar configuraciones especiales a los\nelementos de inventario como es la personalización de cuentas esto permite\nconfiguradas en la bodega o en el grupo de inventario En caso que así se\nrequiera una vez se han realizado las configuraciones correspondientes para\niniciar el manejo de los inventarios en el sistema como es la creación de las\nBodegas los grupos de inventario y los elementos de inventario podremos iniciar\nla labor comercial el manejo comercial de los inventarios en conta pyme permite\nal usuario realizar esta gestión de forma ágil y automatizada ya que una vez\ntenemos creados los elementos de inventario podemos proceder a crear las\nlistas de precios a usar y a crear los diferentes métodos de cálculo a asignar\na las listas de precios creadas las listas de precios deberemos asignarlas a\nlos elementos de inventario que tiene la empresa y que se encuentran disponibles\npara la venta y al momento de asignar dichas listas de precios deberemos\nconfigurar los métodos de cálculo de listas de precios recordemos que estos\nmétodos de cálculo nos permiten calcular los precios O valores de venta que se\nasignarán a los productos o Servicios que presta la empresa así Al momento de\nregistrar una operación de facturación y ventas y Llamar el elemento de\ninventario a facturar el sistema cargará automáticamente ente el precio de venta\ncorrespondiente según la lista de precios indicada en la operación con el\nsubmódulo de inventarios comercial también podremos realizar de forma\nautomática la actualización de listas de precios dependiendo del método de\ncálculo asignado este proceso permite realizar cambios a los precios de venta\nde los elementos de inventario de forma automática teniendo en cuenta los\nparámetros indicados al método de cálculo asignado a la lista de precios\nevitando Así que el usuario deba realizar cálculos manuales a través de\nla creación de perfiles de clientes podremos asignar las mismas\nconfiguraciones a diferentes clientes que cuenten con características\nsimilares podemos asignar una lista de precios por defecto El vendedor por\ndefecto los días de plazo para cuentas por cobrar un cupo de crédito estipulado\ny adicionalmente podremos configurar descuentos comerciales y descuentos\nfinancieros por pronto pago una vez creados los perfiles pueden ser\nasignados a los clientes correspondientes esto permite agilizar\nel proceso comercial de la venta ya que al momento de llamarlo en una operación\nde facturación y ventas el sistema automáticamente cargará los datos\nconfigurados en el perfil de clientes y evitará también que se incurra en\npodemos crear departamentos o líneas y asignarlos a los elementos de inventario\npara así generar informes consolidados o filtrados por los departamentos o líneas\nasignados a los elementos de inventario y verificar la información la gran\nmayoría de los informes del módulo permiten ser filtrados por departamentos\no líneas entre ellos el informe de entradas y salidas en el periodo el\nmovimiento detallado de elementos de inventar\ninventar el informe de saldos de inventarios\nentre otros veamos entonces que son múltiples las ventajas que nos brinda el\nsubmódulo de inventarios comercial ya que es este el cual nos permite agilizar\nla gestión del proceso comercial con nuestros\nclientes esto es todo acerca de descripción general del módulo"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 187.467,
+    "asr": 44100,
+    "filesizeApprox": 10333954,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/bO9URwRBDeQ.md",
+    "json": "videos/2017/bO9URwRBDeQ.json",
+    "infoJson": "videos/2017/bO9URwRBDeQ.info.json"
+  }
+}

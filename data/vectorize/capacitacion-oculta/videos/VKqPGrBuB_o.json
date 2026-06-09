@@ -1,0 +1,622 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:28:33.081Z",
+  "videoId": "VKqPGrBuB_o",
+  "videoUrl": "https://www.youtube.com/watch?v=VKqPGrBuB_o",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "VKqPGrBuB_o",
+    "title": "Software contable ContaPyme - Manejo del catálogo de Plan de Cuentas",
+    "fulltitle": "Software contable ContaPyme - Manejo del catálogo de Plan de Cuentas",
+    "description": "http://www.contapyme.com\nEste video explica cómo manejar el catálogo de plan de cuentas desde ContaPyme móvil y las acciones disponibles a revisar sobre las cuentas.\nCP40-530-020-040B",
+    "duration": 222,
+    "duration_string": "3:42",
+    "upload_date": "20130704",
+    "timestamp": 1372979430,
+    "view_count": 160,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/VKqPGrBuB_o/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWIM6lVu3wV9LoH7TyInEHXwofTQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgczxUinaR1mUzCVYfkix3zUwH0w",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlILA7TyZ4eX0-YEk4FJ7VY1eI6A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl2VcTdTdlRy9sNnyffqlBLzWoGw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VKqPGrBuB_o/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/VKqPGrBuB_o/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=VKqPGrBuB_o",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.45045045045045046,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.509009009009009,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.509009009009009,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 176.805,
+        "asr": 44100,
+        "filesize_approx": 4911068,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Manejo del catálogo de Plan de Cuentas",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/VKqPGrBuB_o/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/VKqPGrBuB_o?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Manejo del catálogo de Plan de Cuentas\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 42,
+    "transcriptChars": 3127,
+    "segments": [
+      {
+        "text": "manejo del catálogo de plan de cuentas en cont pime",
+        "startMs": 719,
+        "durationMs": 3511
+      },
+      {
+        "text": "móvil desde contapyme móvil podemos acceder a la información de todas las",
+        "startMs": 4230,
+        "durationMs": 4880
+      },
+      {
+        "text": "cuentas creadas en el plan único de cuentas de la",
+        "startMs": 9110,
+        "durationMs": 3399
+      },
+      {
+        "text": "empresa para Acceder al catálogo de plan de cuentas debemos Iniciar sesión en",
+        "startMs": 12509,
+        "durationMs": 5121
+      },
+      {
+        "text": "cont py móvil e ingresar a la opción plan de cuentas del menú",
+        "startMs": 17630,
+        "durationMs": 5959
+      },
+      {
+        "text": "catálogos el sistema presenta en la página principal todas las cuentas de",
+        "startMs": 23589,
+        "durationMs": 5361
+      },
+      {
+        "text": "primer nivel como podemos observar al final de cada",
+        "startMs": 28950,
+        "durationMs": 4880
+      },
+      {
+        "text": "renglón encontramos un icono de punta de flecha el cual al dar clic sobre él nos",
+        "startMs": 33830,
+        "durationMs": 5800
+      },
+      {
+        "text": "lleva a las cuentas hijas de la cuenta en la que estamos",
+        "startMs": 39630,
+        "durationMs": 3360
+      },
+      {
+        "text": "ubicados demos clic por ejemplo en activo para visualizar sus cuentas",
+        "startMs": 42990,
+        "durationMs": 5239
+      },
+      {
+        "text": "hijas podemos seguir abriendo el plan de cuentas hasta el nivel que queramos solo",
+        "startMs": 48229,
+        "durationMs": 5160
+      },
+      {
+        "text": "una cuenta damos clic sobre el nombre de la misma y el sistema presenta la",
+        "startMs": 59310,
+        "durationMs": 5640
+      },
+      {
+        "text": "información de la cuenta a manera de ficha lo que nos permite consultar la",
+        "startMs": 53389,
+        "durationMs": 19961
+      },
+      {
+        "text": "para modificar la información de la cuenta damos clic sobre el botón",
+        "startMs": 73360,
+        "durationMs": 4950
+      },
+      {
+        "text": "modificar que se encuentra en la esquina superior derecha o en la esquina",
+        "startMs": 78310,
+        "durationMs": 7839
+      },
+      {
+        "text": "derecha se presenta el formulario para realizar la ión de los datos de la",
+        "startMs": 86159,
+        "durationMs": 6111
+      },
+      {
+        "text": "cuenta como podemos observar cont pime móvil conserva el mismo estándar de",
+        "startMs": 92270,
+        "durationMs": 5040
+      },
+      {
+        "text": "colores de cont pime de escritorio Qué quiere decir que los campos de color",
+        "startMs": 97310,
+        "durationMs": 4799
+      },
+      {
+        "text": "blanco son obligatorios los campos de color verde son opcionales y los campos",
+        "startMs": 102109,
+        "durationMs": 6121
+      },
+      {
+        "text": "de color gris son de solo lectura vamos a agregar al nombre de",
+        "startMs": 108230,
+        "durationMs": 5479
+      },
+      {
+        "text": "esta cuenta que es la cuenta caja almacén principal",
+        "startMs": 113709,
+        "durationMs": 6360
+      },
+      {
+        "text": "al modificar o agregar algún dato en el formulario en la esquina superior",
+        "startMs": 120079,
+        "durationMs": 5030
+      },
+      {
+        "text": "derecha aparece el botón de Okay con el cual podemos guardar los cambios en la",
+        "startMs": 125109,
+        "durationMs": 5200
+      },
+      {
+        "text": "base de datos el botón cancelar descarta los cambios que se hayan",
+        "startMs": 130309,
+        "durationMs": 5640
+      },
+      {
+        "text": "realizado en la parte inferior de esta página encontramos los botones de",
+        "startMs": 135949,
+        "durationMs": 6081
+      },
+      {
+        "text": "consolidar cuenta permite fusionar la información de dos cuentas y dejar solo",
+        "startMs": 142030,
+        "durationMs": 5400
+      },
+      {
+        "text": "un registro funciona igual que en conta pye de",
+        "startMs": 147430,
+        "durationMs": 3640
+      },
+      {
+        "text": "escritorio recodificar cuenta que permite asignar un nuevo código a la",
+        "startMs": 151070,
+        "durationMs": 5200
+      },
+      {
+        "text": "cuenta en todos los registros que esté el código de la cuenta este será",
+        "startMs": 156270,
+        "durationMs": 4840
+      },
+      {
+        "text": "reemplazado por el nuevo código asignado y la acción eliminar cuenta la",
+        "startMs": 161110,
+        "durationMs": 5600
+      },
+      {
+        "text": "cual permite eliminar la cuenta de la base de datos antes de hacer este",
+        "startMs": 166710,
+        "durationMs": 4280
+      },
+      {
+        "text": "proceso el sistema verifica si es posible realizar la eliminación si la",
+        "startMs": 170990,
+        "durationMs": 4519
+      },
+      {
+        "text": "cuenta está asociada a operaciones Ya procesadas esta no se se podrá",
+        "startMs": 175509,
+        "durationMs": 5481
+      },
+      {
+        "text": "eliminar se debe tener en cuenta que todas las acciones que se pueden",
+        "startMs": 180990,
+        "durationMs": 3879
+      },
+      {
+        "text": "realizar en el catálogo de plan de cuentas pueden ser restringidas o",
+        "startMs": 184869,
+        "durationMs": 4080
+      },
+      {
+        "text": "habilitadas para un determinado usuario o grupo de usuarios Para ello se deben",
+        "startMs": 188949,
+        "durationMs": 5000
+      },
+      {
+        "text": "configurar los perfiles de seguridad para clientes móviles Para más",
+        "startMs": 193949,
+        "durationMs": 3920
+      },
+      {
+        "text": "información sobre este tema por favor consultar el video configuración de los",
+        "startMs": 197869,
+        "durationMs": 4280
+      },
+      {
+        "text": "perfiles de seguridad para clientes móviles vamos a guardar este registro",
+        "startMs": 202149,
+        "durationMs": 6121
+      },
+      {
+        "text": "dando clic en el botón Ok y vamos a volver a la página principal de las",
+        "startMs": 208270,
+        "durationMs": 6039
+      },
+      {
+        "text": "cuentas de primer nivel esto es todo sobre manejo del",
+        "startMs": 214309,
+        "durationMs": 4761
+      },
+      {
+        "text": "catálogo de plan de cuentas en contapyme móvil",
+        "startMs": 219070,
+        "durationMs": 5050
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video explica cómo manejar el catálogo de plan de cuentas desde ContaPyme móvil y las acciones disponibles a revisar sobre las cuentas.\nCP40-530-020-040B\n\n## Transcripción\n\nmanejo del catálogo de plan de cuentas en cont pime\nmóvil desde contapyme móvil podemos acceder a la información de todas las\ncuentas creadas en el plan único de cuentas de la\nempresa para Acceder al catálogo de plan de cuentas debemos Iniciar sesión en\ncont py móvil e ingresar a la opción plan de cuentas del menú\ncatálogos el sistema presenta en la página principal todas las cuentas de\nprimer nivel como podemos observar al final de cada\nrenglón encontramos un icono de punta de flecha el cual al dar clic sobre él nos\nlleva a las cuentas hijas de la cuenta en la que estamos\nubicados demos clic por ejemplo en activo para visualizar sus cuentas\nhijas podemos seguir abriendo el plan de cuentas hasta el nivel que queramos solo\nuna cuenta damos clic sobre el nombre de la misma y el sistema presenta la\ninformación de la cuenta a manera de ficha lo que nos permite consultar la\npara modificar la información de la cuenta damos clic sobre el botón\nmodificar que se encuentra en la esquina superior derecha o en la esquina\nderecha se presenta el formulario para realizar la ión de los datos de la\ncuenta como podemos observar cont pime móvil conserva el mismo estándar de\ncolores de cont pime de escritorio Qué quiere decir que los campos de color\nblanco son obligatorios los campos de color verde son opcionales y los campos\nde color gris son de solo lectura vamos a agregar al nombre de\nesta cuenta que es la cuenta caja almacén principal\nal modificar o agregar algún dato en el formulario en la esquina superior\nderecha aparece el botón de Okay con el cual podemos guardar los cambios en la\nbase de datos el botón cancelar descarta los cambios que se hayan\nrealizado en la parte inferior de esta página encontramos los botones de\nconsolidar cuenta permite fusionar la información de dos cuentas y dejar solo\nun registro funciona igual que en conta pye de\nescritorio recodificar cuenta que permite asignar un nuevo código a la\ncuenta en todos los registros que esté el código de la cuenta este será\nreemplazado por el nuevo código asignado y la acción eliminar cuenta la\ncual permite eliminar la cuenta de la base de datos antes de hacer este\nproceso el sistema verifica si es posible realizar la eliminación si la\ncuenta está asociada a operaciones Ya procesadas esta no se se podrá\neliminar se debe tener en cuenta que todas las acciones que se pueden\nrealizar en el catálogo de plan de cuentas pueden ser restringidas o\nhabilitadas para un determinado usuario o grupo de usuarios Para ello se deben\nconfigurar los perfiles de seguridad para clientes móviles Para más\ninformación sobre este tema por favor consultar el video configuración de los\nperfiles de seguridad para clientes móviles vamos a guardar este registro\ndando clic en el botón Ok y vamos a volver a la página principal de las\ncuentas de primer nivel esto es todo sobre manejo del\ncatálogo de plan de cuentas en contapyme móvil"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 176.805,
+    "asr": 44100,
+    "filesizeApprox": 4911068,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/VKqPGrBuB_o.md",
+    "json": "videos/2013/VKqPGrBuB_o.json",
+    "infoJson": "videos/2013/VKqPGrBuB_o.info.json"
+  },
+  "publishYear": "2013",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "VKqPGrBuB_o",
+        "youtubeId": "VKqPGrBuB_o",
+        "titulo": "VKqPGrBuB_o",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

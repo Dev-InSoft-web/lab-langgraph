@@ -1,5 +1,5 @@
 -- Proyectos y secciones (BD_LAB · nomenclatura INSOFT)
-INSERT INTO "BD_LAB"."STORE_STOREPROJECT" ("SLUG", "NAME", "DESCRIPTION", "SORTKEY") VALUES
+INSERT INTO "BD_LANGLAB"."STORE_STOREPROJECT" ("SLUG", "NAME", "DESCRIPTION", "SORTKEY") VALUES
 	('isa-doc', 'ISA-DOC', 'Documentación, tickets, bitácora y datos editoriales del front estático.', 10),
 	('patyia', 'PatyIA', 'Asistente IA: conversaciones, prompts, caches y catálogo API.', 20),
 	('clientesis', 'ClientesIS · ContaPymeU', 'Capacitación ContaPymeU y snapshots Postman para gh-pages.', 30)
@@ -9,7 +9,7 @@ ON CONFLICT ("SLUG") DO UPDATE SET
 	"SORTKEY" = EXCLUDED."SORTKEY",
 	"FHULTACT" = now();
 
-INSERT INTO "BD_LAB"."STORE_STORESECTION" ("PROJECTSLUG", "SLUG", "NAME", "SORTKEY") VALUES
+INSERT INTO "BD_LANGLAB"."STORE_STORESECTION" ("PROJECTSLUG", "SLUG", "NAME", "SORTKEY") VALUES
 	('isa-doc', 'tickets', 'Tickets', 10),
 	('isa-doc', 'postman', 'Postman / API', 20),
 	('isa-doc', 'bitacora', 'Bitácora', 30),

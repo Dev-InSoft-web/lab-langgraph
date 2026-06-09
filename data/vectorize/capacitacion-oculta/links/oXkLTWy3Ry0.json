@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "entryId": "oXkLTWy3Ry0",
+  "youtubeId": "oXkLTWy3Ry0",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:10:08.863Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2014/oXkLTWy3Ry0.json",
+  "icursos": [
+    "CP40MOD610"
+  ],
+  "entries": [
+    {
+      "entryId": "oXkLTWy3Ry0",
+      "youtubeId": "oXkLTWy3Ry0",
+      "iplan": "020010",
+      "capitulo": "Introducción al módulo",
+      "titulo": "Explorador gráfico de la empresa",
+      "descripcion": "Este video explica qué es y cómo es el manejo básico del explorador gráfico de la empresa.&nbsp;",
+      "profesor": {
+        "rol": "Administradora",
+        "nombre": "Paola Alzate López"
+      },
+      "dificultad": "Básico",
+      "source": "html-page",
+      "icurso": "CP40MOD610"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "descripcionCurso": "Módulo de sistema básico de ContaPyme"
+    }
+  ]
+}

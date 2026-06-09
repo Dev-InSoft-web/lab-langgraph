@@ -1,0 +1,3191 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:32:13.206Z",
+  "videoId": "CuK-uyp-NOg",
+  "videoUrl": "https://www.youtube.com/watch?v=CuK-uyp-NOg",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "CuK-uyp-NOg",
+    "title": "Parametrización del módulo de Nómina en ContaPyme®",
+    "fulltitle": "Parametrización del módulo de Nómina en ContaPyme®",
+    "description": "Módulo de Nómina ContaPyme®: Guía de implementación.\n\nParametrización:\n\n1. Implemente Nómina Electrónica con el apoyo de nuestros expertos.\n\n2. Conozca cómo debe parametrizar el sistema.",
+    "duration": 2958,
+    "duration_string": "49:18",
+    "upload_date": "20211126",
+    "timestamp": 1637936175,
+    "view_count": 2695,
+    "like_count": 7,
+    "comment_count": 5,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/CuK-uyp-NOg/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJBOYVBpGDDvNlU7ukIWsskWJs7g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBoG5qIr5X4TCk1zoiIrktsH8aU5A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHUszLWNoty2ALl341Ixind1DH8Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCnq7ISoixIARmjYOrTOWbJnMCpNA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCDd5ztsms_XiDAx0VUZsdE_NSEw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFRT_l1baULeGDBKKFrX-usvujkA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChsW1xMkow77ueZ2IR8k4XeJiVTQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChSYthCAf0R74cYWL10Gwr8OX-2g",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/CuK-uyp-NOg/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/CuK-uyp-NOg/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=CuK-uyp-NOg",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.03380662609871535,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10040567951318459,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10040567951318459,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 252.504,
+        "asr": 44100,
+        "filesize_approx": 93354232,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Parametrización del módulo de Nómina en ContaPyme®",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/CuK-uyp-NOg/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/CuK-uyp-NOg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Parametrización del módulo de Nómina en ContaPyme®\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 552,
+    "transcriptChars": 39159,
+    "segments": [
+      {
+        "text": "entonces ahorita ya vamos a pasar a revisar la parametrización del sistema y",
+        "startMs": 4880,
+        "durationMs": 6260
+      },
+      {
+        "text": "nos vamos a enfocar y explicar cada uno de estos ítems que vimos aquí entonces",
+        "startMs": 11140,
+        "durationMs": 5490
+      },
+      {
+        "text": "el primer ítem el primer ítem va a ser los conceptos de pago de nómina que",
+        "startMs": 16630,
+        "durationMs": 5189
+      },
+      {
+        "text": "recordemos que el concepto pago nómina es cualquier valor que yo pague o",
+        "startMs": 21819,
+        "durationMs": 4441
+      },
+      {
+        "text": "controle en virtud de un contrato de trabajo",
+        "startMs": 26260,
+        "durationMs": 3850
+      },
+      {
+        "text": "trabajo y después vamos a ver los perfiles de",
+        "startMs": 30110,
+        "durationMs": 2880
+      },
+      {
+        "text": "contrato que son esas condiciones y conceptos que yo puedo agrupar porque",
+        "startMs": 32990,
+        "durationMs": 4590
+      },
+      {
+        "text": "nómina que son esas entidades a las que yo debo pagar los aportes o que",
+        "startMs": 42410,
+        "durationMs": 4200
+      },
+      {
+        "text": "acompañan de una u otra manera ese pago de conceptos de nóminas cómo llps",
+        "startMs": 46610,
+        "durationMs": 7320
+      },
+      {
+        "text": "pensiones y cesantías excel aquí la buena noticia es que",
+        "startMs": 53930,
+        "durationMs": 5540
+      },
+      {
+        "text": "el catálogo de conceptos de pago la mona viene preconfigurado listo para usar lo",
+        "startMs": 59470,
+        "durationMs": 5249
+      },
+      {
+        "text": "único que vamos a hacer es revisar y de pronto crear conceptos adicionales que",
+        "startMs": 64719,
+        "durationMs": 4351
+      },
+      {
+        "text": "yo necesite los perfiles del contrato también viene un catálogo completamente",
+        "startMs": 69070,
+        "durationMs": 5399
+      },
+      {
+        "text": "preconfigurado con los ejemplos o con las necesidades más más comunes de una",
+        "startMs": 74469,
+        "durationMs": 4621
+      },
+      {
+        "text": "empresa pyme en colombia lo único que vamos a hacer",
+        "startMs": 79090,
+        "durationMs": 4130
+      },
+      {
+        "text": "es revisarlo y de pronto a gustar las cositas particulares de la empresa y con",
+        "startMs": 83220,
+        "durationMs": 5340
+      },
+      {
+        "text": "las entidades de nómina pues también hay una muy buena noticia y es que con está",
+        "startMs": 37580,
+        "durationMs": 54610
+      },
+      {
+        "text": "pyme digamos que ya va a tener predefinidas las entidades más populares",
+        "startMs": 92190,
+        "durationMs": 7630
+      },
+      {
+        "text": "de una nominada en colombia entonces vamos a ver que esto es supremamente",
+        "startMs": 99820,
+        "durationMs": 4980
+      },
+      {
+        "text": "sencillo vamos a iniciar con conceptos de para duelo entonces ya sabemos que es",
+        "startMs": 104800,
+        "durationMs": 4800
+      },
+      {
+        "text": "un catálogo preconfigurado pero antes de ir a ver pues que está preconfigurado en",
+        "startMs": 109600,
+        "durationMs": 4890
+      },
+      {
+        "text": "este catálogo vamos a entender un poquito cómo funcionan los conceptos del",
+        "startMs": 114490,
+        "durationMs": 4620
+      },
+      {
+        "text": "pago de nómina en contra filme entonces los conceptos de pago de nómina en",
+        "startMs": 119110,
+        "durationMs": 3600
+      },
+      {
+        "text": "contra pyme funcionan de la siguiente manera tenemos dos como quien dice dos",
+        "startMs": 122710,
+        "durationMs": 3960
+      },
+      {
+        "text": "catálogos unos que son los conceptos de pago de nómina y otros que son los",
+        "startMs": 126670,
+        "durationMs": 4980
+      },
+      {
+        "text": "conceptos base estos conceptos base son un catálogo del sistema donde nosotros",
+        "startMs": 131650,
+        "durationMs": 6150
+      },
+      {
+        "text": "ya enviamos predefinido el comportamiento es decir si es de donde",
+        "startMs": 137800,
+        "durationMs": 5220
+      },
+      {
+        "text": "vengo es deducciones costos para la empresa tenemos ahí predefinido cómo se",
+        "startMs": 143020,
+        "durationMs": 4530
+      },
+      {
+        "text": "debe reportar a la dian y tenemos la fórmula del sistema cierto combate en",
+        "startMs": 147550,
+        "durationMs": 6060
+      },
+      {
+        "text": "esos en esos conceptos hacen valga la redundancia creamos los conceptos de",
+        "startMs": 153610,
+        "durationMs": 5550
+      },
+      {
+        "text": "nómina los conceptos de nómina ya es un catálogo que puede manipular el usuario",
+        "startMs": 159160,
+        "durationMs": 4560
+      },
+      {
+        "text": "en él además de asociar el concepto barrio pues le puede definir la",
+        "startMs": 163720,
+        "durationMs": 6160
+      },
+      {
+        "text": "recurrencia del pago pues de ese concepto denomina la forma de cálculo si",
+        "startMs": 169880,
+        "durationMs": 5190
+      },
+      {
+        "text": "queremos que sea un que no sea por fórmulas y lo manual o con la fórmula",
+        "startMs": 175070,
+        "durationMs": 4770
+      },
+      {
+        "text": "del sistema o personalizar la fórmula y el manejo contable",
+        "startMs": 179840,
+        "durationMs": 4430
+      },
+      {
+        "text": "principalmente entonces para entender esto un poquito como ya más tangible",
+        "startMs": 184270,
+        "durationMs": 5700
+      },
+      {
+        "text": "vamos a contar pyme",
+        "startMs": 189970,
+        "durationMs": 4430
+      },
+      {
+        "text": "cerremos estas ventanas igual que monos entonces en la pestaña",
+        "startMs": 194410,
+        "durationMs": 5170
+      },
+      {
+        "text": "nómina en la pestaña de nómina yo vengo conceptos de nómina",
+        "startMs": 199580,
+        "durationMs": 5130
+      },
+      {
+        "text": "y vamos a ver que entonces como veíamos en la sesión pasada tenemos todos los",
+        "startMs": 204710,
+        "durationMs": 6030
+      },
+      {
+        "text": "conceptos de nóminas ya listos para usar vamos a ver un poquito",
+        "startMs": 210740,
+        "durationMs": 6069
+      },
+      {
+        "text": "de pronto salario básico que después digamos que él",
+        "startMs": 216809,
+        "durationMs": 5381
+      },
+      {
+        "text": "el concepto más básico que tiene la nómina y vemos qué es lo que nos va a",
+        "startMs": 222190,
+        "durationMs": 4380
+      },
+      {
+        "text": "pedir el sistema entonces vamos a ver todo por pasivos",
+        "startMs": 226570,
+        "durationMs": 3739
+      },
+      {
+        "text": "entonces en la primera pestaña nos dice que vamos a definir ese concepto",
+        "startMs": 230309,
+        "durationMs": 4320
+      },
+      {
+        "text": "denominado lo principal que yo le tengo que definir es el concepto base voy a",
+        "startMs": 234629,
+        "durationMs": 5130
+      },
+      {
+        "text": "abrir aquí para que ustedes identifiquen que tenemos todos estos",
+        "startMs": 239759,
+        "durationMs": 6141
+      },
+      {
+        "text": "conceptos base ya listos para usar que son todos los que me pide la diana aquí",
+        "startMs": 245910,
+        "durationMs": 6270
+      },
+      {
+        "text": "está todo lo que me pide la bien y todo lo que tiene digamos que ya su fórmula y",
+        "startMs": 252180,
+        "durationMs": 4650
+      },
+      {
+        "text": "su comportamiento entonces vamos a escoger el salario básico y al sistema",
+        "startMs": 256830,
+        "durationMs": 4860
+      },
+      {
+        "text": "me trae como un un resumen de que significa escoger ese concepto base",
+        "startMs": 261690,
+        "durationMs": 5790
+      },
+      {
+        "text": "entonces él nos dice este concepto pertenece al grupo de salario básico",
+        "startMs": 267480,
+        "durationMs": 4020
+      },
+      {
+        "text": "tiene un comportamiento como devengo del empleado los datos de registro sea cada",
+        "startMs": 271500,
+        "durationMs": 8750
+      },
+      {
+        "text": "vaya a registrar este concepto el sistema me va a pedir",
+        "startMs": 280260,
+        "durationMs": 3440
+      },
+      {
+        "text": "cantidad y valor y lo vamos a medir en día cierto como tiene cantidad esa",
+        "startMs": 283700,
+        "durationMs": 5280
+      },
+      {
+        "text": "unidad va a ser días el lic ya no tengo que saber más yo",
+        "startMs": 288980,
+        "durationMs": 5300
+      },
+      {
+        "text": "solamente tengo que saber que eso se debe comportar como un salario igual",
+        "startMs": 294280,
+        "durationMs": 4610
+      },
+      {
+        "text": "luego nos pregunta el manejo digamos que un manejo que se le va a dar a este a",
+        "startMs": 298890,
+        "durationMs": 6090
+      },
+      {
+        "text": "este pago que nos va a preguntar si es recurrente o no es recurrente si yo",
+        "startMs": 304980,
+        "durationMs": 4500
+      },
+      {
+        "text": "selecciono esta está hecha de recurrente se me va a habilitar esta pestaña de",
+        "startMs": 309480,
+        "durationMs": 5280
+      },
+      {
+        "text": "pago recurrente que ya vamos a ver a continuación",
+        "startMs": 314760,
+        "durationMs": 2660
+      },
+      {
+        "text": "continuación y finalmente nos pregunta la",
+        "startMs": 317420,
+        "durationMs": 3010
+      },
+      {
+        "text": "disponibilidad de este concepto en el documento impreso del pago de nómina",
+        "startMs": 320430,
+        "durationMs": 4770
+      },
+      {
+        "text": "entonces digamos que ustedes ven salario es un concepto que yo efectivamente",
+        "startMs": 325200,
+        "durationMs": 4590
+      },
+      {
+        "text": "quiero ver reflejado en el comprobante de nómina que le entregó al empleado",
+        "startMs": 329790,
+        "durationMs": 4530
+      },
+      {
+        "text": "pero por ejemplo el pago de aire el que hace la empresa",
+        "startMs": 334320,
+        "durationMs": 4470
+      },
+      {
+        "text": "pues no lo quiera ver reflejado en el empleado entonces ahorita vamos a ver un",
+        "startMs": 338790,
+        "durationMs": 5520
+      },
+      {
+        "text": "caso en el que este check pues estaría apagada listo entonces le dijimos que el",
+        "startMs": 344310,
+        "durationMs": 5250
+      },
+      {
+        "text": "salario era un pago recurrente nos vamos a venir para la pestañita de pago",
+        "startMs": 349560,
+        "durationMs": 5040
+      },
+      {
+        "text": "recurrente y vamos a ver que nos pide tres datos muy básicos nos pide cada",
+        "startMs": 354600,
+        "durationMs": 4950
+      },
+      {
+        "text": "cuánto se va a pagar es decir la periodicidad tenemos que aquí nos da",
+        "startMs": 359550,
+        "durationMs": 3450
+      },
+      {
+        "text": "opción de cada pago anual semestral cuatrimestral existe",
+        "startMs": 363000,
+        "durationMs": 4610
+      },
+      {
+        "text": "este este el salario y digamos que la mayoría de los conceptos se deben",
+        "startMs": 367610,
+        "durationMs": 4470
+      },
+      {
+        "text": "liquidar cada pago cada paso que quiere decir una vez yo tengo la operación de",
+        "startMs": 372080,
+        "durationMs": 7130
+      },
+      {
+        "text": "yo yo voy a liquidar o hacer la operación de pago de nómina el sistema",
+        "startMs": 379210,
+        "durationMs": 5199
+      },
+      {
+        "text": "me va a cargar este concepto si lo tengo asociado en el contrato en el contrato",
+        "startMs": 384409,
+        "durationMs": 5191
+      },
+      {
+        "text": "me va a preguntar esto de mes y fecha de pago pues no aplica en este caso y aquí",
+        "startMs": 389600,
+        "durationMs": 5040
+      },
+      {
+        "text": "como una ayuda del sistema me dice este este como la traducción de esta",
+        "startMs": 394640,
+        "durationMs": 4230
+      },
+      {
+        "text": "configuración me va a decir este salario se paga en todos los pagos de lo mismo",
+        "startMs": 398870,
+        "durationMs": 5270
+      },
+      {
+        "text": "vamos a hacer un ejemplo en el caso que yo dijera",
+        "startMs": 404140,
+        "durationMs": 6350
+      },
+      {
+        "text": "otro concepto que pronto si tenga un pago",
+        "startMs": 410490,
+        "durationMs": 2960
+      },
+      {
+        "text": "pago recurrente por ejemplo una prima de gas",
+        "startMs": 413450,
+        "durationMs": 3610
+      },
+      {
+        "text": "nosotros sabemos que la prima legal pues ya no es",
+        "startMs": 417060,
+        "durationMs": 5510
+      },
+      {
+        "text": "se paga semestralmente entonces revisemos un momentico esta definición",
+        "startMs": 422580,
+        "durationMs": 6319
+      },
+      {
+        "text": "veamos que este concepto base pues ya no es algo básico sino prima legal me dice",
+        "startMs": 428899,
+        "durationMs": 4711
+      },
+      {
+        "text": "que tiene un comportamiento de prestaciones que me va a pedir cantidad",
+        "startMs": 433610,
+        "durationMs": 4229
+      },
+      {
+        "text": "de valor cada vez que yo lo registre y la unidad va a ser en días y en pago",
+        "startMs": 437839,
+        "durationMs": 5521
+      },
+      {
+        "text": "recurrente veamos que aquí la periodicidad ya no es cada pago",
+        "startMs": 443360,
+        "durationMs": 6620
+      },
+      {
+        "text": "y me pregunta el mes es decir de ese semestre que tiene seis meses",
+        "startMs": 449990,
+        "durationMs": 5249
+      },
+      {
+        "text": "en que me se debe liquidar está está este concepto entonces vamos a decir en",
+        "startMs": 455239,
+        "durationMs": 5580
+      },
+      {
+        "text": "el mes 6 eso aquí me traduce a del primer semestre es el es junio y el",
+        "startMs": 460819,
+        "durationMs": 6150
+      },
+      {
+        "text": "segundo semestre en diciembre y finalmente la fecha de pago ustedes",
+        "startMs": 466969,
+        "durationMs": 4080
+      },
+      {
+        "text": "saben que hay empresas que las primas las pagan los 15 de junio y 15 de",
+        "startMs": 471049,
+        "durationMs": 5430
+      },
+      {
+        "text": "diciembre y pues simplemente yo aquí le podría poner último día del mes o el mes",
+        "startMs": 476479,
+        "durationMs": 5610
+      },
+      {
+        "text": "o el día 7 o digamos que el día que yo quiera que se me requiere este este pago",
+        "startMs": 482089,
+        "durationMs": 5790
+      },
+      {
+        "text": "no me cae aquí el sistema como yo les mencionaba ahorita pues nos trae también",
+        "startMs": 487879,
+        "durationMs": 6901
+      },
+      {
+        "text": "la el ejemplo de cuando se pagaría este",
+        "startMs": 494780,
+        "durationMs": 2990
+      },
+      {
+        "text": "este concepto vamos a volver a el concepto salario tenemos el pago",
+        "startMs": 497770,
+        "durationMs": 6100
+      },
+      {
+        "text": "recurrente que como ustedes ven sólo me piden tres datos y son muy básicos todo",
+        "startMs": 503870,
+        "durationMs": 3630
+      },
+      {
+        "text": "esto viene preconfigurado y vamos a la forma de acá entonces el salario",
+        "startMs": 507500,
+        "durationMs": 6650
+      },
+      {
+        "text": "contable por defecto trae la fórmula de cantidad de anjé aquí me va a preguntar",
+        "startMs": 514150,
+        "durationMs": 5650
+      },
+      {
+        "text": "cantidad de valor entonces me el sistema me pregunta si yo",
+        "startMs": 519800,
+        "durationMs": 4860
+      },
+      {
+        "text": "la cantidad la quiero registrar manual hola quiero registrar por fórmula por",
+        "startMs": 524660,
+        "durationMs": 5610
+      },
+      {
+        "text": "defecto el sistema me va a traer la fórmula del sistema",
+        "startMs": 530270,
+        "durationMs": 3980
+      },
+      {
+        "text": "pero yo también en algún momento y esto será una una capacitación más avanzada",
+        "startMs": 534250,
+        "durationMs": 5500
+      },
+      {
+        "text": "podría personas personalizar la fórmula y digamos que ya",
+        "startMs": 539750,
+        "durationMs": 5010
+      },
+      {
+        "text": "tengo libertad de manejar estos conceptos como como mi empresa lo",
+        "startMs": 544760,
+        "durationMs": 5010
+      },
+      {
+        "text": "necesite entonces en cantidad vemos que tenemos la fórmula y en valor la fórmula",
+        "startMs": 549770,
+        "durationMs": 5580
+      },
+      {
+        "text": "también viene por defecto y es muy sencilla porque aquí como el sistema me",
+        "startMs": 555350,
+        "durationMs": 4260
+      },
+      {
+        "text": "pide cantidad yo lo que necesito aquí es la fórmula del valor unitario porque en",
+        "startMs": 559610,
+        "durationMs": 5980
+      },
+      {
+        "text": "la operación de pago pues simplemente eso se va a multiplicar por la cantidad",
+        "startMs": 565590,
+        "durationMs": 4290
+      },
+      {
+        "text": "que yo tengo aquí como el salario básico se calcula todo automáticamente vamos a",
+        "startMs": 569880,
+        "durationMs": 6060
+      },
+      {
+        "text": "ver de pronto uno que no está en automático que van a ser las horas ex",
+        "startMs": 575940,
+        "durationMs": 4920
+      },
+      {
+        "text": "entonces veamos la configuración de horas extras tenemos la definición vamos",
+        "startMs": 580860,
+        "durationMs": 4740
+      },
+      {
+        "text": "a repasar la definición el concepto hace ya es una hora extra pertenece al grupo",
+        "startMs": 585600,
+        "durationMs": 5520
+      },
+      {
+        "text": "recargos y horas extras tiene un comportamiento de tipo devengo y el tipo",
+        "startMs": 591120,
+        "durationMs": 4560
+      },
+      {
+        "text": "de registro miremos que aquí el sistema ya me va a pedir porcentaje cantidad",
+        "startMs": 595680,
+        "durationMs": 6180
+      },
+      {
+        "text": "valor y las fechas recordemos que este tema de las fechas y los valores que se",
+        "startMs": 601860,
+        "durationMs": 5370
+      },
+      {
+        "text": "piden los determina la diana la hora extra es un poco recurrente o no",
+        "startMs": 607230,
+        "durationMs": 6220
+      },
+      {
+        "text": "es un poco recurrente para los que están pendientes pueden ir",
+        "startMs": 613450,
+        "durationMs": 5040
+      },
+      {
+        "text": "comentando en el chat si la hora extra consideran que es un pago recurrente o",
+        "startMs": 618490,
+        "durationMs": 4410
+      },
+      {
+        "text": "no y mientras ustedes responden vamos viendo que la disponibilidad de este",
+        "startMs": 622900,
+        "durationMs": 6590
+      },
+      {
+        "text": "concepto pues evidentemente yo sí quiero que si un empleado hace unas horas",
+        "startMs": 629490,
+        "durationMs": 4329
+      },
+      {
+        "text": "extras en su comprobante de pago le aparezca el concepto de horas ex a y",
+        "startMs": 633819,
+        "durationMs": 5641
+      },
+      {
+        "text": "estoy viendo que ya están respondiendo muy bien este no es un",
+        "startMs": 639460,
+        "durationMs": 5510
+      },
+      {
+        "text": "concepto un pago recurrente porque porque es eventual cuando el empleado",
+        "startMs": 644970,
+        "durationMs": 4830
+      },
+      {
+        "text": "eventualmente haga horas extras y se registra por novedad listo entonces",
+        "startMs": 649800,
+        "durationMs": 4990
+      },
+      {
+        "text": "vamos a pasar a parte la forma del cálculo y lo vamos a revisar mejor vamos",
+        "startMs": 654790,
+        "durationMs": 5640
+      },
+      {
+        "text": "a ver que la cantidad es manual porque la cantidad de las horas extras digamos",
+        "startMs": 660430,
+        "durationMs": 6030
+      },
+      {
+        "text": "que está configurada con una forma de cálculo manual porque pues como decíamos",
+        "startMs": 666460,
+        "durationMs": 5489
+      },
+      {
+        "text": "ahorita las horas extras se registran por medio de una novedad y pues la",
+        "startMs": 671949,
+        "durationMs": 4411
+      },
+      {
+        "text": "cantidad dependerá de las horas extras por el empleado",
+        "startMs": 676360,
+        "durationMs": 5250
+      },
+      {
+        "text": "el valor y así lo tenemos por fórmula porque el valor es simplemente el",
+        "startMs": 681610,
+        "durationMs": 3719
+      },
+      {
+        "text": "salario básico ahora y eso se me va a multiplicar por un porcentaje y aquí",
+        "startMs": 685329,
+        "durationMs": 5401
+      },
+      {
+        "text": "vamos a tener en la nueva pestañita porcentaje porque me aparece esta",
+        "startMs": 690730,
+        "durationMs": 4770
+      },
+      {
+        "text": "personita de porcentaje porque aquí el tipo de registro me dice que se requiere",
+        "startMs": 695500,
+        "durationMs": 4680
+      },
+      {
+        "text": "el porcentaje entonces venimos aquí nos paramos en la pestaña porcentaje y",
+        "startMs": 700180,
+        "durationMs": 5310
+      },
+      {
+        "text": "también me va a preguntar entonces si el valor del porcentaje va a ser manual",
+        "startMs": 705490,
+        "durationMs": 4589
+      },
+      {
+        "text": "esto se daría en el caso de que yo tenga un concepto en el que quiero registrar",
+        "startMs": 710079,
+        "durationMs": 4771
+      },
+      {
+        "text": "manualmente en la novedad el porcentaje o si el porcentaje fijo en este caso la",
+        "startMs": 714850,
+        "durationMs": 5580
+      },
+      {
+        "text": "hora de extraer no pues tiene un porcentaje fijo que es 25 por ciento",
+        "startMs": 720430,
+        "durationMs": 5440
+      },
+      {
+        "text": "ese 25% se le debe registrar a la diana entonces aquí que vamos a ver como yo sé",
+        "startMs": 725870,
+        "durationMs": 5490
+      },
+      {
+        "text": "que la operación de pago de nómina multiplica la cantidad de valor por",
+        "startMs": 731360,
+        "durationMs": 4860
+      },
+      {
+        "text": "porcentaje para determinar el valor total de ese concepto vamos a decir que",
+        "startMs": 736220,
+        "durationMs": 4740
+      },
+      {
+        "text": "este es un porcentaje acumulada es decir no sólo el valor de la hora no la va a",
+        "startMs": 740960,
+        "durationMs": 5430
+      },
+      {
+        "text": "multiplicar por 25 por ciento sino por ciento 25 por ciento este simplemente es",
+        "startMs": 746390,
+        "durationMs": 5580
+      },
+      {
+        "text": "el chulito que viene aquí prendido",
+        "startMs": 751970,
+        "durationMs": 3770
+      },
+      {
+        "text": "prendido muy bien aquí digamos que conforman el",
+        "startMs": 755740,
+        "durationMs": 2910
+      },
+      {
+        "text": "cálculo podemos ver varios pero no tiene mucho misterio vamos a volver a nuestro",
+        "startMs": 758650,
+        "durationMs": 6120
+      },
+      {
+        "text": "ejemplo de salario básico y vamos a pararlo ya en el manejo",
+        "startMs": 764770,
+        "durationMs": 5000
+      },
+      {
+        "text": "contable que me va a preguntar del manejo contable como en contacto con los",
+        "startMs": 769770,
+        "durationMs": 4440
+      },
+      {
+        "text": "otros catálogos simplemente yo le tengo que determinar cada vez que se liquide",
+        "startMs": 774210,
+        "durationMs": 4500
+      },
+      {
+        "text": "ese concepto que cuenta del book va a amor entonces veamos que aquí",
+        "startMs": 778710,
+        "durationMs": 7970
+      },
+      {
+        "text": "tenemos algo muy interesante nosotros en contabilidad pues tenemos los gastos",
+        "startMs": 786680,
+        "durationMs": 4590
+      },
+      {
+        "text": "administrativos y los gastos por ventas y tenemos empleados que pertenecen a un",
+        "startMs": 791270,
+        "durationMs": 5190
+      },
+      {
+        "text": "centro de costos de venta y a un centro de costos y de pronto administrativo",
+        "startMs": 796460,
+        "durationMs": 4590
+      },
+      {
+        "text": "como se diferencia está aquí muy simple si yo no lo tengo que diferenciar",
+        "startMs": 801050,
+        "durationMs": 4590
+      },
+      {
+        "text": "simplemente pues aquí es una una cuenta y listo que si vemos aquí el",
+        "startMs": 805640,
+        "durationMs": 6720
+      },
+      {
+        "text": "sistema lo que hacen es abrirme el seleccionador de cuentas",
+        "startMs": 812360,
+        "durationMs": 4730
+      },
+      {
+        "text": "si yo no no tengo el perdón si yo tengo varios centros de costos que tienen una",
+        "startMs": 817090,
+        "durationMs": 5940
+      },
+      {
+        "text": "clase diferente es decir no son de gastos y otros son de ventas yo puedo",
+        "startMs": 823030,
+        "durationMs": 3750
+      },
+      {
+        "text": "seleccionar aquí este configurar la cuenta según la clase contable y aquí",
+        "startMs": 826780,
+        "durationMs": 4500
+      },
+      {
+        "text": "simplemente me va a preguntar que para la clase del centro de costos 1 el",
+        "startMs": 831280,
+        "durationMs": 4680
+      },
+      {
+        "text": "sistema me va a traer me va a cargar las 51 es decir todo empleado al que se le",
+        "startMs": 835960,
+        "durationMs": 6990
+      },
+      {
+        "text": "vaya a liquidar este concepto que esté asociado a un centro de costos de clase",
+        "startMs": 842950,
+        "durationMs": 4230
+      },
+      {
+        "text": "gastos la cuenta contable que se va a mover es la 51 05 06 pero si por el",
+        "startMs": 847180,
+        "durationMs": 6870
+      },
+      {
+        "text": "contrario el empleado está asociado a un centro de costos que tiene ventas como",
+        "startMs": 854050,
+        "durationMs": 5220
+      },
+      {
+        "text": "clase la cuenta que se va a mostrar a mover es la 52 05 06",
+        "startMs": 859270,
+        "durationMs": 6330
+      },
+      {
+        "text": "todo esto es configurable por el usuario este este tema de manejo acumulado es un",
+        "startMs": 865600,
+        "durationMs": 6539
+      },
+      {
+        "text": "tema un poco más avanzado lo vamos a ver más adelante usted no se tienen que",
+        "startMs": 872139,
+        "durationMs": 3331
+      },
+      {
+        "text": "preocupar por eso en este momento simplemente validan que ésta sea la",
+        "startMs": 875470,
+        "durationMs": 4589
+      },
+      {
+        "text": "cuenta que se debe mover eso lo deben hacer en compañía de su contador y aquí",
+        "startMs": 880059,
+        "durationMs": 4801
+      },
+      {
+        "text": "vamos a ver una descripción para los para que el usuario pueda digamos que es",
+        "startMs": 884860,
+        "durationMs": 6680
+      },
+      {
+        "text": "documentar consideraciones o temas descriptivos de",
+        "startMs": 891540,
+        "durationMs": 2469
+      },
+      {
+        "text": "este concepto y tenemos las consideraciones de con tapping para",
+        "startMs": 894009,
+        "durationMs": 4680
+      },
+      {
+        "text": "conseguir consideraciones son muy importantes porque es la explicación de",
+        "startMs": 898689,
+        "durationMs": 4111
+      },
+      {
+        "text": "cómo se está calculando las fórmulas que vienen por defecto si en algún momento",
+        "startMs": 902800,
+        "durationMs": 6000
+      },
+      {
+        "text": "un usuario pues no no no quiere no está de acuerdo no no no quiere calcularlo",
+        "startMs": 908800,
+        "durationMs": 7380
+      },
+      {
+        "text": "como lo calcula el sistema está en toda la libertad te puede hacer su propia",
+        "startMs": 916180,
+        "durationMs": 3870
+      },
+      {
+        "text": "fórmula o registrar el valor manual de los conceptos y finalmente vamos a tener",
+        "startMs": 920050,
+        "durationMs": 6420
+      },
+      {
+        "text": "la pestaña de vigencia que la pestaña de vigencia digamos que me sirve",
+        "startMs": 926470,
+        "durationMs": 5900
+      },
+      {
+        "text": "por si en un momento yo cambio alguno de estos algunas de estas configuraciones",
+        "startMs": 932370,
+        "durationMs": 5150
+      },
+      {
+        "text": "pero a partir de un año por ejemplo en todo el año 2020 manejamos",
+        "startMs": 937520,
+        "durationMs": 9849
+      },
+      {
+        "text": "la hora extra con un 30% y a partir del 2021 lo vamos",
+        "startMs": 947379,
+        "durationMs": 7820
+      },
+      {
+        "text": "a manejar con el 25 por ciento eso pues lo podríamos manejar por medio de esta",
+        "startMs": 955199,
+        "durationMs": 5070
+      },
+      {
+        "text": "vigencia simplemente sería duplicar el concepto y modificar la vigencia",
+        "startMs": 960269,
+        "durationMs": 6131
+      },
+      {
+        "text": "aquí así digamos que queda explicado todo lo que se configura en este en este",
+        "startMs": 966400,
+        "durationMs": 6419
+      },
+      {
+        "text": "catálogo recordemos que todo esto viene preconfigurado y listo para usar como",
+        "startMs": 972819,
+        "durationMs": 4831
+      },
+      {
+        "text": "para que tengamos una idea y terminemos de asentar estos conocimientos vamos a",
+        "startMs": 977650,
+        "durationMs": 5130
+      },
+      {
+        "text": "ver pues digamos que ya vimos varios ejemplos de devengos vamos a ver cómo",
+        "startMs": 982780,
+        "durationMs": 4020
+      },
+      {
+        "text": "sería por ejemplo cómo está configurado este que es una deducción para el",
+        "startMs": 986800,
+        "durationMs": 4170
+      },
+      {
+        "text": "empleado por por aporte esa salud vemos que yo aquí en concepto base escojo el",
+        "startMs": 990970,
+        "durationMs": 5669
+      },
+      {
+        "text": "aporte de salud al empleado él me dice que el comportamiento es del tipo de",
+        "startMs": 996639,
+        "durationMs": 4110
+      },
+      {
+        "text": "deducción y sólo me voy a pedir porcentaje y valor digo también que es",
+        "startMs": 1000749,
+        "durationMs": 5310
+      },
+      {
+        "text": "un pago recurrente a que yo le digo que esto se tiene que liquidar en cada pago",
+        "startMs": 1006059,
+        "durationMs": 3810
+      },
+      {
+        "text": "que yo le haga al empleado y la forma de cálculo pues tenemos la fórmula del",
+        "startMs": 1009869,
+        "durationMs": 4560
+      },
+      {
+        "text": "sistema y el porcentaje pues simplemente tenemos el 4% que es digamos lo que",
+        "startMs": 1014429,
+        "durationMs": 6900
+      },
+      {
+        "text": "corresponde aporte a salud a cargo del empleado el manejo contable yo que voy a",
+        "startMs": 1021329,
+        "durationMs": 4230
+      },
+      {
+        "text": "tener simplemente la cuenta qué se debe digamos que mover cada que",
+        "startMs": 1025559,
+        "durationMs": 5921
+      },
+      {
+        "text": "yo liquide este este concepto y voy a tener la",
+        "startMs": 1031480,
+        "durationMs": 6360
+      },
+      {
+        "text": "el tercero que quede voy a acompañar este movimiento contable que eso es lo",
+        "startMs": 1037850,
+        "durationMs": 4429
+      },
+      {
+        "text": "que vamos a ver ahorita más adelante con las entidades pero visto tenemos la",
+        "startMs": 1042279,
+        "durationMs": 5341
+      },
+      {
+        "text": "descripción la vigencia y no tiene ningún ningún otro ningún otro tema lo",
+        "startMs": 1047620,
+        "durationMs": 6750
+      },
+      {
+        "text": "mismo pasa con aportes a pensión perdón aportes o provisiones a cargo de la",
+        "startMs": 1054370,
+        "durationMs": 5100
+      },
+      {
+        "text": "empresa aquí tenemos todo creado digamos que tenemos aportes para los de rl para",
+        "startMs": 1059470,
+        "durationMs": 5880
+      },
+      {
+        "text": "los diferentes niveles de riesgo tenemos aquí todas las provisiones de",
+        "startMs": 1065350,
+        "durationMs": 5910
+      },
+      {
+        "text": "parafiscales perdón los aportes parafiscales y las provisiones de las",
+        "startMs": 1071260,
+        "durationMs": 4590
+      },
+      {
+        "text": "prestaciones todo esto ya viene preconfigurado que yo simplemente les",
+        "startMs": 1075850,
+        "durationMs": 4319
+      },
+      {
+        "text": "estoy mostrando para que conozcamos qué es lo que se configura y digamos sobre",
+        "startMs": 1080169,
+        "durationMs": 4620
+      },
+      {
+        "text": "todo en la parte contable pues que se pueda asociar las cuentas",
+        "startMs": 1084789,
+        "durationMs": 4611
+      },
+      {
+        "text": "particulares que tenga cada empresa vamos a volver aquí a nuestro nuestra",
+        "startMs": 1089400,
+        "durationMs": 5770
+      },
+      {
+        "text": "diapositiva y vamos a concluir entonces lo que yo les decía este catálogo yo que",
+        "startMs": 1095170,
+        "durationMs": 5550
+      },
+      {
+        "text": "tengo que hacer entrar a cada concepto y revisar el manejo contable que sí que",
+        "startMs": 1100720,
+        "durationMs": 4890
+      },
+      {
+        "text": "esté moviendo las cuentas que necesito que se mueven uno cada vez que se le",
+        "startMs": 1105610,
+        "durationMs": 5070
+      },
+      {
+        "text": "quiere recuerden que estas cuentas se mueven cada vez que yo hago un pago de",
+        "startMs": 1110680,
+        "durationMs": 5730
+      },
+      {
+        "text": "no entonces pues un pago de nómina que incluye el concepto entonces lo que yo",
+        "startMs": 1116410,
+        "durationMs": 5700
+      },
+      {
+        "text": "tengo que hacer en esta parametrización simplemente es la revisión del manejo",
+        "startMs": 1122110,
+        "durationMs": 3750
+      },
+      {
+        "text": "contable y creación de nuevos conceptos si fuera el caso entonces para ver cómo",
+        "startMs": 1125860,
+        "durationMs": 5610
+      },
+      {
+        "text": "se crearían esos nuevos conceptos miremos un ejemplo de cosas que pueden",
+        "startMs": 1131470,
+        "durationMs": 4440
+      },
+      {
+        "text": "pasar porque aquí tenemos todos los conceptos genéricos para todas las",
+        "startMs": 1135910,
+        "durationMs": 5700
+      },
+      {
+        "text": "empresas para por ejemplo qué pasa si una empresa",
+        "startMs": 1141610,
+        "durationMs": 2550
+      },
+      {
+        "text": "ofrece comisiones para el equipo comercial y para el equipo de marketing",
+        "startMs": 1144160,
+        "durationMs": 4620
+      },
+      {
+        "text": "y quiere diferenciarlas en el pago de la nómina para llevar un control quiere",
+        "startMs": 1148780,
+        "durationMs": 4680
+      },
+      {
+        "text": "decir que si bien con está primera viene preconfigurado un concepto de comisiones",
+        "startMs": 1153460,
+        "durationMs": 5400
+      },
+      {
+        "text": "la empresa quiere tener comisiones para el departamento comercial y comisiones",
+        "startMs": 1158860,
+        "durationMs": 4170
+      },
+      {
+        "text": "para el departamento de marca entonces vamos a ver en cuanta pyme",
+        "startMs": 1163030,
+        "durationMs": 5389
+      },
+      {
+        "text": "como haríamos eso aquí vamos a validar que nosotros",
+        "startMs": 1168419,
+        "durationMs": 9681
+      },
+      {
+        "text": "sólo tenemos uno creado que es el comisiones genérico que viene por",
+        "startMs": 1178110,
+        "durationMs": 4100
+      },
+      {
+        "text": "defecto yo aquí le podría dar modificará este ponerle comisiones comerciante",
+        "startMs": 1182210,
+        "durationMs": 9569
+      },
+      {
+        "text": "aceptar y simplemente voy a venir a duplicar",
+        "startMs": 1191789,
+        "durationMs": 4661
+      },
+      {
+        "text": "duplicar este",
+        "startMs": 1196450,
+        "durationMs": 2260
+      },
+      {
+        "text": "este este concepto nos pide el código por lo",
+        "startMs": 1198710,
+        "durationMs": 3660
+      },
+      {
+        "text": "tanto le vamos a decir que no no escrito comisiones normales y nuevas comisiones",
+        "startMs": 1202370,
+        "durationMs": 9110
+      },
+      {
+        "text": "aquí nos dice que no perdón aquí nos dice que estamos",
+        "startMs": 1211490,
+        "durationMs": 9850
+      },
+      {
+        "text": "de caracteres permitidos perdón un segundo vamos a duplicar y le ponemos de",
+        "startMs": 1221350,
+        "durationMs": 7069
+      },
+      {
+        "text": "marketing entonces nos va a quedar las comisiones primeras que son las de",
+        "startMs": 1228419,
+        "durationMs": 4021
+      },
+      {
+        "text": "comercial y las comisiones de marketing vamos a modificar el nombre simplemente",
+        "startMs": 1232440,
+        "durationMs": 10590
+      },
+      {
+        "text": "y marketing y veamos aquí lo interesante por más que van a ser dos",
+        "startMs": 1243040,
+        "durationMs": 5360
+      },
+      {
+        "text": "en conceptos de nóminas diferentes porque así mi empresa lo quiere digamos",
+        "startMs": 1248400,
+        "durationMs": 5910
+      },
+      {
+        "text": "que diferenciar yo voy a tener aquí que los dos invitamos que están basados en",
+        "startMs": 1254310,
+        "durationMs": 5760
+      },
+      {
+        "text": "el mismo concepto base de la dian que es comisiones es decir que entonces cuando",
+        "startMs": 1260070,
+        "durationMs": 5220
+      },
+      {
+        "text": "nosotros a final de mes estemos reportando en la nómina electrónica todo",
+        "startMs": 1265290,
+        "durationMs": 4020
+      },
+      {
+        "text": "eso se va a reportar como comisiones le vamos a poner que no es un pago",
+        "startMs": 1269310,
+        "durationMs": 4860
+      },
+      {
+        "text": "recurrente porque lo hago por novedades la forma de cálculo va a ser manual por",
+        "startMs": 1274170,
+        "durationMs": 5130
+      },
+      {
+        "text": "lo que también venía veíamos la sesión pasada que digamos que yo no puedo saber",
+        "startMs": 1279300,
+        "durationMs": 5100
+      },
+      {
+        "text": "cuánto va a ser el valor de esas comisiones entonces yo cada mes lo",
+        "startMs": 1284400,
+        "durationMs": 4260
+      },
+      {
+        "text": "registro por novedades y al manejo contable podría ser el mismo o no eso ya",
+        "startMs": 1288660,
+        "durationMs": 5190
+      },
+      {
+        "text": "será decisión de la empresa le damos a aceptar y ahí nos quedarían dos",
+        "startMs": 1293850,
+        "durationMs": 6120
+      },
+      {
+        "text": "conceptos de nómina para comisiones de marketing y",
+        "startMs": 1299970,
+        "durationMs": 5370
+      },
+      {
+        "text": "comisiones comerciales vamos a volver a las diapositivas y",
+        "startMs": 1305340,
+        "durationMs": 4740
+      },
+      {
+        "text": "vamos a ver un segundo ejemplo para entonces si la empresa otorga a los",
+        "startMs": 1310080,
+        "durationMs": 4950
+      },
+      {
+        "text": "empleados que lo soliciten una auxilia de gafas de hasta 300 mil pesos",
+        "startMs": 1315030,
+        "durationMs": 4710
+      },
+      {
+        "text": "aquí tenemos que empezar a ver si esto es",
+        "startMs": 1319740,
+        "durationMs": 5789
+      },
+      {
+        "text": "un costo para la empresa si se debe clasificar como un devengo o sea yo le",
+        "startMs": 1325539,
+        "durationMs": 5570
+      },
+      {
+        "text": "voy a pagar este auxilio de gafas a los empleados y como lo voy a reportar a la",
+        "startMs": 1331109,
+        "durationMs": 9531
+      },
+      {
+        "text": "y esto como lo deberíamos crear primero que todo es un poco recurrente no es un",
+        "startMs": 1340650,
+        "durationMs": 4370
+      },
+      {
+        "text": "poco recurrente lo",
+        "startMs": 1345020,
+        "durationMs": 3710
+      },
+      {
+        "text": "lo vamos a hacer por un devengo por una",
+        "startMs": 1348730,
+        "durationMs": 4630
+      },
+      {
+        "text": "deducción ahí los vamos a ir leyendo mientras",
+        "startMs": 1353360,
+        "durationMs": 1770
+      },
+      {
+        "text": "tanto vamos a pasar aquí a conta pines y simplemente",
+        "startMs": 1355130,
+        "durationMs": 7500
+      },
+      {
+        "text": "vamos a buscar el auxilio de gafas que yo ya lo tenía creado para efectos del",
+        "startMs": 1362640,
+        "durationMs": 5270
+      },
+      {
+        "text": "tiempo que nos pueda rendir y para todos nos creyeron que era un devengo muy bien",
+        "startMs": 1367910,
+        "durationMs": 5130
+      },
+      {
+        "text": "es un devengo vamos a ver cómo está clasificado",
+        "startMs": 1373040,
+        "durationMs": 4540
+      },
+      {
+        "text": "clasificado ahora este digamos que beneficio que",
+        "startMs": 1377580,
+        "durationMs": 2939
+      },
+      {
+        "text": "otorga a esta empresa del ejemplo a sus empleados lo vamos a clasificar como un",
+        "startMs": 1380519,
+        "durationMs": 4351
+      },
+      {
+        "text": "auxilio no salarial quien determina que es un auxilio no salarial cada uno de",
+        "startMs": 1384870,
+        "durationMs": 5429
+      },
+      {
+        "text": "nosotros con nuestro contador con nuestra persona experta de nómina pues",
+        "startMs": 1390299,
+        "durationMs": 4350
+      },
+      {
+        "text": "vamos a definir si esto es un auxilio salarial que nos al área salarial no",
+        "startMs": 1394649,
+        "durationMs": 4260
+      },
+      {
+        "text": "salarial o si simplemente lo queremos registrar no como un pago al empleado",
+        "startMs": 1398909,
+        "durationMs": 6630
+      },
+      {
+        "text": "sino como otros puestos para la empresa que también podría ser una opción está",
+        "startMs": 1405539,
+        "durationMs": 4980
+      },
+      {
+        "text": "parametrización ya depende únicamente del análisis y las decisiones que tome",
+        "startMs": 1410519,
+        "durationMs": 4981
+      },
+      {
+        "text": "cada empresa en nuestro caso lo vamos a poner como un auxilio no salarial no es",
+        "startMs": 1415500,
+        "durationMs": 5789
+      },
+      {
+        "text": "un pago recurrente porque simplemente se da cuando cuando el empleado lo pide",
+        "startMs": 1421289,
+        "durationMs": 5101
+      },
+      {
+        "text": "y si se da quiero que se me incluya en el pago de nómina y la forma de cálculo",
+        "startMs": 1426390,
+        "durationMs": 5010
+      },
+      {
+        "text": "que solo me pide valor pues le vamos a poner que es un valor manual porque a",
+        "startMs": 1431400,
+        "durationMs": 3540
+      },
+      {
+        "text": "pesar de que el ejercicio nos dice que él",
+        "startMs": 1434940,
+        "durationMs": 4109
+      },
+      {
+        "text": "él el pago y pues digamos que la política",
+        "startMs": 1439049,
+        "durationMs": 3120
+      },
+      {
+        "text": "es que se paga hasta trescientos mil pesos pues el pago podría ser 100 mil",
+        "startMs": 1442169,
+        "durationMs": 4850
+      },
+      {
+        "text": "120 200 mil digamos que es variable por lo tanto digamos que ese tope de 300 mil",
+        "startMs": 1447019,
+        "durationMs": 6640
+      },
+      {
+        "text": "ya sería manejado como una política de la empresa y aquí simplemente le vamos a",
+        "startMs": 1453659,
+        "durationMs": 4350
+      },
+      {
+        "text": "dar valor manual el manejo contable lo mismo esto lo hago en compañía de mi",
+        "startMs": 1458009,
+        "durationMs": 5701
+      },
+      {
+        "text": "contador es como la cuenta que yo quiera manejar",
+        "startMs": 1463710,
+        "durationMs": 3000
+      },
+      {
+        "text": "le puedo poner una descripción a este auxilio de gafas que sea como la",
+        "startMs": 1466710,
+        "durationMs": 14860
+      },
+      {
+        "text": "un año en la organización",
+        "startMs": 1481580,
+        "durationMs": 8930
+      },
+      {
+        "text": "el beneficio de auxilio de gafas con topes",
+        "startMs": 1490520,
+        "durationMs": 6010
+      },
+      {
+        "text": "topes uno por valor",
+        "startMs": 1496530,
+        "durationMs": 2370
+      },
+      {
+        "text": "de hasta 300.000",
+        "startMs": 1498900,
+        "durationMs": 4639
+      },
+      {
+        "text": "300.000 listo este equipo para este tipo de",
+        "startMs": 1503539,
+        "durationMs": 2610
+      },
+      {
+        "text": "cosas es que se usa esta descripción para poder llevar todo y todas mis",
+        "startMs": 1506149,
+        "durationMs": 4801
+      },
+      {
+        "text": "políticas de nómina pues muy bien registrados y a quien consideraciones",
+        "startMs": 1510950,
+        "durationMs": 3900
+      },
+      {
+        "text": "recordemos que estas consideraciones son las que trae el sistema y están",
+        "startMs": 1514850,
+        "durationMs": 3929
+      },
+      {
+        "text": "asociadas al concepto base seleccionado la vigencia lo mismo que veíamos",
+        "startMs": 1518779,
+        "durationMs": 5840
+      },
+      {
+        "text": "anteriormente y simplemente le algo a aceptar y ya me quedó creado mi auxilio",
+        "startMs": 1524619,
+        "durationMs": 5740
+      },
+      {
+        "text": "de casos si mi empresa no tiene ningún manejo particular pues quiere decir que",
+        "startMs": 1530359,
+        "durationMs": 4201
+      },
+      {
+        "text": "yo no tuve que hacer nada en este punto simplemente revisar el manejo contable",
+        "startMs": 1534560,
+        "durationMs": 5819
+      },
+      {
+        "text": "si mi empresa tiene más digamos que particularidades pues entonces yo voy a",
+        "startMs": 1540379,
+        "durationMs": 4230
+      },
+      {
+        "text": "ir creando mis diferentes particularidades por ejemplo como un",
+        "startMs": 1544609,
+        "durationMs": 3900
+      },
+      {
+        "text": "bono de navidad que yo quiera dar a financiar",
+        "startMs": 1548509,
+        "durationMs": 3571
+      },
+      {
+        "text": "financiar muy bien cerramos aquí volvemos a la",
+        "startMs": 1552080,
+        "durationMs": 2760
+      },
+      {
+        "text": "presentación y vamos a pasar al segundo punto recuerden que eran tres al segundo",
+        "startMs": 1554840,
+        "durationMs": 5189
+      },
+      {
+        "text": "punto de perfiles de contrato entonces recordemos un poquito qué son esos",
+        "startMs": 1560029,
+        "durationMs": 4951
+      },
+      {
+        "text": "perfiles de contrato y recordemos que es un catálogo preconfigurado aquí yo les",
+        "startMs": 1564980,
+        "durationMs": 4710
+      },
+      {
+        "text": "van a enseñar qué es lo que se está definiendo en ese perfil pero pues",
+        "startMs": 1569690,
+        "durationMs": 4890
+      },
+      {
+        "text": "recordemos que esto ya viene en pre cultura entonces que defino yo en el",
+        "startMs": 1574580,
+        "durationMs": 3870
+      },
+      {
+        "text": "perfil condiciones del contrato como cual es el tipo de contrato la",
+        "startMs": 1578450,
+        "durationMs": 4949
+      },
+      {
+        "text": "intensidad horaria la periodicidad de pago entre otras y los conceptos que van",
+        "startMs": 1583399,
+        "durationMs": 4831
+      },
+      {
+        "text": "asociados a ese contrato perdón a ese perfil de contrato como cual es salario",
+        "startMs": 1588230,
+        "durationMs": 6150
+      },
+      {
+        "text": "auxilio de transporte aporte esa seguridad social o el costo para la",
+        "startMs": 1594380,
+        "durationMs": 3779
+      },
+      {
+        "text": "empresa todo esto para que lo hago yo simplemente para agrupar",
+        "startMs": 1598159,
+        "durationMs": 4681
+      },
+      {
+        "text": "y digamos qué condiciones y configuraciones que son genéricas para",
+        "startMs": 1602840,
+        "durationMs": 3990
+      },
+      {
+        "text": "un grupo de empleados pero para un tipo de contrato entonces vamos a dejar un",
+        "startMs": 1606830,
+        "durationMs": 5130
+      },
+      {
+        "text": "momentico ahí vamos a ir a contar pymes y vamos a encontrar que en la pestaña de",
+        "startMs": 1611960,
+        "durationMs": 7690
+      },
+      {
+        "text": "nómina tenemos el catálogo de perfiles de contrato damos clic en este catálogo",
+        "startMs": 1619650,
+        "durationMs": 6240
+      },
+      {
+        "text": "y nos abren todos los que están predefinidos en contrato y veamos que",
+        "startMs": 1625890,
+        "durationMs": 5610
+      },
+      {
+        "text": "aquí tenemos contratos prevén dos perfiles para contratos a término fijo",
+        "startMs": 1631500,
+        "durationMs": 5340
+      },
+      {
+        "text": "contratos a término indefinido orador aprendizaje prácticas etcétera todo esto",
+        "startMs": 1636840,
+        "durationMs": 4080
+      },
+      {
+        "text": "viene listo para usar pero vamos a entrar a cada uno a ver qué es lo que yo",
+        "startMs": 1640920,
+        "durationMs": 5940
+      },
+      {
+        "text": "debo configurar vamos a el más básico que es término indefinido pago",
+        "startMs": 1646860,
+        "durationMs": 6300
+      },
+      {
+        "text": "mensual que me pide el sistema simplemente me",
+        "startMs": 1653160,
+        "durationMs": 2550
+      },
+      {
+        "text": "pide que yo le diga que el tipo de contrato es este vemos aquí las opciones",
+        "startMs": 1655710,
+        "durationMs": 4680
+      },
+      {
+        "text": "la periodicidad de pagos recuerden que yo por más que la nómina electrónica se",
+        "startMs": 1660390,
+        "durationMs": 4530
+      },
+      {
+        "text": "reporta mensual la nómina lección que reporta el acumulado es decir yo puedo",
+        "startMs": 1664920,
+        "durationMs": 4650
+      },
+      {
+        "text": "hacer pagos semanales decimales catorcenales quincenal es como yo quiero",
+        "startMs": 1669570,
+        "durationMs": 4590
+      },
+      {
+        "text": "hacer mi estado en este caso lo vamos a dejar que es mensual tenemos la forma de",
+        "startMs": 1674160,
+        "durationMs": 4650
+      },
+      {
+        "text": "pago que debe ser de contado esto ya son datos que se envían en la nómina",
+        "startMs": 1678810,
+        "durationMs": 4680
+      },
+      {
+        "text": "electrónica y a la jana por lo tanto yo aquí debo escoger el método de pago",
+        "startMs": 1683490,
+        "durationMs": 7460
+      },
+      {
+        "text": "la clase de riesgo pues ya según los empleados yo podría tener un perfil de",
+        "startMs": 1690950,
+        "durationMs": 4860
+      },
+      {
+        "text": "contrato para empleados administrativos que su riesgo es clase 1 y digamos que",
+        "startMs": 1695810,
+        "durationMs": 4890
+      },
+      {
+        "text": "otro contrato para el grupo digamos productivo que su riesgo puede ser mucho",
+        "startMs": 1700700,
+        "durationMs": 5760
+      },
+      {
+        "text": "mayor vamos a seleccionar entonces aquí estas opciones que nos da el sistema y",
+        "startMs": 1706460,
+        "durationMs": 5850
+      },
+      {
+        "text": "la intensidad horaria la intensidad horaria es súper importante porque me va",
+        "startMs": 1712310,
+        "durationMs": 4770
+      },
+      {
+        "text": "a determinar el cálculo de las horas extras del empleado es decir si yo le",
+        "startMs": 1717080,
+        "durationMs": 5910
+      },
+      {
+        "text": "digo que la intensidad horaria de este contrato de este perfil es 8 horas el",
+        "startMs": 1722990,
+        "durationMs": 6000
+      },
+      {
+        "text": "sistema digamos que para sacar el valor de la hora va a dividir entre 30 y el",
+        "startMs": 1728990,
+        "durationMs": 5520
+      },
+      {
+        "text": "salario mensual lo va a vivir entre 30 no me va a dar un salario el día y el",
+        "startMs": 1734510,
+        "durationMs": 3629
+      },
+      {
+        "text": "salario el día no hay dividir entre 8 si yo le digo aquí que",
+        "startMs": 1738139,
+        "durationMs": 6361
+      },
+      {
+        "text": "la intensidad de horario es diferente por ejemplo cuatro horas diarias sería",
+        "startMs": 1744500,
+        "durationMs": 4390
+      },
+      {
+        "text": "media jornada por lo tanto el sistema pues va a ser el cálculo correcto de",
+        "startMs": 1748890,
+        "durationMs": 5340
+      },
+      {
+        "text": "media normal listo esto es lo que yo defino el el perfil del contrato en",
+        "startMs": 1754230,
+        "durationMs": 5070
+      },
+      {
+        "text": "términos de condiciones y ahora yo solamente le tengo que asociar que cada",
+        "startMs": 1759300,
+        "durationMs": 6780
+      },
+      {
+        "text": "que yo creé un un empleado que tenga este perfil de contrato pues se le van a",
+        "startMs": 1766080,
+        "durationMs": 4800
+      },
+      {
+        "text": "asociar automáticamente estos devengos estas prestaciones estas deducciones y",
+        "startMs": 1770880,
+        "durationMs": 7230
+      },
+      {
+        "text": "estos costos para la empresa todo esto como yo les digo viene preconfigurado",
+        "startMs": 1778110,
+        "durationMs": 4830
+      },
+      {
+        "text": "que simplemente revisar vamos a dar aceptar y para que nos quede un poquito",
+        "startMs": 1782940,
+        "durationMs": 5130
+      },
+      {
+        "text": "más claro vamos a ver unos ejemplos ya vimos el básico que es término",
+        "startMs": 1788070,
+        "durationMs": 5910
+      },
+      {
+        "text": "indefinido pago mensual ahorita vamos a ver cómo se configuraría entonces",
+        "startMs": 1793980,
+        "durationMs": 5060
+      },
+      {
+        "text": "digamos un grupo de empleados que tengan sala de 20",
+        "startMs": 1799040,
+        "durationMs": 3999
+      },
+      {
+        "text": "esto sea así en contra prime ya también viene preconfigurado para términos de",
+        "startMs": 1803039,
+        "durationMs": 4230
+      },
+      {
+        "text": "pago mensual salario integral le damos a modificar para poderlo ver vemos que",
+        "startMs": 1807269,
+        "durationMs": 5730
+      },
+      {
+        "text": "estas configuraciones pues son muy similares a las de el contrato a término",
+        "startMs": 1812999,
+        "durationMs": 5971
+      },
+      {
+        "text": "indefinido pero aquí vamos a tener de algo especial y es que vamos a digamos",
+        "startMs": 1818970,
+        "durationMs": 5069
+      },
+      {
+        "text": "que marcarle que es el salario integral cierto que el salario que nosotros vamos",
+        "startMs": 1824039,
+        "durationMs": 5190
+      },
+      {
+        "text": "a poner en el empleado es integral y aquí en conceptos de nómina viene lo",
+        "startMs": 1829229,
+        "durationMs": 5851
+      },
+      {
+        "text": "interesante y es que veamos que ya no aparece auxilio transporte pues porque",
+        "startMs": 1835080,
+        "durationMs": 5339
+      },
+      {
+        "text": "ella es un salario integral no tiene no se le asigna a una persona con este",
+        "startMs": 1840419,
+        "durationMs": 5791
+      },
+      {
+        "text": "perfil de saleh al integrar prestaciones las deducciones se aumentan ya no",
+        "startMs": 1846210,
+        "durationMs": 5939
+      },
+      {
+        "text": "solamente salud pensión sino que también es el fondo en solidaridad solidaridad y",
+        "startMs": 1852149,
+        "durationMs": 5821
+      },
+      {
+        "text": "el y el fondo de subsistencia del empleado y en los costos para la empresa",
+        "startMs": 1857970,
+        "durationMs": 4919
+      },
+      {
+        "text": "vemos que tampoco vamos a tenerlas de las prestaciones que esto todo se",
+        "startMs": 1862889,
+        "durationMs": 5881
+      },
+      {
+        "text": "configura una sola vez o se valía porque nosotros ya entramos ya lo entregamos",
+        "startMs": 1868770,
+        "durationMs": 4020
+      },
+      {
+        "text": "preconfigurado y listo qué pasa si yo tengo a un empleado o",
+        "startMs": 1872790,
+        "durationMs": 6780
+      },
+      {
+        "text": "varios empleados con salario integral pero no están a término indefinido que",
+        "startMs": 1879570,
+        "durationMs": 10110
+      },
+      {
+        "text": "tengo que venir aquí a las inicial yo podría modificar este perfil que ya",
+        "startMs": 1889690,
+        "durationMs": 5109
+      },
+      {
+        "text": "vienen predefinido y aquí cambiarle el contrato",
+        "startMs": 1894799,
+        "durationMs": 3881
+      },
+      {
+        "text": "a término fijo o si yo quiero lo pudo duplicar cambiarle el contrato a término",
+        "startMs": 1898680,
+        "durationMs": 4109
+      },
+      {
+        "text": "fijo lo que aquí también para que no me voy a confundir el nombre y listo no",
+        "startMs": 1902789,
+        "durationMs": 4441
+      },
+      {
+        "text": "tengo que hacer nada más ahí se termina la digamos que revisión de la",
+        "startMs": 1907230,
+        "durationMs": 4559
+      },
+      {
+        "text": "parametrización de perfiles de contratos vamos a darle cancelar para que no nos",
+        "startMs": 1911789,
+        "durationMs": 5100
+      },
+      {
+        "text": "guarde estos últimos cambios y vamos a ver entonces en la presentación que",
+        "startMs": 1916889,
+        "durationMs": 4740
+      },
+      {
+        "text": "otros que otro ejemplo podemos tener y el otro ejemplo que también es muy común",
+        "startMs": 1921629,
+        "durationMs": 6221
+      },
+      {
+        "text": "digamos las personas que están contratadas como aprendices del zen",
+        "startMs": 1927850,
+        "durationMs": 4980
+      },
+      {
+        "text": "vamos a ver encontrar primero también ya lo tenemos pre configurado y vamos a ver",
+        "startMs": 1932830,
+        "durationMs": 4980
+      },
+      {
+        "text": "este tipo de aprendizaje contrato de aprendizaje el pago mensual",
+        "startMs": 1937810,
+        "durationMs": 4430
+      },
+      {
+        "text": "simplemente aquí le especificamos que el contrato es de aprendizaje",
+        "startMs": 1942240,
+        "durationMs": 6179
+      },
+      {
+        "text": "damos digamos que gestiona todos estos datos que nos piden",
+        "startMs": 1948419,
+        "durationMs": 5761
+      },
+      {
+        "text": "el perfil del contrato y la diana y en conceptos de nómina vamos a ver qué",
+        "startMs": 1954180,
+        "durationMs": 4319
+      },
+      {
+        "text": "entonces superimportante a un aprendiz no se les paga salario se le paga el",
+        "startMs": 1958499,
+        "durationMs": 5611
+      },
+      {
+        "text": "concepto apoyo de su seguimiento se le paga prestaciones no se le paga en",
+        "startMs": 1964110,
+        "durationMs": 5210
+      },
+      {
+        "text": "prestaciones se le hacen deducciones a decía apoyo de sostenimiento no se le",
+        "startMs": 1969320,
+        "durationMs": 5130
+      },
+      {
+        "text": "hacen deducciones y el costo para la empresa se limita a los aportes a la",
+        "startMs": 1974450,
+        "durationMs": 5190
+      },
+      {
+        "text": "salud para aprendices y la rf listo entonces vemos como en la medida",
+        "startMs": 1979640,
+        "durationMs": 7320
+      },
+      {
+        "text": "aprendiz o un perfil de salario integral un perfil de término indefinido término",
+        "startMs": 1991010,
+        "durationMs": 4770
+      },
+      {
+        "text": "fijo pues el sistema ya simplemente me va a ir cargando todo eso por defecto a",
+        "startMs": 1995780,
+        "durationMs": 4170
+      },
+      {
+        "text": "lo cual es una ayuda fabulosa listo aquí damos por terminada",
+        "startMs": 1999950,
+        "durationMs": 5490
+      },
+      {
+        "text": "esa configuración de perfiles de contrato y nos vamos a ir para entidades",
+        "startMs": 2005440,
+        "durationMs": 4530
+      },
+      {
+        "text": "de novo que son las entidades de nóminas recordemos que son todas esas entidades",
+        "startMs": 2009970,
+        "durationMs": 4460
+      },
+      {
+        "text": "organismos terceros que acompañan el pago de la nómina pues sea porque yo se",
+        "startMs": 2014430,
+        "durationMs": 5890
+      },
+      {
+        "text": "los pago generalmente es porque les debo pagar unos aportes a salud unos aportes",
+        "startMs": 2020320,
+        "durationMs": 6090
+      },
+      {
+        "text": "a pensión etcétera etcétera entonces vamos a ver que el sistema ya viene con",
+        "startMs": 2026410,
+        "durationMs": 5850
+      },
+      {
+        "text": "unas entidades predefinidas y yo lo único que voy a tener que hacer es",
+        "startMs": 2032260,
+        "durationMs": 4710
+      },
+      {
+        "text": "revisar un tema en los áreas de terceros y crear las entidades que acampan antes",
+        "startMs": 2036970,
+        "durationMs": 5510
+      },
+      {
+        "text": "de pasar ese punto quiero mostrarles aquí en contra pyme vamos a cerrar este",
+        "startMs": 2042480,
+        "durationMs": 4980
+      },
+      {
+        "text": "perfil de contratos donde encuentro yo las entidades de nómina en contacto y",
+        "startMs": 1986960,
+        "durationMs": 65360
+      },
+      {
+        "text": "nos vamos a ir a la pestaña de básico terceros desplegamos este menú y vamos a",
+        "startMs": 2052320,
+        "durationMs": 6390
+      },
+      {
+        "text": "irnos a proveedores las entidades de nóminas se manejan como un tercero",
+        "startMs": 2058710,
+        "durationMs": 4650
+      },
+      {
+        "text": "proveedor y vemos que aquí ya vienen creadas las entidades de nómina es más",
+        "startMs": 2063360,
+        "durationMs": 7140
+      },
+      {
+        "text": "populares que manejamos en colonia y eso es lo principal que tenemos que tener en",
+        "startMs": 2070500,
+        "durationMs": 6660
+      },
+      {
+        "text": "cuenta ahora nosotros sabemos que las entidades de nómina pues digamos que yo",
+        "startMs": 2077160,
+        "durationMs": 5910
+      },
+      {
+        "text": "puedo tener una ips un empleado puede tener yo puesto a la sociedad mínima",
+        "startMs": 2083070,
+        "durationMs": 4710
+      },
+      {
+        "text": "otro empleado a asur a otro empleado a colsánitas etcétera",
+        "startMs": 2087780,
+        "durationMs": 6549
+      },
+      {
+        "text": "por ejemplo todos nosotros estamos que si estamos en la misma empresa vamos a",
+        "startMs": 2094329,
+        "durationMs": 9240
+      },
+      {
+        "text": "por decir algo entonces es lo que nos dice que cuando",
+        "startMs": 2103579,
+        "durationMs": 4591
+      },
+      {
+        "text": "yo vaya a liquidar por ejemplo aportes de salud",
+        "startMs": 2108170,
+        "durationMs": 3550
+      },
+      {
+        "text": "pues cuando me eligieron a mí efe ese valor de aportes de salud se lo tienen",
+        "startMs": 2111720,
+        "durationMs": 4560
+      },
+      {
+        "text": "que pagar a medias cuando liquiden a one se lo tienen que pagar asegura cuando le",
+        "startMs": 2116280,
+        "durationMs": 4920
+      },
+      {
+        "text": "quien a juanita se lo tienen que pagar con sanitas publicidad entonces para eso",
+        "startMs": 2121200,
+        "durationMs": 7020
+      },
+      {
+        "text": "nosotros manejábamos un tema que son los alias de terceros nosotros tenemos un",
+        "startMs": 2128220,
+        "durationMs": 4470
+      },
+      {
+        "text": "vídeo especializado de adidas de terceros en contra pin",
+        "startMs": 2132690,
+        "durationMs": 4460
+      },
+      {
+        "text": "entonces vamos a trabajar aquí con que ya es el concepto lo tenemos un poquito",
+        "startMs": 2137150,
+        "durationMs": 4540
+      },
+      {
+        "text": "claro para ilustrarlo mejor vamos a compartir y yo les muestro",
+        "startMs": 2141690,
+        "durationMs": 4740
+      },
+      {
+        "text": "de qué es de lo que estamos hablando vamos a irnos aquí en básico",
+        "startMs": 2146430,
+        "durationMs": 5450
+      },
+      {
+        "text": "terceros y vamos a explicar vamos a ver alias de terceros",
+        "startMs": 2151880,
+        "durationMs": 5530
+      },
+      {
+        "text": "entonces vamos a ver que los áreas de terceros que vienen preconfigurados van",
+        "startMs": 2157410,
+        "durationMs": 4560
+      },
+      {
+        "text": "a hacer estos a l el caja de compensación familiar cesantías web",
+        "startMs": 2161970,
+        "durationMs": 4940
+      },
+      {
+        "text": "todos estos días que le voy a decir yo al sistema yo le va a decir este área de",
+        "startMs": 2166910,
+        "durationMs": 6070
+      },
+      {
+        "text": "concepto cuando decíamos aportes a la salud y me pedía un tercero o sea aquí",
+        "startMs": 2178730,
+        "durationMs": 5490
+      },
+      {
+        "text": "en el cargo esta cuenta por pagar y le poníamos no le poníamos una le poníamos",
+        "startMs": 2172980,
+        "durationMs": 19180
+      },
+      {
+        "text": "ips ya vamos a ver cómo es que funciona es",
+        "startMs": 2192160,
+        "durationMs": 1949
+      },
+      {
+        "text": "entonces en la ps o en cualquiera de estos años vamos a ver que",
+        "startMs": 2194109,
+        "durationMs": 6361
+      },
+      {
+        "text": "simplemente yo le voy a poner un tercero por defecto es decir a la mayoría bueno",
+        "startMs": 2200470,
+        "durationMs": 5369
+      },
+      {
+        "text": "en el aire le digamos que es la más clara pues sí si mi empresa tiene a",
+        "startMs": 2205839,
+        "durationMs": 3990
+      },
+      {
+        "text": "edesur a todos los empleados tienen aire de lismore antes yo no les voy a tener",
+        "startMs": 2209829,
+        "durationMs": 4111
+      },
+      {
+        "text": "que configurar nada pero por ejemplo yo también podría decir la mayoría de",
+        "startMs": 2213940,
+        "durationMs": 3659
+      },
+      {
+        "text": "desempleados están en la caja de compensación en con familiares",
+        "startMs": 2217599,
+        "durationMs": 6001
+      },
+      {
+        "text": "entonces por defecto va a hacer eso pero contraté un empleado en otra en otra",
+        "startMs": 2223600,
+        "durationMs": 4410
+      },
+      {
+        "text": "ciudad pues simplemente has empleado ya le especificó cuál es su su entidad por",
+        "startMs": 2228010,
+        "durationMs": 6660
+      },
+      {
+        "text": "defecto entonces visto aquí tenemos el tercero por por defecto y lo vamos a",
+        "startMs": 2234670,
+        "durationMs": 5580
+      },
+      {
+        "text": "seleccionar para que me aparezca en los datos del empleado y como proveedor",
+        "startMs": 2240250,
+        "durationMs": 7850
+      },
+      {
+        "text": "entonces vamos a tenerlo aquí veamos que tenemos las diferentes las",
+        "startMs": 2248110,
+        "durationMs": 5670
+      },
+      {
+        "text": "diferentes áreas y veamos su uso para que nos quede un poquito claro voy a",
+        "startMs": 2253780,
+        "durationMs": 3900
+      },
+      {
+        "text": "abrir aquí terceros empleados aquí teníamos unos en",
+        "startMs": 2257680,
+        "durationMs": 4950
+      },
+      {
+        "text": "los empleados creados pues para el ejemplo ahorita vamos a crear más",
+        "startMs": 2262630,
+        "durationMs": 5070
+      },
+      {
+        "text": "y le vamos a dar modificar entonces recordemos en la sesión pasada ya vimos",
+        "startMs": 2267700,
+        "durationMs": 9260
+      },
+      {
+        "text": "vamos a ver que en los datos del empleado en entidades",
+        "startMs": 2276970,
+        "durationMs": 5570
+      },
+      {
+        "text": "el sistema me estado trayendo todos esos áreas que yo tenía configurados ahí en",
+        "startMs": 2282540,
+        "durationMs": 4590
+      },
+      {
+        "text": "el catálogo de área de años y me está trayendo que por defecto",
+        "startMs": 2287130,
+        "durationMs": 4910
+      },
+      {
+        "text": "son los que yo definirá por ejemplo la rl me trae por defecto sura que todo",
+        "startMs": 2292040,
+        "durationMs": 7060
+      },
+      {
+        "text": "esto me lo trae y el sistema por defecto vamos a darle cancelar",
+        "startMs": 2299100,
+        "durationMs": 6200
+      },
+      {
+        "text": "y vamos a ver que entonces en los conceptos de nómina para que hagamos",
+        "startMs": 2305300,
+        "durationMs": 3930
+      },
+      {
+        "text": "pues como toda la triangulación de este entendimiento",
+        "startMs": 2309230,
+        "durationMs": 4810
+      },
+      {
+        "text": "entendimiento en los conceptos de nómina por ejemplo",
+        "startMs": 2314040,
+        "durationMs": 6009
+      },
+      {
+        "text": "los aportes a la salud que es una deducción del empleado",
+        "startMs": 2320059,
+        "durationMs": 6240
+      },
+      {
+        "text": "el sistema en el manejo contable me pide un tercero porque porque esta cuenta al",
+        "startMs": 2326309,
+        "durationMs": 4670
+      },
+      {
+        "text": "ser digamos que una cuenta por pagar pues yo la tengo referencial con un",
+        "startMs": 2330979,
+        "durationMs": 6600
+      },
+      {
+        "text": "tercero digamos que yo no tengo que seleccionar un tercero como tal yo puedo",
+        "startMs": 2337579,
+        "durationMs": 4770
+      },
+      {
+        "text": "seleccionar la ips es lo que quiere decir que cada que se le quiere este",
+        "startMs": 2342349,
+        "durationMs": 4140
+      },
+      {
+        "text": "concepto de nómina por test te saluda al empleado el sistema me va a tomar el",
+        "startMs": 2346489,
+        "durationMs": 4560
+      },
+      {
+        "text": "tercero asociado en el empleado a esta a este alias que sps en este caso de",
+        "startMs": 2351049,
+        "durationMs": 9821
+      },
+      {
+        "text": "veamos que una vez en el líquido",
+        "startMs": 2360880,
+        "durationMs": 4910
+      },
+      {
+        "text": "los aportes perdón los aportes",
+        "startMs": 2365800,
+        "durationMs": 5120
+      },
+      {
+        "text": "en la fs para ella asignada es nuevas veces pero yo aquí pues le podría poner",
+        "startMs": 2370920,
+        "durationMs": 5010
+      },
+      {
+        "text": "cualquier otra ips por ejemplo comedor",
+        "startMs": 2375930,
+        "durationMs": 5120
+      },
+      {
+        "text": "y simplemente cuando se liquide ese concepto que tienen referencia o",
+        "startMs": 2381050,
+        "durationMs": 5040
+      },
+      {
+        "text": "relacionado está ep s me voy a traer es este es este tercero",
+        "startMs": 2386090,
+        "durationMs": 6600
+      },
+      {
+        "text": "ah y eso como para entender un poquito lo de alias de tercero y finalmente yo",
+        "startMs": 2392690,
+        "durationMs": 5250
+      },
+      {
+        "text": "voy a crear las nuevas entidades que de pronto no estén ya predefinidas y",
+        "startMs": 2397940,
+        "durationMs": 5700
+      },
+      {
+        "text": "simplemente para crearlas pegamos en contra pyme que es un tercero normal nos",
+        "startMs": 2403640,
+        "durationMs": 5400
+      },
+      {
+        "text": "ubicamos aquí en proveedores y vamos a ver por ejemplo de cesura cómo está",
+        "startMs": 2409040,
+        "durationMs": 4529
+      },
+      {
+        "text": "creada yo simplemente equipo es en vez de darle modificar le daría a crear",
+        "startMs": 2413569,
+        "durationMs": 5411
+      },
+      {
+        "text": "le vamos a asignar toda la información digamos que de reglamentaria y vamos",
+        "startMs": 2418980,
+        "durationMs": 7830
+      },
+      {
+        "text": "cuando yo le seleccionó que es de tipo proveedor él me va a traer aquí en datos",
+        "startMs": 2426810,
+        "durationMs": 4440
+      },
+      {
+        "text": "proveedor me voy a decir es un proveedor estándar por ejemplo pues para todo lo",
+        "startMs": 2431250,
+        "durationMs": 7740
+      },
+      {
+        "text": "es un proveedor de tipo entidad de nómina si es un proveedor de tipo",
+        "startMs": 2439000,
+        "durationMs": 5030
+      },
+      {
+        "text": "entidad de nómina me se me habilita esta pestaña se me habilitan los servicios o",
+        "startMs": 2444030,
+        "durationMs": 7170
+      },
+      {
+        "text": "áreas que tenemos relacionados allá en áreas y yo le voy a seleccionar que el",
+        "startMs": 2451200,
+        "durationMs": 4770
+      },
+      {
+        "text": "tipo de servicio que presta esta entidad por ejemplo en este caso estamos viendo",
+        "startMs": 2455970,
+        "durationMs": 4200
+      },
+      {
+        "text": "la de peces ahora le decimos que nos presta servicios de ese y vamos a",
+        "startMs": 2460170,
+        "durationMs": 5940
+      },
+      {
+        "text": "ponerle el código para planilla pico de código planilla pila pues lo vamos a ver",
+        "startMs": 2466110,
+        "durationMs": 4290
+      },
+      {
+        "text": "más adelante cuando hayamos lanzado la funcionalidad del informe para el pago",
+        "startMs": 2470400,
+        "durationMs": 5910
+      },
+      {
+        "text": "de la seguridad social listo ya todos los otros datos son",
+        "startMs": 2476310,
+        "durationMs": 4980
+      },
+      {
+        "text": "opcionales para obtener digamos que el registro correcto de los proveedores",
+        "startMs": 2481290,
+        "durationMs": 4260
+      },
+      {
+        "text": "pero aquí que nos interese nada más necesitamos asignarle qué es una entidad",
+        "startMs": 2485550,
+        "durationMs": 5400
+      },
+      {
+        "text": "de nómina y decirles qué",
+        "startMs": 2490950,
+        "durationMs": 4380
+      },
+      {
+        "text": "que el servicio me ofrece me perdonan yo tomo agua",
+        "startMs": 2495330,
+        "durationMs": 11180
+      },
+      {
+        "text": "listo muy bien volvamos a nuestras diapositivas y vamos a ver entonces que",
+        "startMs": 2506520,
+        "durationMs": 5390
+      },
+      {
+        "text": "ya he aprendido como como revisar la pre mitigación de conceptos de perfiles de",
+        "startMs": 2511910,
+        "durationMs": 7110
+      },
+      {
+        "text": "contrato y de entidades de nómina de las tres vimos que ya también lo",
+        "startMs": 2519020,
+        "durationMs": 4830
+      },
+      {
+        "text": "preconfigurado yo aquí lo único que tengo que hacer es lo particular para mi",
+        "startMs": 2523850,
+        "durationMs": 3480
+      },
+      {
+        "text": "empresa si una empresa no tiene ningún manejo particular pues entonces no tengo",
+        "startMs": 2527330,
+        "durationMs": 3330
+      },
+      {
+        "text": "que hacer nada y puedo saltarme al siguiente paso para verificar que esto",
+        "startMs": 2530660,
+        "durationMs": 5370
+      },
+      {
+        "text": "nos haya quedado bien entendido lo que vamos a ver es unos",
+        "startMs": 2536030,
+        "durationMs": 6510
+      },
+      {
+        "text": "ejemplos entonces en caso que la empresa tenga un manejo",
+        "startMs": 2542540,
+        "durationMs": 3490
+      },
+      {
+        "text": "particular como este la empresa otorga como obsequio a los empleados",
+        "startMs": 2546030,
+        "durationMs": 5400
+      },
+      {
+        "text": "contratados a término indefinido una póliza de salud individual quien me dice",
+        "startMs": 2551430,
+        "durationMs": 6240
+      },
+      {
+        "text": "conceptos sabemos qué perfiles de contrato y",
+        "startMs": 2562190,
+        "durationMs": 2710
+      },
+      {
+        "text": "sabemos que hay entidades en una empresa me piden por la empresa me pide que yo",
+        "startMs": 2557670,
+        "durationMs": 13860
+      },
+      {
+        "text": "configure esto en contra pin que tendría que hacer",
+        "startMs": 2571530,
+        "durationMs": 6920
+      },
+      {
+        "text": "2 mientras me responden ahí yo los voy leyendo pues vamos resolviendo este este",
+        "startMs": 2578450,
+        "durationMs": 6030
+      },
+      {
+        "text": "ejercicio lo primero que tengo que hacer muy bien ahí para los que contestaron",
+        "startMs": 2584480,
+        "durationMs": 8770
+      },
+      {
+        "text": "los conceptos de nómina creados que yo sí tenga una póliza de salud aquí para",
+        "startMs": 2593260,
+        "durationMs": 16460
+      },
+      {
+        "text": "que lo vamos a tener como un costo para la empresa no es un",
+        "startMs": 2617710,
+        "durationMs": 7000
+      },
+      {
+        "text": "devengo porque yo no le estoy pagando al empleado yo no le estoy entregando esa",
+        "startMs": 2624710,
+        "durationMs": 4080
+      },
+      {
+        "text": "plata al empleado para que se compre o se afilia una",
+        "startMs": 2628790,
+        "durationMs": 5370
+      },
+      {
+        "text": "póliza de salud lo que nos está diciendo el ejemplo es que como obsequio la",
+        "startMs": 2609730,
+        "durationMs": 28869
+      },
+      {
+        "text": "empresa por cada pago que se le hace al empleado por estar contratado a término",
+        "startMs": 2638599,
+        "durationMs": 3361
+      },
+      {
+        "text": "indefinido pues le está pagando digamos que la póliza de salud con él y en este",
+        "startMs": 2641960,
+        "durationMs": 6149
+      },
+      {
+        "text": "caso pues un ejemplo entonces que fue lo único que nosotros tuvimos que hacer",
+        "startMs": 2648109,
+        "durationMs": 3511
+      },
+      {
+        "text": "vinimos aquí creamos el concepto le dijimos que el concepto base pues",
+        "startMs": 2651620,
+        "durationMs": 5730
+      },
+      {
+        "text": "realmente no hay como un concepto base porque es un costo para la empresa lo",
+        "startMs": 2657350,
+        "durationMs": 3510
+      },
+      {
+        "text": "podemos asociar a otros costos eso no se reporta la dian",
+        "startMs": 2660860,
+        "durationMs": 3620
+      },
+      {
+        "text": "le decimos que es un pago recurrente yo quiero que eso se liquide cada vez que",
+        "startMs": 2664480,
+        "durationMs": 4050
+      },
+      {
+        "text": "yo hago el pago incluso si yo pago quincenal o mensual perdón quincenal o",
+        "startMs": 2668530,
+        "durationMs": 4980
+      },
+      {
+        "text": "semana al juicio aquí le podría cambiar a mensual",
+        "startMs": 2673510,
+        "durationMs": 3870
+      },
+      {
+        "text": "para que siempre pues no me se me abra cada quincena sino una vez al mes en",
+        "startMs": 2677380,
+        "durationMs": 6810
+      },
+      {
+        "text": "formar el cálculo le vamos a decir que este valor es manual",
+        "startMs": 2684190,
+        "durationMs": 4639
+      },
+      {
+        "text": "y el manejo contable pues ya vamos a ver que el sistema al ser un costo para la",
+        "startMs": 2688829,
+        "durationMs": 5160
+      },
+      {
+        "text": "empresa pues nos pide la cuenta de débito que sería una cuenta por pagar a",
+        "startMs": 2693989,
+        "durationMs": 5100
+      },
+      {
+        "text": "esa entidad y la cuenta crédito perdón el gasto que sería pues como yo voy a",
+        "startMs": 2699089,
+        "durationMs": 7081
+      },
+      {
+        "text": "registrar en la contabilidad y esos gastos vemos que aquí ya empieza a",
+        "startMs": 2706170,
+        "durationMs": 5000
+      },
+      {
+        "text": "mostrarse que él me pide bueno y aquí en la socio s",
+        "startMs": 2711170,
+        "durationMs": 5169
+      },
+      {
+        "text": "este movimiento contable entonces lo vamos a asociar a un alias el tercero",
+        "startMs": 2716339,
+        "durationMs": 5581
+      },
+      {
+        "text": "cual no podemos usar ps no podemos usar él no podemos usar los que ya tenemos",
+        "startMs": 2721920,
+        "durationMs": 4919
+      },
+      {
+        "text": "creados entonces creamos uno nuevo que fuera la póliza de salud que ya nos",
+        "startMs": 2726839,
+        "durationMs": 7531
+      },
+      {
+        "text": "vamos a ir y vamos a ver cómo cómo quedó creado simplemente siguiente yo aquí lo",
+        "startMs": 2734370,
+        "durationMs": 7560
+      },
+      {
+        "text": "escribirle una descripción de esa política del pago de nómina le voy a dar",
+        "startMs": 2741940,
+        "durationMs": 5880
+      },
+      {
+        "text": "una vigencia y damos clic en aceptar ahí nos queda creado la primera parte que es",
+        "startMs": 2747820,
+        "durationMs": 7910
+      },
+      {
+        "text": "el concepto ahora vemos que necesitábamos un alias de tercero para",
+        "startMs": 2755730,
+        "durationMs": 7680
+      },
+      {
+        "text": "poder hacer ese pago venimos aquí creamos el alias que era el",
+        "startMs": 2763410,
+        "durationMs": 6090
+      },
+      {
+        "text": "de póliza de salud veamos que aquí lo único que hicimos fue asociar le que el",
+        "startMs": 2769500,
+        "durationMs": 4440
+      },
+      {
+        "text": "tercero por defecto fuera m y que nos aparezca en los datos del empleado le",
+        "startMs": 2773940,
+        "durationMs": 6300
+      },
+      {
+        "text": "doy cancelar y adicionalmente para terminar este",
+        "startMs": 2780240,
+        "durationMs": 8260
+      },
+      {
+        "text": "simplemente que tuvimos que hacer puedes crear el tercero n",
+        "startMs": 2788510,
+        "durationMs": 9099
+      },
+      {
+        "text": "el tercero en mí como una empresa proveedora de denomina",
+        "startMs": 2797619,
+        "durationMs": 6771
+      },
+      {
+        "text": "que me presta el servicio de pólizas algo que yo lo llamé así pero pues yo",
+        "startMs": 2804390,
+        "durationMs": 3540
+      },
+      {
+        "text": "podría llamar como como yo quisiera y listo cada vez que yo vaya",
+        "startMs": 2807930,
+        "durationMs": 9650
+      },
+      {
+        "text": "al liquidar ese concepto pues digamos que va a estar asociado a este tercero",
+        "startMs": 2817590,
+        "durationMs": 3530
+      },
+      {
+        "text": "ahora que me hace falta de él y del ejemplo revisemos lo aquí que me dicen",
+        "startMs": 2821120,
+        "durationMs": 5640
+      },
+      {
+        "text": "los siguientes que me hace falta el ejemplo me decía la empresa otorga como",
+        "startMs": 2826760,
+        "durationMs": 2880
+      },
+      {
+        "text": "obsequio a los empleados contratados al término indefinido una póliza de salud",
+        "startMs": 2829640,
+        "durationMs": 5370
+      },
+      {
+        "text": "individual que en este caso lo hicimos con él ya creamos el concepto o lisa",
+        "startMs": 2835010,
+        "durationMs": 5340
+      },
+      {
+        "text": "creamos a demi como tercero proveedor de nómina",
+        "startMs": 2840350,
+        "durationMs": 4290
+      },
+      {
+        "text": "nómina asociamos al concepto que cada vez que",
+        "startMs": 2844640,
+        "durationMs": 2189
+      },
+      {
+        "text": "yo lo pago pues digamos que va a quedar relacionado y emi como tercero del",
+        "startMs": 2846829,
+        "durationMs": 6931
+      },
+      {
+        "text": "movimiento que nos hace falta asignarse a quienes aquí el ejercicio nos dice que",
+        "startMs": 2853760,
+        "durationMs": 5549
+      },
+      {
+        "text": "todos los empleados que yo vaya a contratar a término indefinido quiere",
+        "startMs": 2859309,
+        "durationMs": 4141
+      },
+      {
+        "text": "decir entonces que los perfiles de contrato",
+        "startMs": 2863450,
+        "durationMs": 4899
+      },
+      {
+        "startMs": 2868359,
+        "durationMs": 7081,
+        "text": "voy a cerrar esto para que no nos genere"
+      },
+      {
+        "text": "espacio quiere decir entonces que yo en mi nómina perfiles de contrato pues voy",
+        "startMs": 2875450,
+        "durationMs": 5060
+      },
+      {
+        "text": "a buscar ese ese tipo de contrato término indefinido pago mensual que es a",
+        "startMs": 2880510,
+        "durationMs": 5760
+      },
+      {
+        "text": "quienes les aplica ese concepto nos venimos aquí en concepto de nómina costo",
+        "startMs": 2886270,
+        "durationMs": 5370
+      },
+      {
+        "text": "empresa porque lo clasificamos como costo para la empresa y simplemente",
+        "startMs": 2891640,
+        "durationMs": 3900
+      },
+      {
+        "text": "venimos y asociamos que también además de todos los costos pues ya asociados se",
+        "startMs": 2895540,
+        "durationMs": 5760
+      },
+      {
+        "text": "le va a liquidar",
+        "startMs": 2901300,
+        "durationMs": 4380
+      },
+      {
+        "text": "este concepto de póliza de salud damos clic en aceptar",
+        "startMs": 2905690,
+        "durationMs": 6659
+      },
+      {
+        "text": "listo como estamos un poquito y digamos que he cogido de tiempo vamos a",
+        "startMs": 2912349,
+        "durationMs": 7021
+      },
+      {
+        "text": "revisar que aquí teníamos otros dos ejemplos",
+        "startMs": 2919370,
+        "durationMs": 5110
+      },
+      {
+        "text": "ejemplos para hacer y después si queda tiempo los",
+        "startMs": 2924480,
+        "durationMs": 2879
+      },
+      {
+        "text": "podemos hacer al finalizar la sesión pero aquí me interesa es que quedó la",
+        "startMs": 2927359,
+        "durationMs": 5641
+      },
+      {
+        "text": "parametrización de él con está primer pues ya explicada tenemos revisados",
+        "startMs": 2933000,
+        "durationMs": 6420
+      },
+      {
+        "text": "nuevamente conceptos de nómina perfiles de contrato y entidades de nómina y",
+        "startMs": 2939420,
+        "durationMs": 4320
+      },
+      {
+        "text": "vimos un ejemplo vimos varios ejemplos de cada uno y vimos un ejemplo en el que",
+        "startMs": 2943740,
+        "durationMs": 4350
+      },
+      {
+        "text": "tenía que usar digamos que esos tres catálogos para que me funcionarán",
+        "startMs": 2948090,
+        "durationMs": 6360
+      }
+    ],
+    "plainText": "## Descripción del video\n\nMódulo de Nómina ContaPyme®: Guía de implementación.\n\nParametrización:\n\n1. Implemente Nómina Electrónica con el apoyo de nuestros expertos.\n\n2. Conozca cómo debe parametrizar el sistema.\n\n## Transcripción\n\nentonces ahorita ya vamos a pasar a revisar la parametrización del sistema y\nnos vamos a enfocar y explicar cada uno de estos ítems que vimos aquí entonces\nel primer ítem el primer ítem va a ser los conceptos de pago de nómina que\nrecordemos que el concepto pago nómina es cualquier valor que yo pague o\ncontrole en virtud de un contrato de trabajo\ntrabajo y después vamos a ver los perfiles de\ncontrato que son esas condiciones y conceptos que yo puedo agrupar porque\nnómina que son esas entidades a las que yo debo pagar los aportes o que\nacompañan de una u otra manera ese pago de conceptos de nóminas cómo llps\npensiones y cesantías excel aquí la buena noticia es que\nel catálogo de conceptos de pago la mona viene preconfigurado listo para usar lo\núnico que vamos a hacer es revisar y de pronto crear conceptos adicionales que\nyo necesite los perfiles del contrato también viene un catálogo completamente\npreconfigurado con los ejemplos o con las necesidades más más comunes de una\nempresa pyme en colombia lo único que vamos a hacer\nes revisarlo y de pronto a gustar las cositas particulares de la empresa y con\nlas entidades de nómina pues también hay una muy buena noticia y es que con está\npyme digamos que ya va a tener predefinidas las entidades más populares\nde una nominada en colombia entonces vamos a ver que esto es supremamente\nsencillo vamos a iniciar con conceptos de para duelo entonces ya sabemos que es\nun catálogo preconfigurado pero antes de ir a ver pues que está preconfigurado en\neste catálogo vamos a entender un poquito cómo funcionan los conceptos del\npago de nómina en contra filme entonces los conceptos de pago de nómina en\ncontra pyme funcionan de la siguiente manera tenemos dos como quien dice dos\ncatálogos unos que son los conceptos de pago de nómina y otros que son los\nconceptos base estos conceptos base son un catálogo del sistema donde nosotros\nya enviamos predefinido el comportamiento es decir si es de donde\nvengo es deducciones costos para la empresa tenemos ahí predefinido cómo se\ndebe reportar a la dian y tenemos la fórmula del sistema cierto combate en\nesos en esos conceptos hacen valga la redundancia creamos los conceptos de\nnómina los conceptos de nómina ya es un catálogo que puede manipular el usuario\nen él además de asociar el concepto barrio pues le puede definir la\nrecurrencia del pago pues de ese concepto denomina la forma de cálculo si\nqueremos que sea un que no sea por fórmulas y lo manual o con la fórmula\ndel sistema o personalizar la fórmula y el manejo contable\nprincipalmente entonces para entender esto un poquito como ya más tangible\nvamos a contar pyme\ncerremos estas ventanas igual que monos entonces en la pestaña\nnómina en la pestaña de nómina yo vengo conceptos de nómina\ny vamos a ver que entonces como veíamos en la sesión pasada tenemos todos los\nconceptos de nóminas ya listos para usar vamos a ver un poquito\nde pronto salario básico que después digamos que él\nel concepto más básico que tiene la nómina y vemos qué es lo que nos va a\npedir el sistema entonces vamos a ver todo por pasivos\nentonces en la primera pestaña nos dice que vamos a definir ese concepto\ndenominado lo principal que yo le tengo que definir es el concepto base voy a\nabrir aquí para que ustedes identifiquen que tenemos todos estos\nconceptos base ya listos para usar que son todos los que me pide la diana aquí\nestá todo lo que me pide la bien y todo lo que tiene digamos que ya su fórmula y\nsu comportamiento entonces vamos a escoger el salario básico y al sistema\nme trae como un un resumen de que significa escoger ese concepto base\nentonces él nos dice este concepto pertenece al grupo de salario básico\ntiene un comportamiento como devengo del empleado los datos de registro sea cada\nvaya a registrar este concepto el sistema me va a pedir\ncantidad y valor y lo vamos a medir en día cierto como tiene cantidad esa\nunidad va a ser días el lic ya no tengo que saber más yo\nsolamente tengo que saber que eso se debe comportar como un salario igual\nluego nos pregunta el manejo digamos que un manejo que se le va a dar a este a\neste pago que nos va a preguntar si es recurrente o no es recurrente si yo\nselecciono esta está hecha de recurrente se me va a habilitar esta pestaña de\npago recurrente que ya vamos a ver a continuación\ncontinuación y finalmente nos pregunta la\ndisponibilidad de este concepto en el documento impreso del pago de nómina\nentonces digamos que ustedes ven salario es un concepto que yo efectivamente\nquiero ver reflejado en el comprobante de nómina que le entregó al empleado\npero por ejemplo el pago de aire el que hace la empresa\npues no lo quiera ver reflejado en el empleado entonces ahorita vamos a ver un\ncaso en el que este check pues estaría apagada listo entonces le dijimos que el\nsalario era un pago recurrente nos vamos a venir para la pestañita de pago\nrecurrente y vamos a ver que nos pide tres datos muy básicos nos pide cada\ncuánto se va a pagar es decir la periodicidad tenemos que aquí nos da\nopción de cada pago anual semestral cuatrimestral existe\neste este el salario y digamos que la mayoría de los conceptos se deben\nliquidar cada pago cada paso que quiere decir una vez yo tengo la operación de\nyo yo voy a liquidar o hacer la operación de pago de nómina el sistema\nme va a cargar este concepto si lo tengo asociado en el contrato en el contrato\nme va a preguntar esto de mes y fecha de pago pues no aplica en este caso y aquí\ncomo una ayuda del sistema me dice este este como la traducción de esta\nconfiguración me va a decir este salario se paga en todos los pagos de lo mismo\nvamos a hacer un ejemplo en el caso que yo dijera\notro concepto que pronto si tenga un pago\npago recurrente por ejemplo una prima de gas\nnosotros sabemos que la prima legal pues ya no es\nse paga semestralmente entonces revisemos un momentico esta definición\nveamos que este concepto base pues ya no es algo básico sino prima legal me dice\nque tiene un comportamiento de prestaciones que me va a pedir cantidad\nde valor cada vez que yo lo registre y la unidad va a ser en días y en pago\nrecurrente veamos que aquí la periodicidad ya no es cada pago\ny me pregunta el mes es decir de ese semestre que tiene seis meses\nen que me se debe liquidar está está este concepto entonces vamos a decir en\nel mes 6 eso aquí me traduce a del primer semestre es el es junio y el\nsegundo semestre en diciembre y finalmente la fecha de pago ustedes\nsaben que hay empresas que las primas las pagan los 15 de junio y 15 de\ndiciembre y pues simplemente yo aquí le podría poner último día del mes o el mes\no el día 7 o digamos que el día que yo quiera que se me requiere este este pago\nno me cae aquí el sistema como yo les mencionaba ahorita pues nos trae también\nla el ejemplo de cuando se pagaría este\neste concepto vamos a volver a el concepto salario tenemos el pago\nrecurrente que como ustedes ven sólo me piden tres datos y son muy básicos todo\nesto viene preconfigurado y vamos a la forma de acá entonces el salario\ncontable por defecto trae la fórmula de cantidad de anjé aquí me va a preguntar\ncantidad de valor entonces me el sistema me pregunta si yo\nla cantidad la quiero registrar manual hola quiero registrar por fórmula por\ndefecto el sistema me va a traer la fórmula del sistema\npero yo también en algún momento y esto será una una capacitación más avanzada\npodría personas personalizar la fórmula y digamos que ya\ntengo libertad de manejar estos conceptos como como mi empresa lo\nnecesite entonces en cantidad vemos que tenemos la fórmula y en valor la fórmula\ntambién viene por defecto y es muy sencilla porque aquí como el sistema me\npide cantidad yo lo que necesito aquí es la fórmula del valor unitario porque en\nla operación de pago pues simplemente eso se va a multiplicar por la cantidad\nque yo tengo aquí como el salario básico se calcula todo automáticamente vamos a\nver de pronto uno que no está en automático que van a ser las horas ex\nentonces veamos la configuración de horas extras tenemos la definición vamos\na repasar la definición el concepto hace ya es una hora extra pertenece al grupo\nrecargos y horas extras tiene un comportamiento de tipo devengo y el tipo\nde registro miremos que aquí el sistema ya me va a pedir porcentaje cantidad\nvalor y las fechas recordemos que este tema de las fechas y los valores que se\npiden los determina la diana la hora extra es un poco recurrente o no\nes un poco recurrente para los que están pendientes pueden ir\ncomentando en el chat si la hora extra consideran que es un pago recurrente o\nno y mientras ustedes responden vamos viendo que la disponibilidad de este\nconcepto pues evidentemente yo sí quiero que si un empleado hace unas horas\nextras en su comprobante de pago le aparezca el concepto de horas ex a y\nestoy viendo que ya están respondiendo muy bien este no es un\nconcepto un pago recurrente porque porque es eventual cuando el empleado\neventualmente haga horas extras y se registra por novedad listo entonces\nvamos a pasar a parte la forma del cálculo y lo vamos a revisar mejor vamos\na ver que la cantidad es manual porque la cantidad de las horas extras digamos\nque está configurada con una forma de cálculo manual porque pues como decíamos\nahorita las horas extras se registran por medio de una novedad y pues la\ncantidad dependerá de las horas extras por el empleado\nel valor y así lo tenemos por fórmula porque el valor es simplemente el\nsalario básico ahora y eso se me va a multiplicar por un porcentaje y aquí\nvamos a tener en la nueva pestañita porcentaje porque me aparece esta\npersonita de porcentaje porque aquí el tipo de registro me dice que se requiere\nel porcentaje entonces venimos aquí nos paramos en la pestaña porcentaje y\ntambién me va a preguntar entonces si el valor del porcentaje va a ser manual\nesto se daría en el caso de que yo tenga un concepto en el que quiero registrar\nmanualmente en la novedad el porcentaje o si el porcentaje fijo en este caso la\nhora de extraer no pues tiene un porcentaje fijo que es 25 por ciento\nese 25% se le debe registrar a la diana entonces aquí que vamos a ver como yo sé\nque la operación de pago de nómina multiplica la cantidad de valor por\nporcentaje para determinar el valor total de ese concepto vamos a decir que\neste es un porcentaje acumulada es decir no sólo el valor de la hora no la va a\nmultiplicar por 25 por ciento sino por ciento 25 por ciento este simplemente es\nel chulito que viene aquí prendido\nprendido muy bien aquí digamos que conforman el\ncálculo podemos ver varios pero no tiene mucho misterio vamos a volver a nuestro\nejemplo de salario básico y vamos a pararlo ya en el manejo\ncontable que me va a preguntar del manejo contable como en contacto con los\notros catálogos simplemente yo le tengo que determinar cada vez que se liquide\nese concepto que cuenta del book va a amor entonces veamos que aquí\ntenemos algo muy interesante nosotros en contabilidad pues tenemos los gastos\nadministrativos y los gastos por ventas y tenemos empleados que pertenecen a un\ncentro de costos de venta y a un centro de costos y de pronto administrativo\ncomo se diferencia está aquí muy simple si yo no lo tengo que diferenciar\nsimplemente pues aquí es una una cuenta y listo que si vemos aquí el\nsistema lo que hacen es abrirme el seleccionador de cuentas\nsi yo no no tengo el perdón si yo tengo varios centros de costos que tienen una\nclase diferente es decir no son de gastos y otros son de ventas yo puedo\nseleccionar aquí este configurar la cuenta según la clase contable y aquí\nsimplemente me va a preguntar que para la clase del centro de costos 1 el\nsistema me va a traer me va a cargar las 51 es decir todo empleado al que se le\nvaya a liquidar este concepto que esté asociado a un centro de costos de clase\ngastos la cuenta contable que se va a mover es la 51 05 06 pero si por el\ncontrario el empleado está asociado a un centro de costos que tiene ventas como\nclase la cuenta que se va a mostrar a mover es la 52 05 06\ntodo esto es configurable por el usuario este este tema de manejo acumulado es un\ntema un poco más avanzado lo vamos a ver más adelante usted no se tienen que\npreocupar por eso en este momento simplemente validan que ésta sea la\ncuenta que se debe mover eso lo deben hacer en compañía de su contador y aquí\nvamos a ver una descripción para los para que el usuario pueda digamos que es\ndocumentar consideraciones o temas descriptivos de\neste concepto y tenemos las consideraciones de con tapping para\nconseguir consideraciones son muy importantes porque es la explicación de\ncómo se está calculando las fórmulas que vienen por defecto si en algún momento\nun usuario pues no no no quiere no está de acuerdo no no no quiere calcularlo\ncomo lo calcula el sistema está en toda la libertad te puede hacer su propia\nfórmula o registrar el valor manual de los conceptos y finalmente vamos a tener\nla pestaña de vigencia que la pestaña de vigencia digamos que me sirve\npor si en un momento yo cambio alguno de estos algunas de estas configuraciones\npero a partir de un año por ejemplo en todo el año 2020 manejamos\nla hora extra con un 30% y a partir del 2021 lo vamos\na manejar con el 25 por ciento eso pues lo podríamos manejar por medio de esta\nvigencia simplemente sería duplicar el concepto y modificar la vigencia\naquí así digamos que queda explicado todo lo que se configura en este en este\ncatálogo recordemos que todo esto viene preconfigurado y listo para usar como\npara que tengamos una idea y terminemos de asentar estos conocimientos vamos a\nver pues digamos que ya vimos varios ejemplos de devengos vamos a ver cómo\nsería por ejemplo cómo está configurado este que es una deducción para el\nempleado por por aporte esa salud vemos que yo aquí en concepto base escojo el\naporte de salud al empleado él me dice que el comportamiento es del tipo de\ndeducción y sólo me voy a pedir porcentaje y valor digo también que es\nun pago recurrente a que yo le digo que esto se tiene que liquidar en cada pago\nque yo le haga al empleado y la forma de cálculo pues tenemos la fórmula del\nsistema y el porcentaje pues simplemente tenemos el 4% que es digamos lo que\ncorresponde aporte a salud a cargo del empleado el manejo contable yo que voy a\ntener simplemente la cuenta qué se debe digamos que mover cada que\nyo liquide este este concepto y voy a tener la\nel tercero que quede voy a acompañar este movimiento contable que eso es lo\nque vamos a ver ahorita más adelante con las entidades pero visto tenemos la\ndescripción la vigencia y no tiene ningún ningún otro ningún otro tema lo\nmismo pasa con aportes a pensión perdón aportes o provisiones a cargo de la\nempresa aquí tenemos todo creado digamos que tenemos aportes para los de rl para\nlos diferentes niveles de riesgo tenemos aquí todas las provisiones de\nparafiscales perdón los aportes parafiscales y las provisiones de las\nprestaciones todo esto ya viene preconfigurado que yo simplemente les\nestoy mostrando para que conozcamos qué es lo que se configura y digamos sobre\ntodo en la parte contable pues que se pueda asociar las cuentas\nparticulares que tenga cada empresa vamos a volver aquí a nuestro nuestra\ndiapositiva y vamos a concluir entonces lo que yo les decía este catálogo yo que\ntengo que hacer entrar a cada concepto y revisar el manejo contable que sí que\nesté moviendo las cuentas que necesito que se mueven uno cada vez que se le\nquiere recuerden que estas cuentas se mueven cada vez que yo hago un pago de\nno entonces pues un pago de nómina que incluye el concepto entonces lo que yo\ntengo que hacer en esta parametrización simplemente es la revisión del manejo\ncontable y creación de nuevos conceptos si fuera el caso entonces para ver cómo\nse crearían esos nuevos conceptos miremos un ejemplo de cosas que pueden\npasar porque aquí tenemos todos los conceptos genéricos para todas las\nempresas para por ejemplo qué pasa si una empresa\nofrece comisiones para el equipo comercial y para el equipo de marketing\ny quiere diferenciarlas en el pago de la nómina para llevar un control quiere\ndecir que si bien con está primera viene preconfigurado un concepto de comisiones\nla empresa quiere tener comisiones para el departamento comercial y comisiones\npara el departamento de marca entonces vamos a ver en cuanta pyme\ncomo haríamos eso aquí vamos a validar que nosotros\nsólo tenemos uno creado que es el comisiones genérico que viene por\ndefecto yo aquí le podría dar modificará este ponerle comisiones comerciante\naceptar y simplemente voy a venir a duplicar\nduplicar este\neste este concepto nos pide el código por lo\ntanto le vamos a decir que no no escrito comisiones normales y nuevas comisiones\naquí nos dice que no perdón aquí nos dice que estamos\nde caracteres permitidos perdón un segundo vamos a duplicar y le ponemos de\nmarketing entonces nos va a quedar las comisiones primeras que son las de\ncomercial y las comisiones de marketing vamos a modificar el nombre simplemente\ny marketing y veamos aquí lo interesante por más que van a ser dos\nen conceptos de nóminas diferentes porque así mi empresa lo quiere digamos\nque diferenciar yo voy a tener aquí que los dos invitamos que están basados en\nel mismo concepto base de la dian que es comisiones es decir que entonces cuando\nnosotros a final de mes estemos reportando en la nómina electrónica todo\neso se va a reportar como comisiones le vamos a poner que no es un pago\nrecurrente porque lo hago por novedades la forma de cálculo va a ser manual por\nlo que también venía veíamos la sesión pasada que digamos que yo no puedo saber\ncuánto va a ser el valor de esas comisiones entonces yo cada mes lo\nregistro por novedades y al manejo contable podría ser el mismo o no eso ya\nserá decisión de la empresa le damos a aceptar y ahí nos quedarían dos\nconceptos de nómina para comisiones de marketing y\ncomisiones comerciales vamos a volver a las diapositivas y\nvamos a ver un segundo ejemplo para entonces si la empresa otorga a los\nempleados que lo soliciten una auxilia de gafas de hasta 300 mil pesos\naquí tenemos que empezar a ver si esto es\nun costo para la empresa si se debe clasificar como un devengo o sea yo le\nvoy a pagar este auxilio de gafas a los empleados y como lo voy a reportar a la\ny esto como lo deberíamos crear primero que todo es un poco recurrente no es un\npoco recurrente lo\nlo vamos a hacer por un devengo por una\ndeducción ahí los vamos a ir leyendo mientras\ntanto vamos a pasar aquí a conta pines y simplemente\nvamos a buscar el auxilio de gafas que yo ya lo tenía creado para efectos del\ntiempo que nos pueda rendir y para todos nos creyeron que era un devengo muy bien\nes un devengo vamos a ver cómo está clasificado\nclasificado ahora este digamos que beneficio que\notorga a esta empresa del ejemplo a sus empleados lo vamos a clasificar como un\nauxilio no salarial quien determina que es un auxilio no salarial cada uno de\nnosotros con nuestro contador con nuestra persona experta de nómina pues\nvamos a definir si esto es un auxilio salarial que nos al área salarial no\nsalarial o si simplemente lo queremos registrar no como un pago al empleado\nsino como otros puestos para la empresa que también podría ser una opción está\nparametrización ya depende únicamente del análisis y las decisiones que tome\ncada empresa en nuestro caso lo vamos a poner como un auxilio no salarial no es\nun pago recurrente porque simplemente se da cuando cuando el empleado lo pide\ny si se da quiero que se me incluya en el pago de nómina y la forma de cálculo\nque solo me pide valor pues le vamos a poner que es un valor manual porque a\npesar de que el ejercicio nos dice que él\nél el pago y pues digamos que la política\nes que se paga hasta trescientos mil pesos pues el pago podría ser 100 mil\n120 200 mil digamos que es variable por lo tanto digamos que ese tope de 300 mil\nya sería manejado como una política de la empresa y aquí simplemente le vamos a\ndar valor manual el manejo contable lo mismo esto lo hago en compañía de mi\ncontador es como la cuenta que yo quiera manejar\nle puedo poner una descripción a este auxilio de gafas que sea como la\nun año en la organización\nel beneficio de auxilio de gafas con topes\ntopes uno por valor\nde hasta 300.000\n300.000 listo este equipo para este tipo de\ncosas es que se usa esta descripción para poder llevar todo y todas mis\npolíticas de nómina pues muy bien registrados y a quien consideraciones\nrecordemos que estas consideraciones son las que trae el sistema y están\nasociadas al concepto base seleccionado la vigencia lo mismo que veíamos\nanteriormente y simplemente le algo a aceptar y ya me quedó creado mi auxilio\nde casos si mi empresa no tiene ningún manejo particular pues quiere decir que\nyo no tuve que hacer nada en este punto simplemente revisar el manejo contable\nsi mi empresa tiene más digamos que particularidades pues entonces yo voy a\nir creando mis diferentes particularidades por ejemplo como un\nbono de navidad que yo quiera dar a financiar\nfinanciar muy bien cerramos aquí volvemos a la\npresentación y vamos a pasar al segundo punto recuerden que eran tres al segundo\npunto de perfiles de contrato entonces recordemos un poquito qué son esos\nperfiles de contrato y recordemos que es un catálogo preconfigurado aquí yo les\nvan a enseñar qué es lo que se está definiendo en ese perfil pero pues\nrecordemos que esto ya viene en pre cultura entonces que defino yo en el\nperfil condiciones del contrato como cual es el tipo de contrato la\nintensidad horaria la periodicidad de pago entre otras y los conceptos que van\nasociados a ese contrato perdón a ese perfil de contrato como cual es salario\nauxilio de transporte aporte esa seguridad social o el costo para la\nempresa todo esto para que lo hago yo simplemente para agrupar\ny digamos qué condiciones y configuraciones que son genéricas para\nun grupo de empleados pero para un tipo de contrato entonces vamos a dejar un\nmomentico ahí vamos a ir a contar pymes y vamos a encontrar que en la pestaña de\nnómina tenemos el catálogo de perfiles de contrato damos clic en este catálogo\ny nos abren todos los que están predefinidos en contrato y veamos que\naquí tenemos contratos prevén dos perfiles para contratos a término fijo\ncontratos a término indefinido orador aprendizaje prácticas etcétera todo esto\nviene listo para usar pero vamos a entrar a cada uno a ver qué es lo que yo\ndebo configurar vamos a el más básico que es término indefinido pago\nmensual que me pide el sistema simplemente me\npide que yo le diga que el tipo de contrato es este vemos aquí las opciones\nla periodicidad de pagos recuerden que yo por más que la nómina electrónica se\nreporta mensual la nómina lección que reporta el acumulado es decir yo puedo\nhacer pagos semanales decimales catorcenales quincenal es como yo quiero\nhacer mi estado en este caso lo vamos a dejar que es mensual tenemos la forma de\npago que debe ser de contado esto ya son datos que se envían en la nómina\nelectrónica y a la jana por lo tanto yo aquí debo escoger el método de pago\nla clase de riesgo pues ya según los empleados yo podría tener un perfil de\ncontrato para empleados administrativos que su riesgo es clase 1 y digamos que\notro contrato para el grupo digamos productivo que su riesgo puede ser mucho\nmayor vamos a seleccionar entonces aquí estas opciones que nos da el sistema y\nla intensidad horaria la intensidad horaria es súper importante porque me va\na determinar el cálculo de las horas extras del empleado es decir si yo le\ndigo que la intensidad horaria de este contrato de este perfil es 8 horas el\nsistema digamos que para sacar el valor de la hora va a dividir entre 30 y el\nsalario mensual lo va a vivir entre 30 no me va a dar un salario el día y el\nsalario el día no hay dividir entre 8 si yo le digo aquí que\nla intensidad de horario es diferente por ejemplo cuatro horas diarias sería\nmedia jornada por lo tanto el sistema pues va a ser el cálculo correcto de\nmedia normal listo esto es lo que yo defino el el perfil del contrato en\ntérminos de condiciones y ahora yo solamente le tengo que asociar que cada\nque yo creé un un empleado que tenga este perfil de contrato pues se le van a\nasociar automáticamente estos devengos estas prestaciones estas deducciones y\nestos costos para la empresa todo esto como yo les digo viene preconfigurado\nque simplemente revisar vamos a dar aceptar y para que nos quede un poquito\nmás claro vamos a ver unos ejemplos ya vimos el básico que es término\nindefinido pago mensual ahorita vamos a ver cómo se configuraría entonces\ndigamos un grupo de empleados que tengan sala de 20\nesto sea así en contra prime ya también viene preconfigurado para términos de\npago mensual salario integral le damos a modificar para poderlo ver vemos que\nestas configuraciones pues son muy similares a las de el contrato a término\nindefinido pero aquí vamos a tener de algo especial y es que vamos a digamos\nque marcarle que es el salario integral cierto que el salario que nosotros vamos\na poner en el empleado es integral y aquí en conceptos de nómina viene lo\ninteresante y es que veamos que ya no aparece auxilio transporte pues porque\nella es un salario integral no tiene no se le asigna a una persona con este\nperfil de saleh al integrar prestaciones las deducciones se aumentan ya no\nsolamente salud pensión sino que también es el fondo en solidaridad solidaridad y\nel y el fondo de subsistencia del empleado y en los costos para la empresa\nvemos que tampoco vamos a tenerlas de las prestaciones que esto todo se\nconfigura una sola vez o se valía porque nosotros ya entramos ya lo entregamos\npreconfigurado y listo qué pasa si yo tengo a un empleado o\nvarios empleados con salario integral pero no están a término indefinido que\ntengo que venir aquí a las inicial yo podría modificar este perfil que ya\nvienen predefinido y aquí cambiarle el contrato\na término fijo o si yo quiero lo pudo duplicar cambiarle el contrato a término\nfijo lo que aquí también para que no me voy a confundir el nombre y listo no\ntengo que hacer nada más ahí se termina la digamos que revisión de la\nparametrización de perfiles de contratos vamos a darle cancelar para que no nos\nguarde estos últimos cambios y vamos a ver entonces en la presentación que\notros que otro ejemplo podemos tener y el otro ejemplo que también es muy común\ndigamos las personas que están contratadas como aprendices del zen\nvamos a ver encontrar primero también ya lo tenemos pre configurado y vamos a ver\neste tipo de aprendizaje contrato de aprendizaje el pago mensual\nsimplemente aquí le especificamos que el contrato es de aprendizaje\ndamos digamos que gestiona todos estos datos que nos piden\nel perfil del contrato y la diana y en conceptos de nómina vamos a ver qué\nentonces superimportante a un aprendiz no se les paga salario se le paga el\nconcepto apoyo de su seguimiento se le paga prestaciones no se le paga en\nprestaciones se le hacen deducciones a decía apoyo de sostenimiento no se le\nhacen deducciones y el costo para la empresa se limita a los aportes a la\nsalud para aprendices y la rf listo entonces vemos como en la medida\naprendiz o un perfil de salario integral un perfil de término indefinido término\nfijo pues el sistema ya simplemente me va a ir cargando todo eso por defecto a\nlo cual es una ayuda fabulosa listo aquí damos por terminada\nesa configuración de perfiles de contrato y nos vamos a ir para entidades\nde novo que son las entidades de nóminas recordemos que son todas esas entidades\norganismos terceros que acompañan el pago de la nómina pues sea porque yo se\nlos pago generalmente es porque les debo pagar unos aportes a salud unos aportes\na pensión etcétera etcétera entonces vamos a ver que el sistema ya viene con\nunas entidades predefinidas y yo lo único que voy a tener que hacer es\nrevisar un tema en los áreas de terceros y crear las entidades que acampan antes\nde pasar ese punto quiero mostrarles aquí en contra pyme vamos a cerrar este\nperfil de contratos donde encuentro yo las entidades de nómina en contacto y\nnos vamos a ir a la pestaña de básico terceros desplegamos este menú y vamos a\nirnos a proveedores las entidades de nóminas se manejan como un tercero\nproveedor y vemos que aquí ya vienen creadas las entidades de nómina es más\npopulares que manejamos en colonia y eso es lo principal que tenemos que tener en\ncuenta ahora nosotros sabemos que las entidades de nómina pues digamos que yo\npuedo tener una ips un empleado puede tener yo puesto a la sociedad mínima\notro empleado a asur a otro empleado a colsánitas etcétera\npor ejemplo todos nosotros estamos que si estamos en la misma empresa vamos a\npor decir algo entonces es lo que nos dice que cuando\nyo vaya a liquidar por ejemplo aportes de salud\npues cuando me eligieron a mí efe ese valor de aportes de salud se lo tienen\nque pagar a medias cuando liquiden a one se lo tienen que pagar asegura cuando le\nquien a juanita se lo tienen que pagar con sanitas publicidad entonces para eso\nnosotros manejábamos un tema que son los alias de terceros nosotros tenemos un\nvídeo especializado de adidas de terceros en contra pin\nentonces vamos a trabajar aquí con que ya es el concepto lo tenemos un poquito\nclaro para ilustrarlo mejor vamos a compartir y yo les muestro\nde qué es de lo que estamos hablando vamos a irnos aquí en básico\nterceros y vamos a explicar vamos a ver alias de terceros\nentonces vamos a ver que los áreas de terceros que vienen preconfigurados van\na hacer estos a l el caja de compensación familiar cesantías web\ntodos estos días que le voy a decir yo al sistema yo le va a decir este área de\nconcepto cuando decíamos aportes a la salud y me pedía un tercero o sea aquí\nen el cargo esta cuenta por pagar y le poníamos no le poníamos una le poníamos\nips ya vamos a ver cómo es que funciona es\nentonces en la ps o en cualquiera de estos años vamos a ver que\nsimplemente yo le voy a poner un tercero por defecto es decir a la mayoría bueno\nen el aire le digamos que es la más clara pues sí si mi empresa tiene a\nedesur a todos los empleados tienen aire de lismore antes yo no les voy a tener\nque configurar nada pero por ejemplo yo también podría decir la mayoría de\ndesempleados están en la caja de compensación en con familiares\nentonces por defecto va a hacer eso pero contraté un empleado en otra en otra\nciudad pues simplemente has empleado ya le especificó cuál es su su entidad por\ndefecto entonces visto aquí tenemos el tercero por por defecto y lo vamos a\nseleccionar para que me aparezca en los datos del empleado y como proveedor\nentonces vamos a tenerlo aquí veamos que tenemos las diferentes las\ndiferentes áreas y veamos su uso para que nos quede un poquito claro voy a\nabrir aquí terceros empleados aquí teníamos unos en\nlos empleados creados pues para el ejemplo ahorita vamos a crear más\ny le vamos a dar modificar entonces recordemos en la sesión pasada ya vimos\nvamos a ver que en los datos del empleado en entidades\nel sistema me estado trayendo todos esos áreas que yo tenía configurados ahí en\nel catálogo de área de años y me está trayendo que por defecto\nson los que yo definirá por ejemplo la rl me trae por defecto sura que todo\nesto me lo trae y el sistema por defecto vamos a darle cancelar\ny vamos a ver que entonces en los conceptos de nómina para que hagamos\npues como toda la triangulación de este entendimiento\nentendimiento en los conceptos de nómina por ejemplo\nlos aportes a la salud que es una deducción del empleado\nel sistema en el manejo contable me pide un tercero porque porque esta cuenta al\nser digamos que una cuenta por pagar pues yo la tengo referencial con un\ntercero digamos que yo no tengo que seleccionar un tercero como tal yo puedo\nseleccionar la ips es lo que quiere decir que cada que se le quiere este\nconcepto de nómina por test te saluda al empleado el sistema me va a tomar el\ntercero asociado en el empleado a esta a este alias que sps en este caso de\nveamos que una vez en el líquido\nlos aportes perdón los aportes\nen la fs para ella asignada es nuevas veces pero yo aquí pues le podría poner\ncualquier otra ips por ejemplo comedor\ny simplemente cuando se liquide ese concepto que tienen referencia o\nrelacionado está ep s me voy a traer es este es este tercero\nah y eso como para entender un poquito lo de alias de tercero y finalmente yo\nvoy a crear las nuevas entidades que de pronto no estén ya predefinidas y\nsimplemente para crearlas pegamos en contra pyme que es un tercero normal nos\nubicamos aquí en proveedores y vamos a ver por ejemplo de cesura cómo está\ncreada yo simplemente equipo es en vez de darle modificar le daría a crear\nle vamos a asignar toda la información digamos que de reglamentaria y vamos\ncuando yo le seleccionó que es de tipo proveedor él me va a traer aquí en datos\nproveedor me voy a decir es un proveedor estándar por ejemplo pues para todo lo\nes un proveedor de tipo entidad de nómina si es un proveedor de tipo\nentidad de nómina me se me habilita esta pestaña se me habilitan los servicios o\náreas que tenemos relacionados allá en áreas y yo le voy a seleccionar que el\ntipo de servicio que presta esta entidad por ejemplo en este caso estamos viendo\nla de peces ahora le decimos que nos presta servicios de ese y vamos a\nponerle el código para planilla pico de código planilla pila pues lo vamos a ver\nmás adelante cuando hayamos lanzado la funcionalidad del informe para el pago\nde la seguridad social listo ya todos los otros datos son\nopcionales para obtener digamos que el registro correcto de los proveedores\npero aquí que nos interese nada más necesitamos asignarle qué es una entidad\nde nómina y decirles qué\nque el servicio me ofrece me perdonan yo tomo agua\nlisto muy bien volvamos a nuestras diapositivas y vamos a ver entonces que\nya he aprendido como como revisar la pre mitigación de conceptos de perfiles de\ncontrato y de entidades de nómina de las tres vimos que ya también lo\npreconfigurado yo aquí lo único que tengo que hacer es lo particular para mi\nempresa si una empresa no tiene ningún manejo particular pues entonces no tengo\nque hacer nada y puedo saltarme al siguiente paso para verificar que esto\nnos haya quedado bien entendido lo que vamos a ver es unos\nejemplos entonces en caso que la empresa tenga un manejo\nparticular como este la empresa otorga como obsequio a los empleados\ncontratados a término indefinido una póliza de salud individual quien me dice\nconceptos sabemos qué perfiles de contrato y\nsabemos que hay entidades en una empresa me piden por la empresa me pide que yo\nconfigure esto en contra pin que tendría que hacer\n2 mientras me responden ahí yo los voy leyendo pues vamos resolviendo este este\nejercicio lo primero que tengo que hacer muy bien ahí para los que contestaron\nlos conceptos de nómina creados que yo sí tenga una póliza de salud aquí para\nque lo vamos a tener como un costo para la empresa no es un\ndevengo porque yo no le estoy pagando al empleado yo no le estoy entregando esa\nplata al empleado para que se compre o se afilia una\npóliza de salud lo que nos está diciendo el ejemplo es que como obsequio la\nempresa por cada pago que se le hace al empleado por estar contratado a término\nindefinido pues le está pagando digamos que la póliza de salud con él y en este\ncaso pues un ejemplo entonces que fue lo único que nosotros tuvimos que hacer\nvinimos aquí creamos el concepto le dijimos que el concepto base pues\nrealmente no hay como un concepto base porque es un costo para la empresa lo\npodemos asociar a otros costos eso no se reporta la dian\nle decimos que es un pago recurrente yo quiero que eso se liquide cada vez que\nyo hago el pago incluso si yo pago quincenal o mensual perdón quincenal o\nsemana al juicio aquí le podría cambiar a mensual\npara que siempre pues no me se me abra cada quincena sino una vez al mes en\nformar el cálculo le vamos a decir que este valor es manual\ny el manejo contable pues ya vamos a ver que el sistema al ser un costo para la\nempresa pues nos pide la cuenta de débito que sería una cuenta por pagar a\nesa entidad y la cuenta crédito perdón el gasto que sería pues como yo voy a\nregistrar en la contabilidad y esos gastos vemos que aquí ya empieza a\nmostrarse que él me pide bueno y aquí en la socio s\neste movimiento contable entonces lo vamos a asociar a un alias el tercero\ncual no podemos usar ps no podemos usar él no podemos usar los que ya tenemos\ncreados entonces creamos uno nuevo que fuera la póliza de salud que ya nos\nvamos a ir y vamos a ver cómo cómo quedó creado simplemente siguiente yo aquí lo\nescribirle una descripción de esa política del pago de nómina le voy a dar\nuna vigencia y damos clic en aceptar ahí nos queda creado la primera parte que es\nel concepto ahora vemos que necesitábamos un alias de tercero para\npoder hacer ese pago venimos aquí creamos el alias que era el\nde póliza de salud veamos que aquí lo único que hicimos fue asociar le que el\ntercero por defecto fuera m y que nos aparezca en los datos del empleado le\ndoy cancelar y adicionalmente para terminar este\nsimplemente que tuvimos que hacer puedes crear el tercero n\nel tercero en mí como una empresa proveedora de denomina\nque me presta el servicio de pólizas algo que yo lo llamé así pero pues yo\npodría llamar como como yo quisiera y listo cada vez que yo vaya\nal liquidar ese concepto pues digamos que va a estar asociado a este tercero\nahora que me hace falta de él y del ejemplo revisemos lo aquí que me dicen\nlos siguientes que me hace falta el ejemplo me decía la empresa otorga como\nobsequio a los empleados contratados al término indefinido una póliza de salud\nindividual que en este caso lo hicimos con él ya creamos el concepto o lisa\ncreamos a demi como tercero proveedor de nómina\nnómina asociamos al concepto que cada vez que\nyo lo pago pues digamos que va a quedar relacionado y emi como tercero del\nmovimiento que nos hace falta asignarse a quienes aquí el ejercicio nos dice que\ntodos los empleados que yo vaya a contratar a término indefinido quiere\ndecir entonces que los perfiles de contrato\nvoy a cerrar esto para que no nos genere\nespacio quiere decir entonces que yo en mi nómina perfiles de contrato pues voy\na buscar ese ese tipo de contrato término indefinido pago mensual que es a\nquienes les aplica ese concepto nos venimos aquí en concepto de nómina costo\nempresa porque lo clasificamos como costo para la empresa y simplemente\nvenimos y asociamos que también además de todos los costos pues ya asociados se\nle va a liquidar\neste concepto de póliza de salud damos clic en aceptar\nlisto como estamos un poquito y digamos que he cogido de tiempo vamos a\nrevisar que aquí teníamos otros dos ejemplos\nejemplos para hacer y después si queda tiempo los\npodemos hacer al finalizar la sesión pero aquí me interesa es que quedó la\nparametrización de él con está primer pues ya explicada tenemos revisados\nnuevamente conceptos de nómina perfiles de contrato y entidades de nómina y\nvimos un ejemplo vimos varios ejemplos de cada uno y vimos un ejemplo en el que\ntenía que usar digamos que esos tres catálogos para que me funcionarán"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 5,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 252.504,
+    "asr": 44100,
+    "filesizeApprox": 93354232,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2021",
+  "files": {
+    "year": "2021",
+    "kind": "videos",
+    "md": "videos/2021/CuK-uyp-NOg.md",
+    "json": "videos/2021/CuK-uyp-NOg.json",
+    "infoJson": "videos/2021/CuK-uyp-NOg.info.json"
+  }
+}

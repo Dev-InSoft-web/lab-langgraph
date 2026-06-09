@@ -10,7 +10,7 @@ BEGIN
 		WHERE con.contype = 'f'
 		  AND n.nspname IN (
 				'paty', 'lab', 'clientesis', 'rag',
-				'bd_paty', 'bd_lab', 'bd_clientesis', 'bd_rag'
+				'BD_LANGLAB', 'bd_lab', 'bd_clientesis', 'bd_rag'
 			)
 	LOOP
 		EXECUTE format(

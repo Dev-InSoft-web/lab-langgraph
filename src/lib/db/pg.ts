@@ -1,7 +1,7 @@
 import { Pool, type PoolConfig, type QueryResultRow } from "pg";
 import {
 	getClientesisDatabaseUrl,
-	getPatyDatabaseUrl,
+	getLanglabDatabaseUrl,
 	getRagDatabaseUrlOptional,
 } from "../core/config.js";
 import { DATABASE_SSL_ENABLED } from "../core/lab-constants.js";
@@ -10,6 +10,8 @@ let patyPool: Pool | null = null;
 let clientesisPool: Pool | null = null;
 let ragPool: Pool | null = null;
 
+const PG_STATEMENT_TIMEOUT_MS = Number(process.env.PG_STATEMENT_TIMEOUT_MS ?? 90_000);
+
 function poolConfig(connectionString: string): PoolConfig {
 	return {
 		connectionString,
@@ -17,23 +19,25 @@ function poolConfig(connectionString: string): PoolConfig {
 		idleTimeoutMillis: 30_000,
 		connectionTimeoutMillis: 30_000,
 		ssl: DATABASE_SSL_ENABLED ? { rejectUnauthorized: false } : false,
+		/** Evita queries colgadas (p. ej. durante migraciones DDL concurrentes). */
+		options: PG_STATEMENT_TIMEOUT_MS > 0 ? `-c statement_timeout=${PG_STATEMENT_TIMEOUT_MS}` : undefined,
 	};
 }
 
-/** BD PatyIA + ISA-DOC store (`paty`, `lab` para isa-doc/patyia). */
-export function getPatyPgPool(): Pool {
+/** PostgreSQL principal del lab (BD_LANGLAB, BD_LAB, …). */
+export function getLanglabPgPool(): Pool {
 	if (!patyPool) {
-		patyPool = new Pool(poolConfig(getPatyDatabaseUrl()));
+		patyPool = new Pool(poolConfig(getLanglabDatabaseUrl()));
 	}
 	return patyPool;
 }
 
-/** BD ClientesIS / Capacitación store (`lab` sin FK restrictivos). */
+/** @deprecated Usar getLanglabPgPool. */
+export const getPatyPgPool = getLanglabPgPool;
+
+/** @deprecated Mismo pool que LangLab; entity store en BD_ISADOC. */
 export function getClientesisPgPool(): Pool {
-	if (!clientesisPool) {
-		clientesisPool = new Pool(poolConfig(getClientesisDatabaseUrl()));
-	}
-	return clientesisPool;
+	return getLanglabPgPool();
 }
 
 /** BD RAG dedicada: pgvector (`BD_RAG`). Requiere `RAG_DATABASE_URL`. */
@@ -74,6 +78,7 @@ export async function pingClientesisDb(): Promise<boolean> {
 export const pingOpsDb = pingPatyDb;
 
 export async function pingRagDb(): Promise<boolean> {
+	if (!getRagDatabaseUrlOptional()) return false;
 	try {
 		await getRagPgPool().query("SELECT 1");
 		return true;

@@ -3,12 +3,12 @@
  *   npx tsx scripts/verify-bd-nomenclature.mts
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { getPatyPgPool, pingPatyDb } from "../src/lib/db/pg.js";
 
 preloadLabSecrets();
 try {
-	getPatyDatabaseUrl();
+	getLanglabDatabaseUrl();
 } catch (e) {
 	console.error(e);
 	process.exit(1);
@@ -46,17 +46,17 @@ if (legacyTables.length) {
 
 const sample = await pool.query<{ column_name: string }>(
 	`SELECT column_name FROM information_schema.columns
-	 WHERE table_schema = 'BD_LAB' AND table_name = 'ENTITY_ENTITYROW'
+	 WHERE table_schema = 'BD_LANGLAB' AND table_name = 'ENTITY_ROW'
 	 ORDER BY ordinal_position`,
 );
 if (sample.rows.length) {
 	const cols = sample.rows.map((r) => r.column_name);
 	const hasUnderscore = cols.some((c) => c.includes("_"));
-	console.log("\n=== BD_LAB.ENTITY_ENTITYROW ===");
+	console.log("\n=== BD_LANGLAB.ENTITY_ROW ===");
 	console.log("  columnas:", cols.join(", "));
 	console.log(hasUnderscore ? "  [WARN] aún hay columnas con _" : "  [OK] sin _ en columnas");
 } else {
-	console.log("\n[WARN] No existe BD_LAB.ENTITY_ENTITYROW — ejecutar npm run db:migrate-entity-domain");
+	console.log("\n[WARN] No existe BD_LANGLAB.ENTITY_ROW — ejecutar npm run db:apply-pg-ops");
 }
 
 if (legacyTables.length > 0) {

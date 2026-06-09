@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Página web no disponible | ContaPyme </title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="Title" content="Página web no disponible">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta name="author" content="Marilym Chávez" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap" rel="stylesheet">
+  <link
+    href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic'
+    rel='stylesheet' type='text/css'>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/estilo.css?1.1" /><!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2F5M9M3HV2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-2F5M9M3HV2');
+  </script>
+</head>
+
+<body><!-- Menú -->
+  <header>
+    <div class="row sin_m">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p bg_azul p_l20 p_r20">
+        <div class="row sin_m">
+          <div class="hidden-xs hidden-sm col-md-1 col-lg-2 sin_p"></div>
+          <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8 sin_p">
+            <div class="row sin_m">
+              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 sin_p "><a href="https://www.contapyme.com/"><img
+                    src="/imagenes/logos/logocp.png" class="img-responsive logo" alt="Contapyme NIIF" /></a></div>
+              <div class="hidden-xs col-sm-6 col-md-6 col-lg-6 sin_p">
+                <ul class="menu_redes">
+                  <li><a href="https://www.facebook.com/SoftwareContableContaPyme" target="_black"><img
+                        src="/imagenes/redes/facebook.png" alt="imagen link facebook" /></a></li>
+                  <li><a href="https://twitter.com/contapyme" target="_black"><img src="/imagenes/redes/twitter.png"
+                        alt="imagen link twitter" /></a></li>
+                  <li><a href="https://plus.google.com/u/0/115229721506288589014/posts" target="_black"><img
+                        src="/imagenes/redes/gplus.png" alt="imagen link Google +" /></a></li>
+                  <li><a href="https://www.youtube.com/user/InSoftWeb" target="_black"> <img
+                        src="/imagenes/redes/youtube.png" alt="imagen link youtube" /></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="hidden-xs hidden-sm col-md-1 col-lg-2 sin_p"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section>
+    <div class="row sin_m">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p p_l20 p_r20 m_b60">
+        <div class="row sin_m">
+          <div class="hidden-xs hidden-sm col-md-1 col-lg-2 sin_p"></div>
+          <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8 sin_p">
+            <div class="row sin_m">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p p_t30"></div>
+            </div>
+            <div class="row sin_m">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p"><img src="img/pagina.png"
+                  class="img-fluid center" /></div>
+            </div>
+            <div class="row sin_m">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p p_t20">
+                <h4>ESTA PÁGINA NO ESTÁ DISPONIBLE.</h4>
+              </div>
+            </div>
+            <div class="row sin_m">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p">
+                <h4>Pedimos disculpas por las molestias.</h4>
+              </div>
+            </div>
+            <div class="row sin_m">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p p_t30 m_b60"><a href="http://www.contapyme.com"
+                  class="boton">Volver a ContaPyme</a></div>
+            </div>
+          </div>
+          <div class="hidden-xs hidden-sm col-md-1 col-lg-2 sin_p"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="row sin_m">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sin_p p_l20 p_r20 foot">©2026 InSoft - Casa desarrolladora de
+        ContaPyme® y AgroWin®. Celular: (+57) 3136506677 - (+57) 3147759280.</div>
+    </div>
+  </footer>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+  <script src="/librerias/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>

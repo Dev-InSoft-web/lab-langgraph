@@ -1,0 +1,3356 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:17:28.140Z",
+  "videoId": "YwDw8rGthcY",
+  "videoUrl": "https://www.youtube.com/watch?v=YwDw8rGthcY",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "YwDw8rGthcY",
+    "title": "Manejo ContaPyme - días sin IVA",
+    "fulltitle": "Manejo ContaPyme - días sin IVA",
+    "description": "Implementacion de ContaPyme para para implementar la facturación especial, día sin iva.",
+    "duration": 3168,
+    "duration_string": "52:48",
+    "upload_date": "20200617",
+    "timestamp": 1592360290,
+    "view_count": 953,
+    "like_count": 7,
+    "comment_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7tiOVvkAnzRjauv-xAB9LADYj7A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjkfnhT-rgL9GZb91NF594DSvfeQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIiqsKs3J8oFbXQHor8k0PuwnKyQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAfHAJ5c6kiYzuqjTdKUsmcmzsGlw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaqENq8qdq8jlWIIa2qGsFLnY5Rg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD74WSEovOtDw-9kHx69VcG6v7ICA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvNOrn-7KaP2m9pt_Jcu9wCODgUQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4wQX10Srvh8fUiMbf-V7jTYiVeQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YwDw8rGthcY/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YwDw8rGthcY/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=YwDw8rGthcY",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.03156565656565657,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10037878787878787,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10037878787878787,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 196.781,
+        "asr": 44100,
+        "filesize_approx": 77924488,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Manejo ContaPyme - días sin IVA",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/YwDw8rGthcY/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/YwDw8rGthcY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Manejo ContaPyme - días sin IVA\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 580,
+    "transcriptChars": 42017,
+    "segments": [
+      {
+        "text": "extensión especial en el manejo de iba días sin iva' en colombia configuración",
+        "startMs": 860,
+        "durationMs": 8850
+      },
+      {
+        "text": "miremos cuáles son los pasos para implementar la facturación especial de",
+        "startMs": 9720,
+        "durationMs": 4550
+      },
+      {
+        "text": "estos días en el sistema con está pyme y agro wind",
+        "startMs": 14270,
+        "durationMs": 5259
+      },
+      {
+        "text": "lo primero que tenemos que tener presente es se debe contar con el módulo",
+        "startMs": 19529,
+        "durationMs": 5490
+      },
+      {
+        "text": "de inventarios compras y facturación dentro del licenciamiento y también",
+        "startMs": 25019,
+        "durationMs": 5431
+      },
+      {
+        "text": "tener la última actualización del sistema instalada que viene con estas",
+        "startMs": 30450,
+        "durationMs": 5189
+      },
+      {
+        "text": "configuraciones especiales una vez verificamos estos requisitos",
+        "startMs": 35639,
+        "durationMs": 4741
+      },
+      {
+        "text": "miremos cuál es la configuración dentro de con está pyme primero se debe activar",
+        "startMs": 40380,
+        "durationMs": 6340
+      },
+      {
+        "text": "segundo se debe verificar y si lo requiere crear",
+        "startMs": 54010,
+        "durationMs": 4440
+      },
+      {
+        "text": "nuevos géneros de productos tercero relacionar sus grupos de inventario con",
+        "startMs": 58450,
+        "durationMs": 7800
+      },
+      {
+        "text": "el listado dian de las categorías de bienes cubiertos",
+        "startMs": 66250,
+        "durationMs": 5750
+      },
+      {
+        "text": "y cuarto a asociar sus productos a un género autorizado para la exención",
+        "startMs": 72000,
+        "durationMs": 9780
+      },
+      {
+        "text": "especial y listo factura y fácilmente los días",
+        "startMs": 81780,
+        "durationMs": 5040
+      },
+      {
+        "text": "especiales pero vamos a empezar entonces a",
+        "startMs": 86820,
+        "durationMs": 1710
+      },
+      {
+        "text": "desglosar cada uno de estos cuatro pasos miremos paso 1 active la configuración",
+        "startMs": 88530,
+        "durationMs": 8329
+      },
+      {
+        "text": "especial para el manejo de días sin iva analicemos dentro del sistema contable",
+        "startMs": 46720,
+        "durationMs": 56050
+      },
+      {
+        "text": "cómo hacemos esta activación estando ubicados dentro del sistema con",
+        "startMs": 102770,
+        "durationMs": 5910
+      },
+      {
+        "text": "tap y me podemos ingresar en la parte de inventarios a los elementos de",
+        "startMs": 108680,
+        "durationMs": 7500
+      },
+      {
+        "text": "inventario y dentro de los elementos de inventario entramos por la opción",
+        "startMs": 116180,
+        "durationMs": 5360
+      },
+      {
+        "text": "configuración y allí vamos a activar el manejo especial en los días sin iva'",
+        "startMs": 121540,
+        "durationMs": 6840
+      },
+      {
+        "text": "esto es importante tenerlo presente puesto que yo puedo hacer una asignación",
+        "startMs": 131930,
+        "durationMs": 4080
+      },
+      {
+        "text": "para todos los usuarios o para un usuario en especial más adelante vamos a",
+        "startMs": 128380,
+        "durationMs": 13750
+      },
+      {
+        "text": "poner un ejemplo donde la configuración de un usuario especial puede ser",
+        "startMs": 142130,
+        "durationMs": 4530
+      },
+      {
+        "text": "distinta a la genérica del usuario administrador en este caso voy a",
+        "startMs": 146660,
+        "durationMs": 4170
+      },
+      {
+        "text": "indicarle configuración todos los usuarios",
+        "startMs": 150830,
+        "durationMs": 3700
+      },
+      {
+        "text": "usuarios dentro del menú que se despliega en la",
+        "startMs": 154530,
+        "durationMs": 3300
+      },
+      {
+        "text": "parte izquierda podemos buscar la opción que dice manejo de 'día sin iva' por",
+        "startMs": 157830,
+        "durationMs": 6539
+      },
+      {
+        "text": "defecto esta opción va a estar apagada cuando nosotros la aprendemos tenemos",
+        "startMs": 164369,
+        "durationMs": 4560
+      },
+      {
+        "text": "que chequear que el sistema automáticamente trae configurado los",
+        "startMs": 168929,
+        "durationMs": 5761
+      },
+      {
+        "text": "tres días especiales para la exención del iva el 19 de junio el 3 de julio y",
+        "startMs": 174690,
+        "durationMs": 7649
+      },
+      {
+        "text": "el 19 de julio del 2020 según lo indica el decreto legislativo 6 82 de mayo del",
+        "startMs": 182339,
+        "durationMs": 6661
+      },
+      {
+        "text": "2020 aquí se puede tener la identificación de este decreto con sus",
+        "startMs": 189000,
+        "durationMs": 5099
+      },
+      {
+        "text": "fechas especiales adicional tenemos el concepto de iva exento que se va a",
+        "startMs": 194099,
+        "durationMs": 7440
+      },
+      {
+        "text": "asignar automáticamente para estos días recordemos que el tener un iba exento",
+        "startMs": 201539,
+        "durationMs": 6651
+      },
+      {
+        "text": "implica que el bien queda grabado con una tarifa del 0% por lo tanto con está",
+        "startMs": 208190,
+        "durationMs": 7750
+      },
+      {
+        "text": "pyme automáticamente a ese nuevo concepto de liquidación el",
+        "startMs": 215940,
+        "durationMs": 6240
+      },
+      {
+        "text": "cual va a afectar las ventas que se realicen de forma automática iba a",
+        "startMs": 222180,
+        "durationMs": 5010
+      },
+      {
+        "text": "quedar automáticamente grabado con esa tarifa del 0% una vez ya asignamos o",
+        "startMs": 227190,
+        "durationMs": 6060
+      },
+      {
+        "text": "verificamos que todo está correcto podemos en la siguiente parte donde dice",
+        "startMs": 233250,
+        "durationMs": 4920
+      },
+      {
+        "text": "verificación de 'día sin iva' indicar qué tipo de mensaje queremos que el",
+        "startMs": 238170,
+        "durationMs": 6030
+      },
+      {
+        "text": "sistema nos presente cuando por ejemplo se está haciendo una factura por más",
+        "startMs": 244200,
+        "durationMs": 6020
+      },
+      {
+        "text": "unidades de las permitidas o cuando se está haciendo una factura a una persona",
+        "startMs": 250220,
+        "durationMs": 5530
+      },
+      {
+        "text": "que no es persona natural yo quiero que me muestre error o quiero que me muestre",
+        "startMs": 255750,
+        "durationMs": 6180
+      },
+      {
+        "text": "advertencia si me muestra error el sistema va a sacar un mensaje en color",
+        "startMs": 261930,
+        "durationMs": 4890
+      },
+      {
+        "text": "rojo que no me va a permitir a mí continuar con la operación hasta que se",
+        "startMs": 266820,
+        "durationMs": 5370
+      },
+      {
+        "text": "corrija el inconveniente yo lo configuró con mostrará advertencia",
+        "startMs": 272190,
+        "durationMs": 6000
+      },
+      {
+        "text": "el sistema me va a mostrar un mensaje en color azul donde me va a indicar mire",
+        "startMs": 278190,
+        "durationMs": 5400
+      },
+      {
+        "text": "este es el comentario que yo le indico respecto a esta transacción pero le va a",
+        "startMs": 283590,
+        "durationMs": 4620
+      },
+      {
+        "text": "permitir continuar procesar y emitir la factura sin tener que corregir la",
+        "startMs": 288210,
+        "durationMs": 4890
+      },
+      {
+        "text": "advertencia que le indicará ya la consideración queda a disposición",
+        "startMs": 293100,
+        "durationMs": 4669
+      },
+      {
+        "text": "de usted como gerente o como administrador de su empresa cual tipo de",
+        "startMs": 297769,
+        "durationMs": 5010
+      },
+      {
+        "text": "mensaje quiere que le presente una vez ya le dijimos a aceptar quedó",
+        "startMs": 302779,
+        "durationMs": 6550
+      },
+      {
+        "text": "activa la configuración de manejo de 'día sin iva'",
+        "startMs": 309329,
+        "durationMs": 3930
+      },
+      {
+        "text": "acabamos de activar la configuración especial ahora segundo paso debemos",
+        "startMs": 313259,
+        "durationMs": 6031
+      },
+      {
+        "text": "verificar y si se requiere crear nuevos géneros de productos y aquí debemos",
+        "startMs": 319290,
+        "durationMs": 7259
+      },
+      {
+        "text": "centrarnos en algo muy especial hay una recomendación",
+        "startMs": 326549,
+        "durationMs": 4521
+      },
+      {
+        "text": "recomendación y es planear de forma metodológica los",
+        "startMs": 331070,
+        "durationMs": 4470
+      },
+      {
+        "text": "géneros que al interior de la empresa se van a establecer para configurar después",
+        "startMs": 335540,
+        "durationMs": 6510
+      },
+      {
+        "text": "los respectivos productos vamos a mirar un ejemplo el decreto legislativo 682",
+        "startMs": 342050,
+        "durationMs": 6900
+      },
+      {
+        "text": "nos indicaba tenemos unas categorías o grupos de complementos de vestuario",
+        "startMs": 348950,
+        "durationMs": 6290
+      },
+      {
+        "text": "electrodomésticos computadores equipos de comunicaciones elementos deportivos",
+        "startMs": 355240,
+        "durationMs": 4960
+      },
+      {
+        "text": "juguetes y juegos vestuario utilice escolares y bienes e insumos para el",
+        "startMs": 360200,
+        "durationMs": 6000
+      },
+      {
+        "text": "sector agropecuario esas son las categorías o grupos que le habían",
+        "startMs": 366200,
+        "durationMs": 4590
+      },
+      {
+        "text": "indicado en el decreto legislativo pero para cada uno de ellos también en la",
+        "startMs": 370790,
+        "durationMs": 5609
+      },
+      {
+        "text": "parte del detalle mencionaba algunos ejemplos de géneros el caso para",
+        "startMs": 376399,
+        "durationMs": 5760
+      },
+      {
+        "text": "complementos de vestuario un género carteras gafas de sol paraguas y",
+        "startMs": 382159,
+        "durationMs": 5731
+      },
+      {
+        "text": "recordemos que la normatividad indicaba que se pueden llegar a vender máximo 3",
+        "startMs": 387890,
+        "durationMs": 4919
+      },
+      {
+        "text": "unidades del mismo género con esto que debemos tener presente que",
+        "startMs": 392809,
+        "durationMs": 6581
+      },
+      {
+        "text": "entre más discriminado tengamos las opciones de género pues podemos emitir",
+        "startMs": 399390,
+        "durationMs": 5639
+      },
+      {
+        "text": "mejor facturación más venta de diferentes productos clasificados en",
+        "startMs": 405029,
+        "durationMs": 4981
+      },
+      {
+        "text": "géneros distintos voy a poner un ejemplo tenemos dentro de elementos deportivos",
+        "startMs": 410010,
+        "durationMs": 7600
+      },
+      {
+        "text": "un género que se llama balones este género balones puede ser así genérico",
+        "startMs": 417610,
+        "durationMs": 6230
+      },
+      {
+        "text": "resulta que si un cliente viene y me compra a mí un balón de fútbol un balón",
+        "startMs": 423840,
+        "durationMs": 5650
+      },
+      {
+        "text": "de voleibol y dos balones de baloncesto pues ya con esta configuración de género",
+        "startMs": 429490,
+        "durationMs": 5250
+      },
+      {
+        "text": "como la tengo así genérica balones el sistema o la regla va a analizar que se",
+        "startMs": 434740,
+        "durationMs": 6150
+      },
+      {
+        "text": "están entregando cuatro unidades de un balón por lo tanto no nos va a",
+        "startMs": 440890,
+        "durationMs": 6560
+      },
+      {
+        "text": "permitir generar la factura pero si usted por ejemplo viene y le indica en",
+        "startMs": 447450,
+        "durationMs": 7500
+      },
+      {
+        "text": "la configuración que vamos a tener balones pero entonces podemos tener aquí",
+        "startMs": 454950,
+        "durationMs": 5720
+      },
+      {
+        "text": "de fútbol balones de baloncesto y balones de voleibol y que todos",
+        "startMs": 460670,
+        "durationMs": 9970
+      },
+      {
+        "text": "pertenecen a esta misma categoría de la dian elementos deportivos pues allí",
+        "startMs": 470640,
+        "durationMs": 6330
+      },
+      {
+        "text": "entonces yo voy a poder vender tres balones de voleibol también tres balones",
+        "startMs": 476970,
+        "durationMs": 5730
+      },
+      {
+        "text": "de baloncesto y en la misma factura también tres balones de fútbol porque",
+        "startMs": 482700,
+        "durationMs": 4500
+      },
+      {
+        "text": "para mí la categoría balones era muy genérica y la acabé de complementar",
+        "startMs": 487200,
+        "durationMs": 6480
+      },
+      {
+        "text": "entrando un nivel de detalle un poco más profundo",
+        "startMs": 493680,
+        "durationMs": 3719
+      },
+      {
+        "text": "profundo nuevamente podemos tener otro ejemplo yo",
+        "startMs": 497399,
+        "durationMs": 3870
+      },
+      {
+        "text": "puedo tener en la parte de tenis en la parte de vestuario dice allí la",
+        "startMs": 501269,
+        "durationMs": 5040
+      },
+      {
+        "text": "categoría vestuario y había un género tenis pero puede que para mí sea muy",
+        "startMs": 506309,
+        "durationMs": 5190
+      },
+      {
+        "text": "genérico esa parte de tenis yo puedo llegar entonces a decir tenis y",
+        "startMs": 511499,
+        "durationMs": 5940
+      },
+      {
+        "text": "podemos trabajar masculinos y también tenis femeninos esto qué quiere decir",
+        "startMs": 517439,
+        "durationMs": 7500
+      },
+      {
+        "text": "que yo podría llegar a vender tres pares de tenis femeninos y tres pares de tenis",
+        "startMs": 524939,
+        "durationMs": 5880
+      },
+      {
+        "text": "masculinos dentro de la misma factura por pertenecer a géneros totalmente",
+        "startMs": 530819,
+        "durationMs": 6331
+      },
+      {
+        "text": "distintos voy a permitir generar esa factura con seis unidades mientras que",
+        "startMs": 537150,
+        "durationMs": 6359
+      },
+      {
+        "text": "si yo tuviese genérico tenis al momento de llegar a los tres pares al vender",
+        "startMs": 543509,
+        "durationMs": 5250
+      },
+      {
+        "text": "esos tres pares ya no podría vender el cuarto par con la exención especial en",
+        "startMs": 548759,
+        "durationMs": 5401
+      },
+      {
+        "text": "el manejo del iva recordemos que las tallas los colores el nombre del",
+        "startMs": 554160,
+        "durationMs": 5760
+      },
+      {
+        "text": "fabricante el número de referencia estos datos no me sirven a mí para",
+        "startMs": 559920,
+        "durationMs": 5820
+      },
+      {
+        "text": "clasificarlos con un género diferente una camisa o una blusa un pantalón o una",
+        "startMs": 565740,
+        "durationMs": 8100
+      },
+      {
+        "text": "chaqueta son géneros distintos que me van a permitir a mí poder clasificar mis",
+        "startMs": 573840,
+        "durationMs": 6870
+      },
+      {
+        "text": "artículos en géneros diferentes para que la validación de las tres existencias no",
+        "startMs": 580710,
+        "durationMs": 5610
+      },
+      {
+        "text": "se cumpla tan rápido este es un análisis metodológico que a",
+        "startMs": 586320,
+        "durationMs": 6540
+      },
+      {
+        "text": "usted como empresario como gerente como administrador le corresponde la",
+        "startMs": 592860,
+        "durationMs": 5699
+      },
+      {
+        "text": "sugerencia es primero organice de acuerdo a las indicaciones de la dian",
+        "startMs": 598559,
+        "durationMs": 5760
+      },
+      {
+        "text": "las categorías y los géneros que usted tiene en su empresa para que",
+        "startMs": 604319,
+        "durationMs": 4320
+      },
+      {
+        "text": "posteriormente pueda llegar a clasificarlos dentro del sistema una vez",
+        "startMs": 608639,
+        "durationMs": 5971
+      },
+      {
+        "text": "ya se tienen estas categorías y géneros definidos en un excel los tenemos que",
+        "startMs": 614610,
+        "durationMs": 5250
+      },
+      {
+        "text": "entrar a configurar dentro del sistema contable y por donde hacemos la",
+        "startMs": 619860,
+        "durationMs": 4380
+      },
+      {
+        "text": "configuración de cada uno de estos grupos o categorías y géneros bueno",
+        "startMs": 624240,
+        "durationMs": 4709
+      },
+      {
+        "text": "entremos de nuevo al sistema con está pyme y miremos dentro del sistema con",
+        "startMs": 628949,
+        "durationMs": 3630
+      },
+      {
+        "text": "tap y me vamos a entrar por el botón que dice básico en este menú",
+        "startMs": 632579,
+        "durationMs": 5531
+      },
+      {
+        "text": "por la opción que dice tablas de usuario allí en tablas de usuario aparecen por",
+        "startMs": 638110,
+        "durationMs": 6900
+      },
+      {
+        "text": "defecto las categorías con los géneros que le habían comentaba dentro del",
+        "startMs": 645010,
+        "durationMs": 5250
+      },
+      {
+        "text": "decreto legislativo ya están preconfigurados que debe hacer ustedes",
+        "startMs": 650260,
+        "durationMs": 5580
+      },
+      {
+        "text": "según lo mencionábamos hace un momento complementar los demás géneros que usted",
+        "startMs": 655840,
+        "durationMs": 5850
+      },
+      {
+        "text": "al interior de la empresa utiliza por ejemplo vamos a mirar acá entremos",
+        "startMs": 661690,
+        "durationMs": 5040
+      },
+      {
+        "text": "digamos modificar y tenemos la tabla completa maximicemos un poco y tenemos",
+        "startMs": 666730,
+        "durationMs": 6680
+      },
+      {
+        "text": "los grupos o categorías dian con los respectivos géneros y podemos empezar a",
+        "startMs": 673410,
+        "durationMs": 7090
+      },
+      {
+        "text": "crear nuevos géneros según la categoría que al interior de la empresa utilicemos",
+        "startMs": 680500,
+        "durationMs": 6110
+      },
+      {
+        "text": "si yo tengo por ejemplo vamos a mirar a elementos deportivos tengo el género",
+        "startMs": 686610,
+        "durationMs": 8110
+      },
+      {
+        "text": "balones y hace un momento hacíamos el caso balones",
+        "startMs": 694720,
+        "durationMs": 5830
+      },
+      {
+        "text": "y podemos dejarlo de fútbol",
+        "startMs": 700550,
+        "durationMs": 4000
+      },
+      {
+        "text": "balones baloncesto le decimos clic en agregar y",
+        "startMs": 711670,
+        "durationMs": 4300
+      },
+      {
+        "text": "otro que sea balones voleibol así también podemos ir a la parte de",
+        "startMs": 704550,
+        "durationMs": 18940
+      },
+      {
+        "text": "vestuario y podemos también trabajar en la parte de tenis pues entonces teníamos",
+        "startMs": 723490,
+        "durationMs": 5500
+      },
+      {
+        "text": "el ejemplo masculinos y podemos agregar otro que sea",
+        "startMs": 728990,
+        "durationMs": 6050
+      },
+      {
+        "text": "tenis femenino nuevamente esto ya lo hicimos analizando",
+        "startMs": 735040,
+        "durationMs": 5940
+      },
+      {
+        "text": "en un excel y una forma metodológica cuáles eran nuestras categorías y sus",
+        "startMs": 740980,
+        "durationMs": 4080
+      },
+      {
+        "text": "respectivos géneros una vez ya los organizamos de acuerdo a la cantidad de",
+        "startMs": 745060,
+        "durationMs": 5160
+      },
+      {
+        "text": "géneros que tenemos al interior de la empresa",
+        "startMs": 750220,
+        "durationMs": 1800
+      },
+      {
+        "text": "empresa los complementamos en esta tabla y le",
+        "startMs": 752020,
+        "durationMs": 2910
+      },
+      {
+        "text": "decimos a aceptar allí que a los diferentes grupos con sus respectivos",
+        "startMs": 754930,
+        "durationMs": 6660
+      },
+      {
+        "text": "géneros asociados acabamos de ver cómo es la configuración y la creación de",
+        "startMs": 761590,
+        "durationMs": 8480
+      },
+      {
+        "text": "géneros para los productos que se van a trabajar dentro de la empresa",
+        "startMs": 770070,
+        "durationMs": 5569
+      },
+      {
+        "text": "a continuación paso 3 debemos relacionar los grupos de",
+        "startMs": 775639,
+        "durationMs": 6451
+      },
+      {
+        "text": "inventario que se tienen al interior de la empresa con el listado dian de las",
+        "startMs": 782090,
+        "durationMs": 5519
+      },
+      {
+        "text": "diferentes categorías de los bienes cubiertos y esto como lo hacemos vamos a",
+        "startMs": 787609,
+        "durationMs": 6030
+      },
+      {
+        "text": "mirarlo dentro del sistema contable una vez dentro del sistema contable podemos",
+        "startMs": 793639,
+        "durationMs": 5130
+      },
+      {
+        "text": "ingresar al menú inventarios y vamos por la opción que dice grupos de inventario",
+        "startMs": 798769,
+        "durationMs": 6631
+      },
+      {
+        "text": "allí es donde ya se tienen agrupados los diferentes productos artículos y",
+        "startMs": 805400,
+        "durationMs": 5219
+      },
+      {
+        "text": "mercancías que se tienen dentro de la empresa lo que tenemos que hacer es",
+        "startMs": 810619,
+        "durationMs": 4550
+      },
+      {
+        "text": "relacionar cada uno de estos grupos con un posible grupo o categoría de la dian",
+        "startMs": 815169,
+        "durationMs": 7090
+      },
+      {
+        "text": "si es que así se permite en este caso como ya se activó la configuración",
+        "startMs": 822259,
+        "durationMs": 5660
+      },
+      {
+        "text": "podemos entrar por ejemplo vamos a entrar a accesorios de vestuario una",
+        "startMs": 827919,
+        "durationMs": 5861
+      },
+      {
+        "text": "empresa que tiene esta categoría o este grupo",
+        "startMs": 833780,
+        "durationMs": 3290
+      },
+      {
+        "text": "grupo vamos a mirar o tener presente que si",
+        "startMs": 837070,
+        "durationMs": 2970
+      },
+      {
+        "text": "maximizamos un poco la ventana al final vamos a encontrar una pestaña que dice",
+        "startMs": 840040,
+        "durationMs": 4200
+      },
+      {
+        "text": "días sin iva al entrar esta opción podemos ver cual es el grupo 'día sin",
+        "startMs": 844240,
+        "durationMs": 5040
+      },
+      {
+        "text": "iva' en este caso van a aparecer las diferentes categorías las siete",
+        "startMs": 849280,
+        "durationMs": 5280
+      },
+      {
+        "text": "categorías que le habían indicado en el decreto legislativo 682 en este caso",
+        "startMs": 854560,
+        "durationMs": 7080
+      },
+      {
+        "text": "estamos viendo complementos de vestuario electrodomésticos elementos deportivos",
+        "startMs": 861640,
+        "durationMs": 3630
+      },
+      {
+        "text": "vestuario etcétera allí podríamos configurar el grupo interno de el",
+        "startMs": 865270,
+        "durationMs": 6360
+      },
+      {
+        "text": "inventario dentro de la empresa a qué grupo diana pertenece así entonces",
+        "startMs": 871630,
+        "durationMs": 4830
+      },
+      {
+        "text": "podemos analizar con los demás grupos por ejemplo equipo de cómputo vamos a",
+        "startMs": 876460,
+        "durationMs": 7680
+      },
+      {
+        "text": "mirar en la pestaña 'día sin iva' este aún no",
+        "startMs": 884140,
+        "durationMs": 2700
+      },
+      {
+        "text": "está relacionado doy clic se despliega el menú y lo puedo relacionar con la",
+        "startMs": 886840,
+        "durationMs": 5370
+      },
+      {
+        "text": "categoría electrodomésticos computadores y equipos de comunicaciones y aceptar",
+        "startMs": 892210,
+        "durationMs": 7159
+      },
+      {
+        "text": "una vez ya se hizo esa configuración por ejemplo elementos de ciclismo vamos a",
+        "startMs": 899369,
+        "durationMs": 6031
+      },
+      {
+        "text": "verificar 'día sin iva' a aquel grupo pertenece dentro de todas las categorías",
+        "startMs": 905400,
+        "durationMs": 5579
+      },
+      {
+        "text": "de la dian eso está dentro de elementos deportivos si mi empresa entonces tiene",
+        "startMs": 910979,
+        "durationMs": 4860
+      },
+      {
+        "text": "diferentes grupos la relación ahora bien acabamos de hacer la",
+        "startMs": 915839,
+        "durationMs": 5631
+      },
+      {
+        "text": "configuración y asignación de los grupos internos del inventario dentro de con",
+        "startMs": 921470,
+        "durationMs": 6300
+      },
+      {
+        "text": "está pyme con los grupos o categorías de la dian cuarto paso que debemos hacer",
+        "startMs": 927770,
+        "durationMs": 9070
+      },
+      {
+        "text": "asociar los productos a un género autorizado para la exención especial",
+        "startMs": 936840,
+        "durationMs": 7250
+      },
+      {
+        "text": "aquí debemos tener algo muy presente se puede hacer una asociación de géneros en",
+        "startMs": 944090,
+        "durationMs": 6510
+      },
+      {
+        "text": "bloque de forma masiva porque puede que su empresa tenga quinientos mil dos mil",
+        "startMs": 950600,
+        "durationMs": 6270
+      },
+      {
+        "text": "tres mil referencias y sería muy incómodo tener que entrar uno a uno",
+        "startMs": 956870,
+        "durationMs": 4949
+      },
+      {
+        "text": "después de haber ya creado los diferentes géneros que lo hicimos en el",
+        "startMs": 961819,
+        "durationMs": 3781
+      },
+      {
+        "text": "paso número dos tener que empezar a relacionar cada una de las dos mil",
+        "startMs": 965600,
+        "durationMs": 4200
+      },
+      {
+        "text": "referencias al género respectivo allí vamos a ver que tenemos dos",
+        "startMs": 969800,
+        "durationMs": 4079
+      },
+      {
+        "text": "funcionalidades una funcionalidad es copiar valor que siempre ha existido",
+        "startMs": 973879,
+        "durationMs": 5551
+      },
+      {
+        "text": "dentro del sistema contra pyme y es mediante la combinación de teclas",
+        "startMs": 979430,
+        "durationMs": 3720
+      },
+      {
+        "text": "controla que me copia un valor en otros campos",
+        "startMs": 983150,
+        "durationMs": 4570
+      },
+      {
+        "text": "campos u otra opción es la asignación mediante",
+        "startMs": 987720,
+        "durationMs": 4799
+      },
+      {
+        "text": "unos datos en excel para importar la información hacia contra pib miremos la",
+        "startMs": 992519,
+        "durationMs": 6331
+      },
+      {
+        "text": "primera funcionalidad dentro del sistema con tap y me entramos a los elementos de",
+        "startMs": 998850,
+        "durationMs": 5550
+      },
+      {
+        "text": "inventario dentro de los elementos de inventario",
+        "startMs": 1004400,
+        "durationMs": 3299
+      },
+      {
+        "text": "inventario tenemos los diferentes productos y",
+        "startMs": 1007699,
+        "durationMs": 1531
+      },
+      {
+        "text": "artículos que tenemos dentro de la empresa que día a día facturamos los",
+        "startMs": 1009230,
+        "durationMs": 4529
+      },
+      {
+        "text": "cuales tenemos que configurar y asignar a un género de los cuales ya creamos en",
+        "startMs": 1013759,
+        "durationMs": 5491
+      },
+      {
+        "text": "la tabla de usuario que habíamos analizado metodológicamente una vez ya",
+        "startMs": 1019250,
+        "durationMs": 5549
+      },
+      {
+        "text": "tenemos allí la información podemos entrar por ejemplo un producto entro a",
+        "startMs": 1024799,
+        "durationMs": 4650
+      },
+      {
+        "text": "un artículo y en la pestaña que dice otros datos tengo una opción que dice",
+        "startMs": 1029449,
+        "durationMs": 6291
+      },
+      {
+        "text": "personalizar grupo 'día sin iva' para este elemento",
+        "startMs": 1035740,
+        "durationMs": 4520
+      },
+      {
+        "text": "si yo no lo personalizó quiere decir que me va a heredar la configuración del",
+        "startMs": 1040260,
+        "durationMs": 6780
+      },
+      {
+        "text": "grupo de inventario en este caso el pertenece a un grupo de inventario que",
+        "startMs": 1047040,
+        "durationMs": 5250
+      },
+      {
+        "text": "se llama artículos deportivos y este grupo de inventario ya había sido",
+        "startMs": 1052290,
+        "durationMs": 4920
+      },
+      {
+        "text": "clasificado con una categoría de la dian que era elementos deportivos",
+        "startMs": 1057210,
+        "durationMs": 6940
+      },
+      {
+        "text": "en esta parte que dice género 'día sin iva' me van a aparecer de una lista de",
+        "startMs": 1064150,
+        "durationMs": 6360
+      },
+      {
+        "text": "pendiente que quiere decir de una lista de elementos deportivos cuales son los",
+        "startMs": 1070510,
+        "durationMs": 5520
+      },
+      {
+        "text": "géneros que configuramos en este caso miremos que tenemos balones de",
+        "startMs": 1076030,
+        "durationMs": 4950
+      },
+      {
+        "text": "baloncesto balones de fútbol o balones de voleibol si lo hubiese dejado como",
+        "startMs": 1080980,
+        "durationMs": 5220
+      },
+      {
+        "text": "balones genérico simplemente allí tendría la clasificación individual",
+        "startMs": 1086200,
+        "durationMs": 4940
+      },
+      {
+        "text": "vamos a indicarle balón de fútbol y aceptar tengo la opción de empezar a uno",
+        "startMs": 1091140,
+        "durationMs": 7450
+      },
+      {
+        "text": "por uno entrar a configurar le esos datos género",
+        "startMs": 1098590,
+        "durationMs": 4200
+      },
+      {
+        "text": "para este otro balón y puedo entrar a clasificarlos",
+        "startMs": 1102790,
+        "durationMs": 4890
+      },
+      {
+        "text": "clasificarlos una asignación individual ahora miremos",
+        "startMs": 1107680,
+        "durationMs": 4619
+      },
+      {
+        "text": "cuál era la otra opción de trabajarlo mediante copiar valor controla",
+        "startMs": 1112299,
+        "durationMs": 5271
+      },
+      {
+        "text": "recordemos que dentro de conta pymes yo puedo visualizar dentro de un explorador",
+        "startMs": 1117570,
+        "durationMs": 4510
+      },
+      {
+        "text": "de un catálogo otros datos otras columnas aquí tengo una serie de",
+        "startMs": 1122080,
+        "durationMs": 4230
+      },
+      {
+        "text": "columnas código nombre unidad el grupo de inventario y visible en selección",
+        "startMs": 1126310,
+        "durationMs": 5350
+      },
+      {
+        "text": "puedo mostrar otras columnas como el grupo y la categoría de la dian en esta",
+        "startMs": 1131660,
+        "durationMs": 4590
+      },
+      {
+        "text": "opción vamos a dar clic aquí para seleccionar otras columnas adicionales",
+        "startMs": 1136250,
+        "durationMs": 4320
+      },
+      {
+        "text": "clic y vamos entonces a visualizar las opciones grupo 'día sin iva' y género",
+        "startMs": 1140570,
+        "durationMs": 8600
+      },
+      {
+        "text": "podemos ponerlas aquí visible en la presentación le decimos refrescar y",
+        "startMs": 1149170,
+        "durationMs": 6030
+      },
+      {
+        "text": "tenemos diferentes géneros miremos que tenemos diferentes productos tenis",
+        "startMs": 1155200,
+        "durationMs": 8320
+      },
+      {
+        "text": "y tengo una configuración tenis masculinos tenis femeninos en la parte",
+        "startMs": 1163530,
+        "durationMs": 5210
+      },
+      {
+        "text": "superior también tengo unas muñecas tengo también una serie de datos como",
+        "startMs": 1168740,
+        "durationMs": 4440
+      },
+      {
+        "text": "baloncesto yo puedo llegar por ejemplo a un balón",
+        "startMs": 1176770,
+        "durationMs": 3280
+      },
+      {
+        "text": "de baloncesto puedo entrar a él configurar la información el género",
+        "startMs": 1173180,
+        "durationMs": 12600
+      },
+      {
+        "text": "balón de baloncesto aceptar y ya aquí me queda disponible qué puedo hacer para no",
+        "startMs": 1185780,
+        "durationMs": 6870
+      },
+      {
+        "text": "tener que entrar a uno por uno puedo simplemente ubicarme en el último con la",
+        "startMs": 1192650,
+        "durationMs": 5370
+      },
+      {
+        "text": "tecla shift subo y donde tenga el color en amarillo le digo control y nos",
+        "startMs": 1198020,
+        "durationMs": 8340
+      },
+      {
+        "text": "pregunta el sistema está seguro de copiar el valor balón baloncesto del",
+        "startMs": 1206360,
+        "durationMs": 5100
+      },
+      {
+        "text": "campo género 'día sin iva' a todos los registros seleccionados le decimos que",
+        "startMs": 1211460,
+        "durationMs": 4830
+      },
+      {
+        "text": "sí y mire que automáticamente el sistema heredó la configuración para cada uno",
+        "startMs": 1216290,
+        "durationMs": 6540
+      },
+      {
+        "text": "si yo tuviese así entonces diferentes productos los podrían ordenar si están",
+        "startMs": 1222830,
+        "durationMs": 5700
+      },
+      {
+        "text": "allí continuos en la parte del código los podría ordenar y así con control a",
+        "startMs": 1228530,
+        "durationMs": 5370
+      },
+      {
+        "text": "copiar el valor de la parte superior a los siguientes elementos pero no",
+        "startMs": 1233900,
+        "durationMs": 6630
+      },
+      {
+        "text": "solamente está esta opción yo también podría llegar y decir es que los",
+        "startMs": 1240530,
+        "durationMs": 3780
+      },
+      {
+        "text": "productos los tengo con códigos de barras con códigos totalmente distintos",
+        "startMs": 1244310,
+        "durationMs": 4410
+      },
+      {
+        "text": "y están en desorden yo no los puedo acomodar ni por el nombre ni por el",
+        "startMs": 1248720,
+        "durationMs": 5880
+      },
+      {
+        "text": "código para que queden así alineados y pueda yo copiar esta información",
+        "startMs": 1254600,
+        "durationMs": 4110
+      },
+      {
+        "text": "mediante control a qué alternativa tenemos muy sencillo podemos decirle al",
+        "startMs": 1258710,
+        "durationMs": 6300
+      },
+      {
+        "text": "sistema clic derecho y en la parte de utilidades podemos exportar los",
+        "startMs": 1265010,
+        "durationMs": 7410
+      },
+      {
+        "text": "registros a excel cuando le decimos exportar los registros a excel el",
+        "startMs": 1272420,
+        "durationMs": 4680
+      },
+      {
+        "text": "sistema nos va a preguntar si queremos llevar toda la lista o llevar solamente",
+        "startMs": 1277100,
+        "durationMs": 4770
+      },
+      {
+        "text": "una parte en especial si le decimos que llevemos toda la selección",
+        "startMs": 1281870,
+        "durationMs": 5130
+      },
+      {
+        "text": "pues el sistema nos va a indicar dónde lo queremos guardar voy a guardarlo por",
+        "startMs": 1287000,
+        "durationMs": 3540
+      },
+      {
+        "text": "ejemplo por acá en el escritorio y nos dice que esto ya quedó el archivo",
+        "startMs": 1290540,
+        "durationMs": 4500
+      },
+      {
+        "text": "guardado queremos abrirlo en el escritorio va a aparecer unos elementos",
+        "startMs": 1295040,
+        "durationMs": 4590
+      },
+      {
+        "text": "de inventario entonces allá dentro de los elementos de inventario aparece con",
+        "startMs": 1299630,
+        "durationMs": 4950
+      },
+      {
+        "text": "toda la información las diferentes columnas que con está pyme tiene en",
+        "startMs": 1304580,
+        "durationMs": 3990
+      },
+      {
+        "text": "especial nos aparece el nombre del producto",
+        "startMs": 1308570,
+        "durationMs": 3840
+      },
+      {
+        "text": "producto el grupo de inventario el código que se",
+        "startMs": 1312410,
+        "durationMs": 2340
+      },
+      {
+        "text": "tiene pero si vamos hasta el final corremos mucho hasta la derecha aparece",
+        "startMs": 1314750,
+        "durationMs": 5610
+      },
+      {
+        "text": "la parte de los datos del género de 'día sin iva' y aquí en esta columna podemos",
+        "startMs": 1320360,
+        "durationMs": 7350
+      },
+      {
+        "text": "empezar a organizar ya personalizar y relacionar cada elemento con los grupos",
+        "startMs": 1327710,
+        "durationMs": 5460
+      },
+      {
+        "text": "vamos por ejemplo a decirle acá ocultar podemos ocultar toda esta gran cantidad",
+        "startMs": 1333170,
+        "durationMs": 4890
+      },
+      {
+        "text": "de columnas para que podamos verla allí como a la mano no la movamos de lado",
+        "startMs": 1338060,
+        "durationMs": 5820
+      },
+      {
+        "text": "digámosle clic derecho ocultar y allí las tengo relacionadas en este caso",
+        "startMs": 1343880,
+        "durationMs": 6330
+      },
+      {
+        "text": "entonces yo podría llegar y decirle a bueno mire es que los computadores",
+        "startMs": 1350210,
+        "durationMs": 3030
+      },
+      {
+        "text": "pertenecen al género equipos de cómputo o computadores muñecas pues entonces",
+        "startMs": 1353240,
+        "durationMs": 6000
+      },
+      {
+        "text": "pertenecen al grupo de muñecas de trapo en la parte de los tenis entonces tenis",
+        "startMs": 1359240,
+        "durationMs": 5100
+      },
+      {
+        "text": "femenino y tenis masculino entonces yo puedo llegar a empezar a decir acá tenis",
+        "startMs": 1364340,
+        "durationMs": 4970
+      },
+      {
+        "text": "este estaba como masculino debemos tener en cuenta que deben llamarse tal cual",
+        "startMs": 1369310,
+        "durationMs": 5670
+      },
+      {
+        "text": "como lo creamos en la tabla de usuario control v tenis masculino si es que no",
+        "startMs": 1374980,
+        "durationMs": 7679
+      },
+      {
+        "text": "tenemos alguna forma rápida de filtrar yo podría buscar algo que me indique si",
+        "startMs": 1382659,
+        "durationMs": 4860
+      },
+      {
+        "text": "todos están clasificados con masculino en la palabra tenis masculino pues",
+        "startMs": 1387519,
+        "durationMs": 4081
+      },
+      {
+        "text": "buscar y filtrar en excel para herramientas rápidas empezar a hacer",
+        "startMs": 1391600,
+        "durationMs": 4470
+      },
+      {
+        "text": "esos filtros también si lo tengo acá entonces tenis femenino y puede llegar",
+        "startMs": 1396070,
+        "durationMs": 6240
+      },
+      {
+        "text": "también entonces rápidamente a copiar o si tengo alguna forma de buscar tenis y",
+        "startMs": 1402310,
+        "durationMs": 7020
+      },
+      {
+        "text": "femenino también dentro de excel filtrar los artículos y empezar a poner las",
+        "startMs": 1409330,
+        "durationMs": 3809
+      },
+      {
+        "text": "etiquetas en el género una vez yo tenga clasificada la información por ejemplo",
+        "startMs": 1413139,
+        "durationMs": 4860
+      },
+      {
+        "text": "acá este yo yo lo había exportado antes de hacer la configuración balón de",
+        "startMs": 1417999,
+        "durationMs": 4731
+      },
+      {
+        "text": "baloncesto y puedo llegar y copiarlo balón de baloncesto los tengo allí balón",
+        "startMs": 1422730,
+        "durationMs": 8700
+      },
+      {
+        "text": "de fútbol bicicletas computadores cada uno de los diferentes géneros que se",
+        "startMs": 1431430,
+        "durationMs": 6390
+      },
+      {
+        "text": "hayan activado dentro de las tablas del sistema los relaciona con los elementos",
+        "startMs": 1437820,
+        "durationMs": 5810
+      },
+      {
+        "text": "guardo puede nuevamente otra vez decirle mostrar todas las columnas digamos atrás",
+        "startMs": 1443630,
+        "durationMs": 6880
+      },
+      {
+        "text": "nuevamente guardar cierro y ya cuando estoy dentro del sistema con",
+        "startMs": 1450510,
+        "durationMs": 6210
+      },
+      {
+        "text": "tapping le digo nuevamente dentro de los elementos de inventario clic derecho",
+        "startMs": 1456720,
+        "durationMs": 4760
+      },
+      {
+        "text": "utilidades importar registros desde excel él nos va a preguntar dónde",
+        "startMs": 1461480,
+        "durationMs": 4960
+      },
+      {
+        "text": "tenemos la ruta de los artículos acá los tenemos elementos de inventario y le",
+        "startMs": 1466440,
+        "durationMs": 5070
+      },
+      {
+        "text": "decimos abrir que al sistema va a empezar a analizar mire se ha detectado",
+        "startMs": 1471510,
+        "durationMs": 5580
+      },
+      {
+        "text": "que hay un nuevo elemento de inventario que tiene una modificación en uno de sus",
+        "startMs": 1477090,
+        "durationMs": 3390
+      },
+      {
+        "text": "campos usted lo que desea reemplazar le podemos decir si reemplazar a este o",
+        "startMs": 1480480,
+        "durationMs": 4500
+      },
+      {
+        "text": "reemplazar a todos y así automáticamente quedarán cargados dentro del sistema de",
+        "startMs": 1484980,
+        "durationMs": 5880
+      },
+      {
+        "text": "forma automática en bloque vacío las diferentes categorías para cada uno de",
+        "startMs": 1490860,
+        "durationMs": 5580
+      },
+      {
+        "text": "los diferentes productos y artículos que tenemos en nuestro listado de inventario",
+        "startMs": 1496440,
+        "durationMs": 4290
+      },
+      {
+        "text": "es así como nuevamente entonces podemos ver que cada uno de los diferentes",
+        "startMs": 1500730,
+        "durationMs": 4320
+      },
+      {
+        "text": "artículos quedó con las categorías que corresponden y con sus respectivos",
+        "startMs": 1505050,
+        "durationMs": 4830
+      },
+      {
+        "text": "géneros ya hemos completado los cuatro pasos de configuración nuevamente",
+        "startMs": 1509880,
+        "durationMs": 4760
+      },
+      {
+        "text": "activamos la configuración del 'día sin iva' en el paso 1 en el paso 2",
+        "startMs": 1514640,
+        "durationMs": 5200
+      },
+      {
+        "text": "verificamos y creamos nuevos géneros de productos en el paso 3 relacionamos los",
+        "startMs": 1519840,
+        "durationMs": 6900
+      },
+      {
+        "text": "grupos de inventario con las categorías de la dian y en el paso 4 asociamos los",
+        "startMs": 1526740,
+        "durationMs": 6240
+      },
+      {
+        "text": "productos a un género vamos a analizar la operación de venta que hace la",
+        "startMs": 1532980,
+        "durationMs": 7500
+      },
+      {
+        "text": "automatización dentro de con está pyme para estos días especiales entonces",
+        "startMs": 1540480,
+        "durationMs": 4080
+      },
+      {
+        "text": "miremos algunos ejemplos de esta automatización estamos dentro del",
+        "startMs": 1544560,
+        "durationMs": 4050
+      },
+      {
+        "text": "sistema contra pyme y en especial debemos verificar que sea una fecha",
+        "startMs": 1548610,
+        "durationMs": 4439
+      },
+      {
+        "text": "especial de los días sin iva' el 19 de junio del 2020 si entramos al manejador",
+        "startMs": 1553049,
+        "durationMs": 5701
+      },
+      {
+        "text": "de operaciones al módulo de inventarios compras y facturación por la opción",
+        "startMs": 1558750,
+        "durationMs": 4770
+      },
+      {
+        "text": "ventas facturación y ventas vamos a encontrar una parte gráfica distinta el",
+        "startMs": 1563520,
+        "durationMs": 7350
+      },
+      {
+        "text": "sistema nos está mostrando un color distintivo para este día nos está",
+        "startMs": 1570870,
+        "durationMs": 3720
+      },
+      {
+        "text": "indicando que es un día sin iva y en especial vamos a hacer una factura",
+        "startMs": 1574590,
+        "durationMs": 5160
+      },
+      {
+        "text": "para uno de los productos que hace un momento configurados tenemos que tener",
+        "startMs": 1579750,
+        "durationMs": 4590
+      },
+      {
+        "text": "presente el cliente al que le vamos a facturar y podemos pues con el lector de",
+        "startMs": 1584340,
+        "durationMs": 5670
+      },
+      {
+        "text": "código de barras y es una facturación post seleccionamos el producto que vamos",
+        "startMs": 1590010,
+        "durationMs": 5430
+      },
+      {
+        "text": "a vender y automáticamente miremos algo el sistema también marca en un color",
+        "startMs": 1595440,
+        "durationMs": 6990
+      },
+      {
+        "text": "diferencial un dato y va y el valor de él iba eso qué quiere decir que según la",
+        "startMs": 1602430,
+        "durationMs": 6360
+      },
+      {
+        "text": "configuración este artículo está catalogado dentro de los géneros y",
+        "startMs": 1608790,
+        "durationMs": 6210
+      },
+      {
+        "text": "grupos que la dian ha indicado para la exención especial en el día 19 de junio",
+        "startMs": 1615000,
+        "durationMs": 5820
+      },
+      {
+        "text": "del 2020 prendió la configuración y nos está indicando debemos ponerle la",
+        "startMs": 1620820,
+        "durationMs": 4650
+      },
+      {
+        "text": "etiqueta que es un producto que no se le va a facturar con iva si le decimos en",
+        "startMs": 1625470,
+        "durationMs": 4860
+      },
+      {
+        "text": "esta opción este botón que dice sin iva' el sistema automáticamente nos va a",
+        "startMs": 1630330,
+        "durationMs": 5490
+      },
+      {
+        "text": "indicar 'día sin iva' miren que desapareció el porcentaje del iva el",
+        "startMs": 1635820,
+        "durationMs": 4950
+      },
+      {
+        "text": "valor del iva quedó el producto con su valor base dos",
+        "startMs": 1640770,
+        "durationMs": 4260
+      },
+      {
+        "text": "millones quinientos mil pesos si yo nuevamente doy clic en este botón",
+        "startMs": 1645030,
+        "durationMs": 6200
+      },
+      {
+        "text": "el sistema automáticamente marca el iva de ese producto que estaba grabado con",
+        "startMs": 1651230,
+        "durationMs": 6040
+      },
+      {
+        "text": "el 19% y el valor de pago mire que son dos millones novecientos setenta y cinco",
+        "startMs": 1657270,
+        "durationMs": 4830
+      },
+      {
+        "text": "mil pesos dos valores distintos cuando se tiene y cuando no se tiene el iva en",
+        "startMs": 1662100,
+        "durationMs": 5850
+      },
+      {
+        "text": "este caso como es un producto que está sin iva para este día especial se marca",
+        "startMs": 1667950,
+        "durationMs": 5220
+      },
+      {
+        "text": "la etiqueta y queda con esta observación que dice 'día sin iva' en la parte",
+        "startMs": 1673170,
+        "durationMs": 4770
+      },
+      {
+        "text": "siguiente pues complementamos las observaciones de más datos de la factura",
+        "startMs": 1677940,
+        "durationMs": 3390
+      },
+      {
+        "text": "y podemos ver que el sistema automáticamente configuró un concepto de",
+        "startMs": 1681330,
+        "durationMs": 6450
+      },
+      {
+        "text": "liquidación en ingreso un impuesto que se llama iba a exento especial por los",
+        "startMs": 1687780,
+        "durationMs": 5490
+      },
+      {
+        "text": "días y ni va a una tarifa del 0% y vamos a indicarle la forma de pago que",
+        "startMs": 1693270,
+        "durationMs": 6910
+      },
+      {
+        "text": "recordemos que la forma de pago era diferente a caja o cuenta por cobrar",
+        "startMs": 1700180,
+        "durationMs": 4350
+      },
+      {
+        "text": "pongámosle una transacción bancaria donde estamos indicando que la persona",
+        "startMs": 1704530,
+        "durationMs": 4890
+      },
+      {
+        "text": "nos hizo mediante tarjeta de crédito un pago y el comprobante de ese bache en",
+        "startMs": 1709420,
+        "durationMs": 6420
+      },
+      {
+        "text": "este caso como yo tengo una transacción que también está configurado con",
+        "startMs": 1715840,
+        "durationMs": 3000
+      },
+      {
+        "text": "facturación electrónica eso es una de las grandes ventajas dentro de con está",
+        "startMs": 1718840,
+        "durationMs": 3210
+      },
+      {
+        "text": "pyme que al ser un sistema integrado pues no solamente me va a cumplir con",
+        "startMs": 1722050,
+        "durationMs": 3750
+      },
+      {
+        "text": "este requerimiento de la facturación de los días inhiba sino que de una vez me",
+        "startMs": 1725800,
+        "durationMs": 4770
+      },
+      {
+        "text": "va a generar la factura de venta electrónica autorizada por un proveedor",
+        "startMs": 1730570,
+        "durationMs": 4380
+      },
+      {
+        "text": "tecnológico y enviada y emitida ante la dian entonces vamos a decirle aquí a",
+        "startMs": 1734950,
+        "durationMs": 4710
+      },
+      {
+        "text": "aceptar muy bien el sistema nos indica que ya la factura fue enviada y",
+        "startMs": 1739660,
+        "durationMs": 3240
+      },
+      {
+        "text": "almacenada si le damos clic al documento pues vamos a poder ver que esto es una",
+        "startMs": 1742900,
+        "durationMs": 5250
+      },
+      {
+        "text": "factura electrónica un ambiente de pruebas pero en especial podremos",
+        "startMs": 1748150,
+        "durationMs": 4590
+      },
+      {
+        "text": "chequear que está cumpliendo con todos los requerimientos nos está indicando",
+        "startMs": 1752740,
+        "durationMs": 3900
+      },
+      {
+        "text": "los datos de la empresa que emitió la factura la información del cliente nos",
+        "startMs": 1756640,
+        "durationMs": 4440
+      },
+      {
+        "text": "está indicando el producto miremos que en la parte",
+        "startMs": 1761080,
+        "durationMs": 3030
+      },
+      {
+        "text": "en esta parte nos está resaltando que el iva fue un iba exento con una tarifa del",
+        "startMs": 1764110,
+        "durationMs": 6810
+      },
+      {
+        "text": "0 por ciento por lo tanto el pago es el valor base normal del producto y pues",
+        "startMs": 1770920,
+        "durationMs": 6210
+      },
+      {
+        "text": "por ser una factura electrónica cumple con los demás requerimientos que son el",
+        "startMs": 1777130,
+        "durationMs": 3810
+      },
+      {
+        "text": "código qr y el código qr en este caso acaba el sistema de apoyarnos en la",
+        "startMs": 1780940,
+        "durationMs": 6030
+      },
+      {
+        "text": "sistematización y envío de una factura con una regla especial del 'día sin iva'",
+        "startMs": 1786970,
+        "durationMs": 9600
+      },
+      {
+        "text": "y miremos como el sistema pues puede analizar vamos a venderle a cualquier",
+        "startMs": 1796580,
+        "durationMs": 6290
+      },
+      {
+        "text": "otra persona una persona natural otro de los productos que tengamos por ejemplo",
+        "startMs": 1802870,
+        "durationMs": 5880
+      },
+      {
+        "text": "de los que hace un momento chequeábamos un balón y mire que automáticamente",
+        "startMs": 1808750,
+        "durationMs": 4500
+      },
+      {
+        "text": "también me indicó que tiene esta categoría con un manejo especial del",
+        "startMs": 1813250,
+        "durationMs": 5250
+      },
+      {
+        "text": "'día sin iva' yo puedo vender otro producto que puede",
+        "startMs": 1818500,
+        "durationMs": 3810
+      },
+      {
+        "text": "que no aplique por ejemplo un disco duro a pesar de que una de las categorías de",
+        "startMs": 1822310,
+        "durationMs": 5760
+      },
+      {
+        "text": "la dian era computadores pues allí no se mencionaba que las partes del computador",
+        "startMs": 1828070,
+        "durationMs": 3809
+      },
+      {
+        "text": "tendrían que estar dentro de este día especial por eso aquí el 19 por ciento",
+        "startMs": 1831879,
+        "durationMs": 5640
+      },
+      {
+        "text": "no se me marcó de un color diferente esto que está indicando que para este",
+        "startMs": 1837519,
+        "durationMs": 4561
+      },
+      {
+        "text": "segundo producto disco duro no se le puede aplicar la exención del iva pero",
+        "startMs": 1842080,
+        "durationMs": 5459
+      },
+      {
+        "text": "para el producto número uno que es el valor si se tiene que activar la",
+        "startMs": 1847539,
+        "durationMs": 4801
+      },
+      {
+        "text": "configuración del 'día sin iva' puesto que este es el que está allí",
+        "startMs": 1852340,
+        "durationMs": 3410
+      },
+      {
+        "text": "parametrizado para que se tenga en cuenta en estos días especiales",
+        "startMs": 1855750,
+        "durationMs": 4279
+      },
+      {
+        "text": "podemos marcar entonces 'día sin iva' para este nuevamente completar el",
+        "startMs": 1860029,
+        "durationMs": 4980
+      },
+      {
+        "text": "registro el sistema automáticamente nos va a liquidar los dos tipos de impuestos",
+        "startMs": 1865009,
+        "durationMs": 5460
+      },
+      {
+        "text": "el iva exento con una tarifa del 0% y el iva liquidado con la tarifa del 19% para",
+        "startMs": 1870469,
+        "durationMs": 7471
+      },
+      {
+        "text": "el otro bien que no cubría esta parte especial podemos indicarle la forma de",
+        "startMs": 1877940,
+        "durationMs": 7060
+      },
+      {
+        "text": "hizo el depósito bancario la consignación y aceptar indica el sistema",
+        "startMs": 1886680,
+        "durationMs": 4800
+      },
+      {
+        "text": "que se envió correctamente el documento lo podemos visualizar nuevamente en su",
+        "startMs": 1885000,
+        "durationMs": 9810
+      },
+      {
+        "text": "representación gráfica podemos ver principalmente la",
+        "startMs": 1894810,
+        "durationMs": 3420
+      },
+      {
+        "text": "notificación de los dos tipos de bases y porcentajes para los impuestos 0% y 19%",
+        "startMs": 1898230,
+        "durationMs": 6270
+      },
+      {
+        "text": "para uno y el otro producto que no estaba marcado dentro del sistema tanto",
+        "startMs": 1904500,
+        "durationMs": 4350
+      },
+      {
+        "text": "para la operación de punto de venta post factura rápida como la factura de venta",
+        "startMs": 1908850,
+        "durationMs": 6680
+      },
+      {
+        "text": "predeterminada normal aplica el análisis de los días sin iván en estas fechas",
+        "startMs": 1915530,
+        "durationMs": 5920
+      },
+      {
+        "text": "especiales nuevamente vamos a tener en cuenta algunas verificaciones que la",
+        "startMs": 1921450,
+        "durationMs": 4890
+      },
+      {
+        "text": "norma nos indica y que son verificaciones que con está pyme dentro",
+        "startMs": 1926340,
+        "durationMs": 4470
+      },
+      {
+        "text": "de su análisis interno ayuda para que usted como usuario no cometa de pronto",
+        "startMs": 1930810,
+        "durationMs": 6630
+      },
+      {
+        "text": "infracciones a la normatividad por ejemplo los pagos de venta de bienes",
+        "startMs": 1937440,
+        "durationMs": 5340
+      },
+      {
+        "text": "cubiertos solamente podrán efectuarse a través de tarjetas de débito crédito y",
+        "startMs": 1942780,
+        "durationMs": 4170
+      },
+      {
+        "text": "otros mecanismos de pago electrónico no se aceptan pagos en efectivo",
+        "startMs": 1946950,
+        "durationMs": 4360
+      },
+      {
+        "text": "qué pasa si hacemos una venta de un bien exento y esta persona nos lo paga en",
+        "startMs": 1951310,
+        "durationMs": 7290
+      },
+      {
+        "text": "efectivo qué pasa dentro del sistema contable estamos dentro de la operación",
+        "startMs": 1958600,
+        "durationMs": 3870
+      },
+      {
+        "text": "de venta vamos a seleccionar un cliente que sea persona natural este valor le",
+        "startMs": 1962470,
+        "durationMs": 4620
+      },
+      {
+        "text": "vamos a indicar que es un 'día sin iva' son 2 millones 100 mil pesos qué pasa",
+        "startMs": 1967090,
+        "durationMs": 5550
+      },
+      {
+        "text": "cuando la persona vamos a indicarle nos pago en efectivo",
+        "startMs": 1972640,
+        "durationMs": 4290
+      },
+      {
+        "text": "digámosle a aceptar nos muestra un mensaje los productos marcados con la",
+        "startMs": 1976930,
+        "durationMs": 4350
+      },
+      {
+        "text": "extensión de iván deben ser pagados con un medio de pago distinto a caja",
+        "startMs": 1981280,
+        "durationMs": 4440
+      },
+      {
+        "text": "efectivo crédito o bono en este momento el valor total de las unidades exentas",
+        "startMs": 1985720,
+        "durationMs": 5280
+      },
+      {
+        "text": "'día sin iva' es decir los 2 millones 100 mil pesos excede el valor registrado",
+        "startMs": 1991000,
+        "durationMs": 3810
+      },
+      {
+        "text": "con los medios de pago bancarios que es 0 pero nos está mostrando esto como un",
+        "startMs": 1994810,
+        "durationMs": 4640
+      },
+      {
+        "text": "mensaje verifiquemos otra de las acciones que el sistema realiza la venta",
+        "startMs": 1999450,
+        "durationMs": 5650
+      },
+      {
+        "text": "especial para estos días aplica sólo para una persona natural",
+        "startMs": 2005100,
+        "durationMs": 5820
+      },
+      {
+        "text": "no para personas jurídicas distribuidores en este caso si nosotros",
+        "startMs": 2010920,
+        "durationMs": 4320
+      },
+      {
+        "text": "tenemos clasificados correctamente los terceros es decir el cliente podemos",
+        "startMs": 2015240,
+        "durationMs": 4590
+      },
+      {
+        "text": "hacer que con está pyme valide esta regla vamos hacia el sistema nuevamente",
+        "startMs": 2019830,
+        "durationMs": 5820
+      },
+      {
+        "text": "entramos a una factura de ventas dentro de este día especial y seleccionemos por",
+        "startMs": 2025650,
+        "durationMs": 4800
+      },
+      {
+        "text": "ejemplo una empresa no una persona natural",
+        "startMs": 2030450,
+        "durationMs": 5590
+      },
+      {
+        "text": "natural una empresa zeus industriales vendamos",
+        "startMs": 2036040,
+        "durationMs": 2700
+      },
+      {
+        "text": "uno de los productos que están configurados",
+        "startMs": 2038740,
+        "durationMs": 4210
+      },
+      {
+        "text": "configurados dentro de la extensión indiquemos lo que",
+        "startMs": 2042950,
+        "durationMs": 3120
+      },
+      {
+        "text": "es 'día sin iva' el sistema automáticamente nos va a quitar aquí la",
+        "startMs": 2046070,
+        "durationMs": 4140
+      },
+      {
+        "text": "configuración del iva siguiente nos pone el concepto de el 0%",
+        "startMs": 2050210,
+        "durationMs": 6119
+      },
+      {
+        "text": "digámosle que la forma de pago es correcta que es bancaria que fue un pago",
+        "startMs": 2056329,
+        "durationMs": 4741
+      },
+      {
+        "text": "por una tarjeta débito el comprobante de dicho pago y digámosle aceptar en este",
+        "startMs": 2061070,
+        "durationMs": 8519
+      },
+      {
+        "text": "caso nos está sacando una notificación de un error nos está indicando la",
+        "startMs": 2069589,
+        "durationMs": 4471
+      },
+      {
+        "text": "exención del 'día sin iva' sólo aplica para ventas de personas naturales y el",
+        "startMs": 2074060,
+        "durationMs": 5190
+      },
+      {
+        "text": "cliente zeus industriales no tiene esta",
+        "startMs": 2079250,
+        "durationMs": 2070
+      },
+      {
+        "text": "clasificación que está haciendo el sistema está validando que tenemos que",
+        "startMs": 2081320,
+        "durationMs": 5490
+      },
+      {
+        "text": "ir a corregir la configuración de ese tercero o que para ese tercero no aplica",
+        "startMs": 2086810,
+        "durationMs": 5279
+      },
+      {
+        "text": "la venta con el regla con la regla especial del 'día sin iva'",
+        "startMs": 2092089,
+        "durationMs": 4240
+      },
+      {
+        "text": "le decimos desea grabar con errores nos tocaría decirle que no para corregir la",
+        "startMs": 2096329,
+        "durationMs": 5520
+      },
+      {
+        "text": "información bien sea para que el tercero le digamos señoras no le podemos",
+        "startMs": 2101849,
+        "durationMs": 5101
+      },
+      {
+        "text": "facturar porque la regla indica que debe ser persona natural o que le indiquemos",
+        "startMs": 2106950,
+        "durationMs": 4289
+      },
+      {
+        "text": "venga le facturó con él y va porque ahí ya entonces sí puedo facturar y",
+        "startMs": 2111239,
+        "durationMs": 4711
+      },
+      {
+        "text": "completar el resto de la factura de venta vamos a analizar la que dice el",
+        "startMs": 2115950,
+        "durationMs": 5909
+      },
+      {
+        "text": "consumidor final puede adquirir hasta tres unidades del mismo bien cubierto y",
+        "startMs": 2121859,
+        "durationMs": 5581
+      },
+      {
+        "text": "nuevamente tenemos presente que son unidades de un mismo bien cubierto a",
+        "startMs": 2127440,
+        "durationMs": 4079
+      },
+      {
+        "text": "aquellas que pertenecen al mismo género vamos a hacer entonces el ejercicio",
+        "startMs": 2131519,
+        "durationMs": 5981
+      },
+      {
+        "text": "dentro del sistema nuevamente entremos a una factura de venta en uno de los días",
+        "startMs": 2137500,
+        "durationMs": 4020
+      },
+      {
+        "text": "especiales seleccionemos un tercero que sí sea persona natural y vamos a indicar",
+        "startMs": 2141520,
+        "durationMs": 6660
+      },
+      {
+        "text": "por ejemplo el caso de los balones escojamos balón de voleibol baloncesto y",
+        "startMs": 2148180,
+        "durationMs": 7530
+      },
+      {
+        "text": "de fútbol veremos que aquí tengo tres balones distintos",
+        "startMs": 2155710,
+        "durationMs": 5710
+      },
+      {
+        "text": "pero recordemos que hace un momento habíamos hecho un análisis en excel que",
+        "startMs": 2161420,
+        "durationMs": 5760
+      },
+      {
+        "text": "queríamos tener un género valones así genérico sino un género balón de fútbol",
+        "startMs": 2167180,
+        "durationMs": 6869
+      },
+      {
+        "text": "balón de voleibol y balón de baloncesto si yo tuviese nada más el género balones",
+        "startMs": 2174049,
+        "durationMs": 6270
+      },
+      {
+        "text": "al momento de emitir esta factura con estas tres existencias ya se analizaría",
+        "startMs": 2180319,
+        "durationMs": 6121
+      },
+      {
+        "text": "que estoy cumpliendo con la cantidad máxima pero como cree tres géneros",
+        "startMs": 2186440,
+        "durationMs": 5810
+      },
+      {
+        "text": "distintos para balones de fútbol otro para voleibol y otro para baloncesto",
+        "startMs": 2192250,
+        "durationMs": 5170
+      },
+      {
+        "text": "yo puedo vender tres balones de 13 balones del otro y tres balones del otro",
+        "startMs": 2197420,
+        "durationMs": 4590
+      },
+      {
+        "text": "y a todos les puedo indicar que no van con él y va en este caso que la regla se",
+        "startMs": 2202010,
+        "durationMs": 6809
+      },
+      {
+        "text": "va a cumplir para ellos si nuevamente indicamos la forma de pago que sea",
+        "startMs": 2208819,
+        "durationMs": 5341
+      },
+      {
+        "text": "bancaria con el número de la transacción que corresponda y le decimos aceptar el",
+        "startMs": 2214160,
+        "durationMs": 6120
+      },
+      {
+        "text": "sistema no nos va a validar que estamos excediendo la cantidad de tres unidades",
+        "startMs": 2220280,
+        "durationMs": 7640
+      },
+      {
+        "text": "es así como proceso la factura generó la representación gráfica el documento con",
+        "startMs": 2227920,
+        "durationMs": 6210
+      },
+      {
+        "text": "sus respectivas cantidades para cada uno de los productos con su género propio el",
+        "startMs": 2234130,
+        "durationMs": 5130
+      },
+      {
+        "text": "porcentaje 0 por ciento en el iva exento y ya cumplió con el procesamiento de la",
+        "startMs": 2239260,
+        "durationMs": 6360
+      },
+      {
+        "text": "transacción ya me descargo de los inventarios las existencias y me lo",
+        "startMs": 2245620,
+        "durationMs": 3480
+      },
+      {
+        "text": "relacionó con la parte de la contabilidad revisemos por ejemplo el",
+        "startMs": 2249100,
+        "durationMs": 3630
+      },
+      {
+        "text": "caso de poner cuatro unidades de uno de estos balones seleccionemos un cliente",
+        "startMs": 2252730,
+        "durationMs": 5220
+      },
+      {
+        "text": "nuevamente cualquiera de los que sea persona natural y seleccionemos un",
+        "startMs": 2257950,
+        "durationMs": 5730
+      },
+      {
+        "text": "producto balón pero digamos cuatro cantidad sin iva' para éste para que el",
+        "startMs": 2263680,
+        "durationMs": 5400
+      },
+      {
+        "text": "sistema entonces me calculé la parte del impuesto que ya no se va a cobrar pero",
+        "startMs": 2269080,
+        "durationMs": 4800
+      },
+      {
+        "text": "vamos a decirle siguiente y vamos a decirle a aceptar qué mensaje nos",
+        "startMs": 2273880,
+        "durationMs": 4440
+      },
+      {
+        "text": "muestra el sistema nos está indicando mire el número total de unidades",
+        "startMs": 2278320,
+        "durationMs": 4880
+      },
+      {
+        "text": "marcadas que son cuatro excede la cantidad máxima 3 permitidas para este",
+        "startMs": 2283200,
+        "durationMs": 6730
+      },
+      {
+        "text": "género nos está indicando que no podemos vender",
+        "startMs": 2289930,
+        "durationMs": 2970
+      },
+      {
+        "text": "esas cuatro unidades que implicaría implicaría que tendríamos que duplicar",
+        "startMs": 2292900,
+        "durationMs": 6540
+      },
+      {
+        "text": "el registro podemos decirle en esta parte superior tres unidades en la parte",
+        "startMs": 2299440,
+        "durationMs": 5399
+      },
+      {
+        "text": "inferior una unidad y decirle al cliente mire la cuarta unidad le tengo que",
+        "startMs": 2304839,
+        "durationMs": 5220
+      },
+      {
+        "text": "cobrar el iva del 19 por ciento porque la regla y me indica que solamente puedo",
+        "startMs": 2310059,
+        "durationMs": 5581
+      },
+      {
+        "text": "entregarle 3 sin esta etiqueta del iva es decir que no le puedo cobrar el iva a",
+        "startMs": 2315640,
+        "durationMs": 5760
+      },
+      {
+        "text": "3 pero a la cuarta así si indicamos el resto",
+        "startMs": 2321400,
+        "durationMs": 3630
+      },
+      {
+        "text": "resto yo puedo terminar de hacer el pago",
+        "startMs": 2325030,
+        "durationMs": 2970
+      },
+      {
+        "text": "y le indico a aceptar y el sistema me va a validar con la continuación del",
+        "startMs": 2328000,
+        "durationMs": 6010
+      },
+      {
+        "text": "documento allí el sistema entonces emitió la",
+        "startMs": 2334010,
+        "durationMs": 2220
+      },
+      {
+        "text": "factura nuevamente generó la representación gráfica con los productos",
+        "startMs": 2336230,
+        "durationMs": 4530
+      },
+      {
+        "text": "que estaban exentos cuál fue la base de 255 mil pesos de base para la tarifa del",
+        "startMs": 2340760,
+        "durationMs": 5880
+      },
+      {
+        "text": "cero por ciento y 85 mil pesos para una tarifa del 19 por ciento y nos",
+        "startMs": 2346640,
+        "durationMs": 5010
+      },
+      {
+        "text": "discriminen la parte de los impuestos que corresponde otra de las",
+        "startMs": 2351650,
+        "durationMs": 3330
+      },
+      {
+        "text": "verificaciones que con está pyme tiene es que permite cambiar de usuario",
+        "startMs": 2354980,
+        "durationMs": 7830
+      },
+      {
+        "text": "temporalmente para evitar entorpecer el proceso de",
+        "startMs": 2362810,
+        "durationMs": 3090
+      },
+      {
+        "text": "facturación por ejemplo puede suceder que dentro de la empresa se haya",
+        "startMs": 2365900,
+        "durationMs": 5850
+      },
+      {
+        "text": "clasificado mal un producto al cual la regla era para otro género pero lo",
+        "startMs": 2371750,
+        "durationMs": 6870
+      },
+      {
+        "text": "clasifique con un género que ya estaba vendiendo y no me está permitiendo",
+        "startMs": 2378620,
+        "durationMs": 3930
+      },
+      {
+        "text": "vender más cantidades de las permitidas si yo soy el usuario vendedor o cajero",
+        "startMs": 2382550,
+        "durationMs": 6980
+      },
+      {
+        "text": "puede que me tengan configurado el sistema para que me presente error al",
+        "startMs": 2389530,
+        "durationMs": 4840
+      },
+      {
+        "text": "momento de exceder esa configuración pero puede que el usuario administrador",
+        "startMs": 2394370,
+        "durationMs": 4710
+      },
+      {
+        "text": "tenga configurado no que le muestre error sino que le muestre un comentario",
+        "startMs": 2399080,
+        "durationMs": 5340
+      },
+      {
+        "text": "o una advertencia es así como el usuario vendedor va a",
+        "startMs": 2404420,
+        "durationMs": 5820
+      },
+      {
+        "text": "poder llamar al administrador y decirle que entre temporalmente y le autorice el",
+        "startMs": 2410240,
+        "durationMs": 5279
+      },
+      {
+        "text": "envío de dicha factura miremos cómo lo podemos hacer dentro del sistema",
+        "startMs": 2415519,
+        "durationMs": 6121
+      },
+      {
+        "text": "voy a entrar a contar con otro usuario que es el de ventas estoy en un color",
+        "startMs": 2421640,
+        "durationMs": 5669
+      },
+      {
+        "text": "distinto uno plateado para identificar que no es el usuario administrador pueda",
+        "startMs": 2427309,
+        "durationMs": 4831
+      },
+      {
+        "text": "entrar de nuevo a una factura de venta y dentro de la factura de venta voy a",
+        "startMs": 2432140,
+        "durationMs": 5490
+      },
+      {
+        "text": "balón de baloncesto no lo clasifique con el género balón de baloncesto sino que",
+        "startMs": 2442620,
+        "durationMs": 4140
+      },
+      {
+        "text": "lo clasifique con balón de voleibol que quiero hacer voy a hacer una factura de",
+        "startMs": 2446760,
+        "durationMs": 5520
+      },
+      {
+        "text": "venta de esos dos productos o un tercero cualquiera y voy a llamar",
+        "startMs": 2452280,
+        "durationMs": 5880
+      },
+      {
+        "text": "la relación balón por ejemplo tengo un balón de baloncesto y balón de voleibol",
+        "startMs": 2458160,
+        "durationMs": 5870
+      },
+      {
+        "text": "resulta que el balón de baloncesto podría maximizar un poco acá la",
+        "startMs": 2437630,
+        "durationMs": 30850
+      },
+      {
+        "text": "presentación el balón de baloncesto no lo clasifique correctamente con el",
+        "startMs": 2468480,
+        "durationMs": 4740
+      },
+      {
+        "text": "género balón de baloncesto y aquí voy a llevar dos balones de voleibol y dos",
+        "startMs": 2473220,
+        "durationMs": 8100
+      },
+      {
+        "text": "balones de baloncesto en teoría si todo lo tuviese bien clasificado por género",
+        "startMs": 2481320,
+        "durationMs": 6600
+      },
+      {
+        "text": "estoy cumpliendo con la normatividad tengo un género balón de voleibol tengo",
+        "startMs": 2487920,
+        "durationMs": 4980
+      },
+      {
+        "text": "otro género balón de gol de baloncesto y estoy llevando dos unidades distintas de",
+        "startMs": 2492900,
+        "durationMs": 4770
+      },
+      {
+        "text": "cada uno no estoy excediendo mi las tres unidades",
+        "startMs": 2497670,
+        "durationMs": 2660
+      },
+      {
+        "text": "si le digo a la etiqueta sin iva' para cada uno de ellos sin iva' puede",
+        "startMs": 2500330,
+        "durationMs": 6010
+      },
+      {
+        "text": "entonces el sistema quitarme el iba indicar la forma de pago digamos lo que",
+        "startMs": 2506340,
+        "durationMs": 4980
+      },
+      {
+        "text": "la vamos a cumplir y vamos a indicarle a aceptar",
+        "startMs": 2511320,
+        "durationMs": 5690
+      },
+      {
+        "text": "aquí el sistema nos está haciendo una validación que nos indica mire",
+        "startMs": 2517010,
+        "durationMs": 4789
+      },
+      {
+        "text": "el género productos y niva elementos deportivos balones de voleibol está",
+        "startMs": 2521799,
+        "durationMs": 4710
+      },
+      {
+        "text": "excediendo cuatro unidades a la cantidad máxima permitida que son tres",
+        "startMs": 2526509,
+        "durationMs": 5301
+      },
+      {
+        "text": "pero realmente vamos a indicarle que no deseamos grabar con errores realmente yo",
+        "startMs": 2531810,
+        "durationMs": 5760
+      },
+      {
+        "text": "no estoy vendiendo más existencias de las permitidas simplemente que cometió",
+        "startMs": 2537570,
+        "durationMs": 6390
+      },
+      {
+        "text": "un error en la clasificación de los géneros por eso podemos llegar a decirle",
+        "startMs": 2543960,
+        "durationMs": 4860
+      },
+      {
+        "text": "a un usuario administrador que nos permita continuar con la factura vamos a",
+        "startMs": 2548820,
+        "durationMs": 4920
+      },
+      {
+        "text": "indicarle entonces acá a aceptar le indicamos que si grabamos con el error",
+        "startMs": 2553740,
+        "durationMs": 3540
+      },
+      {
+        "text": "vamos a indicarle al usuario administrador que ingrese con su usuario",
+        "startMs": 2557280,
+        "durationMs": 3810
+      },
+      {
+        "text": "temporalmente entraría por este botón aplicación activar permisos de otro",
+        "startMs": 2561090,
+        "durationMs": 6180
+      },
+      {
+        "text": "usuario temporalmente entra con su usuario y con su contraseña y cuando",
+        "startMs": 2567270,
+        "durationMs": 5760
+      },
+      {
+        "text": "está dentro del sistema va a poder entrar a la transacción o procesarla",
+        "startMs": 2573030,
+        "durationMs": 6120
+      },
+      {
+        "text": "desde afuera entrar y procesarla a aceptar nos está",
+        "startMs": 2579150,
+        "durationMs": 4959
+      },
+      {
+        "text": "mostrando un comentario nos está indicando es un mensaje mire",
+        "startMs": 2584109,
+        "durationMs": 5701
+      },
+      {
+        "text": "nos estamos excediendo pero ya no no los está mostrando como un error",
+        "startMs": 2589810,
+        "durationMs": 4529
+      },
+      {
+        "text": "a diferencia del usuario cajero o vendedor que no le permitía continuar",
+        "startMs": 2594339,
+        "durationMs": 3990
+      },
+      {
+        "text": "con la transacción hacia entonces el usuario administrador va a poder",
+        "startMs": 2598329,
+        "durationMs": 5191
+      },
+      {
+        "text": "notificar a quien corresponda la incorrecta clasificación de ese artículo",
+        "startMs": 2603520,
+        "durationMs": 5160
+      },
+      {
+        "text": "para que vaya y le asigne el género que corresponde es así como a través de esta",
+        "startMs": 2608680,
+        "durationMs": 6540
+      },
+      {
+        "text": "opción de cambiar de usuarios temporalmente podemos también continuar",
+        "startMs": 2615220,
+        "durationMs": 4020
+      },
+      {
+        "text": "con el flujo normal de la facturación porque bien sabemos que es algo",
+        "startMs": 2619240,
+        "durationMs": 4849
+      },
+      {
+        "text": "instantáneo que se tiene que solucionar en las empresas para no entorpecer el",
+        "startMs": 2624089,
+        "durationMs": 4750
+      },
+      {
+        "text": "día a día en las ventas una vez ya el usuario final hizo la",
+        "startMs": 2628839,
+        "durationMs": 5681
+      },
+      {
+        "text": "transacción le dice cerrar usuario y el usuario cajero va a poder continuar con",
+        "startMs": 2634520,
+        "durationMs": 6420
+      },
+      {
+        "text": "su respectivo proceso de facturación miremos otro ejemplo de validación como",
+        "startMs": 2640940,
+        "durationMs": 5850
+      },
+      {
+        "text": "el sistema va a analizar también no solamente las cantidades sino el tope",
+        "startMs": 2646790,
+        "durationMs": 5220
+      },
+      {
+        "text": "máximo el valor recordemos que para algunos artículos son 10 veces 25 veces",
+        "startMs": 2652010,
+        "durationMs": 7110
+      },
+      {
+        "text": "puede hacer la venta nuevamente para otra persona natural y voy a escoger un",
+        "startMs": 2659120,
+        "durationMs": 5040
+      },
+      {
+        "text": "producto por ejemplo una bicicleta que tiene un valor por debajo del tope",
+        "startMs": 2664160,
+        "durationMs": 6840
+      },
+      {
+        "text": "máximo de 2 millones 848 mil pesos pero qué pasa si yo registró un valor",
+        "startMs": 2671000,
+        "durationMs": 7140
+      },
+      {
+        "text": "superior pongámosle a esta bicicleta 3 millones",
+        "startMs": 2678140,
+        "durationMs": 2970
+      },
+      {
+        "text": "de pesos y le indico la etiqueta que no se va a manejar el iva",
+        "startMs": 2681110,
+        "durationMs": 6280
+      },
+      {
+        "text": "qué pasa si le indicamos que se va a hacer el pago completo por una",
+        "startMs": 2687390,
+        "durationMs": 4770
+      },
+      {
+        "text": "transferencia bancaria cumpliendo con toda la normatividad a una persona",
+        "startMs": 2692160,
+        "durationMs": 4290
+      },
+      {
+        "text": "natural una sola unidad pero si le indicamos a aceptar",
+        "startMs": 2696450,
+        "durationMs": 5210
+      },
+      {
+        "text": "el sistema nos va a indicar el siguiente mensaje el producto no debe aplicar a la",
+        "startMs": 2701660,
+        "durationMs": 6000
+      },
+      {
+        "text": "extensión ya que supera el precio máximo permitido que es 2 millones 848 560",
+        "startMs": 2707660,
+        "durationMs": 7350
+      },
+      {
+        "text": "según la tabla de la dian en esta parte donde nos notifica que para los",
+        "startMs": 2715010,
+        "durationMs": 6539
+      },
+      {
+        "text": "electrodomésticos o artículos deportivos como en este caso para esta bicicleta no",
+        "startMs": 2721549,
+        "durationMs": 5611
+      },
+      {
+        "text": "permite este monto de 3 millones de pesos para aplicar a la exención que",
+        "startMs": 2727160,
+        "durationMs": 4800
+      },
+      {
+        "text": "implicaría que tendríamos que ir y modificar la etiqueta quitarla o cambiar",
+        "startMs": 2731960,
+        "durationMs": 7740
+      },
+      {
+        "text": "a un producto que esté dentro del precio regular para que le aplique la exención",
+        "startMs": 2739700,
+        "durationMs": 4859
+      },
+      {
+        "text": "especial nuevamente recordemos que estos mensajes de error o advertencia son",
+        "startMs": 2744559,
+        "durationMs": 5821
+      },
+      {
+        "text": "configurables dentro del sistema donde los podemos chequear están directamente",
+        "startMs": 2750380,
+        "durationMs": 4500
+      },
+      {
+        "text": "dentro de los elementos de inventario en la configuración podemos indicarle que",
+        "startMs": 2754880,
+        "durationMs": 6270
+      },
+      {
+        "text": "la verificación sea que me muestre advertencia",
+        "startMs": 2761150,
+        "durationMs": 3810
+      },
+      {
+        "text": "advertencia para mí como usuario administrador y",
+        "startMs": 2764960,
+        "durationMs": 2610
+      },
+      {
+        "text": "para los usuarios cajeros para los usuarios que son vendedores que muestre",
+        "startMs": 2767570,
+        "durationMs": 4170
+      },
+      {
+        "text": "error y no le permita continuar con una transacción que no está cumpliendo con",
+        "startMs": 2771740,
+        "durationMs": 4770
+      },
+      {
+        "text": "las verificaciones de precios cantidades y configuraciones de envío hacia la",
+        "startMs": 2776510,
+        "durationMs": 5160
+      },
+      {
+        "text": "diana vamos a chequear también otro punto qué pasa si a mis elementos de",
+        "startMs": 2781670,
+        "durationMs": 6210
+      },
+      {
+        "text": "inventario oa mis productos yo no les configuró un género",
+        "startMs": 2787880,
+        "durationMs": 6660
+      },
+      {
+        "text": "qué pasa si yo no se los asignó pues vamos a perder la posibilidad de vender",
+        "startMs": 2794540,
+        "durationMs": 6620
+      },
+      {
+        "text": "diferentes productos o referencias clasificadas internamente con géneros",
+        "startMs": 2801160,
+        "durationMs": 5500
+      },
+      {
+        "text": "distintos puesto que al no tener un género el sistema va a analizar que este",
+        "startMs": 2806660,
+        "durationMs": 8490
+      },
+      {
+        "text": "elemento de control pertenece a un grupo por ejemplo en este caso grupo artículos",
+        "startMs": 2815150,
+        "durationMs": 5460
+      },
+      {
+        "text": "deportivos y ese grupo está relacionado con una categoría de la dian elementos",
+        "startMs": 2820610,
+        "durationMs": 6270
+      },
+      {
+        "text": "deportivos por lo tanto si yo todos mis productos los dejo así sin género y",
+        "startMs": 2826880,
+        "durationMs": 6690
+      },
+      {
+        "text": "después voy a facturar un bien tres unidades de uno dos de otro cuatro",
+        "startMs": 2833570,
+        "durationMs": 7030
+      },
+      {
+        "text": "de otro el sistema me va a analizar que todas suman al mismo grupo o categoría",
+        "startMs": 2840600,
+        "durationMs": 6420
+      },
+      {
+        "text": "de la dian y no nos va a permitir hacer la exención especial de él y va a",
+        "startMs": 2847020,
+        "durationMs": 6690
+      },
+      {
+        "text": "ciertos productos cuando sí podrían haber estado incluidos dentro de la",
+        "startMs": 2853710,
+        "durationMs": 4710
+      },
+      {
+        "text": "regla la recomendación nuevamente es clasifique muy bien sus géneros para que",
+        "startMs": 2858420,
+        "durationMs": 5730
+      },
+      {
+        "text": "pueda aprovechar al máximo estos días especiales y vender diferentes",
+        "startMs": 2864150,
+        "durationMs": 3870
+      },
+      {
+        "text": "cantidades qué pasa si yo le digo por ejemplo personalizar un grupo de 'día",
+        "startMs": 2868020,
+        "durationMs": 5010
+      },
+      {
+        "text": "sin iva' para este elemento voy a poner un caso particular voy a salirme de este",
+        "startMs": 2873030,
+        "durationMs": 5580
+      },
+      {
+        "text": "elemento y voy a entrar a este este producto dice que se llama lycra cuerpo",
+        "startMs": 2878610,
+        "durationMs": 6510
+      },
+      {
+        "text": "entero bicicleta una lycra para montar bicicleta pero esta pertenece a",
+        "startMs": 2885120,
+        "durationMs": 4740
+      },
+      {
+        "text": "elementos de ciclismo donde están las bicicletas los zapatos especiales que",
+        "startMs": 2889860,
+        "durationMs": 5940
+      },
+      {
+        "text": "son artículos deportivos pero realmente su configuración no debería ser",
+        "startMs": 2895800,
+        "durationMs": 6510
+      },
+      {
+        "text": "elementos deportivos porque si bien es una lycra cuerpo entero puede ser",
+        "startMs": 2902310,
+        "durationMs": 4920
+      },
+      {
+        "text": "catalogado como ropa deportiva como artículos de vestuario por eso yo podría",
+        "startMs": 2907230,
+        "durationMs": 7290
+      },
+      {
+        "text": "llegar a decir le voy a personalizar el grupo de 'día sin iva' para este",
+        "startMs": 2914520,
+        "durationMs": 5100
+      },
+      {
+        "text": "elemento y dentro de la personalización le indicó a qué grupo pertenece dentro",
+        "startMs": 2919620,
+        "durationMs": 6180
+      },
+      {
+        "text": "del listado del que tiene la dian de categorías y ya no va a pertenecer al",
+        "startMs": 2925800,
+        "durationMs": 3930
+      },
+      {
+        "text": "grupo de elementos deportivos como originalmente está clasificada con su",
+        "startMs": 2929730,
+        "durationMs": 3810
+      },
+      {
+        "text": "grupo interno de inventarios sino al grupo de vestuarios y dentro del grupo",
+        "startMs": 2933540,
+        "durationMs": 5190
+      },
+      {
+        "text": "de vestuario si yo organicé muy bien el género pues puedo tener acá algo que sea",
+        "startMs": 2938730,
+        "durationMs": 5640
+      },
+      {
+        "text": "ropa deportiva y así podría entonces vender no solamente vestuario tres",
+        "startMs": 2944370,
+        "durationMs": 6120
+      },
+      {
+        "text": "pantalones tres camisas sino también tres libras deportivas todos en una",
+        "startMs": 2950490,
+        "durationMs": 4830
+      },
+      {
+        "text": "misma factura y estoy cumpliendo con las cantidades máximas por",
+        "startMs": 2955320,
+        "durationMs": 4910
+      },
+      {
+        "text": "esto es importante tenerlo presente para que podamos configurar correctamente los",
+        "startMs": 2960230,
+        "durationMs": 4920
+      },
+      {
+        "text": "artículos otra configuración también para tener presente puede que yo haya",
+        "startMs": 2965150,
+        "durationMs": 6120
+      },
+      {
+        "text": "configurado vamos a mirar los computadores y puede que le indique al",
+        "startMs": 2971270,
+        "durationMs": 5580
+      },
+      {
+        "text": "sistema en otros datos este artículo pertenece a el grupo de",
+        "startMs": 2976850,
+        "durationMs": 5880
+      },
+      {
+        "text": "electrodomésticos y computadores y en especial vamos a decir que pertenece por",
+        "startMs": 2982730,
+        "durationMs": 4620
+      },
+      {
+        "text": "ejemplo a computadores personales y equipos de comunicaciones resulta que",
+        "startMs": 2987350,
+        "durationMs": 4890
+      },
+      {
+        "text": "este artículo pertenece a un grupo de inventario dentro del contrato",
+        "startMs": 2992240,
+        "durationMs": 2640
+      },
+      {
+        "text": "denominado equipos de cómputo si yo miro dentro de el grupo equipos de cómputo",
+        "startMs": 2994880,
+        "durationMs": 7140
+      },
+      {
+        "text": "voy a filtrar por acá grupo de inventario equipos de cómputo puede que",
+        "startMs": 3002020,
+        "durationMs": 5520
+      },
+      {
+        "text": "tenga aquí miren mini torre genérica mini torre",
+        "startMs": 3007540,
+        "durationMs": 5930
+      },
+      {
+        "text": "multimedia estos artículos no pertenecen",
+        "startMs": 3013470,
+        "durationMs": 4370
+      },
+      {
+        "text": "a la exención especial que se estaba indicando por parte de la reglamentación",
+        "startMs": 3017840,
+        "durationMs": 5930
+      },
+      {
+        "text": "solamente los computadores que puedo hacer para excluirlos de esa regla puedo",
+        "startMs": 3023770,
+        "durationMs": 6760
+      },
+      {
+        "text": "entrar a los artículos que no pertenecen y en la pestaña de otros datos decirle",
+        "startMs": 3030530,
+        "durationMs": 6780
+      },
+      {
+        "text": "que le voy a personalizar el grupo y al indicarle qué le voy a personalizar el",
+        "startMs": 3037310,
+        "durationMs": 6270
+      },
+      {
+        "text": "grupo lo dejo vacío y eso qué quiere decir que al indicar que lo dejó vacío",
+        "startMs": 3043580,
+        "durationMs": 5430
+      },
+      {
+        "text": "va a ser como una excepción a la normatividad eso qué quiere decir que",
+        "startMs": 3049010,
+        "durationMs": 7260
+      },
+      {
+        "text": "esta mini torre multimedia cuando yo la factura no me va el sistema a sugerir",
+        "startMs": 3056270,
+        "durationMs": 6090
+      },
+      {
+        "text": "que le indique 'día sin iva' por ejemplo vamos a escoger este artículo a aceptar",
+        "startMs": 3062360,
+        "durationMs": 6060
+      },
+      {
+        "text": "guardamos la configuración que la dejamos vacía y nuevamente entremos a",
+        "startMs": 3068420,
+        "durationMs": 7860
+      },
+      {
+        "text": "seleccionemos un cliente persona natural y seleccionemos el producto miremos que",
+        "startMs": 3076290,
+        "durationMs": 7820
+      },
+      {
+        "text": "automáticamente al poner el producto no se prendió los colorcito especiales que",
+        "startMs": 3084110,
+        "durationMs": 6450
+      },
+      {
+        "text": "me indican que debe ser clasificado para la venta con una exención de iva",
+        "startMs": 3090560,
+        "durationMs": 5520
+      },
+      {
+        "text": "mientras que si yo escojo un artículo un computador",
+        "startMs": 3096080,
+        "durationMs": 5690
+      },
+      {
+        "text": "computador mary que automáticamente a este sí y no",
+        "startMs": 3101770,
+        "durationMs": 3150
+      },
+      {
+        "text": "tenemos que ambos pertenecen al mismo grupo de inventario dentro de con está",
+        "startMs": 3104920,
+        "durationMs": 3960
+      },
+      {
+        "text": "pyme pero su relación con los grupos o categorías de la dian este computador va",
+        "startMs": 3108880,
+        "durationMs": 5490
+      },
+      {
+        "text": "a la de electrodomésticos y a éste la personalice para decirle que no iba a",
+        "startMs": 3114370,
+        "durationMs": 5340
+      },
+      {
+        "text": "estar relacionado con ninguno por eso a la mini torre multimedia no se le prende",
+        "startMs": 3119710,
+        "durationMs": 4380
+      },
+      {
+        "text": "la configuración especial del día sin ya y así tendría que indicarle cuál",
+        "startMs": 3124090,
+        "durationMs": 5220
+      },
+      {
+        "text": "corresponde para que no se calcula el impuesto con está pyme el software",
+        "startMs": 3129310,
+        "durationMs": 4950
+      },
+      {
+        "text": "administrativo contable y de facturación electrónica especial para empresas como",
+        "startMs": 3134260,
+        "durationMs": 5700
+      },
+      {
+        "text": "la suya que tienen que cumplir con unos requerimientos legales tributarios",
+        "startMs": 3139960,
+        "durationMs": 5220
+      },
+      {
+        "text": "contables y también de administración interna como es la parte de sus",
+        "startMs": 3145180,
+        "durationMs": 5880
+      },
+      {
+        "text": "inventarios y la facturación los invitamos para que nos contacten a",
+        "startMs": 3151060,
+        "durationMs": 4470
+      },
+      {
+        "text": "nuestros departamentos comercial y de soporte y nos sigan en nuestras redes",
+        "startMs": 3155530,
+        "durationMs": 3840
+      },
+      {
+        "text": "sociales para completar cualquier tipo de información que necesiten al respecto",
+        "startMs": 3159370,
+        "durationMs": 8700
+      }
+    ],
+    "plainText": "## Descripción del video\n\nImplementacion de ContaPyme para para implementar la facturación especial, día sin iva.\n\n## Transcripción\n\nextensión especial en el manejo de iba días sin iva' en colombia configuración\nmiremos cuáles son los pasos para implementar la facturación especial de\nestos días en el sistema con está pyme y agro wind\nlo primero que tenemos que tener presente es se debe contar con el módulo\nde inventarios compras y facturación dentro del licenciamiento y también\ntener la última actualización del sistema instalada que viene con estas\nconfiguraciones especiales una vez verificamos estos requisitos\nmiremos cuál es la configuración dentro de con está pyme primero se debe activar\nsegundo se debe verificar y si lo requiere crear\nnuevos géneros de productos tercero relacionar sus grupos de inventario con\nel listado dian de las categorías de bienes cubiertos\ny cuarto a asociar sus productos a un género autorizado para la exención\nespecial y listo factura y fácilmente los días\nespeciales pero vamos a empezar entonces a\ndesglosar cada uno de estos cuatro pasos miremos paso 1 active la configuración\nespecial para el manejo de días sin iva analicemos dentro del sistema contable\ncómo hacemos esta activación estando ubicados dentro del sistema con\ntap y me podemos ingresar en la parte de inventarios a los elementos de\ninventario y dentro de los elementos de inventario entramos por la opción\nconfiguración y allí vamos a activar el manejo especial en los días sin iva'\nesto es importante tenerlo presente puesto que yo puedo hacer una asignación\npara todos los usuarios o para un usuario en especial más adelante vamos a\nponer un ejemplo donde la configuración de un usuario especial puede ser\ndistinta a la genérica del usuario administrador en este caso voy a\nindicarle configuración todos los usuarios\nusuarios dentro del menú que se despliega en la\nparte izquierda podemos buscar la opción que dice manejo de 'día sin iva' por\ndefecto esta opción va a estar apagada cuando nosotros la aprendemos tenemos\nque chequear que el sistema automáticamente trae configurado los\ntres días especiales para la exención del iva el 19 de junio el 3 de julio y\nel 19 de julio del 2020 según lo indica el decreto legislativo 6 82 de mayo del\n2020 aquí se puede tener la identificación de este decreto con sus\nfechas especiales adicional tenemos el concepto de iva exento que se va a\nasignar automáticamente para estos días recordemos que el tener un iba exento\nimplica que el bien queda grabado con una tarifa del 0% por lo tanto con está\npyme automáticamente a ese nuevo concepto de liquidación el\ncual va a afectar las ventas que se realicen de forma automática iba a\nquedar automáticamente grabado con esa tarifa del 0% una vez ya asignamos o\nverificamos que todo está correcto podemos en la siguiente parte donde dice\nverificación de 'día sin iva' indicar qué tipo de mensaje queremos que el\nsistema nos presente cuando por ejemplo se está haciendo una factura por más\nunidades de las permitidas o cuando se está haciendo una factura a una persona\nque no es persona natural yo quiero que me muestre error o quiero que me muestre\nadvertencia si me muestra error el sistema va a sacar un mensaje en color\nrojo que no me va a permitir a mí continuar con la operación hasta que se\ncorrija el inconveniente yo lo configuró con mostrará advertencia\nel sistema me va a mostrar un mensaje en color azul donde me va a indicar mire\neste es el comentario que yo le indico respecto a esta transacción pero le va a\npermitir continuar procesar y emitir la factura sin tener que corregir la\nadvertencia que le indicará ya la consideración queda a disposición\nde usted como gerente o como administrador de su empresa cual tipo de\nmensaje quiere que le presente una vez ya le dijimos a aceptar quedó\nactiva la configuración de manejo de 'día sin iva'\nacabamos de activar la configuración especial ahora segundo paso debemos\nverificar y si se requiere crear nuevos géneros de productos y aquí debemos\ncentrarnos en algo muy especial hay una recomendación\nrecomendación y es planear de forma metodológica los\ngéneros que al interior de la empresa se van a establecer para configurar después\nlos respectivos productos vamos a mirar un ejemplo el decreto legislativo 682\nnos indicaba tenemos unas categorías o grupos de complementos de vestuario\nelectrodomésticos computadores equipos de comunicaciones elementos deportivos\njuguetes y juegos vestuario utilice escolares y bienes e insumos para el\nsector agropecuario esas son las categorías o grupos que le habían\nindicado en el decreto legislativo pero para cada uno de ellos también en la\nparte del detalle mencionaba algunos ejemplos de géneros el caso para\ncomplementos de vestuario un género carteras gafas de sol paraguas y\nrecordemos que la normatividad indicaba que se pueden llegar a vender máximo 3\nunidades del mismo género con esto que debemos tener presente que\nentre más discriminado tengamos las opciones de género pues podemos emitir\nmejor facturación más venta de diferentes productos clasificados en\ngéneros distintos voy a poner un ejemplo tenemos dentro de elementos deportivos\nun género que se llama balones este género balones puede ser así genérico\nresulta que si un cliente viene y me compra a mí un balón de fútbol un balón\nde voleibol y dos balones de baloncesto pues ya con esta configuración de género\ncomo la tengo así genérica balones el sistema o la regla va a analizar que se\nestán entregando cuatro unidades de un balón por lo tanto no nos va a\npermitir generar la factura pero si usted por ejemplo viene y le indica en\nla configuración que vamos a tener balones pero entonces podemos tener aquí\nde fútbol balones de baloncesto y balones de voleibol y que todos\npertenecen a esta misma categoría de la dian elementos deportivos pues allí\nentonces yo voy a poder vender tres balones de voleibol también tres balones\nde baloncesto y en la misma factura también tres balones de fútbol porque\npara mí la categoría balones era muy genérica y la acabé de complementar\nentrando un nivel de detalle un poco más profundo\nprofundo nuevamente podemos tener otro ejemplo yo\npuedo tener en la parte de tenis en la parte de vestuario dice allí la\ncategoría vestuario y había un género tenis pero puede que para mí sea muy\ngenérico esa parte de tenis yo puedo llegar entonces a decir tenis y\npodemos trabajar masculinos y también tenis femeninos esto qué quiere decir\nque yo podría llegar a vender tres pares de tenis femeninos y tres pares de tenis\nmasculinos dentro de la misma factura por pertenecer a géneros totalmente\ndistintos voy a permitir generar esa factura con seis unidades mientras que\nsi yo tuviese genérico tenis al momento de llegar a los tres pares al vender\nesos tres pares ya no podría vender el cuarto par con la exención especial en\nel manejo del iva recordemos que las tallas los colores el nombre del\nfabricante el número de referencia estos datos no me sirven a mí para\nclasificarlos con un género diferente una camisa o una blusa un pantalón o una\nchaqueta son géneros distintos que me van a permitir a mí poder clasificar mis\nartículos en géneros diferentes para que la validación de las tres existencias no\nse cumpla tan rápido este es un análisis metodológico que a\nusted como empresario como gerente como administrador le corresponde la\nsugerencia es primero organice de acuerdo a las indicaciones de la dian\nlas categorías y los géneros que usted tiene en su empresa para que\nposteriormente pueda llegar a clasificarlos dentro del sistema una vez\nya se tienen estas categorías y géneros definidos en un excel los tenemos que\nentrar a configurar dentro del sistema contable y por donde hacemos la\nconfiguración de cada uno de estos grupos o categorías y géneros bueno\nentremos de nuevo al sistema con está pyme y miremos dentro del sistema con\ntap y me vamos a entrar por el botón que dice básico en este menú\npor la opción que dice tablas de usuario allí en tablas de usuario aparecen por\ndefecto las categorías con los géneros que le habían comentaba dentro del\ndecreto legislativo ya están preconfigurados que debe hacer ustedes\nsegún lo mencionábamos hace un momento complementar los demás géneros que usted\nal interior de la empresa utiliza por ejemplo vamos a mirar acá entremos\ndigamos modificar y tenemos la tabla completa maximicemos un poco y tenemos\nlos grupos o categorías dian con los respectivos géneros y podemos empezar a\ncrear nuevos géneros según la categoría que al interior de la empresa utilicemos\nsi yo tengo por ejemplo vamos a mirar a elementos deportivos tengo el género\nbalones y hace un momento hacíamos el caso balones\ny podemos dejarlo de fútbol\nbalones baloncesto le decimos clic en agregar y\notro que sea balones voleibol así también podemos ir a la parte de\nvestuario y podemos también trabajar en la parte de tenis pues entonces teníamos\nel ejemplo masculinos y podemos agregar otro que sea\ntenis femenino nuevamente esto ya lo hicimos analizando\nen un excel y una forma metodológica cuáles eran nuestras categorías y sus\nrespectivos géneros una vez ya los organizamos de acuerdo a la cantidad de\ngéneros que tenemos al interior de la empresa\nempresa los complementamos en esta tabla y le\ndecimos a aceptar allí que a los diferentes grupos con sus respectivos\ngéneros asociados acabamos de ver cómo es la configuración y la creación de\ngéneros para los productos que se van a trabajar dentro de la empresa\na continuación paso 3 debemos relacionar los grupos de\ninventario que se tienen al interior de la empresa con el listado dian de las\ndiferentes categorías de los bienes cubiertos y esto como lo hacemos vamos a\nmirarlo dentro del sistema contable una vez dentro del sistema contable podemos\ningresar al menú inventarios y vamos por la opción que dice grupos de inventario\nallí es donde ya se tienen agrupados los diferentes productos artículos y\nmercancías que se tienen dentro de la empresa lo que tenemos que hacer es\nrelacionar cada uno de estos grupos con un posible grupo o categoría de la dian\nsi es que así se permite en este caso como ya se activó la configuración\npodemos entrar por ejemplo vamos a entrar a accesorios de vestuario una\nempresa que tiene esta categoría o este grupo\ngrupo vamos a mirar o tener presente que si\nmaximizamos un poco la ventana al final vamos a encontrar una pestaña que dice\ndías sin iva al entrar esta opción podemos ver cual es el grupo 'día sin\niva' en este caso van a aparecer las diferentes categorías las siete\ncategorías que le habían indicado en el decreto legislativo 682 en este caso\nestamos viendo complementos de vestuario electrodomésticos elementos deportivos\nvestuario etcétera allí podríamos configurar el grupo interno de el\ninventario dentro de la empresa a qué grupo diana pertenece así entonces\npodemos analizar con los demás grupos por ejemplo equipo de cómputo vamos a\nmirar en la pestaña 'día sin iva' este aún no\nestá relacionado doy clic se despliega el menú y lo puedo relacionar con la\ncategoría electrodomésticos computadores y equipos de comunicaciones y aceptar\nuna vez ya se hizo esa configuración por ejemplo elementos de ciclismo vamos a\nverificar 'día sin iva' a aquel grupo pertenece dentro de todas las categorías\nde la dian eso está dentro de elementos deportivos si mi empresa entonces tiene\ndiferentes grupos la relación ahora bien acabamos de hacer la\nconfiguración y asignación de los grupos internos del inventario dentro de con\nestá pyme con los grupos o categorías de la dian cuarto paso que debemos hacer\nasociar los productos a un género autorizado para la exención especial\naquí debemos tener algo muy presente se puede hacer una asociación de géneros en\nbloque de forma masiva porque puede que su empresa tenga quinientos mil dos mil\ntres mil referencias y sería muy incómodo tener que entrar uno a uno\ndespués de haber ya creado los diferentes géneros que lo hicimos en el\npaso número dos tener que empezar a relacionar cada una de las dos mil\nreferencias al género respectivo allí vamos a ver que tenemos dos\nfuncionalidades una funcionalidad es copiar valor que siempre ha existido\ndentro del sistema contra pyme y es mediante la combinación de teclas\ncontrola que me copia un valor en otros campos\ncampos u otra opción es la asignación mediante\nunos datos en excel para importar la información hacia contra pib miremos la\nprimera funcionalidad dentro del sistema con tap y me entramos a los elementos de\ninventario dentro de los elementos de inventario\ninventario tenemos los diferentes productos y\nartículos que tenemos dentro de la empresa que día a día facturamos los\ncuales tenemos que configurar y asignar a un género de los cuales ya creamos en\nla tabla de usuario que habíamos analizado metodológicamente una vez ya\ntenemos allí la información podemos entrar por ejemplo un producto entro a\nun artículo y en la pestaña que dice otros datos tengo una opción que dice\npersonalizar grupo 'día sin iva' para este elemento\nsi yo no lo personalizó quiere decir que me va a heredar la configuración del\ngrupo de inventario en este caso el pertenece a un grupo de inventario que\nse llama artículos deportivos y este grupo de inventario ya había sido\nclasificado con una categoría de la dian que era elementos deportivos\nen esta parte que dice género 'día sin iva' me van a aparecer de una lista de\npendiente que quiere decir de una lista de elementos deportivos cuales son los\ngéneros que configuramos en este caso miremos que tenemos balones de\nbaloncesto balones de fútbol o balones de voleibol si lo hubiese dejado como\nbalones genérico simplemente allí tendría la clasificación individual\nvamos a indicarle balón de fútbol y aceptar tengo la opción de empezar a uno\npor uno entrar a configurar le esos datos género\npara este otro balón y puedo entrar a clasificarlos\nclasificarlos una asignación individual ahora miremos\ncuál era la otra opción de trabajarlo mediante copiar valor controla\nrecordemos que dentro de conta pymes yo puedo visualizar dentro de un explorador\nde un catálogo otros datos otras columnas aquí tengo una serie de\ncolumnas código nombre unidad el grupo de inventario y visible en selección\npuedo mostrar otras columnas como el grupo y la categoría de la dian en esta\nopción vamos a dar clic aquí para seleccionar otras columnas adicionales\nclic y vamos entonces a visualizar las opciones grupo 'día sin iva' y género\npodemos ponerlas aquí visible en la presentación le decimos refrescar y\ntenemos diferentes géneros miremos que tenemos diferentes productos tenis\ny tengo una configuración tenis masculinos tenis femeninos en la parte\nsuperior también tengo unas muñecas tengo también una serie de datos como\nbaloncesto yo puedo llegar por ejemplo a un balón\nde baloncesto puedo entrar a él configurar la información el género\nbalón de baloncesto aceptar y ya aquí me queda disponible qué puedo hacer para no\ntener que entrar a uno por uno puedo simplemente ubicarme en el último con la\ntecla shift subo y donde tenga el color en amarillo le digo control y nos\npregunta el sistema está seguro de copiar el valor balón baloncesto del\ncampo género 'día sin iva' a todos los registros seleccionados le decimos que\nsí y mire que automáticamente el sistema heredó la configuración para cada uno\nsi yo tuviese así entonces diferentes productos los podrían ordenar si están\nallí continuos en la parte del código los podría ordenar y así con control a\ncopiar el valor de la parte superior a los siguientes elementos pero no\nsolamente está esta opción yo también podría llegar y decir es que los\nproductos los tengo con códigos de barras con códigos totalmente distintos\ny están en desorden yo no los puedo acomodar ni por el nombre ni por el\ncódigo para que queden así alineados y pueda yo copiar esta información\nmediante control a qué alternativa tenemos muy sencillo podemos decirle al\nsistema clic derecho y en la parte de utilidades podemos exportar los\nregistros a excel cuando le decimos exportar los registros a excel el\nsistema nos va a preguntar si queremos llevar toda la lista o llevar solamente\nuna parte en especial si le decimos que llevemos toda la selección\npues el sistema nos va a indicar dónde lo queremos guardar voy a guardarlo por\nejemplo por acá en el escritorio y nos dice que esto ya quedó el archivo\nguardado queremos abrirlo en el escritorio va a aparecer unos elementos\nde inventario entonces allá dentro de los elementos de inventario aparece con\ntoda la información las diferentes columnas que con está pyme tiene en\nespecial nos aparece el nombre del producto\nproducto el grupo de inventario el código que se\ntiene pero si vamos hasta el final corremos mucho hasta la derecha aparece\nla parte de los datos del género de 'día sin iva' y aquí en esta columna podemos\nempezar a organizar ya personalizar y relacionar cada elemento con los grupos\nvamos por ejemplo a decirle acá ocultar podemos ocultar toda esta gran cantidad\nde columnas para que podamos verla allí como a la mano no la movamos de lado\ndigámosle clic derecho ocultar y allí las tengo relacionadas en este caso\nentonces yo podría llegar y decirle a bueno mire es que los computadores\npertenecen al género equipos de cómputo o computadores muñecas pues entonces\npertenecen al grupo de muñecas de trapo en la parte de los tenis entonces tenis\nfemenino y tenis masculino entonces yo puedo llegar a empezar a decir acá tenis\neste estaba como masculino debemos tener en cuenta que deben llamarse tal cual\ncomo lo creamos en la tabla de usuario control v tenis masculino si es que no\ntenemos alguna forma rápida de filtrar yo podría buscar algo que me indique si\ntodos están clasificados con masculino en la palabra tenis masculino pues\nbuscar y filtrar en excel para herramientas rápidas empezar a hacer\nesos filtros también si lo tengo acá entonces tenis femenino y puede llegar\ntambién entonces rápidamente a copiar o si tengo alguna forma de buscar tenis y\nfemenino también dentro de excel filtrar los artículos y empezar a poner las\netiquetas en el género una vez yo tenga clasificada la información por ejemplo\nacá este yo yo lo había exportado antes de hacer la configuración balón de\nbaloncesto y puedo llegar y copiarlo balón de baloncesto los tengo allí balón\nde fútbol bicicletas computadores cada uno de los diferentes géneros que se\nhayan activado dentro de las tablas del sistema los relaciona con los elementos\nguardo puede nuevamente otra vez decirle mostrar todas las columnas digamos atrás\nnuevamente guardar cierro y ya cuando estoy dentro del sistema con\ntapping le digo nuevamente dentro de los elementos de inventario clic derecho\nutilidades importar registros desde excel él nos va a preguntar dónde\ntenemos la ruta de los artículos acá los tenemos elementos de inventario y le\ndecimos abrir que al sistema va a empezar a analizar mire se ha detectado\nque hay un nuevo elemento de inventario que tiene una modificación en uno de sus\ncampos usted lo que desea reemplazar le podemos decir si reemplazar a este o\nreemplazar a todos y así automáticamente quedarán cargados dentro del sistema de\nforma automática en bloque vacío las diferentes categorías para cada uno de\nlos diferentes productos y artículos que tenemos en nuestro listado de inventario\nes así como nuevamente entonces podemos ver que cada uno de los diferentes\nartículos quedó con las categorías que corresponden y con sus respectivos\ngéneros ya hemos completado los cuatro pasos de configuración nuevamente\nactivamos la configuración del 'día sin iva' en el paso 1 en el paso 2\nverificamos y creamos nuevos géneros de productos en el paso 3 relacionamos los\ngrupos de inventario con las categorías de la dian y en el paso 4 asociamos los\nproductos a un género vamos a analizar la operación de venta que hace la\nautomatización dentro de con está pyme para estos días especiales entonces\nmiremos algunos ejemplos de esta automatización estamos dentro del\nsistema contra pyme y en especial debemos verificar que sea una fecha\nespecial de los días sin iva' el 19 de junio del 2020 si entramos al manejador\nde operaciones al módulo de inventarios compras y facturación por la opción\nventas facturación y ventas vamos a encontrar una parte gráfica distinta el\nsistema nos está mostrando un color distintivo para este día nos está\nindicando que es un día sin iva y en especial vamos a hacer una factura\npara uno de los productos que hace un momento configurados tenemos que tener\npresente el cliente al que le vamos a facturar y podemos pues con el lector de\ncódigo de barras y es una facturación post seleccionamos el producto que vamos\na vender y automáticamente miremos algo el sistema también marca en un color\ndiferencial un dato y va y el valor de él iba eso qué quiere decir que según la\nconfiguración este artículo está catalogado dentro de los géneros y\ngrupos que la dian ha indicado para la exención especial en el día 19 de junio\ndel 2020 prendió la configuración y nos está indicando debemos ponerle la\netiqueta que es un producto que no se le va a facturar con iva si le decimos en\nesta opción este botón que dice sin iva' el sistema automáticamente nos va a\nindicar 'día sin iva' miren que desapareció el porcentaje del iva el\nvalor del iva quedó el producto con su valor base dos\nmillones quinientos mil pesos si yo nuevamente doy clic en este botón\nel sistema automáticamente marca el iva de ese producto que estaba grabado con\nel 19% y el valor de pago mire que son dos millones novecientos setenta y cinco\nmil pesos dos valores distintos cuando se tiene y cuando no se tiene el iva en\neste caso como es un producto que está sin iva para este día especial se marca\nla etiqueta y queda con esta observación que dice 'día sin iva' en la parte\nsiguiente pues complementamos las observaciones de más datos de la factura\ny podemos ver que el sistema automáticamente configuró un concepto de\nliquidación en ingreso un impuesto que se llama iba a exento especial por los\ndías y ni va a una tarifa del 0% y vamos a indicarle la forma de pago que\nrecordemos que la forma de pago era diferente a caja o cuenta por cobrar\npongámosle una transacción bancaria donde estamos indicando que la persona\nnos hizo mediante tarjeta de crédito un pago y el comprobante de ese bache en\neste caso como yo tengo una transacción que también está configurado con\nfacturación electrónica eso es una de las grandes ventajas dentro de con está\npyme que al ser un sistema integrado pues no solamente me va a cumplir con\neste requerimiento de la facturación de los días inhiba sino que de una vez me\nva a generar la factura de venta electrónica autorizada por un proveedor\ntecnológico y enviada y emitida ante la dian entonces vamos a decirle aquí a\naceptar muy bien el sistema nos indica que ya la factura fue enviada y\nalmacenada si le damos clic al documento pues vamos a poder ver que esto es una\nfactura electrónica un ambiente de pruebas pero en especial podremos\nchequear que está cumpliendo con todos los requerimientos nos está indicando\nlos datos de la empresa que emitió la factura la información del cliente nos\nestá indicando el producto miremos que en la parte\nen esta parte nos está resaltando que el iva fue un iba exento con una tarifa del\n0 por ciento por lo tanto el pago es el valor base normal del producto y pues\npor ser una factura electrónica cumple con los demás requerimientos que son el\ncódigo qr y el código qr en este caso acaba el sistema de apoyarnos en la\nsistematización y envío de una factura con una regla especial del 'día sin iva'\ny miremos como el sistema pues puede analizar vamos a venderle a cualquier\notra persona una persona natural otro de los productos que tengamos por ejemplo\nde los que hace un momento chequeábamos un balón y mire que automáticamente\ntambién me indicó que tiene esta categoría con un manejo especial del\n'día sin iva' yo puedo vender otro producto que puede\nque no aplique por ejemplo un disco duro a pesar de que una de las categorías de\nla dian era computadores pues allí no se mencionaba que las partes del computador\ntendrían que estar dentro de este día especial por eso aquí el 19 por ciento\nno se me marcó de un color diferente esto que está indicando que para este\nsegundo producto disco duro no se le puede aplicar la exención del iva pero\npara el producto número uno que es el valor si se tiene que activar la\nconfiguración del 'día sin iva' puesto que este es el que está allí\nparametrizado para que se tenga en cuenta en estos días especiales\npodemos marcar entonces 'día sin iva' para este nuevamente completar el\nregistro el sistema automáticamente nos va a liquidar los dos tipos de impuestos\nel iva exento con una tarifa del 0% y el iva liquidado con la tarifa del 19% para\nel otro bien que no cubría esta parte especial podemos indicarle la forma de\nhizo el depósito bancario la consignación y aceptar indica el sistema\nque se envió correctamente el documento lo podemos visualizar nuevamente en su\nrepresentación gráfica podemos ver principalmente la\nnotificación de los dos tipos de bases y porcentajes para los impuestos 0% y 19%\npara uno y el otro producto que no estaba marcado dentro del sistema tanto\npara la operación de punto de venta post factura rápida como la factura de venta\npredeterminada normal aplica el análisis de los días sin iván en estas fechas\nespeciales nuevamente vamos a tener en cuenta algunas verificaciones que la\nnorma nos indica y que son verificaciones que con está pyme dentro\nde su análisis interno ayuda para que usted como usuario no cometa de pronto\ninfracciones a la normatividad por ejemplo los pagos de venta de bienes\ncubiertos solamente podrán efectuarse a través de tarjetas de débito crédito y\notros mecanismos de pago electrónico no se aceptan pagos en efectivo\nqué pasa si hacemos una venta de un bien exento y esta persona nos lo paga en\nefectivo qué pasa dentro del sistema contable estamos dentro de la operación\nde venta vamos a seleccionar un cliente que sea persona natural este valor le\nvamos a indicar que es un 'día sin iva' son 2 millones 100 mil pesos qué pasa\ncuando la persona vamos a indicarle nos pago en efectivo\ndigámosle a aceptar nos muestra un mensaje los productos marcados con la\nextensión de iván deben ser pagados con un medio de pago distinto a caja\nefectivo crédito o bono en este momento el valor total de las unidades exentas\n'día sin iva' es decir los 2 millones 100 mil pesos excede el valor registrado\ncon los medios de pago bancarios que es 0 pero nos está mostrando esto como un\nmensaje verifiquemos otra de las acciones que el sistema realiza la venta\nespecial para estos días aplica sólo para una persona natural\nno para personas jurídicas distribuidores en este caso si nosotros\ntenemos clasificados correctamente los terceros es decir el cliente podemos\nhacer que con está pyme valide esta regla vamos hacia el sistema nuevamente\nentramos a una factura de ventas dentro de este día especial y seleccionemos por\nejemplo una empresa no una persona natural\nnatural una empresa zeus industriales vendamos\nuno de los productos que están configurados\nconfigurados dentro de la extensión indiquemos lo que\nes 'día sin iva' el sistema automáticamente nos va a quitar aquí la\nconfiguración del iva siguiente nos pone el concepto de el 0%\ndigámosle que la forma de pago es correcta que es bancaria que fue un pago\npor una tarjeta débito el comprobante de dicho pago y digámosle aceptar en este\ncaso nos está sacando una notificación de un error nos está indicando la\nexención del 'día sin iva' sólo aplica para ventas de personas naturales y el\ncliente zeus industriales no tiene esta\nclasificación que está haciendo el sistema está validando que tenemos que\nir a corregir la configuración de ese tercero o que para ese tercero no aplica\nla venta con el regla con la regla especial del 'día sin iva'\nle decimos desea grabar con errores nos tocaría decirle que no para corregir la\ninformación bien sea para que el tercero le digamos señoras no le podemos\nfacturar porque la regla indica que debe ser persona natural o que le indiquemos\nvenga le facturó con él y va porque ahí ya entonces sí puedo facturar y\ncompletar el resto de la factura de venta vamos a analizar la que dice el\nconsumidor final puede adquirir hasta tres unidades del mismo bien cubierto y\nnuevamente tenemos presente que son unidades de un mismo bien cubierto a\naquellas que pertenecen al mismo género vamos a hacer entonces el ejercicio\ndentro del sistema nuevamente entremos a una factura de venta en uno de los días\nespeciales seleccionemos un tercero que sí sea persona natural y vamos a indicar\npor ejemplo el caso de los balones escojamos balón de voleibol baloncesto y\nde fútbol veremos que aquí tengo tres balones distintos\npero recordemos que hace un momento habíamos hecho un análisis en excel que\nqueríamos tener un género valones así genérico sino un género balón de fútbol\nbalón de voleibol y balón de baloncesto si yo tuviese nada más el género balones\nal momento de emitir esta factura con estas tres existencias ya se analizaría\nque estoy cumpliendo con la cantidad máxima pero como cree tres géneros\ndistintos para balones de fútbol otro para voleibol y otro para baloncesto\nyo puedo vender tres balones de 13 balones del otro y tres balones del otro\ny a todos les puedo indicar que no van con él y va en este caso que la regla se\nva a cumplir para ellos si nuevamente indicamos la forma de pago que sea\nbancaria con el número de la transacción que corresponda y le decimos aceptar el\nsistema no nos va a validar que estamos excediendo la cantidad de tres unidades\nes así como proceso la factura generó la representación gráfica el documento con\nsus respectivas cantidades para cada uno de los productos con su género propio el\nporcentaje 0 por ciento en el iva exento y ya cumplió con el procesamiento de la\ntransacción ya me descargo de los inventarios las existencias y me lo\nrelacionó con la parte de la contabilidad revisemos por ejemplo el\ncaso de poner cuatro unidades de uno de estos balones seleccionemos un cliente\nnuevamente cualquiera de los que sea persona natural y seleccionemos un\nproducto balón pero digamos cuatro cantidad sin iva' para éste para que el\nsistema entonces me calculé la parte del impuesto que ya no se va a cobrar pero\nvamos a decirle siguiente y vamos a decirle a aceptar qué mensaje nos\nmuestra el sistema nos está indicando mire el número total de unidades\nmarcadas que son cuatro excede la cantidad máxima 3 permitidas para este\ngénero nos está indicando que no podemos vender\nesas cuatro unidades que implicaría implicaría que tendríamos que duplicar\nel registro podemos decirle en esta parte superior tres unidades en la parte\ninferior una unidad y decirle al cliente mire la cuarta unidad le tengo que\ncobrar el iva del 19 por ciento porque la regla y me indica que solamente puedo\nentregarle 3 sin esta etiqueta del iva es decir que no le puedo cobrar el iva a\n3 pero a la cuarta así si indicamos el resto\nresto yo puedo terminar de hacer el pago\ny le indico a aceptar y el sistema me va a validar con la continuación del\ndocumento allí el sistema entonces emitió la\nfactura nuevamente generó la representación gráfica con los productos\nque estaban exentos cuál fue la base de 255 mil pesos de base para la tarifa del\ncero por ciento y 85 mil pesos para una tarifa del 19 por ciento y nos\ndiscriminen la parte de los impuestos que corresponde otra de las\nverificaciones que con está pyme tiene es que permite cambiar de usuario\ntemporalmente para evitar entorpecer el proceso de\nfacturación por ejemplo puede suceder que dentro de la empresa se haya\nclasificado mal un producto al cual la regla era para otro género pero lo\nclasifique con un género que ya estaba vendiendo y no me está permitiendo\nvender más cantidades de las permitidas si yo soy el usuario vendedor o cajero\npuede que me tengan configurado el sistema para que me presente error al\nmomento de exceder esa configuración pero puede que el usuario administrador\ntenga configurado no que le muestre error sino que le muestre un comentario\no una advertencia es así como el usuario vendedor va a\npoder llamar al administrador y decirle que entre temporalmente y le autorice el\nenvío de dicha factura miremos cómo lo podemos hacer dentro del sistema\nvoy a entrar a contar con otro usuario que es el de ventas estoy en un color\ndistinto uno plateado para identificar que no es el usuario administrador pueda\nentrar de nuevo a una factura de venta y dentro de la factura de venta voy a\nbalón de baloncesto no lo clasifique con el género balón de baloncesto sino que\nlo clasifique con balón de voleibol que quiero hacer voy a hacer una factura de\nventa de esos dos productos o un tercero cualquiera y voy a llamar\nla relación balón por ejemplo tengo un balón de baloncesto y balón de voleibol\nresulta que el balón de baloncesto podría maximizar un poco acá la\npresentación el balón de baloncesto no lo clasifique correctamente con el\ngénero balón de baloncesto y aquí voy a llevar dos balones de voleibol y dos\nbalones de baloncesto en teoría si todo lo tuviese bien clasificado por género\nestoy cumpliendo con la normatividad tengo un género balón de voleibol tengo\notro género balón de gol de baloncesto y estoy llevando dos unidades distintas de\ncada uno no estoy excediendo mi las tres unidades\nsi le digo a la etiqueta sin iva' para cada uno de ellos sin iva' puede\nentonces el sistema quitarme el iba indicar la forma de pago digamos lo que\nla vamos a cumplir y vamos a indicarle a aceptar\naquí el sistema nos está haciendo una validación que nos indica mire\nel género productos y niva elementos deportivos balones de voleibol está\nexcediendo cuatro unidades a la cantidad máxima permitida que son tres\npero realmente vamos a indicarle que no deseamos grabar con errores realmente yo\nno estoy vendiendo más existencias de las permitidas simplemente que cometió\nun error en la clasificación de los géneros por eso podemos llegar a decirle\na un usuario administrador que nos permita continuar con la factura vamos a\nindicarle entonces acá a aceptar le indicamos que si grabamos con el error\nvamos a indicarle al usuario administrador que ingrese con su usuario\ntemporalmente entraría por este botón aplicación activar permisos de otro\nusuario temporalmente entra con su usuario y con su contraseña y cuando\nestá dentro del sistema va a poder entrar a la transacción o procesarla\ndesde afuera entrar y procesarla a aceptar nos está\nmostrando un comentario nos está indicando es un mensaje mire\nnos estamos excediendo pero ya no no los está mostrando como un error\na diferencia del usuario cajero o vendedor que no le permitía continuar\ncon la transacción hacia entonces el usuario administrador va a poder\nnotificar a quien corresponda la incorrecta clasificación de ese artículo\npara que vaya y le asigne el género que corresponde es así como a través de esta\nopción de cambiar de usuarios temporalmente podemos también continuar\ncon el flujo normal de la facturación porque bien sabemos que es algo\ninstantáneo que se tiene que solucionar en las empresas para no entorpecer el\ndía a día en las ventas una vez ya el usuario final hizo la\ntransacción le dice cerrar usuario y el usuario cajero va a poder continuar con\nsu respectivo proceso de facturación miremos otro ejemplo de validación como\nel sistema va a analizar también no solamente las cantidades sino el tope\nmáximo el valor recordemos que para algunos artículos son 10 veces 25 veces\npuede hacer la venta nuevamente para otra persona natural y voy a escoger un\nproducto por ejemplo una bicicleta que tiene un valor por debajo del tope\nmáximo de 2 millones 848 mil pesos pero qué pasa si yo registró un valor\nsuperior pongámosle a esta bicicleta 3 millones\nde pesos y le indico la etiqueta que no se va a manejar el iva\nqué pasa si le indicamos que se va a hacer el pago completo por una\ntransferencia bancaria cumpliendo con toda la normatividad a una persona\nnatural una sola unidad pero si le indicamos a aceptar\nel sistema nos va a indicar el siguiente mensaje el producto no debe aplicar a la\nextensión ya que supera el precio máximo permitido que es 2 millones 848 560\nsegún la tabla de la dian en esta parte donde nos notifica que para los\nelectrodomésticos o artículos deportivos como en este caso para esta bicicleta no\npermite este monto de 3 millones de pesos para aplicar a la exención que\nimplicaría que tendríamos que ir y modificar la etiqueta quitarla o cambiar\na un producto que esté dentro del precio regular para que le aplique la exención\nespecial nuevamente recordemos que estos mensajes de error o advertencia son\nconfigurables dentro del sistema donde los podemos chequear están directamente\ndentro de los elementos de inventario en la configuración podemos indicarle que\nla verificación sea que me muestre advertencia\nadvertencia para mí como usuario administrador y\npara los usuarios cajeros para los usuarios que son vendedores que muestre\nerror y no le permita continuar con una transacción que no está cumpliendo con\nlas verificaciones de precios cantidades y configuraciones de envío hacia la\ndiana vamos a chequear también otro punto qué pasa si a mis elementos de\ninventario oa mis productos yo no les configuró un género\nqué pasa si yo no se los asignó pues vamos a perder la posibilidad de vender\ndiferentes productos o referencias clasificadas internamente con géneros\ndistintos puesto que al no tener un género el sistema va a analizar que este\nelemento de control pertenece a un grupo por ejemplo en este caso grupo artículos\ndeportivos y ese grupo está relacionado con una categoría de la dian elementos\ndeportivos por lo tanto si yo todos mis productos los dejo así sin género y\ndespués voy a facturar un bien tres unidades de uno dos de otro cuatro\nde otro el sistema me va a analizar que todas suman al mismo grupo o categoría\nde la dian y no nos va a permitir hacer la exención especial de él y va a\nciertos productos cuando sí podrían haber estado incluidos dentro de la\nregla la recomendación nuevamente es clasifique muy bien sus géneros para que\npueda aprovechar al máximo estos días especiales y vender diferentes\ncantidades qué pasa si yo le digo por ejemplo personalizar un grupo de 'día\nsin iva' para este elemento voy a poner un caso particular voy a salirme de este\nelemento y voy a entrar a este este producto dice que se llama lycra cuerpo\nentero bicicleta una lycra para montar bicicleta pero esta pertenece a\nelementos de ciclismo donde están las bicicletas los zapatos especiales que\nson artículos deportivos pero realmente su configuración no debería ser\nelementos deportivos porque si bien es una lycra cuerpo entero puede ser\ncatalogado como ropa deportiva como artículos de vestuario por eso yo podría\nllegar a decir le voy a personalizar el grupo de 'día sin iva' para este\nelemento y dentro de la personalización le indicó a qué grupo pertenece dentro\ndel listado del que tiene la dian de categorías y ya no va a pertenecer al\ngrupo de elementos deportivos como originalmente está clasificada con su\ngrupo interno de inventarios sino al grupo de vestuarios y dentro del grupo\nde vestuario si yo organicé muy bien el género pues puedo tener acá algo que sea\nropa deportiva y así podría entonces vender no solamente vestuario tres\npantalones tres camisas sino también tres libras deportivas todos en una\nmisma factura y estoy cumpliendo con las cantidades máximas por\nesto es importante tenerlo presente para que podamos configurar correctamente los\nartículos otra configuración también para tener presente puede que yo haya\nconfigurado vamos a mirar los computadores y puede que le indique al\nsistema en otros datos este artículo pertenece a el grupo de\nelectrodomésticos y computadores y en especial vamos a decir que pertenece por\nejemplo a computadores personales y equipos de comunicaciones resulta que\neste artículo pertenece a un grupo de inventario dentro del contrato\ndenominado equipos de cómputo si yo miro dentro de el grupo equipos de cómputo\nvoy a filtrar por acá grupo de inventario equipos de cómputo puede que\ntenga aquí miren mini torre genérica mini torre\nmultimedia estos artículos no pertenecen\na la exención especial que se estaba indicando por parte de la reglamentación\nsolamente los computadores que puedo hacer para excluirlos de esa regla puedo\nentrar a los artículos que no pertenecen y en la pestaña de otros datos decirle\nque le voy a personalizar el grupo y al indicarle qué le voy a personalizar el\ngrupo lo dejo vacío y eso qué quiere decir que al indicar que lo dejó vacío\nva a ser como una excepción a la normatividad eso qué quiere decir que\nesta mini torre multimedia cuando yo la factura no me va el sistema a sugerir\nque le indique 'día sin iva' por ejemplo vamos a escoger este artículo a aceptar\nguardamos la configuración que la dejamos vacía y nuevamente entremos a\nseleccionemos un cliente persona natural y seleccionemos el producto miremos que\nautomáticamente al poner el producto no se prendió los colorcito especiales que\nme indican que debe ser clasificado para la venta con una exención de iva\nmientras que si yo escojo un artículo un computador\ncomputador mary que automáticamente a este sí y no\ntenemos que ambos pertenecen al mismo grupo de inventario dentro de con está\npyme pero su relación con los grupos o categorías de la dian este computador va\na la de electrodomésticos y a éste la personalice para decirle que no iba a\nestar relacionado con ninguno por eso a la mini torre multimedia no se le prende\nla configuración especial del día sin ya y así tendría que indicarle cuál\ncorresponde para que no se calcula el impuesto con está pyme el software\nadministrativo contable y de facturación electrónica especial para empresas como\nla suya que tienen que cumplir con unos requerimientos legales tributarios\ncontables y también de administración interna como es la parte de sus\ninventarios y la facturación los invitamos para que nos contacten a\nnuestros departamentos comercial y de soporte y nos sigan en nuestras redes\nsociales para completar cualquier tipo de información que necesiten al respecto"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 1,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 196.781,
+    "asr": 44100,
+    "filesizeApprox": 77924488,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/YwDw8rGthcY.md",
+    "json": "videos/2020/YwDw8rGthcY.json",
+    "infoJson": "videos/2020/YwDw8rGthcY.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "YwDw8rGthcY",
+        "youtubeId": "YwDw8rGthcY",
+        "titulo": "Manejo ContaPyme - días sin IVA",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

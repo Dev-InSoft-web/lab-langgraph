@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "entryId": "sw20SxAQT0M",
+  "youtubeId": "sw20SxAQT0M",
+  "status": "pending",
+  "updatedAt": "2026-06-05T17:10:08.867Z",
+  "icursos": [
+    "CP40MOD610"
+  ],
+  "entries": [
+    {
+      "entryId": "sw20SxAQT0M",
+      "youtubeId": "sw20SxAQT0M",
+      "iplan": "020033",
+      "capitulo": "Empresa",
+      "titulo": "Qué es una unidad de negocio en ContaPyme",
+      "descripcion": "Conoce qué son las unidades de negocio en ContaPyme. En este tutorial aprenderás la diferencia entre crear una empresa y crear una unidad de negocio dentro del sistema. Te explicaremos paso a paso cómo configurar una unidad de negocio cuando una misma empresa administra varias líneas o sedes que dependen de un mismo NIT, facilitando una gestión organizada e independiente de cada operación.&nbsp;",
+      "profesor": {
+        "rol": "Asesor",
+        "nombre": "Santiago Alarcon Arango"
+      },
+      "dificultad": "Básico",
+      "source": "html-page",
+      "icurso": "CP40MOD610"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "descripcionCurso": "Módulo de sistema básico de ContaPyme"
+    }
+  ]
+}

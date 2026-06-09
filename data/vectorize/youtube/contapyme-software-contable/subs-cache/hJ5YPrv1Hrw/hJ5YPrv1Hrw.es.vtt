@@ -1,0 +1,3776 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.599 --> 00:00:02.070 align:start position:0%
+ 
+Bienvenidos<00:00:01.120><c> a</c><00:00:01.240><c> este</c><00:00:01.400><c> tutorial</c><00:00:01.880><c> donde</c>
+
+00:00:02.070 --> 00:00:02.080 align:start position:0%
+Bienvenidos a este tutorial donde
+ 
+
+00:00:02.080 --> 00:00:04.070 align:start position:0%
+Bienvenidos a este tutorial donde
+veremos<00:00:02.679><c> cómo</c><00:00:02.960><c> funciona</c><00:00:03.520><c> el</c><00:00:03.719><c> módulo</c><00:00:04.000><c> de</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+veremos cómo funciona el módulo de
+ 
+
+00:00:04.080 --> 00:00:06.110 align:start position:0%
+veremos cómo funciona el módulo de
+sistema<00:00:04.359><c> básico</c><00:00:04.960><c> en</c>
+
+00:00:06.110 --> 00:00:06.120 align:start position:0%
+sistema básico en
+ 
+
+00:00:06.120 --> 00:00:08.350 align:start position:0%
+sistema básico en
+contapyme.<00:00:07.120><c> Como</c><00:00:07.399><c> contenido</c><00:00:07.919><c> para</c><00:00:08.120><c> esta</c>
+
+00:00:08.350 --> 00:00:08.360 align:start position:0%
+contapyme. Como contenido para esta
+ 
+
+00:00:08.360 --> 00:00:10.070 align:start position:0%
+contapyme. Como contenido para esta
+sesión<00:00:08.760><c> vamos</c><00:00:08.960><c> a</c><00:00:09.160><c> ver</c><00:00:09.599><c> cuál</c><00:00:09.800><c> es</c><00:00:09.920><c> la</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+sesión vamos a ver cuál es la
+ 
+
+00:00:10.080 --> 00:00:11.470 align:start position:0%
+sesión vamos a ver cuál es la
+importancia<00:00:10.480><c> del</c><00:00:10.639><c> módulo</c><00:00:10.920><c> de</c><00:00:11.040><c> sistema</c>
+
+00:00:11.470 --> 00:00:11.480 align:start position:0%
+importancia del módulo de sistema
+ 
+
+00:00:11.480 --> 00:00:13.870 align:start position:0%
+importancia del módulo de sistema
+básico,<00:00:12.480><c> cuáles</c><00:00:12.840><c> son</c><00:00:13.000><c> los</c><00:00:13.240><c> componentes</c>
+
+00:00:13.870 --> 00:00:13.880 align:start position:0%
+básico, cuáles son los componentes
+ 
+
+00:00:13.880 --> 00:00:16.670 align:start position:0%
+básico, cuáles son los componentes
+principales<00:00:14.480><c> del</c><00:00:14.799><c> módulo,</c><00:00:15.799><c> cómo</c><00:00:16.080><c> se</c><00:00:16.279><c> integran</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+principales del módulo, cómo se integran
+ 
+
+00:00:16.680 --> 00:00:18.590 align:start position:0%
+principales del módulo, cómo se integran
+estos<00:00:17.000><c> componentes</c><00:00:17.600><c> cuando</c><00:00:17.800><c> se</c><00:00:18.000><c> realiza</c><00:00:18.400><c> una</c>
+
+00:00:18.590 --> 00:00:18.600 align:start position:0%
+estos componentes cuando se realiza una
+ 
+
+00:00:18.600 --> 00:00:21.230 align:start position:0%
+estos componentes cuando se realiza una
+operación<00:00:19.400><c> y</c><00:00:19.680><c> finalmente,</c><00:00:20.439><c> ¿qué</c><00:00:20.720><c> pasa</c><00:00:21.039><c> cuando</c>
+
+00:00:21.230 --> 00:00:21.240 align:start position:0%
+operación y finalmente, ¿qué pasa cuando
+ 
+
+00:00:21.240 --> 00:00:24.029 align:start position:0%
+operación y finalmente, ¿qué pasa cuando
+se<00:00:21.480><c> registra</c><00:00:22.039><c> una</c><00:00:22.279><c> operación</c><00:00:22.800><c> en</c><00:00:23.000><c> el</c><00:00:23.199><c> sistema?</c>
+
+00:00:24.029 --> 00:00:24.039 align:start position:0%
+se registra una operación en el sistema?
+ 
+
+00:00:24.039 --> 00:00:25.310 align:start position:0%
+se registra una operación en el sistema?
+Vamos<00:00:24.320><c> entonces</c><00:00:24.560><c> a</c><00:00:24.640><c> iniciar</c><00:00:24.960><c> con</c><00:00:25.160><c> la</c>
+
+00:00:25.310 --> 00:00:25.320 align:start position:0%
+Vamos entonces a iniciar con la
+ 
+
+00:00:25.320 --> 00:00:27.070 align:start position:0%
+Vamos entonces a iniciar con la
+importancia<00:00:25.760><c> del</c><00:00:25.960><c> módulo</c><00:00:26.240><c> de</c><00:00:26.400><c> sistema</c>
+
+00:00:27.070 --> 00:00:27.080 align:start position:0%
+importancia del módulo de sistema
+ 
+
+00:00:27.080 --> 00:00:30.070 align:start position:0%
+importancia del módulo de sistema
+básico.<00:00:28.080><c> El</c><00:00:28.240><c> módulo</c><00:00:28.480><c> de</c><00:00:28.640><c> sistema</c><00:00:29.000><c> básico</c><00:00:29.840><c> es</c>
+
+00:00:30.070 --> 00:00:30.080 align:start position:0%
+básico. El módulo de sistema básico es
+ 
+
+00:00:30.080 --> 00:00:32.709 align:start position:0%
+básico. El módulo de sistema básico es
+el<00:00:30.199><c> módulo</c><00:00:30.720><c> principal</c><00:00:31.560><c> y</c><00:00:31.800><c> la</c><00:00:32.000><c> base</c><00:00:32.320><c> sobre</c><00:00:32.599><c> el</c>
+
+00:00:32.709 --> 00:00:32.719 align:start position:0%
+el módulo principal y la base sobre el
+ 
+
+00:00:32.719 --> 00:00:34.549 align:start position:0%
+el módulo principal y la base sobre el
+cual<00:00:33.120><c> operan</c><00:00:33.480><c> los</c><00:00:33.640><c> demás</c><00:00:33.960><c> módulos</c><00:00:34.320><c> del</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+cual operan los demás módulos del
+ 
+
+00:00:34.559 --> 00:00:37.750 align:start position:0%
+cual operan los demás módulos del
+sistema,<00:00:35.160><c> como</c><00:00:35.440><c> por</c><00:00:35.640><c> ejemplo</c><00:00:36.760><c> contabilidad,</c>
+
+00:00:37.750 --> 00:00:37.760 align:start position:0%
+sistema, como por ejemplo contabilidad,
+ 
+
+00:00:37.760 --> 00:00:39.950 align:start position:0%
+sistema, como por ejemplo contabilidad,
+cartera<00:00:38.160><c> y</c><00:00:38.360><c> proveedores.</c><00:00:39.320><c> Tenemos</c><00:00:39.559><c> el</c><00:00:39.680><c> módulo</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+cartera y proveedores. Tenemos el módulo
+ 
+
+00:00:39.960 --> 00:00:42.790 align:start position:0%
+cartera y proveedores. Tenemos el módulo
+de<00:00:40.399><c> facturación,</c><00:00:41.399><c> inventarios,</c><00:00:42.399><c> el</c><00:00:42.559><c> módulo</c>
+
+00:00:42.790 --> 00:00:42.800 align:start position:0%
+de facturación, inventarios, el módulo
+ 
+
+00:00:42.800 --> 00:00:45.630 align:start position:0%
+de facturación, inventarios, el módulo
+de<00:00:42.920><c> inventarios</c><00:00:43.520><c> plus,</c><00:00:44.440><c> gastos,</c><00:00:45.200><c> el</c><00:00:45.360><c> módulo</c>
+
+00:00:45.630 --> 00:00:45.640 align:start position:0%
+de inventarios plus, gastos, el módulo
+ 
+
+00:00:45.640 --> 00:00:48.709 align:start position:0%
+de inventarios plus, gastos, el módulo
+de<00:00:45.920><c> activos,</c><00:00:46.800><c> el</c><00:00:46.960><c> módulo</c><00:00:47.360><c> de</c><00:00:47.520><c> nómina</c><00:00:48.160><c> y</c><00:00:48.360><c> demás</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+de activos, el módulo de nómina y demás
+ 
+
+00:00:48.719 --> 00:00:50.630 align:start position:0%
+de activos, el módulo de nómina y demás
+módulos<00:00:49.079><c> que</c><00:00:49.199><c> ofrece</c><00:00:49.640><c> contapme,</c><00:00:50.280><c> como</c><00:00:50.480><c> por</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+módulos que ofrece contapme, como por
+ 
+
+00:00:50.640 --> 00:00:52.790 align:start position:0%
+módulos que ofrece contapme, como por
+ejemplo<00:00:51.039><c> costos</c><00:00:51.399><c> de</c><00:00:51.680><c> producción,</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+ejemplo costos de producción,
+ 
+
+00:00:52.800 --> 00:00:55.110 align:start position:0%
+ejemplo costos de producción,
+presupuestos,<00:00:53.800><c> monedas</c><00:00:54.280><c> extranjeras</c><00:00:54.920><c> y</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+presupuestos, monedas extranjeras y
+ 
+
+00:00:55.120 --> 00:00:57.750 align:start position:0%
+presupuestos, monedas extranjeras y
+otros<00:00:55.600><c> módulos.</c><00:00:56.600><c> Este</c><00:00:56.800><c> módulo</c><00:00:57.359><c> es</c><00:00:57.600><c> un</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+otros módulos. Este módulo es un
+ 
+
+00:00:57.760 --> 00:01:00.150 align:start position:0%
+otros módulos. Este módulo es un
+prerequisito<00:00:58.640><c> esencial,</c><00:00:59.359><c> ya</c><00:00:59.559><c> que</c><00:00:59.719><c> contiene</c>
+
+00:01:00.150 --> 00:01:00.160 align:start position:0%
+prerequisito esencial, ya que contiene
+ 
+
+00:01:00.160 --> 00:01:03.029 align:start position:0%
+prerequisito esencial, ya que contiene
+los<00:01:00.440><c> catálogos</c><00:01:01.280><c> principales</c><00:01:02.079><c> que</c><00:01:02.280><c> garantizan</c>
+
+00:01:03.029 --> 00:01:03.039 align:start position:0%
+los catálogos principales que garantizan
+ 
+
+00:01:03.039 --> 00:01:05.670 align:start position:0%
+los catálogos principales que garantizan
+el<00:01:03.280><c> correcto</c><00:01:03.680><c> funcionamiento</c><00:01:04.360><c> del</c><00:01:04.640><c> sistema.</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+el correcto funcionamiento del sistema.
+ 
+
+00:01:05.680 --> 00:01:08.390 align:start position:0%
+el correcto funcionamiento del sistema.
+Además,<00:01:06.320><c> los</c><00:01:06.600><c> catálogos</c><00:01:07.200><c> de</c><00:01:07.400><c> cada</c><00:01:07.680><c> módulo</c>
+
+00:01:08.390 --> 00:01:08.400 align:start position:0%
+Además, los catálogos de cada módulo
+ 
+
+00:01:08.400 --> 00:01:10.870 align:start position:0%
+Además, los catálogos de cada módulo
+siguen<00:01:08.720><c> como</c><00:01:08.960><c> una</c><00:01:09.200><c> estructura</c><00:01:09.960><c> y</c><00:01:10.159><c> una</c><00:01:10.360><c> lógica</c>
+
+00:01:10.870 --> 00:01:10.880 align:start position:0%
+siguen como una estructura y una lógica
+ 
+
+00:01:10.880 --> 00:01:13.510 align:start position:0%
+siguen como una estructura y una lógica
+similar,<00:01:11.360><c> lo</c><00:01:11.520><c> que</c><00:01:11.680><c> facilita</c><00:01:12.520><c> su</c><00:01:12.840><c> comprensión,</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+similar, lo que facilita su comprensión,
+ 
+
+00:01:13.520 --> 00:01:16.070 align:start position:0%
+similar, lo que facilita su comprensión,
+su<00:01:13.720><c> configuración</c><00:01:14.400><c> y</c><00:01:14.600><c> su</c><00:01:14.759><c> uso.</c><00:01:15.400><c> Con</c><00:01:15.600><c> el</c><00:01:15.759><c> módulo</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+su configuración y su uso. Con el módulo
+ 
+
+00:01:16.080 --> 00:01:18.350 align:start position:0%
+su configuración y su uso. Con el módulo
+del<00:01:16.200><c> sistema</c><00:01:16.560><c> básico,</c><00:01:17.280><c> la</c><00:01:17.479><c> empresa</c><00:01:17.880><c> puede</c>
+
+00:01:18.350 --> 00:01:18.360 align:start position:0%
+del sistema básico, la empresa puede
+ 
+
+00:01:18.360 --> 00:01:20.109 align:start position:0%
+del sistema básico, la empresa puede
+gestionar<00:01:19.080><c> y</c><00:01:19.320><c> puede</c><00:01:19.600><c> configurar</c>
+
+00:01:20.109 --> 00:01:20.119 align:start position:0%
+gestionar y puede configurar
+ 
+
+00:01:20.119 --> 00:01:22.990 align:start position:0%
+gestionar y puede configurar
+eficientemente<00:01:20.960><c> su</c><00:01:21.240><c> sistema,</c><00:01:22.159><c> asegurando</c>
+
+00:01:22.990 --> 00:01:23.000 align:start position:0%
+eficientemente su sistema, asegurando
+ 
+
+00:01:23.000 --> 00:01:26.190 align:start position:0%
+eficientemente su sistema, asegurando
+una<00:01:23.280><c> integración</c><00:01:24.079><c> total</c><00:01:24.799><c> entre</c><00:01:25.119><c> las</c><00:01:25.479><c> áreas,</c>
+
+00:01:26.190 --> 00:01:26.200 align:start position:0%
+una integración total entre las áreas,
+ 
+
+00:01:26.200 --> 00:01:28.789 align:start position:0%
+una integración total entre las áreas,
+optimizando<00:01:27.159><c> procesos</c><00:01:27.880><c> y</c><00:01:28.079><c> proporcionando</c>
+
+00:01:28.789 --> 00:01:28.799 align:start position:0%
+optimizando procesos y proporcionando
+ 
+
+00:01:28.799 --> 00:01:31.830 align:start position:0%
+optimizando procesos y proporcionando
+una<00:01:29.040><c> información</c><00:01:29.600><c> precisa</c><00:01:30.159><c> en</c><00:01:30.439><c> tiempo</c><00:01:30.720><c> real.</c>
+
+00:01:31.830 --> 00:01:31.840 align:start position:0%
+una información precisa en tiempo real.
+ 
+
+00:01:31.840 --> 00:01:33.389 align:start position:0%
+una información precisa en tiempo real.
+Ahora<00:01:32.119><c> vamos</c><00:01:32.360><c> a</c><00:01:32.560><c> ver</c><00:01:32.759><c> cuáles</c><00:01:33.079><c> son</c><00:01:33.200><c> los</c>
+
+00:01:33.389 --> 00:01:33.399 align:start position:0%
+Ahora vamos a ver cuáles son los
+ 
+
+00:01:33.399 --> 00:01:35.230 align:start position:0%
+Ahora vamos a ver cuáles son los
+componentes<00:01:34.079><c> principales</c><00:01:34.640><c> del</c><00:01:34.840><c> módulo</c><00:01:35.079><c> de</c>
+
+00:01:35.230 --> 00:01:35.240 align:start position:0%
+componentes principales del módulo de
+ 
+
+00:01:35.240 --> 00:01:37.830 align:start position:0%
+componentes principales del módulo de
+sistema<00:01:35.600><c> básico.</c><00:01:36.560><c> El</c><00:01:36.680><c> módulo</c><00:01:37.119><c> sistema</c><00:01:37.399><c> básico</c>
+
+00:01:37.830 --> 00:01:37.840 align:start position:0%
+sistema básico. El módulo sistema básico
+ 
+
+00:01:37.840 --> 00:01:40.789 align:start position:0%
+sistema básico. El módulo sistema básico
+está<00:01:38.119><c> compuesto</c><00:01:38.640><c> por</c><00:01:38.920><c> seis</c><00:01:39.399><c> elementos</c><00:01:40.040><c> claves</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+está compuesto por seis elementos claves
+ 
+
+00:01:40.799 --> 00:01:43.190 align:start position:0%
+está compuesto por seis elementos claves
+que<00:01:41.079><c> permiten</c><00:01:41.920><c> la</c><00:01:42.200><c> gestión</c><00:01:42.840><c> y</c><00:01:43.040><c> la</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+que permiten la gestión y la
+ 
+
+00:01:43.200 --> 00:01:45.990 align:start position:0%
+que permiten la gestión y la
+configuración<00:01:44.119><c> principal</c><00:01:44.640><c> del</c><00:01:45.000><c> sistema.</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+configuración principal del sistema.
+ 
+
+00:01:46.000 --> 00:01:48.429 align:start position:0%
+configuración principal del sistema.
+Estos<00:01:46.320><c> componentes</c><00:01:47.159><c> son</c><00:01:47.399><c> la</c><00:01:47.600><c> base</c><00:01:47.960><c> sobre</c><00:01:48.280><c> la</c>
+
+00:01:48.429 --> 00:01:48.439 align:start position:0%
+Estos componentes son la base sobre la
+ 
+
+00:01:48.439 --> 00:01:50.830 align:start position:0%
+Estos componentes son la base sobre la
+que<00:01:48.600><c> operan</c><00:01:49.399><c> todos</c><00:01:49.719><c> los</c><00:01:49.920><c> módulos,</c>
+
+00:01:50.830 --> 00:01:50.840 align:start position:0%
+que operan todos los módulos,
+ 
+
+00:01:50.840 --> 00:01:53.230 align:start position:0%
+que operan todos los módulos,
+garantizando<00:01:51.799><c> una</c><00:01:52.079><c> integración</c><00:01:52.840><c> y</c><00:01:53.000><c> una</c>
+
+00:01:53.230 --> 00:01:53.240 align:start position:0%
+garantizando una integración y una
+ 
+
+00:01:53.240 --> 00:01:55.230 align:start position:0%
+garantizando una integración y una
+trazabilidad<00:01:53.920><c> de</c><00:01:54.040><c> la</c><00:01:54.200><c> información</c><00:01:54.880><c> en</c><00:01:55.079><c> la</c>
+
+00:01:55.230 --> 00:01:55.240 align:start position:0%
+trazabilidad de la información en la
+ 
+
+00:01:55.240 --> 00:01:57.069 align:start position:0%
+trazabilidad de la información en la
+empresa.<00:01:56.039><c> ¿Cuáles</c><00:01:56.360><c> son</c><00:01:56.560><c> estos</c><00:01:56.799><c> seis</c>
+
+00:01:57.069 --> 00:01:57.079 align:start position:0%
+empresa. ¿Cuáles son estos seis
+ 
+
+00:01:57.079 --> 00:01:59.590 align:start position:0%
+empresa. ¿Cuáles son estos seis
+componentes?<00:01:58.159><c> Primero</c><00:01:58.600><c> tenemos</c><00:01:59.320><c> el</c>
+
+00:01:59.590 --> 00:01:59.600 align:start position:0%
+componentes? Primero tenemos el
+ 
+
+00:01:59.600 --> 00:02:02.029 align:start position:0%
+componentes? Primero tenemos el
+explorador<00:02:00.280><c> gráfico</c><00:02:00.719><c> de</c><00:02:00.920><c> empresas.</c><00:02:01.840><c> Este</c>
+
+00:02:02.029 --> 00:02:02.039 align:start position:0%
+explorador gráfico de empresas. Este
+ 
+
+00:02:02.039 --> 00:02:04.670 align:start position:0%
+explorador gráfico de empresas. Este
+explorador<00:02:02.640><c> permite</c><00:02:03.280><c> crear</c><00:02:03.600><c> la</c><00:02:03.840><c> empresa</c><00:02:04.439><c> y</c>
+
+00:02:04.670 --> 00:02:04.680 align:start position:0%
+explorador permite crear la empresa y
+ 
+
+00:02:04.680 --> 00:02:07.590 align:start position:0%
+explorador permite crear la empresa y
+definir<00:02:05.119><c> su</c><00:02:05.439><c> estructura</c><00:02:06.600><c> organizacional,</c>
+
+00:02:07.590 --> 00:02:07.600 align:start position:0%
+definir su estructura organizacional,
+ 
+
+00:02:07.600 --> 00:02:10.150 align:start position:0%
+definir su estructura organizacional,
+incluyendo<00:02:08.160><c> los</c><00:02:08.319><c> centros</c><00:02:08.679><c> de</c><00:02:08.879><c> costos.</c><00:02:09.800><c> Otro</c>
+
+00:02:10.150 --> 00:02:10.160 align:start position:0%
+incluyendo los centros de costos. Otro
+ 
+
+00:02:10.160 --> 00:02:13.030 align:start position:0%
+incluyendo los centros de costos. Otro
+componente<00:02:10.679><c> es</c><00:02:10.920><c> el</c><00:02:11.160><c> catálogo</c><00:02:11.720><c> de</c><00:02:12.040><c> terceros.</c>
+
+00:02:13.030 --> 00:02:13.040 align:start position:0%
+componente es el catálogo de terceros.
+ 
+
+00:02:13.040 --> 00:02:15.550 align:start position:0%
+componente es el catálogo de terceros.
+Este<00:02:13.319><c> catálogo</c><00:02:14.160><c> es</c><00:02:14.400><c> la</c><00:02:14.599><c> base</c><00:02:14.840><c> de</c><00:02:15.040><c> datos</c><00:02:15.360><c> donde</c>
+
+00:02:15.550 --> 00:02:15.560 align:start position:0%
+Este catálogo es la base de datos donde
+ 
+
+00:02:15.560 --> 00:02:18.190 align:start position:0%
+Este catálogo es la base de datos donde
+se<00:02:15.720><c> van</c><00:02:15.840><c> a</c><00:02:16.000><c> registrar</c><00:02:16.800><c> todos</c><00:02:17.080><c> los</c><00:02:17.360><c> clientes,</c>
+
+00:02:18.190 --> 00:02:18.200 align:start position:0%
+se van a registrar todos los clientes,
+ 
+
+00:02:18.200 --> 00:02:21.229 align:start position:0%
+se van a registrar todos los clientes,
+los<00:02:18.560><c> proveedores,</c><00:02:19.560><c> los</c><00:02:19.840><c> empleados</c><00:02:20.599><c> y</c><00:02:20.840><c> otros</c>
+
+00:02:21.229 --> 00:02:21.239 align:start position:0%
+los proveedores, los empleados y otros
+ 
+
+00:02:21.239 --> 00:02:22.990 align:start position:0%
+los proveedores, los empleados y otros
+actores<00:02:21.680><c> con</c><00:02:21.879><c> los</c><00:02:22.000><c> que</c><00:02:22.160><c> la</c><00:02:22.319><c> empresa</c><00:02:22.680><c> tiene</c>
+
+00:02:22.990 --> 00:02:23.000 align:start position:0%
+actores con los que la empresa tiene
+ 
+
+00:02:23.000 --> 00:02:25.670 align:start position:0%
+actores con los que la empresa tiene
+relación.<00:02:23.920><c> El</c><00:02:24.120><c> tercer</c><00:02:24.599><c> componente</c><00:02:25.200><c> es</c><00:02:25.440><c> el</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+relación. El tercer componente es el
+ 
+
+00:02:25.680 --> 00:02:27.830 align:start position:0%
+relación. El tercer componente es el
+catálogo<00:02:26.239><c> de</c><00:02:26.440><c> plan</c><00:02:26.640><c> de</c><00:02:26.840><c> cuentas.</c><00:02:27.560><c> que</c>
+
+00:02:27.830 --> 00:02:27.840 align:start position:0%
+catálogo de plan de cuentas. que
+ 
+
+00:02:27.840 --> 00:02:30.270 align:start position:0%
+catálogo de plan de cuentas. que
+contiene<00:02:28.519><c> las</c><00:02:28.840><c> cuentas</c><00:02:29.319><c> contables</c>
+
+00:02:30.270 --> 00:02:30.280 align:start position:0%
+contiene las cuentas contables
+ 
+
+00:02:30.280 --> 00:02:32.869 align:start position:0%
+contiene las cuentas contables
+necesarias<00:02:31.040><c> para</c><00:02:31.360><c> registrar</c><00:02:32.000><c> y</c><00:02:32.239><c> gestionar</c>
+
+00:02:32.869 --> 00:02:32.879 align:start position:0%
+necesarias para registrar y gestionar
+ 
+
+00:02:32.879 --> 00:02:34.430 align:start position:0%
+necesarias para registrar y gestionar
+las<00:02:33.080><c> transacciones</c><00:02:33.720><c> financieras</c><00:02:34.239><c> de</c><00:02:34.360><c> la</c>
+
+00:02:34.430 --> 00:02:34.440 align:start position:0%
+las transacciones financieras de la
+ 
+
+00:02:34.440 --> 00:02:37.110 align:start position:0%
+las transacciones financieras de la
+empresa.<00:02:35.360><c> También</c><00:02:35.720><c> contamos</c><00:02:36.319><c> con</c><00:02:36.560><c> estos</c><00:02:36.840><c> dos</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+empresa. También contamos con estos dos
+ 
+
+00:02:37.120 --> 00:02:39.229 align:start position:0%
+empresa. También contamos con estos dos
+componentes<00:02:37.760><c> que</c><00:02:37.959><c> son</c><00:02:38.400><c> el</c><00:02:38.640><c> catálogo</c><00:02:39.120><c> de</c>
+
+00:02:39.229 --> 00:02:39.239 align:start position:0%
+componentes que son el catálogo de
+ 
+
+00:02:39.239 --> 00:02:41.550 align:start position:0%
+componentes que son el catálogo de
+documentos<00:02:39.720><c> de</c><00:02:39.920><c> soporte</c><00:02:40.680><c> y</c><00:02:40.840><c> el</c><00:02:41.040><c> catálogo</c><00:02:41.440><c> de</c>
+
+00:02:41.550 --> 00:02:41.560 align:start position:0%
+documentos de soporte y el catálogo de
+ 
+
+00:02:41.560 --> 00:02:44.030 align:start position:0%
+documentos de soporte y el catálogo de
+documentos<00:02:42.080><c> de</c><00:02:42.200><c> impresión.</c><00:02:43.280><c> El</c><00:02:43.480><c> catálogo</c><00:02:43.920><c> de</c>
+
+00:02:44.030 --> 00:02:44.040 align:start position:0%
+documentos de impresión. El catálogo de
+ 
+
+00:02:44.040 --> 00:02:46.509 align:start position:0%
+documentos de impresión. El catálogo de
+documentos<00:02:44.560><c> de</c><00:02:44.760><c> soporte</c><00:02:45.360><c> es</c><00:02:45.560><c> el</c><00:02:45.720><c> que</c><00:02:45.879><c> agrupa</c>
+
+00:02:46.509 --> 00:02:46.519 align:start position:0%
+documentos de soporte es el que agrupa
+ 
+
+00:02:46.519 --> 00:02:49.229 align:start position:0%
+documentos de soporte es el que agrupa
+todos<00:02:46.800><c> los</c><00:02:46.959><c> documentos</c><00:02:47.760><c> utilizados</c><00:02:48.760><c> como</c>
+
+00:02:49.229 --> 00:02:49.239 align:start position:0%
+todos los documentos utilizados como
+ 
+
+00:02:49.239 --> 00:02:51.509 align:start position:0%
+todos los documentos utilizados como
+respaldo<00:02:49.760><c> de</c><00:02:49.920><c> las</c><00:02:50.159><c> operaciones</c><00:02:50.840><c> y</c><00:02:51.120><c> registros</c>
+
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+respaldo de las operaciones y registros
+ 
+
+00:02:51.519 --> 00:02:53.470 align:start position:0%
+respaldo de las operaciones y registros
+diarios<00:02:51.920><c> de</c><00:02:52.040><c> la</c><00:02:52.120><c> empresa,</c><00:02:52.800><c> mientras</c><00:02:53.159><c> que</c><00:02:53.319><c> el</c>
+
+00:02:53.470 --> 00:02:53.480 align:start position:0%
+diarios de la empresa, mientras que el
+ 
+
+00:02:53.480 --> 00:02:55.190 align:start position:0%
+diarios de la empresa, mientras que el
+catálogo<00:02:53.840><c> de</c><00:02:53.920><c> documentos</c><00:02:54.400><c> de</c><00:02:54.560><c> impresión</c>
+
+00:02:55.190 --> 00:02:55.200 align:start position:0%
+catálogo de documentos de impresión
+ 
+
+00:02:55.200 --> 00:02:58.710 align:start position:0%
+catálogo de documentos de impresión
+permite<00:02:56.200><c> imprimir</c><00:02:56.879><c> o</c><00:02:57.080><c> enviar</c><00:02:57.440><c> por</c><00:02:57.680><c> correo</c><00:02:58.480><c> los</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+permite imprimir o enviar por correo los
+ 
+
+00:02:58.720 --> 00:03:00.589 align:start position:0%
+permite imprimir o enviar por correo los
+documentos<00:02:59.319><c> de</c><00:02:59.480><c> las</c><00:02:59.720><c> operaciones</c>
+
+00:03:00.589 --> 00:03:00.599 align:start position:0%
+documentos de las operaciones
+ 
+
+00:03:00.599 --> 00:03:02.990 align:start position:0%
+documentos de las operaciones
+registradas<00:03:01.200><c> en</c><00:03:01.319><c> el</c><00:03:01.519><c> sistema</c><00:03:02.120><c> y</c><00:03:02.400><c> personalizar</c>
+
+00:03:02.990 --> 00:03:03.000 align:start position:0%
+registradas en el sistema y personalizar
+ 
+
+00:03:03.000 --> 00:03:05.390 align:start position:0%
+registradas en el sistema y personalizar
+su<00:03:03.200><c> diseño.</c><00:03:04.040><c> Y</c><00:03:04.200><c> por</c><00:03:04.360><c> último</c><00:03:04.720><c> tenemos</c><00:03:05.200><c> el</c>
+
+00:03:05.390 --> 00:03:05.400 align:start position:0%
+su diseño. Y por último tenemos el
+ 
+
+00:03:05.400 --> 00:03:07.789 align:start position:0%
+su diseño. Y por último tenemos el
+manejador<00:03:05.879><c> de</c><00:03:06.080><c> operaciones,</c><00:03:06.959><c> que</c><00:03:07.120><c> es</c><00:03:07.319><c> como</c><00:03:07.560><c> el</c>
+
+00:03:07.789 --> 00:03:07.799 align:start position:0%
+manejador de operaciones, que es como el
+ 
+
+00:03:07.799 --> 00:03:09.630 align:start position:0%
+manejador de operaciones, que es como el
+núcleo<00:03:08.400><c> del</c><00:03:08.760><c> registro</c><00:03:09.120><c> de</c><00:03:09.239><c> la</c><00:03:09.319><c> actividad</c>
+
+00:03:09.630 --> 00:03:09.640 align:start position:0%
+núcleo del registro de la actividad
+ 
+
+00:03:09.640 --> 00:03:11.750 align:start position:0%
+núcleo del registro de la actividad
+diarrea<00:03:09.959><c> de</c><00:03:10.080><c> la</c><00:03:10.159><c> empresa,</c><00:03:11.000><c> donde</c><00:03:11.319><c> se</c><00:03:11.480><c> van</c><00:03:11.640><c> a</c>
+
+00:03:11.750 --> 00:03:11.760 align:start position:0%
+diarrea de la empresa, donde se van a
+ 
+
+00:03:11.760 --> 00:03:14.229 align:start position:0%
+diarrea de la empresa, donde se van a
+documentar<00:03:12.599><c> todas</c><00:03:12.920><c> las</c><00:03:13.159><c> transacciones</c><00:03:14.000><c> y</c>
+
+00:03:14.229 --> 00:03:14.239 align:start position:0%
+documentar todas las transacciones y
+ 
+
+00:03:14.239 --> 00:03:16.390 align:start position:0%
+documentar todas las transacciones y
+eventos<00:03:14.680><c> administrativos.</c><00:03:16.080><c> Estos</c>
+
+00:03:16.390 --> 00:03:16.400 align:start position:0%
+eventos administrativos. Estos
+ 
+
+00:03:16.400 --> 00:03:18.789 align:start position:0%
+eventos administrativos. Estos
+componentes<00:03:17.080><c> principales</c><00:03:17.840><c> trabajan</c><00:03:18.400><c> juntos</c>
+
+00:03:18.789 --> 00:03:18.799 align:start position:0%
+componentes principales trabajan juntos
+ 
+
+00:03:18.799 --> 00:03:21.550 align:start position:0%
+componentes principales trabajan juntos
+para<00:03:19.040><c> asegurar</c><00:03:19.560><c> que</c><00:03:19.760><c> el</c><00:03:20.000><c> sistema</c><00:03:20.840><c> funcione</c><00:03:21.360><c> de</c>
+
+00:03:21.550 --> 00:03:21.560 align:start position:0%
+para asegurar que el sistema funcione de
+ 
+
+00:03:21.560 --> 00:03:23.949 align:start position:0%
+para asegurar que el sistema funcione de
+manera<00:03:22.200><c> integrada,</c><00:03:23.120><c> optimizando</c><00:03:23.799><c> la</c>
+
+00:03:23.949 --> 00:03:23.959 align:start position:0%
+manera integrada, optimizando la
+ 
+
+00:03:23.959 --> 00:03:25.630 align:start position:0%
+manera integrada, optimizando la
+administración<00:03:24.720><c> y</c><00:03:24.920><c> el</c><00:03:25.080><c> control</c><00:03:25.400><c> de</c><00:03:25.560><c> la</c>
+
+00:03:25.630 --> 00:03:25.640 align:start position:0%
+administración y el control de la
+ 
+
+00:03:25.640 --> 00:03:27.710 align:start position:0%
+administración y el control de la
+empresa.<00:03:26.400><c> En</c><00:03:26.519><c> las</c><00:03:26.640><c> siguientes</c><00:03:27.000><c> diapositivas</c>
+
+00:03:27.710 --> 00:03:27.720 align:start position:0%
+empresa. En las siguientes diapositivas
+ 
+
+00:03:27.720 --> 00:03:29.830 align:start position:0%
+empresa. En las siguientes diapositivas
+vamos<00:03:27.920><c> a</c><00:03:28.080><c> ver</c><00:03:28.239><c> con</c><00:03:28.439><c> más</c><00:03:28.640><c> detalle</c><00:03:29.239><c> cada</c><00:03:29.519><c> uno</c><00:03:29.720><c> de</c>
+
+00:03:29.830 --> 00:03:29.840 align:start position:0%
+vamos a ver con más detalle cada uno de
+ 
+
+00:03:29.840 --> 00:03:32.110 align:start position:0%
+vamos a ver con más detalle cada uno de
+estos<00:03:30.480><c> componentes.</c><00:03:31.480><c> Vamos</c><00:03:31.760><c> entonces</c><00:03:32.000><c> a</c>
+
+00:03:32.110 --> 00:03:32.120 align:start position:0%
+estos componentes. Vamos entonces a
+ 
+
+00:03:32.120 --> 00:03:34.350 align:start position:0%
+estos componentes. Vamos entonces a
+iniciar<00:03:32.519><c> con</c><00:03:32.920><c> el</c><00:03:33.159><c> explorador</c><00:03:33.760><c> gráfico</c><00:03:34.159><c> de</c>
+
+00:03:34.350 --> 00:03:34.360 align:start position:0%
+iniciar con el explorador gráfico de
+ 
+
+00:03:34.360 --> 00:03:36.869 align:start position:0%
+iniciar con el explorador gráfico de
+empresas.<00:03:35.480><c> Este</c><00:03:35.720><c> explorador</c><00:03:36.439><c> es</c><00:03:36.720><c> una</c>
+
+00:03:36.869 --> 00:03:36.879 align:start position:0%
+empresas. Este explorador es una
+ 
+
+00:03:36.879 --> 00:03:38.670 align:start position:0%
+empresas. Este explorador es una
+herramienta<00:03:37.360><c> clave</c><00:03:37.640><c> del</c><00:03:37.799><c> módulo</c><00:03:38.120><c> de</c><00:03:38.239><c> sistema</c>
+
+00:03:38.670 --> 00:03:38.680 align:start position:0%
+herramienta clave del módulo de sistema
+ 
+
+00:03:38.680 --> 00:03:41.670 align:start position:0%
+herramienta clave del módulo de sistema
+básico<00:03:39.519><c> que</c><00:03:39.799><c> permite</c><00:03:40.439><c> representar</c><00:03:41.400><c> la</c>
+
+00:03:41.670 --> 00:03:41.680 align:start position:0%
+básico que permite representar la
+ 
+
+00:03:41.680 --> 00:03:44.589 align:start position:0%
+básico que permite representar la
+estructura<00:03:42.200><c> de</c><00:03:42.400><c> la</c><00:03:42.519><c> empresa</c><00:03:43.400><c> organizando</c><00:03:44.400><c> sus</c>
+
+00:03:44.589 --> 00:03:44.599 align:start position:0%
+estructura de la empresa organizando sus
+ 
+
+00:03:44.599 --> 00:03:47.429 align:start position:0%
+estructura de la empresa organizando sus
+sedes<00:03:45.000><c> y</c><00:03:45.200><c> sus</c><00:03:45.400><c> centros</c><00:03:45.760><c> de</c><00:03:46.000><c> costos.</c><00:03:47.000><c> A</c><00:03:47.200><c> través</c>
+
+00:03:47.429 --> 00:03:47.439 align:start position:0%
+sedes y sus centros de costos. A través
+ 
+
+00:03:47.439 --> 00:03:49.869 align:start position:0%
+sedes y sus centros de costos. A través
+de<00:03:47.640><c> esta</c><00:03:47.879><c> funcionalidad</c><00:03:48.640><c> podemos</c><00:03:49.000><c> reflejar</c>
+
+00:03:49.869 --> 00:03:49.879 align:start position:0%
+de esta funcionalidad podemos reflejar
+ 
+
+00:03:49.879 --> 00:03:52.110 align:start position:0%
+de esta funcionalidad podemos reflejar
+como<00:03:50.120><c> la</c><00:03:50.360><c> realidad</c><00:03:50.799><c> de</c><00:03:50.959><c> la</c><00:03:51.120><c> empresa</c><00:03:51.720><c> dentro</c>
+
+00:03:52.110 --> 00:03:52.120 align:start position:0%
+como la realidad de la empresa dentro
+ 
+
+00:03:52.120 --> 00:03:55.149 align:start position:0%
+como la realidad de la empresa dentro
+del<00:03:52.439><c> sistema</c><00:03:52.879><c> facilitando</c><00:03:53.799><c> el</c><00:03:54.120><c> registro</c><00:03:54.720><c> y</c><00:03:54.920><c> el</c>
+
+00:03:55.149 --> 00:03:55.159 align:start position:0%
+del sistema facilitando el registro y el
+ 
+
+00:03:55.159 --> 00:03:57.350 align:start position:0%
+del sistema facilitando el registro y el
+control<00:03:55.439><c> de</c><00:03:55.599><c> la</c><00:03:55.760><c> información</c><00:03:56.560><c> contable,</c>
+
+00:03:57.350 --> 00:03:57.360 align:start position:0%
+control de la información contable,
+ 
+
+00:03:57.360 --> 00:03:59.910 align:start position:0%
+control de la información contable,
+administrativa<00:03:58.239><c> y</c><00:03:58.439><c> operativa.</c><00:03:59.360><c> Veamos,</c><00:03:59.799><c> por</c>
+
+00:03:59.910 --> 00:03:59.920 align:start position:0%
+administrativa y operativa. Veamos, por
+ 
+
+00:03:59.920 --> 00:04:01.670 align:start position:0%
+administrativa y operativa. Veamos, por
+ejemplo,<00:04:00.280><c> una</c><00:04:00.439><c> estructura</c><00:04:00.920><c> básica</c><00:04:01.319><c> de</c><00:04:01.480><c> una</c>
+
+00:04:01.670 --> 00:04:01.680 align:start position:0%
+ejemplo, una estructura básica de una
+ 
+
+00:04:01.680 --> 00:04:03.670 align:start position:0%
+ejemplo, una estructura básica de una
+empresa.<00:04:02.439><c> Primero</c><00:04:02.760><c> vamos</c><00:04:02.959><c> a</c><00:04:03.120><c> tener</c><00:04:03.319><c> lo</c><00:04:03.480><c> que</c><00:04:03.560><c> es</c>
+
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+empresa. Primero vamos a tener lo que es
+ 
+
+00:04:03.680 --> 00:04:06.670 align:start position:0%
+empresa. Primero vamos a tener lo que es
+la<00:04:03.840><c> empresa,</c><00:04:04.360><c> en</c><00:04:04.560><c> este</c><00:04:04.840><c> caso</c><00:04:05.319><c> CMB,</c><00:04:06.120><c> muebles</c><00:04:06.560><c> y</c>
+
+00:04:06.670 --> 00:04:06.680 align:start position:0%
+la empresa, en este caso CMB, muebles y
+ 
+
+00:04:06.680 --> 00:04:09.869 align:start position:0%
+la empresa, en este caso CMB, muebles y
+hogar.<00:04:07.319><c> Esta</c><00:04:07.959><c> empresa</c><00:04:08.519><c> tiene</c><00:04:09.120><c> una</c><00:04:09.439><c> sede</c>
+
+00:04:09.869 --> 00:04:09.879 align:start position:0%
+hogar. Esta empresa tiene una sede
+ 
+
+00:04:09.879 --> 00:04:13.550 align:start position:0%
+hogar. Esta empresa tiene una sede
+principal<00:04:10.799><c> y</c><00:04:11.079><c> dentro</c><00:04:11.400><c> de</c><00:04:11.720><c> ella</c><00:04:12.319><c> podemos</c><00:04:12.840><c> tener</c>
+
+00:04:13.550 --> 00:04:13.560 align:start position:0%
+principal y dentro de ella podemos tener
+ 
+
+00:04:13.560 --> 00:04:16.349 align:start position:0%
+principal y dentro de ella podemos tener
+un<00:04:13.879><c> centro</c><00:04:14.239><c> de</c><00:04:14.480><c> costos</c><00:04:15.000><c> para</c><00:04:15.360><c> controlar</c><00:04:16.079><c> los</c>
+
+00:04:16.349 --> 00:04:16.359 align:start position:0%
+un centro de costos para controlar los
+ 
+
+00:04:16.359 --> 00:04:18.870 align:start position:0%
+un centro de costos para controlar los
+gastos<00:04:16.759><c> generales</c><00:04:17.239><c> de</c><00:04:17.400><c> la</c><00:04:17.519><c> empresa.</c><00:04:18.479><c> También</c>
+
+00:04:18.870 --> 00:04:18.880 align:start position:0%
+gastos generales de la empresa. También
+ 
+
+00:04:18.880 --> 00:04:21.390 align:start position:0%
+gastos generales de la empresa. También
+se<00:04:19.120><c> pueden</c><00:04:19.440><c> crear</c><00:04:19.959><c> diferentes</c><00:04:20.600><c> agrupadores</c>
+
+00:04:21.390 --> 00:04:21.400 align:start position:0%
+se pueden crear diferentes agrupadores
+ 
+
+00:04:21.400 --> 00:04:23.150 align:start position:0%
+se pueden crear diferentes agrupadores
+como<00:04:21.600><c> por</c><00:04:21.759><c> ejemplo</c><00:04:22.280><c> el</c><00:04:22.479><c> departamento</c>
+
+00:04:23.150 --> 00:04:23.160 align:start position:0%
+como por ejemplo el departamento
+ 
+
+00:04:23.160 --> 00:04:25.270 align:start position:0%
+como por ejemplo el departamento
+administrativo<00:04:24.160><c> y</c><00:04:24.320><c> el</c><00:04:24.479><c> departamento</c>
+
+00:04:25.270 --> 00:04:25.280 align:start position:0%
+administrativo y el departamento
+ 
+
+00:04:25.280 --> 00:04:27.790 align:start position:0%
+administrativo y el departamento
+comercial.<00:04:26.240><c> Y</c><00:04:26.440><c> cada</c><00:04:26.720><c> departamento</c><00:04:27.560><c> puede</c>
+
+00:04:27.790 --> 00:04:27.800 align:start position:0%
+comercial. Y cada departamento puede
+ 
+
+00:04:27.800 --> 00:04:30.310 align:start position:0%
+comercial. Y cada departamento puede
+estar<00:04:28.080><c> compuesto</c><00:04:28.639><c> por</c><00:04:29.160><c> varios</c><00:04:29.639><c> centros</c><00:04:30.080><c> de</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+estar compuesto por varios centros de
+ 
+
+00:04:30.320 --> 00:04:33.510 align:start position:0%
+estar compuesto por varios centros de
+costos,<00:04:31.160><c> permitiendo</c><00:04:31.720><c> así</c><00:04:32.240><c> clasificar</c><00:04:33.240><c> y</c>
+
+00:04:33.510 --> 00:04:33.520 align:start position:0%
+costos, permitiendo así clasificar y
+ 
+
+00:04:33.520 --> 00:04:36.029 align:start position:0%
+costos, permitiendo así clasificar y
+gestionar<00:04:34.240><c> los</c><00:04:34.520><c> gastos</c><00:04:35.080><c> y</c><00:04:35.280><c> las</c><00:04:35.520><c> operaciones</c>
+
+00:04:36.029 --> 00:04:36.039 align:start position:0%
+gestionar los gastos y las operaciones
+ 
+
+00:04:36.039 --> 00:04:38.629 align:start position:0%
+gestionar los gastos y las operaciones
+de<00:04:36.240><c> manera</c><00:04:36.880><c> organizada.</c><00:04:37.880><c> Y</c><00:04:38.080><c> esta</c><00:04:38.360><c> misma</c>
+
+00:04:38.629 --> 00:04:38.639 align:start position:0%
+de manera organizada. Y esta misma
+ 
+
+00:04:38.639 --> 00:04:40.790 align:start position:0%
+de manera organizada. Y esta misma
+estructura<00:04:39.160><c> la</c><00:04:39.400><c> podemos</c><00:04:39.840><c> crear</c><00:04:40.360><c> en</c><00:04:40.600><c> el</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+estructura la podemos crear en el
+ 
+
+00:04:40.800 --> 00:04:43.110 align:start position:0%
+estructura la podemos crear en el
+sistema.<00:04:41.720><c> Con</c><00:04:42.039><c> esta</c><00:04:42.240><c> estructura</c><00:04:42.720><c> se</c><00:04:42.880><c> pueden</c>
+
+00:04:43.110 --> 00:04:43.120 align:start position:0%
+sistema. Con esta estructura se pueden
+ 
+
+00:04:43.120 --> 00:04:46.270 align:start position:0%
+sistema. Con esta estructura se pueden
+generar<00:04:43.919><c> informes</c><00:04:44.320><c> detallados</c><00:04:44.919><c> por</c><00:04:45.280><c> empresa,</c>
+
+00:04:46.270 --> 00:04:46.280 align:start position:0%
+generar informes detallados por empresa,
+ 
+
+00:04:46.280 --> 00:04:49.430 align:start position:0%
+generar informes detallados por empresa,
+por<00:04:46.560><c> sede,</c><00:04:47.320><c> por</c><00:04:47.600><c> departamento</c><00:04:48.600><c> o</c><00:04:48.800><c> por</c><00:04:49.080><c> centro</c>
+
+00:04:49.430 --> 00:04:49.440 align:start position:0%
+por sede, por departamento o por centro
+ 
+
+00:04:49.440 --> 00:04:51.790 align:start position:0%
+por sede, por departamento o por centro
+de<00:04:49.639><c> costos,</c><00:04:50.280><c> lo</c><00:04:50.440><c> que</c><00:04:50.600><c> nos</c><00:04:50.840><c> facilita</c><00:04:51.400><c> la</c><00:04:51.600><c> toma</c>
+
+00:04:51.790 --> 00:04:51.800 align:start position:0%
+de costos, lo que nos facilita la toma
+ 
+
+00:04:51.800 --> 00:04:53.830 align:start position:0%
+de costos, lo que nos facilita la toma
+de<00:04:51.919><c> decisiones</c><00:04:52.400><c> y</c><00:04:52.560><c> el</c><00:04:52.720><c> control</c><00:04:53.080><c> financiero.</c>
+
+00:04:53.830 --> 00:04:53.840 align:start position:0%
+de decisiones y el control financiero.
+ 
+
+00:04:53.840 --> 00:04:55.350 align:start position:0%
+de decisiones y el control financiero.
+Por<00:04:53.960><c> ejemplo,</c><00:04:54.280><c> si</c><00:04:54.440><c> la</c><00:04:54.600><c> empresa</c><00:04:54.919><c> quisiera</c>
+
+00:04:55.350 --> 00:04:55.360 align:start position:0%
+Por ejemplo, si la empresa quisiera
+ 
+
+00:04:55.360 --> 00:04:57.670 align:start position:0%
+Por ejemplo, si la empresa quisiera
+saber<00:04:56.199><c> cuánto</c><00:04:56.560><c> se</c><00:04:56.720><c> ha</c><00:04:56.880><c> gastado</c><00:04:57.280><c> en</c><00:04:57.440><c> el</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+saber cuánto se ha gastado en el
+ 
+
+00:04:57.680 --> 00:05:00.670 align:start position:0%
+saber cuánto se ha gastado en el
+personal,<00:04:58.560><c> puede</c><00:04:58.880><c> consultar</c><00:04:59.680><c> un</c><00:05:00.000><c> informe</c>
+
+00:05:00.670 --> 00:05:00.680 align:start position:0%
+personal, puede consultar un informe
+ 
+
+00:05:00.680 --> 00:05:02.590 align:start position:0%
+personal, puede consultar un informe
+solo<00:05:01.000><c> para</c><00:05:01.280><c> ese</c><00:05:01.520><c> centro</c><00:05:01.840><c> de</c><00:05:02.039><c> costos,</c><00:05:02.400><c> sin</c>
+
+00:05:02.590 --> 00:05:02.600 align:start position:0%
+solo para ese centro de costos, sin
+ 
+
+00:05:02.600 --> 00:05:04.550 align:start position:0%
+solo para ese centro de costos, sin
+necesidad<00:05:03.000><c> de</c><00:05:03.120><c> revisar</c><00:05:03.639><c> toda</c><00:05:03.880><c> la</c><00:05:04.080><c> información</c>
+
+00:05:04.550 --> 00:05:04.560 align:start position:0%
+necesidad de revisar toda la información
+ 
+
+00:05:04.560 --> 00:05:06.990 align:start position:0%
+necesidad de revisar toda la información
+en<00:05:04.720><c> general.</c><00:05:05.680><c> Ahora</c><00:05:05.960><c> vamos</c><00:05:06.160><c> a</c><00:05:06.360><c> ver</c><00:05:06.639><c> otro</c>
+
+00:05:06.990 --> 00:05:07.000 align:start position:0%
+en general. Ahora vamos a ver otro
+ 
+
+00:05:07.000 --> 00:05:09.350 align:start position:0%
+en general. Ahora vamos a ver otro
+componente<00:05:07.560><c> que</c><00:05:07.759><c> es</c><00:05:08.160><c> el</c><00:05:08.560><c> catálogo</c><00:05:09.120><c> de</c>
+
+00:05:09.350 --> 00:05:09.360 align:start position:0%
+componente que es el catálogo de
+ 
+
+00:05:09.360 --> 00:05:12.550 align:start position:0%
+componente que es el catálogo de
+terceros.<00:05:10.759><c> Este</c><00:05:11.000><c> catálogo</c><00:05:11.800><c> es</c><00:05:12.000><c> la</c><00:05:12.199><c> base</c><00:05:12.400><c> de</c>
+
+00:05:12.550 --> 00:05:12.560 align:start position:0%
+terceros. Este catálogo es la base de
+ 
+
+00:05:12.560 --> 00:05:15.350 align:start position:0%
+terceros. Este catálogo es la base de
+datos<00:05:13.160><c> centralizada</c><00:05:14.160><c> donde</c><00:05:14.440><c> se</c><00:05:14.680><c> registran</c>
+
+00:05:15.350 --> 00:05:15.360 align:start position:0%
+datos centralizada donde se registran
+ 
+
+00:05:15.360 --> 00:05:17.390 align:start position:0%
+datos centralizada donde se registran
+todas<00:05:15.680><c> las</c><00:05:16.000><c> personas</c><00:05:16.560><c> y</c><00:05:16.800><c> entidades</c><00:05:17.199><c> que</c>
+
+00:05:17.390 --> 00:05:17.400 align:start position:0%
+todas las personas y entidades que
+ 
+
+00:05:17.400 --> 00:05:19.550 align:start position:0%
+todas las personas y entidades que
+tienen<00:05:17.720><c> relación</c><00:05:18.080><c> con</c><00:05:18.240><c> la</c><00:05:18.400><c> empresa</c><00:05:19.039><c> y</c><00:05:19.280><c> cada</c>
+
+00:05:19.550 --> 00:05:19.560 align:start position:0%
+tienen relación con la empresa y cada
+ 
+
+00:05:19.560 --> 00:05:22.070 align:start position:0%
+tienen relación con la empresa y cada
+tercero<00:05:20.000><c> se</c><00:05:20.199><c> puede</c><00:05:20.440><c> clasificar</c><00:05:21.319><c> según</c><00:05:21.639><c> su</c><00:05:21.800><c> rol</c>
+
+00:05:22.070 --> 00:05:22.080 align:start position:0%
+tercero se puede clasificar según su rol
+ 
+
+00:05:22.080 --> 00:05:24.990 align:start position:0%
+tercero se puede clasificar según su rol
+en<00:05:22.240><c> la</c><00:05:22.400><c> empresa,</c><00:05:22.919><c> como</c><00:05:23.120><c> por</c><00:05:23.400><c> ejemplo</c><00:05:24.400><c> clientes</c>
+
+00:05:24.990 --> 00:05:25.000 align:start position:0%
+en la empresa, como por ejemplo clientes
+ 
+
+00:05:25.000 --> 00:05:28.350 align:start position:0%
+en la empresa, como por ejemplo clientes
+y<00:05:25.360><c> proveedores,</c><00:05:26.360><c> tenemos</c><00:05:26.919><c> vendedores</c><00:05:27.680><c> y</c>
+
+00:05:28.350 --> 00:05:28.360 align:start position:0%
+y proveedores, tenemos vendedores y
+ 
+
+00:05:28.360 --> 00:05:31.230 align:start position:0%
+y proveedores, tenemos vendedores y
+empleados,<00:05:29.360><c> los</c><00:05:29.680><c> bancos,</c><00:05:30.639><c> entidades</c>
+
+00:05:31.230 --> 00:05:31.240 align:start position:0%
+empleados, los bancos, entidades
+ 
+
+00:05:31.240 --> 00:05:33.790 align:start position:0%
+empleados, los bancos, entidades
+estatales<00:05:32.080><c> y</c><00:05:32.319><c> otros</c><00:05:32.720><c> terceros.</c><00:05:33.600><c> Este</c>
+
+00:05:33.790 --> 00:05:33.800 align:start position:0%
+estatales y otros terceros. Este
+ 
+
+00:05:33.800 --> 00:05:35.909 align:start position:0%
+estatales y otros terceros. Este
+catálogo<00:05:34.319><c> nos</c><00:05:34.520><c> va</c><00:05:34.600><c> a</c><00:05:34.680><c> permitir</c><00:05:35.080><c> gestionar</c><00:05:35.680><c> de</c>
+
+00:05:35.909 --> 00:05:35.919 align:start position:0%
+catálogo nos va a permitir gestionar de
+ 
+
+00:05:35.919 --> 00:05:38.710 align:start position:0%
+catálogo nos va a permitir gestionar de
+manera<00:05:36.600><c> organizada</c><00:05:37.520><c> la</c><00:05:37.759><c> información</c><00:05:38.199><c> de</c><00:05:38.479><c> cada</c>
+
+00:05:38.710 --> 00:05:38.720 align:start position:0%
+manera organizada la información de cada
+ 
+
+00:05:38.720 --> 00:05:41.070 align:start position:0%
+manera organizada la información de cada
+tercero,<00:05:39.720><c> incluyendo</c><00:05:40.280><c> todos</c><00:05:40.520><c> los</c><00:05:40.680><c> datos</c>
+
+00:05:41.070 --> 00:05:41.080 align:start position:0%
+tercero, incluyendo todos los datos
+ 
+
+00:05:41.080 --> 00:05:43.710 align:start position:0%
+tercero, incluyendo todos los datos
+personales,<00:05:42.000><c> los</c><00:05:42.199><c> datos</c><00:05:42.479><c> de</c><00:05:42.720><c> contacto</c><00:05:43.440><c> y</c>
+
+00:05:43.710 --> 00:05:43.720 align:start position:0%
+personales, los datos de contacto y
+ 
+
+00:05:43.720 --> 00:05:45.710 align:start position:0%
+personales, los datos de contacto y
+cualquier<00:05:44.160><c> otro</c><00:05:44.400><c> detalle</c><00:05:44.800><c> relevante</c><00:05:45.319><c> para</c><00:05:45.560><c> la</c>
+
+00:05:45.710 --> 00:05:45.720 align:start position:0%
+cualquier otro detalle relevante para la
+ 
+
+00:05:45.720 --> 00:05:47.950 align:start position:0%
+cualquier otro detalle relevante para la
+empresa.<00:05:46.319><c> Y</c><00:05:46.520><c> toda</c><00:05:46.720><c> la</c><00:05:46.919><c> información</c><00:05:47.520><c> de</c><00:05:47.759><c> los</c>
+
+00:05:47.950 --> 00:05:47.960 align:start position:0%
+empresa. Y toda la información de los
+ 
+
+00:05:47.960 --> 00:05:50.110 align:start position:0%
+empresa. Y toda la información de los
+terceros<00:05:48.440><c> va</c><00:05:48.600><c> a</c><00:05:48.639><c> quedar</c><00:05:48.960><c> almacenada</c><00:05:49.759><c> en</c><00:05:49.960><c> un</c>
+
+00:05:50.110 --> 00:05:50.120 align:start position:0%
+terceros va a quedar almacenada en un
+ 
+
+00:05:50.120 --> 00:05:52.990 align:start position:0%
+terceros va a quedar almacenada en un
+solo<00:05:50.440><c> lugar,</c><00:05:51.039><c> lo</c><00:05:51.199><c> que</c><00:05:51.400><c> facilita</c><00:05:52.039><c> la</c><00:05:52.319><c> consulta</c>
+
+00:05:52.990 --> 00:05:53.000 align:start position:0%
+solo lugar, lo que facilita la consulta
+ 
+
+00:05:53.000 --> 00:05:55.150 align:start position:0%
+solo lugar, lo que facilita la consulta
+y<00:05:53.160><c> el</c><00:05:53.319><c> uso</c><00:05:53.600><c> en</c><00:05:53.840><c> diferentes</c><00:05:54.360><c> operaciones</c><00:05:54.919><c> del</c>
+
+00:05:55.150 --> 00:05:55.160 align:start position:0%
+y el uso en diferentes operaciones del
+ 
+
+00:05:55.160 --> 00:05:57.749 align:start position:0%
+y el uso en diferentes operaciones del
+sistema.<00:05:56.160><c> Nuestro</c><00:05:56.479><c> siguiente</c><00:05:57.000><c> componente</c><00:05:57.520><c> es</c>
+
+00:05:57.749 --> 00:05:57.759 align:start position:0%
+sistema. Nuestro siguiente componente es
+ 
+
+00:05:57.759 --> 00:06:00.150 align:start position:0%
+sistema. Nuestro siguiente componente es
+el<00:05:58.000><c> catálogo</c><00:05:58.479><c> de</c><00:05:58.680><c> plan</c><00:05:58.880><c> de</c><00:05:59.039><c> cuentas.</c><00:05:59.960><c> El</c>
+
+00:06:00.150 --> 00:06:00.160 align:start position:0%
+el catálogo de plan de cuentas. El
+ 
+
+00:06:00.160 --> 00:06:02.270 align:start position:0%
+el catálogo de plan de cuentas. El
+catálogo<00:06:00.639><c> de</c><00:06:00.840><c> plan</c><00:06:01.000><c> de</c><00:06:01.199><c> cuentas</c><00:06:01.720><c> contiene</c>
+
+00:06:02.270 --> 00:06:02.280 align:start position:0%
+catálogo de plan de cuentas contiene
+ 
+
+00:06:02.280 --> 00:06:04.309 align:start position:0%
+catálogo de plan de cuentas contiene
+todas<00:06:02.560><c> las</c><00:06:02.759><c> cuentas</c><00:06:03.240><c> contables</c><00:06:03.960><c> que</c><00:06:04.120><c> se</c>
+
+00:06:04.309 --> 00:06:04.319 align:start position:0%
+todas las cuentas contables que se
+ 
+
+00:06:04.319 --> 00:06:05.790 align:start position:0%
+todas las cuentas contables que se
+utilizan<00:06:04.800><c> para</c><00:06:05.120><c> registrar</c><00:06:05.600><c> las</c>
+
+00:06:05.790 --> 00:06:05.800 align:start position:0%
+utilizan para registrar las
+ 
+
+00:06:05.800 --> 00:06:07.950 align:start position:0%
+utilizan para registrar las
+transacciones<00:06:06.400><c> diarias</c><00:06:06.759><c> de</c><00:06:06.880><c> la</c><00:06:06.960><c> empresa.</c><00:06:07.759><c> El</c>
+
+00:06:07.950 --> 00:06:07.960 align:start position:0%
+transacciones diarias de la empresa. El
+ 
+
+00:06:07.960 --> 00:06:10.110 align:start position:0%
+transacciones diarias de la empresa. El
+sistema<00:06:08.840><c> incluye</c><00:06:09.199><c> un</c><00:06:09.360><c> catálogo</c>
+
+00:06:10.110 --> 00:06:10.120 align:start position:0%
+sistema incluye un catálogo
+ 
+
+00:06:10.120 --> 00:06:12.830 align:start position:0%
+sistema incluye un catálogo
+preconfigurado<00:06:10.960><c> que</c><00:06:11.199><c> puede</c><00:06:11.520><c> ser</c><00:06:12.039><c> ajustado</c><00:06:12.680><c> a</c>
+
+00:06:12.830 --> 00:06:12.840 align:start position:0%
+preconfigurado que puede ser ajustado a
+ 
+
+00:06:12.840 --> 00:06:14.790 align:start position:0%
+preconfigurado que puede ser ajustado a
+las<00:06:13.039><c> necesidades</c><00:06:13.599><c> de</c><00:06:13.759><c> la</c><00:06:13.880><c> empresa,</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+las necesidades de la empresa,
+ 
+
+00:06:14.800 --> 00:06:16.749 align:start position:0%
+las necesidades de la empresa,
+permitiendo<00:06:15.400><c> la</c><00:06:15.599><c> creación</c><00:06:16.160><c> de</c><00:06:16.360><c> cuentas</c>
+
+00:06:16.749 --> 00:06:16.759 align:start position:0%
+permitiendo la creación de cuentas
+ 
+
+00:06:16.759 --> 00:06:18.950 align:start position:0%
+permitiendo la creación de cuentas
+auxiliares<00:06:17.520><c> y</c><00:06:17.680><c> la</c><00:06:17.880><c> personalización</c><00:06:18.599><c> de</c><00:06:18.759><c> su</c>
+
+00:06:18.950 --> 00:06:18.960 align:start position:0%
+auxiliares y la personalización de su
+ 
+
+00:06:18.960 --> 00:06:21.029 align:start position:0%
+auxiliares y la personalización de su
+estructura<00:06:19.520><c> contable.</c><00:06:20.400><c> Por</c><00:06:20.560><c> ejemplo,</c>
+
+00:06:21.029 --> 00:06:21.039 align:start position:0%
+estructura contable. Por ejemplo,
+ 
+
+00:06:21.039 --> 00:06:22.790 align:start position:0%
+estructura contable. Por ejemplo,
+supongamos<00:06:21.560><c> que</c><00:06:21.720><c> la</c><00:06:21.880><c> empresa</c><00:06:22.240><c> necesita</c>
+
+00:06:22.790 --> 00:06:22.800 align:start position:0%
+supongamos que la empresa necesita
+ 
+
+00:06:22.800 --> 00:06:25.550 align:start position:0%
+supongamos que la empresa necesita
+registrar<00:06:23.440><c> los</c><00:06:23.680><c> pagos</c><00:06:24.039><c> a</c><00:06:24.280><c> proveedores.</c><00:06:25.280><c> En</c><00:06:25.400><c> el</c>
+
+00:06:25.550 --> 00:06:25.560 align:start position:0%
+registrar los pagos a proveedores. En el
+ 
+
+00:06:25.560 --> 00:06:28.230 align:start position:0%
+registrar los pagos a proveedores. En el
+plan<00:06:25.759><c> de</c><00:06:25.960><c> cuentas</c><00:06:26.639><c> ya</c><00:06:26.960><c> existe</c><00:06:27.360><c> una</c><00:06:27.680><c> cuenta</c>
+
+00:06:28.230 --> 00:06:28.240 align:start position:0%
+plan de cuentas ya existe una cuenta
+ 
+
+00:06:28.240 --> 00:06:31.309 align:start position:0%
+plan de cuentas ya existe una cuenta
+principal<00:06:28.759><c> que</c><00:06:28.919><c> es</c><00:06:29.039><c> la</c><00:06:29.400><c> 2205</c><00:06:30.400><c> de</c><00:06:30.599><c> cuentas</c><00:06:31.080><c> por</c>
+
+00:06:31.309 --> 00:06:31.319 align:start position:0%
+principal que es la 2205 de cuentas por
+ 
+
+00:06:31.319 --> 00:06:33.629 align:start position:0%
+principal que es la 2205 de cuentas por
+pagar,<00:06:32.000><c> pero</c><00:06:32.319><c> dentro</c><00:06:32.599><c> de</c><00:06:32.919><c> ella</c><00:06:33.080><c> se</c><00:06:33.319><c> pueden</c>
+
+00:06:33.629 --> 00:06:33.639 align:start position:0%
+pagar, pero dentro de ella se pueden
+ 
+
+00:06:33.639 --> 00:06:35.790 align:start position:0%
+pagar, pero dentro de ella se pueden
+crear<00:06:34.240><c> cuentas</c><00:06:34.720><c> auxiliares</c><00:06:35.479><c> para</c>
+
+00:06:35.790 --> 00:06:35.800 align:start position:0%
+crear cuentas auxiliares para
+ 
+
+00:06:35.800 --> 00:06:38.350 align:start position:0%
+crear cuentas auxiliares para
+proveedores<00:06:36.400><c> específicos</c><00:06:37.280><c> y</c><00:06:37.479><c> esto</c><00:06:37.759><c> facilita</c>
+
+00:06:38.350 --> 00:06:38.360 align:start position:0%
+proveedores específicos y esto facilita
+ 
+
+00:06:38.360 --> 00:06:40.110 align:start position:0%
+proveedores específicos y esto facilita
+la<00:06:38.680><c> consulta</c><00:06:39.160><c> y</c><00:06:39.360><c> el</c><00:06:39.520><c> control</c><00:06:39.800><c> de</c><00:06:39.960><c> las</c>
+
+00:06:40.110 --> 00:06:40.120 align:start position:0%
+la consulta y el control de las
+ 
+
+00:06:40.120 --> 00:06:42.189 align:start position:0%
+la consulta y el control de las
+obligaciones<00:06:40.720><c> financieras</c><00:06:41.240><c> de</c><00:06:41.400><c> la</c><00:06:41.479><c> empresa.</c>
+
+00:06:42.189 --> 00:06:42.199 align:start position:0%
+obligaciones financieras de la empresa.
+ 
+
+00:06:42.199 --> 00:06:44.550 align:start position:0%
+obligaciones financieras de la empresa.
+Y<00:06:42.360><c> cada</c><00:06:42.680><c> cuenta</c><00:06:43.080><c> contable</c><00:06:43.919><c> cuenta</c><00:06:44.240><c> con</c>
+
+00:06:44.550 --> 00:06:44.560 align:start position:0%
+Y cada cuenta contable cuenta con
+ 
+
+00:06:44.560 --> 00:06:47.309 align:start position:0%
+Y cada cuenta contable cuenta con
+información,<00:06:45.120><c> como</c><00:06:45.360><c> por</c><00:06:45.520><c> ejemplo</c><00:06:46.039><c> el</c><00:06:46.319><c> código,</c>
+
+00:06:47.309 --> 00:06:47.319 align:start position:0%
+información, como por ejemplo el código,
+ 
+
+00:06:47.319 --> 00:06:50.230 align:start position:0%
+información, como por ejemplo el código,
+su<00:06:47.680><c> nombre,</c><00:06:48.400><c> su</c><00:06:48.639><c> naturaleza</c><00:06:49.280><c> contable,</c><00:06:49.960><c> si</c><00:06:50.120><c> es</c>
+
+00:06:50.230 --> 00:06:50.240 align:start position:0%
+su nombre, su naturaleza contable, si es
+ 
+
+00:06:50.240 --> 00:06:52.670 align:start position:0%
+su nombre, su naturaleza contable, si es
+un<00:06:50.479><c> activo,</c><00:06:50.919><c> si</c><00:06:51.080><c> es</c><00:06:51.240><c> un</c><00:06:51.479><c> pasivo,</c><00:06:52.039><c> si</c><00:06:52.199><c> es</c><00:06:52.360><c> un</c>
+
+00:06:52.670 --> 00:06:52.680 align:start position:0%
+un activo, si es un pasivo, si es un
+ 
+
+00:06:52.680 --> 00:06:55.950 align:start position:0%
+un activo, si es un pasivo, si es un
+patrimonio,<00:06:53.680><c> un</c><00:06:53.919><c> ingreso</c><00:06:54.599><c> o</c><00:06:54.840><c> un</c><00:06:55.039><c> gasto,</c><00:06:55.759><c> lo</c>
+
+00:06:55.950 --> 00:06:55.960 align:start position:0%
+patrimonio, un ingreso o un gasto, lo
+ 
+
+00:06:55.960 --> 00:06:58.150 align:start position:0%
+patrimonio, un ingreso o un gasto, lo
+que<00:06:56.120><c> permite</c><00:06:56.599><c> organizar</c><00:06:57.199><c> y</c><00:06:57.440><c> clasificar</c>
+
+00:06:58.150 --> 00:06:58.160 align:start position:0%
+que permite organizar y clasificar
+ 
+
+00:06:58.160 --> 00:06:59.990 align:start position:0%
+que permite organizar y clasificar
+correctamente<00:06:58.879><c> la</c><00:06:59.080><c> información</c><00:06:59.520><c> financiera</c>
+
+00:06:59.990 --> 00:07:00.000 align:start position:0%
+correctamente la información financiera
+ 
+
+00:07:00.000 --> 00:07:02.029 align:start position:0%
+correctamente la información financiera
+de<00:07:00.160><c> la</c><00:07:00.240><c> empresa.</c><00:07:01.240><c> Nuestro</c><00:07:01.560><c> siguiente</c>
+
+00:07:02.029 --> 00:07:02.039 align:start position:0%
+de la empresa. Nuestro siguiente
+ 
+
+00:07:02.039 --> 00:07:04.430 align:start position:0%
+de la empresa. Nuestro siguiente
+componente<00:07:02.599><c> es</c><00:07:02.800><c> el</c><00:07:03.160><c> catálogo</c><00:07:03.639><c> de</c><00:07:03.759><c> documentos</c>
+
+00:07:04.430 --> 00:07:04.440 align:start position:0%
+componente es el catálogo de documentos
+ 
+
+00:07:04.440 --> 00:07:06.629 align:start position:0%
+componente es el catálogo de documentos
+de<00:07:04.680><c> soporte.</c><00:07:05.479><c> Todas</c><00:07:05.680><c> las</c><00:07:05.840><c> transacciones</c><00:07:06.440><c> de</c>
+
+00:07:06.629 --> 00:07:06.639 align:start position:0%
+de soporte. Todas las transacciones de
+ 
+
+00:07:06.639 --> 00:07:08.830 align:start position:0%
+de soporte. Todas las transacciones de
+la<00:07:06.759><c> empresa</c><00:07:07.360><c> deben</c><00:07:07.759><c> estar</c><00:07:08.000><c> respaldadas</c><00:07:08.639><c> por</c>
+
+00:07:08.830 --> 00:07:08.840 align:start position:0%
+la empresa deben estar respaldadas por
+ 
+
+00:07:08.840 --> 00:07:10.990 align:start position:0%
+la empresa deben estar respaldadas por
+un<00:07:09.000><c> documento</c><00:07:09.520><c> de</c><00:07:09.759><c> soporte</c><00:07:10.520><c> y</c><00:07:10.720><c> esos</c>
+
+00:07:10.990 --> 00:07:11.000 align:start position:0%
+un documento de soporte y esos
+ 
+
+00:07:11.000 --> 00:07:13.589 align:start position:0%
+un documento de soporte y esos
+documentos<00:07:11.599><c> pueden</c><00:07:11.919><c> ser</c><00:07:12.680><c> internos,</c><00:07:13.319><c> que</c><00:07:13.479><c> son</c>
+
+00:07:13.589 --> 00:07:13.599 align:start position:0%
+documentos pueden ser internos, que son
+ 
+
+00:07:13.599 --> 00:07:16.070 align:start position:0%
+documentos pueden ser internos, que son
+los<00:07:13.759><c> documentos</c><00:07:14.479><c> emitidos</c><00:07:15.080><c> por</c><00:07:15.280><c> la</c><00:07:15.440><c> empresa,</c>
+
+00:07:16.070 --> 00:07:16.080 align:start position:0%
+los documentos emitidos por la empresa,
+ 
+
+00:07:16.080 --> 00:07:18.390 align:start position:0%
+los documentos emitidos por la empresa,
+como<00:07:16.280><c> por</c><00:07:16.440><c> ejemplo</c><00:07:16.800><c> una</c><00:07:17.000><c> factura</c><00:07:17.360><c> de</c><00:07:17.560><c> venta,</c>
+
+00:07:18.390 --> 00:07:18.400 align:start position:0%
+como por ejemplo una factura de venta,
+ 
+
+00:07:18.400 --> 00:07:20.510 align:start position:0%
+como por ejemplo una factura de venta,
+un<00:07:18.599><c> comprobante</c><00:07:19.080><c> de</c><00:07:19.240><c> egreso</c><00:07:19.919><c> o</c><00:07:20.160><c> notas</c>
+
+00:07:20.510 --> 00:07:20.520 align:start position:0%
+un comprobante de egreso o notas
+ 
+
+00:07:20.520 --> 00:07:24.110 align:start position:0%
+un comprobante de egreso o notas
+contables<00:07:21.520><c> o</c><00:07:22.120><c> documentos</c><00:07:23.120><c> externos</c><00:07:23.759><c> que</c><00:07:23.960><c> son</c>
+
+00:07:24.110 --> 00:07:24.120 align:start position:0%
+contables o documentos externos que son
+ 
+
+00:07:24.120 --> 00:07:26.150 align:start position:0%
+contables o documentos externos que son
+los<00:07:24.400><c> recibidos</c><00:07:25.080><c> por</c><00:07:25.240><c> la</c><00:07:25.400><c> empresa,</c><00:07:25.840><c> como</c><00:07:26.000><c> por</c>
+
+00:07:26.150 --> 00:07:26.160 align:start position:0%
+los recibidos por la empresa, como por
+ 
+
+00:07:26.160 --> 00:07:28.749 align:start position:0%
+los recibidos por la empresa, como por
+ejemplo<00:07:26.560><c> facturas</c><00:07:26.960><c> de</c><00:07:27.280><c> compra</c><00:07:27.919><c> o</c><00:07:28.160><c> recibos</c><00:07:28.560><c> de</c>
+
+00:07:28.749 --> 00:07:28.759 align:start position:0%
+ejemplo facturas de compra o recibos de
+ 
+
+00:07:28.759 --> 00:07:31.110 align:start position:0%
+ejemplo facturas de compra o recibos de
+pago.<00:07:29.800><c> El</c><00:07:29.919><c> catálogo</c><00:07:30.319><c> de</c><00:07:30.440><c> documentos</c><00:07:30.919><c> de</c>
+
+00:07:31.110 --> 00:07:31.120 align:start position:0%
+pago. El catálogo de documentos de
+ 
+
+00:07:31.120 --> 00:07:34.270 align:start position:0%
+pago. El catálogo de documentos de
+soporte<00:07:31.720><c> contiene</c><00:07:32.479><c> un</c><00:07:32.759><c> listado</c><00:07:33.639><c> de</c><00:07:33.879><c> todos</c><00:07:34.120><c> los</c>
+
+00:07:34.270 --> 00:07:34.280 align:start position:0%
+soporte contiene un listado de todos los
+ 
+
+00:07:34.280 --> 00:07:36.270 align:start position:0%
+soporte contiene un listado de todos los
+documentos<00:07:34.800><c> que</c><00:07:35.000><c> pueden</c><00:07:35.319><c> utilizarse</c><00:07:36.000><c> para</c>
+
+00:07:36.270 --> 00:07:36.280 align:start position:0%
+documentos que pueden utilizarse para
+ 
+
+00:07:36.280 --> 00:07:38.950 align:start position:0%
+documentos que pueden utilizarse para
+registrar<00:07:37.000><c> operaciones</c><00:07:37.599><c> en</c><00:07:37.800><c> el</c><00:07:37.960><c> sistema.</c>
+
+00:07:38.950 --> 00:07:38.960 align:start position:0%
+registrar operaciones en el sistema.
+ 
+
+00:07:38.960 --> 00:07:41.469 align:start position:0%
+registrar operaciones en el sistema.
+Además,<00:07:39.400><c> nos</c><00:07:39.639><c> permite</c><00:07:40.120><c> la</c><00:07:40.400><c> creación</c><00:07:41.080><c> y</c><00:07:41.240><c> la</c>
+
+00:07:41.469 --> 00:07:41.479 align:start position:0%
+Además, nos permite la creación y la
+ 
+
+00:07:41.479 --> 00:07:43.510 align:start position:0%
+Además, nos permite la creación y la
+configuración<00:07:42.199><c> de</c><00:07:42.400><c> estos</c><00:07:42.680><c> documentos</c><00:07:43.240><c> según</c>
+
+00:07:43.510 --> 00:07:43.520 align:start position:0%
+configuración de estos documentos según
+ 
+
+00:07:43.520 --> 00:07:45.469 align:start position:0%
+configuración de estos documentos según
+las<00:07:43.720><c> necesidades</c><00:07:44.240><c> de</c><00:07:44.400><c> la</c><00:07:44.520><c> empresa.</c><00:07:45.240><c> ¿Qué</c>
+
+00:07:45.469 --> 00:07:45.479 align:start position:0%
+las necesidades de la empresa. ¿Qué
+ 
+
+00:07:45.479 --> 00:07:47.749 align:start position:0%
+las necesidades de la empresa. ¿Qué
+configuraciones<00:07:46.159><c> podemos</c><00:07:46.560><c> encontrar?</c><00:07:47.319><c> como</c>
+
+00:07:47.749 --> 00:07:47.759 align:start position:0%
+configuraciones podemos encontrar? como
+ 
+
+00:07:47.759 --> 00:07:49.469 align:start position:0%
+configuraciones podemos encontrar? como
+la<00:07:47.960><c> máscara</c><00:07:48.280><c> de</c><00:07:48.440><c> numeración,</c><00:07:48.919><c> es</c><00:07:49.039><c> decir,</c><00:07:49.280><c> cuál</c>
+
+00:07:49.469 --> 00:07:49.479 align:start position:0%
+la máscara de numeración, es decir, cuál
+ 
+
+00:07:49.479 --> 00:07:52.270 align:start position:0%
+la máscara de numeración, es decir, cuál
+va<00:07:49.599><c> a</c><00:07:49.680><c> ser</c><00:07:49.759><c> su</c><00:07:50.039><c> prefijo,</c><00:07:51.039><c> si</c><00:07:51.520><c> la</c><00:07:51.759><c> numeración</c><00:07:52.159><c> va</c>
+
+00:07:52.270 --> 00:07:52.280 align:start position:0%
+va a ser su prefijo, si la numeración va
+ 
+
+00:07:52.280 --> 00:07:54.070 align:start position:0%
+va a ser su prefijo, si la numeración va
+a<00:07:52.360><c> ser</c><00:07:52.560><c> automática,</c><00:07:53.280><c> si</c><00:07:53.479><c> va</c><00:07:53.599><c> a</c><00:07:53.720><c> ser</c>
+
+00:07:54.070 --> 00:07:54.080 align:start position:0%
+a ser automática, si va a ser
+ 
+
+00:07:54.080 --> 00:07:56.749 align:start position:0%
+a ser automática, si va a ser
+consecutiva,<00:07:55.080><c> si</c><00:07:55.400><c> maneja</c><00:07:56.000><c> resoluciones,</c>
+
+00:07:56.749 --> 00:07:56.759 align:start position:0%
+consecutiva, si maneja resoluciones,
+ 
+
+00:07:56.759 --> 00:07:59.189 align:start position:0%
+consecutiva, si maneja resoluciones,
+pues<00:07:56.919><c> en</c><00:07:57.080><c> caso</c><00:07:57.280><c> de</c><00:07:57.400><c> que</c><00:07:57.639><c> aplique,</c><00:07:58.319><c> entre</c><00:07:58.639><c> otras</c>
+
+00:07:59.189 --> 00:07:59.199 align:start position:0%
+pues en caso de que aplique, entre otras
+ 
+
+00:07:59.199 --> 00:08:01.670 align:start position:0%
+pues en caso de que aplique, entre otras
+configuraciones.<00:08:00.280><c> Otro</c><00:08:00.520><c> punto</c><00:08:01.199><c> importante</c>
+
+00:08:01.670 --> 00:08:01.680 align:start position:0%
+configuraciones. Otro punto importante
+ 
+
+00:08:01.680 --> 00:08:04.110 align:start position:0%
+configuraciones. Otro punto importante
+es<00:08:01.840><c> que</c><00:08:02.000><c> nos</c><00:08:02.199><c> permite</c><00:08:02.720><c> configurar</c><00:08:03.720><c> las</c>
+
+00:08:04.110 --> 00:08:04.120 align:start position:0%
+es que nos permite configurar las
+ 
+
+00:08:04.120 --> 00:08:07.110 align:start position:0%
+es que nos permite configurar las
+acciones<00:08:04.919><c> automáticas</c><00:08:05.879><c> al</c><00:08:06.120><c> finalizar</c><00:08:06.840><c> una</c>
+
+00:08:07.110 --> 00:08:07.120 align:start position:0%
+acciones automáticas al finalizar una
+ 
+
+00:08:07.120 --> 00:08:09.869 align:start position:0%
+acciones automáticas al finalizar una
+transacción,<00:08:08.000><c> como</c><00:08:08.319><c> cuál</c><00:08:08.520><c> es,</c><00:08:09.120><c> el</c><00:08:09.280><c> envío</c><00:08:09.639><c> a</c><00:08:09.759><c> la</c>
+
+00:08:09.869 --> 00:08:09.879 align:start position:0%
+transacción, como cuál es, el envío a la
+ 
+
+00:08:09.879 --> 00:08:12.950 align:start position:0%
+transacción, como cuál es, el envío a la
+dian<00:08:10.479><c> para</c><00:08:10.720><c> garantizar</c><00:08:11.479><c> el</c><00:08:11.680><c> cumplimiento</c>
+
+00:08:12.950 --> 00:08:12.960 align:start position:0%
+dian para garantizar el cumplimiento
+ 
+
+00:08:12.960 --> 00:08:15.950 align:start position:0%
+dian para garantizar el cumplimiento
+normativo,<00:08:13.960><c> el</c><00:08:14.159><c> envío</c><00:08:14.599><c> por</c><00:08:14.879><c> email</c><00:08:15.440><c> para</c><00:08:15.680><c> los</c>
+
+00:08:15.950 --> 00:08:15.960 align:start position:0%
+normativo, el envío por email para los
+ 
+
+00:08:15.960 --> 00:08:18.710 align:start position:0%
+normativo, el envío por email para los
+clientes,<00:08:16.440><c> los</c><00:08:16.800><c> proveedores,</c><00:08:17.800><c> empleados</c><00:08:18.639><c> o</c>
+
+00:08:18.710 --> 00:08:18.720 align:start position:0%
+clientes, los proveedores, empleados o
+ 
+
+00:08:18.720 --> 00:08:21.070 align:start position:0%
+clientes, los proveedores, empleados o
+otras<00:08:19.280><c> entidades.</c><00:08:20.280><c> Por</c><00:08:20.479><c> ejemplo,</c><00:08:20.800><c> si</c><00:08:20.960><c> se</c>
+
+00:08:21.070 --> 00:08:21.080 align:start position:0%
+otras entidades. Por ejemplo, si se
+ 
+
+00:08:21.080 --> 00:08:22.950 align:start position:0%
+otras entidades. Por ejemplo, si se
+envía<00:08:21.360><c> una</c><00:08:21.560><c> factura</c><00:08:21.919><c> de</c><00:08:22.120><c> venta,</c><00:08:22.440><c> el</c><00:08:22.599><c> sistema</c>
+
+00:08:22.950 --> 00:08:22.960 align:start position:0%
+envía una factura de venta, el sistema
+ 
+
+00:08:22.960 --> 00:08:25.510 align:start position:0%
+envía una factura de venta, el sistema
+puede<00:08:23.520><c> enviarla</c><00:08:23.960><c> automáticamente</c><00:08:24.720><c> a</c><00:08:24.879><c> la</c><00:08:25.039><c> Dian</c>
+
+00:08:25.510 --> 00:08:25.520 align:start position:0%
+puede enviarla automáticamente a la Dian
+ 
+
+00:08:25.520 --> 00:08:27.309 align:start position:0%
+puede enviarla automáticamente a la Dian
+y<00:08:25.680><c> enviarla</c><00:08:26.120><c> por</c><00:08:26.280><c> correo</c><00:08:26.599><c> electrónico</c><00:08:27.120><c> al</c>
+
+00:08:27.309 --> 00:08:27.319 align:start position:0%
+y enviarla por correo electrónico al
+ 
+
+00:08:27.319 --> 00:08:29.390 align:start position:0%
+y enviarla por correo electrónico al
+cliente.<00:08:28.319><c> Otra</c><00:08:28.520><c> acción</c><00:08:28.800><c> que</c><00:08:28.960><c> se</c><00:08:29.120><c> puede</c>
+
+00:08:29.390 --> 00:08:29.400 align:start position:0%
+cliente. Otra acción que se puede
+ 
+
+00:08:29.400 --> 00:08:31.309 align:start position:0%
+cliente. Otra acción que se puede
+configurar<00:08:29.960><c> es</c><00:08:30.159><c> la</c><00:08:30.360><c> publicación</c><00:08:31.080><c> en</c>
+
+00:08:31.309 --> 00:08:31.319 align:start position:0%
+configurar es la publicación en
+ 
+
+00:08:31.319 --> 00:08:33.509 align:start position:0%
+configurar es la publicación en
+plataforma.<00:08:32.200><c> Con</c><00:08:32.440><c> esta</c><00:08:32.680><c> funcionalidad,</c><00:08:33.320><c> los</c>
+
+00:08:33.509 --> 00:08:33.519 align:start position:0%
+plataforma. Con esta funcionalidad, los
+ 
+
+00:08:33.519 --> 00:08:35.990 align:start position:0%
+plataforma. Con esta funcionalidad, los
+clientes<00:08:33.839><c> pueden</c><00:08:34.159><c> recibir</c><00:08:34.760><c> documentos</c><00:08:35.760><c> como,</c>
+
+00:08:35.990 --> 00:08:36.000 align:start position:0%
+clientes pueden recibir documentos como,
+ 
+
+00:08:36.000 --> 00:08:38.630 align:start position:0%
+clientes pueden recibir documentos como,
+por<00:08:36.200><c> ejemplo,</c><00:08:36.839><c> cotizaciones</c><00:08:37.719><c> a</c><00:08:37.919><c> través</c><00:08:38.159><c> de</c>
+
+00:08:38.630 --> 00:08:38.640 align:start position:0%
+por ejemplo, cotizaciones a través de
+ 
+
+00:08:38.640 --> 00:08:41.389 align:start position:0%
+por ejemplo, cotizaciones a través de
+una<00:08:38.959><c> plataforma</c><00:08:39.599><c> web</c><00:08:40.279><c> donde</c><00:08:40.599><c> van</c><00:08:40.760><c> a</c><00:08:40.919><c> poder</c>
+
+00:08:41.389 --> 00:08:41.399 align:start position:0%
+una plataforma web donde van a poder
+ 
+
+00:08:41.399 --> 00:08:43.110 align:start position:0%
+una plataforma web donde van a poder
+visualizar<00:08:42.039><c> los</c><00:08:42.279><c> formatos</c><00:08:42.760><c> de</c><00:08:42.919><c> estas</c>
+
+00:08:43.110 --> 00:08:43.120 align:start position:0%
+visualizar los formatos de estas
+ 
+
+00:08:43.120 --> 00:08:46.750 align:start position:0%
+visualizar los formatos de estas
+cotizaciones<00:08:43.880><c> o</c><00:08:44.039><c> documentos</c><00:08:44.800><c> en</c><00:08:45.040><c> HTML.</c><00:08:46.480><c> van</c><00:08:46.640><c> a</c>
+
+00:08:46.750 --> 00:08:46.760 align:start position:0%
+cotizaciones o documentos en HTML. van a
+ 
+
+00:08:46.760 --> 00:08:48.949 align:start position:0%
+cotizaciones o documentos en HTML. van a
+poder<00:08:47.240><c> interactuar</c><00:08:47.880><c> en</c><00:08:48.120><c> tiempo</c><00:08:48.399><c> real</c><00:08:48.640><c> con</c><00:08:48.839><c> la</c>
+
+00:08:48.949 --> 00:08:48.959 align:start position:0%
+poder interactuar en tiempo real con la
+ 
+
+00:08:48.959 --> 00:08:51.430 align:start position:0%
+poder interactuar en tiempo real con la
+empresa,<00:08:49.360><c> por</c><00:08:49.519><c> ejemplo,</c><00:08:50.080><c> aceptar</c><00:08:50.800><c> o</c><00:08:51.000><c> rechazar</c>
+
+00:08:51.430 --> 00:08:51.440 align:start position:0%
+empresa, por ejemplo, aceptar o rechazar
+ 
+
+00:08:51.440 --> 00:08:54.550 align:start position:0%
+empresa, por ejemplo, aceptar o rechazar
+las<00:08:51.959><c> cotizaciones,</c><00:08:52.959><c> agregar</c><00:08:53.560><c> comentarios,</c>
+
+00:08:54.550 --> 00:08:54.560 align:start position:0%
+las cotizaciones, agregar comentarios,
+ 
+
+00:08:54.560 --> 00:08:56.790 align:start position:0%
+las cotizaciones, agregar comentarios,
+entre<00:08:54.920><c> otras</c><00:08:55.360><c> acciones</c><00:08:56.080><c> y</c><00:08:56.279><c> no</c><00:08:56.440><c> solo</c><00:08:56.640><c> con</c>
+
+00:08:56.790 --> 00:08:56.800 align:start position:0%
+entre otras acciones y no solo con
+ 
+
+00:08:56.800 --> 00:08:58.870 align:start position:0%
+entre otras acciones y no solo con
+cotizaciones,<00:08:57.600><c> por</c><00:08:57.760><c> ejemplo,</c><00:08:58.600><c> los</c>
+
+00:08:58.870 --> 00:08:58.880 align:start position:0%
+cotizaciones, por ejemplo, los
+ 
+
+00:08:58.880 --> 00:09:00.670 align:start position:0%
+cotizaciones, por ejemplo, los
+comprobantes<00:08:59.480><c> de</c><00:08:59.680><c> pago</c><00:08:59.920><c> de</c><00:09:00.040><c> nómina</c><00:09:00.440><c> a</c>
+
+00:09:00.670 --> 00:09:00.680 align:start position:0%
+comprobantes de pago de nómina a
+ 
+
+00:09:00.680 --> 00:09:02.710 align:start position:0%
+comprobantes de pago de nómina a
+nuestros<00:09:01.079><c> empleados,</c><00:09:02.079><c> entre</c><00:09:02.360><c> otros</c>
+
+00:09:02.710 --> 00:09:02.720 align:start position:0%
+nuestros empleados, entre otros
+ 
+
+00:09:02.720 --> 00:09:05.230 align:start position:0%
+nuestros empleados, entre otros
+documentos,<00:09:03.680><c> lo</c><00:09:03.880><c> cual</c><00:09:04.320><c> agiliza</c><00:09:04.959><c> la</c>
+
+00:09:05.230 --> 00:09:05.240 align:start position:0%
+documentos, lo cual agiliza la
+ 
+
+00:09:05.240 --> 00:09:07.389 align:start position:0%
+documentos, lo cual agiliza la
+comunicación<00:09:05.959><c> y</c><00:09:06.160><c> puede</c><00:09:06.399><c> facilitar</c><00:09:06.959><c> la</c><00:09:07.160><c> toma</c>
+
+00:09:07.389 --> 00:09:07.399 align:start position:0%
+comunicación y puede facilitar la toma
+ 
+
+00:09:07.399 --> 00:09:10.269 align:start position:0%
+comunicación y puede facilitar la toma
+de<00:09:07.519><c> decisiones.</c><00:09:08.480><c> Este</c><00:09:08.680><c> catálogo</c><00:09:09.279><c> garantiza</c>
+
+00:09:10.269 --> 00:09:10.279 align:start position:0%
+de decisiones. Este catálogo garantiza
+ 
+
+00:09:10.279 --> 00:09:12.590 align:start position:0%
+de decisiones. Este catálogo garantiza
+que<00:09:10.600><c> cada</c><00:09:10.959><c> transacción</c><00:09:11.600><c> cuente</c><00:09:12.079><c> con</c><00:09:12.320><c> un</c>
+
+00:09:12.590 --> 00:09:12.600 align:start position:0%
+que cada transacción cuente con un
+ 
+
+00:09:12.600 --> 00:09:14.990 align:start position:0%
+que cada transacción cuente con un
+respaldo<00:09:13.079><c> adecuado</c><00:09:13.880><c> y</c><00:09:14.200><c> cumpla</c><00:09:14.640><c> con</c><00:09:14.800><c> los</c>
+
+00:09:14.990 --> 00:09:15.000 align:start position:0%
+respaldo adecuado y cumpla con los
+ 
+
+00:09:15.000 --> 00:09:18.069 align:start position:0%
+respaldo adecuado y cumpla con los
+requisitos<00:09:15.560><c> legales</c><00:09:16.200><c> y</c><00:09:16.839><c> contables.</c><00:09:17.839><c> El</c>
+
+00:09:18.069 --> 00:09:18.079 align:start position:0%
+requisitos legales y contables. El
+ 
+
+00:09:18.079 --> 00:09:20.590 align:start position:0%
+requisitos legales y contables. El
+siguiente<00:09:18.640><c> componente</c><00:09:19.440><c> es</c><00:09:19.680><c> el</c><00:09:20.040><c> catálogo</c><00:09:20.519><c> de</c>
+
+00:09:20.590 --> 00:09:20.600 align:start position:0%
+siguiente componente es el catálogo de
+ 
+
+00:09:20.600 --> 00:09:23.630 align:start position:0%
+siguiente componente es el catálogo de
+documentos<00:09:21.160><c> de</c><00:09:21.560><c> impresión.</c><00:09:22.560><c> Este</c><00:09:22.839><c> catálogo</c>
+
+00:09:23.630 --> 00:09:23.640 align:start position:0%
+documentos de impresión. Este catálogo
+ 
+
+00:09:23.640 --> 00:09:25.670 align:start position:0%
+documentos de impresión. Este catálogo
+es<00:09:23.880><c> el</c><00:09:24.040><c> listado</c><00:09:24.399><c> de</c><00:09:24.680><c> todos</c><00:09:24.920><c> los</c><00:09:25.120><c> formatos</c><00:09:25.519><c> de</c>
+
+00:09:25.670 --> 00:09:25.680 align:start position:0%
+es el listado de todos los formatos de
+ 
+
+00:09:25.680 --> 00:09:28.630 align:start position:0%
+es el listado de todos los formatos de
+impresión<00:09:26.320><c> disponibles</c><00:09:27.040><c> en</c><00:09:27.279><c> el</c><00:09:27.519><c> sistema</c><00:09:28.320><c> para</c>
+
+00:09:28.630 --> 00:09:28.640 align:start position:0%
+impresión disponibles en el sistema para
+ 
+
+00:09:28.640 --> 00:09:31.509 align:start position:0%
+impresión disponibles en el sistema para
+documentar<00:09:29.600><c> y</c><00:09:30.000><c> respaldar</c><00:09:30.640><c> las</c><00:09:30.880><c> operaciones</c>
+
+00:09:31.509 --> 00:09:31.519 align:start position:0%
+documentar y respaldar las operaciones
+ 
+
+00:09:31.519 --> 00:09:34.110 align:start position:0%
+documentar y respaldar las operaciones
+registradas<00:09:32.200><c> en</c><00:09:32.399><c> el</c><00:09:32.600><c> sistema.</c><00:09:33.440><c> Este</c><00:09:33.680><c> catálogo</c>
+
+00:09:34.110 --> 00:09:34.120 align:start position:0%
+registradas en el sistema. Este catálogo
+ 
+
+00:09:34.120 --> 00:09:36.509 align:start position:0%
+registradas en el sistema. Este catálogo
+de<00:09:34.240><c> documentos</c><00:09:34.760><c> de</c><00:09:34.959><c> impresión</c><00:09:35.880><c> complementa</c>
+
+00:09:36.509 --> 00:09:36.519 align:start position:0%
+de documentos de impresión complementa
+ 
+
+00:09:36.519 --> 00:09:39.150 align:start position:0%
+de documentos de impresión complementa
+el<00:09:36.720><c> catálogo</c><00:09:37.120><c> de</c><00:09:37.200><c> documentos</c><00:09:37.760><c> de</c><00:09:38.160><c> soporte,</c>
+
+00:09:39.150 --> 00:09:39.160 align:start position:0%
+el catálogo de documentos de soporte,
+ 
+
+00:09:39.160 --> 00:09:42.030 align:start position:0%
+el catálogo de documentos de soporte,
+permitiendo<00:09:39.920><c> generar</c><00:09:41.040><c> representaciones</c>
+
+00:09:42.030 --> 00:09:42.040 align:start position:0%
+permitiendo generar representaciones
+ 
+
+00:09:42.040 --> 00:09:44.870 align:start position:0%
+permitiendo generar representaciones
+impresas<00:09:42.880><c> o</c><00:09:43.160><c> digitales</c><00:09:43.800><c> de</c><00:09:44.000><c> los</c><00:09:44.160><c> documentos</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+impresas o digitales de los documentos
+ 
+
+00:09:44.880 --> 00:09:47.269 align:start position:0%
+impresas o digitales de los documentos
+que<00:09:45.120><c> justifican</c><00:09:46.040><c> las</c><00:09:46.279><c> transacciones</c><00:09:46.920><c> que</c><00:09:47.079><c> se</c>
+
+00:09:47.269 --> 00:09:47.279 align:start position:0%
+que justifican las transacciones que se
+ 
+
+00:09:47.279 --> 00:09:49.110 align:start position:0%
+que justifican las transacciones que se
+registran<00:09:47.720><c> en</c><00:09:47.839><c> la</c><00:09:47.959><c> empresa.</c><00:09:48.680><c> Y</c><00:09:48.800><c> podemos</c>
+
+00:09:49.110 --> 00:09:49.120 align:start position:0%
+registran en la empresa. Y podemos
+ 
+
+00:09:49.120 --> 00:09:51.790 align:start position:0%
+registran en la empresa. Y podemos
+manejar<00:09:49.640><c> dos</c><00:09:49.880><c> tipos</c><00:09:50.200><c> de</c><00:09:50.600><c> documentos</c><00:09:51.600><c> en</c>
+
+00:09:51.790 --> 00:09:51.800 align:start position:0%
+manejar dos tipos de documentos en
+ 
+
+00:09:51.800 --> 00:09:55.430 align:start position:0%
+manejar dos tipos de documentos en
+formato<00:09:52.640><c> PDF</c><00:09:53.600><c> para</c><00:09:53.839><c> la</c><00:09:54.000><c> impresión</c><00:09:54.519><c> física</c><00:09:55.240><c> o</c>
+
+00:09:55.430 --> 00:09:55.440 align:start position:0%
+formato PDF para la impresión física o
+ 
+
+00:09:55.440 --> 00:09:58.230 align:start position:0%
+formato PDF para la impresión física o
+el<00:09:55.560><c> envío</c><00:09:55.880><c> por</c><00:09:56.079><c> correo</c><00:09:56.800><c> electrónico</c><00:09:57.800><c> y</c><00:09:58.000><c> el</c>
+
+00:09:58.230 --> 00:09:58.240 align:start position:0%
+el envío por correo electrónico y el
+ 
+
+00:09:58.240 --> 00:10:01.550 align:start position:0%
+el envío por correo electrónico y el
+formato<00:09:59.399><c> HTML</c><00:10:00.399><c> para</c><00:10:00.600><c> el</c><00:10:00.720><c> envío</c><00:10:01.040><c> por</c><00:10:01.200><c> correo</c>
+
+00:10:01.550 --> 00:10:01.560 align:start position:0%
+formato HTML para el envío por correo
+ 
+
+00:10:01.560 --> 00:10:04.590 align:start position:0%
+formato HTML para el envío por correo
+electrónico<00:10:02.399><c> o</c><00:10:02.640><c> publicación</c><00:10:03.160><c> en</c><00:10:03.399><c> plataforma.</c>
+
+00:10:04.590 --> 00:10:04.600 align:start position:0%
+electrónico o publicación en plataforma.
+ 
+
+00:10:04.600 --> 00:10:06.750 align:start position:0%
+electrónico o publicación en plataforma.
+Con<00:10:04.760><c> Tapime</c><00:10:05.240><c> ya</c><00:10:05.480><c> ofrece</c><00:10:05.920><c> un</c><00:10:06.079><c> catálogo</c>
+
+00:10:06.750 --> 00:10:06.760 align:start position:0%
+Con Tapime ya ofrece un catálogo
+ 
+
+00:10:06.760 --> 00:10:08.710 align:start position:0%
+Con Tapime ya ofrece un catálogo
+preconfigurado<00:10:07.600><c> que</c><00:10:07.800><c> puede</c><00:10:08.000><c> adaptarse</c><00:10:08.440><c> a</c><00:10:08.560><c> las</c>
+
+00:10:08.710 --> 00:10:08.720 align:start position:0%
+preconfigurado que puede adaptarse a las
+ 
+
+00:10:08.720 --> 00:10:10.870 align:start position:0%
+preconfigurado que puede adaptarse a las
+necesidades<00:10:09.279><c> de</c><00:10:09.440><c> la</c><00:10:09.560><c> empresa.</c><00:10:10.160><c> Y</c><00:10:10.320><c> el</c><00:10:10.480><c> último</c>
+
+00:10:10.870 --> 00:10:10.880 align:start position:0%
+necesidades de la empresa. Y el último
+ 
+
+00:10:10.880 --> 00:10:12.949 align:start position:0%
+necesidades de la empresa. Y el último
+componente<00:10:11.680><c> es</c><00:10:11.920><c> el</c><00:10:12.200><c> manejador</c><00:10:12.720><c> de</c>
+
+00:10:12.949 --> 00:10:12.959 align:start position:0%
+componente es el manejador de
+ 
+
+00:10:12.959 --> 00:10:15.150 align:start position:0%
+componente es el manejador de
+operaciones,<00:10:13.959><c> que</c><00:10:14.160><c> es</c><00:10:14.440><c> una</c><00:10:14.720><c> ventana</c>
+
+00:10:15.150 --> 00:10:15.160 align:start position:0%
+operaciones, que es una ventana
+ 
+
+00:10:15.160 --> 00:10:18.829 align:start position:0%
+operaciones, que es una ventana
+especializada<00:10:16.160><c> que</c><00:10:16.800><c> centraliza,</c><00:10:17.800><c> almacena</c><00:10:18.600><c> y</c>
+
+00:10:18.829 --> 00:10:18.839 align:start position:0%
+especializada que centraliza, almacena y
+ 
+
+00:10:18.839 --> 00:10:21.990 align:start position:0%
+especializada que centraliza, almacena y
+gestiona<00:10:19.760><c> todos</c><00:10:20.040><c> los</c><00:10:20.600><c> hechos</c><00:10:21.200><c> y</c><00:10:21.440><c> eventos</c>
+
+00:10:21.990 --> 00:10:22.000 align:start position:0%
+gestiona todos los hechos y eventos
+ 
+
+00:10:22.000 --> 00:10:23.829 align:start position:0%
+gestiona todos los hechos y eventos
+administrativos<00:10:23.000><c> que</c><00:10:23.200><c> ocurren</c><00:10:23.600><c> en</c><00:10:23.720><c> la</c>
+
+00:10:23.829 --> 00:10:23.839 align:start position:0%
+administrativos que ocurren en la
+ 
+
+00:10:23.839 --> 00:10:25.949 align:start position:0%
+administrativos que ocurren en la
+empresa.<00:10:24.480><c> ¿Y</c><00:10:24.640><c> cuál</c><00:10:24.800><c> es</c><00:10:24.880><c> la</c><00:10:25.000><c> diferencia</c><00:10:25.640><c> entre</c>
+
+00:10:25.949 --> 00:10:25.959 align:start position:0%
+empresa. ¿Y cuál es la diferencia entre
+ 
+
+00:10:25.959 --> 00:10:28.670 align:start position:0%
+empresa. ¿Y cuál es la diferencia entre
+los<00:10:26.320><c> hechos</c><00:10:26.720><c> y</c><00:10:26.920><c> eventos</c><00:10:27.320><c> administrativos?</c>
+
+00:10:28.670 --> 00:10:28.680 align:start position:0%
+los hechos y eventos administrativos?
+ 
+
+00:10:28.680 --> 00:10:31.030 align:start position:0%
+los hechos y eventos administrativos?
+Entonces,<00:10:29.120><c> tenemos</c><00:10:29.920><c> que</c><00:10:30.160><c> los</c><00:10:30.480><c> hechos</c>
+
+00:10:31.030 --> 00:10:31.040 align:start position:0%
+Entonces, tenemos que los hechos
+ 
+
+00:10:31.040 --> 00:10:33.310 align:start position:0%
+Entonces, tenemos que los hechos
+administrativos<00:10:32.040><c> son</c><00:10:32.360><c> aquellos</c><00:10:32.839><c> que</c><00:10:33.040><c> tienen</c>
+
+00:10:33.310 --> 00:10:33.320 align:start position:0%
+administrativos son aquellos que tienen
+ 
+
+00:10:33.320 --> 00:10:35.470 align:start position:0%
+administrativos son aquellos que tienen
+un<00:10:33.600><c> impacto</c><00:10:34.120><c> económico</c><00:10:34.920><c> y</c><00:10:35.120><c> generan</c>
+
+00:10:35.470 --> 00:10:35.480 align:start position:0%
+un impacto económico y generan
+ 
+
+00:10:35.480 --> 00:10:37.509 align:start position:0%
+un impacto económico y generan
+movimientos<00:10:35.959><c> contables</c><00:10:36.360><c> en</c><00:10:36.519><c> el</c><00:10:36.639><c> sistema,</c>
+
+00:10:37.509 --> 00:10:37.519 align:start position:0%
+movimientos contables en el sistema,
+ 
+
+00:10:37.519 --> 00:10:40.829 align:start position:0%
+movimientos contables en el sistema,
+como<00:10:37.760><c> por</c><00:10:37.959><c> ejemplo</c><00:10:38.440><c> las</c><00:10:38.880><c> ventas,</c><00:10:39.880><c> compras,</c><00:10:40.720><c> a</c>
+
+00:10:40.829 --> 00:10:40.839 align:start position:0%
+como por ejemplo las ventas, compras, a
+ 
+
+00:10:40.839 --> 00:10:42.949 align:start position:0%
+como por ejemplo las ventas, compras, a
+unos<00:10:41.079><c> a</c><00:10:41.200><c> cuentas</c><00:10:41.560><c> por</c><00:10:41.720><c> cobrar</c><00:10:42.320><c> y</c><00:10:42.560><c> a</c><00:10:42.639><c> unos</c><00:10:42.839><c> a</c>
+
+00:10:42.949 --> 00:10:42.959 align:start position:0%
+unos a cuentas por cobrar y a unos a
+ 
+
+00:10:42.959 --> 00:10:45.150 align:start position:0%
+unos a cuentas por cobrar y a unos a
+cuentas<00:10:43.320><c> por</c><00:10:43.519><c> pagar,</c><00:10:44.399><c> mientras</c><00:10:44.839><c> que</c><00:10:45.000><c> un</c>
+
+00:10:45.150 --> 00:10:45.160 align:start position:0%
+cuentas por pagar, mientras que un
+ 
+
+00:10:45.160 --> 00:10:47.629 align:start position:0%
+cuentas por pagar, mientras que un
+evento<00:10:45.920><c> administrativo</c><00:10:46.920><c> no</c><00:10:47.200><c> genera</c>
+
+00:10:47.629 --> 00:10:47.639 align:start position:0%
+evento administrativo no genera
+ 
+
+00:10:47.639 --> 00:10:50.030 align:start position:0%
+evento administrativo no genera
+movimientos<00:10:48.279><c> contables,</c><00:10:49.120><c> pero</c><00:10:49.480><c> registran</c>
+
+00:10:50.030 --> 00:10:50.040 align:start position:0%
+movimientos contables, pero registran
+ 
+
+00:10:50.040 --> 00:10:52.710 align:start position:0%
+movimientos contables, pero registran
+una<00:10:50.240><c> acción</c><00:10:50.720><c> relevante</c><00:10:51.440><c> en</c><00:10:51.680><c> el</c><00:10:51.920><c> tiempo,</c><00:10:52.440><c> como</c>
+
+00:10:52.710 --> 00:10:52.720 align:start position:0%
+una acción relevante en el tiempo, como
+ 
+
+00:10:52.720 --> 00:10:56.030 align:start position:0%
+una acción relevante en el tiempo, como
+por<00:10:52.880><c> ejemplo</c><00:10:53.720><c> las</c><00:10:54.399><c> cotizaciones,</c><00:10:55.399><c> cierres</c><00:10:55.839><c> de</c>
+
+00:10:56.030 --> 00:10:56.040 align:start position:0%
+por ejemplo las cotizaciones, cierres de
+ 
+
+00:10:56.040 --> 00:10:59.509 align:start position:0%
+por ejemplo las cotizaciones, cierres de
+mes,<00:10:56.720><c> cierre</c><00:10:57.079><c> de</c><00:10:57.360><c> años</c><00:10:58.079><c> entre</c><00:10:58.320><c> otros</c><00:10:58.680><c> eventos.</c>
+
+00:10:59.509 --> 00:10:59.519 align:start position:0%
+mes, cierre de años entre otros eventos.
+ 
+
+00:10:59.519 --> 00:11:01.790 align:start position:0%
+mes, cierre de años entre otros eventos.
+Y<00:10:59.720><c> todas</c><00:11:00.040><c> estas</c><00:11:00.399><c> acciones</c><00:11:00.800><c> se</c><00:11:01.000><c> agrupan</c><00:11:01.480><c> bajo</c>
+
+00:11:01.790 --> 00:11:01.800 align:start position:0%
+Y todas estas acciones se agrupan bajo
+ 
+
+00:11:01.800 --> 00:11:04.870 align:start position:0%
+Y todas estas acciones se agrupan bajo
+el<00:11:01.959><c> término</c><00:11:03.040><c> operaciones.</c><00:11:04.040><c> Y</c><00:11:04.200><c> el</c><00:11:04.360><c> manejador</c>
+
+00:11:04.870 --> 00:11:04.880 align:start position:0%
+el término operaciones. Y el manejador
+ 
+
+00:11:04.880 --> 00:11:08.069 align:start position:0%
+el término operaciones. Y el manejador
+de<00:11:05.120><c> operaciones</c><00:11:06.079><c> es</c><00:11:06.399><c> el</c><00:11:06.680><c> centro</c><00:11:07.000><c> de</c><00:11:07.200><c> gestión</c>
+
+00:11:08.069 --> 00:11:08.079 align:start position:0%
+de operaciones es el centro de gestión
+ 
+
+00:11:08.079 --> 00:11:11.110 align:start position:0%
+de operaciones es el centro de gestión
+donde<00:11:08.399><c> se</c><00:11:08.680><c> almacenan</c><00:11:09.480><c> y</c><00:11:09.680><c> se</c><00:11:09.839><c> administran.</c>
+
+00:11:11.110 --> 00:11:11.120 align:start position:0%
+donde se almacenan y se administran.
+ 
+
+00:11:11.120 --> 00:11:12.990 align:start position:0%
+donde se almacenan y se administran.
+Desde<00:11:11.480><c> esta</c><00:11:11.720><c> herramienta,</c><00:11:12.240><c> los</c><00:11:12.399><c> usuarios</c><00:11:12.839><c> van</c>
+
+00:11:12.990 --> 00:11:13.000 align:start position:0%
+Desde esta herramienta, los usuarios van
+ 
+
+00:11:13.000 --> 00:11:16.190 align:start position:0%
+Desde esta herramienta, los usuarios van
+a<00:11:13.160><c> poder</c><00:11:13.480><c> crear</c><00:11:14.399><c> según</c><00:11:14.839><c> su</c><00:11:15.200><c> licenciamiento,</c>
+
+00:11:16.190 --> 00:11:16.200 align:start position:0%
+a poder crear según su licenciamiento,
+ 
+
+00:11:16.200 --> 00:11:18.590 align:start position:0%
+a poder crear según su licenciamiento,
+por<00:11:16.399><c> ejemplo,</c><00:11:16.839><c> movimientos</c><00:11:17.600><c> contables,</c>
+
+00:11:18.590 --> 00:11:18.600 align:start position:0%
+por ejemplo, movimientos contables,
+ 
+
+00:11:18.600 --> 00:11:21.069 align:start position:0%
+por ejemplo, movimientos contables,
+vamos<00:11:18.800><c> a</c><00:11:18.920><c> poder</c><00:11:19.160><c> registrar</c><00:11:19.880><c> gastos</c><00:11:20.720><c> e</c>
+
+00:11:21.069 --> 00:11:21.079 align:start position:0%
+vamos a poder registrar gastos e
+ 
+
+00:11:21.079 --> 00:11:23.550 align:start position:0%
+vamos a poder registrar gastos e
+ingresos,<00:11:22.079><c> también</c><00:11:22.600><c> los</c><00:11:22.920><c> pagos</c><00:11:23.240><c> a</c><00:11:23.399><c> los</c>
+
+00:11:23.550 --> 00:11:23.560 align:start position:0%
+ingresos, también los pagos a los
+ 
+
+00:11:23.560 --> 00:11:26.030 align:start position:0%
+ingresos, también los pagos a los
+empleados<00:11:24.160><c> con</c><00:11:24.360><c> su</c><00:11:24.680><c> reporte</c><00:11:25.079><c> de</c><00:11:25.200><c> nómina</c>
+
+00:11:26.030 --> 00:11:26.040 align:start position:0%
+empleados con su reporte de nómina
+ 
+
+00:11:26.040 --> 00:11:29.470 align:start position:0%
+empleados con su reporte de nómina
+electrónica,<00:11:27.040><c> eh</c><00:11:27.440><c> compras,</c><00:11:28.360><c> cotizaciones</c><00:11:29.240><c> y</c>
+
+00:11:29.470 --> 00:11:29.480 align:start position:0%
+electrónica, eh compras, cotizaciones y
+ 
+
+00:11:29.480 --> 00:11:32.350 align:start position:0%
+electrónica, eh compras, cotizaciones y
+facturas<00:11:29.959><c> de</c><00:11:30.160><c> venta</c><00:11:31.040><c> y</c><00:11:31.240><c> lo</c><00:11:31.360><c> que</c><00:11:31.519><c> son</c><00:11:31.839><c> abonos</c><00:11:32.200><c> a</c>
+
+00:11:32.350 --> 00:11:32.360 align:start position:0%
+facturas de venta y lo que son abonos a
+ 
+
+00:11:32.360 --> 00:11:34.550 align:start position:0%
+facturas de venta y lo que son abonos a
+cuentas<00:11:32.800><c> por</c><00:11:33.079><c> pagar</c><00:11:33.480><c> y</c><00:11:33.639><c> abonos</c><00:11:33.920><c> a</c><00:11:34.040><c> cuentas</c><00:11:34.360><c> por</c>
+
+00:11:34.550 --> 00:11:34.560 align:start position:0%
+cuentas por pagar y abonos a cuentas por
+ 
+
+00:11:34.560 --> 00:11:36.990 align:start position:0%
+cuentas por pagar y abonos a cuentas por
+cobrar,<00:11:35.279><c> entre</c><00:11:35.560><c> otras</c><00:11:35.920><c> operaciones</c><00:11:36.519><c> que</c><00:11:36.680><c> ya</c>
+
+00:11:36.990 --> 00:11:37.000 align:start position:0%
+cobrar, entre otras operaciones que ya
+ 
+
+00:11:37.000 --> 00:11:38.670 align:start position:0%
+cobrar, entre otras operaciones que ya
+depende<00:11:37.360><c> de</c><00:11:37.600><c> cada</c><00:11:37.920><c> módulo</c><00:11:38.399><c> y</c><00:11:38.560><c> el</c>
+
+00:11:38.670 --> 00:11:38.680 align:start position:0%
+depende de cada módulo y el
+ 
+
+00:11:38.680 --> 00:11:40.670 align:start position:0%
+depende de cada módulo y el
+licenciamiento<00:11:39.320><c> que</c><00:11:39.480><c> tenga</c><00:11:39.800><c> cada</c><00:11:40.079><c> uno</c><00:11:40.240><c> de</c><00:11:40.480><c> los</c>
+
+00:11:40.670 --> 00:11:40.680 align:start position:0%
+licenciamiento que tenga cada uno de los
+ 
+
+00:11:40.680 --> 00:11:42.949 align:start position:0%
+licenciamiento que tenga cada uno de los
+usuarios.<00:11:41.680><c> Bueno,</c><00:11:41.839><c> ya</c><00:11:42.040><c> después</c><00:11:42.320><c> de</c><00:11:42.519><c> ver</c>
+
+00:11:42.949 --> 00:11:42.959 align:start position:0%
+usuarios. Bueno, ya después de ver
+ 
+
+00:11:42.959 --> 00:11:45.230 align:start position:0%
+usuarios. Bueno, ya después de ver
+cuáles<00:11:43.240><c> son</c><00:11:43.399><c> esos</c><00:11:43.720><c> componentes</c><00:11:44.440><c> principales,</c>
+
+00:11:45.230 --> 00:11:45.240 align:start position:0%
+cuáles son esos componentes principales,
+ 
+
+00:11:45.240 --> 00:11:47.910 align:start position:0%
+cuáles son esos componentes principales,
+ahora<00:11:45.480><c> vamos</c><00:11:45.680><c> a</c><00:11:45.839><c> ver</c><00:11:46.279><c> cómo</c><00:11:46.560><c> se</c><00:11:46.800><c> integran</c><00:11:47.560><c> los</c>
+
+00:11:47.910 --> 00:11:47.920 align:start position:0%
+ahora vamos a ver cómo se integran los
+ 
+
+00:11:47.920 --> 00:11:49.710 align:start position:0%
+ahora vamos a ver cómo se integran los
+componentes<00:11:48.639><c> en</c><00:11:48.880><c> una</c>
+
+00:11:49.710 --> 00:11:49.720 align:start position:0%
+componentes en una
+ 
+
+00:11:49.720 --> 00:11:52.430 align:start position:0%
+componentes en una
+operación.<00:11:50.720><c> Vamos</c><00:11:50.920><c> a</c><00:11:51.079><c> tomar</c><00:11:51.360><c> como</c><00:11:51.600><c> ejemplo</c><00:11:52.160><c> el</c>
+
+00:11:52.430 --> 00:11:52.440 align:start position:0%
+operación. Vamos a tomar como ejemplo el
+ 
+
+00:11:52.440 --> 00:11:54.389 align:start position:0%
+operación. Vamos a tomar como ejemplo el
+registro<00:11:52.839><c> de</c><00:11:53.000><c> un</c><00:11:53.120><c> gasto</c><00:11:53.480><c> por</c><00:11:53.760><c> servicios</c>
+
+00:11:54.389 --> 00:11:54.399 align:start position:0%
+registro de un gasto por servicios
+ 
+
+00:11:54.399 --> 00:11:57.110 align:start position:0%
+registro de un gasto por servicios
+públicos.<00:11:55.360><c> Y</c><00:11:55.560><c> para</c><00:11:55.839><c> registrar</c><00:11:56.279><c> correctamente</c>
+
+00:11:57.110 --> 00:11:57.120 align:start position:0%
+públicos. Y para registrar correctamente
+ 
+
+00:11:57.120 --> 00:11:59.190 align:start position:0%
+públicos. Y para registrar correctamente
+un<00:11:57.320><c> gasto</c><00:11:57.600><c> en</c><00:11:57.720><c> el</c><00:11:57.880><c> sistema,</c><00:11:58.680><c> los</c><00:11:58.880><c> seis</c>
+
+00:11:59.190 --> 00:11:59.200 align:start position:0%
+un gasto en el sistema, los seis
+ 
+
+00:11:59.200 --> 00:12:01.269 align:start position:0%
+un gasto en el sistema, los seis
+componentes<00:11:59.680><c> del</c><00:11:59.880><c> módulo</c><00:12:00.160><c> de</c><00:12:00.320><c> sistema</c><00:12:00.639><c> básico</c>
+
+00:12:01.269 --> 00:12:01.279 align:start position:0%
+componentes del módulo de sistema básico
+ 
+
+00:12:01.279 --> 00:12:03.069 align:start position:0%
+componentes del módulo de sistema básico
+trabajan<00:12:01.720><c> en</c><00:12:01.959><c> conjunto</c><00:12:02.399><c> de</c><00:12:02.560><c> la</c><00:12:02.680><c> siguiente</c>
+
+00:12:03.069 --> 00:12:03.079 align:start position:0%
+trabajan en conjunto de la siguiente
+ 
+
+00:12:03.079 --> 00:12:05.350 align:start position:0%
+trabajan en conjunto de la siguiente
+manera.<00:12:04.040><c> Al</c><00:12:04.240><c> registrar</c><00:12:04.639><c> una</c><00:12:04.839><c> operación</c><00:12:05.200><c> de</c>
+
+00:12:05.350 --> 00:12:05.360 align:start position:0%
+manera. Al registrar una operación de
+ 
+
+00:12:05.360 --> 00:12:07.870 align:start position:0%
+manera. Al registrar una operación de
+gasto,<00:12:05.720><c> lo</c><00:12:05.920><c> primero</c><00:12:06.240><c> que</c><00:12:06.360><c> debemos</c><00:12:06.720><c> definir</c><00:12:07.560><c> es</c>
+
+00:12:07.870 --> 00:12:07.880 align:start position:0%
+gasto, lo primero que debemos definir es
+ 
+
+00:12:07.880 --> 00:12:09.990 align:start position:0%
+gasto, lo primero que debemos definir es
+el<00:12:08.160><c> documento</c><00:12:08.760><c> que</c><00:12:08.920><c> va</c><00:12:09.040><c> a</c><00:12:09.160><c> respaldar</c><00:12:09.680><c> la</c>
+
+00:12:09.990 --> 00:12:10.000 align:start position:0%
+el documento que va a respaldar la
+ 
+
+00:12:10.000 --> 00:12:12.710 align:start position:0%
+el documento que va a respaldar la
+transacción,<00:12:11.000><c> en</c><00:12:11.240><c> este</c><00:12:11.600><c> caso,</c><00:12:12.399><c> un</c>
+
+00:12:12.710 --> 00:12:12.720 align:start position:0%
+transacción, en este caso, un
+ 
+
+00:12:12.720 --> 00:12:15.069 align:start position:0%
+transacción, en este caso, un
+comprobante<00:12:13.320><c> de</c><00:12:13.440><c> egreso</c><00:12:14.120><c> que</c><00:12:14.320><c> se</c><00:12:14.480><c> selecciona</c>
+
+00:12:15.069 --> 00:12:15.079 align:start position:0%
+comprobante de egreso que se selecciona
+ 
+
+00:12:15.079 --> 00:12:17.269 align:start position:0%
+comprobante de egreso que se selecciona
+desde<00:12:15.320><c> el</c><00:12:15.519><c> componente</c><00:12:16.360><c> documentos</c><00:12:17.000><c> de</c>
+
+00:12:17.269 --> 00:12:17.279 align:start position:0%
+desde el componente documentos de
+ 
+
+00:12:17.279 --> 00:12:19.550 align:start position:0%
+desde el componente documentos de
+soporte.<00:12:18.279><c> Después</c><00:12:18.560><c> de</c><00:12:18.720><c> seleccionar</c><00:12:19.360><c> el</c>
+
+00:12:19.550 --> 00:12:19.560 align:start position:0%
+soporte. Después de seleccionar el
+ 
+
+00:12:19.560 --> 00:12:21.629 align:start position:0%
+soporte. Después de seleccionar el
+documento<00:12:20.000><c> de</c><00:12:20.240><c> soporte,</c><00:12:20.880><c> nos</c><00:12:21.120><c> genera</c>
+
+00:12:21.629 --> 00:12:21.639 align:start position:0%
+documento de soporte, nos genera
+ 
+
+00:12:21.639 --> 00:12:23.430 align:start position:0%
+documento de soporte, nos genera
+automáticamente<00:12:22.639><c> el</c><00:12:22.880><c> número</c><00:12:23.199><c> de</c><00:12:23.320><c> la</c>
+
+00:12:23.430 --> 00:12:23.440 align:start position:0%
+automáticamente el número de la
+ 
+
+00:12:23.440 --> 00:12:25.629 align:start position:0%
+automáticamente el número de la
+transacción<00:12:24.160><c> con</c><00:12:24.360><c> su</c><00:12:24.600><c> prefijo</c><00:12:25.320><c> y</c><00:12:25.480><c> su</c>
+
+00:12:25.629 --> 00:12:25.639 align:start position:0%
+transacción con su prefijo y su
+ 
+
+00:12:25.639 --> 00:12:28.069 align:start position:0%
+transacción con su prefijo y su
+numeración<00:12:26.360><c> automática.</c><00:12:27.360><c> Posteriormente</c>
+
+00:12:28.069 --> 00:12:28.079 align:start position:0%
+numeración automática. Posteriormente
+ 
+
+00:12:28.079 --> 00:12:30.389 align:start position:0%
+numeración automática. Posteriormente
+podemos<00:12:28.440><c> indicar</c><00:12:29.160><c> lo</c><00:12:29.320><c> que</c><00:12:29.440><c> es</c><00:12:29.560><c> la</c><00:12:29.760><c> fecha</c><00:12:30.040><c> de</c><00:12:30.240><c> la</c>
+
+00:12:30.389 --> 00:12:30.399 align:start position:0%
+podemos indicar lo que es la fecha de la
+ 
+
+00:12:30.399 --> 00:12:33.710 align:start position:0%
+podemos indicar lo que es la fecha de la
+transacción<00:12:31.360><c> y</c><00:12:31.600><c> también</c><00:12:32.199><c> un</c><00:12:32.440><c> detalle.</c><00:12:33.519><c> Y</c>
+
+00:12:33.710 --> 00:12:33.720 align:start position:0%
+transacción y también un detalle. Y
+ 
+
+00:12:33.720 --> 00:12:35.230 align:start position:0%
+transacción y también un detalle. Y
+después<00:12:34.000><c> de</c><00:12:34.120><c> indicar</c><00:12:34.440><c> la</c><00:12:34.600><c> información</c><00:12:35.040><c> de</c>
+
+00:12:35.230 --> 00:12:35.240 align:start position:0%
+después de indicar la información de
+ 
+
+00:12:35.240 --> 00:12:38.230 align:start position:0%
+después de indicar la información de
+encabezado,<00:12:36.240><c> debemos</c><00:12:36.880><c> seleccionar</c><00:12:37.880><c> el</c>
+
+00:12:38.230 --> 00:12:38.240 align:start position:0%
+encabezado, debemos seleccionar el
+ 
+
+00:12:38.240 --> 00:12:41.069 align:start position:0%
+encabezado, debemos seleccionar el
+tercero<00:12:38.880><c> que</c><00:12:39.120><c> involucra</c><00:12:39.760><c> la</c><00:12:40.079><c> transacción,</c>
+
+00:12:41.069 --> 00:12:41.079 align:start position:0%
+tercero que involucra la transacción,
+ 
+
+00:12:41.079 --> 00:12:42.949 align:start position:0%
+tercero que involucra la transacción,
+como<00:12:41.320><c> por</c><00:12:41.519><c> ejemplo</c><00:12:41.920><c> la</c><00:12:42.120><c> empresa</c><00:12:42.440><c> proveedora</c>
+
+00:12:42.949 --> 00:12:42.959 align:start position:0%
+como por ejemplo la empresa proveedora
+ 
+
+00:12:42.959 --> 00:12:45.509 align:start position:0%
+como por ejemplo la empresa proveedora
+del<00:12:43.240><c> Servicio</c><00:12:43.639><c> de</c><00:12:43.760><c> energía.</c><00:12:44.639><c> Y</c><00:12:44.839><c> este</c><00:12:45.079><c> lo</c><00:12:45.279><c> vamos</c>
+
+00:12:45.509 --> 00:12:45.519 align:start position:0%
+del Servicio de energía. Y este lo vamos
+ 
+
+00:12:45.519 --> 00:12:47.829 align:start position:0%
+del Servicio de energía. Y este lo vamos
+a<00:12:45.680><c> seleccionar</c><00:12:46.600><c> desde</c><00:12:46.920><c> el</c><00:12:47.120><c> componente</c>
+
+00:12:47.829 --> 00:12:47.839 align:start position:0%
+a seleccionar desde el componente
+ 
+
+00:12:47.839 --> 00:12:50.389 align:start position:0%
+a seleccionar desde el componente
+catálogo<00:12:48.320><c> de</c><00:12:48.639><c> terceros.</c><00:12:49.639><c> Luego</c><00:12:49.839><c> de</c><00:12:50.000><c> indicar</c>
+
+00:12:50.389 --> 00:12:50.399 align:start position:0%
+catálogo de terceros. Luego de indicar
+ 
+
+00:12:50.399 --> 00:12:53.150 align:start position:0%
+catálogo de terceros. Luego de indicar
+el<00:12:50.560><c> tercero,</c><00:12:51.079><c> ya</c><00:12:51.320><c> podemos</c><00:12:51.800><c> definir</c><00:12:52.480><c> la</c><00:12:52.760><c> cuenta</c>
+
+00:12:53.150 --> 00:12:53.160 align:start position:0%
+el tercero, ya podemos definir la cuenta
+ 
+
+00:12:53.160 --> 00:12:55.550 align:start position:0%
+el tercero, ya podemos definir la cuenta
+contable<00:12:53.839><c> adecuada,</c><00:12:54.839><c> que</c><00:12:55.120><c> este</c><00:12:55.360><c> se</c>
+
+00:12:55.550 --> 00:12:55.560 align:start position:0%
+contable adecuada, que este se
+ 
+
+00:12:55.560 --> 00:12:57.750 align:start position:0%
+contable adecuada, que este se
+selecciona<00:12:56.199><c> desde</c><00:12:56.440><c> el</c><00:12:56.639><c> componente</c><00:12:57.320><c> catálogo</c>
+
+00:12:57.750 --> 00:12:57.760 align:start position:0%
+selecciona desde el componente catálogo
+ 
+
+00:12:57.760 --> 00:13:00.590 align:start position:0%
+selecciona desde el componente catálogo
+de<00:12:57.920><c> plan</c><00:12:58.120><c> de</c><00:12:58.279><c> cuentas,</c><00:12:59.000><c> en</c><00:12:59.199><c> este</c><00:12:59.440><c> caso</c><00:12:59.720><c> la</c><00:12:59.959><c> 51</c>
+
+00:13:00.590 --> 00:13:00.600 align:start position:0%
+de plan de cuentas, en este caso la 51
+ 
+
+00:13:00.600 --> 00:13:03.350 align:start position:0%
+de plan de cuentas, en este caso la 51
+3530<00:13:01.519><c> de</c><00:13:01.720><c> servicios</c><00:13:02.320><c> públicos.</c>
+
+00:13:03.350 --> 00:13:03.360 align:start position:0%
+3530 de servicios públicos.
+ 
+
+00:13:03.360 --> 00:13:04.910 align:start position:0%
+3530 de servicios públicos.
+Adicionalmente,<00:13:04.160><c> esta</c><00:13:04.360><c> operación</c><00:13:04.720><c> nos</c>
+
+00:13:04.910 --> 00:13:04.920 align:start position:0%
+Adicionalmente, esta operación nos
+ 
+
+00:13:04.920 --> 00:13:08.030 align:start position:0%
+Adicionalmente, esta operación nos
+permite<00:13:05.519><c> aplicar</c><00:13:06.040><c> formato</c><00:13:06.920><c> para</c><00:13:07.199><c> que</c><00:13:07.360><c> en</c><00:13:07.480><c> vez</c>
+
+00:13:08.030 --> 00:13:08.040 align:start position:0%
+permite aplicar formato para que en vez
+ 
+
+00:13:08.040 --> 00:13:10.590 align:start position:0%
+permite aplicar formato para que en vez
+del<00:13:08.360><c> número</c><00:13:08.680><c> de</c><00:13:08.880><c> cuenta</c><00:13:09.440><c> nos</c><00:13:09.720><c> muestre</c><00:13:10.320><c> el</c>
+
+00:13:10.590 --> 00:13:10.600 align:start position:0%
+del número de cuenta nos muestre el
+ 
+
+00:13:10.600 --> 00:13:12.750 align:start position:0%
+del número de cuenta nos muestre el
+nombre<00:13:10.880><c> de</c><00:13:11.040><c> la</c><00:13:11.199><c> cuenta.</c><00:13:12.000><c> También</c><00:13:12.360><c> vamos</c><00:13:12.560><c> a</c>
+
+00:13:12.750 --> 00:13:12.760 align:start position:0%
+nombre de la cuenta. También vamos a
+ 
+
+00:13:12.760 --> 00:13:16.189 align:start position:0%
+nombre de la cuenta. También vamos a
+definir<00:13:13.480><c> un</c><00:13:13.760><c> detalle</c><00:13:14.480><c> por</c><00:13:14.760><c> concepto</c><00:13:15.560><c> y</c><00:13:15.800><c> sirve,</c>
+
+00:13:16.189 --> 00:13:16.199 align:start position:0%
+definir un detalle por concepto y sirve,
+ 
+
+00:13:16.199 --> 00:13:17.910 align:start position:0%
+definir un detalle por concepto y sirve,
+por<00:13:16.320><c> ejemplo,</c><00:13:16.800><c> para</c><00:13:17.000><c> visualizar</c><00:13:17.639><c> este</c>
+
+00:13:17.910 --> 00:13:17.920 align:start position:0%
+por ejemplo, para visualizar este
+ 
+
+00:13:17.920 --> 00:13:19.590 align:start position:0%
+por ejemplo, para visualizar este
+detalle<00:13:18.480><c> en</c><00:13:18.639><c> los</c><00:13:18.839><c> exploradores</c><00:13:19.399><c> de</c>
+
+00:13:19.590 --> 00:13:19.600 align:start position:0%
+detalle en los exploradores de
+ 
+
+00:13:19.600 --> 00:13:22.110 align:start position:0%
+detalle en los exploradores de
+contabilidad<00:13:20.560><c> y</c><00:13:20.720><c> debemos</c><00:13:21.079><c> definir</c><00:13:21.480><c> lo</c><00:13:21.639><c> que</c><00:13:21.800><c> es</c>
+
+00:13:22.110 --> 00:13:22.120 align:start position:0%
+contabilidad y debemos definir lo que es
+ 
+
+00:13:22.120 --> 00:13:25.230 align:start position:0%
+contabilidad y debemos definir lo que es
+el<00:13:22.360><c> valor</c><00:13:23.160><c> de</c><00:13:23.440><c> este</c><00:13:23.720><c> gasto</c><00:13:24.320><c> por</c><00:13:24.560><c> pago</c><00:13:24.959><c> por</c>
+
+00:13:25.230 --> 00:13:25.240 align:start position:0%
+el valor de este gasto por pago por
+ 
+
+00:13:25.240 --> 00:13:27.949 align:start position:0%
+el valor de este gasto por pago por
+servicios<00:13:25.839><c> públicos.</c><00:13:27.040><c> Después</c><00:13:27.360><c> de</c><00:13:27.560><c> definir</c>
+
+00:13:27.949 --> 00:13:27.959 align:start position:0%
+servicios públicos. Después de definir
+ 
+
+00:13:27.959 --> 00:13:30.470 align:start position:0%
+servicios públicos. Después de definir
+el<00:13:28.160><c> valor</c><00:13:28.480><c> del</c><00:13:28.760><c> gasto,</c><00:13:29.440><c> si</c><00:13:29.680><c> la</c><00:13:30.000><c> cuenta</c>
+
+00:13:30.470 --> 00:13:30.480 align:start position:0%
+el valor del gasto, si la cuenta
+ 
+
+00:13:30.480 --> 00:13:34.030 align:start position:0%
+el valor del gasto, si la cuenta
+contable<00:13:31.199><c> lo</c><00:13:31.560><c> requiere,</c><00:13:32.480><c> podemos</c><00:13:33.000><c> asignar</c><00:13:33.760><c> el</c>
+
+00:13:34.030 --> 00:13:34.040 align:start position:0%
+contable lo requiere, podemos asignar el
+ 
+
+00:13:34.040 --> 00:13:36.750 align:start position:0%
+contable lo requiere, podemos asignar el
+centro<00:13:34.440><c> de</c><00:13:34.680><c> costos</c><00:13:35.399><c> que</c><00:13:35.600><c> se</c><00:13:35.800><c> selecciona</c><00:13:36.480><c> desde</c>
+
+00:13:36.750 --> 00:13:36.760 align:start position:0%
+centro de costos que se selecciona desde
+ 
+
+00:13:36.760 --> 00:13:39.230 align:start position:0%
+centro de costos que se selecciona desde
+el<00:13:37.079><c> componente</c><00:13:38.079><c> explorador</c><00:13:38.639><c> gráfico</c><00:13:39.040><c> de</c>
+
+00:13:39.230 --> 00:13:39.240 align:start position:0%
+el componente explorador gráfico de
+ 
+
+00:13:39.240 --> 00:13:41.470 align:start position:0%
+el componente explorador gráfico de
+empresas,<00:13:40.000><c> asegurando</c><00:13:40.560><c> así</c><00:13:40.760><c> la</c><00:13:41.000><c> correcta</c>
+
+00:13:41.470 --> 00:13:41.480 align:start position:0%
+empresas, asegurando así la correcta
+ 
+
+00:13:41.480 --> 00:13:44.350 align:start position:0%
+empresas, asegurando así la correcta
+distribución<00:13:42.199><c> contable.</c><00:13:43.560><c> Y</c><00:13:43.800><c> después</c><00:13:44.160><c> de</c>
+
+00:13:44.350 --> 00:13:44.360 align:start position:0%
+distribución contable. Y después de
+ 
+
+00:13:44.360 --> 00:13:47.230 align:start position:0%
+distribución contable. Y después de
+indicar<00:13:44.959><c> toda</c><00:13:45.199><c> la</c><00:13:45.399><c> información</c><00:13:45.880><c> del</c><00:13:46.240><c> gasto,</c>
+
+00:13:47.230 --> 00:13:47.240 align:start position:0%
+indicar toda la información del gasto,
+ 
+
+00:13:47.240 --> 00:13:50.350 align:start position:0%
+indicar toda la información del gasto,
+incluyendo<00:13:47.839><c> su</c><00:13:48.120><c> forma</c><00:13:48.399><c> de</c><00:13:48.720><c> pago,</c><00:13:49.720><c> podemos</c>
+
+00:13:50.350 --> 00:13:50.360 align:start position:0%
+incluyendo su forma de pago, podemos
+ 
+
+00:13:50.360 --> 00:13:52.470 align:start position:0%
+incluyendo su forma de pago, podemos
+elegir<00:13:50.759><c> el</c><00:13:50.959><c> formato</c><00:13:51.399><c> de</c><00:13:51.600><c> impresión</c><00:13:52.079><c> del</c>
+
+00:13:52.470 --> 00:13:52.480 align:start position:0%
+elegir el formato de impresión del
+ 
+
+00:13:52.480 --> 00:13:55.430 align:start position:0%
+elegir el formato de impresión del
+comprobante<00:13:53.480><c> desde</c><00:13:54.000><c> el</c><00:13:54.320><c> componente</c><00:13:55.160><c> del</c>
+
+00:13:55.430 --> 00:13:55.440 align:start position:0%
+comprobante desde el componente del
+ 
+
+00:13:55.440 --> 00:13:57.790 align:start position:0%
+comprobante desde el componente del
+catálogo<00:13:55.839><c> de</c><00:13:55.959><c> documentos</c><00:13:56.480><c> de</c><00:13:56.639><c> impresión,</c><00:13:57.600><c> ya</c>
+
+00:13:57.790 --> 00:13:57.800 align:start position:0%
+catálogo de documentos de impresión, ya
+ 
+
+00:13:57.800 --> 00:14:01.829 align:start position:0%
+catálogo de documentos de impresión, ya
+sea<00:13:58.240><c> en</c><00:13:58.440><c> PDF</c><00:13:59.000><c> para</c><00:13:59.279><c> impresión</c><00:14:00.040><c> o</c><00:14:00.480><c> en</c><00:14:00.680><c> HTML</c><00:14:01.639><c> para</c>
+
+00:14:01.829 --> 00:14:01.839 align:start position:0%
+sea en PDF para impresión o en HTML para
+ 
+
+00:14:01.839 --> 00:14:04.990 align:start position:0%
+sea en PDF para impresión o en HTML para
+su<00:14:02.040><c> envío</c><00:14:02.440><c> o</c><00:14:02.680><c> publicación</c><00:14:03.279><c> en</c><00:14:03.480><c> plataforma.</c>
+
+00:14:04.990 --> 00:14:05.000 align:start position:0%
+su envío o publicación en plataforma.
+ 
+
+00:14:05.000 --> 00:14:07.470 align:start position:0%
+su envío o publicación en plataforma.
+Y<00:14:05.199><c> por</c><00:14:05.360><c> último,</c><00:14:05.880><c> si</c><00:14:06.040><c> le</c><00:14:06.199><c> damos</c><00:14:06.480><c> finalizar</c><00:14:07.160><c> a</c><00:14:07.360><c> la</c>
+
+00:14:07.470 --> 00:14:07.480 align:start position:0%
+Y por último, si le damos finalizar a la
+ 
+
+00:14:07.480 --> 00:14:10.230 align:start position:0%
+Y por último, si le damos finalizar a la
+operación,<00:14:08.440><c> queda</c><00:14:08.839><c> registrada</c><00:14:09.759><c> en</c><00:14:09.959><c> el</c>
+
+00:14:10.230 --> 00:14:10.240 align:start position:0%
+operación, queda registrada en el
+ 
+
+00:14:10.240 --> 00:14:12.230 align:start position:0%
+operación, queda registrada en el
+componente<00:14:10.839><c> del</c><00:14:11.040><c> manejador</c><00:14:11.519><c> de</c>
+
+00:14:12.230 --> 00:14:12.240 align:start position:0%
+componente del manejador de
+ 
+
+00:14:12.240 --> 00:14:15.110 align:start position:0%
+componente del manejador de
+operaciones.<00:14:13.240><c> Y</c><00:14:13.480><c> como</c><00:14:13.759><c> resultado</c><00:14:14.560><c> se</c><00:14:14.800><c> puede</c>
+
+00:14:15.110 --> 00:14:15.120 align:start position:0%
+operaciones. Y como resultado se puede
+ 
+
+00:14:15.120 --> 00:14:17.150 align:start position:0%
+operaciones. Y como resultado se puede
+observar<00:14:15.600><c> que</c><00:14:15.800><c> cuando</c><00:14:16.040><c> se</c><00:14:16.240><c> registra</c><00:14:16.920><c> una</c>
+
+00:14:17.150 --> 00:14:17.160 align:start position:0%
+observar que cuando se registra una
+ 
+
+00:14:17.160 --> 00:14:19.430 align:start position:0%
+observar que cuando se registra una
+operación<00:14:17.600><c> en</c><00:14:17.759><c> el</c><00:14:17.959><c> sistema,</c><00:14:18.880><c> los</c><00:14:19.120><c> seis</c>
+
+00:14:19.430 --> 00:14:19.440 align:start position:0%
+operación en el sistema, los seis
+ 
+
+00:14:19.440 --> 00:14:21.629 align:start position:0%
+operación en el sistema, los seis
+componentes<00:14:20.000><c> del</c><00:14:20.199><c> módulo</c><00:14:20.519><c> de</c><00:14:20.680><c> sistema</c><00:14:21.040><c> básico</c>
+
+00:14:21.629 --> 00:14:21.639 align:start position:0%
+componentes del módulo de sistema básico
+ 
+
+00:14:21.639 --> 00:14:23.990 align:start position:0%
+componentes del módulo de sistema básico
+trabajan<00:14:22.040><c> de</c><00:14:22.199><c> manera</c><00:14:22.800><c> integrada</c><00:14:23.720><c> para</c>
+
+00:14:23.990 --> 00:14:24.000 align:start position:0%
+trabajan de manera integrada para
+ 
+
+00:14:24.000 --> 00:14:25.870 align:start position:0%
+trabajan de manera integrada para
+garantizar<00:14:24.639><c> que</c><00:14:24.800><c> la</c><00:14:25.000><c> transacción</c><00:14:25.560><c> quede</c>
+
+00:14:25.870 --> 00:14:25.880 align:start position:0%
+garantizar que la transacción quede
+ 
+
+00:14:25.880 --> 00:14:28.350 align:start position:0%
+garantizar que la transacción quede
+correctamente<00:14:26.600><c> documentada</c><00:14:27.560><c> y</c><00:14:27.839><c> cada</c><00:14:28.079><c> uno</c><00:14:28.279><c> de</c>
+
+00:14:28.350 --> 00:14:28.360 align:start position:0%
+correctamente documentada y cada uno de
+ 
+
+00:14:28.360 --> 00:14:30.910 align:start position:0%
+correctamente documentada y cada uno de
+los<00:14:28.680><c> componentes</c><00:14:29.320><c> tienen</c><00:14:29.680><c> su</c><00:14:29.839><c> objetivo.</c>
+
+00:14:30.910 --> 00:14:30.920 align:start position:0%
+los componentes tienen su objetivo.
+ 
+
+00:14:30.920 --> 00:14:33.189 align:start position:0%
+los componentes tienen su objetivo.
+Documento<00:14:31.399><c> de</c><00:14:31.600><c> soporte</c><00:14:32.320><c> respalda</c><00:14:32.800><c> la</c>
+
+00:14:33.189 --> 00:14:33.199 align:start position:0%
+Documento de soporte respalda la
+ 
+
+00:14:33.199 --> 00:14:36.069 align:start position:0%
+Documento de soporte respalda la
+operación.<00:14:34.199><c> El</c><00:14:34.360><c> plan</c><00:14:34.600><c> de</c><00:14:34.800><c> cuentas</c><00:14:35.560><c> asegura</c>
+
+00:14:36.069 --> 00:14:36.079 align:start position:0%
+operación. El plan de cuentas asegura
+ 
+
+00:14:36.079 --> 00:14:38.389 align:start position:0%
+operación. El plan de cuentas asegura
+que<00:14:36.199><c> el</c><00:14:36.360><c> asiento</c><00:14:36.720><c> contable</c><00:14:37.160><c> se</c><00:14:37.399><c> registre</c>
+
+00:14:38.389 --> 00:14:38.399 align:start position:0%
+que el asiento contable se registre
+ 
+
+00:14:38.399 --> 00:14:40.509 align:start position:0%
+que el asiento contable se registre
+correctamente.<00:14:39.399><c> El</c><00:14:39.560><c> explorador</c><00:14:40.000><c> gráfico</c><00:14:40.320><c> de</c>
+
+00:14:40.509 --> 00:14:40.519 align:start position:0%
+correctamente. El explorador gráfico de
+ 
+
+00:14:40.519 --> 00:14:42.550 align:start position:0%
+correctamente. El explorador gráfico de
+empresas<00:14:41.040><c> facilita</c><00:14:41.600><c> la</c><00:14:41.800><c> asignación</c><00:14:42.320><c> de</c>
+
+00:14:42.550 --> 00:14:42.560 align:start position:0%
+empresas facilita la asignación de
+ 
+
+00:14:42.560 --> 00:14:45.590 align:start position:0%
+empresas facilita la asignación de
+costos<00:14:43.560><c> áreas</c><00:14:44.399><c> correspondientes.</c><00:14:45.399><c> El</c>
+
+00:14:45.590 --> 00:14:45.600 align:start position:0%
+costos áreas correspondientes. El
+ 
+
+00:14:45.600 --> 00:14:47.509 align:start position:0%
+costos áreas correspondientes. El
+catálogo<00:14:46.040><c> de</c><00:14:46.160><c> tercero</c><00:14:46.560><c> permite</c><00:14:46.920><c> identificar</c>
+
+00:14:47.509 --> 00:14:47.519 align:start position:0%
+catálogo de tercero permite identificar
+ 
+
+00:14:47.519 --> 00:14:50.150 align:start position:0%
+catálogo de tercero permite identificar
+a<00:14:47.680><c> los</c><00:14:47.880><c> involucrados</c><00:14:48.519><c> en</c><00:14:48.680><c> la</c><00:14:48.839><c> transacción.</c><00:14:50.000><c> El</c>
+
+00:14:50.150 --> 00:14:50.160 align:start position:0%
+a los involucrados en la transacción. El
+ 
+
+00:14:50.160 --> 00:14:51.870 align:start position:0%
+a los involucrados en la transacción. El
+documento<00:14:50.639><c> de</c><00:14:50.800><c> impresión</c><00:14:51.320><c> genera</c><00:14:51.720><c> el</c>
+
+00:14:51.870 --> 00:14:51.880 align:start position:0%
+documento de impresión genera el
+ 
+
+00:14:51.880 --> 00:14:54.350 align:start position:0%
+documento de impresión genera el
+comprobante<00:14:52.440><c> final,</c><00:14:53.000><c> ya</c><00:14:53.240><c> sea</c><00:14:53.480><c> en</c><00:14:53.600><c> papel</c><00:14:54.040><c> o</c><00:14:54.199><c> en</c>
+
+00:14:54.350 --> 00:14:54.360 align:start position:0%
+comprobante final, ya sea en papel o en
+ 
+
+00:14:54.360 --> 00:14:56.470 align:start position:0%
+comprobante final, ya sea en papel o en
+formato<00:14:54.800><c> digital,</c><00:14:55.560><c> y</c><00:14:55.759><c> el</c><00:14:55.880><c> manejador</c><00:14:56.360><c> de</c>
+
+00:14:56.470 --> 00:14:56.480 align:start position:0%
+formato digital, y el manejador de
+ 
+
+00:14:56.480 --> 00:14:58.350 align:start position:0%
+formato digital, y el manejador de
+operaciones<00:14:57.120><c> permite</c><00:14:57.600><c> registrar</c><00:14:58.120><c> el</c>
+
+00:14:58.350 --> 00:14:58.360 align:start position:0%
+operaciones permite registrar el
+ 
+
+00:14:58.360 --> 00:15:01.550 align:start position:0%
+operaciones permite registrar el
+movimiento.<00:14:59.199><c> Y</c><00:14:59.360><c> así</c><00:14:59.800><c> cada</c><00:15:00.199><c> operación</c><00:15:01.160><c> queda</c>
+
+00:15:01.550 --> 00:15:01.560 align:start position:0%
+movimiento. Y así cada operación queda
+ 
+
+00:15:01.560 --> 00:15:03.749 align:start position:0%
+movimiento. Y así cada operación queda
+registrada<00:15:02.279><c> con</c><00:15:02.759><c> trazabilidad,</c>
+
+00:15:03.749 --> 00:15:03.759 align:start position:0%
+registrada con trazabilidad,
+ 
+
+00:15:03.759 --> 00:15:06.230 align:start position:0%
+registrada con trazabilidad,
+cumplimiento<00:15:04.560><c> normativo,</c><00:15:05.560><c> soporte</c>
+
+00:15:06.230 --> 00:15:06.240 align:start position:0%
+cumplimiento normativo, soporte
+ 
+
+00:15:06.240 --> 00:15:08.949 align:start position:0%
+cumplimiento normativo, soporte
+documental,<00:15:07.240><c> garantizando</c><00:15:07.959><c> así</c><00:15:08.360><c> una</c><00:15:08.600><c> gestión</c>
+
+00:15:08.949 --> 00:15:08.959 align:start position:0%
+documental, garantizando así una gestión
+ 
+
+00:15:08.959 --> 00:15:10.150 align:start position:0%
+documental, garantizando así una gestión
+contable
+
+00:15:10.150 --> 00:15:10.160 align:start position:0%
+contable
+ 
+
+00:15:10.160 --> 00:15:12.509 align:start position:0%
+contable
+eficiente.<00:15:11.160><c> Ahora</c><00:15:11.480><c> vamos</c><00:15:11.680><c> a</c><00:15:11.839><c> ver</c><00:15:12.040><c> con</c><00:15:12.279><c> más</c>
+
+00:15:12.509 --> 00:15:12.519 align:start position:0%
+eficiente. Ahora vamos a ver con más
+ 
+
+00:15:12.519 --> 00:15:14.990 align:start position:0%
+eficiente. Ahora vamos a ver con más
+detalle<00:15:13.240><c> qué</c><00:15:13.480><c> pasa</c><00:15:13.759><c> cuando</c><00:15:13.959><c> se</c><00:15:14.199><c> registra</c><00:15:14.759><c> una</c>
+
+00:15:14.990 --> 00:15:15.000 align:start position:0%
+detalle qué pasa cuando se registra una
+ 
+
+00:15:15.000 --> 00:15:17.590 align:start position:0%
+detalle qué pasa cuando se registra una
+operación<00:15:15.440><c> en</c><00:15:15.639><c> el</c><00:15:15.839><c> sistema.</c><00:15:16.839><c> Cada</c><00:15:17.120><c> vez</c><00:15:17.360><c> que</c>
+
+00:15:17.590 --> 00:15:17.600 align:start position:0%
+operación en el sistema. Cada vez que
+ 
+
+00:15:17.600 --> 00:15:19.829 align:start position:0%
+operación en el sistema. Cada vez que
+registramos<00:15:18.120><c> una</c><00:15:18.320><c> operación</c><00:15:18.759><c> en</c><00:15:18.959><c> el</c><00:15:19.160><c> sistema,</c>
+
+00:15:19.829 --> 00:15:19.839 align:start position:0%
+registramos una operación en el sistema,
+ 
+
+00:15:19.839 --> 00:15:21.870 align:start position:0%
+registramos una operación en el sistema,
+se<00:15:20.079><c> activan</c><00:15:20.480><c> una</c><00:15:20.680><c> serie</c><00:15:20.920><c> de</c><00:15:21.120><c> procesos</c>
+
+00:15:21.870 --> 00:15:21.880 align:start position:0%
+se activan una serie de procesos
+ 
+
+00:15:21.880 --> 00:15:24.230 align:start position:0%
+se activan una serie de procesos
+automáticos<00:15:22.880><c> y</c><00:15:23.079><c> estos</c><00:15:23.360><c> procesos</c><00:15:23.839><c> aseguran</c>
+
+00:15:24.230 --> 00:15:24.240 align:start position:0%
+automáticos y estos procesos aseguran
+ 
+
+00:15:24.240 --> 00:15:26.310 align:start position:0%
+automáticos y estos procesos aseguran
+que<00:15:24.399><c> la</c><00:15:24.560><c> transacción</c><00:15:25.120><c> quede</c><00:15:25.600><c> correctamente</c>
+
+00:15:26.310 --> 00:15:26.320 align:start position:0%
+que la transacción quede correctamente
+ 
+
+00:15:26.320 --> 00:15:28.470 align:start position:0%
+que la transacción quede correctamente
+reflejada<00:15:26.759><c> en</c><00:15:26.839><c> la</c><00:15:27.199><c> contabilidad,</c><00:15:28.199><c> los</c>
+
+00:15:28.470 --> 00:15:28.480 align:start position:0%
+reflejada en la contabilidad, los
+ 
+
+00:15:28.480 --> 00:15:30.870 align:start position:0%
+reflejada en la contabilidad, los
+estados<00:15:28.839><c> financieros</c><00:15:29.639><c> y</c><00:15:29.880><c> otros</c><00:15:30.199><c> módulos.</c>
+
+00:15:30.870 --> 00:15:30.880 align:start position:0%
+estados financieros y otros módulos.
+ 
+
+00:15:30.880 --> 00:15:34.189 align:start position:0%
+estados financieros y otros módulos.
+Veamos<00:15:31.240><c> qué</c><00:15:31.759><c> sucede.</c><00:15:32.759><c> El</c><00:15:33.000><c> primer</c><00:15:33.440><c> impacto</c><00:15:33.959><c> que</c>
+
+00:15:34.189 --> 00:15:34.199 align:start position:0%
+Veamos qué sucede. El primer impacto que
+ 
+
+00:15:34.199 --> 00:15:35.910 align:start position:0%
+Veamos qué sucede. El primer impacto que
+tiene<00:15:34.440><c> una</c><00:15:34.680><c> operación</c><00:15:35.399><c> es</c><00:15:35.639><c> en</c><00:15:35.759><c> la</c>
+
+00:15:35.910 --> 00:15:35.920 align:start position:0%
+tiene una operación es en la
+ 
+
+00:15:35.920 --> 00:15:38.790 align:start position:0%
+tiene una operación es en la
+contabilidad.<00:15:37.160><c> Cuando</c><00:15:37.440><c> se</c><00:15:37.680><c> registra,</c><00:15:38.519><c> el</c>
+
+00:15:38.790 --> 00:15:38.800 align:start position:0%
+contabilidad. Cuando se registra, el
+ 
+
+00:15:38.800 --> 00:15:40.829 align:start position:0%
+contabilidad. Cuando se registra, el
+sistema<00:15:39.240><c> automáticamente</c><00:15:40.240><c> genera</c><00:15:40.639><c> los</c>
+
+00:15:40.829 --> 00:15:40.839 align:start position:0%
+sistema automáticamente genera los
+ 
+
+00:15:40.839 --> 00:15:43.230 align:start position:0%
+sistema automáticamente genera los
+asientos<00:15:41.319><c> contables</c><00:15:42.120><c> correspondientes.</c><00:15:43.120><c> Y</c>
+
+00:15:43.230 --> 00:15:43.240 align:start position:0%
+asientos contables correspondientes. Y
+ 
+
+00:15:43.240 --> 00:15:45.069 align:start position:0%
+asientos contables correspondientes. Y
+desde<00:15:43.440><c> el</c><00:15:43.600><c> manejador</c><00:15:44.040><c> de</c><00:15:44.240><c> operaciones</c><00:15:44.880><c> vamos</c>
+
+00:15:45.069 --> 00:15:45.079 align:start position:0%
+desde el manejador de operaciones vamos
+ 
+
+00:15:45.079 --> 00:15:47.670 align:start position:0%
+desde el manejador de operaciones vamos
+a<00:15:45.240><c> tener</c><00:15:45.440><c> la</c><00:15:45.680><c> posibilidad</c><00:15:46.319><c> de</c><00:15:46.560><c> consultar</c><00:15:47.399><c> un</c>
+
+00:15:47.670 --> 00:15:47.680 align:start position:0%
+a tener la posibilidad de consultar un
+ 
+
+00:15:47.680 --> 00:15:49.910 align:start position:0%
+a tener la posibilidad de consultar un
+inspector<00:15:48.240><c> de</c><00:15:48.440><c> datos,</c><00:15:49.240><c> que</c><00:15:49.480><c> es</c><00:15:49.720><c> una</c>
+
+00:15:49.910 --> 00:15:49.920 align:start position:0%
+inspector de datos, que es una
+ 
+
+00:15:49.920 --> 00:15:52.389 align:start position:0%
+inspector de datos, que es una
+herramienta<00:15:50.360><c> que</c><00:15:50.560><c> nos</c><00:15:50.759><c> permite</c><00:15:51.399><c> verificar</c>
+
+00:15:52.389 --> 00:15:52.399 align:start position:0%
+herramienta que nos permite verificar
+ 
+
+00:15:52.399 --> 00:15:54.509 align:start position:0%
+herramienta que nos permite verificar
+que<00:15:52.639><c> los</c><00:15:52.880><c> movimientos</c><00:15:53.560><c> contables</c><00:15:54.079><c> se</c><00:15:54.240><c> hayan</c>
+
+00:15:54.509 --> 00:15:54.519 align:start position:0%
+que los movimientos contables se hayan
+ 
+
+00:15:54.519 --> 00:15:56.870 align:start position:0%
+que los movimientos contables se hayan
+generado<00:15:55.120><c> correctamente</c><00:15:56.120><c> junto</c><00:15:56.440><c> a</c><00:15:56.600><c> otra</c>
+
+00:15:56.870 --> 00:15:56.880 align:start position:0%
+generado correctamente junto a otra
+ 
+
+00:15:56.880 --> 00:15:59.470 align:start position:0%
+generado correctamente junto a otra
+información<00:15:57.480><c> relevante.</c><00:15:58.560><c> Por</c><00:15:58.680><c> ejemplo,</c><00:15:59.240><c> si</c>
+
+00:15:59.470 --> 00:15:59.480 align:start position:0%
+información relevante. Por ejemplo, si
+ 
+
+00:15:59.480 --> 00:16:01.509 align:start position:0%
+información relevante. Por ejemplo, si
+registramos<00:16:00.279><c> un</c><00:16:00.480><c> gasto</c><00:16:00.800><c> de</c><00:16:00.959><c> servicios</c>
+
+00:16:01.509 --> 00:16:01.519 align:start position:0%
+registramos un gasto de servicios
+ 
+
+00:16:01.519 --> 00:16:03.990 align:start position:0%
+registramos un gasto de servicios
+públicos,<00:16:02.440><c> el</c><00:16:02.680><c> sistema</c><00:16:03.120><c> creará</c><00:16:03.800><c> un</c>
+
+00:16:03.990 --> 00:16:04.000 align:start position:0%
+públicos, el sistema creará un
+ 
+
+00:16:04.000 --> 00:16:06.470 align:start position:0%
+públicos, el sistema creará un
+movimiento<00:16:04.600><c> contable</c><00:16:05.360><c> debitando</c><00:16:05.920><c> la</c><00:16:06.160><c> cuenta</c>
+
+00:16:06.470 --> 00:16:06.480 align:start position:0%
+movimiento contable debitando la cuenta
+ 
+
+00:16:06.480 --> 00:16:09.189 align:start position:0%
+movimiento contable debitando la cuenta
+de<00:16:06.680><c> gastos</c><00:16:07.319><c> y</c><00:16:07.560><c> acreditando</c><00:16:08.319><c> la</c><00:16:08.560><c> cuenta</c><00:16:08.959><c> de</c>
+
+00:16:09.189 --> 00:16:09.199 align:start position:0%
+de gastos y acreditando la cuenta de
+ 
+
+00:16:09.199 --> 00:16:12.069 align:start position:0%
+de gastos y acreditando la cuenta de
+caja,<00:16:10.079><c> cuenta</c><00:16:10.440><c> por</c><00:16:10.680><c> pagar</c><00:16:11.199><c> o</c><00:16:11.399><c> la</c><00:16:11.600><c> cuenta</c><00:16:11.880><c> de</c>
+
+00:16:12.069 --> 00:16:12.079 align:start position:0%
+caja, cuenta por pagar o la cuenta de
+ 
+
+00:16:12.079 --> 00:16:15.030 align:start position:0%
+caja, cuenta por pagar o la cuenta de
+banco<00:16:12.480><c> según</c><00:16:12.759><c> el</c><00:16:12.920><c> medio</c><00:16:13.160><c> de</c><00:16:13.800><c> pago.</c><00:16:14.800><c> Otro</c>
+
+00:16:15.030 --> 00:16:15.040 align:start position:0%
+banco según el medio de pago. Otro
+ 
+
+00:16:15.040 --> 00:16:16.829 align:start position:0%
+banco según el medio de pago. Otro
+impacto<00:16:15.440><c> que</c><00:16:15.639><c> tenemos</c><00:16:15.959><c> al</c><00:16:16.160><c> registrar</c><00:16:16.600><c> una</c>
+
+00:16:16.829 --> 00:16:16.839 align:start position:0%
+impacto que tenemos al registrar una
+ 
+
+00:16:16.839 --> 00:16:19.389 align:start position:0%
+impacto que tenemos al registrar una
+operación<00:16:17.600><c> es</c><00:16:17.880><c> que</c><00:16:18.079><c> afecta</c><00:16:18.800><c> los</c><00:16:19.079><c> estados</c>
+
+00:16:19.389 --> 00:16:19.399 align:start position:0%
+operación es que afecta los estados
+ 
+
+00:16:19.399 --> 00:16:22.069 align:start position:0%
+operación es que afecta los estados
+financieros<00:16:20.079><c> y</c><00:16:20.319><c> otros</c><00:16:20.720><c> cálculos.</c><00:16:21.800><c> Cada</c>
+
+00:16:22.069 --> 00:16:22.079 align:start position:0%
+financieros y otros cálculos. Cada
+ 
+
+00:16:22.079 --> 00:16:24.189 align:start position:0%
+financieros y otros cálculos. Cada
+operación<00:16:22.880><c> no</c><00:16:23.120><c> solo</c><00:16:23.319><c> se</c><00:16:23.519><c> refleja</c><00:16:23.959><c> en</c><00:16:24.040><c> la</c>
+
+00:16:24.189 --> 00:16:24.199 align:start position:0%
+operación no solo se refleja en la
+ 
+
+00:16:24.199 --> 00:16:26.550 align:start position:0%
+operación no solo se refleja en la
+contabilidad,<00:16:25.160><c> sino</c><00:16:25.440><c> que</c><00:16:25.639><c> también</c><00:16:25.920><c> afecta</c>
+
+00:16:26.550 --> 00:16:26.560 align:start position:0%
+contabilidad, sino que también afecta
+ 
+
+00:16:26.560 --> 00:16:28.309 align:start position:0%
+contabilidad, sino que también afecta
+diferentes<00:16:27.120><c> aspectos</c><00:16:27.600><c> financieros</c><00:16:28.079><c> de</c><00:16:28.199><c> la</c>
+
+00:16:28.309 --> 00:16:28.319 align:start position:0%
+diferentes aspectos financieros de la
+ 
+
+00:16:28.319 --> 00:16:31.629 align:start position:0%
+diferentes aspectos financieros de la
+empresa,<00:16:28.920><c> como</c><00:16:29.199><c> por</c><00:16:29.480><c> ejemplo</c><00:16:30.480><c> impuestos.</c><00:16:31.440><c> Una</c>
+
+00:16:31.629 --> 00:16:31.639 align:start position:0%
+empresa, como por ejemplo impuestos. Una
+ 
+
+00:16:31.639 --> 00:16:34.230 align:start position:0%
+empresa, como por ejemplo impuestos. Una
+factura<00:16:32.000><c> de</c><00:16:32.199><c> venta</c><00:16:32.519><c> puede</c><00:16:32.759><c> afectar</c><00:16:33.399><c> el</c><00:16:33.600><c> IVA</c><00:16:34.000><c> y</c>
+
+00:16:34.230 --> 00:16:34.240 align:start position:0%
+factura de venta puede afectar el IVA y
+ 
+
+00:16:34.240 --> 00:16:38.350 align:start position:0%
+factura de venta puede afectar el IVA y
+otros<00:16:34.800><c> tributos.</c><00:16:35.800><c> La</c><00:16:35.959><c> cartera,</c><00:16:36.959><c> un</c><00:16:37.240><c> pago</c><00:16:37.920><c> o</c><00:16:38.160><c> un</c>
+
+00:16:38.350 --> 00:16:38.360 align:start position:0%
+otros tributos. La cartera, un pago o un
+ 
+
+00:16:38.360 --> 00:16:40.430 align:start position:0%
+otros tributos. La cartera, un pago o un
+cobro<00:16:38.839><c> modifica</c><00:16:39.319><c> los</c><00:16:39.480><c> saldos</c><00:16:39.800><c> de</c><00:16:39.920><c> cuentas</c><00:16:40.279><c> por</c>
+
+00:16:40.430 --> 00:16:40.440 align:start position:0%
+cobro modifica los saldos de cuentas por
+ 
+
+00:16:40.440 --> 00:16:43.550 align:start position:0%
+cobro modifica los saldos de cuentas por
+cobrar<00:16:41.000><c> o</c><00:16:41.240><c> cuentas</c><00:16:41.639><c> por</c><00:16:41.839><c> pagar</c><00:16:42.600><c> y</c><00:16:42.880><c> también</c><00:16:43.319><c> los</c>
+
+00:16:43.550 --> 00:16:43.560 align:start position:0%
+cobrar o cuentas por pagar y también los
+ 
+
+00:16:43.560 --> 00:16:45.870 align:start position:0%
+cobrar o cuentas por pagar y también los
+costos<00:16:44.040><c> e</c><00:16:44.279><c> inventarios.</c><00:16:45.160><c> Una</c><00:16:45.440><c> compra</c><00:16:45.720><c> de</c>
+
+00:16:45.870 --> 00:16:45.880 align:start position:0%
+costos e inventarios. Una compra de
+ 
+
+00:16:45.880 --> 00:16:48.430 align:start position:0%
+costos e inventarios. Una compra de
+insumos<00:16:46.519><c> afecta</c><00:16:47.199><c> los</c><00:16:47.519><c> costos</c><00:16:48.000><c> y</c><00:16:48.199><c> las</c>
+
+00:16:48.430 --> 00:16:48.440 align:start position:0%
+insumos afecta los costos y las
+ 
+
+00:16:48.440 --> 00:16:51.189 align:start position:0%
+insumos afecta los costos y las
+existencias<00:16:49.040><c> disponibles</c><00:16:49.680><c> en</c><00:16:49.920><c> bodegas.</c><00:16:50.839><c> Y</c><00:16:51.000><c> si</c>
+
+00:16:51.189 --> 00:16:51.199 align:start position:0%
+existencias disponibles en bodegas. Y si
+ 
+
+00:16:51.199 --> 00:16:53.990 align:start position:0%
+existencias disponibles en bodegas. Y si
+por<00:16:51.399><c> ejemplo</c><00:16:52.240><c> registramos</c><00:16:53.160><c> una</c><00:16:53.480><c> compra</c><00:16:53.800><c> de</c>
+
+00:16:53.990 --> 00:16:54.000 align:start position:0%
+por ejemplo registramos una compra de
+ 
+
+00:16:54.000 --> 00:16:56.309 align:start position:0%
+por ejemplo registramos una compra de
+materia<00:16:54.480><c> prima,</c><00:16:55.120><c> en</c><00:16:55.319><c> este</c><00:16:55.600><c> caso</c><00:16:56.079><c> el</c>
+
+00:16:56.309 --> 00:16:56.319 align:start position:0%
+materia prima, en este caso el
+ 
+
+00:16:56.319 --> 00:16:58.590 align:start position:0%
+materia prima, en este caso el
+inventario<00:16:56.800><c> va</c><00:16:56.959><c> a</c><00:16:57.000><c> aumentar</c><00:16:57.720><c> y</c><00:16:58.000><c> también</c><00:16:58.319><c> se</c><00:16:58.480><c> va</c>
+
+00:16:58.590 --> 00:16:58.600 align:start position:0%
+inventario va a aumentar y también se va
+ 
+
+00:16:58.600 --> 00:17:01.309 align:start position:0%
+inventario va a aumentar y también se va
+a<00:16:58.680><c> reflejar</c><00:16:59.480><c> el</c><00:16:59.759><c> costo</c><00:17:00.040><c> de</c><00:17:00.199><c> esa</c><00:17:00.480><c> compra</c><00:17:00.920><c> en</c><00:17:01.120><c> los</c>
+
+00:17:01.309 --> 00:17:01.319 align:start position:0%
+a reflejar el costo de esa compra en los
+ 
+
+00:17:01.319 --> 00:17:04.230 align:start position:0%
+a reflejar el costo de esa compra en los
+estados<00:17:02.079><c> financieros.</c><00:17:03.079><c> Y</c><00:17:03.319><c> también</c><00:17:03.839><c> tenemos</c>
+
+00:17:04.230 --> 00:17:04.240 align:start position:0%
+estados financieros. Y también tenemos
+ 
+
+00:17:04.240 --> 00:17:06.750 align:start position:0%
+estados financieros. Y también tenemos
+que<00:17:04.400><c> cuando</c><00:17:04.640><c> se</c><00:17:04.839><c> registra</c><00:17:05.480><c> una</c><00:17:05.720><c> operación</c><00:17:06.600><c> se</c>
+
+00:17:06.750 --> 00:17:06.760 align:start position:0%
+que cuando se registra una operación se
+ 
+
+00:17:06.760 --> 00:17:09.590 align:start position:0%
+que cuando se registra una operación se
+ejecutan<00:17:07.280><c> las</c><00:17:07.480><c> acciones</c><00:17:08.000><c> configuradas.</c>
+
+00:17:09.590 --> 00:17:09.600 align:start position:0%
+ejecutan las acciones configuradas.
+ 
+
+00:17:09.600 --> 00:17:11.710 align:start position:0%
+ejecutan las acciones configuradas.
+Dependiendo<00:17:10.160><c> del</c><00:17:10.400><c> tipo</c><00:17:10.600><c> de</c><00:17:10.760><c> operación,</c><00:17:11.480><c> el</c>
+
+00:17:11.710 --> 00:17:11.720 align:start position:0%
+Dependiendo del tipo de operación, el
+ 
+
+00:17:11.720 --> 00:17:14.510 align:start position:0%
+Dependiendo del tipo de operación, el
+sistema<00:17:12.199><c> puede</c><00:17:12.799><c> ejecutar</c><00:17:13.760><c> acciones</c>
+
+00:17:14.510 --> 00:17:14.520 align:start position:0%
+sistema puede ejecutar acciones
+ 
+
+00:17:14.520 --> 00:17:17.150 align:start position:0%
+sistema puede ejecutar acciones
+automáticas<00:17:15.480><c> que</c><00:17:15.799><c> facilitan</c><00:17:16.400><c> la</c><00:17:16.559><c> gestión</c><00:17:16.919><c> del</c>
+
+00:17:17.150 --> 00:17:17.160 align:start position:0%
+automáticas que facilitan la gestión del
+ 
+
+00:17:17.160 --> 00:17:19.470 align:start position:0%
+automáticas que facilitan la gestión del
+negocio.<00:17:17.959><c> Por</c><00:17:18.120><c> ejemplo,</c><00:17:18.839><c> después</c><00:17:19.199><c> de</c>
+
+00:17:19.470 --> 00:17:19.480 align:start position:0%
+negocio. Por ejemplo, después de
+ 
+
+00:17:19.480 --> 00:17:23.029 align:start position:0%
+negocio. Por ejemplo, después de
+registrar<00:17:20.360><c> una</c><00:17:20.720><c> cotización</c><00:17:21.679><c> a</c><00:17:21.919><c> un</c><00:17:22.199><c> cliente,</c>
+
+00:17:23.029 --> 00:17:23.039 align:start position:0%
+registrar una cotización a un cliente,
+ 
+
+00:17:23.039 --> 00:17:25.990 align:start position:0%
+registrar una cotización a un cliente,
+podemos<00:17:23.480><c> ejecutar</c><00:17:24.480><c> unas</c><00:17:24.880><c> acciones.</c><00:17:25.720><c> ¿Como</c>
+
+00:17:25.990 --> 00:17:26.000 align:start position:0%
+podemos ejecutar unas acciones. ¿Como
+ 
+
+00:17:26.000 --> 00:17:28.429 align:start position:0%
+podemos ejecutar unas acciones. ¿Como
+cuáles?<00:17:26.880><c> Se</c><00:17:27.000><c> pueden</c><00:17:27.240><c> enviar</c><00:17:27.559><c> automáticamente</c>
+
+00:17:28.429 --> 00:17:28.439 align:start position:0%
+cuáles? Se pueden enviar automáticamente
+ 
+
+00:17:28.439 --> 00:17:31.070 align:start position:0%
+cuáles? Se pueden enviar automáticamente
+por<00:17:28.679><c> correo,</c><00:17:29.520><c> se</c><00:17:29.760><c> puede</c><00:17:30.080><c> publicar</c><00:17:30.720><c> en</c><00:17:30.919><c> la</c>
+
+00:17:31.070 --> 00:17:31.080 align:start position:0%
+por correo, se puede publicar en la
+ 
+
+00:17:31.080 --> 00:17:32.830 align:start position:0%
+por correo, se puede publicar en la
+plataforma<00:17:31.640><c> de</c><00:17:31.760><c> documentos</c><00:17:32.320><c> para</c><00:17:32.520><c> que</c><00:17:32.679><c> el</c>
+
+00:17:32.830 --> 00:17:32.840 align:start position:0%
+plataforma de documentos para que el
+ 
+
+00:17:32.840 --> 00:17:35.590 align:start position:0%
+plataforma de documentos para que el
+cliente<00:17:33.160><c> la</c><00:17:33.360><c> visualice</c><00:17:33.840><c> en</c><00:17:33.960><c> HTML</c><00:17:34.880><c> o</c><00:17:35.080><c> la</c><00:17:35.240><c> pueda</c>
+
+00:17:35.590 --> 00:17:35.600 align:start position:0%
+cliente la visualice en HTML o la pueda
+ 
+
+00:17:35.600 --> 00:17:38.190 align:start position:0%
+cliente la visualice en HTML o la pueda
+descargar.<00:17:36.720><c> en</c><00:17:36.919><c> esa</c><00:17:37.160><c> plataforma</c><00:17:37.720><c> puede</c>
+
+00:17:38.190 --> 00:17:38.200 align:start position:0%
+descargar. en esa plataforma puede
+ 
+
+00:17:38.200 --> 00:17:41.110 align:start position:0%
+descargar. en esa plataforma puede
+aceptar,<00:17:39.000><c> puede</c><00:17:39.280><c> rechazar</c><00:17:39.760><c> la</c><00:17:39.880><c> cotización</c><00:17:40.880><c> o</c>
+
+00:17:41.110 --> 00:17:41.120 align:start position:0%
+aceptar, puede rechazar la cotización o
+ 
+
+00:17:41.120 --> 00:17:43.230 align:start position:0%
+aceptar, puede rechazar la cotización o
+puede<00:17:41.480><c> comentar</c><00:17:42.000><c> directamente</c><00:17:42.880><c> en</c><00:17:43.080><c> la</c>
+
+00:17:43.230 --> 00:17:43.240 align:start position:0%
+puede comentar directamente en la
+ 
+
+00:17:43.240 --> 00:17:45.510 align:start position:0%
+puede comentar directamente en la
+plataforma,<00:17:44.200><c> entre</c><00:17:44.480><c> otras</c><00:17:44.799><c> acciones</c><00:17:45.200><c> que</c><00:17:45.360><c> nos</c>
+
+00:17:45.510 --> 00:17:45.520 align:start position:0%
+plataforma, entre otras acciones que nos
+ 
+
+00:17:45.520 --> 00:17:47.150 align:start position:0%
+plataforma, entre otras acciones que nos
+permite<00:17:45.919><c> realizar</c><00:17:46.320><c> la</c><00:17:46.480><c> plataforma</c><00:17:47.000><c> de</c>
+
+00:17:47.150 --> 00:17:47.160 align:start position:0%
+permite realizar la plataforma de
+ 
+
+00:17:47.160 --> 00:17:49.710 align:start position:0%
+permite realizar la plataforma de
+documentos.<00:17:48.320><c> Y</c><00:17:48.480><c> si</c><00:17:48.679><c> esta</c><00:17:48.919><c> cotización</c><00:17:49.480><c> se</c>
+
+00:17:49.710 --> 00:17:49.720 align:start position:0%
+documentos. Y si esta cotización se
+ 
+
+00:17:49.720 --> 00:17:52.390 align:start position:0%
+documentos. Y si esta cotización se
+convierte<00:17:50.520><c> en</c><00:17:50.840><c> una</c><00:17:51.160><c> factura,</c><00:17:52.039><c> también</c>
+
+00:17:52.390 --> 00:17:52.400 align:start position:0%
+convierte en una factura, también
+ 
+
+00:17:52.400 --> 00:17:55.110 align:start position:0%
+convierte en una factura, también
+podemos<00:17:52.799><c> ejecutar</c><00:17:53.559><c> unas</c><00:17:53.919><c> acciones</c><00:17:54.799><c> como</c>
+
+00:17:55.110 --> 00:17:55.120 align:start position:0%
+podemos ejecutar unas acciones como
+ 
+
+00:17:55.120 --> 00:17:58.190 align:start position:0%
+podemos ejecutar unas acciones como
+cuales.<00:17:56.120><c> Se</c><00:17:56.280><c> genera</c><00:17:56.880><c> el</c><00:17:57.159><c> envío</c><00:17:57.640><c> electrónico</c>
+
+00:17:58.190 --> 00:17:58.200 align:start position:0%
+cuales. Se genera el envío electrónico
+ 
+
+00:17:58.200 --> 00:18:00.029 align:start position:0%
+cuales. Se genera el envío electrónico
+al<00:17:58.440><c> dian</c><00:17:58.760><c> si</c><00:17:58.919><c> la</c><00:17:59.039><c> empresa</c><00:17:59.320><c> lo</c><00:17:59.480><c> tiene</c>
+
+00:18:00.029 --> 00:18:00.039 align:start position:0%
+al dian si la empresa lo tiene
+ 
+
+00:18:00.039 --> 00:18:02.310 align:start position:0%
+al dian si la empresa lo tiene
+configurado.<00:18:01.039><c> Se</c><00:18:01.159><c> envía</c><00:18:01.480><c> automáticamente</c>
+
+00:18:02.310 --> 00:18:02.320 align:start position:0%
+configurado. Se envía automáticamente
+ 
+
+00:18:02.320 --> 00:18:04.789 align:start position:0%
+configurado. Se envía automáticamente
+por<00:18:02.600><c> correo</c><00:18:03.159><c> al</c><00:18:03.480><c> cliente</c><00:18:04.120><c> y</c><00:18:04.360><c> se</c><00:18:04.520><c> puede</c>
+
+00:18:04.789 --> 00:18:04.799 align:start position:0%
+por correo al cliente y se puede
+ 
+
+00:18:04.799 --> 00:18:07.110 align:start position:0%
+por correo al cliente y se puede
+publicar<00:18:05.360><c> en</c><00:18:05.559><c> la</c><00:18:05.760><c> plataforma</c><00:18:06.280><c> de</c><00:18:06.440><c> documentos,</c>
+
+00:18:07.110 --> 00:18:07.120 align:start position:0%
+publicar en la plataforma de documentos,
+ 
+
+00:18:07.120 --> 00:18:08.950 align:start position:0%
+publicar en la plataforma de documentos,
+permitiendo<00:18:07.640><c> que</c><00:18:07.760><c> el</c><00:18:07.880><c> cliente</c><00:18:08.159><c> lo</c><00:18:08.360><c> consulte</c>
+
+00:18:08.950 --> 00:18:08.960 align:start position:0%
+permitiendo que el cliente lo consulte
+ 
+
+00:18:08.960 --> 00:18:11.950 align:start position:0%
+permitiendo que el cliente lo consulte
+en<00:18:09.200><c> línea</c><00:18:10.120><c> y</c><00:18:10.320><c> así</c><00:18:10.640><c> con</c><00:18:10.840><c> otras</c><00:18:11.159><c> operaciones</c><00:18:11.720><c> del</c>
+
+00:18:11.950 --> 00:18:11.960 align:start position:0%
+en línea y así con otras operaciones del
+ 
+
+00:18:11.960 --> 00:18:13.789 align:start position:0%
+en línea y así con otras operaciones del
+sistema,<00:18:12.440><c> por</c><00:18:12.600><c> ejemplo,</c><00:18:13.000><c> los</c><00:18:13.240><c> pagos</c><00:18:13.600><c> y</c>
+
+00:18:13.789 --> 00:18:13.799 align:start position:0%
+sistema, por ejemplo, los pagos y
+ 
+
+00:18:13.799 --> 00:18:16.190 align:start position:0%
+sistema, por ejemplo, los pagos y
+reportes<00:18:14.200><c> de</c><00:18:14.360><c> nómina</c><00:18:14.720><c> electrónica.</c><00:18:15.799><c> Para</c><00:18:16.039><c> los</c>
+
+00:18:16.190 --> 00:18:16.200 align:start position:0%
+reportes de nómina electrónica. Para los
+ 
+
+00:18:16.200 --> 00:18:18.110 align:start position:0%
+reportes de nómina electrónica. Para los
+pagos<00:18:16.559><c> podemos</c><00:18:16.880><c> ejecutar</c><00:18:17.360><c> acciones</c><00:18:17.799><c> como</c><00:18:18.000><c> que</c>
+
+00:18:18.110 --> 00:18:18.120 align:start position:0%
+pagos podemos ejecutar acciones como que
+ 
+
+00:18:18.120 --> 00:18:20.350 align:start position:0%
+pagos podemos ejecutar acciones como que
+se<00:18:18.280><c> envía</c><00:18:18.559><c> al</c><00:18:18.760><c> empleado</c><00:18:19.480><c> y</c><00:18:19.640><c> se</c><00:18:19.799><c> publique</c><00:18:20.120><c> en</c><00:18:20.240><c> la</c>
+
+00:18:20.350 --> 00:18:20.360 align:start position:0%
+se envía al empleado y se publique en la
+ 
+
+00:18:20.360 --> 00:18:22.470 align:start position:0%
+se envía al empleado y se publique en la
+plataforma<00:18:20.840><c> de</c><00:18:21.039><c> documentos</c><00:18:21.919><c> y</c><00:18:22.120><c> para</c><00:18:22.280><c> el</c>
+
+00:18:22.470 --> 00:18:22.480 align:start position:0%
+plataforma de documentos y para el
+ 
+
+00:18:22.480 --> 00:18:24.510 align:start position:0%
+plataforma de documentos y para el
+reporte<00:18:22.840><c> que</c><00:18:23.000><c> se</c><00:18:23.120><c> envíe</c><00:18:23.679><c> a</c><00:18:23.799><c> la</c><00:18:23.960><c> Dian</c><00:18:24.320><c> el</c>
+
+00:18:24.510 --> 00:18:24.520 align:start position:0%
+reporte que se envíe a la Dian el
+ 
+
+00:18:24.520 --> 00:18:26.350 align:start position:0%
+reporte que se envíe a la Dian el
+reporte<00:18:24.799><c> de</c><00:18:24.960><c> nómina</c><00:18:25.320><c> electrónica</c><00:18:25.840><c> de</c><00:18:26.080><c> cada</c>
+
+00:18:26.350 --> 00:18:26.360 align:start position:0%
+reporte de nómina electrónica de cada
+ 
+
+00:18:26.360 --> 00:18:28.430 align:start position:0%
+reporte de nómina electrónica de cada
+uno<00:18:26.559><c> de</c><00:18:26.720><c> nuestros</c><00:18:27.080><c> empleados</c><00:18:27.799><c> y</c><00:18:28.000><c> así</c><00:18:28.240><c> con</c>
+
+00:18:28.430 --> 00:18:28.440 align:start position:0%
+uno de nuestros empleados y así con
+ 
+
+00:18:28.440 --> 00:18:31.310 align:start position:0%
+uno de nuestros empleados y así con
+otras<00:18:29.120><c> operaciones.</c><00:18:30.159><c> En</c><00:18:30.360><c> resumen,</c><00:18:31.039><c> cuando</c>
+
+00:18:31.310 --> 00:18:31.320 align:start position:0%
+otras operaciones. En resumen, cuando
+ 
+
+00:18:31.320 --> 00:18:33.830 align:start position:0%
+otras operaciones. En resumen, cuando
+registramos<00:18:32.080><c> una</c><00:18:32.360><c> operación,</c><00:18:33.360><c> no</c><00:18:33.559><c> solo</c>
+
+00:18:33.830 --> 00:18:33.840 align:start position:0%
+registramos una operación, no solo
+ 
+
+00:18:33.840 --> 00:18:35.830 align:start position:0%
+registramos una operación, no solo
+estamos<00:18:34.159><c> creando</c><00:18:34.720><c> un</c><00:18:34.919><c> simple</c><00:18:35.320><c> registro</c>
+
+00:18:35.830 --> 00:18:35.840 align:start position:0%
+estamos creando un simple registro
+ 
+
+00:18:35.840 --> 00:18:38.070 align:start position:0%
+estamos creando un simple registro
+contable,<00:18:36.679><c> sino</c><00:18:36.960><c> que</c><00:18:37.120><c> estamos</c><00:18:37.400><c> generando</c><00:18:37.880><c> un</c>
+
+00:18:38.070 --> 00:18:38.080 align:start position:0%
+contable, sino que estamos generando un
+ 
+
+00:18:38.080 --> 00:18:40.270 align:start position:0%
+contable, sino que estamos generando un
+impacto<00:18:38.440><c> en</c><00:18:38.600><c> la</c><00:18:38.919><c> contabilidad,</c><00:18:39.919><c> en</c><00:18:40.080><c> los</c>
+
+00:18:40.270 --> 00:18:40.280 align:start position:0%
+impacto en la contabilidad, en los
+ 
+
+00:18:40.280 --> 00:18:42.110 align:start position:0%
+impacto en la contabilidad, en los
+estados<00:18:40.679><c> financieros,</c><00:18:41.559><c> en</c><00:18:41.720><c> la</c><00:18:41.880><c> parte</c>
+
+00:18:42.110 --> 00:18:42.120 align:start position:0%
+estados financieros, en la parte
+ 
+
+00:18:42.120 --> 00:18:44.430 align:start position:0%
+estados financieros, en la parte
+operativa<00:18:42.679><c> de</c><00:18:42.840><c> la</c><00:18:42.960><c> empresa</c><00:18:43.679><c> y</c><00:18:43.960><c> gracias</c><00:18:44.240><c> a</c><00:18:44.360><c> la</c>
+
+00:18:44.430 --> 00:18:44.440 align:start position:0%
+operativa de la empresa y gracias a la
+ 
+
+00:18:44.440 --> 00:18:46.750 align:start position:0%
+operativa de la empresa y gracias a la
+automatización<00:18:45.120><c> del</c><00:18:45.440><c> sistema</c><00:18:46.039><c> optimizamos</c>
+
+00:18:46.750 --> 00:18:46.760 align:start position:0%
+automatización del sistema optimizamos
+ 
+
+00:18:46.760 --> 00:18:48.830 align:start position:0%
+automatización del sistema optimizamos
+procesos<00:18:47.280><c> clave</c><00:18:47.960><c> asegurando</c><00:18:48.520><c> que</c><00:18:48.679><c> la</c>
+
+00:18:48.830 --> 00:18:48.840 align:start position:0%
+procesos clave asegurando que la
+ 
+
+00:18:48.840 --> 00:18:51.350 align:start position:0%
+procesos clave asegurando que la
+información<00:18:49.400><c> siempre</c><00:18:49.760><c> esté</c><00:18:50.080><c> actualizada</c><00:18:50.960><c> y</c>
+
+00:18:51.350 --> 00:18:51.360 align:start position:0%
+información siempre esté actualizada y
+ 
+
+00:18:51.360 --> 00:18:53.950 align:start position:0%
+información siempre esté actualizada y
+disponible<00:18:52.120><c> en</c><00:18:52.320><c> todo</c><00:18:52.640><c> momento</c><00:18:53.320><c> para</c><00:18:53.559><c> la</c><00:18:53.760><c> toma</c>
+
+00:18:53.950 --> 00:18:53.960 align:start position:0%
+disponible en todo momento para la toma
+ 
+
+00:18:53.960 --> 00:18:56.870 align:start position:0%
+disponible en todo momento para la toma
+de<00:18:54.120><c> decisiones</c><00:18:54.600><c> de</c><00:18:54.799><c> manera</c><00:18:55.320><c> ágil</c><00:18:55.640><c> y</c><00:18:55.840><c> precisa.</c>
+
+00:18:56.870 --> 00:18:56.880 align:start position:0%
+de decisiones de manera ágil y precisa.
+ 
+
+00:18:56.880 --> 00:18:59.510 align:start position:0%
+de decisiones de manera ágil y precisa.
+Eso<00:18:57.080><c> nos</c><00:18:57.320><c> permite</c><00:18:57.720><c> garantizar</c><00:18:58.520><c> una</c><00:18:58.880><c> gestión</c>
+
+00:18:59.510 --> 00:18:59.520 align:start position:0%
+Eso nos permite garantizar una gestión
+ 
+
+00:18:59.520 --> 00:19:03.029 align:start position:0%
+Eso nos permite garantizar una gestión
+contable<00:19:00.400><c> y</c><00:19:00.760><c> administrativa</c><00:19:01.760><c> eficiente</c><00:19:02.679><c> con</c>
+
+00:19:03.029 --> 00:19:03.039 align:start position:0%
+contable y administrativa eficiente con
+ 
+
+00:19:03.039 --> 00:19:05.789 align:start position:0%
+contable y administrativa eficiente con
+total<00:19:03.520><c> trazabilidad</c><00:19:04.480><c> y</c><00:19:04.760><c> control</c><00:19:05.200><c> sobre</c><00:19:05.520><c> cada</c>
+
+00:19:05.789 --> 00:19:05.799 align:start position:0%
+total trazabilidad y control sobre cada
+ 
+
+00:19:05.799 --> 00:19:08.630 align:start position:0%
+total trazabilidad y control sobre cada
+una<00:19:05.960><c> de</c><00:19:06.080><c> las</c><00:19:06.520><c> operaciones.</c><00:19:07.520><c> Esto</c><00:19:07.760><c> es</c><00:19:07.960><c> todo</c>
+
+00:19:08.630 --> 00:19:08.640 align:start position:0%
+una de las operaciones. Esto es todo
+ 
+
+00:19:08.640 --> 00:19:11.669 align:start position:0%
+una de las operaciones. Esto es todo
+acerca<00:19:09.120><c> de</c><00:19:09.880><c> cómo</c><00:19:10.200><c> funciona</c><00:19:10.919><c> el</c><00:19:11.159><c> módulo</c><00:19:11.520><c> de</c>
+
+00:19:11.669 --> 00:19:11.679 align:start position:0%
+acerca de cómo funciona el módulo de
+ 
+
+00:19:11.679 --> 00:19:14.549 align:start position:0%
+acerca de cómo funciona el módulo de
+sistema<00:19:12.039><c> básico</c><00:19:12.880><c> en</c><00:19:13.159><c> contapyme.</c><00:19:14.159><c> Muchas</c>
+
+00:19:14.549 --> 00:19:14.559 align:start position:0%
+sistema básico en contapyme. Muchas
+ 
+
+00:19:14.559 --> 00:19:17.080 align:start position:0%
+sistema básico en contapyme. Muchas
+gracias.<00:19:15.000><c> Yeah.</c>
+

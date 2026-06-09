@@ -1,7 +1,7 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 import { corsHeaders, jsonResponse, optionsResponse } from "../lib/core/http.js";
 import { pingOpsDb, pingRagDb } from "../lib/db/pg.js";
-import { PG_SCHEMA_LAB, PG_SCHEMA_PATY, PG_SCHEMA_RAG } from "../lib/core/lab-constants.js";
+import { PG_SCHEMA_ISADOC, PG_SCHEMA_LANGLAB, PG_SCHEMA_RAG } from "../lib/core/lab-constants.js";
 import { signalRConfigured } from "../lib/core/signalr-config.js";
 
 async function healthHandler(request: HttpRequest, _context: InvocationContext): Promise<HttpResponseInit> {
@@ -15,7 +15,7 @@ async function healthHandler(request: HttpRequest, _context: InvocationContext):
 			ok: opsOk,
 			service: "lab-langgraph",
 			databases: {
-				ops: { ok: opsOk, schemas: [PG_SCHEMA_PATY, PG_SCHEMA_LAB] },
+				ops: { ok: opsOk, schemas: [PG_SCHEMA_LANGLAB, PG_SCHEMA_ISADOC] },
 				rag: { configured: ragOk, ok: ragOk, schemas: [PG_SCHEMA_RAG] },
 			},
 			signalR: { configured: signalRConfigured() },

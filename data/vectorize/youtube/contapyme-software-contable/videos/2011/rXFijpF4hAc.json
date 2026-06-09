@@ -1,0 +1,949 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:18:28.043Z",
+  "videoId": "rXFijpF4hAc",
+  "videoUrl": "https://www.youtube.com/watch?v=rXFijpF4hAc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "rXFijpF4hAc",
+    "title": "Software contable ContaPyme - Creación de usuarios adicionales",
+    "fulltitle": "Software contable ContaPyme - Creación de usuarios adicionales",
+    "description": "http://www.contapyme.com\nEste vídeo del software contable ContaPyme explica como crear usuarios adicionales del sistema\nCP40-005-010-050B-050M",
+    "duration": 597,
+    "duration_string": "9:57",
+    "upload_date": "20111217",
+    "timestamp": 1324128540,
+    "view_count": 1006,
+    "like_count": 4,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/rXFijpF4hAc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBUgOCh_MA8=&rs=AOn4CLDWlWZDpvao9_OHmo5UDDRoxdA5pg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgVIDgofzAP&rs=AOn4CLCjmQakCxedp4s_5vogzjB5tApWmg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBUgOCh_MA8=&rs=AOn4CLC2gRu1KhzxZDUcZ8EMmvncbhty9Q",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGBUgOCh_MA8=&rs=AOn4CLBIOYi5rNSVAMZeTHaP-h8aNjoUGA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARgVIDgofzAP&rs=AOn4CLAjjtv3RYBlPuK7W66wE9wm1kFb-Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "34",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGBUgOCh_MA8=&rs=AOn4CLAGWRPFR7BKXzBhT61mKX73ArudKg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "35",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARgVIDgofzAP&rs=AOn4CLBmn3W1aSM79XEOT8kwjbXXwlMZhw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "36",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgVIDgofzAP&rs=AOn4CLCeYCzvPWADPh9gmvud559Fv93pMA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "37",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYFSA4KH8wDw==&rs=AOn4CLBdFAKaEXYyUyAdO0TVDQzuDtblGA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "38",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgVIDgofzAP&rs=AOn4CLCPxn2SpDgQepWrtVSrVMJOUtX1XQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "39",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYFSA4KH8wDw==&rs=AOn4CLAHA9pJXVRDAB6Ot77DwmCKUBYTZw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "40",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBUgOCh_MA8=&rs=AOn4CLAl83ww30f6zgTiulsCQm31khaX8Q",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "41",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/hqdefault.webp",
+        "preference": -6,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/sddefault.jpg",
+        "preference": -5,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBUgOCh_MA8=&rs=AOn4CLDWlWZDpvao9_OHmo5UDDRoxdA5pg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "44",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/sddefault.webp",
+        "preference": -4,
+        "id": "45"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/hq720.jpg",
+        "preference": -3,
+        "id": "46"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/hq720.webp",
+        "preference": -2,
+        "id": "47"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/rXFijpF4hAc/maxresdefault.jpg",
+        "preference": -1,
+        "id": "48"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/rXFijpF4hAc/maxresdefault.webp",
+        "preference": 0,
+        "id": "49"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=rXFijpF4hAc",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.16750418760469013,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20268006700167504,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20268006700167504,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 185.077,
+        "asr": 44100,
+        "filesize_approx": 13805101,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Creación de usuarios adicionales",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/rXFijpF4hAc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/rXFijpF4hAc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Creación de usuarios adicionales\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 100,
+    "transcriptChars": 7128,
+    "segments": [
+      {
+        "text": "Creación de usuarios adicionales. El manejo de usuarios en el",
+        "startMs": 880,
+        "durationMs": 4230
+      },
+      {
+        "text": "sistema permite un control total sobre la información contenida en él, ya que",
+        "startMs": 5110,
+        "durationMs": 4280
+      },
+      {
+        "text": "permite controlar las acciones que realiza cada uno de los usuarios que",
+        "startMs": 9390,
+        "durationMs": 3760
+      },
+      {
+        "text": "ingresa al sistema. Inicialmente, el sistema cuenta con un único usuario",
+        "startMs": 13150,
+        "durationMs": 4760
+      },
+      {
+        "text": "llamado admin, que es el superusuario administrador del sistema que tiene",
+        "startMs": 17910,
+        "durationMs": 4439
+      },
+      {
+        "text": "todos los permisos activos, pero normalmente en una empresa son varias",
+        "startMs": 22349,
+        "durationMs": 4521
+      },
+      {
+        "text": "las personas que iban a ingresar al sistema. razón por la cual se debe",
+        "startMs": 26870,
+        "durationMs": 4040
+      },
+      {
+        "text": "proceder a crear cada uno de estos nuevos usuarios. En este video veremos",
+        "startMs": 30910,
+        "durationMs": 9000
+      },
+      {
+        "text": "adicionales. Antes de crear los usuarios es importante que tengamos en cuenta lo",
+        "startMs": 39920,
+        "durationMs": 5230
+      },
+      {
+        "text": "que mencionábamos hace un momento, que el sistema crea por defecto un",
+        "startMs": 45150,
+        "durationMs": 4280
+      },
+      {
+        "text": "superusuario llamado admin, que es el que tiene todos los permisos activos.",
+        "startMs": 49430,
+        "durationMs": 7880
+      },
+      {
+        "text": "Los usuarios se deben crear a nivel de área de trabajo. Por tanto, si se",
+        "startMs": 57320,
+        "durationMs": 5869
+      },
+      {
+        "text": "manejan múltiples áreas de trabajo, en cada una de ellas se deben crear los",
+        "startMs": 63189,
+        "durationMs": 7321
+      },
+      {
+        "text": "diferentes usuarios. Los usuarios del sistema se",
+        "startMs": 70510,
+        "durationMs": 2599
+      },
+      {
+        "text": "crean en el equipo servidor de datos, es decir, donde tenemos almacenada la base",
+        "startMs": 73109,
+        "durationMs": 5320
+      },
+      {
+        "text": "de datos. Y la creación de los usuarios adicionales la debe realizar el usuario",
+        "startMs": 78429,
+        "durationMs": 6441
+      },
+      {
+        "text": "admin. que como mencionamos es el que tiene todos los permisos",
+        "startMs": 84870,
+        "durationMs": 6279
+      },
+      {
+        "text": "usuario como este que tenemos en la pantalla, el usuario Javier, debemos",
+        "startMs": 95950,
+        "durationMs": 4799
+      },
+      {
+        "text": "asignarle una serie de permisos y restricciones sobre el sistema",
+        "startMs": 100749,
+        "durationMs": 6761
+      },
+      {
+        "text": "indicándole qué puede y qué no puede hacer. A este grupo de permisos y",
+        "startMs": 107510,
+        "durationMs": 5720
+      },
+      {
+        "text": "restricciones lo llamaremos perfil del usuario, el cual debe estar previamente",
+        "startMs": 113230,
+        "durationMs": 6320
+      },
+      {
+        "text": "creado antes de crear el usuario. Para mayor información acerca del perfil del",
+        "startMs": 119550,
+        "durationMs": 5599
+      },
+      {
+        "text": "seguridad. Adicionalmente a los usuarios, al momento de crearlos hay que",
+        "startMs": 130029,
+        "durationMs": 5161
+      },
+      {
+        "text": "asignarle una o varias licencias de uso de las cuales se disponga. Esto con el",
+        "startMs": 135190,
+        "durationMs": 5840
+      },
+      {
+        "text": "fin de que la utilice cuando ingrese al sistema. Una vez que tenemos creados los",
+        "startMs": 141030,
+        "durationMs": 6520
+      },
+      {
+        "text": "perfiles de usuario y registradas y creadas las licencias de uso, debemos al",
+        "startMs": 125149,
+        "durationMs": 27761
+      },
+      {
+        "text": "momento de crear un usuario asignarle el perfil que corresponda y la licencia de",
+        "startMs": 91159,
+        "durationMs": 67111
+      },
+      {
+        "text": "uso que va a utilizar. Veamos ahora cómo crear un usuario en el sistema.",
+        "startMs": 158270,
+        "durationMs": 7200
+      },
+      {
+        "text": "Lo primero que se debe hacer es ingresar al catálogo de usuarios del sistema.",
+        "startMs": 165470,
+        "durationMs": 5200
+      },
+      {
+        "text": "Para hacerlo nos ubicamos en la pestaña de básico y damos clic sobre el icono de",
+        "startMs": 170670,
+        "durationMs": 8160
+      },
+      {
+        "text": "usuarios. En este catálogo encontramos creados algunos de los usuarios que",
+        "startMs": 178840,
+        "durationMs": 5309
+      },
+      {
+        "text": "pueden ingresar al sistema. Como mínimo encontraremos el usuario admin, que es",
+        "startMs": 184149,
+        "durationMs": 6281
+      },
+      {
+        "text": "el que el sistema crea por defecto al momento de crear el área de",
+        "startMs": 190430,
+        "durationMs": 4879
+      },
+      {
+        "text": "trabajo. Para crear un nuevo usuario, nos ubicamos en cualquier parte del",
+        "startMs": 195309,
+        "durationMs": 5401
+      },
+      {
+        "text": "catálogo y con clic derecho seleccionamos la opción de",
+        "startMs": 200710,
+        "durationMs": 7719
+      },
+      {
+        "text": "crear. A continuación se nos abre el asistente de creación de usuarios. Lo",
+        "startMs": 208439,
+        "durationMs": 6350
+      },
+      {
+        "text": "primero que debemos hacer es indicar la identificación del usuario. En este",
+        "startMs": 214789,
+        "durationMs": 5241
+      },
+      {
+        "text": "caso, lo más recomendable es indicar un nombre corto del usuario. Puede ser un",
+        "startMs": 220030,
+        "durationMs": 5720
+      },
+      {
+        "text": "código alfa numérico de hasta 10 caracteres y podría ser el mismo usuario",
+        "startMs": 225750,
+        "durationMs": 6440
+      },
+      {
+        "text": "de Windows. En este caso vamos a indicarle",
+        "startMs": 232190,
+        "durationMs": 3200
+      },
+      {
+        "text": "que el nombre del usuario es Javier S de Sánchez. Para continuar, damos clic en",
+        "startMs": 235390,
+        "durationMs": 8360
+      },
+      {
+        "text": "el botón aceptar. A continuación debemos",
+        "startMs": 243750,
+        "durationMs": 4399
+      },
+      {
+        "text": "registrar la información del usuario. Debemos indicar en este caso, el nombre",
+        "startMs": 248149,
+        "durationMs": 13480
+      },
+      {
+        "text": "es Javier Sánchez Gómez. En el nombre del usuario debemos indicar",
+        "startMs": 261639,
+        "durationMs": 6391
+      },
+      {
+        "text": "cómo mencionamos el nombre del empleado. Es recomendable evitar usar",
+        "startMs": 268030,
+        "durationMs": 5960
+      },
+      {
+        "text": "generalidades, ya que en determinado momento no permitirán identificar quién",
+        "startMs": 273990,
+        "durationMs": 5680
+      },
+      {
+        "text": "realizó determinada acción. Con generalidades, nos referimos a evitar",
+        "startMs": 279670,
+        "durationMs": 5880
+      },
+      {
+        "text": "utilizar nombres como vendedor uno, vendedor dos, contador uno o contador",
+        "startMs": 285550,
+        "durationMs": 6199
+      },
+      {
+        "text": "dos. El asistente de creación de usuarios cuenta con tres pestañas:",
+        "startMs": 291749,
+        "durationMs": 5761
+      },
+      {
+        "text": "general, configuración y licencias. En la pestaña de general, lo primero que",
+        "startMs": 297510,
+        "durationMs": 5800
+      },
+      {
+        "text": "debemos hacer es indicar la contraseña con el cual el usuario puede loguearse",
+        "startMs": 303310,
+        "durationMs": 10920
+      },
+      {
+        "startMs": 314240,
+        "durationMs": 6509,
+        "text": "sistema y debemos confirmarla."
+      },
+      {
+        "text": "Al lado del campo contraseña está la opción de permitir que el usuario",
+        "startMs": 320759,
+        "durationMs": 5710
+      },
+      {
+        "text": "modifique su contraseña la próxima vez que inicie sesión. Esta opción se",
+        "startMs": 326469,
+        "durationMs": 5641
+      },
+      {
+        "text": "utiliza porque el administrador del sistema cuando crea los usuarios les",
+        "startMs": 332110,
+        "durationMs": 4680
+      },
+      {
+        "text": "asigna una contraseña, pero el usuario puede cambiarla personalizándola cuando",
+        "startMs": 336790,
+        "durationMs": 5880
+      },
+      {
+        "text": "inicie sesión por primera vez. En la parte inferior de la pestaña",
+        "startMs": 342670,
+        "durationMs": 6120
+      },
+      {
+        "text": "general encontramos los campos de vigencia del usuario, es decir, la fecha",
+        "startMs": 348790,
+        "durationMs": 5560
+      },
+      {
+        "text": "de creación del usuario, la cual es la fecha del equipo servidor al momento de",
+        "startMs": 354350,
+        "durationMs": 5559
+      },
+      {
+        "text": "la creación. En este caso, a pesar de que la fecha de",
+        "startMs": 359909,
+        "durationMs": 5120
+      },
+      {
+        "text": "creación que nos indica el sistema es la fecha del 7 de noviembre, podemos",
+        "startMs": 365029,
+        "durationMs": 5761
+      },
+      {
+        "text": "modificarla para que sea la misma fecha de creación de la",
+        "startMs": 370790,
+        "durationMs": 7640
+      },
+      {
+        "text": "empresa. También tenemos una fecha de expiración, es decir, la fecha a partir",
+        "startMs": 378440,
+        "durationMs": 5790
+      },
+      {
+        "text": "de la cual el usuario no podrá ingresar al sistema.",
+        "startMs": 384230,
+        "durationMs": 4320
+      },
+      {
+        "text": "El sistema normalmente indica una fecha de expiración, la cual el usuario",
+        "startMs": 388550,
+        "durationMs": 5600
+      },
+      {
+        "text": "administrador puede variar según las necesidades de la empresa. Si damos clic",
+        "startMs": 394150,
+        "durationMs": 5720
+      },
+      {
+        "text": "en el botón siguiente, pasamos a la pestaña de configuración.",
+        "startMs": 399870,
+        "durationMs": 5039
+      },
+      {
+        "text": "Allí encontramos la opción de indicar si este usuario es administrador del",
+        "startMs": 404909,
+        "durationMs": 5881
+      },
+      {
+        "text": "sistema, es decir, si tendrá privilegios de administrador, como puede ser crear",
+        "startMs": 410790,
+        "durationMs": 6720
+      },
+      {
+        "text": "nuevos usuarios, áreas de trabajo, entre muchas otras.",
+        "startMs": 417510,
+        "durationMs": 5000
+      },
+      {
+        "text": "Se recomienda que solo exista un usuario administrador del sistema para que se",
+        "startMs": 422510,
+        "durationMs": 6079
+      },
+      {
+        "text": "puedan así centralizar dichas responsabilidades. Luego debemos",
+        "startMs": 428589,
+        "durationMs": 6880
+      },
+      {
+        "text": "indicarle el perfil. El perfil, como mencionábamos al principio, es el grupo",
+        "startMs": 435469,
+        "durationMs": 5720
+      },
+      {
+        "text": "de permisos o restricciones que se le asignarán a cada usuario. Antes de crear",
+        "startMs": 441189,
+        "durationMs": 6481
+      },
+      {
+        "text": "un usuario, ya debe estar creado el perfil que va a",
+        "startMs": 447670,
+        "durationMs": 4880
+      },
+      {
+        "text": "asignársele. Para mayor información acerca del perfil del usuario, consulte",
+        "startMs": 452550,
+        "durationMs": 5079
+      },
+      {
+        "text": "los videos del módulo de usuarios y perfiles de seguridad.",
+        "startMs": 457629,
+        "durationMs": 4840
+      },
+      {
+        "text": "Debemos entonces indicarle a qué perfil o grupo de permisos pertenecerá dicho",
+        "startMs": 462469,
+        "durationMs": 9000
+      },
+      {
+        "text": "usuario. En este caso pertenecerá al perfil de",
+        "startMs": 471479,
+        "durationMs": 4231
+      },
+      {
+        "text": "ventas. Luego tenemos la posibilidad de asignarle un grupo. Este es un campo de",
+        "startMs": 475710,
+        "durationMs": 6640
+      },
+      {
+        "text": "libre definición por el usuario que permite crear agrupaciones de usuarios.",
+        "startMs": 482350,
+        "durationMs": 8559
+      },
+      {
+        "text": "El grupo de usuarios permite establecer filtros",
+        "startMs": 490919,
+        "durationMs": 4230
+      },
+      {
+        "text": "filtros permanentes para que en el manejador de",
+        "startMs": 495149,
+        "durationMs": 2681
+      },
+      {
+        "text": "operaciones solo aparezcan visibles o solo puedan ser modificadas las",
+        "startMs": 497830,
+        "durationMs": 10280
+      },
+      {
+        "text": "específico. En la parte inferior de la ventana encontramos la opción de si este",
+        "startMs": 508120,
+        "durationMs": 5950
+      },
+      {
+        "text": "usuario es cajero por turnos. Esta configuración permite que al usuario se",
+        "startMs": 514070,
+        "durationMs": 6800
+      },
+      {
+        "text": "le lleve un control del dinero de la caja registradora en cada uno de los",
+        "startMs": 520870,
+        "durationMs": 5320
+      },
+      {
+        "text": "turnos que este realice. Para mayor información, consulte los videos del",
+        "startMs": 526190,
+        "durationMs": 5240
+      },
+      {
+        "text": "módulo de usuarios y perfiles de seguridad.",
+        "startMs": 531430,
+        "durationMs": 5320
+      },
+      {
+        "text": "seguridad. En la última pestaña de licencias",
+        "startMs": 536750,
+        "durationMs": 3040
+      },
+      {
+        "text": "encontramos una lista de todas las licencias virtuales que se encuentran",
+        "startMs": 539790,
+        "durationMs": 4320
+      },
+      {
+        "text": "creadas y disponibles para ser asignadas al",
+        "startMs": 544110,
+        "durationMs": 3839
+      },
+      {
+        "text": "al usuario. Para asignarle una licencia a",
+        "startMs": 547949,
+        "durationMs": 2841
+      },
+      {
+        "text": "un usuario, basta con dar clic en la opción asignar",
+        "startMs": 550790,
+        "durationMs": 5719
+      },
+      {
+        "text": "licencia. Para finalizar la creación del usuario, basta con dar clic en la opción",
+        "startMs": 556509,
+        "durationMs": 8880
+      },
+      {
+        "text": "aceptar. El sistema realiza un proceso de",
+        "startMs": 565389,
+        "durationMs": 2041
+      },
+      {
+        "text": "verificación del usuario indicándonos si se encuentra algún error o alguna",
+        "startMs": 567430,
+        "durationMs": 5600
+      },
+      {
+        "text": "inconsistencia. En este caso nos indica que deberíamos indicarle un grupo al",
+        "startMs": 573030,
+        "durationMs": 8799
+      },
+      {
+        "text": "usuario. Ya nos ha quedado creado el usuario Javier Sánchez Gómez. De esta",
+        "startMs": 581839,
+        "durationMs": 5871
+      },
+      {
+        "text": "misma manera se crean los demás usuarios del sistema. Esto es todo acerca de la",
+        "startMs": 587710,
+        "durationMs": 9890
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste vídeo del software contable ContaPyme explica como crear usuarios adicionales del sistema\nCP40-005-010-050B-050M\n\n## Transcripción\n\nCreación de usuarios adicionales. El manejo de usuarios en el\nsistema permite un control total sobre la información contenida en él, ya que\npermite controlar las acciones que realiza cada uno de los usuarios que\ningresa al sistema. Inicialmente, el sistema cuenta con un único usuario\nllamado admin, que es el superusuario administrador del sistema que tiene\ntodos los permisos activos, pero normalmente en una empresa son varias\nlas personas que iban a ingresar al sistema. razón por la cual se debe\nproceder a crear cada uno de estos nuevos usuarios. En este video veremos\nadicionales. Antes de crear los usuarios es importante que tengamos en cuenta lo\nque mencionábamos hace un momento, que el sistema crea por defecto un\nsuperusuario llamado admin, que es el que tiene todos los permisos activos.\nLos usuarios se deben crear a nivel de área de trabajo. Por tanto, si se\nmanejan múltiples áreas de trabajo, en cada una de ellas se deben crear los\ndiferentes usuarios. Los usuarios del sistema se\ncrean en el equipo servidor de datos, es decir, donde tenemos almacenada la base\nde datos. Y la creación de los usuarios adicionales la debe realizar el usuario\nadmin. que como mencionamos es el que tiene todos los permisos\nusuario como este que tenemos en la pantalla, el usuario Javier, debemos\nasignarle una serie de permisos y restricciones sobre el sistema\nindicándole qué puede y qué no puede hacer. A este grupo de permisos y\nrestricciones lo llamaremos perfil del usuario, el cual debe estar previamente\ncreado antes de crear el usuario. Para mayor información acerca del perfil del\nseguridad. Adicionalmente a los usuarios, al momento de crearlos hay que\nasignarle una o varias licencias de uso de las cuales se disponga. Esto con el\nfin de que la utilice cuando ingrese al sistema. Una vez que tenemos creados los\nperfiles de usuario y registradas y creadas las licencias de uso, debemos al\nmomento de crear un usuario asignarle el perfil que corresponda y la licencia de\nuso que va a utilizar. Veamos ahora cómo crear un usuario en el sistema.\nLo primero que se debe hacer es ingresar al catálogo de usuarios del sistema.\nPara hacerlo nos ubicamos en la pestaña de básico y damos clic sobre el icono de\nusuarios. En este catálogo encontramos creados algunos de los usuarios que\npueden ingresar al sistema. Como mínimo encontraremos el usuario admin, que es\nel que el sistema crea por defecto al momento de crear el área de\ntrabajo. Para crear un nuevo usuario, nos ubicamos en cualquier parte del\ncatálogo y con clic derecho seleccionamos la opción de\ncrear. A continuación se nos abre el asistente de creación de usuarios. Lo\nprimero que debemos hacer es indicar la identificación del usuario. En este\ncaso, lo más recomendable es indicar un nombre corto del usuario. Puede ser un\ncódigo alfa numérico de hasta 10 caracteres y podría ser el mismo usuario\nde Windows. En este caso vamos a indicarle\nque el nombre del usuario es Javier S de Sánchez. Para continuar, damos clic en\nel botón aceptar. A continuación debemos\nregistrar la información del usuario. Debemos indicar en este caso, el nombre\nes Javier Sánchez Gómez. En el nombre del usuario debemos indicar\ncómo mencionamos el nombre del empleado. Es recomendable evitar usar\ngeneralidades, ya que en determinado momento no permitirán identificar quién\nrealizó determinada acción. Con generalidades, nos referimos a evitar\nutilizar nombres como vendedor uno, vendedor dos, contador uno o contador\ndos. El asistente de creación de usuarios cuenta con tres pestañas:\ngeneral, configuración y licencias. En la pestaña de general, lo primero que\ndebemos hacer es indicar la contraseña con el cual el usuario puede loguearse\nsistema y debemos confirmarla.\nAl lado del campo contraseña está la opción de permitir que el usuario\nmodifique su contraseña la próxima vez que inicie sesión. Esta opción se\nutiliza porque el administrador del sistema cuando crea los usuarios les\nasigna una contraseña, pero el usuario puede cambiarla personalizándola cuando\ninicie sesión por primera vez. En la parte inferior de la pestaña\ngeneral encontramos los campos de vigencia del usuario, es decir, la fecha\nde creación del usuario, la cual es la fecha del equipo servidor al momento de\nla creación. En este caso, a pesar de que la fecha de\ncreación que nos indica el sistema es la fecha del 7 de noviembre, podemos\nmodificarla para que sea la misma fecha de creación de la\nempresa. También tenemos una fecha de expiración, es decir, la fecha a partir\nde la cual el usuario no podrá ingresar al sistema.\nEl sistema normalmente indica una fecha de expiración, la cual el usuario\nadministrador puede variar según las necesidades de la empresa. Si damos clic\nen el botón siguiente, pasamos a la pestaña de configuración.\nAllí encontramos la opción de indicar si este usuario es administrador del\nsistema, es decir, si tendrá privilegios de administrador, como puede ser crear\nnuevos usuarios, áreas de trabajo, entre muchas otras.\nSe recomienda que solo exista un usuario administrador del sistema para que se\npuedan así centralizar dichas responsabilidades. Luego debemos\nindicarle el perfil. El perfil, como mencionábamos al principio, es el grupo\nde permisos o restricciones que se le asignarán a cada usuario. Antes de crear\nun usuario, ya debe estar creado el perfil que va a\nasignársele. Para mayor información acerca del perfil del usuario, consulte\nlos videos del módulo de usuarios y perfiles de seguridad.\nDebemos entonces indicarle a qué perfil o grupo de permisos pertenecerá dicho\nusuario. En este caso pertenecerá al perfil de\nventas. Luego tenemos la posibilidad de asignarle un grupo. Este es un campo de\nlibre definición por el usuario que permite crear agrupaciones de usuarios.\nEl grupo de usuarios permite establecer filtros\nfiltros permanentes para que en el manejador de\noperaciones solo aparezcan visibles o solo puedan ser modificadas las\nespecífico. En la parte inferior de la ventana encontramos la opción de si este\nusuario es cajero por turnos. Esta configuración permite que al usuario se\nle lleve un control del dinero de la caja registradora en cada uno de los\nturnos que este realice. Para mayor información, consulte los videos del\nmódulo de usuarios y perfiles de seguridad.\nseguridad. En la última pestaña de licencias\nencontramos una lista de todas las licencias virtuales que se encuentran\ncreadas y disponibles para ser asignadas al\nal usuario. Para asignarle una licencia a\nun usuario, basta con dar clic en la opción asignar\nlicencia. Para finalizar la creación del usuario, basta con dar clic en la opción\naceptar. El sistema realiza un proceso de\nverificación del usuario indicándonos si se encuentra algún error o alguna\ninconsistencia. En este caso nos indica que deberíamos indicarle un grupo al\nusuario. Ya nos ha quedado creado el usuario Javier Sánchez Gómez. De esta\nmisma manera se crean los demás usuarios del sistema. Esto es todo acerca de la"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 185.077,
+    "asr": 44100,
+    "filesizeApprox": 13805101,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2011",
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/rXFijpF4hAc.md",
+    "json": "videos/2011/rXFijpF4hAc.json",
+    "infoJson": "videos/2011/rXFijpF4hAc.info.json"
+  }
+}

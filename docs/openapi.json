@@ -854,7 +854,7 @@
         }
       }
     },
-    "/patyia/prompts": {
+    "/langlab/prompts": {
       "get": {
         "summary": "Prompts PatyIA",
         "tags": [

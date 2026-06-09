@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "J_rVsn9scdk",
+  "youtubeId": "J_rVsn9scdk",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:15:27.773Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2011/J_rVsn9scdk.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "J_rVsn9scdk",
+      "youtubeId": "J_rVsn9scdk",
+      "titulo": "J_rVsn9scdk",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

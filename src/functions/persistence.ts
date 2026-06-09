@@ -80,7 +80,7 @@ async function revisadoHandler(
 	}
 }
 
-async function patyiaConversacionesHandler(
+async function langlabConversacionesHandler(
 	request: HttpRequest,
 	context: InvocationContext,
 ): Promise<HttpResponseInit> {
@@ -107,13 +107,13 @@ async function patyiaConversacionesHandler(
 		}
 		return jsonResponse({ ok: false, error: "Método no soportado" }, 405, corsHeaders(origin));
 	} catch (err) {
-		context.error("patyia conversaciones cache", err);
+		context.error("langlab conversaciones cache", err);
 		const message = err instanceof Error ? err.message : String(err);
 		return jsonResponse({ ok: false, error: message }, 500, corsHeaders(origin));
 	}
 }
 
-async function patyiaIdentidadesHandler(
+async function langlabIdentidadesHandler(
 	request: HttpRequest,
 	_context: InvocationContext,
 ): Promise<HttpResponseInit> {
@@ -162,12 +162,12 @@ app.http("persistencePatyiaConvs", {
 	methods: ["GET", "PUT", "POST", "OPTIONS"],
 	authLevel: "anonymous",
 	route: "patyia/cache/conversaciones",
-	handler: patyiaConversacionesHandler,
+	handler: langlabConversacionesHandler,
 });
 
 app.http("persistencePatyiaIdentidades", {
 	methods: ["GET", "PUT", "POST", "OPTIONS"],
 	authLevel: "anonymous",
 	route: "patyia/cache/identidades",
-	handler: patyiaIdentidadesHandler,
+	handler: langlabIdentidadesHandler,
 });

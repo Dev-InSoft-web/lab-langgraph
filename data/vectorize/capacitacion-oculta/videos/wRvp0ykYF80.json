@@ -1,0 +1,973 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:21:04.037Z",
+  "videoId": "wRvp0ykYF80",
+  "videoUrl": "https://www.youtube.com/watch?v=wRvp0ykYF80",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "wRvp0ykYF80",
+    "title": "Software contable ContaPyme - Ejemplo 1 - Cargue inicial de cuentas",
+    "fulltitle": "Software contable ContaPyme - Ejemplo 1 - Cargue inicial de cuentas",
+    "description": "http: //www.contapyme.com\nEste vídeo explica a través de un ejemplo cómo realizar el cargue inicial de cuentas.\nCP40-020-040-010-010",
+    "duration": 536,
+    "duration_string": "8:56",
+    "upload_date": "20160305",
+    "timestamp": 1457186256,
+    "view_count": 6341,
+    "like_count": 9,
+    "comment_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_follower_count": 11800,
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestión empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable Colombia",
+      "software contable y administrativo",
+      "software niif",
+      "normas internacionales de información financiera",
+      "niif",
+      "contabilidad"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNddJQk3mbihiRk_4YIrx90BWEYA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKluwwdtF-EXRHkLeLKzKbJxI-FA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc06wfvJk273qjpFLnNHXqqa7Hqg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF_q0BuJn9wmFSQb6NS_nAU_3o8w",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wRvp0ykYF80/maxresdefault.jpg",
+        "height": 720,
+        "width": 1280,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1280x720"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wRvp0ykYF80/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "41",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wRvp0ykYF80",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.1865671641791045,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20335820895522388,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20335820895522388,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "320x180",
+        "width": 320,
+        "height": 180,
+        "fps": 0.20335820895522388,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 230.496,
+        "asr": 44100,
+        "filesize_approx": 15430122,
+        "protocol": "https"
+      }
+    ],
+    "comments": [
+      {
+        "id": "Ugx5DtFRyp_hhT3N7JR4AaABAg",
+        "parent": "root",
+        "text": "Buen dia. Una pregunta al realizar el cargue inicial de la PPyE no hay necesidad de discrimar cada uno de los bienes? Gracias",
+        "like_count": 0,
+        "author_id": "UCONiFMVo8BnMPc3UDm4Oa5A",
+        "author": "@luisfernandocharasepulveda1461",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-sEkk5qWi1r8cCmUezYeRqFAKcpLgyG_eesx2G1I=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@luisfernandocharasepulveda1461",
+        "is_favorited": false,
+        "_time_text": "8 years ago",
+        "timestamp": 1528070400,
+        "is_pinned": false
+      }
+    ]
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ejemplo 1 - Cargue inicial de cuentas",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/wRvp0ykYF80/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/wRvp0ykYF80?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ejemplo 1 - Cargue inicial de cuentas\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "segmentCount": 99,
+    "transcriptChars": 6419,
+    "segments": [
+      {
+        "text": "El objetivo de este video es mostrar por medio de un ejemplo cómo se realiza la",
+        "startMs": 6190,
+        "durationMs": 5080
+      },
+      {
+        "text": "operación de carga inicial de cuentas. Para este ejemplo, el cargo inicial de",
+        "startMs": 1680,
+        "durationMs": 15390
+      },
+      {
+        "text": "cuentas se realizará con una empresa que tiene contabilidad en marcha y desea",
+        "startMs": 17070,
+        "durationMs": 4680
+      },
+      {
+        "text": "iniciar sus actividades en el sistema a partir del primero de julio de 2015.",
+        "startMs": 21750,
+        "durationMs": 5279
+      },
+      {
+        "text": "Para este caso debemos tener en cuenta que el cargo inicial de cuentas debe",
+        "startMs": 27029,
+        "durationMs": 4121
+      },
+      {
+        "text": "cumplir con la ecuación patrimonial. Generalmente cuando el cargo inicial se",
+        "startMs": 31150,
+        "durationMs": 4680
+      },
+      {
+        "text": "realiza a inicio de año, es decir, cuando está por empezarse el ciclo",
+        "startMs": 35830,
+        "durationMs": 4080
+      },
+      {
+        "text": "contable, la ecuación patrimonial a cumplir es activo es igual a pasivo más",
+        "startMs": 39910,
+        "durationMs": 8040
+      },
+      {
+        "text": "patrimonio. Pero si el cargo inicial se realiza",
+        "startMs": 47950,
+        "durationMs": 1960
+      },
+      {
+        "text": "durante el año, la ecuación patrimonial adquiere un componente adicional.",
+        "startMs": 49910,
+        "durationMs": 5360
+      },
+      {
+        "text": "activo es igual a pasivo más patrimonio más utilidad.",
+        "startMs": 55270,
+        "durationMs": 4799
+      },
+      {
+        "text": "En este caso, la utilidad o pérdida del ejercicio se origina de la diferencia",
+        "startMs": 60069,
+        "durationMs": 5241
+      },
+      {
+        "text": "entre los ingresos y egresos cargados en las cuentas de resultado.",
+        "startMs": 65310,
+        "durationMs": 5040
+      },
+      {
+        "text": "Este dato debemos tenerlo presente para realizar este ejercicio.",
+        "startMs": 70350,
+        "durationMs": 4799
+      },
+      {
+        "text": "La información que nos brinda la empresa CMB Muebles y Hogar SAS es la siguiente.",
+        "startMs": 75149,
+        "durationMs": 6401
+      },
+      {
+        "text": "nos ofrece todas las cuentas del activo, igualmente las cuentas del pasivo y",
+        "startMs": 81550,
+        "durationMs": 6960
+      },
+      {
+        "text": "también las cuentas del patrimonio. Ya con esta información podemos proceder",
+        "startMs": 88510,
+        "durationMs": 5840
+      },
+      {
+        "text": "a realizar el cargue del balance inicial.",
+        "startMs": 94350,
+        "durationMs": 4280
+      },
+      {
+        "text": "inicial. Ubicados en el sistema, vamos a la",
+        "startMs": 98630,
+        "durationMs": 2240
+      },
+      {
+        "text": "pestaña básico y abrimos el manejador de operaciones.",
+        "startMs": 100870,
+        "durationMs": 6080
+      },
+      {
+        "text": "operaciones. Estando dentro del manejador de",
+        "startMs": 106950,
+        "durationMs": 1600
+      },
+      {
+        "text": "operaciones, vamos al botón más operaciones y en carga inicial",
+        "startMs": 108550,
+        "durationMs": 5040
+      },
+      {
+        "text": "encontramos la operación de carga inicial de cuentas.",
+        "startMs": 113590,
+        "durationMs": 4640
+      },
+      {
+        "text": "Recordemos que la operación de carga inicial de cuentas siempre se sustenta",
+        "startMs": 118230,
+        "durationMs": 3799
+      },
+      {
+        "text": "con el tipo de documento de soporte 990 de carga inicial de saldos.",
+        "startMs": 122029,
+        "durationMs": 5680
+      },
+      {
+        "text": "El sistema asigna de forma automática el número del consecutivo.",
+        "startMs": 127709,
+        "durationMs": 4761
+      },
+      {
+        "text": "Verificamos que la fecha de soporte esté en el 30 de junio de 2015 y vamos a",
+        "startMs": 132470,
+        "durationMs": 5920
+      },
+      {
+        "text": "colocar en el detalle de la operación carga inicial de cuentas junio 30 de",
+        "startMs": 138390,
+        "durationMs": 8040
+      },
+      {
+        "text": "2015. Vamos a iniciar cargando las cuentas del",
+        "startMs": 146430,
+        "durationMs": 2159
+      },
+      {
+        "text": "activo. La primera cuenta es la 1150 de Caja General.",
+        "startMs": 148589,
+        "durationMs": 6081
+      },
+      {
+        "text": "Abrimos el seleccionador y buscamos la cuenta Caja General.",
+        "startMs": 154670,
+        "durationMs": 11600
+      },
+      {
+        "text": "y la siguiente cuenta es la cuenta 1110505",
+        "startMs": 166280,
+        "durationMs": 3949
+      },
+      {
+        "text": "1110505 de Banco de Colombia.",
+        "startMs": 170229,
+        "durationMs": 2401
+      },
+      {
+        "text": "Abrimos nuevamente el seleccionador, buscamos la cuenta y digitamos el",
+        "startMs": 172630,
+        "durationMs": 4800
+      },
+      {
+        "text": "respectivo valor débito por 15 millones de pesos.",
+        "startMs": 177430,
+        "durationMs": 6920
+      },
+      {
+        "text": "De igual forma vamos a cargar las demás cuentas del balance.",
+        "startMs": 184360,
+        "durationMs": 6509
+      },
+      {
+        "text": "Podemos ver que la cuenta de clientes maneja tercero, por lo que lo hemos",
+        "startMs": 190879,
+        "durationMs": 3951
+      },
+      {
+        "text": "indicado al igual que el dato fecha y referencia.",
+        "startMs": 194830,
+        "durationMs": 4479
+      },
+      {
+        "text": "Ahora vamos a cargar las cuentas del pasivo. Iniciamos con la cuenta 210525.",
+        "startMs": 199309,
+        "durationMs": 8161
+      },
+      {
+        "text": "Abrimos el seleccionador, buscamos la cuenta,",
+        "startMs": 207480,
+        "durationMs": 6669
+      },
+      {
+        "text": "aceptaciones bancarias, digitamos el respectivo valor crédito de 8,500.",
+        "startMs": 214159,
+        "durationMs": 7270
+      },
+      {
+        "text": "Como esta es una cuenta por pagar, debemos indicar el tercero con el cual",
+        "startMs": 221429,
+        "durationMs": 3440
+      },
+      {
+        "text": "se realizó la transacción. Abrimos el seleccionador",
+        "startMs": 224869,
+        "durationMs": 4601
+      },
+      {
+        "text": "seleccionador y buscamos al Banco de Colombia.",
+        "startMs": 229470,
+        "durationMs": 2520
+      },
+      {
+        "text": "Igualmente, debemos indicar la fecha de pago y el número de la referencia.",
+        "startMs": 231990,
+        "durationMs": 8200
+      },
+      {
+        "text": "Hacemos lo mismo con las demás cuentas del pasivo.",
+        "startMs": 240200,
+        "durationMs": 8589
+      },
+      {
+        "text": "Ahora cargaremos las cuentas del patrimonio.",
+        "startMs": 248799,
+        "durationMs": 6191
+      },
+      {
+        "text": "Tenemos la cuenta 3105 con un crédito por valor de 14,500",
+        "startMs": 255000,
+        "durationMs": 6670
+      },
+      {
+        "text": "y la cuenta de utilidades acumuladas 3705015",
+        "startMs": 261670,
+        "durationMs": 4680
+      },
+      {
+        "text": "3705015 con un crédito por valor de 3,200.",
+        "startMs": 266350,
+        "durationMs": 3440
+      },
+      {
+        "text": "Tenemos entonces cargado así todas las cuentas del balance. En la parte",
+        "startMs": 269790,
+        "durationMs": 4520
+      },
+      {
+        "text": "inferior de la operación, el sistema nos muestra la diferencia existente entre",
+        "startMs": 274310,
+        "durationMs": 4480
+      },
+      {
+        "text": "los débitos y los créditos. Y como vemos hay una diferencia de 8,60,000.",
+        "startMs": 278790,
+        "durationMs": 7560
+      },
+      {
+        "text": "Esta diferencia es el resultado del ejercicio que nos arroja el estado",
+        "startMs": 286360,
+        "durationMs": 4190
+      },
+      {
+        "text": "resultados. Por eso también debemos proceder a cargar las cuentas de",
+        "startMs": 290550,
+        "durationMs": 5880
+      },
+      {
+        "text": "resultado. Cargaremos las cuentas del ingreso, las",
+        "startMs": 296430,
+        "durationMs": 2440
+      },
+      {
+        "text": "cuentas del gasto y las cuentas del costo de ventas.",
+        "startMs": 298870,
+        "durationMs": 4560
+      },
+      {
+        "text": "Para cargar las cuentas de ingresos, gastos y costos, debemos tener presente",
+        "startMs": 303430,
+        "durationMs": 4039
+      },
+      {
+        "text": "que estas cuentas exigen centro de costos y tercero, por lo que deberemos",
+        "startMs": 307469,
+        "durationMs": 4681
+      },
+      {
+        "text": "discriminar el valor de estas cuentas por cada centro de costos imputado y por",
+        "startMs": 312150,
+        "durationMs": 4680
+      },
+      {
+        "text": "cada tercero. Vamos a cargar la cuenta 4135 3605.",
+        "startMs": 316830,
+        "durationMs": 12760
+      },
+      {
+        "text": "Indicamos el respectivo centro de costos.",
+        "startMs": 329600,
+        "durationMs": 4630
+      },
+      {
+        "text": "En este caso es el centro de costos punto de venta cable,",
+        "startMs": 334240,
+        "durationMs": 10509
+      },
+      {
+        "text": "y el tercero, en este caso, el señor Fabián Castillo Morales.",
+        "startMs": 344759,
+        "durationMs": 7791
+      },
+      {
+        "text": "De igual forma debemos cargar las demás cuentas de ingresos, gastos y costos de",
+        "startMs": 352550,
+        "durationMs": 14840
+      },
+      {
+        "text": "Como podemos ver, hemos cargado las cuentas de gastos, costos e ingresos con",
+        "startMs": 367400,
+        "durationMs": 5390
+      },
+      {
+        "text": "sus respectivos centros de costos y terceros.",
+        "startMs": 372790,
+        "durationMs": 3519
+      },
+      {
+        "text": "terceros. Antes de procesar el cargo inicial,",
+        "startMs": 376309,
+        "durationMs": 2000
+      },
+      {
+        "text": "analicemos un poco las cuentas de resultado. Tenemos que el resultado del",
+        "startMs": 378309,
+        "durationMs": 4280
+      },
+      {
+        "text": "ejercicio se calcula tomando la cuenta de ingresos y restándole los gastos y",
+        "startMs": 382589,
+        "durationMs": 4880
+      },
+      {
+        "text": "Siendo así, tenemos que los ingresos corresponden a 49,780,000",
+        "startMs": 387469,
+        "durationMs": 8000
+      },
+      {
+        "text": "menos los gastos que corresponden a 29,620,000es",
+        "startMs": 395479,
+        "durationMs": 4591
+      },
+      {
+        "text": "29,620,000es y menos los costos que equivalen a",
+        "startMs": 400070,
+        "durationMs": 4440
+      },
+      {
+        "text": "12,100,000es. Esta operación nos arroja un resultado",
+        "startMs": 404510,
+        "durationMs": 1959
+      },
+      {
+        "text": "del ejercicio que corresponde a 8,60,000es,",
+        "startMs": 406469,
+        "durationMs": 4241
+      },
+      {
+        "text": "8,60,000es, los mismos que tenía descuadre el cargue",
+        "startMs": 410710,
+        "durationMs": 2479
+      },
+      {
+        "text": "de las cuentas de balance. Una vez tenemos listo el carga inicial,",
+        "startMs": 413189,
+        "durationMs": 4361
+      },
+      {
+        "text": "verificamos que el botón autoprocesar se encuentre activado y damos clic al botón",
+        "startMs": 417550,
+        "durationMs": 9199
+      },
+      {
+        "text": "Como vemos, la operación ha quedado guardada en el manejador de operaciones,",
+        "startMs": 426759,
+        "durationMs": 4150
+      },
+      {
+        "text": "procesada y cargada en la contabilidad. Para verificar que todo haya quedado",
+        "startMs": 430909,
+        "durationMs": 4680
+      },
+      {
+        "text": "bien, podemos consultar un balance general, para lo cual vamos a la pestaña",
+        "startMs": 435589,
+        "durationMs": 4801
+      },
+      {
+        "text": "contabilidad y en el botón de estados financieros básicos encontramos el",
+        "startMs": 440390,
+        "durationMs": 4560
+      },
+      {
+        "text": "balance general. Verificamos que la fecha sea el 30 de",
+        "startMs": 444950,
+        "durationMs": 4519
+      },
+      {
+        "text": "junio de 2015 y damos clic al botón B reporte.",
+        "startMs": 449469,
+        "durationMs": 6921
+      },
+      {
+        "text": "Podemos ver entonces que el balance nos muestra un activo por un total de",
+        "startMs": 456400,
+        "durationMs": 9150
+      },
+      {
+        "startMs": 465560,
+        "durationMs": 5670,
+        "text": "un pasivo por 18,765,000"
+      },
+      {
+        "text": "y un patrimonio por 25,760,000. En la parte inferior, el sistema nos",
+        "startMs": 471240,
+        "durationMs": 5830
+      },
+      {
+        "text": "muestra la ecuación patrimonial, donde podemos ver que el activo es igual al",
+        "startMs": 477070,
+        "durationMs": 4399
+      },
+      {
+        "text": "pasivo más patrimonio. También vemos la utilidad que viene del estado de",
+        "startMs": 481469,
+        "durationMs": 6201
+      },
+      {
+        "text": "resultados. Si consultamos el estado de resultados",
+        "startMs": 487670,
+        "durationMs": 1959
+      },
+      {
+        "text": "ingresando por la pestaña contabilidad, estados financieros básicos,",
+        "startMs": 489629,
+        "durationMs": 6680
+      },
+      {
+        "text": "verificamos la fecha 30 de junio de 2015.",
+        "startMs": 496319,
+        "durationMs": 7071
+      },
+      {
+        "text": "Vamos al final del reporte. Acá podemos ver que la utilidad se",
+        "startMs": 503400,
+        "durationMs": 5270
+      },
+      {
+        "text": "originó de tomar los ingresos y restarle los gastos y el costo de ventas.",
+        "startMs": 508670,
+        "durationMs": 5880
+      },
+      {
+        "text": "Como podemos ver en este simple cargue inicial, hemos realizado el cargue de",
+        "startMs": 514550,
+        "durationMs": 4159
+      },
+      {
+        "text": "las cuentas de balance y las cuentas de resultado, cumpliendo así la ecuación",
+        "startMs": 518709,
+        "durationMs": 4401
+      },
+      {
+        "text": "patrimonial y quedando listos para iniciar a registrar las transacciones",
+        "startMs": 523110,
+        "durationMs": 4040
+      },
+      {
+        "text": "diarias de la empresa. Esto es todo acerca de ejemplo uno,",
+        "startMs": 527150,
+        "durationMs": 5239
+      },
+      {
+        "text": "operación de carga inicial de cuentas. M.",
+        "startMs": 532389,
+        "durationMs": 4931
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEste vídeo explica a través de un ejemplo cómo realizar el cargue inicial de cuentas.\nCP40-020-040-010-010\n\n## Transcripción\n\nEl objetivo de este video es mostrar por medio de un ejemplo cómo se realiza la\noperación de carga inicial de cuentas. Para este ejemplo, el cargo inicial de\ncuentas se realizará con una empresa que tiene contabilidad en marcha y desea\niniciar sus actividades en el sistema a partir del primero de julio de 2015.\nPara este caso debemos tener en cuenta que el cargo inicial de cuentas debe\ncumplir con la ecuación patrimonial. Generalmente cuando el cargo inicial se\nrealiza a inicio de año, es decir, cuando está por empezarse el ciclo\ncontable, la ecuación patrimonial a cumplir es activo es igual a pasivo más\npatrimonio. Pero si el cargo inicial se realiza\ndurante el año, la ecuación patrimonial adquiere un componente adicional.\nactivo es igual a pasivo más patrimonio más utilidad.\nEn este caso, la utilidad o pérdida del ejercicio se origina de la diferencia\nentre los ingresos y egresos cargados en las cuentas de resultado.\nEste dato debemos tenerlo presente para realizar este ejercicio.\nLa información que nos brinda la empresa CMB Muebles y Hogar SAS es la siguiente.\nnos ofrece todas las cuentas del activo, igualmente las cuentas del pasivo y\ntambién las cuentas del patrimonio. Ya con esta información podemos proceder\na realizar el cargue del balance inicial.\ninicial. Ubicados en el sistema, vamos a la\npestaña básico y abrimos el manejador de operaciones.\noperaciones. Estando dentro del manejador de\noperaciones, vamos al botón más operaciones y en carga inicial\nencontramos la operación de carga inicial de cuentas.\nRecordemos que la operación de carga inicial de cuentas siempre se sustenta\ncon el tipo de documento de soporte 990 de carga inicial de saldos.\nEl sistema asigna de forma automática el número del consecutivo.\nVerificamos que la fecha de soporte esté en el 30 de junio de 2015 y vamos a\ncolocar en el detalle de la operación carga inicial de cuentas junio 30 de\n2015. Vamos a iniciar cargando las cuentas del\nactivo. La primera cuenta es la 1150 de Caja General.\nAbrimos el seleccionador y buscamos la cuenta Caja General.\ny la siguiente cuenta es la cuenta 1110505\n1110505 de Banco de Colombia.\nAbrimos nuevamente el seleccionador, buscamos la cuenta y digitamos el\nrespectivo valor débito por 15 millones de pesos.\nDe igual forma vamos a cargar las demás cuentas del balance.\nPodemos ver que la cuenta de clientes maneja tercero, por lo que lo hemos\nindicado al igual que el dato fecha y referencia.\nAhora vamos a cargar las cuentas del pasivo. Iniciamos con la cuenta 210525.\nAbrimos el seleccionador, buscamos la cuenta,\naceptaciones bancarias, digitamos el respectivo valor crédito de 8,500.\nComo esta es una cuenta por pagar, debemos indicar el tercero con el cual\nse realizó la transacción. Abrimos el seleccionador\nseleccionador y buscamos al Banco de Colombia.\nIgualmente, debemos indicar la fecha de pago y el número de la referencia.\nHacemos lo mismo con las demás cuentas del pasivo.\nAhora cargaremos las cuentas del patrimonio.\nTenemos la cuenta 3105 con un crédito por valor de 14,500\ny la cuenta de utilidades acumuladas 3705015\n3705015 con un crédito por valor de 3,200.\nTenemos entonces cargado así todas las cuentas del balance. En la parte\ninferior de la operación, el sistema nos muestra la diferencia existente entre\nlos débitos y los créditos. Y como vemos hay una diferencia de 8,60,000.\nEsta diferencia es el resultado del ejercicio que nos arroja el estado\nresultados. Por eso también debemos proceder a cargar las cuentas de\nresultado. Cargaremos las cuentas del ingreso, las\ncuentas del gasto y las cuentas del costo de ventas.\nPara cargar las cuentas de ingresos, gastos y costos, debemos tener presente\nque estas cuentas exigen centro de costos y tercero, por lo que deberemos\ndiscriminar el valor de estas cuentas por cada centro de costos imputado y por\ncada tercero. Vamos a cargar la cuenta 4135 3605.\nIndicamos el respectivo centro de costos.\nEn este caso es el centro de costos punto de venta cable,\ny el tercero, en este caso, el señor Fabián Castillo Morales.\nDe igual forma debemos cargar las demás cuentas de ingresos, gastos y costos de\nComo podemos ver, hemos cargado las cuentas de gastos, costos e ingresos con\nsus respectivos centros de costos y terceros.\nterceros. Antes de procesar el cargo inicial,\nanalicemos un poco las cuentas de resultado. Tenemos que el resultado del\nejercicio se calcula tomando la cuenta de ingresos y restándole los gastos y\nSiendo así, tenemos que los ingresos corresponden a 49,780,000\nmenos los gastos que corresponden a 29,620,000es\n29,620,000es y menos los costos que equivalen a\n12,100,000es. Esta operación nos arroja un resultado\ndel ejercicio que corresponde a 8,60,000es,\n8,60,000es, los mismos que tenía descuadre el cargue\nde las cuentas de balance. Una vez tenemos listo el carga inicial,\nverificamos que el botón autoprocesar se encuentre activado y damos clic al botón\nComo vemos, la operación ha quedado guardada en el manejador de operaciones,\nprocesada y cargada en la contabilidad. Para verificar que todo haya quedado\nbien, podemos consultar un balance general, para lo cual vamos a la pestaña\ncontabilidad y en el botón de estados financieros básicos encontramos el\nbalance general. Verificamos que la fecha sea el 30 de\njunio de 2015 y damos clic al botón B reporte.\nPodemos ver entonces que el balance nos muestra un activo por un total de\nun pasivo por 18,765,000\ny un patrimonio por 25,760,000. En la parte inferior, el sistema nos\nmuestra la ecuación patrimonial, donde podemos ver que el activo es igual al\npasivo más patrimonio. También vemos la utilidad que viene del estado de\nresultados. Si consultamos el estado de resultados\ningresando por la pestaña contabilidad, estados financieros básicos,\nverificamos la fecha 30 de junio de 2015.\nVamos al final del reporte. Acá podemos ver que la utilidad se\noriginó de tomar los ingresos y restarle los gastos y el costo de ventas.\nComo podemos ver en este simple cargue inicial, hemos realizado el cargue de\nlas cuentas de balance y las cuentas de resultado, cumpliendo así la ecuación\npatrimonial y quedando listos para iniciar a registrar las transacciones\ndiarias de la empresa. Esto es todo acerca de ejemplo uno,\noperación de carga inicial de cuentas. M.",
+    "dedupeVersion": 5
+  },
+  "comments": {
+    "fetched": 1,
+    "reportedCount": 1,
+    "items": [
+      {
+        "id": "Ugx5DtFRyp_hhT3N7JR4AaABAg",
+        "parent": "root",
+        "text": "Buen dia. Una pregunta al realizar el cargue inicial de la PPyE no hay necesidad de discrimar cada uno de los bienes? Gracias",
+        "like_count": 0,
+        "author_id": "UCONiFMVo8BnMPc3UDm4Oa5A",
+        "author": "@luisfernandocharasepulveda1461",
+        "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-sEkk5qWi1r8cCmUezYeRqFAKcpLgyG_eesx2G1I=s88-c-k-c0x00ffffff-no-rj",
+        "author_is_uploader": false,
+        "author_is_verified": false,
+        "author_url": "https://www.youtube.com/@luisfernandocharasepulveda1461",
+        "is_favorited": false,
+        "_time_text": "8 years ago",
+        "timestamp": 1528070400,
+        "is_pinned": false
+      }
+    ]
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 230.496,
+    "asr": 44100,
+    "filesizeApprox": 15430122,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2016",
+    "md": "videos/2016/wRvp0ykYF80.md",
+    "json": "videos/2016/wRvp0ykYF80.json",
+    "infoJson": "videos/2016/wRvp0ykYF80.info.json"
+  },
+  "publishYear": "2016",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "wRvp0ykYF80",
+        "youtubeId": "wRvp0ykYF80",
+        "titulo": "wRvp0ykYF80",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

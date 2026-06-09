@@ -1,0 +1,963 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:10:16.376Z",
+  "videoId": "aXUiqGLTdmc",
+  "videoUrl": "https://www.youtube.com/watch?v=aXUiqGLTdmc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "aXUiqGLTdmc",
+    "title": "Trasladar ContaPyme a casa",
+    "fulltitle": "Trasladar ContaPyme a casa",
+    "description": "En este video se explican las diferentes alternativas para trabajar desde casa con ContaPyme, cuando solo se cuenta con un usuario en el sistema.",
+    "duration": 574,
+    "duration_string": "9:34",
+    "upload_date": "20200325",
+    "timestamp": 1585146680,
+    "view_count": 4,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/aXUiqGLTdmc/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANZ1C6TFaJgsdzWRvayli4TDaEQg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDYrqTbRirAptdDgXF4H_cktdtm-g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdTrWRedulEaclnR42Qpthre6zOw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDwX_oe4vEEXk35VNjGFD2-1G2Z5g",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT3Odos7MZOuzJdh_r2MCkV2gELQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6aVJvYI-YsCSt-S9RbqraqW-RVw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDv6XkelPIbKmwEyMx1SqpNWBrNQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBrJE0ufqqbpKt_yXlh4ThE8BQnZg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aXUiqGLTdmc/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/aXUiqGLTdmc/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=aXUiqGLTdmc",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17421602787456447,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20209059233449478,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20209059233449478,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 208.183,
+        "asr": 44100,
+        "filesize_approx": 14943688,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Trasladar ContaPyme a casa",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/aXUiqGLTdmc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/aXUiqGLTdmc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Trasladar ContaPyme a casa\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 107,
+    "transcriptChars": 7763,
+    "segments": [
+      {
+        "text": "trasladar con está pyme a casa con tap y me pone a disposición de sus",
+        "startMs": 590,
+        "durationMs": 5199
+      },
+      {
+        "text": "usuarios diferencias alternativas para que puedan trabajar desde casa en este",
+        "startMs": 5789,
+        "durationMs": 4651
+      },
+      {
+        "text": "cualquiera de las siguientes alternativas opción o no llevarse al",
+        "startMs": 14490,
+        "durationMs": 4500
+      },
+      {
+        "text": "equipo a casa si tiene con está pyme instalado en un solo equipo puede optar",
+        "startMs": 18990,
+        "durationMs": 4380
+      },
+      {
+        "text": "por llevarse el equipo a casa y trabajar directamente en él con esta alternativa",
+        "startMs": 23370,
+        "durationMs": 4590
+      },
+      {
+        "text": "no será necesario que cuente con conexión a internet ya que el sistema",
+        "startMs": 27960,
+        "durationMs": 4109
+      },
+      {
+        "text": "queda instalado de forma local y la base de datos almacenada en el equipo",
+        "startMs": 32069,
+        "durationMs": 5101
+      },
+      {
+        "text": "opción 2 conectarse desde el equipo de casa usando alguna herramienta de",
+        "startMs": 37170,
+        "durationMs": 4890
+      },
+      {
+        "text": "conexión si no puedes llevarse el equipo de la oficina o empresa a su casa puede",
+        "startMs": 42060,
+        "durationMs": 5220
+      },
+      {
+        "text": "optar por utilizar alguna herramienta de conexión remota como teamviewer walid es",
+        "startMs": 10440,
+        "durationMs": 41220
+      },
+      {
+        "text": "que con estas herramientas podrá tener acceso al equipo de la oficina desde su",
+        "startMs": 51660,
+        "durationMs": 4680
+      },
+      {
+        "text": "casa para poder trabajar en contra pyme tenga en cuenta que al utilizar alguna",
+        "startMs": 56340,
+        "durationMs": 4410
+      },
+      {
+        "text": "de estas herramientas obligatoriamente deberá contar con el servicio de",
+        "startMs": 60750,
+        "durationMs": 3930
+      },
+      {
+        "text": "internet en su casa y el equipo de la oficina tendrá que permanecer prendido",
+        "startMs": 64680,
+        "durationMs": 4650
+      },
+      {
+        "text": "todo el tiempo opción 3 instalar con está pyme en el",
+        "startMs": 69330,
+        "durationMs": 4650
+      },
+      {
+        "text": "equipo de casa para esta alternativa es necesario realizar una serie de pasos",
+        "startMs": 73980,
+        "durationMs": 5100
+      },
+      {
+        "text": "con el fin de garantizar que el sistema funcione correctamente y puede acceder a",
+        "startMs": 79080,
+        "durationMs": 4950
+      },
+      {
+        "text": "toda la información paso a uno generar las copias de",
+        "startMs": 84030,
+        "durationMs": 3950
+      },
+      {
+        "text": "seguridad antes de poder instalar el sistema en el equipo de casa debemos",
+        "startMs": 87980,
+        "durationMs": 4739
+      },
+      {
+        "text": "asegurarnos de llevarnos las bases de datos que contiene el sistema para ello",
+        "startMs": 92719,
+        "durationMs": 5070
+      },
+      {
+        "text": "lo primero que debemos hacer es verificar cuántas áreas de trabajo",
+        "startMs": 97789,
+        "durationMs": 3331
+      },
+      {
+        "text": "activas tenemos es recomendable que estos pasos los realicemos ingresando",
+        "startMs": 101120,
+        "durationMs": 4349
+      },
+      {
+        "text": "con el usuario admin ya que es el usuario principal del sistema y que",
+        "startMs": 105469,
+        "durationMs": 3930
+      },
+      {
+        "text": "tiene acceso a todas las opciones nos dirigimos al botón aplicación de",
+        "startMs": 109399,
+        "durationMs": 4530
+      },
+      {
+        "text": "allí encontraremos todas las áreas de trabajo o diferentes bases de datos que",
+        "startMs": 121110,
+        "durationMs": 4190
+      },
+      {
+        "text": "tenemos teniendo claro cuáles son nuestras bases de datos debemos ingresar",
+        "startMs": 125300,
+        "durationMs": 4080
+      },
+      {
+        "text": "a cada una de ellas y realizar la respectiva copia de seguridad la cual",
+        "startMs": 129380,
+        "durationMs": 4290
+      },
+      {
+        "text": "guardaremos en un disco externo o memoria para hacer la copia de seguridad",
+        "startMs": 133670,
+        "durationMs": 4650
+      },
+      {
+        "text": "de la primera área de trabajo volvemos al botón de aplicación de conta pyme",
+        "startMs": 138320,
+        "durationMs": 4850
+      },
+      {
+        "text": "servidor explorador de copias de seguridad",
+        "startMs": 143170,
+        "durationMs": 4670
+      },
+      {
+        "text": "seguridad en esta ventana emergente damos clic al",
+        "startMs": 147840,
+        "durationMs": 2490
+      },
+      {
+        "text": "botón nueva y seleccionamos la ubicación en donde",
+        "startMs": 150330,
+        "durationMs": 4590
+      },
+      {
+        "text": "guardaremos la copia de seguridad que como indique anteriormente debe ser un",
+        "startMs": 154920,
+        "durationMs": 13530
+      },
+      {
+        "startMs": 168460,
+        "durationMs": 6220,
+        "text": "damos click al botón guardar"
+      },
+      {
+        "text": "al terminar el proceso de copia de seguridad cerramos la ventana del",
+        "startMs": 174690,
+        "durationMs": 3770
+      },
+      {
+        "text": "explorador y nos ubicamos en la siguiente área de trabajo dando click al",
+        "startMs": 178460,
+        "durationMs": 4320
+      },
+      {
+        "text": "botón cambiar de área de trabajo botón aplicación cambiar de área de trabajo",
+        "startMs": 182780,
+        "durationMs": 7020
+      },
+      {
+        "text": "indicamos la contraseña y damos click al botón conectar",
+        "startMs": 195110,
+        "durationMs": 7490
+      },
+      {
+        "text": "una vez ingresamos la contraseña del sistema cargará la información del área",
+        "startMs": 202610,
+        "durationMs": 4340
+      },
+      {
+        "text": "de trabajo y haremos el mismo procedimiento para realizar la copia de",
+        "startMs": 113929,
+        "durationMs": 96321
+      },
+      {
+        "text": "seguridad debemos hacer los mismos pasos por cada área de trabajo que tengamos",
+        "startMs": 210250,
+        "durationMs": 4350
+      },
+      {
+        "text": "una vez sacadas las copias de seguridad de cada área de trabajo es necesario",
+        "startMs": 214600,
+        "durationMs": 4260
+      },
+      {
+        "text": "verificar la actualización en la que se encuentra el sistema para ello podemos",
+        "startMs": 218860,
+        "durationMs": 4740
+      },
+      {
+        "text": "identificar en la parte superior el número de la versión el reliz y la",
+        "startMs": 223600,
+        "durationMs": 5250
+      },
+      {
+        "text": "actualización de no encontrarse en la parte superior podemos buscarla en la",
+        "startMs": 228850,
+        "durationMs": 4860
+      },
+      {
+        "text": "parte de abajo este dato debe tenerlo en cuenta a la",
+        "startMs": 233710,
+        "durationMs": 3960
+      },
+      {
+        "text": "hora de instalar el sistema en el equipo de casa ya que debe ser la misma versión",
+        "startMs": 237670,
+        "durationMs": 5670
+      },
+      {
+        "text": "paso 2 desactivar la licencia de contacto para poder instalar con está",
+        "startMs": 243340,
+        "durationMs": 4290
+      },
+      {
+        "text": "pyme en el equipo de casa primero debemos desactivar la licencia del",
+        "startMs": 247630,
+        "durationMs": 3780
+      },
+      {
+        "text": "equipo actual para ello vamos al botón de aplicación de conta pyme servidor",
+        "startMs": 251410,
+        "durationMs": 5480
+      },
+      {
+        "text": "catálogo de licencias en este catálogo el sistema nos mostrará",
+        "startMs": 256890,
+        "durationMs": 5950
+      },
+      {
+        "text": "las licencias que tenemos en este punto recomendamos copiar el número de la",
+        "startMs": 262840,
+        "durationMs": 4260
+      },
+      {
+        "text": "licencia y pegarlo en algún documento de texto que guardaremos en la memoria o",
+        "startMs": 267100,
+        "durationMs": 4770
+      },
+      {
+        "text": "disco externo en donde guardamos las copias de seguridad el número de",
+        "startMs": 271870,
+        "durationMs": 4830
+      },
+      {
+        "text": "licencia lo necesitaremos cuando vayamos a instalar en el equipo de casa una vez",
+        "startMs": 276700,
+        "durationMs": 4470
+      },
+      {
+        "text": "nos encontramos en el catálogo de licencias nos dedicamos sobre cada",
+        "startMs": 281170,
+        "durationMs": 3209
+      },
+      {
+        "text": "licencia y damos click al botón desactivar licencia el sistema nos",
+        "startMs": 284379,
+        "durationMs": 4711
+      },
+      {
+        "text": "muestra una ventana en la cual nos solicita indicar cómo realizaremos la",
+        "startMs": 289090,
+        "durationMs": 4530
+      },
+      {
+        "text": "solicitud en este caso damos clic a la opción realizar solicitud automática",
+        "startMs": 293620,
+        "durationMs": 5870
+      },
+      {
+        "text": "una vez realizado el proceso de desactivación de la licencia ésta",
+        "startMs": 299490,
+        "durationMs": 3930
+      },
+      {
+        "text": "quedará libre para poder ser instalada en el equipo de casa paso 3 instalar con",
+        "startMs": 303420,
+        "durationMs": 5790
+      },
+      {
+        "text": "está pyme en el equipo de casa una vez hemos sacado la copia de seguridad de",
+        "startMs": 309210,
+        "durationMs": 4680
+      },
+      {
+        "text": "todas las áreas de trabajo activas y hemos desactivado la licencia del equipo",
+        "startMs": 313890,
+        "durationMs": 3750
+      },
+      {
+        "text": "de la oficina procederemos a instalar con está pyme en el equipo de casa el",
+        "startMs": 317640,
+        "durationMs": 5490
+      },
+      {
+        "text": "instalador del sistema lo podemos descargar desde el portal de clientes",
+        "startMs": 323130,
+        "durationMs": 3450
+      },
+      {
+        "text": "ingresando a la opción instaladores allí vemos dónde está el instalador de con",
+        "startMs": 326580,
+        "durationMs": 5460
+      },
+      {
+        "text": "está pyme si ese no coincide con la versión que teníamos en el equipo de la",
+        "startMs": 332040,
+        "durationMs": 4560
+      },
+      {
+        "text": "oficina nos desplazamos en la barra y vamos hasta la opción versiones",
+        "startMs": 336600,
+        "durationMs": 5430
+      },
+      {
+        "text": "anteriores allí podremos encontrar las diferentes versiones del sistema y el",
+        "startMs": 342030,
+        "durationMs": 17120
+      },
+      {
+        "text": "una vez ha terminado el proceso de descarga del instalador lo ejecutamos e",
+        "startMs": 359160,
+        "durationMs": 11839
+      },
+      {
+        "text": "vamos dando click a siguiente en cada paso",
+        "startMs": 371009,
+        "durationMs": 4591
+      },
+      {
+        "text": "colocamos el número de la licencia y damos click al botón instalar",
+        "startMs": 375600,
+        "durationMs": 6760
+      },
+      {
+        "text": "una vez finalizada la instalación vamos a proceder a crear una nueva área de",
+        "startMs": 382370,
+        "durationMs": 10400
+      },
+      {
+        "text": "vamos a indicar una contraseña para el usuario admin",
+        "startMs": 392780,
+        "durationMs": 7820
+      },
+      {
+        "text": "paso 4 activar la licencia una vez hemos ingresado el sistema vamos a activar la",
+        "startMs": 400610,
+        "durationMs": 5930
+      },
+      {
+        "text": "licencia de contamine en el equipo de casa",
+        "startMs": 406540,
+        "durationMs": 3890
+      },
+      {
+        "text": "casa damos click al botón de aplicación",
+        "startMs": 410430,
+        "durationMs": 2450
+      },
+      {
+        "text": "servidor catálogo de licencias nos ubicamos sobre la licencia y damos",
+        "startMs": 412880,
+        "durationMs": 7480
+      },
+      {
+        "text": "clic en la opción activar licencia inicialmente debemos indicar el correo",
+        "startMs": 420360,
+        "durationMs": 4710
+      },
+      {
+        "text": "electrónico damos clic al botón sí e indicamos nuestro correo electrónico",
+        "startMs": 425070,
+        "durationMs": 13380
+      },
+      {
+        "text": "el sistema nuevamente nos saca una alerta la que nos pregunta cómo debemos",
+        "startMs": 438460,
+        "durationMs": 3890
+      },
+      {
+        "text": "hacer la activación vamos a dar clic en la opción realizar solicitud automática",
+        "startMs": 442350,
+        "durationMs": 6230
+      },
+      {
+        "text": "como vemos la licencia ha sido activada satisfactoriamente",
+        "startMs": 448580,
+        "durationMs": 4570
+      },
+      {
+        "text": "satisfactoriamente paso 5 crear las áreas de trabajo y",
+        "startMs": 453150,
+        "durationMs": 2940
+      },
+      {
+        "text": "recuperar las copias de seguridad una vez dentro del sistema vamos a recuperar",
+        "startMs": 456090,
+        "durationMs": 4800
+      },
+      {
+        "text": "las copias de seguridad recordemos que por cada área de trabajo que teníamos",
+        "startMs": 460890,
+        "durationMs": 4920
+      },
+      {
+        "text": "activa generamos la respectiva copia de seguridad entonces en esta nueva área",
+        "startMs": 465810,
+        "durationMs": 6330
+      },
+      {
+        "text": "vamos a recuperar la primera copia de seguridad vamos al botón de aplicación",
+        "startMs": 472140,
+        "durationMs": 5360
+      },
+      {
+        "text": "servidor explorador de copias de seguridad en la ventana emergente damos",
+        "startMs": 477500,
+        "durationMs": 5800
+      },
+      {
+        "text": "clic al botón recuperar y el sistema nos saca una alerta en la que indica que los",
+        "startMs": 483300,
+        "durationMs": 4500
+      },
+      {
+        "text": "datos que recuperemos reemplazarán los datos actuales damos clic en la opción",
+        "startMs": 487800,
+        "durationMs": 6010
+      },
+      {
+        "text": "zip buscamos la ruta donde tenemos la copia",
+        "startMs": 493810,
+        "durationMs": 2340
+      },
+      {
+        "text": "de seguridad en este caso sería el disco externo o la memoria",
+        "startMs": 496150,
+        "durationMs": 6529
+      },
+      {
+        "text": "y seleccionamos la primera copia que vamos a recuperar en este caso será el",
+        "startMs": 502689,
+        "durationMs": 4370
+      },
+      {
+        "text": "área de trabajo 1 damos clic al botón abrir",
+        "startMs": 507059,
+        "durationMs": 5291
+      },
+      {
+        "text": "el sistema nos muestra un aviso de que la copia ha sido restaurada",
+        "startMs": 512360,
+        "durationMs": 3520
+      },
+      {
+        "text": "satisfactoriamente damos clic en aceptar y luego tenemos la caja de ingreso al",
+        "startMs": 515880,
+        "durationMs": 5079
+      },
+      {
+        "text": "sistema en la cual debemos indicar el usuario y la contraseña de esa copia de",
+        "startMs": 520959,
+        "durationMs": 4711
+      },
+      {
+        "text": "seguridad damos click al botón conectar y el sistema nos cargará la información",
+        "startMs": 525670,
+        "durationMs": 5760
+      },
+      {
+        "text": "de la copia de seguridad que acabamos de recuperar",
+        "startMs": 531430,
+        "durationMs": 5880
+      },
+      {
+        "text": "vamos a cerrar la ventana del explorador de copias de seguridad y como vemos ha",
+        "startMs": 537320,
+        "durationMs": 3950
+      },
+      {
+        "text": "recuperado la información de la copia de seguridad si teníamos otras áreas de",
+        "startMs": 541270,
+        "durationMs": 5160
+      },
+      {
+        "text": "trabajo activas en el sistema debemos generar cada área de trabajo para",
+        "startMs": 546430,
+        "durationMs": 4770
+      },
+      {
+        "text": "recuperar la copia de seguridad para ello vamos al botón de aplicación de",
+        "startMs": 551200,
+        "durationMs": 4620
+      },
+      {
+        "text": "conta pyme servidor catálogo de áreas de trabajo en este catálogo debemos crear",
+        "startMs": 555820,
+        "durationMs": 5310
+      },
+      {
+        "text": "las demás áreas de trabajo y hacer el mismo procedimiento para recuperar en",
+        "startMs": 561130,
+        "durationMs": 4980
+      },
+      {
+        "text": "cada una de ellas la copia de seguridad esto es todo acerca de cómo trasladar",
+        "startMs": 566110,
+        "durationMs": 9300
+      }
+    ],
+    "plainText": "## Descripción del video\n\nEn este video se explican las diferentes alternativas para trabajar desde casa con ContaPyme, cuando solo se cuenta con un usuario en el sistema.\n\n## Transcripción\n\ntrasladar con está pyme a casa con tap y me pone a disposición de sus\nusuarios diferencias alternativas para que puedan trabajar desde casa en este\ncualquiera de las siguientes alternativas opción o no llevarse al\nequipo a casa si tiene con está pyme instalado en un solo equipo puede optar\npor llevarse el equipo a casa y trabajar directamente en él con esta alternativa\nno será necesario que cuente con conexión a internet ya que el sistema\nqueda instalado de forma local y la base de datos almacenada en el equipo\nopción 2 conectarse desde el equipo de casa usando alguna herramienta de\nconexión si no puedes llevarse el equipo de la oficina o empresa a su casa puede\noptar por utilizar alguna herramienta de conexión remota como teamviewer walid es\nque con estas herramientas podrá tener acceso al equipo de la oficina desde su\ncasa para poder trabajar en contra pyme tenga en cuenta que al utilizar alguna\nde estas herramientas obligatoriamente deberá contar con el servicio de\ninternet en su casa y el equipo de la oficina tendrá que permanecer prendido\ntodo el tiempo opción 3 instalar con está pyme en el\nequipo de casa para esta alternativa es necesario realizar una serie de pasos\ncon el fin de garantizar que el sistema funcione correctamente y puede acceder a\ntoda la información paso a uno generar las copias de\nseguridad antes de poder instalar el sistema en el equipo de casa debemos\nasegurarnos de llevarnos las bases de datos que contiene el sistema para ello\nlo primero que debemos hacer es verificar cuántas áreas de trabajo\nactivas tenemos es recomendable que estos pasos los realicemos ingresando\ncon el usuario admin ya que es el usuario principal del sistema y que\ntiene acceso a todas las opciones nos dirigimos al botón aplicación de\nallí encontraremos todas las áreas de trabajo o diferentes bases de datos que\ntenemos teniendo claro cuáles son nuestras bases de datos debemos ingresar\na cada una de ellas y realizar la respectiva copia de seguridad la cual\nguardaremos en un disco externo o memoria para hacer la copia de seguridad\nde la primera área de trabajo volvemos al botón de aplicación de conta pyme\nservidor explorador de copias de seguridad\nseguridad en esta ventana emergente damos clic al\nbotón nueva y seleccionamos la ubicación en donde\nguardaremos la copia de seguridad que como indique anteriormente debe ser un\ndamos click al botón guardar\nal terminar el proceso de copia de seguridad cerramos la ventana del\nexplorador y nos ubicamos en la siguiente área de trabajo dando click al\nbotón cambiar de área de trabajo botón aplicación cambiar de área de trabajo\nindicamos la contraseña y damos click al botón conectar\nuna vez ingresamos la contraseña del sistema cargará la información del área\nde trabajo y haremos el mismo procedimiento para realizar la copia de\nseguridad debemos hacer los mismos pasos por cada área de trabajo que tengamos\nuna vez sacadas las copias de seguridad de cada área de trabajo es necesario\nverificar la actualización en la que se encuentra el sistema para ello podemos\nidentificar en la parte superior el número de la versión el reliz y la\nactualización de no encontrarse en la parte superior podemos buscarla en la\nparte de abajo este dato debe tenerlo en cuenta a la\nhora de instalar el sistema en el equipo de casa ya que debe ser la misma versión\npaso 2 desactivar la licencia de contacto para poder instalar con está\npyme en el equipo de casa primero debemos desactivar la licencia del\nequipo actual para ello vamos al botón de aplicación de conta pyme servidor\ncatálogo de licencias en este catálogo el sistema nos mostrará\nlas licencias que tenemos en este punto recomendamos copiar el número de la\nlicencia y pegarlo en algún documento de texto que guardaremos en la memoria o\ndisco externo en donde guardamos las copias de seguridad el número de\nlicencia lo necesitaremos cuando vayamos a instalar en el equipo de casa una vez\nnos encontramos en el catálogo de licencias nos dedicamos sobre cada\nlicencia y damos click al botón desactivar licencia el sistema nos\nmuestra una ventana en la cual nos solicita indicar cómo realizaremos la\nsolicitud en este caso damos clic a la opción realizar solicitud automática\nuna vez realizado el proceso de desactivación de la licencia ésta\nquedará libre para poder ser instalada en el equipo de casa paso 3 instalar con\nestá pyme en el equipo de casa una vez hemos sacado la copia de seguridad de\ntodas las áreas de trabajo activas y hemos desactivado la licencia del equipo\nde la oficina procederemos a instalar con está pyme en el equipo de casa el\ninstalador del sistema lo podemos descargar desde el portal de clientes\ningresando a la opción instaladores allí vemos dónde está el instalador de con\nestá pyme si ese no coincide con la versión que teníamos en el equipo de la\noficina nos desplazamos en la barra y vamos hasta la opción versiones\nanteriores allí podremos encontrar las diferentes versiones del sistema y el\nuna vez ha terminado el proceso de descarga del instalador lo ejecutamos e\nvamos dando click a siguiente en cada paso\ncolocamos el número de la licencia y damos click al botón instalar\nuna vez finalizada la instalación vamos a proceder a crear una nueva área de\nvamos a indicar una contraseña para el usuario admin\npaso 4 activar la licencia una vez hemos ingresado el sistema vamos a activar la\nlicencia de contamine en el equipo de casa\ncasa damos click al botón de aplicación\nservidor catálogo de licencias nos ubicamos sobre la licencia y damos\nclic en la opción activar licencia inicialmente debemos indicar el correo\nelectrónico damos clic al botón sí e indicamos nuestro correo electrónico\nel sistema nuevamente nos saca una alerta la que nos pregunta cómo debemos\nhacer la activación vamos a dar clic en la opción realizar solicitud automática\ncomo vemos la licencia ha sido activada satisfactoriamente\nsatisfactoriamente paso 5 crear las áreas de trabajo y\nrecuperar las copias de seguridad una vez dentro del sistema vamos a recuperar\nlas copias de seguridad recordemos que por cada área de trabajo que teníamos\nactiva generamos la respectiva copia de seguridad entonces en esta nueva área\nvamos a recuperar la primera copia de seguridad vamos al botón de aplicación\nservidor explorador de copias de seguridad en la ventana emergente damos\nclic al botón recuperar y el sistema nos saca una alerta en la que indica que los\ndatos que recuperemos reemplazarán los datos actuales damos clic en la opción\nzip buscamos la ruta donde tenemos la copia\nde seguridad en este caso sería el disco externo o la memoria\ny seleccionamos la primera copia que vamos a recuperar en este caso será el\nárea de trabajo 1 damos clic al botón abrir\nel sistema nos muestra un aviso de que la copia ha sido restaurada\nsatisfactoriamente damos clic en aceptar y luego tenemos la caja de ingreso al\nsistema en la cual debemos indicar el usuario y la contraseña de esa copia de\nseguridad damos click al botón conectar y el sistema nos cargará la información\nde la copia de seguridad que acabamos de recuperar\nvamos a cerrar la ventana del explorador de copias de seguridad y como vemos ha\nrecuperado la información de la copia de seguridad si teníamos otras áreas de\ntrabajo activas en el sistema debemos generar cada área de trabajo para\nrecuperar la copia de seguridad para ello vamos al botón de aplicación de\nconta pyme servidor catálogo de áreas de trabajo en este catálogo debemos crear\nlas demás áreas de trabajo y hacer el mismo procedimiento para recuperar en\ncada una de ellas la copia de seguridad esto es todo acerca de cómo trasladar"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 208.183,
+    "asr": 44100,
+    "filesizeApprox": 14943688,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/aXUiqGLTdmc.md",
+    "json": "videos/2020/aXUiqGLTdmc.json",
+    "infoJson": "videos/2020/aXUiqGLTdmc.info.json"
+  }
+}

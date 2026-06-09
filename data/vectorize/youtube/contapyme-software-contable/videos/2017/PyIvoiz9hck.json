@@ -1,0 +1,782 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:43:16.493Z",
+  "videoId": "PyIvoiz9hck",
+  "videoUrl": "https://www.youtube.com/watch?v=PyIvoiz9hck",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "PyIvoiz9hck",
+    "title": "Software contable ContaPyme - Ejemplo 1 Operación de pedido de un cliente",
+    "fulltitle": "Software contable ContaPyme - Ejemplo 1 Operación de pedido de un cliente",
+    "description": "http: //www.contapyme.com\nEn este video se explica a través de un ejemplo cómo se registra la operación de pedido de un cliente.\nCP40-090-010-010",
+    "duration": 397,
+    "duration_string": "6:37",
+    "upload_date": "20170601",
+    "timestamp": 1496357674,
+    "view_count": 28,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "#SoftwareContable",
+      "#ContaPyme",
+      "#SistemaFacturación",
+      "#ProgramaContable",
+      "#Contabilidad",
+      "#NIIF",
+      "Sistema contable",
+      "Software contable",
+      "Sistema de contabilidad",
+      "Sistema de gestión empresarial",
+      "Software para contadores",
+      "Programas contables",
+      "Software contable Colombia",
+      "Software contable y administrativo",
+      "Software NIIF",
+      "Normas internacionales de información financiera",
+      "Pedido"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBSlSb0ZffprE5q2KIJ1vwBF-zgVQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCaq6UjmrHzV2VD7DZV4vYbs6J9tA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhD-PqsJWM0ppbzV3Rs89boVHq6w",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC5T4binpIPAFMUzxPPsIEgYejB7Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyN-WErprqG555b1gCgaKHkCKspA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBeqvujLG4LiEEABeUQLDRlC0dvGQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB72qy26bhF7CBQ18fObMBgb94opA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVJz21nv5P0RV9ofko_WlmrG-1rQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PyIvoiz9hck/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PyIvoiz9hck/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=PyIvoiz9hck",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2518891687657431,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.2040302267002519,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.2040302267002519,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 245.145,
+        "asr": 44100,
+        "filesize_approx": 12162899,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ejemplo 1 Operación de pedido de un cliente",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/PyIvoiz9hck/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/PyIvoiz9hck?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ejemplo 1 Operación de pedido de un cliente\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 68,
+    "transcriptChars": 5045,
+    "segments": [
+      {
+        "text": "ejemplo uno operación de pedido de un cliente el objetivo de este video es",
+        "startMs": 599,
+        "durationMs": 5071
+      },
+      {
+        "text": "explicar a través de un ejemplo Cómo se registra la operación de pedido de un",
+        "startMs": 5670,
+        "durationMs": 4919
+      },
+      {
+        "text": "cliente en este ejemplo registraremos un pedido realizado por el cliente Muebles",
+        "startMs": 10589,
+        "durationMs": 6041
+      },
+      {
+        "text": "El Nogal sa el día 19 de enero en el cual solicita cinco unidades del",
+        "startMs": 16630,
+        "durationMs": 6399
+      },
+      {
+        "text": "producto sofá tempo prana chocolate y tres unidades del producto puff Ontario",
+        "startMs": 23029,
+        "durationMs": 6281
+      },
+      {
+        "text": "chocolate el cliente realizó un anticipo a este pedido por valor de 1 millón de",
+        "startMs": 29310,
+        "durationMs": 6200
+      },
+      {
+        "text": "pesos para registrar el pedido de un cliente nos ubicamos en el manejador de",
+        "startMs": 35510,
+        "durationMs": 5719
+      },
+      {
+        "text": "operaciones desplegamos el botón más operaciones nos ubicamos en el asistente",
+        "startMs": 41229,
+        "durationMs": 6121
+      },
+      {
+        "text": "para las operaciones de ventas y seleccionamos la operación pedido de un",
+        "startMs": 47350,
+        "durationMs": 5920
+      },
+      {
+        "text": "cliente al ingresar en la operación lo primero que deberemos registrar son los",
+        "startMs": 53270,
+        "durationMs": 4840
+      },
+      {
+        "text": "datos del encabezado verificamos el tipo de documento de soporte verificamos",
+        "startMs": 58110,
+        "durationMs": 5800
+      },
+      {
+        "text": "también la fecha de registro de la operación e indicamos el detalle",
+        "startMs": 63910,
+        "durationMs": 5480
+      },
+      {
+        "text": "correspondiente una vez indicado el detalle de la operación deberemos",
+        "startMs": 69390,
+        "durationMs": 4160
+      },
+      {
+        "text": "seleccionar el tercero de quien Se recibió el pedido para ello nos ubicamos",
+        "startMs": 73550,
+        "durationMs": 10720
+      },
+      {
+        "text": "f5 así el sistema abre el catálogo de terceros y seleccionamos el",
+        "startMs": 84280,
+        "durationMs": 6469
+      },
+      {
+        "text": "muebles El Nogal deberemos indicar también la lista de precios para los",
+        "startMs": 90749,
+        "durationMs": 5561
+      },
+      {
+        "text": "productos y la bodega desde la cual saldrán los productos cuando estos sean",
+        "startMs": 96310,
+        "durationMs": 5320
+      },
+      {
+        "text": "enviados al cliente un pedido de un cliente lo",
+        "startMs": 101630,
+        "durationMs": 4600
+      },
+      {
+        "text": "podemos registrar tomando como referencia otro documento en este",
+        "startMs": 106230,
+        "durationMs": 5080
+      },
+      {
+        "text": "ejemplo no tomaremos ningún documento como referencia indicados los datos",
+        "startMs": 111310,
+        "durationMs": 4560
+      },
+      {
+        "text": "correspondientes del cliente procedemos a registrar los productos ados para ello",
+        "startMs": 115870,
+        "durationMs": 5120
+      },
+      {
+        "text": "nos ubicamos en la columna producto y escribimos parte del nombre del",
+        "startMs": 120990,
+        "durationMs": 7200
+      },
+      {
+        "text": "producto damos doble clic y así el sistema abre el catálogo de elementos de",
+        "startMs": 128200,
+        "durationMs": 6430
+      },
+      {
+        "text": "inventario filtrado por aquellos elementos que en su nombre incluyan el",
+        "startMs": 134630,
+        "durationMs": 5480
+      },
+      {
+        "text": "texto indicado seleccionamos el producto sofá tempo prana",
+        "startMs": 140110,
+        "durationMs": 5199
+      },
+      {
+        "text": "chocolate para seleccionar el siguiente producto nos ubicamos en en el siguiente",
+        "startMs": 145309,
+        "durationMs": 5121
+      },
+      {
+        "text": "renglón y damos doble clic sobre el jampo producto ahora seleccionaremos el",
+        "startMs": 150430,
+        "durationMs": 5840
+      },
+      {
+        "text": "producto puff Ontario chocolate veamos Así que al momento de",
+        "startMs": 156270,
+        "durationMs": 6239
+      },
+      {
+        "text": "seleccionar los productos el sistema carga la unidad de venta el precio",
+        "startMs": 162509,
+        "durationMs": 6440
+      },
+      {
+        "text": "unitario el porcentaje del IVA con el cual se encuentran grabados los",
+        "startMs": 168949,
+        "durationMs": 4441
+      },
+      {
+        "text": "productos los precios totales y Las observaciones para cada uno de los",
+        "startMs": 173390,
+        "durationMs": 5520
+      },
+      {
+        "text": "productos deberemos entonces registrar las cantidades de cada producto",
+        "startMs": 178910,
+        "durationMs": 6039
+      },
+      {
+        "text": "solicitadas por el cliente una vez registrados los",
+        "startMs": 184949,
+        "durationMs": 4560
+      },
+      {
+        "text": "productos pedidos por el cliente damos clic en siguiente en el segundo paso",
+        "startMs": 189509,
+        "durationMs": 5640
+      },
+      {
+        "text": "podemos registrar los datos adicionales del pedido podemos registrar la fecha",
+        "startMs": 195149,
+        "durationMs": 6321
+      },
+      {
+        "text": "máxima de entrega de los productos solicitados por el cliente podemos",
+        "startMs": 201470,
+        "durationMs": 5119
+      },
+      {
+        "text": "indicar también las condiciones comerciales",
+        "startMs": 206589,
+        "durationMs": 3720
+      },
+      {
+        "text": "comerciales y para finalizar podemos indicar la",
+        "startMs": 210309,
+        "durationMs": 2840
+      },
+      {
+        "text": "sucursal a la cual se enviarán los productos damos clic en siguiente en el",
+        "startMs": 213149,
+        "durationMs": 6201
+      },
+      {
+        "text": "tercer paso podemos registrar Las observaciones para la operación las",
+        "startMs": 219350,
+        "durationMs": 4680
+      },
+      {
+        "text": "cuales se podrán visualizar una vez se imprima el documento registradas Las",
+        "startMs": 224030,
+        "durationMs": 5040
+      },
+      {
+        "text": "observaciones para la operación damos clic en siguiente así llegamos al último",
+        "startMs": 229070,
+        "durationMs": 6400
+      },
+      {
+        "text": "paso de registro de la operación la forma de pago del primer anticipo",
+        "startMs": 235470,
+        "durationMs": 4959
+      },
+      {
+        "text": "recordemos que este cliente realizó un anticipo para el pedido dicho anticipo",
+        "startMs": 240429,
+        "durationMs": 4561
+      },
+      {
+        "text": "lo podemos registrar en este paso seleccionamos la forma de pago y",
+        "startMs": 244990,
+        "durationMs": 4879
+      },
+      {
+        "text": "registramos el respectivo valor e indicamos la información correspondiente",
+        "startMs": 249869,
+        "durationMs": 5280
+      },
+      {
+        "text": "para la forma de pago la cuenta bancaria el tipo de",
+        "startMs": 255149,
+        "durationMs": 6641
+      },
+      {
+        "text": "movimiento y el número del movimiento como se ha registrado un anticipo por",
+        "startMs": 261790,
+        "durationMs": 5080
+      },
+      {
+        "text": "parte del cliente deberemos indicar la cuenta de cartera a la cual se llevará",
+        "startMs": 266870,
+        "durationMs": 5400
+      },
+      {
+        "text": "el valor del anticipo como una cuenta por pagar al cliente y dicha cuenta por",
+        "startMs": 272270,
+        "durationMs": 4880
+      },
+      {
+        "text": "pedidos por el cliente por defecto el sistema carga la cuenta",
+        "startMs": 282029,
+        "durationMs": 5401
+      },
+      {
+        "text": "280505 de ser necesario se puede seleccionar la cuenta correspondiente",
+        "startMs": 287430,
+        "durationMs": 5560
+      },
+      {
+        "text": "directamente Del catálogo de plan de cuentas de esta forma finalizamos el",
+        "startMs": 292990,
+        "durationMs": 5680
+      },
+      {
+        "text": "registro de la informción para la operación verificamos que se encuentre",
+        "startMs": 298670,
+        "durationMs": 3799
+      },
+      {
+        "text": "activo el botón autoes y damos clic en aceptar de esta forma ya tenemos",
+        "startMs": 302469,
+        "durationMs": 8841
+      },
+      {
+        "text": "registrada y procesada en el sistema la operación de pedido del cliente para",
+        "startMs": 311310,
+        "durationMs": 6360
+      },
+      {
+        "text": "imprimir el documento damos clic derecho sobre la operación nos ubicamos en la",
+        "startMs": 317670,
+        "durationMs": 5120
+      },
+      {
+        "text": "opción informes y seleccionamos la opción imprimir documento como",
+        "startMs": 322790,
+        "durationMs": 7200
+      },
+      {
+        "text": "verificamos el tipo de documento de impresión y damos clic en vista",
+        "startMs": 329990,
+        "durationMs": 7080
+      },
+      {
+        "text": "previa así podemos visualizar la información del documento la información",
+        "startMs": 337080,
+        "durationMs": 6389
+      },
+      {
+        "text": "del cliente el valor del pedido el plazo de entrega de los productos solicitados",
+        "startMs": 343469,
+        "durationMs": 7761
+      },
+      {
+        "text": "los productos pedidos por el cliente y su respectiva liquidación la observación",
+        "startMs": 277150,
+        "durationMs": 80319
+      },
+      {
+        "text": "registrada para la operación las condiciones comerciales y la forma de",
+        "startMs": 357469,
+        "durationMs": 5761
+      },
+      {
+        "text": "pago en la cual el sistema nos indica que el cliente realizó un",
+        "startMs": 363230,
+        "durationMs": 7000
+      },
+      {
+        "text": "anticipo recordemos para registrar la operación de pedido del cliente nos",
+        "startMs": 370240,
+        "durationMs": 5349
+      },
+      {
+        "text": "ubicamos en el manejador de operaciones desplegamos el botón más",
+        "startMs": 375589,
+        "durationMs": 5761
+      },
+      {
+        "text": "operaciones nos ubicamos en el asistente para las operaciones de ventas y",
+        "startMs": 381350,
+        "durationMs": 5720
+      },
+      {
+        "text": "seleccionamos pedido de un cliente esto es todo acerca de ejemplo uno",
+        "startMs": 387070,
+        "durationMs": 11569
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este video se explica a través de un ejemplo cómo se registra la operación de pedido de un cliente.\nCP40-090-010-010\n\n## Transcripción\n\nejemplo uno operación de pedido de un cliente el objetivo de este video es\nexplicar a través de un ejemplo Cómo se registra la operación de pedido de un\ncliente en este ejemplo registraremos un pedido realizado por el cliente Muebles\nEl Nogal sa el día 19 de enero en el cual solicita cinco unidades del\nproducto sofá tempo prana chocolate y tres unidades del producto puff Ontario\nchocolate el cliente realizó un anticipo a este pedido por valor de 1 millón de\npesos para registrar el pedido de un cliente nos ubicamos en el manejador de\noperaciones desplegamos el botón más operaciones nos ubicamos en el asistente\npara las operaciones de ventas y seleccionamos la operación pedido de un\ncliente al ingresar en la operación lo primero que deberemos registrar son los\ndatos del encabezado verificamos el tipo de documento de soporte verificamos\ntambién la fecha de registro de la operación e indicamos el detalle\ncorrespondiente una vez indicado el detalle de la operación deberemos\nseleccionar el tercero de quien Se recibió el pedido para ello nos ubicamos\nf5 así el sistema abre el catálogo de terceros y seleccionamos el\nmuebles El Nogal deberemos indicar también la lista de precios para los\nproductos y la bodega desde la cual saldrán los productos cuando estos sean\nenviados al cliente un pedido de un cliente lo\npodemos registrar tomando como referencia otro documento en este\nejemplo no tomaremos ningún documento como referencia indicados los datos\ncorrespondientes del cliente procedemos a registrar los productos ados para ello\nnos ubicamos en la columna producto y escribimos parte del nombre del\nproducto damos doble clic y así el sistema abre el catálogo de elementos de\ninventario filtrado por aquellos elementos que en su nombre incluyan el\ntexto indicado seleccionamos el producto sofá tempo prana\nchocolate para seleccionar el siguiente producto nos ubicamos en en el siguiente\nrenglón y damos doble clic sobre el jampo producto ahora seleccionaremos el\nproducto puff Ontario chocolate veamos Así que al momento de\nseleccionar los productos el sistema carga la unidad de venta el precio\nunitario el porcentaje del IVA con el cual se encuentran grabados los\nproductos los precios totales y Las observaciones para cada uno de los\nproductos deberemos entonces registrar las cantidades de cada producto\nsolicitadas por el cliente una vez registrados los\nproductos pedidos por el cliente damos clic en siguiente en el segundo paso\npodemos registrar los datos adicionales del pedido podemos registrar la fecha\nmáxima de entrega de los productos solicitados por el cliente podemos\nindicar también las condiciones comerciales\ncomerciales y para finalizar podemos indicar la\nsucursal a la cual se enviarán los productos damos clic en siguiente en el\ntercer paso podemos registrar Las observaciones para la operación las\ncuales se podrán visualizar una vez se imprima el documento registradas Las\nobservaciones para la operación damos clic en siguiente así llegamos al último\npaso de registro de la operación la forma de pago del primer anticipo\nrecordemos que este cliente realizó un anticipo para el pedido dicho anticipo\nlo podemos registrar en este paso seleccionamos la forma de pago y\nregistramos el respectivo valor e indicamos la información correspondiente\npara la forma de pago la cuenta bancaria el tipo de\nmovimiento y el número del movimiento como se ha registrado un anticipo por\nparte del cliente deberemos indicar la cuenta de cartera a la cual se llevará\nel valor del anticipo como una cuenta por pagar al cliente y dicha cuenta por\npedidos por el cliente por defecto el sistema carga la cuenta\n280505 de ser necesario se puede seleccionar la cuenta correspondiente\ndirectamente Del catálogo de plan de cuentas de esta forma finalizamos el\nregistro de la informción para la operación verificamos que se encuentre\nactivo el botón autoes y damos clic en aceptar de esta forma ya tenemos\nregistrada y procesada en el sistema la operación de pedido del cliente para\nimprimir el documento damos clic derecho sobre la operación nos ubicamos en la\nopción informes y seleccionamos la opción imprimir documento como\nverificamos el tipo de documento de impresión y damos clic en vista\nprevia así podemos visualizar la información del documento la información\ndel cliente el valor del pedido el plazo de entrega de los productos solicitados\nlos productos pedidos por el cliente y su respectiva liquidación la observación\nregistrada para la operación las condiciones comerciales y la forma de\npago en la cual el sistema nos indica que el cliente realizó un\nanticipo recordemos para registrar la operación de pedido del cliente nos\nubicamos en el manejador de operaciones desplegamos el botón más\noperaciones nos ubicamos en el asistente para las operaciones de ventas y\nseleccionamos pedido de un cliente esto es todo acerca de ejemplo uno"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 245.145,
+    "asr": 44100,
+    "filesizeApprox": 12162899,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/PyIvoiz9hck.md",
+    "json": "videos/2017/PyIvoiz9hck.json",
+    "infoJson": "videos/2017/PyIvoiz9hck.info.json"
+  }
+}

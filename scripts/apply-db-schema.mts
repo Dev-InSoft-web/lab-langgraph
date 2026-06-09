@@ -7,7 +7,7 @@
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
 import { pingClientesisDb, pingPatyDb, pingRagDb } from "../src/lib/db/pg.js";
-import { ensureClientesisSchema, ensurePatySchema } from "../src/lib/db/ensure-schemas.js";
+import { applyClientesisSchema, applyLanglabOpsSchema } from "../src/lib/db/ensure-schemas.js";
 import { ensureRagSchema } from "../src/lib/rag/ensureSchema.js";
 import { syncOrchestratorSlots } from "../src/lib/orchestrator/store.js";
 import { listOrchestratorSlots } from "../src/lib/orchestrator/store.js";
@@ -35,8 +35,8 @@ console.log("  clientesis: OK");
 console.log("  rag: OK\n");
 
 console.log("Aplicando schema paty (ops) + clientesis…");
-await ensurePatySchema();
-await ensureClientesisSchema();
+await applyLanglabOpsSchema();
+await applyClientesisSchema();
 const n = await syncOrchestratorSlots();
 const slots = await listOrchestratorSlots();
 console.log(`  slots orquestador: ${n} (total ${slots.length})`);

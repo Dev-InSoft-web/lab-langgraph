@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:29:31.222Z",
+  "videoId": "YKb2BLTTqNM",
+  "videoUrl": "https://www.youtube.com/watch?v=YKb2BLTTqNM",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "YKb2BLTTqNM",
+    "title": "Software contable ContaPyme - Activación del uso de elementos en alquiler",
+    "fulltitle": "Software contable ContaPyme - Activación del uso de elementos en alquiler",
+    "description": "http://www.contapyme.com\nRuta para activar el manejo de elementos en alquiler en el software contable ContaPyme. \nCP40-150-080-010B-020M",
+    "duration": 107,
+    "duration_string": "1:47",
+    "upload_date": "20120519",
+    "timestamp": 1337434812,
+    "view_count": 183,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/YKb2BLTTqNM/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiHRzvMNQrntK7skUXG7Imj6WzOg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHRqN5fshIE2NDHTS__j-toUXaXQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgi1cqdQS_Zth_TXZ_AojHg52BbQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK6dw7nKB9C1AWdt26iZJsb37S8A",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YKb2BLTTqNM/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YKb2BLTTqNM/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=YKb2BLTTqNM",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.9345794392523364,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 1.0186915887850467,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 1.0186915887850467,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 225.48,
+        "asr": 44100,
+        "filesize_approx": 3020952,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Activación del uso de elementos en alquiler",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/YKb2BLTTqNM/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/YKb2BLTTqNM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Activación del uso de elementos en alquiler\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 20,
+    "transcriptChars": 1502,
+    "segments": [
+      {
+        "text": "activación del uso de elementos en alquiler para el manejo de la operación",
+        "startMs": 880,
+        "durationMs": 4630
+      },
+      {
+        "text": "de inventarios punto de venta conociendo que dentro del sistema",
+        "startMs": 5510,
+        "durationMs": 5520
+      },
+      {
+        "text": "contapyme se pueden configurar elementos de control como servicios en alquiler es",
+        "startMs": 11030,
+        "durationMs": 5720
+      },
+      {
+        "text": "decir que son cobrados por el tiempo de uso por ejemplo el caso de mesas de",
+        "startMs": 16750,
+        "durationMs": 4560
+      },
+      {
+        "text": "juego o una cancha lo primero que debemos hacer es indicarle al sistema",
+        "startMs": 21310,
+        "durationMs": 5520
+      },
+      {
+        "text": "que se va a utilizar esta configuración en el catálogo de elementos de control",
+        "startMs": 26830,
+        "durationMs": 5599
+      },
+      {
+        "text": "la ruta para activar la configuración es ingresar por la pestaña inventarios a la",
+        "startMs": 32429,
+        "durationMs": 6161
+      },
+      {
+        "text": "opción de elementos del inventario una vez dentro del catálogo",
+        "startMs": 38590,
+        "durationMs": 6520
+      },
+      {
+        "text": "ingresamos por la cinta de opciones al botón de",
+        "startMs": 45110,
+        "durationMs": 5560
+      },
+      {
+        "text": "configuración allí dentro de las múltiples opciones que se presentan",
+        "startMs": 50670,
+        "durationMs": 4199
+      },
+      {
+        "text": "buscamos la que dice elementos de inventario de",
+        "startMs": 54869,
+        "durationMs": 3081
+      },
+      {
+        "text": "alquiler al activarlo la opción permitir la definición de elementos de inventario",
+        "startMs": 57950,
+        "durationMs": 6360
+      },
+      {
+        "text": "en alquiler el sistema permite realizar",
+        "startMs": 64310,
+        "durationMs": 3159
+      },
+      {
+        "text": "tres configuraciones diferentes para el alquiler de servicios por tiempo",
+        "startMs": 67469,
+        "durationMs": 5521
+      },
+      {
+        "text": "alquiler por minutos por horas o por noches esta configuración de Campos",
+        "startMs": 72990,
+        "durationMs": 6759
+      },
+      {
+        "text": "puede ser consultada en el video de este mismo capítulo llamado configuración de",
+        "startMs": 79749,
+        "durationMs": 5081
+      },
+      {
+        "text": "métodos de cálculo de tiempo una vez ya aceptamos esta",
+        "startMs": 84830,
+        "durationMs": 5800
+      },
+      {
+        "text": "configuración ya podemos Buscar un",
+        "startMs": 90630,
+        "durationMs": 2720
+      },
+      {
+        "text": "servicio e indicarle que este servicio es un elemento de",
+        "startMs": 93350,
+        "durationMs": 6439
+      },
+      {
+        "text": "alquiler esto es todo acerca de activación del uso de elementos en",
+        "startMs": 99789,
+        "durationMs": 9290
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nRuta para activar el manejo de elementos en alquiler en el software contable ContaPyme. \nCP40-150-080-010B-020M\n\n## Transcripción\n\nactivación del uso de elementos en alquiler para el manejo de la operación\nde inventarios punto de venta conociendo que dentro del sistema\ncontapyme se pueden configurar elementos de control como servicios en alquiler es\ndecir que son cobrados por el tiempo de uso por ejemplo el caso de mesas de\njuego o una cancha lo primero que debemos hacer es indicarle al sistema\nque se va a utilizar esta configuración en el catálogo de elementos de control\nla ruta para activar la configuración es ingresar por la pestaña inventarios a la\nopción de elementos del inventario una vez dentro del catálogo\ningresamos por la cinta de opciones al botón de\nconfiguración allí dentro de las múltiples opciones que se presentan\nbuscamos la que dice elementos de inventario de\nalquiler al activarlo la opción permitir la definición de elementos de inventario\nen alquiler el sistema permite realizar\ntres configuraciones diferentes para el alquiler de servicios por tiempo\nalquiler por minutos por horas o por noches esta configuración de Campos\npuede ser consultada en el video de este mismo capítulo llamado configuración de\nmétodos de cálculo de tiempo una vez ya aceptamos esta\nconfiguración ya podemos Buscar un\nservicio e indicarle que este servicio es un elemento de\nalquiler esto es todo acerca de activación del uso de elementos en"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 225.48,
+    "asr": 44100,
+    "filesizeApprox": 3020952,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/YKb2BLTTqNM.md",
+    "json": "videos/2012/YKb2BLTTqNM.json",
+    "infoJson": "videos/2012/YKb2BLTTqNM.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "YKb2BLTTqNM",
+        "youtubeId": "YKb2BLTTqNM",
+        "titulo": "YKb2BLTTqNM",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

@@ -2,7 +2,10 @@ import { preloadIsaDocSecrets } from "../core/secrets.js";
 import { loadCerebrasApiKeysFromEnv } from "../providers/cerebras/cerebras-api-keys.js";
 import { loadCohereApiKeysFromEnv } from "../providers/cohere/cohere-api-keys.js";
 import { loadDeepSeekApiKeysFromEnv } from "../providers/deepseek/deepseek-api-keys.js";
-import { loadGroqApiKeysFromEnv } from "../providers/groq/groq-api-keys.js";
+import {
+	loadGroqChatApiKeysFromEnv,
+	loadGroqWhisperApiKeysFromEnv,
+} from "../providers/groq/groq-api-keys.js";
 import { loadHuggingFaceApiKeysFromEnv } from "../providers/huggingface/huggingface-api-keys.js";
 import { loadOpenRouterApiKeysFromEnv } from "../providers/openrouter/openrouter-api-keys.js";
 import type { LabCapability, LabProvider } from "./types.js";
@@ -21,7 +24,8 @@ export function slotDefinitionsForCapability(capability: LabCapability): SlotDef
 	let order = 0;
 
 	const pushGroq = (cap: LabCapability) => {
-		for (const e of loadGroqApiKeysFromEnv()) {
+		const keys = cap === "whisper" ? loadGroqWhisperApiKeysFromEnv() : loadGroqChatApiKeysFromEnv();
+		for (const e of keys) {
 			out.push({ provider: "groq", capability: cap, keyLabel: e.label, sortOrder: order++ });
 		}
 	};
@@ -135,7 +139,11 @@ export function resolveApiKeySecret(provider: LabProvider, keyLabel: string): st
 	if (direct) return direct;
 
 	if (provider === "groq") {
-		return loadGroqApiKeysFromEnv().find((e) => e.label === keyLabel)?.key ?? null;
+		return (
+			loadGroqWhisperApiKeysFromEnv().find((e) => e.label === keyLabel)?.key ??
+			loadGroqChatApiKeysFromEnv().find((e) => e.label === keyLabel)?.key ??
+			null
+		);
 	}
 	if (provider === "cerebras") {
 		return loadCerebrasApiKeysFromEnv().find((e) => e.label === keyLabel)?.key ?? null;

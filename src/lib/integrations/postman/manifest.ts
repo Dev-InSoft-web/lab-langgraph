@@ -9,6 +9,7 @@ import type {
 } from "./types.js";
 import { getPatyPgPool } from "../../db/pg.js";
 import { Q_LAB_API_CATALOG_MANIFEST } from "../../db/pg-identifiers.js";
+import { sqlCol } from "../../db/pg-quote.js";
 import { bundledCatalogExists, resolveBundledCatalogPath } from "./paths.js";
 
 const CATALOG_ROW_ID = "default";
@@ -79,21 +80,28 @@ export function loadCatalogFromManifest(project: ApiProject): CatalogEndpoint[] 
 }
 
 export async function ensureApiCatalogSchema(): Promise<void> {
-	const { ensurePatySchema } = await import("../../db/ensure-schemas.js");
-	await ensurePatySchema();
+	const { ensureLanglabSchema } = await import("../../db/ensure-schemas.js");
+	await ensureLanglabSchema();
 }
 
 export async function upsertManifestToPg(manifest: ApiCatalogManifest): Promise<void> {
 	await ensureApiCatalogSchema();
 	const pool = getPatyPgPool();
+	const c = {
+		id: sqlCol("id"),
+		version: sqlCol("version"),
+		generatedAt: sqlCol("generatedat"),
+		source: sqlCol("source"),
+		body: sqlCol("body"),
+	};
 	await pool.query(
-		`INSERT INTO ${Q_LAB_API_CATALOG_MANIFEST} (id, version, generatedat, source, body)
+		`INSERT INTO ${Q_LAB_API_CATALOG_MANIFEST} (${c.id}, ${c.version}, ${c.generatedAt}, ${c.source}, ${c.body})
 		 VALUES ($1, $2, $3::timestamptz, $4, $5::jsonb)
-		 ON CONFLICT (id) DO UPDATE SET
-		   version = EXCLUDED.version,
-		   generatedat = EXCLUDED.generatedat,
-		   source = EXCLUDED.source,
-		   body = EXCLUDED.body`,
+		 ON CONFLICT (${c.id}) DO UPDATE SET
+		   ${c.version} = EXCLUDED.${c.version},
+		   ${c.generatedAt} = EXCLUDED.${c.generatedAt},
+		   ${c.source} = EXCLUDED.${c.source},
+		   ${c.body} = EXCLUDED.${c.body}`,
 		[CATALOG_ROW_ID, manifest.version, manifest.generatedAt, manifest.source, JSON.stringify(manifest)],
 	);
 }
@@ -102,7 +110,7 @@ export async function loadManifestFromPg(): Promise<ApiCatalogManifest | null> {
 	await ensureApiCatalogSchema();
 	const pool = getPatyPgPool();
 	const res = await pool.query<{ body: ApiCatalogManifest }>(
-		`SELECT body FROM ${Q_LAB_API_CATALOG_MANIFEST} WHERE id = $1`,
+		`SELECT ${sqlCol("body")} AS body FROM ${Q_LAB_API_CATALOG_MANIFEST} WHERE ${sqlCol("id")} = $1`,
 		[CATALOG_ROW_ID],
 	);
 	const row = res.rows[0];

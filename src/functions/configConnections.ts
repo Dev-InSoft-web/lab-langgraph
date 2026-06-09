@@ -2,12 +2,13 @@ import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/fu
 import {
 	getClientesisDatabaseUrl,
 	getClientesisMssqlConfig,
-	getPatyDatabaseUrl,
+	getLanglabDatabaseUrl,
 	getPatyMssqlConfig,
 	getRagDatabaseUrl,
 } from "../lib/core/config.js";
 import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
 import { pingClientesisDb, pingPatyDb, pingRagDb } from "../lib/db/pg.js";
+import { pingMssql } from "../lib/mssql/pool.js";
 
 function pgLabel(url: string): string {
 	try {
@@ -34,7 +35,7 @@ async function handler(request: HttpRequest, _ctx: InvocationContext): Promise<H
 	const authBlock = await beginHttpRequest(request, origin);
 	if (authBlock) return authBlock;
 
-	const patyPg = getPatyDatabaseUrl();
+	const patyPg = getLanglabDatabaseUrl();
 	const clientesisPg = getClientesisDatabaseUrl();
 	let ragUrl: string | null = null;
 	let ragOk = false;
@@ -45,35 +46,49 @@ async function handler(request: HttpRequest, _ctx: InvocationContext): Promise<H
 		ragUrl = null;
 	}
 
-	const [patyOk, clientesisOk] = await Promise.all([pingPatyDb(), pingClientesisDb()]);
+	const [patyOk, clientesisOk, mssqlClientesis, mssqlPaty] = await Promise.all([
+		pingPatyDb(),
+		pingClientesisDb(),
+		getClientesisMssqlConfig() ? pingMssql("clientesis") : Promise.resolve({ ok: false, reason: "no configurado" }),
+		getPatyMssqlConfig() ? pingMssql("paty") : Promise.resolve({ ok: false, reason: "no configurado" }),
+	]);
 
 	return jsonResponse(
 		{
 			ok: true,
 			postgres: {
+				langlab: {
+					label: pgLabel(patyPg),
+					ping: patyOk,
+					schemas: ["BD_LANGLAB", "BD_ISADOC"],
+					role: "LangLab runtime (BD_LANGLAB) + ISA-DOC store (BD_ISADOC)",
+				},
+				/** @deprecated alias */
 				paty: {
 					label: pgLabel(patyPg),
 					ping: patyOk,
-					schemas: ["BD_PATY", "BD_LAB"],
-					role: "PatyIA, ISA-DOC, catálogo maestro (bd_*)",
+					schemas: ["BD_LANGLAB"],
+					role: "alias de langlab",
 				},
 				clientesis: {
 					label: pgLabel(clientesisPg),
 					ping: clientesisOk,
 					sameInstanceAsPaty: patyPg === clientesisPg,
-					schemas: ["BD_CLIENTESIS"],
-					role: "BD_CLIENTESIS.CIS_ENTITYROW (capacitación / postman-catalog)",
+					schemas: ["BD_ISADOC"],
+					role: "Entity store proyecto clientesis en BD_ISADOC",
 				},
 				rag: ragUrl
 					? { label: pgLabel(ragUrl), ping: ragOk, schemas: ["BD_RAG"] }
 					: { configured: false },
 			},
 			mssql: {
-				clientesis: maskMssql(getClientesisMssqlConfig()),
-				paty: maskMssql(getPatyMssqlConfig()),
+				clientesis: { ...(maskMssql(getClientesisMssqlConfig()) ?? {}), ping: mssqlClientesis.ok },
+				paty: { ...(maskMssql(getPatyMssqlConfig()) ?? {}), ping: mssqlPaty.ok },
 			},
 			hints: {
-				isaDoc: "Solo PUBLIC_LAB_LANGGRAPH_URL; sin claves ni BD en ISA-DOC/.env",
+				isaDoc: "Solo PUBLIC_LAB_LANGGRAPH_URL; sin claves MSSQL en ISA-DOC/.env",
+				mssqlQuery: "GET|POST /api/mssql/{clientesis|paty}/query (solo SELECT, sin auth)",
+				mssqlExec: "POST /api/mssql/{clientesis|paty}/exec (JWT Bearer requerido)",
 				store: "GET /api/entity/{project}/{page}/{entity}",
 			},
 		},

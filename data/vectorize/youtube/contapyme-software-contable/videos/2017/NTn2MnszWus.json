@@ -1,0 +1,940 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:46:50.468Z",
+  "videoId": "NTn2MnszWus",
+  "videoUrl": "https://www.youtube.com/watch?v=NTn2MnszWus",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "NTn2MnszWus",
+    "title": "Software contable ContaPyme - Consulta inventario de disponibilidad",
+    "fulltitle": "Software contable ContaPyme - Consulta inventario de disponibilidad",
+    "description": "http: //www.contapyme.com\nEn este video se explica cómo se encuentra conformada la estructura del informe consulta inventario de disponibilidad y cómo se genera en ContaPyme.\nCP40-090-010-010",
+    "duration": 504,
+    "duration_string": "8:24",
+    "upload_date": "20170622",
+    "timestamp": 1498162780,
+    "view_count": 61,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "#SoftwareContable",
+      "#ContaPyme",
+      "#SistemaFacturación",
+      "#ProgramaContable",
+      "#Contabilidad",
+      "#NIIF",
+      "Sistema contable",
+      "Sistema de contabilidad",
+      "Sistema de gestión empresarial",
+      "Software para contadores",
+      "Programas contables",
+      "Software contable Colombia",
+      "Software contable y administrativo",
+      "Software NIIF",
+      "Normas internacionales de información financiera",
+      "Inventarios",
+      "Compras",
+      "Facturación"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/NTn2MnszWus/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARhRIE8oZTAP&rs=AOn4CLA-n_Kws5XAmgCsKjKC0zqX-40erQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTyhlMA8=&rs=AOn4CLAcj3gNf9nzlg6C7bqkioEYqqbmGQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFEgTyhlMA8=&rs=AOn4CLBKwbspNwnKxRrLpUyGzbTUX-Jh3Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhRIE8oZTAP&rs=AOn4CLB9LQd1oA8wi7cr2OlQBn-UPcBtkA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "34",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFEgTyhlMA8=&rs=AOn4CLC_fVXgKX3AatHezBRxon88xBkcIw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "35",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhRIE8oZTAP&rs=AOn4CLDKjvJL4yq6UbH4tsDSe4XqH_t0VA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "36",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIE8oZTAP&rs=AOn4CLDKcA4LpW0QUIDO4Omyy1MQwjEXVg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "37",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYUSBPKGUwDw==&rs=AOn4CLBkcfUdMbbXJ97cSkM2_OkLoykzcg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "38",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIE8oZTAP&rs=AOn4CLBAw7HXOUrGfQ1Jl7-gn44t64FilA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "39",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYUSBPKGUwDw==&rs=AOn4CLAjJGyjywU-SQc78hzSqPoqGKqliQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "40",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTyhlMA8=&rs=AOn4CLDP60TNmB6ImsvYwye59WRqao3x8w",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "41",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/hqdefault.webp",
+        "preference": -6,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/sddefault.jpg",
+        "preference": -5,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgTyhlMA8=&rs=AOn4CLCiqnctTLVMJhb3UHChjCiLVXH15A",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "44",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/sddefault.webp",
+        "preference": -4,
+        "id": "45"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/hq720.jpg",
+        "preference": -3,
+        "id": "46"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/hq720.webp",
+        "preference": -2,
+        "id": "47"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NTn2MnszWus/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "48",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NTn2MnszWus/maxresdefault.webp",
+        "preference": 0,
+        "id": "49"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=NTn2MnszWus",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.1984126984126984,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20238095238095238,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20238095238095238,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 193.227,
+        "asr": 44100,
+        "filesize_approx": 12165185,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Consulta inventario de disponibilidad",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/NTn2MnszWus/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NTn2MnszWus?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Consulta inventario de disponibilidad\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 96,
+    "transcriptChars": 7376,
+    "segments": [
+      {
+        "text": "consulta inventario de disponibilidad el objetivo de este video es explicar cómo",
+        "startMs": 359,
+        "durationMs": 5950
+      },
+      {
+        "text": "se encuentra conformada la estructura del informe consulta inventario de",
+        "startMs": 6309,
+        "durationMs": 4481
+      },
+      {
+        "text": "disponibilidad y cómo se genera en contapyme el informe consulta inventario",
+        "startMs": 10790,
+        "durationMs": 4919
+      },
+      {
+        "text": "de disponibilidad es un informe de tipo consulta el cual se alimenta del",
+        "startMs": 15709,
+        "durationMs": 5041
+      },
+      {
+        "text": "registro de las operaciones incluidas en el módulo de inventarios Plus y del",
+        "startMs": 20750,
+        "durationMs": 5240
+      },
+      {
+        "text": "manejo adecuado de las referencias de los documentos esta consulta permite",
+        "startMs": 25990,
+        "durationMs": 4439
+      },
+      {
+        "text": "conocer a una fecha determinada la disponibilidad de un producto al igual",
+        "startMs": 30429,
+        "durationMs": 5001
+      },
+      {
+        "text": "que las existencias físicas en Bodega y los pendientes bien sean por facturar",
+        "startMs": 35430,
+        "durationMs": 5320
+      },
+      {
+        "text": "por recibir o por entregar veamos ahora cómo se encuentra conformada la",
+        "startMs": 40750,
+        "durationMs": 4520
+      },
+      {
+        "text": "estructura de esta consulta primero encontramos el código de la bodega para",
+        "startMs": 45270,
+        "durationMs": 5000
+      },
+      {
+        "text": "la cual estamos generando la consulta el código el nombre de los productos y su",
+        "startMs": 50270,
+        "durationMs": 5680
+      },
+      {
+        "text": "unidad de medida luego tenemos la columna que nos indica los saldos",
+        "startMs": 55950,
+        "durationMs": 4919
+      },
+      {
+        "text": "contables es decir las cantidades que se encuentran registradas en la",
+        "startMs": 60869,
+        "durationMs": 4961
+      },
+      {
+        "text": "contabilidad a través de operaciones como compras ventas en bodegos y",
+        "startMs": 65830,
+        "durationMs": 5400
+      },
+      {
+        "text": "consumos luego encontramos las cantidades de productos que hemos",
+        "startMs": 71230,
+        "durationMs": 3879
+      },
+      {
+        "text": "recibido por parte de los proveedores pero que aún no han sido facturadas y",
+        "startMs": 75109,
+        "durationMs": 5040
+      },
+      {
+        "text": "las cantidades que han sido remision adas a los clientes y que aún no han",
+        "startMs": 80149,
+        "durationMs": 4000
+      },
+      {
+        "text": "sido facturadas estas cantidades no afectan el inventario contable puesto",
+        "startMs": 84149,
+        "durationMs": 5161
+      },
+      {
+        "text": "que no sean han registrado en la contabilidad pero sí afectan el",
+        "startMs": 89310,
+        "durationMs": 3799
+      },
+      {
+        "text": "inventario físico puesto que estas cantidades ya no se encuentran en la",
+        "startMs": 93109,
+        "durationMs": 4481
+      },
+      {
+        "text": "bodega de Nuestra Empresa al igual que afectan el inventario de disponibilidad",
+        "startMs": 97590,
+        "durationMs": 4839
+      },
+      {
+        "text": "ya que no se puede contar con dichas cantidades la columna inventario físico",
+        "startMs": 102429,
+        "durationMs": 5841
+      },
+      {
+        "text": "hace referencia a las cantidades existentes en Bodega luego encontramos",
+        "startMs": 108270,
+        "durationMs": 5760
+      },
+      {
+        "text": "los compromisos adquiridos sobre los productos bien sea con los clientes o",
+        "startMs": 114030,
+        "durationMs": 4399
+      },
+      {
+        "text": "con los proveedores entre ellas tenemos algunas de ingreso como son las órdenes",
+        "startMs": 118429,
+        "durationMs": 5320
+      },
+      {
+        "text": "de compra sin recibir y las órdenes de producción pendientes y otras de salida",
+        "startMs": 123749,
+        "durationMs": 5120
+      },
+      {
+        "text": "como son los pedidos sin entregar a los clientes y las requisiciones internas",
+        "startMs": 128869,
+        "durationMs": 5720
+      },
+      {
+        "text": "para finalizar encontramos el inventario proyectado o de disponibilidad en el",
+        "startMs": 134589,
+        "durationMs": 5401
+      },
+      {
+        "text": "cual podemos visualizar las cantidades de productos con las cuales podemos",
+        "startMs": 139990,
+        "durationMs": 4720
+      },
+      {
+        "text": "contar a una fecha determinada así podemos entender que tenemos acciones",
+        "startMs": 144710,
+        "durationMs": 5799
+      },
+      {
+        "text": "que suman como lo son las recepciones de materiales las órdenes de compra sin",
+        "startMs": 150509,
+        "durationMs": 5641
+      },
+      {
+        "text": "recibir y las órdenes de producción pendientes y transacciones que restan",
+        "startMs": 156150,
+        "durationMs": 5079
+      },
+      {
+        "text": "como las remisiones a clientes sin facturar los pedidos sin entregar y las",
+        "startMs": 161229,
+        "durationMs": 5761
+      },
+      {
+        "text": "requisiciones internas para entenderlo Mejor vamos a analizar detalladamente",
+        "startMs": 166990,
+        "durationMs": 5239
+      },
+      {
+        "text": "algunos productos iniciemos con el producto sofá tempo prana encontramos",
+        "startMs": 172229,
+        "durationMs": 6080
+      },
+      {
+        "text": "que en el inventario cont se tienen cinco unidades se registró una recepción",
+        "startMs": 178309,
+        "durationMs": 5840
+      },
+      {
+        "text": "de materiales sin facturar por cinco unidades y una remisión al cliente sin",
+        "startMs": 184149,
+        "durationMs": 5360
+      },
+      {
+        "text": "facturar de dos unidades de esta forma Entonces a las cinco unidades del",
+        "startMs": 189509,
+        "durationMs": 5521
+      },
+      {
+        "text": "inventario contable le sumamos las cinco unidades de la recepción dándonos como",
+        "startMs": 195030,
+        "durationMs": 6119
+      },
+      {
+        "text": "resultado 10 unidades de igual forma debemos restarle las dos unidades",
+        "startMs": 201149,
+        "durationMs": 4881
+      },
+      {
+        "text": "remision adas al cliente quedando en total ocho unidades en nuestro",
+        "startMs": 206030,
+        "durationMs": 4640
+      },
+      {
+        "text": "inventario físico de estas ocho unidades físicas tenemos comprometidas cinco",
+        "startMs": 210670,
+        "durationMs": 5800
+      },
+      {
+        "text": "unidades por medio de un pedido de un cliente transacción que afecta el",
+        "startMs": 216470,
+        "durationMs": 4600
+      },
+      {
+        "text": "inventario de disponibilidad en el cual podemos visualizar solo tres unidades",
+        "startMs": 221070,
+        "durationMs": 5799
+      },
+      {
+        "text": "así podemos ver cómo las diferentes transacciones que realicemos con las",
+        "startMs": 226869,
+        "durationMs": 4280
+      },
+      {
+        "text": "operaciones del módulo de inventarios Plus afectan los inventarios físico y de",
+        "startMs": 231149,
+        "durationMs": 5160
+      },
+      {
+        "text": "disponibilidad veamos ahora un ejemplo con otro producto producto tomemos en",
+        "startMs": 236309,
+        "durationMs": 4521
+      },
+      {
+        "text": "este caso el producto televisor Samsung de 48 pulgadas para el cual no tenemos",
+        "startMs": 240830,
+        "durationMs": 5399
+      },
+      {
+        "text": "unidades en el inventario contable tenemos registrada una recepción de",
+        "startMs": 246229,
+        "durationMs": 4481
+      },
+      {
+        "text": "materiales pendiente por facturar por tres unidades así tenemos un saldo total",
+        "startMs": 250710,
+        "durationMs": 5120
+      },
+      {
+        "text": "en el inventario físico de tres unidades luego a estas tres unidades físicas",
+        "startMs": 255830,
+        "durationMs": 5000
+      },
+      {
+        "text": "debemos restarle una unidad que tenemos comprometida con un pedido de un cliente",
+        "startMs": 260830,
+        "durationMs": 5079
+      },
+      {
+        "text": "quedando un saldo total en el inventario disponible de dos unidades idades",
+        "startMs": 265909,
+        "durationMs": 4560
+      },
+      {
+        "text": "visualicemos un último producto sofá cama Atenas naranja Contamos con nueve",
+        "startMs": 270469,
+        "durationMs": 6160
+      },
+      {
+        "text": "unidades registradas en el inventario contable a estas nueve unidades debemos",
+        "startMs": 276629,
+        "durationMs": 4560
+      },
+      {
+        "text": "restarle dos unidades que se remision Aron a un cliente quedando así un saldo",
+        "startMs": 281189,
+        "durationMs": 4961
+      },
+      {
+        "text": "de siete unidades en el inventario físico y a esas siete unidades del",
+        "startMs": 286150,
+        "durationMs": 4360
+      },
+      {
+        "text": "inventario físico debemos restarle cuatro unidades que nos comprometimos",
+        "startMs": 290510,
+        "durationMs": 4880
+      },
+      {
+        "text": "enviarle a un cliente mediante un pedido que realizó quedando y en el inventario",
+        "startMs": 295390,
+        "durationMs": 5160
+      },
+      {
+        "text": "de disponibilidad con tres unidades veamos Entonces cómo las diferentes",
+        "startMs": 300550,
+        "durationMs": 5040
+      },
+      {
+        "text": "operaciones que registramos a través del módulo de inventarios Plus afectan el",
+        "startMs": 305590,
+        "durationMs": 4879
+      },
+      {
+        "text": "inventario físico y el inventario de disponibilidad dependiendo del tipo de",
+        "startMs": 310469,
+        "durationMs": 4560
+      },
+      {
+        "text": "operación esta aumentará o disminuirá las cantidades en cada uno de ellos una",
+        "startMs": 315029,
+        "durationMs": 5921
+      },
+      {
+        "text": "vez hemos conocido y entendido Cómo se encuentra conformada la estructura de la",
+        "startMs": 320950,
+        "durationMs": 4040
+      },
+      {
+        "text": "consulta inventario de disponibilidad vamos a generarlo en contapyme",
+        "startMs": 324990,
+        "durationMs": 5800
+      },
+      {
+        "text": "ubicados en contapyme seleccionamos la pestaña inventarios en la opción",
+        "startMs": 330790,
+        "durationMs": 6480
+      },
+      {
+        "text": "informes nos ubicamos en los informes de inventarios desplegamos el menú nos",
+        "startMs": 337270,
+        "durationMs": 6280
+      },
+      {
+        "text": "ubicamos en la opción inventario disponible y seleccionamos consulta",
+        "startMs": 343550,
+        "durationMs": 5759
+      },
+      {
+        "text": "inventario de disponibilidad al seleccionar la",
+        "startMs": 349309,
+        "durationMs": 3761
+      },
+      {
+        "text": "consulta el sistema nos Presenta una ventana de filtro en la cual podemos",
+        "startMs": 353070,
+        "durationMs": 4200
+      },
+      {
+        "text": "indicar los parámetros necesarios para la generación de la consulta como una",
+        "startMs": 357270,
+        "durationMs": 5000
+      },
+      {
+        "text": "fecha de referencia es decir la fecha hasta la cual deseamos ver los saldos de",
+        "startMs": 362270,
+        "durationMs": 4800
+      },
+      {
+        "text": "los diferentes inventarios también podemos filtrar la consulta por una",
+        "startMs": 367070,
+        "durationMs": 4640
+      },
+      {
+        "text": "bodega o un Rango de bodegas y por un producto o por un Rango de productos",
+        "startMs": 371710,
+        "durationMs": 6160
+      },
+      {
+        "text": "también podemos indicarle al sistema que incluya los productos con existencia y",
+        "startMs": 377870,
+        "durationMs": 5759
+      },
+      {
+        "text": "con disponibilidad cero debemos tener en cuenta que de no indicar ningún filtro",
+        "startMs": 383629,
+        "durationMs": 5000
+      },
+      {
+        "text": "por bode o por producto el sistema mostrará en la consulta todos los",
+        "startMs": 388629,
+        "durationMs": 5321
+      },
+      {
+        "text": "productos de todas las Bodegas que tengamos creadas en el sistema en este",
+        "startMs": 393950,
+        "durationMs": 4400
+      },
+      {
+        "text": "caso no vamos a indicar ningún filtro y damos clic en",
+        "startMs": 398350,
+        "durationMs": 5480
+      },
+      {
+        "text": "aceptar así el sistema genera la consulta en una pestaña independiente y",
+        "startMs": 403830,
+        "durationMs": 6120
+      },
+      {
+        "text": "tal como lo vimos hace un momento en el ejemplo en las diapositivas ahora",
+        "startMs": 409950,
+        "durationMs": 3959
+      },
+      {
+        "text": "tenemos el informe en pantalla en el cual encontramos los datos del producto",
+        "startMs": 413909,
+        "durationMs": 4680
+      },
+      {
+        "text": "como son el código de la bodega el código y el nombre del producto y su",
+        "startMs": 418589,
+        "durationMs": 6121
+      },
+      {
+        "text": "respectiva unidad de medida vemos Así que si al inventario contable le sumamos",
+        "startMs": 424710,
+        "durationMs": 6159
+      },
+      {
+        "text": "las recepciones recibidas de los proveedores y restamos las remisiones a",
+        "startMs": 430869,
+        "durationMs": 5201
+      },
+      {
+        "text": "los clientes este nos da como resultado las existencias en el inventario físico",
+        "startMs": 436070,
+        "durationMs": 5760
+      },
+      {
+        "text": "y si a estas existencias físicas le sumamos las órdenes de compra sin",
+        "startMs": 441830,
+        "durationMs": 4919
+      },
+      {
+        "text": "recibir y las órdenes de producción pendientes y le restamos los pedidos sin",
+        "startMs": 446749,
+        "durationMs": 5801
+      },
+      {
+        "text": "entregar a los clientes y las requisiciones internas pendientes este",
+        "startMs": 452550,
+        "durationMs": 4919
+      },
+      {
+        "text": "nos da como resultado el inventario de disponibilidad recordemos que el manejo",
+        "startMs": 457469,
+        "durationMs": 5120
+      },
+      {
+        "text": "de los tres inventarios depende del correcto y adecuado manejo de las",
+        "startMs": 462589,
+        "durationMs": 9320
+      },
+      {
+        "text": "operaciones para finalizar recordemos que para ingresar a la consulta",
+        "startMs": 471919,
+        "durationMs": 4390
+      },
+      {
+        "text": "inventario de disponibilidad seleccionamos la pesta aña inventarios",
+        "startMs": 476309,
+        "durationMs": 4880
+      },
+      {
+        "text": "en la opción informes nos ubicamos en los informes de inventarios desplegamos",
+        "startMs": 481189,
+        "durationMs": 6720
+      },
+      {
+        "text": "el menú nos ubicamos en la opción inventario disponible y seleccionamos",
+        "startMs": 487909,
+        "durationMs": 6280
+      },
+      {
+        "text": "disponibilidad esto es todo acerca de consulta inventario de disponibilidad",
+        "startMs": 494189,
+        "durationMs": 10811
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este video se explica cómo se encuentra conformada la estructura del informe consulta inventario de disponibilidad y cómo se genera en ContaPyme.\nCP40-090-010-010\n\n## Transcripción\n\nconsulta inventario de disponibilidad el objetivo de este video es explicar cómo\nse encuentra conformada la estructura del informe consulta inventario de\ndisponibilidad y cómo se genera en contapyme el informe consulta inventario\nde disponibilidad es un informe de tipo consulta el cual se alimenta del\nregistro de las operaciones incluidas en el módulo de inventarios Plus y del\nmanejo adecuado de las referencias de los documentos esta consulta permite\nconocer a una fecha determinada la disponibilidad de un producto al igual\nque las existencias físicas en Bodega y los pendientes bien sean por facturar\npor recibir o por entregar veamos ahora cómo se encuentra conformada la\nestructura de esta consulta primero encontramos el código de la bodega para\nla cual estamos generando la consulta el código el nombre de los productos y su\nunidad de medida luego tenemos la columna que nos indica los saldos\ncontables es decir las cantidades que se encuentran registradas en la\ncontabilidad a través de operaciones como compras ventas en bodegos y\nconsumos luego encontramos las cantidades de productos que hemos\nrecibido por parte de los proveedores pero que aún no han sido facturadas y\nlas cantidades que han sido remision adas a los clientes y que aún no han\nsido facturadas estas cantidades no afectan el inventario contable puesto\nque no sean han registrado en la contabilidad pero sí afectan el\ninventario físico puesto que estas cantidades ya no se encuentran en la\nbodega de Nuestra Empresa al igual que afectan el inventario de disponibilidad\nya que no se puede contar con dichas cantidades la columna inventario físico\nhace referencia a las cantidades existentes en Bodega luego encontramos\nlos compromisos adquiridos sobre los productos bien sea con los clientes o\ncon los proveedores entre ellas tenemos algunas de ingreso como son las órdenes\nde compra sin recibir y las órdenes de producción pendientes y otras de salida\ncomo son los pedidos sin entregar a los clientes y las requisiciones internas\npara finalizar encontramos el inventario proyectado o de disponibilidad en el\ncual podemos visualizar las cantidades de productos con las cuales podemos\ncontar a una fecha determinada así podemos entender que tenemos acciones\nque suman como lo son las recepciones de materiales las órdenes de compra sin\nrecibir y las órdenes de producción pendientes y transacciones que restan\ncomo las remisiones a clientes sin facturar los pedidos sin entregar y las\nrequisiciones internas para entenderlo Mejor vamos a analizar detalladamente\nalgunos productos iniciemos con el producto sofá tempo prana encontramos\nque en el inventario cont se tienen cinco unidades se registró una recepción\nde materiales sin facturar por cinco unidades y una remisión al cliente sin\nfacturar de dos unidades de esta forma Entonces a las cinco unidades del\ninventario contable le sumamos las cinco unidades de la recepción dándonos como\nresultado 10 unidades de igual forma debemos restarle las dos unidades\nremision adas al cliente quedando en total ocho unidades en nuestro\ninventario físico de estas ocho unidades físicas tenemos comprometidas cinco\nunidades por medio de un pedido de un cliente transacción que afecta el\ninventario de disponibilidad en el cual podemos visualizar solo tres unidades\nasí podemos ver cómo las diferentes transacciones que realicemos con las\noperaciones del módulo de inventarios Plus afectan los inventarios físico y de\ndisponibilidad veamos ahora un ejemplo con otro producto producto tomemos en\neste caso el producto televisor Samsung de 48 pulgadas para el cual no tenemos\nunidades en el inventario contable tenemos registrada una recepción de\nmateriales pendiente por facturar por tres unidades así tenemos un saldo total\nen el inventario físico de tres unidades luego a estas tres unidades físicas\ndebemos restarle una unidad que tenemos comprometida con un pedido de un cliente\nquedando un saldo total en el inventario disponible de dos unidades idades\nvisualicemos un último producto sofá cama Atenas naranja Contamos con nueve\nunidades registradas en el inventario contable a estas nueve unidades debemos\nrestarle dos unidades que se remision Aron a un cliente quedando así un saldo\nde siete unidades en el inventario físico y a esas siete unidades del\ninventario físico debemos restarle cuatro unidades que nos comprometimos\nenviarle a un cliente mediante un pedido que realizó quedando y en el inventario\nde disponibilidad con tres unidades veamos Entonces cómo las diferentes\noperaciones que registramos a través del módulo de inventarios Plus afectan el\ninventario físico y el inventario de disponibilidad dependiendo del tipo de\noperación esta aumentará o disminuirá las cantidades en cada uno de ellos una\nvez hemos conocido y entendido Cómo se encuentra conformada la estructura de la\nconsulta inventario de disponibilidad vamos a generarlo en contapyme\nubicados en contapyme seleccionamos la pestaña inventarios en la opción\ninformes nos ubicamos en los informes de inventarios desplegamos el menú nos\nubicamos en la opción inventario disponible y seleccionamos consulta\ninventario de disponibilidad al seleccionar la\nconsulta el sistema nos Presenta una ventana de filtro en la cual podemos\nindicar los parámetros necesarios para la generación de la consulta como una\nfecha de referencia es decir la fecha hasta la cual deseamos ver los saldos de\nlos diferentes inventarios también podemos filtrar la consulta por una\nbodega o un Rango de bodegas y por un producto o por un Rango de productos\ntambién podemos indicarle al sistema que incluya los productos con existencia y\ncon disponibilidad cero debemos tener en cuenta que de no indicar ningún filtro\npor bode o por producto el sistema mostrará en la consulta todos los\nproductos de todas las Bodegas que tengamos creadas en el sistema en este\ncaso no vamos a indicar ningún filtro y damos clic en\naceptar así el sistema genera la consulta en una pestaña independiente y\ntal como lo vimos hace un momento en el ejemplo en las diapositivas ahora\ntenemos el informe en pantalla en el cual encontramos los datos del producto\ncomo son el código de la bodega el código y el nombre del producto y su\nrespectiva unidad de medida vemos Así que si al inventario contable le sumamos\nlas recepciones recibidas de los proveedores y restamos las remisiones a\nlos clientes este nos da como resultado las existencias en el inventario físico\ny si a estas existencias físicas le sumamos las órdenes de compra sin\nrecibir y las órdenes de producción pendientes y le restamos los pedidos sin\nentregar a los clientes y las requisiciones internas pendientes este\nnos da como resultado el inventario de disponibilidad recordemos que el manejo\nde los tres inventarios depende del correcto y adecuado manejo de las\noperaciones para finalizar recordemos que para ingresar a la consulta\ninventario de disponibilidad seleccionamos la pesta aña inventarios\nen la opción informes nos ubicamos en los informes de inventarios desplegamos\nel menú nos ubicamos en la opción inventario disponible y seleccionamos\ndisponibilidad esto es todo acerca de consulta inventario de disponibilidad"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 193.227,
+    "asr": 44100,
+    "filesizeApprox": 12165185,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/NTn2MnszWus.md",
+    "json": "videos/2017/NTn2MnszWus.json",
+    "infoJson": "videos/2017/NTn2MnszWus.info.json"
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:08:56.407Z",
+  "videoId": "NiV4ZWUwvfM",
+  "videoUrl": "https://www.youtube.com/watch?v=NiV4ZWUwvfM",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "NiV4ZWUwvfM",
+    "title": "04 Registro secuenciales producción portal TFHKA",
+    "fulltitle": "04 Registro secuenciales producción portal TFHKA",
+    "description": "COntapyme.com",
+    "duration": 428,
+    "duration_string": "7:08",
+    "upload_date": "20191129",
+    "timestamp": 1575039824,
+    "view_count": 6314,
+    "like_count": 4,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8IshPSdof5RO5dzbyD-d1AuyelA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDV_KN5OEC4_13s6TbWdDzMhrs7xQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfeKbe_BoWcTw4L0RkRpTPfXyjNw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCSFOEtzQe13Gnhto0mnZxwa-XY0Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-oPgkFovjQTeem4EanzISq66EWg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCLsPfX117wz-2lk1mQf_o-FwY2tw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0vMDI4ie-v-1LwfxbEZXPaQu_cg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVRyZVmexiJNbz3n29RAJGg7T5xA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NiV4ZWUwvfM/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=NiV4ZWUwvfM",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2336448598130841,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20327102803738317,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20327102803738317,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 196.767,
+        "asr": 44100,
+        "filesize_approx": 10537635,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "04 Registro secuenciales producción portal TFHKA",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/NiV4ZWUwvfM/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NiV4ZWUwvfM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"04 Registro secuenciales producción portal TFHKA\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 75,
+    "transcriptChars": 5449,
+    "segments": [
+      {
+        "text": "registro en el portal del proveedor tecnológico de factoría checa del modo",
+        "startMs": 40,
+        "durationMs": 7050
+      },
+      {
+        "text": "producción una vez ya se tiene listo la etapa de",
+        "startMs": 7090,
+        "durationMs": 2580
+      },
+      {
+        "text": "habilitación y se registró en el sistema muesca de la dian la nueva resolución de",
+        "startMs": 9670,
+        "durationMs": 6510
+      },
+      {
+        "text": "facturación electrónica se deben configurar los nuevos prefijos para la",
+        "startMs": 16180,
+        "durationMs": 4950
+      },
+      {
+        "text": "factura de venta electrónica nota débito y nota crédito dentro del portal del",
+        "startMs": 21130,
+        "durationMs": 5490
+      },
+      {
+        "text": "proveedor tecnológico en modo producción verifiquemos cómo se hace estando",
+        "startMs": 26620,
+        "durationMs": 5489
+      },
+      {
+        "text": "ubicados dentro del portal del proveedor tecnológico se debe ingresar con el",
+        "startMs": 32109,
+        "durationMs": 4801
+      },
+      {
+        "text": "correo electrónico la contraseña y marcando la opción no soy un robot este",
+        "startMs": 36910,
+        "durationMs": 6149
+      },
+      {
+        "text": "correo electrónico y contraseña son los mismos que ya se utilizaron para",
+        "startMs": 43059,
+        "durationMs": 4470
+      },
+      {
+        "text": "registrarse en modo habilitación por lo tanto vamos a registrar los datos e",
+        "startMs": 47529,
+        "durationMs": 6061
+      },
+      {
+        "text": "ingresamos a dicho portal estando ubicados dentro del portal del proveedor",
+        "startMs": 53590,
+        "durationMs": 3989
+      },
+      {
+        "text": "dentro de esta opción en el menú secuenciales vamos a inactivar los",
+        "startMs": 66390,
+        "durationMs": 7280
+      },
+      {
+        "text": "secuenciales que se utilizaron para el servicio de habilitación puesto que",
+        "startMs": 73670,
+        "durationMs": 4590
+      },
+      {
+        "text": "estos ya no se van a volver a utilizar se pueden inactivar haciendo clic en la",
+        "startMs": 78260,
+        "durationMs": 6270
+      },
+      {
+        "text": "opción que dice inactivar secuencial podrá chequear que el estatus cambia ha",
+        "startMs": 57579,
+        "durationMs": 33101
+      },
+      {
+        "text": "estado inactivo una vez están inactivos todos los secuenciales se debe agregar",
+        "startMs": 90680,
+        "durationMs": 6539
+      },
+      {
+        "text": "los nuevos secuenciales que se configuraron para facturación",
+        "startMs": 97219,
+        "durationMs": 3961
+      },
+      {
+        "text": "electrónica ya en producción vamos a indicarle a agregar secuencial y",
+        "startMs": 101180,
+        "durationMs": 5640
+      },
+      {
+        "text": "aquí entonces vamos a configurar el ejemplo de la factura de venta",
+        "startMs": 106820,
+        "durationMs": 4440
+      },
+      {
+        "text": "electrónica que es el prefijo que la dian entregó en el formato 1876 en este",
+        "startMs": 111260,
+        "durationMs": 8760
+      },
+      {
+        "text": "caso tipo de ambiente vamos a dejar producción 2.1 en tipo de documento",
+        "startMs": 120020,
+        "durationMs": 6690
+      },
+      {
+        "text": "factura tipo de operación venta exportación en tipo de servicio servicio",
+        "startMs": 126710,
+        "durationMs": 7410
+      },
+      {
+        "text": "de integración en modalidad de uso para secuencial se va a indicar manual sin",
+        "startMs": 134120,
+        "durationMs": 5700
+      },
+      {
+        "text": "prefijo en establecimiento el que se tenga configurado previamente",
+        "startMs": 139820,
+        "durationMs": 5910
+      },
+      {
+        "text": "en número de resolución pues ya el sistema automáticamente va a llamar la",
+        "startMs": 145730,
+        "durationMs": 6690
+      },
+      {
+        "text": "resolución que se generó directamente en el portal de la dian cuando se carga a",
+        "startMs": 152420,
+        "durationMs": 6720
+      },
+      {
+        "text": "ese número de resolución se va también a seleccionar el prefijo que la dian",
+        "startMs": 159140,
+        "durationMs": 5250
+      },
+      {
+        "text": "otorgo o que registramos directamente en el formato 1876 automáticamente todos",
+        "startMs": 164390,
+        "durationMs": 6540
+      },
+      {
+        "text": "los demás campos rango inicial y final fecha de inicio y fecha final y clave",
+        "startMs": 170930,
+        "durationMs": 5190
+      },
+      {
+        "text": "técnica se van a registrar de forma automática esto quiere decir que aquí",
+        "startMs": 176120,
+        "durationMs": 5610
+      },
+      {
+        "text": "hay una integración entre el portal del proveedor tecnológico y el sistema busca",
+        "startMs": 181730,
+        "durationMs": 7230
+      },
+      {
+        "text": "de la dian una vez verificamos la información se le",
+        "startMs": 188960,
+        "durationMs": 3600
+      },
+      {
+        "text": "va a indicar guardar podemos verificar que en la opción de secuenciales ya",
+        "startMs": 192560,
+        "durationMs": 5250
+      },
+      {
+        "text": "aparece en el ambiente producción 2.1 la factura de venta electrónica con el",
+        "startMs": 197810,
+        "durationMs": 6300
+      },
+      {
+        "text": "prefijo que se haya generado directamente en el música en el formato",
+        "startMs": 204110,
+        "durationMs": 6090
+      },
+      {
+        "text": "1876 y en especial con toda su configuración",
+        "startMs": 210200,
+        "durationMs": 2210
+      },
+      {
+        "text": "de fechas y rangos esto mismo vamos a realizar para la nota débito y la nota",
+        "startMs": 212410,
+        "durationMs": 7030
+      },
+      {
+        "text": "crédito tengamos presente algo tanto la nota débito como la nota crédito",
+        "startMs": 219440,
+        "durationMs": 5580
+      },
+      {
+        "text": "electrónica no tienen un prefijo que se relacionen ante la dian",
+        "startMs": 225020,
+        "durationMs": 4560
+      },
+      {
+        "text": "es decir la resolución que la diana entrega es exclusiva para la facturación",
+        "startMs": 229580,
+        "durationMs": 5730
+      },
+      {
+        "text": "de venta pero no para las notas débito y crédito allí entonces los prefijos que",
+        "startMs": 235310,
+        "durationMs": 6930
+      },
+      {
+        "text": "usted debe registrar los puede inventar vamos a agregar un secuencial y",
+        "startMs": 242240,
+        "durationMs": 4800
+      },
+      {
+        "text": "seleccionamos las configuraciones que se tienen que hacer en tipo de ambiente",
+        "startMs": 247040,
+        "durationMs": 3540
+      },
+      {
+        "text": "producción 2.1 tipo de documento en este caso vamos a configurar la nota crédito",
+        "startMs": 250580,
+        "durationMs": 6740
+      },
+      {
+        "text": "tipo de operación venta exportación tipo de servicio servicio de integración",
+        "startMs": 257320,
+        "durationMs": 7490
+      },
+      {
+        "text": "modalidad manual sin prefijo seleccionamos el establecimiento que",
+        "startMs": 264810,
+        "durationMs": 5160
+      },
+      {
+        "text": "tengamos creado y en prefijo ya queda a disposición de usted registrar cuál va a",
+        "startMs": 269970,
+        "durationMs": 5490
+      },
+      {
+        "text": "ser el prefijo sugerencia por ejemplo para la nota crédito electrónica podría",
+        "startMs": 275460,
+        "durationMs": 6180
+      },
+      {
+        "text": "ser n s nota crédito electrónica y si va a ser nota débito electrónica n de e",
+        "startMs": 281640,
+        "durationMs": 8410
+      },
+      {
+        "text": "valor del rango desde la 1 y hasta como esta notificación no nos la dio la dian",
+        "startMs": 290050,
+        "durationMs": 9000
+      },
+      {
+        "text": "yo puedo inventarme un rango muy superior podemos decir hasta el código",
+        "startMs": 299050,
+        "durationMs": 4640
+      },
+      {
+        "text": "5000 ó 50.000 valor del rango inicial 1 fecha de",
+        "startMs": 303690,
+        "durationMs": 6590
+      },
+      {
+        "text": "inicio la fecha en la cual se está haciendo el registro",
+        "startMs": 310280,
+        "durationMs": 4719
+      },
+      {
+        "text": "y en fecha a fin podemos indicar una fecha muy superior no tiene que ser con",
+        "startMs": 314999,
+        "durationMs": 5490
+      },
+      {
+        "text": "la vigencia de la misma resolución de la dian podemos decir hasta cinco o seis",
+        "startMs": 320489,
+        "durationMs": 4081
+      },
+      {
+        "text": "años una fecha pues muy superior para que ésta no tenga una finalización",
+        "startMs": 324570,
+        "durationMs": 4199
+      },
+      {
+        "text": "próxima una vez ya tenemos estos datos registrados",
+        "startMs": 328769,
+        "durationMs": 3630
+      },
+      {
+        "text": "registrados le decimos guardar y el sistema va a",
+        "startMs": 332399,
+        "durationMs": 3060
+      },
+      {
+        "text": "notificar que ya quedó almacenado con éxito dicho secuencial vamos a chequear",
+        "startMs": 335459,
+        "durationMs": 6361
+      },
+      {
+        "text": "nuevamente los secuenciales y vamos a notar que está el secuencial no está",
+        "startMs": 341820,
+        "durationMs": 5339
+      },
+      {
+        "text": "crédito electrónica en modo producción 2.1 y su estado es activo misma",
+        "startMs": 347159,
+        "durationMs": 7770
+      },
+      {
+        "text": "situación vamos a hacer entonces con la nota de débito electrónica como yo tengo",
+        "startMs": 354929,
+        "durationMs": 5310
+      },
+      {
+        "text": "una casa simplemente le voy a indicar editar secuencial para que chequeamos la",
+        "startMs": 360239,
+        "durationMs": 4530
+      },
+      {
+        "text": "información que se registró simplemente se le indicó que era producción 2.1 no",
+        "startMs": 364769,
+        "durationMs": 6540
+      },
+      {
+        "text": "está débito servicio de integración manual sin prefijo también se le indicó",
+        "startMs": 371309,
+        "durationMs": 5011
+      },
+      {
+        "text": "el prefijo nota débito en validación posterior",
+        "startMs": 376320,
+        "durationMs": 4510
+      },
+      {
+        "text": "posterior electronica un rango inicial y un rango",
+        "startMs": 380830,
+        "durationMs": 3359
+      },
+      {
+        "text": "final muy superior una fecha finalización muy amplia y se le indica",
+        "startMs": 384189,
+        "durationMs": 5190
+      },
+      {
+        "text": "guardar esta información cuando se guarda dentro del portal del proveedor",
+        "startMs": 389379,
+        "durationMs": 4921
+      },
+      {
+        "text": "tecnológico para los secuenciales en ambiente producción es la misma",
+        "startMs": 394300,
+        "durationMs": 6300
+      },
+      {
+        "text": "información que tenemos que configurar dentro del sistema con tap y me en los",
+        "startMs": 400600,
+        "durationMs": 5279
+      },
+      {
+        "text": "documentos de soporte entonces acabamos de ver cómo",
+        "startMs": 405879,
+        "durationMs": 3961
+      },
+      {
+        "text": "configuramos ya los secuenciales en el portal del proveedor tecnológico de",
+        "startMs": 409840,
+        "durationMs": 5490
+      },
+      {
+        "text": "factoría checa en el ambiente producción 2.1 e in activamos los que originalmente",
+        "startMs": 415330,
+        "durationMs": 6389
+      },
+      {
+        "text": "habíamos utilizado para el servicio de habilitación y superar esa etapa ante la",
+        "startMs": 421719,
+        "durationMs": 7381
+      }
+    ],
+    "plainText": "## Descripción del video\n\nCOntapyme.com\n\n## Transcripción\n\nregistro en el portal del proveedor tecnológico de factoría checa del modo\nproducción una vez ya se tiene listo la etapa de\nhabilitación y se registró en el sistema muesca de la dian la nueva resolución de\nfacturación electrónica se deben configurar los nuevos prefijos para la\nfactura de venta electrónica nota débito y nota crédito dentro del portal del\nproveedor tecnológico en modo producción verifiquemos cómo se hace estando\nubicados dentro del portal del proveedor tecnológico se debe ingresar con el\ncorreo electrónico la contraseña y marcando la opción no soy un robot este\ncorreo electrónico y contraseña son los mismos que ya se utilizaron para\nregistrarse en modo habilitación por lo tanto vamos a registrar los datos e\ningresamos a dicho portal estando ubicados dentro del portal del proveedor\ndentro de esta opción en el menú secuenciales vamos a inactivar los\nsecuenciales que se utilizaron para el servicio de habilitación puesto que\nestos ya no se van a volver a utilizar se pueden inactivar haciendo clic en la\nopción que dice inactivar secuencial podrá chequear que el estatus cambia ha\nestado inactivo una vez están inactivos todos los secuenciales se debe agregar\nlos nuevos secuenciales que se configuraron para facturación\nelectrónica ya en producción vamos a indicarle a agregar secuencial y\naquí entonces vamos a configurar el ejemplo de la factura de venta\nelectrónica que es el prefijo que la dian entregó en el formato 1876 en este\ncaso tipo de ambiente vamos a dejar producción 2.1 en tipo de documento\nfactura tipo de operación venta exportación en tipo de servicio servicio\nde integración en modalidad de uso para secuencial se va a indicar manual sin\nprefijo en establecimiento el que se tenga configurado previamente\nen número de resolución pues ya el sistema automáticamente va a llamar la\nresolución que se generó directamente en el portal de la dian cuando se carga a\nese número de resolución se va también a seleccionar el prefijo que la dian\notorgo o que registramos directamente en el formato 1876 automáticamente todos\nlos demás campos rango inicial y final fecha de inicio y fecha final y clave\ntécnica se van a registrar de forma automática esto quiere decir que aquí\nhay una integración entre el portal del proveedor tecnológico y el sistema busca\nde la dian una vez verificamos la información se le\nva a indicar guardar podemos verificar que en la opción de secuenciales ya\naparece en el ambiente producción 2.1 la factura de venta electrónica con el\nprefijo que se haya generado directamente en el música en el formato\n1876 y en especial con toda su configuración\nde fechas y rangos esto mismo vamos a realizar para la nota débito y la nota\ncrédito tengamos presente algo tanto la nota débito como la nota crédito\nelectrónica no tienen un prefijo que se relacionen ante la dian\nes decir la resolución que la diana entrega es exclusiva para la facturación\nde venta pero no para las notas débito y crédito allí entonces los prefijos que\nusted debe registrar los puede inventar vamos a agregar un secuencial y\nseleccionamos las configuraciones que se tienen que hacer en tipo de ambiente\nproducción 2.1 tipo de documento en este caso vamos a configurar la nota crédito\ntipo de operación venta exportación tipo de servicio servicio de integración\nmodalidad manual sin prefijo seleccionamos el establecimiento que\ntengamos creado y en prefijo ya queda a disposición de usted registrar cuál va a\nser el prefijo sugerencia por ejemplo para la nota crédito electrónica podría\nser n s nota crédito electrónica y si va a ser nota débito electrónica n de e\nvalor del rango desde la 1 y hasta como esta notificación no nos la dio la dian\nyo puedo inventarme un rango muy superior podemos decir hasta el código\n5000 ó 50.000 valor del rango inicial 1 fecha de\ninicio la fecha en la cual se está haciendo el registro\ny en fecha a fin podemos indicar una fecha muy superior no tiene que ser con\nla vigencia de la misma resolución de la dian podemos decir hasta cinco o seis\naños una fecha pues muy superior para que ésta no tenga una finalización\npróxima una vez ya tenemos estos datos registrados\nregistrados le decimos guardar y el sistema va a\nnotificar que ya quedó almacenado con éxito dicho secuencial vamos a chequear\nnuevamente los secuenciales y vamos a notar que está el secuencial no está\ncrédito electrónica en modo producción 2.1 y su estado es activo misma\nsituación vamos a hacer entonces con la nota de débito electrónica como yo tengo\nuna casa simplemente le voy a indicar editar secuencial para que chequeamos la\ninformación que se registró simplemente se le indicó que era producción 2.1 no\nestá débito servicio de integración manual sin prefijo también se le indicó\nel prefijo nota débito en validación posterior\nposterior electronica un rango inicial y un rango\nfinal muy superior una fecha finalización muy amplia y se le indica\nguardar esta información cuando se guarda dentro del portal del proveedor\ntecnológico para los secuenciales en ambiente producción es la misma\ninformación que tenemos que configurar dentro del sistema con tap y me en los\ndocumentos de soporte entonces acabamos de ver cómo\nconfiguramos ya los secuenciales en el portal del proveedor tecnológico de\nfactoría checa en el ambiente producción 2.1 e in activamos los que originalmente\nhabíamos utilizado para el servicio de habilitación y superar esa etapa ante la"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 196.767,
+    "asr": 44100,
+    "filesizeApprox": 10537635,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2019",
+  "files": {
+    "year": "2019",
+    "kind": "videos",
+    "md": "videos/2019/NiV4ZWUwvfM.md",
+    "json": "videos/2019/NiV4ZWUwvfM.json",
+    "infoJson": "videos/2019/NiV4ZWUwvfM.info.json"
+  }
+}

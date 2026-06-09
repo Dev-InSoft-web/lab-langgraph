@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "7dgVGA54rsg",
+  "youtubeId": "7dgVGA54rsg",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:19:13.001Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2011/7dgVGA54rsg.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "7dgVGA54rsg",
+      "youtubeId": "7dgVGA54rsg",
+      "titulo": "7dgVGA54rsg",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

@@ -8,9 +8,9 @@ Todo lo persistente para APIs, agente y RAG vive aquí:
 |------|-----------|
 | `data/api-catalog.json` | Manifiesto Postman (hosts, envs, endpoints) |
 | `data/postman/` | Fuente cruda para regenerar catálogo |
-| `data/patyia/prompts/catalog/` | Markdown Ultra → sync a PG |
+| `data/langlab/prompts/catalog/` | Markdown Ultra → sync a PG |
 | `data/vectorize/` | Corpus YouTube / gobierno |
-| `data/patyia/caches/` | Caches conversaciones / identidades |
+| `data/langlab/caches/` | Caches conversaciones / identidades |
 | `data/bitacora/revisado.json` | Estado bitácora |
 | `data/openai-storage/` | Mirror OpenAI (opcional, grande) |
 | `data/clientesis-schema/` | Árbol tablas/columnas documentación |

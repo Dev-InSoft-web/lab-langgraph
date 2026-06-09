@@ -1,7 +1,8 @@
 import { getPgPool } from "../db/pg.js";
 import { Q_LAB_API_KEY_SLOT, Q_LAB_ORCHESTRATOR_LEASE } from "../db/pg-identifiers.js";
+import { toPgUuidOrNull } from "../db/pg-uuid.js";
 import { sqlCol } from "../db/pg-quote.js";
-import { ensurePatyiaSchema } from "../patyia/db/ensureSchema.js";
+import { ensureLanglabSchema } from "../langlab/db/ensureSchema.js";
 import {
 	resolveApiKeySecret,
 	slotDefinitionsForCapability,
@@ -25,7 +26,7 @@ export function keySuffix(key: string): string {
 }
 
 export async function syncOrchestratorSlots(capability?: LabCapability): Promise<number> {
-	await ensurePatyiaSchema();
+	await ensureLanglabSchema();
 	const caps: LabCapability[] = capability
 		? [capability]
 		: ["whisper", "chat", "proofread", "embeddings", "rerank"];
@@ -33,6 +34,7 @@ export async function syncOrchestratorSlots(capability?: LabCapability): Promise
 	const pool = getPgPool();
 	for (const cap of caps) {
 		const defs = slotDefinitionsForCapability(cap);
+		const active: Array<{ provider: string; keyLabel: string }> = [];
 		for (const d of defs) {
 			if (!resolveApiKeySecret(d.provider, d.keyLabel)) continue;
 			await pool.query(
@@ -42,7 +44,25 @@ export async function syncOrchestratorSlots(capability?: LabCapability): Promise
 				 DO UPDATE SET ${sqlCol("sortorder")} = EXCLUDED.${sqlCol("sortorder")}, ${sqlCol("benabled")} = TRUE, ${sqlCol("fhultact")} = NOW()`,
 				[d.provider, d.capability, d.keyLabel, d.sortOrder],
 			);
+			active.push({ provider: d.provider, keyLabel: d.keyLabel });
 			n += 1;
+		}
+		if (active.length) {
+			const params: unknown[] = [cap];
+			const tuples = active
+				.map((a, i) => {
+					const pi = i * 2 + 2;
+					params.push(a.provider, a.keyLabel);
+					return `($${pi}, $${pi + 1})`;
+				})
+				.join(", ");
+			await pool.query(
+				`UPDATE ${Q_LAB_API_KEY_SLOT}
+				 SET ${sqlCol("benabled")} = FALSE, ${sqlCol("fhultact")} = NOW()
+				 WHERE ${sqlCol("capability")} = $1
+				   AND (${sqlCol("provider")}, ${sqlCol("keylabel")}) NOT IN (${tuples})`,
+				params,
+			);
 		}
 	}
 	return n;
@@ -88,7 +108,7 @@ export async function listOrchestratorSlots(
 	capability?: LabCapability,
 	provider?: LabProvider,
 ): Promise<LabApiKeySlotRow[]> {
-	await ensurePatyiaSchema();
+	await ensureLanglabSchema();
 	const pool = getPgPool();
 	const clauses: string[] = [];
 	const params: unknown[] = [];
@@ -192,7 +212,11 @@ export async function acquireOrchestratorLease(
 			[slot.provider, slot.capability, slot.key_label],
 		);
 		await client.query("COMMIT");
-		const leaseId = String((ins.rows[0] as { ilease: string }).ilease);
+		const leaseRaw = pick(ins.rows[0] as Record<string, unknown>, "ilease");
+		const leaseId = toPgUuidOrNull(leaseRaw);
+		if (!leaseId) {
+			throw new Error("ORCHESTRATOR_LEASE insert no devolvió ILEASE válido");
+		}
 		const lease: OrchestratorLease = {
 			leaseId,
 			provider: slot.provider as LabProvider,
@@ -221,21 +245,21 @@ export async function acquireOrchestratorLease(
 }
 
 export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promise<void> {
-	await ensurePatyiaSchema();
+	await ensureLanglabSchema();
+	const leaseId = toPgUuidOrNull(input.leaseId);
+	if (!leaseId) return;
+
 	const pool = getPgPool();
 	const leaseRes = await pool.query(
 		`SELECT * FROM ${Q_LAB_ORCHESTRATOR_LEASE} WHERE ${sqlCol("ilease")} = $1 AND ${sqlCol("releasedat")} IS NULL`,
-		[input.leaseId],
+		[leaseId],
 	);
 	if (!leaseRes.rows.length) return;
 
-	const row = leaseRes.rows[0] as {
-		provider: string;
-		capability: string;
-		keylabel: string;
-		key_label?: string;
-	};
-	const keyLabel = String(row.keylabel ?? row.key_label);
+	const raw = leaseRes.rows[0] as Record<string, unknown>;
+	const provider = String(pick(raw, "provider"));
+	const capability = String(pick(raw, "capability"));
+	const keyLabel = String(pick(raw, "keylabel", "key_label"));
 
 	let waitMs = 0;
 	if (!input.ok && input.errorMessage) {
@@ -250,7 +274,7 @@ export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promis
 			`UPDATE ${Q_LAB_ORCHESTRATOR_LEASE}
 			 SET ${sqlCol("releasedat")} = NOW(), ${sqlCol("bok")} = $2, ${sqlCol("lasterror")} = $3, ${sqlCol("waitmsapplied")} = $4
 			 WHERE ${sqlCol("ilease")} = $1`,
-			[input.leaseId, input.ok, input.errorMessage?.slice(0, 2000) ?? null, waitMs || null],
+			[leaseId, input.ok, input.errorMessage?.slice(0, 2000) ?? null, waitMs || null],
 		);
 
 		if (!input.ok && waitMs > 0) {
@@ -264,8 +288,8 @@ export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promis
 				     ${sqlCol("fhultact")} = NOW()
 				 WHERE ${sqlCol("provider")} = $1 AND ${sqlCol("capability")} = $2 AND ${sqlCol("keylabel")} = $6`,
 				[
-					row.provider,
-					row.capability,
+					provider,
+					capability,
 					input.errorMessage?.slice(0, 2000) ?? null,
 					waitMs,
 					input.httpStatus ?? null,
@@ -280,20 +304,27 @@ export async function releaseOrchestratorLease(input: ReleaseLeaseInput): Promis
 				     ${sqlCol("lasterror")} = NULL,
 				     ${sqlCol("fhultact")} = NOW()
 				 WHERE ${sqlCol("provider")} = $1 AND ${sqlCol("capability")} = $2 AND ${sqlCol("keylabel")} = $3`,
-				[row.provider, row.capability, keyLabel, input.httpStatus ?? 200],
+				[provider, capability, keyLabel, input.httpStatus ?? 200],
 			);
 		}
 
 		await client.query("COMMIT");
-		await logOrchestratorRotation({
-			capability: row.capability as LabCapability,
-			provider: row.provider as LabProvider,
-			keyLabel,
-			event: input.ok ? "release_ok" : "release_error",
-			leaseId: input.leaseId,
-			waitMs: waitMs || undefined,
-			meta: { httpStatus: input.httpStatus },
-		});
+		try {
+			await logOrchestratorRotation({
+				capability: capability as LabCapability,
+				provider: provider as LabProvider,
+				keyLabel,
+				event: input.ok ? "release_ok" : "release_error",
+				leaseId,
+				waitMs: waitMs || undefined,
+				meta: { httpStatus: input.httpStatus },
+			});
+		} catch (logErr) {
+			console.warn(
+				"ORCHESTRATOR_ROTATION_LOG omitido:",
+				logErr instanceof Error ? logErr.message : String(logErr),
+			);
+		}
 	} catch (e) {
 		await client.query("ROLLBACK");
 		throw e;

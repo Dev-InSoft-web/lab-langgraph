@@ -1,0 +1,989 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:39:10.763Z",
+  "videoId": "0FDyhgaeWRo",
+  "videoUrl": "https://www.youtube.com/watch?v=0FDyhgaeWRo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "0FDyhgaeWRo",
+    "title": "Ejemplo de documento soporte y nota de ajuste desde la operación de gastos",
+    "fulltitle": "Ejemplo de documento soporte y nota de ajuste desde la operación de gastos",
+    "description": "Conozca mediante un ejemplo práctico cómo generar el documento de soporte en compras o adquisiciones a no obligados a facturar y la nota de ajuste en el software ContaPyme® desde una operación de gastos.",
+    "duration": 598,
+    "duration_string": "9:58",
+    "upload_date": "20220829",
+    "timestamp": 1661810560,
+    "view_count": 276,
+    "like_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/0FDyhgaeWRo/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHYVGPoW6U4vgc3g7GkUxSo8yIPg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhPYR8nPJUvWxbK2Jyl_Xgn9uZeQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaEK2uYiq7yRR1WxgOEBqpWVgFbA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDQLBvW_rysAIDfMtHUH3_D25Kc3A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdPq8Hupxi6dHxoPzF7GVTTuc6KQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAKO3REvTXs4dikF1Sw8yKAkewKPQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXV3gi6uFC4zE190nuujwWxlYRyQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDn5b8iDF2w9anqNKOWVn1yOPjhUQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0FDyhgaeWRo/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0FDyhgaeWRo/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0FDyhgaeWRo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.16722408026755853,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20234113712374582,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20234113712374582,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 220.19,
+        "asr": 44100,
+        "filesize_approx": 16458101,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Ejemplo de documento soporte y nota de ajuste desde la operación de gastos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/0FDyhgaeWRo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/0FDyhgaeWRo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Ejemplo de documento soporte y nota de ajuste desde la operación de gastos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 112,
+    "transcriptChars": 8382,
+    "segments": [
+      {
+        "text": "en este punto vamos a hacer un ejemplo práctico de documentos o por tiene",
+        "startMs": 210,
+        "durationMs": 4430
+      },
+      {
+        "text": "obligados a facturar mediante una operación de gasto con su respectiva",
+        "startMs": 4640,
+        "durationMs": 3930
+      },
+      {
+        "text": "nota de ajuste vamos a empezar a pasar al sistema para que veamos un poco cómo",
+        "startMs": 8570,
+        "durationMs": 4320
+      },
+      {
+        "text": "podemos realizar esta transacción estando dentro del sistema lo primero",
+        "startMs": 12890,
+        "durationMs": 5240
+      },
+      {
+        "text": "que vamos a hacer es ingresar por la pestaña de básico y posteriormente a la",
+        "startMs": 18130,
+        "durationMs": 4770
+      },
+      {
+        "text": "opción operaciones para ingresar al manejador de operaciones que es donde",
+        "startMs": 22900,
+        "durationMs": 4800
+      },
+      {
+        "text": "vamos a registrar todas las transacciones de mi empresa",
+        "startMs": 27700,
+        "durationMs": 4580
+      },
+      {
+        "text": "para realizar documentos soporte a no obligados a facturar mediante la",
+        "startMs": 32290,
+        "durationMs": 4760
+      },
+      {
+        "text": "operación de gastos vamos a ingresar por la opción más operaciones y",
+        "startMs": 37050,
+        "durationMs": 4590
+      },
+      {
+        "text": "posteriormente a la opción ingresos y gastos en el listado nos aparece la",
+        "startMs": 41640,
+        "durationMs": 5460
+      },
+      {
+        "text": "operación de gastos como tal estando entre el asistente lo primero",
+        "startMs": 47100,
+        "durationMs": 5800
+      },
+      {
+        "text": "que vamos a hacer es indicar el tipo de documento de soporte que ustedes",
+        "startMs": 52900,
+        "durationMs": 4739
+      },
+      {
+        "text": "configuraron previamente con la resolución para documentos soportes",
+        "startMs": 57639,
+        "durationMs": 4021
+      },
+      {
+        "text": "obligados a facturar en mi caso yo tengo configurado el y 120 los seleccionamos y",
+        "startMs": 61660,
+        "durationMs": 6750
+      },
+      {
+        "text": "posteriormente tenemos lo que es el número de su documento yo lo tengo",
+        "startMs": 68410,
+        "durationMs": 4350
+      },
+      {
+        "text": "configurado para que sea automático al grabar la operación por eso no sale el",
+        "startMs": 72760,
+        "durationMs": 4110
+      },
+      {
+        "text": "auto posteriormente indica la fecha de transacción si manejamos clases de",
+        "startMs": 76870,
+        "durationMs": 5580
+      },
+      {
+        "text": "operación lo indicamos y lo que es la moneda en este caso es peso colombiana",
+        "startMs": 82450,
+        "durationMs": 4909
+      },
+      {
+        "text": "tenemos el detalle y posteriormente podemos indicar un tercero ustedes lo",
+        "startMs": 87359,
+        "durationMs": 6071
+      },
+      {
+        "text": "pueden seleccionar en este caso yo voy a seleccionar lo que es antonio sifuentes",
+        "startMs": 93430,
+        "durationMs": 5220
+      },
+      {
+        "text": "es el proveedor con el que hice la transacción y ya teniendo el tercero en",
+        "startMs": 98650,
+        "durationMs": 4650
+      },
+      {
+        "text": "la parte de registro ya vamos a indicar los conceptos en cuenta de gastos vamos",
+        "startMs": 103300,
+        "durationMs": 5610
+      },
+      {
+        "text": "a seleccionar la cuenta que corresponde yo voy a seleccionar aquí la cuenta 51",
+        "startMs": 108910,
+        "durationMs": 5070
+      },
+      {
+        "text": "35 de asistencia técnica pueden indicar un detalle y aquí el valor del concepto",
+        "startMs": 113980,
+        "durationMs": 7939
+      },
+      {
+        "text": "indicamos el valor y posteriormente de indicar el valor vamos a indicar el",
+        "startMs": 121919,
+        "durationMs": 5821
+      },
+      {
+        "text": "centro de costos que corresponde se le dan doble clic es vana se les va a salir",
+        "startMs": 127740,
+        "durationMs": 4950
+      },
+      {
+        "text": "todo el estado del centro de costos que ustedes manejen en la sede principal si",
+        "startMs": 132690,
+        "durationMs": 4590
+      },
+      {
+        "text": "solo manejan la serie seleccionan el centro de costos que corresponde a esta",
+        "startMs": 137280,
+        "durationMs": 5160
+      },
+      {
+        "text": "transacción y ya teniendo toda la información le damos en la opción",
+        "startMs": 142440,
+        "durationMs": 5099
+      },
+      {
+        "text": "siguiente aquí ya tenemos todo lo que son los impuestos en la parte superior",
+        "startMs": 147539,
+        "durationMs": 5671
+      },
+      {
+        "text": "en caso de que se tenga una retención ya sea por honorarios aquí ustedes van a",
+        "startMs": 153210,
+        "durationMs": 5190
+      },
+      {
+        "text": "tener como todo ese manejo donde ustedes van a poder dar doble clic y salen todos",
+        "startMs": 158400,
+        "durationMs": 5040
+      },
+      {
+        "text": "los conceptos retenciones y vas y ya ustedes seleccione la que aplique para",
+        "startMs": 163440,
+        "durationMs": 5009
+      },
+      {
+        "text": "esta transacción posteriormente en la parte inferior",
+        "startMs": 168449,
+        "durationMs": 3481
+      },
+      {
+        "text": "vamos a indicar la forma de pago en este caso voy a seleccionar de contado",
+        "startMs": 171930,
+        "durationMs": 5460
+      },
+      {
+        "text": "subimos el valor en la parte derecha nos pide lo que es la y ustedes pueden dar",
+        "startMs": 177390,
+        "durationMs": 6900
+      },
+      {
+        "text": "doble clic y les va a salir el listado de cuentas para que ustedes puedan",
+        "startMs": 184290,
+        "durationMs": 3630
+      },
+      {
+        "text": "seleccionar la cuenta que corresponde el tipo de movimiento bancario también lo",
+        "startMs": 187920,
+        "durationMs": 6360
+      },
+      {
+        "text": "van a poder seleccionar el número de la transferencia o dependiendo del tipo de",
+        "startMs": 194280,
+        "durationMs": 5430
+      },
+      {
+        "text": "movimiento que ustedes seleccione la fecha de transacción importante indicar",
+        "startMs": 199710,
+        "durationMs": 5400
+      },
+      {
+        "text": "el tipo de medio pago esto porque es exigencia para documento de soporte",
+        "startMs": 205110,
+        "durationMs": 6660
+      },
+      {
+        "text": "entonces en este caso voy a seleccionar débito ahorro allí hay un listado que",
+        "startMs": 211770,
+        "durationMs": 5010
+      },
+      {
+        "text": "ustedes pueden revisar cuál es el tipo de medio de pago para esta transacción y",
+        "startMs": 216780,
+        "durationMs": 5070
+      },
+      {
+        "text": "para las personas que manejan el flujo efectivo también van a poder seleccionar",
+        "startMs": 221850,
+        "durationMs": 4710
+      },
+      {
+        "text": "el flujo de efectivo correspondiente después de indicar la información",
+        "startMs": 226560,
+        "durationMs": 5400
+      },
+      {
+        "text": "correspondiente teniendo todo el documento diligenciado vamos a dar en la",
+        "startMs": 231960,
+        "durationMs": 5220
+      },
+      {
+        "text": "opción finalizar en las preguntas y deseamos aprobar el",
+        "startMs": 237180,
+        "durationMs": 5940
+      },
+      {
+        "text": "documento para la ejecución de acciones automáticos y que se envíe de forma",
+        "startMs": 243120,
+        "durationMs": 4110
+      },
+      {
+        "text": "automática a la diana vamos a darle que sí",
+        "startMs": 247230,
+        "durationMs": 3940
+      },
+      {
+        "text": "sí y es realiza todo el proceso para enviar",
+        "startMs": 251170,
+        "durationMs": 3300
+      },
+      {
+        "text": "el documento genera la representación gráfica que ustedes van a poder",
+        "startMs": 254470,
+        "durationMs": 3990
+      },
+      {
+        "text": "visualizar posteriormente aquí ya está enviada y almacenada el documento de",
+        "startMs": 258460,
+        "durationMs": 7020
+      },
+      {
+        "text": "soporte a nole dados a facturar para que mediante la operación de gasto si",
+        "startMs": 265480,
+        "durationMs": 6480
+      },
+      {
+        "text": "revisamos un poco el movimiento contable de forma automática min y que el sistema",
+        "startMs": 271960,
+        "durationMs": 4500
+      },
+      {
+        "text": "nos realiza el asiento correspondiente dependiendo de la información que",
+        "startMs": 276460,
+        "durationMs": 4530
+      },
+      {
+        "text": "registramos en la operación como tal en documentos ustedes van a poder ver",
+        "startMs": 280990,
+        "durationMs": 4910
+      },
+      {
+        "text": "comentarios las acciones que se envió el documento electrónico de manera",
+        "startMs": 285900,
+        "durationMs": 5950
+      },
+      {
+        "text": "satisfactoria sin y ya en esta parte también vamos a poder ver lo que es el",
+        "startMs": 291850,
+        "durationMs": 6149
+      },
+      {
+        "text": "documento de impresión aquí como yo estoy en un ambiente de pruebas nos va a",
+        "startMs": 297999,
+        "durationMs": 4410
+      },
+      {
+        "text": "salir el mensaje que estamos en el ambiente de pruebas pero ustedes ya en",
+        "startMs": 302409,
+        "durationMs": 3930
+      },
+      {
+        "text": "ambiente producción no les va a salir el mensaje como tal y en la parte final",
+        "startMs": 306339,
+        "durationMs": 4231
+      },
+      {
+        "text": "ustedes van a encontrar lo que dice sello la firma y él kutz de documento de",
+        "startMs": 310570,
+        "durationMs": 5110
+      },
+      {
+        "text": "soporte han obligado esa factura voy entonces a cerrar aquí y así es como",
+        "startMs": 315680,
+        "durationMs": 4920
+      },
+      {
+        "text": "si necesitamos realizar una nota de ajuste a documento de soporte a no",
+        "startMs": 325350,
+        "durationMs": 4950
+      },
+      {
+        "text": "obligados a facturar que se realizó mediante la operación de gasto vamos a",
+        "startMs": 330300,
+        "durationMs": 4530
+      },
+      {
+        "text": "ingresar por la opción de más operaciones y posteriormente a la opción",
+        "startMs": 334830,
+        "durationMs": 5039
+      },
+      {
+        "text": "ingresos y gastos aquí en este listado vamos a encontrar una operación de nota",
+        "startMs": 339869,
+        "durationMs": 6151
+      },
+      {
+        "text": "de ajustes a documentos de soporte esta es el asistente que vamos a utilizar",
+        "startMs": 346020,
+        "durationMs": 5699
+      },
+      {
+        "text": "para hacer notas de ajustes a documento de soporte que realicemos mediante la",
+        "startMs": 351719,
+        "durationMs": 6481
+      },
+      {
+        "text": "operación de gastos lo primero que vamos a hacer es indicar el tipo de documento",
+        "startMs": 320600,
+        "durationMs": 43000
+      },
+      {
+        "text": "para nota de ajuste que previamente configuramos con los datos de resolución",
+        "startMs": 363600,
+        "durationMs": 6839
+      },
+      {
+        "text": "y las configuraciones necesarias para qué nota de ajuste funcione",
+        "startMs": 370439,
+        "durationMs": 3601
+      },
+      {
+        "text": "correctamente en mi caso yo tengo configurado el 121",
+        "startMs": 374040,
+        "durationMs": 5269
+      },
+      {
+        "text": "posteriormente tenemos el número del documento",
+        "startMs": 379309,
+        "durationMs": 3731
+      },
+      {
+        "text": "documento en este caso sale auto porque el",
+        "startMs": 383040,
+        "durationMs": 1919
+      },
+      {
+        "text": "documento yo lo tengo configurado que se genere al momento de finalizar",
+        "startMs": 384959,
+        "durationMs": 5901
+      },
+      {
+        "text": "acción posteriormente tenemos lo que es la",
+        "startMs": 390860,
+        "durationMs": 1870
+      },
+      {
+        "text": "fecha de la transacción también podemos indicar la clase operación si se",
+        "startMs": 392730,
+        "durationMs": 4859
+      },
+      {
+        "text": "requiere la moneda a la cual estamos realizando la transacción como tal",
+        "startMs": 397589,
+        "durationMs": 5750
+      },
+      {
+        "text": "posteriormente podemos indicar lo que es el tercero vamos aquí a seleccionarlo en",
+        "startMs": 403339,
+        "durationMs": 6040
+      },
+      {
+        "text": "este caso antonio sifuentes y muy importante posteriormente indicar la",
+        "startMs": 409379,
+        "durationMs": 5671
+      },
+      {
+        "text": "referencia que es esa es esa el documento de soporte han obligados a",
+        "startMs": 415050,
+        "durationMs": 4800
+      },
+      {
+        "text": "facturar a la cual le vamos a hacer la nota de ajuste lo seleccionamos y de",
+        "startMs": 419850,
+        "durationMs": 6029
+      },
+      {
+        "text": "forma automática el sistema me va a traer el concepto el valor y el centro",
+        "startMs": 425879,
+        "durationMs": 6060
+      },
+      {
+        "text": "de costos que indicamos cuando realizamos el documento de soporte",
+        "startMs": 431939,
+        "durationMs": 5721
+      },
+      {
+        "text": "y después vamos a indicar lo que es el motivo por qué estamos realizando esta",
+        "startMs": 437660,
+        "durationMs": 5550
+      },
+      {
+        "text": "nota de ajuste tenemos el listado ustedes seleccionan cual aplica para",
+        "startMs": 443210,
+        "durationMs": 5190
+      },
+      {
+        "text": "ustedes en este caso yo voy a hacer una relación del documento",
+        "startMs": 448400,
+        "durationMs": 4820
+      },
+      {
+        "text": "y ya teniendo la información completa le vamos a dar en la opción siguiente si",
+        "startMs": 453220,
+        "durationMs": 6510
+      },
+      {
+        "text": "hay impuestos que también hay que relacionar los indicamos en esta parte",
+        "startMs": 459730,
+        "durationMs": 5160
+      },
+      {
+        "text": "superior y finalmente lo que es la forma de cobro en este caso yo le voy a",
+        "startMs": 464890,
+        "durationMs": 6540
+      },
+      {
+        "text": "indicar de contado subimos el valor indicamos la cuenta de banco indicamos",
+        "startMs": 471430,
+        "durationMs": 6840
+      },
+      {
+        "text": "el tipo de movimiento estas configuraciones depende los manejos que",
+        "startMs": 478270,
+        "durationMs": 4500
+      },
+      {
+        "text": "ustedes tengan y configuraciones del sistema si manejan por ejemplo lo que es",
+        "startMs": 482770,
+        "durationMs": 4740
+      },
+      {
+        "text": "flujo de efectivo si manejan y conciliación bancaria dependiendo de eso",
+        "startMs": 487510,
+        "durationMs": 5250
+      },
+      {
+        "text": "nos pide cierta información la transacción importante indicar el tipo",
+        "startMs": 492760,
+        "durationMs": 6840
+      },
+      {
+        "text": "de medio de pago miren que aquí nos puso de forma automática consignación",
+        "startMs": 499600,
+        "durationMs": 5040
+      },
+      {
+        "text": "bancaria eso depende pues de información que yo indique anteriormente pero",
+        "startMs": 504640,
+        "durationMs": 5670
+      },
+      {
+        "text": "ustedes pueden venir aquí y seleccionar en caso de que sea una diferente y ya",
+        "startMs": 510310,
+        "durationMs": 5550
+      },
+      {
+        "text": "flujo efectivo para finalizar esa acción ya teniendo toda la información",
+        "startMs": 515860,
+        "durationMs": 6760
+      },
+      {
+        "text": "correspondiente la nota de ajuste validando que todo esté bien que la",
+        "startMs": 522620,
+        "durationMs": 4410
+      },
+      {
+        "text": "información y valores sean correctos le damos en la opción finalizar",
+        "startMs": 527030,
+        "durationMs": 6620
+      },
+      {
+        "text": "nos pregunta si queremos aprobar el documento para que realice las acciones",
+        "startMs": 533650,
+        "durationMs": 5039
+      },
+      {
+        "text": "automáticas y se envíe electrónicamente vamos a darle que sí",
+        "startMs": 538689,
+        "durationMs": 6251
+      },
+      {
+        "text": "y procesamos la operación para que se haga el envío y se cree la",
+        "startMs": 544940,
+        "durationMs": 9210
+      },
+      {
+        "text": "listo aquí ya fue enviado correctamente podemos observar que ya tenemos todos",
+        "startMs": 554160,
+        "durationMs": 5690
+      },
+      {
+        "text": "los estados correctos si ustedes lean que en inspector ya nos muestran las",
+        "startMs": 559850,
+        "durationMs": 5070
+      },
+      {
+        "text": "acciones que le envió el documento fue exitoso y también vamos a poder imprimir",
+        "startMs": 564920,
+        "durationMs": 6300
+      },
+      {
+        "text": "o visualizar la representación gráfica donde nos va a mostrar en la parte",
+        "startMs": 571220,
+        "durationMs": 6089
+      },
+      {
+        "text": "inferior también lo que es el sello de la firma y el coors correspondiente con",
+        "startMs": 577309,
+        "durationMs": 5760
+      },
+      {
+        "text": "esto ya finalizamos este ejercicio práctico de documento de soporte al no",
+        "startMs": 583069,
+        "durationMs": 6211
+      },
+      {
+        "text": "obligados a facturar mediante la operación de gasto con su respectiva",
+        "startMs": 589280,
+        "durationMs": 7770
+      }
+    ],
+    "plainText": "## Descripción del video\n\nConozca mediante un ejemplo práctico cómo generar el documento de soporte en compras o adquisiciones a no obligados a facturar y la nota de ajuste en el software ContaPyme® desde una operación de gastos.\n\n## Transcripción\n\nen este punto vamos a hacer un ejemplo práctico de documentos o por tiene\nobligados a facturar mediante una operación de gasto con su respectiva\nnota de ajuste vamos a empezar a pasar al sistema para que veamos un poco cómo\npodemos realizar esta transacción estando dentro del sistema lo primero\nque vamos a hacer es ingresar por la pestaña de básico y posteriormente a la\nopción operaciones para ingresar al manejador de operaciones que es donde\nvamos a registrar todas las transacciones de mi empresa\npara realizar documentos soporte a no obligados a facturar mediante la\noperación de gastos vamos a ingresar por la opción más operaciones y\nposteriormente a la opción ingresos y gastos en el listado nos aparece la\noperación de gastos como tal estando entre el asistente lo primero\nque vamos a hacer es indicar el tipo de documento de soporte que ustedes\nconfiguraron previamente con la resolución para documentos soportes\nobligados a facturar en mi caso yo tengo configurado el y 120 los seleccionamos y\nposteriormente tenemos lo que es el número de su documento yo lo tengo\nconfigurado para que sea automático al grabar la operación por eso no sale el\nauto posteriormente indica la fecha de transacción si manejamos clases de\noperación lo indicamos y lo que es la moneda en este caso es peso colombiana\ntenemos el detalle y posteriormente podemos indicar un tercero ustedes lo\npueden seleccionar en este caso yo voy a seleccionar lo que es antonio sifuentes\nes el proveedor con el que hice la transacción y ya teniendo el tercero en\nla parte de registro ya vamos a indicar los conceptos en cuenta de gastos vamos\na seleccionar la cuenta que corresponde yo voy a seleccionar aquí la cuenta 51\n35 de asistencia técnica pueden indicar un detalle y aquí el valor del concepto\nindicamos el valor y posteriormente de indicar el valor vamos a indicar el\ncentro de costos que corresponde se le dan doble clic es vana se les va a salir\ntodo el estado del centro de costos que ustedes manejen en la sede principal si\nsolo manejan la serie seleccionan el centro de costos que corresponde a esta\ntransacción y ya teniendo toda la información le damos en la opción\nsiguiente aquí ya tenemos todo lo que son los impuestos en la parte superior\nen caso de que se tenga una retención ya sea por honorarios aquí ustedes van a\ntener como todo ese manejo donde ustedes van a poder dar doble clic y salen todos\nlos conceptos retenciones y vas y ya ustedes seleccione la que aplique para\nesta transacción posteriormente en la parte inferior\nvamos a indicar la forma de pago en este caso voy a seleccionar de contado\nsubimos el valor en la parte derecha nos pide lo que es la y ustedes pueden dar\ndoble clic y les va a salir el listado de cuentas para que ustedes puedan\nseleccionar la cuenta que corresponde el tipo de movimiento bancario también lo\nvan a poder seleccionar el número de la transferencia o dependiendo del tipo de\nmovimiento que ustedes seleccione la fecha de transacción importante indicar\nel tipo de medio pago esto porque es exigencia para documento de soporte\nentonces en este caso voy a seleccionar débito ahorro allí hay un listado que\nustedes pueden revisar cuál es el tipo de medio de pago para esta transacción y\npara las personas que manejan el flujo efectivo también van a poder seleccionar\nel flujo de efectivo correspondiente después de indicar la información\ncorrespondiente teniendo todo el documento diligenciado vamos a dar en la\nopción finalizar en las preguntas y deseamos aprobar el\ndocumento para la ejecución de acciones automáticos y que se envíe de forma\nautomática a la diana vamos a darle que sí\nsí y es realiza todo el proceso para enviar\nel documento genera la representación gráfica que ustedes van a poder\nvisualizar posteriormente aquí ya está enviada y almacenada el documento de\nsoporte a nole dados a facturar para que mediante la operación de gasto si\nrevisamos un poco el movimiento contable de forma automática min y que el sistema\nnos realiza el asiento correspondiente dependiendo de la información que\nregistramos en la operación como tal en documentos ustedes van a poder ver\ncomentarios las acciones que se envió el documento electrónico de manera\nsatisfactoria sin y ya en esta parte también vamos a poder ver lo que es el\ndocumento de impresión aquí como yo estoy en un ambiente de pruebas nos va a\nsalir el mensaje que estamos en el ambiente de pruebas pero ustedes ya en\nambiente producción no les va a salir el mensaje como tal y en la parte final\nustedes van a encontrar lo que dice sello la firma y él kutz de documento de\nsoporte han obligado esa factura voy entonces a cerrar aquí y así es como\nsi necesitamos realizar una nota de ajuste a documento de soporte a no\nobligados a facturar que se realizó mediante la operación de gasto vamos a\ningresar por la opción de más operaciones y posteriormente a la opción\ningresos y gastos aquí en este listado vamos a encontrar una operación de nota\nde ajustes a documentos de soporte esta es el asistente que vamos a utilizar\npara hacer notas de ajustes a documento de soporte que realicemos mediante la\noperación de gastos lo primero que vamos a hacer es indicar el tipo de documento\npara nota de ajuste que previamente configuramos con los datos de resolución\ny las configuraciones necesarias para qué nota de ajuste funcione\ncorrectamente en mi caso yo tengo configurado el 121\nposteriormente tenemos el número del documento\ndocumento en este caso sale auto porque el\ndocumento yo lo tengo configurado que se genere al momento de finalizar\nacción posteriormente tenemos lo que es la\nfecha de la transacción también podemos indicar la clase operación si se\nrequiere la moneda a la cual estamos realizando la transacción como tal\nposteriormente podemos indicar lo que es el tercero vamos aquí a seleccionarlo en\neste caso antonio sifuentes y muy importante posteriormente indicar la\nreferencia que es esa es esa el documento de soporte han obligados a\nfacturar a la cual le vamos a hacer la nota de ajuste lo seleccionamos y de\nforma automática el sistema me va a traer el concepto el valor y el centro\nde costos que indicamos cuando realizamos el documento de soporte\ny después vamos a indicar lo que es el motivo por qué estamos realizando esta\nnota de ajuste tenemos el listado ustedes seleccionan cual aplica para\nustedes en este caso yo voy a hacer una relación del documento\ny ya teniendo la información completa le vamos a dar en la opción siguiente si\nhay impuestos que también hay que relacionar los indicamos en esta parte\nsuperior y finalmente lo que es la forma de cobro en este caso yo le voy a\nindicar de contado subimos el valor indicamos la cuenta de banco indicamos\nel tipo de movimiento estas configuraciones depende los manejos que\nustedes tengan y configuraciones del sistema si manejan por ejemplo lo que es\nflujo de efectivo si manejan y conciliación bancaria dependiendo de eso\nnos pide cierta información la transacción importante indicar el tipo\nde medio de pago miren que aquí nos puso de forma automática consignación\nbancaria eso depende pues de información que yo indique anteriormente pero\nustedes pueden venir aquí y seleccionar en caso de que sea una diferente y ya\nflujo efectivo para finalizar esa acción ya teniendo toda la información\ncorrespondiente la nota de ajuste validando que todo esté bien que la\ninformación y valores sean correctos le damos en la opción finalizar\nnos pregunta si queremos aprobar el documento para que realice las acciones\nautomáticas y se envíe electrónicamente vamos a darle que sí\ny procesamos la operación para que se haga el envío y se cree la\nlisto aquí ya fue enviado correctamente podemos observar que ya tenemos todos\nlos estados correctos si ustedes lean que en inspector ya nos muestran las\nacciones que le envió el documento fue exitoso y también vamos a poder imprimir\no visualizar la representación gráfica donde nos va a mostrar en la parte\ninferior también lo que es el sello de la firma y el coors correspondiente con\nesto ya finalizamos este ejercicio práctico de documento de soporte al no\nobligados a facturar mediante la operación de gasto con su respectiva"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 220.19,
+    "asr": 44100,
+    "filesizeApprox": 16458101,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2022",
+  "files": {
+    "year": "2022",
+    "kind": "videos",
+    "md": "videos/2022/0FDyhgaeWRo.md",
+    "json": "videos/2022/0FDyhgaeWRo.json",
+    "infoJson": "videos/2022/0FDyhgaeWRo.info.json"
+  }
+}

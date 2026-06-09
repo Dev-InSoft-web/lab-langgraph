@@ -1,0 +1,977 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:26:11.952Z",
+  "videoId": "GjI0uBTuKnc",
+  "videoUrl": "https://www.youtube.com/watch?v=GjI0uBTuKnc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "GjI0uBTuKnc",
+    "title": "Software agricola AgroWin - Cultivos perennes - Manejo de la producción",
+    "fulltitle": "Software agricola AgroWin - Cultivos perennes - Manejo de la producción",
+    "description": "http://www.contapyme.com/software-agricola\nManejo de la producción en cultivos perennes\nAW40-250-070-070B",
+    "duration": 569,
+    "duration_string": "9:29",
+    "upload_date": "20121117",
+    "timestamp": 1353164538,
+    "view_count": 367,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/GjI0uBTuKnc/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC33spufBxlZfINtlzV57mtmrVQDw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoEmd60_m1TKW0X6eDx99E5onk2A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiLXh5zsHjH46aZ1a2__uHST0F1A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcYoOmyUC0Ew_0EVNWge-T_tEBFw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GjI0uBTuKnc/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/GjI0uBTuKnc/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=GjI0uBTuKnc",
+    "is_live": false,
+    "was_live": false,
+    "chapters": [
+      {
+        "start_time": 0,
+        "title": "Introducción",
+        "end_time": 11
+      },
+      {
+        "start_time": 11,
+        "title": "Tratamiento de la producción",
+        "end_time": 41
+      },
+      {
+        "start_time": 41,
+        "title": "Estacionalidad de la producción en los cultivos perennes",
+        "end_time": 87
+      },
+      {
+        "start_time": 87,
+        "title": "Planillas de recolección",
+        "end_time": 169
+      },
+      {
+        "start_time": 169,
+        "title": "Informes de producción",
+        "end_time": 186
+      },
+      {
+        "start_time": 186,
+        "title": "Embodegamiento de la producción",
+        "end_time": 270
+      },
+      {
+        "start_time": 270,
+        "title": "Informe de saldos de inventario de la bodega de productos",
+        "end_time": 334
+      },
+      {
+        "start_time": 334,
+        "title": "la Venta de productos",
+        "end_time": 381
+      },
+      {
+        "start_time": 381,
+        "title": "Imputación de costos e ingresos en",
+        "end_time": 460
+      },
+      {
+        "start_time": 460,
+        "title": "Documentos de la operación de ventas",
+        "end_time": 473
+      },
+      {
+        "start_time": 473,
+        "title": "Factura de venta",
+        "end_time": 513
+      },
+      {
+        "start_time": 513,
+        "title": "Salida de almacén",
+        "end_time": 569
+      }
+    ],
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.1757469244288225,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20210896309314588,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20210896309314588,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 184.189,
+        "asr": 44100,
+        "filesize_approx": 13108040,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agricola AgroWin - Cultivos perennes - Manejo de la producción",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/GjI0uBTuKnc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/GjI0uBTuKnc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agricola AgroWin - Cultivos perennes - Manejo de la producción\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 99,
+    "transcriptChars": 6637,
+    "segments": [
+      {
+        "text": "cultivos perennes los cultivos perennes en la etapa productiva",
+        "startMs": 2780,
+        "durationMs": 9269
+      },
+      {
+        "text": "el tratamiento y manejo de la producción incluye los siguientes eventos",
+        "startMs": 12059,
+        "durationMs": 6411
+      },
+      {
+        "text": "el bodegamiento de la producción en las planillas de empoderamiento",
+        "startMs": 23340,
+        "durationMs": 4849
+      },
+      {
+        "text": "y la venta de productos en la operación de ventas de productos y mercancías",
+        "startMs": 28189,
+        "durationMs": 5461
+      },
+      {
+        "text": "finalmente está la generación de informes de producción y la generación",
+        "startMs": 33650,
+        "durationMs": 8399
+      },
+      {
+        "text": "con relación a la producción es importante anotar que los cultivos",
+        "startMs": 42059,
+        "durationMs": 5470
+      },
+      {
+        "text": "transitorios centran su producción al término del",
+        "startMs": 47529,
+        "durationMs": 5500
+      },
+      {
+        "text": "de tal forma que las fechas de cosechas pueden ser programadas con la fecha de",
+        "startMs": 53039,
+        "durationMs": 7431
+      },
+      {
+        "text": "mientras que por el contrario la producción de los cultivos perennes se",
+        "startMs": 60480,
+        "durationMs": 5390
+      },
+      {
+        "text": "presenta en un período variable de tiempo",
+        "startMs": 65870,
+        "durationMs": 3120
+      },
+      {
+        "text": "tiempo que puede ir de unas pocas semanas a",
+        "startMs": 68990,
+        "durationMs": 2340
+      },
+      {
+        "text": "varios meses e inclusive todo el año dependiendo de la especie cultivada de",
+        "startMs": 71330,
+        "durationMs": 5819
+      },
+      {
+        "text": "esta manera los cultivos perennes pueden presentar picos de cosecha",
+        "startMs": 77149,
+        "durationMs": 12241
+      },
+      {
+        "text": "planillas de recolección la planilla de labores se utiliza para registrar todas",
+        "startMs": 18470,
+        "durationMs": 75480
+      },
+      {
+        "text": "semana puede ser suficiente sin embargo por razones prácticas puede ser",
+        "startMs": 98690,
+        "durationMs": 5879
+      },
+      {
+        "text": "conveniente abrir una planilla aparte cada semana para registrar en ella las",
+        "startMs": 104569,
+        "durationMs": 5400
+      },
+      {
+        "text": "labores de recolección con las cantidades recolectadas y sus valores de",
+        "startMs": 109969,
+        "durationMs": 4981
+      },
+      {
+        "text": "pago un resumen de esta planilla",
+        "startMs": 114950,
+        "durationMs": 2000
+      },
+      {
+        "text": "recogería el total de los productos recolectados con sus costos de",
+        "startMs": 116950,
+        "durationMs": 4979
+      },
+      {
+        "text": "recolección una información de primer orden en el",
+        "startMs": 121929,
+        "durationMs": 2441
+      },
+      {
+        "text": "seguimiento administrativo de la finca la planilla de recolecciones debe",
+        "startMs": 124370,
+        "durationMs": 5519
+      },
+      {
+        "startMs": 134580,
+        "durationMs": 3950,
+        "text": "el nombre del recolector"
+      },
+      {
+        "text": "el tipo de pago se puede pagar por cantidad de producto",
+        "startMs": 138540,
+        "durationMs": 4310
+      },
+      {
+        "text": "recolectado o por jornales trabajados el lote o cultivo cosechado",
+        "startMs": 142850,
+        "durationMs": 7800
+      },
+      {
+        "text": "en este caso la labor ejecutada que es la labor de recolección",
+        "startMs": 150650,
+        "durationMs": 4980
+      },
+      {
+        "text": "la cantidad de mano de obra en términos de jornales o de horas",
+        "startMs": 155630,
+        "durationMs": 4620
+      },
+      {
+        "text": "y la cantidad de productos recolectado kilogramos unidades toneladas etcétera",
+        "startMs": 160250,
+        "durationMs": 9059
+      },
+      {
+        "text": "para la consulta de las producciones se puede revisar un informe de producción",
+        "startMs": 93950,
+        "durationMs": 80820
+      },
+      {
+        "text": "por loteo cultivo en el que se incluyen las producciones en el tiempo",
+        "startMs": 174770,
+        "durationMs": 7260
+      },
+      {
+        "startMs": 182040,
+        "durationMs": 4909,
+        "text": "y el costo de la recolecciones"
+      },
+      {
+        "text": "el empoderamiento de la producción el empoderamiento consiste en ingresar",
+        "startMs": 186959,
+        "durationMs": 5630
+      },
+      {
+        "text": "en la bodega de productos terminados los productos provenientes de los lotes de",
+        "startMs": 192589,
+        "durationMs": 9601
+      },
+      {
+        "text": "cuando se maneja contabilidad de costos el ingreso a la bodega implica también",
+        "startMs": 202200,
+        "durationMs": 4190
+      },
+      {
+        "text": "el traslado de costos de la cuenta de producto en proceso",
+        "startMs": 206390,
+        "durationMs": 11339
+      },
+      {
+        "text": "cualquier cantidad de producto que genere un lote se deben bodegar con",
+        "startMs": 217739,
+        "durationMs": 3951
+      },
+      {
+        "text": "cargo al lote que lo generó el embocamiento de productos requiere",
+        "startMs": 221690,
+        "durationMs": 5340
+      },
+      {
+        "text": "como mínimo la siguiente información el lote productor la bodega destino o",
+        "startMs": 129889,
+        "durationMs": 103141
+      },
+      {
+        "text": "bodega de empoderamiento el producto producido o embolegado la cantidad de",
+        "startMs": 233030,
+        "durationMs": 6119
+      },
+      {
+        "text": "producto y el costo estimado de producción",
+        "startMs": 239149,
+        "durationMs": 5601
+      },
+      {
+        "text": "la operación de empoderamiento de productos genera un documento de ingreso",
+        "startMs": 244760,
+        "durationMs": 4049
+      },
+      {
+        "text": "almacén en el que se documenta la bodega destino la fecha del ingreso los",
+        "startMs": 248809,
+        "durationMs": 7200
+      },
+      {
+        "text": "elementos ingresados con su lote de origen cantidad unidad",
+        "startMs": 256009,
+        "durationMs": 5841
+      },
+      {
+        "text": "costo unitario de empoderamiento y costo total tiene además unos espacios para",
+        "startMs": 261850,
+        "durationMs": 8800
+      },
+      {
+        "text": "para cada bodega podemos consultar también el informe de saldos de",
+        "startMs": 270660,
+        "durationMs": 6110
+      },
+      {
+        "text": "inventario que se consulte directamente sobre la",
+        "startMs": 276770,
+        "durationMs": 2280
+      },
+      {
+        "text": "bodega en el explorador de la finca para mayores detalles consultar el video",
+        "startMs": 279050,
+        "durationMs": 4980
+      },
+      {
+        "text": "de efecto de la operación de embocamiento en los informes del sistema",
+        "startMs": 284030,
+        "durationMs": 3680
+      },
+      {
+        "text": "del tema de manejo de la producción el informe presenta la siguiente",
+        "startMs": 287710,
+        "durationMs": 9100
+      },
+      {
+        "text": "la fecha de consulta la bodega consultada",
+        "startMs": 296820,
+        "durationMs": 6649
+      },
+      {
+        "text": "los elementos existentes en la bodega con su unidad cantidad costo unitario y",
+        "startMs": 303469,
+        "durationMs": 6301
+      },
+      {
+        "text": "costo total de empoderamiento en este informe la cantidad de insumo",
+        "startMs": 309770,
+        "durationMs": 5340
+      },
+      {
+        "text": "ingresado en el empoderamiento se suma a las cantidades existentes previamente en",
+        "startMs": 315110,
+        "durationMs": 5280
+      },
+      {
+        "text": "la bodega y el costo de la nueva existencia",
+        "startMs": 320390,
+        "durationMs": 5700
+      },
+      {
+        "text": "corresponderá al promedio ponderado de Los costos de todas las entradas que",
+        "startMs": 326090,
+        "durationMs": 3480
+      },
+      {
+        "text": "participan en la existencia total en Bodega",
+        "startMs": 329570,
+        "durationMs": 5220
+      },
+      {
+        "text": "venta de productos la venta de productos requiere el previo de empoderamiento en",
+        "startMs": 334800,
+        "durationMs": 5449
+      },
+      {
+        "text": "La Vega de productos terminados no se pueden vender productos que no hayan",
+        "startMs": 340249,
+        "durationMs": 4321
+      },
+      {
+        "text": "sido previamente en bodegados la operación de venta de productos",
+        "startMs": 344570,
+        "durationMs": 4140
+      },
+      {
+        "text": "requiere como mínimo la siguiente información",
+        "startMs": 348710,
+        "durationMs": 3479
+      },
+      {
+        "text": "información el cliente",
+        "startMs": 352189,
+        "durationMs": 4201
+      },
+      {
+        "text": "la bodega origen O sea la bodega de productos con el producto a vender su",
+        "startMs": 356400,
+        "durationMs": 5090
+      },
+      {
+        "text": "cantidad valor unitario o valor total de la venta y su forma de pago que puede",
+        "startMs": 361490,
+        "durationMs": 5880
+      },
+      {
+        "text": "ser caja banco o cuenta por cobrar Por último el centro de costos para",
+        "startMs": 367370,
+        "durationMs": 5819
+      },
+      {
+        "text": "imputar el ingreso de la venta y el costo de ventas",
+        "startMs": 373189,
+        "durationMs": 4741
+      },
+      {
+        "text": "con respecto a esto recordemos que cualquier venta genera dos movimientos",
+        "startMs": 377930,
+        "durationMs": 4080
+      },
+      {
+        "text": "contables uno para registrar Los costos de producción como un crédito a la",
+        "startMs": 382010,
+        "durationMs": 6119
+      },
+      {
+        "text": "cuenta de producto terminado contra un débito a la cuenta de costo de ventas",
+        "startMs": 388129,
+        "durationMs": 7141
+      },
+      {
+        "text": "y el otro para registrar los ingresos un crédito a la cuenta de ingresos",
+        "startMs": 395280,
+        "durationMs": 5029
+      },
+      {
+        "text": "contra un débito a la cuenta de efectivo ahora bien lo más lógico sería imputar",
+        "startMs": 400309,
+        "durationMs": 10380
+      },
+      {
+        "text": "al centro de costos que lo generó sin embargo sucede que en el momento de la",
+        "startMs": 410699,
+        "durationMs": 4971
+      },
+      {
+        "text": "venta puede no conocerse el lote origen de los productos vendidos entre otras",
+        "startMs": 415670,
+        "durationMs": 4560
+      },
+      {
+        "text": "razones porque muchas veces en las manos del cliente se mezclan las cantidades",
+        "startMs": 420230,
+        "durationMs": 4620
+      },
+      {
+        "text": "provenientes de los distintos lotes y por lo tanto no quedan discriminados en",
+        "startMs": 424850,
+        "durationMs": 4020
+      },
+      {
+        "text": "la factura en este caso los ingresos se deben",
+        "startMs": 428870,
+        "durationMs": 3960
+      },
+      {
+        "text": "imputar a un centro de ingresos de carácter general creado para tal fin por",
+        "startMs": 432830,
+        "durationMs": 5639
+      },
+      {
+        "text": "ejemplo un centro de ingresos llamado ingresos por venta de uva",
+        "startMs": 438469,
+        "durationMs": 5220
+      },
+      {
+        "text": "sin embargo bajo esta opción no se podrán Consultar los ingresos ni los",
+        "startMs": 443689,
+        "durationMs": 4440
+      },
+      {
+        "text": "costos de venta a nivel del loteo cultivo y la información de los cultivos",
+        "startMs": 448129,
+        "durationMs": 4741
+      },
+      {
+        "text": "se restringirá a los costos de producción y cantidades de productos",
+        "startMs": 452870,
+        "durationMs": 7560
+      },
+      {
+        "text": "documentos de la operación de ventas la operación de venta de productos genera",
+        "startMs": 460440,
+        "durationMs": 4809
+      },
+      {
+        "text": "entre algunos otros dos reportes para archivo de documentación la factura de",
+        "startMs": 465249,
+        "durationMs": 9041
+      },
+      {
+        "text": "productos vendidos con la siguiente información",
+        "startMs": 474300,
+        "durationMs": 5210
+      },
+      {
+        "text": "información el número consecutivo del documento la",
+        "startMs": 479510,
+        "durationMs": 3179
+      },
+      {
+        "text": "información del cliente la fecha de la venta el valor total del",
+        "startMs": 482689,
+        "durationMs": 7081
+      },
+      {
+        "text": "ingreso los elementos vendidos con su código",
+        "startMs": 489770,
+        "durationMs": 2960
+      },
+      {
+        "text": "nombre cantidad de unidad valor unitario y valor total por elemento vendido",
+        "startMs": 492730,
+        "durationMs": 9700
+      },
+      {
+        "text": "la forma de pago que puede ser caja banco o cuenta por cobrar y el valor",
+        "startMs": 502440,
+        "durationMs": 5029
+      },
+      {
+        "text": "total de la venta finalmente están los espacios para la firma",
+        "startMs": 507469,
+        "durationMs": 6360
+      },
+      {
+        "text": "la salida de almacén es un documento para archivo y documentación que tiene",
+        "startMs": 513839,
+        "durationMs": 5091
+      },
+      {
+        "text": "la siguiente información el número consecutivo",
+        "startMs": 518930,
+        "durationMs": 4380
+      },
+      {
+        "text": "la fecha del egreso el destino del egreso o sea el cliente",
+        "startMs": 523310,
+        "durationMs": 6000
+      },
+      {
+        "text": "la bodega fuente de los productos vendidos",
+        "startMs": 529310,
+        "durationMs": 3780
+      },
+      {
+        "text": "vendidos los elementos vendidos con su centro de",
+        "startMs": 533090,
+        "durationMs": 2820
+      },
+      {
+        "text": "costos origen código del elemento nombre cantidad unidad valor unitario y valor",
+        "startMs": 535910,
+        "durationMs": 9240
+      },
+      {
+        "text": "total de la venta de cada elemento finalmente tiene los campos para las",
+        "startMs": 545150,
+        "durationMs": 7380
+      },
+      {
+        "text": "firmas para mayores detalles consultar el video",
+        "startMs": 552530,
+        "durationMs": 2700
+      },
+      {
+        "text": "efectos de la operación de venta en los informes del sistema del sistema manejo",
+        "startMs": 555230,
+        "durationMs": 4380
+      },
+      {
+        "text": "de la producción esto es todo sobre cultivos perennes en",
+        "startMs": 559610,
+        "durationMs": 4500
+      },
+      {
+        "text": "etapa productiva manejo de la producción gracias por su atención",
+        "startMs": 564110,
+        "durationMs": 5610
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com/software-agricola\nManejo de la producción en cultivos perennes\nAW40-250-070-070B\n\n## Transcripción\n\ncultivos perennes los cultivos perennes en la etapa productiva\nel tratamiento y manejo de la producción incluye los siguientes eventos\nel bodegamiento de la producción en las planillas de empoderamiento\ny la venta de productos en la operación de ventas de productos y mercancías\nfinalmente está la generación de informes de producción y la generación\ncon relación a la producción es importante anotar que los cultivos\ntransitorios centran su producción al término del\nde tal forma que las fechas de cosechas pueden ser programadas con la fecha de\nmientras que por el contrario la producción de los cultivos perennes se\npresenta en un período variable de tiempo\ntiempo que puede ir de unas pocas semanas a\nvarios meses e inclusive todo el año dependiendo de la especie cultivada de\nesta manera los cultivos perennes pueden presentar picos de cosecha\nplanillas de recolección la planilla de labores se utiliza para registrar todas\nsemana puede ser suficiente sin embargo por razones prácticas puede ser\nconveniente abrir una planilla aparte cada semana para registrar en ella las\nlabores de recolección con las cantidades recolectadas y sus valores de\npago un resumen de esta planilla\nrecogería el total de los productos recolectados con sus costos de\nrecolección una información de primer orden en el\nseguimiento administrativo de la finca la planilla de recolecciones debe\nel nombre del recolector\nel tipo de pago se puede pagar por cantidad de producto\nrecolectado o por jornales trabajados el lote o cultivo cosechado\nen este caso la labor ejecutada que es la labor de recolección\nla cantidad de mano de obra en términos de jornales o de horas\ny la cantidad de productos recolectado kilogramos unidades toneladas etcétera\npara la consulta de las producciones se puede revisar un informe de producción\npor loteo cultivo en el que se incluyen las producciones en el tiempo\ny el costo de la recolecciones\nel empoderamiento de la producción el empoderamiento consiste en ingresar\nen la bodega de productos terminados los productos provenientes de los lotes de\ncuando se maneja contabilidad de costos el ingreso a la bodega implica también\nel traslado de costos de la cuenta de producto en proceso\ncualquier cantidad de producto que genere un lote se deben bodegar con\ncargo al lote que lo generó el embocamiento de productos requiere\ncomo mínimo la siguiente información el lote productor la bodega destino o\nbodega de empoderamiento el producto producido o embolegado la cantidad de\nproducto y el costo estimado de producción\nla operación de empoderamiento de productos genera un documento de ingreso\nalmacén en el que se documenta la bodega destino la fecha del ingreso los\nelementos ingresados con su lote de origen cantidad unidad\ncosto unitario de empoderamiento y costo total tiene además unos espacios para\npara cada bodega podemos consultar también el informe de saldos de\ninventario que se consulte directamente sobre la\nbodega en el explorador de la finca para mayores detalles consultar el video\nde efecto de la operación de embocamiento en los informes del sistema\ndel tema de manejo de la producción el informe presenta la siguiente\nla fecha de consulta la bodega consultada\nlos elementos existentes en la bodega con su unidad cantidad costo unitario y\ncosto total de empoderamiento en este informe la cantidad de insumo\ningresado en el empoderamiento se suma a las cantidades existentes previamente en\nla bodega y el costo de la nueva existencia\ncorresponderá al promedio ponderado de Los costos de todas las entradas que\nparticipan en la existencia total en Bodega\nventa de productos la venta de productos requiere el previo de empoderamiento en\nLa Vega de productos terminados no se pueden vender productos que no hayan\nsido previamente en bodegados la operación de venta de productos\nrequiere como mínimo la siguiente información\ninformación el cliente\nla bodega origen O sea la bodega de productos con el producto a vender su\ncantidad valor unitario o valor total de la venta y su forma de pago que puede\nser caja banco o cuenta por cobrar Por último el centro de costos para\nimputar el ingreso de la venta y el costo de ventas\ncon respecto a esto recordemos que cualquier venta genera dos movimientos\ncontables uno para registrar Los costos de producción como un crédito a la\ncuenta de producto terminado contra un débito a la cuenta de costo de ventas\ny el otro para registrar los ingresos un crédito a la cuenta de ingresos\ncontra un débito a la cuenta de efectivo ahora bien lo más lógico sería imputar\nal centro de costos que lo generó sin embargo sucede que en el momento de la\nventa puede no conocerse el lote origen de los productos vendidos entre otras\nrazones porque muchas veces en las manos del cliente se mezclan las cantidades\nprovenientes de los distintos lotes y por lo tanto no quedan discriminados en\nla factura en este caso los ingresos se deben\nimputar a un centro de ingresos de carácter general creado para tal fin por\nejemplo un centro de ingresos llamado ingresos por venta de uva\nsin embargo bajo esta opción no se podrán Consultar los ingresos ni los\ncostos de venta a nivel del loteo cultivo y la información de los cultivos\nse restringirá a los costos de producción y cantidades de productos\ndocumentos de la operación de ventas la operación de venta de productos genera\nentre algunos otros dos reportes para archivo de documentación la factura de\nproductos vendidos con la siguiente información\ninformación el número consecutivo del documento la\ninformación del cliente la fecha de la venta el valor total del\ningreso los elementos vendidos con su código\nnombre cantidad de unidad valor unitario y valor total por elemento vendido\nla forma de pago que puede ser caja banco o cuenta por cobrar y el valor\ntotal de la venta finalmente están los espacios para la firma\nla salida de almacén es un documento para archivo y documentación que tiene\nla siguiente información el número consecutivo\nla fecha del egreso el destino del egreso o sea el cliente\nla bodega fuente de los productos vendidos\nvendidos los elementos vendidos con su centro de\ncostos origen código del elemento nombre cantidad unidad valor unitario y valor\ntotal de la venta de cada elemento finalmente tiene los campos para las\nfirmas para mayores detalles consultar el video\nefectos de la operación de venta en los informes del sistema del sistema manejo\nde la producción esto es todo sobre cultivos perennes en\netapa productiva manejo de la producción gracias por su atención"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 184.189,
+    "asr": 44100,
+    "filesizeApprox": 13108040,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/GjI0uBTuKnc.md",
+    "json": "videos/2012/GjI0uBTuKnc.json",
+    "infoJson": "videos/2012/GjI0uBTuKnc.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "GjI0uBTuKnc",
+        "youtubeId": "GjI0uBTuKnc",
+        "titulo": "GjI0uBTuKnc",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

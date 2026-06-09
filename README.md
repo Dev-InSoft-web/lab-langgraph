@@ -16,7 +16,7 @@ Réplica del flujo del tutorial [FitDocs IA](https://www.youtube.com/watch?v=0G2
    ```bash
    copy local.settings.json.example local.settings.json
    ```
-2. Rellena keys en `local.settings.json` o deja que se lean desde `ISA-DOC/secrets/patyia/lab-langgraph.env` (`GROQ_*`, `MINIMAX_*`, `HUGGINGFACE_API_KEY`). Verifica `DATABASE_URL`.
+2. Rellena keys en `local.settings.json` o deja que se lean desde `ISA-DOC/secrets/patyia/lab-langgraph.env` (`GROQ_*`, `MINIMAX_*`, `HUGGINGFACE_API_KEY`). Verifica `LANGLAB_DATABASE_URL`.
 3. Instala y arranca:
    ```bash
    npm install
@@ -53,6 +53,13 @@ npm run frontend:serve
 - `frontend/comun/jsx/` — App, layouts, páginas (FitDocs, PatyIA)
 - `frontend/comun/js/` — auth, `labFetch`, SSE, API conversaciones
 - Edita `frontend/config.js` si cambias el puerto de la API local
+
+## Dominios en el repo
+
+- **LangLab** — conversación, grafo LangGraph, orquestador de LLM (`src/lib/langlab/`, `BD_LANGLAB`).
+- **PatyIA / ISA-DOC** — tickets, bitácora, caches y prompts en disco (`data/patyia/`, rutas `/api/patyia/cache/…`).
+
+Detalle: [docs/ARCHITECTURE-BOUNDARIES.md](./docs/ARCHITECTURE-BOUNDARIES.md).
 
 ## API
 

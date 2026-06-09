@@ -1,0 +1,839 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:14:28.818Z",
+  "videoId": "xlaAO6nBHLo",
+  "videoUrl": "https://www.youtube.com/watch?v=xlaAO6nBHLo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "xlaAO6nBHLo",
+    "title": "Funciones de inventarios",
+    "fulltitle": "Funciones de inventarios",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 415,
+    "duration_string": "6:55",
+    "upload_date": "20200513",
+    "timestamp": 1589376138,
+    "view_count": 75,
+    "like_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB01bCPqJieHINbe8qMFI0LxBQKhA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAc8yxenDxg7Nn1ZknZUXFrE0qi7Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXMCj3ZKGaOxeQu7QUmfc8nSqcmQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBs8YoDh-BjH7WIUhkVArbV39Tn2g",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFdpWKAY2N50rn7IlIg5QWdZhdQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIOCTKpuVZg-7Skj0JuYhFWSPeqQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwV8M7l47dh5b_CtpgmB_4ydIgCw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcX4VW3-YgHNhgGVyUw-Cwuhy_Rw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xlaAO6nBHLo/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xlaAO6nBHLo/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xlaAO6nBHLo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.24096385542168675,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20481927710843373,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20481927710843373,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 184.719,
+        "asr": 44100,
+        "filesize_approx": 9587885,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Funciones de inventarios",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/xlaAO6nBHLo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/xlaAO6nBHLo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Funciones de inventarios\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 77,
+    "transcriptChars": 5665,
+    "segments": [
+      {
+        "text": "funciones de inventarios a continuación vamos a realizar algunas de las",
+        "startMs": 210,
+        "durationMs": 4460
+      },
+      {
+        "text": "funciones más usadas para consultar información de los inventarios como las",
+        "startMs": 4670,
+        "durationMs": 4200
+      },
+      {
+        "text": "existencias de los productos y su costo función cantidad de existencias esta",
+        "startMs": 8870,
+        "durationMs": 6440
+      },
+      {
+        "text": "función determina la cantidad de existencias disponibles de un elemento",
+        "startMs": 15310,
+        "durationMs": 3390
+      },
+      {
+        "text": "de inventario a una fecha determinada para esta función debemos tener en",
+        "startMs": 18700,
+        "durationMs": 5870
+      },
+      {
+        "text": "cuenta que su cálculo se basa en el sistema de inventario de cuenta pyme",
+        "startMs": 24570,
+        "durationMs": 4320
+      },
+      {
+        "text": "tenemos la sintaxis de la función que solicita datos como bodega elemento de",
+        "startMs": 28890,
+        "durationMs": 5909
+      },
+      {
+        "text": "inventario fecha final empresa y centro de costos productor como podemos ver",
+        "startMs": 34799,
+        "durationMs": 6871
+      },
+      {
+        "text": "esta función solo tiene fecha final ya que las existencias se consultan como",
+        "startMs": 41670,
+        "durationMs": 5010
+      },
+      {
+        "text": "saldos históricos inicialmente el valor que trae la función se refiere a las",
+        "startMs": 46680,
+        "durationMs": 5160
+      },
+      {
+        "text": "existencias de productos desde el inicio de los tiempos hasta la fecha de trabajo",
+        "startMs": 51840,
+        "durationMs": 4320
+      },
+      {
+        "text": "es decir 31 de marzo de 2020 teniendo en cuenta todas las bodegas con las que",
+        "startMs": 56160,
+        "durationMs": 5610
+      },
+      {
+        "text": "contamos en nuestro inventario vamos a indicar algunos parámetros importantes",
+        "startMs": 61770,
+        "durationMs": 4530
+      },
+      {
+        "text": "como el elemento de inventario nos ubicamos en la celda abrimos el",
+        "startMs": 66300,
+        "durationMs": 4470
+      },
+      {
+        "text": "seleccionador y vamos a hacer la consulta con el producto impresora hp",
+        "startMs": 70770,
+        "durationMs": 7110
+      },
+      {
+        "text": "vemos que inmediatamente el dato cambia también vamos a indicar una fecha final",
+        "startMs": 77880,
+        "durationMs": 7840
+      },
+      {
+        "startMs": 85730,
+        "durationMs": 5669,
+        "text": "en este caso será el 30 de abril de 2020"
+      },
+      {
+        "text": "la cantidad cambia nuevamente vemos que el saldo total de este producto es de 12",
+        "startMs": 91409,
+        "durationMs": 5630
+      },
+      {
+        "text": "unidades esto para todas las bodegas pero necesitamos conocer el dato",
+        "startMs": 97039,
+        "durationMs": 5100
+      },
+      {
+        "text": "específico de una bodega en este caso la bodega 2 que es la bodega principal",
+        "startMs": 102139,
+        "durationMs": 4010
+      },
+      {
+        "text": "indica mos el código de la bodega 2 vemos que inmediatamente el saldo cambia",
+        "startMs": 106149,
+        "durationMs": 5981
+      },
+      {
+        "text": "a cuatro unidades vamos a verificar otra bodega que es la bodega 3",
+        "startMs": 112130,
+        "durationMs": 6820
+      },
+      {
+        "text": "el valor cambia nuevamente esta función es de gran ayuda para crear",
+        "startMs": 118950,
+        "durationMs": 5040
+      },
+      {
+        "text": "informes de consulta de saldos de inventario a fechas determinadas y",
+        "startMs": 123990,
+        "durationMs": 3840
+      },
+      {
+        "text": "cuando se manejan diferentes bodegas función cantidad de existencias físicos",
+        "startMs": 127830,
+        "durationMs": 6570
+      },
+      {
+        "text": "esta función determina la cantidad de existencias físicas de un elemento de",
+        "startMs": 134400,
+        "durationMs": 8880
+      },
+      {
+        "text": "esta función es muy parecida a la anterior en su sintaxis excepto por el",
+        "startMs": 143290,
+        "durationMs": 5150
+      },
+      {
+        "text": "parámetro y centro de costos productor que se usa en la anterior en conta pymes",
+        "startMs": 148440,
+        "durationMs": 5310
+      },
+      {
+        "text": "se manejan tres tipos de inventario el inventario contable el inventario físico",
+        "startMs": 153750,
+        "durationMs": 4679
+      },
+      {
+        "text": "y el inventario disponible el contable se ve afectado por todas las operaciones",
+        "startMs": 158429,
+        "durationMs": 4380
+      },
+      {
+        "text": "del módulo de inventarios como compras ventas planillas de consumo ajustes de",
+        "startMs": 162809,
+        "durationMs": 4890
+      },
+      {
+        "text": "inventario entre otras y el físico se afecta por las mismas operaciones y",
+        "startMs": 167699,
+        "durationMs": 5551
+      },
+      {
+        "text": "adicionalmente por las revisiones al cliente y las recepciones de materiales",
+        "startMs": 173250,
+        "durationMs": 4099
+      },
+      {
+        "text": "esta función cantidad de existencias físicos se encarga de consultar el",
+        "startMs": 177349,
+        "durationMs": 4660
+      },
+      {
+        "text": "inventario que se afecta por las operaciones de inventario más las",
+        "startMs": 182009,
+        "durationMs": 3330
+      },
+      {
+        "text": "operaciones de recepciones y remisiones que son operaciones de inventarios plus",
+        "startMs": 185339,
+        "durationMs": 4411
+      },
+      {
+        "text": "en este caso ya tenemos algunos datos para la función podemos ver si nos",
+        "startMs": 189750,
+        "durationMs": 5339
+      },
+      {
+        "text": "pasamos a la hoja anterior que el resultado es el mismo tenemos el mismo",
+        "startMs": 195089,
+        "durationMs": 5701
+      },
+      {
+        "text": "producto la misma bodega y la misma fecha",
+        "startMs": 200790,
+        "durationMs": 4350
+      },
+      {
+        "text": "en este caso vamos a hacer un cambio vamos a cambiar la fecha de trabajo y",
+        "startMs": 205140,
+        "durationMs": 10330
+      },
+      {
+        "text": "para el inventario físico las unidades cambian para la bodega 3 se tienen 10",
+        "startMs": 215480,
+        "durationMs": 4460
+      },
+      {
+        "text": "unidades de este producto nos vamos a volver a la función cantidad de",
+        "startMs": 219940,
+        "durationMs": 6560
+      },
+      {
+        "text": "existencias y vamos a cambiar la fecha",
+        "startMs": 226500,
+        "durationMs": 6010
+      },
+      {
+        "text": "vemos que las existencias como tal que son las existencias contables para la",
+        "startMs": 232520,
+        "durationMs": 5120
+      },
+      {
+        "text": "bodega 3 hay ocho unidades pero en existencias físicas tenemos diez",
+        "startMs": 237640,
+        "durationMs": 6680
+      },
+      {
+        "text": "unidades con esta función podemos armar un",
+        "startMs": 244320,
+        "durationMs": 1890
+      },
+      {
+        "text": "informe para poder consultar existencias físicas y compararlas con las contables",
+        "startMs": 246210,
+        "durationMs": 4680
+      },
+      {
+        "text": "función costo promedio elemento esta función determina el costo promedio",
+        "startMs": 256140,
+        "durationMs": 4559
+      },
+      {
+        "text": "ponderado de un elemento a una fecha determinada",
+        "startMs": 260699,
+        "durationMs": 4701
+      },
+      {
+        "text": "determinada los parámetros que pide esta función son",
+        "startMs": 265400,
+        "durationMs": 2510
+      },
+      {
+        "text": "bodega elemento de inventario fecha final empresa centro de costos productor",
+        "startMs": 267910,
+        "durationMs": 6280
+      },
+      {
+        "text": "y tipo de contabilización ya tenemos algunos parámetros cargados",
+        "startMs": 274190,
+        "durationMs": 5390
+      },
+      {
+        "text": "para esta función tenemos la bodega 1 el elemento de",
+        "startMs": 279580,
+        "durationMs": 4350
+      },
+      {
+        "text": "inventario impresora hp 11 02 y la fecha 30 de abril vamos a cambiar de bodega en",
+        "startMs": 283930,
+        "durationMs": 6900
+      },
+      {
+        "text": "este caso podemos ver que este producto para esta bodega no tiene costo vámonos",
+        "startMs": 290830,
+        "durationMs": 6329
+      },
+      {
+        "text": "para la bodega 2 y vemos que este producto en la bodega 2 al 30 de abril",
+        "startMs": 297159,
+        "durationMs": 4681
+      },
+      {
+        "text": "tiene un costo de 105 mil pesos si cambiamos nuevamente para la bodega 3",
+        "startMs": 301840,
+        "durationMs": 6500
+      },
+      {
+        "text": "vemos que en la bodega 3 tiene un costo de 115 mil pesos recordemos que con está",
+        "startMs": 308340,
+        "durationMs": 6310
+      },
+      {
+        "text": "pyme maneja costo promedio ponderado por cada bodega",
+        "startMs": 314650,
+        "durationMs": 4629
+      },
+      {
+        "text": "informe completo de inventarios con las funciones que vimos anteriormente vamos",
+        "startMs": 319279,
+        "durationMs": 4951
+      },
+      {
+        "text": "a armar un informe de inventarios que nos muestre las existencias de los",
+        "startMs": 324230,
+        "durationMs": 3269
+      },
+      {
+        "text": "productos y su costo promedio ponderado con las funciones cantidad de",
+        "startMs": 327499,
+        "durationMs": 5060
+      },
+      {
+        "text": "existencias cantidad de existencias físico y costo promedio elemento hemos",
+        "startMs": 332559,
+        "durationMs": 4530
+      },
+      {
+        "text": "armado este informe en el cual tenemos un listado de elementos de inventario",
+        "startMs": 337089,
+        "durationMs": 4231
+      },
+      {
+        "text": "donde determinamos cuál es su cantidad contable su costo unitario su costo",
+        "startMs": 341320,
+        "durationMs": 5579
+      },
+      {
+        "text": "total y sus unidades físicas a una fecha determinada cada una de las funciones",
+        "startMs": 346899,
+        "durationMs": 5280
+      },
+      {
+        "text": "como en este caso la de costo promedio ponderado está haciendo referencia a los",
+        "startMs": 352179,
+        "durationMs": 5040
+      },
+      {
+        "text": "campos que determinamos en la parte superior es más sencillo tener estos",
+        "startMs": 357219,
+        "durationMs": 4111
+      },
+      {
+        "text": "campos separados de la función la cantidad contable la estamos consultando",
+        "startMs": 361330,
+        "durationMs": 5009
+      },
+      {
+        "text": "con la función cantidad de existencias y las unidades físicas las estamos",
+        "startMs": 250890,
+        "durationMs": 121000
+      },
+      {
+        "text": "consultando con la función cantidad de existencias físicos",
+        "startMs": 371890,
+        "durationMs": 4470
+      },
+      {
+        "text": "para el 31 de marzo de 2020 tenemos 35 unidades contables 35 unidades físicas y",
+        "startMs": 376360,
+        "durationMs": 6900
+      },
+      {
+        "text": "un costo para cada una si cambiamos la fecha",
+        "startMs": 383260,
+        "durationMs": 5170
+      },
+      {
+        "text": "fecha por ejemplo al 30 de abril",
+        "startMs": 388430,
+        "durationMs": 4900
+      },
+      {
+        "text": "vemos que las cantidades cambian para el 30 de abril hay 18 unidades contables y",
+        "startMs": 393340,
+        "durationMs": 5960
+      },
+      {
+        "text": "25 unidades físicas estas funciones son muy útiles para crear informes de",
+        "startMs": 399300,
+        "durationMs": 5460
+      },
+      {
+        "text": "inventarios y que podamos hacer una consulta en pocos minutos pudiendo",
+        "startMs": 404760,
+        "durationMs": 8700
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\nfunciones de inventarios a continuación vamos a realizar algunas de las\nfunciones más usadas para consultar información de los inventarios como las\nexistencias de los productos y su costo función cantidad de existencias esta\nfunción determina la cantidad de existencias disponibles de un elemento\nde inventario a una fecha determinada para esta función debemos tener en\ncuenta que su cálculo se basa en el sistema de inventario de cuenta pyme\ntenemos la sintaxis de la función que solicita datos como bodega elemento de\ninventario fecha final empresa y centro de costos productor como podemos ver\nesta función solo tiene fecha final ya que las existencias se consultan como\nsaldos históricos inicialmente el valor que trae la función se refiere a las\nexistencias de productos desde el inicio de los tiempos hasta la fecha de trabajo\nes decir 31 de marzo de 2020 teniendo en cuenta todas las bodegas con las que\ncontamos en nuestro inventario vamos a indicar algunos parámetros importantes\ncomo el elemento de inventario nos ubicamos en la celda abrimos el\nseleccionador y vamos a hacer la consulta con el producto impresora hp\nvemos que inmediatamente el dato cambia también vamos a indicar una fecha final\nen este caso será el 30 de abril de 2020\nla cantidad cambia nuevamente vemos que el saldo total de este producto es de 12\nunidades esto para todas las bodegas pero necesitamos conocer el dato\nespecífico de una bodega en este caso la bodega 2 que es la bodega principal\nindica mos el código de la bodega 2 vemos que inmediatamente el saldo cambia\na cuatro unidades vamos a verificar otra bodega que es la bodega 3\nel valor cambia nuevamente esta función es de gran ayuda para crear\ninformes de consulta de saldos de inventario a fechas determinadas y\ncuando se manejan diferentes bodegas función cantidad de existencias físicos\nesta función determina la cantidad de existencias físicas de un elemento de\nesta función es muy parecida a la anterior en su sintaxis excepto por el\nparámetro y centro de costos productor que se usa en la anterior en conta pymes\nse manejan tres tipos de inventario el inventario contable el inventario físico\ny el inventario disponible el contable se ve afectado por todas las operaciones\ndel módulo de inventarios como compras ventas planillas de consumo ajustes de\ninventario entre otras y el físico se afecta por las mismas operaciones y\nadicionalmente por las revisiones al cliente y las recepciones de materiales\nesta función cantidad de existencias físicos se encarga de consultar el\ninventario que se afecta por las operaciones de inventario más las\noperaciones de recepciones y remisiones que son operaciones de inventarios plus\nen este caso ya tenemos algunos datos para la función podemos ver si nos\npasamos a la hoja anterior que el resultado es el mismo tenemos el mismo\nproducto la misma bodega y la misma fecha\nen este caso vamos a hacer un cambio vamos a cambiar la fecha de trabajo y\npara el inventario físico las unidades cambian para la bodega 3 se tienen 10\nunidades de este producto nos vamos a volver a la función cantidad de\nexistencias y vamos a cambiar la fecha\nvemos que las existencias como tal que son las existencias contables para la\nbodega 3 hay ocho unidades pero en existencias físicas tenemos diez\nunidades con esta función podemos armar un\ninforme para poder consultar existencias físicas y compararlas con las contables\nfunción costo promedio elemento esta función determina el costo promedio\nponderado de un elemento a una fecha determinada\ndeterminada los parámetros que pide esta función son\nbodega elemento de inventario fecha final empresa centro de costos productor\ny tipo de contabilización ya tenemos algunos parámetros cargados\npara esta función tenemos la bodega 1 el elemento de\ninventario impresora hp 11 02 y la fecha 30 de abril vamos a cambiar de bodega en\neste caso podemos ver que este producto para esta bodega no tiene costo vámonos\npara la bodega 2 y vemos que este producto en la bodega 2 al 30 de abril\ntiene un costo de 105 mil pesos si cambiamos nuevamente para la bodega 3\nvemos que en la bodega 3 tiene un costo de 115 mil pesos recordemos que con está\npyme maneja costo promedio ponderado por cada bodega\ninforme completo de inventarios con las funciones que vimos anteriormente vamos\na armar un informe de inventarios que nos muestre las existencias de los\nproductos y su costo promedio ponderado con las funciones cantidad de\nexistencias cantidad de existencias físico y costo promedio elemento hemos\narmado este informe en el cual tenemos un listado de elementos de inventario\ndonde determinamos cuál es su cantidad contable su costo unitario su costo\ntotal y sus unidades físicas a una fecha determinada cada una de las funciones\ncomo en este caso la de costo promedio ponderado está haciendo referencia a los\ncampos que determinamos en la parte superior es más sencillo tener estos\ncampos separados de la función la cantidad contable la estamos consultando\ncon la función cantidad de existencias y las unidades físicas las estamos\nconsultando con la función cantidad de existencias físicos\npara el 31 de marzo de 2020 tenemos 35 unidades contables 35 unidades físicas y\nun costo para cada una si cambiamos la fecha\nfecha por ejemplo al 30 de abril\nvemos que las cantidades cambian para el 30 de abril hay 18 unidades contables y\n25 unidades físicas estas funciones son muy útiles para crear informes de\ninventarios y que podamos hacer una consulta en pocos minutos pudiendo"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 184.719,
+    "asr": 44100,
+    "filesizeApprox": 9587885,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/xlaAO6nBHLo.md",
+    "json": "videos/2020/xlaAO6nBHLo.json",
+    "infoJson": "videos/2020/xlaAO6nBHLo.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "xlaAO6nBHLo",
+        "youtubeId": "xlaAO6nBHLo",
+        "titulo": "Funciones de inventarios",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
-import { runConversationTurnJson } from "../lib/patyia/conversation/runTurn.js";
-import { appendRating, loadConversation } from "../lib/patyia/conversation/store.js";
-import type { MensajePostBody } from "../lib/patyia/conversation/types.js";
+import { runConversationTurnJson } from "../lib/langlab/conversation/runTurn.js";
+import { appendRating, loadConversation } from "../lib/langlab/conversation/store.js";
+import type { MensajePostBody } from "../lib/langlab/conversation/types.js";
 
 async function postMensajeHandler(
 	request: HttpRequest,

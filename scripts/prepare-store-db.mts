@@ -6,7 +6,7 @@
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
 import { pingOpsDb } from "../src/lib/db/pg.js";
-import { ensureOpsSchema } from "../src/lib/patyia/db/ensureSchema.js";
+import { ensureOpsSchema } from "../src/lib/langlab/db/ensureSchema.js";
 import { bootstrapCatalogFromDefinitions } from "../src/lib/ispgen/catalog-bootstrap.js";
 import { registerControllersFromCatalog } from "../src/lib/ispgen/catalog-load.js";
 import { seedAllCatalogData } from "../src/lib/ispgen/seed-catalog-data.js";

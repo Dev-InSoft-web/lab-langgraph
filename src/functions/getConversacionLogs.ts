@@ -1,6 +1,6 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
-import { getConversationLogsResponse } from "../lib/patyia/conversation/logsController.js";
+import { getConversationLogsResponse } from "../lib/langlab/conversation/logsController.js";
 
 async function handler(request: HttpRequest, context: InvocationContext): Promise<HttpResponseInit> {
 	const origin = request.headers.get("origin");

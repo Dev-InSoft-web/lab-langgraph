@@ -8,7 +8,7 @@
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { pingPatyDb, getPatyPgPool } from "../src/lib/db/pg.js";
 import { ensureLabAuthSchema } from "../src/lib/auth/ensure-auth-schema.js";
 import { upsertLabUser } from "../src/lib/auth/users.js";
@@ -16,7 +16,7 @@ import { upsertLabUser } from "../src/lib/auth/users.js";
 preloadLabSecrets();
 
 try {
-	getPatyDatabaseUrl();
+	getLanglabDatabaseUrl();
 } catch (e) {
 	console.error("FALLO:", e instanceof Error ? e.message : e);
 	process.exit(1);

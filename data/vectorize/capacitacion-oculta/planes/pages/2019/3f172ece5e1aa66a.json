@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "docId": "3f172ece5e1aa66a",
+  "url": "https://www.contapyme.com/memorias/2019/septiembre/guia-facturacion-electronica/sesion1.pdf",
+  "title": "sesion1",
+  "ext": "pdf",
+  "year": "2019",
+  "source": "CAPAC_ATRIBUTOS_PLANES",
+  "fetchedAt": "2026-06-05T18:01:18.335Z",
+  "content": {
+    "markdown": "# sesion1\n\n**URL:** https://www.contapyme.com/memorias/2019/septiembre/guia-facturacion-electronica/sesion1.pdf\n\n**Tipo:** documento (PDF)\n\n**pageId:** 3f172ece5e1aa66a\n\n## Página 1\n\nFacturación Electrónica - Validación Previa -\n\n## Página 2\n\nFacturación electrónica – validación previa Factura XML. Incorpora CUFE – QR a Rep. Gráfica. Datos factura ERP Plantilla de Rep. Gráfica Proveedor Tecnológico Cliente (Adquiriente) Factura XML / Rep. Gráfica Factura XML Empresa (Facturador electrónico )\n\n## Página 3\n\nDiagrama facturación electrónica Factura XML. Incorpora CUFE – QR a Rep. Gráfica. Datos factura ERP Plantilla de Rep. Gráfica Proveedor Tecnológico Cliente (Adquiriente) Factura XML / Rep. Gráfica Factura XML Empresa (Facturador electrónico )\n\n## Página 4\n\nAnalizando la factura electrónica ¿Qué es XML? Es una especificación técnica que permite definir etiquetas estandarizadas para describir, organizar y almacenar datos. Una etiqueta es una marca hecha en el documento, que indica que esa parte tiene una información puntual.\n\n## Página 5\n\nAnalizando la factura electrónica Cumple con los parámetros de la DIAN Contiene todos los datos de la factura Firma electrónica (autenticidad) Código Único Factura Electrónica - CUFE XML\n\n## Página 6\n\nAnalizando la factura electrónica Firma electrónica (autenticidad) • Identificar al firmante de manera inequívoca. • Asegurar la integridad del documento firmado. Para firmar un documento se requiere un certificado digital. Certificado digital: archivo informático que identifica: o ECD (Entidad de Certificación Digital) que lo expide . (Entidad autorizada por la ONAC). o Suscriptor. XML\n\n## Página 7\n\nAnalizando la factura electrónica CUFE (Código Único de Factura Electrónica) es un texto encriptado, que contiene los datos más relevantes de la factura electrónica. Num . 6 Art. 2 Decreto 2242 de 2015.  Mecanismo para validar la integridad y autenticidad de la factura electrónica.  El CUFE permite identificar inequívocamente una factura electrónica en el territorio nacional. Código Único Factura Electrónica - CUFE Contiene información: • Número factura. • Fecha factura. • Valor factura sin IVA. • Valor IVA. • Valor otros impuestos. • Nit facturador. • Tipo adquiriente. • Id del adquiriente. • Clave técnica (Código que entrega la DIAN cuando se solicita el rango de numeración para factura electrónica).\n\n## Página 8\n\nAnalizando la factura electrónica Representación gráfica Datos completos de la factura Cumple con requerimientos DIAN CUFE QR\n\n## Página 9\n\nAnalizando la factura electrónica QR El QR es un código de barras bidimensional cuadrado que almacena datos codificados. Debe estar incluido en todas las páginas de la representación gráfica de una factura electrónica. Contiene información: • Número factura. • Fecha factura. • Nit facturador. • Id del adquiriente. • Valor factura. • Valor IVA. • Valor otros impuestos. • CUFE .\n\n## Página 10\n\nRequisitos de la factura electrónica  Estar denominada expresamente como factura electrónica de venta.  Apellidos y nombre o razón social y NIT de quien presta el servicio o vende los bienes.  Apellidos y nombre o razón social y NIT del adquiriente de los bienes y servicios.  Numeración consecutiva, incluyendo número de autorización, rango autorizado, vigencia autorizada DIAN.  Fecha y hora de generación.  Fecha y hora de expedición la cual corresponde a la validación.  Cantidad y descripción de los bienes o servicios prestados.  Valor total de la operación.  Forma de pago, indicando si es de contado o crédito (indicar el plazo).  Medio de pago (efectivo, tarjeta crédito, tarjeta débito o transferencia u otro).  Indicar la calidad de retenedor del IVA.  Discriminar el IVA y la tarifa correspondiente.  Discriminar el impuesto al consumo y la tarifa correspondiente.  Incluir la firma digital o electrónica del facturador electrónico.  Incluir el CUFE.  Incluir el código QR, cuando se trate de la representación gráfica. Res. 000030 Abril 2019, Art. 2.\n\n## Página 11\n\nAnalizando la factura electrónica Representación gráfica XML\n\n## Página 12\n\nCalendarios de inicio como facturador electrónico\n\n## Página 13\n\nCalendario de implementación de factura electrónica de venta Resolución 000020 del 26 de marzo 2019 Para el inicio de facturación electrónica de venta con “ Validación Previa ”, se deben tener presente las siguientes resoluciones de la DIAN: Resolución 000030 del 29 de abril 2019 Resolución 000048 del 01 de agosto 2019 Resolución 000058 del 13 de septiembre 2019\n\n## Página 14\n\n¿Dónde consulto mi código CIIU?\n\n## Página 15\n\nPasos para el registro como facturador electrónico con validación previa ante la DIAN 1 2 3 4\n\n## Página 16\n\nEtapas para implementar la facturación electrónica Pruebas internas Pruebas ante la DIAN para cumplir el requerimiento de aprobación como facturador electrónico. Envío de documentos electrónicos a la DIAN con datos reales o del día a día empresarial. Pruebas Habilitación Producción Configuración de datos en el sistema de información empresarial, para análisis del nuevo modelo de facturación electrónica.\n\n## Página 17\n\nPruebas “Habilitación” Procedimiento establecido por la DIAN, a través del cual los sujetos seleccionados para facturar electrónicamente o que optaron voluntariamente por ello, realizan las pruebas tecnológicas tendientes a demostrar que el software que han dispuesto para facturar electrónicamente, cumple con las condiciones técnicas de expedición (generación - entrega) de la factura electrónica . Durante las pruebas de habilitación el interesado enviará facturas, notas débito y crédito electrónicas al servicio web desarrollado por la DIAN, con información ficticia , con el fin de comprobar que se ajustan a las condiciones técnicas fijadas por la DIAN .\n\n## Página 18\n\nIngresar en el portal de la DIAN: https://www.dian.gov.co/ y dar clic en la opción Habilitación. Registro en el portal de la DIAN - Habilitación\n\n## Página 19\n\nIngreso a la plataforma de registro para facturación electrónica con validación previa . Registro en el portal de la DIAN - Habilitación Se puede ingresar como “Empresa” o como “Persona”, y solicita el número de identificación del contribuyente.\n\n## Página 20\n\nNotificación de envío de correo al representante legal de la empresa o correo de la persona natural (correo registrado en el RUT ). Registro en el portal de la DIAN - Habilitación\n\n## Página 21\n\nConfirmación y recibo de correo con enlace de acceso autorizado . (Vigencia de 1 hora). Registro en el portal de la DIAN - Habilitación\n\n## Página 22\n\nIngreso al registro como “Facturador” electrónico bajo el esquema de validación previa. Registro en el portal de la DIAN - Habilitación\n\n## Página 23\n\nVerificación de datos para el registro como facturador electrónico con validación previa. Registro en el portal de la DIAN - Habilitación\n\n## Página 24\n\nIngresar de nuevo al portal por “Habilitación” y configurar “Modos de operación”, para registrar al proveedor tecnológico con el cual va a enviar los documentos electrónicos Configuración modos de operación - Habilitación\n\n## Página 25\n\nSelección y asociación del proveedor tecnológico Configuración modos de operación - Habilitación\n\n## Página 26\n\nVerificar la correcta asociación del proveedor tecnológico Configuración modos de operación - Habilitación\n\n## Página 27\n\nConsultar rangos de pruebas para generación y envío de documentos electrónicos. Detalle de pruebas - Habilitación\n\n## Página 28\n\nConsultar el detalle de pruebas de “Habilitación” en la opción de “Acciones”, el cual le ha sido asignado automáticamente. Detalle de pruebas - Habilitación\n\n## Página 29\n\nVerificación del proceso de pruebas cuando se estén realizando los envíos. Detalle inicial de pruebas - Habilitación\n\n## Página 30\n\nProceso de pruebas superado con éxito. Detalle final de pruebas - Habilitación\n\n## Página 31\n\nDefinición de fecha de salida a producción. Final pruebas - Habilitación\n\n## Página 32\n\nActualización del RUT. Responsabilidad 52 (Facturador Electrónico con Validación Previa ) Final pruebas - Habilitación\n\n## Página 33\n\nUna vez superadas las pruebas de “Habilitación” se debe solicitar la numeración para facturación electrónica. Modo Producción - Solicitud de numeración\n\n## Página 34\n\nSolicitud de numeración\n\n## Página 35\n\nIngrese a la autorización de rangos. Solicitud de numeración\n\n## Página 36\n\nRegistre el prefijo y rango para la factura electrónica. Solicitud de numeración\n\n## Página 37\n\nVerifique el prefijo y el rango de numeración. Solicitud de numeración\n\n## Página 38\n\nGenere el formato 1302 “Borrador”. Solicitud de numeración\n\n## Página 39\n\nConsulte el formato 1302 “Borrador”. Solicitud de numeración\n\n## Página 40\n\nFirme el formato 1302 en estado “Definitivo”. Solicitud de numeración\n\n## Página 41\n\nGenere el formato 1876. El trámite no finaliza hasta que se firma el formato 1876 “Autorización de Numeración de Facturación”. Solicitud de numeración\n\n## Página 42\n\nDescargue el formato 1876 . Solicitud de numeración\n\n## Página 43\n\nAsociación prefijo al proveedor tecnológico Ingresar en el portal de la DIAN: https://www.dian.gov.co/ y dar clic en la opción Facturando Electrónicamente.\n\n## Página 44\n\nAsocie el prefijo al proveedor tecnológico. Asociación prefijo al proveedor tecnológico\n\n## Página 45\n\nPaso a paso para la facturación electrónica en ContaPyme® 1 2 3 4\n\n## Página 46\n\nPasos para implementar la facturación electrónica Configuración ContaPyme® 1 Adquiera el paquete de documentos electrónicos de ContaPyme® y el certificado digital. 2 Active en la empresa el manejo de la F.E. 3 Personalice la plantilla de la representación gráfica. (Opcional ). 4 Configure los documentos de soporte (fecha de inicio y resolución de F.E .). Modos: Prueba – Habilitación – Producción. 5 Configure en los terceros “Clientes” el correo. ¡Listo! ¡Comience a emitir facturas!\n\n## Página 48\n\nwww.contapyme.com +57 (6) 8850800 Opc. 1 313 6506677 313 6506677 comercial@contapyme.com ContaPyme @ContapymeSoftwareContable\n",
+    "plainText": "Página 1 Facturación Electrónica - Validación Previa - Página 2 Facturación electrónica – validación previa Factura XML. Incorpora CUFE – QR a Rep. Gráfica. Datos factura ERP Plantilla de Rep. Gráfica Proveedor Tecnológico Cliente (Adquiriente) Factura XML / Rep. Gráfica Factura XML Empresa (Facturador electrónico ) Página 3 Diagrama facturación electrónica Factura XML. Incorpora CUFE – QR a Rep. Gráfica. Datos factura ERP Plantilla de Rep. Gráfica Proveedor Tecnológico Cliente (Adquiriente) Factura XML / Rep. Gráfica Factura XML Empresa (Facturador electrónico ) Página 4 Analizando la factura electrónica ¿Qué es XML? Es una especificación técnica que permite definir etiquetas estandarizadas para describir, organizar y almacenar datos. Una etiqueta es una marca hecha en el documento, que indica que esa parte tiene una información puntual. Página 5 Analizando la factura electrónica Cumple con los parámetros de la DIAN Contiene todos los datos de la factura Firma electrónica (autenticidad) Código Único Factura Electrónica - CUFE XML Página 6 Analizando la factura electrónica Firma electrónica (autenticidad) • Identificar al firmante de manera inequívoca. • Asegurar la integridad del documento firmado. Para firmar un documento se requiere un certificado digital. Certificado digital: archivo informático que identifica: o ECD (Entidad de Certificación Digital) que lo expide . (Entidad autorizada por la ONAC). o Suscriptor. XML Página 7 Analizando la factura electrónica CUFE (Código Único de Factura Electrónica) es un texto encriptado, que contiene los datos más relevantes de la factura electrónica. Num . 6 Art. 2 Decreto 2242 de 2015.  Mecanismo para validar la integridad y autenticidad de la factura electrónica.  El CUFE permite identificar inequívocamente una factura electrónica en el territorio nacional. Código Único Factura Electrónica - CUFE Contiene información: • Número factura. • Fecha factura. • Valor factura sin IVA. • Valor IVA. • Valor otros impuestos. • Nit facturador. • Tipo adquiriente. • Id del adquiriente. • Clave técnica (Código que entrega la DIAN cuando se solicita el rango de numeración para factura electrónica). Página 8 Analizando la factura electrónica Representación gráfica Datos completos de la factura Cumple con requerimientos DIAN CUFE QR Página 9 Analizando la factura electrónica QR El QR es un código de barras bidimensional cuadrado que almacena datos codificados. Debe estar incluido en todas las páginas de la representación gráfica de una factura electrónica. Contiene información: • Número factura. • Fecha factura. • Nit facturador. • Id del adquiriente. • Valor factura. • Valor IVA. • Valor otros impuestos. • CUFE . Página 10 Requisitos de la factura electrónica  Estar denominada expresamente como factura electrónica de venta.  Apellidos y nombre o razón social y NIT de quien presta el servicio o vende los bienes.  Apellidos y nombre o razón social y NIT del adquiriente de los bienes y servicios.  Numeración consecutiva, incluyendo número de autorización, rango autorizado, vigencia autorizada DIAN.  Fecha y hora de generación.  Fecha y hora de expedición la cual corresponde a la validación.  Cantidad y descripción de los bienes o servicios prestados.  Valor total de la operación.  Forma de pago, indicando si es de contado o crédito (indicar el plazo).  Medio de pago (efectivo, tarjeta crédito, tarjeta débito o transferencia u otro).  Indicar la calidad de retenedor del IVA.  Discriminar el IVA y la tarifa correspondiente.  Discriminar el impuesto al consumo y la tarifa correspondiente.  Incluir la firma digital o electrónica del facturador electrónico.  Incluir el CUFE.  Incluir el código QR, cuando se trate de la representación gráfica. Res. 000030 Abril 2019, Art. 2. Página 11 Analizando la factura electrónica Representación gráfica XML Página 12 Calendarios de inicio como facturador electrónico Página 13 Calendario de implementación de factura electrónica de venta Resolución 000020 del 26 de marzo 2019 Para el inicio de facturación electrónica de venta con “ Validación Previa ”, se deben tener presente las siguientes resoluciones de la DIAN: Resolución 000030 del 29 de abril 2019 Resolución 000048 del 01 de agosto 2019 Resolución 000058 del 13 de septiembre 2019 Página 14 ¿Dónde consulto mi código CIIU? Página 15 Pasos para el registro como facturador electrónico con validación previa ante la DIAN 1 2 3 4 Página 16 Etapas para implementar la facturación electrónica Pruebas internas Pruebas ante la DIAN para cumplir el requerimiento de aprobación como facturador electrónico. Envío de documentos electrónicos a la DIAN con datos reales o del día a día empresarial. Pruebas Habilitación Producción Configuración de datos en el sistema de información empresarial, para análisis del nuevo modelo de facturación electrónica. Página 17 Pruebas “Habilitación” Procedimiento establecido por la DIAN, a través del cual los sujetos seleccionados para facturar electrónicamente o que optaron voluntariamente por ello, realizan las pruebas tecnológicas tendientes a demostrar que el software que han dispuesto para facturar electrónicamente, cumple con las condiciones técnicas de expedición (generación - entrega) de la factura electrónica . Durante las pruebas de habilitación el interesado enviará facturas, notas débito y crédito electrónicas al servicio web desarrollado por la DIAN, con información ficticia , con el fin de comprobar que se ajustan a las condiciones técnicas fijadas por la DIAN . Página 18 Ingresar en el portal de la DIAN: https://www.dian.gov.co/ y dar clic en la opción Habilitación. Registro en el portal de la DIAN - Habilitación Página 19 Ingreso a la plataforma de registro para facturación electrónica con validación previa . Registro en el portal de la DIAN - Habilitación Se puede ingresar como “Empresa” o como “Persona”, y solicita el número de identificación del contribuyente. Página 20 Notificación de envío de correo al representante legal de la empresa o correo de la persona natural (correo registrado en el RUT ). Registro en el portal de la DIAN - Habilitación Página 21 Confirmación y recibo de correo con enlace de acceso autorizado . (Vigencia de 1 hora). Registro en el portal de la DIAN - Habilitación Página 22 Ingreso al registro como “Facturador” electrónico bajo el esquema de validación previa. Registro en el portal de la DIAN - Habilitación Página 23 Verificación de datos para el registro como facturador electrónico con validación previa. Registro en el portal de la DIAN - Habilitación Página 24 Ingresar de nuevo al portal por “Habilitación” y configurar “Modos de operación”, para registrar al proveedor tecnológico con el cual va a enviar los documentos electrónicos Configuración modos de operación - Habilitación Página 25 Selección y asociación del proveedor tecnológico Configuración modos de operación - Habilitación Página 26 Verificar la correcta asociación del proveedor tecnológico Configuración modos de operación - Habilitación Página 27 Consultar rangos de pruebas para generación y envío de documentos electrónicos. Detalle de pruebas - Habilitación Página 28 Consultar el detalle de pruebas de “Habilitación” en la opción de “Acciones”, el cual le ha sido asignado automáticamente. Detalle de pruebas - Habilitación Página 29 Verificación del proceso de pruebas cuando se estén realizando los envíos. Detalle inicial de pruebas - Habilitación Página 30 Proceso de pruebas superado con éxito. Detalle final de pruebas - Habilitación Página 31 Definición de fecha de salida a producción. Final pruebas - Habilitación Página 32 Actualización del RUT. Responsabilidad 52 (Facturador Electrónico con Validación Previa ) Final pruebas - Habilitación Página 33 Una vez superadas las pruebas de “Habilitación” se debe solicitar la numeración para facturación electrónica. Modo Producción - Solicitud de numeración Página 34 Solicitud de numeración Página 35 Ingrese a la autorización de rangos. Solicitud de numeración Página 36 Registre el prefijo y rango para la factura electrónica. Solicitud de numeración Página 37 Verifique el prefijo y el rango de numeración. Solicitud de numeración Página 38 Genere el formato 1302 “Borrador”. Solicitud de numeración Página 39 Consulte el formato 1302 “Borrador”. Solicitud de numeración Página 40 Firme el formato 1302 en estado “Definitivo”. Solicitud de numeración Página 41 Genere el formato 1876. El trámite no finaliza hasta que se firma el formato 1876 “Autorización de Numeración de Facturación”. Solicitud de numeración Página 42 Descargue el formato 1876 . Solicitud de numeración Página 43 Asociación prefijo al proveedor tecnológico Ingresar en el portal de la DIAN: https://www.dian.gov.co/ y dar clic en la opción Facturando Electrónicamente. Página 44 Asocie el prefijo al proveedor tecnológico. Asociación prefijo al proveedor tecnológico Página 45 Paso a paso para la facturación electrónica en ContaPyme® 1 2 3 4 Página 46 Pasos para implementar la facturación electrónica Configuración ContaPyme® 1 Adquiera el paquete de documentos electrónicos de ContaPyme® y el certificado digital. 2 Active en la empresa el manejo de la F.E. 3 Personalice la plantilla de la representación gráfica. (Opcional ). 4 Configure los documentos de soporte (fecha de inicio y resolución de F.E .). Modos: Prueba – Habilitación – Producción. 5 Configure en los terceros “Clientes” el correo. ¡Listo! ¡Comience a emitir facturas! Página 48 www.contapyme.com +57 (6) 8850800 Opc. 1 313 6506677 313 6506677 comercial@contapyme.com ContaPyme @ContapymeSoftwareContable"
+  },
+  "sections": [
+    {
+      "heading": "Página 1",
+      "text": "Facturación Electrónica - Validación Previa -"
+    },
+    {
+      "heading": "Página 2",
+      "text": "Facturación electrónica – validación previa Factura XML. Incorpora CUFE – QR a Rep. Gráfica. Datos factura ERP Plantilla de Rep. Gráfica Proveedor Tecnológico Cliente (Adquiriente) Factura XML / Rep. Gráfica Factura XML Empresa (Facturador electrónico )"
+    },
+    {
+      "heading": "Página 3",
+      "text": "Diagrama facturación electrónica Factura XML. Incorpora CUFE – QR a Rep. Gráfica. Datos factura ERP Plantilla de Rep. Gráfica Proveedor Tecnológico Cliente (Adquiriente) Factura XML / Rep. Gráfica Factura XML Empresa (Facturador electrónico )"
+    },
+    {
+      "heading": "Página 4",
+      "text": "Analizando la factura electrónica ¿Qué es XML? Es una especificación técnica que permite definir etiquetas estandarizadas para describir, organizar y almacenar datos. Una etiqueta es una marca hecha en el documento, que indica que esa parte tiene una información puntual."
+    },
+    {
+      "heading": "Página 5",
+      "text": "Analizando la factura electrónica Cumple con los parámetros de la DIAN Contiene todos los datos de la factura Firma electrónica (autenticidad) Código Único Factura Electrónica - CUFE XML"
+    },
+    {
+      "heading": "Página 6",
+      "text": "Analizando la factura electrónica Firma electrónica (autenticidad) • Identificar al firmante de manera inequívoca. • Asegurar la integridad del documento firmado. Para firmar un documento se requiere un certificado digital. Certificado digital: archivo informático que identifica: o ECD (Entidad de Certificación Digital) que lo expide . (Entidad autorizada por la ONAC). o Suscriptor. XML"
+    },
+    {
+      "heading": "Página 7",
+      "text": "Analizando la factura electrónica CUFE (Código Único de Factura Electrónica) es un texto encriptado, que contiene los datos más relevantes de la factura electrónica. Num . 6 Art. 2 Decreto 2242 de 2015.  Mecanismo para validar la integridad y autenticidad de la factura electrónica.  El CUFE permite identificar inequívocamente una factura electrónica en el territorio nacional. Código Único Factura Electrónica - CUFE Contiene información: • Número factura. • Fecha factura. • Valor factura sin IVA. • Valor IVA. • Valor otros impuestos. • Nit facturador. • Tipo adquiriente. • Id del adquiriente. • Clave técnica (Código que entrega la DIAN cuando se solicita el rango de numeración para factura electrónica)."
+    },
+    {
+      "heading": "Página 8",
+      "text": "Analizando la factura electrónica Representación gráfica Datos completos de la factura Cumple con requerimientos DIAN CUFE QR"
+    },
+    {
+      "heading": "Página 9",
+      "text": "Analizando la factura electrónica QR El QR es un código de barras bidimensional cuadrado que almacena datos codificados. Debe estar incluido en todas las páginas de la representación gráfica de una factura electrónica. Contiene información: • Número factura. • Fecha factura. • Nit facturador. • Id del adquiriente. • Valor factura. • Valor IVA. • Valor otros impuestos. • CUFE ."
+    },
+    {
+      "heading": "Página 10",
+      "text": "Requisitos de la factura electrónica  Estar denominada expresamente como factura electrónica de venta.  Apellidos y nombre o razón social y NIT de quien presta el servicio o vende los bienes.  Apellidos y nombre o razón social y NIT del adquiriente de los bienes y servicios.  Numeración consecutiva, incluyendo número de autorización, rango autorizado, vigencia autorizada DIAN.  Fecha y hora de generación.  Fecha y hora de expedición la cual corresponde a la validación.  Cantidad y descripción de los bienes o servicios prestados.  Valor total de la operación.  Forma de pago, indicando si es de contado o crédito (indicar el plazo).  Medio de pago (efectivo, tarjeta crédito, tarjeta débito o transferencia u otro).  Indicar la calidad de retenedor del IVA.  Discriminar el IVA y la tarifa correspondiente.  Discriminar el impuesto al consumo y la tarifa correspondiente.  Incluir la firma digital o electrónica del facturador electrónico.  Incluir el CUFE.  Incluir el código QR, cuando se trate de la representación gráfica. Res. 000030 Abril 2019, Art. 2."
+    },
+    {
+      "heading": "Página 11",
+      "text": "Analizando la factura electrónica Representación gráfica XML"
+    },
+    {
+      "heading": "Página 12",
+      "text": "Calendarios de inicio como facturador electrónico"
+    },
+    {
+      "heading": "Página 13",
+      "text": "Calendario de implementación de factura electrónica de venta Resolución 000020 del 26 de marzo 2019 Para el inicio de facturación electrónica de venta con “ Validación Previa ”, se deben tener presente las siguientes resoluciones de la DIAN: Resolución 000030 del 29 de abril 2019 Resolución 000048 del 01 de agosto 2019 Resolución 000058 del 13 de septiembre 2019"
+    },
+    {
+      "heading": "Página 14",
+      "text": "¿Dónde consulto mi código CIIU?"
+    },
+    {
+      "heading": "Página 15",
+      "text": "Pasos para el registro como facturador electrónico con validación previa ante la DIAN 1 2 3 4"
+    },
+    {
+      "heading": "Página 16",
+      "text": "Etapas para implementar la facturación electrónica Pruebas internas Pruebas ante la DIAN para cumplir el requerimiento de aprobación como facturador electrónico. Envío de documentos electrónicos a la DIAN con datos reales o del día a día empresarial. Pruebas Habilitación Producción Configuración de datos en el sistema de información empresarial, para análisis del nuevo modelo de facturación electrónica."
+    },
+    {
+      "heading": "Página 17",
+      "text": "Pruebas “Habilitación” Procedimiento establecido por la DIAN, a través del cual los sujetos seleccionados para facturar electrónicamente o que optaron voluntariamente por ello, realizan las pruebas tecnológicas tendientes a demostrar que el software que han dispuesto para facturar electrónicamente, cumple con las condiciones técnicas de expedición (generación - entrega) de la factura electrónica . Durante las pruebas de habilitación el interesado enviará facturas, notas débito y crédito electrónicas al servicio web desarrollado por la DIAN, con información ficticia , con el fin de comprobar que se ajustan a las condiciones técnicas fijadas por la DIAN ."
+    },
+    {
+      "heading": "Página 18",
+      "text": "Ingresar en el portal de la DIAN: https://www.dian.gov.co/ y dar clic en la opción Habilitación. Registro en el portal de la DIAN - Habilitación"
+    },
+    {
+      "heading": "Página 19",
+      "text": "Ingreso a la plataforma de registro para facturación electrónica con validación previa . Registro en el portal de la DIAN - Habilitación Se puede ingresar como “Empresa” o como “Persona”, y solicita el número de identificación del contribuyente."
+    },
+    {
+      "heading": "Página 20",
+      "text": "Notificación de envío de correo al representante legal de la empresa o correo de la persona natural (correo registrado en el RUT ). Registro en el portal de la DIAN - Habilitación"
+    },
+    {
+      "heading": "Página 21",
+      "text": "Confirmación y recibo de correo con enlace de acceso autorizado . (Vigencia de 1 hora). Registro en el portal de la DIAN - Habilitación"
+    },
+    {
+      "heading": "Página 22",
+      "text": "Ingreso al registro como “Facturador” electrónico bajo el esquema de validación previa. Registro en el portal de la DIAN - Habilitación"
+    },
+    {
+      "heading": "Página 23",
+      "text": "Verificación de datos para el registro como facturador electrónico con validación previa. Registro en el portal de la DIAN - Habilitación"
+    },
+    {
+      "heading": "Página 24",
+      "text": "Ingresar de nuevo al portal por “Habilitación” y configurar “Modos de operación”, para registrar al proveedor tecnológico con el cual va a enviar los documentos electrónicos Configuración modos de operación - Habilitación"
+    },
+    {
+      "heading": "Página 25",
+      "text": "Selección y asociación del proveedor tecnológico Configuración modos de operación - Habilitación"
+    },
+    {
+      "heading": "Página 26",
+      "text": "Verificar la correcta asociación del proveedor tecnológico Configuración modos de operación - Habilitación"
+    },
+    {
+      "heading": "Página 27",
+      "text": "Consultar rangos de pruebas para generación y envío de documentos electrónicos. Detalle de pruebas - Habilitación"
+    },
+    {
+      "heading": "Página 28",
+      "text": "Consultar el detalle de pruebas de “Habilitación” en la opción de “Acciones”, el cual le ha sido asignado automáticamente. Detalle de pruebas - Habilitación"
+    },
+    {
+      "heading": "Página 29",
+      "text": "Verificación del proceso de pruebas cuando se estén realizando los envíos. Detalle inicial de pruebas - Habilitación"
+    },
+    {
+      "heading": "Página 30",
+      "text": "Proceso de pruebas superado con éxito. Detalle final de pruebas - Habilitación"
+    },
+    {
+      "heading": "Página 31",
+      "text": "Definición de fecha de salida a producción. Final pruebas - Habilitación"
+    },
+    {
+      "heading": "Página 32",
+      "text": "Actualización del RUT. Responsabilidad 52 (Facturador Electrónico con Validación Previa ) Final pruebas - Habilitación"
+    },
+    {
+      "heading": "Página 33",
+      "text": "Una vez superadas las pruebas de “Habilitación” se debe solicitar la numeración para facturación electrónica. Modo Producción - Solicitud de numeración"
+    },
+    {
+      "heading": "Página 34",
+      "text": "Solicitud de numeración"
+    },
+    {
+      "heading": "Página 35",
+      "text": "Ingrese a la autorización de rangos. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 36",
+      "text": "Registre el prefijo y rango para la factura electrónica. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 37",
+      "text": "Verifique el prefijo y el rango de numeración. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 38",
+      "text": "Genere el formato 1302 “Borrador”. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 39",
+      "text": "Consulte el formato 1302 “Borrador”. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 40",
+      "text": "Firme el formato 1302 en estado “Definitivo”. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 41",
+      "text": "Genere el formato 1876. El trámite no finaliza hasta que se firma el formato 1876 “Autorización de Numeración de Facturación”. Solicitud de numeración"
+    },
+    {
+      "heading": "Página 42",
+      "text": "Descargue el formato 1876 . Solicitud de numeración"
+    },
+    {
+      "heading": "Página 43",
+      "text": "Asociación prefijo al proveedor tecnológico Ingresar en el portal de la DIAN: https://www.dian.gov.co/ y dar clic en la opción Facturando Electrónicamente."
+    },
+    {
+      "heading": "Página 44",
+      "text": "Asocie el prefijo al proveedor tecnológico. Asociación prefijo al proveedor tecnológico"
+    },
+    {
+      "heading": "Página 45",
+      "text": "Paso a paso para la facturación electrónica en ContaPyme® 1 2 3 4"
+    },
+    {
+      "heading": "Página 46",
+      "text": "Pasos para implementar la facturación electrónica Configuración ContaPyme® 1 Adquiera el paquete de documentos electrónicos de ContaPyme® y el certificado digital. 2 Active en la empresa el manejo de la F.E. 3 Personalice la plantilla de la representación gráfica. (Opcional ). 4 Configure los documentos de soporte (fecha de inicio y resolución de F.E .). Modos: Prueba – Habilitación – Producción. 5 Configure en los terceros “Clientes” el correo. ¡Listo! ¡Comience a emitir facturas!"
+    },
+    {
+      "heading": "Página 48",
+      "text": "www.contapyme.com +57 (6) 8850800 Opc. 1 313 6506677 313 6506677 comercial@contapyme.com ContaPyme @ContapymeSoftwareContable"
+    }
+  ],
+  "rawPath": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/capacitacion-oculta/planes/raw/2019/3f172ece5e1aa66a.pdf",
+  "images": []
+}

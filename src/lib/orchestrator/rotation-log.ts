@@ -1,7 +1,8 @@
 import { getPgPool } from "../db/pg.js";
+import { toPgUuidOrNull } from "../db/pg-uuid.js";
 import { Q_LAB_ORCHESTRATOR_ROTATION_LOG } from "../db/pg-identifiers.js";
 import { sqlCol } from "../db/pg-quote.js";
-import { ensurePatyiaSchema } from "../patyia/db/ensureSchema.js";
+import { ensureLanglabSchema } from "../langlab/db/ensureSchema.js";
 import type { LabCapability, LabProvider } from "./types.js";
 
 export type RotationLogEvent =
@@ -24,7 +25,7 @@ export async function logOrchestratorRotation(input: {
 	waitMs?: number;
 	meta?: Record<string, unknown>;
 }): Promise<void> {
-	await ensurePatyiaSchema();
+	await ensureLanglabSchema();
 	await getPgPool().query(
 		`INSERT INTO ${Q_LAB_ORCHESTRATOR_ROTATION_LOG}
 		 (${sqlCol("capability")}, ${sqlCol("provider")}, ${sqlCol("keylabel")}, ${sqlCol("ilease")}, ${sqlCol("iconversacion")}, ${sqlCol("iturnindex")}, ${sqlCol("event")}, ${sqlCol("waitms")}, ${sqlCol("meta")})
@@ -33,7 +34,7 @@ export async function logOrchestratorRotation(input: {
 			input.capability,
 			input.provider,
 			input.keyLabel,
-			input.leaseId ?? null,
+			toPgUuidOrNull(input.leaseId),
 			input.iconversacion ?? null,
 			input.turnIndex ?? null,
 			input.event,

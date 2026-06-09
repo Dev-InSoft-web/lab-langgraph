@@ -1,0 +1,827 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:17:31.913Z",
+  "videoId": "iCjR6m2X6No",
+  "videoUrl": "https://www.youtube.com/watch?v=iCjR6m2X6No",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "iCjR6m2X6No",
+    "title": "Instalacion monousuario   Software contable ContaPyme",
+    "fulltitle": "Instalacion monousuario   Software contable ContaPyme",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 463,
+    "duration_string": "7:43",
+    "upload_date": "20180713",
+    "timestamp": 1531511174,
+    "view_count": 66,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBH65N2GGusL37gZNy3mcQaLuTVIw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCvvR6Oy1ZpBnsUBM_KrImqURffmw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgtMzAehIW6Nhr48_b7rI-J1yFyg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDtAukOZ32f8pac-80XgSIeU1d5Iw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3ZOpeijyR3tgLhdDtWC7wmnO00g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6NkoNyNuobc2zR-GcXLzsVjdGTA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjL8OrGYmuLXawMLe_-__kNYKNyg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAChU9wK-_EAg7-AXT9aImlnDmpuw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/sddefault.jpg",
+        "preference": -5,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/iCjR6m2X6No/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/iCjR6m2X6No/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=iCjR6m2X6No",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2159827213822894,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20302375809935205,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20302375809935205,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 176.79,
+        "asr": 44100,
+        "filesize_approx": 10225688,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Instalacion monousuario   Software contable ContaPyme",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/iCjR6m2X6No/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/iCjR6m2X6No?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Instalacion monousuario   Software contable ContaPyme\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 81,
+    "transcriptChars": 5618,
+    "segments": [
+      {
+        "text": "instalación de contra pm modo un usuario en la instalación en modo mono usuario",
+        "startMs": 430,
+        "durationMs": 6860
+      },
+      {
+        "text": "se instala el sistema con está pyme el manejador de la base de datos file beer",
+        "startMs": 7290,
+        "durationMs": 5310
+      },
+      {
+        "text": "y las bases de datos todo en un mismo equipo implementa un tipo de cliente",
+        "startMs": 12600,
+        "durationMs": 5340
+      },
+      {
+        "text": "servidor a nivel local este tipo de instalación se utiliza",
+        "startMs": 17940,
+        "durationMs": 4440
+      },
+      {
+        "text": "cuando es requerida solo una estación de trabajo y el almacenamiento de los datos",
+        "startMs": 22380,
+        "durationMs": 9350
+      },
+      {
+        "text": "al realizar la instalación en usuario tenemos la posibilidad de",
+        "startMs": 31740,
+        "durationMs": 4460
+      },
+      {
+        "text": "conectarnos tanto al servidor un usuario que se instala por defecto como a un",
+        "startMs": 36200,
+        "durationMs": 5400
+      },
+      {
+        "text": "servidor de datos externos bien sea por medio de internet con la dirección ip o",
+        "startMs": 41600,
+        "durationMs": 5040
+      },
+      {
+        "text": "la url del servidor o por red de área local",
+        "startMs": 46640,
+        "durationMs": 4940
+      },
+      {
+        "text": "local en este vídeo vamos a ver paso a paso",
+        "startMs": 51580,
+        "durationMs": 2750
+      },
+      {
+        "text": "cómo se realiza el proceso de instalación de cuanta pyme en modo mono",
+        "startMs": 54330,
+        "durationMs": 4510
+      },
+      {
+        "text": "usuario tenemos el instalador llamado instalar contamine mono usuario versión",
+        "startMs": 58840,
+        "durationMs": 5459
+      },
+      {
+        "text": "4 punto xxi damos doble clic al icono del instalador",
+        "startMs": 64299,
+        "durationMs": 4471
+      },
+      {
+        "text": "y vemos como inmediatamente se abre una nueva ventana la cual nos irá indicando",
+        "startMs": 68770,
+        "durationMs": 5640
+      },
+      {
+        "text": "los pasos a seguir para la correcta instalación del sistema",
+        "startMs": 74410,
+        "durationMs": 4300
+      },
+      {
+        "text": "inicialmente se muestra una ventana de bienvenida la cual nos confirma que",
+        "startMs": 78710,
+        "durationMs": 4630
+      },
+      {
+        "text": "vamos a realizar la instalación de contar con usuario versión 4 esta",
+        "startMs": 83340,
+        "durationMs": 6240
+      },
+      {
+        "text": "instalación como lo indica el asistente nos permite trabajar localmente sin",
+        "startMs": 89580,
+        "durationMs": 5250
+      },
+      {
+        "text": "necesidad de un servidor de datos y adicional a esto nos permite conectarnos",
+        "startMs": 94830,
+        "durationMs": 4949
+      },
+      {
+        "text": "a otros servidores de datos de contacto damos clic en el botón siguiente",
+        "startMs": 99779,
+        "durationMs": 9021
+      },
+      {
+        "text": "a continuación se presenta el contrato de licencia con todas las cláusulas de",
+        "startMs": 108810,
+        "durationMs": 4430
+      },
+      {
+        "text": "cumplimiento dispuestas para el sistema contable versión 4 marcamos la opción",
+        "startMs": 113240,
+        "durationMs": 5970
+      },
+      {
+        "text": "acepto los términos del contrato de licencia y damos clic en el botón",
+        "startMs": 119210,
+        "durationMs": 6020
+      },
+      {
+        "text": "va a instalar contamine versión 4 en modo mono usuario el asistente de",
+        "startMs": 127660,
+        "durationMs": 5399
+      },
+      {
+        "text": "instalación toma por defecto una ruta la cual podemos cambiar pero que lo más",
+        "startMs": 133059,
+        "durationMs": 5551
+      },
+      {
+        "text": "recomendable es dejarla que el sistema nos muestra damos clic en el botón",
+        "startMs": 138610,
+        "durationMs": 7980
+      },
+      {
+        "text": "siguiente ahora el asistente nos presenta la ruta",
+        "startMs": 146590,
+        "durationMs": 2580
+      },
+      {
+        "text": "en la cual se va a instalar la base de datos como aquí se indica debe ser un",
+        "startMs": 125230,
+        "durationMs": 29700
+      },
+      {
+        "text": "disco duro de este computador en el cual se está realizando el proceso de",
+        "startMs": 154930,
+        "durationMs": 6200
+      },
+      {
+        "text": "instalación también nos muestra una ruta por defecto",
+        "startMs": 161130,
+        "durationMs": 2670
+      },
+      {
+        "text": "la cual podemos cambiar pero que lo más recomendable es dejarla que nos está",
+        "startMs": 163800,
+        "durationMs": 4980
+      },
+      {
+        "text": "mostrando damos clic en el botón siguiente",
+        "startMs": 168780,
+        "durationMs": 5320
+      },
+      {
+        "text": "siguiente a continuación el asistente nos muestra",
+        "startMs": 174100,
+        "durationMs": 3240
+      },
+      {
+        "text": "la configuración actual con la que se realizará la instalación dentro de los",
+        "startMs": 177340,
+        "durationMs": 4800
+      },
+      {
+        "text": "datos que nos muestra tenemos el tipo de instalación que estamos realizando para",
+        "startMs": 182140,
+        "durationMs": 6240
+      },
+      {
+        "text": "este caso estamos realizando la instalación de contra prime en modo moon",
+        "startMs": 188380,
+        "durationMs": 4140
+      },
+      {
+        "text": "usuario nos muestra también la carpeta en la cual se va a instalar el sistema e",
+        "startMs": 192520,
+        "durationMs": 5910
+      },
+      {
+        "text": "información adicional del usuario una vez hemos verificado que la",
+        "startMs": 198430,
+        "durationMs": 5260
+      },
+      {
+        "text": "información es correcta damos clic en el botón siguiente",
+        "startMs": 203690,
+        "durationMs": 8430
+      },
+      {
+        "text": "seguidamente el asistente nos solicita el número de licencia",
+        "startMs": 212130,
+        "durationMs": 5590
+      },
+      {
+        "text": "con el cual vamos a realizar la instalación del sistema como la",
+        "startMs": 217720,
+        "durationMs": 4170
+      },
+      {
+        "text": "instalación que estamos realizando es en modo mono usuario debemos ingresar el",
+        "startMs": 221890,
+        "durationMs": 5369
+      },
+      {
+        "text": "número de licencia otorgado por iso free mitad",
+        "startMs": 227259,
+        "durationMs": 4541
+      },
+      {
+        "text": "llenamos el campo número de licencia y damos clic en el botón siguiente",
+        "startMs": 231800,
+        "durationMs": 8090
+      },
+      {
+        "text": "paso seguido vemos como efectivamente se inicia la instalación de con tape",
+        "startMs": 239900,
+        "durationMs": 4070
+      },
+      {
+        "text": "versión 4 con todos y cada uno de sus módulos",
+        "startMs": 243970,
+        "durationMs": 5170
+      },
+      {
+        "text": "módulos recordemos que la instalación que",
+        "startMs": 249140,
+        "durationMs": 1740
+      },
+      {
+        "text": "finalmente el asistente nos muestra una ventana en la que nos confirma que con",
+        "startMs": 261910,
+        "durationMs": 4760
+      },
+      {
+        "text": "está pyme versión 4 en modo mono usuario se instaló correctamente",
+        "startMs": 266670,
+        "durationMs": 6150
+      },
+      {
+        "text": "marcamos la opción ejecutar programas si lo deseamos y damos clic en el botón",
+        "startMs": 272820,
+        "durationMs": 7730
+      },
+      {
+        "text": "finalizar vemos como inmediatamente nos carga el",
+        "startMs": 280550,
+        "durationMs": 2520
+      },
+      {
+        "text": "sistema mostrando inicialmente la ventana de la primera ejecución en la",
+        "startMs": 283070,
+        "durationMs": 4860
+      },
+      {
+        "text": "cual definimos en qué configuración regional estará basada la creación de la",
+        "startMs": 287930,
+        "durationMs": 4650
+      },
+      {
+        "text": "primera área de trabajo elegimos el país",
+        "startMs": 292580,
+        "durationMs": 8900
+      },
+      {
+        "text": "y el plan de cuentas que vamos a utilizar",
+        "startMs": 301490,
+        "durationMs": 3990
+      },
+      {
+        "text": "utilizar además vigencia mos el nombre y la ruta",
+        "startMs": 305480,
+        "durationMs": 3720
+      },
+      {
+        "text": "en la cual se almacenará el área de trabajo",
+        "startMs": 309200,
+        "durationMs": 8840
+      },
+      {
+        "text": "al completar estos datos damos clic en el botón crear área de trabajo",
+        "startMs": 318050,
+        "durationMs": 8050
+      },
+      {
+        "text": "seguidamente se muestra la ventana de conexión la cual solicita algunos datos",
+        "startMs": 326110,
+        "durationMs": 5000
+      },
+      {
+        "text": "que le indicarán al sistema a que es el servidor de datos conectarse con qué",
+        "startMs": 331110,
+        "durationMs": 5160
+      },
+      {
+        "text": "usuario y contraseña y a qué base de datos hacerlo en el campo servidor de",
+        "startMs": 336270,
+        "durationMs": 6090
+      },
+      {
+        "text": "datos indicamos el servidor al cual nos vamos a conectar como nuestra",
+        "startMs": 342360,
+        "durationMs": 5640
+      },
+      {
+        "text": "instalación fue en mono modo mono usuario el sistema nos indica que la",
+        "startMs": 348000,
+        "durationMs": 4290
+      },
+      {
+        "text": "conexión va a ser al servidor mont usuario que se instaló",
+        "startMs": 352290,
+        "durationMs": 4490
+      },
+      {
+        "text": "en el proceso anterior recordemos que la instalación en modo",
+        "startMs": 356780,
+        "durationMs": 4510
+      },
+      {
+        "text": "mono usuario nos permite conectarnos a otro servidor de datos externos para",
+        "startMs": 250880,
+        "durationMs": 115480
+      },
+      {
+        "text": "esto damos clic en el icono del computador que se encuentra al lado",
+        "startMs": 366360,
+        "durationMs": 8750
+      },
+      {
+        "text": "allí desmarcamos la opción usar con está pyme en modo mono usuario y diligencia",
+        "startMs": 375120,
+        "durationMs": 5390
+      },
+      {
+        "text": "damos el nombre del servidor de datos puede ser también su dirección ip o url",
+        "startMs": 380510,
+        "durationMs": 5610
+      },
+      {
+        "text": "en caso de que la conexión sea por internet",
+        "startMs": 386120,
+        "durationMs": 5950
+      },
+      {
+        "text": "diligencia mos los campos de nombre de usuario y contraseña",
+        "startMs": 392080,
+        "durationMs": 9780
+      },
+      {
+        "text": "debemos hacer la confirmación de la contraseña ingresada para que así el",
+        "startMs": 401870,
+        "durationMs": 3590
+      },
+      {
+        "text": "sistema valide y active los permisos que hayan sido asignados al usuario sobre el",
+        "startMs": 405460,
+        "durationMs": 11059
+      },
+      {
+        "text": "en la parte inferior se encuentran las opciones para la área de trabajo",
+        "startMs": 416529,
+        "durationMs": 4761
+      },
+      {
+        "text": "y licencia que vamos a utilizar las podemos cambiar dando clic en la flecha",
+        "startMs": 421290,
+        "durationMs": 4769
+      },
+      {
+        "text": "hacia abajo que se encuentra en cada uno de estos campos",
+        "startMs": 426059,
+        "durationMs": 7171
+      },
+      {
+        "text": "una vez hemos diligenciado todos los campos damos clic en el botón conectar",
+        "startMs": 433240,
+        "durationMs": 7100
+      },
+      {
+        "text": "y se inicia el proceso de conexión con el servidor",
+        "startMs": 440340,
+        "durationMs": 5770
+      },
+      {
+        "text": "se realiza una copia de seguridad inicial y finalmente nos presenta la",
+        "startMs": 446120,
+        "durationMs": 4580
+      },
+      {
+        "text": "aplicación para empezar a trabajar normalmente en ella",
+        "startMs": 450700,
+        "durationMs": 4520
+      },
+      {
+        "text": "esto es todo sobre instalación de compatible modo mont usuario",
+        "startMs": 455220,
+        "durationMs": 6210
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\ninstalación de contra pm modo un usuario en la instalación en modo mono usuario\nse instala el sistema con está pyme el manejador de la base de datos file beer\ny las bases de datos todo en un mismo equipo implementa un tipo de cliente\nservidor a nivel local este tipo de instalación se utiliza\ncuando es requerida solo una estación de trabajo y el almacenamiento de los datos\nal realizar la instalación en usuario tenemos la posibilidad de\nconectarnos tanto al servidor un usuario que se instala por defecto como a un\nservidor de datos externos bien sea por medio de internet con la dirección ip o\nla url del servidor o por red de área local\nlocal en este vídeo vamos a ver paso a paso\ncómo se realiza el proceso de instalación de cuanta pyme en modo mono\nusuario tenemos el instalador llamado instalar contamine mono usuario versión\n4 punto xxi damos doble clic al icono del instalador\ny vemos como inmediatamente se abre una nueva ventana la cual nos irá indicando\nlos pasos a seguir para la correcta instalación del sistema\ninicialmente se muestra una ventana de bienvenida la cual nos confirma que\nvamos a realizar la instalación de contar con usuario versión 4 esta\ninstalación como lo indica el asistente nos permite trabajar localmente sin\nnecesidad de un servidor de datos y adicional a esto nos permite conectarnos\na otros servidores de datos de contacto damos clic en el botón siguiente\na continuación se presenta el contrato de licencia con todas las cláusulas de\ncumplimiento dispuestas para el sistema contable versión 4 marcamos la opción\nacepto los términos del contrato de licencia y damos clic en el botón\nva a instalar contamine versión 4 en modo mono usuario el asistente de\ninstalación toma por defecto una ruta la cual podemos cambiar pero que lo más\nrecomendable es dejarla que el sistema nos muestra damos clic en el botón\nsiguiente ahora el asistente nos presenta la ruta\nen la cual se va a instalar la base de datos como aquí se indica debe ser un\ndisco duro de este computador en el cual se está realizando el proceso de\ninstalación también nos muestra una ruta por defecto\nla cual podemos cambiar pero que lo más recomendable es dejarla que nos está\nmostrando damos clic en el botón siguiente\nsiguiente a continuación el asistente nos muestra\nla configuración actual con la que se realizará la instalación dentro de los\ndatos que nos muestra tenemos el tipo de instalación que estamos realizando para\neste caso estamos realizando la instalación de contra prime en modo moon\nusuario nos muestra también la carpeta en la cual se va a instalar el sistema e\ninformación adicional del usuario una vez hemos verificado que la\ninformación es correcta damos clic en el botón siguiente\nseguidamente el asistente nos solicita el número de licencia\ncon el cual vamos a realizar la instalación del sistema como la\ninstalación que estamos realizando es en modo mono usuario debemos ingresar el\nnúmero de licencia otorgado por iso free mitad\nllenamos el campo número de licencia y damos clic en el botón siguiente\npaso seguido vemos como efectivamente se inicia la instalación de con tape\nversión 4 con todos y cada uno de sus módulos\nmódulos recordemos que la instalación que\nfinalmente el asistente nos muestra una ventana en la que nos confirma que con\nestá pyme versión 4 en modo mono usuario se instaló correctamente\nmarcamos la opción ejecutar programas si lo deseamos y damos clic en el botón\nfinalizar vemos como inmediatamente nos carga el\nsistema mostrando inicialmente la ventana de la primera ejecución en la\ncual definimos en qué configuración regional estará basada la creación de la\nprimera área de trabajo elegimos el país\ny el plan de cuentas que vamos a utilizar\nutilizar además vigencia mos el nombre y la ruta\nen la cual se almacenará el área de trabajo\nal completar estos datos damos clic en el botón crear área de trabajo\nseguidamente se muestra la ventana de conexión la cual solicita algunos datos\nque le indicarán al sistema a que es el servidor de datos conectarse con qué\nusuario y contraseña y a qué base de datos hacerlo en el campo servidor de\ndatos indicamos el servidor al cual nos vamos a conectar como nuestra\ninstalación fue en mono modo mono usuario el sistema nos indica que la\nconexión va a ser al servidor mont usuario que se instaló\nen el proceso anterior recordemos que la instalación en modo\nmono usuario nos permite conectarnos a otro servidor de datos externos para\nesto damos clic en el icono del computador que se encuentra al lado\nallí desmarcamos la opción usar con está pyme en modo mono usuario y diligencia\ndamos el nombre del servidor de datos puede ser también su dirección ip o url\nen caso de que la conexión sea por internet\ndiligencia mos los campos de nombre de usuario y contraseña\ndebemos hacer la confirmación de la contraseña ingresada para que así el\nsistema valide y active los permisos que hayan sido asignados al usuario sobre el\nen la parte inferior se encuentran las opciones para la área de trabajo\ny licencia que vamos a utilizar las podemos cambiar dando clic en la flecha\nhacia abajo que se encuentra en cada uno de estos campos\nuna vez hemos diligenciado todos los campos damos clic en el botón conectar\ny se inicia el proceso de conexión con el servidor\nse realiza una copia de seguridad inicial y finalmente nos presenta la\naplicación para empezar a trabajar normalmente en ella\nesto es todo sobre instalación de compatible modo mont usuario"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 176.79,
+    "asr": 44100,
+    "filesizeApprox": 10225688,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2018",
+  "files": {
+    "year": "2018",
+    "kind": "videos",
+    "md": "videos/2018/iCjR6m2X6No.md",
+    "json": "videos/2018/iCjR6m2X6No.json",
+    "infoJson": "videos/2018/iCjR6m2X6No.info.json"
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:36:23.185Z",
+  "videoId": "cbZpc8Zp1yg",
+  "videoUrl": "https://www.youtube.com/watch?v=cbZpc8Zp1yg",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "cbZpc8Zp1yg",
+    "title": "Software contable ContaPyme - Ejemplo 2: operación de compras",
+    "fulltitle": "Software contable ContaPyme - Ejemplo 2: operación de compras",
+    "description": "http: //www.contapyme.com\nEn este video se explica, por medio de un ejemplo, cómo se realiza la operación de compras. \nCP40-090-010-010",
+    "duration": 447,
+    "duration_string": "7:27",
+    "upload_date": "20170417",
+    "timestamp": 1492467122,
+    "view_count": 10,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "Sistema contable",
+      "Software contable",
+      "Sistema de contabilidad",
+      "Software para pymes",
+      "Sistema de gestión empresarial",
+      "Software para contadores",
+      "Programa contable",
+      "Software contable Colombia",
+      "Software contable y administrativo",
+      "Software NIIF",
+      "Normas internacionales de información financiera",
+      "NIIF",
+      "Software de facturación",
+      "Facturación",
+      "Sistema de facturación",
+      "Inventarios"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdNeSVLNqCn8kDHiRJnIpagorclQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAj9S61MRiouVGb9AxIzfqp-ZILqg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-PZlxouA6_XrsLBPMwe5hY6PyLA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAeaPNNEl6Fe9gq8fHE93-1TNeQHQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6UTD7c8tBDmW0GX-x-6vhZ0pv5g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNm15F3UHyDECV9GL1HmbXBLIv5w",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzQFXnTb-N6ntROl_IqCNTwSwjNA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-p6ZdcocZRDlqPR1veOUtYCwJiw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/cbZpc8Zp1yg/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=cbZpc8Zp1yg",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.22371364653243847,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.203579418344519,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.203579418344519,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 244.952,
+        "asr": 44100,
+        "filesize_approx": 13675517,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ejemplo 2: operación de compras",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/cbZpc8Zp1yg/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/cbZpc8Zp1yg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ejemplo 2: operación de compras\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 79,
+    "transcriptChars": 5534,
+    "segments": [
+      {
+        "text": "ejemplo dos operación de compras el objetivo de este video es explicar por",
+        "startMs": 719,
+        "durationMs": 5431
+      },
+      {
+        "text": "medio de un ejemplo Cómo se realiza la operación de",
+        "startMs": 6150,
+        "durationMs": 3800
+      },
+      {
+        "text": "compras vamos a realizar el siguiente ejemplo registraremos una compra de",
+        "startMs": 9950,
+        "durationMs": 5040
+      },
+      {
+        "text": "mercancías al proveedor compo equipos limitada el día 30 de enero de",
+        "startMs": 14990,
+        "durationMs": 5160
+      },
+      {
+        "text": "2016 los productos a comprar serán cuatro computadores portátiles acer y",
+        "startMs": 20150,
+        "durationMs": 5480
+      },
+      {
+        "text": "cuatro impresoras láser HP adicionalmente registraremos un gasto",
+        "startMs": 25630,
+        "durationMs": 4920
+      },
+      {
+        "text": "por concepto de fletes relacionados con la mercancía se genera una cuenta por",
+        "startMs": 30550,
+        "durationMs": 5800
+      },
+      {
+        "text": "pagar ubicados en el manejador de operaciones damos clic al botón más",
+        "startMs": 36350,
+        "durationMs": 5280
+      },
+      {
+        "text": "operaciones y en la pestaña compras encontramos el acceso a la operación de",
+        "startMs": 41630,
+        "durationMs": 6759
+      },
+      {
+        "text": "compras vamos a sustentar nuestra operación con el tipo de documento de",
+        "startMs": 48389,
+        "durationMs": 4160
+      },
+      {
+        "text": "soporte 110 de factura de compra en este caso indicaremos como",
+        "startMs": 52549,
+        "durationMs": 5361
+      },
+      {
+        "text": "número del documento el número la factura de venta entregada por nuestro",
+        "startMs": 57910,
+        "durationMs": 5840
+      },
+      {
+        "text": "proveedor como fecha de soporte de la operación vamos a indicar el día 30 de",
+        "startMs": 63750,
+        "durationMs": 4920
+      },
+      {
+        "text": "enero de 2016 en el detalle escribiremos",
+        "startMs": 68670,
+        "durationMs": 5040
+      },
+      {
+        "text": "compra de mercancías a compoe equipos limitada en este caso los precios que",
+        "startMs": 73710,
+        "durationMs": 6160
+      },
+      {
+        "text": "nos indica el proveedor no tienen IVA incluido por lo cual dejaremos sin",
+        "startMs": 79870,
+        "durationMs": 4320
+      },
+      {
+        "text": "activar la opción de registrar los precios con IVA en el campo proveedor",
+        "startMs": 84190,
+        "durationMs": 4720
+      },
+      {
+        "text": "vamos a indicar el el tercero al cual estamos realizando la compra podemos",
+        "startMs": 88910,
+        "durationMs": 4280
+      },
+      {
+        "text": "utilizar el comando f5 para abrir el catálogo de",
+        "startMs": 93190,
+        "durationMs": 5559
+      },
+      {
+        "text": "terceros buscamos al tercero compo equipos damos doble clic para",
+        "startMs": 98759,
+        "durationMs": 6791
+      },
+      {
+        "text": "seleccionarlo posteriormente vamos a cargar la bodega en la cual",
+        "startMs": 105550,
+        "durationMs": 3760
+      },
+      {
+        "text": "almacenaremos los productos comprados en este caso será la bodega uno principal",
+        "startMs": 109310,
+        "durationMs": 5479
+      },
+      {
+        "text": "podemos abrir el seleccionador y Buscar la bodega o podemos digitar el código de",
+        "startMs": 114789,
+        "durationMs": 4761
+      },
+      {
+        "text": "la bodega si lo conocemos en este caso es la bodega",
+        "startMs": 119550,
+        "durationMs": 4000
+      },
+      {
+        "text": "uno nos desplazamos a la siguiente columna en la cual debemos Buscar el",
+        "startMs": 123550,
+        "durationMs": 4720
+      },
+      {
+        "text": "acer damos doble clic para seleccionarlo en la siguiente columna",
+        "startMs": 138040,
+        "durationMs": 5150
+      },
+      {
+        "text": "debemos indicar la cantidad de computadores comprados en este caso son",
+        "startMs": 143190,
+        "durationMs": 4600
+      },
+      {
+        "text": "cuatro computadores podemos indicar el costo unitario",
+        "startMs": 147790,
+        "durationMs": 5280
+      },
+      {
+        "text": "activando la opción de registrar valores unitarios en este caso el costo por cada",
+        "startMs": 153070,
+        "durationMs": 5879
+      },
+      {
+        "text": "Calcula automáticamente el costo total haremos lo mismo con los demás elementos",
+        "startMs": 163869,
+        "durationMs": 5401
+      },
+      {
+        "text": "a comprar una vez registrados los elementos con sus respectivas cantidades",
+        "startMs": 169270,
+        "durationMs": 4959
+      },
+      {
+        "text": "y costos damos clic al botón siguiente recordemos que en este paso la",
+        "startMs": 174229,
+        "durationMs": 5761
+      },
+      {
+        "text": "operación podemos cargar otros gastos O valores adicionales a la compra de los",
+        "startMs": 179990,
+        "durationMs": 4080
+      },
+      {
+        "text": "elementos Como por ejemplo fletes en este caso vamos a registrar un flete por",
+        "startMs": 184070,
+        "durationMs": 4799
+      },
+      {
+        "text": "valor de 12,700 pesos entonces en la columna",
+        "startMs": 188869,
+        "durationMs": 4481
+      },
+      {
+        "text": "concepto de pago abrimos el seleccionador y vemos que el sistema nos",
+        "startMs": 193350,
+        "durationMs": 4159
+      },
+      {
+        "text": "abre el listado de cuentas nos ubicamos en la columna nombre y en la caja de",
+        "startMs": 197509,
+        "durationMs": 12841
+      },
+      {
+        "text": "seleccionamos la cuenta y en la siguiente columna debemos indicar el",
+        "startMs": 210360,
+        "durationMs": 3630
+      },
+      {
+        "text": "centro de costos al cual se cargará el gasto del flete abrimos el seleccionador",
+        "startMs": 213990,
+        "durationMs": 6040
+      },
+      {
+        "text": "en este caso será al centro de costos de gastos",
+        "startMs": 220030,
+        "durationMs": 3800
+      },
+      {
+        "text": "gastos generales finalmente en la columna valor",
+        "startMs": 223830,
+        "durationMs": 2800
+      },
+      {
+        "text": "debemos indicar el valor total del flete en este caso",
+        "startMs": 226630,
+        "durationMs": 6319
+      },
+      {
+        "text": "121700 pes Igualmente en la columna detalle",
+        "startMs": 232949,
+        "durationMs": 2721
+      },
+      {
+        "text": "podemos indicar información adicional una vez ad el flete damos clic",
+        "startMs": 235670,
+        "durationMs": 5600
+      },
+      {
+        "text": "al botón siguiente en este paso de la operación",
+        "startMs": 241270,
+        "durationMs": 4560
+      },
+      {
+        "text": "vamos a calcular los impuestos damos clic al botón calcular impuestos y vemos",
+        "startMs": 128270,
+        "durationMs": 123720
+      },
+      {
+        "text": "como el sistema ha calculado automáticamente una retención por",
+        "startMs": 158949,
+        "durationMs": 97081
+      },
+      {
+        "text": "compras en general del 2,5 por tomando la base total de los elementos comprados",
+        "startMs": 256030,
+        "durationMs": 7040
+      },
+      {
+        "text": "un IVA descontable del 16 Tomando solo como base el valor de",
+        "startMs": 263070,
+        "durationMs": 5600
+      },
+      {
+        "text": "las impresoras ya que los computadores no tienen cargado un impuesto de IVA y",
+        "startMs": 268670,
+        "durationMs": 5799
+      },
+      {
+        "text": "finalmente se calcula una retención por servicio de transporte del",
+        "startMs": 274469,
+        "durationMs": 4921
+      },
+      {
+        "text": "1% sobre la base del flete ahora vamos a seleccionar la forma de pago en este",
+        "startMs": 279390,
+        "durationMs": 6760
+      },
+      {
+        "text": "caso será cuenta por pagar subimos el valor con el botón diferencia y en la",
+        "startMs": 286150,
+        "durationMs": 6160
+      },
+      {
+        "text": "parte derecha vemos que el sistema carga en el campo pagar a el tercero al cual",
+        "startMs": 292310,
+        "durationMs": 5200
+      },
+      {
+        "text": "estamos haciendo la compra de los productos",
+        "startMs": 297510,
+        "durationMs": 3160
+      },
+      {
+        "text": "productos luego debemos seleccionar la cuenta",
+        "startMs": 300670,
+        "durationMs": 1840
+      },
+      {
+        "text": "contable a la cual se llevará el valor de la cuenta por pagar abrimos el",
+        "startMs": 302510,
+        "durationMs": 5440
+      },
+      {
+        "text": "seleccionador Y en este caso llevaremos el valor a la cuenta de proveedores",
+        "startMs": 307950,
+        "durationMs": 5160
+      },
+      {
+        "text": "nacionales también podemos cambiar la fecha de pago en este caso vamos a",
+        "startMs": 313110,
+        "durationMs": 4680
+      },
+      {
+        "text": "indicar el día 29 de febrero de 2016 antes de guardar y procesar la",
+        "startMs": 317790,
+        "durationMs": 6280
+      },
+      {
+        "text": "operación podemos visualizar el documento de impresión damos clic al",
+        "startMs": 324070,
+        "durationMs": 4440
+      },
+      {
+        "text": "botón imprimir y el sistema nos Abre la ventana de",
+        "startMs": 328510,
+        "durationMs": 4200
+      },
+      {
+        "text": "seleccionador de documentos de impresión en este caso vamos a utilizar el",
+        "startMs": 332710,
+        "durationMs": 4440
+      },
+      {
+        "text": "documento 110 de comprobante de compra damos clic al botón vista",
+        "startMs": 337150,
+        "durationMs": 6440
+      },
+      {
+        "text": "previa ampliamos la vista y vemos que el sistema muestra el logotipo de la",
+        "startMs": 343590,
+        "durationMs": 5280
+      },
+      {
+        "text": "empresa el nombre y número del documento los datos del proveedor la",
+        "startMs": 348870,
+        "durationMs": 6599
+      },
+      {
+        "text": "fecha soporte de la transacción y el valor total de la operación también",
+        "startMs": 355469,
+        "durationMs": 4840
+      },
+      {
+        "text": "vemos el listado de los productos con sus cantidades y costos el listado de",
+        "startMs": 360309,
+        "durationMs": 5041
+      },
+      {
+        "text": "los impuestos y finalmente la forma de pago cerramos la vista previa y",
+        "startMs": 365350,
+        "durationMs": 24200
+      },
+      {
+        "text": "clic al botón cargar movimiento y podemos ver que el sistema ha realizado",
+        "startMs": 389560,
+        "durationMs": 4430
+      },
+      {
+        "text": "los respectivos asientos sobre la cuenta de",
+        "startMs": 393990,
+        "durationMs": 4639
+      },
+      {
+        "text": "inventario la cuenta por pagar Igualmente las cuentas de impuestos Y",
+        "startMs": 398629,
+        "durationMs": 5840
+      },
+      {
+        "text": "por último la cuenta de gasto para flete para terminar vamos a generar un informe",
+        "startMs": 404469,
+        "durationMs": 5440
+      },
+      {
+        "text": "de inventarios para verificar la entrada de los productos nos dirigimos a la",
+        "startMs": 409909,
+        "durationMs": 6280
+      },
+      {
+        "text": "pestaña inventarios botón inventarios",
+        "startMs": 416189,
+        "durationMs": 3440
+      },
+      {
+        "text": "pestaña inventario contable saldos y generamos una consulta de saldos",
+        "startMs": 419629,
+        "durationMs": 7921
+      },
+      {
+        "text": "inventario desplegamos los datos de la bodega uno y podemos ver que allí se",
+        "startMs": 427560,
+        "durationMs": 4629
+      },
+      {
+        "text": "encuentra ingresado las cuatro unidades de la impresora láser y las cuatro",
+        "startMs": 432189,
+        "durationMs": 6201
+      },
+      {
+        "text": "unidades del portátil acer esto es todo acerca de ejemplo dos",
+        "startMs": 438390,
+        "durationMs": 10010
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este video se explica, por medio de un ejemplo, cómo se realiza la operación de compras. \nCP40-090-010-010\n\n## Transcripción\n\nejemplo dos operación de compras el objetivo de este video es explicar por\nmedio de un ejemplo Cómo se realiza la operación de\ncompras vamos a realizar el siguiente ejemplo registraremos una compra de\nmercancías al proveedor compo equipos limitada el día 30 de enero de\n2016 los productos a comprar serán cuatro computadores portátiles acer y\ncuatro impresoras láser HP adicionalmente registraremos un gasto\npor concepto de fletes relacionados con la mercancía se genera una cuenta por\npagar ubicados en el manejador de operaciones damos clic al botón más\noperaciones y en la pestaña compras encontramos el acceso a la operación de\ncompras vamos a sustentar nuestra operación con el tipo de documento de\nsoporte 110 de factura de compra en este caso indicaremos como\nnúmero del documento el número la factura de venta entregada por nuestro\nproveedor como fecha de soporte de la operación vamos a indicar el día 30 de\nenero de 2016 en el detalle escribiremos\ncompra de mercancías a compoe equipos limitada en este caso los precios que\nnos indica el proveedor no tienen IVA incluido por lo cual dejaremos sin\nactivar la opción de registrar los precios con IVA en el campo proveedor\nvamos a indicar el el tercero al cual estamos realizando la compra podemos\nutilizar el comando f5 para abrir el catálogo de\nterceros buscamos al tercero compo equipos damos doble clic para\nseleccionarlo posteriormente vamos a cargar la bodega en la cual\nalmacenaremos los productos comprados en este caso será la bodega uno principal\npodemos abrir el seleccionador y Buscar la bodega o podemos digitar el código de\nla bodega si lo conocemos en este caso es la bodega\nuno nos desplazamos a la siguiente columna en la cual debemos Buscar el\nacer damos doble clic para seleccionarlo en la siguiente columna\ndebemos indicar la cantidad de computadores comprados en este caso son\ncuatro computadores podemos indicar el costo unitario\nactivando la opción de registrar valores unitarios en este caso el costo por cada\nCalcula automáticamente el costo total haremos lo mismo con los demás elementos\na comprar una vez registrados los elementos con sus respectivas cantidades\ny costos damos clic al botón siguiente recordemos que en este paso la\noperación podemos cargar otros gastos O valores adicionales a la compra de los\nelementos Como por ejemplo fletes en este caso vamos a registrar un flete por\nvalor de 12,700 pesos entonces en la columna\nconcepto de pago abrimos el seleccionador y vemos que el sistema nos\nabre el listado de cuentas nos ubicamos en la columna nombre y en la caja de\nseleccionamos la cuenta y en la siguiente columna debemos indicar el\ncentro de costos al cual se cargará el gasto del flete abrimos el seleccionador\nen este caso será al centro de costos de gastos\ngastos generales finalmente en la columna valor\ndebemos indicar el valor total del flete en este caso\n121700 pes Igualmente en la columna detalle\npodemos indicar información adicional una vez ad el flete damos clic\nal botón siguiente en este paso de la operación\nvamos a calcular los impuestos damos clic al botón calcular impuestos y vemos\ncomo el sistema ha calculado automáticamente una retención por\ncompras en general del 2,5 por tomando la base total de los elementos comprados\nun IVA descontable del 16 Tomando solo como base el valor de\nlas impresoras ya que los computadores no tienen cargado un impuesto de IVA y\nfinalmente se calcula una retención por servicio de transporte del\n1% sobre la base del flete ahora vamos a seleccionar la forma de pago en este\ncaso será cuenta por pagar subimos el valor con el botón diferencia y en la\nparte derecha vemos que el sistema carga en el campo pagar a el tercero al cual\nestamos haciendo la compra de los productos\nproductos luego debemos seleccionar la cuenta\ncontable a la cual se llevará el valor de la cuenta por pagar abrimos el\nseleccionador Y en este caso llevaremos el valor a la cuenta de proveedores\nnacionales también podemos cambiar la fecha de pago en este caso vamos a\nindicar el día 29 de febrero de 2016 antes de guardar y procesar la\noperación podemos visualizar el documento de impresión damos clic al\nbotón imprimir y el sistema nos Abre la ventana de\nseleccionador de documentos de impresión en este caso vamos a utilizar el\ndocumento 110 de comprobante de compra damos clic al botón vista\nprevia ampliamos la vista y vemos que el sistema muestra el logotipo de la\nempresa el nombre y número del documento los datos del proveedor la\nfecha soporte de la transacción y el valor total de la operación también\nvemos el listado de los productos con sus cantidades y costos el listado de\nlos impuestos y finalmente la forma de pago cerramos la vista previa y\nclic al botón cargar movimiento y podemos ver que el sistema ha realizado\nlos respectivos asientos sobre la cuenta de\ninventario la cuenta por pagar Igualmente las cuentas de impuestos Y\npor último la cuenta de gasto para flete para terminar vamos a generar un informe\nde inventarios para verificar la entrada de los productos nos dirigimos a la\npestaña inventarios botón inventarios\npestaña inventario contable saldos y generamos una consulta de saldos\ninventario desplegamos los datos de la bodega uno y podemos ver que allí se\nencuentra ingresado las cuatro unidades de la impresora láser y las cuatro\nunidades del portátil acer esto es todo acerca de ejemplo dos"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 244.952,
+    "asr": 44100,
+    "filesizeApprox": 13675517,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/cbZpc8Zp1yg.md",
+    "json": "videos/2017/cbZpc8Zp1yg.json",
+    "infoJson": "videos/2017/cbZpc8Zp1yg.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "cbZpc8Zp1yg",
+        "youtubeId": "cbZpc8Zp1yg",
+        "titulo": "Software contable ContaPyme - Ejemplo 2: operación de compras",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

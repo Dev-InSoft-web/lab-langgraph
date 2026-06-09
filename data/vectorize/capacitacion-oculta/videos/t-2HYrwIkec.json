@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:27:46.194Z",
+  "videoId": "t-2HYrwIkec",
+  "videoUrl": "https://www.youtube.com/watch?v=t-2HYrwIkec",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "t-2HYrwIkec",
+    "title": "Software contable ContaPyme - Ejemplo de consulta de un reporte de Cartera",
+    "fulltitle": "Software contable ContaPyme - Ejemplo de consulta de un reporte de Cartera",
+    "description": "http://www.contapyme.com\nEste video presenta un ejemplo de la generación del reporte de Detalle de cuentas por cobrar desde ContaPyme móvil.\nCP40-530-050-010B-010M",
+    "duration": 233,
+    "duration_string": "3:53",
+    "upload_date": "20130718",
+    "timestamp": 1374184621,
+    "view_count": 256,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia",
+      "software contable y administrativo"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/t-2HYrwIkec/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVt4hZPLrBnNatTkDN3i_fqXqIwA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKiSs5ALqQ0gCggaU1YCQ4SXhmUQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEnao-uh2qPzwwnKizhBV7Mx3t6A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaO4OEf68Nf3jrOmBPlSlw6oLgzw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/t-2HYrwIkec/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/t-2HYrwIkec/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=t-2HYrwIkec",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.4291845493562232,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5064377682403434,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5064377682403434,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 174.065,
+        "asr": 44100,
+        "filesize_approx": 5072928,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ejemplo de consulta de un reporte de Cartera",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/t-2HYrwIkec/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/t-2HYrwIkec?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ejemplo de consulta de un reporte de Cartera\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 43,
+    "transcriptChars": 3074,
+    "segments": [
+      {
+        "text": "ejemplo de consulta de un reporte de cartera",
+        "startMs": 659,
+        "durationMs": 3851
+      },
+      {
+        "text": "cartera Contame móvil nos ofrece más de 100",
+        "startMs": 4510,
+        "durationMs": 2560
+      },
+      {
+        "text": "reportes que podemos generar en tiempo real y totalmente actualizados con",
+        "startMs": 7070,
+        "durationMs": 4320
+      },
+      {
+        "text": "contappyme de escritorio en este vídeo estudiaremos la generación de un reporte",
+        "startMs": 11390,
+        "durationMs": 5160
+      },
+      {
+        "text": "de cartera habiendo iniciado sesión en con tapime",
+        "startMs": 16550,
+        "durationMs": 5219
+      },
+      {
+        "text": "móvil damos clic a la opción cartera del menú reportes",
+        "startMs": 21769,
+        "durationMs": 6061
+      },
+      {
+        "text": "luego elegimos nuevamente la opción cartera y el sistema nos presenta los",
+        "startMs": 27830,
+        "durationMs": 6360
+      },
+      {
+        "text": "reportes con los cuales podremos conocer el estado de la cartera de Nuestra",
+        "startMs": 34190,
+        "durationMs": 3780
+      },
+      {
+        "text": "Empresa vamos a generar por ejemplo el reporte de detalle de cuentas por cobrar",
+        "startMs": 37970,
+        "durationMs": 6840
+      },
+      {
+        "text": "el sistema nos solicita los datos para la generación del reporte dentro de los",
+        "startMs": 44810,
+        "durationMs": 4980
+      },
+      {
+        "text": "cuales tenemos fecha de referencia es decir la fecha a la cual deseamos",
+        "startMs": 49790,
+        "durationMs": 5340
+      },
+      {
+        "text": "conocer las cuentas por cobrar tercero código del tercero del cual",
+        "startMs": 55130,
+        "durationMs": 5520
+      },
+      {
+        "text": "queremos consultar sus cuentas por cobrar esto En caso de que queramos",
+        "startMs": 60650,
+        "durationMs": 3780
+      },
+      {
+        "text": "obtener las cuentas por cobrar de un tercero específico obtengamos por",
+        "startMs": 64430,
+        "durationMs": 4620
+      },
+      {
+        "text": "ejemplo las cuentas del cliente almacén el hogar",
+        "startMs": 69050,
+        "durationMs": 6900
+      },
+      {
+        "text": "en el campo cuenta agregamos una cuenta en caso de que deseemos obtener las",
+        "startMs": 75960,
+        "durationMs": 5509
+      },
+      {
+        "text": "cuentas por cobrar que hayan sido asociadas a una cuenta específica",
+        "startMs": 81469,
+        "durationMs": 4500
+      },
+      {
+        "text": "si damos clic en el botón más opciones el sistema nos presenta opciones",
+        "startMs": 85969,
+        "durationMs": 5581
+      },
+      {
+        "text": "adicionales que nos permitirán filtrar o obtener un reporte más completo",
+        "startMs": 91550,
+        "durationMs": 6120
+      },
+      {
+        "text": "podemos obtener las cuentas por cobrar de una determinada categoría o",
+        "startMs": 97670,
+        "durationMs": 5119
+      },
+      {
+        "text": "clasificación Podemos agregar filtros especiales",
+        "startMs": 102789,
+        "durationMs": 3721
+      },
+      {
+        "text": "o activar otras opciones como las que vemos aquí activamos la opción ver solo",
+        "startMs": 106510,
+        "durationMs": 10180
+      },
+      {
+        "startMs": 116700,
+        "durationMs": 5689,
+        "text": "y damos clic sobre el botón ver reporte"
+      },
+      {
+        "text": "se presenta la información de las cuentas por cobrar del tercero",
+        "startMs": 122399,
+        "durationMs": 3890
+      },
+      {
+        "text": "especificado podemos hacer zoom para ver más en detalle la información y poder",
+        "startMs": 126289,
+        "durationMs": 12781
+      },
+      {
+        "text": "si deseamos enviar este informe de cartera por email damos clic en la",
+        "startMs": 139080,
+        "durationMs": 5210
+      },
+      {
+        "text": "opción enviar por email que se encuentra en la esquina superior derecha",
+        "startMs": 144290,
+        "durationMs": 4980
+      },
+      {
+        "text": "demos clic en el botón atrás para generar nuevamente el reporte pero esta",
+        "startMs": 149270,
+        "durationMs": 5099
+      },
+      {
+        "text": "vez obtengamos las cuentas de todos los terceros para ello en el campo tercero",
+        "startMs": 154369,
+        "durationMs": 6021
+      },
+      {
+        "text": "dejamos vacío e indiquemos que se muestren las cuentas",
+        "startMs": 160390,
+        "durationMs": 7240
+      },
+      {
+        "text": "por cobrar ordenadas por el nombre del tercero",
+        "startMs": 167630,
+        "durationMs": 5040
+      },
+      {
+        "text": "tercero demos clic en el botón ver reporte",
+        "startMs": 172670,
+        "durationMs": 3779
+      },
+      {
+        "text": "como aquí lo podemos observar ahora sale la información de todos los terceros que",
+        "startMs": 176449,
+        "durationMs": 4981
+      },
+      {
+        "text": "tienen cuentas por cobrar de Nuestra Empresa podemos hacer zoom y Navegar",
+        "startMs": 181430,
+        "durationMs": 5100
+      },
+      {
+        "text": "entre páginas para consultar mejor el reporte",
+        "startMs": 186530,
+        "durationMs": 4800
+      },
+      {
+        "text": "como podemos observar aparece ordenado por el nombre del tercero",
+        "startMs": 191340,
+        "durationMs": 6950
+      },
+      {
+        "text": "demos clic en el botón atrás y como observamos podemos generar el reporte de",
+        "startMs": 198300,
+        "durationMs": 5630
+      },
+      {
+        "text": "acuerdo a nuestras necesidades todo depende de las opciones que activemos o",
+        "startMs": 203930,
+        "durationMs": 4379
+      },
+      {
+        "text": "desactivemos y de los parámetros de filtro que establezcamos también debemos",
+        "startMs": 208309,
+        "durationMs": 4801
+      },
+      {
+        "text": "tener en cuenta que estos reportes son los mismos de contappyme de escritorio",
+        "startMs": 213110,
+        "durationMs": 4380
+      },
+      {
+        "text": "es decir que si voy a contar pyme de escritorio a generar el reporte de",
+        "startMs": 217490,
+        "durationMs": 4500
+      },
+      {
+        "text": "detalle cuentas por cobrar encontraremos los mismos datos",
+        "startMs": 221990,
+        "durationMs": 6180
+      },
+      {
+        "text": "esto es todo sobre ejemplo de consulta de un reporte de cartera",
+        "startMs": 228180,
+        "durationMs": 6260
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video presenta un ejemplo de la generación del reporte de Detalle de cuentas por cobrar desde ContaPyme móvil.\nCP40-530-050-010B-010M\n\n## Transcripción\n\nejemplo de consulta de un reporte de cartera\ncartera Contame móvil nos ofrece más de 100\nreportes que podemos generar en tiempo real y totalmente actualizados con\ncontappyme de escritorio en este vídeo estudiaremos la generación de un reporte\nde cartera habiendo iniciado sesión en con tapime\nmóvil damos clic a la opción cartera del menú reportes\nluego elegimos nuevamente la opción cartera y el sistema nos presenta los\nreportes con los cuales podremos conocer el estado de la cartera de Nuestra\nEmpresa vamos a generar por ejemplo el reporte de detalle de cuentas por cobrar\nel sistema nos solicita los datos para la generación del reporte dentro de los\ncuales tenemos fecha de referencia es decir la fecha a la cual deseamos\nconocer las cuentas por cobrar tercero código del tercero del cual\nqueremos consultar sus cuentas por cobrar esto En caso de que queramos\nobtener las cuentas por cobrar de un tercero específico obtengamos por\nejemplo las cuentas del cliente almacén el hogar\nen el campo cuenta agregamos una cuenta en caso de que deseemos obtener las\ncuentas por cobrar que hayan sido asociadas a una cuenta específica\nsi damos clic en el botón más opciones el sistema nos presenta opciones\nadicionales que nos permitirán filtrar o obtener un reporte más completo\npodemos obtener las cuentas por cobrar de una determinada categoría o\nclasificación Podemos agregar filtros especiales\no activar otras opciones como las que vemos aquí activamos la opción ver solo\ny damos clic sobre el botón ver reporte\nse presenta la información de las cuentas por cobrar del tercero\nespecificado podemos hacer zoom para ver más en detalle la información y poder\nsi deseamos enviar este informe de cartera por email damos clic en la\nopción enviar por email que se encuentra en la esquina superior derecha\ndemos clic en el botón atrás para generar nuevamente el reporte pero esta\nvez obtengamos las cuentas de todos los terceros para ello en el campo tercero\ndejamos vacío e indiquemos que se muestren las cuentas\npor cobrar ordenadas por el nombre del tercero\ntercero demos clic en el botón ver reporte\ncomo aquí lo podemos observar ahora sale la información de todos los terceros que\ntienen cuentas por cobrar de Nuestra Empresa podemos hacer zoom y Navegar\nentre páginas para consultar mejor el reporte\ncomo podemos observar aparece ordenado por el nombre del tercero\ndemos clic en el botón atrás y como observamos podemos generar el reporte de\nacuerdo a nuestras necesidades todo depende de las opciones que activemos o\ndesactivemos y de los parámetros de filtro que establezcamos también debemos\ntener en cuenta que estos reportes son los mismos de contappyme de escritorio\nes decir que si voy a contar pyme de escritorio a generar el reporte de\ndetalle cuentas por cobrar encontraremos los mismos datos\nesto es todo sobre ejemplo de consulta de un reporte de cartera"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 174.065,
+    "asr": 44100,
+    "filesizeApprox": 5072928,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/t-2HYrwIkec.md",
+    "json": "videos/2013/t-2HYrwIkec.json",
+    "infoJson": "videos/2013/t-2HYrwIkec.info.json"
+  },
+  "publishYear": "2013",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "t-2HYrwIkec",
+        "youtubeId": "t-2HYrwIkec",
+        "titulo": "t-2HYrwIkec",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

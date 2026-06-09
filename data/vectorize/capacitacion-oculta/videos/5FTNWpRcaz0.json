@@ -1,0 +1,759 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:15:33.286Z",
+  "videoId": "5FTNWpRcaz0",
+  "videoUrl": "https://www.youtube.com/watch?v=5FTNWpRcaz0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "5FTNWpRcaz0",
+    "title": "Métodos deterioro",
+    "fulltitle": "Métodos deterioro",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 323,
+    "duration_string": "5:23",
+    "upload_date": "20200526",
+    "timestamp": 1590524343,
+    "view_count": 133,
+    "like_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFzNhh7H2tD7bDmAHev1B0x5RI1A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRYPxGF0RKJK59s50f1t9tWN2Zjw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbSpFPQ0IFnyTQp3p5MM5A4SAnHg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9_KDXQiAZdfDVTD0tPDPe2OZrew",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe_SIaURjF_jnOPb7ORl64UufBJQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBk2du67nKJ1BbeTkAUDdpuo29yrA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNMWjnCMxzZIzcwpVeGtCHTtEQbA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDrNTHb770YXEg9R69ftWBnUgvIg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/5FTNWpRcaz0/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/5FTNWpRcaz0/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=5FTNWpRcaz0",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.30959752321981426,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.2043343653250774,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.2043343653250774,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 171.971,
+        "asr": 44100,
+        "filesize_approx": 6941093,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Métodos deterioro",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/5FTNWpRcaz0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/5FTNWpRcaz0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Métodos deterioro\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 61,
+    "transcriptChars": 4694,
+    "segments": [
+      {
+        "text": "métodos de deterioro de cartera en contra pyme",
+        "startMs": 480,
+        "durationMs": 4340
+      },
+      {
+        "text": "el objetivo de este vídeo es explicar el funcionamiento de cada uno de los",
+        "startMs": 4820,
+        "durationMs": 4110
+      },
+      {
+        "text": "métodos de deterioro de cartera que maneja con está pyme",
+        "startMs": 8930,
+        "durationMs": 4570
+      },
+      {
+        "text": "con está p - ofrece tres métodos diferentes de deterioro de cartera los",
+        "startMs": 13500,
+        "durationMs": 4410
+      },
+      {
+        "text": "cuales pueden ser activados simultáneamente o utilizados",
+        "startMs": 17910,
+        "durationMs": 3949
+      },
+      {
+        "text": "individualmente dependiendo de las necesidades de cada usuario cada método",
+        "startMs": 21859,
+        "durationMs": 5201
+      },
+      {
+        "text": "conlleva diferentes configuraciones y calcula de diferente manera el deterioro",
+        "startMs": 27060,
+        "durationMs": 5040
+      },
+      {
+        "text": "de cartera el primer método es el método de deterioro por probabilidad de no pago",
+        "startMs": 32100,
+        "durationMs": 5699
+      },
+      {
+        "text": "este método es el más sencillo de utilizar y el más recomendable para",
+        "startMs": 37799,
+        "durationMs": 5101
+      },
+      {
+        "text": "activarlo basta con ir a la configuración de cada cuenta de cartera",
+        "startMs": 42900,
+        "durationMs": 3719
+      },
+      {
+        "text": "vencimiento y porcentajes de probabilidad de no pago para cada rango",
+        "startMs": 51119,
+        "durationMs": 3930
+      },
+      {
+        "text": "de días bajo este método el deterioro de cartera se calcula de la siguiente",
+        "startMs": 55049,
+        "durationMs": 7381
+      },
+      {
+        "text": "manera se toma el valor en libros de la deuda y",
+        "startMs": 62430,
+        "durationMs": 2490
+      },
+      {
+        "text": "se verifica la cantidad de días de vencimiento que tiene la cuenta a la",
+        "startMs": 64920,
+        "durationMs": 3840
+      },
+      {
+        "text": "fecha de aplicación del deterioro según esta cantidad de días el sistema",
+        "startMs": 68760,
+        "durationMs": 4459
+      },
+      {
+        "text": "verificará la tabla de días y según el porcentaje configurado en la cuenta para",
+        "startMs": 73219,
+        "durationMs": 4991
+      },
+      {
+        "text": "los días de vencida se calculará sobre ese saldo de la cuenta el nuevo",
+        "startMs": 78210,
+        "durationMs": 6540
+      },
+      {
+        "text": "valor de un millón de pesos y a la fecha de aplicación del deterioro tiene 31",
+        "startMs": 87210,
+        "durationMs": 5040
+      },
+      {
+        "text": "días de vencida el sistema consultar a la tabla de vencimientos y porcentajes y",
+        "startMs": 46619,
+        "durationMs": 51121
+      },
+      {
+        "text": "en este caso aplicará un porcentaje de deterioro del 10% que equivale a 100 mil",
+        "startMs": 97740,
+        "durationMs": 5910
+      },
+      {
+        "text": "pesos entonces este será el valor del deterioro aplicado a esta cuenta",
+        "startMs": 103650,
+        "durationMs": 5980
+      },
+      {
+        "text": "el segundo método es el método de deterioro por flujos futuros para",
+        "startMs": 109630,
+        "durationMs": 4740
+      },
+      {
+        "text": "aplicar este método basta con ir a la configuración de la cuenta de cartera",
+        "startMs": 114370,
+        "durationMs": 4110
+      },
+      {
+        "text": "sobre la cual se aplicará el deterioro y allí activar la opción luego la",
+        "startMs": 118480,
+        "durationMs": 5430
+      },
+      {
+        "text": "operación de deterioro se activara el botón a través del cual deberemos",
+        "startMs": 123910,
+        "durationMs": 3780
+      },
+      {
+        "text": "indicar los datos de los flujos futuros bajo este método el deterioro de cartera",
+        "startMs": 127690,
+        "durationMs": 5730
+      },
+      {
+        "text": "se calcula de la siguiente manera se toma el valor en libros de la deuda y",
+        "startMs": 133420,
+        "durationMs": 5520
+      },
+      {
+        "text": "luego de indicar el valor de los flujos futuros y de la fecha estimada en la que",
+        "startMs": 138940,
+        "durationMs": 4890
+      },
+      {
+        "text": "se recibirán dichos flujos se debe indicar la tasa de interés con la cual",
+        "startMs": 143830,
+        "durationMs": 3660
+      },
+      {
+        "text": "se calculará el valor presente de dichos flujos futuros luego de que el sistema",
+        "startMs": 147490,
+        "durationMs": 4980
+      },
+      {
+        "text": "calcule el valor presente de los flujos futuros este valor se resta al valor",
+        "startMs": 152470,
+        "durationMs": 4680
+      },
+      {
+        "text": "si por ejemplo tenemos una cuenta por valor de 2 millones de pesos y esperamos",
+        "startMs": 84750,
+        "durationMs": 81180
+      },
+      {
+        "text": "recibir el total del valor adeudado en 91 días tomando una tasa interés del 10",
+        "startMs": 165930,
+        "durationMs": 5730
+      },
+      {
+        "text": "por ciento de mercado el sistema utilizará la fórmula del valor presente",
+        "startMs": 171660,
+        "durationMs": 3840
+      },
+      {
+        "text": "para traer al día de hoy esos 2 millones de pesos que esperamos recibir en 91",
+        "startMs": 175500,
+        "durationMs": 5520
+      },
+      {
+        "text": "días en este caso el valor presente es de un millón 900 53 mil 35 pesos con 67",
+        "startMs": 181020,
+        "durationMs": 7170
+      },
+      {
+        "text": "centavos luego este valor es restado al valor actual del crédito es decir los 2",
+        "startMs": 188190,
+        "durationMs": 6660
+      },
+      {
+        "text": "millones de pesos y de allí sale el valor del deterioro que en este caso es",
+        "startMs": 194850,
+        "durationMs": 4560
+      },
+      {
+        "text": "de 46 mil 964 pesos con 33 centavos el tercer método es el método del costo",
+        "startMs": 199410,
+        "durationMs": 7280
+      },
+      {
+        "text": "amortizado este método sólo debe ser utilizado por aquellos usuarios que",
+        "startMs": 206690,
+        "durationMs": 4260
+      },
+      {
+        "text": "están llevando el costo amortizado de sus activos financieros específicamente",
+        "startMs": 210950,
+        "durationMs": 4560
+      },
+      {
+        "text": "de sus cuentas por cobrar para activar este método debemos ir a la",
+        "startMs": 215510,
+        "durationMs": 3990
+      },
+      {
+        "text": "luego en la cuenta contable de cartera a la cual vayamos a activar el método de",
+        "startMs": 223810,
+        "durationMs": 4840
+      },
+      {
+        "text": "costo amortizado debemos indicar la tasa efectiva anual o nominal diaria con la",
+        "startMs": 219500,
+        "durationMs": 14190
+      },
+      {
+        "text": "cual se calculará el costo amortizado de la cuenta bajo este método el deterioro",
+        "startMs": 233690,
+        "durationMs": 5760
+      },
+      {
+        "text": "de cartera se calcula de la siguiente manera se toma el valor en libros de la",
+        "startMs": 239450,
+        "durationMs": 4980
+      },
+      {
+        "text": "deuda y luego se verifican los días en vencimiento y la tasa de interés",
+        "startMs": 244430,
+        "durationMs": 3840
+      },
+      {
+        "text": "configurada en cada cuenta posteriormente el sistema actualiza el",
+        "startMs": 248270,
+        "durationMs": 4770
+      },
+      {
+        "text": "valor en libros de la deuda y resta este valor al salto en libros de allí se",
+        "startMs": 253040,
+        "durationMs": 5040
+      },
+      {
+        "text": "calcula el deterioro si por ejemplo tenemos una cuenta por",
+        "startMs": 157150,
+        "durationMs": 105420
+      },
+      {
+        "text": "valor de 800 mil pesos y cuenta con 75 días de vencimiento vamos a utilizar una",
+        "startMs": 262570,
+        "durationMs": 5730
+      },
+      {
+        "text": "tasa de interés efectiva anual del 10 por ciento esta tasa el sistema la",
+        "startMs": 268300,
+        "durationMs": 5400
+      },
+      {
+        "text": "convertirá en tasa nominal diaria y contando la cantidad de días de",
+        "startMs": 273700,
+        "durationMs": 4020
+      },
+      {
+        "text": "vencimiento actualizará el valor de la deuda utilizando la fórmula de valor",
+        "startMs": 277720,
+        "durationMs": 4260
+      },
+      {
+        "text": "futuro en este caso el valor actualizado de la deuda es de 815 mil 821 pesos con",
+        "startMs": 281980,
+        "durationMs": 7110
+      },
+      {
+        "text": "8 centavos entonces a este valor se le resta el valor contabilizado y la deuda",
+        "startMs": 289090,
+        "durationMs": 5430
+      },
+      {
+        "text": "es decir los 800 mil pesos y de esta resta sale el valor del deterioro que en",
+        "startMs": 294520,
+        "durationMs": 5550
+      },
+      {
+        "text": "este caso sería 15 mil 821 pesos con ocho centavos hemos podido dar la forma",
+        "startMs": 300070,
+        "durationMs": 6330
+      },
+      {
+        "text": "en que el sistema calcula el valor del deterioro bajo cada uno de los métodos",
+        "startMs": 306400,
+        "durationMs": 4230
+      },
+      {
+        "text": "también debemos recordar que es posible manejar de forma simultánea los tres",
+        "startMs": 310630,
+        "durationMs": 6390
+      },
+      {
+        "text": "esto es todo acerca de métodos de deterioro de cartera en conta pyme",
+        "startMs": 317020,
+        "durationMs": 7020
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\nmétodos de deterioro de cartera en contra pyme\nel objetivo de este vídeo es explicar el funcionamiento de cada uno de los\nmétodos de deterioro de cartera que maneja con está pyme\ncon está p - ofrece tres métodos diferentes de deterioro de cartera los\ncuales pueden ser activados simultáneamente o utilizados\nindividualmente dependiendo de las necesidades de cada usuario cada método\nconlleva diferentes configuraciones y calcula de diferente manera el deterioro\nde cartera el primer método es el método de deterioro por probabilidad de no pago\neste método es el más sencillo de utilizar y el más recomendable para\nactivarlo basta con ir a la configuración de cada cuenta de cartera\nvencimiento y porcentajes de probabilidad de no pago para cada rango\nde días bajo este método el deterioro de cartera se calcula de la siguiente\nmanera se toma el valor en libros de la deuda y\nse verifica la cantidad de días de vencimiento que tiene la cuenta a la\nfecha de aplicación del deterioro según esta cantidad de días el sistema\nverificará la tabla de días y según el porcentaje configurado en la cuenta para\nlos días de vencida se calculará sobre ese saldo de la cuenta el nuevo\nvalor de un millón de pesos y a la fecha de aplicación del deterioro tiene 31\ndías de vencida el sistema consultar a la tabla de vencimientos y porcentajes y\nen este caso aplicará un porcentaje de deterioro del 10% que equivale a 100 mil\npesos entonces este será el valor del deterioro aplicado a esta cuenta\nel segundo método es el método de deterioro por flujos futuros para\naplicar este método basta con ir a la configuración de la cuenta de cartera\nsobre la cual se aplicará el deterioro y allí activar la opción luego la\noperación de deterioro se activara el botón a través del cual deberemos\nindicar los datos de los flujos futuros bajo este método el deterioro de cartera\nse calcula de la siguiente manera se toma el valor en libros de la deuda y\nluego de indicar el valor de los flujos futuros y de la fecha estimada en la que\nse recibirán dichos flujos se debe indicar la tasa de interés con la cual\nse calculará el valor presente de dichos flujos futuros luego de que el sistema\ncalcule el valor presente de los flujos futuros este valor se resta al valor\nsi por ejemplo tenemos una cuenta por valor de 2 millones de pesos y esperamos\nrecibir el total del valor adeudado en 91 días tomando una tasa interés del 10\npor ciento de mercado el sistema utilizará la fórmula del valor presente\npara traer al día de hoy esos 2 millones de pesos que esperamos recibir en 91\ndías en este caso el valor presente es de un millón 900 53 mil 35 pesos con 67\ncentavos luego este valor es restado al valor actual del crédito es decir los 2\nmillones de pesos y de allí sale el valor del deterioro que en este caso es\nde 46 mil 964 pesos con 33 centavos el tercer método es el método del costo\namortizado este método sólo debe ser utilizado por aquellos usuarios que\nestán llevando el costo amortizado de sus activos financieros específicamente\nde sus cuentas por cobrar para activar este método debemos ir a la\nluego en la cuenta contable de cartera a la cual vayamos a activar el método de\ncosto amortizado debemos indicar la tasa efectiva anual o nominal diaria con la\ncual se calculará el costo amortizado de la cuenta bajo este método el deterioro\nde cartera se calcula de la siguiente manera se toma el valor en libros de la\ndeuda y luego se verifican los días en vencimiento y la tasa de interés\nconfigurada en cada cuenta posteriormente el sistema actualiza el\nvalor en libros de la deuda y resta este valor al salto en libros de allí se\ncalcula el deterioro si por ejemplo tenemos una cuenta por\nvalor de 800 mil pesos y cuenta con 75 días de vencimiento vamos a utilizar una\ntasa de interés efectiva anual del 10 por ciento esta tasa el sistema la\nconvertirá en tasa nominal diaria y contando la cantidad de días de\nvencimiento actualizará el valor de la deuda utilizando la fórmula de valor\nfuturo en este caso el valor actualizado de la deuda es de 815 mil 821 pesos con\n8 centavos entonces a este valor se le resta el valor contabilizado y la deuda\nes decir los 800 mil pesos y de esta resta sale el valor del deterioro que en\neste caso sería 15 mil 821 pesos con ocho centavos hemos podido dar la forma\nen que el sistema calcula el valor del deterioro bajo cada uno de los métodos\ntambién debemos recordar que es posible manejar de forma simultánea los tres\nesto es todo acerca de métodos de deterioro de cartera en conta pyme"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 171.971,
+    "asr": 44100,
+    "filesizeApprox": 6941093,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/5FTNWpRcaz0.md",
+    "json": "videos/2020/5FTNWpRcaz0.json",
+    "infoJson": "videos/2020/5FTNWpRcaz0.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "5FTNWpRcaz0",
+        "youtubeId": "5FTNWpRcaz0",
+        "titulo": "Métodos deterioro",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

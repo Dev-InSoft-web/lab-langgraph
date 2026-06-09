@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "entryId": "I0750Sj_S9M",
+  "youtubeId": "I0750Sj_S9M",
+  "status": "pending",
+  "updatedAt": "2026-06-05T17:10:08.865Z",
+  "icursos": [
+    "CP40MOD610"
+  ],
+  "entries": [
+    {
+      "entryId": "I0750Sj_S9M",
+      "youtubeId": "I0750Sj_S9M",
+      "iplan": "020030",
+      "capitulo": "Empresa",
+      "titulo": "¿Cómo definir la estructura de la empresa en ContaPyme?",
+      "descripcion": "Aprende cómo estructurar correctamente tu empresa desde el explorador gráfico en ContaPyme: organiza empresa, unidades de negocio, sedes y centros de costos de forma clara y eficiente.&nbsp;",
+      "profesor": {
+        "rol": "Asesor",
+        "nombre": "Santiago Alarcon Arango"
+      },
+      "dificultad": "Básico",
+      "source": "html-page",
+      "icurso": "CP40MOD610"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "descripcionCurso": "Módulo de sistema básico de ContaPyme"
+    }
+  ]
+}

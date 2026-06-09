@@ -3,14 +3,13 @@ import { resolveLabRepoRoot } from "../core/data-paths.js";
 import { resolveLabDataRoot } from "../core/lab-data-paths.js";
 import {
 	getClientesisDatabaseUrl,
-	getPatyDatabaseUrl,
+	getLanglabDatabaseUrl,
 	getRagDatabaseUrl,
 } from "../core/config.js";
 import { pingClientesisDb, pingPatyDb, pingRagDb } from "../db/pg.js";
 import {
-	PG_SCHEMA_CLIENTESIS,
-	PG_SCHEMA_LAB,
-	PG_SCHEMA_PATY,
+	PG_SCHEMA_ISADOC,
+	PG_SCHEMA_LANGLAB,
 	PG_SCHEMA_RAG,
 } from "../core/lab-constants.js";
 import { bundledCatalogExists } from "./postman/paths.js";
@@ -81,7 +80,7 @@ export async function getConnectionsSummary(): Promise<{
 	let clientesisConfigured = false;
 	let ragConfigured = false;
 	try {
-		getPatyDatabaseUrl();
+		getLanglabDatabaseUrl();
 		patyConfigured = true;
 	} catch {
 		patyConfigured = false;
@@ -105,11 +104,11 @@ export async function getConnectionsSummary(): Promise<{
 		labRoot: resolveLabRepoRoot(),
 		dataRoot: resolveLabDataRoot(),
 		databases: {
-			paty: { configured: patyConfigured, ok: patyOk, schemas: [PG_SCHEMA_PATY, PG_SCHEMA_LAB] },
+			paty: { configured: patyConfigured, ok: patyOk, schemas: [PG_SCHEMA_LANGLAB, PG_SCHEMA_ISADOC] },
 			clientesis: {
 				configured: clientesisConfigured,
 				ok: clientesisOk,
-				schemas: [PG_SCHEMA_CLIENTESIS],
+				schemas: [PG_SCHEMA_ISADOC],
 			},
 			rag: { configured: ragConfigured, ok: ragOk, schemas: [PG_SCHEMA_RAG] },
 		},

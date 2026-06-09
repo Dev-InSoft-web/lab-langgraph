@@ -1,0 +1,936 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:16:08.247Z",
+  "videoId": "jUpDi8BDRx0",
+  "videoUrl": "https://www.youtube.com/watch?v=jUpDi8BDRx0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "jUpDi8BDRx0",
+    "title": "Ejemplo 2 deterioro de cartera",
+    "fulltitle": "Ejemplo 2 deterioro de cartera",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 558,
+    "duration_string": "9:18",
+    "upload_date": "20200526",
+    "timestamp": 1590524302,
+    "view_count": 11,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXMPptTLZbBicvO53rX6PF8QT4_w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB4AlgyojzLEHPbAFxLQMMJIhSDQg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSyEqLwyy35TIu88ws6y85cQrp5w",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAHCxvNrC94Vo1Zvlv4gfb5xKplXQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN3UUB34_E64ewDLrilk1TcBDJtg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASXrgaMAN1476YiRGQw6LmaNQyfw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBGjr3IbvrhovCWNUuKqmzRpts4Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqv9XcFR-OqhWrKHS_4SuHbaJ8Ew",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jUpDi8BDRx0/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jUpDi8BDRx0/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=jUpDi8BDRx0",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17921146953405018,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.2025089605734767,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.2025089605734767,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 221.327,
+        "asr": 44100,
+        "filesize_approx": 15425938,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Ejemplo 2 deterioro de cartera",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/jUpDi8BDRx0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jUpDi8BDRx0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Ejemplo 2 deterioro de cartera\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 101,
+    "transcriptChars": 7258,
+    "segments": [
+      {
+        "text": "ejemplo 2 operación de deterioro de cartera el objetivo de este vídeo es",
+        "startMs": 510,
+        "durationMs": 5869
+      },
+      {
+        "text": "mostrar por medio de un ejemplo cómo se realiza la operación de deterioro de",
+        "startMs": 6379,
+        "durationMs": 5041
+      },
+      {
+        "text": "cartera para este ejemplo vamos a aplicar el deterioro de cartera sobre",
+        "startMs": 11420,
+        "durationMs": 5040
+      },
+      {
+        "text": "una cuenta en particular utilizando el método de flujos futuros se tiene una",
+        "startMs": 16460,
+        "durationMs": 5610
+      },
+      {
+        "text": "cuenta vencida con la señora jenny espinoza desde el 25 de julio de 2015",
+        "startMs": 22070,
+        "durationMs": 4800
+      },
+      {
+        "text": "por valor de 2 millones de pesos según la conversación que se ha sostenido con",
+        "startMs": 26870,
+        "durationMs": 5580
+      },
+      {
+        "text": "ella estima que nos podrá pagar toda la deuda el día 31 de marzo de 2016 el 31",
+        "startMs": 32450,
+        "durationMs": 8129
+      },
+      {
+        "text": "de diciembre de 2015 se deben presentar informes por lo que debemos aplicar el",
+        "startMs": 40579,
+        "durationMs": 4980
+      },
+      {
+        "text": "deterioro de cartera ubicados en el manejador de operaciones",
+        "startMs": 45559,
+        "durationMs": 4921
+      },
+      {
+        "text": "damos click al botón más operaciones y en la pestaña cartera encontramos el",
+        "startMs": 50480,
+        "durationMs": 5880
+      },
+      {
+        "text": "vamos a sustentar nuestra operación con el tipo de documento de soporte 270 de",
+        "startMs": 61010,
+        "durationMs": 5280
+      },
+      {
+        "text": "deterioro de cartera vemos que el sistema calcula de forma automática el",
+        "startMs": 56360,
+        "durationMs": 14640
+      },
+      {
+        "text": "número del consecutivo como fecha de soporte de la transacción vamos a dejar",
+        "startMs": 71000,
+        "durationMs": 4800
+      },
+      {
+        "text": "el día 31 de diciembre de 2015 en el detalle vamos a escribir deterioro",
+        "startMs": 75800,
+        "durationMs": 7490
+      },
+      {
+        "text": "de cartera cuenta de jenny espinoza vamos a indicar el centro de costos",
+        "startMs": 83290,
+        "durationMs": 4830
+      },
+      {
+        "text": "sobre el cual se cargará la pérdida por deterioro abrimos el seleccionador y",
+        "startMs": 88120,
+        "durationMs": 6300
+      },
+      {
+        "text": "buscamos el centro de costos de gastos generales",
+        "startMs": 94420,
+        "durationMs": 4020
+      },
+      {
+        "text": "generales ahora vamos a cargar la cuenta que",
+        "startMs": 98440,
+        "durationMs": 2160
+      },
+      {
+        "text": "tenemos pendiente con la señora jenny espinoza damos click al botón para",
+        "startMs": 100600,
+        "durationMs": 4170
+      },
+      {
+        "text": "cargar todas las cuentas a deterioradas recordemos que podemos seleccionar un",
+        "startMs": 104770,
+        "durationMs": 5210
+      },
+      {
+        "text": "tercero en particular un rango de cuentas e igualmente cargar los",
+        "startMs": 109980,
+        "durationMs": 5430
+      },
+      {
+        "text": "vencimientos por fecha o los vencimientos por días en este caso vamos",
+        "startMs": 115410,
+        "durationMs": 5879
+      },
+      {
+        "text": "a cargar al tercero abrimos el seleccionador",
+        "startMs": 121289,
+        "durationMs": 4421
+      },
+      {
+        "text": "seleccionador y buscamos a la señora jenny espinoza",
+        "startMs": 125710,
+        "durationMs": 2840
+      },
+      {
+        "text": "damos doble click para seleccionarla ahora vamos a cargar todas las cuentas",
+        "startMs": 128550,
+        "durationMs": 5800
+      },
+      {
+        "text": "que tenga pendientes entre 1 y 180 días habilitamos la opción y en el rango",
+        "startMs": 134350,
+        "durationMs": 7110
+      },
+      {
+        "text": "hasta escribimos 180 finalmente damos clic al botón aceptar",
+        "startMs": 141460,
+        "durationMs": 6960
+      },
+      {
+        "text": "vemos entonces cómo se ha cargado toda la información de la deuda como el saldo",
+        "startMs": 148420,
+        "durationMs": 6490
+      },
+      {
+        "text": "actual la fecha de vencimiento y los días de",
+        "startMs": 154910,
+        "durationMs": 4880
+      },
+      {
+        "text": "vencida ahora vemos que el sistema ha",
+        "startMs": 159790,
+        "durationMs": 2070
+      },
+      {
+        "text": "deshabilitado la columna para calcular el valor del deterioro por costo",
+        "startMs": 161860,
+        "durationMs": 6190
+      },
+      {
+        "text": "amortizado al igual que el valor del deterioro por",
+        "startMs": 168050,
+        "durationMs": 2250
+      },
+      {
+        "text": "probabilidad de no pago y ha dejado solamente habilitado el campo para",
+        "startMs": 170300,
+        "durationMs": 4920
+      },
+      {
+        "text": "calcular el deterioro por flujos futuros esto es porque la cuenta de cartera",
+        "startMs": 175220,
+        "durationMs": 5040
+      },
+      {
+        "text": "manejo de deterioro por flujos futuros ahora bien podemos ver que el sistema ha",
+        "startMs": 184580,
+        "durationMs": 5190
+      },
+      {
+        "text": "habilitado el botón de cálculo de flujos futuros es a través de esta herramienta",
+        "startMs": 180260,
+        "durationMs": 13950
+      },
+      {
+        "text": "cómo podremos calcular el valor del deterioro vamos entonces a dar clic",
+        "startMs": 194210,
+        "durationMs": 5160
+      },
+      {
+        "text": "sobre el botón para calcular los flujos futuros",
+        "startMs": 199370,
+        "durationMs": 4450
+      },
+      {
+        "text": "futuros en la ventana que el sistema nos",
+        "startMs": 203820,
+        "durationMs": 1620
+      },
+      {
+        "text": "habilita encontramos al lado izquierdo un panel en el cual debemos indicar el",
+        "startMs": 205440,
+        "durationMs": 5580
+      },
+      {
+        "text": "valor de los pagos futuros y las fechas de esos pagos futuros al igual que la",
+        "startMs": 211020,
+        "durationMs": 6510
+      },
+      {
+        "text": "tasa de interés con la cual se calculará el valor si la deuda maneja intereses",
+        "startMs": 217530,
+        "durationMs": 5610
+      },
+      {
+        "text": "debemos utilizar esa tasa de interés pero si los intereses son implícitos es",
+        "startMs": 223140,
+        "durationMs": 5760
+      },
+      {
+        "text": "decir están incluidos de manera no expresa se debe indicar la tasa de",
+        "startMs": 228900,
+        "durationMs": 5340
+      },
+      {
+        "text": "mercado para una deuda de características similares también vemos",
+        "startMs": 234240,
+        "durationMs": 5130
+      },
+      {
+        "text": "el campo donde se calculará de forma automática el valor presente de los",
+        "startMs": 239370,
+        "durationMs": 4890
+      },
+      {
+        "text": "pagos o flujos futuros estimados en el panel del lado derecho se muestra el",
+        "startMs": 244260,
+        "durationMs": 5490
+      },
+      {
+        "text": "resumen del cálculo del deterioro podemos ver el valor en libros de la",
+        "startMs": 249750,
+        "durationMs": 5160
+      },
+      {
+        "text": "deuda menos la sumatoria del valor presente de los pagos o flujos futuros y",
+        "startMs": 254910,
+        "durationMs": 6000
+      },
+      {
+        "text": "de esta resta se calcula el valor del deterioro vamos entonces a indicar los",
+        "startMs": 260910,
+        "durationMs": 5280
+      },
+      {
+        "text": "datos de los flujos futuros recordemos que la señora jenny",
+        "startMs": 266190,
+        "durationMs": 4140
+      },
+      {
+        "text": "para cancelarlos el total de la deuda el día 31 de marzo de 2016 entonces como",
+        "startMs": 270330,
+        "durationMs": 6750
+      },
+      {
+        "text": "fecha vamos a indicar el día 31 de marzo de 2016",
+        "startMs": 277080,
+        "durationMs": 6310
+      },
+      {
+        "text": "y en el valor vamos a colocar los dos millones de pesos ya que ese es el valor",
+        "startMs": 283390,
+        "durationMs": 5579
+      },
+      {
+        "text": "que la señora jenny nos cancelará en dicha fecha",
+        "startMs": 288969,
+        "durationMs": 5211
+      },
+      {
+        "text": "en el caso que la señora jenny tenga pensado cancelarnos en cuotas debemos",
+        "startMs": 294190,
+        "durationMs": 4970
+      },
+      {
+        "text": "indicar la fecha de cada cuota y el valor de igual forma si la señora jenny",
+        "startMs": 299160,
+        "durationMs": 5070
+      },
+      {
+        "text": "nos manifiesta que no podrá cancelar nos el valor total si no una parte debemos",
+        "startMs": 304230,
+        "durationMs": 5670
+      },
+      {
+        "text": "entonces indicar dicho valor luego vamos a indicar la tasa de interés con la cual",
+        "startMs": 309900,
+        "durationMs": 6030
+      },
+      {
+        "text": "se realizará el cálculo como la deuda no tiene intereses utilizaremos la tasa de",
+        "startMs": 315930,
+        "durationMs": 5460
+      },
+      {
+        "text": "referencia para una deuda similar la cual en este ejemplo es del 10 por",
+        "startMs": 321390,
+        "durationMs": 5010
+      },
+      {
+        "text": "ciento efectivo anual podemos entonces ver como con base en",
+        "startMs": 326400,
+        "durationMs": 5300
+      },
+      {
+        "text": "esa información el sistema ha calculado el valor presente de esos pagos o flujos",
+        "startMs": 331700,
+        "durationMs": 5670
+      },
+      {
+        "text": "futuros que estimamos recibir y luego al valor en libros de la deuda se le resta",
+        "startMs": 337370,
+        "durationMs": 5940
+      },
+      {
+        "text": "el valor presente de esos pagos futuros para obtener así el valor del deterioro",
+        "startMs": 343310,
+        "durationMs": 5970
+      },
+      {
+        "text": "que en este caso es de 46 mil 974 pesos con 33 centavos",
+        "startMs": 349280,
+        "durationMs": 6780
+      },
+      {
+        "text": "finalmente damos clic al botón aceptar vemos entonces que el sistema ha cargado",
+        "startMs": 356060,
+        "durationMs": 5740
+      },
+      {
+        "text": "el valor del deterioro ya en la operación",
+        "startMs": 361800,
+        "durationMs": 3180
+      },
+      {
+        "text": "operación por último verificamos que el botón auto",
+        "startMs": 364980,
+        "durationMs": 2100
+      },
+      {
+        "text": "procesada se encuentra encendido y damos clic al botón aceptar",
+        "startMs": 367080,
+        "durationMs": 7359
+      },
+      {
+        "text": "vamos a verificar el movimiento contable de la operación a través del inspector",
+        "startMs": 374449,
+        "durationMs": 4790
+      },
+      {
+        "text": "podemos ver que para la contabilización local no se ha calculado ningún tipo de",
+        "startMs": 385150,
+        "durationMs": 5250
+      },
+      {
+        "text": "movimiento contable si miramos la contabilización nif el sistema ha",
+        "startMs": 379239,
+        "durationMs": 16051
+      },
+      {
+        "text": "cargado un valor crédito a la cuenta 13 99 05 05 que es la cuenta fuente de",
+        "startMs": 395290,
+        "durationMs": 6570
+      },
+      {
+        "text": "deterioro y ha cargado el débito por la pérdida de deterioro a la cuenta del",
+        "startMs": 401860,
+        "durationMs": 4860
+      },
+      {
+        "text": "gasto 51 99 10 05 con cargo al centro de costos seleccionado ahora vamos a",
+        "startMs": 406720,
+        "durationMs": 7470
+      },
+      {
+        "text": "visualizar un informe de cartera para verificar la afectación de este",
+        "startMs": 414190,
+        "durationMs": 3840
+      },
+      {
+        "text": "deterioro nos dirigimos a la pestaña cartera y en el botón cartera",
+        "startMs": 418030,
+        "durationMs": 5190
+      },
+      {
+        "text": "desplegamos la flecha hacia abajo vamos a seleccionar el informe consulta saldos",
+        "startMs": 423220,
+        "durationMs": 5700
+      },
+      {
+        "text": "de cuentas por cobrar en esta ventana debemos seleccionar la",
+        "startMs": 428920,
+        "durationMs": 4890
+      },
+      {
+        "text": "fecha de referencia es decir la fecha hasta la cual se realizará la consulta",
+        "startMs": 433810,
+        "durationMs": 4590
+      },
+      {
+        "text": "un rango de cuentas y un tercero entre otros datos para este ejemplo la fecha",
+        "startMs": 438400,
+        "durationMs": 7440
+      },
+      {
+        "text": "de referencia será el 31 de diciembre de 2015 que es la fecha en la cual se ha",
+        "startMs": 445840,
+        "durationMs": 5970
+      },
+      {
+        "text": "realizado el deterioro en tercero vamos a seleccionar a la",
+        "startMs": 451810,
+        "durationMs": 5149
+      },
+      {
+        "text": "señora jenny espinoza damos clic al botón aceptar",
+        "startMs": 456959,
+        "durationMs": 6480
+      },
+      {
+        "text": "vemos entonces que para la contabilización local el sistema ha",
+        "startMs": 463449,
+        "durationMs": 3800
+      },
+      {
+        "text": "cargado los valores actuales de la deuda valores como la fecha de creación del",
+        "startMs": 467249,
+        "durationMs": 5310
+      },
+      {
+        "text": "documento la fecha estimada de pago el número de la referencia el saldo de la",
+        "startMs": 472559,
+        "durationMs": 6840
+      },
+      {
+        "text": "deuda y la edad en cartera si nos pasamos a la contabilización nis vemos",
+        "startMs": 479399,
+        "durationMs": 6570
+      },
+      {
+        "text": "que efectivamente tenemos los mismos datos para la deuda la fecha del",
+        "startMs": 485969,
+        "durationMs": 4590
+      },
+      {
+        "text": "documento la fecha estimada de pago la referencia y el saldo que es exactamente",
+        "startMs": 490559,
+        "durationMs": 5791
+      },
+      {
+        "text": "el mismo pero igualmente vemos que sobre esta referencia ya se evidencia una",
+        "startMs": 496350,
+        "durationMs": 5729
+      },
+      {
+        "text": "pérdida por deterioro de 46 1964 pesos con 33 centavos por último vamos a",
+        "startMs": 502079,
+        "durationMs": 7980
+      },
+      {
+        "text": "edificar el documento de impresión de la operación vamos a regresar al manejador",
+        "startMs": 510059,
+        "durationMs": 4650
+      },
+      {
+        "text": "de operaciones y estando ubicados sobre la operación utilizaremos el comando",
+        "startMs": 514709,
+        "durationMs": 7930
+      },
+      {
+        "text": "control el sistema nos abre el seleccionador de",
+        "startMs": 522639,
+        "durationMs": 2401
+      },
+      {
+        "text": "documentos de impresión en este caso vamos a utilizar el documento 545 de",
+        "startMs": 525040,
+        "durationMs": 5819
+      },
+      {
+        "text": "comprobante de deterioro de cartera damos clic al botón vista previa",
+        "startMs": 530859,
+        "durationMs": 7410
+      },
+      {
+        "text": "vemos entonces que el documento de impresión ha cargado todos los datos",
+        "startMs": 538279,
+        "durationMs": 3980
+      },
+      {
+        "text": "consignados en la operación incluyendo el valor de deterioro calculado bajo el",
+        "startMs": 542259,
+        "durationMs": 6031
+      },
+      {
+        "text": "método de flujos futuros esto es todo acerca de ejemplo 2",
+        "startMs": 548290,
+        "durationMs": 10340
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\nejemplo 2 operación de deterioro de cartera el objetivo de este vídeo es\nmostrar por medio de un ejemplo cómo se realiza la operación de deterioro de\ncartera para este ejemplo vamos a aplicar el deterioro de cartera sobre\nuna cuenta en particular utilizando el método de flujos futuros se tiene una\ncuenta vencida con la señora jenny espinoza desde el 25 de julio de 2015\npor valor de 2 millones de pesos según la conversación que se ha sostenido con\nella estima que nos podrá pagar toda la deuda el día 31 de marzo de 2016 el 31\nde diciembre de 2015 se deben presentar informes por lo que debemos aplicar el\ndeterioro de cartera ubicados en el manejador de operaciones\ndamos click al botón más operaciones y en la pestaña cartera encontramos el\nvamos a sustentar nuestra operación con el tipo de documento de soporte 270 de\ndeterioro de cartera vemos que el sistema calcula de forma automática el\nnúmero del consecutivo como fecha de soporte de la transacción vamos a dejar\nel día 31 de diciembre de 2015 en el detalle vamos a escribir deterioro\nde cartera cuenta de jenny espinoza vamos a indicar el centro de costos\nsobre el cual se cargará la pérdida por deterioro abrimos el seleccionador y\nbuscamos el centro de costos de gastos generales\ngenerales ahora vamos a cargar la cuenta que\ntenemos pendiente con la señora jenny espinoza damos click al botón para\ncargar todas las cuentas a deterioradas recordemos que podemos seleccionar un\ntercero en particular un rango de cuentas e igualmente cargar los\nvencimientos por fecha o los vencimientos por días en este caso vamos\na cargar al tercero abrimos el seleccionador\nseleccionador y buscamos a la señora jenny espinoza\ndamos doble click para seleccionarla ahora vamos a cargar todas las cuentas\nque tenga pendientes entre 1 y 180 días habilitamos la opción y en el rango\nhasta escribimos 180 finalmente damos clic al botón aceptar\nvemos entonces cómo se ha cargado toda la información de la deuda como el saldo\nactual la fecha de vencimiento y los días de\nvencida ahora vemos que el sistema ha\ndeshabilitado la columna para calcular el valor del deterioro por costo\namortizado al igual que el valor del deterioro por\nprobabilidad de no pago y ha dejado solamente habilitado el campo para\ncalcular el deterioro por flujos futuros esto es porque la cuenta de cartera\nmanejo de deterioro por flujos futuros ahora bien podemos ver que el sistema ha\nhabilitado el botón de cálculo de flujos futuros es a través de esta herramienta\ncómo podremos calcular el valor del deterioro vamos entonces a dar clic\nsobre el botón para calcular los flujos futuros\nfuturos en la ventana que el sistema nos\nhabilita encontramos al lado izquierdo un panel en el cual debemos indicar el\nvalor de los pagos futuros y las fechas de esos pagos futuros al igual que la\ntasa de interés con la cual se calculará el valor si la deuda maneja intereses\ndebemos utilizar esa tasa de interés pero si los intereses son implícitos es\ndecir están incluidos de manera no expresa se debe indicar la tasa de\nmercado para una deuda de características similares también vemos\nel campo donde se calculará de forma automática el valor presente de los\npagos o flujos futuros estimados en el panel del lado derecho se muestra el\nresumen del cálculo del deterioro podemos ver el valor en libros de la\ndeuda menos la sumatoria del valor presente de los pagos o flujos futuros y\nde esta resta se calcula el valor del deterioro vamos entonces a indicar los\ndatos de los flujos futuros recordemos que la señora jenny\npara cancelarlos el total de la deuda el día 31 de marzo de 2016 entonces como\nfecha vamos a indicar el día 31 de marzo de 2016\ny en el valor vamos a colocar los dos millones de pesos ya que ese es el valor\nque la señora jenny nos cancelará en dicha fecha\nen el caso que la señora jenny tenga pensado cancelarnos en cuotas debemos\nindicar la fecha de cada cuota y el valor de igual forma si la señora jenny\nnos manifiesta que no podrá cancelar nos el valor total si no una parte debemos\nentonces indicar dicho valor luego vamos a indicar la tasa de interés con la cual\nse realizará el cálculo como la deuda no tiene intereses utilizaremos la tasa de\nreferencia para una deuda similar la cual en este ejemplo es del 10 por\nciento efectivo anual podemos entonces ver como con base en\nesa información el sistema ha calculado el valor presente de esos pagos o flujos\nfuturos que estimamos recibir y luego al valor en libros de la deuda se le resta\nel valor presente de esos pagos futuros para obtener así el valor del deterioro\nque en este caso es de 46 mil 974 pesos con 33 centavos\nfinalmente damos clic al botón aceptar vemos entonces que el sistema ha cargado\nel valor del deterioro ya en la operación\noperación por último verificamos que el botón auto\nprocesada se encuentra encendido y damos clic al botón aceptar\nvamos a verificar el movimiento contable de la operación a través del inspector\npodemos ver que para la contabilización local no se ha calculado ningún tipo de\nmovimiento contable si miramos la contabilización nif el sistema ha\ncargado un valor crédito a la cuenta 13 99 05 05 que es la cuenta fuente de\ndeterioro y ha cargado el débito por la pérdida de deterioro a la cuenta del\ngasto 51 99 10 05 con cargo al centro de costos seleccionado ahora vamos a\nvisualizar un informe de cartera para verificar la afectación de este\ndeterioro nos dirigimos a la pestaña cartera y en el botón cartera\ndesplegamos la flecha hacia abajo vamos a seleccionar el informe consulta saldos\nde cuentas por cobrar en esta ventana debemos seleccionar la\nfecha de referencia es decir la fecha hasta la cual se realizará la consulta\nun rango de cuentas y un tercero entre otros datos para este ejemplo la fecha\nde referencia será el 31 de diciembre de 2015 que es la fecha en la cual se ha\nrealizado el deterioro en tercero vamos a seleccionar a la\nseñora jenny espinoza damos clic al botón aceptar\nvemos entonces que para la contabilización local el sistema ha\ncargado los valores actuales de la deuda valores como la fecha de creación del\ndocumento la fecha estimada de pago el número de la referencia el saldo de la\ndeuda y la edad en cartera si nos pasamos a la contabilización nis vemos\nque efectivamente tenemos los mismos datos para la deuda la fecha del\ndocumento la fecha estimada de pago la referencia y el saldo que es exactamente\nel mismo pero igualmente vemos que sobre esta referencia ya se evidencia una\npérdida por deterioro de 46 1964 pesos con 33 centavos por último vamos a\nedificar el documento de impresión de la operación vamos a regresar al manejador\nde operaciones y estando ubicados sobre la operación utilizaremos el comando\ncontrol el sistema nos abre el seleccionador de\ndocumentos de impresión en este caso vamos a utilizar el documento 545 de\ncomprobante de deterioro de cartera damos clic al botón vista previa\nvemos entonces que el documento de impresión ha cargado todos los datos\nconsignados en la operación incluyendo el valor de deterioro calculado bajo el\nmétodo de flujos futuros esto es todo acerca de ejemplo 2"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 221.327,
+    "asr": 44100,
+    "filesizeApprox": 15425938,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/jUpDi8BDRx0.md",
+    "json": "videos/2020/jUpDi8BDRx0.json",
+    "infoJson": "videos/2020/jUpDi8BDRx0.info.json"
+  }
+}

@@ -1,7 +1,7 @@
 -- Copia datos desde esquemas legacy (paty, lab, clientesis, rag) → bd_* (idempotente).
 
 -- Paty · instrucciones
-INSERT INTO bd_paty.paty_instruccion (iinstruccion, ninstruccion, modelo, instruccion, descripcion, version, fhultact)
+INSERT INTO BD_LANGLAB.paty_instruccion (iinstruccion, ninstruccion, modelo, instruccion, descripcion, version, fhultact)
 SELECT iinstruccion, ninstruccion, modelo, instruccion, descripcion, version, COALESCE(updated_at, NOW())
 FROM paty.instruccion
 WHERE EXISTS (SELECT 1 FROM information_schema.tables WHERE table_schema = 'paty' AND table_name = 'instruccion')
@@ -14,7 +14,7 @@ ON CONFLICT (iinstruccion) DO UPDATE SET
 	fhultact = EXCLUDED.fhultact;
 
 -- Paty · conversaciones
-INSERT INTO bd_paty.paty_conversacion (
+INSERT INTO BD_LANGLAB.paty_conversacion (
 	iconversacion, itercero, icontacto, nombreusuario, titulo, hilo, modeloia, versionayuda,
 	itdestado, bautorizavisualizacion, imodulo, prompt, respuesta, qtokens, qmensajes, fhcre, fhultact
 )
@@ -27,12 +27,12 @@ WHERE EXISTS (SELECT 1 FROM information_schema.tables WHERE table_schema = 'paty
 ON CONFLICT (iconversacion) DO NOTHING;
 
 SELECT setval(
-	pg_get_serial_sequence('bd_paty.paty_conversacion', 'iconversacion'),
-	COALESCE((SELECT MAX(iconversacion) FROM bd_paty.paty_conversacion), 1)
+	pg_get_serial_sequence('BD_LANGLAB.paty_conversacion', 'iconversacion'),
+	COALESCE((SELECT MAX(iconversacion) FROM BD_LANGLAB.paty_conversacion), 1)
 );
 
 -- Paty · turnos
-INSERT INTO bd_paty.paty_conversacion_turno (
+INSERT INTO BD_LANGLAB.paty_conversacion_turno (
 	iturno, iconversacion, ts, prompttext, responsetext, prompttipo, corpus, bjailbreak, latencyms,
 	iturnindex, ilease, provider, keylabel
 )
@@ -44,8 +44,8 @@ WHERE EXISTS (SELECT 1 FROM information_schema.tables WHERE table_schema = 'paty
 ON CONFLICT (iturno) DO NOTHING;
 
 SELECT setval(
-	pg_get_serial_sequence('bd_paty.paty_conversacion_turno', 'iturno'),
-	COALESCE((SELECT MAX(iturno) FROM bd_paty.paty_conversacion_turno), 1)
+	pg_get_serial_sequence('BD_LANGLAB.paty_conversacion_turno', 'iturno'),
+	COALESCE((SELECT MAX(iturno) FROM BD_LANGLAB.paty_conversacion_turno), 1)
 );
 
 -- Lab · catálogo

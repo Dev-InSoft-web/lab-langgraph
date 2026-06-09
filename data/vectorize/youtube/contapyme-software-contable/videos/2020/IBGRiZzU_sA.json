@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:09:35.878Z",
+  "videoId": "IBGRiZzU_sA",
+  "videoUrl": "https://www.youtube.com/watch?v=IBGRiZzU_sA",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "IBGRiZzU_sA",
+    "title": "Facturación electrónica desde el portal de clientes - ContaPyme",
+    "fulltitle": "Facturación electrónica desde el portal de clientes - ContaPyme",
+    "description": "Tutorial para la subida de documentos en el portal de clientes y verifiquen el estado del proceso de Facturación Electrónica.",
+    "duration": 186,
+    "duration_string": "3:06",
+    "upload_date": "20200124",
+    "timestamp": 1579903731,
+    "view_count": 7243,
+    "like_count": 11,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBg5seQTXENhY5qPLuXssQG0j2hIg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEhwtcNJr5fXQCTdRGrmZNMIHodQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDf-4gL5o_iyfZI6Qj650wvJdbQLQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCOSmlUJ8a9ZF0KWHOX-mU44GnLXw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyJOVpiet7TmODIHXLnDzDeWKn0g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBENZ2X7xeed7K7hdGeSe-WkR8v8g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_e-oOBLa51RIZ3LiovIAbYMq9Aw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFRZzuI5VSXl77p5mGVsefQF5GLQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IBGRiZzU_sA/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/IBGRiZzU_sA/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=IBGRiZzU_sA",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.5376344086021505,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.5053763440860215,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.5053763440860215,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 25,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 257.352,
+        "asr": 44100,
+        "filesize_approx": 5983916,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Facturación electrónica desde el portal de clientes - ContaPyme",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/IBGRiZzU_sA/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/IBGRiZzU_sA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Facturación electrónica desde el portal de clientes - ContaPyme\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 36,
+    "transcriptChars": 2616,
+    "segments": [
+      {
+        "text": "iniciar facturación electrónica conjunta pyme es muy fácil desde el portal de",
+        "startMs": 0,
+        "durationMs": 4640
+      },
+      {
+        "text": "clientes gestione los requisitos necesarios para iniciar el proceso y",
+        "startMs": 4640,
+        "durationMs": 3930
+      },
+      {
+        "text": "monitoreo en tiempo real el estado de su solicitud inicia sesión en el portal de",
+        "startMs": 8570,
+        "durationMs": 5280
+      },
+      {
+        "text": "clientes de contras pm ingresando a www punto con tape puntocom y dando clic en",
+        "startMs": 13850,
+        "durationMs": 6480
+      },
+      {
+        "text": "la opción portal de clientes dé clic en la opción facturación electrónica si su",
+        "startMs": 20330,
+        "durationMs": 5490
+      },
+      {
+        "text": "empresa no se encuentra creada dé clic en agregar y registre los datos",
+        "startMs": 25820,
+        "durationMs": 5070
+      },
+      {
+        "text": "solicitados en caso contrario ubíquese sobre el recuadro que contiene",
+        "startMs": 30890,
+        "durationMs": 4560
+      },
+      {
+        "text": "el nombre de la empresa y dé clic en el botón continuar el primer paso y el más",
+        "startMs": 35450,
+        "durationMs": 5660
+      },
+      {
+        "text": "importante es cargar los documentos requeridos para iniciar la configuración",
+        "startMs": 41110,
+        "durationMs": 4540
+      },
+      {
+        "text": "de su empresa ante el proveedor tecnológico en los documentos que",
+        "startMs": 45650,
+        "durationMs": 3660
+      },
+      {
+        "text": "aparece el botón generar debe dar clic para que se guarde el documento para",
+        "startMs": 49310,
+        "durationMs": 4800
+      },
+      {
+        "text": "posteriormente imprimirlo firmarlo escanearlo y subirlo desde el portal",
+        "startMs": 54110,
+        "durationMs": 7040
+      },
+      {
+        "text": "para cada documento encontrará instrucciones",
+        "startMs": 61150,
+        "durationMs": 4690
+      },
+      {
+        "text": "instrucciones lo guiarán en el correcto",
+        "startMs": 65840,
+        "durationMs": 2030
+      },
+      {
+        "text": "diligenciamiento de la información preste especial atención a cada una de",
+        "startMs": 67870,
+        "durationMs": 5529
+      },
+      {
+        "text": "las recomendaciones tenga en cuenta que debe subir todos los",
+        "startMs": 73399,
+        "durationMs": 5291
+      },
+      {
+        "text": "documentos para que se inicia el proceso de revisión por parte de in shop hasta",
+        "startMs": 78690,
+        "durationMs": 6150
+      },
+      {
+        "text": "no tener todos los documentos aprobados no se podrá iniciar el proceso de",
+        "startMs": 84840,
+        "durationMs": 4230
+      },
+      {
+        "text": "registro y configuración ante el proveedor tecnológico cualquier novedad",
+        "startMs": 89070,
+        "durationMs": 4980
+      },
+      {
+        "text": "o rechazo de los documentos debe ser gestionada por usted a la mayor brevedad",
+        "startMs": 94050,
+        "durationMs": 4520
+      },
+      {
+        "text": "también tenga en cuenta que para la revisión de los documentos es necesario",
+        "startMs": 98570,
+        "durationMs": 4750
+      },
+      {
+        "text": "tener la factura emitida por parte de in shop",
+        "startMs": 103320,
+        "durationMs": 5610
+      },
+      {
+        "text": "shop una vez los documentos sean aprobados y",
+        "startMs": 108930,
+        "durationMs": 2460
+      },
+      {
+        "text": "reciba el certificado digital por parte de antes deberá indicar que ya recibió",
+        "startMs": 111390,
+        "durationMs": 5400
+      },
+      {
+        "text": "el certificado y esperar a que las credenciales de ingreso al portal del",
+        "startMs": 116790,
+        "durationMs": 4560
+      },
+      {
+        "text": "proveedor lleguen a su correo electrónico",
+        "startMs": 121350,
+        "durationMs": 4570
+      },
+      {
+        "text": "realice los pasos para habilitación de facturación electrónica siga atentamente",
+        "startMs": 125930,
+        "durationMs": 5960
+      },
+      {
+        "text": "las instrucciones y marque en cada uno la opción ya complete este paso al",
+        "startMs": 131890,
+        "durationMs": 6000
+      },
+      {
+        "text": "culminar el proceso",
+        "startMs": 137890,
+        "durationMs": 5250
+      },
+      {
+        "text": "cada paso cuenta con ayudas que le guiarán durante todo el proceso",
+        "startMs": 143150,
+        "durationMs": 6900
+      },
+      {
+        "text": "posteriormente confirma el paso a producción y siga las instrucciones para",
+        "startMs": 150060,
+        "durationMs": 4650
+      },
+      {
+        "text": "configurar el sistema en modo producción",
+        "startMs": 154710,
+        "durationMs": 7470
+      },
+      {
+        "text": "y listo puede emitir sus facturas electrónicas con con está pyme recuerde",
+        "startMs": 162190,
+        "durationMs": 5450
+      },
+      {
+        "text": "que puede validar el estado actual de su proceso en la parte superior del",
+        "startMs": 167640,
+        "durationMs": 3810
+      },
+      {
+        "text": "asistente y si tiene dudas o inquietudes pueden solicitar soporte técnico con tan",
+        "startMs": 171450,
+        "durationMs": 6540
+      },
+      {
+        "text": "solo un clic en la opción soporte técnico con está pyme simple rápido y",
+        "startMs": 177990,
+        "durationMs": 8970
+      }
+    ],
+    "plainText": "## Descripción del video\n\nTutorial para la subida de documentos en el portal de clientes y verifiquen el estado del proceso de Facturación Electrónica.\n\n## Transcripción\n\niniciar facturación electrónica conjunta pyme es muy fácil desde el portal de\nclientes gestione los requisitos necesarios para iniciar el proceso y\nmonitoreo en tiempo real el estado de su solicitud inicia sesión en el portal de\nclientes de contras pm ingresando a www punto con tape puntocom y dando clic en\nla opción portal de clientes dé clic en la opción facturación electrónica si su\nempresa no se encuentra creada dé clic en agregar y registre los datos\nsolicitados en caso contrario ubíquese sobre el recuadro que contiene\nel nombre de la empresa y dé clic en el botón continuar el primer paso y el más\nimportante es cargar los documentos requeridos para iniciar la configuración\nde su empresa ante el proveedor tecnológico en los documentos que\naparece el botón generar debe dar clic para que se guarde el documento para\nposteriormente imprimirlo firmarlo escanearlo y subirlo desde el portal\npara cada documento encontrará instrucciones\ninstrucciones lo guiarán en el correcto\ndiligenciamiento de la información preste especial atención a cada una de\nlas recomendaciones tenga en cuenta que debe subir todos los\ndocumentos para que se inicia el proceso de revisión por parte de in shop hasta\nno tener todos los documentos aprobados no se podrá iniciar el proceso de\nregistro y configuración ante el proveedor tecnológico cualquier novedad\no rechazo de los documentos debe ser gestionada por usted a la mayor brevedad\ntambién tenga en cuenta que para la revisión de los documentos es necesario\ntener la factura emitida por parte de in shop\nshop una vez los documentos sean aprobados y\nreciba el certificado digital por parte de antes deberá indicar que ya recibió\nel certificado y esperar a que las credenciales de ingreso al portal del\nproveedor lleguen a su correo electrónico\nrealice los pasos para habilitación de facturación electrónica siga atentamente\nlas instrucciones y marque en cada uno la opción ya complete este paso al\nculminar el proceso\ncada paso cuenta con ayudas que le guiarán durante todo el proceso\nposteriormente confirma el paso a producción y siga las instrucciones para\nconfigurar el sistema en modo producción\ny listo puede emitir sus facturas electrónicas con con está pyme recuerde\nque puede validar el estado actual de su proceso en la parte superior del\nasistente y si tiene dudas o inquietudes pueden solicitar soporte técnico con tan\nsolo un clic en la opción soporte técnico con está pyme simple rápido y"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 25,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 257.352,
+    "asr": 44100,
+    "filesizeApprox": 5983916,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/IBGRiZzU_sA.md",
+    "json": "videos/2020/IBGRiZzU_sA.json",
+    "infoJson": "videos/2020/IBGRiZzU_sA.info.json"
+  }
+}

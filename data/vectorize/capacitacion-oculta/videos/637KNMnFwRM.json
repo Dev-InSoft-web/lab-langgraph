@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:42:28.967Z",
+  "videoId": "637KNMnFwRM",
+  "videoUrl": "https://www.youtube.com/watch?v=637KNMnFwRM",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "637KNMnFwRM",
+    "title": "Software agrícola AgroWin - Informes de inventarios",
+    "fulltitle": "Software agrícola AgroWin - Informes de inventarios",
+    "description": "http://www.agrowin.com\nSoftware agrícola AgroWin\nSe explican de forma general los principales informes de inventarios del sistema.\nAW40-005-060-090B",
+    "duration": 242,
+    "duration_string": "4:02",
+    "upload_date": "20110915",
+    "timestamp": 1316128652,
+    "view_count": 484,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AgroWin",
+      "informes de inventario",
+      "software agrícola",
+      "software de producción",
+      "programa contable",
+      "software administrativo",
+      "contabilidad agropecuaria",
+      "contabilidad agrícola",
+      "sistema de gestion agricola",
+      "sistema agricola"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/637KNMnFwRM/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvDkHj7DN9YtKbBA5DXOI030u0BQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBugFN02DrSTaGEtO-GBBy6utqfXA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC53fPV-AB3dC3GjRKaysCN1RhbKw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcgfmTfqkQXbKWMWpzIZcy8Fm-vQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/637KNMnFwRM/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/637KNMnFwRM/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=637KNMnFwRM",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 11,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 166.525,
+        "asr": 44100,
+        "filesize_approx": 5031053,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software agrícola AgroWin - Informes de inventarios",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/637KNMnFwRM/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/637KNMnFwRM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software agrícola AgroWin - Informes de inventarios\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 44,
+    "transcriptChars": 3159,
+    "segments": [
+      {
+        "text": "a growing introducción general informes de inventarios",
+        "startMs": 1540,
+        "durationMs": 6510
+      },
+      {
+        "text": "los informes de inventarios se consultan para cada bodega creada en la",
+        "startMs": 8060,
+        "durationMs": 3680
+      },
+      {
+        "text": "configuración del sistema por ejemplo para la vega insumos lados de",
+        "startMs": 11740,
+        "durationMs": 3810
+      },
+      {
+        "text": "herramientas y combustibles la bodega repuestos la vega de productos etcétera",
+        "startMs": 15550,
+        "durationMs": 6360
+      },
+      {
+        "text": "el principal de ellos es el informe de saldos de inventario",
+        "startMs": 21910,
+        "durationMs": 4380
+      },
+      {
+        "text": "en este caso presentamos el informe de saldos de inventario para insumos y",
+        "startMs": 26290,
+        "durationMs": 6000
+      },
+      {
+        "text": "materiales consultados hasta el 31 de diciembre del",
+        "startMs": 32290,
+        "durationMs": 2579
+      },
+      {
+        "text": "elementos existentes en la vega insumos a la fecha de consulta",
+        "startMs": 39400,
+        "durationMs": 3680
+      },
+      {
+        "text": "debidamente codificado con su unidad cantidad de elemento en bodega costo",
+        "startMs": 43080,
+        "durationMs": 5730
+      },
+      {
+        "text": "unitario y costo total por elemento además el costo total de la existencia",
+        "startMs": 48810,
+        "durationMs": 4140
+      },
+      {
+        "text": "en la bodega ese mismo informe consultado para una",
+        "startMs": 52950,
+        "durationMs": 4119
+      },
+      {
+        "text": "bodega de herramientas y combustibles presenta a cabo en las herramientas y",
+        "startMs": 57069,
+        "durationMs": 3961
+      },
+      {
+        "text": "combustibles existentes en la bodega con su unidad cantidad costo unitario y",
+        "startMs": 61030,
+        "durationMs": 4320
+      },
+      {
+        "text": "costo total también saldos hasta el 31 diciembre de 2009 hasta la fecha de",
+        "startMs": 65350,
+        "durationMs": 5980
+      },
+      {
+        "text": "consulta el mismo informe consultado para una",
+        "startMs": 71330,
+        "durationMs": 1889
+      },
+      {
+        "text": "repuestos su unidad cantidad y costo unitario costo total debidamente",
+        "startMs": 76849,
+        "durationMs": 7471
+      },
+      {
+        "text": "y finalmente el mismo informe consultado para una vega de productos ofrece cada",
+        "startMs": 84330,
+        "durationMs": 3740
+      },
+      {
+        "text": "uno de los productos en bodega 2 a la fecha disponibles para la venta en este",
+        "startMs": 34869,
+        "durationMs": 56951
+      },
+      {
+        "text": "caso guanábana y mandarina onecco la cantidad y el costo unitario de",
+        "startMs": 91820,
+        "durationMs": 7650
+      },
+      {
+        "text": "en torno a las bodegas se pueden consultar también otros informes",
+        "startMs": 99480,
+        "durationMs": 2720
+      },
+      {
+        "text": "importantes como el informe de entradas y salidas en el periodo que presenta",
+        "startMs": 102200,
+        "durationMs": 4590
+      },
+      {
+        "text": "cada uno de los elementos existentes en la bodega",
+        "startMs": 106790,
+        "durationMs": 4650
+      },
+      {
+        "text": "la cantidad entrada en el mes la cantidad salida en el mes",
+        "startMs": 111450,
+        "durationMs": 5120
+      },
+      {
+        "text": "el saldo anterior al mes de consulta y el nuevo salto es un",
+        "startMs": 116570,
+        "durationMs": 5730
+      },
+      {
+        "text": "informe que se consulta por períodos que estamos contando desde el primero de",
+        "startMs": 122300,
+        "durationMs": 4479
+      },
+      {
+        "text": "diciembre en 2008 hasta el 31 diciembre 2008 todo el mes de diciembre",
+        "startMs": 126779,
+        "durationMs": 5191
+      },
+      {
+        "text": "aparece entonces la cantidad en existencia del elemento",
+        "startMs": 131970,
+        "durationMs": 3960
+      },
+      {
+        "text": "excepto en centímetros cúbicos el costo unitario el costo total es un informe de",
+        "startMs": 135930,
+        "durationMs": 9390
+      },
+      {
+        "text": "el mismo informe extendido se llama el movimiento detallado elementos presenta",
+        "startMs": 145330,
+        "durationMs": 5390
+      },
+      {
+        "text": "cada uno de los elementos la cantidad",
+        "startMs": 150720,
+        "durationMs": 6160
+      },
+      {
+        "text": "en existencia las salidas y el saldo final",
+        "startMs": 156890,
+        "durationMs": 6970
+      },
+      {
+        "text": "pero adicionalmente nos presenta los datos cuando aplican del origen del",
+        "startMs": 163870,
+        "durationMs": 4639
+      },
+      {
+        "text": "elemento y el destino el elemento que quiere decir que estas avispas de",
+        "startMs": 168509,
+        "durationMs": 2671
+      },
+      {
+        "text": "control biológico estas 700 unidades se aplicaron a los 140 días",
+        "startMs": 171180,
+        "durationMs": 7100
+      },
+      {
+        "text": "es el informe del movimiento detallado elementos",
+        "startMs": 178280,
+        "durationMs": 4890
+      },
+      {
+        "text": "finalmente está el informe de inventario de disponibilidad",
+        "startMs": 183180,
+        "durationMs": 5160
+      },
+      {
+        "text": "qué talla para cada bodega su existencia a la fecha de consulta",
+        "startMs": 188340,
+        "durationMs": 5580
+      },
+      {
+        "text": "más las órdenes de compra sin recibir - las remisiones a clientes o los",
+        "startMs": 193930,
+        "durationMs": 5970
+      },
+      {
+        "text": "pedidos a clientes sin facturar entre otros conceptos que pueden afectar la",
+        "startMs": 199900,
+        "durationMs": 5630
+      },
+      {
+        "text": "existencia proyectada del inventario y finalmente nos muestra el inventario",
+        "startMs": 205530,
+        "durationMs": 7690
+      },
+      {
+        "text": "el sistema growing incluye además informes adicionales como los informes",
+        "startMs": 213230,
+        "durationMs": 3829
+      },
+      {
+        "text": "de listas de precios esto con máximos y mínimos informes de ventas por cliente o",
+        "startMs": 217059,
+        "durationMs": 5551
+      },
+      {
+        "text": "por bodega como se consulten informes de rotación de producto entre muchos otros",
+        "startMs": 222610,
+        "durationMs": 4830
+      },
+      {
+        "text": "de uso más especializado para contadores hasta aquí el tema de informes de",
+        "startMs": 227440,
+        "durationMs": 8769
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.agrowin.com\nSoftware agrícola AgroWin\nSe explican de forma general los principales informes de inventarios del sistema.\nAW40-005-060-090B\n\n## Transcripción\n\na growing introducción general informes de inventarios\nlos informes de inventarios se consultan para cada bodega creada en la\nconfiguración del sistema por ejemplo para la vega insumos lados de\nherramientas y combustibles la bodega repuestos la vega de productos etcétera\nel principal de ellos es el informe de saldos de inventario\nen este caso presentamos el informe de saldos de inventario para insumos y\nmateriales consultados hasta el 31 de diciembre del\nelementos existentes en la vega insumos a la fecha de consulta\ndebidamente codificado con su unidad cantidad de elemento en bodega costo\nunitario y costo total por elemento además el costo total de la existencia\nen la bodega ese mismo informe consultado para una\nbodega de herramientas y combustibles presenta a cabo en las herramientas y\ncombustibles existentes en la bodega con su unidad cantidad costo unitario y\ncosto total también saldos hasta el 31 diciembre de 2009 hasta la fecha de\nconsulta el mismo informe consultado para una\nrepuestos su unidad cantidad y costo unitario costo total debidamente\ny finalmente el mismo informe consultado para una vega de productos ofrece cada\nuno de los productos en bodega 2 a la fecha disponibles para la venta en este\ncaso guanábana y mandarina onecco la cantidad y el costo unitario de\nen torno a las bodegas se pueden consultar también otros informes\nimportantes como el informe de entradas y salidas en el periodo que presenta\ncada uno de los elementos existentes en la bodega\nla cantidad entrada en el mes la cantidad salida en el mes\nel saldo anterior al mes de consulta y el nuevo salto es un\ninforme que se consulta por períodos que estamos contando desde el primero de\ndiciembre en 2008 hasta el 31 diciembre 2008 todo el mes de diciembre\naparece entonces la cantidad en existencia del elemento\nexcepto en centímetros cúbicos el costo unitario el costo total es un informe de\nel mismo informe extendido se llama el movimiento detallado elementos presenta\ncada uno de los elementos la cantidad\nen existencia las salidas y el saldo final\npero adicionalmente nos presenta los datos cuando aplican del origen del\nelemento y el destino el elemento que quiere decir que estas avispas de\ncontrol biológico estas 700 unidades se aplicaron a los 140 días\nes el informe del movimiento detallado elementos\nfinalmente está el informe de inventario de disponibilidad\nqué talla para cada bodega su existencia a la fecha de consulta\nmás las órdenes de compra sin recibir - las remisiones a clientes o los\npedidos a clientes sin facturar entre otros conceptos que pueden afectar la\nexistencia proyectada del inventario y finalmente nos muestra el inventario\nel sistema growing incluye además informes adicionales como los informes\nde listas de precios esto con máximos y mínimos informes de ventas por cliente o\npor bodega como se consulten informes de rotación de producto entre muchos otros\nde uso más especializado para contadores hasta aquí el tema de informes de"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 11,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 166.525,
+    "asr": 44100,
+    "filesizeApprox": 5031053,
+    "formatCount": 1
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/637KNMnFwRM.md",
+    "json": "videos/2011/637KNMnFwRM.json",
+    "infoJson": "videos/2011/637KNMnFwRM.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "637KNMnFwRM",
+        "youtubeId": "637KNMnFwRM",
+        "titulo": "637KNMnFwRM",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

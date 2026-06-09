@@ -8,7 +8,7 @@ import { join } from "node:path";
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
 import {
 	getClientesisDatabaseUrl,
-	getPatyDatabaseUrl,
+	getLanglabDatabaseUrl,
 } from "../src/lib/core/config.js";
 import { getClientesisPgPool, getPatyPgPool } from "../src/lib/db/pg.js";
 import { resolveLabRepoRoot } from "../src/lib/core/data-paths.js";
@@ -31,7 +31,7 @@ async function runReset(pool: Awaited<ReturnType<typeof getPatyPgPool>>, sqlFile
 }
 
 const root = resolveLabRepoRoot();
-const patyUrl = getPatyDatabaseUrl();
+const patyUrl = getLanglabDatabaseUrl();
 const clientesisUrl = getClientesisDatabaseUrl();
 
 console.log(`Paty PG:        ${label(patyUrl)}`);

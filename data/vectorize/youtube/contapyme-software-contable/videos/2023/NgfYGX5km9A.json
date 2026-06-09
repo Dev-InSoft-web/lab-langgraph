@@ -1,0 +1,3559 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:43:34.738Z",
+  "videoId": "NgfYGX5km9A",
+  "videoUrl": "https://www.youtube.com/watch?v=NgfYGX5km9A",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "NgfYGX5km9A",
+    "title": "Introducción a costos de producción",
+    "fulltitle": "Introducción a costos de producción",
+    "description": "Módulo de costos de ContaPyme® y AgroWin® - Tema: Introducción a costos de producción\n\nDescripción:\nComprenda qué es la producción y los diferentes tipos de fines productivos, incluyendo ejemplos concretos. Examinamos los diferentes tipos de costos de producción, cómo se clasifican y cómo se relacionan con la producción. Finalmente, daremos unas recomendaciones de cómo configurar el plan de cuentas en el sistema ContaPyme/AgroWin para manejar eficazmente los costos de producción en las empresas.\n\nExperta: Ing. Diana María Menjura\nEspecialista en producto de InSoft®\n\nSíganos en nuestras redes sociales:\nFacebook /SoftwareContableContaPyme \nInstagram /contapyme \n\nConozca más en www.contapyme.com y www.agrowin.com",
+    "duration": 3736,
+    "duration_string": "1:02:16",
+    "upload_date": "20230221",
+    "timestamp": 1677008145,
+    "view_count": 224,
+    "like_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/NgfYGX5km9A/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBc1uD-bwwtw71J7pHrLczcoYkAAg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBAKY3Kr44Vv6GxxVCeON3VNbD2_w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD75bXX4nnRdOiSdrzWAwrTeMRv6w",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLArmJbo9hjAsjfM3E4jhUc6U3d0ew",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC-osLUV8mIunrYJSDh83RCGaZ6g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIbdtcy2KE73Hd5CweN4sLi7psTg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ1bMHv2NAR3g3ZgIg3cQElMTvOw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARXv45fVRkRa5v6fEK_AngWxILdA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NgfYGX5km9A/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/NgfYGX5km9A/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=NgfYGX5km9A",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.02676659528907923,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.1003747323340471,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.1003747323340471,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 161.636,
+        "asr": 44100,
+        "filesize_approx": 75486780,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Introducción a costos de producción",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/NgfYGX5km9A/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NgfYGX5km9A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Introducción a costos de producción\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 626,
+    "transcriptChars": 43804,
+    "segments": [
+      {
+        "text": "Bienvenidos a esta sesión de introducción a costos de producción para",
+        "startMs": 1380,
+        "durationMs": 5750
+      },
+      {
+        "text": "iniciar hablemos sobre Qué es la producción la producción es transformar",
+        "startMs": 7130,
+        "durationMs": 6300
+      },
+      {
+        "text": "unas materias primas y unos insumos aplicando mano de obra y apoyándonos en",
+        "startMs": 13430,
+        "durationMs": 7560
+      },
+      {
+        "text": "herramientas en equipos y en maquinaria para qué para obtener un producto útil",
+        "startMs": 20990,
+        "durationMs": 5939
+      },
+      {
+        "text": "que posteriormente va a ser vendido para poder trabajar con costos de producción",
+        "startMs": 26929,
+        "durationMs": 6120
+      },
+      {
+        "text": "es importante que tengamos Clara Cuál es la definición de costo existen múltiples",
+        "startMs": 33049,
+        "durationMs": 7081
+      },
+      {
+        "text": "definiciones de costos pero para nosotros vamos a aplicar la que tenemos",
+        "startMs": 40130,
+        "durationMs": 4680
+      },
+      {
+        "text": "en este momento en pantalla que nos dice que el costo es la valoración económica",
+        "startMs": 44810,
+        "durationMs": 5280
+      },
+      {
+        "text": "de los recursos sacrificados o dejados de percibir para la obtención de un fin",
+        "startMs": 50090,
+        "durationMs": 7860
+      },
+      {
+        "text": "productivo de esta definición vamos a destacar tres",
+        "startMs": 57950,
+        "durationMs": 4520
+      },
+      {
+        "text": "partes valoración económica recursos",
+        "startMs": 62470,
+        "durationMs": 2499
+      },
+      {
+        "text": "sacrificados o dejados de percibir y fin productivo",
+        "startMs": 64969,
+        "durationMs": 4921
+      },
+      {
+        "text": "productivo A qué nos referimos cuando hablamos de",
+        "startMs": 69890,
+        "durationMs": 2280
+      },
+      {
+        "text": "valoración económica la valoración económica es el valor monetario es el",
+        "startMs": 72170,
+        "durationMs": 6540
+      },
+      {
+        "text": "valor contable o el valor de Mercado que tienen los recursos y los valores que se",
+        "startMs": 78710,
+        "durationMs": 6719
+      },
+      {
+        "text": "van a consumir en el desarrollo de ese fin productivo un ejemplo es digamos lo",
+        "startMs": 85429,
+        "durationMs": 6901
+      },
+      {
+        "text": "que yo pago por la mano de obra o lo que yo pago por los insumos y materiales",
+        "startMs": 92330,
+        "durationMs": 7139
+      },
+      {
+        "text": "aplicados generalmente se refieren a salidas de dinero más adelante",
+        "startMs": 99469,
+        "durationMs": 5881
+      },
+      {
+        "text": "hablaremos de otros casos en los que No necesariamente hay salida de dinero pero",
+        "startMs": 105350,
+        "durationMs": 5880
+      },
+      {
+        "text": "entonces cuando hablamos de valoración económica nos referimos al dinero que",
+        "startMs": 111230,
+        "durationMs": 10800
+      },
+      {
+        "text": "después de valoración económica tenemos recursos sacrificados Entonces qué son",
+        "startMs": 122040,
+        "durationMs": 5989
+      },
+      {
+        "text": "los recursos sacrificados son los insumos o la mano de obra que después de",
+        "startMs": 128029,
+        "durationMs": 6780
+      },
+      {
+        "text": "que los usamos es imposible retornarlos a su condición original",
+        "startMs": 134809,
+        "durationMs": 6381
+      },
+      {
+        "text": "Como así resulta que cuando yo compro un insumo y tengo ese insumo en mi bodega",
+        "startMs": 141190,
+        "durationMs": 8759
+      },
+      {
+        "text": "en ese momento es un recurso pero no es un recurso sacrificado sino que es un",
+        "startMs": 149949,
+        "durationMs": 8201
+      },
+      {
+        "text": "inventario qué sucede Yo en cualquier momento puedo",
+        "startMs": 158150,
+        "durationMs": 3000
+      },
+      {
+        "text": "ese insumo puedo venderlo y puedo recuperar el dinero que inicialmente o",
+        "startMs": 161150,
+        "durationMs": 6900
+      },
+      {
+        "text": "una parte pues del dinero que inicialmente pague por ese recurso",
+        "startMs": 168050,
+        "durationMs": 4980
+      },
+      {
+        "text": "se refiere a sacrificado cuando es imposible retornarlo a su condición",
+        "startMs": 173030,
+        "durationMs": 6839
+      },
+      {
+        "text": "original ejemplo la mano de obra cuando yo aplico la mano de obra esa mano de",
+        "startMs": 179869,
+        "durationMs": 6961
+      },
+      {
+        "text": "obra es imposible de recuperarla O sea que esa sí es un recurso sacrificado lo",
+        "startMs": 186830,
+        "durationMs": 6119
+      },
+      {
+        "text": "mismo cuando yo cojo unos metros de tela que tengo en mi bodega los tomo y los",
+        "startMs": 192949,
+        "durationMs": 6420
+      },
+      {
+        "text": "corto para fabricar digamos unas camisas allí esa tela ya es un recurso",
+        "startMs": 199369,
+        "durationMs": 6961
+      },
+      {
+        "text": "Lo mismo sucede digamos con la energía eléctrica",
+        "startMs": 212149,
+        "durationMs": 7201
+      },
+      {
+        "text": "si yo consumo energía eléctrica la energía que consumen mis máquinas",
+        "startMs": 219350,
+        "durationMs": 4099
+      },
+      {
+        "text": "después de que esa energía se aplica o se consume el recurso no se puede",
+        "startMs": 223449,
+        "durationMs": 6101
+      },
+      {
+        "text": "retornar a su condición original en la definición habíamos hablado de recursos",
+        "startMs": 206330,
+        "durationMs": 29940
+      },
+      {
+        "text": "sacrificados o dejados de percibir resulta que a veces existen recursos que",
+        "startMs": 236270,
+        "durationMs": 6480
+      },
+      {
+        "text": "se dejan de percibir no es que se sacrifiquen sino que se han dejado de",
+        "startMs": 242750,
+        "durationMs": 5820
+      },
+      {
+        "text": "percibir ejemplo cuando en un proyecto productivo hay mano de",
+        "startMs": 248570,
+        "durationMs": 6900
+      },
+      {
+        "text": "obra propia cuando yo tengo mi empresa y yo trabajo",
+        "startMs": 255470,
+        "durationMs": 4680
+      },
+      {
+        "text": "dentro de mi empresa puede que yo no tenga un salario asignado entonces ahí",
+        "startMs": 260150,
+        "durationMs": 6360
+      },
+      {
+        "text": "no hay una valoración económica pero a pesar de que yo no tenga un salario",
+        "startMs": 266510,
+        "durationMs": 5520
+      },
+      {
+        "text": "asignado esa mano de obra debe valorarse Porque es un recurso que se está dejando",
+        "startMs": 272030,
+        "durationMs": 8280
+      },
+      {
+        "text": "de percibir yo es mi mano de obra si no la estuviera aplicando a este proyecto",
+        "startMs": 280310,
+        "durationMs": 5340
+      },
+      {
+        "text": "podría estarla aplicando a otro entonces estoy dejando de percibir unos ingresos",
+        "startMs": 285650,
+        "durationMs": 5520
+      },
+      {
+        "text": "que serían el sueldo que me pagarían Si trabajara en otra empresa voy a poner",
+        "startMs": 291170,
+        "durationMs": 5280
+      },
+      {
+        "text": "otro ejemplo digamos una máquina voy a poner un ejemplo de campo yo tengo",
+        "startMs": 296450,
+        "durationMs": 6660
+      },
+      {
+        "text": "en mi finca tengo un tractor Ese tractor ya está completamente",
+        "startMs": 303110,
+        "durationMs": 6680
+      },
+      {
+        "text": "depreciado lo que significa que no tiene costo en libros Entonces no tiene ya",
+        "startMs": 309790,
+        "durationMs": 8140
+      },
+      {
+        "text": "valoración económica y uno diría Bueno pero es que no es un",
+        "startMs": 317930,
+        "durationMs": 4680
+      },
+      {
+        "text": "recurso sacrificado es un recurso dejado de percibir",
+        "startMs": 322610,
+        "durationMs": 4560
+      },
+      {
+        "text": "si yo no estuviera usando Ese tractor en mi finca o una máquina cualquiera en un",
+        "startMs": 327170,
+        "durationMs": 5760
+      },
+      {
+        "text": "proyecto productivo Yo podría estar alquilando Ese tractor o alquilando esa",
+        "startMs": 332930,
+        "durationMs": 5220
+      },
+      {
+        "text": "máquina entonces estoy dejando de percibir unos ingresos por el alquiler",
+        "startMs": 338150,
+        "durationMs": 4979
+      },
+      {
+        "text": "de Ese tractor o de esa máquina Entonces eso también se considera un recurso el",
+        "startMs": 343129,
+        "durationMs": 8340
+      },
+      {
+        "text": "valor que estoy dejando de percibir por estar usando Ese tractor en mi empresa",
+        "startMs": 351469,
+        "durationMs": 9681
+      },
+      {
+        "text": "Generalmente por experiencia todas las empresas solo",
+        "startMs": 361150,
+        "durationMs": 4479
+      },
+      {
+        "text": "valoran los recursos que se sacrifican Como cuáles como el costo de los insumos",
+        "startMs": 365629,
+        "durationMs": 5761
+      },
+      {
+        "text": "el costo de la mano de obra y también algunos indirectos son muy pocas las",
+        "startMs": 371390,
+        "durationMs": 6000
+      },
+      {
+        "text": "empresas que valoran los recursos que están dejándose de percibir cuando ya la",
+        "startMs": 377390,
+        "durationMs": 6359
+      },
+      {
+        "text": "máquina está completamente depreciada que hace la empresa deja de tener en",
+        "startMs": 383749,
+        "durationMs": 5880
+      },
+      {
+        "text": "está bien o está mal hacerlo pues depende de cada una de las empresas",
+        "startMs": 394969,
+        "durationMs": 4921
+      },
+      {
+        "text": "todas las empresas pues manejan sus costos de manera diferente Pero sería",
+        "startMs": 399890,
+        "durationMs": 6600
+      },
+      {
+        "text": "bueno o al menos nosotros debemos tenerlo claro para pensar en algún",
+        "startMs": 406490,
+        "durationMs": 5160
+      },
+      {
+        "text": "momento si valdría la pena incluir el costo de ese recurso que estamos dejando",
+        "startMs": 411650,
+        "durationMs": 5280
+      },
+      {
+        "text": "de percibir la tercera parte de la definición nos",
+        "startMs": 416930,
+        "durationMs": 5280
+      },
+      {
+        "text": "habla de los fines productivos o lo vamos a llamar objetivos productivos",
+        "startMs": 422210,
+        "durationMs": 6560
+      },
+      {
+        "text": "también esto es vamos a hacerle similitud con el",
+        "startMs": 428770,
+        "durationMs": 3880
+      },
+      {
+        "text": "concepto de costos de perdón de centros de costos",
+        "startMs": 432650,
+        "durationMs": 4800
+      },
+      {
+        "text": "que es un fin productivo va a ser todos los generadores de productos las líneas",
+        "startMs": 437450,
+        "durationMs": 6420
+      },
+      {
+        "text": "de producción las órdenes de producción los cultivos son fines productivos",
+        "startMs": 389629,
+        "durationMs": 60921
+      },
+      {
+        "text": "proyectos productivos que tenemos un vivero",
+        "startMs": 450550,
+        "durationMs": 4079
+      },
+      {
+        "text": "vivero Ese nos va a generar productos para la",
+        "startMs": 454629,
+        "durationMs": 2741
+      },
+      {
+        "text": "venta o para consumirlos internamente que tenemos una planta de post cosecha",
+        "startMs": 457370,
+        "durationMs": 5120
+      },
+      {
+        "text": "este también es un fin productivo que tenemos un galpón ese también puede ser",
+        "startMs": 462490,
+        "durationMs": 7000
+      },
+      {
+        "text": "un fin productivo que trabajamos en una empresa manufacturera y tenemos",
+        "startMs": 469490,
+        "durationMs": 5099
+      },
+      {
+        "text": "diferentes líneas de producción esos son nuestros fines productivos",
+        "startMs": 474589,
+        "durationMs": 5641
+      },
+      {
+        "text": "como dice la diapositiva los productos son el resultado esperado de la",
+        "startMs": 480230,
+        "durationMs": 5880
+      },
+      {
+        "text": "transformación de los recursos aplicados durante el proceso de producción",
+        "startMs": 486110,
+        "durationMs": 10560
+      },
+      {
+        "text": "teniendo en cuenta y teniendo claro estas tres partes la valoración",
+        "startMs": 496680,
+        "durationMs": 5390
+      },
+      {
+        "text": "económica los recursos sacrificados o dejados de percibir y los fines",
+        "startMs": 502070,
+        "durationMs": 4860
+      },
+      {
+        "text": "productivos tenemos que entender cuál es la consecuencia de este planteamiento",
+        "startMs": 506930,
+        "durationMs": 6140
+      },
+      {
+        "text": "para eso vamos a tomar este cuadro que tenemos en pantalla",
+        "startMs": 513070,
+        "durationMs": 8399
+      },
+      {
+        "text": "cualquier recurso que vayamos a digamos a usar cuando hablamos de costos",
+        "startMs": 521479,
+        "durationMs": 7591
+      },
+      {
+        "text": "de producción debe ser clasificado desde dos puntos de vista",
+        "startMs": 529070,
+        "durationMs": 5580
+      },
+      {
+        "text": "desde el mismo recurso como tal desde su propia naturaleza como recurso y según",
+        "startMs": 534650,
+        "durationMs": 7260
+      },
+      {
+        "text": "el destino o el fin productivo donde se va a",
+        "startMs": 541910,
+        "durationMs": 5099
+      },
+      {
+        "text": "sacrificar recordemos que siempre nos referimos a costo cuando nos referimos a",
+        "startMs": 547009,
+        "durationMs": 6781
+      },
+      {
+        "text": "costo Mejor hablamos de recursos sacrificados si el recurso no está",
+        "startMs": 553790,
+        "durationMs": 4740
+      },
+      {
+        "text": "sacrificado no se considera costo de producción",
+        "startMs": 558530,
+        "durationMs": 3620
+      },
+      {
+        "text": "producción entonces repito",
+        "startMs": 562150,
+        "durationMs": 3760
+      },
+      {
+        "text": "cualquier recurso debe ser clasificado desde dos puntos de vista desde su",
+        "startMs": 565910,
+        "durationMs": 6599
+      },
+      {
+        "text": "naturaleza propia como recurso y desde el destino donde se va a sacrificar",
+        "startMs": 572509,
+        "durationMs": 5961
+      },
+      {
+        "text": "entonces teniendo en cuenta esas dos partes se nos forma esta matriz que",
+        "startMs": 578470,
+        "durationMs": 9660
+      },
+      {
+        "text": "donde tenemos los recursos telas insumos mano de obra maquinaria y",
+        "startMs": 588140,
+        "durationMs": 8249
+      },
+      {
+        "text": "tenemos los destinos que son los fines productivos una línea de producción de",
+        "startMs": 596389,
+        "durationMs": 6901
+      },
+      {
+        "text": "camisas una línea de producción de uniformes y una línea de producción de",
+        "startMs": 603290,
+        "durationMs": 6180
+      },
+      {
+        "text": "chaquetas entonces",
+        "startMs": 609470,
+        "durationMs": 2520
+      },
+      {
+        "text": "y las filas son los recursos donde se intercepta una Un fin",
+        "startMs": 616920,
+        "durationMs": 8210
+      },
+      {
+        "text": "productivo con un recurso pues es la valoración económica de ese recurso",
+        "startMs": 625130,
+        "durationMs": 4259
+      },
+      {
+        "text": "entonces en otras palabras si yo quiero saber cuánto me ha costado en la tela de",
+        "startMs": 629389,
+        "durationMs": 6781
+      },
+      {
+        "text": "las camisas pues sé que me vale 500 pesos",
+        "startMs": 636170,
+        "durationMs": 4580
+      },
+      {
+        "text": "Cuánto me ha valido la tela de los uniformes 800 y la tela de las chaquetas",
+        "startMs": 640760,
+        "durationMs": 6710
+      },
+      {
+        "text": "1200 en total cuánto me han costado el insumo",
+        "startMs": 647470,
+        "durationMs": 5020
+      },
+      {
+        "text": "de las telas o la materia prima 2500 lo mismo con los insumos la mano de",
+        "startMs": 652490,
+        "durationMs": 6360
+      },
+      {
+        "text": "obra y la maquinaria también puedo totalizar por fin",
+        "startMs": 658850,
+        "durationMs": 6000
+      },
+      {
+        "text": "productivo Cuál ha sido la totalidad de Los costos de fabricación de camisas",
+        "startMs": 664850,
+        "durationMs": 6200
+      },
+      {
+        "text": "1090 de fabricación de uniformes 1850 y de fabricación de chaquetas 2530 total",
+        "startMs": 671050,
+        "durationMs": 14260
+      },
+      {
+        "text": "los recursos de las insumos mano de obra y demás lo vamos a trabajar como las",
+        "startMs": 685320,
+        "durationMs": 6590
+      },
+      {
+        "text": "cuentas contables que eso lo hablaremos cuando hablemos del plan de cuentas y",
+        "startMs": 691910,
+        "durationMs": 5599
+      },
+      {
+        "text": "los destinos los vamos a trabajar como centros de costos es muy importante que",
+        "startMs": 612000,
+        "durationMs": 92329
+      },
+      {
+        "text": "tengamos en cuenta esto para qué Para poder entender Por qué siempre Los",
+        "startMs": 704329,
+        "durationMs": 7801
+      },
+      {
+        "text": "costos de producción se tienen que trabajar por centros de costos",
+        "startMs": 712130,
+        "durationMs": 5100
+      },
+      {
+        "text": "y porque es tan importante una adecuada y correcta clasificación de las cuentas",
+        "startMs": 717230,
+        "durationMs": 10560
+      },
+      {
+        "text": "Clara esta parte Aunque valdría la pena que recordemos aquí rápidamente la",
+        "startMs": 727800,
+        "durationMs": 5630
+      },
+      {
+        "text": "definición de costos valoración económica de los recursos",
+        "startMs": 733430,
+        "durationMs": 4320
+      },
+      {
+        "text": "sacrificados o dejados de percibir para obtener un fin productivo Ahora sí claro",
+        "startMs": 737750,
+        "durationMs": 7440
+      },
+      {
+        "text": "existen múltiples modelos de clasificación de costos",
+        "startMs": 751430,
+        "durationMs": 5760
+      },
+      {
+        "text": "cuando se va a implementar un sistema de costos",
+        "startMs": 757190,
+        "durationMs": 3680
+      },
+      {
+        "text": "costos siempre se debe Buscar",
+        "startMs": 760870,
+        "durationMs": 2579
+      },
+      {
+        "text": "Pues trabajar con una clasificación de costos que esté de acuerdo a las",
+        "startMs": 763449,
+        "durationMs": 6161
+      },
+      {
+        "text": "necesidades particulares que se tienen de información como les decía existen",
+        "startMs": 769610,
+        "durationMs": 6240
+      },
+      {
+        "text": "múltiples sistemas de clasificación de costos",
+        "startMs": 775850,
+        "durationMs": 3260
+      },
+      {
+        "text": "costos todo depende mucho como del punto de",
+        "startMs": 779110,
+        "durationMs": 2920
+      },
+      {
+        "text": "vista que se tenga o de la necesidad de información que se tenga",
+        "startMs": 782030,
+        "durationMs": 6060
+      },
+      {
+        "text": "para trabajar con tapyme y agroin nosotros trabajamos",
+        "startMs": 788090,
+        "durationMs": 5580
+      },
+      {
+        "text": "con dos modelos o dos clasificaciones de costos Los costos de acuerdo a su",
+        "startMs": 793670,
+        "durationMs": 7140
+      },
+      {
+        "text": "función y una clasificación de costos de acuerdo a su relación con el producto",
+        "startMs": 800810,
+        "durationMs": 10380
+      },
+      {
+        "text": "cuando hablamos de la clasificación general de Los costos hablamos de que",
+        "startMs": 811200,
+        "durationMs": 5210
+      },
+      {
+        "text": "los costos se nos van a dividir en dos partes en costos de producción y gastos",
+        "startMs": 745190,
+        "durationMs": 79079
+      },
+      {
+        "text": "empresariales Esa es la clasificación de acuerdo a su función ahora vamos a",
+        "startMs": 824269,
+        "durationMs": 6661
+      },
+      {
+        "text": "ampliar un poquito y ya luego hablamos de la clasificación de acuerdo a su",
+        "startMs": 830930,
+        "durationMs": 8220
+      },
+      {
+        "text": "relación con el producto y es Los costos directos y Los costos indirectos",
+        "startMs": 839150,
+        "durationMs": 12479
+      },
+      {
+        "text": "Ahora sí clasificación de costos de acuerdo a su función Entonces tenemos",
+        "startMs": 851639,
+        "durationMs": 5870
+      },
+      {
+        "text": "los costos de producción y los gastos empresariales",
+        "startMs": 857509,
+        "durationMs": 5041
+      },
+      {
+        "text": "empresariales hablemos primero de los gastos",
+        "startMs": 862550,
+        "durationMs": 1620
+      },
+      {
+        "text": "empresariales los gastos empresariales son",
+        "startMs": 864170,
+        "durationMs": 4099
+      },
+      {
+        "text": "son las salidas o las erogaciones de",
+        "startMs": 868269,
+        "durationMs": 3401
+      },
+      {
+        "text": "recursos que son necesarias para mantener el funcionamiento de la empresa",
+        "startMs": 871670,
+        "durationMs": 4920
+      },
+      {
+        "text": "o de la finca cuando estamos trabajando agro win",
+        "startMs": 876590,
+        "durationMs": 3960
+      },
+      {
+        "text": "Aquí está todo lo que no está relacionado con la producción pero que",
+        "startMs": 880550,
+        "durationMs": 5700
+      },
+      {
+        "text": "es necesario para el funcionamiento de la empresa",
+        "startMs": 886250,
+        "durationMs": 3139
+      },
+      {
+        "text": "son aquellos que están relacionados con el área administrativa con el área de",
+        "startMs": 889389,
+        "durationMs": 5141
+      },
+      {
+        "text": "logística y con el área de estrategia empresarial",
+        "startMs": 894530,
+        "durationMs": 4680
+      },
+      {
+        "text": "empresarial una característica de los gastos",
+        "startMs": 899210,
+        "durationMs": 2400
+      },
+      {
+        "text": "empresariales es que se asocian directamente con el periodo en el que se",
+        "startMs": 901610,
+        "durationMs": 4800
+      },
+      {
+        "text": "causan y no con la producción ejemplo de gastos empresariales son los",
+        "startMs": 906410,
+        "durationMs": 7560
+      },
+      {
+        "text": "arrendamientos los seguros los salarios administrativos las bonificaciones todo",
+        "startMs": 913970,
+        "durationMs": 7020
+      },
+      {
+        "text": "lo que no está relacionado con producción",
+        "startMs": 920990,
+        "durationMs": 4620
+      },
+      {
+        "text": "ahora hablemos de Los costos de producción Los costos de producción son",
+        "startMs": 925620,
+        "durationMs": 6290
+      },
+      {
+        "text": "la valoración de los recursos que están destinados a transformar la materia",
+        "startMs": 931910,
+        "durationMs": 8219
+      },
+      {
+        "text": "y la mano de obra y Los costos indirectos en productos que la empresa",
+        "startMs": 940139,
+        "durationMs": 6050
+      },
+      {
+        "text": "va a producir y posteriormente va a vender",
+        "startMs": 946189,
+        "durationMs": 5841
+      },
+      {
+        "text": "Cuál es la diferencia digamos pues fundamental es que los gastos son",
+        "startMs": 952040,
+        "durationMs": 6149
+      },
+      {
+        "text": "aquellas erogaciones en las que se incurre así no haya producción entonces",
+        "startMs": 958189,
+        "durationMs": 4741
+      },
+      {
+        "text": "resulta que hay que pagarle a la secretaria independiente que tengamos o",
+        "startMs": 962930,
+        "durationMs": 4500
+      },
+      {
+        "text": "no producción eso es un gasto empresarial que hay que pagar el",
+        "startMs": 967430,
+        "durationMs": 4380
+      },
+      {
+        "text": "arrendamiento o el alquiler de la oficina eso es independiente que",
+        "startMs": 971810,
+        "durationMs": 4019
+      },
+      {
+        "text": "tengamos producción Entonces es un gasto empresarial pero ya costo de producción",
+        "startMs": 975829,
+        "durationMs": 6481
+      },
+      {
+        "text": "es aquello que está directamente relacionado con la producción Entonces",
+        "startMs": 982310,
+        "durationMs": 4620
+      },
+      {
+        "text": "el salario de los empleados de la planta eso es un costo de producción Los costos",
+        "startMs": 986930,
+        "durationMs": 6420
+      },
+      {
+        "text": "de los insumos y materiales son un costo de producción",
+        "startMs": 993350,
+        "durationMs": 4800
+      },
+      {
+        "text": "la energía eléctrica depende puede ser gasto empresarial o",
+        "startMs": 998150,
+        "durationMs": 5520
+      },
+      {
+        "text": "puede ser costo de producción muchas veces puede ser los dos cierto se puede",
+        "startMs": 1003670,
+        "durationMs": 3719
+      },
+      {
+        "text": "partir una parte como gasto y otra parte como costo de producción la energía que",
+        "startMs": 1007389,
+        "durationMs": 6060
+      },
+      {
+        "text": "consumen las máquinas esa sería costo de producción y ya la energía que consumen",
+        "startMs": 1013449,
+        "durationMs": 6060
+      },
+      {
+        "text": "esa es entonces la clasificación de costos de acuerdo a su función",
+        "startMs": 1025699,
+        "durationMs": 5571
+      },
+      {
+        "text": "ahora vamos a hacer aquí unos ejercicios rapiditos para poder",
+        "startMs": 1031270,
+        "durationMs": 5820
+      },
+      {
+        "text": "tenerlo como más claro en esa clasificación de acuerdo a su función",
+        "startMs": 1037090,
+        "durationMs": 4400
+      },
+      {
+        "text": "cuando hablamos de honorarios pagados por servicios por servicios",
+        "startMs": 1041490,
+        "durationMs": 4419
+      },
+      {
+        "text": "profesionales digamos que le estamos pagando al revisor fiscal eso es un",
+        "startMs": 1045909,
+        "durationMs": 5161
+      },
+      {
+        "text": "gasto empresarial Por qué Porque no depende directamente de la producción",
+        "startMs": 1019509,
+        "durationMs": 36261
+      },
+      {
+        "text": "sin embargo la tela y los botones que son consumidos en la fabricación de",
+        "startMs": 1055770,
+        "durationMs": 5019
+      },
+      {
+        "text": "camisas al igual que las cajas y bolsas para empaques si son costos de",
+        "startMs": 1060789,
+        "durationMs": 5221
+      },
+      {
+        "text": "producción están directamente relacionados con la producción",
+        "startMs": 1066010,
+        "durationMs": 5820
+      },
+      {
+        "text": "el alquiler de la oficina pues ya lo dije hace un momento es un gasto",
+        "startMs": 1071830,
+        "durationMs": 3780
+      },
+      {
+        "text": "empresarial y la papelería insumos para administración que es el último que",
+        "startMs": 1075610,
+        "durationMs": 4559
+      },
+      {
+        "text": "tenemos aquí en el ejemplo también es un gasto empresarial vale la pena destacar",
+        "startMs": 1080169,
+        "durationMs": 4860
+      },
+      {
+        "text": "estos dos que tenemos aquí con un color diferente y es los rollos de tela que se",
+        "startMs": 1085029,
+        "durationMs": 5640
+      },
+      {
+        "text": "encuentran en la bodega eso no es ni costo ni gasto porque porque no se",
+        "startMs": 1090669,
+        "durationMs": 6901
+      },
+      {
+        "text": "cumple la definición que dimos de costo Recuerden que para que sea costo tiene",
+        "startMs": 1097570,
+        "durationMs": 5700
+      },
+      {
+        "text": "que ser que el recurso ha sido sacrificado y Qué significa sacrificado",
+        "startMs": 1103270,
+        "durationMs": 4980
+      },
+      {
+        "text": "que no es posible retornarlo a su estado original Entonces como los rollos",
+        "startMs": 1108250,
+        "durationMs": 5520
+      },
+      {
+        "text": "todavía están en su estado original pues no se consideran costo en ese caso se",
+        "startMs": 1113770,
+        "durationMs": 5160
+      },
+      {
+        "text": "consideran inventario y el costo de la fileteadora Industrial",
+        "startMs": 1118930,
+        "durationMs": 4500
+      },
+      {
+        "text": "digamos que compramos una fileteadora Industrial eso también es tampoco es",
+        "startMs": 1123430,
+        "durationMs": 5099
+      },
+      {
+        "text": "costo costo puede ser la depreciación de la fileteadora pero la el costo de la",
+        "startMs": 1128529,
+        "durationMs": 6421
+      },
+      {
+        "text": "fileteadora como tal no debe considerarse costo en ese caso debería",
+        "startMs": 1134950,
+        "durationMs": 4800
+      },
+      {
+        "text": "considerarse como un activo fijo eso se presta para muchos debates",
+        "startMs": 1139750,
+        "durationMs": 7100
+      },
+      {
+        "text": "hay empresas que el costo de sus activos lo llevan directamente a los costos de",
+        "startMs": 1146850,
+        "durationMs": 8020
+      },
+      {
+        "text": "producción es completamente respetable cierto Cada",
+        "startMs": 1154870,
+        "durationMs": 2880
+      },
+      {
+        "text": "empresa maneja sus costos de una manera completamente diferente pero realmente",
+        "startMs": 1157750,
+        "durationMs": 5700
+      },
+      {
+        "text": "lo que es común de llevar a los costos de producción es la depreciación de las",
+        "startMs": 1163450,
+        "durationMs": 7500
+      },
+      {
+        "text": "máquinas que están directamente relacionadas con el proceso productivo",
+        "startMs": 1170950,
+        "durationMs": 3500
+      },
+      {
+        "text": "no el costo inicial de compra de la máquina pero como les digo pues es",
+        "startMs": 1174450,
+        "durationMs": 8500
+      },
+      {
+        "text": "función gastos empresariales y costos de producción ahora vamos a hablar de la",
+        "startMs": 1187150,
+        "durationMs": 6120
+      },
+      {
+        "text": "clasificación de acuerdo a su relación con el producto Entonces tenemos los",
+        "startMs": 1182960,
+        "durationMs": 21890
+      },
+      {
+        "text": "Qué es un costo directo es la valoración económica de los recursos sacrificados",
+        "startMs": 1204860,
+        "durationMs": 6429
+      },
+      {
+        "text": "pero en los cuales se puede establecer con precisión para que fin productivo es",
+        "startMs": 1211289,
+        "durationMs": 9161
+      },
+      {
+        "text": "que se está aplicando entonces si yo sé exactamente que esta tela que estoy",
+        "startMs": 1220450,
+        "durationMs": 6540
+      },
+      {
+        "text": "consumiendo es para la línea de fabricación de camisas es un costo",
+        "startMs": 1226990,
+        "durationMs": 5520
+      },
+      {
+        "text": "directo si yo sé que este fertilizante que se está consumiendo es",
+        "startMs": 1232510,
+        "durationMs": 5820
+      },
+      {
+        "text": "específicamente para el lote de café que tenemos en tal parte eso es un costo",
+        "startMs": 1238330,
+        "durationMs": 9620
+      },
+      {
+        "text": "directo que",
+        "startMs": 1247950,
+        "durationMs": 1800
+      },
+      {
+        "text": "que un hablemos de campo un trabajador me",
+        "startMs": 1249750,
+        "durationMs": 4299
+      },
+      {
+        "text": "reporta el número de jornales que trabajó específicamente en determinado",
+        "startMs": 1254049,
+        "durationMs": 5221
+      },
+      {
+        "text": "lote eso es un costo directo Entonces siempre que yo pueda identificar",
+        "startMs": 1259270,
+        "durationMs": 7880
+      },
+      {
+        "text": "claramente En qué fin productivo se sacrificó el recurso en ese caso es un",
+        "startMs": 1267150,
+        "durationMs": 7180
+      },
+      {
+        "text": "costo directo cosa que no sucede con los costos indirectos Los costos indirectos",
+        "startMs": 1274330,
+        "durationMs": 7320
+      },
+      {
+        "text": "es la valoración económica de los recursos que se sacrifican pero que",
+        "startMs": 1281650,
+        "durationMs": 6139
+      },
+      {
+        "text": "afectan uno afectan más de un fin productivo Entonces digamos la energía",
+        "startMs": 1287789,
+        "durationMs": 7901
+      },
+      {
+        "text": "eléctrica Yo sé que me llegó la factura de energía eléctrica pero yo no tengo",
+        "startMs": 1295690,
+        "durationMs": 6780
+      },
+      {
+        "text": "forma de saber exactamente Cuánta energía eléctrica consumió cada máquina",
+        "startMs": 1302470,
+        "durationMs": 5400
+      },
+      {
+        "text": "entonces ahí no se puede considerar costo directo se tiene que considerar",
+        "startMs": 1307870,
+        "durationMs": 6060
+      },
+      {
+        "text": "costo indirecto la mano de obra digamos que por su misma",
+        "startMs": 1313930,
+        "durationMs": 6239
+      },
+      {
+        "text": "naturaleza siempre se considera costo directo pero muchas veces se tiene que",
+        "startMs": 1320169,
+        "durationMs": 5880
+      },
+      {
+        "text": "trabajar como costo indirecto Por qué Porque cuando digamos tenemos una planta",
+        "startMs": 1326049,
+        "durationMs": 6600
+      },
+      {
+        "text": "de producción y los trabajadores trabajan en varias líneas o produciendo",
+        "startMs": 1332649,
+        "durationMs": 6601
+      },
+      {
+        "text": "varios productos a la vez muchas veces no hay forma o si hay forma",
+        "startMs": 1339250,
+        "durationMs": 6960
+      },
+      {
+        "text": "pero resultaría demasiado costoso para la empresa obtener esa información",
+        "startMs": 1346210,
+        "durationMs": 4640
+      },
+      {
+        "text": "entonces no tienen forma sencilla Clara y económica de saber exactamente",
+        "startMs": 1350850,
+        "durationMs": 8460
+      },
+      {
+        "text": "Cuánta de las horas trabajadas en el día por ese empleado fueron para cada uno de",
+        "startMs": 1359310,
+        "durationMs": 5800
+      },
+      {
+        "text": "las líneas de producción o cada uno de los fines productivos Entonces en ese",
+        "startMs": 1365110,
+        "durationMs": 5640
+      },
+      {
+        "text": "caso a pesar de que la mano de obra como les digo por su naturaleza se considera",
+        "startMs": 1370750,
+        "durationMs": 5640
+      },
+      {
+        "text": "un costo directo como no tenemos forma de saber específicamente",
+        "startMs": 1376390,
+        "durationMs": 4940
+      },
+      {
+        "text": "cuánto le corresponde a cada fin productivo se tiene que trabajar como",
+        "startMs": 1381330,
+        "durationMs": 5079
+      },
+      {
+        "text": "costo indirecto en costos indirectos hay muchos tipos",
+        "startMs": 1386409,
+        "durationMs": 6301
+      },
+      {
+        "text": "cierto Está digamos la depreciación se puede considerar costo indirecto hay",
+        "startMs": 1392710,
+        "durationMs": 6959
+      },
+      {
+        "text": "servicios que se consideran indirectos hay insumos y materias primas que son",
+        "startMs": 1399669,
+        "durationMs": 4441
+      },
+      {
+        "text": "indirectos está mano de obra indirecta los mantenimientos generalmente se",
+        "startMs": 1404110,
+        "durationMs": 7679
+      },
+      {
+        "text": "pueden presentar indirecta de forma indirecta Qué se hace con Los costos",
+        "startMs": 1411789,
+        "durationMs": 5041
+      },
+      {
+        "text": "indirectos Los costos indirectos como ya sabemos que no los podemos cargar",
+        "startMs": 1416830,
+        "durationMs": 4800
+      },
+      {
+        "text": "específicamente a ningún fin productivo pues se hace necesario recurrir a un",
+        "startMs": 1421630,
+        "durationMs": 6779
+      },
+      {
+        "text": "sistema de prorrateo para qué Para poder distribuir ese costo indirecto",
+        "startMs": 1428409,
+        "durationMs": 6421
+      },
+      {
+        "text": "en los diferentes fines productivos para eso Entonces se puede hacer",
+        "startMs": 1434830,
+        "durationMs": 6380
+      },
+      {
+        "text": "proporcional a digamos a la área a la población se puede hacer por partes",
+        "startMs": 1441210,
+        "durationMs": 7900
+      },
+      {
+        "text": "iguales o existen múltiples formas y múltiples variables que se pueden",
+        "startMs": 1449110,
+        "durationMs": 5760
+      },
+      {
+        "text": "evaluar para poder hacer esa distribución esos esa ya esa parte pues",
+        "startMs": 1454870,
+        "durationMs": 5640
+      },
+      {
+        "text": "de manejo de costos indirectos se habla más adelante cuando hablamos de costos",
+        "startMs": 1460510,
+        "durationMs": 8399
+      },
+      {
+        "text": "ejemplos de costos directos e indirectos entonces la tela que se consume en la",
+        "startMs": 1468919,
+        "durationMs": 5931
+      },
+      {
+        "text": "fabricación de camisas como yo sé específicamente que es para la línea de",
+        "startMs": 1474850,
+        "durationMs": 5160
+      },
+      {
+        "text": "fabricación de camisas se considera un costo directo si fuese la tela consumida",
+        "startMs": 1480010,
+        "durationMs": 6300
+      },
+      {
+        "text": "en general sería un costo indirecto porque muy posiblemente la la empresa",
+        "startMs": 1486310,
+        "durationMs": 5460
+      },
+      {
+        "text": "tiene camisas Pues viendo el ejemplo de ahora camisas uniformes y chaquetas",
+        "startMs": 1491770,
+        "durationMs": 4800
+      },
+      {
+        "text": "Entonces si no sabemos específicamente Para qué fin productivo es sería",
+        "startMs": 1496570,
+        "durationMs": 5099
+      },
+      {
+        "text": "indirecto pero como en este caso sabemos que es para camisas es directo",
+        "startMs": 1501669,
+        "durationMs": 4221
+      },
+      {
+        "text": "mantenimiento de La Maquinaria lo consideramos indirecto salario pagado al",
+        "startMs": 1505890,
+        "durationMs": 5500
+      },
+      {
+        "text": "supervisor es indirecto porque indirecto Pues porque el supervisor trabaja",
+        "startMs": 1511390,
+        "durationMs": 5659
+      },
+      {
+        "text": "específica trabaja digamos supervisando todas las líneas",
+        "startMs": 1517049,
+        "durationMs": 4421
+      },
+      {
+        "text": "Bueno y qué pasa si yo solo fabricó camisas entonces si yo solo fabricó",
+        "startMs": 1521470,
+        "durationMs": 5600
+      },
+      {
+        "text": "camisas el salario pagado al supervisor pasaría",
+        "startMs": 1527070,
+        "durationMs": 3040
+      },
+      {
+        "text": "de ser indirecto y se convertiría en directo porque todo sería para la línea",
+        "startMs": 1530110,
+        "durationMs": 4140
+      },
+      {
+        "text": "de camisas la depreciación de la fileteadora",
+        "startMs": 1534250,
+        "durationMs": 3600
+      },
+      {
+        "text": "Industrial como les decía Generalmente depreciaciones amortizaciones son",
+        "startMs": 1537850,
+        "durationMs": 4559
+      },
+      {
+        "text": "considerados costos indirectos salario pagado a la empleada de la",
+        "startMs": 1542409,
+        "durationMs": 5880
+      },
+      {
+        "text": "collarín que es una máquina Entonces como sabemos que es específicamente una",
+        "startMs": 1548289,
+        "durationMs": 4321
+      },
+      {
+        "text": "máquina y si sabemos que esa máquina es específica para un fin productivo para",
+        "startMs": 1552610,
+        "durationMs": 5220
+      },
+      {
+        "text": "un proyecto Entonces en ese caso sería costo directo pero si la máquina",
+        "startMs": 1557830,
+        "durationMs": 6300
+      },
+      {
+        "text": "collarín se trabaja en diferentes líneas de producción entonces ahí ya sería",
+        "startMs": 1564130,
+        "durationMs": 6360
+      },
+      {
+        "text": "costo indirecto la factura de la energía eléctrica costo indirecto botones y",
+        "startMs": 1570490,
+        "durationMs": 6840
+      },
+      {
+        "text": "entretelas consumidas para fabricar uniformes lo clasificamos como costos",
+        "startMs": 1577330,
+        "durationMs": 6420
+      },
+      {
+        "text": "directos Porque es importante que nosotros",
+        "startMs": 1583750,
+        "durationMs": 3060
+      },
+      {
+        "text": "tengamos muy claro cuando es gasto empresarial y cuando es",
+        "startMs": 1586810,
+        "durationMs": 6239
+      },
+      {
+        "text": "costo de producción y cuándo son costos directos e indirectos porque",
+        "startMs": 1593049,
+        "durationMs": 6561
+      },
+      {
+        "text": "siempre se puede presentar como debate en esa parte muchas veces decimos la",
+        "startMs": 1599610,
+        "durationMs": 7840
+      },
+      {
+        "text": "energía eléctrica será directa será indirecta será gasto será costo entonces",
+        "startMs": 1607450,
+        "durationMs": 5400
+      },
+      {
+        "text": "por eso tenemos que tener muy claro el concepto de costo",
+        "startMs": 1612850,
+        "durationMs": 5480
+      },
+      {
+        "text": "sacrificados y también tener en cuenta si es",
+        "startMs": 1624690,
+        "durationMs": 4359
+      },
+      {
+        "text": "específico para un fin productivo o si afecta varios fines productivos a veces",
+        "startMs": 1629049,
+        "durationMs": 5401
+      },
+      {
+        "text": "se presta mucho como les digo se presta para mucha discusión que compramos un",
+        "startMs": 1634450,
+        "durationMs": 4980
+      },
+      {
+        "text": "celular y qué hacemos con el celular es un costo o es un activo o lo metemos",
+        "startMs": 1639430,
+        "durationMs": 5880
+      },
+      {
+        "text": "como un gasto Entonces ahí es donde viene Bueno es un",
+        "startMs": 1645310,
+        "durationMs": 5760
+      },
+      {
+        "text": "recurso sacrificado no es un recurso sacrificado tiene que ver con la",
+        "startMs": 1651070,
+        "durationMs": 5280
+      },
+      {
+        "text": "producción no tiene que ver con la producción",
+        "startMs": 1656350,
+        "durationMs": 3240
+      },
+      {
+        "text": "producción por eso es muy importante que nosotros",
+        "startMs": 1659590,
+        "durationMs": 1980
+      },
+      {
+        "text": "tengamos muy claro y voy a recordarlo concepto de costo valoración económica",
+        "startMs": 1661570,
+        "durationMs": 6660
+      },
+      {
+        "text": "los recursos sacrificados o dejados de percibir para la obtención de un fin",
+        "startMs": 1618330,
+        "durationMs": 56439
+      },
+      {
+        "text": "productivo y luego los costos como les digo existen",
+        "startMs": 1674769,
+        "durationMs": 3241
+      },
+      {
+        "text": "múltiples modelos pero nosotros vamos a trabajar dos Los costos basados en",
+        "startMs": 1678010,
+        "durationMs": 7259
+      },
+      {
+        "text": "este aquí la clasificación basada en su función y la clasificación basada en su",
+        "startMs": 1685269,
+        "durationMs": 7621
+      },
+      {
+        "text": "relación con el producto en su función son costos de producción y gastos",
+        "startMs": 1692890,
+        "durationMs": 5100
+      },
+      {
+        "text": "empresariales y basados en su relación con el producto son costos directos y",
+        "startMs": 1697990,
+        "durationMs": 10279
+      },
+      {
+        "text": "existen también otras clasificaciones de costos",
+        "startMs": 1708279,
+        "durationMs": 4370
+      },
+      {
+        "text": "costos están digamos Los costos según el área",
+        "startMs": 1712649,
+        "durationMs": 4841
+      },
+      {
+        "text": "donde se consumen entonces están los costos de producción que son los que",
+        "startMs": 1717490,
+        "durationMs": 6419
+      },
+      {
+        "text": "están relacionados pues con la producción de los productos",
+        "startMs": 1723909,
+        "durationMs": 5401
+      },
+      {
+        "text": "que se van a vender posteriormente también son llamados costos de",
+        "startMs": 1729310,
+        "durationMs": 4680
+      },
+      {
+        "text": "manufactura o costos de fabricación Los costos de mercadeo que son todo lo que",
+        "startMs": 1733990,
+        "durationMs": 6240
+      },
+      {
+        "text": "está relacionado con distribución y ventas y Los costos de servicio que es",
+        "startMs": 1740230,
+        "durationMs": 6240
+      },
+      {
+        "text": "todo lo la valoración de los recursos sacrificados para prestar un servicio",
+        "startMs": 1746470,
+        "durationMs": 10340
+      },
+      {
+        "text": "hay otra clasificación que es acorde a su variabilidad entonces están los",
+        "startMs": 1756820,
+        "durationMs": 6870
+      },
+      {
+        "text": "costos fijos que son los que permanecen constantes durante el periodo contable y",
+        "startMs": 1763690,
+        "durationMs": 5820
+      },
+      {
+        "text": "no dependen del volumen de producción ejemplo digamos el salario de la",
+        "startMs": 1769510,
+        "durationMs": 5700
+      },
+      {
+        "text": "secretaria eso es un costo fijo Los costos variables son los que varían",
+        "startMs": 1775210,
+        "durationMs": 5900
+      },
+      {
+        "text": "proporcional al volumen de producción como que pongo por ejemplo la mano de",
+        "startMs": 1781110,
+        "durationMs": 5939
+      },
+      {
+        "text": "obra Los costos de los insumos y materiales",
+        "startMs": 1787049,
+        "durationMs": 3421
+      },
+      {
+        "text": "la energía eléctrica también puede ser un costo variable porque a mayor",
+        "startMs": 1790470,
+        "durationMs": 6720
+      },
+      {
+        "text": "producción Los costos aumentan",
+        "startMs": 1797190,
+        "durationMs": 3040
+      },
+      {
+        "text": "y también hay unos costos semifijos que son aquellos que tienen unos elementos",
+        "startMs": 1800230,
+        "durationMs": 10520
+      },
+      {
+        "text": "también hay una clasificación de acuerdo al momento en el que se calculan",
+        "startMs": 1810760,
+        "durationMs": 5389
+      },
+      {
+        "text": "entonces están los costos históricos que son aquellos que",
+        "startMs": 1816149,
+        "durationMs": 7620
+      },
+      {
+        "text": "pues que son datos reales y que se han presentado durante diferentes periodos",
+        "startMs": 1823769,
+        "durationMs": 7861
+      },
+      {
+        "text": "contables ese se utiliza mucho pues es el dato que",
+        "startMs": 1831630,
+        "durationMs": 2680
+      },
+      {
+        "text": "se utiliza para presentar los estados financieros y los informes de costos",
+        "startMs": 1834310,
+        "durationMs": 6140
+      },
+      {
+        "text": "ejecutados están los costos predeterminados están",
+        "startMs": 1840450,
+        "durationMs": 3459
+      },
+      {
+        "text": "los costos por absorción o el costeo directo o variable",
+        "startMs": 1843909,
+        "durationMs": 4980
+      },
+      {
+        "text": "Y tenemos otra clasificación de acuerdo al sistema de acumulación de costos",
+        "startMs": 1848889,
+        "durationMs": 5041
+      },
+      {
+        "text": "entonces están los costos por órdenes de trabajo o por órdenes de fabricación",
+        "startMs": 1853930,
+        "durationMs": 7440
+      },
+      {
+        "text": "que esos corresponden a las empresas que elaboran",
+        "startMs": 1861370,
+        "durationMs": 4620
+      },
+      {
+        "text": "sus productos acorde a los pedidos o a las órdenes de producción",
+        "startMs": 1865990,
+        "durationMs": 5700
+      },
+      {
+        "text": "están los costos por procesos que son para empresas de producción masiva o",
+        "startMs": 1871690,
+        "durationMs": 5940
+      },
+      {
+        "text": "continua de artículos similares Entonces digamos según el ejemplo que estábamos",
+        "startMs": 1877630,
+        "durationMs": 5759
+      },
+      {
+        "text": "hablando ahora aquellas empresas",
+        "startMs": 1883389,
+        "durationMs": 3601
+      },
+      {
+        "text": "que tiene líneas de producción yo yo produzco camisas independiente que tenga",
+        "startMs": 1886990,
+        "durationMs": 5460
+      },
+      {
+        "text": "pedido No ese es un costo por procesos si ya es digamos que yo hago uniformes",
+        "startMs": 1892450,
+        "durationMs": 7560
+      },
+      {
+        "text": "basado en pedidos Entonces ahí es un costeo por órdenes de producción y",
+        "startMs": 1900010,
+        "durationMs": 7019
+      },
+      {
+        "text": "también hay un costos por actividades que ese es donde lo que se hace Es como",
+        "startMs": 1907029,
+        "durationMs": 8360
+      },
+      {
+        "text": "clasificar los costos de acuerdo a la actividad voy a poner el ejemplo",
+        "startMs": 1915389,
+        "durationMs": 6601
+      },
+      {
+        "text": "en la parte agrícola una en una empresa agrícola o en una finca pueden manejarse",
+        "startMs": 1921990,
+        "durationMs": 6940
+      },
+      {
+        "text": "diferentes actividades entonces podemos tener digamos",
+        "startMs": 1928930,
+        "durationMs": 4580
+      },
+      {
+        "text": "cultivos de café tenemos producción de café eso es una actividad producción de",
+        "startMs": 1933510,
+        "durationMs": 5440
+      },
+      {
+        "text": "cítricos es otra actividad podemos tener una parte digamos",
+        "startMs": 1938950,
+        "durationMs": 5780
+      },
+      {
+        "text": "porcícola Avícola eso es otra actividad entonces esos costos por actividad lo",
+        "startMs": 1944730,
+        "durationMs": 6580
+      },
+      {
+        "text": "que me permiten es saber específicamente Los costos en los que se ha incurrido",
+        "startMs": 1951310,
+        "durationMs": 4920
+      },
+      {
+        "text": "por cada una de las actividades económicas o agropecuarias en este caso",
+        "startMs": 1956230,
+        "durationMs": 4799
+      },
+      {
+        "text": "de de la finca hay otras clasificaciones adicionales",
+        "startMs": 1961029,
+        "durationMs": 4740
+      },
+      {
+        "text": "están digamos de acuerdo al tipo de desembolso incurrido de acuerdo al",
+        "startMs": 1965769,
+        "durationMs": 5461
+      },
+      {
+        "text": "momento en el que se reflejan en los resultados de acuerdo al control que se",
+        "startMs": 1971230,
+        "durationMs": 5220
+      },
+      {
+        "text": "tenga sobre el consumo o de acuerdo a la importancia en la toma de decisiones",
+        "startMs": 1976450,
+        "durationMs": 6780
+      },
+      {
+        "text": "realmente son muchos los modelos de costos pero a nosotros los que nos",
+        "startMs": 1983230,
+        "durationMs": 5280
+      },
+      {
+        "text": "interesan para entender claramente cómo funciona con tapyme y agroin son la",
+        "startMs": 1988510,
+        "durationMs": 6840
+      },
+      {
+        "text": "clasificación de acuerdo a su función que recordemos que son",
+        "startMs": 1995350,
+        "durationMs": 5840
+      },
+      {
+        "text": "gastos empresariales y costos de producción y la clasificación de acuerdo",
+        "startMs": 2001190,
+        "durationMs": 6880
+      },
+      {
+        "text": "a su relación con el producto que es costos directos y costos indirectos",
+        "startMs": 2008070,
+        "durationMs": 5540
+      },
+      {
+        "text": "debemos entonces tener muy clara esa parte",
+        "startMs": 2013610,
+        "durationMs": 5200
+      },
+      {
+        "text": "Pues todos los que participamos de esta sesión",
+        "startMs": 2025500,
+        "durationMs": 4850
+      },
+      {
+        "text": "cuentas al momento de llevar la contabilidad de una empresa cierto el",
+        "startMs": 2033509,
+        "durationMs": 5461
+      },
+      {
+        "text": "plan de cuentas es el que permite presentar la información de forma",
+        "startMs": 2018810,
+        "durationMs": 26479
+      },
+      {
+        "text": "estructurada tanto a los entes",
+        "startMs": 2045289,
+        "durationMs": 2521
+      },
+      {
+        "text": "financieros contables y de control que que existen en los diferentes países",
+        "startMs": 2047810,
+        "durationMs": 6299
+      },
+      {
+        "text": "como también pues a los socios internos para poder como ver expresado en números",
+        "startMs": 2054109,
+        "durationMs": 6280
+      },
+      {
+        "text": "el resultado y el estado actual de la empresa",
+        "startMs": 2060389,
+        "durationMs": 7161
+      },
+      {
+        "text": "los planes de cuentas pues existen diferentes modelos de planes de cuentas",
+        "startMs": 2067560,
+        "durationMs": 4650
+      },
+      {
+        "text": "pero Generalmente todos tienen pues como un mismo enfoque",
+        "startMs": 2072210,
+        "durationMs": 4820
+      },
+      {
+        "text": "aquí no vamos a entrar en detalle Pues a detallar específicamente Cómo se",
+        "startMs": 2077030,
+        "durationMs": 6700
+      },
+      {
+        "text": "estructura el plan de cuentas porque ese ese conocimiento ya debemos tenerlo aquí",
+        "startMs": 2083730,
+        "durationMs": 5939
+      },
+      {
+        "text": "lo que nos interesa es hablar un poco de las cuentas a nivel de costos de",
+        "startMs": 2089669,
+        "durationMs": 5460
+      },
+      {
+        "text": "producción o a nivel de las clasificaciones de costos que acabamos",
+        "startMs": 2095129,
+        "durationMs": 4621
+      },
+      {
+        "text": "de ver entonces la primera clasificación que tenemos",
+        "startMs": 2099750,
+        "durationMs": 4940
+      },
+      {
+        "text": "se refieren a aquella parte de Los costos que no afectan directamente la",
+        "startMs": 2110430,
+        "durationMs": 6179
+      },
+      {
+        "text": "generación de los productos de la empresa",
+        "startMs": 2116609,
+        "durationMs": 3801
+      },
+      {
+        "text": "empresa los gastos empresariales están",
+        "startMs": 2120410,
+        "durationMs": 2380
+      },
+      {
+        "text": "relacionados Generalmente con la parte operativa y financiera de la empresa y",
+        "startMs": 2122790,
+        "durationMs": 9299
+      },
+      {
+        "text": "son digámoslo así como lo que se tiene que invertir para garantizar el",
+        "startMs": 2132099,
+        "durationMs": 6831
+      },
+      {
+        "text": "funcionamiento de la empresa y que normalmente están relacionados con",
+        "startMs": 2138930,
+        "durationMs": 5280
+      },
+      {
+        "text": "el mismo periodo en el que se causan cuando ya veamos más adelante costos de",
+        "startMs": 2144210,
+        "durationMs": 5340
+      },
+      {
+        "text": "producción nos daremos cuenta que muchas veces los costos de producción pasan a",
+        "startMs": 2149550,
+        "durationMs": 5820
+      },
+      {
+        "text": "otro periodo contable diferente sin embargo los gastos no es así el gasto se",
+        "startMs": 2155370,
+        "durationMs": 5219
+      },
+      {
+        "text": "acumula durante el período contable Y a fin de mes se cancela para calcular la",
+        "startMs": 2160589,
+        "durationMs": 5281
+      },
+      {
+        "text": "utilidad Los costos de producción si pueden pasar de un periodo a otro",
+        "startMs": 2165870,
+        "durationMs": 6479
+      },
+      {
+        "text": "los gastos empresariales Entonces se clasifican de acuerdo al área donde se",
+        "startMs": 2172349,
+        "durationMs": 5641
+      },
+      {
+        "text": "consumen y generalmente son tres categorías los gastos operacionales de",
+        "startMs": 2177990,
+        "durationMs": 5880
+      },
+      {
+        "text": "administración los gastos operacionales de ventas y los gastos no operacionales",
+        "startMs": 2183870,
+        "durationMs": 6660
+      },
+      {
+        "text": "en los operacionales de administración Qué es la cuenta 51 recordemos que los",
+        "startMs": 2190530,
+        "durationMs": 6299
+      },
+      {
+        "text": "gastos empresariales los gastos son la cuenta cinco entonces los operacionales",
+        "startMs": 2104690,
+        "durationMs": 97659
+      },
+      {
+        "text": "de administraciones las 51 son como su nombre lo indica Pues los gastos que",
+        "startMs": 2202349,
+        "durationMs": 6961
+      },
+      {
+        "text": "están relacionados con la gestión administrativa de la empresa",
+        "startMs": 2209310,
+        "durationMs": 5039
+      },
+      {
+        "text": "son todo lo que se refiere digamos al personal administrativo como Los sueldos",
+        "startMs": 2214349,
+        "durationMs": 6480
+      },
+      {
+        "text": "los aportes las prestaciones sociales los honorarios por asistencia técnica",
+        "startMs": 2220829,
+        "durationMs": 5760
+      },
+      {
+        "text": "jurídica o contable los pagos de los impuestos el arrendamiento los seguros",
+        "startMs": 2226589,
+        "durationMs": 12361
+      },
+      {
+        "text": "ahora los gastos operacionales de ventas Esa es la cuenta 52",
+        "startMs": 2238960,
+        "durationMs": 8710
+      },
+      {
+        "text": "a esto que se refiere se refiere como a todos los gastos en los que se incurre",
+        "startMs": 2247680,
+        "durationMs": 5730
+      },
+      {
+        "text": "para poder vender el producto entonces gastos de transporte distribución",
+        "startMs": 2253410,
+        "durationMs": 5780
+      },
+      {
+        "text": "comercialización y mercadeo los gastos de publicidad los aportes y prestaciones",
+        "startMs": 2259190,
+        "durationMs": 6040
+      },
+      {
+        "text": "de los vendedores los arrendamientos de vehículos las oficinas las Bodegas los",
+        "startMs": 2265230,
+        "durationMs": 6240
+      },
+      {
+        "text": "seguros y servicios públicos de esas áreas específicas de la parte de ventas",
+        "startMs": 2271470,
+        "durationMs": 7920
+      },
+      {
+        "text": "y finalmente tenemos en esta parte los gastos no operacionales que son aquellos",
+        "startMs": 2279390,
+        "durationMs": 6000
+      },
+      {
+        "text": "gastos que no están relacionados con la operación regular de la empresa",
+        "startMs": 2285390,
+        "durationMs": 5000
+      },
+      {
+        "text": "Generalmente son los gastos que son de transacciones financieras como digamos",
+        "startMs": 2290390,
+        "durationMs": 9840
+      },
+      {
+        "text": "también puede ser digamos las pérdidas ocasionadas por venta de maquinaria",
+        "startMs": 2300240,
+        "durationMs": 9770
+      },
+      {
+        "text": "donaciones que se realicen auxilios Pues que nada tienen que ver",
+        "startMs": 2310020,
+        "durationMs": 5370
+      },
+      {
+        "text": "auxilios que se pagan que no tienen que ver como con las operaciones regulares",
+        "startMs": 2315390,
+        "durationMs": 4800
+      },
+      {
+        "text": "de la empresa con respecto a los gastos es importante",
+        "startMs": 2320190,
+        "durationMs": 4860
+      },
+      {
+        "text": "tener en cuenta algo y es cuando se trabaja con un plan de cuentas digamos",
+        "startMs": 2325050,
+        "durationMs": 5039
+      },
+      {
+        "text": "que las cuentas de gastos ya vienen predefinidas básicamente lo que hace la",
+        "startMs": 2330089,
+        "durationMs": 5821
+      },
+      {
+        "text": "empresa es la cuenta de gastos y crear sus auxiliares",
+        "startMs": 2335910,
+        "durationMs": 6060
+      },
+      {
+        "text": "pero no es digamos que habitual y creo que no es aconsejable",
+        "startMs": 2341970,
+        "durationMs": 6740
+      },
+      {
+        "text": "crear nuevas cuentas completamente diferentes a la estructura que ya viene",
+        "startMs": 2348710,
+        "durationMs": 6840
+      },
+      {
+        "text": "de gastos operacionales de administración de gastos operacionales",
+        "startMs": 2355550,
+        "durationMs": 4420
+      },
+      {
+        "text": "de ventas y de gastos no operacionales Generalmente cualquier gasto que se",
+        "startMs": 2359970,
+        "durationMs": 4320
+      },
+      {
+        "text": "presente en la empresa se debe clasificar dentro de una de las cuentas",
+        "startMs": 2364290,
+        "durationMs": 4020
+      },
+      {
+        "text": "que ya trae el sistema cosa que no pasa con Los costos de producción Los costos",
+        "startMs": 2368310,
+        "durationMs": 7380
+      },
+      {
+        "text": "de producción digamos que es así es una cuenta que es de libre definición por la",
+        "startMs": 2375690,
+        "durationMs": 6180
+      },
+      {
+        "text": "empresa nosotros vamos a hablar acá de una estructura",
+        "startMs": 2381870,
+        "durationMs": 5479
+      },
+      {
+        "text": "como estándar o general pero no significa que sí o sí tenga que ser así",
+        "startMs": 2387349,
+        "durationMs": 5801
+      },
+      {
+        "text": "por como por lo que les digo cada empresa puede tener una estructura en su",
+        "startMs": 2393150,
+        "durationMs": 4800
+      },
+      {
+        "text": "cuenta 7 completamente diferente es así es como libre de manejo de cada empresa",
+        "startMs": 2397950,
+        "durationMs": 8119
+      },
+      {
+        "text": "aquí que qué vamos a hacer pues vamos como a presentar una idea del manejo que",
+        "startMs": 2406079,
+        "durationMs": 7351
+      },
+      {
+        "text": "normalmente hacemos en contappyme y en agroin con respecto al manejo de Los",
+        "startMs": 2413430,
+        "durationMs": 5159
+      },
+      {
+        "text": "costos de producción normalmente Los costos de producción se",
+        "startMs": 2418589,
+        "durationMs": 4500
+      },
+      {
+        "text": "clasifican en tres que son materia prima mano de obra directa y costos indirectos",
+        "startMs": 2423089,
+        "durationMs": 6841
+      },
+      {
+        "text": "de producción Los costos de producción los vamos a encontrar en la cuenta 7",
+        "startMs": 2429930,
+        "durationMs": 5540
+      },
+      {
+        "text": "materia prima 71 mano de obra directa 72 y costos indirectos cuenta 73",
+        "startMs": 2435470,
+        "durationMs": 8700
+      },
+      {
+        "text": "materia prima y mano de obra directa Generalmente son costos directos",
+        "startMs": 2444170,
+        "durationMs": 5040
+      },
+      {
+        "text": "voy a presentarles a continuación las propuestas de clasificación de",
+        "startMs": 2461700,
+        "durationMs": 6570
+      },
+      {
+        "text": "cuentas que trae tanto con tapime como agro Win esta que vemos en la pantalla",
+        "startMs": 2468270,
+        "durationMs": 5660
+      },
+      {
+        "text": "es la propuesta de manejo de costos que trae conta pyme trae una cuenta 7 costos",
+        "startMs": 2473930,
+        "durationMs": 7540
+      },
+      {
+        "text": "de producción una cuenta 71 de materia prima 72 de mano de obra directa y 73 de",
+        "startMs": 2481470,
+        "durationMs": 7200
+      },
+      {
+        "text": "costos indirectos Sólo trae pues sus diferentes auxiliares pero no viene muy",
+        "startMs": 2449210,
+        "durationMs": 46060
+      },
+      {
+        "text": "detallada porque porque en la parte manufacturera que es la que nos",
+        "startMs": 2495270,
+        "durationMs": 5100
+      },
+      {
+        "text": "corresponde digamos en conta pyme pues cada empresa es un mundo",
+        "startMs": 2500370,
+        "durationMs": 4979
+      },
+      {
+        "text": "y cada empresa puede querer crear las diferentes cuentas de materia prima las",
+        "startMs": 2505349,
+        "durationMs": 6061
+      },
+      {
+        "text": "diferentes cuentas de mano de obra y las diferentes cuentas de indirectos sin",
+        "startMs": 2511410,
+        "durationMs": 5159
+      },
+      {
+        "text": "embargo en agro Win sí somos más más detallados y ese es el mejor ejemplo",
+        "startMs": 2516569,
+        "durationMs": 7500
+      },
+      {
+        "text": "para entender Cuáles como la idea de de creación de cuentas cuando estamos",
+        "startMs": 2524069,
+        "durationMs": 7321
+      },
+      {
+        "text": "hablando de costos de producción entonces",
+        "startMs": 2531390,
+        "durationMs": 4439
+      },
+      {
+        "text": "entonces cuando hablamos de costos en agroin",
+        "startMs": 2535829,
+        "durationMs": 2760
+      },
+      {
+        "text": "Tenemos una cuenta 71 que es la cuenta de mano perdón de materia prima e",
+        "startMs": 2538589,
+        "durationMs": 6961
+      },
+      {
+        "text": "insumos entonces esa es la 71 a su vez se divide en varias auxiliares",
+        "startMs": 2545550,
+        "durationMs": 8059
+      },
+      {
+        "text": "está la 71 05 para materia prima la 71 10",
+        "startMs": 2553609,
+        "durationMs": 4661
+      },
+      {
+        "text": "para insumos agrícolas las 71 15 para postcosecha",
+        "startMs": 2558270,
+        "durationMs": 4579
+      },
+      {
+        "text": "postcosecha 7120 materiales agrícolas y 7125",
+        "startMs": 2562849,
+        "durationMs": 3401
+      },
+      {
+        "text": "combustibles y lubricantes si nos detallamos acá en insumos",
+        "startMs": 2566250,
+        "durationMs": 6960
+      },
+      {
+        "text": "agrícolas nos damos cuenta que lo que se hace Es que se crea una cuenta por cada",
+        "startMs": 2573210,
+        "durationMs": 6780
+      },
+      {
+        "text": "grupo de inventarios de aquellos productos que se consumen dentro de el",
+        "startMs": 2579990,
+        "durationMs": 6240
+      },
+      {
+        "text": "proceso productivo Entonces digamos acá en el ejemplo que tenemos en la pantalla",
+        "startMs": 2586230,
+        "durationMs": 4560
+      },
+      {
+        "text": "Tenemos una cuenta para los herbicidas una cuenta para los insecticidas otro",
+        "startMs": 2590790,
+        "durationMs": 5819
+      },
+      {
+        "text": "para las fertilizantes coadyuvantes enmiendas y demás",
+        "startMs": 2596609,
+        "durationMs": 5401
+      },
+      {
+        "text": "si hiciéramos el símil con una empresa manufacturera entonces diríamos que la",
+        "startMs": 2602010,
+        "durationMs": 5760
+      },
+      {
+        "text": "cuenta 71 como Debería discriminarse Debería discriminarse",
+        "startMs": 2607770,
+        "durationMs": 5480
+      },
+      {
+        "text": "dependiendo de los grupos de elementos que se trabajen para ese proceso",
+        "startMs": 2613250,
+        "durationMs": 5319
+      },
+      {
+        "text": "productivo entonces voy a poner el ejemplo que estoy utilizando que es como",
+        "startMs": 2618569,
+        "durationMs": 5040
+      },
+      {
+        "text": "el de una empresa que produce prendas de vestir entonces podemos tener telas",
+        "startMs": 2623609,
+        "durationMs": 6841
+      },
+      {
+        "text": "puede ser una cuenta insumos digamos que los insumos se pueden clasificar de",
+        "startMs": 2630450,
+        "durationMs": 5520
+      },
+      {
+        "text": "diferentes tipos pueden también haber materias primas porque sabemos por",
+        "startMs": 2635970,
+        "durationMs": 5280
+      },
+      {
+        "text": "inventarios que una cosa son las materias primas y otra cosa son los",
+        "startMs": 2641250,
+        "durationMs": 5220
+      },
+      {
+        "text": "insumos podemos tener digamos que que",
+        "startMs": 2646470,
+        "durationMs": 4080
+      },
+      {
+        "text": "clasificamos las telas en diferentes grupos Entonces tenemos las de algodón",
+        "startMs": 2650550,
+        "durationMs": 5759
+      },
+      {
+        "text": "tenemos lo que es poliéster tenemos algunas que son naturales entonces",
+        "startMs": 2656309,
+        "durationMs": 6381
+      },
+      {
+        "text": "podríamos también abrir la cuenta 7 en esas diferentes clasificaciones la",
+        "startMs": 2662690,
+        "durationMs": 6760
+      },
+      {
+        "text": "pregunta que se puede prestar acá es qué tanto vale la pena discriminar la cuenta",
+        "startMs": 2669450,
+        "durationMs": 6780
+      },
+      {
+        "text": "71 que es de la que estamos hablando en este momento",
+        "startMs": 2676230,
+        "durationMs": 3320
+      },
+      {
+        "text": "lo ideal no es ni tener una sola cuenta donde se mezcle",
+        "startMs": 2679550,
+        "durationMs": 8140
+      },
+      {
+        "text": "todo ni tampoco llegar al punto de crear una",
+        "startMs": 2687690,
+        "durationMs": 3000
+      },
+      {
+        "text": "cuenta por cada insumo o por cada elemento de inventario por eso Si yo",
+        "startMs": 2690690,
+        "durationMs": 7500
+      },
+      {
+        "text": "tengo una digamos una buena clasificación",
+        "startMs": 2698190,
+        "durationMs": 3980
+      },
+      {
+        "text": "clasificación de de mis grupos de inventario pero no",
+        "startMs": 2702170,
+        "durationMs": 3880
+      },
+      {
+        "text": "basándome en si son grabados exentos Con el IVA el 19 no sino una clasificación",
+        "startMs": 2706050,
+        "durationMs": 6539
+      },
+      {
+        "text": "como más más según su naturaleza o su uso Entonces yo podría crear una cuenta",
+        "startMs": 2712589,
+        "durationMs": 6720
+      },
+      {
+        "text": "por cada uno de esos de esos grupos o líneas de productos que estoy trabajando",
+        "startMs": 2719309,
+        "durationMs": 9621
+      },
+      {
+        "text": "recordemos sólo se crean las cuentas para los",
+        "startMs": 2728930,
+        "durationMs": 2560
+      },
+      {
+        "text": "elementos de inventario que están configurados para consumo solamente para",
+        "startMs": 2731490,
+        "durationMs": 6180
+      },
+      {
+        "text": "eso Eso lo veremos más adelante cuando hablemos de de mano Pues de costos de",
+        "startMs": 2737670,
+        "durationMs": 5040
+      },
+      {
+        "text": "materia prima pero son cuentas solamente para",
+        "startMs": 2742710,
+        "durationMs": 4920
+      },
+      {
+        "text": "para elementos de inventario que se van a",
+        "startMs": 2747630,
+        "durationMs": 1920
+      },
+      {
+        "text": "consumir nada que ver con otros elementos que no se consumen ni nada no",
+        "startMs": 2749550,
+        "durationMs": 4980
+      },
+      {
+        "text": "es todos los elementos que se consumen dentro del proceso productivo Entonces",
+        "startMs": 2754530,
+        "durationMs": 4980
+      },
+      {
+        "text": "como les decía y para y por eso les pongo el ejemplo de agro Win en agroin",
+        "startMs": 2759510,
+        "durationMs": 6440
+      },
+      {
+        "text": "los insumos se clasifican de acuerdo como a su naturaleza Entonces todos los",
+        "startMs": 2765950,
+        "durationMs": 6399
+      },
+      {
+        "text": "herbicidas van juntos todos los insecticidas juntos los fertilizantes",
+        "startMs": 2772349,
+        "durationMs": 4321
+      },
+      {
+        "text": "juntos coadyuvantes y demás Entonces qué se hace se crea una cuenta por cada uno",
+        "startMs": 2776670,
+        "durationMs": 6899
+      },
+      {
+        "text": "de esos grupos y cada grupo de inventario se configura para que afecte",
+        "startMs": 2783569,
+        "durationMs": 5280
+      },
+      {
+        "text": "la cuenta correspondiente hablemos ahora de la cuenta 72 la cuenta",
+        "startMs": 2788849,
+        "durationMs": 6601
+      },
+      {
+        "text": "de mano de obra directa tengamos en cuenta que si la mano de obra es",
+        "startMs": 2795450,
+        "durationMs": 5520
+      },
+      {
+        "text": "indirecta no debe ir por la 72 debería ir por la 73 de costos indirectos",
+        "startMs": 2800970,
+        "durationMs": 7280
+      },
+      {
+        "text": "en esta propuesta que tenemos en la pantalla tenemos",
+        "startMs": 2808250,
+        "durationMs": 4380
+      },
+      {
+        "text": "72 05 costo de personal y 72 10 mano de obra de cultivos",
+        "startMs": 2812630,
+        "durationMs": 8679
+      },
+      {
+        "text": "cuando hablamos de nómina cuando hablamos de mano de obra cuando estamos",
+        "startMs": 2821319,
+        "durationMs": 4551
+      },
+      {
+        "text": "hablando de la mano de obra de las personas que hacen parte o que están por",
+        "startMs": 2825870,
+        "durationMs": 5160
+      },
+      {
+        "text": "la empresa Generalmente pensamos en la cuenta 5 en las 51 administrativo 51 05",
+        "startMs": 2831030,
+        "durationMs": 8819
+      },
+      {
+        "text": "que son gastos de personal entonces Allí están Los sueldos las horas extras El",
+        "startMs": 2839849,
+        "durationMs": 6061
+      },
+      {
+        "text": "auxilio de transporte cesantías vacaciones",
+        "startMs": 2845910,
+        "durationMs": 5540
+      },
+      {
+        "text": "aporte de salud pensión bueno toda toda la parte que le corresponde a la nómina",
+        "startMs": 2851450,
+        "durationMs": 5800
+      },
+      {
+        "text": "pero resulta que cuando estamos hablando del personal que es propio de producción",
+        "startMs": 2857250,
+        "durationMs": 6660
+      },
+      {
+        "text": "no lo podemos mandar por las cinco sino que tiene que trabajarse por una cuenta",
+        "startMs": 2863910,
+        "durationMs": 5399
+      },
+      {
+        "text": "72 entonces por eso nuestra propuesta es que dentro de la 72 tengamos como una",
+        "startMs": 2869309,
+        "durationMs": 7260
+      },
+      {
+        "text": "réplica de esas 51 05 Entonces ya si en la 51 05 tenemos 51 05 06 sueldos",
+        "startMs": 2876569,
+        "durationMs": 9121
+      },
+      {
+        "text": "entonces aquí tenemos 72 05 06 sueldos allá Tenemos 51 05 15 horas extras acá",
+        "startMs": 2885690,
+        "durationMs": 8760
+      },
+      {
+        "text": "tenemos 72 05 15 horas extras Con qué objetivo con el objetivo de que aquí se",
+        "startMs": 2894450,
+        "durationMs": 9359
+      },
+      {
+        "text": "registre la mano de obra la nómina de los empleados que son propios de la",
+        "startMs": 2903809,
+        "durationMs": 6661
+      },
+      {
+        "text": "empresa Pero que están relacionados con la parte productiva",
+        "startMs": 2910470,
+        "durationMs": 4800
+      },
+      {
+        "text": "ahora bien Qué pasa con las 72 10 esa que dice mano de obra cultivos cuando",
+        "startMs": 2915270,
+        "durationMs": 7940
+      },
+      {
+        "text": "nosotros trabajamos sea en contapyme o en agroin",
+        "startMs": 2923210,
+        "durationMs": 3040
+      },
+      {
+        "text": "con el módulo de actividades y labores ese módulo nos va a permitir discriminar",
+        "startMs": 2926250,
+        "durationMs": 6839
+      },
+      {
+        "text": "las diferentes labores que se realizan en cada fin productivo sea una línea de",
+        "startMs": 2933089,
+        "durationMs": 5941
+      },
+      {
+        "text": "producción o un cultivo entonces yo voy a poder saber específicamente las",
+        "startMs": 2939030,
+        "durationMs": 5100
+      },
+      {
+        "text": "labores que se hicieron voy a hacer el ejemplo acrowin labores de siembra",
+        "startMs": 2944130,
+        "durationMs": 4380
+      },
+      {
+        "text": "labores labores de preciembra labores de siembra labores de fertilización de",
+        "startMs": 2948510,
+        "durationMs": 5760
+      },
+      {
+        "text": "hierba de fumigación de cosecha y demás si no trabajamos con el módulo de",
+        "startMs": 2954270,
+        "durationMs": 7140
+      },
+      {
+        "text": "actividades y labores ese manejo de las 72 días no es",
+        "startMs": 2961410,
+        "durationMs": 5220
+      },
+      {
+        "text": "necesario además No tendríamos forma si no trabajamos con actividades y labores",
+        "startMs": 2966630,
+        "durationMs": 5580
+      },
+      {
+        "text": "No tendríamos forma de tener esa discriminación de cada una de las",
+        "startMs": 2972210,
+        "durationMs": 4379
+      },
+      {
+        "text": "labores o tareas que se han hecho en los diferentes cultivos",
+        "startMs": 2976589,
+        "durationMs": 5341
+      },
+      {
+        "text": "Entonces esta parte de la 72 10 es muy relacionada con la parte de actividades",
+        "startMs": 2981940,
+        "durationMs": 6590
+      },
+      {
+        "text": "y labores cuando no se trabaja con actividades y labores como digamos el",
+        "startMs": 2988530,
+        "durationMs": 5340
+      },
+      {
+        "text": "caso de contapyme que hay muchas empresas que no trabajan con esa parte",
+        "startMs": 2993870,
+        "durationMs": 4260
+      },
+      {
+        "text": "de actividades y labores pues simplemente vamos a tener esta parte",
+        "startMs": 2998130,
+        "durationMs": 3540
+      },
+      {
+        "text": "aquí de la 72 05 de costos de personal qué tenemos también aquí tengamos en",
+        "startMs": 3001670,
+        "durationMs": 7500
+      },
+      {
+        "text": "cuenta algo que tenemos también otras otras unidades productivas entonces que",
+        "startMs": 3009170,
+        "durationMs": 4260
+      },
+      {
+        "text": "tenemos un vivero Bueno podemos tener una cuenta para la mano de obra de",
+        "startMs": 3013430,
+        "durationMs": 4080
+      },
+      {
+        "text": "vivero que tenemos no sé una piscícola entonces mano de obra de la piscícula O",
+        "startMs": 3017510,
+        "durationMs": 7380
+      },
+      {
+        "text": "sea como como la mano de obra de cada uno de las actividades agrícolas o",
+        "startMs": 3024890,
+        "durationMs": 6300
+      },
+      {
+        "text": "actividades manufactureras a la que se dedica la finca o la empresa",
+        "startMs": 3031190,
+        "durationMs": 5820
+      },
+      {
+        "text": "Esta es la cuenta 72 ahora hablemos de la 73 la 73 pues es una cuenta que",
+        "startMs": 3037010,
+        "durationMs": 8880
+      },
+      {
+        "text": "digamos aquí tenemos una propuesta pero es la cuenta que es como menos menos",
+        "startMs": 3045890,
+        "durationMs": 5419
+      },
+      {
+        "text": "estandarizada porque depende mucho de los indirectos que maneje la empresa",
+        "startMs": 3051309,
+        "durationMs": 5941
+      },
+      {
+        "text": "entonces ejemplos de indirectos la mano de obra indirecta",
+        "startMs": 3057250,
+        "durationMs": 5099
+      },
+      {
+        "text": "el mantenimiento de las carreteras el mantenimiento de",
+        "startMs": 3062349,
+        "durationMs": 5641
+      },
+      {
+        "text": "de Los Linderos los insumos indirectos porque hay",
+        "startMs": 3067990,
+        "durationMs": 5260
+      },
+      {
+        "text": "insumos indirectos la maquinaria y equipo digamos el mantenimiento los",
+        "startMs": 3073250,
+        "durationMs": 6120
+      },
+      {
+        "text": "repuestos son costos indirectos las amortizaciones las depreciaciones y",
+        "startMs": 3079370,
+        "durationMs": 5640
+      },
+      {
+        "text": "también otros indirectos Estos son solamente propuestas no es",
+        "startMs": 3085010,
+        "durationMs": 6000
+      },
+      {
+        "text": "nada fijo no es nada estandarizado no es que siempre la 72 tiene que ir con",
+        "startMs": 3091010,
+        "durationMs": 5839
+      },
+      {
+        "text": "determinada estructuras las 73 también como les decía que pasa con digamos la",
+        "startMs": 3096849,
+        "durationMs": 5441
+      },
+      {
+        "text": "cuenta de gastos la cuenta de gastos trae una estructura Generalmente lo que",
+        "startMs": 3102290,
+        "durationMs": 5460
+      },
+      {
+        "text": "hacen las empresas es ajustarse a esa estructura",
+        "startMs": 3107750,
+        "durationMs": 4500
+      },
+      {
+        "text": "estructura sin embargo en la cuenta de costos la",
+        "startMs": 3112250,
+        "durationMs": 3120
+      },
+      {
+        "text": "cuenta de costos si es de libre manejo cada empresa crea la estructura que",
+        "startMs": 3115370,
+        "durationMs": 4860
+      },
+      {
+        "text": "mejor se acomode a su al manejo que hace de sus costos y",
+        "startMs": 3120230,
+        "durationMs": 6180
+      },
+      {
+        "text": "a la información que quiere obtener Estos son pues como ejemplos generales",
+        "startMs": 3126410,
+        "durationMs": 5419
+      },
+      {
+        "text": "pero no es solamente hablar de qué estructura crear digamos que cuando",
+        "startMs": 3131829,
+        "durationMs": 7121
+      },
+      {
+        "text": "hablemos de costos de insumos y materiales allí crearemos las cuentas 7",
+        "startMs": 3138950,
+        "durationMs": 6540
+      },
+      {
+        "text": "pues haremos una propuesta de manejo de cuenta 71 cuando hablemos de mano de",
+        "startMs": 3145490,
+        "durationMs": 5640
+      },
+      {
+        "text": "obra hablaremos de una propuesta de cuenta 72 y cuando tratemos costos",
+        "startMs": 3151130,
+        "durationMs": 5640
+      },
+      {
+        "text": "totales y hablemos de indirectos pues miraremos una estructura de cuenta 73",
+        "startMs": 3156770,
+        "durationMs": 5640
+      },
+      {
+        "text": "más importante que eso es hablar un poquito de la configuración que tienen",
+        "startMs": 3162410,
+        "durationMs": 6179
+      },
+      {
+        "text": "que tener esas cuentas 7 las cuentas de costos de producción Aunque aquí no",
+        "startMs": 3168589,
+        "durationMs": 6240
+      },
+      {
+        "text": "solamente vamos a hablar de siete Aquí vamos a hablar de digamos de tres tipos",
+        "startMs": 3174829,
+        "durationMs": 4980
+      },
+      {
+        "text": "de cuentas que son las que se necesitan para trabajar costos de producción y son",
+        "startMs": 3179809,
+        "durationMs": 5161
+      },
+      {
+        "text": "la cuenta 7 71 72 y 73 con sus respectivas auxiliares la cuenta de",
+        "startMs": 3184970,
+        "durationMs": 8639
+      },
+      {
+        "text": "producto en proceso que es la 1410 y la cuenta 14 30 que es la cuenta de",
+        "startMs": 3193609,
+        "durationMs": 7681
+      },
+      {
+        "text": "productos manufacturados o productos agrícolas que es la cuenta donde",
+        "startMs": 3201290,
+        "durationMs": 4200
+      },
+      {
+        "text": "finalmente va a llegar el producto terminado para posteriormente ser",
+        "startMs": 3205490,
+        "durationMs": 5760
+      },
+      {
+        "text": "vendido entonces configuraciones de las cuentas 7 esto es",
+        "startMs": 3211250,
+        "durationMs": 6120
+      },
+      {
+        "text": "fundamental debemos tenerlo muy presente se debe prestar mucho cuidado a que las",
+        "startMs": 3217370,
+        "durationMs": 8760
+      },
+      {
+        "text": "cuentas estén bien configuradas Muchas veces las personas montan unos esquemas",
+        "startMs": 3226130,
+        "durationMs": 5340
+      },
+      {
+        "text": "de cuentas que que se prestan para que el sistema no funcione como tiene que",
+        "startMs": 3231470,
+        "durationMs": 5820
+      },
+      {
+        "text": "funcionar por eso nosotros tenemos que tener en cuenta Cuáles son las",
+        "startMs": 3237290,
+        "durationMs": 6019
+      },
+      {
+        "text": "configuraciones digamos",
+        "startMs": 3243309,
+        "durationMs": 1681
+      },
+      {
+        "text": "digamos necesarias para que funcione el sistema",
+        "startMs": 3244990,
+        "durationMs": 2800
+      },
+      {
+        "text": "de costos de producción entonces todas las cuentas 7 deben pertenecer a un tipo",
+        "startMs": 3247790,
+        "durationMs": 5220
+      },
+      {
+        "text": "de cuenta que es 5 que son cuentas de egresos",
+        "startMs": 3253010,
+        "durationMs": 4319
+      },
+      {
+        "text": "egresos pues deben ser cuentas afectables",
+        "startMs": 3257329,
+        "durationMs": 2101
+      },
+      {
+        "text": "directamente por el usuario y muy importante es que deben tener esta",
+        "startMs": 3259430,
+        "durationMs": 5940
+      },
+      {
+        "text": "opción que dice autoactivar para que es esto para que cuando se realicen las",
+        "startMs": 3265370,
+        "durationMs": 7380
+      },
+      {
+        "text": "acciones de fin de mes el sistema cancele las cuentas 7 y se las lleve",
+        "startMs": 3272750,
+        "durationMs": 5819
+      },
+      {
+        "text": "para el producto en proceso entonces todas las cuentas 7 deben tener esta",
+        "startMs": 3278569,
+        "durationMs": 5821
+      },
+      {
+        "text": "opción de autoactivar nada de control de cartera pueden estar",
+        "startMs": 3284390,
+        "durationMs": 6959
+      },
+      {
+        "text": "disponibles en presupuesto es así es una opción que puede activarse dependiendo",
+        "startMs": 3291349,
+        "durationMs": 5700
+      },
+      {
+        "text": "Generalmente si se llegasen A presupuestar cuáles cuentas de",
+        "startMs": 3302530,
+        "durationMs": 4900
+      },
+      {
+        "text": "presupuestan Generalmente insumos materias primas e insumos o sea",
+        "startMs": 3307430,
+        "durationMs": 5879
+      },
+      {
+        "text": "las 71 y mano de obra Los costos indirectos son muy poco común que ese",
+        "startMs": 3313309,
+        "durationMs": 6961
+      },
+      {
+        "text": "presupuesto Entonces si vamos a presupuestar debemos también activarle",
+        "startMs": 3320270,
+        "durationMs": 5460
+      },
+      {
+        "text": "esta opción de disponible en presupuesto deben tener activa la opción de",
+        "startMs": 3325730,
+        "durationMs": 5160
+      },
+      {
+        "text": "disponible en operaciones de gastos e ingresos",
+        "startMs": 3330890,
+        "durationMs": 3740
+      },
+      {
+        "text": "ingresos es así es importante",
+        "startMs": 3334630,
+        "durationMs": 2280
+      },
+      {
+        "text": "y en la pestaña de datos requeridos todas las cuentas 7 deben exigir centro",
+        "startMs": 3336910,
+        "durationMs": 7120
+      },
+      {
+        "text": "de costos cuenta 7 que no exige centro de costos pues no vamos a tener forma de",
+        "startMs": 3297049,
+        "durationMs": 53760
+      },
+      {
+        "text": "especificarle cuál va a ser el fin productivo",
+        "startMs": 3350809,
+        "durationMs": 3081
+      },
+      {
+        "text": "productivo al que se tiene que cargar ese costo de",
+        "startMs": 3353890,
+        "durationMs": 2800
+      },
+      {
+        "text": "producción entonces todas las cuentas siete deben exigir centro de costos y",
+        "startMs": 3356690,
+        "durationMs": 5460
+      },
+      {
+        "text": "por defecto digamos que manejan tercero tanto lo exigen como discriminan por",
+        "startMs": 3362150,
+        "durationMs": 5699
+      },
+      {
+        "text": "tercero entonces muy importante esta configuración",
+        "startMs": 3367849,
+        "durationMs": 4401
+      },
+      {
+        "text": "configuración todas las cuentas deben pertenecer a la",
+        "startMs": 3372250,
+        "durationMs": 3400
+      },
+      {
+        "text": "clase de egresos deben autoactivarse disponibles en operaciones de gastos e",
+        "startMs": 3375650,
+        "durationMs": 7399
+      },
+      {
+        "text": "ingresos exigir centro de costos y manejar",
+        "startMs": 3383049,
+        "durationMs": 4060
+      },
+      {
+        "text": "tercero listo",
+        "startMs": 3387109,
+        "durationMs": 1980
+      },
+      {
+        "text": "listo ahora hablemos de la cuenta de producto",
+        "startMs": 3389089,
+        "durationMs": 2941
+      },
+      {
+        "text": "en proceso la cuenta de producto en proceso es una",
+        "startMs": 3392030,
+        "durationMs": 5400
+      },
+      {
+        "text": "cuenta que es de no es así no Esa no es de tipo egresos es una cuenta de tipo",
+        "startMs": 3397430,
+        "durationMs": 5760
+      },
+      {
+        "text": "activo porque es una cuenta del inventario no debe tener la opción de",
+        "startMs": 3403190,
+        "durationMs": 6180
+      },
+      {
+        "text": "autoactivar mucho cuidado con tener la cuenta 14 días para autoactivar y muy",
+        "startMs": 3409370,
+        "durationMs": 9360
+      },
+      {
+        "text": "importante revisar de que ninguna bodega debe tocar",
+        "startMs": 3418730,
+        "durationMs": 4140
+      },
+      {
+        "text": "la cuenta 1410 más adelante hablaremos de eso",
+        "startMs": 3422870,
+        "durationMs": 4939
+      },
+      {
+        "text": "a veces ocurre que se hacen imputaciones directas a la cuenta 10 a la cuenta 1410",
+        "startMs": 3427809,
+        "durationMs": 6520
+      },
+      {
+        "text": "perdón y eso no debe ser así la cuenta 1410 casi que debe ser una cuenta que",
+        "startMs": 3434329,
+        "durationMs": 7341
+      },
+      {
+        "text": "solamente se debe ver afectada por los movimientos que hace el sistema cuando",
+        "startMs": 3441670,
+        "durationMs": 4899
+      },
+      {
+        "text": "hace la autoactivación de cuentas pero igual uno la puede afectar manualmente",
+        "startMs": 3446569,
+        "durationMs": 6601
+      },
+      {
+        "text": "por un movimiento contable Eso sí con todo el conocimiento y la",
+        "startMs": 3453170,
+        "durationMs": 4439
+      },
+      {
+        "text": "responsabilidad de la transacción que Está realizando entonces la 14 10 no",
+        "startMs": 3457609,
+        "durationMs": 6181
+      },
+      {
+        "text": "debe tener autoactivación tampoco debe estar disponible en operaciones de",
+        "startMs": 3463790,
+        "durationMs": 5880
+      },
+      {
+        "text": "gastos e ingresos nada de eso pero aquí en datos requeridos si debe exigir",
+        "startMs": 3469670,
+        "durationMs": 6360
+      },
+      {
+        "text": "centro de costos Entonces es muy importante",
+        "startMs": 3476030,
+        "durationMs": 2900
+      },
+      {
+        "text": "importante Generalmente son las cuentas de",
+        "startMs": 3478930,
+        "durationMs": 2560
+      },
+      {
+        "text": "resultado las que exigen centro de costos entonces",
+        "startMs": 3481490,
+        "durationMs": 3920
+      },
+      {
+        "text": "ingresos gastos costo de venta y costos de producción normalmente son esas las",
+        "startMs": 3485410,
+        "durationMs": 4899
+      },
+      {
+        "text": "que exigen centro de costos Esta es digamos así como la la principal cuenta",
+        "startMs": 3490309,
+        "durationMs": 7221
+      },
+      {
+        "text": "del activo que exige centro de costos siempre siempre debe exigir centro de",
+        "startMs": 3497530,
+        "durationMs": 6940
+      },
+      {
+        "text": "costos y pues acá lo tenemos con manejo de tercero para que nos exija tercero",
+        "startMs": 3504470,
+        "durationMs": 5660
+      },
+      {
+        "text": "Listo ya sabemos entonces clasificación de la cuenta 14 días que es la cuenta de",
+        "startMs": 3510130,
+        "durationMs": 5699
+      },
+      {
+        "text": "producto en proceso Y tenemos la clasificación de la cuenta",
+        "startMs": 3515829,
+        "durationMs": 6361
+      },
+      {
+        "text": "1430 que es la cuenta de productos manufacturados o productos agrícolas que",
+        "startMs": 3522190,
+        "durationMs": 6639
+      },
+      {
+        "text": "va a ser esta la cuenta donde finalmente se va a ver reflejado el costo de los",
+        "startMs": 3528829,
+        "durationMs": 7681
+      },
+      {
+        "text": "diferentes productos que han salido o han sido resultado de cada uno de los",
+        "startMs": 3536510,
+        "durationMs": 7620
+      },
+      {
+        "text": "fines productivos Entonces tenemos una línea de fabricación de camisas pues qué",
+        "startMs": 3544130,
+        "durationMs": 4380
+      },
+      {
+        "text": "vamos a ver en la 1430 el costo de las camisas ya terminadas listos para la",
+        "startMs": 3548510,
+        "durationMs": 4920
+      },
+      {
+        "text": "venta qué tenemos una finca Y tenemos un cultivo de cítricos Entonces qué Vamos a",
+        "startMs": 3553430,
+        "durationMs": 5399
+      },
+      {
+        "text": "ver en la 1430 el costo de las naranjas o de los limones o de la mandarina Ya",
+        "startMs": 3558829,
+        "durationMs": 6601
+      },
+      {
+        "text": "lista para la venta qué configuración tiene que tener esta",
+        "startMs": 3565430,
+        "durationMs": 5580
+      },
+      {
+        "text": "cuenta también debe ser de tipo activo",
+        "startMs": 3571010,
+        "durationMs": 3660
+      },
+      {
+        "text": "no se autoactiva no está disponible en operaciones de gastos ingresos y esta A",
+        "startMs": 3574670,
+        "durationMs": 7379
+      },
+      {
+        "text": "diferencia de la 1410 esta no exige centro de costos la 1410 sí exige centro",
+        "startMs": 3582049,
+        "durationMs": 6721
+      },
+      {
+        "text": "de costos la 1430 no exige centro de costos esas configuraciones debemos",
+        "startMs": 3588770,
+        "durationMs": 7700
+      },
+      {
+        "text": "tenerlas completamente claras no es que a veces sí a veces no es que no debemos",
+        "startMs": 3596470,
+        "durationMs": 6599
+      },
+      {
+        "text": "tener las claras se debe revisar casi que de las primeras",
+        "startMs": 3603069,
+        "durationMs": 7061
+      },
+      {
+        "text": "labores que se debe hacer cuando se está haciendo una implementación de costos es",
+        "startMs": 3610130,
+        "durationMs": 6479
+      },
+      {
+        "text": "revisar que las cuentas estén correctamente configuradas entonces voy",
+        "startMs": 3616609,
+        "durationMs": 4561
+      },
+      {
+        "text": "a repetir y es las cuentas 7 deben pertenecer al tipo de cuenta 5",
+        "startMs": 3621170,
+        "durationMs": 9300
+      },
+      {
+        "text": "deben autoactivarse y estar disponible en las operaciones de gastos e ingresos",
+        "startMs": 3630480,
+        "durationMs": 5470
+      },
+      {
+        "text": "deben exigir centro de costos y manejar tercero",
+        "startMs": 3635950,
+        "durationMs": 5760
+      },
+      {
+        "text": "tercero la cuenta 1410 que es una sola a veces",
+        "startMs": 3641710,
+        "durationMs": 4119
+      },
+      {
+        "text": "se crean diferentes auxiliares Pero eso depende mucho de los tipos de proyectos",
+        "startMs": 3645829,
+        "durationMs": 5161
+      },
+      {
+        "text": "que se manejen dentro de la empresa Generalmente es una sola",
+        "startMs": 3650990,
+        "durationMs": 6619
+      },
+      {
+        "text": "la cuenta 1410 producto en proceso es una cuenta de tipo uno o sea de activo",
+        "startMs": 3657609,
+        "durationMs": 7081
+      },
+      {
+        "text": "no es para autoactivar no está disponible en operaciones de gastos e",
+        "startMs": 3664690,
+        "durationMs": 6099
+      },
+      {
+        "text": "ingresos más si exige centro de costos es la única cuenta del inventario que",
+        "startMs": 3670789,
+        "durationMs": 6300
+      },
+      {
+        "text": "exige centro de costos ni la 14 05 ni la 1430 ninguna exige centro de costos a",
+        "startMs": 3677089,
+        "durationMs": 7081
+      },
+      {
+        "text": "excepción de la 1410 14 10 exige centro de costos y maneja tercero",
+        "startMs": 3684170,
+        "durationMs": 6600
+      },
+      {
+        "text": "y finalmente la cuenta 1430 que es la de producto terminado también es de tipo de",
+        "startMs": 3690770,
+        "durationMs": 6059
+      },
+      {
+        "text": "cuenta activo no se autoactiva no está disponible en operaciones de gastos e",
+        "startMs": 3696829,
+        "durationMs": 5101
+      },
+      {
+        "text": "ingresos esta no exige centro de costos Y si maneja tercero entonces",
+        "startMs": 3701930,
+        "durationMs": 6320
+      },
+      {
+        "text": "con esta parte de las cuentas que la profundizaremos cuando ya hablemos de",
+        "startMs": 3708250,
+        "durationMs": 6280
+      },
+      {
+        "text": "costos de Mate de materia prima costos de mano de obra y costos indirectos",
+        "startMs": 3714530,
+        "durationMs": 5480
+      },
+      {
+        "text": "damos como por terminada Pues esta primera sesión de introducción a costos",
+        "startMs": 3720010,
+        "durationMs": 5880
+      },
+      {
+        "text": "bueno no siendo más Muchas gracias por la atención nos",
+        "startMs": 3725890,
+        "durationMs": 9550
+      }
+    ],
+    "plainText": "## Descripción del video\n\nMódulo de costos de ContaPyme® y AgroWin® - Tema: Introducción a costos de producción\n\nDescripción:\nComprenda qué es la producción y los diferentes tipos de fines productivos, incluyendo ejemplos concretos. Examinamos los diferentes tipos de costos de producción, cómo se clasifican y cómo se relacionan con la producción. Finalmente, daremos unas recomendaciones de cómo configurar el plan de cuentas en el sistema ContaPyme/AgroWin para manejar eficazmente los costos de producción en las empresas.\n\nExperta: Ing. Diana María Menjura\nEspecialista en producto de InSoft®\n\nSíganos en nuestras redes sociales:\nFacebook /SoftwareContableContaPyme \nInstagram /contapyme \n\nConozca más en www.contapyme.com y www.agrowin.com\n\n## Transcripción\n\nBienvenidos a esta sesión de introducción a costos de producción para\niniciar hablemos sobre Qué es la producción la producción es transformar\nunas materias primas y unos insumos aplicando mano de obra y apoyándonos en\nherramientas en equipos y en maquinaria para qué para obtener un producto útil\nque posteriormente va a ser vendido para poder trabajar con costos de producción\nes importante que tengamos Clara Cuál es la definición de costo existen múltiples\ndefiniciones de costos pero para nosotros vamos a aplicar la que tenemos\nen este momento en pantalla que nos dice que el costo es la valoración económica\nde los recursos sacrificados o dejados de percibir para la obtención de un fin\nproductivo de esta definición vamos a destacar tres\npartes valoración económica recursos\nsacrificados o dejados de percibir y fin productivo\nproductivo A qué nos referimos cuando hablamos de\nvaloración económica la valoración económica es el valor monetario es el\nvalor contable o el valor de Mercado que tienen los recursos y los valores que se\nvan a consumir en el desarrollo de ese fin productivo un ejemplo es digamos lo\nque yo pago por la mano de obra o lo que yo pago por los insumos y materiales\naplicados generalmente se refieren a salidas de dinero más adelante\nhablaremos de otros casos en los que No necesariamente hay salida de dinero pero\nentonces cuando hablamos de valoración económica nos referimos al dinero que\ndespués de valoración económica tenemos recursos sacrificados Entonces qué son\nlos recursos sacrificados son los insumos o la mano de obra que después de\nque los usamos es imposible retornarlos a su condición original\nComo así resulta que cuando yo compro un insumo y tengo ese insumo en mi bodega\nen ese momento es un recurso pero no es un recurso sacrificado sino que es un\ninventario qué sucede Yo en cualquier momento puedo\nese insumo puedo venderlo y puedo recuperar el dinero que inicialmente o\nuna parte pues del dinero que inicialmente pague por ese recurso\nse refiere a sacrificado cuando es imposible retornarlo a su condición\noriginal ejemplo la mano de obra cuando yo aplico la mano de obra esa mano de\nobra es imposible de recuperarla O sea que esa sí es un recurso sacrificado lo\nmismo cuando yo cojo unos metros de tela que tengo en mi bodega los tomo y los\ncorto para fabricar digamos unas camisas allí esa tela ya es un recurso\nLo mismo sucede digamos con la energía eléctrica\nsi yo consumo energía eléctrica la energía que consumen mis máquinas\ndespués de que esa energía se aplica o se consume el recurso no se puede\nretornar a su condición original en la definición habíamos hablado de recursos\nsacrificados o dejados de percibir resulta que a veces existen recursos que\nse dejan de percibir no es que se sacrifiquen sino que se han dejado de\npercibir ejemplo cuando en un proyecto productivo hay mano de\nobra propia cuando yo tengo mi empresa y yo trabajo\ndentro de mi empresa puede que yo no tenga un salario asignado entonces ahí\nno hay una valoración económica pero a pesar de que yo no tenga un salario\nasignado esa mano de obra debe valorarse Porque es un recurso que se está dejando\nde percibir yo es mi mano de obra si no la estuviera aplicando a este proyecto\npodría estarla aplicando a otro entonces estoy dejando de percibir unos ingresos\nque serían el sueldo que me pagarían Si trabajara en otra empresa voy a poner\notro ejemplo digamos una máquina voy a poner un ejemplo de campo yo tengo\nen mi finca tengo un tractor Ese tractor ya está completamente\ndepreciado lo que significa que no tiene costo en libros Entonces no tiene ya\nvaloración económica y uno diría Bueno pero es que no es un\nrecurso sacrificado es un recurso dejado de percibir\nsi yo no estuviera usando Ese tractor en mi finca o una máquina cualquiera en un\nproyecto productivo Yo podría estar alquilando Ese tractor o alquilando esa\nmáquina entonces estoy dejando de percibir unos ingresos por el alquiler\nde Ese tractor o de esa máquina Entonces eso también se considera un recurso el\nvalor que estoy dejando de percibir por estar usando Ese tractor en mi empresa\nGeneralmente por experiencia todas las empresas solo\nvaloran los recursos que se sacrifican Como cuáles como el costo de los insumos\nel costo de la mano de obra y también algunos indirectos son muy pocas las\nempresas que valoran los recursos que están dejándose de percibir cuando ya la\nmáquina está completamente depreciada que hace la empresa deja de tener en\nestá bien o está mal hacerlo pues depende de cada una de las empresas\ntodas las empresas pues manejan sus costos de manera diferente Pero sería\nbueno o al menos nosotros debemos tenerlo claro para pensar en algún\nmomento si valdría la pena incluir el costo de ese recurso que estamos dejando\nde percibir la tercera parte de la definición nos\nhabla de los fines productivos o lo vamos a llamar objetivos productivos\ntambién esto es vamos a hacerle similitud con el\nconcepto de costos de perdón de centros de costos\nque es un fin productivo va a ser todos los generadores de productos las líneas\nde producción las órdenes de producción los cultivos son fines productivos\nproyectos productivos que tenemos un vivero\nvivero Ese nos va a generar productos para la\nventa o para consumirlos internamente que tenemos una planta de post cosecha\neste también es un fin productivo que tenemos un galpón ese también puede ser\nun fin productivo que trabajamos en una empresa manufacturera y tenemos\ndiferentes líneas de producción esos son nuestros fines productivos\ncomo dice la diapositiva los productos son el resultado esperado de la\ntransformación de los recursos aplicados durante el proceso de producción\nteniendo en cuenta y teniendo claro estas tres partes la valoración\neconómica los recursos sacrificados o dejados de percibir y los fines\nproductivos tenemos que entender cuál es la consecuencia de este planteamiento\npara eso vamos a tomar este cuadro que tenemos en pantalla\ncualquier recurso que vayamos a digamos a usar cuando hablamos de costos\nde producción debe ser clasificado desde dos puntos de vista\ndesde el mismo recurso como tal desde su propia naturaleza como recurso y según\nel destino o el fin productivo donde se va a\nsacrificar recordemos que siempre nos referimos a costo cuando nos referimos a\ncosto Mejor hablamos de recursos sacrificados si el recurso no está\nsacrificado no se considera costo de producción\nproducción entonces repito\ncualquier recurso debe ser clasificado desde dos puntos de vista desde su\nnaturaleza propia como recurso y desde el destino donde se va a sacrificar\nentonces teniendo en cuenta esas dos partes se nos forma esta matriz que\ndonde tenemos los recursos telas insumos mano de obra maquinaria y\ntenemos los destinos que son los fines productivos una línea de producción de\ncamisas una línea de producción de uniformes y una línea de producción de\nchaquetas entonces\ny las filas son los recursos donde se intercepta una Un fin\nproductivo con un recurso pues es la valoración económica de ese recurso\nentonces en otras palabras si yo quiero saber cuánto me ha costado en la tela de\nlas camisas pues sé que me vale 500 pesos\nCuánto me ha valido la tela de los uniformes 800 y la tela de las chaquetas\n1200 en total cuánto me han costado el insumo\nde las telas o la materia prima 2500 lo mismo con los insumos la mano de\nobra y la maquinaria también puedo totalizar por fin\nproductivo Cuál ha sido la totalidad de Los costos de fabricación de camisas\n1090 de fabricación de uniformes 1850 y de fabricación de chaquetas 2530 total\nlos recursos de las insumos mano de obra y demás lo vamos a trabajar como las\ncuentas contables que eso lo hablaremos cuando hablemos del plan de cuentas y\nlos destinos los vamos a trabajar como centros de costos es muy importante que\ntengamos en cuenta esto para qué Para poder entender Por qué siempre Los\ncostos de producción se tienen que trabajar por centros de costos\ny porque es tan importante una adecuada y correcta clasificación de las cuentas\nClara esta parte Aunque valdría la pena que recordemos aquí rápidamente la\ndefinición de costos valoración económica de los recursos\nsacrificados o dejados de percibir para obtener un fin productivo Ahora sí claro\nexisten múltiples modelos de clasificación de costos\ncuando se va a implementar un sistema de costos\ncostos siempre se debe Buscar\nPues trabajar con una clasificación de costos que esté de acuerdo a las\nnecesidades particulares que se tienen de información como les decía existen\nmúltiples sistemas de clasificación de costos\ncostos todo depende mucho como del punto de\nvista que se tenga o de la necesidad de información que se tenga\npara trabajar con tapyme y agroin nosotros trabajamos\ncon dos modelos o dos clasificaciones de costos Los costos de acuerdo a su\nfunción y una clasificación de costos de acuerdo a su relación con el producto\ncuando hablamos de la clasificación general de Los costos hablamos de que\nlos costos se nos van a dividir en dos partes en costos de producción y gastos\nempresariales Esa es la clasificación de acuerdo a su función ahora vamos a\nampliar un poquito y ya luego hablamos de la clasificación de acuerdo a su\nrelación con el producto y es Los costos directos y Los costos indirectos\nAhora sí clasificación de costos de acuerdo a su función Entonces tenemos\nlos costos de producción y los gastos empresariales\nempresariales hablemos primero de los gastos\nempresariales los gastos empresariales son\nson las salidas o las erogaciones de\nrecursos que son necesarias para mantener el funcionamiento de la empresa\no de la finca cuando estamos trabajando agro win\nAquí está todo lo que no está relacionado con la producción pero que\nes necesario para el funcionamiento de la empresa\nson aquellos que están relacionados con el área administrativa con el área de\nlogística y con el área de estrategia empresarial\nempresarial una característica de los gastos\nempresariales es que se asocian directamente con el periodo en el que se\ncausan y no con la producción ejemplo de gastos empresariales son los\narrendamientos los seguros los salarios administrativos las bonificaciones todo\nlo que no está relacionado con producción\nahora hablemos de Los costos de producción Los costos de producción son\nla valoración de los recursos que están destinados a transformar la materia\ny la mano de obra y Los costos indirectos en productos que la empresa\nva a producir y posteriormente va a vender\nCuál es la diferencia digamos pues fundamental es que los gastos son\naquellas erogaciones en las que se incurre así no haya producción entonces\nresulta que hay que pagarle a la secretaria independiente que tengamos o\nno producción eso es un gasto empresarial que hay que pagar el\narrendamiento o el alquiler de la oficina eso es independiente que\ntengamos producción Entonces es un gasto empresarial pero ya costo de producción\nes aquello que está directamente relacionado con la producción Entonces\nel salario de los empleados de la planta eso es un costo de producción Los costos\nde los insumos y materiales son un costo de producción\nla energía eléctrica depende puede ser gasto empresarial o\npuede ser costo de producción muchas veces puede ser los dos cierto se puede\npartir una parte como gasto y otra parte como costo de producción la energía que\nconsumen las máquinas esa sería costo de producción y ya la energía que consumen\nesa es entonces la clasificación de costos de acuerdo a su función\nahora vamos a hacer aquí unos ejercicios rapiditos para poder\ntenerlo como más claro en esa clasificación de acuerdo a su función\ncuando hablamos de honorarios pagados por servicios por servicios\nprofesionales digamos que le estamos pagando al revisor fiscal eso es un\ngasto empresarial Por qué Porque no depende directamente de la producción\nsin embargo la tela y los botones que son consumidos en la fabricación de\ncamisas al igual que las cajas y bolsas para empaques si son costos de\nproducción están directamente relacionados con la producción\nel alquiler de la oficina pues ya lo dije hace un momento es un gasto\nempresarial y la papelería insumos para administración que es el último que\ntenemos aquí en el ejemplo también es un gasto empresarial vale la pena destacar\nestos dos que tenemos aquí con un color diferente y es los rollos de tela que se\nencuentran en la bodega eso no es ni costo ni gasto porque porque no se\ncumple la definición que dimos de costo Recuerden que para que sea costo tiene\nque ser que el recurso ha sido sacrificado y Qué significa sacrificado\nque no es posible retornarlo a su estado original Entonces como los rollos\ntodavía están en su estado original pues no se consideran costo en ese caso se\nconsideran inventario y el costo de la fileteadora Industrial\ndigamos que compramos una fileteadora Industrial eso también es tampoco es\ncosto costo puede ser la depreciación de la fileteadora pero la el costo de la\nfileteadora como tal no debe considerarse costo en ese caso debería\nconsiderarse como un activo fijo eso se presta para muchos debates\nhay empresas que el costo de sus activos lo llevan directamente a los costos de\nproducción es completamente respetable cierto Cada\nempresa maneja sus costos de una manera completamente diferente pero realmente\nlo que es común de llevar a los costos de producción es la depreciación de las\nmáquinas que están directamente relacionadas con el proceso productivo\nno el costo inicial de compra de la máquina pero como les digo pues es\nfunción gastos empresariales y costos de producción ahora vamos a hablar de la\nclasificación de acuerdo a su relación con el producto Entonces tenemos los\nQué es un costo directo es la valoración económica de los recursos sacrificados\npero en los cuales se puede establecer con precisión para que fin productivo es\nque se está aplicando entonces si yo sé exactamente que esta tela que estoy\nconsumiendo es para la línea de fabricación de camisas es un costo\ndirecto si yo sé que este fertilizante que se está consumiendo es\nespecíficamente para el lote de café que tenemos en tal parte eso es un costo\ndirecto que\nque un hablemos de campo un trabajador me\nreporta el número de jornales que trabajó específicamente en determinado\nlote eso es un costo directo Entonces siempre que yo pueda identificar\nclaramente En qué fin productivo se sacrificó el recurso en ese caso es un\ncosto directo cosa que no sucede con los costos indirectos Los costos indirectos\nes la valoración económica de los recursos que se sacrifican pero que\nafectan uno afectan más de un fin productivo Entonces digamos la energía\neléctrica Yo sé que me llegó la factura de energía eléctrica pero yo no tengo\nforma de saber exactamente Cuánta energía eléctrica consumió cada máquina\nentonces ahí no se puede considerar costo directo se tiene que considerar\ncosto indirecto la mano de obra digamos que por su misma\nnaturaleza siempre se considera costo directo pero muchas veces se tiene que\ntrabajar como costo indirecto Por qué Porque cuando digamos tenemos una planta\nde producción y los trabajadores trabajan en varias líneas o produciendo\nvarios productos a la vez muchas veces no hay forma o si hay forma\npero resultaría demasiado costoso para la empresa obtener esa información\nentonces no tienen forma sencilla Clara y económica de saber exactamente\nCuánta de las horas trabajadas en el día por ese empleado fueron para cada uno de\nlas líneas de producción o cada uno de los fines productivos Entonces en ese\ncaso a pesar de que la mano de obra como les digo por su naturaleza se considera\nun costo directo como no tenemos forma de saber específicamente\ncuánto le corresponde a cada fin productivo se tiene que trabajar como\ncosto indirecto en costos indirectos hay muchos tipos\ncierto Está digamos la depreciación se puede considerar costo indirecto hay\nservicios que se consideran indirectos hay insumos y materias primas que son\nindirectos está mano de obra indirecta los mantenimientos generalmente se\npueden presentar indirecta de forma indirecta Qué se hace con Los costos\nindirectos Los costos indirectos como ya sabemos que no los podemos cargar\nespecíficamente a ningún fin productivo pues se hace necesario recurrir a un\nsistema de prorrateo para qué Para poder distribuir ese costo indirecto\nen los diferentes fines productivos para eso Entonces se puede hacer\nproporcional a digamos a la área a la población se puede hacer por partes\niguales o existen múltiples formas y múltiples variables que se pueden\nevaluar para poder hacer esa distribución esos esa ya esa parte pues\nde manejo de costos indirectos se habla más adelante cuando hablamos de costos\nejemplos de costos directos e indirectos entonces la tela que se consume en la\nfabricación de camisas como yo sé específicamente que es para la línea de\nfabricación de camisas se considera un costo directo si fuese la tela consumida\nen general sería un costo indirecto porque muy posiblemente la la empresa\ntiene camisas Pues viendo el ejemplo de ahora camisas uniformes y chaquetas\nEntonces si no sabemos específicamente Para qué fin productivo es sería\nindirecto pero como en este caso sabemos que es para camisas es directo\nmantenimiento de La Maquinaria lo consideramos indirecto salario pagado al\nsupervisor es indirecto porque indirecto Pues porque el supervisor trabaja\nespecífica trabaja digamos supervisando todas las líneas\nBueno y qué pasa si yo solo fabricó camisas entonces si yo solo fabricó\ncamisas el salario pagado al supervisor pasaría\nde ser indirecto y se convertiría en directo porque todo sería para la línea\nde camisas la depreciación de la fileteadora\nIndustrial como les decía Generalmente depreciaciones amortizaciones son\nconsiderados costos indirectos salario pagado a la empleada de la\ncollarín que es una máquina Entonces como sabemos que es específicamente una\nmáquina y si sabemos que esa máquina es específica para un fin productivo para\nun proyecto Entonces en ese caso sería costo directo pero si la máquina\ncollarín se trabaja en diferentes líneas de producción entonces ahí ya sería\ncosto indirecto la factura de la energía eléctrica costo indirecto botones y\nentretelas consumidas para fabricar uniformes lo clasificamos como costos\ndirectos Porque es importante que nosotros\ntengamos muy claro cuando es gasto empresarial y cuando es\ncosto de producción y cuándo son costos directos e indirectos porque\nsiempre se puede presentar como debate en esa parte muchas veces decimos la\nenergía eléctrica será directa será indirecta será gasto será costo entonces\npor eso tenemos que tener muy claro el concepto de costo\nsacrificados y también tener en cuenta si es\nespecífico para un fin productivo o si afecta varios fines productivos a veces\nse presta mucho como les digo se presta para mucha discusión que compramos un\ncelular y qué hacemos con el celular es un costo o es un activo o lo metemos\ncomo un gasto Entonces ahí es donde viene Bueno es un\nrecurso sacrificado no es un recurso sacrificado tiene que ver con la\nproducción no tiene que ver con la producción\nproducción por eso es muy importante que nosotros\ntengamos muy claro y voy a recordarlo concepto de costo valoración económica\nlos recursos sacrificados o dejados de percibir para la obtención de un fin\nproductivo y luego los costos como les digo existen\nmúltiples modelos pero nosotros vamos a trabajar dos Los costos basados en\neste aquí la clasificación basada en su función y la clasificación basada en su\nrelación con el producto en su función son costos de producción y gastos\nempresariales y basados en su relación con el producto son costos directos y\nexisten también otras clasificaciones de costos\ncostos están digamos Los costos según el área\ndonde se consumen entonces están los costos de producción que son los que\nestán relacionados pues con la producción de los productos\nque se van a vender posteriormente también son llamados costos de\nmanufactura o costos de fabricación Los costos de mercadeo que son todo lo que\nestá relacionado con distribución y ventas y Los costos de servicio que es\ntodo lo la valoración de los recursos sacrificados para prestar un servicio\nhay otra clasificación que es acorde a su variabilidad entonces están los\ncostos fijos que son los que permanecen constantes durante el periodo contable y\nno dependen del volumen de producción ejemplo digamos el salario de la\nsecretaria eso es un costo fijo Los costos variables son los que varían\nproporcional al volumen de producción como que pongo por ejemplo la mano de\nobra Los costos de los insumos y materiales\nla energía eléctrica también puede ser un costo variable porque a mayor\nproducción Los costos aumentan\ny también hay unos costos semifijos que son aquellos que tienen unos elementos\ntambién hay una clasificación de acuerdo al momento en el que se calculan\nentonces están los costos históricos que son aquellos que\npues que son datos reales y que se han presentado durante diferentes periodos\ncontables ese se utiliza mucho pues es el dato que\nse utiliza para presentar los estados financieros y los informes de costos\nejecutados están los costos predeterminados están\nlos costos por absorción o el costeo directo o variable\nY tenemos otra clasificación de acuerdo al sistema de acumulación de costos\nentonces están los costos por órdenes de trabajo o por órdenes de fabricación\nque esos corresponden a las empresas que elaboran\nsus productos acorde a los pedidos o a las órdenes de producción\nestán los costos por procesos que son para empresas de producción masiva o\ncontinua de artículos similares Entonces digamos según el ejemplo que estábamos\nhablando ahora aquellas empresas\nque tiene líneas de producción yo yo produzco camisas independiente que tenga\npedido No ese es un costo por procesos si ya es digamos que yo hago uniformes\nbasado en pedidos Entonces ahí es un costeo por órdenes de producción y\ntambién hay un costos por actividades que ese es donde lo que se hace Es como\nclasificar los costos de acuerdo a la actividad voy a poner el ejemplo\nen la parte agrícola una en una empresa agrícola o en una finca pueden manejarse\ndiferentes actividades entonces podemos tener digamos\ncultivos de café tenemos producción de café eso es una actividad producción de\ncítricos es otra actividad podemos tener una parte digamos\nporcícola Avícola eso es otra actividad entonces esos costos por actividad lo\nque me permiten es saber específicamente Los costos en los que se ha incurrido\npor cada una de las actividades económicas o agropecuarias en este caso\nde de la finca hay otras clasificaciones adicionales\nestán digamos de acuerdo al tipo de desembolso incurrido de acuerdo al\nmomento en el que se reflejan en los resultados de acuerdo al control que se\ntenga sobre el consumo o de acuerdo a la importancia en la toma de decisiones\nrealmente son muchos los modelos de costos pero a nosotros los que nos\ninteresan para entender claramente cómo funciona con tapyme y agroin son la\nclasificación de acuerdo a su función que recordemos que son\ngastos empresariales y costos de producción y la clasificación de acuerdo\na su relación con el producto que es costos directos y costos indirectos\ndebemos entonces tener muy clara esa parte\nPues todos los que participamos de esta sesión\ncuentas al momento de llevar la contabilidad de una empresa cierto el\nplan de cuentas es el que permite presentar la información de forma\nestructurada tanto a los entes\nfinancieros contables y de control que que existen en los diferentes países\ncomo también pues a los socios internos para poder como ver expresado en números\nel resultado y el estado actual de la empresa\nlos planes de cuentas pues existen diferentes modelos de planes de cuentas\npero Generalmente todos tienen pues como un mismo enfoque\naquí no vamos a entrar en detalle Pues a detallar específicamente Cómo se\nestructura el plan de cuentas porque ese ese conocimiento ya debemos tenerlo aquí\nlo que nos interesa es hablar un poco de las cuentas a nivel de costos de\nproducción o a nivel de las clasificaciones de costos que acabamos\nde ver entonces la primera clasificación que tenemos\nse refieren a aquella parte de Los costos que no afectan directamente la\ngeneración de los productos de la empresa\nempresa los gastos empresariales están\nrelacionados Generalmente con la parte operativa y financiera de la empresa y\nson digámoslo así como lo que se tiene que invertir para garantizar el\nfuncionamiento de la empresa y que normalmente están relacionados con\nel mismo periodo en el que se causan cuando ya veamos más adelante costos de\nproducción nos daremos cuenta que muchas veces los costos de producción pasan a\notro periodo contable diferente sin embargo los gastos no es así el gasto se\nacumula durante el período contable Y a fin de mes se cancela para calcular la\nutilidad Los costos de producción si pueden pasar de un periodo a otro\nlos gastos empresariales Entonces se clasifican de acuerdo al área donde se\nconsumen y generalmente son tres categorías los gastos operacionales de\nadministración los gastos operacionales de ventas y los gastos no operacionales\nen los operacionales de administración Qué es la cuenta 51 recordemos que los\ngastos empresariales los gastos son la cuenta cinco entonces los operacionales\nde administraciones las 51 son como su nombre lo indica Pues los gastos que\nestán relacionados con la gestión administrativa de la empresa\nson todo lo que se refiere digamos al personal administrativo como Los sueldos\nlos aportes las prestaciones sociales los honorarios por asistencia técnica\njurídica o contable los pagos de los impuestos el arrendamiento los seguros\nahora los gastos operacionales de ventas Esa es la cuenta 52\na esto que se refiere se refiere como a todos los gastos en los que se incurre\npara poder vender el producto entonces gastos de transporte distribución\ncomercialización y mercadeo los gastos de publicidad los aportes y prestaciones\nde los vendedores los arrendamientos de vehículos las oficinas las Bodegas los\nseguros y servicios públicos de esas áreas específicas de la parte de ventas\ny finalmente tenemos en esta parte los gastos no operacionales que son aquellos\ngastos que no están relacionados con la operación regular de la empresa\nGeneralmente son los gastos que son de transacciones financieras como digamos\ntambién puede ser digamos las pérdidas ocasionadas por venta de maquinaria\ndonaciones que se realicen auxilios Pues que nada tienen que ver\nauxilios que se pagan que no tienen que ver como con las operaciones regulares\nde la empresa con respecto a los gastos es importante\ntener en cuenta algo y es cuando se trabaja con un plan de cuentas digamos\nque las cuentas de gastos ya vienen predefinidas básicamente lo que hace la\nempresa es la cuenta de gastos y crear sus auxiliares\npero no es digamos que habitual y creo que no es aconsejable\ncrear nuevas cuentas completamente diferentes a la estructura que ya viene\nde gastos operacionales de administración de gastos operacionales\nde ventas y de gastos no operacionales Generalmente cualquier gasto que se\npresente en la empresa se debe clasificar dentro de una de las cuentas\nque ya trae el sistema cosa que no pasa con Los costos de producción Los costos\nde producción digamos que es así es una cuenta que es de libre definición por la\nempresa nosotros vamos a hablar acá de una estructura\ncomo estándar o general pero no significa que sí o sí tenga que ser así\npor como por lo que les digo cada empresa puede tener una estructura en su\ncuenta 7 completamente diferente es así es como libre de manejo de cada empresa\naquí que qué vamos a hacer pues vamos como a presentar una idea del manejo que\nnormalmente hacemos en contappyme y en agroin con respecto al manejo de Los\ncostos de producción normalmente Los costos de producción se\nclasifican en tres que son materia prima mano de obra directa y costos indirectos\nde producción Los costos de producción los vamos a encontrar en la cuenta 7\nmateria prima 71 mano de obra directa 72 y costos indirectos cuenta 73\nmateria prima y mano de obra directa Generalmente son costos directos\nvoy a presentarles a continuación las propuestas de clasificación de\ncuentas que trae tanto con tapime como agro Win esta que vemos en la pantalla\nes la propuesta de manejo de costos que trae conta pyme trae una cuenta 7 costos\nde producción una cuenta 71 de materia prima 72 de mano de obra directa y 73 de\ncostos indirectos Sólo trae pues sus diferentes auxiliares pero no viene muy\ndetallada porque porque en la parte manufacturera que es la que nos\ncorresponde digamos en conta pyme pues cada empresa es un mundo\ny cada empresa puede querer crear las diferentes cuentas de materia prima las\ndiferentes cuentas de mano de obra y las diferentes cuentas de indirectos sin\nembargo en agro Win sí somos más más detallados y ese es el mejor ejemplo\npara entender Cuáles como la idea de de creación de cuentas cuando estamos\nhablando de costos de producción entonces\nentonces cuando hablamos de costos en agroin\nTenemos una cuenta 71 que es la cuenta de mano perdón de materia prima e\ninsumos entonces esa es la 71 a su vez se divide en varias auxiliares\nestá la 71 05 para materia prima la 71 10\npara insumos agrícolas las 71 15 para postcosecha\npostcosecha 7120 materiales agrícolas y 7125\ncombustibles y lubricantes si nos detallamos acá en insumos\nagrícolas nos damos cuenta que lo que se hace Es que se crea una cuenta por cada\ngrupo de inventarios de aquellos productos que se consumen dentro de el\nproceso productivo Entonces digamos acá en el ejemplo que tenemos en la pantalla\nTenemos una cuenta para los herbicidas una cuenta para los insecticidas otro\npara las fertilizantes coadyuvantes enmiendas y demás\nsi hiciéramos el símil con una empresa manufacturera entonces diríamos que la\ncuenta 71 como Debería discriminarse Debería discriminarse\ndependiendo de los grupos de elementos que se trabajen para ese proceso\nproductivo entonces voy a poner el ejemplo que estoy utilizando que es como\nel de una empresa que produce prendas de vestir entonces podemos tener telas\npuede ser una cuenta insumos digamos que los insumos se pueden clasificar de\ndiferentes tipos pueden también haber materias primas porque sabemos por\ninventarios que una cosa son las materias primas y otra cosa son los\ninsumos podemos tener digamos que que\nclasificamos las telas en diferentes grupos Entonces tenemos las de algodón\ntenemos lo que es poliéster tenemos algunas que son naturales entonces\npodríamos también abrir la cuenta 7 en esas diferentes clasificaciones la\npregunta que se puede prestar acá es qué tanto vale la pena discriminar la cuenta\n71 que es de la que estamos hablando en este momento\nlo ideal no es ni tener una sola cuenta donde se mezcle\ntodo ni tampoco llegar al punto de crear una\ncuenta por cada insumo o por cada elemento de inventario por eso Si yo\ntengo una digamos una buena clasificación\nclasificación de de mis grupos de inventario pero no\nbasándome en si son grabados exentos Con el IVA el 19 no sino una clasificación\ncomo más más según su naturaleza o su uso Entonces yo podría crear una cuenta\npor cada uno de esos de esos grupos o líneas de productos que estoy trabajando\nrecordemos sólo se crean las cuentas para los\nelementos de inventario que están configurados para consumo solamente para\neso Eso lo veremos más adelante cuando hablemos de de mano Pues de costos de\nmateria prima pero son cuentas solamente para\npara elementos de inventario que se van a\nconsumir nada que ver con otros elementos que no se consumen ni nada no\nes todos los elementos que se consumen dentro del proceso productivo Entonces\ncomo les decía y para y por eso les pongo el ejemplo de agro Win en agroin\nlos insumos se clasifican de acuerdo como a su naturaleza Entonces todos los\nherbicidas van juntos todos los insecticidas juntos los fertilizantes\njuntos coadyuvantes y demás Entonces qué se hace se crea una cuenta por cada uno\nde esos grupos y cada grupo de inventario se configura para que afecte\nla cuenta correspondiente hablemos ahora de la cuenta 72 la cuenta\nde mano de obra directa tengamos en cuenta que si la mano de obra es\nindirecta no debe ir por la 72 debería ir por la 73 de costos indirectos\nen esta propuesta que tenemos en la pantalla tenemos\n72 05 costo de personal y 72 10 mano de obra de cultivos\ncuando hablamos de nómina cuando hablamos de mano de obra cuando estamos\nhablando de la mano de obra de las personas que hacen parte o que están por\nla empresa Generalmente pensamos en la cuenta 5 en las 51 administrativo 51 05\nque son gastos de personal entonces Allí están Los sueldos las horas extras El\nauxilio de transporte cesantías vacaciones\naporte de salud pensión bueno toda toda la parte que le corresponde a la nómina\npero resulta que cuando estamos hablando del personal que es propio de producción\nno lo podemos mandar por las cinco sino que tiene que trabajarse por una cuenta\n72 entonces por eso nuestra propuesta es que dentro de la 72 tengamos como una\nréplica de esas 51 05 Entonces ya si en la 51 05 tenemos 51 05 06 sueldos\nentonces aquí tenemos 72 05 06 sueldos allá Tenemos 51 05 15 horas extras acá\ntenemos 72 05 15 horas extras Con qué objetivo con el objetivo de que aquí se\nregistre la mano de obra la nómina de los empleados que son propios de la\nempresa Pero que están relacionados con la parte productiva\nahora bien Qué pasa con las 72 10 esa que dice mano de obra cultivos cuando\nnosotros trabajamos sea en contapyme o en agroin\ncon el módulo de actividades y labores ese módulo nos va a permitir discriminar\nlas diferentes labores que se realizan en cada fin productivo sea una línea de\nproducción o un cultivo entonces yo voy a poder saber específicamente las\nlabores que se hicieron voy a hacer el ejemplo acrowin labores de siembra\nlabores labores de preciembra labores de siembra labores de fertilización de\nhierba de fumigación de cosecha y demás si no trabajamos con el módulo de\nactividades y labores ese manejo de las 72 días no es\nnecesario además No tendríamos forma si no trabajamos con actividades y labores\nNo tendríamos forma de tener esa discriminación de cada una de las\nlabores o tareas que se han hecho en los diferentes cultivos\nEntonces esta parte de la 72 10 es muy relacionada con la parte de actividades\ny labores cuando no se trabaja con actividades y labores como digamos el\ncaso de contapyme que hay muchas empresas que no trabajan con esa parte\nde actividades y labores pues simplemente vamos a tener esta parte\naquí de la 72 05 de costos de personal qué tenemos también aquí tengamos en\ncuenta algo que tenemos también otras otras unidades productivas entonces que\ntenemos un vivero Bueno podemos tener una cuenta para la mano de obra de\nvivero que tenemos no sé una piscícola entonces mano de obra de la piscícula O\nsea como como la mano de obra de cada uno de las actividades agrícolas o\nactividades manufactureras a la que se dedica la finca o la empresa\nEsta es la cuenta 72 ahora hablemos de la 73 la 73 pues es una cuenta que\ndigamos aquí tenemos una propuesta pero es la cuenta que es como menos menos\nestandarizada porque depende mucho de los indirectos que maneje la empresa\nentonces ejemplos de indirectos la mano de obra indirecta\nel mantenimiento de las carreteras el mantenimiento de\nde Los Linderos los insumos indirectos porque hay\ninsumos indirectos la maquinaria y equipo digamos el mantenimiento los\nrepuestos son costos indirectos las amortizaciones las depreciaciones y\ntambién otros indirectos Estos son solamente propuestas no es\nnada fijo no es nada estandarizado no es que siempre la 72 tiene que ir con\ndeterminada estructuras las 73 también como les decía que pasa con digamos la\ncuenta de gastos la cuenta de gastos trae una estructura Generalmente lo que\nhacen las empresas es ajustarse a esa estructura\nestructura sin embargo en la cuenta de costos la\ncuenta de costos si es de libre manejo cada empresa crea la estructura que\nmejor se acomode a su al manejo que hace de sus costos y\na la información que quiere obtener Estos son pues como ejemplos generales\npero no es solamente hablar de qué estructura crear digamos que cuando\nhablemos de costos de insumos y materiales allí crearemos las cuentas 7\npues haremos una propuesta de manejo de cuenta 71 cuando hablemos de mano de\nobra hablaremos de una propuesta de cuenta 72 y cuando tratemos costos\ntotales y hablemos de indirectos pues miraremos una estructura de cuenta 73\nmás importante que eso es hablar un poquito de la configuración que tienen\nque tener esas cuentas 7 las cuentas de costos de producción Aunque aquí no\nsolamente vamos a hablar de siete Aquí vamos a hablar de digamos de tres tipos\nde cuentas que son las que se necesitan para trabajar costos de producción y son\nla cuenta 7 71 72 y 73 con sus respectivas auxiliares la cuenta de\nproducto en proceso que es la 1410 y la cuenta 14 30 que es la cuenta de\nproductos manufacturados o productos agrícolas que es la cuenta donde\nfinalmente va a llegar el producto terminado para posteriormente ser\nvendido entonces configuraciones de las cuentas 7 esto es\nfundamental debemos tenerlo muy presente se debe prestar mucho cuidado a que las\ncuentas estén bien configuradas Muchas veces las personas montan unos esquemas\nde cuentas que que se prestan para que el sistema no funcione como tiene que\nfuncionar por eso nosotros tenemos que tener en cuenta Cuáles son las\nconfiguraciones digamos\ndigamos necesarias para que funcione el sistema\nde costos de producción entonces todas las cuentas 7 deben pertenecer a un tipo\nde cuenta que es 5 que son cuentas de egresos\negresos pues deben ser cuentas afectables\ndirectamente por el usuario y muy importante es que deben tener esta\nopción que dice autoactivar para que es esto para que cuando se realicen las\nacciones de fin de mes el sistema cancele las cuentas 7 y se las lleve\npara el producto en proceso entonces todas las cuentas 7 deben tener esta\nopción de autoactivar nada de control de cartera pueden estar\ndisponibles en presupuesto es así es una opción que puede activarse dependiendo\nGeneralmente si se llegasen A presupuestar cuáles cuentas de\npresupuestan Generalmente insumos materias primas e insumos o sea\nlas 71 y mano de obra Los costos indirectos son muy poco común que ese\npresupuesto Entonces si vamos a presupuestar debemos también activarle\nesta opción de disponible en presupuesto deben tener activa la opción de\ndisponible en operaciones de gastos e ingresos\ningresos es así es importante\ny en la pestaña de datos requeridos todas las cuentas 7 deben exigir centro\nde costos cuenta 7 que no exige centro de costos pues no vamos a tener forma de\nespecificarle cuál va a ser el fin productivo\nproductivo al que se tiene que cargar ese costo de\nproducción entonces todas las cuentas siete deben exigir centro de costos y\npor defecto digamos que manejan tercero tanto lo exigen como discriminan por\ntercero entonces muy importante esta configuración\nconfiguración todas las cuentas deben pertenecer a la\nclase de egresos deben autoactivarse disponibles en operaciones de gastos e\ningresos exigir centro de costos y manejar\ntercero listo\nlisto ahora hablemos de la cuenta de producto\nen proceso la cuenta de producto en proceso es una\ncuenta que es de no es así no Esa no es de tipo egresos es una cuenta de tipo\nactivo porque es una cuenta del inventario no debe tener la opción de\nautoactivar mucho cuidado con tener la cuenta 14 días para autoactivar y muy\nimportante revisar de que ninguna bodega debe tocar\nla cuenta 1410 más adelante hablaremos de eso\na veces ocurre que se hacen imputaciones directas a la cuenta 10 a la cuenta 1410\nperdón y eso no debe ser así la cuenta 1410 casi que debe ser una cuenta que\nsolamente se debe ver afectada por los movimientos que hace el sistema cuando\nhace la autoactivación de cuentas pero igual uno la puede afectar manualmente\npor un movimiento contable Eso sí con todo el conocimiento y la\nresponsabilidad de la transacción que Está realizando entonces la 14 10 no\ndebe tener autoactivación tampoco debe estar disponible en operaciones de\ngastos e ingresos nada de eso pero aquí en datos requeridos si debe exigir\ncentro de costos Entonces es muy importante\nimportante Generalmente son las cuentas de\nresultado las que exigen centro de costos entonces\ningresos gastos costo de venta y costos de producción normalmente son esas las\nque exigen centro de costos Esta es digamos así como la la principal cuenta\ndel activo que exige centro de costos siempre siempre debe exigir centro de\ncostos y pues acá lo tenemos con manejo de tercero para que nos exija tercero\nListo ya sabemos entonces clasificación de la cuenta 14 días que es la cuenta de\nproducto en proceso Y tenemos la clasificación de la cuenta\n1430 que es la cuenta de productos manufacturados o productos agrícolas que\nva a ser esta la cuenta donde finalmente se va a ver reflejado el costo de los\ndiferentes productos que han salido o han sido resultado de cada uno de los\nfines productivos Entonces tenemos una línea de fabricación de camisas pues qué\nvamos a ver en la 1430 el costo de las camisas ya terminadas listos para la\nventa qué tenemos una finca Y tenemos un cultivo de cítricos Entonces qué Vamos a\nver en la 1430 el costo de las naranjas o de los limones o de la mandarina Ya\nlista para la venta qué configuración tiene que tener esta\ncuenta también debe ser de tipo activo\nno se autoactiva no está disponible en operaciones de gastos ingresos y esta A\ndiferencia de la 1410 esta no exige centro de costos la 1410 sí exige centro\nde costos la 1430 no exige centro de costos esas configuraciones debemos\ntenerlas completamente claras no es que a veces sí a veces no es que no debemos\ntener las claras se debe revisar casi que de las primeras\nlabores que se debe hacer cuando se está haciendo una implementación de costos es\nrevisar que las cuentas estén correctamente configuradas entonces voy\na repetir y es las cuentas 7 deben pertenecer al tipo de cuenta 5\ndeben autoactivarse y estar disponible en las operaciones de gastos e ingresos\ndeben exigir centro de costos y manejar tercero\ntercero la cuenta 1410 que es una sola a veces\nse crean diferentes auxiliares Pero eso depende mucho de los tipos de proyectos\nque se manejen dentro de la empresa Generalmente es una sola\nla cuenta 1410 producto en proceso es una cuenta de tipo uno o sea de activo\nno es para autoactivar no está disponible en operaciones de gastos e\ningresos más si exige centro de costos es la única cuenta del inventario que\nexige centro de costos ni la 14 05 ni la 1430 ninguna exige centro de costos a\nexcepción de la 1410 14 10 exige centro de costos y maneja tercero\ny finalmente la cuenta 1430 que es la de producto terminado también es de tipo de\ncuenta activo no se autoactiva no está disponible en operaciones de gastos e\ningresos esta no exige centro de costos Y si maneja tercero entonces\ncon esta parte de las cuentas que la profundizaremos cuando ya hablemos de\ncostos de Mate de materia prima costos de mano de obra y costos indirectos\ndamos como por terminada Pues esta primera sesión de introducción a costos\nbueno no siendo más Muchas gracias por la atención nos"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 161.636,
+    "asr": 44100,
+    "filesizeApprox": 75486780,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2023",
+  "files": {
+    "year": "2023",
+    "kind": "videos",
+    "md": "videos/2023/NgfYGX5km9A.md",
+    "json": "videos/2023/NgfYGX5km9A.json",
+    "infoJson": "videos/2023/NgfYGX5km9A.info.json"
+  }
+}

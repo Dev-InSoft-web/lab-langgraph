@@ -1,0 +1,2624 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.599 --> 00:00:03.310 align:start position:0%
+ 
+asignación<00:00:01.280><c> de</c><00:00:01.480><c> listas</c><00:00:01.839><c> de</c><00:00:02.080><c> precios</c><00:00:03.080><c> el</c>
+
+00:00:03.310 --> 00:00:03.320 align:start position:0%
+asignación de listas de precios el
+ 
+
+00:00:03.320 --> 00:00:06.269 align:start position:0%
+asignación de listas de precios el
+objetivo<00:00:03.800><c> de</c><00:00:03.959><c> este</c><00:00:04.240><c> video</c><00:00:04.720><c> es</c><00:00:05.000><c> explicar</c><00:00:06.000><c> cómo</c>
+
+00:00:06.269 --> 00:00:06.279 align:start position:0%
+objetivo de este video es explicar cómo
+ 
+
+00:00:06.279 --> 00:00:08.629 align:start position:0%
+objetivo de este video es explicar cómo
+se<00:00:06.440><c> asignan</c><00:00:06.960><c> las</c><00:00:07.120><c> listas</c><00:00:07.439><c> de</c><00:00:07.560><c> precios</c><00:00:08.200><c> a</c><00:00:08.400><c> los</c>
+
+00:00:08.629 --> 00:00:08.639 align:start position:0%
+se asignan las listas de precios a los
+ 
+
+00:00:08.639 --> 00:00:10.950 align:start position:0%
+se asignan las listas de precios a los
+productos<00:00:09.200><c> o</c><00:00:09.519><c> elementos</c><00:00:09.960><c> de</c><00:00:10.160><c> inventario</c><00:00:10.800><c> que</c>
+
+00:00:10.950 --> 00:00:10.960 align:start position:0%
+productos o elementos de inventario que
+ 
+
+00:00:10.960 --> 00:00:13.589 align:start position:0%
+productos o elementos de inventario que
+la<00:00:11.080><c> empresa</c><00:00:11.559><c> tiene</c><00:00:11.840><c> para</c><00:00:12.040><c> la</c><00:00:12.160><c> venta</c><00:00:13.040><c> en</c><00:00:13.320><c> este</c>
+
+00:00:13.589 --> 00:00:13.599 align:start position:0%
+la empresa tiene para la venta en este
+ 
+
+00:00:13.599 --> 00:00:15.749 align:start position:0%
+la empresa tiene para la venta en este
+video<00:00:14.000><c> veremos</c><00:00:14.799><c> Cómo</c><00:00:15.080><c> realizar</c><00:00:15.480><c> la</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+video veremos Cómo realizar la
+ 
+
+00:00:15.759 --> 00:00:18.710 align:start position:0%
+video veremos Cómo realizar la
+asignación<00:00:16.560><c> manual</c><00:00:17.080><c> de</c><00:00:17.400><c> listas</c><00:00:17.800><c> de</c><00:00:17.960><c> precios</c><00:00:18.520><c> a</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+asignación manual de listas de precios a
+ 
+
+00:00:18.720 --> 00:00:20.910 align:start position:0%
+asignación manual de listas de precios a
+los<00:00:18.880><c> elementos</c><00:00:19.320><c> de</c><00:00:19.560><c> inventario</c><00:00:20.560><c> también</c>
+
+00:00:20.910 --> 00:00:20.920 align:start position:0%
+los elementos de inventario también
+ 
+
+00:00:20.920 --> 00:00:23.509 align:start position:0%
+los elementos de inventario también
+veremos<00:00:21.760><c> Cómo</c><00:00:22.039><c> realizar</c><00:00:22.439><c> la</c><00:00:22.640><c> asignación</c><00:00:23.119><c> en</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+veremos Cómo realizar la asignación en
+ 
+
+00:00:23.519 --> 00:00:26.509 align:start position:0%
+veremos Cómo realizar la asignación en
+bloque<00:00:24.080><c> de</c><00:00:24.359><c> listas</c><00:00:24.760><c> de</c><00:00:24.920><c> precios</c><00:00:25.680><c> y</c><00:00:25.880><c> métodos</c><00:00:26.359><c> de</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+bloque de listas de precios y métodos de
+ 
+
+00:00:26.519 --> 00:00:28.950 align:start position:0%
+bloque de listas de precios y métodos de
+cálculo<00:00:27.039><c> a</c><00:00:27.199><c> los</c><00:00:27.359><c> elementos</c><00:00:27.760><c> de</c><00:00:27.960><c> inventario</c><00:00:28.760><c> y</c>
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+cálculo a los elementos de inventario y
+ 
+
+00:00:28.960 --> 00:00:31.550 align:start position:0%
+cálculo a los elementos de inventario y
+para<00:00:29.119><c> finalizar</c><00:00:29.640><c> ver</c><00:00:29.960><c> emos</c><00:00:30.640><c> Cómo</c><00:00:30.920><c> limpiar</c><00:00:31.240><c> en</c>
+
+00:00:31.550 --> 00:00:31.560 align:start position:0%
+para finalizar ver emos Cómo limpiar en
+ 
+
+00:00:31.560 --> 00:00:33.869 align:start position:0%
+para finalizar ver emos Cómo limpiar en
+bloque<00:00:32.079><c> una</c><00:00:32.399><c> lista</c><00:00:32.719><c> de</c><00:00:32.920><c> precios</c><00:00:33.480><c> a</c><00:00:33.719><c> los</c>
+
+00:00:33.869 --> 00:00:33.879 align:start position:0%
+bloque una lista de precios a los
+ 
+
+00:00:33.879 --> 00:00:36.270 align:start position:0%
+bloque una lista de precios a los
+elementos<00:00:34.320><c> de</c><00:00:34.559><c> inventario</c><00:00:35.559><c> iniciemos</c>
+
+00:00:36.270 --> 00:00:36.280 align:start position:0%
+elementos de inventario iniciemos
+ 
+
+00:00:36.280 --> 00:00:38.830 align:start position:0%
+elementos de inventario iniciemos
+entonces<00:00:37.000><c> conociendo</c><00:00:38.000><c> Cómo</c><00:00:38.280><c> realizar</c><00:00:38.680><c> la</c>
+
+00:00:38.830 --> 00:00:38.840 align:start position:0%
+entonces conociendo Cómo realizar la
+ 
+
+00:00:38.840 --> 00:00:41.630 align:start position:0%
+entonces conociendo Cómo realizar la
+asignación<00:00:39.600><c> manual</c><00:00:40.079><c> de</c><00:00:40.320><c> listas</c><00:00:40.680><c> de</c><00:00:40.840><c> precios</c><00:00:41.520><c> a</c>
+
+00:00:41.630 --> 00:00:41.640 align:start position:0%
+asignación manual de listas de precios a
+ 
+
+00:00:41.640 --> 00:00:43.790 align:start position:0%
+asignación manual de listas de precios a
+los<00:00:41.800><c> elementos</c><00:00:42.200><c> de</c><00:00:42.600><c> inventario</c><00:00:43.600><c> la</c>
+
+00:00:43.790 --> 00:00:43.800 align:start position:0%
+los elementos de inventario la
+ 
+
+00:00:43.800 --> 00:00:45.750 align:start position:0%
+los elementos de inventario la
+asignación<00:00:44.399><c> de</c><00:00:44.640><c> listas</c><00:00:44.960><c> de</c><00:00:45.120><c> precios</c><00:00:45.480><c> a</c><00:00:45.640><c> los</c>
+
+00:00:45.750 --> 00:00:45.760 align:start position:0%
+asignación de listas de precios a los
+ 
+
+00:00:45.760 --> 00:00:48.150 align:start position:0%
+asignación de listas de precios a los
+elementos<00:00:46.280><c> de</c><00:00:46.399><c> inventario</c><00:00:46.879><c> de</c><00:00:47.039><c> la</c><00:00:47.120><c> empresa</c><00:00:47.920><c> es</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+elementos de inventario de la empresa es
+ 
+
+00:00:48.160 --> 00:00:50.470 align:start position:0%
+elementos de inventario de la empresa es
+el<00:00:48.320><c> proceso</c><00:00:48.760><c> mediante</c><00:00:49.199><c> el</c><00:00:49.360><c> cual</c><00:00:49.719><c> le</c><00:00:49.960><c> indicamos</c>
+
+00:00:50.470 --> 00:00:50.480 align:start position:0%
+el proceso mediante el cual le indicamos
+ 
+
+00:00:50.480 --> 00:00:53.950 align:start position:0%
+el proceso mediante el cual le indicamos
+al<00:00:50.719><c> sistema</c><00:00:51.520><c> los</c><00:00:51.760><c> valores</c><00:00:52.280><c> o</c><00:00:52.600><c> precios</c><00:00:53.359><c> que</c><00:00:53.559><c> se</c>
+
+00:00:53.950 --> 00:00:53.960 align:start position:0%
+al sistema los valores o precios que se
+ 
+
+00:00:53.960 --> 00:00:56.110 align:start position:0%
+al sistema los valores o precios que se
+registrarán<00:00:54.760><c> siempre</c><00:00:55.120><c> que</c><00:00:55.280><c> los</c><00:00:55.440><c> elementos</c><00:00:55.920><c> de</c>
+
+00:00:56.110 --> 00:00:56.120 align:start position:0%
+registrarán siempre que los elementos de
+ 
+
+00:00:56.120 --> 00:00:58.869 align:start position:0%
+registrarán siempre que los elementos de
+inventario<00:00:57.120><c> sean</c><00:00:57.440><c> llamados</c><00:00:58.199><c> en</c><00:00:58.320><c> la</c><00:00:58.480><c> operación</c>
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+inventario sean llamados en la operación
+ 
+
+00:00:58.879 --> 00:01:00.430 align:start position:0%
+inventario sean llamados en la operación
+de<00:00:59.120><c> facturación</c><00:00:59.640><c> y</c>
+
+00:01:00.430 --> 00:01:00.440 align:start position:0%
+de facturación y
+ 
+
+00:01:00.440 --> 00:01:03.189 align:start position:0%
+de facturación y
+ventas<00:01:01.440><c> para</c><00:01:01.719><c> asignar</c><00:01:02.199><c> una</c><00:01:02.440><c> lista</c><00:01:02.719><c> de</c><00:01:02.840><c> precios</c>
+
+00:01:03.189 --> 00:01:03.199 align:start position:0%
+ventas para asignar una lista de precios
+ 
+
+00:01:03.199 --> 00:01:05.270 align:start position:0%
+ventas para asignar una lista de precios
+manual<00:01:03.519><c> a</c><00:01:03.680><c> un</c><00:01:03.800><c> elemento</c><00:01:04.119><c> de</c><00:01:04.360><c> inventario</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+manual a un elemento de inventario
+ 
+
+00:01:05.280 --> 00:01:06.990 align:start position:0%
+manual a un elemento de inventario
+deberemos<00:01:05.760><c> ingresar</c><00:01:06.240><c> al</c><00:01:06.439><c> catálogo</c><00:01:06.880><c> de</c>
+
+00:01:06.990 --> 00:01:07.000 align:start position:0%
+deberemos ingresar al catálogo de
+ 
+
+00:01:07.000 --> 00:01:09.030 align:start position:0%
+deberemos ingresar al catálogo de
+elementos<00:01:07.360><c> de</c><00:01:07.520><c> inventarios</c><00:01:08.320><c> para</c><00:01:08.520><c> ello</c><00:01:08.840><c> nos</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+elementos de inventarios para ello nos
+ 
+
+00:01:09.040 --> 00:01:12.149 align:start position:0%
+elementos de inventarios para ello nos
+ubicamos<00:01:09.520><c> en</c><00:01:09.680><c> la</c><00:01:09.840><c> pestaña</c><00:01:10.799><c> inventarios</c><00:01:11.799><c> y</c><00:01:12.040><c> en</c>
+
+00:01:12.149 --> 00:01:12.159 align:start position:0%
+ubicamos en la pestaña inventarios y en
+ 
+
+00:01:12.159 --> 00:01:15.429 align:start position:0%
+ubicamos en la pestaña inventarios y en
+la<00:01:12.320><c> opción</c><00:01:13.280><c> catálogos</c><00:01:14.439><c> seleccionamos</c>
+
+00:01:15.429 --> 00:01:15.439 align:start position:0%
+la opción catálogos seleccionamos
+ 
+
+00:01:15.439 --> 00:01:17.830 align:start position:0%
+la opción catálogos seleccionamos
+elementos<00:01:16.080><c> de</c>
+
+00:01:17.830 --> 00:01:17.840 align:start position:0%
+elementos de
+ 
+
+00:01:17.840 --> 00:01:20.069 align:start position:0%
+elementos de
+inventario<00:01:18.840><c> una</c><00:01:19.119><c> vez</c><00:01:19.320><c> ingresamos</c><00:01:19.840><c> al</c>
+
+00:01:20.069 --> 00:01:20.079 align:start position:0%
+inventario una vez ingresamos al
+ 
+
+00:01:20.079 --> 00:01:22.069 align:start position:0%
+inventario una vez ingresamos al
+catálogo<00:01:20.720><c> seleccionamos</c><00:01:21.360><c> el</c><00:01:21.520><c> producto</c><00:01:21.880><c> al</c>
+
+00:01:22.069 --> 00:01:22.079 align:start position:0%
+catálogo seleccionamos el producto al
+ 
+
+00:01:22.079 --> 00:01:24.270 align:start position:0%
+catálogo seleccionamos el producto al
+cual<00:01:22.280><c> se</c><00:01:22.400><c> asignará</c><00:01:22.880><c> la</c><00:01:23.040><c> lista</c><00:01:23.280><c> de</c><00:01:23.400><c> precios</c><00:01:24.079><c> en</c>
+
+00:01:24.270 --> 00:01:24.280 align:start position:0%
+cual se asignará la lista de precios en
+ 
+
+00:01:24.280 --> 00:01:26.069 align:start position:0%
+cual se asignará la lista de precios en
+este<00:01:24.520><c> caso</c><00:01:24.840><c> seleccionamos</c><00:01:25.520><c> el</c><00:01:25.640><c> elemento</c>
+
+00:01:26.069 --> 00:01:26.079 align:start position:0%
+este caso seleccionamos el elemento
+ 
+
+00:01:26.079 --> 00:01:29.910 align:start position:0%
+este caso seleccionamos el elemento
+alcova<00:01:27.079><c> alacia</c><00:01:27.960><c> damos</c><00:01:28.479><c> clic</c><00:01:28.759><c> derecho</c><00:01:29.200><c> y</c>
+
+00:01:29.910 --> 00:01:29.920 align:start position:0%
+alcova alacia damos clic derecho y
+ 
+
+00:01:29.920 --> 00:01:32.389 align:start position:0%
+alcova alacia damos clic derecho y
+seleccionamos<00:01:30.479><c> la</c><00:01:30.600><c> opción</c>
+
+00:01:32.389 --> 00:01:32.399 align:start position:0%
+seleccionamos la opción
+ 
+
+00:01:32.399 --> 00:01:35.310 align:start position:0%
+seleccionamos la opción
+modificar<00:01:33.399><c> así</c><00:01:33.840><c> el</c><00:01:34.000><c> sistema</c><00:01:34.399><c> nos</c><00:01:34.600><c> abre</c><00:01:35.119><c> el</c>
+
+00:01:35.310 --> 00:01:35.320 align:start position:0%
+modificar así el sistema nos abre el
+ 
+
+00:01:35.320 --> 00:01:37.550 align:start position:0%
+modificar así el sistema nos abre el
+asistente<00:01:36.000><c> para</c><00:01:36.240><c> modificación</c><00:01:36.880><c> del</c><00:01:37.159><c> elemento</c>
+
+00:01:37.550 --> 00:01:37.560 align:start position:0%
+asistente para modificación del elemento
+ 
+
+00:01:37.560 --> 00:01:40.990 align:start position:0%
+asistente para modificación del elemento
+de<00:01:37.920><c> inventario</c><00:01:38.799><c> nos</c><00:01:39.040><c> ubicamos</c><00:01:39.759><c> en</c><00:01:39.960><c> la</c><00:01:40.200><c> pestaña</c>
+
+00:01:40.990 --> 00:01:41.000 align:start position:0%
+de inventario nos ubicamos en la pestaña
+ 
+
+00:01:41.000 --> 00:01:44.630 align:start position:0%
+de inventario nos ubicamos en la pestaña
+listas<00:01:41.399><c> de</c><00:01:41.680><c> precios</c><00:01:42.680><c> allí</c><00:01:43.320><c> encontraremos</c><00:01:44.320><c> las</c>
+
+00:01:44.630 --> 00:01:44.640 align:start position:0%
+listas de precios allí encontraremos las
+ 
+
+00:01:44.640 --> 00:01:46.950 align:start position:0%
+listas de precios allí encontraremos las
+listas<00:01:45.040><c> de</c><00:01:45.200><c> precios</c><00:01:45.880><c> que</c><00:01:46.040><c> se</c><00:01:46.159><c> tienen</c><00:01:46.520><c> creadas</c>
+
+00:01:46.950 --> 00:01:46.960 align:start position:0%
+listas de precios que se tienen creadas
+ 
+
+00:01:46.960 --> 00:01:48.950 align:start position:0%
+listas de precios que se tienen creadas
+en<00:01:47.079><c> el</c><00:01:47.280><c> catálogo</c><00:01:47.960><c> y</c><00:01:48.159><c> que</c><00:01:48.280><c> se</c><00:01:48.439><c> encuentran</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+en el catálogo y que se encuentran
+ 
+
+00:01:48.960 --> 00:01:50.950 align:start position:0%
+en el catálogo y que se encuentran
+disponibles<00:01:49.880><c> en</c><00:01:50.079><c> esta</c><00:01:50.320><c> configuración</c>
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+disponibles en esta configuración
+ 
+
+00:01:50.960 --> 00:01:53.190 align:start position:0%
+disponibles en esta configuración
+encontramos<00:01:51.520><c> varias</c><00:01:51.880><c> columnas</c><00:01:52.320><c> adicionales</c>
+
+00:01:53.190 --> 00:01:53.200 align:start position:0%
+encontramos varias columnas adicionales
+ 
+
+00:01:53.200 --> 00:01:55.670 align:start position:0%
+encontramos varias columnas adicionales
+tenemos<00:01:53.520><c> la</c><00:01:53.960><c> columna</c><00:01:54.640><c> para</c><00:01:54.880><c> el</c><00:01:55.079><c> método</c><00:01:55.520><c> de</c>
+
+00:01:55.670 --> 00:01:55.680 align:start position:0%
+tenemos la columna para el método de
+ 
+
+00:01:55.680 --> 00:01:58.389 align:start position:0%
+tenemos la columna para el método de
+cálculo<00:01:56.200><c> de</c><00:01:56.320><c> las</c><00:01:56.560><c> listas</c><00:01:56.920><c> de</c><00:01:57.079><c> precios</c><00:01:58.000><c> También</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+cálculo de las listas de precios También
+ 
+
+00:01:58.399 --> 00:02:00.950 align:start position:0%
+cálculo de las listas de precios También
+tenemos<00:01:58.880><c> la</c><00:01:59.079><c> columna</c><00:01:59.960><c> actualización</c><00:02:00.719><c> del</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+tenemos la columna actualización del
+ 
+
+00:02:00.960 --> 00:02:03.310 align:start position:0%
+tenemos la columna actualización del
+precio<00:02:01.600><c> la</c><00:02:01.759><c> cual</c><00:02:02.000><c> se</c><00:02:02.240><c> cargará</c><00:02:02.759><c> dependiendo</c>
+
+00:02:03.310 --> 00:02:03.320 align:start position:0%
+precio la cual se cargará dependiendo
+ 
+
+00:02:03.320 --> 00:02:05.510 align:start position:0%
+precio la cual se cargará dependiendo
+del<00:02:03.560><c> método</c><00:02:03.960><c> de</c><00:02:04.119><c> cálculo</c><00:02:04.600><c> que</c><00:02:04.680><c> se</c><00:02:04.840><c> asigne</c><00:02:05.240><c> a</c><00:02:05.399><c> la</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+del método de cálculo que se asigne a la
+ 
+
+00:02:05.520 --> 00:02:08.229 align:start position:0%
+del método de cálculo que se asigne a la
+lista<00:02:05.799><c> de</c><00:02:05.960><c> precios</c><00:02:06.759><c> tenemos</c><00:02:07.200><c> la</c><00:02:07.399><c> columna</c><00:02:08.080><c> en</c>
+
+00:02:08.229 --> 00:02:08.239 align:start position:0%
+lista de precios tenemos la columna en
+ 
+
+00:02:08.239 --> 00:02:10.270 align:start position:0%
+lista de precios tenemos la columna en
+la<00:02:08.399><c> cual</c><00:02:08.640><c> se</c><00:02:08.800><c> asignará</c><00:02:09.360><c> el</c><00:02:09.520><c> precio</c><00:02:09.840><c> de</c><00:02:09.959><c> venta</c>
+
+00:02:10.270 --> 00:02:10.280 align:start position:0%
+la cual se asignará el precio de venta
+ 
+
+00:02:10.280 --> 00:02:12.830 align:start position:0%
+la cual se asignará el precio de venta
+del<00:02:10.520><c> producto</c><00:02:11.360><c> para</c><00:02:11.640><c> cada</c><00:02:11.920><c> una</c><00:02:12.160><c> de</c><00:02:12.280><c> las</c><00:02:12.480><c> listas</c>
+
+00:02:12.830 --> 00:02:12.840 align:start position:0%
+del producto para cada una de las listas
+ 
+
+00:02:12.840 --> 00:02:16.150 align:start position:0%
+del producto para cada una de las listas
+de<00:02:13.000><c> precios</c><00:02:13.879><c> También</c><00:02:14.280><c> tenemos</c><00:02:14.959><c> la</c><00:02:15.200><c> columna</c><00:02:15.959><c> en</c>
+
+00:02:16.150 --> 00:02:16.160 align:start position:0%
+de precios También tenemos la columna en
+ 
+
+00:02:16.160 --> 00:02:18.630 align:start position:0%
+de precios También tenemos la columna en
+la<00:02:16.280><c> cual</c><00:02:16.519><c> se</c><00:02:16.680><c> visualiza</c><00:02:17.519><c> la</c><00:02:17.720><c> última</c><00:02:18.200><c> fecha</c><00:02:18.480><c> de</c>
+
+00:02:18.630 --> 00:02:18.640 align:start position:0%
+la cual se visualiza la última fecha de
+ 
+
+00:02:18.640 --> 00:02:21.070 align:start position:0%
+la cual se visualiza la última fecha de
+actualización<00:02:19.319><c> de</c><00:02:19.480><c> las</c><00:02:19.680><c> listas</c><00:02:20.040><c> de</c><00:02:20.200><c> precios</c><00:02:20.879><c> y</c>
+
+00:02:21.070 --> 00:02:21.080 align:start position:0%
+actualización de las listas de precios y
+ 
+
+00:02:21.080 --> 00:02:24.390 align:start position:0%
+actualización de las listas de precios y
+para<00:02:21.319><c> finalizar</c><00:02:22.160><c> encontramos</c><00:02:23.040><c> la</c><00:02:23.280><c> columna</c><00:02:24.160><c> en</c>
+
+00:02:24.390 --> 00:02:24.400 align:start position:0%
+para finalizar encontramos la columna en
+ 
+
+00:02:24.400 --> 00:02:26.750 align:start position:0%
+para finalizar encontramos la columna en
+la<00:02:24.560><c> cual</c><00:02:24.879><c> podremos</c><00:02:25.360><c> ver</c><00:02:25.760><c> hasta</c><00:02:26.080><c> cuándo</c><00:02:26.440><c> estará</c>
+
+00:02:26.750 --> 00:02:26.760 align:start position:0%
+la cual podremos ver hasta cuándo estará
+ 
+
+00:02:26.760 --> 00:02:29.949 align:start position:0%
+la cual podremos ver hasta cuándo estará
+vigente<00:02:27.239><c> la</c><00:02:27.400><c> lista</c><00:02:27.680><c> de</c><00:02:27.840><c> precios</c><00:02:28.800><c> en</c><00:02:29.040><c> este</c><00:02:29.280><c> caso</c>
+
+00:02:29.949 --> 00:02:29.959 align:start position:0%
+vigente la lista de precios en este caso
+ 
+
+00:02:29.959 --> 00:02:32.990 align:start position:0%
+vigente la lista de precios en este caso
+vamos<00:02:30.160><c> a</c><00:02:30.280><c> asignar</c><00:02:30.959><c> la</c><00:02:31.160><c> lista</c><00:02:31.680><c> de</c><00:02:31.959><c> precios</c>
+
+00:02:32.990 --> 00:02:33.000 align:start position:0%
+vamos a asignar la lista de precios
+ 
+
+00:02:33.000 --> 00:02:35.229 align:start position:0%
+vamos a asignar la lista de precios
+distribuidores<00:02:34.000><c> una</c><00:02:34.280><c> vez</c><00:02:34.440><c> seleccionamos</c><00:02:35.080><c> la</c>
+
+00:02:35.229 --> 00:02:35.239 align:start position:0%
+distribuidores una vez seleccionamos la
+ 
+
+00:02:35.239 --> 00:02:37.350 align:start position:0%
+distribuidores una vez seleccionamos la
+lista<00:02:35.480><c> de</c><00:02:35.599><c> precios</c><00:02:35.920><c> a</c><00:02:36.120><c> asignar</c><00:02:36.920><c> vamos</c><00:02:37.160><c> a</c>
+
+00:02:37.350 --> 00:02:37.360 align:start position:0%
+lista de precios a asignar vamos a
+ 
+
+00:02:37.360 --> 00:02:39.949 align:start position:0%
+lista de precios a asignar vamos a
+indicar<00:02:38.239><c> el</c><00:02:38.480><c> método</c><00:02:38.920><c> de</c><00:02:39.080><c> cálculo</c><00:02:39.640><c> para</c><00:02:39.800><c> la</c>
+
+00:02:39.949 --> 00:02:39.959 align:start position:0%
+indicar el método de cálculo para la
+ 
+
+00:02:39.959 --> 00:02:42.630 align:start position:0%
+indicar el método de cálculo para la
+lista<00:02:40.239><c> de</c><00:02:40.440><c> precios</c><00:02:41.120><c> para</c><00:02:41.319><c> ello</c><00:02:41.720><c> damos</c><00:02:42.159><c> doble</c>
+
+00:02:42.630 --> 00:02:42.640 align:start position:0%
+lista de precios para ello damos doble
+ 
+
+00:02:42.640 --> 00:02:45.430 align:start position:0%
+lista de precios para ello damos doble
+clic<00:02:42.879><c> en</c><00:02:43.000><c> la</c><00:02:43.200><c> columna</c><00:02:44.200><c> así</c><00:02:44.560><c> el</c><00:02:44.720><c> sistema</c><00:02:45.080><c> abre</c>
+
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+clic en la columna así el sistema abre
+ 
+
+00:02:45.440 --> 00:02:47.830 align:start position:0%
+clic en la columna así el sistema abre
+el<00:02:45.560><c> catálogo</c><00:02:46.159><c> de</c><00:02:46.319><c> métodos</c><00:02:46.760><c> de</c><00:02:46.879><c> cálculo</c><00:02:47.599><c> vamos</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+el catálogo de métodos de cálculo vamos
+ 
+
+00:02:47.840 --> 00:02:50.350 align:start position:0%
+el catálogo de métodos de cálculo vamos
+a<00:02:48.000><c> seleccionar</c><00:02:48.560><c> en</c><00:02:48.760><c> este</c><00:02:49.000><c> caso</c><00:02:49.480><c> el</c><00:02:49.720><c> método</c><00:02:50.159><c> de</c>
+
+00:02:50.350 --> 00:02:50.360 align:start position:0%
+a seleccionar en este caso el método de
+ 
+
+00:02:50.360 --> 00:02:51.589 align:start position:0%
+a seleccionar en este caso el método de
+cálculo
+
+00:02:51.589 --> 00:02:51.599 align:start position:0%
+cálculo
+ 
+
+00:02:51.599 --> 00:02:54.949 align:start position:0%
+cálculo
+manual<00:02:52.599><c> una</c><00:02:52.879><c> vez</c><00:02:53.120><c> seleccionado</c><00:02:54.080><c> el</c><00:02:54.280><c> método</c><00:02:54.760><c> de</c>
+
+00:02:54.949 --> 00:02:54.959 align:start position:0%
+manual una vez seleccionado el método de
+ 
+
+00:02:54.959 --> 00:02:57.790 align:start position:0%
+manual una vez seleccionado el método de
+cálculo<00:02:55.920><c> el</c><00:02:56.159><c> sistema</c><00:02:56.599><c> nos</c><00:02:56.800><c> indica</c><00:02:57.480><c> que</c><00:02:57.640><c> la</c>
+
+00:02:57.790 --> 00:02:57.800 align:start position:0%
+cálculo el sistema nos indica que la
+ 
+
+00:02:57.800 --> 00:03:00.270 align:start position:0%
+cálculo el sistema nos indica que la
+actualización<00:02:58.560><c> para</c><00:02:58.800><c> esta</c><00:02:59.000><c> lista</c><00:02:59.239><c> de</c><00:02:59.400><c> precio</c>
+
+00:03:00.270 --> 00:03:00.280 align:start position:0%
+actualización para esta lista de precio
+ 
+
+00:03:00.280 --> 00:03:02.869 align:start position:0%
+actualización para esta lista de precio
+será<00:03:00.599><c> manual</c><00:03:01.159><c> es</c><00:03:01.360><c> decir</c><00:03:01.720><c> que</c><00:03:01.879><c> será</c><00:03:02.200><c> asignada</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+será manual es decir que será asignada
+ 
+
+00:03:02.879 --> 00:03:05.270 align:start position:0%
+será manual es decir que será asignada
+directamente<00:03:03.599><c> por</c><00:03:03.760><c> el</c><00:03:03.920><c> usuario</c><00:03:04.760><c> ahora</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+directamente por el usuario ahora
+ 
+
+00:03:05.280 --> 00:03:08.149 align:start position:0%
+directamente por el usuario ahora
+deberemos<00:03:05.680><c> indicar</c><00:03:06.640><c> el</c><00:03:06.840><c> valor</c><00:03:07.120><c> de</c><00:03:07.400><c> venta</c><00:03:07.920><c> para</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+deberemos indicar el valor de venta para
+ 
+
+00:03:08.159 --> 00:03:10.470 align:start position:0%
+deberemos indicar el valor de venta para
+este<00:03:08.440><c> producto</c><00:03:08.840><c> en</c><00:03:09.000><c> la</c><00:03:09.159><c> lista</c><00:03:09.440><c> de</c><00:03:09.599><c> precios</c><00:03:10.280><c> en</c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+este producto en la lista de precios en
+ 
+
+00:03:10.480 --> 00:03:14.229 align:start position:0%
+este producto en la lista de precios en
+este<00:03:10.720><c> caso</c><00:03:10.959><c> indicamos</c><00:03:11.400><c> que</c><00:03:11.760><c> es</c><00:03:12.640><c> 1,100000</c><00:03:13.640><c> pes</c>
+
+00:03:14.229 --> 00:03:14.239 align:start position:0%
+este caso indicamos que es 1,100000 pes
+ 
+
+00:03:14.239 --> 00:03:16.589 align:start position:0%
+este caso indicamos que es 1,100000 pes
+y<00:03:14.440><c> el</c><00:03:14.599><c> sistema</c><00:03:15.000><c> nos</c><00:03:15.159><c> asigna</c><00:03:15.879><c> como</c><00:03:16.120><c> fecha</c><00:03:16.440><c> de</c>
+
+00:03:16.589 --> 00:03:16.599 align:start position:0%
+y el sistema nos asigna como fecha de
+ 
+
+00:03:16.599 --> 00:03:18.630 align:start position:0%
+y el sistema nos asigna como fecha de
+actualización<00:03:17.599><c> la</c><00:03:17.840><c> misma</c><00:03:18.200><c> fecha</c><00:03:18.480><c> de</c>
+
+00:03:18.630 --> 00:03:18.640 align:start position:0%
+actualización la misma fecha de
+ 
+
+00:03:18.640 --> 00:03:21.470 align:start position:0%
+actualización la misma fecha de
+asignación<00:03:19.560><c> de</c><00:03:19.760><c> esta</c><00:03:20.040><c> forma</c><00:03:20.560><c> hemos</c><00:03:20.879><c> asignado</c>
+
+00:03:21.470 --> 00:03:21.480 align:start position:0%
+asignación de esta forma hemos asignado
+ 
+
+00:03:21.480 --> 00:03:24.309 align:start position:0%
+asignación de esta forma hemos asignado
+la<00:03:21.680><c> lista</c><00:03:21.959><c> de</c><00:03:22.120><c> precios</c><00:03:23.080><c> distribuidores</c><00:03:24.080><c> al</c>
+
+00:03:24.309 --> 00:03:24.319 align:start position:0%
+la lista de precios distribuidores al
+ 
+
+00:03:24.319 --> 00:03:27.789 align:start position:0%
+la lista de precios distribuidores al
+producto<00:03:24.799><c> alcoba</c><00:03:25.799><c> al</c><00:03:25.959><c> sacia</c><00:03:26.680><c> damos</c><00:03:27.120><c> clic</c><00:03:27.519><c> en</c>
+
+00:03:27.789 --> 00:03:27.799 align:start position:0%
+producto alcoba al sacia damos clic en
+ 
+
+00:03:27.799 --> 00:03:30.270 align:start position:0%
+producto alcoba al sacia damos clic en
+aceptar<00:03:28.480><c> para</c><00:03:28.720><c> guardar</c><00:03:29.080><c> los</c><00:03:29.239><c> cambios</c>
+
+00:03:30.270 --> 00:03:30.280 align:start position:0%
+aceptar para guardar los cambios
+ 
+
+00:03:30.280 --> 00:03:32.910 align:start position:0%
+aceptar para guardar los cambios
+ahora<00:03:30.799><c> vamos</c><00:03:31.080><c> a</c><00:03:31.319><c> asignar</c><00:03:32.080><c> otra</c><00:03:32.439><c> lista</c><00:03:32.760><c> de</c>
+
+00:03:32.910 --> 00:03:32.920 align:start position:0%
+ahora vamos a asignar otra lista de
+ 
+
+00:03:32.920 --> 00:03:35.190 align:start position:0%
+ahora vamos a asignar otra lista de
+precios<00:03:33.439><c> con</c><00:03:33.599><c> otro</c><00:03:33.879><c> método</c><00:03:34.319><c> de</c><00:03:34.439><c> cálculo</c><00:03:35.000><c> para</c>
+
+00:03:35.190 --> 00:03:35.200 align:start position:0%
+precios con otro método de cálculo para
+ 
+
+00:03:35.200 --> 00:03:37.869 align:start position:0%
+precios con otro método de cálculo para
+este<00:03:35.480><c> mismo</c><00:03:35.799><c> producto</c><00:03:36.519><c> damos</c><00:03:36.879><c> en</c><00:03:37.080><c> este</c><00:03:37.280><c> caso</c>
+
+00:03:37.869 --> 00:03:37.879 align:start position:0%
+este mismo producto damos en este caso
+ 
+
+00:03:37.879 --> 00:03:39.990 align:start position:0%
+este mismo producto damos en este caso
+doble<00:03:38.280><c> clic</c><00:03:38.519><c> sobre</c><00:03:38.799><c> el</c><00:03:38.959><c> producto</c><00:03:39.680><c> y</c><00:03:39.840><c> nos</c>
+
+00:03:39.990 --> 00:03:40.000 align:start position:0%
+doble clic sobre el producto y nos
+ 
+
+00:03:40.000 --> 00:03:42.789 align:start position:0%
+doble clic sobre el producto y nos
+ubicamos<00:03:40.480><c> nuevamente</c><00:03:41.319><c> en</c><00:03:41.480><c> la</c><00:03:41.680><c> pestaña</c><00:03:42.400><c> listas</c>
+
+00:03:42.789 --> 00:03:42.799 align:start position:0%
+ubicamos nuevamente en la pestaña listas
+ 
+
+00:03:42.799 --> 00:03:45.750 align:start position:0%
+ubicamos nuevamente en la pestaña listas
+de<00:03:42.959><c> precios</c><00:03:43.840><c> seleccionamos</c><00:03:44.840><c> la</c><00:03:45.080><c> lista</c><00:03:45.360><c> de</c>
+
+00:03:45.750 --> 00:03:45.760 align:start position:0%
+de precios seleccionamos la lista de
+ 
+
+00:03:45.760 --> 00:03:48.550 align:start position:0%
+de precios seleccionamos la lista de
+precios<00:03:46.239><c> público</c><00:03:46.959><c> y</c><00:03:47.159><c> vamos</c><00:03:47.360><c> a</c><00:03:47.599><c> asignar</c><00:03:48.319><c> el</c>
+
+00:03:48.550 --> 00:03:48.560 align:start position:0%
+precios público y vamos a asignar el
+ 
+
+00:03:48.560 --> 00:03:51.710 align:start position:0%
+precios público y vamos a asignar el
+método<00:03:48.959><c> de</c><00:03:49.120><c> cálculo</c><00:03:49.959><c> para</c><00:03:50.239><c> ello</c><00:03:50.640><c> podemos</c><00:03:51.120><c> usar</c>
+
+00:03:51.710 --> 00:03:51.720 align:start position:0%
+método de cálculo para ello podemos usar
+ 
+
+00:03:51.720 --> 00:03:53.190 align:start position:0%
+método de cálculo para ello podemos usar
+la<00:03:51.920><c> función</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+la función
+ 
+
+00:03:53.200 --> 00:03:55.750 align:start position:0%
+la función
+f3<00:03:54.200><c> la</c><00:03:54.400><c> cual</c><00:03:54.640><c> nos</c><00:03:54.799><c> abre</c><00:03:55.079><c> el</c><00:03:55.200><c> catálogo</c><00:03:55.640><c> de</c>
+
+00:03:55.750 --> 00:03:55.760 align:start position:0%
+f3 la cual nos abre el catálogo de
+ 
+
+00:03:55.760 --> 00:03:57.830 align:start position:0%
+f3 la cual nos abre el catálogo de
+métodos<00:03:56.200><c> de</c><00:03:56.319><c> cálculo</c><00:03:57.040><c> en</c><00:03:57.239><c> este</c><00:03:57.480><c> caso</c>
+
+00:03:57.830 --> 00:03:57.840 align:start position:0%
+métodos de cálculo en este caso
+ 
+
+00:03:57.840 --> 00:04:00.750 align:start position:0%
+métodos de cálculo en este caso
+seleccionamos<00:03:58.760><c> el</c><00:03:58.920><c> método</c><00:03:59.319><c> de</c><00:03:59.799><c> cálculo</c>
+
+00:04:00.750 --> 00:04:00.760 align:start position:0%
+seleccionamos el método de cálculo
+ 
+
+00:04:00.760 --> 00:04:03.270 align:start position:0%
+seleccionamos el método de cálculo
+basado<00:04:01.319><c> en</c><00:04:01.640><c> lista</c><00:04:02.000><c> de</c><00:04:02.159><c> precios</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+basado en lista de precios
+ 
+
+00:04:03.280 --> 00:04:06.149 align:start position:0%
+basado en lista de precios
+distribuidores<00:04:04.280><c> así</c><00:04:04.840><c> al</c><00:04:05.120><c> seleccionar</c><00:04:05.879><c> el</c>
+
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+distribuidores así al seleccionar el
+ 
+
+00:04:06.159 --> 00:04:08.910 align:start position:0%
+distribuidores así al seleccionar el
+método<00:04:06.599><c> de</c><00:04:06.799><c> cálculo</c><00:04:07.799><c> el</c><00:04:08.000><c> sistema</c><00:04:08.400><c> asigna</c>
+
+00:04:08.910 --> 00:04:08.920 align:start position:0%
+método de cálculo el sistema asigna
+ 
+
+00:04:08.920 --> 00:04:11.750 align:start position:0%
+método de cálculo el sistema asigna
+también<00:04:09.560><c> la</c><00:04:09.720><c> actualización</c><00:04:10.519><c> del</c><00:04:10.760><c> precio</c><00:04:11.400><c> y</c><00:04:11.599><c> el</c>
+
+00:04:11.750 --> 00:04:11.760 align:start position:0%
+también la actualización del precio y el
+ 
+
+00:04:11.760 --> 00:04:14.270 align:start position:0%
+también la actualización del precio y el
+valor<00:04:12.200><c> o</c><00:04:12.599><c> precio</c><00:04:12.959><c> de</c><00:04:13.120><c> venta</c><00:04:13.480><c> para</c><00:04:13.720><c> esta</c><00:04:14.000><c> lista</c>
+
+00:04:14.270 --> 00:04:14.280 align:start position:0%
+valor o precio de venta para esta lista
+ 
+
+00:04:14.280 --> 00:04:16.870 align:start position:0%
+valor o precio de venta para esta lista
+de<00:04:14.439><c> precios</c><00:04:14.959><c> que</c><00:04:15.120><c> en</c><00:04:15.280><c> este</c><00:04:15.480><c> caso</c><00:04:16.040><c> es</c><00:04:16.160><c> de</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+de precios que en este caso es de
+ 
+
+00:04:16.880 --> 00:04:19.830 align:start position:0%
+de precios que en este caso es de
+1,300000<00:04:17.880><c> pes</c><00:04:18.560><c> en</c><00:04:18.759><c> este</c><00:04:18.959><c> caso</c><00:04:19.199><c> el</c><00:04:19.359><c> valor</c><00:04:19.600><c> fue</c>
+
+00:04:19.830 --> 00:04:19.840 align:start position:0%
+1,300000 pes en este caso el valor fue
+ 
+
+00:04:19.840 --> 00:04:22.230 align:start position:0%
+1,300000 pes en este caso el valor fue
+asignado<00:04:20.320><c> por</c><00:04:20.479><c> el</c><00:04:20.639><c> sistema</c><00:04:21.280><c> ya</c><00:04:21.440><c> que</c><00:04:21.600><c> el</c><00:04:21.840><c> método</c>
+
+00:04:22.230 --> 00:04:22.240 align:start position:0%
+asignado por el sistema ya que el método
+ 
+
+00:04:22.240 --> 00:04:25.350 align:start position:0%
+asignado por el sistema ya que el método
+de<00:04:22.479><c> cálculo</c><00:04:23.240><c> es</c><00:04:23.440><c> basado</c><00:04:24.280><c> en</c><00:04:24.440><c> la</c><00:04:24.639><c> lista</c><00:04:25.120><c> de</c>
+
+00:04:25.350 --> 00:04:25.360 align:start position:0%
+de cálculo es basado en la lista de
+ 
+
+00:04:25.360 --> 00:04:28.510 align:start position:0%
+de cálculo es basado en la lista de
+precios<00:04:25.919><c> distribuidores</c><00:04:26.919><c> y</c><00:04:27.080><c> no</c><00:04:27.440><c> manual</c><00:04:28.320><c> de</c>
+
+00:04:28.510 --> 00:04:28.520 align:start position:0%
+precios distribuidores y no manual de
+ 
+
+00:04:28.520 --> 00:04:30.749 align:start position:0%
+precios distribuidores y no manual de
+esta<00:04:28.759><c> forma</c><00:04:29.120><c> hemos</c><00:04:29.720><c> H</c><00:04:29.880><c> asignado</c><00:04:30.320><c> ya</c><00:04:30.520><c> dos</c>
+
+00:04:30.749 --> 00:04:30.759 align:start position:0%
+esta forma hemos H asignado ya dos
+ 
+
+00:04:30.759 --> 00:04:32.390 align:start position:0%
+esta forma hemos H asignado ya dos
+listas<00:04:31.039><c> de</c><00:04:31.160><c> precios</c><00:04:31.560><c> diferentes</c><00:04:32.160><c> para</c><00:04:32.320><c> el</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+listas de precios diferentes para el
+ 
+
+00:04:32.400 --> 00:04:34.710 align:start position:0%
+listas de precios diferentes para el
+producto<00:04:32.720><c> alcoa</c><00:04:33.400><c> alsacia</c><00:04:34.160><c> la</c><00:04:34.320><c> lista</c><00:04:34.560><c> de</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+producto alcoa alsacia la lista de
+ 
+
+00:04:34.720 --> 00:04:37.310 align:start position:0%
+producto alcoa alsacia la lista de
+precios<00:04:35.360><c> distribuidores</c><00:04:36.360><c> y</c><00:04:36.600><c> la</c><00:04:36.759><c> lista</c><00:04:37.080><c> de</c>
+
+00:04:37.310 --> 00:04:37.320 align:start position:0%
+precios distribuidores y la lista de
+ 
+
+00:04:37.320 --> 00:04:40.189 align:start position:0%
+precios distribuidores y la lista de
+precios<00:04:37.919><c> público</c><00:04:38.759><c> para</c><00:04:39.000><c> guardar</c><00:04:39.400><c> los</c><00:04:39.639><c> cambios</c>
+
+00:04:40.189 --> 00:04:40.199 align:start position:0%
+precios público para guardar los cambios
+ 
+
+00:04:40.199 --> 00:04:43.070 align:start position:0%
+precios público para guardar los cambios
+damos<00:04:40.720><c> clic</c><00:04:41.199><c> en</c>
+
+00:04:43.070 --> 00:04:43.080 align:start position:0%
+damos clic en
+ 
+
+00:04:43.080 --> 00:04:46.469 align:start position:0%
+damos clic en
+aceptar<00:04:44.080><c> acabamos</c><00:04:44.960><c> de</c><00:04:45.120><c> ver</c><00:04:45.600><c> cómo</c><00:04:45.919><c> realizar</c><00:04:46.320><c> la</c>
+
+00:04:46.469 --> 00:04:46.479 align:start position:0%
+aceptar acabamos de ver cómo realizar la
+ 
+
+00:04:46.479 --> 00:04:48.749 align:start position:0%
+aceptar acabamos de ver cómo realizar la
+asignación<00:04:47.039><c> manual</c><00:04:47.360><c> de</c><00:04:47.560><c> listas</c><00:04:47.960><c> de</c><00:04:48.080><c> precios</c><00:04:48.600><c> a</c>
+
+00:04:48.749 --> 00:04:48.759 align:start position:0%
+asignación manual de listas de precios a
+ 
+
+00:04:48.759 --> 00:04:51.590 align:start position:0%
+asignación manual de listas de precios a
+los<00:04:48.919><c> elementos</c><00:04:49.360><c> de</c><00:04:49.560><c> inventario</c><00:04:50.440><c> veamos</c><00:04:50.880><c> ahora</c>
+
+00:04:51.590 --> 00:04:51.600 align:start position:0%
+los elementos de inventario veamos ahora
+ 
+
+00:04:51.600 --> 00:04:54.110 align:start position:0%
+los elementos de inventario veamos ahora
+Cómo<00:04:51.880><c> realizar</c><00:04:52.320><c> la</c><00:04:52.520><c> asignación</c><00:04:52.960><c> en</c><00:04:53.280><c> bloque</c><00:04:53.800><c> de</c>
+
+00:04:54.110 --> 00:04:54.120 align:start position:0%
+Cómo realizar la asignación en bloque de
+ 
+
+00:04:54.120 --> 00:04:57.150 align:start position:0%
+Cómo realizar la asignación en bloque de
+listas<00:04:54.520><c> de</c><00:04:54.680><c> precios</c><00:04:55.280><c> y</c><00:04:55.479><c> métodos</c><00:04:55.960><c> de</c><00:04:56.120><c> cálculo</c><00:04:56.960><c> a</c>
+
+00:04:57.150 --> 00:04:57.160 align:start position:0%
+listas de precios y métodos de cálculo a
+ 
+
+00:04:57.160 --> 00:04:59.790 align:start position:0%
+listas de precios y métodos de cálculo a
+los<00:04:57.360><c> elementos</c><00:04:57.759><c> de</c><00:04:58.080><c> inventario</c><00:04:59.080><c> como</c>
+
+00:04:59.790 --> 00:04:59.800 align:start position:0%
+los elementos de inventario como
+ 
+
+00:04:59.800 --> 00:05:02.469 align:start position:0%
+los elementos de inventario como
+acabamos<00:05:00.160><c> de</c><00:05:00.280><c> ver</c><00:05:00.800><c> podemos</c><00:05:01.199><c> asignar</c><00:05:01.919><c> la</c><00:05:02.120><c> lista</c>
+
+00:05:02.469 --> 00:05:02.479 align:start position:0%
+acabamos de ver podemos asignar la lista
+ 
+
+00:05:02.479 --> 00:05:05.230 align:start position:0%
+acabamos de ver podemos asignar la lista
+de<00:05:02.639><c> precios</c><00:05:03.080><c> y</c><00:05:03.199><c> el</c><00:05:03.360><c> método</c><00:05:03.759><c> de</c><00:05:03.880><c> cálculo</c><00:05:04.720><c> a</c><00:05:05.000><c> cada</c>
+
+00:05:05.230 --> 00:05:05.240 align:start position:0%
+de precios y el método de cálculo a cada
+ 
+
+00:05:05.240 --> 00:05:07.029 align:start position:0%
+de precios y el método de cálculo a cada
+uno<00:05:05.479><c> de</c><00:05:05.600><c> los</c><00:05:05.759><c> elementos</c><00:05:06.160><c> de</c><00:05:06.360><c> inventario</c><00:05:06.919><c> de</c>
+
+00:05:07.029 --> 00:05:07.039 align:start position:0%
+uno de los elementos de inventario de
+ 
+
+00:05:07.039 --> 00:05:09.110 align:start position:0%
+uno de los elementos de inventario de
+forma<00:05:07.280><c> manual</c><00:05:08.080><c> pero</c><00:05:08.280><c> cuando</c><00:05:08.520><c> se</c><00:05:08.680><c> requiere</c>
+
+00:05:09.110 --> 00:05:09.120 align:start position:0%
+forma manual pero cuando se requiere
+ 
+
+00:05:09.120 --> 00:05:10.830 align:start position:0%
+forma manual pero cuando se requiere
+realizar<00:05:09.560><c> este</c><00:05:09.800><c> proceso</c><00:05:10.240><c> con</c><00:05:10.400><c> un</c><00:05:10.560><c> grupo</c>
+
+00:05:10.830 --> 00:05:10.840 align:start position:0%
+realizar este proceso con un grupo
+ 
+
+00:05:10.840 --> 00:05:12.670 align:start position:0%
+realizar este proceso con un grupo
+grande<00:05:11.160><c> de</c><00:05:11.320><c> elementos</c><00:05:11.720><c> de</c><00:05:11.840><c> inventario</c>
+
+00:05:12.670 --> 00:05:12.680 align:start position:0%
+grande de elementos de inventario
+ 
+
+00:05:12.680 --> 00:05:14.629 align:start position:0%
+grande de elementos de inventario
+realizarlo<00:05:13.240><c> uno</c><00:05:13.520><c> a</c><00:05:13.680><c> uno</c><00:05:13.880><c> puede</c><00:05:14.280><c> llevar</c>
+
+00:05:14.629 --> 00:05:14.639 align:start position:0%
+realizarlo uno a uno puede llevar
+ 
+
+00:05:14.639 --> 00:05:16.950 align:start position:0%
+realizarlo uno a uno puede llevar
+bastante<00:05:15.039><c> tiempo</c><00:05:15.680><c> por</c><00:05:15.840><c> ello</c><00:05:16.000><c> cont</c><00:05:16.360><c> pime</c><00:05:16.800><c> nos</c>
+
+00:05:16.950 --> 00:05:16.960 align:start position:0%
+bastante tiempo por ello cont pime nos
+ 
+
+00:05:16.960 --> 00:05:18.870 align:start position:0%
+bastante tiempo por ello cont pime nos
+brinda<00:05:17.280><c> la</c><00:05:17.400><c> posibilidad</c><00:05:18.000><c> de</c><00:05:18.160><c> asignar</c><00:05:18.680><c> las</c>
+
+00:05:18.870 --> 00:05:18.880 align:start position:0%
+brinda la posibilidad de asignar las
+ 
+
+00:05:18.880 --> 00:05:20.950 align:start position:0%
+brinda la posibilidad de asignar las
+listas<00:05:19.240><c> de</c><00:05:19.400><c> precios</c><00:05:20.000><c> y</c><00:05:20.160><c> los</c><00:05:20.360><c> métodos</c><00:05:20.800><c> de</c>
+
+00:05:20.950 --> 00:05:20.960 align:start position:0%
+listas de precios y los métodos de
+ 
+
+00:05:20.960 --> 00:05:23.110 align:start position:0%
+listas de precios y los métodos de
+cálculo<00:05:21.600><c> en</c><00:05:21.919><c> bloque</c><00:05:22.240><c> a</c><00:05:22.400><c> los</c><00:05:22.520><c> elementos</c><00:05:22.919><c> de</c>
+
+00:05:23.110 --> 00:05:23.120 align:start position:0%
+cálculo en bloque a los elementos de
+ 
+
+00:05:23.120 --> 00:05:25.590 align:start position:0%
+cálculo en bloque a los elementos de
+inventario<00:05:23.919><c> vamos</c><00:05:24.160><c> a</c><00:05:24.360><c> visualizar</c><00:05:25.039><c> las</c><00:05:25.240><c> listas</c>
+
+00:05:25.590 --> 00:05:25.600 align:start position:0%
+inventario vamos a visualizar las listas
+ 
+
+00:05:25.600 --> 00:05:28.029 align:start position:0%
+inventario vamos a visualizar las listas
+de<00:05:25.720><c> precios</c><00:05:26.160><c> asignadas</c><00:05:26.960><c> al</c><00:05:27.160><c> producto</c>
+
+00:05:28.029 --> 00:05:28.039 align:start position:0%
+de precios asignadas al producto
+ 
+
+00:05:28.039 --> 00:05:31.510 align:start position:0%
+de precios asignadas al producto
+escritorio<00:05:28.639><c> extensible</c>
+
+00:05:31.510 --> 00:05:31.520 align:start position:0%
+escritorio extensible
+ 
+
+00:05:31.520 --> 00:05:33.870 align:start position:0%
+escritorio extensible
+en<00:05:31.759><c> este</c><00:05:32.000><c> caso</c><00:05:32.319><c> podemos</c><00:05:32.800><c> visualizar</c><00:05:33.440><c> que</c><00:05:33.639><c> este</c>
+
+00:05:33.870 --> 00:05:33.880 align:start position:0%
+en este caso podemos visualizar que este
+ 
+
+00:05:33.880 --> 00:05:36.830 align:start position:0%
+en este caso podemos visualizar que este
+producto<00:05:34.880><c> solo</c><00:05:35.199><c> tiene</c><00:05:35.520><c> asignada</c><00:05:36.160><c> la</c><00:05:36.360><c> lista</c><00:05:36.639><c> de</c>
+
+00:05:36.830 --> 00:05:36.840 align:start position:0%
+producto solo tiene asignada la lista de
+ 
+
+00:05:36.840 --> 00:05:40.070 align:start position:0%
+producto solo tiene asignada la lista de
+precios<00:05:37.440><c> distribuidores</c><00:05:38.440><c> veamos</c><00:05:38.919><c> ahora</c><00:05:39.800><c> las</c>
+
+00:05:40.070 --> 00:05:40.080 align:start position:0%
+precios distribuidores veamos ahora las
+ 
+
+00:05:40.080 --> 00:05:42.430 align:start position:0%
+precios distribuidores veamos ahora las
+listas<00:05:40.479><c> de</c><00:05:40.680><c> precios</c><00:05:41.120><c> que</c><00:05:41.280><c> tiene</c><00:05:41.600><c> configurada</c>
+
+00:05:42.430 --> 00:05:42.440 align:start position:0%
+listas de precios que tiene configurada
+ 
+
+00:05:42.440 --> 00:05:46.510 align:start position:0%
+listas de precios que tiene configurada
+el<00:05:42.680><c> producto</c><00:05:43.639><c> sofá</c><00:05:44.120><c> cama</c><00:05:44.360><c> Atenas</c>
+
+00:05:46.510 --> 00:05:46.520 align:start position:0%
+el producto sofá cama Atenas
+ 
+
+00:05:46.520 --> 00:05:49.830 align:start position:0%
+el producto sofá cama Atenas
+naranja<00:05:47.520><c> este</c><00:05:48.039><c> De</c><00:05:48.240><c> igual</c><00:05:48.639><c> forma</c><00:05:49.199><c> solo</c><00:05:49.520><c> tiene</c>
+
+00:05:49.830 --> 00:05:49.840 align:start position:0%
+naranja este De igual forma solo tiene
+ 
+
+00:05:49.840 --> 00:05:53.870 align:start position:0%
+naranja este De igual forma solo tiene
+asignada<00:05:50.600><c> la</c><00:05:50.800><c> lista</c><00:05:51.120><c> de</c><00:05:51.360><c> precios</c>
+
+00:05:53.870 --> 00:05:53.880 align:start position:0%
+ 
+ 
+
+00:05:53.880 --> 00:05:56.390 align:start position:0%
+ 
+distribuidores<00:05:54.880><c> para</c><00:05:55.199><c> asignar</c><00:05:55.800><c> las</c><00:05:56.000><c> listas</c>
+
+00:05:56.390 --> 00:05:56.400 align:start position:0%
+distribuidores para asignar las listas
+ 
+
+00:05:56.400 --> 00:05:58.629 align:start position:0%
+distribuidores para asignar las listas
+de<00:05:56.560><c> precios</c><00:05:57.120><c> y</c><00:05:57.280><c> los</c><00:05:57.479><c> métodos</c><00:05:57.919><c> de</c><00:05:58.039><c> cálculo</c><00:05:58.440><c> en</c>
+
+00:05:58.629 --> 00:05:58.639 align:start position:0%
+de precios y los métodos de cálculo en
+ 
+
+00:05:58.639 --> 00:06:00.550 align:start position:0%
+de precios y los métodos de cálculo en
+bloque<00:05:58.919><c> a</c><00:05:59.000><c> los</c><00:05:59.120><c> elementos</c><00:05:59.720><c> de</c><00:05:59.840><c> inventario</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+bloque a los elementos de inventario
+ 
+
+00:06:00.560 --> 00:06:03.270 align:start position:0%
+bloque a los elementos de inventario
+deberemos<00:06:00.960><c> estar</c><00:06:01.400><c> ubicados</c><00:06:02.319><c> en</c><00:06:02.479><c> el</c><00:06:02.680><c> catálogo</c>
+
+00:06:03.270 --> 00:06:03.280 align:start position:0%
+deberemos estar ubicados en el catálogo
+ 
+
+00:06:03.280 --> 00:06:05.990 align:start position:0%
+deberemos estar ubicados en el catálogo
+de<00:06:03.520><c> elementos</c><00:06:04.000><c> de</c><00:06:04.199><c> inventario</c><00:06:05.000><c> y</c><00:06:05.160><c> en</c><00:06:05.319><c> la</c><00:06:05.600><c> cinta</c>
+
+00:06:05.990 --> 00:06:06.000 align:start position:0%
+de elementos de inventario y en la cinta
+ 
+
+00:06:06.000 --> 00:06:10.029 align:start position:0%
+de elementos de inventario y en la cinta
+de<00:06:06.240><c> opciones</c><00:06:07.120><c> en</c><00:06:07.319><c> el</c><00:06:07.680><c> campo</c><00:06:08.639><c> opciones</c>
+
+00:06:10.029 --> 00:06:10.039 align:start position:0%
+de opciones en el campo opciones
+ 
+
+00:06:10.039 --> 00:06:12.550 align:start position:0%
+de opciones en el campo opciones
+seleccionamos
+
+00:06:12.550 --> 00:06:12.560 align:start position:0%
+seleccionamos
+ 
+
+00:06:12.560 --> 00:06:15.589 align:start position:0%
+seleccionamos
+asignar<00:06:13.560><c> así</c><00:06:13.960><c> el</c><00:06:14.120><c> sistema</c><00:06:14.479><c> nos</c><00:06:14.720><c> abre</c><00:06:14.919><c> el</c>
+
+00:06:15.589 --> 00:06:15.599 align:start position:0%
+asignar así el sistema nos abre el
+ 
+
+00:06:15.599 --> 00:06:17.870 align:start position:0%
+asignar así el sistema nos abre el
+asistente<00:06:16.280><c> para</c><00:06:16.560><c> asignación</c><00:06:17.120><c> de</c><00:06:17.319><c> métodos</c><00:06:17.759><c> de</c>
+
+00:06:17.870 --> 00:06:17.880 align:start position:0%
+asistente para asignación de métodos de
+ 
+
+00:06:17.880 --> 00:06:20.589 align:start position:0%
+asistente para asignación de métodos de
+cálculo<00:06:18.639><c> allí</c><00:06:18.960><c> deberemos</c><00:06:19.400><c> seleccionar</c><00:06:20.400><c> la</c>
+
+00:06:20.589 --> 00:06:20.599 align:start position:0%
+cálculo allí deberemos seleccionar la
+ 
+
+00:06:20.599 --> 00:06:22.629 align:start position:0%
+cálculo allí deberemos seleccionar la
+lista<00:06:20.960><c> de</c><00:06:21.160><c> precios</c><00:06:21.639><c> a</c><00:06:21.800><c> la</c><00:06:21.960><c> cual</c><00:06:22.120><c> se</c><00:06:22.280><c> le</c><00:06:22.360><c> va</c><00:06:22.520><c> a</c>
+
+00:06:22.629 --> 00:06:22.639 align:start position:0%
+lista de precios a la cual se le va a
+ 
+
+00:06:22.639 --> 00:06:25.230 align:start position:0%
+lista de precios a la cual se le va a
+asignar<00:06:23.000><c> el</c><00:06:23.120><c> método</c><00:06:23.599><c> de</c><00:06:23.759><c> cálculo</c><00:06:24.520><c> para</c><00:06:24.759><c> ello</c>
+
+00:06:25.230 --> 00:06:25.240 align:start position:0%
+asignar el método de cálculo para ello
+ 
+
+00:06:25.240 --> 00:06:28.029 align:start position:0%
+asignar el método de cálculo para ello
+damos<00:06:25.759><c> clic</c><00:06:26.319><c> en</c><00:06:26.520><c> el</c><00:06:26.759><c> seleccionador</c><00:06:27.759><c> y</c><00:06:27.919><c> el</c>
+
+00:06:28.029 --> 00:06:28.039 align:start position:0%
+damos clic en el seleccionador y el
+ 
+
+00:06:28.039 --> 00:06:30.469 align:start position:0%
+damos clic en el seleccionador y el
+sistema<00:06:28.440><c> nos</c><00:06:28.639><c> despliega</c><00:06:29.199><c> la</c><00:06:29.639><c> las</c><00:06:29.840><c> listas</c><00:06:30.280><c> de</c>
+
+00:06:30.469 --> 00:06:30.479 align:start position:0%
+sistema nos despliega la las listas de
+ 
+
+00:06:30.479 --> 00:06:33.150 align:start position:0%
+sistema nos despliega la las listas de
+precios<00:06:30.960><c> disponibles</c><00:06:31.919><c> vamos</c><00:06:32.160><c> a</c><00:06:32.319><c> seleccionar</c>
+
+00:06:33.150 --> 00:06:33.160 align:start position:0%
+precios disponibles vamos a seleccionar
+ 
+
+00:06:33.160 --> 00:06:36.629 align:start position:0%
+precios disponibles vamos a seleccionar
+la<00:06:33.360><c> lista</c><00:06:33.759><c> de</c><00:06:33.960><c> precios</c><00:06:34.880><c> promoción</c><00:06:35.520><c> junio</c>
+
+00:06:36.629 --> 00:06:36.639 align:start position:0%
+la lista de precios promoción junio
+ 
+
+00:06:36.639 --> 00:06:39.350 align:start position:0%
+la lista de precios promoción junio
+2016<00:06:37.639><c> debemos</c><00:06:38.039><c> tener</c><00:06:38.319><c> en</c><00:06:38.440><c> cuenta</c><00:06:38.919><c> que</c><00:06:39.039><c> si</c><00:06:39.199><c> la</c>
+
+00:06:39.350 --> 00:06:39.360 align:start position:0%
+2016 debemos tener en cuenta que si la
+ 
+
+00:06:39.360 --> 00:06:41.510 align:start position:0%
+2016 debemos tener en cuenta que si la
+lista<00:06:39.680><c> de</c><00:06:39.840><c> precios</c><00:06:40.400><c> ya</c><00:06:40.560><c> existe</c><00:06:41.080><c> para</c><00:06:41.280><c> los</c>
+
+00:06:41.510 --> 00:06:41.520 align:start position:0%
+lista de precios ya existe para los
+ 
+
+00:06:41.520 --> 00:06:43.749 align:start position:0%
+lista de precios ya existe para los
+productos<00:06:42.400><c> el</c><00:06:42.560><c> sistema</c><00:06:43.039><c> actualizará</c><00:06:43.680><c> el</c>
+
+00:06:43.749 --> 00:06:43.759 align:start position:0%
+productos el sistema actualizará el
+ 
+
+00:06:43.759 --> 00:06:46.350 align:start position:0%
+productos el sistema actualizará el
+método<00:06:44.160><c> de</c><00:06:44.280><c> cálculo</c><00:06:44.720><c> que</c><00:06:45.000><c> esta</c><00:06:45.360><c> tenga</c><00:06:46.000><c> si</c><00:06:46.199><c> la</c>
+
+00:06:46.350 --> 00:06:46.360 align:start position:0%
+método de cálculo que esta tenga si la
+ 
+
+00:06:46.360 --> 00:06:48.230 align:start position:0%
+método de cálculo que esta tenga si la
+lista<00:06:46.639><c> de</c><00:06:46.800><c> precios</c><00:06:47.280><c> no</c><00:06:47.440><c> existe</c><00:06:47.880><c> para</c><00:06:48.080><c> los</c>
+
+00:06:48.230 --> 00:06:48.240 align:start position:0%
+lista de precios no existe para los
+ 
+
+00:06:48.240 --> 00:06:50.550 align:start position:0%
+lista de precios no existe para los
+productos<00:06:48.919><c> se</c><00:06:49.080><c> asignará</c><00:06:49.759><c> el</c><00:06:49.960><c> método</c><00:06:50.360><c> de</c>
+
+00:06:50.550 --> 00:06:50.560 align:start position:0%
+productos se asignará el método de
+ 
+
+00:06:50.560 --> 00:06:52.990 align:start position:0%
+productos se asignará el método de
+cálculo<00:06:51.039><c> dado</c><00:06:51.759><c> luego</c><00:06:52.080><c> de</c><00:06:52.280><c> seleccionar</c><00:06:52.840><c> la</c>
+
+00:06:52.990 --> 00:06:53.000 align:start position:0%
+cálculo dado luego de seleccionar la
+ 
+
+00:06:53.000 --> 00:06:55.749 align:start position:0%
+cálculo dado luego de seleccionar la
+lista<00:06:53.240><c> de</c><00:06:53.560><c> precios</c><00:06:54.160><c> deberemos</c><00:06:54.560><c> indicar</c><00:06:55.479><c> el</c>
+
+00:06:55.749 --> 00:06:55.759 align:start position:0%
+lista de precios deberemos indicar el
+ 
+
+00:06:55.759 --> 00:06:58.469 align:start position:0%
+lista de precios deberemos indicar el
+método<00:06:56.199><c> de</c><00:06:56.440><c> cálculo</c><00:06:56.879><c> a</c><00:06:57.120><c> asignar</c><00:06:57.840><c> para</c><00:06:58.080><c> ello</c>
+
+00:06:58.469 --> 00:06:58.479 align:start position:0%
+método de cálculo a asignar para ello
+ 
+
+00:06:58.479 --> 00:07:01.710 align:start position:0%
+método de cálculo a asignar para ello
+damos<00:06:58.919><c> clic</c><00:06:59.160><c> en</c><00:06:59.599><c> en</c><00:06:59.720><c> el</c><00:07:00.240><c> seleccionador</c><00:07:01.240><c> y</c><00:07:01.560><c> el</c>
+
+00:07:01.710 --> 00:07:01.720 align:start position:0%
+damos clic en en el seleccionador y el
+ 
+
+00:07:01.720 --> 00:07:04.469 align:start position:0%
+damos clic en en el seleccionador y el
+sistema<00:07:02.080><c> nos</c><00:07:02.280><c> abre</c><00:07:02.840><c> el</c><00:07:03.120><c> catálogo</c><00:07:03.759><c> de</c><00:07:04.000><c> métodos</c>
+
+00:07:04.469 --> 00:07:04.479 align:start position:0%
+sistema nos abre el catálogo de métodos
+ 
+
+00:07:04.479 --> 00:07:06.990 align:start position:0%
+sistema nos abre el catálogo de métodos
+de<00:07:04.639><c> cálculo</c><00:07:05.400><c> en</c><00:07:05.599><c> este</c><00:07:05.840><c> caso</c><00:07:06.199><c> seleccionamos</c><00:07:06.800><c> el</c>
+
+00:07:06.990 --> 00:07:07.000 align:start position:0%
+de cálculo en este caso seleccionamos el
+ 
+
+00:07:07.000 --> 00:07:09.110 align:start position:0%
+de cálculo en este caso seleccionamos el
+método<00:07:07.440><c> de</c><00:07:07.639><c> cálculo</c>
+
+00:07:09.110 --> 00:07:09.120 align:start position:0%
+método de cálculo
+ 
+
+00:07:09.120 --> 00:07:11.629 align:start position:0%
+método de cálculo
+promociones<00:07:10.120><c> si</c><00:07:10.319><c> el</c><00:07:10.479><c> método</c><00:07:10.919><c> de</c><00:07:11.080><c> cálculo</c>
+
+00:07:11.629 --> 00:07:11.639 align:start position:0%
+promociones si el método de cálculo
+ 
+
+00:07:11.639 --> 00:07:14.869 align:start position:0%
+promociones si el método de cálculo
+seleccionado<00:07:12.639><c> es</c><00:07:13.120><c> asignado</c><00:07:13.800><c> por</c><00:07:13.960><c> el</c><00:07:14.160><c> usuario</c>
+
+00:07:14.869 --> 00:07:14.879 align:start position:0%
+seleccionado es asignado por el usuario
+ 
+
+00:07:14.879 --> 00:07:17.029 align:start position:0%
+seleccionado es asignado por el usuario
+se<00:07:15.039><c> debe</c><00:07:15.280><c> realizar</c><00:07:15.919><c> la</c><00:07:16.080><c> actualización</c><00:07:16.759><c> de</c><00:07:16.840><c> la</c>
+
+00:07:17.029 --> 00:07:17.039 align:start position:0%
+se debe realizar la actualización de la
+ 
+
+00:07:17.039 --> 00:07:19.070 align:start position:0%
+se debe realizar la actualización de la
+lista<00:07:17.319><c> de</c><00:07:17.440><c> precios</c><00:07:17.879><c> de</c><00:07:18.000><c> forma</c><00:07:18.319><c> manual</c><00:07:18.840><c> o</c><00:07:19.000><c> a</c>
+
+00:07:19.070 --> 00:07:19.080 align:start position:0%
+lista de precios de forma manual o a
+ 
+
+00:07:19.080 --> 00:07:21.469 align:start position:0%
+lista de precios de forma manual o a
+través<00:07:19.400><c> del</c><00:07:19.599><c> botón</c><00:07:19.960><c> actualizar</c><00:07:20.639><c> precios</c><00:07:21.319><c> si</c>
+
+00:07:21.469 --> 00:07:21.479 align:start position:0%
+través del botón actualizar precios si
+ 
+
+00:07:21.479 --> 00:07:23.909 align:start position:0%
+través del botón actualizar precios si
+el<00:07:21.680><c> método</c><00:07:22.120><c> de</c><00:07:22.319><c> cálculo</c><00:07:22.919><c> tiene</c><00:07:23.199><c> activada</c><00:07:23.800><c> la</c>
+
+00:07:23.909 --> 00:07:23.919 align:start position:0%
+el método de cálculo tiene activada la
+ 
+
+00:07:23.919 --> 00:07:26.670 align:start position:0%
+el método de cálculo tiene activada la
+opción<00:07:24.560><c> actualizar</c><00:07:25.120><c> en</c><00:07:25.520><c> bloque</c><00:07:26.160><c> se</c><00:07:26.360><c> deben</c>
+
+00:07:26.670 --> 00:07:26.680 align:start position:0%
+opción actualizar en bloque se deben
+ 
+
+00:07:26.680 --> 00:07:28.670 align:start position:0%
+opción actualizar en bloque se deben
+actualizar<00:07:27.280><c> los</c><00:07:27.440><c> precios</c><00:07:28.039><c> a</c><00:07:28.199><c> través</c><00:07:28.520><c> del</c>
+
+00:07:28.670 --> 00:07:28.680 align:start position:0%
+actualizar los precios a través del
+ 
+
+00:07:28.680 --> 00:07:31.830 align:start position:0%
+actualizar los precios a través del
+botón<00:07:29.560><c> actualizar</c><00:07:30.240><c> listas</c><00:07:30.599><c> de</c><00:07:30.759><c> precios</c><00:07:31.560><c> en</c>
+
+00:07:31.830 --> 00:07:31.840 align:start position:0%
+botón actualizar listas de precios en
+ 
+
+00:07:31.840 --> 00:07:34.550 align:start position:0%
+botón actualizar listas de precios en
+este<00:07:32.120><c> asistente</c><00:07:32.840><c> también</c><00:07:33.199><c> podemos</c><00:07:33.599><c> asignar</c>
+
+00:07:34.550 --> 00:07:34.560 align:start position:0%
+este asistente también podemos asignar
+ 
+
+00:07:34.560 --> 00:07:36.950 align:start position:0%
+este asistente también podemos asignar
+una<00:07:34.960><c> fecha</c><00:07:35.319><c> de</c><00:07:35.479><c> vigencia</c><00:07:36.120><c> para</c><00:07:36.360><c> la</c><00:07:36.520><c> lista</c><00:07:36.800><c> de</c>
+
+00:07:36.950 --> 00:07:36.960 align:start position:0%
+una fecha de vigencia para la lista de
+ 
+
+00:07:36.960 --> 00:07:39.350 align:start position:0%
+una fecha de vigencia para la lista de
+precios<00:07:37.680><c> es</c><00:07:37.879><c> decir</c><00:07:38.199><c> la</c><00:07:38.360><c> fecha</c><00:07:38.680><c> hasta</c><00:07:39.000><c> la</c><00:07:39.120><c> cual</c>
+
+00:07:39.350 --> 00:07:39.360 align:start position:0%
+precios es decir la fecha hasta la cual
+ 
+
+00:07:39.360 --> 00:07:41.629 align:start position:0%
+precios es decir la fecha hasta la cual
+estará<00:07:39.720><c> disponible</c><00:07:40.319><c> la</c><00:07:40.440><c> lista</c><00:07:40.720><c> de</c><00:07:40.879><c> precios</c>
+
+00:07:41.629 --> 00:07:41.639 align:start position:0%
+estará disponible la lista de precios
+ 
+
+00:07:41.639 --> 00:07:44.790 align:start position:0%
+estará disponible la lista de precios
+este<00:07:41.919><c> campo</c><00:07:42.479><c> es</c><00:07:42.759><c> opcional</c><00:07:43.560><c> vamos</c><00:07:43.840><c> a</c><00:07:44.039><c> activarla</c>
+
+00:07:44.790 --> 00:07:44.800 align:start position:0%
+este campo es opcional vamos a activarla
+ 
+
+00:07:44.800 --> 00:07:47.189 align:start position:0%
+este campo es opcional vamos a activarla
+en<00:07:45.039><c> este</c><00:07:45.280><c> caso</c><00:07:45.680><c> indicamos</c><00:07:46.280><c> que</c><00:07:46.520><c> la</c><00:07:46.680><c> lista</c><00:07:47.000><c> de</c>
+
+00:07:47.189 --> 00:07:47.199 align:start position:0%
+en este caso indicamos que la lista de
+ 
+
+00:07:47.199 --> 00:07:51.070 align:start position:0%
+en este caso indicamos que la lista de
+precios<00:07:47.919><c> estará</c><00:07:48.440><c> vigente</c><00:07:49.440><c> hasta</c><00:07:49.800><c> el</c><00:07:50.000><c> día</c><00:07:50.560><c> 30</c>
+
+00:07:51.070 --> 00:07:51.080 align:start position:0%
+precios estará vigente hasta el día 30
+ 
+
+00:07:51.080 --> 00:07:54.589 align:start position:0%
+precios estará vigente hasta el día 30
+de<00:07:51.240><c> junio</c><00:07:51.720><c> del</c><00:07:51.960><c> año</c><00:07:52.800><c> 2016</c><00:07:53.800><c> en</c><00:07:54.000><c> el</c><00:07:54.120><c> siguiente</c>
+
+00:07:54.589 --> 00:07:54.599 align:start position:0%
+de junio del año 2016 en el siguiente
+ 
+
+00:07:54.599 --> 00:07:57.629 align:start position:0%
+de junio del año 2016 en el siguiente
+campo<00:07:55.319><c> deberemos</c><00:07:55.759><c> indicar</c><00:07:56.599><c> A</c><00:07:56.879><c> qué</c><00:07:57.159><c> conjunto</c>
+
+00:07:57.629 --> 00:07:57.639 align:start position:0%
+campo deberemos indicar A qué conjunto
+ 
+
+00:07:57.639 --> 00:07:59.510 align:start position:0%
+campo deberemos indicar A qué conjunto
+de<00:07:57.800><c> elementos</c><00:07:58.240><c> de</c><00:07:58.360><c> inventario</c><00:07:58.840><c> se</c><00:07:59.000><c> les</c>
+
+00:07:59.510 --> 00:07:59.520 align:start position:0%
+de elementos de inventario se les
+ 
+
+00:07:59.520 --> 00:08:01.510 align:start position:0%
+de elementos de inventario se les
+asignará<00:07:59.960><c> este</c><00:08:00.120><c> método</c><00:08:00.479><c> de</c><00:08:00.599><c> cálculo</c><00:08:01.280><c> para</c>
+
+00:08:01.510 --> 00:08:01.520 align:start position:0%
+asignará este método de cálculo para
+ 
+
+00:08:01.520 --> 00:08:03.710 align:start position:0%
+asignará este método de cálculo para
+ello<00:08:01.800><c> Contamos</c><00:08:02.240><c> con</c><00:08:02.440><c> tres</c><00:08:02.720><c> opciones</c><00:08:03.520><c> la</c>
+
+00:08:03.710 --> 00:08:03.720 align:start position:0%
+ello Contamos con tres opciones la
+ 
+
+00:08:03.720 --> 00:08:06.830 align:start position:0%
+ello Contamos con tres opciones la
+primera<00:08:04.319><c> es</c><00:08:04.560><c> asignar</c><00:08:05.240><c> el</c><00:08:05.479><c> método</c><00:08:05.919><c> de</c><00:08:06.080><c> cálculo</c>
+
+00:08:06.830 --> 00:08:06.840 align:start position:0%
+primera es asignar el método de cálculo
+ 
+
+00:08:06.840 --> 00:08:08.990 align:start position:0%
+primera es asignar el método de cálculo
+a<00:08:07.000><c> todos</c><00:08:07.479><c> los</c><00:08:07.680><c> elementos</c><00:08:08.080><c> de</c><00:08:08.240><c> inventario</c><00:08:08.879><c> que</c>
+
+00:08:08.990 --> 00:08:09.000 align:start position:0%
+a todos los elementos de inventario que
+ 
+
+00:08:09.000 --> 00:08:12.070 align:start position:0%
+a todos los elementos de inventario que
+no<00:08:09.199><c> tengan</c><00:08:09.759><c> asignado</c><00:08:10.440><c> un</c><00:08:10.599><c> precio</c><00:08:11.440><c> la</c><00:08:11.639><c> segunda</c>
+
+00:08:12.070 --> 00:08:12.080 align:start position:0%
+no tengan asignado un precio la segunda
+ 
+
+00:08:12.080 --> 00:08:14.909 align:start position:0%
+no tengan asignado un precio la segunda
+opción<00:08:12.759><c> es</c><00:08:13.000><c> asignar</c><00:08:13.440><c> el</c><00:08:13.560><c> método</c><00:08:13.960><c> de</c><00:08:14.120><c> cálculo</c><00:08:14.800><c> a</c>
+
+00:08:14.909 --> 00:08:14.919 align:start position:0%
+opción es asignar el método de cálculo a
+ 
+
+00:08:14.919 --> 00:08:18.189 align:start position:0%
+opción es asignar el método de cálculo a
+los<00:08:15.240><c> elementos</c><00:08:16.240><c> sin</c><00:08:16.599><c> precio</c><00:08:17.240><c> o</c><00:08:17.440><c> que</c><00:08:17.599><c> el</c><00:08:17.800><c> método</c>
+
+00:08:18.189 --> 00:08:18.199 align:start position:0%
+los elementos sin precio o que el método
+ 
+
+00:08:18.199 --> 00:08:21.390 align:start position:0%
+los elementos sin precio o que el método
+de<00:08:18.360><c> cálculo</c><00:08:18.919><c> sea</c><00:08:19.440><c> asignado</c><00:08:20.039><c> por</c><00:08:20.240><c> el</c><00:08:20.440><c> usuario</c><00:08:21.199><c> y</c>
+
+00:08:21.390 --> 00:08:21.400 align:start position:0%
+de cálculo sea asignado por el usuario y
+ 
+
+00:08:21.400 --> 00:08:23.950 align:start position:0%
+de cálculo sea asignado por el usuario y
+la<00:08:21.599><c> última</c><00:08:22.000><c> opción</c><00:08:22.520><c> es</c><00:08:22.759><c> asignar</c><00:08:23.159><c> el</c><00:08:23.479><c> método</c><00:08:23.840><c> de</c>
+
+00:08:23.950 --> 00:08:23.960 align:start position:0%
+la última opción es asignar el método de
+ 
+
+00:08:23.960 --> 00:08:26.390 align:start position:0%
+la última opción es asignar el método de
+cálculo<00:08:24.720><c> a</c><00:08:24.960><c> todos</c><00:08:25.400><c> los</c><00:08:25.599><c> elementos</c><00:08:26.039><c> de</c>
+
+00:08:26.390 --> 00:08:26.400 align:start position:0%
+cálculo a todos los elementos de
+ 
+
+00:08:26.400 --> 00:08:29.270 align:start position:0%
+cálculo a todos los elementos de
+inventario<00:08:27.400><c> en</c><00:08:27.680><c> este</c><00:08:27.919><c> caso</c><00:08:28.360><c> dejamos</c><00:08:28.720><c> activa</c>
+
+00:08:29.270 --> 00:08:29.280 align:start position:0%
+inventario en este caso dejamos activa
+ 
+
+00:08:29.280 --> 00:08:31.469 align:start position:0%
+inventario en este caso dejamos activa
+la<00:08:29.520><c> la</c><00:08:29.639><c> primera</c><00:08:29.960><c> opción</c><00:08:30.520><c> asignar</c><00:08:31.000><c> el</c><00:08:31.120><c> método</c>
+
+00:08:31.469 --> 00:08:31.479 align:start position:0%
+la la primera opción asignar el método
+ 
+
+00:08:31.479 --> 00:08:33.750 align:start position:0%
+la la primera opción asignar el método
+de<00:08:31.639><c> cálculo</c><00:08:32.240><c> a</c><00:08:32.399><c> los</c><00:08:32.560><c> elementos</c><00:08:32.959><c> de</c><00:08:33.159><c> inventario</c>
+
+00:08:33.750 --> 00:08:33.760 align:start position:0%
+de cálculo a los elementos de inventario
+ 
+
+00:08:33.760 --> 00:08:36.149 align:start position:0%
+de cálculo a los elementos de inventario
+que<00:08:33.919><c> no</c><00:08:34.080><c> tengan</c><00:08:34.479><c> asignado</c><00:08:35.039><c> un</c><00:08:35.200><c> precio</c><00:08:35.959><c> por</c>
+
+00:08:36.149 --> 00:08:36.159 align:start position:0%
+que no tengan asignado un precio por
+ 
+
+00:08:36.159 --> 00:08:38.909 align:start position:0%
+que no tengan asignado un precio por
+último<00:08:36.680><c> tenemos</c><00:08:37.039><c> la</c><00:08:37.279><c> opción</c><00:08:38.240><c> realizar</c>
+
+00:08:38.909 --> 00:08:38.919 align:start position:0%
+último tenemos la opción realizar
+ 
+
+00:08:38.919 --> 00:08:41.469 align:start position:0%
+último tenemos la opción realizar
+filtros<00:08:39.680><c> personalizados</c><00:08:40.680><c> para</c><00:08:40.919><c> asignar</c><00:08:41.360><c> el</c>
+
+00:08:41.469 --> 00:08:41.479 align:start position:0%
+filtros personalizados para asignar el
+ 
+
+00:08:41.479 --> 00:08:43.670 align:start position:0%
+filtros personalizados para asignar el
+método<00:08:41.880><c> de</c><00:08:42.000><c> cálculo</c><00:08:42.680><c> solo</c><00:08:42.919><c> a</c><00:08:43.080><c> los</c><00:08:43.240><c> elementos</c>
+
+00:08:43.670 --> 00:08:43.680 align:start position:0%
+método de cálculo solo a los elementos
+ 
+
+00:08:43.680 --> 00:08:46.190 align:start position:0%
+método de cálculo solo a los elementos
+de<00:08:43.839><c> inventario</c><00:08:44.399><c> que</c><00:08:44.680><c> requiramos</c><00:08:45.680><c> bastará</c>
+
+00:08:46.190 --> 00:08:46.200 align:start position:0%
+de inventario que requiramos bastará
+ 
+
+00:08:46.200 --> 00:08:48.790 align:start position:0%
+de inventario que requiramos bastará
+entonces<00:08:46.720><c> con</c><00:08:47.000><c> dar</c><00:08:47.279><c> clic</c><00:08:47.560><c> en</c>
+
+00:08:48.790 --> 00:08:48.800 align:start position:0%
+entonces con dar clic en
+ 
+
+00:08:48.800 --> 00:08:51.870 align:start position:0%
+entonces con dar clic en
+asignar<00:08:49.800><c> y</c><00:08:50.080><c> el</c><00:08:50.240><c> sistema</c><00:08:50.640><c> nos</c><00:08:50.839><c> indica</c><00:08:51.519><c> que</c><00:08:51.680><c> la</c>
+
+00:08:51.870 --> 00:08:51.880 align:start position:0%
+asignar y el sistema nos indica que la
+ 
+
+00:08:51.880 --> 00:08:54.509 align:start position:0%
+asignar y el sistema nos indica que la
+actualización<00:08:52.760><c> fue</c><00:08:53.160><c> satisfactoria</c><00:08:54.160><c> y</c><00:08:54.360><c> nos</c>
+
+00:08:54.509 --> 00:08:54.519 align:start position:0%
+actualización fue satisfactoria y nos
+ 
+
+00:08:54.519 --> 00:08:56.990 align:start position:0%
+actualización fue satisfactoria y nos
+indica<00:08:54.959><c> también</c><00:08:55.560><c> el</c><00:08:55.800><c> número</c><00:08:56.240><c> de</c><00:08:56.399><c> registros</c>
+
+00:08:56.990 --> 00:08:57.000 align:start position:0%
+indica también el número de registros
+ 
+
+00:08:57.000 --> 00:09:00.110 align:start position:0%
+indica también el número de registros
+actualizados<00:08:58.000><c> que</c><00:08:58.160><c> en</c><00:08:58.320><c> este</c><00:08:58.560><c> caso</c><00:08:58.839><c> fueron</c><00:08:59.519><c> 40</c>
+
+00:09:00.110 --> 00:09:00.120 align:start position:0%
+actualizados que en este caso fueron 40
+ 
+
+00:09:00.120 --> 00:09:02.750 align:start position:0%
+actualizados que en este caso fueron 40
+damos<00:09:00.440><c> clic</c><00:09:00.720><c> en</c><00:09:00.880><c> aceptar</c><00:09:01.560><c> y</c><00:09:01.760><c> luego</c><00:09:02.160><c> damos</c><00:09:02.519><c> clic</c>
+
+00:09:02.750 --> 00:09:02.760 align:start position:0%
+damos clic en aceptar y luego damos clic
+ 
+
+00:09:02.760 --> 00:09:05.949 align:start position:0%
+damos clic en aceptar y luego damos clic
+en<00:09:03.399><c> cerrar</c><00:09:04.399><c> Vamos</c><00:09:04.680><c> a</c><00:09:04.839><c> ingresar</c><00:09:05.240><c> nuevamente</c><00:09:05.760><c> al</c>
+
+00:09:05.949 --> 00:09:05.959 align:start position:0%
+en cerrar Vamos a ingresar nuevamente al
+ 
+
+00:09:05.959 --> 00:09:08.949 align:start position:0%
+en cerrar Vamos a ingresar nuevamente al
+producto<00:09:06.480><c> sofá</c><00:09:06.959><c> cama</c><00:09:07.320><c> Atenas</c>
+
+00:09:08.949 --> 00:09:08.959 align:start position:0%
+producto sofá cama Atenas
+ 
+
+00:09:08.959 --> 00:09:12.190 align:start position:0%
+producto sofá cama Atenas
+naranja<00:09:09.959><c> y</c><00:09:10.320><c> podemos</c><00:09:10.720><c> ver</c><00:09:11.120><c> que</c><00:09:11.320><c> en</c><00:09:11.440><c> la</c><00:09:11.640><c> lista</c><00:09:11.959><c> de</c>
+
+00:09:12.190 --> 00:09:12.200 align:start position:0%
+naranja y podemos ver que en la lista de
+ 
+
+00:09:12.200 --> 00:09:16.430 align:start position:0%
+naranja y podemos ver que en la lista de
+precios<00:09:12.839><c> promoción</c><00:09:13.519><c> junio</c><00:09:14.399><c> 2016</c><00:09:15.399><c> asignado</c><00:09:16.200><c> el</c>
+
+00:09:16.430 --> 00:09:16.440 align:start position:0%
+precios promoción junio 2016 asignado el
+ 
+
+00:09:16.440 --> 00:09:19.269 align:start position:0%
+precios promoción junio 2016 asignado el
+método<00:09:16.920><c> de</c><00:09:17.079><c> cálculo</c><00:09:17.760><c> promociones</c><00:09:18.720><c> y</c><00:09:18.920><c> como</c><00:09:19.120><c> la</c>
+
+00:09:19.269 --> 00:09:19.279 align:start position:0%
+método de cálculo promociones y como la
+ 
+
+00:09:19.279 --> 00:09:21.870 align:start position:0%
+método de cálculo promociones y como la
+actualización<00:09:20.200><c> del</c><00:09:20.480><c> precio</c><00:09:21.079><c> es</c><00:09:21.320><c> automática</c>
+
+00:09:21.870 --> 00:09:21.880 align:start position:0%
+actualización del precio es automática
+ 
+
+00:09:21.880 --> 00:09:24.630 align:start position:0%
+actualización del precio es automática
+en<00:09:22.200><c> bloque</c><00:09:22.800><c> el</c><00:09:22.959><c> sistema</c><00:09:23.560><c> no</c><00:09:23.760><c> asigna</c><00:09:24.240><c> el</c><00:09:24.399><c> valor</c>
+
+00:09:24.630 --> 00:09:24.640 align:start position:0%
+en bloque el sistema no asigna el valor
+ 
+
+00:09:24.640 --> 00:09:27.350 align:start position:0%
+en bloque el sistema no asigna el valor
+de<00:09:24.800><c> venta</c><00:09:25.440><c> recordemos</c><00:09:26.160><c> que</c><00:09:26.279><c> debemos</c><00:09:26.720><c> realizar</c>
+
+00:09:27.350 --> 00:09:27.360 align:start position:0%
+de venta recordemos que debemos realizar
+ 
+
+00:09:27.360 --> 00:09:31.750 align:start position:0%
+de venta recordemos que debemos realizar
+la<00:09:27.560><c> actualización</c><00:09:28.560><c> de</c><00:09:28.680><c> la</c><00:09:28.880><c> lista</c><00:09:29.440><c> de</c>
+
+00:09:31.750 --> 00:09:31.760 align:start position:0%
+ 
+ 
+
+00:09:31.760 --> 00:09:34.470 align:start position:0%
+ 
+precios<00:09:32.760><c> veamos</c><00:09:33.200><c> ahora</c><00:09:33.519><c> el</c><00:09:33.720><c> producto</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+precios veamos ahora el producto
+ 
+
+00:09:34.480 --> 00:09:36.350 align:start position:0%
+precios veamos ahora el producto
+escritorio
+
+00:09:36.350 --> 00:09:36.360 align:start position:0%
+escritorio
+ 
+
+00:09:36.360 --> 00:09:38.910 align:start position:0%
+escritorio
+extensible<00:09:37.360><c> para</c><00:09:37.560><c> el</c><00:09:37.720><c> cual</c><00:09:38.160><c> también</c><00:09:38.399><c> se</c><00:09:38.720><c> ha</c>
+
+00:09:38.910 --> 00:09:38.920 align:start position:0%
+extensible para el cual también se ha
+ 
+
+00:09:38.920 --> 00:09:41.829 align:start position:0%
+extensible para el cual también se ha
+asignado<00:09:39.720><c> el</c><00:09:39.920><c> método</c><00:09:40.399><c> de</c><00:09:40.560><c> cálculo</c><00:09:41.399><c> para</c><00:09:41.640><c> la</c>
+
+00:09:41.829 --> 00:09:41.839 align:start position:0%
+asignado el método de cálculo para la
+ 
+
+00:09:41.839 --> 00:09:47.750 align:start position:0%
+asignado el método de cálculo para la
+lista<00:09:42.120><c> de</c><00:09:42.360><c> precios</c><00:09:43.120><c> promoción</c><00:09:43.760><c> junio</c>
+
+00:09:47.750 --> 00:09:47.760 align:start position:0%
+ 
+ 
+
+00:09:47.760 --> 00:09:50.430 align:start position:0%
+ 
+2016<00:09:48.760><c> ya</c><00:09:49.000><c> vimos</c><00:09:49.519><c> Cómo</c><00:09:49.800><c> realizar</c><00:09:50.200><c> la</c>
+
+00:09:50.430 --> 00:09:50.440 align:start position:0%
+2016 ya vimos Cómo realizar la
+ 
+
+00:09:50.440 --> 00:09:52.150 align:start position:0%
+2016 ya vimos Cómo realizar la
+asignación<00:09:50.880><c> en</c><00:09:51.240><c> bloque</c><00:09:51.560><c> de</c><00:09:51.720><c> listas</c><00:09:52.000><c> de</c>
+
+00:09:52.150 --> 00:09:52.160 align:start position:0%
+asignación en bloque de listas de
+ 
+
+00:09:52.160 --> 00:09:54.110 align:start position:0%
+asignación en bloque de listas de
+precios<00:09:52.560><c> y</c><00:09:52.800><c> métodos</c><00:09:53.279><c> de</c><00:09:53.440><c> cálculo</c><00:09:53.839><c> a</c><00:09:54.000><c> los</c>
+
+00:09:54.110 --> 00:09:54.120 align:start position:0%
+precios y métodos de cálculo a los
+ 
+
+00:09:54.120 --> 00:09:56.550 align:start position:0%
+precios y métodos de cálculo a los
+elementos<00:09:54.519><c> de</c><00:09:54.720><c> inventario</c><00:09:55.519><c> veamos</c><00:09:55.920><c> ahora</c>
+
+00:09:56.550 --> 00:09:56.560 align:start position:0%
+elementos de inventario veamos ahora
+ 
+
+00:09:56.560 --> 00:09:58.750 align:start position:0%
+elementos de inventario veamos ahora
+Cómo<00:09:56.839><c> limpiar</c><00:09:57.160><c> en</c><00:09:57.440><c> bloque</c><00:09:57.959><c> una</c><00:09:58.279><c> lista</c><00:09:58.600><c> de</c>
+
+00:09:58.750 --> 00:09:58.760 align:start position:0%
+Cómo limpiar en bloque una lista de
+ 
+
+00:09:58.760 --> 00:10:02.269 align:start position:0%
+Cómo limpiar en bloque una lista de
+precios<00:09:59.519><c> a</c><00:09:59.680><c> los</c><00:09:59.839><c> elementos</c><00:10:00.279><c> de</c><00:10:00.959><c> inventario</c><00:10:01.959><c> en</c>
+
+00:10:02.269 --> 00:10:02.279 align:start position:0%
+precios a los elementos de inventario en
+ 
+
+00:10:02.279 --> 00:10:04.630 align:start position:0%
+precios a los elementos de inventario en
+ocasiones<00:10:02.880><c> se</c><00:10:03.040><c> hace</c><00:10:03.399><c> necesario</c><00:10:04.040><c> retirar</c><00:10:04.519><c> el</c>
+
+00:10:04.630 --> 00:10:04.640 align:start position:0%
+ocasiones se hace necesario retirar el
+ 
+
+00:10:04.640 --> 00:10:06.829 align:start position:0%
+ocasiones se hace necesario retirar el
+valor<00:10:04.920><c> de</c><00:10:05.079><c> venta</c><00:10:05.360><c> de</c><00:10:05.600><c> una</c><00:10:05.839><c> lista</c><00:10:06.120><c> de</c><00:10:06.279><c> precios</c>
+
+00:10:06.829 --> 00:10:06.839 align:start position:0%
+valor de venta de una lista de precios
+ 
+
+00:10:06.839 --> 00:10:09.069 align:start position:0%
+valor de venta de una lista de precios
+asignada<00:10:07.600><c> a</c><00:10:07.839><c> un</c><00:10:07.959><c> conjunto</c><00:10:08.360><c> de</c><00:10:08.519><c> elementos</c><00:10:08.920><c> de</c>
+
+00:10:09.069 --> 00:10:09.079 align:start position:0%
+asignada a un conjunto de elementos de
+ 
+
+00:10:09.079 --> 00:10:11.550 align:start position:0%
+asignada a un conjunto de elementos de
+inventario<00:10:09.839><c> y</c><00:10:10.040><c> realizarlo</c><00:10:10.560><c> uno</c><00:10:10.880><c> a</c><00:10:11.000><c> uno</c><00:10:11.279><c> puede</c>
+
+00:10:11.550 --> 00:10:11.560 align:start position:0%
+inventario y realizarlo uno a uno puede
+ 
+
+00:10:11.560 --> 00:10:13.389 align:start position:0%
+inventario y realizarlo uno a uno puede
+ser<00:10:11.680><c> un</c><00:10:11.800><c> poco</c><00:10:12.079><c> dispendioso</c><00:10:13.040><c> vamos</c><00:10:13.279><c> a</c>
+
+00:10:13.389 --> 00:10:13.399 align:start position:0%
+ser un poco dispendioso vamos a
+ 
+
+00:10:13.399 --> 00:10:15.470 align:start position:0%
+ser un poco dispendioso vamos a
+verificar<00:10:13.880><c> en</c><00:10:14.040><c> este</c><00:10:14.279><c> caso</c><00:10:14.640><c> las</c><00:10:14.880><c> listas</c><00:10:15.279><c> de</c>
+
+00:10:15.470 --> 00:10:15.480 align:start position:0%
+verificar en este caso las listas de
+ 
+
+00:10:15.480 --> 00:10:18.310 align:start position:0%
+verificar en este caso las listas de
+precios<00:10:15.920><c> que</c><00:10:16.040><c> tiene</c><00:10:16.360><c> asignadas</c><00:10:17.200><c> el</c><00:10:17.480><c> producto</c>
+
+00:10:18.310 --> 00:10:18.320 align:start position:0%
+precios que tiene asignadas el producto
+ 
+
+00:10:18.320 --> 00:10:21.389 align:start position:0%
+precios que tiene asignadas el producto
+sofá<00:10:18.760><c> cama</c><00:10:19.000><c> aruba</c>
+
+00:10:21.389 --> 00:10:21.399 align:start position:0%
+sofá cama aruba
+ 
+
+00:10:21.399 --> 00:10:24.030 align:start position:0%
+sofá cama aruba
+chocolate<00:10:22.399><c> podemos</c><00:10:22.760><c> ver</c><00:10:22.880><c> que</c><00:10:23.320><c> este</c><00:10:23.560><c> producto</c>
+
+00:10:24.030 --> 00:10:24.040 align:start position:0%
+chocolate podemos ver que este producto
+ 
+
+00:10:24.040 --> 00:10:27.310 align:start position:0%
+chocolate podemos ver que este producto
+tiene<00:10:24.519><c> asignadas</c><00:10:25.519><c> la</c><00:10:25.720><c> lista</c><00:10:26.079><c> de</c><00:10:26.240><c> precios</c><00:10:26.600><c> a</c>
+
+00:10:27.310 --> 00:10:27.320 align:start position:0%
+tiene asignadas la lista de precios a
+ 
+
+00:10:27.320 --> 00:10:29.550 align:start position:0%
+tiene asignadas la lista de precios a
+distribuidores<00:10:28.320><c> la</c><00:10:28.480><c> lista</c><00:10:28.720><c> de</c><00:10:28.880><c> precios</c>
+
+00:10:29.550 --> 00:10:29.560 align:start position:0%
+distribuidores la lista de precios
+ 
+
+00:10:29.560 --> 00:10:32.110 align:start position:0%
+distribuidores la lista de precios
+promoción<00:10:29.920><c> junio</c><00:10:30.320><c> 2016</c><00:10:31.320><c> y</c><00:10:31.519><c> la</c><00:10:31.680><c> lista</c><00:10:31.920><c> de</c>
+
+00:10:32.110 --> 00:10:32.120 align:start position:0%
+promoción junio 2016 y la lista de
+ 
+
+00:10:32.120 --> 00:10:34.030 align:start position:0%
+promoción junio 2016 y la lista de
+precio
+
+00:10:34.030 --> 00:10:34.040 align:start position:0%
+precio
+ 
+
+00:10:34.040 --> 00:10:40.230 align:start position:0%
+precio
+5<00:10:35.040><c> vamos</c><00:10:35.399><c> ahora</c><00:10:36.000><c> al</c><00:10:36.440><c> producto</c><00:10:37.440><c> puff</c><00:10:38.000><c> Ontario</c>
+
+00:10:40.230 --> 00:10:40.240 align:start position:0%
+5 vamos ahora al producto puff Ontario
+ 
+
+00:10:40.240 --> 00:10:42.629 align:start position:0%
+5 vamos ahora al producto puff Ontario
+patchwork<00:10:41.240><c> podemos</c><00:10:41.680><c> ver</c><00:10:41.839><c> que</c><00:10:42.040><c> al</c><00:10:42.200><c> igual</c><00:10:42.480><c> que</c>
+
+00:10:42.629 --> 00:10:42.639 align:start position:0%
+patchwork podemos ver que al igual que
+ 
+
+00:10:42.639 --> 00:10:44.910 align:start position:0%
+patchwork podemos ver que al igual que
+el<00:10:42.800><c> producto</c><00:10:43.240><c> sofakama</c><00:10:44.000><c> arua</c><00:10:44.639><c> tiene</c>
+
+00:10:44.910 --> 00:10:44.920 align:start position:0%
+el producto sofakama arua tiene
+ 
+
+00:10:44.920 --> 00:10:47.069 align:start position:0%
+el producto sofakama arua tiene
+asignadas<00:10:45.560><c> las</c><00:10:45.760><c> listas</c><00:10:46.079><c> de</c><00:10:46.240><c> precios</c>
+
+00:10:47.069 --> 00:10:47.079 align:start position:0%
+asignadas las listas de precios
+ 
+
+00:10:47.079 --> 00:10:50.509 align:start position:0%
+asignadas las listas de precios
+distribuidores<00:10:48.079><c> promoción</c><00:10:48.600><c> junio</c><00:10:49.160><c> 2016</c><00:10:50.160><c> y</c><00:10:50.360><c> la</c>
+
+00:10:50.509 --> 00:10:50.519 align:start position:0%
+distribuidores promoción junio 2016 y la
+ 
+
+00:10:50.519 --> 00:10:53.230 align:start position:0%
+distribuidores promoción junio 2016 y la
+lista<00:10:50.760><c> de</c><00:10:51.000><c> precio</c>
+
+00:10:53.230 --> 00:10:53.240 align:start position:0%
+lista de precio
+ 
+
+00:10:53.240 --> 00:10:56.069 align:start position:0%
+lista de precio
+5<00:10:54.240><c> vamos</c><00:10:54.639><c> entonces</c><00:10:55.040><c> a</c><00:10:55.200><c> limpiar</c><00:10:55.560><c> de</c><00:10:55.839><c> los</c>
+
+00:10:56.069 --> 00:10:56.079 align:start position:0%
+5 vamos entonces a limpiar de los
+ 
+
+00:10:56.079 --> 00:10:58.870 align:start position:0%
+5 vamos entonces a limpiar de los
+productos<00:10:57.079><c> los</c><00:10:57.360><c> precios</c><00:10:57.800><c> registrados</c><00:10:58.519><c> en</c><00:10:58.680><c> la</c>
+
+00:10:58.870 --> 00:10:58.880 align:start position:0%
+productos los precios registrados en la
+ 
+
+00:10:58.880 --> 00:11:01.629 align:start position:0%
+productos los precios registrados en la
+lista<00:10:59.480><c> de</c><00:10:59.560><c> precio</c><00:10:59.839><c> cco</c><00:11:00.480><c> para</c><00:11:00.760><c> ello</c><00:11:01.120><c> debemos</c>
+
+00:11:01.629 --> 00:11:01.639 align:start position:0%
+lista de precio cco para ello debemos
+ 
+
+00:11:01.639 --> 00:11:03.790 align:start position:0%
+lista de precio cco para ello debemos
+estar<00:11:01.920><c> ubicados</c><00:11:02.720><c> en</c><00:11:02.839><c> el</c><00:11:03.040><c> catálogo</c><00:11:03.600><c> de</c>
+
+00:11:03.790 --> 00:11:03.800 align:start position:0%
+estar ubicados en el catálogo de
+ 
+
+00:11:03.800 --> 00:11:06.550 align:start position:0%
+estar ubicados en el catálogo de
+elementos<00:11:04.279><c> de</c><00:11:04.480><c> inventario</c><00:11:05.360><c> y</c><00:11:05.519><c> en</c><00:11:05.680><c> la</c><00:11:05.959><c> cinta</c><00:11:06.360><c> de</c>
+
+00:11:06.550 --> 00:11:06.560 align:start position:0%
+elementos de inventario y en la cinta de
+ 
+
+00:11:06.560 --> 00:11:10.310 align:start position:0%
+elementos de inventario y en la cinta de
+opciones<00:11:07.440><c> en</c><00:11:07.680><c> el</c><00:11:07.880><c> campo</c><00:11:08.959><c> opciones</c>
+
+00:11:10.310 --> 00:11:10.320 align:start position:0%
+opciones en el campo opciones
+ 
+
+00:11:10.320 --> 00:11:12.269 align:start position:0%
+opciones en el campo opciones
+seleccionamos
+
+00:11:12.269 --> 00:11:12.279 align:start position:0%
+seleccionamos
+ 
+
+00:11:12.279 --> 00:11:15.470 align:start position:0%
+seleccionamos
+limpiar<00:11:13.279><c> esta</c><00:11:13.639><c> opción</c><00:11:14.079><c> aparte</c><00:11:14.480><c> de</c><00:11:14.760><c> eliminar</c>
+
+00:11:15.470 --> 00:11:15.480 align:start position:0%
+limpiar esta opción aparte de eliminar
+ 
+
+00:11:15.480 --> 00:11:18.269 align:start position:0%
+limpiar esta opción aparte de eliminar
+las<00:11:15.680><c> listas</c><00:11:16.040><c> de</c><00:11:16.240><c> precios</c><00:11:16.959><c> elimina</c><00:11:17.560><c> también</c><00:11:18.120><c> el</c>
+
+00:11:18.269 --> 00:11:18.279 align:start position:0%
+las listas de precios elimina también el
+ 
+
+00:11:18.279 --> 00:11:20.509 align:start position:0%
+las listas de precios elimina también el
+método<00:11:18.680><c> de</c><00:11:18.839><c> cálculo</c><00:11:19.320><c> asignado</c><00:11:19.800><c> a</c><00:11:19.920><c> la</c><00:11:20.079><c> lista</c><00:11:20.360><c> de</c>
+
+00:11:20.509 --> 00:11:20.519 align:start position:0%
+método de cálculo asignado a la lista de
+ 
+
+00:11:20.519 --> 00:11:23.030 align:start position:0%
+método de cálculo asignado a la lista de
+precios<00:11:21.240><c> así</c><00:11:21.600><c> el</c><00:11:21.720><c> sistema</c><00:11:22.079><c> nos</c><00:11:22.360><c> abre</c><00:11:22.600><c> el</c>
+
+00:11:23.030 --> 00:11:23.040 align:start position:0%
+precios así el sistema nos abre el
+ 
+
+00:11:23.040 --> 00:11:25.150 align:start position:0%
+precios así el sistema nos abre el
+asistente<00:11:23.880><c> para</c><00:11:24.040><c> eliminar</c><00:11:24.519><c> los</c><00:11:24.680><c> precios</c><00:11:25.040><c> a</c>
+
+00:11:25.150 --> 00:11:25.160 align:start position:0%
+asistente para eliminar los precios a
+ 
+
+00:11:25.160 --> 00:11:27.190 align:start position:0%
+asistente para eliminar los precios a
+los<00:11:25.360><c> productos</c><00:11:26.120><c> el</c><00:11:26.320><c> cual</c><00:11:26.560><c> nos</c><00:11:26.720><c> permitirá</c>
+
+00:11:27.190 --> 00:11:27.200 align:start position:0%
+los productos el cual nos permitirá
+ 
+
+00:11:27.200 --> 00:11:28.790 align:start position:0%
+los productos el cual nos permitirá
+ahorrar<00:11:27.639><c> el</c><00:11:27.760><c> precio</c><00:11:28.040><c> de</c><00:11:28.160><c> los</c><00:11:28.279><c> productos</c><00:11:28.680><c> de</c>
+
+00:11:28.790 --> 00:11:28.800 align:start position:0%
+ahorrar el precio de los productos de
+ 
+
+00:11:28.800 --> 00:11:31.069 align:start position:0%
+ahorrar el precio de los productos de
+una<00:11:29.320><c> lista</c><00:11:29.560><c> de</c><00:11:29.639><c> precios</c><00:11:29.959><c> determinada</c><00:11:30.839><c> como</c>
+
+00:11:31.069 --> 00:11:31.079 align:start position:0%
+una lista de precios determinada como
+ 
+
+00:11:31.079 --> 00:11:33.269 align:start position:0%
+una lista de precios determinada como
+podemos<00:11:31.480><c> ver</c><00:11:31.920><c> este</c><00:11:32.240><c> es</c><00:11:32.399><c> un</c><00:11:32.600><c> proceso</c><00:11:33.079><c> muy</c>
+
+00:11:33.269 --> 00:11:33.279 align:start position:0%
+podemos ver este es un proceso muy
+ 
+
+00:11:33.279 --> 00:11:35.910 align:start position:0%
+podemos ver este es un proceso muy
+sencillo<00:11:33.880><c> bastará</c><00:11:34.360><c> solo</c><00:11:34.680><c> con</c><00:11:34.839><c> seleccionar</c><00:11:35.720><c> la</c>
+
+00:11:35.910 --> 00:11:35.920 align:start position:0%
+sencillo bastará solo con seleccionar la
+ 
+
+00:11:35.920 --> 00:11:38.590 align:start position:0%
+sencillo bastará solo con seleccionar la
+lista<00:11:36.279><c> de</c><00:11:36.480><c> precios</c><00:11:36.880><c> que</c><00:11:37.279><c> deseamos</c><00:11:37.839><c> eliminar</c>
+
+00:11:38.590 --> 00:11:38.600 align:start position:0%
+lista de precios que deseamos eliminar
+ 
+
+00:11:38.600 --> 00:11:41.550 align:start position:0%
+lista de precios que deseamos eliminar
+para<00:11:38.839><c> ello</c><00:11:39.240><c> damos</c><00:11:39.680><c> clic</c><00:11:40.120><c> en</c><00:11:40.279><c> el</c><00:11:40.560><c> seleccionador</c>
+
+00:11:41.550 --> 00:11:41.560 align:start position:0%
+para ello damos clic en el seleccionador
+ 
+
+00:11:41.560 --> 00:11:43.870 align:start position:0%
+para ello damos clic en el seleccionador
+y<00:11:41.800><c> buscamos</c><00:11:42.279><c> en</c><00:11:42.440><c> este</c><00:11:42.720><c> caso</c><00:11:43.240><c> la</c><00:11:43.399><c> lista</c><00:11:43.680><c> de</c>
+
+00:11:43.870 --> 00:11:43.880 align:start position:0%
+y buscamos en este caso la lista de
+ 
+
+00:11:43.880 --> 00:11:46.030 align:start position:0%
+y buscamos en este caso la lista de
+precio<00:11:44.360><c> cinco</c><00:11:44.760><c> que</c><00:11:44.880><c> es</c><00:11:45.000><c> la</c><00:11:45.279><c> lista</c><00:11:45.560><c> de</c><00:11:45.680><c> precios</c>
+
+00:11:46.030 --> 00:11:46.040 align:start position:0%
+precio cinco que es la lista de precios
+ 
+
+00:11:46.040 --> 00:11:48.310 align:start position:0%
+precio cinco que es la lista de precios
+a<00:11:46.200><c> eliminar</c><00:11:46.920><c> debemos</c><00:11:47.360><c> tener</c><00:11:47.600><c> en</c><00:11:47.760><c> cuenta</c><00:11:48.160><c> que</c>
+
+00:11:48.310 --> 00:11:48.320 align:start position:0%
+a eliminar debemos tener en cuenta que
+ 
+
+00:11:48.320 --> 00:11:51.110 align:start position:0%
+a eliminar debemos tener en cuenta que
+el<00:11:48.480><c> sistema</c><00:11:48.959><c> elimina</c><00:11:49.639><c> la</c><00:11:49.839><c> lista</c><00:11:50.160><c> de</c><00:11:50.360><c> precios</c>
+
+00:11:51.110 --> 00:11:51.120 align:start position:0%
+el sistema elimina la lista de precios
+ 
+
+00:11:51.120 --> 00:11:53.350 align:start position:0%
+el sistema elimina la lista de precios
+sin<00:11:51.279><c> verificar</c><00:11:51.920><c> si</c><00:11:52.120><c> ha</c><00:11:52.279><c> sido</c><00:11:52.480><c> usada</c><00:11:52.800><c> en</c><00:11:52.920><c> otros</c>
+
+00:11:53.350 --> 00:11:53.360 align:start position:0%
+sin verificar si ha sido usada en otros
+ 
+
+00:11:53.360 --> 00:11:55.870 align:start position:0%
+sin verificar si ha sido usada en otros
+procesos<00:11:53.720><c> u</c><00:11:54.040><c> operaciones</c><00:11:54.880><c> Por</c><00:11:55.040><c> tal</c><00:11:55.279><c> motivo</c><00:11:55.720><c> se</c>
+
+00:11:55.870 --> 00:11:55.880 align:start position:0%
+procesos u operaciones Por tal motivo se
+ 
+
+00:11:55.880 --> 00:11:57.870 align:start position:0%
+procesos u operaciones Por tal motivo se
+debe<00:11:56.200><c> estar</c><00:11:56.440><c> muy</c><00:11:56.600><c> seguro</c><00:11:57.079><c> de</c><00:11:57.279><c> la</c><00:11:57.440><c> lista</c><00:11:57.720><c> de</c>
+
+00:11:57.870 --> 00:11:57.880 align:start position:0%
+debe estar muy seguro de la lista de
+ 
+
+00:11:57.880 --> 00:12:00.829 align:start position:0%
+debe estar muy seguro de la lista de
+precios<00:11:58.440><c> a</c><00:11:58.639><c> eliminar</c><00:11:59.560><c> De</c><00:11:59.720><c> igual</c><00:12:00.079><c> forma</c><00:12:00.519><c> este</c>
+
+00:12:00.829 --> 00:12:00.839 align:start position:0%
+precios a eliminar De igual forma este
+ 
+
+00:12:00.839 --> 00:12:03.310 align:start position:0%
+precios a eliminar De igual forma este
+asistente<00:12:01.560><c> también</c><00:12:01.959><c> nos</c><00:12:02.160><c> permite</c><00:12:02.839><c> aplicar</c>
+
+00:12:03.310 --> 00:12:03.320 align:start position:0%
+asistente también nos permite aplicar
+ 
+
+00:12:03.320 --> 00:12:05.870 align:start position:0%
+asistente también nos permite aplicar
+filtros<00:12:03.959><c> personalizados</c><00:12:04.959><c> para</c><00:12:05.160><c> eliminar</c><00:12:05.680><c> los</c>
+
+00:12:05.870 --> 00:12:05.880 align:start position:0%
+filtros personalizados para eliminar los
+ 
+
+00:12:05.880 --> 00:12:07.829 align:start position:0%
+filtros personalizados para eliminar los
+precios<00:12:06.279><c> de</c><00:12:06.399><c> una</c><00:12:06.600><c> lista</c><00:12:06.800><c> de</c><00:12:06.920><c> precios</c><00:12:07.519><c> a</c><00:12:07.680><c> los</c>
+
+00:12:07.829 --> 00:12:07.839 align:start position:0%
+precios de una lista de precios a los
+ 
+
+00:12:07.839 --> 00:12:10.389 align:start position:0%
+precios de una lista de precios a los
+elementos<00:12:08.279><c> de</c><00:12:08.480><c> inventario</c><00:12:09.079><c> que</c><00:12:09.399><c> requiramos</c>
+
+00:12:10.389 --> 00:12:10.399 align:start position:0%
+elementos de inventario que requiramos
+ 
+
+00:12:10.399 --> 00:12:13.269 align:start position:0%
+elementos de inventario que requiramos
+damos<00:12:10.880><c> clic</c><00:12:11.200><c> en</c><00:12:11.519><c> eliminar</c><00:12:12.399><c> así</c><00:12:12.720><c> el</c><00:12:12.880><c> sistema</c>
+
+00:12:13.269 --> 00:12:13.279 align:start position:0%
+damos clic en eliminar así el sistema
+ 
+
+00:12:13.279 --> 00:12:16.069 align:start position:0%
+damos clic en eliminar así el sistema
+nos<00:12:13.480><c> informa</c><00:12:14.040><c> que</c><00:12:14.199><c> la</c><00:12:14.399><c> eliminación</c><00:12:15.360><c> ha</c><00:12:15.560><c> sido</c>
+
+00:12:16.069 --> 00:12:16.079 align:start position:0%
+nos informa que la eliminación ha sido
+ 
+
+00:12:16.079 --> 00:12:19.389 align:start position:0%
+nos informa que la eliminación ha sido
+satisfactoria<00:12:17.079><c> y</c><00:12:17.199><c> que</c><00:12:17.320><c> se</c><00:12:17.519><c> han</c><00:12:17.720><c> evaluado</c><00:12:18.519><c> 42</c>
+
+00:12:19.389 --> 00:12:19.399 align:start position:0%
+satisfactoria y que se han evaluado 42
+ 
+
+00:12:19.399 --> 00:12:21.910 align:start position:0%
+satisfactoria y que se han evaluado 42
+registros<00:12:20.240><c> es</c><00:12:20.399><c> decir</c><00:12:20.680><c> que</c><00:12:20.800><c> se</c><00:12:21.120><c> ha</c><00:12:21.320><c> eliminado</c>
+
+00:12:21.910 --> 00:12:21.920 align:start position:0%
+registros es decir que se ha eliminado
+ 
+
+00:12:21.920 --> 00:12:25.150 align:start position:0%
+registros es decir que se ha eliminado
+los<00:12:22.079><c> precios</c><00:12:22.440><c> de</c><00:12:22.560><c> la</c><00:12:22.680><c> lista</c><00:12:22.920><c> de</c><00:12:23.199><c> precio</c><00:12:23.519><c> 5</c><00:12:24.120><c> a</c><00:12:24.440><c> 42</c>
+
+00:12:25.150 --> 00:12:25.160 align:start position:0%
+los precios de la lista de precio 5 a 42
+ 
+
+00:12:25.160 --> 00:12:27.230 align:start position:0%
+los precios de la lista de precio 5 a 42
+elementos<00:12:25.560><c> de</c><00:12:25.760><c> inventario</c><00:12:26.519><c> damos</c><00:12:26.839><c> clic</c><00:12:27.120><c> en</c>
+
+00:12:27.230 --> 00:12:27.240 align:start position:0%
+elementos de inventario damos clic en
+ 
+
+00:12:27.240 --> 00:12:31.069 align:start position:0%
+elementos de inventario damos clic en
+aceptar<00:12:28.000><c> y</c><00:12:28.199><c> luego</c><00:12:28.480><c> en</c><00:12:29.639><c> cerrar</c><00:12:30.639><c> Vamos</c><00:12:30.920><c> a</c>
+
+00:12:31.069 --> 00:12:31.079 align:start position:0%
+aceptar y luego en cerrar Vamos a
+ 
+
+00:12:31.079 --> 00:12:33.150 align:start position:0%
+aceptar y luego en cerrar Vamos a
+ingresar<00:12:31.519><c> nuevamente</c><00:12:31.959><c> al</c><00:12:32.160><c> producto</c><00:12:32.600><c> puff</c>
+
+00:12:33.150 --> 00:12:33.160 align:start position:0%
+ingresar nuevamente al producto puff
+ 
+
+00:12:33.160 --> 00:12:34.910 align:start position:0%
+ingresar nuevamente al producto puff
+Ontario
+
+00:12:34.910 --> 00:12:34.920 align:start position:0%
+Ontario
+ 
+
+00:12:34.920 --> 00:12:37.910 align:start position:0%
+Ontario
+patchwork<00:12:35.920><c> y</c><00:12:36.199><c> podemos</c><00:12:36.600><c> ver</c><00:12:37.000><c> que</c><00:12:37.360><c> ya</c><00:12:37.480><c> no</c><00:12:37.600><c> tiene</c>
+
+00:12:37.910 --> 00:12:37.920 align:start position:0%
+patchwork y podemos ver que ya no tiene
+ 
+
+00:12:37.920 --> 00:12:41.310 align:start position:0%
+patchwork y podemos ver que ya no tiene
+asignada<00:12:38.800><c> la</c><00:12:39.040><c> lista</c><00:12:39.320><c> de</c><00:12:39.600><c> precio</c>
+
+00:12:41.310 --> 00:12:41.320 align:start position:0%
+asignada la lista de precio
+ 
+
+00:12:41.320 --> 00:12:45.629 align:start position:0%
+asignada la lista de precio
+cco<00:12:42.320><c> ahora</c><00:12:42.760><c> ingresemos</c><00:12:43.240><c> al</c><00:12:44.160><c> producto</c><00:12:45.160><c> sofá</c>
+
+00:12:45.629 --> 00:12:45.639 align:start position:0%
+cco ahora ingresemos al producto sofá
+ 
+
+00:12:45.639 --> 00:12:48.150 align:start position:0%
+cco ahora ingresemos al producto sofá
+cama<00:12:45.839><c> aruba</c>
+
+00:12:48.150 --> 00:12:48.160 align:start position:0%
+cama aruba
+ 
+
+00:12:48.160 --> 00:12:50.629 align:start position:0%
+cama aruba
+chocolate<00:12:49.160><c> y</c><00:12:49.399><c> podemos</c><00:12:49.839><c> verificar</c><00:12:50.279><c> que</c><00:12:50.480><c> al</c>
+
+00:12:50.629 --> 00:12:50.639 align:start position:0%
+chocolate y podemos verificar que al
+ 
+
+00:12:50.639 --> 00:12:52.670 align:start position:0%
+chocolate y podemos verificar que al
+igual<00:12:50.880><c> que</c><00:12:51.000><c> el</c><00:12:51.240><c> puff</c><00:12:51.560><c> Ontario</c><00:12:51.920><c> patchwork</c>
+
+00:12:52.670 --> 00:12:52.680 align:start position:0%
+igual que el puff Ontario patchwork
+ 
+
+00:12:52.680 --> 00:12:55.110 align:start position:0%
+igual que el puff Ontario patchwork
+tampoco<00:12:53.240><c> tiene</c><00:12:53.519><c> asignada</c><00:12:54.320><c> la</c><00:12:54.519><c> lista</c><00:12:54.839><c> de</c>
+
+00:12:55.110 --> 00:12:55.120 align:start position:0%
+tampoco tiene asignada la lista de
+ 
+
+00:12:55.120 --> 00:12:57.350 align:start position:0%
+tampoco tiene asignada la lista de
+precio
+
+00:12:57.350 --> 00:12:57.360 align:start position:0%
+precio
+ 
+
+00:12:57.360 --> 00:13:00.750 align:start position:0%
+precio
+cco<00:12:58.360><c> recordemos</c><00:12:59.440><c> para</c><00:12:59.639><c> asignar</c><00:13:00.120><c> una</c><00:13:00.360><c> lista</c><00:13:00.600><c> de</c>
+
+00:13:00.750 --> 00:13:00.760 align:start position:0%
+cco recordemos para asignar una lista de
+ 
+
+00:13:00.760 --> 00:13:02.430 align:start position:0%
+cco recordemos para asignar una lista de
+precios<00:13:01.160><c> manual</c><00:13:01.519><c> a</c><00:13:01.680><c> un</c><00:13:01.839><c> elemento</c><00:13:02.199><c> de</c>
+
+00:13:02.430 --> 00:13:02.440 align:start position:0%
+precios manual a un elemento de
+ 
+
+00:13:02.440 --> 00:13:05.230 align:start position:0%
+precios manual a un elemento de
+inventario<00:13:03.320><c> deberemos</c><00:13:03.800><c> estar</c><00:13:04.240><c> ubicados</c><00:13:05.079><c> en</c>
+
+00:13:05.230 --> 00:13:05.240 align:start position:0%
+inventario deberemos estar ubicados en
+ 
+
+00:13:05.240 --> 00:13:07.629 align:start position:0%
+inventario deberemos estar ubicados en
+el<00:13:05.399><c> catálogo</c><00:13:05.920><c> de</c><00:13:06.079><c> elementos</c><00:13:06.519><c> de</c><00:13:06.680><c> inventario</c>
+
+00:13:07.629 --> 00:13:07.639 align:start position:0%
+el catálogo de elementos de inventario
+ 
+
+00:13:07.639 --> 00:13:10.069 align:start position:0%
+el catálogo de elementos de inventario
+nos<00:13:07.880><c> ubicamos</c><00:13:08.360><c> en</c><00:13:08.519><c> el</c><00:13:08.720><c> elemento</c><00:13:09.399><c> al</c><00:13:09.680><c> cual</c><00:13:09.920><c> se</c>
+
+00:13:10.069 --> 00:13:10.079 align:start position:0%
+nos ubicamos en el elemento al cual se
+ 
+
+00:13:10.079 --> 00:13:12.710 align:start position:0%
+nos ubicamos en el elemento al cual se
+asignará<00:13:10.680><c> la</c><00:13:10.880><c> lista</c><00:13:11.160><c> de</c><00:13:11.360><c> precios</c><00:13:12.040><c> y</c><00:13:12.240><c> damos</c>
+
+00:13:12.710 --> 00:13:12.720 align:start position:0%
+asignará la lista de precios y damos
+ 
+
+00:13:12.720 --> 00:13:15.910 align:start position:0%
+asignará la lista de precios y damos
+clic<00:13:13.240><c> en</c><00:13:13.639><c> modificar</c><00:13:14.639><c> nos</c><00:13:15.000><c> ubicamos</c><00:13:15.600><c> en</c><00:13:15.720><c> la</c>
+
+00:13:15.910 --> 00:13:15.920 align:start position:0%
+clic en modificar nos ubicamos en la
+ 
+
+00:13:15.920 --> 00:13:18.550 align:start position:0%
+clic en modificar nos ubicamos en la
+pestaña<00:13:16.720><c> listas</c><00:13:17.160><c> de</c><00:13:17.320><c> precios</c><00:13:18.160><c> y</c>
+
+00:13:18.550 --> 00:13:18.560 align:start position:0%
+pestaña listas de precios y
+ 
+
+00:13:18.560 --> 00:13:20.949 align:start position:0%
+pestaña listas de precios y
+seleccionamos<00:13:19.560><c> la</c><00:13:19.760><c> lista</c><00:13:20.120><c> de</c><00:13:20.320><c> precios</c><00:13:20.720><c> a</c>
+
+00:13:20.949 --> 00:13:20.959 align:start position:0%
+seleccionamos la lista de precios a
+ 
+
+00:13:20.959 --> 00:13:25.509 align:start position:0%
+seleccionamos la lista de precios a
+asignar<00:13:21.720><c> y</c><00:13:22.000><c> su</c><00:13:22.279><c> respectivo</c><00:13:23.240><c> método</c><00:13:23.720><c> de</c>
+
+00:13:25.509 --> 00:13:25.519 align:start position:0%
+asignar y su respectivo método de
+ 
+
+00:13:25.519 --> 00:13:28.230 align:start position:0%
+asignar y su respectivo método de
+cálculo<00:13:26.519><c> para</c><00:13:26.839><c> asignar</c><00:13:27.480><c> una</c><00:13:27.760><c> lista</c><00:13:28.079><c> de</c>
+
+00:13:28.230 --> 00:13:28.240 align:start position:0%
+cálculo para asignar una lista de
+ 
+
+00:13:28.240 --> 00:13:30.509 align:start position:0%
+cálculo para asignar una lista de
+precios<00:13:28.639><c> y</c><00:13:29.120><c> método</c><00:13:29.440><c> de</c><00:13:29.519><c> cálculo</c><00:13:29.839><c> en</c><00:13:30.040><c> bloque</c><00:13:30.360><c> a</c>
+
+00:13:30.509 --> 00:13:30.519 align:start position:0%
+precios y método de cálculo en bloque a
+ 
+
+00:13:30.519 --> 00:13:32.550 align:start position:0%
+precios y método de cálculo en bloque a
+un<00:13:30.600><c> conjunto</c><00:13:30.959><c> de</c><00:13:31.079><c> elementos</c><00:13:31.480><c> de</c><00:13:31.639><c> inventario</c>
+
+00:13:32.550 --> 00:13:32.560 align:start position:0%
+un conjunto de elementos de inventario
+ 
+
+00:13:32.560 --> 00:13:35.069 align:start position:0%
+un conjunto de elementos de inventario
+nos<00:13:32.760><c> ubicamos</c><00:13:33.480><c> en</c><00:13:33.639><c> la</c><00:13:33.920><c> cinta</c><00:13:34.279><c> de</c><00:13:34.399><c> opciones</c><00:13:34.839><c> Del</c>
+
+00:13:35.069 --> 00:13:35.079 align:start position:0%
+nos ubicamos en la cinta de opciones Del
+ 
+
+00:13:35.079 --> 00:13:38.350 align:start position:0%
+nos ubicamos en la cinta de opciones Del
+catálogo<00:13:35.880><c> y</c><00:13:36.079><c> seleccionamos</c><00:13:36.600><c> la</c><00:13:37.160><c> opción</c>
+
+00:13:38.350 --> 00:13:38.360 align:start position:0%
+catálogo y seleccionamos la opción
+ 
+
+00:13:38.360 --> 00:13:41.110 align:start position:0%
+catálogo y seleccionamos la opción
+asignar<00:13:39.360><c> y</c><00:13:39.639><c> si</c><00:13:39.839><c> por</c><00:13:40.000><c> el</c><00:13:40.320><c> contrario</c><00:13:40.839><c> lo</c><00:13:40.959><c> que</c>
+
+00:13:41.110 --> 00:13:41.120 align:start position:0%
+asignar y si por el contrario lo que
+ 
+
+00:13:41.120 --> 00:13:43.030 align:start position:0%
+asignar y si por el contrario lo que
+requerimos<00:13:41.639><c> es</c><00:13:41.839><c> eliminar</c><00:13:42.360><c> los</c><00:13:42.519><c> precios</c><00:13:42.880><c> de</c>
+
+00:13:43.030 --> 00:13:43.040 align:start position:0%
+requerimos es eliminar los precios de
+ 
+
+00:13:43.040 --> 00:13:45.150 align:start position:0%
+requerimos es eliminar los precios de
+una<00:13:43.240><c> lista</c><00:13:43.519><c> de</c><00:13:43.639><c> precios</c><00:13:44.199><c> a</c><00:13:44.360><c> un</c><00:13:44.480><c> conjunto</c><00:13:44.839><c> de</c>
+
+00:13:45.150 --> 00:13:45.160 align:start position:0%
+una lista de precios a un conjunto de
+ 
+
+00:13:45.160 --> 00:13:47.509 align:start position:0%
+una lista de precios a un conjunto de
+elementos<00:13:45.519><c> de</c><00:13:45.639><c> inventario</c><00:13:46.519><c> damos</c><00:13:46.920><c> clic</c><00:13:47.240><c> en</c><00:13:47.360><c> el</c>
+
+00:13:47.509 --> 00:13:47.519 align:start position:0%
+elementos de inventario damos clic en el
+ 
+
+00:13:47.519 --> 00:13:50.310 align:start position:0%
+elementos de inventario damos clic en el
+botón<00:13:48.199><c> limpiar</c><00:13:48.920><c> en</c><00:13:49.040><c> la</c><00:13:49.320><c> cinta</c><00:13:49.639><c> de</c><00:13:49.800><c> opciones</c>
+
+00:13:50.310 --> 00:13:50.320 align:start position:0%
+botón limpiar en la cinta de opciones
+ 
+
+00:13:50.320 --> 00:13:52.749 align:start position:0%
+botón limpiar en la cinta de opciones
+Del<00:13:50.639><c> catálogo</c><00:13:51.279><c> de</c><00:13:51.519><c> elementos</c><00:13:52.000><c> de</c>
+
+00:13:52.749 --> 00:13:52.759 align:start position:0%
+Del catálogo de elementos de
+ 
+
+00:13:52.759 --> 00:13:55.389 align:start position:0%
+Del catálogo de elementos de
+inventario<00:13:53.759><c> hemos</c><00:13:54.079><c> visto</c><00:13:54.399><c> en</c><00:13:54.519><c> este</c><00:13:54.800><c> video</c>
+
+00:13:55.389 --> 00:13:55.399 align:start position:0%
+inventario hemos visto en este video
+ 
+
+00:13:55.399 --> 00:13:57.470 align:start position:0%
+inventario hemos visto en este video
+Cómo<00:13:55.680><c> realizar</c><00:13:56.120><c> la</c><00:13:56.320><c> asignación</c><00:13:56.959><c> manual</c><00:13:57.279><c> de</c>
+
+00:13:57.470 --> 00:13:57.480 align:start position:0%
+Cómo realizar la asignación manual de
+ 
+
+00:13:57.480 --> 00:13:59.710 align:start position:0%
+Cómo realizar la asignación manual de
+listas<00:13:57.880><c> de</c><00:13:58.000><c> precios</c><00:13:58.399><c> a</c><00:13:58.720><c> los</c><00:13:59.199><c> elementos</c><00:13:59.560><c> de</c>
+
+00:13:59.710 --> 00:13:59.720 align:start position:0%
+listas de precios a los elementos de
+ 
+
+00:13:59.720 --> 00:14:02.389 align:start position:0%
+listas de precios a los elementos de
+inventario<00:14:00.560><c> vimos</c><00:14:00.959><c> también</c><00:14:01.720><c> Cómo</c><00:14:02.040><c> realizar</c>
+
+00:14:02.389 --> 00:14:02.399 align:start position:0%
+inventario vimos también Cómo realizar
+ 
+
+00:14:02.399 --> 00:14:04.790 align:start position:0%
+inventario vimos también Cómo realizar
+la<00:14:02.639><c> asignación</c><00:14:03.120><c> en</c><00:14:03.440><c> bloque</c><00:14:03.920><c> de</c><00:14:04.199><c> listas</c><00:14:04.600><c> de</c>
+
+00:14:04.790 --> 00:14:04.800 align:start position:0%
+la asignación en bloque de listas de
+ 
+
+00:14:04.800 --> 00:14:06.910 align:start position:0%
+la asignación en bloque de listas de
+precios<00:14:05.440><c> y</c><00:14:05.600><c> métodos</c><00:14:06.079><c> de</c><00:14:06.199><c> cálculo</c><00:14:06.639><c> a</c><00:14:06.759><c> los</c>
+
+00:14:06.910 --> 00:14:06.920 align:start position:0%
+precios y métodos de cálculo a los
+ 
+
+00:14:06.920 --> 00:14:09.150 align:start position:0%
+precios y métodos de cálculo a los
+elementos<00:14:07.399><c> de</c><00:14:07.560><c> inventario</c><00:14:08.360><c> Y</c><00:14:08.560><c> por</c><00:14:08.720><c> último</c>
+
+00:14:09.150 --> 00:14:09.160 align:start position:0%
+elementos de inventario Y por último
+ 
+
+00:14:09.160 --> 00:14:11.870 align:start position:0%
+elementos de inventario Y por último
+vimos<00:14:09.839><c> Cómo</c><00:14:10.120><c> limpiar</c><00:14:10.440><c> en</c><00:14:10.720><c> bloque</c><00:14:11.279><c> una</c><00:14:11.519><c> lista</c>
+
+00:14:11.870 --> 00:14:11.880 align:start position:0%
+vimos Cómo limpiar en bloque una lista
+ 
+
+00:14:11.880 --> 00:14:15.230 align:start position:0%
+vimos Cómo limpiar en bloque una lista
+de<00:14:12.040><c> precios</c><00:14:12.680><c> a</c><00:14:12.920><c> los</c><00:14:13.120><c> elementos</c><00:14:13.560><c> de</c><00:14:14.240><c> inventario</c>
+
+00:14:15.230 --> 00:14:15.240 align:start position:0%
+de precios a los elementos de inventario
+ 
+
+00:14:15.240 --> 00:14:17.670 align:start position:0%
+de precios a los elementos de inventario
+esto<00:14:15.480><c> es</c><00:14:15.600><c> todo</c><00:14:15.920><c> acerca</c><00:14:16.279><c> de</c><00:14:16.720><c> asignación</c><00:14:17.480><c> de</c>
+
+00:14:17.670 --> 00:14:17.680 align:start position:0%
+esto es todo acerca de asignación de
+ 
+
+00:14:17.680 --> 00:14:21.199 align:start position:0%
+esto es todo acerca de asignación de
+listas<00:14:18.079><c> de</c><00:14:18.240><c> precios</c>
+

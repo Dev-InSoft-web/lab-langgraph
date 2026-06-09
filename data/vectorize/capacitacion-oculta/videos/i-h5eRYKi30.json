@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:31:40.320Z",
+  "videoId": "i-h5eRYKi30",
+  "videoUrl": "https://www.youtube.com/watch?v=i-h5eRYKi30",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "i-h5eRYKi30",
+    "title": "Software contable ContaPyme - Concepto de servidor",
+    "fulltitle": "Software contable ContaPyme - Concepto de servidor",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme explica el concepto de servidor, algunos requerimientos y recomendaciones de nuestro sistema, el comportamiento de la conexión entre el cliente y el servidor e información de lo que nos quedaría instalado en el servidor.\nCP40-005-010-020B",
+    "duration": 230,
+    "duration_string": "3:50",
+    "upload_date": "20120316",
+    "timestamp": 1331905575,
+    "view_count": 1642,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/i-h5eRYKi30/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADWDXeGyw3GJZIXFEpY5nUs3n2XQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDOO9MxixQG_JEnYJIlw0nA37YIWQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcTQIojxKNXgbVRdwnCMYhhYfcfQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqn4IatVVBxS5T1uEnlr1V6V3jbA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/i-h5eRYKi30/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/i-h5eRYKi30/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=i-h5eRYKi30",
+    "is_live": false,
+    "was_live": false,
+    "chapters": [
+      {
+        "start_time": 0,
+        "title": "Concepto de servidor",
+        "end_time": 66
+      },
+      {
+        "start_time": 66,
+        "title": "Requerimientos técnicos",
+        "end_time": 181
+      },
+      {
+        "start_time": 181,
+        "title": "Instalación",
+        "end_time": 230
+      }
+    ],
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.43478260869565216,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5043478260869565,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5043478260869565,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 161.379,
+        "asr": 44100,
+        "filesize_approx": 4638577,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Concepto de servidor",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/i-h5eRYKi30/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/i-h5eRYKi30?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Concepto de servidor\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 39,
+    "transcriptChars": 2899,
+    "segments": [
+      {
+        "text": "concepto de servidor un servidor es un computador",
+        "startMs": 799,
+        "durationMs": 5590
+      },
+      {
+        "text": "que formando parte de una red provee servicios y recursos a otros",
+        "startMs": 6389,
+        "durationMs": 5240
+      },
+      {
+        "text": "computadores denominados clientes el servidor No necesariamente es una",
+        "startMs": 11629,
+        "durationMs": 5521
+      },
+      {
+        "text": "máquina de última tecnología puede ser un equipo de escritorio hasta un",
+        "startMs": 17150,
+        "durationMs": 4160
+      },
+      {
+        "text": "computador portátil todo depende del uso que se le vaya a dar el servidor Siempre",
+        "startMs": 21310,
+        "durationMs": 6440
+      },
+      {
+        "text": "será la parte central y a él llegarán las peticiones",
+        "startMs": 27750,
+        "durationMs": 6280
+      },
+      {
+        "text": "realizadas desde los equipos clientes por ejemplo tenemos un servidor",
+        "startMs": 34030,
+        "durationMs": 6560
+      },
+      {
+        "text": "que se encarga de prestar servicios y recursos a los equipos",
+        "startMs": 40590,
+        "durationMs": 6920
+      },
+      {
+        "text": "clientes estos clientes realizan peticiones al",
+        "startMs": 47520,
+        "durationMs": 4709
+      },
+      {
+        "text": "servidor el servidor procesa y prepara una respuesta la cual es retornada a",
+        "startMs": 52229,
+        "durationMs": 12560
+      },
+      {
+        "text": "servidor para que el servidor de contapyme funcione de manera efectiva",
+        "startMs": 69270,
+        "durationMs": 4720
+      },
+      {
+        "text": "debe tener los siguientes requerimientos el disco duro debe ser",
+        "startMs": 73990,
+        "durationMs": 5159
+      },
+      {
+        "text": "mínimo de 5400 revoluciones por minuto hacia delante se recomienda tener un",
+        "startMs": 79149,
+        "durationMs": 6081
+      },
+      {
+        "text": "disco duro de 7200 revoluciones por minuto o superior",
+        "startMs": 85230,
+        "durationMs": 5160
+      },
+      {
+        "text": "para el óptimo desempeño del servidor en capacidad el disco duro que se",
+        "startMs": 64799,
+        "durationMs": 30431
+      },
+      {
+        "text": "comercialice es suficiente memoria RAM de mínimo 1 gig",
+        "startMs": 95230,
+        "durationMs": 7519
+      },
+      {
+        "text": "Claro está que a mayor memoria RAM mayor va a ser el",
+        "startMs": 102749,
+        "durationMs": 4481
+      },
+      {
+        "text": "desempeño tarjeta de red 10 100 mbit por segundo se recomienda de mínimo una",
+        "startMs": 107230,
+        "durationMs": 8320
+      },
+      {
+        "text": "giga el sistema operativo debe ser Windows puede ser Windows XP Windows 7",
+        "startMs": 115550,
+        "durationMs": 8360
+      },
+      {
+        "text": "Windows Vista o superiores se recomienda utilizar Windows server bien sea 2003",
+        "startMs": 123910,
+        "durationMs": 6800
+      },
+      {
+        "text": "2008 superiores pues es el sistema operativo orientado a la administración",
+        "startMs": 130710,
+        "durationMs": 6560
+      },
+      {
+        "text": "de servidores se recomienda también tener",
+        "startMs": 137270,
+        "durationMs": 2920
+      },
+      {
+        "text": "una Ups conectada al servidor una Ups es una unidad de potencia",
+        "startMs": 140190,
+        "durationMs": 6360
+      },
+      {
+        "text": "ininterrumpida la cual permite seguir trabajando en el computador con energía",
+        "startMs": 146550,
+        "durationMs": 5080
+      },
+      {
+        "text": "independiente en caso de que haya una interrupción en la energía eléctrica",
+        "startMs": 151630,
+        "durationMs": 4160
+      },
+      {
+        "text": "normal la Ups permite apagar el equipo de forma normal en caso de un fallo en",
+        "startMs": 155790,
+        "durationMs": 7000
+      },
+      {
+        "text": "la energía con esto nos aseguramos que la base de datos se cierra normalmente y",
+        "startMs": 162790,
+        "durationMs": 5920
+      },
+      {
+        "text": "protegemos la integridad de la información Entre más tiempo duren las",
+        "startMs": 168710,
+        "durationMs": 5200
+      },
+      {
+        "text": "baterías de la UPS más autonomía tendrá el",
+        "startMs": 173910,
+        "durationMs": 4840
+      },
+      {
+        "text": "el servidor",
+        "startMs": 178750,
+        "durationMs": 2280
+      },
+      {
+        "text": "servidor con respecto a la instalación en el caso",
+        "startMs": 181030,
+        "durationMs": 3040
+      },
+      {
+        "text": "de nuestro sistema en el equipo servidor se instalará con pime",
+        "startMs": 184070,
+        "durationMs": 5640
+      },
+      {
+        "text": "server el cual instala el manejador de la base de datos firebit Allí se alojan",
+        "startMs": 189710,
+        "durationMs": 6439
+      },
+      {
+        "text": "las bases de datos se instalan las licencias se crean las áreas de trabajo",
+        "startMs": 196149,
+        "durationMs": 6201
+      },
+      {
+        "text": "se crean los usuarios y a cada uno de ellos se le asigna la licencia que va a",
+        "startMs": 202350,
+        "durationMs": 5439
+      },
+      {
+        "text": "utilizar para trabajar en servidor esta instalación prepara el",
+        "startMs": 207789,
+        "durationMs": 5041
+      },
+      {
+        "text": "equipo para que funcione como servidor de datos en los equipos clientes se",
+        "startMs": 212830,
+        "durationMs": 5759
+      },
+      {
+        "text": "instalará cont py cliente y desde ellos se establecerá la conexión con el",
+        "startMs": 218589,
+        "durationMs": 6640
+      },
+      {
+        "text": "servidor esto es todo sobre concepto de servidor",
+        "startMs": 225229,
+        "durationMs": 6611
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme explica el concepto de servidor, algunos requerimientos y recomendaciones de nuestro sistema, el comportamiento de la conexión entre el cliente y el servidor e información de lo que nos quedaría instalado en el servidor.\nCP40-005-010-020B\n\n## Transcripción\n\nconcepto de servidor un servidor es un computador\nque formando parte de una red provee servicios y recursos a otros\ncomputadores denominados clientes el servidor No necesariamente es una\nmáquina de última tecnología puede ser un equipo de escritorio hasta un\ncomputador portátil todo depende del uso que se le vaya a dar el servidor Siempre\nserá la parte central y a él llegarán las peticiones\nrealizadas desde los equipos clientes por ejemplo tenemos un servidor\nque se encarga de prestar servicios y recursos a los equipos\nclientes estos clientes realizan peticiones al\nservidor el servidor procesa y prepara una respuesta la cual es retornada a\nservidor para que el servidor de contapyme funcione de manera efectiva\ndebe tener los siguientes requerimientos el disco duro debe ser\nmínimo de 5400 revoluciones por minuto hacia delante se recomienda tener un\ndisco duro de 7200 revoluciones por minuto o superior\npara el óptimo desempeño del servidor en capacidad el disco duro que se\ncomercialice es suficiente memoria RAM de mínimo 1 gig\nClaro está que a mayor memoria RAM mayor va a ser el\ndesempeño tarjeta de red 10 100 mbit por segundo se recomienda de mínimo una\ngiga el sistema operativo debe ser Windows puede ser Windows XP Windows 7\nWindows Vista o superiores se recomienda utilizar Windows server bien sea 2003\n2008 superiores pues es el sistema operativo orientado a la administración\nde servidores se recomienda también tener\nuna Ups conectada al servidor una Ups es una unidad de potencia\nininterrumpida la cual permite seguir trabajando en el computador con energía\nindependiente en caso de que haya una interrupción en la energía eléctrica\nnormal la Ups permite apagar el equipo de forma normal en caso de un fallo en\nla energía con esto nos aseguramos que la base de datos se cierra normalmente y\nprotegemos la integridad de la información Entre más tiempo duren las\nbaterías de la UPS más autonomía tendrá el\nel servidor\nservidor con respecto a la instalación en el caso\nde nuestro sistema en el equipo servidor se instalará con pime\nserver el cual instala el manejador de la base de datos firebit Allí se alojan\nlas bases de datos se instalan las licencias se crean las áreas de trabajo\nse crean los usuarios y a cada uno de ellos se le asigna la licencia que va a\nutilizar para trabajar en servidor esta instalación prepara el\nequipo para que funcione como servidor de datos en los equipos clientes se\ninstalará cont py cliente y desde ellos se establecerá la conexión con el\nservidor esto es todo sobre concepto de servidor"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 161.379,
+    "asr": 44100,
+    "filesizeApprox": 4638577,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/i-h5eRYKi30.md",
+    "json": "videos/2012/i-h5eRYKi30.json",
+    "infoJson": "videos/2012/i-h5eRYKi30.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "i-h5eRYKi30",
+        "youtubeId": "i-h5eRYKi30",
+        "titulo": "i-h5eRYKi30",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1934 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:24:48.624Z",
+  "videoId": "0gL6B41DqYo",
+  "videoUrl": "https://www.youtube.com/watch?v=0gL6B41DqYo",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCuG_r9msvl3FUnPdKodk__w",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "0gL6B41DqYo",
+    "title": "FE Ingresos AD",
+    "fulltitle": "FE Ingresos AD",
+    "description": "Factura de venta electrónica por operación de ingresos (Módulo de automatización de documentos)",
+    "duration": 1523,
+    "duration_string": "25:23",
+    "upload_date": "20210703",
+    "timestamp": 1625325711,
+    "view_count": 135,
+    "like_count": 2,
+    "channel": "Marketing Insoft",
+    "channel_id": "UCuG_r9msvl3FUnPdKodk__w",
+    "channel_url": "https://www.youtube.com/channel/UCuG_r9msvl3FUnPdKodk__w",
+    "uploader": "Marketing Insoft",
+    "uploader_id": "@marketinginsoft9490",
+    "uploader_url": "https://www.youtube.com/@marketinginsoft9490",
+    "categories": [
+      "People & Blogs"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/0gL6B41DqYo/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLDzIzElCqZnBiSnpx6enGe2aSGy6A",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARgTIE8ofzAP&rs=AOn4CLDbkZLOkvlOxN_FrUpiR5p0NvabBg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLDcQlxecqmZ49W35VK8Sxlh8ghnEg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLC5Pkr3RjLhmj6RwzF1rs-J0Fh1fw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgTIE8ofzAP&rs=AOn4CLC7k6uZ_wffEwHnrPFMw4S0wJw66w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "34",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLAe9dRbWxrPi7gc63ommds7brvphA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "35",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgTIE8ofzAP&rs=AOn4CLB2uNp1AupSxOosYOJeoNc-kiJykQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "36",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIE8ofzAP&rs=AOn4CLBO9DdExJaoDrHG3PbD9l0DEQgitQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "37",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYEyBPKH8wDw==&rs=AOn4CLCd1SMVx6jo5z6bYnc0I7b5Dqx1vQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "38",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIE8ofzAP&rs=AOn4CLDY4IfFofSDasrLstoWUZhkrxi2ag",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "39",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYEyBPKH8wDw==&rs=AOn4CLB6OUNC-9C7tl0w3C84O5PkaYV0wQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "40",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLD4LN7birpXtUnJMC-V9sHTcXK1Rw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "41",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/hqdefault.webp",
+        "preference": -6,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/sddefault.jpg",
+        "preference": -5,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLDzIzElCqZnBiSnpx6enGe2aSGy6A",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "44",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/sddefault.webp",
+        "preference": -4,
+        "id": "45"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/hq720.jpg",
+        "preference": -3,
+        "id": "46"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/hq720.webp",
+        "preference": -2,
+        "id": "47"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/0gL6B41DqYo/maxresdefault.jpg",
+        "preference": -1,
+        "id": "48"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/0gL6B41DqYo/maxresdefault.webp",
+        "preference": 0,
+        "id": "49"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0gL6B41DqYo",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.06565988181221274,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10111621799080761,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10111621799080761,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 186.939,
+        "asr": 44100,
+        "filesize_approx": 35593863,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "FE Ingresos AD",
+    "author_name": "Marketing Insoft",
+    "author_url": "https://www.youtube.com/@marketinginsoft9490",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/0gL6B41DqYo/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/0gL6B41DqYo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"FE Ingresos AD\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 299,
+    "transcriptChars": 21635,
+    "segments": [
+      {
+        "text": "factura de venta electrónica por operación de ingresos del módulo de",
+        "startMs": 2100,
+        "durationMs": 8750
+      },
+      {
+        "text": "veremos cuál es la funcionalidad de esta operación",
+        "startMs": 10860,
+        "durationMs": 4500
+      },
+      {
+        "text": "la operación de ingresos es especial para empresas y personas naturales que",
+        "startMs": 15370,
+        "durationMs": 4520
+      },
+      {
+        "text": "deben cumplir rápidamente con la normativa de emitir factura electrónica",
+        "startMs": 19890,
+        "durationMs": 4920
+      },
+      {
+        "text": "de venta y algo importante no tienen la necesidad de controlar inventarios por",
+        "startMs": 24810,
+        "durationMs": 6900
+      },
+      {
+        "text": "lo tanto esta operación es útil para la emisión de facturas de venta",
+        "startMs": 31710,
+        "durationMs": 4530
+      },
+      {
+        "text": "electrónicas de servicios y conceptos teniendo esto presente miremos cuáles",
+        "startMs": 36240,
+        "durationMs": 8200
+      },
+      {
+        "text": "son los pasos que previamente se tuvieron que haber realizado para emitir",
+        "startMs": 44440,
+        "durationMs": 4080
+      },
+      {
+        "text": "la factura electrónica de venta primero se tuvo que adquirir un paquete",
+        "startMs": 48520,
+        "durationMs": 6050
+      },
+      {
+        "text": "de documentos electrónicos en conta pm es decir un tema comercial de",
+        "startMs": 54570,
+        "durationMs": 6000
+      },
+      {
+        "text": "adquisición de documentos también dentro del sistema se debe",
+        "startMs": 60570,
+        "durationMs": 6540
+      },
+      {
+        "text": "activar el manejo de facturación electrónica en la empresa",
+        "startMs": 67110,
+        "durationMs": 5910
+      },
+      {
+        "text": "luego se debe configurar los documentos de soporte con la información de la",
+        "startMs": 73020,
+        "durationMs": 10330
+      },
+      {
+        "text": "adicional dentro de los terceros clientes hay que configurar el correo",
+        "startMs": 83360,
+        "durationMs": 5270
+      },
+      {
+        "text": "electrónico en el cual van a recibir los documentos que se envíen",
+        "startMs": 88630,
+        "durationMs": 6560
+      },
+      {
+        "text": "y de forma opcional si se requiere personalizar la plantilla de la",
+        "startMs": 95190,
+        "durationMs": 5699
+      },
+      {
+        "text": "representación gráfica recordemos que con está pyme ya tiene unas",
+        "startMs": 100889,
+        "durationMs": 3930
+      },
+      {
+        "text": "representaciones gráficas sugeridas y éstas se pueden modificar si usted lo",
+        "startMs": 104819,
+        "durationMs": 6791
+      },
+      {
+        "text": "desea pero vamos a centrarnos en dos puntos en",
+        "startMs": 111610,
+        "durationMs": 2790
+      },
+      {
+        "text": "la activación de la empresa el manejo de facturación electrónica y también en la",
+        "startMs": 114400,
+        "durationMs": 4380
+      },
+      {
+        "text": "configuración de los documentos de soporte estos son los pasos previos y",
+        "startMs": 118780,
+        "durationMs": 4350
+      },
+      {
+        "text": "quiero hacer énfasis en ellos antes de emitir una factura electrónica de venta",
+        "startMs": 123130,
+        "durationMs": 4230
+      },
+      {
+        "text": "por el módulo de automatización de documentos",
+        "startMs": 127360,
+        "durationMs": 1890
+      },
+      {
+        "text": "documentos la operación de ingresos",
+        "startMs": 129250,
+        "durationMs": 5140
+      },
+      {
+        "text": "para activar en la empresa la facturación electrónica",
+        "startMs": 134400,
+        "durationMs": 3770
+      },
+      {
+        "text": "recordemos que damos clic derecho sobre la empresa y allí si ya se hizo el",
+        "startMs": 138170,
+        "durationMs": 5399
+      },
+      {
+        "text": "proceso comercial de adquisición de documentos electrónicos se va a activar",
+        "startMs": 143569,
+        "durationMs": 4651
+      },
+      {
+        "text": "la opción que dice activo de manejo de facturación electrónica",
+        "startMs": 148220,
+        "durationMs": 4820
+      },
+      {
+        "text": "y también la parte de activar el uso de plataforma de documentos para que queden",
+        "startMs": 153040,
+        "durationMs": 4470
+      },
+      {
+        "text": "publicados los documentos en nuestro sistema en la web",
+        "startMs": 157510,
+        "durationMs": 5250
+      },
+      {
+        "text": "una vez se activa dentro de la empresa del manejo de facturación electrónica un",
+        "startMs": 162760,
+        "durationMs": 5040
+      },
+      {
+        "text": "tema muy importante y es el que genera todo el registro de facturación",
+        "startMs": 167800,
+        "durationMs": 5340
+      },
+      {
+        "text": "electrónica dentro del sistema la configuración es de los documentos de",
+        "startMs": 173140,
+        "durationMs": 4950
+      },
+      {
+        "text": "soporte los documentos de soporte recordemos que allí vamos a configurar",
+        "startMs": 178090,
+        "durationMs": 4170
+      },
+      {
+        "text": "tanto la factura de venta electrónica como la nota crédito electrónica y la",
+        "startMs": 182260,
+        "durationMs": 5280
+      },
+      {
+        "text": "nota débito electrónica en esta parte se va a activar el manejo de facturación",
+        "startMs": 187540,
+        "durationMs": 5220
+      },
+      {
+        "text": "electrónica asociado a la empresa una vez ya sea activo se van a registrar las",
+        "startMs": 192760,
+        "durationMs": 8190
+      },
+      {
+        "text": "resoluciones o la resolución que se tenga dentro del sistema y que se tenga",
+        "startMs": 200950,
+        "durationMs": 5750
+      },
+      {
+        "text": "autorizada por la dian con su número de resolución consecutivo inicial",
+        "startMs": 206700,
+        "durationMs": 5860
+      },
+      {
+        "text": "consecutivo final la fecha de inicio y la fecha final esta información es clave",
+        "startMs": 212560,
+        "durationMs": 5730
+      },
+      {
+        "text": "puesto que es la que está autorizada por la entidad de control dian",
+        "startMs": 218290,
+        "durationMs": 5200
+      },
+      {
+        "text": "también se pueden configurar las acciones que son las acciones es la",
+        "startMs": 223490,
+        "durationMs": 6780
+      },
+      {
+        "text": "forma en que se va a aprobar el documento cuando se realice la",
+        "startMs": 230270,
+        "durationMs": 2610
+      },
+      {
+        "text": "transacción dentro de cuanta pyme si se hace la factura de venta con está pyme",
+        "startMs": 232880,
+        "durationMs": 5670
+      },
+      {
+        "text": "va a inmediatamente o enviar el documento electrónico al proveedor",
+        "startMs": 238550,
+        "durationMs": 4649
+      },
+      {
+        "text": "tecnológico oa hacer una pregunta previa si quiere que uno le envié o luego la va",
+        "startMs": 243199,
+        "durationMs": 6121
+      },
+      {
+        "text": "a enviar o simplemente deja pendiente para que se envíe posterior depende de",
+        "startMs": 249320,
+        "durationMs": 5760
+      },
+      {
+        "text": "la configuración que allí se indica en aprobación de documentos",
+        "startMs": 255080,
+        "durationMs": 5360
+      },
+      {
+        "text": "cuando se activa esa opción de facturación electrónica aparece una",
+        "startMs": 260450,
+        "durationMs": 3020
+      },
+      {
+        "text": "ella vamos a configurar el proveedor tecnológico eso depende de quién de",
+        "startMs": 268180,
+        "durationMs": 5100
+      },
+      {
+        "text": "usted de la adquisición o del proceso comercial que hizo con el soft con su",
+        "startMs": 273280,
+        "durationMs": 6120
+      },
+      {
+        "text": "debido proveedor tecnológico recordemos quien sostiene alianza con",
+        "startMs": 279400,
+        "durationMs": 3750
+      },
+      {
+        "text": "diferentes proveedores tecnológicos por lo tanto allí en proveedor le va a",
+        "startMs": 283150,
+        "durationMs": 3600
+      },
+      {
+        "text": "aparecer con el que usted haya realizado el proceso comercial",
+        "startMs": 286750,
+        "durationMs": 5340
+      },
+      {
+        "text": "adicional en la parte de la derecha vamos a indicar según el tipo de",
+        "startMs": 292090,
+        "durationMs": 3180
+      },
+      {
+        "text": "documento que se está configurando si es la factura electrónica la nota crédito o",
+        "startMs": 295270,
+        "durationMs": 4350
+      },
+      {
+        "text": "la nota débito una vez ya se tiene configurado esta",
+        "startMs": 299620,
+        "durationMs": 4860
+      },
+      {
+        "text": "facturas de venta miremos entonces dentro de contacto con estas",
+        "startMs": 310210,
+        "durationMs": 4560
+      },
+      {
+        "text": "configuraciones que ya están listas como emitimos la factura electrónica de venta",
+        "startMs": 314770,
+        "durationMs": 3540
+      },
+      {
+        "text": "por el módulo de automatización de documentos bien estando dentro del",
+        "startMs": 318310,
+        "durationMs": 3210
+      },
+      {
+        "text": "sistema con tap y me vamos a ingresar al manejador de operaciones dentro del",
+        "startMs": 321520,
+        "durationMs": 5220
+      },
+      {
+        "text": "manejador de operaciones vamos a desplegar la opción de más operaciones y",
+        "startMs": 326740,
+        "durationMs": 4500
+      },
+      {
+        "text": "dentro de la primera que dice ingresos y gastos vamos a entrar a la operación de",
+        "startMs": 263470,
+        "durationMs": 71370
+      },
+      {
+        "text": "ingresos esta es la operación que nos va a permitir facturar conceptos o",
+        "startMs": 334840,
+        "durationMs": 6100
+      },
+      {
+        "text": "servicios quien no controla inventarios pero si",
+        "startMs": 340940,
+        "durationMs": 2670
+      },
+      {
+        "text": "dentro de la 'operación encontramos un encabezado tal como todas las",
+        "startMs": 348110,
+        "durationMs": 5180
+      },
+      {
+        "text": "operaciones dentro del sistema con tapping algo muy importante y es que",
+        "startMs": 353290,
+        "durationMs": 4170
+      },
+      {
+        "text": "tiene el tipo de documento de soporte para que se le configure el documento",
+        "startMs": 357460,
+        "durationMs": 6240
+      },
+      {
+        "text": "que se le activó la configuración de facturación electrónica es clave",
+        "startMs": 363700,
+        "durationMs": 7110
+      },
+      {
+        "text": "utilizar aquí ese documento el que esté configurado como documento de factura",
+        "startMs": 370810,
+        "durationMs": 5640
+      },
+      {
+        "text": "electrónica de venta vamos a indicarle la fecha en que vamos",
+        "startMs": 343610,
+        "durationMs": 36770
+      },
+      {
+        "text": "a emitir la factura el detalle de lo que se estaba facturando del servicio y",
+        "startMs": 304480,
+        "durationMs": 82650
+      },
+      {
+        "text": "vamos a proceder a indicar el cliente recordemos que otro de los pasos era que",
+        "startMs": 387130,
+        "durationMs": 5040
+      },
+      {
+        "text": "los clientes debían tener un correo de facturación electrónica en este caso voy",
+        "startMs": 392170,
+        "durationMs": 6450
+      },
+      {
+        "text": "a escoger un tercero cualquiera ya miremos que dentro de la configuración",
+        "startMs": 398620,
+        "durationMs": 3630
+      },
+      {
+        "text": "se tiene un correo activado para el ejercicio tengo un correo de",
+        "startMs": 402250,
+        "durationMs": 6330
+      },
+      {
+        "text": "prueba para poder mirar en ese buzón cómo llegan los email de contar con el",
+        "startMs": 408580,
+        "durationMs": 6419
+      },
+      {
+        "text": "documento electrónico si quiere se puede indicar un vendedor del servicio que se",
+        "startMs": 414999,
+        "durationMs": 4530
+      },
+      {
+        "text": "está facturando y en especial en la parte de ingresos en el área de registro",
+        "startMs": 419529,
+        "durationMs": 6690
+      },
+      {
+        "text": "vamos a indicar cuál es el concepto o servicio que se va a facturar damos",
+        "startMs": 426219,
+        "durationMs": 5731
+      },
+      {
+        "text": "doble clic aquí nos aparece el plan de cuentas filtrado a nivel de la cuenta de",
+        "startMs": 431950,
+        "durationMs": 5700
+      },
+      {
+        "text": "ingresos y vamos a indicar por ejemplo que vamos a facturar una publicidad esta",
+        "startMs": 437650,
+        "durationMs": 4710
+      },
+      {
+        "text": "es una empresa que se dedica a hacer publicidad",
+        "startMs": 442360,
+        "durationMs": 4269
+      },
+      {
+        "text": "publicidad el concepto si queremos podemos indicar",
+        "startMs": 446629,
+        "durationMs": 2971
+      },
+      {
+        "text": "algo adicional por ejemplo publicidad redes sociales mes de abril el valor",
+        "startMs": 449600,
+        "durationMs": 5429
+      },
+      {
+        "text": "vamos a indicarle por ejemplo un millón de pesos se le va a facturar esa",
+        "startMs": 455029,
+        "durationMs": 5011
+      },
+      {
+        "text": "publicidad para este cliente pilar botero",
+        "startMs": 460040,
+        "durationMs": 3650
+      },
+      {
+        "text": "botero siguiente podemos indicar otra",
+        "startMs": 463690,
+        "durationMs": 3240
+      },
+      {
+        "text": "información adicional en observaciones podemos indicar las observaciones que",
+        "startMs": 466930,
+        "durationMs": 4680
+      },
+      {
+        "text": "queramos que fue la información cuál fue el servicio complementar los datos a",
+        "startMs": 471610,
+        "durationMs": 5340
+      },
+      {
+        "text": "nivel de tipo de operación y número de orden de compra podemos indicar por",
+        "startMs": 476950,
+        "durationMs": 4230
+      },
+      {
+        "text": "ejemplo si ésta es una factura estándar que es la normal y está ahí sería para",
+        "startMs": 481180,
+        "durationMs": 6270
+      },
+      {
+        "text": "la administración de impuestos a utilidades y sería también la otra",
+        "startMs": 487450,
+        "durationMs": 6930
+      },
+      {
+        "text": "opción de facturas de mandato en este caso la especial que vamos a manejar",
+        "startMs": 494380,
+        "durationMs": 4170
+      },
+      {
+        "text": "casi siempre es la estándar un número de orden de compra si por",
+        "startMs": 498550,
+        "durationMs": 5099
+      },
+      {
+        "text": "ejemplo el cliente me generó un número de solicitud a esto le puedo indicar y",
+        "startMs": 503649,
+        "durationMs": 6030
+      },
+      {
+        "text": "en la pestaña de archivos adjuntos aquí podemos indicar información adicional",
+        "startMs": 509679,
+        "durationMs": 7230
+      },
+      {
+        "text": "que queramos enviarle al cliente por ejemplo algún pdf algún archivo unas",
+        "startMs": 516909,
+        "durationMs": 5370
+      },
+      {
+        "text": "diapositivas algún formato en especial o alguna imagen información adicional a la",
+        "startMs": 522279,
+        "durationMs": 6030
+      },
+      {
+        "text": "factura que queremos adjuntarle dentro del envío en este momento pues vamos a",
+        "startMs": 528309,
+        "durationMs": 4981
+      },
+      {
+        "text": "dejarlo sin archivos adjuntos siguiente vamos a indicar en esta parte",
+        "startMs": 533290,
+        "durationMs": 6589
+      },
+      {
+        "text": "tal cual como como hacemos dentro de con está pyme el impuesto damos clic en la",
+        "startMs": 539879,
+        "durationMs": 4981
+      },
+      {
+        "text": "opción para cálculo automático de impuestos si todo está bien aparecen los",
+        "startMs": 544860,
+        "durationMs": 4200
+      },
+      {
+        "text": "impuestos asociados a esta transacción y en la forma de pago pues ya como el",
+        "startMs": 549060,
+        "durationMs": 4170
+      },
+      {
+        "text": "cliente nos vaya a pagar este dinero si la plata entró a la caja con nos va a",
+        "startMs": 553230,
+        "durationMs": 6029
+      },
+      {
+        "text": "generar una transferencia bancaria o de pronto nos va a generar una cuenta por",
+        "startMs": 559259,
+        "durationMs": 4711
+      },
+      {
+        "text": "cobrar en este caso digamos que nos pagó todo en efectivo",
+        "startMs": 563970,
+        "durationMs": 9109
+      },
+      {
+        "text": "al finalizar según la configuración del documento de soporte se le tiene",
+        "startMs": 573089,
+        "durationMs": 4910
+      },
+      {
+        "text": "configurado en este momento que antes de enviar pregunte si se desea autorizar o",
+        "startMs": 577999,
+        "durationMs": 4560
+      },
+      {
+        "text": "no el envío en este caso me está preguntando desea aprobar el documento",
+        "startMs": 582559,
+        "durationMs": 3781
+      },
+      {
+        "text": "para la ejecución de acciones automáticas si yo le digo que sí",
+        "startMs": 586340,
+        "durationMs": 3479
+      },
+      {
+        "text": "inmediatamente el sistema va a enviar esta información al proveedor",
+        "startMs": 589819,
+        "durationMs": 4380
+      },
+      {
+        "text": "tecnológico para que éste lo envíe a la dian valide y quede el documento como un",
+        "startMs": 594199,
+        "durationMs": 4230
+      },
+      {
+        "text": "documento electrónico si yo le digo que no es porque posteriormente le voy a",
+        "startMs": 598429,
+        "durationMs": 4380
+      },
+      {
+        "text": "decir al sistema que esta transacción que estoy haciendo ahí si la quiero",
+        "startMs": 602809,
+        "durationMs": 4591
+      },
+      {
+        "text": "enviar entonces le hago un envío manual en este caso voy a indicarle que si para",
+        "startMs": 607400,
+        "durationMs": 4710
+      },
+      {
+        "text": "que se despache inmediatamente y podamos continuar con el ejercicio",
+        "startMs": 612110,
+        "durationMs": 4790
+      },
+      {
+        "text": "se acaba de enviar el documento electrónico ya queda en unas acciones en",
+        "startMs": 616900,
+        "durationMs": 5100
+      },
+      {
+        "text": "color verde dice tres de tres quiere decir que el documento ya se publicó en",
+        "startMs": 622000,
+        "durationMs": 4050
+      },
+      {
+        "text": "la plataforma ya se generaron las acciones de envío del documento",
+        "startMs": 626050,
+        "durationMs": 3540
+      },
+      {
+        "text": "electrónico al proveedor tecnológico y este a la dian",
+        "startMs": 629590,
+        "durationMs": 4169
+      },
+      {
+        "text": "ya el cliente pilar botero que es a la que le facturamos también le tuvo que",
+        "startMs": 633759,
+        "durationMs": 4980
+      },
+      {
+        "text": "haber llegado un correo electrónico en este caso tengo abierto también una",
+        "startMs": 638739,
+        "durationMs": 4291
+      },
+      {
+        "text": "cuenta de gmail donde era el correo que tenía configurado para este tercero y",
+        "startMs": 643030,
+        "durationMs": 4109
+      },
+      {
+        "text": "verifiquemos si le llegó esta factura 7 10 009",
+        "startMs": 647139,
+        "durationMs": 4380
+      },
+      {
+        "text": "vamos a mirar que tengas el correo electrónico miremos que allí dentro del",
+        "startMs": 651519,
+        "durationMs": 5100
+      },
+      {
+        "text": "nos está indicando que tiene un nuevo correo electrónico o una factura",
+        "startMs": 661359,
+        "durationMs": 3330
+      },
+      {
+        "text": "electrónica de venta se te 10 009 la información del documento y algo muy",
+        "startMs": 664689,
+        "durationMs": 6480
+      },
+      {
+        "text": "especial está con el archivo adjunto este archivo adjunto vamos a descargarlo",
+        "startMs": 671169,
+        "durationMs": 6470
+      },
+      {
+        "text": "contiene la información tanto del pdf que es la representación gráfica como",
+        "startMs": 677639,
+        "durationMs": 6400
+      },
+      {
+        "text": "del archivo xml mirémoslo aquí está son los dos datos",
+        "startMs": 684039,
+        "durationMs": 4320
+      },
+      {
+        "text": "que le deben de llegar como mínimo por la resolución de facturación electrónica",
+        "startMs": 688359,
+        "durationMs": 4410
+      },
+      {
+        "text": "la normatividad a un cliente si miramos el pdf",
+        "startMs": 692769,
+        "durationMs": 4261
+      },
+      {
+        "text": "vamos a darle doble clic nos aparece la representación gráfica de con está pyme",
+        "startMs": 697030,
+        "durationMs": 5159
+      },
+      {
+        "text": "con todos los datos que corresponden a la información de la empresa que emite",
+        "startMs": 702189,
+        "durationMs": 5640
+      },
+      {
+        "text": "la factura electrónica con todos sus datos la información de la resolución y",
+        "startMs": 707829,
+        "durationMs": 5940
+      },
+      {
+        "text": "los rangos y la vigencia información del cliente con la descripción tanto de los",
+        "startMs": 713769,
+        "durationMs": 5271
+      },
+      {
+        "text": "servicios como de los impuestos que se están generando la información también",
+        "startMs": 719040,
+        "durationMs": 5469
+      },
+      {
+        "text": "de la responsabilidad y la clasificación",
+        "startMs": 724509,
+        "durationMs": 4011
+      },
+      {
+        "text": "tributaria de el cliente según lo que indica la normatividad esos requisitos",
+        "startMs": 728520,
+        "durationMs": 4560
+      },
+      {
+        "text": "para la representación gráfica y en la parte inferior vamos a encontrar tanto",
+        "startMs": 733080,
+        "durationMs": 6030
+      },
+      {
+        "text": "el código ocupé como el código qr recordemos que el código coupé es ese",
+        "startMs": 739110,
+        "durationMs": 4380
+      },
+      {
+        "text": "código único de factura electrónica donde nos indica de una forma encriptada",
+        "startMs": 743490,
+        "durationMs": 4770
+      },
+      {
+        "text": "la información de la factura y dentro del código qr si podemos tener un",
+        "startMs": 748260,
+        "durationMs": 5100
+      },
+      {
+        "text": "celular que nos permita leer esta imagen vamos a encontrar la información de",
+        "startMs": 753360,
+        "durationMs": 4380
+      },
+      {
+        "text": "dicha factura está con los datos de la emisión la fecha y la fecha también de",
+        "startMs": 757740,
+        "durationMs": 5310
+      },
+      {
+        "text": "validación de la dian y el proveedor tecnológico adicional de la información",
+        "startMs": 763050,
+        "durationMs": 3990
+      },
+      {
+        "text": "de la empresa o en este caso el software el sistema con está pyme que emitió la",
+        "startMs": 656619,
+        "durationMs": 116931
+      },
+      {
+        "text": "factura todos los requisitos contemplados según la normatividad de",
+        "startMs": 773550,
+        "durationMs": 4140
+      },
+      {
+        "text": "facturación electrónica si también vamos hacia lo que es el archivo xml",
+        "startMs": 777690,
+        "durationMs": 6030
+      },
+      {
+        "text": "encontrar un archivo que se llama el ataque' document que es la información",
+        "startMs": 788040,
+        "durationMs": 4680
+      },
+      {
+        "text": "que la habían respondió autorizo para ese documento electrónico esto ya es una",
+        "startMs": 792720,
+        "durationMs": 6270
+      },
+      {
+        "text": "estructura técnica donde ya tiene toda la información de validación de parte de",
+        "startMs": 798990,
+        "durationMs": 4199
+      },
+      {
+        "text": "la dian si nuevamente vamos al correo electrónico aquí encontramos una",
+        "startMs": 803189,
+        "durationMs": 5010
+      },
+      {
+        "text": "información donde nos dice quiere ver el documento a pesar de que el cliente lo",
+        "startMs": 808199,
+        "durationMs": 4771
+      },
+      {
+        "text": "pudo haber descargado directamente desde ese archivo puntos y dentro de este",
+        "startMs": 812970,
+        "durationMs": 4080
+      },
+      {
+        "text": "archivo adjunto hay una opción de poder ver el documento en la plataforma dentro",
+        "startMs": 817050,
+        "durationMs": 4469
+      },
+      {
+        "text": "de con está pyme esta plataforma permite que el documento pueda ser aceptado o",
+        "startMs": 821519,
+        "durationMs": 5641
+      },
+      {
+        "text": "rechazado es así como podemos ver el documento la factura electrónica de",
+        "startMs": 827160,
+        "durationMs": 5580
+      },
+      {
+        "text": "venta ya no en un formato pdf sino en un formato que es html también cumple con",
+        "startMs": 832740,
+        "durationMs": 5880
+      },
+      {
+        "text": "todo el detalle técnico por parte de la normatividad de la dian para una",
+        "startMs": 838620,
+        "durationMs": 3300
+      },
+      {
+        "text": "representación gráfica con su información del cvf el código qr la",
+        "startMs": 841920,
+        "durationMs": 4200
+      },
+      {
+        "text": "información de fecha y validación de la parte de la dian la resolución de esta",
+        "startMs": 846120,
+        "durationMs": 5069
+      },
+      {
+        "text": "factura y todos los datos tanto del emisor como del receptor en la parte",
+        "startMs": 851189,
+        "durationMs": 4500
+      },
+      {
+        "text": "superior encontramos opciones para aprobar",
+        "startMs": 855689,
+        "durationMs": 2381
+      },
+      {
+        "text": "aprobar o rechazar el documento eso lo hace",
+        "startMs": 858070,
+        "durationMs": 2700
+      },
+      {
+        "text": "directamente el cliente para que después nosotros dentro de con está pyme podamos",
+        "startMs": 860770,
+        "durationMs": 3810
+      },
+      {
+        "text": "saber si el cliente aceptó o rechazó esa factura en este caso por ejemplo le voy",
+        "startMs": 864580,
+        "durationMs": 5130
+      },
+      {
+        "text": "a indicar aprobar el documento y le voy a indicar un mensaje y aprobar ya en la",
+        "startMs": 869710,
+        "durationMs": 6720
+      },
+      {
+        "text": "parte superior nos indica que ese documento fue aprobado eso lo está",
+        "startMs": 876430,
+        "durationMs": 3420
+      },
+      {
+        "text": "viendo directamente el cliente aquí estoy actuando como si fuera la persona",
+        "startMs": 879850,
+        "durationMs": 3690
+      },
+      {
+        "text": "pilar botero que es el que le metió la factura de venta ahora si yo lo miro",
+        "startMs": 883540,
+        "durationMs": 5220
+      },
+      {
+        "text": "desde el punto de vista de quién soy el emisor puedo entrar a con está pyme",
+        "startMs": 888760,
+        "durationMs": 5160
+      },
+      {
+        "text": "vamos a entrar nuevamente y dentro del manejador de operaciones está la factura",
+        "startMs": 783720,
+        "durationMs": 114970
+      },
+      {
+        "text": "que acabo de emitir si yo le digo en cualquier momento actualizar el estado y",
+        "startMs": 898690,
+        "durationMs": 4560
+      },
+      {
+        "text": "ese cliente ya me aceptó o rechazó el documento",
+        "startMs": 903250,
+        "durationMs": 4350
+      },
+      {
+        "text": "documento ese estado se va a ver reflejado dentro",
+        "startMs": 907600,
+        "durationMs": 2190
+      },
+      {
+        "text": "de con está pyme vamos a decirle actualizar estado para este documento",
+        "startMs": 909790,
+        "durationMs": 6110
+      },
+      {
+        "text": "seleccionado y miremos que en la parte de las",
+        "startMs": 915900,
+        "durationMs": 2760
+      },
+      {
+        "text": "columnas de la derecha hay una manito que me indica ok qué quiere decir esa",
+        "startMs": 918660,
+        "durationMs": 4860
+      },
+      {
+        "text": "mano que el tercero en este caso pilar botero aprobó dicha factura podemos",
+        "startMs": 923520,
+        "durationMs": 7380
+      },
+      {
+        "text": "mirar a nivel del inspector de datos en la parte de documento",
+        "startMs": 930900,
+        "durationMs": 5030
+      },
+      {
+        "text": "bitácora la información de la bitácora o del registro que este cliente nos indicó",
+        "startMs": 935930,
+        "durationMs": 8050
+      },
+      {
+        "text": "está correcto el mensaje fue que nos indicó y aquí podemos ver la información",
+        "startMs": 943980,
+        "durationMs": 4860
+      },
+      {
+        "text": "también esa trazabilidad de el documento cuando se publicó el documento cuando",
+        "startMs": 948840,
+        "durationMs": 5310
+      },
+      {
+        "text": "fue leído y los diferentes comentarios que no pueda indicar al respecto en este",
+        "startMs": 954150,
+        "durationMs": 4950
+      },
+      {
+        "text": "caso hemos emitido una factura de venta electrónica por un concepto un servicio",
+        "startMs": 959100,
+        "durationMs": 5640
+      },
+      {
+        "text": "también dentro de con está pyme puedo visualizar pdf y dentro del sistema",
+        "startMs": 964740,
+        "durationMs": 6269
+      },
+      {
+        "text": "puedo ver nuevamente la información de la factura que al cliente le llegó es",
+        "startMs": 971009,
+        "durationMs": 4380
+      },
+      {
+        "text": "así como este documento adicional de que se convirtió en un documento electrónico",
+        "startMs": 975389,
+        "durationMs": 4831
+      },
+      {
+        "text": "ya también me está afectando registros dentro de la contabilidad si es que",
+        "startMs": 980220,
+        "durationMs": 5789
+      },
+      {
+        "text": "tengo el sistema de automatización de documentos más el módulo de contabilidad",
+        "startMs": 986009,
+        "durationMs": 4051
+      },
+      {
+        "text": "de conta pib si nada más tengo la parte para facturación electrónica el módulo",
+        "startMs": 990060,
+        "durationMs": 4500
+      },
+      {
+        "text": "de automatización de documentos pues esta parte contable no la voy a ver",
+        "startMs": 994560,
+        "durationMs": 4590
+      },
+      {
+        "text": "reflejada pero en cualquier momento cuando ya quiera tener contado",
+        "startMs": 999150,
+        "durationMs": 3330
+      },
+      {
+        "text": "adjunta dentro de conta pyme al adicionar dicho módulo vamos a ver la",
+        "startMs": 1002480,
+        "durationMs": 5010
+      },
+      {
+        "text": "integración de facturación electrónica con la parte contable y poder ver",
+        "startMs": 1007490,
+        "durationMs": 3750
+      },
+      {
+        "text": "estados financieros y todo el tema tributario también nuevamente vamos a",
+        "startMs": 1011240,
+        "durationMs": 4620
+      },
+      {
+        "text": "hacer otra factura de venta electrónica también por el módulo de automatización",
+        "startMs": 1015860,
+        "durationMs": 4290
+      },
+      {
+        "text": "de documentos pero en este caso vamos a facturar diferentes conceptos tenemos el",
+        "startMs": 1020150,
+        "durationMs": 7919
+      },
+      {
+        "text": "documento de soporte que es el que está configurado como documento electrónico",
+        "startMs": 1028069,
+        "durationMs": 3181
+      },
+      {
+        "text": "la fecha vamos a seleccionar un cliente cualquiera por ejemplo ya no voy a",
+        "startMs": 1031250,
+        "durationMs": 5309
+      },
+      {
+        "text": "escoger una persona natural puedo indicar un tercero que sea persona",
+        "startMs": 1036559,
+        "durationMs": 5520
+      },
+      {
+        "text": "jurídica vamos a facturar diferentes conceptos por ejemplo nuevamente vamos a",
+        "startMs": 1042079,
+        "durationMs": 5011
+      },
+      {
+        "text": "indicarle un servicio de publicidad pero también voy a cargar en otro renglón una",
+        "startMs": 1047090,
+        "durationMs": 5490
+      },
+      {
+        "text": "asesoría por ejemplo técnica puedo indicar los valores la publicidad",
+        "startMs": 1052580,
+        "durationMs": 6559
+      },
+      {
+        "text": "fueron 350 mil pesos y la asistencia técnica vamos a decir",
+        "startMs": 1059139,
+        "durationMs": 6191
+      },
+      {
+        "text": "que fueron 850 mil pesos puedo indicar también pues un nombre",
+        "startMs": 1065330,
+        "durationMs": 6850
+      },
+      {
+        "text": "algo concepto adicional tengo diferentes servicios dentro de la factura indicamos",
+        "startMs": 1072180,
+        "durationMs": 7490
+      },
+      {
+        "text": "siguiente vamos a registrar una orden de compra",
+        "startMs": 1079670,
+        "durationMs": 3390
+      },
+      {
+        "text": "que nos haya enviado este cliente en archivos adjuntos vamos a seleccionar",
+        "startMs": 1083060,
+        "durationMs": 6570
+      },
+      {
+        "text": "diferentes archivos puedo enviar una información basta con entrar a la",
+        "startMs": 1089630,
+        "durationMs": 4440
+      },
+      {
+        "text": "pestaña archivos adjuntos en esta opción que dice más vamos a seleccionar los",
+        "startMs": 1094070,
+        "durationMs": 5550
+      },
+      {
+        "text": "archivos que se tengan y voy a cargar un archivo pdf y una imagen lo voy a",
+        "startMs": 1099620,
+        "durationMs": 6310
+      },
+      {
+        "text": "decir abrir hay que tener en cuenta que la normatividad respecto a facturación",
+        "startMs": 1105930,
+        "durationMs": 4859
+      },
+      {
+        "text": "electrónica y en especial el envío de archivos adjuntos indica la dian que no",
+        "startMs": 1110789,
+        "durationMs": 5041
+      },
+      {
+        "text": "debe empezar más de 2 megas las observaciones que vamos a indicar al",
+        "startMs": 1115830,
+        "durationMs": 5640
+      },
+      {
+        "text": "respecto la podemos dar vamos a decirle siguiente si vamos a calcular otros",
+        "startMs": 1121470,
+        "durationMs": 4650
+      },
+      {
+        "text": "impuestos ya aquí aparece un iva y una retención y vamos a indicarle que esta",
+        "startMs": 1126120,
+        "durationMs": 5130
+      },
+      {
+        "text": "parte de pago la persona nos la va a quedar debiendo y vamos a indicarle que",
+        "startMs": 1131250,
+        "durationMs": 4890
+      },
+      {
+        "text": "se va a definir a dos cuotas vamos entonces a indicar periodicidad dos",
+        "startMs": 1136140,
+        "durationMs": 4020
+      },
+      {
+        "text": "cuotas van a ser pagos quincenales y le decimos calcular cuotas el sistema",
+        "startMs": 1140160,
+        "durationMs": 4950
+      },
+      {
+        "text": "automáticamente nos divide y le decimos a aceptar vamos a indicarle finalizar",
+        "startMs": 1145110,
+        "durationMs": 5060
+      },
+      {
+        "text": "pero en este caso él no le voy a enviar de una el documento electrónico le voy a",
+        "startMs": 1150170,
+        "durationMs": 4630
+      },
+      {
+        "text": "decir que no para que no se envíe de forma automática sino que miremos que",
+        "startMs": 1154800,
+        "durationMs": 4860
+      },
+      {
+        "text": "aquí está en acciones dice cero de tres si está en un color amarillo que quiere",
+        "startMs": 1159660,
+        "durationMs": 3960
+      },
+      {
+        "text": "decir que esta transacción está factura de venta siete cien diez no se ha",
+        "startMs": 1163620,
+        "durationMs": 6030
+      },
+      {
+        "text": "enviado por lo tanto al correo de esta persona de esta empresa no le ha llegado",
+        "startMs": 1169650,
+        "durationMs": 4800
+      },
+      {
+        "text": "todavía ninguna información ni al proveedor tecnológico ni a la dian no se",
+        "startMs": 1174450,
+        "durationMs": 5730
+      },
+      {
+        "text": "han ejecutado las acciones que tenemos que hacer dentro del sistema para que se",
+        "startMs": 1180180,
+        "durationMs": 4740
+      },
+      {
+        "text": "ejecute si ya está seguro y usted volvió y",
+        "startMs": 1184920,
+        "durationMs": 2010
+      },
+      {
+        "text": "reviso visualizo la operación miró que eran los datos que necesitaba estos son",
+        "startMs": 1186930,
+        "durationMs": 5040
+      },
+      {
+        "text": "los valores correctos ese son los archivos que hay que cargar como",
+        "startMs": 1191970,
+        "durationMs": 3630
+      },
+      {
+        "text": "archivos adjuntos está correcto los impuestos ya están 100% seguro que todas",
+        "startMs": 1195600,
+        "durationMs": 6000
+      },
+      {
+        "text": "la información puede entonces ubicado dentro de la transacción dar clic en la",
+        "startMs": 1201600,
+        "durationMs": 5910
+      },
+      {
+        "text": "opción en la parte superior que dice aprobar documento al dar clic en aprobar",
+        "startMs": 1207510,
+        "durationMs": 5520
+      },
+      {
+        "text": "documento se inicia el envío del documento electrónico al proveedor",
+        "startMs": 1213030,
+        "durationMs": 5520
+      },
+      {
+        "text": "tecnológico una vez ya se termina de ejecutar las acciones vemos cómo el",
+        "startMs": 1218550,
+        "durationMs": 7530
+      },
+      {
+        "text": "sistema indica que se ejecutaron tres acciones de tres en este caso este",
+        "startMs": 1226080,
+        "durationMs": 4650
+      },
+      {
+        "text": "documento factura de venta 700 si miramos nuevamente dentro del correo",
+        "startMs": 1230730,
+        "durationMs": 4710
+      },
+      {
+        "text": "electrónico como si fuésemos el cliente reparación energía a él ya tuvo que",
+        "startMs": 1235440,
+        "durationMs": 4530
+      },
+      {
+        "text": "haberle llegado un email con la información",
+        "startMs": 1239970,
+        "durationMs": 2430
+      },
+      {
+        "text": "información sequemos miremos que en este caso ya",
+        "startMs": 1242400,
+        "durationMs": 3300
+      },
+      {
+        "text": "llegó un correo nos dice factura de ventas etc",
+        "startMs": 1245700,
+        "durationMs": 4290
+      },
+      {
+        "text": "100 10 dentro de la información si descargamos el archivo zip que tenemos",
+        "startMs": 1249990,
+        "durationMs": 6330
+      },
+      {
+        "text": "que tener vamos a descargarlo y adicional al archivo pdf",
+        "startMs": 1256320,
+        "durationMs": 7120
+      },
+      {
+        "text": "qué es la representación gráfica y la vamos a mirar nos aparece la información",
+        "startMs": 1263440,
+        "durationMs": 4949
+      },
+      {
+        "text": "de la empresa la información de la factura la información del cliente",
+        "startMs": 1268389,
+        "durationMs": 3601
+      },
+      {
+        "text": "reparaciones mejía con la información de los servicios que se han facturado que",
+        "startMs": 1271990,
+        "durationMs": 4830
+      },
+      {
+        "text": "son cantidad de item factura 22 los valores con sus respectivos impuestos en",
+        "startMs": 1276820,
+        "durationMs": 5849
+      },
+      {
+        "text": "la forma de pago las diferentes cuotas de la cuenta por cobrar a nivel también",
+        "startMs": 1282669,
+        "durationMs": 4620
+      },
+      {
+        "text": "lateral toda la parte de la resolución la autorización rangos y vigencias y en",
+        "startMs": 1287289,
+        "durationMs": 5701
+      },
+      {
+        "text": "la parte inferior tanto el código qr como el código qr con la información de",
+        "startMs": 1292990,
+        "durationMs": 4110
+      },
+      {
+        "text": "la emisión de la factura el proveedor tecnológico y el software que la emitió",
+        "startMs": 1297100,
+        "durationMs": 3679
+      },
+      {
+        "text": "información completa que se necesita para que sea una factura electrónica con",
+        "startMs": 1300779,
+        "durationMs": 4841
+      },
+      {
+        "text": "su representación gráfica válida ahora si miramos también adicional a la",
+        "startMs": 1305620,
+        "durationMs": 5730
+      },
+      {
+        "text": "representación gráfica está el archivo xml que es el dato técnico que la dian",
+        "startMs": 1311350,
+        "durationMs": 4199
+      },
+      {
+        "text": "recibe y que ya firmó con su con su sello pero miremos que también se tiene",
+        "startMs": 1315549,
+        "durationMs": 5370
+      },
+      {
+        "text": "una carpeta adicional en un archivo comprimido ese archivo comprimido",
+        "startMs": 1320919,
+        "durationMs": 5541
+      },
+      {
+        "text": "contiene la información de los adjuntos por lo tanto si damos doble clic vamos a",
+        "startMs": 1326460,
+        "durationMs": 6330
+      },
+      {
+        "text": "poder ver que allí está tanto el archivo en pdf como el archivo de imagen que se",
+        "startMs": 1332790,
+        "durationMs": 5910
+      },
+      {
+        "text": "adjuntaron dentro de la factura dentro del sistema con tap y me esa información",
+        "startMs": 1338700,
+        "durationMs": 5490
+      },
+      {
+        "text": "tiene que llegar también a el adquiriente dentro de un archivo",
+        "startMs": 1344190,
+        "durationMs": 4470
+      },
+      {
+        "text": "comprimido adicional a la factura que es la representación gráfica y el xml",
+        "startMs": 1348660,
+        "durationMs": 5630
+      },
+      {
+        "text": "ahora si damos clic dentro del correo a la opción de ver documento para que",
+        "startMs": 1354290,
+        "durationMs": 5320
+      },
+      {
+        "text": "veamos la representación gráfica en formato html dentro de la plataforma de",
+        "startMs": 1359610,
+        "durationMs": 4170
+      },
+      {
+        "text": "conta pm para que miremos si lo aprobamos o lo rechazamos en este caso",
+        "startMs": 1363780,
+        "durationMs": 4200
+      },
+      {
+        "text": "como cliente actuando como cliente podemos interactuar directamente con",
+        "startMs": 1367980,
+        "durationMs": 4830
+      },
+      {
+        "text": "nuestro emisor del documento electrónico vamos a darle clic en ver documento aquí",
+        "startMs": 1372810,
+        "durationMs": 4530
+      },
+      {
+        "text": "ya vemos entonces la factura de venta se te 100 10 en una estructura distinta ya",
+        "startMs": 1377340,
+        "durationMs": 6600
+      },
+      {
+        "text": "no es un formato pdf es un formato html donde en pantalla podemos ver la",
+        "startMs": 1383940,
+        "durationMs": 5370
+      },
+      {
+        "text": "información de la representación gráfica con todos los datos tal cual como la",
+        "startMs": 1389310,
+        "durationMs": 3810
+      },
+      {
+        "text": "normatividad lo exige donde la persona puede",
+        "startMs": 1393120,
+        "durationMs": 3400
+      },
+      {
+        "text": "puede aprobar o rechazar el documento",
+        "startMs": 1396520,
+        "durationMs": 1650
+      },
+      {
+        "text": "electrónico en el menú de la parte izquierda puede encontrar tanto la",
+        "startMs": 1398170,
+        "durationMs": 4680
+      },
+      {
+        "text": "información de los archivos adjuntos los datos que se registraron adicionales o",
+        "startMs": 1402850,
+        "durationMs": 6630
+      },
+      {
+        "text": "puede también descargar la información completa tanto el archivo html el",
+        "startMs": 1409480,
+        "durationMs": 5640
+      },
+      {
+        "text": "archivo xml que es el que la dian devolvió con los documentos adjuntos que",
+        "startMs": 1415120,
+        "durationMs": 5340
+      },
+      {
+        "text": "se enviaron se pueden descargar directamente en la opción del menú",
+        "startMs": 1420460,
+        "durationMs": 3420
+      },
+      {
+        "text": "izquierdo información adicional de la empresa todos los datos para que se",
+        "startMs": 1423880,
+        "durationMs": 4530
+      },
+      {
+        "text": "interactúe en este caso le voy a decir rechazará este documento se indica una",
+        "startMs": 1428410,
+        "durationMs": 4740
+      },
+      {
+        "text": "información y se le dice rechazar ya a de cara al cliente dice el documento ha",
+        "startMs": 1433150,
+        "durationMs": 4050
+      },
+      {
+        "text": "sido rechazado ahora vamos hacia el sistema con está pyme actuando como el",
+        "startMs": 1437200,
+        "durationMs": 4650
+      },
+      {
+        "text": "emisor y miremos al actualizar estado que aparece dentro de esta factura que",
+        "startMs": 1441850,
+        "durationMs": 6360
+      },
+      {
+        "text": "tenemos señalada actualizar estado para ese documento",
+        "startMs": 1448210,
+        "durationMs": 4929
+      },
+      {
+        "text": "y miremos que aquí ya nos aparece es una manito un color rojo con un dedo hacia",
+        "startMs": 1453139,
+        "durationMs": 3840
+      },
+      {
+        "text": "abajo diciendo que la factura fue rechazada si damos clic en el inspector",
+        "startMs": 1456979,
+        "durationMs": 4650
+      },
+      {
+        "text": "de datos en la opción que dice documento y miramos la bitácora nos aparece la",
+        "startMs": 1461629,
+        "durationMs": 5400
+      },
+      {
+        "text": "información con el comentario que el cliente nos hizo dice que la factura no",
+        "startMs": 1467029,
+        "durationMs": 4110
+      },
+      {
+        "text": "era lo solicitado por lo tanto implica que esta factura tendremos que hacerle",
+        "startMs": 1471139,
+        "durationMs": 4171
+      },
+      {
+        "text": "una nota crédito para poder reemplazar o anular dicho documento",
+        "startMs": 1475310,
+        "durationMs": 6630
+      },
+      {
+        "text": "es así como acabamos de ver entonces diferentes formas de emitir facturas",
+        "startMs": 1481940,
+        "durationMs": 5400
+      },
+      {
+        "text": "electrónicas de venta dentro del sistema contable por la opción de ingresos del",
+        "startMs": 1487340,
+        "durationMs": 5910
+      },
+      {
+        "text": "módulo de automatización de documentos donde esta operación el punto clave y",
+        "startMs": 1493250,
+        "durationMs": 5250
+      },
+      {
+        "text": "principal es la configuración y uso del documento de soporte ya previamente",
+        "startMs": 1498500,
+        "durationMs": 5039
+      },
+      {
+        "text": "configurado como documento electrónico los invitamos entonces para que busquen",
+        "startMs": 1503539,
+        "durationMs": 5401
+      },
+      {
+        "text": "dentro de nuestra plataforma de capacitación virtual información",
+        "startMs": 1508940,
+        "durationMs": 4859
+      },
+      {
+        "text": "complementaria para el manejo del modelo de automatización de documentos y",
+        "startMs": 1513799,
+        "durationMs": 4860
+      },
+      {
+        "text": "complementen así los conocimientos muchas gracias",
+        "startMs": 1518659,
+        "durationMs": 5071
+      }
+    ],
+    "plainText": "## Descripción del video\n\nFactura de venta electrónica por operación de ingresos (Módulo de automatización de documentos)\n\n## Transcripción\n\nfactura de venta electrónica por operación de ingresos del módulo de\nveremos cuál es la funcionalidad de esta operación\nla operación de ingresos es especial para empresas y personas naturales que\ndeben cumplir rápidamente con la normativa de emitir factura electrónica\nde venta y algo importante no tienen la necesidad de controlar inventarios por\nlo tanto esta operación es útil para la emisión de facturas de venta\nelectrónicas de servicios y conceptos teniendo esto presente miremos cuáles\nson los pasos que previamente se tuvieron que haber realizado para emitir\nla factura electrónica de venta primero se tuvo que adquirir un paquete\nde documentos electrónicos en conta pm es decir un tema comercial de\nadquisición de documentos también dentro del sistema se debe\nactivar el manejo de facturación electrónica en la empresa\nluego se debe configurar los documentos de soporte con la información de la\nadicional dentro de los terceros clientes hay que configurar el correo\nelectrónico en el cual van a recibir los documentos que se envíen\ny de forma opcional si se requiere personalizar la plantilla de la\nrepresentación gráfica recordemos que con está pyme ya tiene unas\nrepresentaciones gráficas sugeridas y éstas se pueden modificar si usted lo\ndesea pero vamos a centrarnos en dos puntos en\nla activación de la empresa el manejo de facturación electrónica y también en la\nconfiguración de los documentos de soporte estos son los pasos previos y\nquiero hacer énfasis en ellos antes de emitir una factura electrónica de venta\npor el módulo de automatización de documentos\ndocumentos la operación de ingresos\npara activar en la empresa la facturación electrónica\nrecordemos que damos clic derecho sobre la empresa y allí si ya se hizo el\nproceso comercial de adquisición de documentos electrónicos se va a activar\nla opción que dice activo de manejo de facturación electrónica\ny también la parte de activar el uso de plataforma de documentos para que queden\npublicados los documentos en nuestro sistema en la web\nuna vez se activa dentro de la empresa del manejo de facturación electrónica un\ntema muy importante y es el que genera todo el registro de facturación\nelectrónica dentro del sistema la configuración es de los documentos de\nsoporte los documentos de soporte recordemos que allí vamos a configurar\ntanto la factura de venta electrónica como la nota crédito electrónica y la\nnota débito electrónica en esta parte se va a activar el manejo de facturación\nelectrónica asociado a la empresa una vez ya sea activo se van a registrar las\nresoluciones o la resolución que se tenga dentro del sistema y que se tenga\nautorizada por la dian con su número de resolución consecutivo inicial\nconsecutivo final la fecha de inicio y la fecha final esta información es clave\npuesto que es la que está autorizada por la entidad de control dian\ntambién se pueden configurar las acciones que son las acciones es la\nforma en que se va a aprobar el documento cuando se realice la\ntransacción dentro de cuanta pyme si se hace la factura de venta con está pyme\nva a inmediatamente o enviar el documento electrónico al proveedor\ntecnológico oa hacer una pregunta previa si quiere que uno le envié o luego la va\na enviar o simplemente deja pendiente para que se envíe posterior depende de\nla configuración que allí se indica en aprobación de documentos\ncuando se activa esa opción de facturación electrónica aparece una\nella vamos a configurar el proveedor tecnológico eso depende de quién de\nusted de la adquisición o del proceso comercial que hizo con el soft con su\ndebido proveedor tecnológico recordemos quien sostiene alianza con\ndiferentes proveedores tecnológicos por lo tanto allí en proveedor le va a\naparecer con el que usted haya realizado el proceso comercial\nadicional en la parte de la derecha vamos a indicar según el tipo de\ndocumento que se está configurando si es la factura electrónica la nota crédito o\nla nota débito una vez ya se tiene configurado esta\nfacturas de venta miremos entonces dentro de contacto con estas\nconfiguraciones que ya están listas como emitimos la factura electrónica de venta\npor el módulo de automatización de documentos bien estando dentro del\nsistema con tap y me vamos a ingresar al manejador de operaciones dentro del\nmanejador de operaciones vamos a desplegar la opción de más operaciones y\ndentro de la primera que dice ingresos y gastos vamos a entrar a la operación de\ningresos esta es la operación que nos va a permitir facturar conceptos o\nservicios quien no controla inventarios pero si\ndentro de la 'operación encontramos un encabezado tal como todas las\noperaciones dentro del sistema con tapping algo muy importante y es que\ntiene el tipo de documento de soporte para que se le configure el documento\nque se le activó la configuración de facturación electrónica es clave\nutilizar aquí ese documento el que esté configurado como documento de factura\nelectrónica de venta vamos a indicarle la fecha en que vamos\na emitir la factura el detalle de lo que se estaba facturando del servicio y\nvamos a proceder a indicar el cliente recordemos que otro de los pasos era que\nlos clientes debían tener un correo de facturación electrónica en este caso voy\na escoger un tercero cualquiera ya miremos que dentro de la configuración\nse tiene un correo activado para el ejercicio tengo un correo de\nprueba para poder mirar en ese buzón cómo llegan los email de contar con el\ndocumento electrónico si quiere se puede indicar un vendedor del servicio que se\nestá facturando y en especial en la parte de ingresos en el área de registro\nvamos a indicar cuál es el concepto o servicio que se va a facturar damos\ndoble clic aquí nos aparece el plan de cuentas filtrado a nivel de la cuenta de\ningresos y vamos a indicar por ejemplo que vamos a facturar una publicidad esta\nes una empresa que se dedica a hacer publicidad\npublicidad el concepto si queremos podemos indicar\nalgo adicional por ejemplo publicidad redes sociales mes de abril el valor\nvamos a indicarle por ejemplo un millón de pesos se le va a facturar esa\npublicidad para este cliente pilar botero\nbotero siguiente podemos indicar otra\ninformación adicional en observaciones podemos indicar las observaciones que\nqueramos que fue la información cuál fue el servicio complementar los datos a\nnivel de tipo de operación y número de orden de compra podemos indicar por\nejemplo si ésta es una factura estándar que es la normal y está ahí sería para\nla administración de impuestos a utilidades y sería también la otra\nopción de facturas de mandato en este caso la especial que vamos a manejar\ncasi siempre es la estándar un número de orden de compra si por\nejemplo el cliente me generó un número de solicitud a esto le puedo indicar y\nen la pestaña de archivos adjuntos aquí podemos indicar información adicional\nque queramos enviarle al cliente por ejemplo algún pdf algún archivo unas\ndiapositivas algún formato en especial o alguna imagen información adicional a la\nfactura que queremos adjuntarle dentro del envío en este momento pues vamos a\ndejarlo sin archivos adjuntos siguiente vamos a indicar en esta parte\ntal cual como como hacemos dentro de con está pyme el impuesto damos clic en la\nopción para cálculo automático de impuestos si todo está bien aparecen los\nimpuestos asociados a esta transacción y en la forma de pago pues ya como el\ncliente nos vaya a pagar este dinero si la plata entró a la caja con nos va a\ngenerar una transferencia bancaria o de pronto nos va a generar una cuenta por\ncobrar en este caso digamos que nos pagó todo en efectivo\nal finalizar según la configuración del documento de soporte se le tiene\nconfigurado en este momento que antes de enviar pregunte si se desea autorizar o\nno el envío en este caso me está preguntando desea aprobar el documento\npara la ejecución de acciones automáticas si yo le digo que sí\ninmediatamente el sistema va a enviar esta información al proveedor\ntecnológico para que éste lo envíe a la dian valide y quede el documento como un\ndocumento electrónico si yo le digo que no es porque posteriormente le voy a\ndecir al sistema que esta transacción que estoy haciendo ahí si la quiero\nenviar entonces le hago un envío manual en este caso voy a indicarle que si para\nque se despache inmediatamente y podamos continuar con el ejercicio\nse acaba de enviar el documento electrónico ya queda en unas acciones en\ncolor verde dice tres de tres quiere decir que el documento ya se publicó en\nla plataforma ya se generaron las acciones de envío del documento\nelectrónico al proveedor tecnológico y este a la dian\nya el cliente pilar botero que es a la que le facturamos también le tuvo que\nhaber llegado un correo electrónico en este caso tengo abierto también una\ncuenta de gmail donde era el correo que tenía configurado para este tercero y\nverifiquemos si le llegó esta factura 7 10 009\nvamos a mirar que tengas el correo electrónico miremos que allí dentro del\nnos está indicando que tiene un nuevo correo electrónico o una factura\nelectrónica de venta se te 10 009 la información del documento y algo muy\nespecial está con el archivo adjunto este archivo adjunto vamos a descargarlo\ncontiene la información tanto del pdf que es la representación gráfica como\ndel archivo xml mirémoslo aquí está son los dos datos\nque le deben de llegar como mínimo por la resolución de facturación electrónica\nla normatividad a un cliente si miramos el pdf\nvamos a darle doble clic nos aparece la representación gráfica de con está pyme\ncon todos los datos que corresponden a la información de la empresa que emite\nla factura electrónica con todos sus datos la información de la resolución y\nlos rangos y la vigencia información del cliente con la descripción tanto de los\nservicios como de los impuestos que se están generando la información también\nde la responsabilidad y la clasificación\ntributaria de el cliente según lo que indica la normatividad esos requisitos\npara la representación gráfica y en la parte inferior vamos a encontrar tanto\nel código ocupé como el código qr recordemos que el código coupé es ese\ncódigo único de factura electrónica donde nos indica de una forma encriptada\nla información de la factura y dentro del código qr si podemos tener un\ncelular que nos permita leer esta imagen vamos a encontrar la información de\ndicha factura está con los datos de la emisión la fecha y la fecha también de\nvalidación de la dian y el proveedor tecnológico adicional de la información\nde la empresa o en este caso el software el sistema con está pyme que emitió la\nfactura todos los requisitos contemplados según la normatividad de\nfacturación electrónica si también vamos hacia lo que es el archivo xml\nencontrar un archivo que se llama el ataque' document que es la información\nque la habían respondió autorizo para ese documento electrónico esto ya es una\nestructura técnica donde ya tiene toda la información de validación de parte de\nla dian si nuevamente vamos al correo electrónico aquí encontramos una\ninformación donde nos dice quiere ver el documento a pesar de que el cliente lo\npudo haber descargado directamente desde ese archivo puntos y dentro de este\narchivo adjunto hay una opción de poder ver el documento en la plataforma dentro\nde con está pyme esta plataforma permite que el documento pueda ser aceptado o\nrechazado es así como podemos ver el documento la factura electrónica de\nventa ya no en un formato pdf sino en un formato que es html también cumple con\ntodo el detalle técnico por parte de la normatividad de la dian para una\nrepresentación gráfica con su información del cvf el código qr la\ninformación de fecha y validación de la parte de la dian la resolución de esta\nfactura y todos los datos tanto del emisor como del receptor en la parte\nsuperior encontramos opciones para aprobar\naprobar o rechazar el documento eso lo hace\ndirectamente el cliente para que después nosotros dentro de con está pyme podamos\nsaber si el cliente aceptó o rechazó esa factura en este caso por ejemplo le voy\na indicar aprobar el documento y le voy a indicar un mensaje y aprobar ya en la\nparte superior nos indica que ese documento fue aprobado eso lo está\nviendo directamente el cliente aquí estoy actuando como si fuera la persona\npilar botero que es el que le metió la factura de venta ahora si yo lo miro\ndesde el punto de vista de quién soy el emisor puedo entrar a con está pyme\nvamos a entrar nuevamente y dentro del manejador de operaciones está la factura\nque acabo de emitir si yo le digo en cualquier momento actualizar el estado y\nese cliente ya me aceptó o rechazó el documento\ndocumento ese estado se va a ver reflejado dentro\nde con está pyme vamos a decirle actualizar estado para este documento\nseleccionado y miremos que en la parte de las\ncolumnas de la derecha hay una manito que me indica ok qué quiere decir esa\nmano que el tercero en este caso pilar botero aprobó dicha factura podemos\nmirar a nivel del inspector de datos en la parte de documento\nbitácora la información de la bitácora o del registro que este cliente nos indicó\nestá correcto el mensaje fue que nos indicó y aquí podemos ver la información\ntambién esa trazabilidad de el documento cuando se publicó el documento cuando\nfue leído y los diferentes comentarios que no pueda indicar al respecto en este\ncaso hemos emitido una factura de venta electrónica por un concepto un servicio\ntambién dentro de con está pyme puedo visualizar pdf y dentro del sistema\npuedo ver nuevamente la información de la factura que al cliente le llegó es\nasí como este documento adicional de que se convirtió en un documento electrónico\nya también me está afectando registros dentro de la contabilidad si es que\ntengo el sistema de automatización de documentos más el módulo de contabilidad\nde conta pib si nada más tengo la parte para facturación electrónica el módulo\nde automatización de documentos pues esta parte contable no la voy a ver\nreflejada pero en cualquier momento cuando ya quiera tener contado\nadjunta dentro de conta pyme al adicionar dicho módulo vamos a ver la\nintegración de facturación electrónica con la parte contable y poder ver\nestados financieros y todo el tema tributario también nuevamente vamos a\nhacer otra factura de venta electrónica también por el módulo de automatización\nde documentos pero en este caso vamos a facturar diferentes conceptos tenemos el\ndocumento de soporte que es el que está configurado como documento electrónico\nla fecha vamos a seleccionar un cliente cualquiera por ejemplo ya no voy a\nescoger una persona natural puedo indicar un tercero que sea persona\njurídica vamos a facturar diferentes conceptos por ejemplo nuevamente vamos a\nindicarle un servicio de publicidad pero también voy a cargar en otro renglón una\nasesoría por ejemplo técnica puedo indicar los valores la publicidad\nfueron 350 mil pesos y la asistencia técnica vamos a decir\nque fueron 850 mil pesos puedo indicar también pues un nombre\nalgo concepto adicional tengo diferentes servicios dentro de la factura indicamos\nsiguiente vamos a registrar una orden de compra\nque nos haya enviado este cliente en archivos adjuntos vamos a seleccionar\ndiferentes archivos puedo enviar una información basta con entrar a la\npestaña archivos adjuntos en esta opción que dice más vamos a seleccionar los\narchivos que se tengan y voy a cargar un archivo pdf y una imagen lo voy a\ndecir abrir hay que tener en cuenta que la normatividad respecto a facturación\nelectrónica y en especial el envío de archivos adjuntos indica la dian que no\ndebe empezar más de 2 megas las observaciones que vamos a indicar al\nrespecto la podemos dar vamos a decirle siguiente si vamos a calcular otros\nimpuestos ya aquí aparece un iva y una retención y vamos a indicarle que esta\nparte de pago la persona nos la va a quedar debiendo y vamos a indicarle que\nse va a definir a dos cuotas vamos entonces a indicar periodicidad dos\ncuotas van a ser pagos quincenales y le decimos calcular cuotas el sistema\nautomáticamente nos divide y le decimos a aceptar vamos a indicarle finalizar\npero en este caso él no le voy a enviar de una el documento electrónico le voy a\ndecir que no para que no se envíe de forma automática sino que miremos que\naquí está en acciones dice cero de tres si está en un color amarillo que quiere\ndecir que esta transacción está factura de venta siete cien diez no se ha\nenviado por lo tanto al correo de esta persona de esta empresa no le ha llegado\ntodavía ninguna información ni al proveedor tecnológico ni a la dian no se\nhan ejecutado las acciones que tenemos que hacer dentro del sistema para que se\nejecute si ya está seguro y usted volvió y\nreviso visualizo la operación miró que eran los datos que necesitaba estos son\nlos valores correctos ese son los archivos que hay que cargar como\narchivos adjuntos está correcto los impuestos ya están 100% seguro que todas\nla información puede entonces ubicado dentro de la transacción dar clic en la\nopción en la parte superior que dice aprobar documento al dar clic en aprobar\ndocumento se inicia el envío del documento electrónico al proveedor\ntecnológico una vez ya se termina de ejecutar las acciones vemos cómo el\nsistema indica que se ejecutaron tres acciones de tres en este caso este\ndocumento factura de venta 700 si miramos nuevamente dentro del correo\nelectrónico como si fuésemos el cliente reparación energía a él ya tuvo que\nhaberle llegado un email con la información\ninformación sequemos miremos que en este caso ya\nllegó un correo nos dice factura de ventas etc\n100 10 dentro de la información si descargamos el archivo zip que tenemos\nque tener vamos a descargarlo y adicional al archivo pdf\nqué es la representación gráfica y la vamos a mirar nos aparece la información\nde la empresa la información de la factura la información del cliente\nreparaciones mejía con la información de los servicios que se han facturado que\nson cantidad de item factura 22 los valores con sus respectivos impuestos en\nla forma de pago las diferentes cuotas de la cuenta por cobrar a nivel también\nlateral toda la parte de la resolución la autorización rangos y vigencias y en\nla parte inferior tanto el código qr como el código qr con la información de\nla emisión de la factura el proveedor tecnológico y el software que la emitió\ninformación completa que se necesita para que sea una factura electrónica con\nsu representación gráfica válida ahora si miramos también adicional a la\nrepresentación gráfica está el archivo xml que es el dato técnico que la dian\nrecibe y que ya firmó con su con su sello pero miremos que también se tiene\nuna carpeta adicional en un archivo comprimido ese archivo comprimido\ncontiene la información de los adjuntos por lo tanto si damos doble clic vamos a\npoder ver que allí está tanto el archivo en pdf como el archivo de imagen que se\nadjuntaron dentro de la factura dentro del sistema con tap y me esa información\ntiene que llegar también a el adquiriente dentro de un archivo\ncomprimido adicional a la factura que es la representación gráfica y el xml\nahora si damos clic dentro del correo a la opción de ver documento para que\nveamos la representación gráfica en formato html dentro de la plataforma de\nconta pm para que miremos si lo aprobamos o lo rechazamos en este caso\ncomo cliente actuando como cliente podemos interactuar directamente con\nnuestro emisor del documento electrónico vamos a darle clic en ver documento aquí\nya vemos entonces la factura de venta se te 100 10 en una estructura distinta ya\nno es un formato pdf es un formato html donde en pantalla podemos ver la\ninformación de la representación gráfica con todos los datos tal cual como la\nnormatividad lo exige donde la persona puede\npuede aprobar o rechazar el documento\nelectrónico en el menú de la parte izquierda puede encontrar tanto la\ninformación de los archivos adjuntos los datos que se registraron adicionales o\npuede también descargar la información completa tanto el archivo html el\narchivo xml que es el que la dian devolvió con los documentos adjuntos que\nse enviaron se pueden descargar directamente en la opción del menú\nizquierdo información adicional de la empresa todos los datos para que se\ninteractúe en este caso le voy a decir rechazará este documento se indica una\ninformación y se le dice rechazar ya a de cara al cliente dice el documento ha\nsido rechazado ahora vamos hacia el sistema con está pyme actuando como el\nemisor y miremos al actualizar estado que aparece dentro de esta factura que\ntenemos señalada actualizar estado para ese documento\ny miremos que aquí ya nos aparece es una manito un color rojo con un dedo hacia\nabajo diciendo que la factura fue rechazada si damos clic en el inspector\nde datos en la opción que dice documento y miramos la bitácora nos aparece la\ninformación con el comentario que el cliente nos hizo dice que la factura no\nera lo solicitado por lo tanto implica que esta factura tendremos que hacerle\nuna nota crédito para poder reemplazar o anular dicho documento\nes así como acabamos de ver entonces diferentes formas de emitir facturas\nelectrónicas de venta dentro del sistema contable por la opción de ingresos del\nmódulo de automatización de documentos donde esta operación el punto clave y\nprincipal es la configuración y uso del documento de soporte ya previamente\nconfigurado como documento electrónico los invitamos entonces para que busquen\ndentro de nuestra plataforma de capacitación virtual información\ncomplementaria para el manejo del modelo de automatización de documentos y\ncomplementen así los conocimientos muchas gracias"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 186.939,
+    "asr": 44100,
+    "filesizeApprox": 35593863,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2021",
+  "files": {
+    "year": "2021",
+    "kind": "videos",
+    "md": "videos/2021/0gL6B41DqYo.md",
+    "json": "videos/2021/0gL6B41DqYo.json",
+    "infoJson": "videos/2021/0gL6B41DqYo.info.json"
+  }
+}

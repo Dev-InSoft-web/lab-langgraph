@@ -1,0 +1,996 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:14:44.880Z",
+  "videoId": "jfY-nwym894",
+  "videoUrl": "https://www.youtube.com/watch?v=jfY-nwym894",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "jfY-nwym894",
+    "title": "Funciones con filtro",
+    "fulltitle": "Funciones con filtro",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 622,
+    "duration_string": "10:22",
+    "upload_date": "20200513",
+    "timestamp": 1589375988,
+    "view_count": 86,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/jfY-nwym894/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqEx3Vf1bZXxLz-USS88QjrqLnfQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhmHtjIHX8z8hmeqf2BbZZmQS7Zg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApht5mX01rYMdADp9NJ8zu1PAvMw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCbtqNntO4_UHKgJJZCfYMHHjpFtQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAburYpeEf7tTuKoLzHWBtJ5uKjjQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbqUj_iDdY7AXdTFwe417An6cnBw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4BfCHlZMRT7D1sK6MqsNPjYV8Tg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGPPraP2SIkJfPUYBkLdK2QxPFDQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/jfY-nwym894/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/jfY-nwym894/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=jfY-nwym894",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.1607717041800643,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20257234726688103,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20257234726688103,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 196.868,
+        "asr": 44100,
+        "filesize_approx": 15302303,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Funciones con filtro",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/jfY-nwym894/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jfY-nwym894?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Funciones con filtro\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 113,
+    "transcriptChars": 8293,
+    "segments": [
+      {
+        "text": "funciones con filtro entre las funciones que context él nos ofrece podemos",
+        "startMs": 400,
+        "durationMs": 4940
+      },
+      {
+        "text": "encontrar las funciones tipo filtro que permiten determinar un filtro de",
+        "startMs": 5340,
+        "durationMs": 4140
+      },
+      {
+        "text": "información que puede ser usado en las funciones de valores que manejan un",
+        "startMs": 9480,
+        "durationMs": 4259
+      },
+      {
+        "text": "parámetro de filtro la función de los filtros es permitir que las consultas",
+        "startMs": 13739,
+        "durationMs": 4501
+      },
+      {
+        "text": "hechas a través de las funciones de valores con filtros sean más específicas",
+        "startMs": 18240,
+        "durationMs": 4339
+      },
+      {
+        "text": "contacte al ofrece una gran variedad de filtros y de funciones con filtros",
+        "startMs": 22579,
+        "durationMs": 5731
+      },
+      {
+        "text": "los filtros podemos visualizar en la pestaña fórmulas filtros encontraremos",
+        "startMs": 28310,
+        "durationMs": 6000
+      },
+      {
+        "text": "filtros como generales de movimiento contable de movimiento de inventario de",
+        "startMs": 34310,
+        "durationMs": 6870
+      },
+      {
+        "text": "plan de cuentas de terceros de tipo de movimiento de inventario y de tipo de",
+        "startMs": 41180,
+        "durationMs": 8100
+      },
+      {
+        "text": "terceros todos estos filtros pueden incorporarse",
+        "startMs": 49280,
+        "durationMs": 1860
+      },
+      {
+        "text": "a las funciones de valor que tienen la opción de filtro por ejemplo en las",
+        "startMs": 51140,
+        "durationMs": 4680
+      },
+      {
+        "text": "funciones de contabilidad encontraremos en las de movimiento la función cuenta",
+        "startMs": 55820,
+        "durationMs": 8100
+      },
+      {
+        "text": "filtro en las de saldo por ejemplo",
+        "startMs": 63920,
+        "durationMs": 1770
+      },
+      {
+        "text": "encontraremos la función saldo cuenta filtro",
+        "startMs": 65690,
+        "durationMs": 5100
+      },
+      {
+        "startMs": 70800,
+        "durationMs": 4150,
+        "text": "en las de carteras tenemos"
+      },
+      {
+        "text": "moss cartera tercero filtro saldo cartera tercero filtro y por ejemplo en",
+        "startMs": 74960,
+        "durationMs": 6200
+      },
+      {
+        "text": "los inventarios tenemos para ventas ingresos ventas filtros entre otros",
+        "startMs": 81160,
+        "durationMs": 7170
+      },
+      {
+        "text": "vamos a revisar a través de dos ejemplos cómo utilizar los filtros dentro de las",
+        "startMs": 88330,
+        "durationMs": 4570
+      },
+      {
+        "text": "determina el saldo de una o más cuentas con un filtro específico",
+        "startMs": 98890,
+        "durationMs": 4720
+      },
+      {
+        "text": "primero vamos a revisar la sintaxis de la función abrimos la ayuda",
+        "startMs": 103610,
+        "durationMs": 5730
+      },
+      {
+        "text": "y podemos ver que esta función solicita datos como el identificador de la cuenta",
+        "startMs": 109340,
+        "durationMs": 7240
+      },
+      {
+        "text": "el filtro que vamos a aplicar la fecha final el identificador de la empresa",
+        "startMs": 116590,
+        "durationMs": 5839
+      },
+      {
+        "text": "identificador del centro de costos y el tipo de contabilización",
+        "startMs": 122429,
+        "durationMs": 4881
+      },
+      {
+        "text": "esta función es muy parecida a la función saldo cuenta que permite atraer",
+        "startMs": 92900,
+        "durationMs": 38220
+      },
+      {
+        "text": "el saldo de una cuenta en específico la ventaja con esta función es que podemos",
+        "startMs": 131120,
+        "durationMs": 4410
+      },
+      {
+        "text": "agregar un filtro como por ejemplo de un tercero la función es su sintaxis no",
+        "startMs": 135530,
+        "durationMs": 5910
+      },
+      {
+        "text": "solicita código de tercero pero con la opción de filtro podemos buscar un",
+        "startMs": 141440,
+        "durationMs": 3900
+      },
+      {
+        "text": "filtro que nos permita insertar un tercero y así conocer el saldo de una",
+        "startMs": 145340,
+        "durationMs": 4170
+      },
+      {
+        "text": "cuenta para un tercero en la ayuda de la función en la parte inferior",
+        "startMs": 149510,
+        "durationMs": 5549
+      },
+      {
+        "text": "vamos a encontrar el tipo de filtros que podríamos aplicar en esta función por",
+        "startMs": 155059,
+        "durationMs": 5521
+      },
+      {
+        "text": "ejemplo tenemos el filtro de movimiento contable de tercero filtro de clase de",
+        "startMs": 160580,
+        "durationMs": 6330
+      },
+      {
+        "text": "operación en movimiento contable de tipo de documento de soporte",
+        "startMs": 166910,
+        "durationMs": 6070
+      },
+      {
+        "text": "y el tercero en cartera más arriba en el ejemplo podremos ver cómo se debe",
+        "startMs": 172980,
+        "durationMs": 11160
+      },
+      {
+        "text": "vamos a realizar un ejemplo y con esta función de saldo cuenta filtro vamos a",
+        "startMs": 184150,
+        "durationMs": 5419
+      },
+      {
+        "text": "consultar el saldo de una cuenta con el filtro de terceros en este caso vamos a",
+        "startMs": 189569,
+        "durationMs": 5341
+      },
+      {
+        "text": "indicar la cuenta 50 y 10 506 de sueldos vamos a indicar la fecha al 30 de abril",
+        "startMs": 194910,
+        "durationMs": 8209
+      },
+      {
+        "text": "y vemos que inmediatamente el sistema nos trae un valor este valor corresponde",
+        "startMs": 203119,
+        "durationMs": 5440
+      },
+      {
+        "text": "a el saldo total de la cuenta 50 y 10 506 de la empresa por defecto en este",
+        "startMs": 208559,
+        "durationMs": 5821
+      },
+      {
+        "text": "caso la empresa 1 al 30 de abril de 2020 en este caso se está tomando todos los",
+        "startMs": 214380,
+        "durationMs": 5879
+      },
+      {
+        "text": "centros de costos y el tipo de contabilización por defecto que es la",
+        "startMs": 220259,
+        "durationMs": 3330
+      },
+      {
+        "text": "nisa ahora si queremos saber de un tercero específico el saldo de esta",
+        "startMs": 223589,
+        "durationMs": 5371
+      },
+      {
+        "text": "cuenta debemos insertar en el parámetro filtro",
+        "startMs": 228960,
+        "durationMs": 2879
+      },
+      {
+        "text": "un filtro que nos permita traer un tercero del movimiento contable podemos",
+        "startMs": 231839,
+        "durationMs": 5551
+      },
+      {
+        "text": "digitar el filtro si lo conocemos o podemos buscarlo en la sección de",
+        "startMs": 237390,
+        "durationMs": 3750
+      },
+      {
+        "text": "filtros en este caso vamos a buscarlo como es una función contable de saldo de",
+        "startMs": 241140,
+        "durationMs": 5850
+      },
+      {
+        "text": "cuenta vamos a buscarlo en los filtros contable y aquí tenemos el filtro",
+        "startMs": 246990,
+        "durationMs": 6720
+      },
+      {
+        "text": "movimiento contable tercero el filtro como tal pide que los",
+        "startMs": 253710,
+        "durationMs": 4090
+      },
+      {
+        "text": "parámetros estén insertados con comillas si es que los vamos a digitar",
+        "startMs": 257800,
+        "durationMs": 4950
+      },
+      {
+        "text": "directamente dentro del filtro vamos a añadir entonces un tercero de ejemplo",
+        "startMs": 262750,
+        "durationMs": 5460
+      },
+      {
+        "text": "abrimos comilla doble colocamos el número de identificación del tercero por",
+        "startMs": 268210,
+        "durationMs": 5400
+      },
+      {
+        "text": "ejemplo en este caso tengo la cédula de uno de los empleados",
+        "startMs": 273610,
+        "durationMs": 6840
+      },
+      {
+        "text": "visitamos el número cerramos el filtro enter en este caso la función nos está",
+        "startMs": 280460,
+        "durationMs": 6890
+      },
+      {
+        "text": "trayendo el saldo de la cuenta 51 05 06 al 30 abril de 2020 para este tercero en",
+        "startMs": 287350,
+        "durationMs": 7950
+      },
+      {
+        "text": "particular otra forma de utilizar el filtro es referenciando dentro del",
+        "startMs": 295300,
+        "durationMs": 5430
+      },
+      {
+        "text": "filtro el código por ejemplo podemos tener una sección donde tengamos el",
+        "startMs": 300730,
+        "durationMs": 11170
+      },
+      {
+        "text": "buscamos el tercero con el seleccionador en este caso sería el señor fernando",
+        "startMs": 311910,
+        "durationMs": 5980
+      },
+      {
+        "text": "fernando vargas que es uno de nuestros empleados lo cargamos y lo que hacemos",
+        "startMs": 317890,
+        "durationMs": 5549
+      },
+      {
+        "text": "en el filtro es referenciar la celda vamos a borrar el dato que colocamos",
+        "startMs": 323439,
+        "durationMs": 8051
+      },
+      {
+        "text": "manualmente referenciamos esta celda",
+        "startMs": 331490,
+        "durationMs": 2949
+      },
+      {
+        "text": "y el filtro funciona correctamente cualquiera de las dos opciones es válida",
+        "startMs": 334439,
+        "durationMs": 5190
+      },
+      {
+        "text": "para utilizar la información del filtro con esta función podemos consultar los",
+        "startMs": 339629,
+        "durationMs": 5011
+      },
+      {
+        "text": "saldos contables de forma más detallada teniendo en cuenta otros datos como el",
+        "startMs": 344640,
+        "durationMs": 4769
+      },
+      {
+        "text": "tercero la clase de operación el tipo de documento de soporte entre otros",
+        "startMs": 349409,
+        "durationMs": 6621
+      },
+      {
+        "text": "función ingresos ventas filtro esta función determina los ingresos por venta",
+        "startMs": 356030,
+        "durationMs": 5760
+      },
+      {
+        "text": "del elemento de inventario con un filtro determinado recordemos que esta función",
+        "startMs": 361790,
+        "durationMs": 5370
+      },
+      {
+        "text": "sólo calcula los valores base esto quiere decir que no toma en cuenta el",
+        "startMs": 367160,
+        "durationMs": 7690
+      },
+      {
+        "text": "ya tenemos la función armada y referenciando los campos desde las",
+        "startMs": 374860,
+        "durationMs": 3680
+      },
+      {
+        "text": "celdas correspondientes en este caso con los datos que tenemos cargados podemos",
+        "startMs": 378540,
+        "durationMs": 4889
+      },
+      {
+        "text": "ver las ventas de la bodega 2 del primero de abril al 30 de abril de la",
+        "startMs": 383429,
+        "durationMs": 5431
+      },
+      {
+        "text": "empresa 1 estos serían los ingresos globales pero qué pasa si necesito",
+        "startMs": 388860,
+        "durationMs": 5400
+      },
+      {
+        "text": "averiguar los ingresos por un vendedor en particular contacten nos ofrece el",
+        "startMs": 394260,
+        "durationMs": 5070
+      },
+      {
+        "text": "filtro para poder visualizar los ingresos por vendedor vamos a ubicarnos",
+        "startMs": 399330,
+        "durationMs": 4770
+      },
+      {
+        "text": "en la celda donde debe ir el parámetro de filtro nos dirigimos a fórmulas",
+        "startMs": 404100,
+        "durationMs": 5570
+      },
+      {
+        "text": "filtros y en este caso debemos buscar un filtro por movimiento de inventario ya",
+        "startMs": 409670,
+        "durationMs": 5560
+      },
+      {
+        "text": "que la función como tal de ingresos ventas sólo tiene en cuenta las ventas",
+        "startMs": 415230,
+        "durationMs": 4440
+      },
+      {
+        "text": "registradas a través de la operación de ventas del módulo de inventarios ventas",
+        "startMs": 419670,
+        "durationMs": 4259
+      },
+      {
+        "text": "y facturación vamos a buscar el filtro que en este caso sería filtro mof",
+        "startMs": 423929,
+        "durationMs": 4980
+      },
+      {
+        "text": "inventario vendedor el filtro funciona exactamente igual a la anterior podemos",
+        "startMs": 428909,
+        "durationMs": 4740
+      },
+      {
+        "text": "digitar el valor entre comillas dobles o podemos referenciar los si lo tenemos en",
+        "startMs": 433649,
+        "durationMs": 4891
+      },
+      {
+        "text": "otra ubicación vamos a escribir de un vendedor cerramos las comillas",
+        "startMs": 438540,
+        "durationMs": 6290
+      },
+      {
+        "text": "vemos que inmediatamente nos carga el valor igualmente podemos referenciar el",
+        "startMs": 444830,
+        "durationMs": 4960
+      },
+      {
+        "text": "vendedor en otra celda llamándolo desde los catálogos",
+        "startMs": 449790,
+        "durationMs": 8010
+      },
+      {
+        "text": "en este caso sería el señor luís muñoz y vamos a referenciar en este caso desde",
+        "startMs": 457810,
+        "durationMs": 7460
+      },
+      {
+        "text": "la celda borramos el dato que copiamos referenciamos desde la celda enter vemos",
+        "startMs": 465270,
+        "durationMs": 7920
+      },
+      {
+        "text": "que inmediatamente los valores se recalculan en este caso nos están",
+        "startMs": 473190,
+        "durationMs": 3180
+      },
+      {
+        "text": "mostrando las ventas de la bodega 2 entre el primero y el 30 de abril",
+        "startMs": 476370,
+        "durationMs": 4400
+      },
+      {
+        "text": "específicas hechas por este vendedor esta función nos ayuda a determinar los",
+        "startMs": 480770,
+        "durationMs": 5390
+      },
+      {
+        "text": "ingresos por venta filtrados como vemos por vendedor pero también podríamos",
+        "startMs": 486160,
+        "durationMs": 4200
+      },
+      {
+        "text": "aplicar un filtro de ventas por elemento de inventario por la ciudad donde vive",
+        "startMs": 490360,
+        "durationMs": 4470
+      },
+      {
+        "text": "el cliente entre otros informe de ingresos y gastos por",
+        "startMs": 494830,
+        "durationMs": 4790
+      },
+      {
+        "text": "vendedor con las funciones que acabamos de ver vamos a armar un informe en el",
+        "startMs": 499620,
+        "durationMs": 4470
+      },
+      {
+        "text": "cual podremos revisar las ventas de la empresa filtradas por cada vendedor al",
+        "startMs": 504090,
+        "durationMs": 5280
+      },
+      {
+        "text": "igual que los gastos que se han suscitado con cada vendedor",
+        "startMs": 509370,
+        "durationMs": 4870
+      },
+      {
+        "text": "este es el informe que hemos armado con las funciones saldo cuenta filtro e",
+        "startMs": 514240,
+        "durationMs": 5430
+      },
+      {
+        "text": "ingresos ventas filtro hemos determinado los datos básicos de la función como",
+        "startMs": 519670,
+        "durationMs": 5490
+      },
+      {
+        "text": "empresa bodega también si queremos llamar el tercero o cliente tenemos",
+        "startMs": 525160,
+        "durationMs": 5910
+      },
+      {
+        "text": "centro de costos productor y destino si lo queremos indicar y también la fecha",
+        "startMs": 531070,
+        "durationMs": 4890
+      },
+      {
+        "text": "inicial y la fecha final llamamos al listado de los vendedores",
+        "startMs": 535960,
+        "durationMs": 4340
+      },
+      {
+        "text": "directamente desde el catálogo y utilizamos la función nombre tercero",
+        "startMs": 540300,
+        "durationMs": 4420
+      },
+      {
+        "text": "para indicar el nombre de cada vendedor para determinar los ingresos de venta",
+        "startMs": 544720,
+        "durationMs": 4740
+      },
+      {
+        "text": "sin iva tomamos la función ingresos venta filtro",
+        "startMs": 549460,
+        "durationMs": 3300
+      },
+      {
+        "text": "y fijamos el dato de la bodega incluimos el filtro directamente en la",
+        "startMs": 552760,
+        "durationMs": 7489
+      },
+      {
+        "text": "función pero referenciando el código del vendedor fijamos la fecha inicial la",
+        "startMs": 560249,
+        "durationMs": 5461
+      },
+      {
+        "text": "fecha final la empresa el centro de costos productor y destino y también el",
+        "startMs": 565710,
+        "durationMs": 6450
+      },
+      {
+        "text": "dato tercero de esta forma arrastramos la función y",
+        "startMs": 572160,
+        "durationMs": 5400
+      },
+      {
+        "text": "finalmente hicimos una suma para determinar los gastos del vendedor por",
+        "startMs": 577560,
+        "durationMs": 5520
+      },
+      {
+        "text": "lo que va del año utilizamos la función saldo cuenta",
+        "startMs": 583080,
+        "durationMs": 3450
+      },
+      {
+        "text": "filtro en este caso incluimos dentro de la función la cuenta 5 que es la cuenta",
+        "startMs": 586530,
+        "durationMs": 6570
+      },
+      {
+        "text": "de gastos también escribimos el filtro dentro de la función referenciando el",
+        "startMs": 593100,
+        "durationMs": 4770
+      },
+      {
+        "text": "código del tercero y fijamos los datos de fecha final y empresa",
+        "startMs": 597870,
+        "durationMs": 6220
+      },
+      {
+        "text": "de esta sencilla manera podemos tener un control de los ingresos y de los gastos",
+        "startMs": 604090,
+        "durationMs": 5039
+      },
+      {
+        "text": "que nos suscitan por ejemplo en este caso los vendedores y podríamos",
+        "startMs": 609129,
+        "durationMs": 3810
+      },
+      {
+        "text": "simplemente cambiar datos básicos como las fechas",
+        "startMs": 612939,
+        "durationMs": 5700
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\nfunciones con filtro entre las funciones que context él nos ofrece podemos\nencontrar las funciones tipo filtro que permiten determinar un filtro de\ninformación que puede ser usado en las funciones de valores que manejan un\nparámetro de filtro la función de los filtros es permitir que las consultas\nhechas a través de las funciones de valores con filtros sean más específicas\ncontacte al ofrece una gran variedad de filtros y de funciones con filtros\nlos filtros podemos visualizar en la pestaña fórmulas filtros encontraremos\nfiltros como generales de movimiento contable de movimiento de inventario de\nplan de cuentas de terceros de tipo de movimiento de inventario y de tipo de\nterceros todos estos filtros pueden incorporarse\na las funciones de valor que tienen la opción de filtro por ejemplo en las\nfunciones de contabilidad encontraremos en las de movimiento la función cuenta\nfiltro en las de saldo por ejemplo\nencontraremos la función saldo cuenta filtro\nen las de carteras tenemos\nmoss cartera tercero filtro saldo cartera tercero filtro y por ejemplo en\nlos inventarios tenemos para ventas ingresos ventas filtros entre otros\nvamos a revisar a través de dos ejemplos cómo utilizar los filtros dentro de las\ndetermina el saldo de una o más cuentas con un filtro específico\nprimero vamos a revisar la sintaxis de la función abrimos la ayuda\ny podemos ver que esta función solicita datos como el identificador de la cuenta\nel filtro que vamos a aplicar la fecha final el identificador de la empresa\nidentificador del centro de costos y el tipo de contabilización\nesta función es muy parecida a la función saldo cuenta que permite atraer\nel saldo de una cuenta en específico la ventaja con esta función es que podemos\nagregar un filtro como por ejemplo de un tercero la función es su sintaxis no\nsolicita código de tercero pero con la opción de filtro podemos buscar un\nfiltro que nos permita insertar un tercero y así conocer el saldo de una\ncuenta para un tercero en la ayuda de la función en la parte inferior\nvamos a encontrar el tipo de filtros que podríamos aplicar en esta función por\nejemplo tenemos el filtro de movimiento contable de tercero filtro de clase de\noperación en movimiento contable de tipo de documento de soporte\ny el tercero en cartera más arriba en el ejemplo podremos ver cómo se debe\nvamos a realizar un ejemplo y con esta función de saldo cuenta filtro vamos a\nconsultar el saldo de una cuenta con el filtro de terceros en este caso vamos a\nindicar la cuenta 50 y 10 506 de sueldos vamos a indicar la fecha al 30 de abril\ny vemos que inmediatamente el sistema nos trae un valor este valor corresponde\na el saldo total de la cuenta 50 y 10 506 de la empresa por defecto en este\ncaso la empresa 1 al 30 de abril de 2020 en este caso se está tomando todos los\ncentros de costos y el tipo de contabilización por defecto que es la\nnisa ahora si queremos saber de un tercero específico el saldo de esta\ncuenta debemos insertar en el parámetro filtro\nun filtro que nos permita traer un tercero del movimiento contable podemos\ndigitar el filtro si lo conocemos o podemos buscarlo en la sección de\nfiltros en este caso vamos a buscarlo como es una función contable de saldo de\ncuenta vamos a buscarlo en los filtros contable y aquí tenemos el filtro\nmovimiento contable tercero el filtro como tal pide que los\nparámetros estén insertados con comillas si es que los vamos a digitar\ndirectamente dentro del filtro vamos a añadir entonces un tercero de ejemplo\nabrimos comilla doble colocamos el número de identificación del tercero por\nejemplo en este caso tengo la cédula de uno de los empleados\nvisitamos el número cerramos el filtro enter en este caso la función nos está\ntrayendo el saldo de la cuenta 51 05 06 al 30 abril de 2020 para este tercero en\nparticular otra forma de utilizar el filtro es referenciando dentro del\nfiltro el código por ejemplo podemos tener una sección donde tengamos el\nbuscamos el tercero con el seleccionador en este caso sería el señor fernando\nfernando vargas que es uno de nuestros empleados lo cargamos y lo que hacemos\nen el filtro es referenciar la celda vamos a borrar el dato que colocamos\nmanualmente referenciamos esta celda\ny el filtro funciona correctamente cualquiera de las dos opciones es válida\npara utilizar la información del filtro con esta función podemos consultar los\nsaldos contables de forma más detallada teniendo en cuenta otros datos como el\ntercero la clase de operación el tipo de documento de soporte entre otros\nfunción ingresos ventas filtro esta función determina los ingresos por venta\ndel elemento de inventario con un filtro determinado recordemos que esta función\nsólo calcula los valores base esto quiere decir que no toma en cuenta el\nya tenemos la función armada y referenciando los campos desde las\nceldas correspondientes en este caso con los datos que tenemos cargados podemos\nver las ventas de la bodega 2 del primero de abril al 30 de abril de la\nempresa 1 estos serían los ingresos globales pero qué pasa si necesito\naveriguar los ingresos por un vendedor en particular contacten nos ofrece el\nfiltro para poder visualizar los ingresos por vendedor vamos a ubicarnos\nen la celda donde debe ir el parámetro de filtro nos dirigimos a fórmulas\nfiltros y en este caso debemos buscar un filtro por movimiento de inventario ya\nque la función como tal de ingresos ventas sólo tiene en cuenta las ventas\nregistradas a través de la operación de ventas del módulo de inventarios ventas\ny facturación vamos a buscar el filtro que en este caso sería filtro mof\ninventario vendedor el filtro funciona exactamente igual a la anterior podemos\ndigitar el valor entre comillas dobles o podemos referenciar los si lo tenemos en\notra ubicación vamos a escribir de un vendedor cerramos las comillas\nvemos que inmediatamente nos carga el valor igualmente podemos referenciar el\nvendedor en otra celda llamándolo desde los catálogos\nen este caso sería el señor luís muñoz y vamos a referenciar en este caso desde\nla celda borramos el dato que copiamos referenciamos desde la celda enter vemos\nque inmediatamente los valores se recalculan en este caso nos están\nmostrando las ventas de la bodega 2 entre el primero y el 30 de abril\nespecíficas hechas por este vendedor esta función nos ayuda a determinar los\ningresos por venta filtrados como vemos por vendedor pero también podríamos\naplicar un filtro de ventas por elemento de inventario por la ciudad donde vive\nel cliente entre otros informe de ingresos y gastos por\nvendedor con las funciones que acabamos de ver vamos a armar un informe en el\ncual podremos revisar las ventas de la empresa filtradas por cada vendedor al\nigual que los gastos que se han suscitado con cada vendedor\neste es el informe que hemos armado con las funciones saldo cuenta filtro e\ningresos ventas filtro hemos determinado los datos básicos de la función como\nempresa bodega también si queremos llamar el tercero o cliente tenemos\ncentro de costos productor y destino si lo queremos indicar y también la fecha\ninicial y la fecha final llamamos al listado de los vendedores\ndirectamente desde el catálogo y utilizamos la función nombre tercero\npara indicar el nombre de cada vendedor para determinar los ingresos de venta\nsin iva tomamos la función ingresos venta filtro\ny fijamos el dato de la bodega incluimos el filtro directamente en la\nfunción pero referenciando el código del vendedor fijamos la fecha inicial la\nfecha final la empresa el centro de costos productor y destino y también el\ndato tercero de esta forma arrastramos la función y\nfinalmente hicimos una suma para determinar los gastos del vendedor por\nlo que va del año utilizamos la función saldo cuenta\nfiltro en este caso incluimos dentro de la función la cuenta 5 que es la cuenta\nde gastos también escribimos el filtro dentro de la función referenciando el\ncódigo del tercero y fijamos los datos de fecha final y empresa\nde esta sencilla manera podemos tener un control de los ingresos y de los gastos\nque nos suscitan por ejemplo en este caso los vendedores y podríamos\nsimplemente cambiar datos básicos como las fechas"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 196.868,
+    "asr": 44100,
+    "filesizeApprox": 15302303,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/jfY-nwym894.md",
+    "json": "videos/2020/jfY-nwym894.json",
+    "infoJson": "videos/2020/jfY-nwym894.info.json"
+  }
+}

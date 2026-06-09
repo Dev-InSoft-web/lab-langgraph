@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:36:48.495Z",
+  "videoId": "mV_kwBbRi_w",
+  "videoUrl": "https://www.youtube.com/watch?v=mV_kwBbRi_w",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "mV_kwBbRi_w",
+    "title": "Software contable ContaPyme - Ejemplo 1: operación de venta",
+    "fulltitle": "Software contable ContaPyme - Ejemplo 1: operación de venta",
+    "description": "http: //www.contapyme.com\nEn este video se explica, por medio de un ejemplo, cómo realizar una operación de ventas. \nCP40-090-010-010",
+    "duration": 411,
+    "duration_string": "6:51",
+    "upload_date": "20170417",
+    "timestamp": 1492465924,
+    "view_count": 44,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "Sistema contable",
+      "Software contable",
+      "Sistema de contabilidad",
+      "Software para pymes",
+      "Sistema de gestión empresarial",
+      "Software para contadores",
+      "Programa contable",
+      "Software contable Colombia",
+      "Software contable y administrativo",
+      "Software NIIF",
+      "Normas internacionales de información financiera",
+      "NIIF",
+      "Software de facturación",
+      "Facturación",
+      "Sistema de facturación",
+      "Inventarios"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQiYoRgne2pb2lkq0i7U_yHprEEg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD51lRPaypTJdZLQHUNbgjtaisTTg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSCikn0SkMfI80Sdtw-Llw5bEsuA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZEv4t1ThcadfDd2eH3N8sQcBvgg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD06yBSkzhLZ7H220phweuTdU0xfw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGGP6FQprEnAcaBMSULluQDjZA_A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL-RbpnIXdYl6WGbieiDlxwdLb7Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKSfyKHeW2vLjH42b0DcQUcmlSzA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/mV_kwBbRi_w/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/mV_kwBbRi_w/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=mV_kwBbRi_w",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.24330900243309003,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20437956204379562,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20437956204379562,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 233.746,
+        "asr": 44100,
+        "filesize_approx": 12005106,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ejemplo 1: operación de venta",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/mV_kwBbRi_w/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/mV_kwBbRi_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ejemplo 1: operación de venta\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 72,
+    "transcriptChars": 5164,
+    "segments": [
+      {
+        "text": "ejemplo uno operación de facturación y ventas el objetivo de este video es",
+        "startMs": 560,
+        "durationMs": 5870
+      },
+      {
+        "text": "explicar por medio de un ejemplo Cómo se realiza la operación de facturación y",
+        "startMs": 6430,
+        "durationMs": 5720
+      },
+      {
+        "text": "ventas vamos a realizar el siguiente ejemplo registraremos una venta de",
+        "startMs": 12150,
+        "durationMs": 5320
+      },
+      {
+        "text": "mercancías al cliente Silvana Arenas el día 20 de enero de",
+        "startMs": 17470,
+        "durationMs": 5240
+      },
+      {
+        "text": "2016 los productos vendidos son un escritorio extensible y un computador",
+        "startMs": 22710,
+        "durationMs": 5600
+      },
+      {
+        "text": "portátil eer y 5 se genera una cuenta por",
+        "startMs": 28310,
+        "durationMs": 5280
+      },
+      {
+        "text": "por cobrar ubicados en el manejador de",
+        "startMs": 33590,
+        "durationMs": 2560
+      },
+      {
+        "text": "operaciones Nos dirigimos al botón más operaciones y en la pestaña ventas",
+        "startMs": 36150,
+        "durationMs": 5680
+      },
+      {
+        "text": "encontramos el acceso a la operación de facturación y",
+        "startMs": 41830,
+        "durationMs": 5160
+      },
+      {
+        "text": "ventas vamos a sustentar nuestra operación con el tipo de documento de",
+        "startMs": 47000,
+        "durationMs": 4029
+      },
+      {
+        "text": "soporte 10 de factura de venta vemos que el sistema Calcula de",
+        "startMs": 51029,
+        "durationMs": 4721
+      },
+      {
+        "text": "forma automática el número del consecutivo en la fecha de soporte de la",
+        "startMs": 55750,
+        "durationMs": 4479
+      },
+      {
+        "text": "operación vamos a colocar el día 20 de enero de",
+        "startMs": 60229,
+        "durationMs": 4361
+      },
+      {
+        "text": "2016 en el detalle escribiremos venta de mercancías a Silvana Arenas ahora vamos",
+        "startMs": 64590,
+        "durationMs": 8000
+      },
+      {
+        "text": "a cargar al cliente al cual estamos realizando la venta abrimos el",
+        "startMs": 72590,
+        "durationMs": 5400
+      },
+      {
+        "text": "seleccionador y buscamos a la señora Silvana",
+        "startMs": 77990,
+        "durationMs": 3840
+      },
+      {
+        "text": "Silvana Arenas damos doble clic para",
+        "startMs": 81830,
+        "durationMs": 3000
+      },
+      {
+        "text": "seleccionarla de ser necesario podemos cambiar la lista de preos con la cual",
+        "startMs": 84830,
+        "durationMs": 5080
+      },
+      {
+        "text": "facturar remos los productos ahora vamos a seleccionar al vendedor responsable de",
+        "startMs": 89910,
+        "durationMs": 5000
+      },
+      {
+        "text": "esta venta abrimos el seleccionador Y en este caso es la",
+        "startMs": 94910,
+        "durationMs": 5360
+      },
+      {
+        "text": "señora Alexandra Restrepo damos doble clic para seleccionarla lo siguiente que",
+        "startMs": 100270,
+        "durationMs": 5920
+      },
+      {
+        "text": "haremos es seleccionar la bodega de la cual saldrán los productos que estamos",
+        "startMs": 106190,
+        "durationMs": 4599
+      },
+      {
+        "text": "vendiendo podemos abrir el seleccionador o podemos digitar el código de la bodega",
+        "startMs": 110789,
+        "durationMs": 5041
+      },
+      {
+        "text": "en caso de conocerlo en este caso los productos saldrán de la bga 2s cable",
+        "startMs": 115830,
+        "durationMs": 5800
+      },
+      {
+        "text": "vamos a digitar el código lo siguiente que haremos será cargar los productos a",
+        "startMs": 121630,
+        "durationMs": 5360
+      },
+      {
+        "text": "seleccionador y nos ubicamos en la columna nombre para buscar el producto",
+        "startMs": 126990,
+        "durationMs": 10400
+      },
+      {
+        "text": "escribimos escritorio extensible damos doble clic para",
+        "startMs": 137400,
+        "durationMs": 4829
+      },
+      {
+        "text": "seleccionarlo con la tecla enter nos desplazamos a la siguiente columna en la",
+        "startMs": 142229,
+        "durationMs": 4441
+      },
+      {
+        "text": "cual debemos indicar la cantidad de producto vendido en este caso fue solo",
+        "startMs": 146670,
+        "durationMs": 4720
+      },
+      {
+        "text": "una unidad podemos ver que en el dato de precio unitario se ha cargado de forma",
+        "startMs": 151390,
+        "durationMs": 5600
+      },
+      {
+        "text": "automática el precio que este producto tenía para la lista de precios uno",
+        "startMs": 156990,
+        "durationMs": 5200
+      },
+      {
+        "text": "Igualmente se ha calculado un IVA del 16 por. nos desplazamos a la siguiente",
+        "startMs": 162190,
+        "durationMs": 5920
+      },
+      {
+        "text": "columna en la cual se debe indicar el centro de costos al cual se cargará el",
+        "startMs": 168110,
+        "durationMs": 4800
+      },
+      {
+        "text": "ingreso por la venta del producto en este caso se ha cargado automáticamente",
+        "startMs": 172910,
+        "durationMs": 4959
+      },
+      {
+        "text": "el centro de costos punto de venta cable este cento de costos se carga",
+        "startMs": 177869,
+        "durationMs": 4720
+      },
+      {
+        "text": "automáticamente de la configuración que tiene la bodega de la cual saldrán los",
+        "startMs": 182589,
+        "durationMs": 5121
+      },
+      {
+        "text": "productos haremos lo mismo con los demás elementos a vender una vez registrados",
+        "startMs": 187710,
+        "durationMs": 5599
+      },
+      {
+        "text": "los elementos con sus respectivas cantidades y costos damos clic al botón",
+        "startMs": 193309,
+        "durationMs": 6161
+      },
+      {
+        "text": "siguiente en el segundo paso de la operación podemos especificar algunas",
+        "startMs": 199470,
+        "durationMs": 4960
+      },
+      {
+        "text": "observaciones relacionadas con la venta o con los productos vendidos en este",
+        "startMs": 204430,
+        "durationMs": 4680
+      },
+      {
+        "text": "caso es escribiremos escritorio extensible y computador portátil acer c5",
+        "startMs": 209110,
+        "durationMs": 6960
+      },
+      {
+        "text": "el producto se entrega en el punto de pago debidamente revisado Igualmente se",
+        "startMs": 216070,
+        "durationMs": 4840
+      },
+      {
+        "text": "entrega la garantía del producto damos clic al botón",
+        "startMs": 220910,
+        "durationMs": 4120
+      },
+      {
+        "text": "siguiente en este paso de la operación podemos cargar otros ingresos O valores",
+        "startMs": 225030,
+        "durationMs": 4680
+      },
+      {
+        "text": "adicionales a la venta de los elementos Como por ejemplo fletes en este caso no",
+        "startMs": 229710,
+        "durationMs": 5480
+      },
+      {
+        "text": "registraremos ingresos adicionales damos clic al botón siguiente",
+        "startMs": 235190,
+        "durationMs": 5480
+      },
+      {
+        "text": "a continuación en El Paso de liquidación y forma de cobro podemos ver que el",
+        "startMs": 240670,
+        "durationMs": 3759
+      },
+      {
+        "text": "sistema ha calculado automáticamente un IVA del 16 por al igual que el impuesto",
+        "startMs": 244429,
+        "durationMs": 6640
+      },
+      {
+        "text": "del cre del 0,4 por. finalmente seleccionamos la forma de pago que en",
+        "startMs": 251069,
+        "durationMs": 5840
+      },
+      {
+        "text": "este caso fue una cuenta por cobrar podemos digitar el valor o utilizar el",
+        "startMs": 256909,
+        "durationMs": 5280
+      },
+      {
+        "text": "botón diferencia para que el sistema suba el valor de forma automática",
+        "startMs": 262189,
+        "durationMs": 4361
+      },
+      {
+        "text": "podemos ver que en el campo cobrar a el sistema cargado automáticamente el",
+        "startMs": 266550,
+        "durationMs": 4720
+      },
+      {
+        "text": "cliente al cual estamos haciendo la venta en este caso la señora Silvana",
+        "startMs": 271270,
+        "durationMs": 4919
+      },
+      {
+        "text": "Arenas luego debemos seleccionar la cuenta sobre la cual se contabilizará la",
+        "startMs": 276189,
+        "durationMs": 4840
+      },
+      {
+        "text": "deuda abrimos el seleccionador y escogemos la cuenta",
+        "startMs": 281029,
+        "durationMs": 5160
+      },
+      {
+        "text": "13005 00505 de Nacionales en la fecha de pago el",
+        "startMs": 286189,
+        "durationMs": 6000
+      },
+      {
+        "text": "sistema ha calculado automáticamente 30 días de plazo podemos cambiar esta fecha",
+        "startMs": 292189,
+        "durationMs": 5361
+      },
+      {
+        "text": "de ser necesario e igualmente podemos hacer una programación de cuotas antes",
+        "startMs": 297550,
+        "durationMs": 5359
+      },
+      {
+        "text": "de guardar y procesar la operación podemos visualizar el documento de",
+        "startMs": 302909,
+        "durationMs": 3881
+      },
+      {
+        "text": "impresión damos clic al botón imprimir y el sistema nos Abre la",
+        "startMs": 306790,
+        "durationMs": 5720
+      },
+      {
+        "text": "ventana para seleccionar el documento de impresión en este caso por defecto nos",
+        "startMs": 312510,
+        "durationMs": 5040
+      },
+      {
+        "text": "sugiere el documento 10 de factura de venta damos clic al botón vista",
+        "startMs": 317550,
+        "durationMs": 7120
+      },
+      {
+        "text": "previa ampliamos la vista y vemos como el documento de",
+        "startMs": 324680,
+        "durationMs": 5150
+      },
+      {
+        "text": "impresión muestra el logotipo de la empresa el nombre y número del",
+        "startMs": 329830,
+        "durationMs": 5680
+      },
+      {
+        "text": "documento los datos del cliente la fecha del documento el total facturado El",
+        "startMs": 335510,
+        "durationMs": 7679
+      },
+      {
+        "text": "vendedor responsable la fecha de vencimiento de la cuenta por cobrar el",
+        "startMs": 343189,
+        "durationMs": 5641
+      },
+      {
+        "text": "listado de los productos con sus cantidades y",
+        "startMs": 348830,
+        "durationMs": 3120
+      },
+      {
+        "text": "precios los impuestos liquidados y la forma de pago igualmente nos muestra Las",
+        "startMs": 351950,
+        "durationMs": 6400
+      },
+      {
+        "text": "observaciones digitales cerramos la vista previa y verificamos",
+        "startMs": 358350,
+        "durationMs": 31200
+      },
+      {
+        "text": "entos contables necesarios Incluyendo los movimientos de salida del inventario",
+        "startMs": 389560,
+        "durationMs": 7510
+      },
+      {
+        "text": "el ingreso el costo de",
+        "startMs": 397070,
+        "durationMs": 2480
+      },
+      {
+        "text": "venta los impuestos y la cuenta por cobrar esto es todo acerca de ejemplo",
+        "startMs": 399550,
+        "durationMs": 13010
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este video se explica, por medio de un ejemplo, cómo realizar una operación de ventas. \nCP40-090-010-010\n\n## Transcripción\n\nejemplo uno operación de facturación y ventas el objetivo de este video es\nexplicar por medio de un ejemplo Cómo se realiza la operación de facturación y\nventas vamos a realizar el siguiente ejemplo registraremos una venta de\nmercancías al cliente Silvana Arenas el día 20 de enero de\n2016 los productos vendidos son un escritorio extensible y un computador\nportátil eer y 5 se genera una cuenta por\npor cobrar ubicados en el manejador de\noperaciones Nos dirigimos al botón más operaciones y en la pestaña ventas\nencontramos el acceso a la operación de facturación y\nventas vamos a sustentar nuestra operación con el tipo de documento de\nsoporte 10 de factura de venta vemos que el sistema Calcula de\nforma automática el número del consecutivo en la fecha de soporte de la\noperación vamos a colocar el día 20 de enero de\n2016 en el detalle escribiremos venta de mercancías a Silvana Arenas ahora vamos\na cargar al cliente al cual estamos realizando la venta abrimos el\nseleccionador y buscamos a la señora Silvana\nSilvana Arenas damos doble clic para\nseleccionarla de ser necesario podemos cambiar la lista de preos con la cual\nfacturar remos los productos ahora vamos a seleccionar al vendedor responsable de\nesta venta abrimos el seleccionador Y en este caso es la\nseñora Alexandra Restrepo damos doble clic para seleccionarla lo siguiente que\nharemos es seleccionar la bodega de la cual saldrán los productos que estamos\nvendiendo podemos abrir el seleccionador o podemos digitar el código de la bodega\nen caso de conocerlo en este caso los productos saldrán de la bga 2s cable\nvamos a digitar el código lo siguiente que haremos será cargar los productos a\nseleccionador y nos ubicamos en la columna nombre para buscar el producto\nescribimos escritorio extensible damos doble clic para\nseleccionarlo con la tecla enter nos desplazamos a la siguiente columna en la\ncual debemos indicar la cantidad de producto vendido en este caso fue solo\nuna unidad podemos ver que en el dato de precio unitario se ha cargado de forma\nautomática el precio que este producto tenía para la lista de precios uno\nIgualmente se ha calculado un IVA del 16 por. nos desplazamos a la siguiente\ncolumna en la cual se debe indicar el centro de costos al cual se cargará el\ningreso por la venta del producto en este caso se ha cargado automáticamente\nel centro de costos punto de venta cable este cento de costos se carga\nautomáticamente de la configuración que tiene la bodega de la cual saldrán los\nproductos haremos lo mismo con los demás elementos a vender una vez registrados\nlos elementos con sus respectivas cantidades y costos damos clic al botón\nsiguiente en el segundo paso de la operación podemos especificar algunas\nobservaciones relacionadas con la venta o con los productos vendidos en este\ncaso es escribiremos escritorio extensible y computador portátil acer c5\nel producto se entrega en el punto de pago debidamente revisado Igualmente se\nentrega la garantía del producto damos clic al botón\nsiguiente en este paso de la operación podemos cargar otros ingresos O valores\nadicionales a la venta de los elementos Como por ejemplo fletes en este caso no\nregistraremos ingresos adicionales damos clic al botón siguiente\na continuación en El Paso de liquidación y forma de cobro podemos ver que el\nsistema ha calculado automáticamente un IVA del 16 por al igual que el impuesto\ndel cre del 0,4 por. finalmente seleccionamos la forma de pago que en\neste caso fue una cuenta por cobrar podemos digitar el valor o utilizar el\nbotón diferencia para que el sistema suba el valor de forma automática\npodemos ver que en el campo cobrar a el sistema cargado automáticamente el\ncliente al cual estamos haciendo la venta en este caso la señora Silvana\nArenas luego debemos seleccionar la cuenta sobre la cual se contabilizará la\ndeuda abrimos el seleccionador y escogemos la cuenta\n13005 00505 de Nacionales en la fecha de pago el\nsistema ha calculado automáticamente 30 días de plazo podemos cambiar esta fecha\nde ser necesario e igualmente podemos hacer una programación de cuotas antes\nde guardar y procesar la operación podemos visualizar el documento de\nimpresión damos clic al botón imprimir y el sistema nos Abre la\nventana para seleccionar el documento de impresión en este caso por defecto nos\nsugiere el documento 10 de factura de venta damos clic al botón vista\nprevia ampliamos la vista y vemos como el documento de\nimpresión muestra el logotipo de la empresa el nombre y número del\ndocumento los datos del cliente la fecha del documento el total facturado El\nvendedor responsable la fecha de vencimiento de la cuenta por cobrar el\nlistado de los productos con sus cantidades y\nprecios los impuestos liquidados y la forma de pago igualmente nos muestra Las\nobservaciones digitales cerramos la vista previa y verificamos\nentos contables necesarios Incluyendo los movimientos de salida del inventario\nel ingreso el costo de\nventa los impuestos y la cuenta por cobrar esto es todo acerca de ejemplo"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 233.746,
+    "asr": 44100,
+    "filesizeApprox": 12005106,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/mV_kwBbRi_w.md",
+    "json": "videos/2017/mV_kwBbRi_w.json",
+    "infoJson": "videos/2017/mV_kwBbRi_w.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "mV_kwBbRi_w",
+        "youtubeId": "mV_kwBbRi_w",
+        "titulo": "Software contable ContaPyme - Ejemplo 1: operación de venta",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

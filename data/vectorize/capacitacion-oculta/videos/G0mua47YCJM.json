@@ -1,0 +1,947 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:20:33.027Z",
+  "videoId": "G0mua47YCJM",
+  "videoUrl": "https://www.youtube.com/watch?v=G0mua47YCJM",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "G0mua47YCJM",
+    "title": "Software contable ContaPyme - ¿Cómo generar un informe de movimiento de cuentas por cobrar?",
+    "fulltitle": "Software contable ContaPyme - ¿Cómo generar un informe de movimiento de cuentas por cobrar?",
+    "description": "http: //www.contapyme.com\nEste vídeo explica cómo generar el informe de movimiento de cuentas por cobrar y su estructura.\nCP40-080-030-020",
+    "duration": 568,
+    "duration_string": "9:28",
+    "upload_date": "20160305",
+    "timestamp": 1457207103,
+    "view_count": 396,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_follower_count": 11800,
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestión empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable Colombia",
+      "software contable y administrativo",
+      "software niif",
+      "normas internacionales de información financiera",
+      "niif",
+      "cartera"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/G0mua47YCJM/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJgUFmvq6mKrRdNwfwpe14mGl6zg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpcuwY9t6a8mffrVhkye7HFKb3wA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDirk2b_bpYkOs1ZNsOChVqcWBwBQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATiRk2EMzbPSm3TFCjGQ7HUAB6RA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/G0mua47YCJM/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/G0mua47YCJM/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=G0mua47YCJM",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.176056338028169,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20246478873239437,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20246478873239437,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "320x180",
+        "width": 320,
+        "height": 180,
+        "fps": 0.20246478873239437,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 170.328,
+        "asr": 44100,
+        "filesize_approx": 12098355,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - ¿Cómo generar un informe de movimiento de cuentas por cobrar?",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/G0mua47YCJM/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/G0mua47YCJM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - ¿Cómo generar un informe de movimiento de cuentas por cobrar?\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "segmentCount": 102,
+    "transcriptChars": 7263,
+    "segments": [
+      {
+        "text": "Cómo generar el informe movimiento de cuentas por cobrar el objetivo de este",
+        "startMs": 640,
+        "durationMs": 4870
+      },
+      {
+        "text": "video es explicar cómo se genera el informe movimiento de cuentas por cobrar",
+        "startMs": 5510,
+        "durationMs": 4840
+      },
+      {
+        "text": "Y cómo está conformada su estructura el movimiento de cuentas por cobrar es un",
+        "startMs": 10350,
+        "durationMs": 5000
+      },
+      {
+        "text": "informe de tipo impresión que nos permite visualizar en un Rango de fechas",
+        "startMs": 15350,
+        "durationMs": 4880
+      },
+      {
+        "text": "determinado el reporte detallado de un crédito es decir el documento que dio",
+        "startMs": 20230,
+        "durationMs": 5000
+      },
+      {
+        "text": "origen a la cuenta por cobrar y cada uno de los abonos que se han registrado",
+        "startMs": 25230,
+        "durationMs": 5519
+      },
+      {
+        "text": "por defecto la presentación del informe movimiento de cuentas por cobrar nos",
+        "startMs": 30749,
+        "durationMs": 4241
+      },
+      {
+        "text": "muestra algunos Campos como son la cuenta de cartera el código y nombre del",
+        "startMs": 34990,
+        "durationMs": 6000
+      },
+      {
+        "text": "tercero la fecha de creación de la cuenta por cobrar el documento",
+        "startMs": 40990,
+        "durationMs": 5199
+      },
+      {
+        "text": "referencia que respalda la cuenta por cobrar el detalle del crédito la fecha",
+        "startMs": 46189,
+        "durationMs": 5840
+      },
+      {
+        "text": "estimada de pago el plazo que tiene la cuenta por cobrar para ser cancelada",
+        "startMs": 52029,
+        "durationMs": 5561
+      },
+      {
+        "text": "tomando como base la fecha final indicada en el rango de fechas Al",
+        "startMs": 57590,
+        "durationMs": 5880
+      },
+      {
+        "text": "momento de generar el informe Y por último tenemos la edad de la",
+        "startMs": 63470,
+        "durationMs": 5480
+      },
+      {
+        "text": "cartera en los campos correspondientes a los movimientos podemos ver el número",
+        "startMs": 68950,
+        "durationMs": 5400
+      },
+      {
+        "text": "del documento con el cual se registró el movimiento la fecha del movimiento el",
+        "startMs": 74350,
+        "durationMs": 6160
+      },
+      {
+        "text": "valor registrado y el detalle del movimiento el saldo para la referencia a",
+        "startMs": 80510,
+        "durationMs": 6360
+      },
+      {
+        "text": "la fecha final del informe y el saldo total de la suma de las cuentas por",
+        "startMs": 86870,
+        "durationMs": 5040
+      },
+      {
+        "text": "cobrar que la empresa tiene con el tercero vamos ahora al sistema para",
+        "startMs": 91910,
+        "durationMs": 4360
+      },
+      {
+        "text": "conocer cómo se genera este informe para generar el informe",
+        "startMs": 96270,
+        "durationMs": 4920
+      },
+      {
+        "text": "movimiento de cuentas por cobrar nos ubicamos en la pestaña",
+        "startMs": 101190,
+        "durationMs": 5360
+      },
+      {
+        "text": "cartera en la opción informes seleccionamos informes de",
+        "startMs": 106550,
+        "durationMs": 6559
+      },
+      {
+        "text": "cartera desplegamos el menú y vamos a seleccionar el informe movimiento de",
+        "startMs": 113109,
+        "durationMs": 6280
+      },
+      {
+        "text": "cuenta por cobrar así el sistema nos Abre una",
+        "startMs": 119389,
+        "durationMs": 5561
+      },
+      {
+        "text": "ventana de filtro en la cual le podemos indicar la información que se tomará",
+        "startMs": 124950,
+        "durationMs": 4680
+      },
+      {
+        "text": "como base para generar el informe podemos indicar un Rango de fechas entre",
+        "startMs": 129630,
+        "durationMs": 5080
+      },
+      {
+        "text": "las cuales deseamos generar el informe podemos indicar un tercero en",
+        "startMs": 134710,
+        "durationMs": 7400
+      },
+      {
+        "text": "específico por el cual necesitamos generar el informe podemos indicar",
+        "startMs": 142110,
+        "durationMs": 4320
+      },
+      {
+        "text": "también un Rango de cuentas de cartera para visualizar las en el informe y",
+        "startMs": 146430,
+        "durationMs": 5000
+      },
+      {
+        "text": "podemos indicar si este informe lo deseamos generar utilizando la",
+        "startMs": 151430,
+        "durationMs": 4600
+      },
+      {
+        "text": "contabilización local o la contabilización nif cuando no se indica",
+        "startMs": 156030,
+        "durationMs": 5000
+      },
+      {
+        "text": "ninguna información en estos Campos el sistema mostrará en el informe los",
+        "startMs": 161030,
+        "durationMs": 4520
+      },
+      {
+        "text": "movimientos de todas las cuentas por cobrar que la empresa tiene con todos",
+        "startMs": 165550,
+        "durationMs": 4120
+      },
+      {
+        "text": "los terceros y mostrará también todas las cuentas de cartera el sistema nos",
+        "startMs": 169670,
+        "durationMs": 5040
+      },
+      {
+        "text": "permite generar este informe de forma más detallada asignando clasificador",
+        "startMs": 174710,
+        "durationMs": 6040
+      },
+      {
+        "text": "podemos generar el informe clasificado por vendedor ciudad departamento país",
+        "startMs": 180750,
+        "durationMs": 11559
+      },
+      {
+        "text": "entre otros también podemos generar el informe",
+        "startMs": 192309,
+        "durationMs": 3480
+      },
+      {
+        "text": "indicando más opciones podemos indicar una categoría y",
+        "startMs": 195789,
+        "durationMs": 5841
+      },
+      {
+        "text": "clasificación del tercero podemos generar el informe para un centro de",
+        "startMs": 201630,
+        "durationMs": 4800
+      },
+      {
+        "text": "costos o una referencia en específico y también podemos aplicar filtros",
+        "startMs": 206430,
+        "durationMs": 5760
+      },
+      {
+        "text": "avanzados por último encontramos varias opciones que podemos seleccionar para",
+        "startMs": 212190,
+        "durationMs": 5000
+      },
+      {
+        "text": "visualizar el informe podemos solicitarle al sistema que nos genere el",
+        "startMs": 217190,
+        "durationMs": 4560
+      },
+      {
+        "text": "informe en calidad borrador opción que es muy usada cuando Contamos con una",
+        "startMs": 221750,
+        "durationMs": 4559
+      },
+      {
+        "text": "impresora de matriz de punto podemos solicitarle al sistema que nos muestre",
+        "startMs": 226309,
+        "durationMs": 4761
+      },
+      {
+        "text": "en el informe las cuentas con saldo en cero y también podemos visualizar la",
+        "startMs": 231070,
+        "durationMs": 6159
+      },
+      {
+        "text": "fecha y hora de generación del informe en el pie de página entre",
+        "startMs": 237229,
+        "durationMs": 6360
+      },
+      {
+        "text": "otras en este caso indicamos como fecha inicial el día primero de enero del año",
+        "startMs": 243589,
+        "durationMs": 6121
+      },
+      {
+        "text": "2015 y como fecha final el día 30 de noviembre del año 2015 e indicamos que",
+        "startMs": 249710,
+        "durationMs": 7120
+      },
+      {
+        "text": "se filtre el informe solo por el tercero decogar",
+        "startMs": 256830,
+        "durationMs": 6160
+      },
+      {
+        "text": "decogar Sas y damos clic en ver",
+        "startMs": 262990,
+        "durationMs": 5720
+      },
+      {
+        "text": "reporte de esta forma el sistema nos abre el informe de tipo impresión en una",
+        "startMs": 268720,
+        "durationMs": 5710
+      },
+      {
+        "text": "pestaña adicional allí podemos visualizar las columnas que acabamos de",
+        "startMs": 274430,
+        "durationMs": 5319
+      },
+      {
+        "text": "ver en la estructura del informe así podemos ver el nombre del informe el",
+        "startMs": 279749,
+        "durationMs": 6280
+      },
+      {
+        "text": "rango de fechas que indicamos en la ventana de filtro podemos ver que solo",
+        "startMs": 286029,
+        "durationMs": 4720
+      },
+      {
+        "text": "se mostrarán los movimientos generados desde el primero de enero del año 2015",
+        "startMs": 290749,
+        "durationMs": 5561
+      },
+      {
+        "text": "hasta el día 30 de noviembre del mismo año que incluye solo el tercero indicado",
+        "startMs": 296310,
+        "durationMs": 5840
+      },
+      {
+        "text": "en la caja de filtro y se incluyen todas las cuentas de",
+        "startMs": 302150,
+        "durationMs": 4800
+      },
+      {
+        "text": "cartera veamos entonces que para la cuenta de cartera deudores nacionales el",
+        "startMs": 306950,
+        "durationMs": 5920
+      },
+      {
+        "text": "tercero decogar Sas el día 15 de octubre del 2015 se",
+        "startMs": 312870,
+        "durationMs": 6960
+      },
+      {
+        "text": "creó el documento referencia factura de venta número 33 cuota número dos cuya",
+        "startMs": 319830,
+        "durationMs": 6160
+      },
+      {
+        "text": "fecha de pago es el día primero de diciembre del año año 2015 cuenta con un",
+        "startMs": 325990,
+        "durationMs": 5960
+      },
+      {
+        "text": "día de plazo para ser cancelada y tiene cero meses de plazo en edad de cartera",
+        "startMs": 331950,
+        "durationMs": 6320
+      },
+      {
+        "text": "vemos también el detalle de la cuenta por cobrar el documento con el cual se",
+        "startMs": 338270,
+        "durationMs": 5000
+      },
+      {
+        "text": "soporta la cuenta por cobrar la fecha en la cual se creó el valor de la cuenta",
+        "startMs": 343270,
+        "durationMs": 5560
+      },
+      {
+        "text": "por cobrar de 1,971",
+        "startMs": 348830,
+        "durationMs": 4120
+      },
+      {
+        "text": "1,971 684 y en el detalle del movimiento vemos",
+        "startMs": 352950,
+        "durationMs": 3239
+      },
+      {
+        "text": "que esta es la cuota número dos de dos programadas",
+        "startMs": 356189,
+        "durationMs": 4440
+      },
+      {
+        "text": "programadas podemos observar también dos abonos",
+        "startMs": 360629,
+        "durationMs": 2081
+      },
+      {
+        "text": "realizados a esta cuenta por cobrar uno con el comprobante de ingreso número 34",
+        "startMs": 362710,
+        "durationMs": 5919
+      },
+      {
+        "text": "el día 23 de noviembre del año 2015 por valor de",
+        "startMs": 368629,
+        "durationMs": 6881
+      },
+      {
+        "text": "5283 y el segundo abono realizado con el comprobante de ingreso número",
+        "startMs": 375520,
+        "durationMs": 5630
+      },
+      {
+        "text": "37 registrado el día 27 de noviembre del año 2015 por valor de",
+        "startMs": 381150,
+        "durationMs": 7400
+      },
+      {
+        "text": "500.000 quedando como saldo pendiente para esta cuenta por cobrar a la fecha",
+        "startMs": 388550,
+        "durationMs": 5359
+      },
+      {
+        "text": "final del informe es decir al día 30 de noviembre del año 2015 un valor de",
+        "startMs": 393909,
+        "durationMs": 8840
+      },
+      {
+        "text": "94336 pes y como saldo total para el tercero de cogar",
+        "startMs": 402759,
+        "durationMs": 5830
+      },
+      {
+        "text": "Sas un valor de 94336 pesos ya que a la fecha de",
+        "startMs": 408589,
+        "durationMs": 6361
+      },
+      {
+        "text": "generación del informe la empresa solo tiene pendiente esta cuenta por cobrar",
+        "startMs": 414950,
+        "durationMs": 4959
+      },
+      {
+        "text": "con el tercero en la parte superior del informe encontramos la cinta de opciones",
+        "startMs": 419909,
+        "durationMs": 6280
+      },
+      {
+        "text": "en la cual podemos encontrar diferentes alternativas como son las acciones",
+        "startMs": 426189,
+        "durationMs": 4921
+      },
+      {
+        "text": "generales que podemos realizar sobre el informe las opciones de zoom para",
+        "startMs": 431110,
+        "durationMs": 5040
+      },
+      {
+        "text": "visualizar el informe opciones de navegación para podernos desplazar entre",
+        "startMs": 436150,
+        "durationMs": 5759
+      },
+      {
+        "text": "las páginas del informe en el caso que este cuente con más de una y contamos",
+        "startMs": 441909,
+        "durationMs": 5680
+      },
+      {
+        "text": "también con la opción de almac cenamiento en la nube entre otras Esta",
+        "startMs": 447589,
+        "durationMs": 5121
+      },
+      {
+        "text": "última nos permite disponer del informe en cualquier lugar en el cual nos",
+        "startMs": 452710,
+        "durationMs": 4039
+      },
+      {
+        "text": "encontremos así no tengamos conexión con contapyme entre las acciones generales",
+        "startMs": 456749,
+        "durationMs": 5481
+      },
+      {
+        "text": "que podemos realizar sobre el informe encontramos opciones como imprimir la",
+        "startMs": 462230,
+        "durationMs": 5919
+      },
+      {
+        "text": "cual nos permitirá seleccionar la impresora correspondiente e indicar el",
+        "startMs": 468149,
+        "durationMs": 4720
+      },
+      {
+        "text": "número de copias que deseamos generar del",
+        "startMs": 472869,
+        "durationMs": 3000
+      },
+      {
+        "text": "del informe la opción Buscar la cual nos",
+        "startMs": 475869,
+        "durationMs": 3801
+      },
+      {
+        "text": "permite realizar una búsqueda de texto dentro del informe la opción actualizar",
+        "startMs": 479670,
+        "durationMs": 5519
+      },
+      {
+        "text": "nos permite recalcular el informe con los datos actualizados en el momento la",
+        "startMs": 485189,
+        "durationMs": 5641
+      },
+      {
+        "text": "opción ver datos nos permite modificar los datos ingresados para la consulta",
+        "startMs": 490830,
+        "durationMs": 5639
+      },
+      {
+        "text": "del informe vamos en este caso a cambiar la fecha final de generación del",
+        "startMs": 496469,
+        "durationMs": 6120
+      },
+      {
+        "text": "informe veamos que de esta forma el sistema nos ha recalculado el informe",
+        "startMs": 502589,
+        "durationMs": 5641
+      },
+      {
+        "text": "basándose en lo los datos indicados en esta opción la opción diseñar permite",
+        "startMs": 508230,
+        "durationMs": 6679
+      },
+      {
+        "text": "Modificar el diseño actual del reporte según las necesidades del usuario Y por",
+        "startMs": 514909,
+        "durationMs": 4881
+      },
+      {
+        "text": "último tenemos la opción guardar como esta nos permite guardar el informe a un",
+        "startMs": 519790,
+        "durationMs": 5800
+      },
+      {
+        "text": "archivo tipo PDF Word o Excel de esta forma ya hemos generado y",
+        "startMs": 525590,
+        "durationMs": 7520
+      },
+      {
+        "text": "visualizado el informe movimiento de cuentas por cobrar",
+        "startMs": 533110,
+        "durationMs": 6719
+      },
+      {
+        "text": "recordemos para generar el reporte movimiento de cuentas por cobrar nos",
+        "startMs": 539839,
+        "durationMs": 4430
+      },
+      {
+        "text": "ubicamos en la pestaña cartera en la opción informes",
+        "startMs": 544269,
+        "durationMs": 5761
+      },
+      {
+        "text": "cartera desplegamos el menú y seleccionamos movimiento de cuentas por",
+        "startMs": 550030,
+        "durationMs": 10799
+      },
+      {
+        "text": "cobrar esto es todo acerca de cómo generar el informe movimiento de cuentas",
+        "startMs": 560839,
+        "durationMs": 9081
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEste vídeo explica cómo generar el informe de movimiento de cuentas por cobrar y su estructura.\nCP40-080-030-020\n\n## Transcripción\n\nCómo generar el informe movimiento de cuentas por cobrar el objetivo de este\nvideo es explicar cómo se genera el informe movimiento de cuentas por cobrar\nY cómo está conformada su estructura el movimiento de cuentas por cobrar es un\ninforme de tipo impresión que nos permite visualizar en un Rango de fechas\ndeterminado el reporte detallado de un crédito es decir el documento que dio\norigen a la cuenta por cobrar y cada uno de los abonos que se han registrado\npor defecto la presentación del informe movimiento de cuentas por cobrar nos\nmuestra algunos Campos como son la cuenta de cartera el código y nombre del\ntercero la fecha de creación de la cuenta por cobrar el documento\nreferencia que respalda la cuenta por cobrar el detalle del crédito la fecha\nestimada de pago el plazo que tiene la cuenta por cobrar para ser cancelada\ntomando como base la fecha final indicada en el rango de fechas Al\nmomento de generar el informe Y por último tenemos la edad de la\ncartera en los campos correspondientes a los movimientos podemos ver el número\ndel documento con el cual se registró el movimiento la fecha del movimiento el\nvalor registrado y el detalle del movimiento el saldo para la referencia a\nla fecha final del informe y el saldo total de la suma de las cuentas por\ncobrar que la empresa tiene con el tercero vamos ahora al sistema para\nconocer cómo se genera este informe para generar el informe\nmovimiento de cuentas por cobrar nos ubicamos en la pestaña\ncartera en la opción informes seleccionamos informes de\ncartera desplegamos el menú y vamos a seleccionar el informe movimiento de\ncuenta por cobrar así el sistema nos Abre una\nventana de filtro en la cual le podemos indicar la información que se tomará\ncomo base para generar el informe podemos indicar un Rango de fechas entre\nlas cuales deseamos generar el informe podemos indicar un tercero en\nespecífico por el cual necesitamos generar el informe podemos indicar\ntambién un Rango de cuentas de cartera para visualizar las en el informe y\npodemos indicar si este informe lo deseamos generar utilizando la\ncontabilización local o la contabilización nif cuando no se indica\nninguna información en estos Campos el sistema mostrará en el informe los\nmovimientos de todas las cuentas por cobrar que la empresa tiene con todos\nlos terceros y mostrará también todas las cuentas de cartera el sistema nos\npermite generar este informe de forma más detallada asignando clasificador\npodemos generar el informe clasificado por vendedor ciudad departamento país\nentre otros también podemos generar el informe\nindicando más opciones podemos indicar una categoría y\nclasificación del tercero podemos generar el informe para un centro de\ncostos o una referencia en específico y también podemos aplicar filtros\navanzados por último encontramos varias opciones que podemos seleccionar para\nvisualizar el informe podemos solicitarle al sistema que nos genere el\ninforme en calidad borrador opción que es muy usada cuando Contamos con una\nimpresora de matriz de punto podemos solicitarle al sistema que nos muestre\nen el informe las cuentas con saldo en cero y también podemos visualizar la\nfecha y hora de generación del informe en el pie de página entre\notras en este caso indicamos como fecha inicial el día primero de enero del año\n2015 y como fecha final el día 30 de noviembre del año 2015 e indicamos que\nse filtre el informe solo por el tercero decogar\ndecogar Sas y damos clic en ver\nreporte de esta forma el sistema nos abre el informe de tipo impresión en una\npestaña adicional allí podemos visualizar las columnas que acabamos de\nver en la estructura del informe así podemos ver el nombre del informe el\nrango de fechas que indicamos en la ventana de filtro podemos ver que solo\nse mostrarán los movimientos generados desde el primero de enero del año 2015\nhasta el día 30 de noviembre del mismo año que incluye solo el tercero indicado\nen la caja de filtro y se incluyen todas las cuentas de\ncartera veamos entonces que para la cuenta de cartera deudores nacionales el\ntercero decogar Sas el día 15 de octubre del 2015 se\ncreó el documento referencia factura de venta número 33 cuota número dos cuya\nfecha de pago es el día primero de diciembre del año año 2015 cuenta con un\ndía de plazo para ser cancelada y tiene cero meses de plazo en edad de cartera\nvemos también el detalle de la cuenta por cobrar el documento con el cual se\nsoporta la cuenta por cobrar la fecha en la cual se creó el valor de la cuenta\npor cobrar de 1,971\n1,971 684 y en el detalle del movimiento vemos\nque esta es la cuota número dos de dos programadas\nprogramadas podemos observar también dos abonos\nrealizados a esta cuenta por cobrar uno con el comprobante de ingreso número 34\nel día 23 de noviembre del año 2015 por valor de\n5283 y el segundo abono realizado con el comprobante de ingreso número\n37 registrado el día 27 de noviembre del año 2015 por valor de\n500.000 quedando como saldo pendiente para esta cuenta por cobrar a la fecha\nfinal del informe es decir al día 30 de noviembre del año 2015 un valor de\n94336 pes y como saldo total para el tercero de cogar\nSas un valor de 94336 pesos ya que a la fecha de\ngeneración del informe la empresa solo tiene pendiente esta cuenta por cobrar\ncon el tercero en la parte superior del informe encontramos la cinta de opciones\nen la cual podemos encontrar diferentes alternativas como son las acciones\ngenerales que podemos realizar sobre el informe las opciones de zoom para\nvisualizar el informe opciones de navegación para podernos desplazar entre\nlas páginas del informe en el caso que este cuente con más de una y contamos\ntambién con la opción de almac cenamiento en la nube entre otras Esta\núltima nos permite disponer del informe en cualquier lugar en el cual nos\nencontremos así no tengamos conexión con contapyme entre las acciones generales\nque podemos realizar sobre el informe encontramos opciones como imprimir la\ncual nos permitirá seleccionar la impresora correspondiente e indicar el\nnúmero de copias que deseamos generar del\ndel informe la opción Buscar la cual nos\npermite realizar una búsqueda de texto dentro del informe la opción actualizar\nnos permite recalcular el informe con los datos actualizados en el momento la\nopción ver datos nos permite modificar los datos ingresados para la consulta\ndel informe vamos en este caso a cambiar la fecha final de generación del\ninforme veamos que de esta forma el sistema nos ha recalculado el informe\nbasándose en lo los datos indicados en esta opción la opción diseñar permite\nModificar el diseño actual del reporte según las necesidades del usuario Y por\núltimo tenemos la opción guardar como esta nos permite guardar el informe a un\narchivo tipo PDF Word o Excel de esta forma ya hemos generado y\nvisualizado el informe movimiento de cuentas por cobrar\nrecordemos para generar el reporte movimiento de cuentas por cobrar nos\nubicamos en la pestaña cartera en la opción informes\ncartera desplegamos el menú y seleccionamos movimiento de cuentas por\ncobrar esto es todo acerca de cómo generar el informe movimiento de cuentas",
+    "dedupeVersion": 5
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 170.328,
+    "asr": 44100,
+    "filesizeApprox": 12098355,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2016",
+    "md": "videos/2016/G0mua47YCJM.md",
+    "json": "videos/2016/G0mua47YCJM.json",
+    "infoJson": "videos/2016/G0mua47YCJM.info.json"
+  },
+  "publishYear": "2016",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "G0mua47YCJM",
+        "youtubeId": "G0mua47YCJM",
+        "titulo": "G0mua47YCJM",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

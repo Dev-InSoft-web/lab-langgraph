@@ -4,9 +4,9 @@
  *   npm run db:migrate-full
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getClientesisDatabaseUrl, getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getClientesisDatabaseUrl, getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { pingClientesisDb, pingPatyDb } from "../src/lib/db/pg.js";
-import { ensureClientesisSchema, ensurePatySchema } from "../src/lib/db/ensure-schemas.js";
+import { applyClientesisSchema, applyLanglabOpsSchema } from "../src/lib/db/ensure-schemas.js";
 import { bootstrapCatalogFromDefinitions } from "../src/lib/ispgen/catalog-bootstrap.js";
 import { registerControllersFromCatalog } from "../src/lib/ispgen/catalog-load.js";
 import { seedAllCatalogData } from "../src/lib/ispgen/seed-catalog-data.js";
@@ -43,12 +43,12 @@ if (!(await pingClientesisDb())) {
 	console.error("FALLO: CLIENTESIS_DATABASE_URL");
 	process.exit(1);
 }
-const split = getPatyDatabaseUrl() !== getClientesisDatabaseUrl();
+const split = getLanglabDatabaseUrl() !== getClientesisDatabaseUrl();
 console.log(`[1/6] Conexión PG: paty OK, clientesis OK (split=${split})`);
 
 console.log("[2/6] Schemas SQL (sin FK)…");
-await ensurePatySchema();
-await ensureClientesisSchema();
+await applyLanglabOpsSchema();
+await applyClientesisSchema();
 console.log("      DDL paty + clientesis aplicado");
 
 console.log("[3/6] Catálogo proyectos/secciones/entidades…");

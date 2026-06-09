@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:11:27.456Z",
+  "videoId": "7ixdRhlaMXY",
+  "videoUrl": "https://www.youtube.com/watch?v=7ixdRhlaMXY",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "7ixdRhlaMXY",
+    "title": "Duplicación Operaciones en Bloque R8",
+    "fulltitle": "Duplicación Operaciones en Bloque R8",
+    "description": "Duplicación Operaciones en Bloque R8",
+    "duration": 320,
+    "duration_string": "5:20",
+    "upload_date": "20200414",
+    "timestamp": 1586876602,
+    "view_count": 90,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCr2I2mtZtXcO1OoXO20gYUa5zfHQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA5okZ0NNXtFq_ho21oiHgCQCgBGA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8Xo3AfoNRP9fuSVXjBpqyDDBQKw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCnNDMbpL_8Zwnzk2cOt2KIvt0_fQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOd3Fj-0UcnUftNAwhFfT7NBi3qA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYRj_03H_m1IqjdGnbVryW_U0raw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzAYvMs5PDR0TkjBswjiiYPXjQrQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTIy_ID6OGEkYXd8HBeXDYHI6Vow",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7ixdRhlaMXY/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/7ixdRhlaMXY/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7ixdRhlaMXY",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.3125,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 233.006,
+        "asr": 44100,
+        "filesize_approx": 9332909,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Duplicación Operaciones en Bloque R8",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/7ixdRhlaMXY/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/7ixdRhlaMXY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Duplicación Operaciones en Bloque R8\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 71,
+    "transcriptChars": 5119,
+    "segments": [
+      {
+        "text": "duplicación en bloque permite manejar la duplicación múltiple de distintas",
+        "startMs": 2050,
+        "durationMs": 5310
+      },
+      {
+        "text": "transacciones en el manejador de operaciones esas transacciones donde se",
+        "startMs": 7360,
+        "durationMs": 5880
+      },
+      {
+        "text": "pueden registrar eso afecta para todas las operaciones del sistema no es que",
+        "startMs": 13240,
+        "durationMs": 7589
+      },
+      {
+        "text": "dependan de el licenciamiento de los módulos que se tengan la comparación de",
+        "startMs": 20829,
+        "durationMs": 4770
+      },
+      {
+        "text": "las operaciones en bloque yo puedo duplicar operaciones de todas",
+        "startMs": 25599,
+        "durationMs": 3541
+      },
+      {
+        "text": "las operaciones que tenga dentro de mi licenciamiento",
+        "startMs": 29140,
+        "durationMs": 3090
+      },
+      {
+        "text": "licenciamiento duplicación de operaciones la",
+        "startMs": 32230,
+        "durationMs": 1590
+      },
+      {
+        "text": "encontramos en el menú del manejador de operaciones está la opción de duplicar y",
+        "startMs": 33820,
+        "durationMs": 4860
+      },
+      {
+        "text": "normal a la adición a la que siempre hemos conocido a duplicar operación",
+        "startMs": 38680,
+        "durationMs": 2910
+      },
+      {
+        "text": "tenemos un nuevo menú que es su opción que es duplicar en bloque",
+        "startMs": 41590,
+        "durationMs": 4710
+      },
+      {
+        "text": "cuando le damos click en duplicar en bloque el sistema lo que nos va a",
+        "startMs": 46300,
+        "durationMs": 3210
+      },
+      {
+        "text": "preguntar sus diferentes áreas un área es el área de filtros donde voy a",
+        "startMs": 49510,
+        "durationMs": 6360
+      },
+      {
+        "text": "decirle bueno chequeamos cuáles son las operaciones que están entre esta fecha",
+        "startMs": 55870,
+        "durationMs": 3750
+      },
+      {
+        "text": "inicial y fecha final que tengan algún tipo de documento de soporte o que sean",
+        "startMs": 59620,
+        "durationMs": 5010
+      },
+      {
+        "text": "de algún tipo de operación en especial que yo quiero duplicar una vez yo ya",
+        "startMs": 64630,
+        "durationMs": 4470
+      },
+      {
+        "text": "selección esa área de filtros y le digo a aplicar filtro el sistema nos presenta",
+        "startMs": 69100,
+        "durationMs": 4170
+      },
+      {
+        "text": "una siguiente área donde nos muestra el detalle de cuáles son las operaciones",
+        "startMs": 73270,
+        "durationMs": 3810
+      },
+      {
+        "text": "que cumplen ese filtro y qué son las que se van a duplicar y en la parte inferior",
+        "startMs": 77080,
+        "durationMs": 4440
+      },
+      {
+        "text": "pues entonces ya nos indica cuáles son las acciones en cuanto a las fechas que",
+        "startMs": 81520,
+        "durationMs": 4620
+      },
+      {
+        "text": "se van a generar entonces yo le puedo decir no mire incremente todas estas",
+        "startMs": 86140,
+        "durationMs": 3960
+      },
+      {
+        "text": "operaciones en un mes en tantos días no los incremente porque yo necesito crear",
+        "startMs": 90100,
+        "durationMs": 5580
+      },
+      {
+        "text": "dos veces en una semana o en una fecha específica que yo necesito y si les",
+        "startMs": 95680,
+        "durationMs": 5760
+      },
+      {
+        "text": "quiero asignar un detalle específico a todas pues entonces venga le pongo en",
+        "startMs": 101440,
+        "durationMs": 3690
+      },
+      {
+        "text": "detalle que se tiene tenemos para en este mes de febrero unas",
+        "startMs": 105130,
+        "durationMs": 4830
+      },
+      {
+        "text": "nóminas de algunos empleados allí cargadas entonces vamos a entrar por la",
+        "startMs": 109960,
+        "durationMs": 4440
+      },
+      {
+        "text": "opción que dice duplicar duplicar en blogs",
+        "startMs": 114400,
+        "durationMs": 3890
+      },
+      {
+        "text": "blogs cuando le decimos duplicar en bloque",
+        "startMs": 118290,
+        "durationMs": 1800
+      },
+      {
+        "text": "pues nos aparecen las diferentes de las que chequeamos en la diapositiva",
+        "startMs": 120090,
+        "durationMs": 3200
+      },
+      {
+        "text": "queremos que nos muestre entonces todas las operaciones desde la fecha inicial",
+        "startMs": 123290,
+        "durationMs": 4300
+      },
+      {
+        "text": "por ejemplo que desde el primero de febrero de 2019 está el 28 de febrero en",
+        "startMs": 127590,
+        "durationMs": 5250
+      },
+      {
+        "text": "tipo de operación si yo quiero escoger perdón tipo de documentos y yo quiero",
+        "startMs": 132840,
+        "durationMs": 3600
+      },
+      {
+        "text": "escoger el filtro por algún tipo de documento en especial solamente quiero",
+        "startMs": 136440,
+        "durationMs": 4500
+      },
+      {
+        "text": "duplicar todo lo que sean los comprobantes de",
+        "startMs": 140940,
+        "durationMs": 1920
+      },
+      {
+        "text": "egreso bueno entonces venga a la selección o todos los recibos de caja",
+        "startMs": 142860,
+        "durationMs": 4050
+      },
+      {
+        "text": "bueno algún tipo de documento en especial pero también puedo hacerlo por",
+        "startMs": 146910,
+        "durationMs": 4080
+      },
+      {
+        "text": "tipo de operación que este es el caso práctico por ejemplo para este ejercicio",
+        "startMs": 150990,
+        "durationMs": 3270
+      },
+      {
+        "text": "que estamos realizando quiero duplicar todas las nóminas",
+        "startMs": 154260,
+        "durationMs": 5830
+      },
+      {
+        "text": "contables aplicar filtro y el sistema en esta área",
+        "startMs": 160090,
+        "durationMs": 3090
+      },
+      {
+        "text": "me va a decir mire el filtro que usted aplicó para que se muestren todas estas",
+        "startMs": 163180,
+        "durationMs": 4650
+      },
+      {
+        "text": "operaciones pero se van a duplicar están procesadas y usted la quiere duplicar si",
+        "startMs": 167830,
+        "durationMs": 5340
+      },
+      {
+        "text": "o no a no es que esta en particular no la quiero duplicar a bueno entonces no",
+        "startMs": 173170,
+        "durationMs": 3510
+      },
+      {
+        "text": "la carga si la habilita o no la habilita es porque la va a duplicar y en la parte",
+        "startMs": 176680,
+        "durationMs": 5190
+      },
+      {
+        "text": "inferior encontramos las acciones que se van a realizar en cuanto quiere que le",
+        "startMs": 181870,
+        "durationMs": 3750
+      },
+      {
+        "text": "incremente las operaciones era una fecha en una semana no incrementar tantos días",
+        "startMs": 185620,
+        "durationMs": 5280
+      },
+      {
+        "text": "hago entonces dependiendo de la fecha que se tenga tantos días a nuevo para el",
+        "startMs": 190900,
+        "durationMs": 4710
+      },
+      {
+        "text": "último día entonces yo le quiero asignar una fecha en especial entonces le puedo",
+        "startMs": 195610,
+        "durationMs": 4590
+      },
+      {
+        "text": "decir mire para el mes de marzo quiero que todas las operaciones martín",
+        "startMs": 200200,
+        "durationMs": 7170
+      },
+      {
+        "text": "del 31 es un domingo quiero que todas las operaciones queden el 29 listo",
+        "startMs": 207370,
+        "durationMs": 5610
+      },
+      {
+        "text": "entonces quiero asignar algún detalle en especial para cada una de ellas si hago",
+        "startMs": 212980,
+        "durationMs": 4350
+      },
+      {
+        "text": "entonces venga yo le pongo un detalle que es",
+        "startMs": 217330,
+        "durationMs": 6590
+      },
+      {
+        "text": "mes d marzo 2019 porque va a quedar parece mes",
+        "startMs": 226989,
+        "durationMs": 6881
+      },
+      {
+        "text": "y simple aceptar el sistema es haciendo la duplicación de las operaciones las",
+        "startMs": 233870,
+        "durationMs": 6540
+      },
+      {
+        "text": "operaciones quedaron duplicadas satisfactoriamente estamos con los",
+        "startMs": 240410,
+        "durationMs": 4350
+      },
+      {
+        "text": "filtros del mes estamos en el mes de febrero estaba mostrando solamente las",
+        "startMs": 244760,
+        "durationMs": 4470
+      },
+      {
+        "text": "operaciones vamos a decirle mes de marzo refresquemos y chequeamos que aquí están",
+        "startMs": 249230,
+        "durationMs": 5010
+      },
+      {
+        "text": "las operaciones simplemente lo mismo procesamos las transacciones a partir de",
+        "startMs": 254240,
+        "durationMs": 4590
+      },
+      {
+        "text": "aquí quedan ya de una vez registradas fueron seis operaciones que se crearon",
+        "startMs": 258830,
+        "durationMs": 4590
+      },
+      {
+        "text": "directamente a las que tengo que modificar unos datos de esta persona",
+        "startMs": 263420,
+        "durationMs": 3600
+      },
+      {
+        "text": "pues entonces modifiquemos la información ya directamente entonces",
+        "startMs": 267020,
+        "durationMs": 4470
+      },
+      {
+        "text": "dentro de exit hay algún variables y yo quiero adicionar algo que me afecte a mí",
+        "startMs": 223930,
+        "durationMs": 51490
+      },
+      {
+        "text": "entonces la parte de la liquidación de los parafiscales pues entonces se",
+        "startMs": 275420,
+        "durationMs": 4080
+      },
+      {
+        "text": "afectaría automáticamente pero mire que hay una gran funcionalidad porque",
+        "startMs": 279500,
+        "durationMs": 3750
+      },
+      {
+        "text": "entonces ya directamente no tengo que entrar me sobre cada uno de ellos para",
+        "startMs": 283250,
+        "durationMs": 4020
+      },
+      {
+        "text": "decir duplicar operación o duplicar operación individual sino que de forma",
+        "startMs": 287270,
+        "durationMs": 4050
+      },
+      {
+        "text": "masiva y en bloque se tiene todo esta funcionalidad de deduplicación es",
+        "startMs": 291320,
+        "durationMs": 5079
+      },
+      {
+        "text": "un concepto que ya se tiene dentro del sistema que ustedes lo conocen la",
+        "startMs": 296399,
+        "durationMs": 3630
+      },
+      {
+        "text": "duplicación individual de operaciones ya está lo que se multiplica es a un rango",
+        "startMs": 300029,
+        "durationMs": 5340
+      },
+      {
+        "text": "de acciones donde yo puedo entonces por medio de un filtro llamar varias",
+        "startMs": 305369,
+        "durationMs": 5371
+      },
+      {
+        "text": "operaciones indicarles cuáles quiero duplicar si o no la fecha y el sistema",
+        "startMs": 310740,
+        "durationMs": 4800
+      },
+      {
+        "text": "automáticamente se encarga de la duplicación",
+        "startMs": 315540,
+        "durationMs": 3140
+      },
+      {
+        "text": "duplicación",
+        "startMs": 318680,
+        "durationMs": 3240
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDuplicación Operaciones en Bloque R8\n\n## Transcripción\n\nduplicación en bloque permite manejar la duplicación múltiple de distintas\ntransacciones en el manejador de operaciones esas transacciones donde se\npueden registrar eso afecta para todas las operaciones del sistema no es que\ndependan de el licenciamiento de los módulos que se tengan la comparación de\nlas operaciones en bloque yo puedo duplicar operaciones de todas\nlas operaciones que tenga dentro de mi licenciamiento\nlicenciamiento duplicación de operaciones la\nencontramos en el menú del manejador de operaciones está la opción de duplicar y\nnormal a la adición a la que siempre hemos conocido a duplicar operación\ntenemos un nuevo menú que es su opción que es duplicar en bloque\ncuando le damos click en duplicar en bloque el sistema lo que nos va a\npreguntar sus diferentes áreas un área es el área de filtros donde voy a\ndecirle bueno chequeamos cuáles son las operaciones que están entre esta fecha\ninicial y fecha final que tengan algún tipo de documento de soporte o que sean\nde algún tipo de operación en especial que yo quiero duplicar una vez yo ya\nselección esa área de filtros y le digo a aplicar filtro el sistema nos presenta\nuna siguiente área donde nos muestra el detalle de cuáles son las operaciones\nque cumplen ese filtro y qué son las que se van a duplicar y en la parte inferior\npues entonces ya nos indica cuáles son las acciones en cuanto a las fechas que\nse van a generar entonces yo le puedo decir no mire incremente todas estas\noperaciones en un mes en tantos días no los incremente porque yo necesito crear\ndos veces en una semana o en una fecha específica que yo necesito y si les\nquiero asignar un detalle específico a todas pues entonces venga le pongo en\ndetalle que se tiene tenemos para en este mes de febrero unas\nnóminas de algunos empleados allí cargadas entonces vamos a entrar por la\nopción que dice duplicar duplicar en blogs\nblogs cuando le decimos duplicar en bloque\npues nos aparecen las diferentes de las que chequeamos en la diapositiva\nqueremos que nos muestre entonces todas las operaciones desde la fecha inicial\npor ejemplo que desde el primero de febrero de 2019 está el 28 de febrero en\ntipo de operación si yo quiero escoger perdón tipo de documentos y yo quiero\nescoger el filtro por algún tipo de documento en especial solamente quiero\nduplicar todo lo que sean los comprobantes de\negreso bueno entonces venga a la selección o todos los recibos de caja\nbueno algún tipo de documento en especial pero también puedo hacerlo por\ntipo de operación que este es el caso práctico por ejemplo para este ejercicio\nque estamos realizando quiero duplicar todas las nóminas\ncontables aplicar filtro y el sistema en esta área\nme va a decir mire el filtro que usted aplicó para que se muestren todas estas\noperaciones pero se van a duplicar están procesadas y usted la quiere duplicar si\no no a no es que esta en particular no la quiero duplicar a bueno entonces no\nla carga si la habilita o no la habilita es porque la va a duplicar y en la parte\ninferior encontramos las acciones que se van a realizar en cuanto quiere que le\nincremente las operaciones era una fecha en una semana no incrementar tantos días\nhago entonces dependiendo de la fecha que se tenga tantos días a nuevo para el\núltimo día entonces yo le quiero asignar una fecha en especial entonces le puedo\ndecir mire para el mes de marzo quiero que todas las operaciones martín\ndel 31 es un domingo quiero que todas las operaciones queden el 29 listo\nentonces quiero asignar algún detalle en especial para cada una de ellas si hago\nentonces venga yo le pongo un detalle que es\nmes d marzo 2019 porque va a quedar parece mes\ny simple aceptar el sistema es haciendo la duplicación de las operaciones las\noperaciones quedaron duplicadas satisfactoriamente estamos con los\nfiltros del mes estamos en el mes de febrero estaba mostrando solamente las\noperaciones vamos a decirle mes de marzo refresquemos y chequeamos que aquí están\nlas operaciones simplemente lo mismo procesamos las transacciones a partir de\naquí quedan ya de una vez registradas fueron seis operaciones que se crearon\ndirectamente a las que tengo que modificar unos datos de esta persona\npues entonces modifiquemos la información ya directamente entonces\ndentro de exit hay algún variables y yo quiero adicionar algo que me afecte a mí\nentonces la parte de la liquidación de los parafiscales pues entonces se\nafectaría automáticamente pero mire que hay una gran funcionalidad porque\nentonces ya directamente no tengo que entrar me sobre cada uno de ellos para\ndecir duplicar operación o duplicar operación individual sino que de forma\nmasiva y en bloque se tiene todo esta funcionalidad de deduplicación es\nun concepto que ya se tiene dentro del sistema que ustedes lo conocen la\nduplicación individual de operaciones ya está lo que se multiplica es a un rango\nde acciones donde yo puedo entonces por medio de un filtro llamar varias\noperaciones indicarles cuáles quiero duplicar si o no la fecha y el sistema\nautomáticamente se encarga de la duplicación\nduplicación"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 233.006,
+    "asr": 44100,
+    "filesizeApprox": 9332909,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/7ixdRhlaMXY.md",
+    "json": "videos/2020/7ixdRhlaMXY.json",
+    "infoJson": "videos/2020/7ixdRhlaMXY.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "7ixdRhlaMXY",
+        "youtubeId": "7ixdRhlaMXY",
+        "titulo": "Duplicación Operaciones en Bloque R8",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

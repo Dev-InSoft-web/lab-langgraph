@@ -1,0 +1,3337 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T19:08:40.137Z",
+  "videoId": "hVMJNvymBOU",
+  "videoUrl": "https://www.youtube.com/watch?v=hVMJNvymBOU",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "hVMJNvymBOU",
+    "title": "Capacitación Exógena DIAN AG 2024 con ContaPyme | Paso a Paso + Recomendaciones Clave",
+    "fulltitle": "Capacitación Exógena DIAN AG 2024 con ContaPyme | Paso a Paso + Recomendaciones Clave",
+    "description": "Aprenda paso a paso cómo presentar la información exógena en ContaPyme®\nEn este video le explicamos de forma clara y sencilla cómo realizar todo el proceso dentro del sistema, incluyendo:\n- Acceso al catálogo de formatos para Medios Magnéticos DIAN.\n- Configuración de las cuentas contables en el formato 1001.\n- Generación del archivo del formato 1001.\n- Herramientas para validar la información antes del envío.\n- Creación del archivo XML para presentar ante la DIAN.\n- Explicación de los cálculos automáticos que realiza ContaPyme para los formatos 2276 y 1110.",
+    "duration": 2771,
+    "duration_string": "46:11",
+    "upload_date": "20250404",
+    "timestamp": 1743797805,
+    "view_count": 853,
+    "like_count": 8,
+    "comment_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2vg8sFgVhGB8PQxAgO-bP9PMtgA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBsbeMdh5kDDEn2WcqUAAjT4GW_JQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7RUo07duOrsP4VyhZfQ3YHOb08A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAXb97xBNAfTj-wlcNxGL3a-X9pGg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA41xl_J6vigab6sj97m79JuHdNCg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAeIaMHcQKH7Px1rXpZG33WPZ8KJg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArO3mm2Ve6Rmt_fOtkLefvYfENFQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhu8dAqbi1b0MKOM6hM7gyCmcCig",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/hVMJNvymBOU/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/hVMJNvymBOU/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=hVMJNvymBOU",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.03608805485384338,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10068567304222302,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10068567304222302,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 195.867,
+        "asr": 44100,
+        "filesize": 67847509,
+        "filesize_approx": 67847398,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Capacitación Exógena DIAN AG 2024 con ContaPyme | Paso a Paso + Recomendaciones Clave",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/hVMJNvymBOU/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/hVMJNvymBOU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Capacitación Exógena DIAN AG 2024 con ContaPyme | Paso a Paso + Recomendaciones Clave\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 576,
+    "transcriptChars": 43306,
+    "segments": [
+      {
+        "text": "¿Cómo presentar la información exógena en conta PIBIB? En el contenido de esta",
+        "startMs": 919,
+        "durationMs": 5071
+      },
+      {
+        "text": "sesión vamos a tratar tres puntos muy importantes y muy claves para poder",
+        "startMs": 5990,
+        "durationMs": 4840
+      },
+      {
+        "text": "entender este proceso y este gran mundo de la información exógena. Primero vamos",
+        "startMs": 10830,
+        "durationMs": 4280
+      },
+      {
+        "text": "a hacer un contexto de ese manejo de la información para que podamos entender un",
+        "startMs": 15110,
+        "durationMs": 4319
+      },
+      {
+        "text": "Segundo, vamos a mirar los tres pasos claves para generar esa información",
+        "startMs": 24390,
+        "durationMs": 3719
+      },
+      {
+        "text": "exógena en cuenta pyme. Tres pasos muy sencillos, desde la configuración, la",
+        "startMs": 28109,
+        "durationMs": 4280
+      },
+      {
+        "text": "generación y finalmente obtener el XCML, que es el archivo que yo presento a la",
+        "startMs": 32389,
+        "durationMs": 4601
+      },
+      {
+        "text": "Dian y unos manejos especiales en el formato 2276 y 1010. Eh, manejos",
+        "startMs": 36990,
+        "durationMs": 6079
+      },
+      {
+        "text": "especiales, me refiero a unas automatizaciones que trae ya contapme",
+        "startMs": 43069,
+        "durationMs": 3721
+      },
+      {
+        "text": "para que sea mucho más sencillo y mucho más rápido esta presentación de los",
+        "startMs": 46790,
+        "durationMs": 4720
+      },
+      {
+        "text": "formatos. Comencemos entonces. contexto y manejo de la",
+        "startMs": 51510,
+        "durationMs": 4120
+      },
+      {
+        "text": "información. Vamos aar, vamos a recordar qué es la",
+        "startMs": 55630,
+        "durationMs": 5040
+      },
+      {
+        "text": "información exógena. Eh, es ese conjunto de datos contables y financieros sobre",
+        "startMs": 19429,
+        "durationMs": 46720
+      },
+      {
+        "text": "las operaciones que se hacen como tal con clientes, con empleados, con",
+        "startMs": 66149,
+        "durationMs": 4000
+      },
+      {
+        "text": "proveedores y que las empresas y las personas naturales deben de reportarle a",
+        "startMs": 70149,
+        "durationMs": 4121
+      },
+      {
+        "text": "la diario. Ahora, ¿quiénes deben de reportárselo a la diario? Los que tengan",
+        "startMs": 74270,
+        "durationMs": 3920
+      },
+      {
+        "text": "ingresos brutos totales superiores a 11,800 UVT en el año gravable 2024 y",
+        "startMs": 78190,
+        "durationMs": 6640
+      },
+      {
+        "text": "ingresos por rentas de capital y no laborales superiores a 2400 VT en el",
+        "startMs": 84830,
+        "durationMs": 5440
+      },
+      {
+        "text": "mismo periodo. Ahora, eh, ¿cómo debo de presentar yo esa información o en qué",
+        "startMs": 90270,
+        "durationMs": 6720
+      },
+      {
+        "text": "tipo de formato lo debo hacer? Entonces, debemos hacerlo en un archivo XML,",
+        "startMs": 96990,
+        "durationMs": 6040
+      },
+      {
+        "text": "siguiendo las especificaciones técnicas de la Dian en cuanto a estructura,",
+        "startMs": 103030,
+        "durationMs": 4399
+      },
+      {
+        "text": "contenido y validaciones que se tengan que hacer. Y finalmente, ¿cuándo lo",
+        "startMs": 107429,
+        "durationMs": 4280
+      },
+      {
+        "text": "tengo que hacer? Cada año la Dian establece unas fechas de presentación",
+        "startMs": 111709,
+        "durationMs": 4161
+      },
+      {
+        "text": "según el contribuyente en cuanto a tipo y según el último dijo de suit, que aquí",
+        "startMs": 115870,
+        "durationMs": 5199
+      },
+      {
+        "text": "es muy importante consultar el calendario tributario para saber cuándo",
+        "startMs": 121069,
+        "durationMs": 4080
+      },
+      {
+        "text": "me corresponde a mí hacer la presentación de mi información.",
+        "startMs": 125149,
+        "durationMs": 4520
+      },
+      {
+        "text": "Entonces, cuando ya tenemos esto claro de qué es, de quiénes lo tienen que",
+        "startMs": 129669,
+        "durationMs": 3801
+      },
+      {
+        "text": "hacer, de cómo lo tengo que hacer y cuándo lo tengo que hacer, entonces",
+        "startMs": 133470,
+        "durationMs": 3560
+      },
+      {
+        "text": "vamos a mirar un ejemplo para que nos quede mucho más clara la información.",
+        "startMs": 137030,
+        "durationMs": 4440
+      },
+      {
+        "text": "Si yo tengo una empresa de zapatos, en este caso mi empresa SAS, durante ese",
+        "startMs": 141470,
+        "durationMs": 4320
+      },
+      {
+        "text": "año vendí productos a clientes, compré mercancía proveedores, pagué salarios a",
+        "startMs": 145790,
+        "durationMs": 4760
+      },
+      {
+        "text": "mis empleados, entonces tengo que hacer un registro de esas operaciones.",
+        "startMs": 150550,
+        "durationMs": 4160
+      },
+      {
+        "text": "Entonces vendiste 800 millones de ropa para los clientes, compraste 400",
+        "startMs": 154710,
+        "durationMs": 5280
+      },
+      {
+        "text": "m000ones en inventario a los proveedores y pagaste 200,000ones en salarios a tus",
+        "startMs": 159990,
+        "durationMs": 5680
+      },
+      {
+        "text": "empleados. Ahí ya tienes un registro de operaciones que hiciste durante ese año",
+        "startMs": 165670,
+        "durationMs": 3680
+      },
+      {
+        "text": "grabando. Ahora, ¿qué hay que hacer? Entonces, la 10 necesita saber cuánto",
+        "startMs": 169350,
+        "durationMs": 5959
+      },
+      {
+        "text": "dinero moviste, con quién lo moviste para verificar que esos impuestos se",
+        "startMs": 175309,
+        "durationMs": 4481
+      },
+      {
+        "text": "pagaron correctamente. Entonces, por eso debes de presentar una información",
+        "startMs": 179790,
+        "durationMs": 4200
+      },
+      {
+        "text": "exógena o como se llamaba anteriormente, una parte de medios",
+        "startMs": 183990,
+        "durationMs": 3959
+      },
+      {
+        "text": "magnéticos. ¿Qué debes de hacer entonces con esa información que registraste?",
+        "startMs": 187949,
+        "durationMs": 4601
+      },
+      {
+        "text": "Tienes que identificar del listado de los formatos y qué debo de presentar",
+        "startMs": 192550,
+        "durationMs": 4599
+      },
+      {
+        "text": "según ese tipo de contribuyente. Si debo de presentar el formato 101, que son los",
+        "startMs": 197149,
+        "durationMs": 4640
+      },
+      {
+        "text": "pagos a 150 o el 2276 que es la parte de la nómina o el tema de eh cuentas por",
+        "startMs": 201789,
+        "durationMs": 7841
+      },
+      {
+        "text": "cobrar, de cuentas por pagar. Entonces, tengo que hacer esa identificación.",
+        "startMs": 209630,
+        "durationMs": 4200
+      },
+      {
+        "text": "Luego tengo que indicarle la información a cada concepto del formato que me",
+        "startMs": 213830,
+        "durationMs": 4840
+      },
+      {
+        "text": "aplique. Entonces dentro de un formato pueden haber 90 conceptos, como pueden",
+        "startMs": 218670,
+        "durationMs": 5320
+      },
+      {
+        "text": "haber tres y tengo que revisar de ese listadito pues qué me aplica para",
+        "startMs": 223990,
+        "durationMs": 3799
+      },
+      {
+        "text": "empezar a traer la cuenta y o el saldo que me corresponde. Luego de esto,",
+        "startMs": 227789,
+        "durationMs": 6321
+      },
+      {
+        "text": "cuando yo ya estoy generando la información, tengo que validar que esos",
+        "startMs": 234110,
+        "durationMs": 3640
+      },
+      {
+        "text": "datos que me está cargando o que esos datos que estoy colocando, pues si sean",
+        "startMs": 237750,
+        "durationMs": 3479
+      },
+      {
+        "text": "correctos. Aquí es donde empiezo a hacer la validación con mi mayor y balances",
+        "startMs": 241229,
+        "durationMs": 3761
+      },
+      {
+        "text": "con terceros o el informe que me soporte o el estado financiero que tenga para",
+        "startMs": 244990,
+        "durationMs": 4239
+      },
+      {
+        "text": "que los datos me coincidan y finalmente genero el archivo XCML y lo subo a la",
+        "startMs": 249229,
+        "durationMs": 5441
+      },
+      {
+        "text": "plataforma de la y cumplo como tal con la exigencia, con la normativa y con",
+        "startMs": 254670,
+        "durationMs": 5640
+      },
+      {
+        "text": "todo lo relacionado pues a este tema. A veces hacer esto es un poco engorroso,",
+        "startMs": 260310,
+        "durationMs": 5680
+      },
+      {
+        "text": "es un poco traumático, porque aquí no estoy haciendo un resumen de las ventas,",
+        "startMs": 265990,
+        "durationMs": 4759
+      },
+      {
+        "text": "de las compras y de lo que yo pagué por conceptos de gastos, de empleados,",
+        "startMs": 270749,
+        "durationMs": 5440
+      },
+      {
+        "text": "etcétera. Esa información se debe detallar por cada tercero. Cada tercero",
+        "startMs": 276189,
+        "durationMs": 5000
+      },
+      {
+        "text": "debe tener unos datos que nos pide a nosotros la Diana, como el tipo de",
+        "startMs": 281189,
+        "durationMs": 3641
+      },
+      {
+        "text": "documento, el número del documento, el nombre. Entonces esa información, si yo",
+        "startMs": 284830,
+        "durationMs": 5720
+      },
+      {
+        "text": "tuviese 10 registros, perfecto, pero yo no tengo 10 registros o 10 movimientos",
+        "startMs": 290550,
+        "durationMs": 4560
+      },
+      {
+        "text": "que hice durante todo el año gravable. Entonces, toda esa mezcla de información",
+        "startMs": 295110,
+        "durationMs": 4600
+      },
+      {
+        "text": "de qué tengo que presentar, de cómo la voy a presentar, a veces se vuelve un",
+        "startMs": 299710,
+        "durationMs": 3800
+      },
+      {
+        "text": "poco preocupante, estresante, engorroso. Para eso entonces tenemos contapime, que",
+        "startMs": 303510,
+        "durationMs": 6840
+      },
+      {
+        "text": "tiene unas eh digamos herramientas que le van a optimizar mucho más el proceso",
+        "startMs": 310350,
+        "durationMs": 6679
+      },
+      {
+        "text": "y que esas herramientas se van a convertir en unos pasos claves que van a",
+        "startMs": 317029,
+        "durationMs": 4961
+      },
+      {
+        "text": "ser que sea mucho más fácil y mucho más sencilla esta presentación. ¿Qué tiene",
+        "startMs": 321990,
+        "durationMs": 4400
+      },
+      {
+        "text": "entonces? Vamos a tener menos horas de trabajo manual en preparación y en",
+        "startMs": 326390,
+        "durationMs": 4040
+      },
+      {
+        "text": "revisión como tal de los reportes. Vamos a mitigar las sanciones por errores o",
+        "startMs": 330430,
+        "durationMs": 4280
+      },
+      {
+        "text": "incumplimientos, porque como todo está registrado en el sistema, como usted lo",
+        "startMs": 334710,
+        "durationMs": 4280
+      },
+      {
+        "text": "consignó allí y él simplemente va a ir a traer la información, entonces vamos a",
+        "startMs": 338990,
+        "durationMs": 3800
+      },
+      {
+        "text": "poder hacer esa mitigación de error. Vamos a hacer un uso eficiente de esos",
+        "startMs": 342790,
+        "durationMs": 4800
+      },
+      {
+        "text": "recursos contables y administrativos, o sea, sáquele el mayor progreso a la",
+        "startMs": 347590,
+        "durationMs": 3319
+      },
+      {
+        "text": "herramienta que usted tiene. tiene informes de auditoría en línea, entonces",
+        "startMs": 350909,
+        "durationMs": 4840
+      },
+      {
+        "text": "utilicémoslos. Si tiene unos formatos que ya vienen preconfigurados y",
+        "startMs": 355749,
+        "durationMs": 4081
+      },
+      {
+        "text": "superrápidos y super importante que ustedes lo tengan en cuenta eh con una",
+        "startMs": 359830,
+        "durationMs": 5720
+      },
+      {
+        "text": "interfaz muy amigable que no hace que sea engorroso, que no hace que sea",
+        "startMs": 365550,
+        "durationMs": 4039
+      },
+      {
+        "text": "maluco generar la información exógena, aprovechémoslo. Ten un procesamiento",
+        "startMs": 369589,
+        "durationMs": 4521
+      },
+      {
+        "text": "masivo de datos sin esfuerzos manuales. O sea, usted todo lo consignó allí, lo",
+        "startMs": 374110,
+        "durationMs": 5400
+      },
+      {
+        "text": "registró como tal en su periodo de año grabable y simplemente con unas cuentas",
+        "startMs": 379510,
+        "durationMs": 5079
+      },
+      {
+        "text": "que asocio al concepto, él me va a traer la información y listo. Tenemos",
+        "startMs": 384589,
+        "durationMs": 4320
+      },
+      {
+        "text": "integración con todos los módulos del sistema. Esto es super importante porque",
+        "startMs": 388909,
+        "durationMs": 3961
+      },
+      {
+        "text": "si usted hizo la venta, esa venta le movió la cartera, esa venta le movió los",
+        "startMs": 392870,
+        "durationMs": 4120
+      },
+      {
+        "text": "impuestos, esa venta le movió el inventario, automáticamente esa venta",
+        "startMs": 396990,
+        "durationMs": 5199
+      },
+      {
+        "text": "mueve la contabilidad y se van integrando entre sí la cartera, el",
+        "startMs": 402189,
+        "durationMs": 4560
+      },
+      {
+        "text": "inventario, la contabilidad y los módulos correspondientes a esto. Más",
+        "startMs": 406749,
+        "durationMs": 4121
+      },
+      {
+        "text": "usted tiene costos de producción, afecta también el costo de producción. Entonces",
+        "startMs": 410870,
+        "durationMs": 4560
+      },
+      {
+        "text": "es muy importante que tengan en cuenta de que todo está integrado dentro de",
+        "startMs": 415430,
+        "durationMs": 4039
+      },
+      {
+        "text": "contapme y finalmente la automatización de cálculos y la generación de los",
+        "startMs": 419469,
+        "durationMs": 4801
+      },
+      {
+        "text": "reportes. como es automatizado y como les digo, todo lo que usted ya registró",
+        "startMs": 424270,
+        "durationMs": 5359
+      },
+      {
+        "text": "es lo que vamos a nosotros a traer a esos formatos para que sea mucho más",
+        "startMs": 429629,
+        "durationMs": 3801
+      },
+      {
+        "text": "fácil, para que coincida precisamente con lo que usted reportó y allí mismo va",
+        "startMs": 433430,
+        "durationMs": 5240
+      },
+      {
+        "text": "a encontrar esa generación de reportes que le van a permitir hacer una",
+        "startMs": 438670,
+        "durationMs": 3120
+      },
+      {
+        "text": "auditoría eficiente de la información y va a tener el control. Yo siempre les",
+        "startMs": 441790,
+        "durationMs": 5239
+      },
+      {
+        "text": "hablo de lo mismo, el control de la información. Es super importante tener",
+        "startMs": 447029,
+        "durationMs": 3641
+      },
+      {
+        "text": "ese control de la información para que yo sepa qué estoy haciendo, cuándo lo",
+        "startMs": 450670,
+        "durationMs": 4560
+      },
+      {
+        "text": "estoy haciendo, pero sobre todo que sea en línea, que sea en el momento que",
+        "startMs": 455230,
+        "durationMs": 3799
+      },
+      {
+        "text": "usted lo quiera consultar. ¿Cómo generamos entonces la",
+        "startMs": 459029,
+        "durationMs": 4481
+      },
+      {
+        "text": "información exógena en contapyme? ¿Qué tengo que hacer? Entonces, primero, el",
+        "startMs": 463510,
+        "durationMs": 4959
+      },
+      {
+        "text": "primer paso es revisar y configurar los conceptos por cada formato. Entonces, lo",
+        "startMs": 468469,
+        "durationMs": 4400
+      },
+      {
+        "text": "primero que hay que hacer es identificar qué formatos tengo que presentar. Los",
+        "startMs": 472869,
+        "durationMs": 4280
+      },
+      {
+        "text": "más importantes son este listadito que les traigo aquí, pero es un listadito",
+        "startMs": 477149,
+        "durationMs": 3720
+      },
+      {
+        "text": "más amplio que usted dependiendo a qué tipo de contribuyente es, qué ingresos",
+        "startMs": 480869,
+        "durationMs": 5000
+      },
+      {
+        "text": "tuvo durante ese año grabable, pues debe de identificar qué debe de presentar.",
+        "startMs": 485869,
+        "durationMs": 4201
+      },
+      {
+        "text": "Una vez usted ya haya identificado, entonces yo tengo que presentar el",
+        "startMs": 490070,
+        "durationMs": 3160
+      },
+      {
+        "text": "formato día 01. Ya sé que lo tengo que hacer. Entonces, lo que hacemos en",
+        "startMs": 493230,
+        "durationMs": 5720
+      },
+      {
+        "text": "contapyme es que le traemos por cada concepto dentro de ese formato unos",
+        "startMs": 498950,
+        "durationMs": 5799
+      },
+      {
+        "text": "campos o unos totales como llamamos nosotros para que usted simplemente",
+        "startMs": 504749,
+        "durationMs": 4280
+      },
+      {
+        "text": "asocie sus cuentas contables, las que manejó en ese año grabable con sus",
+        "startMs": 509029,
+        "durationMs": 5401
+      },
+      {
+        "text": "transacciones a cada campo. Entonces, pagos deducibles así para honorarios,",
+        "startMs": 514430,
+        "durationMs": 5399
+      },
+      {
+        "text": "que es el concepto 502. Entonces, yo manejé la cuenta 5110.",
+        "startMs": 519829,
+        "durationMs": 5041
+      },
+      {
+        "text": "Eh, no me aplica el tema de no deducibles, no me aplica el tema de",
+        "startMs": 524870,
+        "durationMs": 3440
+      },
+      {
+        "text": "mayores valores para el IVA. Ah, si tengo retenciones practicadas, ¿qué",
+        "startMs": 528310,
+        "durationMs": 3680
+      },
+      {
+        "text": "cuenta movió la 2365 35? Entonces, simplemente es hacer el ejercicio de al",
+        "startMs": 531990,
+        "durationMs": 5200
+      },
+      {
+        "text": "concepto que me aplique, en el campo que me aplique indicar la cuenta para que",
+        "startMs": 537190,
+        "durationMs": 5400
+      },
+      {
+        "text": "usted simplemente con un clic al dar generar información, que es el paso",
+        "startMs": 542590,
+        "durationMs": 3960
+      },
+      {
+        "text": "número dos, entonces el sistema vaya y traiga toda esa información por cada",
+        "startMs": 546550,
+        "durationMs": 4600
+      },
+      {
+        "text": "tercero de la cuenta que le dije al concepto",
+        "startMs": 551150,
+        "durationMs": 3119
+      },
+      {
+        "text": "concepto correspondiente. Entonces, en la",
+        "startMs": 554269,
+        "durationMs": 2401
+      },
+      {
+        "text": "generada de la información traemos el tercero, traemos el pago a una en",
+        "startMs": 556670,
+        "durationMs": 4040
+      },
+      {
+        "text": "cuenta, en este caso en el concepto 101 que estamos tomando como ejemplo. Y yo",
+        "startMs": 560710,
+        "durationMs": 4640
+      },
+      {
+        "text": "debo de verificar esa información. Mira lo que me está trayendo de Laura Gómez",
+        "startMs": 565350,
+        "durationMs": 4080
+      },
+      {
+        "text": "por 4 millones por concepto de honorarios en nuestro ejemplo. Si es, no",
+        "startMs": 569430,
+        "durationMs": 4839
+      },
+      {
+        "text": "es, sí me coincide. Entonces, ¿cómo hago yo esa verificación? Me puedo apoyar en",
+        "startMs": 574269,
+        "durationMs": 5240
+      },
+      {
+        "text": "datos fuente que tiene directamente el formato, me puedo apoyar en un mayor y",
+        "startMs": 579509,
+        "durationMs": 3921
+      },
+      {
+        "text": "balances con terceros que tiene disponible contapyme y me puedo apoyar",
+        "startMs": 583430,
+        "durationMs": 4519
+      },
+      {
+        "text": "en el explorador de contabilidad, que es el informe que usted eh digamos acomoda",
+        "startMs": 587949,
+        "durationMs": 5120
+      },
+      {
+        "text": "a su necesidad de consulta, que puede adicionar, ocultar columnas, filtrar,",
+        "startMs": 593069,
+        "durationMs": 4961
+      },
+      {
+        "text": "agrupar, hacer una auditoría de la información para mirar la operación o",
+        "startMs": 598030,
+        "durationMs": 4520
+      },
+      {
+        "text": "modificarla desde allí si es el caso. Entonces, nos apoyamos en estas tres",
+        "startMs": 602550,
+        "durationMs": 4719
+      },
+      {
+        "text": "herramientas claves una vez generada la información para poder hacer esa",
+        "startMs": 607269,
+        "durationMs": 3961
+      },
+      {
+        "text": "verificación de la misma. Y finalmente, ¿cuál es el paso tres? Generar el XCML y",
+        "startMs": 611230,
+        "durationMs": 5440
+      },
+      {
+        "text": "subirlo a la diano. Solamente con unos clic usted genera la XCML de toda esa",
+        "startMs": 616670,
+        "durationMs": 5240
+      },
+      {
+        "text": "información desde contapyme. Cumplimos con la normativa y lo que hacemos es que",
+        "startMs": 621910,
+        "durationMs": 5919
+      },
+      {
+        "text": "ese archivo se lo pasamos a la plataforma de la Dian o se lo subimos o",
+        "startMs": 627829,
+        "durationMs": 4680
+      },
+      {
+        "text": "se lo cargamos a la Dian y cumplimos. Esa XCML debe tener una estructura que",
+        "startMs": 632509,
+        "durationMs": 6841
+      },
+      {
+        "text": "exige como tal la norma y la resolución. esa XCML que usted general de Contapyme",
+        "startMs": 639350,
+        "durationMs": 5360
+      },
+      {
+        "text": "cumple con toda esa normativa. Tenemos unos archivos XSD que son los que están",
+        "startMs": 644710,
+        "durationMs": 5000
+      },
+      {
+        "text": "asociados al prevalidador dial que lo que hacemos es prevalidar de que el",
+        "startMs": 649710,
+        "durationMs": 3720
+      },
+      {
+        "text": "campo sea numérico, de que el campo sea solo de texto, de que tenga una longitud",
+        "startMs": 653430,
+        "durationMs": 5320
+      },
+      {
+        "text": "establecida, de que sea requerido o no sea requerido. Todas esas validaciones",
+        "startMs": 658750,
+        "durationMs": 4639
+      },
+      {
+        "text": "las hacemos en cuenta pyme. Entonces, miren que es muy fácil y es muy",
+        "startMs": 663389,
+        "durationMs": 3880
+      },
+      {
+        "text": "sencillo. Y ahora que vamos a pasar al sistema, van a ver que es mucho más.",
+        "startMs": 667269,
+        "durationMs": 3761
+      },
+      {
+        "text": "Entonces, vamos a pasar a contapime para poderles mostrar cómo se hacen esos tres",
+        "startMs": 671030,
+        "durationMs": 4359
+      },
+      {
+        "text": "pasos claves dentro del sistema. Ubicados entonces en el contapme, nos",
+        "startMs": 675389,
+        "durationMs": 4560
+      },
+      {
+        "text": "vamos a ir a la pestaña de contabilidad. Aquí vamos a encontrar este apartado de",
+        "startMs": 679949,
+        "durationMs": 5641
+      },
+      {
+        "text": "medios magnéticos o de información exógena. Y aquí vamos a encontrarnos con",
+        "startMs": 685590,
+        "durationMs": 4440
+      },
+      {
+        "text": "un aviso donde nos indica que eh la herramienta que le estamos prestando",
+        "startMs": 690030,
+        "durationMs": 4599
+      },
+      {
+        "text": "para que usted haga la elaboración y la generación de la información exógena es",
+        "startMs": 694629,
+        "durationMs": 4041
+      },
+      {
+        "text": "de gran utilidad porque es muy rápida, porque es muy efectiva en cuanto al tema",
+        "startMs": 698670,
+        "durationMs": 5080
+      },
+      {
+        "text": "de cálculos y en cuanto al tema de optimizar el tiempo, pero que es",
+        "startMs": 703750,
+        "durationMs": 4720
+      },
+      {
+        "text": "importante que usted revise esa información y que usted confirme que los",
+        "startMs": 708470,
+        "durationMs": 4080
+      },
+      {
+        "text": "10,000ones que le trajo de Andrea pues sí corresponden a los movimientos que se",
+        "startMs": 712550,
+        "durationMs": 3760
+      },
+      {
+        "text": "hicieron o están soportados en su mayores balance el estado financiero que",
+        "startMs": 716310,
+        "durationMs": 3880
+      },
+      {
+        "text": "ella presentó. Entonces, acá le decimos, estamos de",
+        "startMs": 720190,
+        "durationMs": 3040
+      },
+      {
+        "text": "acuerdo. Vamos a encontrar el listado de los formatos Dian. Van a encontrar unos",
+        "startMs": 723230,
+        "durationMs": 5399
+      },
+      {
+        "text": "en color grisecito, que son los formatos del año gravable anterior, que ya están",
+        "startMs": 728629,
+        "durationMs": 4000
+      },
+      {
+        "text": "obsoletos. Mírenos aquí marcados como obsoletos y vamos a encontrar los del",
+        "startMs": 732629,
+        "durationMs": 3521
+      },
+      {
+        "text": "año gravable 2024. Eh, ¿cuál es la idea según los",
+        "startMs": 736150,
+        "durationMs": 5080
+      },
+      {
+        "text": "pasos que vimos? Identificar qué formatos debo de presentar. Entonces, yo",
+        "startMs": 741230,
+        "durationMs": 4200
+      },
+      {
+        "text": "tengo que presentar el 101, tengo que presentar el tema de los socios porque",
+        "startMs": 745430,
+        "durationMs": 4079
+      },
+      {
+        "text": "este año con la resolución que cambió, que ya tengo que hacer el reporte sin",
+        "startMs": 749509,
+        "durationMs": 4081
+      },
+      {
+        "text": "ningún tipo de tope, entonces tengo que presentar el de los socios, el de saldos",
+        "startMs": 753590,
+        "durationMs": 4239
+      },
+      {
+        "text": "de cuentas por cobrar y de por pagar a 31 de diciembre. Entonces, voy",
+        "startMs": 757829,
+        "durationMs": 3721
+      },
+      {
+        "text": "identificando qué debo de presentar. Entonces vamos a mirar, por ejemplo,",
+        "startMs": 761550,
+        "durationMs": 5240
+      },
+      {
+        "text": "este formato, el 101, que es uno de los más utilizados y el cual casi el 95% de",
+        "startMs": 766790,
+        "durationMs": 6320
+      },
+      {
+        "text": "las empresas debe de presentar. ¿Qué tengo que hacer? Simplemente le puede",
+        "startMs": 773110,
+        "durationMs": 3839
+      },
+      {
+        "text": "dar doble clic, le puede dar modificar, le puede dar clic derecho, modificar, o",
+        "startMs": 776949,
+        "durationMs": 4120
+      },
+      {
+        "text": "sea, tiene varias como opciones de ingreso a ese formato. En el formato nos",
+        "startMs": 781069,
+        "durationMs": 4601
+      },
+      {
+        "text": "vamos a encontrar primero la normativa o la resolución en la cual estamos",
+        "startMs": 785670,
+        "durationMs": 4480
+      },
+      {
+        "text": "basando. Aquí lo vamos a ver. Vamos a encontrar la definición de los",
+        "startMs": 790150,
+        "durationMs": 4320
+      },
+      {
+        "text": "conceptos. Voy a poner este un poquito más grande. Acá está el listado de todos",
+        "startMs": 794470,
+        "durationMs": 4599
+      },
+      {
+        "text": "los conceptos que aplican al formato 101 y está el tema de los topes. Con esta",
+        "startMs": 799069,
+        "durationMs": 6760
+      },
+      {
+        "text": "nueva resolución, los topes ya no se miden en pesos, sino que se miden a",
+        "startMs": 805829,
+        "durationMs": 5321
+      },
+      {
+        "text": "través de VT. Entonces, aquí ya están estructuraditos esos topes en VT con",
+        "startMs": 811150,
+        "durationMs": 5760
+      },
+      {
+        "text": "esta actualización para que usted esté también ahí al día y superactтуalizados",
+        "startMs": 816910,
+        "durationMs": 5359
+      },
+      {
+        "text": "contap. Entonces, miren que está listado de los conceptos. En el caso del 101 son",
+        "startMs": 822269,
+        "durationMs": 6081
+      },
+      {
+        "text": "exactamente 79 conceptos que hay que revisar si me aplican o no me aplican.",
+        "startMs": 828350,
+        "durationMs": 5560
+      },
+      {
+        "text": "No es que tenga que llenar los 79 conceptos, porque como le digo, esto va",
+        "startMs": 833910,
+        "durationMs": 4520
+      },
+      {
+        "text": "asociado al contribuyente, a qué tipo de contribuyente es. a sus ingresos, a esos",
+        "startMs": 838430,
+        "durationMs": 5040
+      },
+      {
+        "text": "topes y pues ahora saber qué le aplica y qué no le aplica. Recuerden que lo que",
+        "startMs": 843470,
+        "durationMs": 3599
+      },
+      {
+        "text": "esté por debajo del tope, en este caso 3 VTS, se va a cuantidad",
+        "startMs": 847069,
+        "durationMs": 4361
+      },
+      {
+        "text": "menor. Entonces identifico qué conceptos me aplican. Por ejemplo, sale el tema de",
+        "startMs": 851430,
+        "durationMs": 5800
+      },
+      {
+        "text": "honorarios. Entonces, voy a correr este para acá. Miren el tema de los campos o",
+        "startMs": 857230,
+        "durationMs": 4880
+      },
+      {
+        "text": "de los totales que les hablaba. Entonces, para cada campo hay una",
+        "startMs": 862110,
+        "durationMs": 4399
+      },
+      {
+        "text": "asociación de cuentas, pagos o abonos en cuenta, el tema de los IVAS mayor valor",
+        "startMs": 866509,
+        "durationMs": 6120
+      },
+      {
+        "text": "eh deducibles o no, el tema de las retenciones en la fuente. Entonces, es",
+        "startMs": 872629,
+        "durationMs": 4320
+      },
+      {
+        "text": "acá donde yo tengo que ir a venir a configurar mi cuenta, la que me aplica.",
+        "startMs": 876949,
+        "durationMs": 4320
+      },
+      {
+        "text": "Pero hay algo importante, estos formatos vienen así preconfigurados por defecto,",
+        "startMs": 881269,
+        "durationMs": 5920
+      },
+      {
+        "text": "como usted los ve. la cuenta 5110 eh de la parte de honorarios ya viene allí",
+        "startMs": 887189,
+        "durationMs": 6880
+      },
+      {
+        "text": "configurada, establecida con el tipo de saldo, pero pues si usted no maneja la",
+        "startMs": 894069,
+        "durationMs": 5241
+      },
+      {
+        "text": "parte de los honorarios por esta cuenta, sino por una cuenta diferente, es acá",
+        "startMs": 899310,
+        "durationMs": 4240
+      },
+      {
+        "text": "donde simplemente usted le hace doble clic, le abre el catálogo de cuentas,",
+        "startMs": 903550,
+        "durationMs": 3639
+      },
+      {
+        "text": "selecciona la cuenta y listo. Entonces, también es ahí como el tip de que ya los",
+        "startMs": 907189,
+        "durationMs": 6041
+      },
+      {
+        "text": "traemos preconfigurados, preconfigurados a lo que hablamos en general para las",
+        "startMs": 913230,
+        "durationMs": 5240
+      },
+      {
+        "text": "cuentas de el tema de honorarios, el tema de arrendamientos, pero pues hay",
+        "startMs": 918470,
+        "durationMs": 4200
+      },
+      {
+        "text": "unas cuentas en específico que ya son propias de cada empresa, que se van a",
+        "startMs": 922670,
+        "durationMs": 4240
+      },
+      {
+        "text": "encontrar ustedes con un asteris kito. Ese asteris kito, ¿qué significa? que",
+        "startMs": 926910,
+        "durationMs": 5399
+      },
+      {
+        "text": "debe de usted indicarnos cuál es la cuenta que maneja, porque puede que esta",
+        "startMs": 932309,
+        "durationMs": 4041
+      },
+      {
+        "text": "empresa maneje la 7301, esta que maneje la 7310. Entonces, esos asterisquitos",
+        "startMs": 936350,
+        "durationMs": 5599
+      },
+      {
+        "text": "quieren decir, indíqueme cuál cuenta es la que usted maneja, porque aquí ya no",
+        "startMs": 941949,
+        "durationMs": 3320
+      },
+      {
+        "text": "podemos generalizar eh con el tema del honorario, como el tema del",
+        "startMs": 945269,
+        "durationMs": 4480
+      },
+      {
+        "text": "arrendamiento, sino una cuenta puntual que ya usted maneja. Entonces, cuando yo",
+        "startMs": 949749,
+        "durationMs": 3841
+      },
+      {
+        "text": "ya haya hecho esa revisión de cuentas por cada concepto que me aplique,",
+        "startMs": 953590,
+        "durationMs": 4840
+      },
+      {
+        "text": "entonces simplemente es aquí darle aceptar al formato para que él guarde y",
+        "startMs": 958430,
+        "durationMs": 4440
+      },
+      {
+        "text": "conserve esos cambios. Y ya me voy al segundo paso que es generar la",
+        "startMs": 962870,
+        "durationMs": 4600
+      },
+      {
+        "text": "información. Entonces, lo que él hace es, bueno, usted ya me dijo por cada",
+        "startMs": 967470,
+        "durationMs": 3440
+      },
+      {
+        "text": "concepto qué cuentas son las que necesita en cada campo o en cada total.",
+        "startMs": 970910,
+        "durationMs": 4560
+      },
+      {
+        "text": "Entonces, ya con esa información lo que voy a hacer es irme a traer y a",
+        "startMs": 975470,
+        "durationMs": 4320
+      },
+      {
+        "text": "consultar por cada tercero esa cuenta que se movió y voy a ir a asociarla a",
+        "startMs": 979790,
+        "durationMs": 6000
+      },
+      {
+        "text": "ese campo. Entonces le vamos a decir aquí",
+        "startMs": 985790,
+        "durationMs": 6640
+      },
+      {
+        "text": "generar. Aquí él nos va a preguntar qué fecha es la que necesito.",
+        "startMs": 992440,
+        "durationMs": 5749
+      },
+      {
+        "text": "En este caso, año grabable 2024, desde enero a",
+        "startMs": 998189,
+        "durationMs": 3681
+      },
+      {
+        "text": "diciembre. Y le decimos aceptar. Entonces, mire, empieza a calcular todos",
+        "startMs": 1001870,
+        "durationMs": 4639
+      },
+      {
+        "text": "los valores de todos los registros, de todos los terceros con los que encontró",
+        "startMs": 1006509,
+        "durationMs": 3841
+      },
+      {
+        "text": "movimiento para ese año gravable y me trae a mí ese listado de información.",
+        "startMs": 1010350,
+        "durationMs": 5240
+      },
+      {
+        "text": "¿Para qué? Para que yo simplemente tenga que ir a comparar cada tercero en cada",
+        "startMs": 1015590,
+        "durationMs": 5120
+      },
+      {
+        "text": "concepto que me aplica y que no me aplica. ¿Listo? Entonces, aquí es donde",
+        "startMs": 1020710,
+        "durationMs": 6760
+      },
+      {
+        "text": "vemos la parte de ese paso de generar la información y verificar la información.",
+        "startMs": 1027470,
+        "durationMs": 5280
+      },
+      {
+        "text": "Entonces, ¿qué tengo que hacer para poder hacer la verificación de la",
+        "startMs": 1032750,
+        "durationMs": 3400
+      },
+      {
+        "text": "información? Entonces, lo primero es que miren que encuentran la columna de",
+        "startMs": 1036150,
+        "durationMs": 4080
+      },
+      {
+        "text": "concepto, la columna de toda la información del tercero hasta acá, donde",
+        "startMs": 1040230,
+        "durationMs": 5040
+      },
+      {
+        "text": "está la parte de la dirección del país, el código de municipios y departamentos.",
+        "startMs": 1045270,
+        "durationMs": 5000
+      },
+      {
+        "text": "Y aquí hablamos ya de los conceptos o de los totales eh donde se empieza a",
+        "startMs": 1050270,
+        "durationMs": 4960
+      },
+      {
+        "text": "registrar la información que corresponde. Vamos a encontrar",
+        "startMs": 1055230,
+        "durationMs": 3960
+      },
+      {
+        "text": "directamente desde este formato una herramienta que se llama datos fuente.",
+        "startMs": 1059190,
+        "durationMs": 4680
+      },
+      {
+        "text": "datos fuente es de dónde está trayendo el sistema esa información que me está",
+        "startMs": 1063870,
+        "durationMs": 5799
+      },
+      {
+        "text": "mostrando en este caso, digamos para almacén, tu equipo limitada, de dónde me",
+        "startMs": 1069669,
+        "durationMs": 5841
+      },
+      {
+        "text": "está trayendo a mí esta retención en la fuente o para el",
+        "startMs": 1075510,
+        "durationMs": 5039
+      },
+      {
+        "text": "tercero, reparaciones mejía limitada, de dónde me está trayendo el pago abono en",
+        "startMs": 1080549,
+        "durationMs": 5240
+      },
+      {
+        "text": "cuenta de 6,000ones. Entonces es muy sencillo. Usted acá filtra por concepto",
+        "startMs": 1085789,
+        "durationMs": 6441
+      },
+      {
+        "text": "o por el dato que usted quiera. Yo lo hago así porque me parece más sencillo,",
+        "startMs": 1092230,
+        "durationMs": 3240
+      },
+      {
+        "text": "pero por el dato que usted lo quiera hacer. Entonces, yo filtro por el",
+        "startMs": 1095470,
+        "durationMs": 2640
+      },
+      {
+        "text": "concepto 502, que es el que quiero revisar en este caso de reparaciones.",
+        "startMs": 1098110,
+        "durationMs": 4640
+      },
+      {
+        "text": "Filtro por el tercero que quiero revisar, en este caso el 856, el que",
+        "startMs": 1102750,
+        "durationMs": 5720
+      },
+      {
+        "text": "termina en 236, este de aquí. Entonces, miren que la información se va",
+        "startMs": 1108470,
+        "durationMs": 4360
+      },
+      {
+        "text": "detallando y se va reduciendo, pues, a medida que yo le voy aplicando los",
+        "startMs": 1112830,
+        "durationMs": 3800
+      },
+      {
+        "text": "filtros para que sea mucho más fácil. Entonces, miren, me está diciendo, \"Sí,",
+        "startMs": 1116630,
+        "durationMs": 3440
+      },
+      {
+        "text": "tiene un valor base de 6,325.\" Es lo que le estoy reportando",
+        "startMs": 1120070,
+        "durationMs": 4160
+      },
+      {
+        "text": "aquí en pagos o abonos en cuenta. ¿De qué cuenta? De la 515.",
+        "startMs": 1124230,
+        "durationMs": 6280
+      },
+      {
+        "text": "y tiene una retención en la fuente también que le estoy aquí reportando de",
+        "startMs": 1130510,
+        "durationMs": 6960
+      },
+      {
+        "text": "695,750es de esta cuenta correspondiente. Si usted está haciendo",
+        "startMs": 1137480,
+        "durationMs": 4790
+      },
+      {
+        "text": "su revisión y no le coincide su mayor y balances o su el informe con el que lo",
+        "startMs": 1142270,
+        "durationMs": 5519
+      },
+      {
+        "text": "esté comparando, pues simplemente es que abramos el explorador de contabilidad,",
+        "startMs": 1147789,
+        "durationMs": 4521
+      },
+      {
+        "text": "hagamos la misma consulta de cuentas para ese tercero y si necesita hacer",
+        "startMs": 1152310,
+        "durationMs": 5120
+      },
+      {
+        "text": "alguna modificación la haga directamente desde allí. Pero al menos el dato fuente",
+        "startMs": 1157430,
+        "durationMs": 4680
+      },
+      {
+        "text": "es para que usted sepa qué cuenta es, porque como vinimos y la configuramos",
+        "startMs": 1162110,
+        "durationMs": 4400
+      },
+      {
+        "text": "previamente aquí en esa configuración de conceptos, entonces la idea es de que",
+        "startMs": 1166510,
+        "durationMs": 4480
+      },
+      {
+        "text": "usted directamente desde acá sepa qué cuenta es para que ya vaya puntualmente",
+        "startMs": 1170990,
+        "durationMs": 4600
+      },
+      {
+        "text": "allí y haga la consulta detallada. Entonces, este datos fuente es realmente",
+        "startMs": 1175590,
+        "durationMs": 5559
+      },
+      {
+        "text": "que una herramienta que usted va a poder encontrar de mucho apoyo ahí",
+        "startMs": 1181149,
+        "durationMs": 4241
+      },
+      {
+        "text": "directamente desde el formato para que se pueda apoyar en ella y sobre todo",
+        "startMs": 1185390,
+        "durationMs": 3159
+      },
+      {
+        "text": "para que pueda conocer en tiempo real cuando esté haciendo el formato, de",
+        "startMs": 1188549,
+        "durationMs": 4321
+      },
+      {
+        "text": "dónde está trayendo la información o si tiene que ir a hacer algún cambio,",
+        "startMs": 1192870,
+        "durationMs": 3080
+      },
+      {
+        "text": "alguna modificación o alguna adición porque de pronto no le está incluyendo",
+        "startMs": 1195950,
+        "durationMs": 4160
+      },
+      {
+        "text": "alguna cuenta, pues lo puede hacer. Bueno, segunda herramienta, mayor y",
+        "startMs": 1200110,
+        "durationMs": 4360
+      },
+      {
+        "text": "balanzas con terceros. Entonces, aquí en la pestaña de contabilidad, la parte de",
+        "startMs": 1204470,
+        "durationMs": 3319
+      },
+      {
+        "text": "libros legales, vamos a encontrar el apartado de mayor y balances. Mayor y",
+        "startMs": 1207789,
+        "durationMs": 4281
+      },
+      {
+        "text": "balances con terceros. Miren, una aquí está eh la vista previa. Eh, saldo",
+        "startMs": 1212070,
+        "durationMs": 5120
+      },
+      {
+        "text": "anterior, movimiento, saldos finales con la cuenta y el tercero correspondiente.",
+        "startMs": 1217190,
+        "durationMs": 4680
+      },
+      {
+        "text": "A mí me gusta mucho utilizar este que es la consulta del mayor y balances porque",
+        "startMs": 1221870,
+        "durationMs": 4760
+      },
+      {
+        "text": "al ser una consulta me permite a mí profundizar mucho más en el dato que me",
+        "startMs": 1226630,
+        "durationMs": 4600
+      },
+      {
+        "text": "está mostrando el informe y poder hacer eh la consulta de la información. o la",
+        "startMs": 1231230,
+        "durationMs": 4240
+      },
+      {
+        "text": "herramienta que manejamos nosotros que se llama drill para poder yo saber a",
+        "startMs": 1235470,
+        "durationMs": 4000
+      },
+      {
+        "text": "profundidad qué pasó con ese saldo, qué pasó con esa operación. Entonces, les",
+        "startMs": 1239470,
+        "durationMs": 9079
+      },
+      {
+        "text": "informe. Vamos a cambiar aquí la fecha porque acuérdense que estoy trabajando",
+        "startMs": 1248559,
+        "durationMs": 4551
+      },
+      {
+        "text": "hasta el 31 de diciembre del 2024, que es para donde estoy haciendo la consulta",
+        "startMs": 1253110,
+        "durationMs": 6760
+      },
+      {
+        "text": "de mi presentación de información exógena. Y aquí vamos a buscar la cuenta",
+        "startMs": 1259870,
+        "durationMs": 5520
+      },
+      {
+        "text": "que estamos revisando en nuestro formato para nuestro tercero, que en este caso",
+        "startMs": 1265390,
+        "durationMs": 5480
+      },
+      {
+        "text": "es en el datos fuente la 51 1035 para este tercero 856",
+        "startMs": 1270870,
+        "durationMs": 12200
+      },
+      {
+        "text": "buscar la 51 1035 de honorarios estos 6,325,000. Entonces, ¿qué hago desde el",
+        "startMs": 1283080,
+        "durationMs": 7270
+      },
+      {
+        "text": "informe? Simplemente usted hace un doble clic. Con ese doble clic él le va a",
+        "startMs": 1290350,
+        "durationMs": 5280
+      },
+      {
+        "text": "abrir un explorador de contabilidad, que ese explorador de contabilidad para mí",
+        "startMs": 1295630,
+        "durationMs": 4560
+      },
+      {
+        "text": "es la herramienta número uno para el contador o para la persona que esté",
+        "startMs": 1300190,
+        "durationMs": 4120
+      },
+      {
+        "text": "haciendo esta parte de la presentación de informes. ¿Por qué? porque le permite",
+        "startMs": 1304310,
+        "durationMs": 4599
+      },
+      {
+        "text": "a usted explorar la contabilidad para poder hacer una revisión mucho más",
+        "startMs": 1308909,
+        "durationMs": 5041
+      },
+      {
+        "text": "exhaustiva, pero mucho más precisa directamente desde el informe. Entonces,",
+        "startMs": 1313950,
+        "durationMs": 4480
+      },
+      {
+        "text": "miren, al dar doble clic, él me trae a mí los movimientos asociados a ese saldo",
+        "startMs": 1318430,
+        "durationMs": 5239
+      },
+      {
+        "text": "que me está mostrando. Reparaciones Mejía, 6 m,000000. Entonces, ya desde",
+        "startMs": 1323669,
+        "durationMs": 4240
+      },
+      {
+        "text": "aquí usted puede ver la operación. Vamos a mirar la operación. ¿Será que me quedó",
+        "startMs": 1327909,
+        "durationMs": 4201
+      },
+      {
+        "text": "mal registrada? ¿Será que me la registraron mal? Entonces es un gasto.",
+        "startMs": 1332110,
+        "durationMs": 4320
+      },
+      {
+        "text": "Estamos aquí registrando los gastos de representación, estampillas, asesoría",
+        "startMs": 1336430,
+        "durationMs": 4119
+      },
+      {
+        "text": "técnica, etcétera. Y miren que aquí está todo el desglose de los impuestos, la",
+        "startMs": 1340549,
+        "durationMs": 5000
+      },
+      {
+        "text": "forma de pago. Entonces puede hacer usted la revisión de su operación",
+        "startMs": 1345549,
+        "durationMs": 2801
+      },
+      {
+        "text": "directamente desde el impor para que empiece a comparar y a revisar esos",
+        "startMs": 1348350,
+        "durationMs": 4439
+      },
+      {
+        "text": "datos. Entonces aquí está el datos fuente directamente desde el formato",
+        "startMs": 1352789,
+        "durationMs": 6760
+      },
+      {
+        "text": "mayor y balances con eh terceros o mayor y balances tipo consulta. y explorador",
+        "startMs": 1359549,
+        "durationMs": 6120
+      },
+      {
+        "text": "de contabilidad, que le permite a usted adicionar u ocultar columnas desde aquí,",
+        "startMs": 1365669,
+        "durationMs": 4961
+      },
+      {
+        "text": "desde esta opcionita. Mover las columnas. Yo quiero ver de primero el",
+        "startMs": 1370630,
+        "durationMs": 4039
+      },
+      {
+        "text": "tercero porque estoy haciendo una revisión por tercero, entonces",
+        "startMs": 1374669,
+        "durationMs": 2561
+      },
+      {
+        "text": "simplemente la arrastra. Usted quiere agrupar por tercero, simplemente ubicada",
+        "startMs": 1377230,
+        "durationMs": 4720
+      },
+      {
+        "text": "en la columna que quiera eh agrupar, la arrastra hacia la franjita amarilla",
+        "startMs": 1381950,
+        "durationMs": 5400
+      },
+      {
+        "text": "donde dice arrastre una columna aquí para agrupar por dicha columna. Entonces",
+        "startMs": 1387350,
+        "durationMs": 3520
+      },
+      {
+        "text": "arrastramos la información. puede filtrar, puede tener filtros más",
+        "startMs": 1390870,
+        "durationMs": 4600
+      },
+      {
+        "text": "específicos aquí por tipo de operación, por algún tipo de documento en especial.",
+        "startMs": 1395470,
+        "durationMs": 6000
+      },
+      {
+        "text": "Entonces este explorador es la herramienta, digamos, número uno de",
+        "startMs": 1401470,
+        "durationMs": 4799
+      },
+      {
+        "text": "apoyo que usted tiene para que pueda hacer toda la consulta de la",
+        "startMs": 1406269,
+        "durationMs": 3321
+      },
+      {
+        "text": "información. Ahora, no está presentando la exógena, está presentando por allá de",
+        "startMs": 1409590,
+        "durationMs": 3880
+      },
+      {
+        "text": "declaración de renta, pagos de IVA, pagos de retención. El explorador es la",
+        "startMs": 1413470,
+        "durationMs": 4360
+      },
+      {
+        "text": "herramienta que le permite a usted hacer filtros específicos y agrupar la",
+        "startMs": 1417830,
+        "durationMs": 4240
+      },
+      {
+        "text": "información o ver la información de la manera que usted necesite para su",
+        "startMs": 1422070,
+        "durationMs": 5120
+      },
+      {
+        "text": "empresa o para su necesidad. Entonces, vamos a cerrar acá con nuestras eh",
+        "startMs": 1427190,
+        "durationMs": 5560
+      },
+      {
+        "text": "herramientas de auditoría de la información. Entonces, ya revisé la",
+        "startMs": 1432750,
+        "durationMs": 4000
+      },
+      {
+        "text": "información, ya comparé de que todo está bien, de que todo está correcto, hice",
+        "startMs": 1436750,
+        "durationMs": 3720
+      },
+      {
+        "text": "los ajustes o las modificaciones correspondientes. ¿Qué sigue?",
+        "startMs": 1440470,
+        "durationMs": 3760
+      },
+      {
+        "text": "Simplemente generar el XCML. Damos clic aquí en esta opciona, generar XCML. Él",
+        "startMs": 1444230,
+        "durationMs": 6840
+      },
+      {
+        "text": "me dice el año de envío. Me dice la versión del formato, que recuerden que",
+        "startMs": 1451070,
+        "durationMs": 4719
+      },
+      {
+        "text": "esto queda actualizado automáticamente con la resolución. Eh, fechas de envío,",
+        "startMs": 1455789,
+        "durationMs": 5240
+      },
+      {
+        "text": "eh números de envío y simplemente le digo aceptar.",
+        "startMs": 1461029,
+        "durationMs": 4281
+      },
+      {
+        "text": "Aquí él hace toda la magia, toda esa información la sube en un formato XML,",
+        "startMs": 1465310,
+        "durationMs": 6440
+      },
+      {
+        "text": "la construye con una estructura ya establecida que previamente dice la",
+        "startMs": 1471750,
+        "durationMs": 4360
+      },
+      {
+        "text": "resolución y que nosotros tenemos ya ahí disponible para usted. Entonces, miren",
+        "startMs": 1476110,
+        "durationMs": 4000
+      },
+      {
+        "text": "que dice, se validaron los datos del formato, se verificó el archivo contra",
+        "startMs": 1480110,
+        "durationMs": 3799
+      },
+      {
+        "text": "el prevalidador de la Diana, utilizamos los XSD del prevalidador para confirmar",
+        "startMs": 1483909,
+        "durationMs": 4480
+      },
+      {
+        "text": "de que los datos están correctos y se guardó el XML en esta ruta. le muestra",
+        "startMs": 1488389,
+        "durationMs": 5400
+      },
+      {
+        "text": "la ruta. Quiere abrir la ubicación del archivo. Sí, quiero ver dónde quedó el",
+        "startMs": 1493789,
+        "durationMs": 4161
+      },
+      {
+        "text": "archivo, dónde quedó la ruta. Entonces, abrimos la ubicación y miren que aquí en",
+        "startMs": 1497950,
+        "durationMs": 4280
+      },
+      {
+        "text": "esa misma ruta que nos está ahí dando el texto está nuestro archivo en formato",
+        "startMs": 1502230,
+        "durationMs": 7159
+      },
+      {
+        "text": "XCML disponible para presentarlo a la de Miren que aquí está todo el reporte por",
+        "startMs": 1509389,
+        "durationMs": 5481
+      },
+      {
+        "text": "tercero para ese formato con toda la especificación técnica requerida para yo",
+        "startMs": 1514870,
+        "durationMs": 5960
+      },
+      {
+        "text": "poder hacer eh la presentación de mi información exógena. Y aquí mismo van a",
+        "startMs": 1520830,
+        "durationMs": 4959
+      },
+      {
+        "text": "quedar los otros formatos identificados con el numerito que corresponde aquí en",
+        "startMs": 1525789,
+        "durationMs": 4480
+      },
+      {
+        "text": "estos códigos para que usted allí tenga toda la información. Entonces,",
+        "startMs": 1530269,
+        "durationMs": 3841
+      },
+      {
+        "text": "simplemente aquí cerramos, le decimos que no y ahí ya nos quedó listo nuestro",
+        "startMs": 1534110,
+        "durationMs": 4520
+      },
+      {
+        "text": "formato 101. Entonces sigo con el formato",
+        "startMs": 1538630,
+        "durationMs": 4360
+      },
+      {
+        "text": "formato 102, 103, el que me aplique a mi",
+        "startMs": 1542990,
+        "durationMs": 3279
+      },
+      {
+        "text": "correspondiente y hago exactamente el mismo ejercicio. Configuro cuentas,",
+        "startMs": 1546269,
+        "durationMs": 5120
+      },
+      {
+        "text": "genero información, reviso la información y genero el XCML. No tiene",
+        "startMs": 1551389,
+        "durationMs": 4481
+      },
+      {
+        "text": "que hacer nada más. Ahora, hay gente que le gusta trabajarlo en Excel porque en",
+        "startMs": 1555870,
+        "durationMs": 7080
+      },
+      {
+        "text": "Excel le parece más fácil, porque lo puede formular, porque puede hacer eh su",
+        "startMs": 1562950,
+        "durationMs": 4360
+      },
+      {
+        "text": "consulta directamente desde allí. Esto se lo puede llevar para un Excel tal",
+        "startMs": 1567310,
+        "durationMs": 3839
+      },
+      {
+        "text": "cual como lo ve allí, trabajarlo, venirlo a importar en contrapyme y desde",
+        "startMs": 1571149,
+        "durationMs": 5760
+      },
+      {
+        "text": "allí ya simplemente generas el XD sencillo, simplemente le da clic",
+        "startMs": 1576909,
+        "durationMs": 4961
+      },
+      {
+        "text": "derecho, utilizar, exportar registros Excel. Acá le decimos toda la lista",
+        "startMs": 1581870,
+        "durationMs": 7039
+      },
+      {
+        "text": "Axlsx o la selección, como usted lo quiera hacer. Entonces, el sistema",
+        "startMs": 1588909,
+        "durationMs": 4880
+      },
+      {
+        "text": "empieza a hacer su proceso de exportación, le va a preguntar la ruta",
+        "startMs": 1593789,
+        "durationMs": 3841
+      },
+      {
+        "text": "para que usted pueda indicarle dónde lo quiere y",
+        "startMs": 1597630,
+        "durationMs": 5440
+      },
+      {
+        "text": "listo. Trabaja usted el formato desde Excel, hace las modificaciones,",
+        "startMs": 1603080,
+        "durationMs": 5189
+      },
+      {
+        "text": "adiciones que necesite y ya lo importa nuevamente a",
+        "startMs": 1608269,
+        "durationMs": 4961
+      },
+      {
+        "text": "contape. Miren, aquí les pregunta dónde lo quieren. Yo le voy a decir que en el",
+        "startMs": 1613230,
+        "durationMs": 4080
+      },
+      {
+        "text": "escritorio, le voy a decir que guardar. Y miren, aquí está toda la información",
+        "startMs": 1617310,
+        "durationMs": 4400
+      },
+      {
+        "text": "ya en Excel para que usted por cada concepto haga la revisión de cada",
+        "startMs": 1621710,
+        "durationMs": 4280
+      },
+      {
+        "text": "tercero. Y aquí está la parte de los campos donde ya se reporta el tema de",
+        "startMs": 1625990,
+        "durationMs": 5080
+      },
+      {
+        "text": "pagos o abonos en cuenta, el tema de retenciones en la fuente de IVAS como",
+        "startMs": 1631070,
+        "durationMs": 4920
+      },
+      {
+        "text": "mayor valor, ya dependiendo lo que le aplique, usted lo trabaja desde aquí, lo",
+        "startMs": 1635990,
+        "durationMs": 4159
+      },
+      {
+        "text": "guarda en formato Excel y simplemente viene otra vez aquí a contapme en esta",
+        "startMs": 1640149,
+        "durationMs": 5240
+      },
+      {
+        "text": "parte le dice utilidades, importar registros. Importa los registros desde",
+        "startMs": 1645389,
+        "durationMs": 5201
+      },
+      {
+        "text": "acá mismo y listo. No hay que hacer un paso adicional ni nada. como ya le",
+        "startMs": 1650590,
+        "durationMs": 5559
+      },
+      {
+        "text": "importó toda la información que usted tuvo que cambiar, modificar, revisar",
+        "startMs": 1656149,
+        "durationMs": 4441
+      },
+      {
+        "text": "desde Excel, que le parece de pronto más fácil o más sencillo, entonces la",
+        "startMs": 1660590,
+        "durationMs": 4880
+      },
+      {
+        "text": "importamos y generamos el XCML. Entonces es totalmente compatible para que usted",
+        "startMs": 1665470,
+        "durationMs": 4760
+      },
+      {
+        "text": "lo pueda realizar como este mejor para poderlo",
+        "startMs": 1670230,
+        "durationMs": 6279
+      },
+      {
+        "text": "poderlo trabajar. Miren, hace todo el proceso y",
+        "startMs": 1676509,
+        "durationMs": 4241
+      },
+      {
+        "text": "termina. generamos el XCML y listo. Entonces ahí",
+        "startMs": 1680750,
+        "durationMs": 3480
+      },
+      {
+        "text": "les doy tips, les doy herramientas para que lo puedan hacer mucho más sencillo.",
+        "startMs": 1684230,
+        "durationMs": 5120
+      },
+      {
+        "text": "Si el la cantidad de información que es voluminosa, sobre todo en este formato",
+        "startMs": 1689350,
+        "durationMs": 5919
+      },
+      {
+        "text": "que es el más grande donde se reportan casi todos los movimientos de la",
+        "startMs": 1695269,
+        "durationMs": 3801
+      },
+      {
+        "text": "empresa, entonces si lo quieres hacer en Excel, ahí está. Vamos a ir a la parte",
+        "startMs": 1699070,
+        "durationMs": 4959
+      },
+      {
+        "text": "número tres de esta sesión, que ya es la parte final, que son los manejos",
+        "startMs": 1704029,
+        "durationMs": 4240
+      },
+      {
+        "text": "especiales en los formatos 2276 y en el formato 1010, que es la parte de socios.",
+        "startMs": 1708269,
+        "durationMs": 6081
+      },
+      {
+        "text": "Entonces, ubicados nuevamente en contapme, vamos a mirar el formato 2276.",
+        "startMs": 1714350,
+        "durationMs": 4840
+      },
+      {
+        "text": "Igual ingresamos a la pestaña de contabilidad, la parte de medios",
+        "startMs": 1719190,
+        "durationMs": 4120
+      },
+      {
+        "text": "magnéticos, le decimos que estamos de acuerdo con el texto que nos indica y",
+        "startMs": 1723310,
+        "durationMs": 4959
+      },
+      {
+        "text": "vamos a ir al formato 2276. dentro del formato",
+        "startMs": 1728269,
+        "durationMs": 5321
+      },
+      {
+        "text": "2276, él no tiene conceptos, pero sí tiene muchos campos. A diferencia, por",
+        "startMs": 1733590,
+        "durationMs": 5919
+      },
+      {
+        "text": "ejemplo, del 101, que solamente son como 10 totales, eh, perdón, siete totales.",
+        "startMs": 1739509,
+        "durationMs": 5000
+      },
+      {
+        "text": "Aquí estamos hablando de 29 totales o 29 campos, pero ningún concepto. Entonces,",
+        "startMs": 1744509,
+        "durationMs": 5601
+      },
+      {
+        "text": "¿qué hay que hacer? Igual hay que venir por cada total a decirle cuáles son las",
+        "startMs": 1750110,
+        "durationMs": 4880
+      },
+      {
+        "text": "cuentas que yo manejo. Pero este tiene un manejo especial. Especial. ¿Por qué?",
+        "startMs": 1754990,
+        "durationMs": 4120
+      },
+      {
+        "text": "Porque aquí vamos a traer y vamos a leer la parte también integrada de nómina",
+        "startMs": 1759110,
+        "durationMs": 4360
+      },
+      {
+        "text": "electrónica, de cuando usted reporta su nómina que hace conceptos por cada ítem",
+        "startMs": 1763470,
+        "durationMs": 5120
+      },
+      {
+        "text": "que se esté reportando de salarios, de auxilio de transporte, bonificaciones,",
+        "startMs": 1768590,
+        "durationMs": 4079
+      },
+      {
+        "text": "etcétera. Entonces, aquí lo enlazamos también con la parte de nómina.",
+        "startMs": 1772669,
+        "durationMs": 3961
+      },
+      {
+        "text": "Entonces, van a ver unos conceptos eh o unos campos aquí que van",
+        "startMs": 1776630,
+        "durationMs": 5279
+      },
+      {
+        "text": "a encontrar que ya no les va a pedir cuenta, pero sí les va a decir, \"Mire,",
+        "startMs": 1781909,
+        "durationMs": 4000
+      },
+      {
+        "text": "este total por alimentación eh se va a alimentar de este campo en específico.\"",
+        "startMs": 1785909,
+        "durationMs": 6640
+      },
+      {
+        "text": "Entonces, por ejemplo, en el total cuatro o en el campo cuatro, si en el 28",
+        "startMs": 1792549,
+        "durationMs": 5321
+      },
+      {
+        "text": "excedemos 41 betas de alimentación, el excedente se va a venir aquí",
+        "startMs": 1797870,
+        "durationMs": 3960
+      },
+      {
+        "text": "automáticamente. Automáticamente con Tapyme hacen el análisis. Si en este 28",
+        "startMs": 1801830,
+        "durationMs": 5800
+      },
+      {
+        "text": "tiene usted excedentes a esas VT, él automáticamente viene y le coloca ahí la",
+        "startMs": 1807630,
+        "durationMs": 4519
+      },
+      {
+        "text": "información de ese excedente. Vamos a irnos aquí al 28. Entonces, en el 28",
+        "startMs": 1812149,
+        "durationMs": 4880
+      },
+      {
+        "text": "usted viene y coloca su cuenta de pagos por alimentación y si superamos estas",
+        "startMs": 1817029,
+        "durationMs": 5480
+      },
+      {
+        "text": "41ticamente en el total cuatro se va a ir a colocar esa información.",
+        "startMs": 1822509,
+        "durationMs": 4561
+      },
+      {
+        "text": "Tenemos el campo 14 y el campo 15, que corresponde a las cesantías y a los",
+        "startMs": 1827070,
+        "durationMs": 6800
+      },
+      {
+        "text": "intereses consignadas o pagadas. Aquí pues no vamos a colocar cuenta porque él",
+        "startMs": 1833870,
+        "durationMs": 4799
+      },
+      {
+        "text": "la va a ir a leer del concepto de cesantías que se manejó en la parte de",
+        "startMs": 1838669,
+        "durationMs": 5161
+      },
+      {
+        "text": "nómina electrónica. Entonces, acá colocamos el texto para que usted sepa",
+        "startMs": 1843830,
+        "durationMs": 4360
+      },
+      {
+        "text": "que este total se obtiene de los conceptos pagados correspondientes a",
+        "startMs": 1848190,
+        "durationMs": 4079
+      },
+      {
+        "text": "esesantías registrados por módulo de nómina y que usted puede verificar esa",
+        "startMs": 1852269,
+        "durationMs": 4880
+      },
+      {
+        "text": "información en un explorador de conceptos de nómina para que le coincida",
+        "startMs": 1857149,
+        "durationMs": 3841
+      },
+      {
+        "text": "el valor que se está reportando versus lo que usted tiene ahí registrado. lo",
+        "startMs": 1860990,
+        "durationMs": 4200
+      },
+      {
+        "text": "mismo para el total 15 y el total 29, que es la parte del promedio de el",
+        "startMs": 1865190,
+        "durationMs": 7319
+      },
+      {
+        "text": "ingreso laboral de ese colaborador o desempleado de los últimos 6 meses. Este",
+        "startMs": 1872509,
+        "durationMs": 5081
+      },
+      {
+        "text": "cálculo también se hace automático. El cálculo coge y promedia los últimos 6",
+        "startMs": 1877590,
+        "durationMs": 5319
+      },
+      {
+        "text": "meses del empleado con toda la parte eh base del ingreso de cotización que es el",
+        "startMs": 1882909,
+        "durationMs": 7161
+      },
+      {
+        "text": "IBC. Entonces, coge todos los conceptos que son IBC y sobre esos conceptos hace",
+        "startMs": 1890070,
+        "durationMs": 4640
+      },
+      {
+        "text": "el cálculo del promedio de los últimos 6 meses. Por eso les decía que tiene unos",
+        "startMs": 1894710,
+        "durationMs": 3839
+      },
+      {
+        "text": "manejos especiales, porque con esos manejos especiales le automatizamos a",
+        "startMs": 1898549,
+        "durationMs": 4201
+      },
+      {
+        "text": "usted mucho más el proceso. Va a ser mucho más rápido, va a ser mucho más",
+        "startMs": 1902750,
+        "durationMs": 3799
+      },
+      {
+        "text": "sencillo. Entonces, en la práctica, ¿cómo funciona? Ya configuré mis",
+        "startMs": 1906549,
+        "durationMs": 4761
+      },
+      {
+        "text": "cuentas, ya le dije, pues, ¿qué es lo que voy a manejar por cada campo, por",
+        "startMs": 1911310,
+        "durationMs": 3920
+      },
+      {
+        "text": "cada tal? Simplemente le digo aquí generar como el mismo que hicimos con el",
+        "startMs": 1915230,
+        "durationMs": 5000
+      },
+      {
+        "text": "101. Confirmo la fecha y le digo aceptar. Entonces empieza a hacer el",
+        "startMs": 1920230,
+        "durationMs": 4559
+      },
+      {
+        "text": "cálculo de traerme a mí la información por cada tercero, en este caso solo de",
+        "startMs": 1924789,
+        "durationMs": 5600
+      },
+      {
+        "text": "los empleados y me empieza a mí a reportar aquí la información. Aquí",
+        "startMs": 1930389,
+        "durationMs": 4561
+      },
+      {
+        "text": "tenemos entonces el listado de mis terceros empleados, igual que en el día",
+        "startMs": 1934950,
+        "durationMs": 5280
+      },
+      {
+        "text": "01. Miren que es exactamente la misma interfaz. Y aquí empiezo con el tema de",
+        "startMs": 1940230,
+        "durationMs": 4880
+      },
+      {
+        "text": "mis totales, con el tema de la información que ya ustedes van viendo",
+        "startMs": 1945110,
+        "durationMs": 3279
+      },
+      {
+        "text": "que se va diligenciando automáticamente. Eh, les digo yo que el",
+        "startMs": 1948389,
+        "durationMs": 4760
+      },
+      {
+        "text": "valor del ingreso promedio de los últimos 8 meses, miren que sale de",
+        "startMs": 1953149,
+        "durationMs": 3400
+      },
+      {
+        "text": "manera automática, no tienen ustedes que estar haciendo cálculos extras y el",
+        "startMs": 1956549,
+        "durationMs": 6240
+      },
+      {
+        "text": "proceso de automatización, pues aquí se ve mucho más reflejado para que ustedes",
+        "startMs": 1962789,
+        "durationMs": 5120
+      },
+      {
+        "text": "tengan en cuenta de que es algo muy sencillo. Entonces, vamos a este",
+        "startMs": 1967909,
+        "durationMs": 4561
+      },
+      {
+        "text": "primer tercero que es Esteban y les voy a enseñar cómo lo pueden hacer para",
+        "startMs": 1972470,
+        "durationMs": 4280
+      },
+      {
+        "text": "hacer el tema de la revisión, así como utilizamos eh mayor y balances, el",
+        "startMs": 1976750,
+        "durationMs": 4240
+      },
+      {
+        "text": "explorador de contabilidad o el tema de datos fuente para las cuentas, también",
+        "startMs": 1980990,
+        "durationMs": 4960
+      },
+      {
+        "text": "está en la parte de nómina el explorador de conceptos.",
+        "startMs": 1985950,
+        "durationMs": 5079
+      },
+      {
+        "text": "Entonces, vamos a a Esteban. ¿Cómo es el promedio de los últimos 6 meses?",
+        "startMs": 1991029,
+        "durationMs": 5640
+      },
+      {
+        "text": "Pues lo que hago yo es que simplemente filtro desde el primero de julio, el año",
+        "startMs": 1996669,
+        "durationMs": 6960
+      },
+      {
+        "text": "gradable que estélo revisando o consultando, hasta el 31 de diciembre de",
+        "startMs": 2003629,
+        "durationMs": 5081
+      },
+      {
+        "text": "ese mismo año grabando y le digo aceptar porque solo necesito la de los últimos 6",
+        "startMs": 2008710,
+        "durationMs": 6160
+      },
+      {
+        "text": "meses. Necesito un tercero en específico. Aquí vamos a revisar a",
+        "startMs": 2014870,
+        "durationMs": 4320
+      },
+      {
+        "text": "Esteban Giraldo. filtro por esteón girando y necesito un concepto o unos",
+        "startMs": 2019190,
+        "durationMs": 6599
+      },
+      {
+        "text": "conceptos que son el IBC. Entonces, aquí vengo y filtro por, en este caso salario",
+        "startMs": 2025789,
+        "durationMs": 6521
+      },
+      {
+        "text": "base. Miro si tiene horas extras, si tiene",
+        "startMs": 2032310,
+        "durationMs": 3800
+      },
+      {
+        "text": "tiene bonificaciones. Recuerden que ese IBC",
+        "startMs": 2036110,
+        "durationMs": 3679
+      },
+      {
+        "text": "que es el ingreso base de cotización pues es todo lo que se considera que",
+        "startMs": 2039789,
+        "durationMs": 5521
+      },
+      {
+        "text": "hace parte de los aportes de seguridad social y de parafiscales y que entre",
+        "startMs": 2045310,
+        "durationMs": 4839
+      },
+      {
+        "text": "ellos tenemos el salario, las horas extras, recargos nocturnos, comisiones,",
+        "startMs": 2050149,
+        "durationMs": 6960
+      },
+      {
+        "text": "bonificaciones salariales, eh viáticos, auxilio de",
+        "startMs": 2057109,
+        "durationMs": 3921
+      },
+      {
+        "text": "transporte, solo si el salario supera eh dos salarios mínimos legales vigentes.",
+        "startMs": 2061030,
+        "durationMs": 6400
+      },
+      {
+        "text": "primas extralegales, etcétera. Entonces, todo lo que hace como tal, base para el",
+        "startMs": 2067430,
+        "durationMs": 5479
+      },
+      {
+        "text": "cálculo de prestaciones sociales, es lo que nosotros tomamos para poder hacer",
+        "startMs": 2072909,
+        "durationMs": 3601
+      },
+      {
+        "text": "ese cálculo de los últimos 6 meses. Entonces, en este caso, miren que",
+        "startMs": 2076510,
+        "durationMs": 4639
+      },
+      {
+        "text": "tenemos el tema del salario básico, entonces usted lo puede agrupar o lo",
+        "startMs": 2081149,
+        "durationMs": 3680
+      },
+      {
+        "text": "puede filtrar como le quede más más fácil. Entonces, yo aquí voy a decirle",
+        "startMs": 2084829,
+        "durationMs": 5240
+      },
+      {
+        "text": "eh salario básico de Esteban en este caso. Entonces, miren que él aquí",
+        "startMs": 2090069,
+        "durationMs": 5881
+      },
+      {
+        "text": "abajito me totaliza qué encontró en esos últimos 6 meses de salario, cuántos días",
+        "startMs": 2095950,
+        "durationMs": 5600
+      },
+      {
+        "text": "tengo de salario. Entonces, lo que yo hago es el total del valor que me",
+        "startMs": 2101550,
+        "durationMs": 4680
+      },
+      {
+        "text": "está reportando para ese concepto de salario y lo divido en el número de",
+        "startMs": 2106230,
+        "durationMs": 5440
+      },
+      {
+        "text": "días, que en este caso son 150 días y lo multiplico por 30. No lo voy a",
+        "startMs": 2111670,
+        "durationMs": 5679
+      },
+      {
+        "text": "multiplicar por 31 ni por 28 porque es 30 es el número de días que se toma por",
+        "startMs": 2117349,
+        "durationMs": 5921
+      },
+      {
+        "text": "mes para poder hacer los cálculos en la parte de pila, en la parte de",
+        "startMs": 2123270,
+        "durationMs": 3720
+      },
+      {
+        "text": "prestaciones sociales, etcétera. Entonces, este cálculo es el que el",
+        "startMs": 2126990,
+        "durationMs": 3960
+      },
+      {
+        "text": "sistema va y me reporta allí. para poder hacerme ese promedio de",
+        "startMs": 2130950,
+        "durationMs": 6920
+      },
+      {
+        "text": "manera automática. Entonces, miren que aquí",
+        "startMs": 2137870,
+        "durationMs": 1880
+      },
+      {
+        "text": "tenemos registrado valor del ingreso promedio de los últimos 6 meses,",
+        "startMs": 2139750,
+        "durationMs": 4880
+      },
+      {
+        "text": "1,300. Aquí cojo los 6,500. Venga, yo traigo la calculadora para que lo",
+        "startMs": 2144630,
+        "durationMs": 5600
+      },
+      {
+        "text": "hagamos aquí en línea y sea mucho más visual. Entonces, cojo ese valor total,",
+        "startMs": 2150230,
+        "durationMs": 5720
+      },
+      {
+        "text": "6,500, lo divido por el número de días reportados y esto lo multiplico por 30,",
+        "startMs": 2155950,
+        "durationMs": 5240
+      },
+      {
+        "text": "que como les digo es 30 días que tomamos como referencia para hacer el pago",
+        "startMs": 2161190,
+        "durationMs": 5560
+      },
+      {
+        "text": "salarial de prestaciones y de todos los demás conceptos de nómina. No se toma",
+        "startMs": 2166750,
+        "durationMs": 4640
+      },
+      {
+        "text": "31, no se toman 29 ni 28 días. Miren que acá me da 1,300, que es el mismo",
+        "startMs": 2171390,
+        "durationMs": 6120
+      },
+      {
+        "text": "promedio que me está reportando aquí el concepto. Resulta que usted necesita",
+        "startMs": 2177510,
+        "durationMs": 5480
+      },
+      {
+        "text": "adicionar, eh, cambiar este valor porque va a incluir algo, porque usted va a",
+        "startMs": 2182990,
+        "durationMs": 4240
+      },
+      {
+        "text": "hacer alguna modificación, algo no ha registrado todavía en contapyme. Puede",
+        "startMs": 2187230,
+        "durationMs": 4160
+      },
+      {
+        "text": "ser. Entonces, si necesita modificar el promedio, acá simplemente usted cambia",
+        "startMs": 2191390,
+        "durationMs": 4560
+      },
+      {
+        "text": "el dato y este cambio que usted realice pues va a quedar para la exógena, no se",
+        "startMs": 2195950,
+        "durationMs": 5119
+      },
+      {
+        "text": "va a ir a modificar ni la cuenta, ni el concepto, ni el registro para Esteban de",
+        "startMs": 2201069,
+        "durationMs": 4681
+      },
+      {
+        "text": "lo que usted ya realizó en ese año gravable que estamos revisando o dentro",
+        "startMs": 2205750,
+        "durationMs": 4120
+      },
+      {
+        "text": "de esos últimos 6 meses para este concepto o para este formato que estamos",
+        "startMs": 2209870,
+        "durationMs": 3719
+      },
+      {
+        "text": "como tal colocando de ejemplo. Entonces, los cambios que usted realice aquí en",
+        "startMs": 2213589,
+        "durationMs": 5041
+      },
+      {
+        "text": "cualquier campo o en cualquier columna van a quedar registrados ahí para lo que",
+        "startMs": 2218630,
+        "durationMs": 5240
+      },
+      {
+        "text": "usted va a presentar o lo que se va a ir en el XCML, pero no va a ir a hacer",
+        "startMs": 2223870,
+        "durationMs": 3320
+      },
+      {
+        "text": "afectación sobre la base de datos. Entonces, primer punto para que lo",
+        "startMs": 2227190,
+        "durationMs": 4000
+      },
+      {
+        "text": "tengamos en cuenta. Ahora, segundo punto, el tema de el dependiente",
+        "startMs": 2231190,
+        "durationMs": 6080
+      },
+      {
+        "text": "económico. Para que usted digamos que optimice más y le quede ahí como una",
+        "startMs": 2237270,
+        "durationMs": 4480
+      },
+      {
+        "text": "especie de base de datos guardadito. Entonces, tenemos eh cómo configurar el",
+        "startMs": 2241750,
+        "durationMs": 5120
+      },
+      {
+        "text": "dependiente económico para que el sistema lo traiga de manera automática,",
+        "startMs": 2246870,
+        "durationMs": 4040
+      },
+      {
+        "text": "siempre y cuando pues usted lo haya configurado previamente. ¿En dónde?",
+        "startMs": 2250910,
+        "durationMs": 4120
+      },
+      {
+        "text": "Entonces, miren, aquí hay una herramienta muy chévere que se llaman",
+        "startMs": 2255030,
+        "durationMs": 2400
+      },
+      {
+        "text": "los terceros reportados. directamente desde el formato. En estos terceros",
+        "startMs": 2257430,
+        "durationMs": 3960
+      },
+      {
+        "text": "reportados lo que se hace es traerme el resumen de los terceros con los que",
+        "startMs": 2261390,
+        "durationMs": 4320
+      },
+      {
+        "text": "tuvimos ahí reporte para ese formato. Entonces, aquí me está trayendo todos",
+        "startMs": 2265710,
+        "durationMs": 4000
+      },
+      {
+        "text": "mis traseros que se están reportando para Esteban. Le voy a decir aquí",
+        "startMs": 2269710,
+        "durationMs": 4399
+      },
+      {
+        "text": "modificar. Desde aquí lo puedo hacer. Abro el formulario completo. Si necesito",
+        "startMs": 2274109,
+        "durationMs": 5321
+      },
+      {
+        "text": "hacer alguna edición de nombres, direcciones, lo puedo hacer directamente",
+        "startMs": 2279430,
+        "durationMs": 4720
+      },
+      {
+        "text": "también acá desde el editor. En este caso, me voy a ir a datos empleado,",
+        "startMs": 2284150,
+        "durationMs": 4040
+      },
+      {
+        "text": "pestaña de retención en la fuente, le digo cuántas dependientes tengo. En este",
+        "startMs": 2288190,
+        "durationMs": 5480
+      },
+      {
+        "text": "caso le voy a colocar dos y él me va a abrir aquí esta ventanita de dependiente",
+        "startMs": 2293670,
+        "durationMs": 4760
+      },
+      {
+        "text": "principal. Ojo, para medios magnéticos yo puedo tener tres dependientes, pero",
+        "startMs": 2298430,
+        "durationMs": 4639
+      },
+      {
+        "text": "solo puedo registrar uno o puedo reportar uno, no puedo reportar los",
+        "startMs": 2303069,
+        "durationMs": 3841
+      },
+      {
+        "text": "tres. Por eso solamente se abre unos campos para colocar información de un",
+        "startMs": 2306910,
+        "durationMs": 5159
+      },
+      {
+        "text": "solo dependiente. Entonces, acá colocamos el la tarjeta de identidad, la",
+        "startMs": 2312069,
+        "durationMs": 4641
+      },
+      {
+        "text": "cédula o el tipo de documento correspondiente, número del documento y",
+        "startMs": 2316710,
+        "durationMs": 4359
+      },
+      {
+        "text": "nombre completo y le decimos aceptar. Si volvemos aquí al formato, no tengo un",
+        "startMs": 2321069,
+        "durationMs": 7441
+      },
+      {
+        "text": "botón de actualizar, no trae la información. Y es por qué, porque como",
+        "startMs": 2328510,
+        "durationMs": 4480
+      },
+      {
+        "text": "yo hice una modificación en lo que él ya me trajo y me leyó, entonces necesito",
+        "startMs": 2332990,
+        "durationMs": 5560
+      },
+      {
+        "text": "recalcular el informe para que con esos cambios que yo realicé, pues él me",
+        "startMs": 2338550,
+        "durationMs": 4279
+      },
+      {
+        "text": "traiga a mí la información nuevamente. Entonces, voy a cerrar",
+        "startMs": 2342829,
+        "durationMs": 3921
+      },
+      {
+        "text": "acá. Acá le voy a decir solo cerrar, no voy a guardar. Voy a volverme aquí al",
+        "startMs": 2346750,
+        "durationMs": 4680
+      },
+      {
+        "text": "listado de los formatos y vuelvo y lo genero. Y aquí vamos a encontrar algo",
+        "startMs": 2351430,
+        "durationMs": 5560
+      },
+      {
+        "text": "para también poderles explicar qué es esta nueva ventanita. Él está diciendo,",
+        "startMs": 2356990,
+        "durationMs": 4160
+      },
+      {
+        "text": "\"Mire, ya hay unos datos que yo le calculé para ese formato. ¿Usted quiere",
+        "startMs": 2361150,
+        "durationMs": 4400
+      },
+      {
+        "text": "seguir trabajando sobre eso o usted quiere recalcularlos o sobreecribirlos?",
+        "startMs": 2365550,
+        "durationMs": 4840
+      },
+      {
+        "text": "En este caso, como yo hice cambios y necesito que me recalcule, entonces",
+        "startMs": 2370390,
+        "durationMs": 3959
+      },
+      {
+        "text": "utilizo la primera opción. En el caso de que usted le dé guardar, porque mañana",
+        "startMs": 2374349,
+        "durationMs": 4441
+      },
+      {
+        "text": "va a continuar con el tema de la revisión, entonces puede abrir el",
+        "startMs": 2378790,
+        "durationMs": 2960
+      },
+      {
+        "text": "existente y continuar con ya la revisión del renglón donde iba o el tercero donde",
+        "startMs": 2381750,
+        "durationMs": 4559
+      },
+      {
+        "text": "esté realizándolo. Entonces, aquí recalculamos, él vuelve y nos trae la",
+        "startMs": 2386309,
+        "durationMs": 5760
+      },
+      {
+        "text": "información que encuentra que le configuré al formato. Y miren que aquí",
+        "startMs": 2392069,
+        "durationMs": 4520
+      },
+      {
+        "text": "vamos a mirar la columna del dependiente. me trae el número de ese",
+        "startMs": 2396589,
+        "durationMs": 4801
+      },
+      {
+        "text": "dependiente económico y la identificación de ese dependiente",
+        "startMs": 2401390,
+        "durationMs": 3959
+      },
+      {
+        "text": "económico. Ya hay unos datos adicionales como es el pide comiso, el tema del",
+        "startMs": 2405349,
+        "durationMs": 4681
+      },
+      {
+        "text": "participante del contrato en colaboración y el la identificación del",
+        "startMs": 2410030,
+        "durationMs": 5160
+      },
+      {
+        "text": "mismo, de que esto sí ya tienen que digitarlos ustedes sí les aplica porque",
+        "startMs": 2415190,
+        "durationMs": 5040
+      },
+      {
+        "text": "pues ya son datos muy puntuales para esa identificación de contratos en",
+        "startMs": 2420230,
+        "durationMs": 4839
+      },
+      {
+        "text": "colaboración y de fidecomis. Pero el tema de los dependientes ahí ya les",
+        "startMs": 2425069,
+        "durationMs": 3961
+      },
+      {
+        "text": "queda guardadito, ya lo trae automático. Entonces, con esto lo pueden hacer antes",
+        "startMs": 2429030,
+        "durationMs": 4079
+      },
+      {
+        "text": "de generar el formato o si se les olvidó pueden utilizar, como les digo, el tema",
+        "startMs": 2433109,
+        "durationMs": 3801
+      },
+      {
+        "text": "de terceros reportados, que sobre todo en los formatos grandes, donde hay",
+        "startMs": 2436910,
+        "durationMs": 3880
+      },
+      {
+        "text": "muchos terceros, les va a servir también mucho por si tienen que hacer alguna",
+        "startMs": 2440790,
+        "durationMs": 3720
+      },
+      {
+        "text": "revisión del tercero o alguna adición o algún cambio, etcétera. Entonces, en el",
+        "startMs": 2444510,
+        "durationMs": 5640
+      },
+      {
+        "text": "2276 estos manejos, digamos, como especiales y como automáticos de ciertos",
+        "startMs": 2450150,
+        "durationMs": 5520
+      },
+      {
+        "text": "campos que tenemos. Ahora voy a cerrar por",
+        "startMs": 2455670,
+        "durationMs": 4360
+      },
+      {
+        "text": "por acá toda esta parte del 2276 y vamos a",
+        "startMs": 2460030,
+        "durationMs": 3480
+      },
+      {
+        "text": "volver a la parte de los formatos. Aquí, ¿qué vamos a revisar? en el formato de",
+        "startMs": 2463510,
+        "durationMs": 4000
+      },
+      {
+        "text": "socios, entonces nos vamos a encontrar unos campos o unas columnas eh que",
+        "startMs": 2467510,
+        "durationMs": 4799
+      },
+      {
+        "text": "necesitamos reportarle a la Dian como porcentajes de participación, como el",
+        "startMs": 2472309,
+        "durationMs": 4841
+      },
+      {
+        "text": "tema de eh posición decimal en ese caso. Entonces, genero el formato igual como",
+        "startMs": 2477150,
+        "durationMs": 5360
+      },
+      {
+        "text": "los demás. Yo aquí ya tengo unos registros de mis socios para la cuenta",
+        "startMs": 2482510,
+        "durationMs": 3799
+      },
+      {
+        "text": "que él me está leyendo, que en este caso, recordemos, el dato fuente, es la",
+        "startMs": 2486309,
+        "durationMs": 3280
+      },
+      {
+        "text": "cuenta 31 151 para mi ejemplo. Pero miren que vamos a",
+        "startMs": 2489589,
+        "durationMs": 4921
+      },
+      {
+        "text": "encontrar unas columnas de valor de prima en colocación en",
+        "startMs": 2494510,
+        "durationMs": 5319
+      },
+      {
+        "text": "acciones a 31 de diciembre, porcentaje de participación y posición decimal de",
+        "startMs": 2499829,
+        "durationMs": 4801
+      },
+      {
+        "text": "ese porcentaje de participación. Y miren que esos porcentajes él los calcula",
+        "startMs": 2504630,
+        "durationMs": 5160
+      },
+      {
+        "text": "automáticamente. Automáticamente me está diciendo que el porcentaje de",
+        "startMs": 2509790,
+        "durationMs": 3760
+      },
+      {
+        "text": "participación para la señora Pilar Botero, que tiene un valor de acción de",
+        "startMs": 2513550,
+        "durationMs": 10120
+      },
+      {
+        "text": "27,4363 y que tiene una posición decimal de cinco porque la Dian pide en este",
+        "startMs": 2523680,
+        "durationMs": 4990
+      },
+      {
+        "text": "formato que se reporte de esta manera. Entonces, miren que automáticamente",
+        "startMs": 2528670,
+        "durationMs": 3919
+      },
+      {
+        "text": "calculamos ese porcentaje de participación con base a lo que estemos",
+        "startMs": 2532589,
+        "durationMs": 3881
+      },
+      {
+        "text": "leyendo de la cuenta que colocamos de cada socio. Recuerden que con esta",
+        "startMs": 2536470,
+        "durationMs": 4879
+      },
+      {
+        "text": "resolución yo ya debo de reportar todos los socios a 31 de diciembre del 2024.",
+        "startMs": 2541349,
+        "durationMs": 6200
+      },
+      {
+        "text": "Ya no hay tope como en las presentaciones anteriores de formatos de",
+        "startMs": 2547549,
+        "durationMs": 5560
+      },
+      {
+        "text": "medios magnéticos, en este caso del 1010. Entonces aquí este año hay que",
+        "startMs": 2553109,
+        "durationMs": 3720
+      },
+      {
+        "text": "reportar todos los socios. Entonces, este porcentaje de participación se",
+        "startMs": 2556829,
+        "durationMs": 4520
+      },
+      {
+        "text": "calcula de manera automática junto con la posición decimal. Ahora, usted",
+        "startMs": 2561349,
+        "durationMs": 5081
+      },
+      {
+        "text": "necesita aquí hacer ajustes manuales, como le digo que lo puede hacer, cambia",
+        "startMs": 2566430,
+        "durationMs": 4840
+      },
+      {
+        "text": "aquí el porcentaje y dice, \"No, pues aquí está el 25, aquí le voy a colocar",
+        "startMs": 2571270,
+        "durationMs": 10960
+      },
+      {
+        "text": "45,7325. La sumatoria de todos estos porcentajes me debe dar 100. Y cuando",
+        "startMs": 2582240,
+        "durationMs": 5030
+      },
+      {
+        "text": "usted utilice aquí el botón de verificación, si no le da 100, él le va",
+        "startMs": 2587270,
+        "durationMs": 4799
+      },
+      {
+        "text": "a alertar y le va a decir, \"Venga, esta columna no está dando 100 porque es un",
+        "startMs": 2592069,
+        "durationMs": 6000
+      },
+      {
+        "text": "requisito que va dentro del prevalidador de la dian o del XCD que nosotros leemos",
+        "startMs": 2598069,
+        "durationMs": 5401
+      },
+      {
+        "text": "y no nos está dando 100%. Entonces, revíselo. Pero también tiene otra opción",
+        "startMs": 2603470,
+        "durationMs": 5920
+      },
+      {
+        "text": "más chévere que es esta de recalcular los porcentajes. Si lo recalculo, él",
+        "startMs": 2609390,
+        "durationMs": 5000
+      },
+      {
+        "text": "automáticamente con base en estos datos de la columna de valor nominal de la",
+        "startMs": 2614390,
+        "durationMs": 4439
+      },
+      {
+        "text": "acción recalcula si usted hizo aquí algún cambio o si usted hizo aquí alguna",
+        "startMs": 2618829,
+        "durationMs": 5240
+      },
+      {
+        "text": "modificación o adición, recalcula porcentajes para que le des 100. Ahora",
+        "startMs": 2624069,
+        "durationMs": 4040
+      },
+      {
+        "text": "si yo verifico nuevamente en la verse la verificación no encuentra ninguna",
+        "startMs": 2628109,
+        "durationMs": 3801
+      },
+      {
+        "text": "inconsistencia y queda okay el formato para simplemente generar el XTML y",
+        "startMs": 2631910,
+        "durationMs": 5120
+      },
+      {
+        "text": "listo. Entonces, esas son los dos como manejos especiales en estos formatos que",
+        "startMs": 2637030,
+        "durationMs": 5000
+      },
+      {
+        "text": "quería contarles, que quería mostrarles para que lo tengan en cuenta, para que",
+        "startMs": 2642030,
+        "durationMs": 4400
+      },
+      {
+        "text": "sepan que se está e siempre actualizando el sistema y automatizando mucho más el",
+        "startMs": 2646430,
+        "durationMs": 5560
+      },
+      {
+        "text": "proceso para que sea mucho más fácil para ustedes hacer esta presentación que",
+        "startMs": 2651990,
+        "durationMs": 4480
+      },
+      {
+        "text": "a veces es un poquito engorrosa por la cantidad y por el volumen de",
+        "startMs": 2656470,
+        "durationMs": 7680
+      },
+      {
+        "text": "Bueno, para finalizar entonces quiero hacerles un resumen para que lo tengan",
+        "startMs": 2664160,
+        "durationMs": 4310
+      },
+      {
+        "text": "ahí supercaro más de lo que ya se los he detallado en esta sesión. Entonces la",
+        "startMs": 2668470,
+        "durationMs": 5359
+      },
+      {
+        "text": "idea es de que tengamos en cuenta qué tenemos que hacer en contapme para",
+        "startMs": 2673829,
+        "durationMs": 4161
+      },
+      {
+        "text": "entrar la exógena. Registrar las cuentas de los formatos a presentar. identificó",
+        "startMs": 2677990,
+        "durationMs": 4599
+      },
+      {
+        "text": "qué formatos necesita, registra las cuentas y posterior a ello genera el",
+        "startMs": 2682589,
+        "durationMs": 4601
+      },
+      {
+        "text": "formato. Aquí ya el sistema automáticamente trae toda la información",
+        "startMs": 2687190,
+        "durationMs": 4080
+      },
+      {
+        "text": "de las transacciones y operaciones registradas en ese año para las cuentas",
+        "startMs": 2691270,
+        "durationMs": 3559
+      },
+      {
+        "text": "que usted ya le indicó, las clasifica según el concepto y aquí yo ya",
+        "startMs": 2694829,
+        "durationMs": 4240
+      },
+      {
+        "text": "simplemente verifico los datos de la información generada, confirmo con mis",
+        "startMs": 2699069,
+        "durationMs": 4280
+      },
+      {
+        "text": "herramientas eh las que le mostré, el datos fuente, el mayor y balances, el",
+        "startMs": 2703349,
+        "durationMs": 4361
+      },
+      {
+        "text": "explorador eh de contabilidad en el tema denomómina el explorador de conceptos y",
+        "startMs": 2707710,
+        "durationMs": 5280
+      },
+      {
+        "text": "genero el XCML y listo. Cumplo con la normativa, cumplo con la Dian, lo hago",
+        "startMs": 2712990,
+        "durationMs": 6280
+      },
+      {
+        "text": "de una manera fácil, de una manera sencilla, utilizo todos los recursos que",
+        "startMs": 2719270,
+        "durationMs": 4079
+      },
+      {
+        "text": "tengo de contapyme, sobre todo el tema de generación de información exógena y",
+        "startMs": 2723349,
+        "durationMs": 4361
+      },
+      {
+        "text": "XCML. Y desde allí, con todas las transacciones que yo registré de ventas,",
+        "startMs": 2727710,
+        "durationMs": 4720
+      },
+      {
+        "text": "de compras, de pagos, de nómina, de abonos, tengo todo ahí. Simplemente es",
+        "startMs": 2732430,
+        "durationMs": 6600
+      },
+      {
+        "text": "consolidar la información, distribuirla en el concepto correspondiente y listo.",
+        "startMs": 2739030,
+        "durationMs": 4200
+      },
+      {
+        "text": "Automáticamente Contapím me hace eso por usted para que usted simplemente revise",
+        "startMs": 2743230,
+        "durationMs": 3720
+      },
+      {
+        "text": "datos y cumplamos con la parte de la Dian y registremos la información a",
+        "startMs": 2746950,
+        "durationMs": 7280
+      },
+      {
+        "text": "tiempo en ese XML para que cumplamos con los plazos, evitemos sanciones y sobre",
+        "startMs": 2754230,
+        "durationMs": 6920
+      },
+      {
+        "text": "todo lo hagamos con calma. Lo hagamos muy sencillo con contapica.",
+        "startMs": 2761150,
+        "durationMs": 6570
+      }
+    ],
+    "plainText": "## Descripción del video\n\nAprenda paso a paso cómo presentar la información exógena en ContaPyme®\nEn este video le explicamos de forma clara y sencilla cómo realizar todo el proceso dentro del sistema, incluyendo:\n- Acceso al catálogo de formatos para Medios Magnéticos DIAN.\n- Configuración de las cuentas contables en el formato 1001.\n- Generación del archivo del formato 1001.\n- Herramientas para validar la información antes del envío.\n- Creación del archivo XML para presentar ante la DIAN.\n- Explicación de los cálculos automáticos que realiza ContaPyme para los formatos 2276 y 1110.\n\n## Transcripción\n\n¿Cómo presentar la información exógena en conta PIBIB? En el contenido de esta\nsesión vamos a tratar tres puntos muy importantes y muy claves para poder\nentender este proceso y este gran mundo de la información exógena. Primero vamos\na hacer un contexto de ese manejo de la información para que podamos entender un\nSegundo, vamos a mirar los tres pasos claves para generar esa información\nexógena en cuenta pyme. Tres pasos muy sencillos, desde la configuración, la\ngeneración y finalmente obtener el XCML, que es el archivo que yo presento a la\nDian y unos manejos especiales en el formato 2276 y 1010. Eh, manejos\nespeciales, me refiero a unas automatizaciones que trae ya contapme\npara que sea mucho más sencillo y mucho más rápido esta presentación de los\nformatos. Comencemos entonces. contexto y manejo de la\ninformación. Vamos aar, vamos a recordar qué es la\ninformación exógena. Eh, es ese conjunto de datos contables y financieros sobre\nlas operaciones que se hacen como tal con clientes, con empleados, con\nproveedores y que las empresas y las personas naturales deben de reportarle a\nla diario. Ahora, ¿quiénes deben de reportárselo a la diario? Los que tengan\ningresos brutos totales superiores a 11,800 UVT en el año gravable 2024 y\ningresos por rentas de capital y no laborales superiores a 2400 VT en el\nmismo periodo. Ahora, eh, ¿cómo debo de presentar yo esa información o en qué\ntipo de formato lo debo hacer? Entonces, debemos hacerlo en un archivo XML,\nsiguiendo las especificaciones técnicas de la Dian en cuanto a estructura,\ncontenido y validaciones que se tengan que hacer. Y finalmente, ¿cuándo lo\ntengo que hacer? Cada año la Dian establece unas fechas de presentación\nsegún el contribuyente en cuanto a tipo y según el último dijo de suit, que aquí\nes muy importante consultar el calendario tributario para saber cuándo\nme corresponde a mí hacer la presentación de mi información.\nEntonces, cuando ya tenemos esto claro de qué es, de quiénes lo tienen que\nhacer, de cómo lo tengo que hacer y cuándo lo tengo que hacer, entonces\nvamos a mirar un ejemplo para que nos quede mucho más clara la información.\nSi yo tengo una empresa de zapatos, en este caso mi empresa SAS, durante ese\naño vendí productos a clientes, compré mercancía proveedores, pagué salarios a\nmis empleados, entonces tengo que hacer un registro de esas operaciones.\nEntonces vendiste 800 millones de ropa para los clientes, compraste 400\nm000ones en inventario a los proveedores y pagaste 200,000ones en salarios a tus\nempleados. Ahí ya tienes un registro de operaciones que hiciste durante ese año\ngrabando. Ahora, ¿qué hay que hacer? Entonces, la 10 necesita saber cuánto\ndinero moviste, con quién lo moviste para verificar que esos impuestos se\npagaron correctamente. Entonces, por eso debes de presentar una información\nexógena o como se llamaba anteriormente, una parte de medios\nmagnéticos. ¿Qué debes de hacer entonces con esa información que registraste?\nTienes que identificar del listado de los formatos y qué debo de presentar\nsegún ese tipo de contribuyente. Si debo de presentar el formato 101, que son los\npagos a 150 o el 2276 que es la parte de la nómina o el tema de eh cuentas por\ncobrar, de cuentas por pagar. Entonces, tengo que hacer esa identificación.\nLuego tengo que indicarle la información a cada concepto del formato que me\naplique. Entonces dentro de un formato pueden haber 90 conceptos, como pueden\nhaber tres y tengo que revisar de ese listadito pues qué me aplica para\nempezar a traer la cuenta y o el saldo que me corresponde. Luego de esto,\ncuando yo ya estoy generando la información, tengo que validar que esos\ndatos que me está cargando o que esos datos que estoy colocando, pues si sean\ncorrectos. Aquí es donde empiezo a hacer la validación con mi mayor y balances\ncon terceros o el informe que me soporte o el estado financiero que tenga para\nque los datos me coincidan y finalmente genero el archivo XCML y lo subo a la\nplataforma de la y cumplo como tal con la exigencia, con la normativa y con\ntodo lo relacionado pues a este tema. A veces hacer esto es un poco engorroso,\nes un poco traumático, porque aquí no estoy haciendo un resumen de las ventas,\nde las compras y de lo que yo pagué por conceptos de gastos, de empleados,\netcétera. Esa información se debe detallar por cada tercero. Cada tercero\ndebe tener unos datos que nos pide a nosotros la Diana, como el tipo de\ndocumento, el número del documento, el nombre. Entonces esa información, si yo\ntuviese 10 registros, perfecto, pero yo no tengo 10 registros o 10 movimientos\nque hice durante todo el año gravable. Entonces, toda esa mezcla de información\nde qué tengo que presentar, de cómo la voy a presentar, a veces se vuelve un\npoco preocupante, estresante, engorroso. Para eso entonces tenemos contapime, que\ntiene unas eh digamos herramientas que le van a optimizar mucho más el proceso\ny que esas herramientas se van a convertir en unos pasos claves que van a\nser que sea mucho más fácil y mucho más sencilla esta presentación. ¿Qué tiene\nentonces? Vamos a tener menos horas de trabajo manual en preparación y en\nrevisión como tal de los reportes. Vamos a mitigar las sanciones por errores o\nincumplimientos, porque como todo está registrado en el sistema, como usted lo\nconsignó allí y él simplemente va a ir a traer la información, entonces vamos a\npoder hacer esa mitigación de error. Vamos a hacer un uso eficiente de esos\nrecursos contables y administrativos, o sea, sáquele el mayor progreso a la\nherramienta que usted tiene. tiene informes de auditoría en línea, entonces\nutilicémoslos. Si tiene unos formatos que ya vienen preconfigurados y\nsuperrápidos y super importante que ustedes lo tengan en cuenta eh con una\ninterfaz muy amigable que no hace que sea engorroso, que no hace que sea\nmaluco generar la información exógena, aprovechémoslo. Ten un procesamiento\nmasivo de datos sin esfuerzos manuales. O sea, usted todo lo consignó allí, lo\nregistró como tal en su periodo de año grabable y simplemente con unas cuentas\nque asocio al concepto, él me va a traer la información y listo. Tenemos\nintegración con todos los módulos del sistema. Esto es super importante porque\nsi usted hizo la venta, esa venta le movió la cartera, esa venta le movió los\nimpuestos, esa venta le movió el inventario, automáticamente esa venta\nmueve la contabilidad y se van integrando entre sí la cartera, el\ninventario, la contabilidad y los módulos correspondientes a esto. Más\nusted tiene costos de producción, afecta también el costo de producción. Entonces\nes muy importante que tengan en cuenta de que todo está integrado dentro de\ncontapme y finalmente la automatización de cálculos y la generación de los\nreportes. como es automatizado y como les digo, todo lo que usted ya registró\nes lo que vamos a nosotros a traer a esos formatos para que sea mucho más\nfácil, para que coincida precisamente con lo que usted reportó y allí mismo va\na encontrar esa generación de reportes que le van a permitir hacer una\nauditoría eficiente de la información y va a tener el control. Yo siempre les\nhablo de lo mismo, el control de la información. Es super importante tener\nese control de la información para que yo sepa qué estoy haciendo, cuándo lo\nestoy haciendo, pero sobre todo que sea en línea, que sea en el momento que\nusted lo quiera consultar. ¿Cómo generamos entonces la\ninformación exógena en contapyme? ¿Qué tengo que hacer? Entonces, primero, el\nprimer paso es revisar y configurar los conceptos por cada formato. Entonces, lo\nprimero que hay que hacer es identificar qué formatos tengo que presentar. Los\nmás importantes son este listadito que les traigo aquí, pero es un listadito\nmás amplio que usted dependiendo a qué tipo de contribuyente es, qué ingresos\ntuvo durante ese año grabable, pues debe de identificar qué debe de presentar.\nUna vez usted ya haya identificado, entonces yo tengo que presentar el\nformato día 01. Ya sé que lo tengo que hacer. Entonces, lo que hacemos en\ncontapyme es que le traemos por cada concepto dentro de ese formato unos\ncampos o unos totales como llamamos nosotros para que usted simplemente\nasocie sus cuentas contables, las que manejó en ese año grabable con sus\ntransacciones a cada campo. Entonces, pagos deducibles así para honorarios,\nque es el concepto 502. Entonces, yo manejé la cuenta 5110.\nEh, no me aplica el tema de no deducibles, no me aplica el tema de\nmayores valores para el IVA. Ah, si tengo retenciones practicadas, ¿qué\ncuenta movió la 2365 35? Entonces, simplemente es hacer el ejercicio de al\nconcepto que me aplique, en el campo que me aplique indicar la cuenta para que\nusted simplemente con un clic al dar generar información, que es el paso\nnúmero dos, entonces el sistema vaya y traiga toda esa información por cada\ntercero de la cuenta que le dije al concepto\nconcepto correspondiente. Entonces, en la\ngenerada de la información traemos el tercero, traemos el pago a una en\ncuenta, en este caso en el concepto 101 que estamos tomando como ejemplo. Y yo\ndebo de verificar esa información. Mira lo que me está trayendo de Laura Gómez\npor 4 millones por concepto de honorarios en nuestro ejemplo. Si es, no\nes, sí me coincide. Entonces, ¿cómo hago yo esa verificación? Me puedo apoyar en\ndatos fuente que tiene directamente el formato, me puedo apoyar en un mayor y\nbalances con terceros que tiene disponible contapyme y me puedo apoyar\nen el explorador de contabilidad, que es el informe que usted eh digamos acomoda\na su necesidad de consulta, que puede adicionar, ocultar columnas, filtrar,\nagrupar, hacer una auditoría de la información para mirar la operación o\nmodificarla desde allí si es el caso. Entonces, nos apoyamos en estas tres\nherramientas claves una vez generada la información para poder hacer esa\nverificación de la misma. Y finalmente, ¿cuál es el paso tres? Generar el XCML y\nsubirlo a la diano. Solamente con unos clic usted genera la XCML de toda esa\ninformación desde contapyme. Cumplimos con la normativa y lo que hacemos es que\nese archivo se lo pasamos a la plataforma de la Dian o se lo subimos o\nse lo cargamos a la Dian y cumplimos. Esa XCML debe tener una estructura que\nexige como tal la norma y la resolución. esa XCML que usted general de Contapyme\ncumple con toda esa normativa. Tenemos unos archivos XSD que son los que están\nasociados al prevalidador dial que lo que hacemos es prevalidar de que el\ncampo sea numérico, de que el campo sea solo de texto, de que tenga una longitud\nestablecida, de que sea requerido o no sea requerido. Todas esas validaciones\nlas hacemos en cuenta pyme. Entonces, miren que es muy fácil y es muy\nsencillo. Y ahora que vamos a pasar al sistema, van a ver que es mucho más.\nEntonces, vamos a pasar a contapime para poderles mostrar cómo se hacen esos tres\npasos claves dentro del sistema. Ubicados entonces en el contapme, nos\nvamos a ir a la pestaña de contabilidad. Aquí vamos a encontrar este apartado de\nmedios magnéticos o de información exógena. Y aquí vamos a encontrarnos con\nun aviso donde nos indica que eh la herramienta que le estamos prestando\npara que usted haga la elaboración y la generación de la información exógena es\nde gran utilidad porque es muy rápida, porque es muy efectiva en cuanto al tema\nde cálculos y en cuanto al tema de optimizar el tiempo, pero que es\nimportante que usted revise esa información y que usted confirme que los\n10,000ones que le trajo de Andrea pues sí corresponden a los movimientos que se\nhicieron o están soportados en su mayores balance el estado financiero que\nella presentó. Entonces, acá le decimos, estamos de\nacuerdo. Vamos a encontrar el listado de los formatos Dian. Van a encontrar unos\nen color grisecito, que son los formatos del año gravable anterior, que ya están\nobsoletos. Mírenos aquí marcados como obsoletos y vamos a encontrar los del\naño gravable 2024. Eh, ¿cuál es la idea según los\npasos que vimos? Identificar qué formatos debo de presentar. Entonces, yo\ntengo que presentar el 101, tengo que presentar el tema de los socios porque\neste año con la resolución que cambió, que ya tengo que hacer el reporte sin\nningún tipo de tope, entonces tengo que presentar el de los socios, el de saldos\nde cuentas por cobrar y de por pagar a 31 de diciembre. Entonces, voy\nidentificando qué debo de presentar. Entonces vamos a mirar, por ejemplo,\neste formato, el 101, que es uno de los más utilizados y el cual casi el 95% de\nlas empresas debe de presentar. ¿Qué tengo que hacer? Simplemente le puede\ndar doble clic, le puede dar modificar, le puede dar clic derecho, modificar, o\nsea, tiene varias como opciones de ingreso a ese formato. En el formato nos\nvamos a encontrar primero la normativa o la resolución en la cual estamos\nbasando. Aquí lo vamos a ver. Vamos a encontrar la definición de los\nconceptos. Voy a poner este un poquito más grande. Acá está el listado de todos\nlos conceptos que aplican al formato 101 y está el tema de los topes. Con esta\nnueva resolución, los topes ya no se miden en pesos, sino que se miden a\ntravés de VT. Entonces, aquí ya están estructuraditos esos topes en VT con\nesta actualización para que usted esté también ahí al día y superactтуalizados\ncontap. Entonces, miren que está listado de los conceptos. En el caso del 101 son\nexactamente 79 conceptos que hay que revisar si me aplican o no me aplican.\nNo es que tenga que llenar los 79 conceptos, porque como le digo, esto va\nasociado al contribuyente, a qué tipo de contribuyente es. a sus ingresos, a esos\ntopes y pues ahora saber qué le aplica y qué no le aplica. Recuerden que lo que\nesté por debajo del tope, en este caso 3 VTS, se va a cuantidad\nmenor. Entonces identifico qué conceptos me aplican. Por ejemplo, sale el tema de\nhonorarios. Entonces, voy a correr este para acá. Miren el tema de los campos o\nde los totales que les hablaba. Entonces, para cada campo hay una\nasociación de cuentas, pagos o abonos en cuenta, el tema de los IVAS mayor valor\neh deducibles o no, el tema de las retenciones en la fuente. Entonces, es\nacá donde yo tengo que ir a venir a configurar mi cuenta, la que me aplica.\nPero hay algo importante, estos formatos vienen así preconfigurados por defecto,\ncomo usted los ve. la cuenta 5110 eh de la parte de honorarios ya viene allí\nconfigurada, establecida con el tipo de saldo, pero pues si usted no maneja la\nparte de los honorarios por esta cuenta, sino por una cuenta diferente, es acá\ndonde simplemente usted le hace doble clic, le abre el catálogo de cuentas,\nselecciona la cuenta y listo. Entonces, también es ahí como el tip de que ya los\ntraemos preconfigurados, preconfigurados a lo que hablamos en general para las\ncuentas de el tema de honorarios, el tema de arrendamientos, pero pues hay\nunas cuentas en específico que ya son propias de cada empresa, que se van a\nencontrar ustedes con un asteris kito. Ese asteris kito, ¿qué significa? que\ndebe de usted indicarnos cuál es la cuenta que maneja, porque puede que esta\nempresa maneje la 7301, esta que maneje la 7310. Entonces, esos asterisquitos\nquieren decir, indíqueme cuál cuenta es la que usted maneja, porque aquí ya no\npodemos generalizar eh con el tema del honorario, como el tema del\narrendamiento, sino una cuenta puntual que ya usted maneja. Entonces, cuando yo\nya haya hecho esa revisión de cuentas por cada concepto que me aplique,\nentonces simplemente es aquí darle aceptar al formato para que él guarde y\nconserve esos cambios. Y ya me voy al segundo paso que es generar la\ninformación. Entonces, lo que él hace es, bueno, usted ya me dijo por cada\nconcepto qué cuentas son las que necesita en cada campo o en cada total.\nEntonces, ya con esa información lo que voy a hacer es irme a traer y a\nconsultar por cada tercero esa cuenta que se movió y voy a ir a asociarla a\nese campo. Entonces le vamos a decir aquí\ngenerar. Aquí él nos va a preguntar qué fecha es la que necesito.\nEn este caso, año grabable 2024, desde enero a\ndiciembre. Y le decimos aceptar. Entonces, mire, empieza a calcular todos\nlos valores de todos los registros, de todos los terceros con los que encontró\nmovimiento para ese año gravable y me trae a mí ese listado de información.\n¿Para qué? Para que yo simplemente tenga que ir a comparar cada tercero en cada\nconcepto que me aplica y que no me aplica. ¿Listo? Entonces, aquí es donde\nvemos la parte de ese paso de generar la información y verificar la información.\nEntonces, ¿qué tengo que hacer para poder hacer la verificación de la\ninformación? Entonces, lo primero es que miren que encuentran la columna de\nconcepto, la columna de toda la información del tercero hasta acá, donde\nestá la parte de la dirección del país, el código de municipios y departamentos.\nY aquí hablamos ya de los conceptos o de los totales eh donde se empieza a\nregistrar la información que corresponde. Vamos a encontrar\ndirectamente desde este formato una herramienta que se llama datos fuente.\ndatos fuente es de dónde está trayendo el sistema esa información que me está\nmostrando en este caso, digamos para almacén, tu equipo limitada, de dónde me\nestá trayendo a mí esta retención en la fuente o para el\ntercero, reparaciones mejía limitada, de dónde me está trayendo el pago abono en\ncuenta de 6,000ones. Entonces es muy sencillo. Usted acá filtra por concepto\no por el dato que usted quiera. Yo lo hago así porque me parece más sencillo,\npero por el dato que usted lo quiera hacer. Entonces, yo filtro por el\nconcepto 502, que es el que quiero revisar en este caso de reparaciones.\nFiltro por el tercero que quiero revisar, en este caso el 856, el que\ntermina en 236, este de aquí. Entonces, miren que la información se va\ndetallando y se va reduciendo, pues, a medida que yo le voy aplicando los\nfiltros para que sea mucho más fácil. Entonces, miren, me está diciendo, \"Sí,\ntiene un valor base de 6,325.\" Es lo que le estoy reportando\naquí en pagos o abonos en cuenta. ¿De qué cuenta? De la 515.\ny tiene una retención en la fuente también que le estoy aquí reportando de\n695,750es de esta cuenta correspondiente. Si usted está haciendo\nsu revisión y no le coincide su mayor y balances o su el informe con el que lo\nesté comparando, pues simplemente es que abramos el explorador de contabilidad,\nhagamos la misma consulta de cuentas para ese tercero y si necesita hacer\nalguna modificación la haga directamente desde allí. Pero al menos el dato fuente\nes para que usted sepa qué cuenta es, porque como vinimos y la configuramos\npreviamente aquí en esa configuración de conceptos, entonces la idea es de que\nusted directamente desde acá sepa qué cuenta es para que ya vaya puntualmente\nallí y haga la consulta detallada. Entonces, este datos fuente es realmente\nque una herramienta que usted va a poder encontrar de mucho apoyo ahí\ndirectamente desde el formato para que se pueda apoyar en ella y sobre todo\npara que pueda conocer en tiempo real cuando esté haciendo el formato, de\ndónde está trayendo la información o si tiene que ir a hacer algún cambio,\nalguna modificación o alguna adición porque de pronto no le está incluyendo\nalguna cuenta, pues lo puede hacer. Bueno, segunda herramienta, mayor y\nbalanzas con terceros. Entonces, aquí en la pestaña de contabilidad, la parte de\nlibros legales, vamos a encontrar el apartado de mayor y balances. Mayor y\nbalances con terceros. Miren, una aquí está eh la vista previa. Eh, saldo\nanterior, movimiento, saldos finales con la cuenta y el tercero correspondiente.\nA mí me gusta mucho utilizar este que es la consulta del mayor y balances porque\nal ser una consulta me permite a mí profundizar mucho más en el dato que me\nestá mostrando el informe y poder hacer eh la consulta de la información. o la\nherramienta que manejamos nosotros que se llama drill para poder yo saber a\nprofundidad qué pasó con ese saldo, qué pasó con esa operación. Entonces, les\ninforme. Vamos a cambiar aquí la fecha porque acuérdense que estoy trabajando\nhasta el 31 de diciembre del 2024, que es para donde estoy haciendo la consulta\nde mi presentación de información exógena. Y aquí vamos a buscar la cuenta\nque estamos revisando en nuestro formato para nuestro tercero, que en este caso\nes en el datos fuente la 51 1035 para este tercero 856\nbuscar la 51 1035 de honorarios estos 6,325,000. Entonces, ¿qué hago desde el\ninforme? Simplemente usted hace un doble clic. Con ese doble clic él le va a\nabrir un explorador de contabilidad, que ese explorador de contabilidad para mí\nes la herramienta número uno para el contador o para la persona que esté\nhaciendo esta parte de la presentación de informes. ¿Por qué? porque le permite\na usted explorar la contabilidad para poder hacer una revisión mucho más\nexhaustiva, pero mucho más precisa directamente desde el informe. Entonces,\nmiren, al dar doble clic, él me trae a mí los movimientos asociados a ese saldo\nque me está mostrando. Reparaciones Mejía, 6 m,000000. Entonces, ya desde\naquí usted puede ver la operación. Vamos a mirar la operación. ¿Será que me quedó\nmal registrada? ¿Será que me la registraron mal? Entonces es un gasto.\nEstamos aquí registrando los gastos de representación, estampillas, asesoría\ntécnica, etcétera. Y miren que aquí está todo el desglose de los impuestos, la\nforma de pago. Entonces puede hacer usted la revisión de su operación\ndirectamente desde el impor para que empiece a comparar y a revisar esos\ndatos. Entonces aquí está el datos fuente directamente desde el formato\nmayor y balances con eh terceros o mayor y balances tipo consulta. y explorador\nde contabilidad, que le permite a usted adicionar u ocultar columnas desde aquí,\ndesde esta opcionita. Mover las columnas. Yo quiero ver de primero el\ntercero porque estoy haciendo una revisión por tercero, entonces\nsimplemente la arrastra. Usted quiere agrupar por tercero, simplemente ubicada\nen la columna que quiera eh agrupar, la arrastra hacia la franjita amarilla\ndonde dice arrastre una columna aquí para agrupar por dicha columna. Entonces\narrastramos la información. puede filtrar, puede tener filtros más\nespecíficos aquí por tipo de operación, por algún tipo de documento en especial.\nEntonces este explorador es la herramienta, digamos, número uno de\napoyo que usted tiene para que pueda hacer toda la consulta de la\ninformación. Ahora, no está presentando la exógena, está presentando por allá de\ndeclaración de renta, pagos de IVA, pagos de retención. El explorador es la\nherramienta que le permite a usted hacer filtros específicos y agrupar la\ninformación o ver la información de la manera que usted necesite para su\nempresa o para su necesidad. Entonces, vamos a cerrar acá con nuestras eh\nherramientas de auditoría de la información. Entonces, ya revisé la\ninformación, ya comparé de que todo está bien, de que todo está correcto, hice\nlos ajustes o las modificaciones correspondientes. ¿Qué sigue?\nSimplemente generar el XCML. Damos clic aquí en esta opciona, generar XCML. Él\nme dice el año de envío. Me dice la versión del formato, que recuerden que\nesto queda actualizado automáticamente con la resolución. Eh, fechas de envío,\neh números de envío y simplemente le digo aceptar.\nAquí él hace toda la magia, toda esa información la sube en un formato XML,\nla construye con una estructura ya establecida que previamente dice la\nresolución y que nosotros tenemos ya ahí disponible para usted. Entonces, miren\nque dice, se validaron los datos del formato, se verificó el archivo contra\nel prevalidador de la Diana, utilizamos los XSD del prevalidador para confirmar\nde que los datos están correctos y se guardó el XML en esta ruta. le muestra\nla ruta. Quiere abrir la ubicación del archivo. Sí, quiero ver dónde quedó el\narchivo, dónde quedó la ruta. Entonces, abrimos la ubicación y miren que aquí en\nesa misma ruta que nos está ahí dando el texto está nuestro archivo en formato\nXCML disponible para presentarlo a la de Miren que aquí está todo el reporte por\ntercero para ese formato con toda la especificación técnica requerida para yo\npoder hacer eh la presentación de mi información exógena. Y aquí mismo van a\nquedar los otros formatos identificados con el numerito que corresponde aquí en\nestos códigos para que usted allí tenga toda la información. Entonces,\nsimplemente aquí cerramos, le decimos que no y ahí ya nos quedó listo nuestro\nformato 101. Entonces sigo con el formato\nformato 102, 103, el que me aplique a mi\ncorrespondiente y hago exactamente el mismo ejercicio. Configuro cuentas,\ngenero información, reviso la información y genero el XCML. No tiene\nque hacer nada más. Ahora, hay gente que le gusta trabajarlo en Excel porque en\nExcel le parece más fácil, porque lo puede formular, porque puede hacer eh su\nconsulta directamente desde allí. Esto se lo puede llevar para un Excel tal\ncual como lo ve allí, trabajarlo, venirlo a importar en contrapyme y desde\nallí ya simplemente generas el XD sencillo, simplemente le da clic\nderecho, utilizar, exportar registros Excel. Acá le decimos toda la lista\nAxlsx o la selección, como usted lo quiera hacer. Entonces, el sistema\nempieza a hacer su proceso de exportación, le va a preguntar la ruta\npara que usted pueda indicarle dónde lo quiere y\nlisto. Trabaja usted el formato desde Excel, hace las modificaciones,\nadiciones que necesite y ya lo importa nuevamente a\ncontape. Miren, aquí les pregunta dónde lo quieren. Yo le voy a decir que en el\nescritorio, le voy a decir que guardar. Y miren, aquí está toda la información\nya en Excel para que usted por cada concepto haga la revisión de cada\ntercero. Y aquí está la parte de los campos donde ya se reporta el tema de\npagos o abonos en cuenta, el tema de retenciones en la fuente de IVAS como\nmayor valor, ya dependiendo lo que le aplique, usted lo trabaja desde aquí, lo\nguarda en formato Excel y simplemente viene otra vez aquí a contapme en esta\nparte le dice utilidades, importar registros. Importa los registros desde\nacá mismo y listo. No hay que hacer un paso adicional ni nada. como ya le\nimportó toda la información que usted tuvo que cambiar, modificar, revisar\ndesde Excel, que le parece de pronto más fácil o más sencillo, entonces la\nimportamos y generamos el XCML. Entonces es totalmente compatible para que usted\nlo pueda realizar como este mejor para poderlo\npoderlo trabajar. Miren, hace todo el proceso y\ntermina. generamos el XCML y listo. Entonces ahí\nles doy tips, les doy herramientas para que lo puedan hacer mucho más sencillo.\nSi el la cantidad de información que es voluminosa, sobre todo en este formato\nque es el más grande donde se reportan casi todos los movimientos de la\nempresa, entonces si lo quieres hacer en Excel, ahí está. Vamos a ir a la parte\nnúmero tres de esta sesión, que ya es la parte final, que son los manejos\nespeciales en los formatos 2276 y en el formato 1010, que es la parte de socios.\nEntonces, ubicados nuevamente en contapme, vamos a mirar el formato 2276.\nIgual ingresamos a la pestaña de contabilidad, la parte de medios\nmagnéticos, le decimos que estamos de acuerdo con el texto que nos indica y\nvamos a ir al formato 2276. dentro del formato\n2276, él no tiene conceptos, pero sí tiene muchos campos. A diferencia, por\nejemplo, del 101, que solamente son como 10 totales, eh, perdón, siete totales.\nAquí estamos hablando de 29 totales o 29 campos, pero ningún concepto. Entonces,\n¿qué hay que hacer? Igual hay que venir por cada total a decirle cuáles son las\ncuentas que yo manejo. Pero este tiene un manejo especial. Especial. ¿Por qué?\nPorque aquí vamos a traer y vamos a leer la parte también integrada de nómina\nelectrónica, de cuando usted reporta su nómina que hace conceptos por cada ítem\nque se esté reportando de salarios, de auxilio de transporte, bonificaciones,\netcétera. Entonces, aquí lo enlazamos también con la parte de nómina.\nEntonces, van a ver unos conceptos eh o unos campos aquí que van\na encontrar que ya no les va a pedir cuenta, pero sí les va a decir, \"Mire,\neste total por alimentación eh se va a alimentar de este campo en específico.\"\nEntonces, por ejemplo, en el total cuatro o en el campo cuatro, si en el 28\nexcedemos 41 betas de alimentación, el excedente se va a venir aquí\nautomáticamente. Automáticamente con Tapyme hacen el análisis. Si en este 28\ntiene usted excedentes a esas VT, él automáticamente viene y le coloca ahí la\ninformación de ese excedente. Vamos a irnos aquí al 28. Entonces, en el 28\nusted viene y coloca su cuenta de pagos por alimentación y si superamos estas\n41ticamente en el total cuatro se va a ir a colocar esa información.\nTenemos el campo 14 y el campo 15, que corresponde a las cesantías y a los\nintereses consignadas o pagadas. Aquí pues no vamos a colocar cuenta porque él\nla va a ir a leer del concepto de cesantías que se manejó en la parte de\nnómina electrónica. Entonces, acá colocamos el texto para que usted sepa\nque este total se obtiene de los conceptos pagados correspondientes a\nesesantías registrados por módulo de nómina y que usted puede verificar esa\ninformación en un explorador de conceptos de nómina para que le coincida\nel valor que se está reportando versus lo que usted tiene ahí registrado. lo\nmismo para el total 15 y el total 29, que es la parte del promedio de el\ningreso laboral de ese colaborador o desempleado de los últimos 6 meses. Este\ncálculo también se hace automático. El cálculo coge y promedia los últimos 6\nmeses del empleado con toda la parte eh base del ingreso de cotización que es el\nIBC. Entonces, coge todos los conceptos que son IBC y sobre esos conceptos hace\nel cálculo del promedio de los últimos 6 meses. Por eso les decía que tiene unos\nmanejos especiales, porque con esos manejos especiales le automatizamos a\nusted mucho más el proceso. Va a ser mucho más rápido, va a ser mucho más\nsencillo. Entonces, en la práctica, ¿cómo funciona? Ya configuré mis\ncuentas, ya le dije, pues, ¿qué es lo que voy a manejar por cada campo, por\ncada tal? Simplemente le digo aquí generar como el mismo que hicimos con el\n101. Confirmo la fecha y le digo aceptar. Entonces empieza a hacer el\ncálculo de traerme a mí la información por cada tercero, en este caso solo de\nlos empleados y me empieza a mí a reportar aquí la información. Aquí\ntenemos entonces el listado de mis terceros empleados, igual que en el día\n01. Miren que es exactamente la misma interfaz. Y aquí empiezo con el tema de\nmis totales, con el tema de la información que ya ustedes van viendo\nque se va diligenciando automáticamente. Eh, les digo yo que el\nvalor del ingreso promedio de los últimos 8 meses, miren que sale de\nmanera automática, no tienen ustedes que estar haciendo cálculos extras y el\nproceso de automatización, pues aquí se ve mucho más reflejado para que ustedes\ntengan en cuenta de que es algo muy sencillo. Entonces, vamos a este\nprimer tercero que es Esteban y les voy a enseñar cómo lo pueden hacer para\nhacer el tema de la revisión, así como utilizamos eh mayor y balances, el\nexplorador de contabilidad o el tema de datos fuente para las cuentas, también\nestá en la parte de nómina el explorador de conceptos.\nEntonces, vamos a a Esteban. ¿Cómo es el promedio de los últimos 6 meses?\nPues lo que hago yo es que simplemente filtro desde el primero de julio, el año\ngradable que estélo revisando o consultando, hasta el 31 de diciembre de\nese mismo año grabando y le digo aceptar porque solo necesito la de los últimos 6\nmeses. Necesito un tercero en específico. Aquí vamos a revisar a\nEsteban Giraldo. filtro por esteón girando y necesito un concepto o unos\nconceptos que son el IBC. Entonces, aquí vengo y filtro por, en este caso salario\nbase. Miro si tiene horas extras, si tiene\ntiene bonificaciones. Recuerden que ese IBC\nque es el ingreso base de cotización pues es todo lo que se considera que\nhace parte de los aportes de seguridad social y de parafiscales y que entre\nellos tenemos el salario, las horas extras, recargos nocturnos, comisiones,\nbonificaciones salariales, eh viáticos, auxilio de\ntransporte, solo si el salario supera eh dos salarios mínimos legales vigentes.\nprimas extralegales, etcétera. Entonces, todo lo que hace como tal, base para el\ncálculo de prestaciones sociales, es lo que nosotros tomamos para poder hacer\nese cálculo de los últimos 6 meses. Entonces, en este caso, miren que\ntenemos el tema del salario básico, entonces usted lo puede agrupar o lo\npuede filtrar como le quede más más fácil. Entonces, yo aquí voy a decirle\neh salario básico de Esteban en este caso. Entonces, miren que él aquí\nabajito me totaliza qué encontró en esos últimos 6 meses de salario, cuántos días\ntengo de salario. Entonces, lo que yo hago es el total del valor que me\nestá reportando para ese concepto de salario y lo divido en el número de\ndías, que en este caso son 150 días y lo multiplico por 30. No lo voy a\nmultiplicar por 31 ni por 28 porque es 30 es el número de días que se toma por\nmes para poder hacer los cálculos en la parte de pila, en la parte de\nprestaciones sociales, etcétera. Entonces, este cálculo es el que el\nsistema va y me reporta allí. para poder hacerme ese promedio de\nmanera automática. Entonces, miren que aquí\ntenemos registrado valor del ingreso promedio de los últimos 6 meses,\n1,300. Aquí cojo los 6,500. Venga, yo traigo la calculadora para que lo\nhagamos aquí en línea y sea mucho más visual. Entonces, cojo ese valor total,\n6,500, lo divido por el número de días reportados y esto lo multiplico por 30,\nque como les digo es 30 días que tomamos como referencia para hacer el pago\nsalarial de prestaciones y de todos los demás conceptos de nómina. No se toma\n31, no se toman 29 ni 28 días. Miren que acá me da 1,300, que es el mismo\npromedio que me está reportando aquí el concepto. Resulta que usted necesita\nadicionar, eh, cambiar este valor porque va a incluir algo, porque usted va a\nhacer alguna modificación, algo no ha registrado todavía en contapyme. Puede\nser. Entonces, si necesita modificar el promedio, acá simplemente usted cambia\nel dato y este cambio que usted realice pues va a quedar para la exógena, no se\nva a ir a modificar ni la cuenta, ni el concepto, ni el registro para Esteban de\nlo que usted ya realizó en ese año gravable que estamos revisando o dentro\nde esos últimos 6 meses para este concepto o para este formato que estamos\ncomo tal colocando de ejemplo. Entonces, los cambios que usted realice aquí en\ncualquier campo o en cualquier columna van a quedar registrados ahí para lo que\nusted va a presentar o lo que se va a ir en el XCML, pero no va a ir a hacer\nafectación sobre la base de datos. Entonces, primer punto para que lo\ntengamos en cuenta. Ahora, segundo punto, el tema de el dependiente\neconómico. Para que usted digamos que optimice más y le quede ahí como una\nespecie de base de datos guardadito. Entonces, tenemos eh cómo configurar el\ndependiente económico para que el sistema lo traiga de manera automática,\nsiempre y cuando pues usted lo haya configurado previamente. ¿En dónde?\nEntonces, miren, aquí hay una herramienta muy chévere que se llaman\nlos terceros reportados. directamente desde el formato. En estos terceros\nreportados lo que se hace es traerme el resumen de los terceros con los que\ntuvimos ahí reporte para ese formato. Entonces, aquí me está trayendo todos\nmis traseros que se están reportando para Esteban. Le voy a decir aquí\nmodificar. Desde aquí lo puedo hacer. Abro el formulario completo. Si necesito\nhacer alguna edición de nombres, direcciones, lo puedo hacer directamente\ntambién acá desde el editor. En este caso, me voy a ir a datos empleado,\npestaña de retención en la fuente, le digo cuántas dependientes tengo. En este\ncaso le voy a colocar dos y él me va a abrir aquí esta ventanita de dependiente\nprincipal. Ojo, para medios magnéticos yo puedo tener tres dependientes, pero\nsolo puedo registrar uno o puedo reportar uno, no puedo reportar los\ntres. Por eso solamente se abre unos campos para colocar información de un\nsolo dependiente. Entonces, acá colocamos el la tarjeta de identidad, la\ncédula o el tipo de documento correspondiente, número del documento y\nnombre completo y le decimos aceptar. Si volvemos aquí al formato, no tengo un\nbotón de actualizar, no trae la información. Y es por qué, porque como\nyo hice una modificación en lo que él ya me trajo y me leyó, entonces necesito\nrecalcular el informe para que con esos cambios que yo realicé, pues él me\ntraiga a mí la información nuevamente. Entonces, voy a cerrar\nacá. Acá le voy a decir solo cerrar, no voy a guardar. Voy a volverme aquí al\nlistado de los formatos y vuelvo y lo genero. Y aquí vamos a encontrar algo\npara también poderles explicar qué es esta nueva ventanita. Él está diciendo,\n\"Mire, ya hay unos datos que yo le calculé para ese formato. ¿Usted quiere\nseguir trabajando sobre eso o usted quiere recalcularlos o sobreecribirlos?\nEn este caso, como yo hice cambios y necesito que me recalcule, entonces\nutilizo la primera opción. En el caso de que usted le dé guardar, porque mañana\nva a continuar con el tema de la revisión, entonces puede abrir el\nexistente y continuar con ya la revisión del renglón donde iba o el tercero donde\nesté realizándolo. Entonces, aquí recalculamos, él vuelve y nos trae la\ninformación que encuentra que le configuré al formato. Y miren que aquí\nvamos a mirar la columna del dependiente. me trae el número de ese\ndependiente económico y la identificación de ese dependiente\neconómico. Ya hay unos datos adicionales como es el pide comiso, el tema del\nparticipante del contrato en colaboración y el la identificación del\nmismo, de que esto sí ya tienen que digitarlos ustedes sí les aplica porque\npues ya son datos muy puntuales para esa identificación de contratos en\ncolaboración y de fidecomis. Pero el tema de los dependientes ahí ya les\nqueda guardadito, ya lo trae automático. Entonces, con esto lo pueden hacer antes\nde generar el formato o si se les olvidó pueden utilizar, como les digo, el tema\nde terceros reportados, que sobre todo en los formatos grandes, donde hay\nmuchos terceros, les va a servir también mucho por si tienen que hacer alguna\nrevisión del tercero o alguna adición o algún cambio, etcétera. Entonces, en el\n2276 estos manejos, digamos, como especiales y como automáticos de ciertos\ncampos que tenemos. Ahora voy a cerrar por\npor acá toda esta parte del 2276 y vamos a\nvolver a la parte de los formatos. Aquí, ¿qué vamos a revisar? en el formato de\nsocios, entonces nos vamos a encontrar unos campos o unas columnas eh que\nnecesitamos reportarle a la Dian como porcentajes de participación, como el\ntema de eh posición decimal en ese caso. Entonces, genero el formato igual como\nlos demás. Yo aquí ya tengo unos registros de mis socios para la cuenta\nque él me está leyendo, que en este caso, recordemos, el dato fuente, es la\ncuenta 31 151 para mi ejemplo. Pero miren que vamos a\nencontrar unas columnas de valor de prima en colocación en\nacciones a 31 de diciembre, porcentaje de participación y posición decimal de\nese porcentaje de participación. Y miren que esos porcentajes él los calcula\nautomáticamente. Automáticamente me está diciendo que el porcentaje de\nparticipación para la señora Pilar Botero, que tiene un valor de acción de\n27,4363 y que tiene una posición decimal de cinco porque la Dian pide en este\nformato que se reporte de esta manera. Entonces, miren que automáticamente\ncalculamos ese porcentaje de participación con base a lo que estemos\nleyendo de la cuenta que colocamos de cada socio. Recuerden que con esta\nresolución yo ya debo de reportar todos los socios a 31 de diciembre del 2024.\nYa no hay tope como en las presentaciones anteriores de formatos de\nmedios magnéticos, en este caso del 1010. Entonces aquí este año hay que\nreportar todos los socios. Entonces, este porcentaje de participación se\ncalcula de manera automática junto con la posición decimal. Ahora, usted\nnecesita aquí hacer ajustes manuales, como le digo que lo puede hacer, cambia\naquí el porcentaje y dice, \"No, pues aquí está el 25, aquí le voy a colocar\n45,7325. La sumatoria de todos estos porcentajes me debe dar 100. Y cuando\nusted utilice aquí el botón de verificación, si no le da 100, él le va\na alertar y le va a decir, \"Venga, esta columna no está dando 100 porque es un\nrequisito que va dentro del prevalidador de la dian o del XCD que nosotros leemos\ny no nos está dando 100%. Entonces, revíselo. Pero también tiene otra opción\nmás chévere que es esta de recalcular los porcentajes. Si lo recalculo, él\nautomáticamente con base en estos datos de la columna de valor nominal de la\nacción recalcula si usted hizo aquí algún cambio o si usted hizo aquí alguna\nmodificación o adición, recalcula porcentajes para que le des 100. Ahora\nsi yo verifico nuevamente en la verse la verificación no encuentra ninguna\ninconsistencia y queda okay el formato para simplemente generar el XTML y\nlisto. Entonces, esas son los dos como manejos especiales en estos formatos que\nquería contarles, que quería mostrarles para que lo tengan en cuenta, para que\nsepan que se está e siempre actualizando el sistema y automatizando mucho más el\nproceso para que sea mucho más fácil para ustedes hacer esta presentación que\na veces es un poquito engorrosa por la cantidad y por el volumen de\nBueno, para finalizar entonces quiero hacerles un resumen para que lo tengan\nahí supercaro más de lo que ya se los he detallado en esta sesión. Entonces la\nidea es de que tengamos en cuenta qué tenemos que hacer en contapme para\nentrar la exógena. Registrar las cuentas de los formatos a presentar. identificó\nqué formatos necesita, registra las cuentas y posterior a ello genera el\nformato. Aquí ya el sistema automáticamente trae toda la información\nde las transacciones y operaciones registradas en ese año para las cuentas\nque usted ya le indicó, las clasifica según el concepto y aquí yo ya\nsimplemente verifico los datos de la información generada, confirmo con mis\nherramientas eh las que le mostré, el datos fuente, el mayor y balances, el\nexplorador eh de contabilidad en el tema denomómina el explorador de conceptos y\ngenero el XCML y listo. Cumplo con la normativa, cumplo con la Dian, lo hago\nde una manera fácil, de una manera sencilla, utilizo todos los recursos que\ntengo de contapyme, sobre todo el tema de generación de información exógena y\nXCML. Y desde allí, con todas las transacciones que yo registré de ventas,\nde compras, de pagos, de nómina, de abonos, tengo todo ahí. Simplemente es\nconsolidar la información, distribuirla en el concepto correspondiente y listo.\nAutomáticamente Contapím me hace eso por usted para que usted simplemente revise\ndatos y cumplamos con la parte de la Dian y registremos la información a\ntiempo en ese XML para que cumplamos con los plazos, evitemos sanciones y sobre\ntodo lo hagamos con calma. Lo hagamos muy sencillo con contapica."
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 1,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 195.867,
+    "asr": 44100,
+    "filesizeApprox": 67847398,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2025",
+  "files": {
+    "year": "2025",
+    "kind": "videos",
+    "md": "videos/2025/hVMJNvymBOU.md",
+    "json": "videos/2025/hVMJNvymBOU.json",
+    "infoJson": "videos/2025/hVMJNvymBOU.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "hVMJNvymBOU",
+        "youtubeId": "hVMJNvymBOU",
+        "titulo": "Capacitación Exógena DIAN AG 2024 con ContaPyme | Paso a Paso + Recomendaciones Clave",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

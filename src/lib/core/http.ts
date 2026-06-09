@@ -34,6 +34,15 @@ export function optionsResponse(origin?: string | null): HttpResponseInit {
 	return { status: 204, headers: corsHeaders(origin) };
 }
 
+/** OPTIONS sin exigir JWT (consultas MSSQL públicas, health, etc.). */
+export function beginHttpRequestPublic(
+	request: HttpRequest,
+	origin?: string | null,
+): HttpResponseInit | null {
+	if (request.method === "OPTIONS") return optionsResponse(origin);
+	return null;
+}
+
 /** OPTIONS o 401 si falta JWT (cuando LAB_AUTH_REQUIRED está activo). */
 export async function beginHttpRequest(
 	request: HttpRequest,

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "entryId": "NtdDKN-RM3I",
+  "youtubeId": "NtdDKN-RM3I",
+  "status": "fetched",
+  "updatedAt": "2026-06-05T19:09:54.587Z",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "NtdDKN-RM3I",
+      "youtubeId": "NtdDKN-RM3I",
+      "titulo": "Valor base para iniciar turno del usuario cajero",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

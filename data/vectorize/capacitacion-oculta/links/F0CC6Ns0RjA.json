@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "entryId": "F0CC6Ns0RjA",
+  "youtubeId": "F0CC6Ns0RjA",
+  "status": "fetched",
+  "updatedAt": "2026-06-05T19:05:41.362Z",
+  "icursos": [
+    "CP40MOD610",
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "F0CC6Ns0RjA",
+      "youtubeId": "F0CC6Ns0RjA",
+      "iplan": "020050",
+      "capitulo": "Empresa",
+      "titulo": "Tipos de centros de costos",
+      "descripcion": "Aprende a identificar los diferentes tipos de centros de costos en Contapyme. En este tutorial, te explicaremos de manera clara y sencilla cómo gestionar cada uno para mejorar la organización y eficiencia de tu empresa.",
+      "profesor": {
+        "rol": "Asesora",
+        "nombre": "Andrea Cespedes"
+      },
+      "dificultad": "Básico",
+      "source": "html-page",
+      "icurso": "CP40MOD610"
+    },
+    {
+      "entryId": "F0CC6Ns0RjA",
+      "youtubeId": "F0CC6Ns0RjA",
+      "titulo": "Tipos de centros de costos",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "descripcionCurso": "Módulo de sistema básico de ContaPyme"
+    },
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

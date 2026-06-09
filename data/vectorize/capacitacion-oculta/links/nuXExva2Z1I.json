@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "nuXExva2Z1I",
+  "youtubeId": "nuXExva2Z1I",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:29:49.955Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2013/nuXExva2Z1I.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "nuXExva2Z1I",
+      "youtubeId": "nuXExva2Z1I",
+      "titulo": "nuXExva2Z1I",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

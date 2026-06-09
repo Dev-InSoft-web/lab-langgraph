@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:25:44.789Z",
+  "videoId": "Lph3ozdhpZM",
+  "videoUrl": "https://www.youtube.com/watch?v=Lph3ozdhpZM",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "Lph3ozdhpZM",
+    "title": "Software de contabilidad ContaPyme   Instalacion version demostrativa ContaPyme 4 0",
+    "fulltitle": "Software de contabilidad ContaPyme   Instalacion version demostrativa ContaPyme 4 0",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 438,
+    "duration_string": "7:18",
+    "upload_date": "20180713",
+    "timestamp": 1531511473,
+    "view_count": 339,
+    "like_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUtvhelFxfRMO2iL0TteYHObbS0Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDerpZRTfY_1jZWiTVFHDJLdrQbDA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8W8kn4XR6Lo9t3_Oh4QZqE9v9nQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLACF7cN3rAPaFP5PmLJbYw-s3GnpA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfA4nUzelTSNjwWoXhg1ZDb8wF0g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoAuJE_jH5Y-EypynXfxah_JbaRQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBupOCRRkNO3nIQvBavGp1sjoAeyg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0PM5XxPVXH2Y7Q6aCoDBINNkvUw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/sddefault.jpg",
+        "preference": -5,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Lph3ozdhpZM/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Lph3ozdhpZM/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Lph3ozdhpZM",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.228310502283105,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20319634703196346,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20319634703196346,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 211.662,
+        "asr": 44100,
+        "filesize_approx": 11576138,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software de contabilidad ContaPyme   Instalacion version demostrativa ContaPyme 4 0",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/Lph3ozdhpZM/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/Lph3ozdhpZM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software de contabilidad ContaPyme   Instalacion version demostrativa ContaPyme 4 0\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 78,
+    "transcriptChars": 5725,
+    "segments": [
+      {
+        "text": "instalación versión demostrativa con está pyme 4",
+        "startMs": 589,
+        "durationMs": 3910
+      },
+      {
+        "text": "la instalación de la versión demostrativa de contamine 4 permite",
+        "startMs": 4499,
+        "durationMs": 4441
+      },
+      {
+        "text": "trabajar sobre el sistema para tener idea del funcionamiento características",
+        "startMs": 8940,
+        "durationMs": 4859
+      },
+      {
+        "text": "y funcionalidades que éste ofrece la instalación de la versión demostrativa",
+        "startMs": 13799,
+        "durationMs": 5491
+      },
+      {
+        "text": "implementa el manejo del cliente servidor de manera local es decir en el",
+        "startMs": 19290,
+        "durationMs": 6210
+      },
+      {
+        "text": "mismo equipo instala el motor de la base de datos fiver",
+        "startMs": 25500,
+        "durationMs": 5370
+      },
+      {
+        "text": "y el sistema como tal la versión demostrativa se compone de",
+        "startMs": 30870,
+        "durationMs": 6640
+      },
+      {
+        "text": "todos los catálogos opciones y herramientas básicas más el módulo de",
+        "startMs": 37510,
+        "durationMs": 5670
+      },
+      {
+        "text": "contabilidad y su uso está restringido a 90 días a partir de la instalación en",
+        "startMs": 43180,
+        "durationMs": 7710
+      },
+      {
+        "text": "este vídeo veremos paso a paso cómo se realiza la instalación de la versión",
+        "startMs": 50890,
+        "durationMs": 4170
+      },
+      {
+        "text": "demostrativa de contamine 4 tenemos el instalador llamado instalar",
+        "startMs": 55060,
+        "durationMs": 6580
+      },
+      {
+        "text": "con está pyme mono usuario versión 4 exe damos doble clic al icono del instalador",
+        "startMs": 61640,
+        "durationMs": 5580
+      },
+      {
+        "text": "y vemos como inmediatamente se abre una nueva ventana la cual nos irá indicando",
+        "startMs": 67220,
+        "durationMs": 5160
+      },
+      {
+        "text": "los pasos a seguir para la correcta instalación del sistema",
+        "startMs": 72380,
+        "durationMs": 5390
+      },
+      {
+        "text": "inicialmente se muestra una ventana de bienvenida la cual nos confirma que",
+        "startMs": 77770,
+        "durationMs": 5229
+      },
+      {
+        "text": "vamos a realizar la instalación de contable monousuario versión 4",
+        "startMs": 82999,
+        "durationMs": 5751
+      },
+      {
+        "text": "esa instalación como indica el asistente nos permitirá trabajar localmente sin",
+        "startMs": 88750,
+        "durationMs": 5040
+      },
+      {
+        "text": "necesidad de un servidor de datos y adicional a esto nos permitirá",
+        "startMs": 93790,
+        "durationMs": 4200
+      },
+      {
+        "text": "conectarnos a otros servidores de datos de contacto",
+        "startMs": 97990,
+        "durationMs": 5040
+      },
+      {
+        "text": "damos clic en el botón siguiente a continuación se presenta el contrato",
+        "startMs": 103030,
+        "durationMs": 6290
+      },
+      {
+        "text": "de licencia con todas las cláusulas de cumplimiento dispuestas para el sistema",
+        "startMs": 109320,
+        "durationMs": 4440
+      },
+      {
+        "text": "con está pyme versión 4 es muy importante que el usuario lea y entienda",
+        "startMs": 113760,
+        "durationMs": 5610
+      },
+      {
+        "text": "los términos de este contrato pues es el acuerdo entre el usuario en sus",
+        "startMs": 119370,
+        "durationMs": 4950
+      },
+      {
+        "text": "limitadas para hacer uso de la licencia del sistema marcamos la opción aceptó",
+        "startMs": 124320,
+        "durationMs": 5490
+      },
+      {
+        "text": "los términos del contrato de licencia y damos clic en el botón siguiente",
+        "startMs": 129810,
+        "durationMs": 6720
+      },
+      {
+        "text": "ahora el asistente nos muestra una ventana que nos informa que el",
+        "startMs": 136530,
+        "durationMs": 3270
+      },
+      {
+        "text": "instalador posee dos archivos que son debe expida 40 punto dll y asistencia in",
+        "startMs": 139800,
+        "durationMs": 6720
+      },
+      {
+        "text": "soft punto exe este último es un componente de software que sirve para",
+        "startMs": 146520,
+        "durationMs": 5220
+      },
+      {
+        "text": "que el usuario solicita asistencia técnica a in soft cuando así lo",
+        "startMs": 151740,
+        "durationMs": 5200
+      },
+      {
+        "text": "requieran como este componente utiliza funciones",
+        "startMs": 156940,
+        "durationMs": 2670
+      },
+      {
+        "text": "de acceso a internet algunos antivirus lo reportan como potencial amenaza pero",
+        "startMs": 159610,
+        "durationMs": 5790
+      },
+      {
+        "text": "realmente no lo es en este instalador se hace la anotación por si en algún",
+        "startMs": 165400,
+        "durationMs": 5159
+      },
+      {
+        "text": "momento al usuario su antivirus le reporta estos archivos no debe ser",
+        "startMs": 170559,
+        "durationMs": 5401
+      },
+      {
+        "text": "alarmante para el usuario pues no causará daño a su equipo damos clic en",
+        "startMs": 175960,
+        "durationMs": 8410
+      },
+      {
+        "text": "ahora nos muestra la ruta en la cual se va a instalar con está pyme versión 4",
+        "startMs": 184380,
+        "durationMs": 4190
+      },
+      {
+        "text": "modo mono usuario el asistente toma una ruta por defecto la cual podemos cambiar",
+        "startMs": 188570,
+        "durationMs": 6240
+      },
+      {
+        "text": "pero que lo más recomendable es dejarla que nos está mostrando",
+        "startMs": 194810,
+        "durationMs": 4580
+      },
+      {
+        "text": "damos clic en el botón siguiente ahora el asistente nos presenta la ruta",
+        "startMs": 199390,
+        "durationMs": 6300
+      },
+      {
+        "text": "en la cual se va a instalar la base de datos como aquí lo indica debe ser un",
+        "startMs": 205690,
+        "durationMs": 4500
+      },
+      {
+        "text": "disco duro de este computador de igual forma nos muestra una ruta por defecto",
+        "startMs": 210190,
+        "durationMs": 5430
+      },
+      {
+        "text": "la cual podemos cambiar pero que lo más recomendable es dejar esta ruta damos",
+        "startMs": 215620,
+        "durationMs": 9230
+      },
+      {
+        "text": "a continuación el asistente nos muestra la configuración actual con la que se",
+        "startMs": 224860,
+        "durationMs": 4820
+      },
+      {
+        "text": "realizará la instalación dentro de los datos que nos muestra tenemos el tipo de",
+        "startMs": 229680,
+        "durationMs": 5610
+      },
+      {
+        "text": "instalación que vamos a realizar que para este caso es sistema monousuario",
+        "startMs": 235290,
+        "durationMs": 5150
+      },
+      {
+        "text": "nos muestra también la carpeta en la cual se instalará el sistema e",
+        "startMs": 240440,
+        "durationMs": 4240
+      },
+      {
+        "text": "información adicional del usuario una vez hemos verificado que la",
+        "startMs": 244680,
+        "durationMs": 4600
+      },
+      {
+        "text": "configuración de instalación es correcta damos clic en el botón siguiente",
+        "startMs": 249280,
+        "durationMs": 7069
+      },
+      {
+        "text": "seguidamente el asistente nos solicita el número de licencia con el cual vamos",
+        "startMs": 256359,
+        "durationMs": 4941
+      },
+      {
+        "text": "a realizar la instalación del sistema como la instalación que estamos",
+        "startMs": 261300,
+        "durationMs": 3840
+      },
+      {
+        "text": "realizando es de la versión demostrativa debemos dar clic al botón asignar",
+        "startMs": 265140,
+        "durationMs": 5310
+      },
+      {
+        "text": "licencia de demostración la cual como nos indica el asistente",
+        "startMs": 270450,
+        "durationMs": 5660
+      },
+      {
+        "text": "activa las opciones básicas del sistema y el módulo de contabilidad por 90 días",
+        "startMs": 276110,
+        "durationMs": 6210
+      },
+      {
+        "text": "y el resto de las opciones aparente aparecerán desactivadas o limitadas",
+        "startMs": 282320,
+        "durationMs": 6130
+      },
+      {
+        "text": "vemos como nos queda entonces asignado el número de licencia y damos clic en el",
+        "startMs": 288450,
+        "durationMs": 4799
+      },
+      {
+        "text": "botón siguiente paso seguido vemos como efectivamente se",
+        "startMs": 293249,
+        "durationMs": 6101
+      },
+      {
+        "text": "inicia la instalación de con tape versión 4",
+        "startMs": 299350,
+        "durationMs": 8500
+      },
+      {
+        "text": "finalmente el asistente nos muestra una ventana en la que nos confirma que con",
+        "startMs": 307860,
+        "durationMs": 4380
+      },
+      {
+        "text": "está pyme monousuario versión 4 se ha instalado correctamente marcamos la",
+        "startMs": 312240,
+        "durationMs": 5580
+      },
+      {
+        "text": "vamos a buscar ahora a con está pyme para realizar la primera ejecución damos",
+        "startMs": 327360,
+        "durationMs": 5630
+      },
+      {
+        "text": "clic en el botón inicio y buscamos a con está pyme acá lo podemos encontrar",
+        "startMs": 317820,
+        "durationMs": 21799
+      },
+      {
+        "text": "también lo podemos hacer desde el escritorio con el icono que nos creó la",
+        "startMs": 339619,
+        "durationMs": 5850
+      },
+      {
+        "text": "instalación estamos doble clic al icono de con está",
+        "startMs": 345469,
+        "durationMs": 5021
+      },
+      {
+        "text": "y las muestra inicialmente la ventana de la primera ejecución en la cual",
+        "startMs": 350500,
+        "durationMs": 4520
+      },
+      {
+        "text": "definimos con qué configuración regional estará basada la creación de la primera",
+        "startMs": 355020,
+        "durationMs": 4560
+      },
+      {
+        "text": "área de trabajo elegimos el país y la configuración de plan de cuentas a",
+        "startMs": 359580,
+        "durationMs": 5220
+      },
+      {
+        "text": "utilizar y en la parte inferior definimos el nombre del área de trabajo",
+        "startMs": 364800,
+        "durationMs": 4710
+      },
+      {
+        "text": "y la ubicación en la cual se almacenará esa área de trabajo",
+        "startMs": 369510,
+        "durationMs": 5380
+      },
+      {
+        "text": "al completar estos datos damos click al botón crear área de trabajo",
+        "startMs": 374900,
+        "durationMs": 7630
+      },
+      {
+        "text": "ahora nos muestra la ventana de conexión en el campo servidor de datos iniciamos",
+        "startMs": 382540,
+        "durationMs": 6500
+      },
+      {
+        "text": "el nombre del servidor al cual nos vamos a conectar si deseamos cambiar el",
+        "startMs": 389040,
+        "durationMs": 4380
+      },
+      {
+        "text": "servidor de datos damos click al icono del computador que se encuentra",
+        "startMs": 393420,
+        "durationMs": 3960
+      },
+      {
+        "text": "enseguida del campo servidor de datos diligencia mos el nombre de usuario y",
+        "startMs": 397380,
+        "durationMs": 7140
+      },
+      {
+        "text": "contraseña confirmamos la contraseña",
+        "startMs": 404520,
+        "durationMs": 2630
+      },
+      {
+        "text": "y en la parte inferior elegimos el área de trabajo y la licencia con la cual nos",
+        "startMs": 407150,
+        "durationMs": 4830
+      },
+      {
+        "text": "vamos a conectar damos click al botón conectar",
+        "startMs": 411980,
+        "durationMs": 5410
+      },
+      {
+        "text": "vemos como efectivamente se inicia la conexión con el servidor inicialmente se",
+        "startMs": 417390,
+        "durationMs": 5609
+      },
+      {
+        "text": "hace una copia de seguridad y finalmente se presenta la aplicación para que",
+        "startMs": 422999,
+        "durationMs": 4111
+      },
+      {
+        "text": "empecemos a trabajar normalmente en ella esto es todo sobre instalación versión",
+        "startMs": 427110,
+        "durationMs": 9540
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\ninstalación versión demostrativa con está pyme 4\nla instalación de la versión demostrativa de contamine 4 permite\ntrabajar sobre el sistema para tener idea del funcionamiento características\ny funcionalidades que éste ofrece la instalación de la versión demostrativa\nimplementa el manejo del cliente servidor de manera local es decir en el\nmismo equipo instala el motor de la base de datos fiver\ny el sistema como tal la versión demostrativa se compone de\ntodos los catálogos opciones y herramientas básicas más el módulo de\ncontabilidad y su uso está restringido a 90 días a partir de la instalación en\neste vídeo veremos paso a paso cómo se realiza la instalación de la versión\ndemostrativa de contamine 4 tenemos el instalador llamado instalar\ncon está pyme mono usuario versión 4 exe damos doble clic al icono del instalador\ny vemos como inmediatamente se abre una nueva ventana la cual nos irá indicando\nlos pasos a seguir para la correcta instalación del sistema\ninicialmente se muestra una ventana de bienvenida la cual nos confirma que\nvamos a realizar la instalación de contable monousuario versión 4\nesa instalación como indica el asistente nos permitirá trabajar localmente sin\nnecesidad de un servidor de datos y adicional a esto nos permitirá\nconectarnos a otros servidores de datos de contacto\ndamos clic en el botón siguiente a continuación se presenta el contrato\nde licencia con todas las cláusulas de cumplimiento dispuestas para el sistema\ncon está pyme versión 4 es muy importante que el usuario lea y entienda\nlos términos de este contrato pues es el acuerdo entre el usuario en sus\nlimitadas para hacer uso de la licencia del sistema marcamos la opción aceptó\nlos términos del contrato de licencia y damos clic en el botón siguiente\nahora el asistente nos muestra una ventana que nos informa que el\ninstalador posee dos archivos que son debe expida 40 punto dll y asistencia in\nsoft punto exe este último es un componente de software que sirve para\nque el usuario solicita asistencia técnica a in soft cuando así lo\nrequieran como este componente utiliza funciones\nde acceso a internet algunos antivirus lo reportan como potencial amenaza pero\nrealmente no lo es en este instalador se hace la anotación por si en algún\nmomento al usuario su antivirus le reporta estos archivos no debe ser\nalarmante para el usuario pues no causará daño a su equipo damos clic en\nahora nos muestra la ruta en la cual se va a instalar con está pyme versión 4\nmodo mono usuario el asistente toma una ruta por defecto la cual podemos cambiar\npero que lo más recomendable es dejarla que nos está mostrando\ndamos clic en el botón siguiente ahora el asistente nos presenta la ruta\nen la cual se va a instalar la base de datos como aquí lo indica debe ser un\ndisco duro de este computador de igual forma nos muestra una ruta por defecto\nla cual podemos cambiar pero que lo más recomendable es dejar esta ruta damos\na continuación el asistente nos muestra la configuración actual con la que se\nrealizará la instalación dentro de los datos que nos muestra tenemos el tipo de\ninstalación que vamos a realizar que para este caso es sistema monousuario\nnos muestra también la carpeta en la cual se instalará el sistema e\ninformación adicional del usuario una vez hemos verificado que la\nconfiguración de instalación es correcta damos clic en el botón siguiente\nseguidamente el asistente nos solicita el número de licencia con el cual vamos\na realizar la instalación del sistema como la instalación que estamos\nrealizando es de la versión demostrativa debemos dar clic al botón asignar\nlicencia de demostración la cual como nos indica el asistente\nactiva las opciones básicas del sistema y el módulo de contabilidad por 90 días\ny el resto de las opciones aparente aparecerán desactivadas o limitadas\nvemos como nos queda entonces asignado el número de licencia y damos clic en el\nbotón siguiente paso seguido vemos como efectivamente se\ninicia la instalación de con tape versión 4\nfinalmente el asistente nos muestra una ventana en la que nos confirma que con\nestá pyme monousuario versión 4 se ha instalado correctamente marcamos la\nvamos a buscar ahora a con está pyme para realizar la primera ejecución damos\nclic en el botón inicio y buscamos a con está pyme acá lo podemos encontrar\ntambién lo podemos hacer desde el escritorio con el icono que nos creó la\ninstalación estamos doble clic al icono de con está\ny las muestra inicialmente la ventana de la primera ejecución en la cual\ndefinimos con qué configuración regional estará basada la creación de la primera\nárea de trabajo elegimos el país y la configuración de plan de cuentas a\nutilizar y en la parte inferior definimos el nombre del área de trabajo\ny la ubicación en la cual se almacenará esa área de trabajo\nal completar estos datos damos click al botón crear área de trabajo\nahora nos muestra la ventana de conexión en el campo servidor de datos iniciamos\nel nombre del servidor al cual nos vamos a conectar si deseamos cambiar el\nservidor de datos damos click al icono del computador que se encuentra\nenseguida del campo servidor de datos diligencia mos el nombre de usuario y\ncontraseña confirmamos la contraseña\ny en la parte inferior elegimos el área de trabajo y la licencia con la cual nos\nvamos a conectar damos click al botón conectar\nvemos como efectivamente se inicia la conexión con el servidor inicialmente se\nhace una copia de seguridad y finalmente se presenta la aplicación para que\nempecemos a trabajar normalmente en ella esto es todo sobre instalación versión"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 211.662,
+    "asr": 44100,
+    "filesizeApprox": 11576138,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2018",
+  "files": {
+    "year": "2018",
+    "kind": "videos",
+    "md": "videos/2018/Lph3ozdhpZM.md",
+    "json": "videos/2018/Lph3ozdhpZM.json",
+    "infoJson": "videos/2018/Lph3ozdhpZM.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "Lph3ozdhpZM",
+        "youtubeId": "Lph3ozdhpZM",
+        "titulo": "Software de contabilidad ContaPyme   Instalacion version demostrativa ContaPyme 4 0",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-06-05T17:10:08.871Z",
+  "apiBase": "https://clientesis-contapymeu.azurewebsites.net",
+  "coursesTotal": 1,
+  "coursesPlanFetched": 1,
+  "videosDiscovered": 7,
+  "videosSkippedInYoutubeCorpus": 0,
+  "videosEnrichedFromCorpus": 1,
+  "videosFetched": 0,
+  "videosErrors": 0,
+  "courses": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "planFetched": true,
+      "videoCount": 7
+    }
+  ]
+}

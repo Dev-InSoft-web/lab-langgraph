@@ -1,0 +1,782 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:26:37.135Z",
+  "videoId": "b72E5Wngy0U",
+  "videoUrl": "https://www.youtube.com/watch?v=b72E5Wngy0U",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "b72E5Wngy0U",
+    "title": "Software contable ContaPyme   Como instalar un Release de ContaPyme o AgroWin V4 0",
+    "fulltitle": "Software contable ContaPyme   Como instalar un Release de ContaPyme o AgroWin V4 0",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 428,
+    "duration_string": "7:08",
+    "upload_date": "20180713",
+    "timestamp": 1531511502,
+    "view_count": 11,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9F4JK5HUp5PA9FYUW8FRmRcX44w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKhsPObG1o3A1wQ2mHTL74t-rpzw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOa1B-6bpC9HO6jKDiU-VxVVGpIg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAU_d5biGU0SpDECe7OlyTRsrJcyw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ckmCQGzn0h_-uDGEt-gEffuXTA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAEjL1n5d0Gw_etHliTzMTLvsLXrg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpqe88gR_lCU6cNnzvjOsb3V0XEg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDr2KpIPBDFYoxakdviz1QAedW9Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/sddefault.jpg",
+        "preference": -5,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/b72E5Wngy0U/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/b72E5Wngy0U/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=b72E5Wngy0U",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2336448598130841,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20327102803738317,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20327102803738317,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 252.206,
+        "asr": 44100,
+        "filesize_approx": 13479527,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme   Como instalar un Release de ContaPyme o AgroWin V4 0",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/b72E5Wngy0U/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/b72E5Wngy0U?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme   Como instalar un Release de ContaPyme o AgroWin V4 0\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 72,
+    "transcriptChars": 4982,
+    "segments": [
+      {
+        "text": "cómo descargar e instalar un release de conta pyme o agro inversión 4",
+        "startMs": 370,
+        "durationMs": 6520
+      },
+      {
+        "text": "un release es una actualización al sistema que generalmente incluyen nuevos",
+        "startMs": 6890,
+        "durationMs": 5010
+      },
+      {
+        "text": "módulos informes catálogos y herramientas que adicionan funcionalidad",
+        "startMs": 11900,
+        "durationMs": 6350
+      },
+      {
+        "text": "también puede incluir mejoras en el funcionamiento velocidad y estabilidad",
+        "startMs": 18250,
+        "durationMs": 5109
+      },
+      {
+        "text": "del programa tenga en cuenta que en un ambiente de",
+        "startMs": 23359,
+        "durationMs": 4021
+      },
+      {
+        "text": "múltiples usuarios el release se debe instalar primero en el equipo servidor y",
+        "startMs": 27380,
+        "durationMs": 4889
+      },
+      {
+        "text": "luego proceder a instalarlo en cada equipo cliente",
+        "startMs": 32269,
+        "durationMs": 4161
+      },
+      {
+        "text": "recuerde que para poder descargar un nuevo release debe tener vigente su",
+        "startMs": 36430,
+        "durationMs": 4829
+      },
+      {
+        "text": "póliza de soporte actualización y mantenimiento",
+        "startMs": 41259,
+        "durationMs": 4851
+      },
+      {
+        "text": "para realizar la instalación de un release de con está pyme oa growing",
+        "startMs": 46120,
+        "durationMs": 3920
+      },
+      {
+        "text": "versión 4 debe seguir los pasos que se describen a continuación primero",
+        "startMs": 50040,
+        "durationMs": 6289
+      },
+      {
+        "text": "desinstalar el sistema con está pyme oa growing de su equipo para poder",
+        "startMs": 56329,
+        "durationMs": 5441
+      },
+      {
+        "text": "desinstalar debe tener cerrado el sistema y debe desinstalar el programa",
+        "startMs": 61770,
+        "durationMs": 5250
+      },
+      {
+        "text": "tanto del equipo servidor como de los equipos clientes",
+        "startMs": 67020,
+        "durationMs": 4500
+      },
+      {
+        "text": "para desinstalar el sistema damos clic en el botón de inicio",
+        "startMs": 71520,
+        "durationMs": 10360
+      },
+      {
+        "text": "y de la opción programas seleccionamos desinstalar un programa",
+        "startMs": 81890,
+        "durationMs": 6160
+      },
+      {
+        "text": "buscamos en la lista al programa con tap y me versión 4 como aquí podemos",
+        "startMs": 88050,
+        "durationMs": 5460
+      },
+      {
+        "text": "observar tenemos instalado servidor y cliente primero vamos a realizar la",
+        "startMs": 93510,
+        "durationMs": 5879
+      },
+      {
+        "text": "desinstalación del servidor nos ubicamos en el renglón y le decimos desinstalar",
+        "startMs": 99389,
+        "durationMs": 7331
+      },
+      {
+        "text": "se inicia el proceso de desinstalación del sistema para lo cual debemos esperar",
+        "startMs": 106720,
+        "durationMs": 7470
+      },
+      {
+        "text": "al desinstalar el programa vemos cómo desaparece de la lista de programas que",
+        "startMs": 114200,
+        "durationMs": 4909
+      },
+      {
+        "text": "tenemos instalados en nuestro equipo segundo realizar la descarga del nuevo",
+        "startMs": 119109,
+        "durationMs": 6790
+      },
+      {
+        "text": "release una vez hemos desinstalado el sistema debemos hacer el proceso de",
+        "startMs": 125899,
+        "durationMs": 5550
+      },
+      {
+        "text": "descarga del nuevo instalador desde la página de servicio al cliente para ello",
+        "startMs": 131449,
+        "durationMs": 13791
+      },
+      {
+        "text": "y elegimos la opción iniciar sesión que se encuentra en la parte superior",
+        "startMs": 145250,
+        "durationMs": 6490
+      },
+      {
+        "text": "derecha esta opción nos remite a la página de",
+        "startMs": 151740,
+        "durationMs": 6270
+      },
+      {
+        "text": "allí debemos iniciar sesión de usuario ingresando el correo electrónico",
+        "startMs": 158020,
+        "durationMs": 5390
+      },
+      {
+        "text": "registrado ante in shop limitada y la respectiva contraseña",
+        "startMs": 163410,
+        "durationMs": 7210
+      },
+      {
+        "startMs": 170630,
+        "durationMs": 6110,
+        "text": "y pulsamos el botón iniciar sesión"
+      },
+      {
+        "text": "al iniciar sesión satisfactoriamente debemos ubicarnos en la empresa",
+        "startMs": 176750,
+        "durationMs": 4880
+      },
+      {
+        "text": "correspondiente y buscar la opción instaladores no con está primer versión",
+        "startMs": 181630,
+        "durationMs": 4770
+      },
+      {
+        "text": "4 o instaladores nueva growing versión 4 según sea el caso",
+        "startMs": 186400,
+        "durationMs": 12060
+      },
+      {
+        "text": "en la nueva página que se presenta vamos a elegir el tipo de instalador que",
+        "startMs": 198470,
+        "durationMs": 5180
+      },
+      {
+        "text": "utilizamos para nuestro caso vamos a descargar el servidor de conta pyme y en",
+        "startMs": 203650,
+        "durationMs": 6060
+      },
+      {
+        "text": "cada uno de los equipos clientes vamos a descargar el cliente de conta pyme",
+        "startMs": 209710,
+        "durationMs": 5480
+      },
+      {
+        "text": "primero entonces en el equipo servidor damos clic en descargar server versión 4",
+        "startMs": 215190,
+        "durationMs": 8320
+      },
+      {
+        "text": "y pulsamos el botón ejecutar esperamos a que se realice la descarga",
+        "startMs": 223510,
+        "durationMs": 11710
+      },
+      {
+        "text": "siguiente aceptamos los términos del contrato de licencia siguiente siguiente",
+        "startMs": 239440,
+        "durationMs": 7349
+      },
+      {
+        "text": "siguiente en el paso que nos pregunta en donde vamos a almacenar la base de datos",
+        "startMs": 246789,
+        "durationMs": 6250
+      },
+      {
+        "text": "lo recomendable es dejar la ruta que el sistema determina por defecto pero si",
+        "startMs": 253039,
+        "durationMs": 5131
+      },
+      {
+        "text": "usted en la instalación anterior había definido una ruta diferente es necesario",
+        "startMs": 258170,
+        "durationMs": 5459
+      },
+      {
+        "text": "que en este paso vuelva a definir esa misma ruta damos clic en el botón",
+        "startMs": 263629,
+        "durationMs": 4500
+      },
+      {
+        "text": "siguiente siguiente no solicita el número de licencia y",
+        "startMs": 268129,
+        "durationMs": 6420
+      },
+      {
+        "text": "decimos siguiente aceptamos las instrucciones que nos",
+        "startMs": 274549,
+        "durationMs": 4890
+      },
+      {
+        "text": "presentan y damos clic en el botón instalar",
+        "startMs": 279439,
+        "durationMs": 4181
+      },
+      {
+        "text": "instalar se inicia el proceso de instalación del",
+        "startMs": 283620,
+        "durationMs": 2340
+      },
+      {
+        "text": "sistema para lo cual debemos esperar unos minutos",
+        "startMs": 285960,
+        "durationMs": 4470
+      },
+      {
+        "text": "damos clic en el botón finalizar para terminar el proceso de instalación y",
+        "startMs": 235230,
+        "durationMs": 60630
+      },
+      {
+        "text": "seguidamente debemos realizar la instalación del cliente con está pyme de",
+        "startMs": 295860,
+        "durationMs": 4740
+      },
+      {
+        "text": "igual forma en cada uno de los equipos clientes debemos realizar la instalación",
+        "startMs": 300600,
+        "durationMs": 8490
+      },
+      {
+        "text": "para conocer más acerca del proceso de instalación de contamine o agro un",
+        "startMs": 309100,
+        "durationMs": 4610
+      },
+      {
+        "text": "servidor cliente o un usuario por favor visualice los vídeos de estos",
+        "startMs": 313710,
+        "durationMs": 4650
+      },
+      {
+        "text": "temas en la plataforma de capacitación virtual interactiva",
+        "startMs": 318360,
+        "durationMs": 5030
+      },
+      {
+        "text": "como tercer y último paso debemos actualizar la base de datos",
+        "startMs": 323390,
+        "durationMs": 7090
+      },
+      {
+        "text": "una vez hemos terminado el proceso de instalación del servidor ejecutamos el",
+        "startMs": 330490,
+        "durationMs": 5240
+      },
+      {
+        "text": "sistema en la ventana de conexión definimos los datos de usuario",
+        "startMs": 335730,
+        "durationMs": 8760
+      },
+      {
+        "startMs": 344500,
+        "durationMs": 4700,
+        "text": "y pulsamos el botón conectar"
+      },
+      {
+        "text": "el sistema nos indica que ha detectado que los datos del área de trabajo están",
+        "startMs": 349210,
+        "durationMs": 4880
+      },
+      {
+        "text": "grabados en un release inferior al que tenemos instalado damos clic en el botón",
+        "startMs": 354090,
+        "durationMs": 5039
+      },
+      {
+        "text": "sí para realizar la actualización del área de trabajo",
+        "startMs": 359129,
+        "durationMs": 4201
+      },
+      {
+        "text": "además el sistema nos indica que como hemos instalado un nuevo release es",
+        "startMs": 363330,
+        "durationMs": 4980
+      },
+      {
+        "text": "necesario que esté sea activado para ello nos da 5 días de plazo vamos a",
+        "startMs": 368310,
+        "durationMs": 5760
+      },
+      {
+        "text": "decir iniciar el catálogo de licencias para activar la licencia en este momento",
+        "startMs": 374070,
+        "durationMs": 10780
+      },
+      {
+        "text": "vemos cómo se inicia el proceso de actualización del área de trabajo",
+        "startMs": 384860,
+        "durationMs": 6190
+      },
+      {
+        "text": "al finalizar damos clic en el botón cerrar",
+        "startMs": 391060,
+        "durationMs": 5230
+      },
+      {
+        "text": "se presenta el catálogo de licencias nos ubicamos en la licencia correspondiente",
+        "startMs": 396300,
+        "durationMs": 5750
+      },
+      {
+        "text": "y damos clic en el botón activar licencia",
+        "startMs": 402050,
+        "durationMs": 4109
+      },
+      {
+        "text": "licencia se carga el password en el campo",
+        "startMs": 406159,
+        "durationMs": 2340
+      },
+      {
+        "text": "password y damos clic en el botón aceptar",
+        "startMs": 408499,
+        "durationMs": 5331
+      },
+      {
+        "text": "vemos cómo se inicia el sistema ahora con el nuevo release para nuestro caso",
+        "startMs": 413840,
+        "durationMs": 5180
+      },
+      {
+        "text": "el release 3 esto es todo sobre cómo descargar e",
+        "startMs": 419020,
+        "durationMs": 4500
+      },
+      {
+        "text": "instalar un release de conta pymes o agro win versión 4",
+        "startMs": 423520,
+        "durationMs": 5700
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\ncómo descargar e instalar un release de conta pyme o agro inversión 4\nun release es una actualización al sistema que generalmente incluyen nuevos\nmódulos informes catálogos y herramientas que adicionan funcionalidad\ntambién puede incluir mejoras en el funcionamiento velocidad y estabilidad\ndel programa tenga en cuenta que en un ambiente de\nmúltiples usuarios el release se debe instalar primero en el equipo servidor y\nluego proceder a instalarlo en cada equipo cliente\nrecuerde que para poder descargar un nuevo release debe tener vigente su\npóliza de soporte actualización y mantenimiento\npara realizar la instalación de un release de con está pyme oa growing\nversión 4 debe seguir los pasos que se describen a continuación primero\ndesinstalar el sistema con está pyme oa growing de su equipo para poder\ndesinstalar debe tener cerrado el sistema y debe desinstalar el programa\ntanto del equipo servidor como de los equipos clientes\npara desinstalar el sistema damos clic en el botón de inicio\ny de la opción programas seleccionamos desinstalar un programa\nbuscamos en la lista al programa con tap y me versión 4 como aquí podemos\nobservar tenemos instalado servidor y cliente primero vamos a realizar la\ndesinstalación del servidor nos ubicamos en el renglón y le decimos desinstalar\nse inicia el proceso de desinstalación del sistema para lo cual debemos esperar\nal desinstalar el programa vemos cómo desaparece de la lista de programas que\ntenemos instalados en nuestro equipo segundo realizar la descarga del nuevo\nrelease una vez hemos desinstalado el sistema debemos hacer el proceso de\ndescarga del nuevo instalador desde la página de servicio al cliente para ello\ny elegimos la opción iniciar sesión que se encuentra en la parte superior\nderecha esta opción nos remite a la página de\nallí debemos iniciar sesión de usuario ingresando el correo electrónico\nregistrado ante in shop limitada y la respectiva contraseña\ny pulsamos el botón iniciar sesión\nal iniciar sesión satisfactoriamente debemos ubicarnos en la empresa\ncorrespondiente y buscar la opción instaladores no con está primer versión\n4 o instaladores nueva growing versión 4 según sea el caso\nen la nueva página que se presenta vamos a elegir el tipo de instalador que\nutilizamos para nuestro caso vamos a descargar el servidor de conta pyme y en\ncada uno de los equipos clientes vamos a descargar el cliente de conta pyme\nprimero entonces en el equipo servidor damos clic en descargar server versión 4\ny pulsamos el botón ejecutar esperamos a que se realice la descarga\nsiguiente aceptamos los términos del contrato de licencia siguiente siguiente\nsiguiente en el paso que nos pregunta en donde vamos a almacenar la base de datos\nlo recomendable es dejar la ruta que el sistema determina por defecto pero si\nusted en la instalación anterior había definido una ruta diferente es necesario\nque en este paso vuelva a definir esa misma ruta damos clic en el botón\nsiguiente siguiente no solicita el número de licencia y\ndecimos siguiente aceptamos las instrucciones que nos\npresentan y damos clic en el botón instalar\ninstalar se inicia el proceso de instalación del\nsistema para lo cual debemos esperar unos minutos\ndamos clic en el botón finalizar para terminar el proceso de instalación y\nseguidamente debemos realizar la instalación del cliente con está pyme de\nigual forma en cada uno de los equipos clientes debemos realizar la instalación\npara conocer más acerca del proceso de instalación de contamine o agro un\nservidor cliente o un usuario por favor visualice los vídeos de estos\ntemas en la plataforma de capacitación virtual interactiva\ncomo tercer y último paso debemos actualizar la base de datos\nuna vez hemos terminado el proceso de instalación del servidor ejecutamos el\nsistema en la ventana de conexión definimos los datos de usuario\ny pulsamos el botón conectar\nel sistema nos indica que ha detectado que los datos del área de trabajo están\ngrabados en un release inferior al que tenemos instalado damos clic en el botón\nsí para realizar la actualización del área de trabajo\nademás el sistema nos indica que como hemos instalado un nuevo release es\nnecesario que esté sea activado para ello nos da 5 días de plazo vamos a\ndecir iniciar el catálogo de licencias para activar la licencia en este momento\nvemos cómo se inicia el proceso de actualización del área de trabajo\nal finalizar damos clic en el botón cerrar\nse presenta el catálogo de licencias nos ubicamos en la licencia correspondiente\ny damos clic en el botón activar licencia\nlicencia se carga el password en el campo\npassword y damos clic en el botón aceptar\nvemos cómo se inicia el sistema ahora con el nuevo release para nuestro caso\nel release 3 esto es todo sobre cómo descargar e\ninstalar un release de conta pymes o agro win versión 4"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 252.206,
+    "asr": 44100,
+    "filesizeApprox": 13479527,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2018",
+  "files": {
+    "year": "2018",
+    "kind": "videos",
+    "md": "videos/2018/b72E5Wngy0U.md",
+    "json": "videos/2018/b72E5Wngy0U.json",
+    "infoJson": "videos/2018/b72E5Wngy0U.info.json"
+  }
+}

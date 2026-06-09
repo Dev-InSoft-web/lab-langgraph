@@ -6,14 +6,14 @@ import { spawnSync } from "node:child_process";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { conversationGraph } from "../src/lib/patyia/conversation/graph.js";
+import { conversationGraph } from "../src/lib/langlab/conversation/graph.js";
 import { buildProofreadGraph } from "../src/lib/youtube/proofread/graph.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT_DIRS = [join(ROOT, "docs", "diagrams"), join(ROOT, "frontend", "diagrams")];
 
 const GRAPHS: Array<{ name: string; graph?: { getGraph: () => { drawMermaid: () => string } } }> = [
-	{ name: "patyia-conversation", graph: conversationGraph },
+	{ name: "langlab-conversation", graph: conversationGraph },
 	{ name: "youtube-proofread", graph: buildProofreadGraph() },
 ];
 

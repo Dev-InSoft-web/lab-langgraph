@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:37:56.035Z",
+  "videoId": "me3YmDPVLYs",
+  "videoUrl": "https://www.youtube.com/watch?v=me3YmDPVLYs",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "me3YmDPVLYs",
+    "title": "Software contable ContaPyme - Operación de planilla de uso y/o consumos",
+    "fulltitle": "Software contable ContaPyme - Operación de planilla de uso y/o consumos",
+    "description": "http: //www.contapyme.com\nEn este video se explica cómo realizar la operación de planilla de uso y/o consumos. \nCP40-090-010-010",
+    "duration": 505,
+    "duration_string": "8:25",
+    "upload_date": "20170418",
+    "timestamp": 1492523405,
+    "view_count": 25,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "Sistema contable",
+      "Software contable",
+      "Sistema de contabilidad",
+      "Software para pymes",
+      "Sistema de gestión empresarial",
+      "Software para contadores",
+      "Programa contable",
+      "Software contable Colombia",
+      "Software contable y administrativo",
+      "Software NIIF",
+      "Normas internacionales de información financiera",
+      "NIIF",
+      "Software de facturación",
+      "Facturación",
+      "Sistema de facturación",
+      "Inventarios"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6-Kc-144hQCE1fS_TqTm2EnzfHQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCn2n-qHjWavC4WfKPsUlbs2AnMaQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBursLSPytfzLzTl_KdcQcPkUAcLg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB4CAsQksjnGtI1ATqwTL-loMeZ7A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyZtFCdiIlSPCUN9-2j5qVfm-7Rg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkYc-76s_2aNCH0YSYJok2Uuwjtg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIfxeXUj5RT-VwYSwpitqGUEUU5g",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_I59ZOoZGlHD3wR8MbOX5zhuHVA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/me3YmDPVLYs/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/me3YmDPVLYs/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=me3YmDPVLYs",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.19801980198019803,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20396039603960395,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20396039603960395,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 235.103,
+        "asr": 44100,
+        "filesize_approx": 14845285,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Operación de planilla de uso y/o consumos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/me3YmDPVLYs/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/me3YmDPVLYs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Operación de planilla de uso y/o consumos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 98,
+    "transcriptChars": 7028,
+    "segments": [
+      {
+        "text": "operación de planilla de uso y o consumos el objetivo de este video es",
+        "startMs": 880,
+        "durationMs": 5670
+      },
+      {
+        "text": "explicar cómo se realiza la operación de planilla de uso y o",
+        "startMs": 6550,
+        "durationMs": 4560
+      },
+      {
+        "text": "consumos la operación de planilla de uso yo consumos nos permite registrar en el",
+        "startMs": 11110,
+        "durationMs": 5159
+      },
+      {
+        "text": "sistema el uso y consumo principalmente de insumos y materiales que han salido",
+        "startMs": 16269,
+        "durationMs": 5361
+      },
+      {
+        "text": "del inventario durante la semana ya sea por consumo interno de la empresa o para",
+        "startMs": 21630,
+        "durationMs": 5680
+      },
+      {
+        "text": "un proceso productivo para realizar una operación de planilla",
+        "startMs": 27310,
+        "durationMs": 5759
+      },
+      {
+        "text": "de uso y o consumos debemos estar ubicados en el manejador de",
+        "startMs": 33069,
+        "durationMs": 4320
+      },
+      {
+        "text": "operaciones luego damos clic al botón más operaciones y en la pestaña compras",
+        "startMs": 37389,
+        "durationMs": 5561
+      },
+      {
+        "text": "encontramos el acceso a la operación de planilla de uso y o",
+        "startMs": 42950,
+        "durationMs": 5480
+      },
+      {
+        "text": "consumos en la parte superior de la operación encontraremos el encabezado el",
+        "startMs": 48430,
+        "durationMs": 4560
+      },
+      {
+        "text": "cual es común para casi todas las operaciones del sistema allí debemos",
+        "startMs": 52990,
+        "durationMs": 4199
+      },
+      {
+        "text": "indicar datos como el tipo de documento de soporte la fecha de soporte de la",
+        "startMs": 57189,
+        "durationMs": 5601
+      },
+      {
+        "text": "transacción y el detalle luego encontramos el campo para",
+        "startMs": 62790,
+        "durationMs": 4560
+      },
+      {
+        "text": "indicar la bodega de la cual saldrán los productos a consumir es de aclarar que",
+        "startMs": 67350,
+        "durationMs": 5280
+      },
+      {
+        "text": "también es posible habilitar en la zona de registro una columna de bodega para",
+        "startMs": 72630,
+        "durationMs": 4880
+      },
+      {
+        "text": "especificar por cada elemento de inventario la bodega de egreso también",
+        "startMs": 77510,
+        "durationMs": 4599
+      },
+      {
+        "text": "encontramos el campo en el cual podemos cargar algún documento Referencia para",
+        "startMs": 82109,
+        "durationMs": 4441
+      },
+      {
+        "text": "el consumo de los elementos Como por ejemplo una requisi ión interna debajo",
+        "startMs": 86550,
+        "durationMs": 5080
+      },
+      {
+        "text": "de este campo podemos indicar el tercero responsable por el consumo de los",
+        "startMs": 91630,
+        "durationMs": 3960
+      },
+      {
+        "text": "elementos de esta planilla en la barra de botones de la operación encontraremos",
+        "startMs": 95590,
+        "durationMs": 5000
+      },
+      {
+        "text": "entre varias opciones un botón para borrar los datos del renglón",
+        "startMs": 100590,
+        "durationMs": 3680
+      },
+      {
+        "text": "seleccionado un botón para cargar los productos asociados a la requisición",
+        "startMs": 104270,
+        "durationMs": 4720
+      },
+      {
+        "text": "interna que hayamos cargado como referencia y un botón para verificar por",
+        "startMs": 108990,
+        "durationMs": 4680
+      },
+      {
+        "text": "cada renglón si hay existencias suficientes del producto para poder ser",
+        "startMs": 113670,
+        "durationMs": 4520
+      },
+      {
+        "text": "consumido el la zona de registro encontraremos las columnas para indicar",
+        "startMs": 118190,
+        "durationMs": 4440
+      },
+      {
+        "text": "la información sobre los productos que vamos a consumir tenemos la columna en",
+        "startMs": 122630,
+        "durationMs": 4759
+      },
+      {
+        "text": "la cual debemos cargar el producto a consumir luego encontramos la columna en",
+        "startMs": 127389,
+        "durationMs": 5241
+      },
+      {
+        "text": "la cual se carga la unidad en la que se mide el producto después encontramos la",
+        "startMs": 132630,
+        "durationMs": 4920
+      },
+      {
+        "text": "columna donde indicamos el centro de costos en el cual se utilizó el insumo o",
+        "startMs": 137550,
+        "durationMs": 4600
+      },
+      {
+        "text": "material luego tenemos la columna en la cual se indicaría la labor que se",
+        "startMs": 142150,
+        "durationMs": 4880
+      },
+      {
+        "text": "realizó con el insumo utilizado este campo solo se activa si contamos en",
+        "startMs": 147030,
+        "durationMs": 4919
+      },
+      {
+        "text": "nuestro licenciamiento con el módulo de actividades y labores a continuación",
+        "startMs": 151949,
+        "durationMs": 4801
+      },
+      {
+        "text": "encontraremos la zona de cantidad aplicada del producto con los días de la",
+        "startMs": 156750,
+        "durationMs": 4240
+      },
+      {
+        "text": "semana en donde indicamos por cada día la cantidad del elemento que estamos",
+        "startMs": 160990,
+        "durationMs": 4480
+      },
+      {
+        "text": "usando o consumiendo o podemos indicar en un solo día la cantidad que se",
+        "startMs": 165470,
+        "durationMs": 4960
+      },
+      {
+        "text": "consumió o usó en la semana enseguida encontraremos la columna donde se",
+        "startMs": 170430,
+        "durationMs": 5480
+      },
+      {
+        "text": "totaliza la cantidad de producto consumido y por último tenemos la",
+        "startMs": 175910,
+        "durationMs": 4640
+      },
+      {
+        "text": "columna de observaciones En la parte inferior de la operación encontraremos",
+        "startMs": 180550,
+        "durationMs": 4920
+      },
+      {
+        "text": "la barra de funciones y finalmente la barra de estado de la",
+        "startMs": 185470,
+        "durationMs": 4600
+      },
+      {
+        "text": "realizaremos un ejemplo registraremos una planilla de",
+        "startMs": 194470,
+        "durationMs": 4319
+      },
+      {
+        "text": "uso y o consumos el día 19 de enero de 2016 vamos a sacar de la bodega 3es de",
+        "startMs": 190070,
+        "durationMs": 15280
+      },
+      {
+        "text": "insumos y materiales cuatro resmas de papel las cuales fueron solicitadas por",
+        "startMs": 205350,
+        "durationMs": 5360
+      },
+      {
+        "text": "la empleada Gloria Elena Zapata Aguirre y serán utilizadas en el departamento de",
+        "startMs": 210710,
+        "durationMs": 4920
+      },
+      {
+        "text": "contabilidad y tesorería estando nuevamente ubicados en",
+        "startMs": 215630,
+        "durationMs": 4599
+      },
+      {
+        "text": "la operación de planilla de uso y o consumos verificamos el documento de",
+        "startMs": 220229,
+        "durationMs": 4441
+      },
+      {
+        "text": "soporte de nuestra operación que en este caso es el documento 160 de planilla de",
+        "startMs": 224670,
+        "durationMs": 5520
+      },
+      {
+        "text": "consumos el sistema Calcula automáticamente el número del",
+        "startMs": 230190,
+        "durationMs": 3959
+      },
+      {
+        "text": "consecutivo en la fecha de soporte de la transacción vamos a cambiar al día 19",
+        "startMs": 234149,
+        "durationMs": 5681
+      },
+      {
+        "text": "enero de 2016 en el detalle escribiremos consumo",
+        "startMs": 239830,
+        "durationMs": 5560
+      },
+      {
+        "text": "cargar la bodega de la cual vamos a sacar los productos a consumir abrimos",
+        "startMs": 250229,
+        "durationMs": 5641
+      },
+      {
+        "text": "el seleccionador Y en este caso será la",
+        "startMs": 255870,
+        "durationMs": 2359
+      },
+      {
+        "text": "bodega tres de insumos y materiales damos doble clic para",
+        "startMs": 258229,
+        "durationMs": 4680
+      },
+      {
+        "text": "seleccionarla para este ejemplo no vamos a cargar una requisición interna como",
+        "startMs": 262909,
+        "durationMs": 4681
+      },
+      {
+        "text": "referencia luego vamos a cargar el tercero responsable de los elementos a",
+        "startMs": 267590,
+        "durationMs": 4480
+      },
+      {
+        "text": "consumir en este caso es la señora Gloria Elena Zapata del departamento de",
+        "startMs": 272070,
+        "durationMs": 9440
+      },
+      {
+        "text": "seleccionador y vamos a escoger al tercero Gloria Lena Zapata",
+        "startMs": 281520,
+        "durationMs": 4430
+      },
+      {
+        "text": "Aguirre a continuación procedemos a cargar el elemento a consumir nos",
+        "startMs": 285950,
+        "durationMs": 5160
+      },
+      {
+        "text": "ubicamos en la celda de elemento aplicado usado y abrimos el",
+        "startMs": 291110,
+        "durationMs": 4079
+      },
+      {
+        "text": "seleccionador de elementos de inventario debemos tener en cuenta que",
+        "startMs": 295189,
+        "durationMs": 4521
+      },
+      {
+        "text": "que el sistema solo cargará aquellos elementos de inventario que estén",
+        "startMs": 299710,
+        "durationMs": 3800
+      },
+      {
+        "text": "marcados como de consumo o materia prima vamos a seleccionar el elemento resmas",
+        "startMs": 303510,
+        "durationMs": 6519
+      },
+      {
+        "text": "de papel con la tecla enter nos desplazamos",
+        "startMs": 310029,
+        "durationMs": 2761
+      },
+      {
+        "text": "a la siguiente columna en la cual debemos indicar el centro de costos en",
+        "startMs": 312790,
+        "durationMs": 4119
+      },
+      {
+        "text": "el cual se consumirán los elementos abrimos el",
+        "startMs": 316909,
+        "durationMs": 4041
+      },
+      {
+        "text": "seleccionador Y en este caso será el centro de costos contabilidad y",
+        "startMs": 320950,
+        "durationMs": 5239
+      },
+      {
+        "text": "tesorería ahora vamos a cargar las cantidades de producto consumir",
+        "startMs": 326189,
+        "durationMs": 4401
+      },
+      {
+        "text": "recordemos que podemos cargar por cada día de la semana la cantidad consumida o",
+        "startMs": 330590,
+        "durationMs": 4080
+      },
+      {
+        "text": "a consumir o indicar toda la cantidad en un solo día de la semana en este caso",
+        "startMs": 334670,
+        "durationMs": 5359
+      },
+      {
+        "text": "vamos a indicar La cantidad completa a consumir en la celda del día lunes",
+        "startMs": 340029,
+        "durationMs": 4841
+      },
+      {
+        "text": "escribimos cuatro vemos Que en la celda de total se muestran las cuatro",
+        "startMs": 344870,
+        "durationMs": 6400
+      },
+      {
+        "text": "cantidades indicadas antes de procesar la operación",
+        "startMs": 351270,
+        "durationMs": 2720
+      },
+      {
+        "text": "vamos a visualizar el documento de impresión para ello podemos dar clic al",
+        "startMs": 245390,
+        "durationMs": 112919
+      },
+      {
+        "text": "botón imprimir ubicar en la barra de estado de la operación o podemos",
+        "startMs": 358309,
+        "durationMs": 4081
+      },
+      {
+        "text": "utilizar el comando control y el sistema abre el seleccionador de",
+        "startMs": 362390,
+        "durationMs": 5799
+      },
+      {
+        "text": "documentos de impresión y nos sugiere por defecto el documento 180 de salida",
+        "startMs": 368189,
+        "durationMs": 5280
+      },
+      {
+        "text": "de almacén recordemos que podemos cambiar el documento de ser necesario",
+        "startMs": 373469,
+        "durationMs": 5041
+      },
+      {
+        "text": "damos clic al botón vista previa ampliamos la vista del documento",
+        "startMs": 378510,
+        "durationMs": 6920
+      },
+      {
+        "text": "y vemos como el sistema carga todos los datos de la transacción tenemos el",
+        "startMs": 385430,
+        "durationMs": 4560
+      },
+      {
+        "text": "nombre y el número del consecutivo del documento la fecha del",
+        "startMs": 389990,
+        "durationMs": 5000
+      },
+      {
+        "text": "documento el tercero responsable de los elementos a",
+        "startMs": 394990,
+        "durationMs": 4440
+      },
+      {
+        "text": "consumir la bodega a la cual salieron los elementos a consumir y el listado de",
+        "startMs": 399430,
+        "durationMs": 5640
+      },
+      {
+        "text": "los elementos con el centro de costos en el cual se consumieron los elementos el",
+        "startMs": 405070,
+        "durationMs": 5399
+      },
+      {
+        "text": "código del producto la descripción del producto la cantidad y el",
+        "startMs": 410469,
+        "durationMs": 6481
+      },
+      {
+        "text": "costo cerramos la vista previa y verificamos que el botón",
+        "startMs": 416950,
+        "durationMs": 12280
+      },
+      {
+        "text": "autopresentación de planilla de uso y o consumos verificamos el movimiento",
+        "startMs": 429240,
+        "durationMs": 5150
+      },
+      {
+        "text": "contable de la operación a través del inspector de datos damos clic al botón",
+        "startMs": 434390,
+        "durationMs": 8760
+      },
+      {
+        "text": "contable podemos ver que el sistema ha cargado de forma automática todos los",
+        "startMs": 443160,
+        "durationMs": 4390
+      },
+      {
+        "text": "inventarios la salida por consumo del producto y ha debitado este valor a la",
+        "startMs": 452029,
+        "durationMs": 5440
+      },
+      {
+        "text": "cuenta de consumos que en este caso es una cuenta del gasto vamos a volver al",
+        "startMs": 447550,
+        "durationMs": 15039
+      },
+      {
+        "text": "manejador de operaciones y en el botón ver movimiento contable desplegamos la",
+        "startMs": 462589,
+        "durationMs": 4880
+      },
+      {
+        "text": "flecha hacia abajo para ingresar al movimiento de",
+        "startMs": 467469,
+        "durationMs": 5321
+      },
+      {
+        "text": "inventarios en ese movimiento podemos ver la salida del elemento de inventario",
+        "startMs": 472800,
+        "durationMs": 4550
+      },
+      {
+        "text": "de la bodega 3es de insumo y materiales finalmente recordemos que la",
+        "startMs": 477350,
+        "durationMs": 5440
+      },
+      {
+        "text": "operación de planilla de uso y o consumos la podremos encontrar",
+        "startMs": 482790,
+        "durationMs": 3920
+      },
+      {
+        "text": "ingresando al manejador de operaciones botón más operaciones",
+        "startMs": 486710,
+        "durationMs": 5319
+      },
+      {
+        "text": "pestaña compras y allí encontramos el acceso a la operación de planilla de uso",
+        "startMs": 492029,
+        "durationMs": 4761
+      },
+      {
+        "text": "y o consumos esto es todo acerca de la",
+        "startMs": 496790,
+        "durationMs": 4799
+      },
+      {
+        "text": "operación de planilla de uso y o consumos",
+        "startMs": 501589,
+        "durationMs": 5131
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp: //www.contapyme.com\nEn este video se explica cómo realizar la operación de planilla de uso y/o consumos. \nCP40-090-010-010\n\n## Transcripción\n\noperación de planilla de uso y o consumos el objetivo de este video es\nexplicar cómo se realiza la operación de planilla de uso y o\nconsumos la operación de planilla de uso yo consumos nos permite registrar en el\nsistema el uso y consumo principalmente de insumos y materiales que han salido\ndel inventario durante la semana ya sea por consumo interno de la empresa o para\nun proceso productivo para realizar una operación de planilla\nde uso y o consumos debemos estar ubicados en el manejador de\noperaciones luego damos clic al botón más operaciones y en la pestaña compras\nencontramos el acceso a la operación de planilla de uso y o\nconsumos en la parte superior de la operación encontraremos el encabezado el\ncual es común para casi todas las operaciones del sistema allí debemos\nindicar datos como el tipo de documento de soporte la fecha de soporte de la\ntransacción y el detalle luego encontramos el campo para\nindicar la bodega de la cual saldrán los productos a consumir es de aclarar que\ntambién es posible habilitar en la zona de registro una columna de bodega para\nespecificar por cada elemento de inventario la bodega de egreso también\nencontramos el campo en el cual podemos cargar algún documento Referencia para\nel consumo de los elementos Como por ejemplo una requisi ión interna debajo\nde este campo podemos indicar el tercero responsable por el consumo de los\nelementos de esta planilla en la barra de botones de la operación encontraremos\nentre varias opciones un botón para borrar los datos del renglón\nseleccionado un botón para cargar los productos asociados a la requisición\ninterna que hayamos cargado como referencia y un botón para verificar por\ncada renglón si hay existencias suficientes del producto para poder ser\nconsumido el la zona de registro encontraremos las columnas para indicar\nla información sobre los productos que vamos a consumir tenemos la columna en\nla cual debemos cargar el producto a consumir luego encontramos la columna en\nla cual se carga la unidad en la que se mide el producto después encontramos la\ncolumna donde indicamos el centro de costos en el cual se utilizó el insumo o\nmaterial luego tenemos la columna en la cual se indicaría la labor que se\nrealizó con el insumo utilizado este campo solo se activa si contamos en\nnuestro licenciamiento con el módulo de actividades y labores a continuación\nencontraremos la zona de cantidad aplicada del producto con los días de la\nsemana en donde indicamos por cada día la cantidad del elemento que estamos\nusando o consumiendo o podemos indicar en un solo día la cantidad que se\nconsumió o usó en la semana enseguida encontraremos la columna donde se\ntotaliza la cantidad de producto consumido y por último tenemos la\ncolumna de observaciones En la parte inferior de la operación encontraremos\nla barra de funciones y finalmente la barra de estado de la\nrealizaremos un ejemplo registraremos una planilla de\nuso y o consumos el día 19 de enero de 2016 vamos a sacar de la bodega 3es de\ninsumos y materiales cuatro resmas de papel las cuales fueron solicitadas por\nla empleada Gloria Elena Zapata Aguirre y serán utilizadas en el departamento de\ncontabilidad y tesorería estando nuevamente ubicados en\nla operación de planilla de uso y o consumos verificamos el documento de\nsoporte de nuestra operación que en este caso es el documento 160 de planilla de\nconsumos el sistema Calcula automáticamente el número del\nconsecutivo en la fecha de soporte de la transacción vamos a cambiar al día 19\nenero de 2016 en el detalle escribiremos consumo\ncargar la bodega de la cual vamos a sacar los productos a consumir abrimos\nel seleccionador Y en este caso será la\nbodega tres de insumos y materiales damos doble clic para\nseleccionarla para este ejemplo no vamos a cargar una requisición interna como\nreferencia luego vamos a cargar el tercero responsable de los elementos a\nconsumir en este caso es la señora Gloria Elena Zapata del departamento de\nseleccionador y vamos a escoger al tercero Gloria Lena Zapata\nAguirre a continuación procedemos a cargar el elemento a consumir nos\nubicamos en la celda de elemento aplicado usado y abrimos el\nseleccionador de elementos de inventario debemos tener en cuenta que\nque el sistema solo cargará aquellos elementos de inventario que estén\nmarcados como de consumo o materia prima vamos a seleccionar el elemento resmas\nde papel con la tecla enter nos desplazamos\na la siguiente columna en la cual debemos indicar el centro de costos en\nel cual se consumirán los elementos abrimos el\nseleccionador Y en este caso será el centro de costos contabilidad y\ntesorería ahora vamos a cargar las cantidades de producto consumir\nrecordemos que podemos cargar por cada día de la semana la cantidad consumida o\na consumir o indicar toda la cantidad en un solo día de la semana en este caso\nvamos a indicar La cantidad completa a consumir en la celda del día lunes\nescribimos cuatro vemos Que en la celda de total se muestran las cuatro\ncantidades indicadas antes de procesar la operación\nvamos a visualizar el documento de impresión para ello podemos dar clic al\nbotón imprimir ubicar en la barra de estado de la operación o podemos\nutilizar el comando control y el sistema abre el seleccionador de\ndocumentos de impresión y nos sugiere por defecto el documento 180 de salida\nde almacén recordemos que podemos cambiar el documento de ser necesario\ndamos clic al botón vista previa ampliamos la vista del documento\ny vemos como el sistema carga todos los datos de la transacción tenemos el\nnombre y el número del consecutivo del documento la fecha del\ndocumento el tercero responsable de los elementos a\nconsumir la bodega a la cual salieron los elementos a consumir y el listado de\nlos elementos con el centro de costos en el cual se consumieron los elementos el\ncódigo del producto la descripción del producto la cantidad y el\ncosto cerramos la vista previa y verificamos que el botón\nautopresentación de planilla de uso y o consumos verificamos el movimiento\ncontable de la operación a través del inspector de datos damos clic al botón\ncontable podemos ver que el sistema ha cargado de forma automática todos los\ninventarios la salida por consumo del producto y ha debitado este valor a la\ncuenta de consumos que en este caso es una cuenta del gasto vamos a volver al\nmanejador de operaciones y en el botón ver movimiento contable desplegamos la\nflecha hacia abajo para ingresar al movimiento de\ninventarios en ese movimiento podemos ver la salida del elemento de inventario\nde la bodega 3es de insumo y materiales finalmente recordemos que la\noperación de planilla de uso y o consumos la podremos encontrar\ningresando al manejador de operaciones botón más operaciones\npestaña compras y allí encontramos el acceso a la operación de planilla de uso\ny o consumos esto es todo acerca de la\noperación de planilla de uso y o consumos"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 235.103,
+    "asr": 44100,
+    "filesizeApprox": 14845285,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/me3YmDPVLYs.md",
+    "json": "videos/2017/me3YmDPVLYs.json",
+    "infoJson": "videos/2017/me3YmDPVLYs.info.json"
+  }
+}

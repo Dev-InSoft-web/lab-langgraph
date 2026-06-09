@@ -3,20 +3,23 @@ const LabPage = window.Lab.LabPage;
 
 const DIAGRAMS = [
 	{
-		id: "patyia-conversation",
-		title: "patyia-conversation",
-		mmd: "diagrams/patyia-conversation.mmd",
-		png: "diagrams/patyia-conversation.png",
+		id: "langlab-conversation",
+		title: "LangLab · conversación",
+		subtitle: "ensureConversation → classifyMessage → resolveCorpus → runAgent → buildTurnLog → persistTurn",
+		mmd: "diagrams/langlab-conversation.mmd",
+		png: "diagrams/langlab-conversation.png",
 	},
 	{
 		id: "youtube-proofread",
-		title: "youtube-proofread",
+		title: "YouTube · proofread",
+		subtitle: "Grafo de revisión de transcripciones",
 		mmd: "diagrams/youtube-proofread.mmd",
 		png: "diagrams/youtube-proofread.png",
 	},
 	{
 		id: "orchestrator-cascade",
-		title: "orchestrator-cascade",
+		title: "Orquestador · cascade",
+		subtitle: "Rotación de API keys por capability",
 		mmd: "diagrams/orchestrator-cascade.mmd",
 		png: "diagrams/orchestrator-cascade.png",
 	},
@@ -43,6 +46,11 @@ function DiagramsPage() {
 					<Typography variant="h6" gutterBottom>
 						{d.title}
 					</Typography>
+					{d.subtitle && (
+						<Typography variant="caption" color="text.secondary" display="block" sx={{ mb: 1 }}>
+							{d.subtitle}
+						</Typography>
+					)}
 					<Typography variant="body2" sx={{ mb: 1 }}>
 						<Link href={d.mmd} target="_blank" rel="noopener">
 							{d.mmd}

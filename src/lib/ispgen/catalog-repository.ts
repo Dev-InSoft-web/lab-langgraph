@@ -5,14 +5,14 @@ import {
 	Q_LAB_STORE_SECTION,
 } from "../db/pg-identifiers.js";
 import { sqlCol } from "../db/pg-quote.js";
-import { ensurePatySchema } from "../db/ensure-schemas.js";
+import { ensureLanglabSchema } from "../db/ensure-schemas.js";
 import type { EntityDefinitionRecord, StoreProjectRecord, StoreSectionRecord } from "./catalog-types.js";
 
 let catalogReady = false;
 
 export async function ensureCatalogSchema(): Promise<void> {
 	if (catalogReady) return;
-	await ensurePatySchema();
+	await ensureLanglabSchema();
 	catalogReady = true;
 }
 

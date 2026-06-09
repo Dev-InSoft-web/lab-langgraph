@@ -3,7 +3,7 @@
  *   npx tsx scripts/db-nomenclature-status.mts
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { getPatyPgPool, pingPatyDb } from "../src/lib/db/pg.js";
 
 preloadLabSecrets();
@@ -19,7 +19,7 @@ function maskUrl(url: string): string {
 
 let dbUrl: string;
 try {
-	dbUrl = getPatyDatabaseUrl();
+	dbUrl = getLanglabDatabaseUrl();
 } catch (e) {
 	console.error("Sin PATY_DATABASE_URL / DATABASE_URL:", e);
 	process.exit(1);
@@ -46,21 +46,29 @@ for (const { nspname } of schemas.rows) {
 }
 
 const legacy = await pool.query<{ n: number }>(
-	`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname IN ('bd_lab','bd_paty','bd_clientesis','bd_rag')`,
+	`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname IN ('bd_lab','BD_LANGLAB','bd_clientesis','bd_rag')`,
 );
 const nuevo = await pool.query<{ n: number }>(
-	`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname IN ('BD_LAB','BD_PATY','BD_CLIENTESIS','BD_RAG')`,
+	`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname IN ('BD_LAB','BD_LANGLAB','BD_CLIENTESIS','BD_RAG')`,
 );
 console.log(`\nTablas legacy (bd_*): ${legacy.rows[0]?.n ?? 0}`);
 console.log(`Tablas BD_*: ${nuevo.rows[0]?.n ?? 0}`);
 
 const er = await pool.query(
 	`SELECT column_name FROM information_schema.columns
-	 WHERE table_schema = 'BD_LAB' AND table_name = 'ENTITY_ENTITYROW' ORDER BY ordinal_position`,
+	 WHERE table_schema = 'BD_ISADOC' AND table_name = 'ENTITY_ROW' ORDER BY ordinal_position`,
 );
 if (er.rows.length) {
-	console.log("\nBD_LAB.ENTITY_ENTITYROW:", er.rows.map((r: { column_name: string }) => r.column_name).join(", "));
+	console.log("\nBD_ISADOC.ENTITY_ROW:", er.rows.map((r: { column_name: string }) => r.column_name).join(", "));
 } else {
+	const legacyEr = await pool.query(
+		`SELECT column_name FROM information_schema.columns
+		 WHERE table_schema IN ('BD_PATY','BD_LANGLAB') AND table_name = 'ENTITY_ROW' ORDER BY ordinal_position LIMIT 1`,
+	);
+	if (legacyEr.rows.length) {
+		console.log("\n[LEGACY] ENTITY_ROW fuera de BD_ISADOC — ejecutar: npm run db:apply-pg-ops");
+		process.exit(1);
+	}
 	const old = await pool.query(
 		`SELECT column_name FROM information_schema.columns
 		 WHERE table_schema = 'bd_lab' AND table_name = 'lab_entity_row' ORDER BY ordinal_position`,
@@ -70,7 +78,7 @@ if (er.rows.length) {
 		console.log("\n→ Ejecutar: npm run db:migrate-nomenclature");
 		process.exit(1);
 	}
-	console.log("\n[WARN] No hay ENTITY_ENTITYROW ni lab_entity_row");
+	console.log("\n[WARN] No hay ENTITY_ROW ni lab_entity_row");
 	process.exit(1);
 }
 

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "AOIL4r2PYFA",
+  "youtubeId": "AOIL4r2PYFA",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:16:46.596Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2011/AOIL4r2PYFA.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "AOIL4r2PYFA",
+      "youtubeId": "AOIL4r2PYFA",
+      "titulo": "AOIL4r2PYFA",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

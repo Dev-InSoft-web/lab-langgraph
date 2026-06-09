@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T19:05:57.649Z",
+  "videoId": "AYrBrsHtWKU",
+  "videoUrl": "https://www.youtube.com/watch?v=AYrBrsHtWKU",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "AYrBrsHtWKU",
+    "title": "Configuración de tipos de terceros",
+    "fulltitle": "Configuración de tipos de terceros",
+    "description": "Descubre cómo clasificar correctamente los tipos de terceros en ContaPyme de manera fácil y clara. En este tutorial, te explicaremos paso a paso cómo organizarlos dentro del software para que gestiones la información sin complicaciones. Aprenderás a reconocer los distintos tipos de terceros, incluyendo cómo identificar los perfiles de clientes y clasificar los diferentes tipos de proveedores. Conoce más de nuestras soluciones entrando a www.contapyme.com",
+    "duration": 251,
+    "duration_string": "4:11",
+    "upload_date": "20250327",
+    "timestamp": 1743092609,
+    "view_count": 8,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwYthZQw1ytxQt5BdJzqYtrmvmfQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBZZ_FV02LwItyGrWOheaRRzLF4lQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBCb8zyR9n3WFoePhasmqNvobJbw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLACs1b9WAQLZ0WUTEVz3TIQkzi5ng",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABL-w2CcgH4X7PDBCMBxbfBcvvsA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2rzNKMTPhtExIsF6Mg6Palzq-ig",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzpFd9jr9nlwO8RGRVW12CxJnY3w",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBi3tas5ZG-grseqTOd87sJa4hGEw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AYrBrsHtWKU/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AYrBrsHtWKU/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=AYrBrsHtWKU",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.398406374501992,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.5059760956175299,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.5059760956175299,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "320x180",
+        "width": 320,
+        "height": 180,
+        "fps": 0.5059760956175299,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 152.758,
+        "asr": 22050,
+        "filesize": 4784935,
+        "filesize_approx": 4784934,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Configuración de tipos de terceros",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/AYrBrsHtWKU/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AYrBrsHtWKU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Configuración de tipos de terceros\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 47,
+    "transcriptChars": 3920,
+    "segments": [
+      {
+        "text": "configuración de tipos de tercero en cont",
+        "startMs": 1000,
+        "durationMs": 3150
+      },
+      {
+        "text": "cont pime en nuestras empresas tenemos",
+        "startMs": 4150,
+        "durationMs": 3000
+      },
+      {
+        "text": "relación con muchos terceros esos terceros son cualquier persona natural o",
+        "startMs": 7150,
+        "durationMs": 4880
+      },
+      {
+        "text": "jurídica que tenga un vínculo con Nuestra Empresa dentro de esos tipos de",
+        "startMs": 12030,
+        "durationMs": 4760
+      },
+      {
+        "text": "terceros nosotros podemos tener nuestros clientes proveedores empleados",
+        "startMs": 16790,
+        "durationMs": 5639
+      },
+      {
+        "text": "interesados vendedores y otros tipos de tercero que necesitemos en contapyme",
+        "startMs": 22429,
+        "durationMs": 5801
+      },
+      {
+        "text": "sabemos la importancia de clasificar y categorizar correctamente estos terceros",
+        "startMs": 28230,
+        "durationMs": 6080
+      },
+      {
+        "text": "por eso cuando escogemos un tipo de tercero vamos a tener unos datos",
+        "startMs": 34310,
+        "durationMs": 4880
+      },
+      {
+        "text": "contapyme para que revisemos cómo funciona una vez en contapyme vamos a ir",
+        "startMs": 44470,
+        "durationMs": 5759
+      },
+      {
+        "text": "a la pestaña de básico y al catálogo de terceros para este ejemplo yo voy a",
+        "startMs": 50229,
+        "durationMs": 6320
+      },
+      {
+        "text": "tomar uno de los terceros que ya están creados en mi base de datos voy a tomar",
+        "startMs": 56549,
+        "durationMs": 4761
+      },
+      {
+        "text": "al señor José alveiro pulgarín Voy a darle modificar y como podemos ver él",
+        "startMs": 61310,
+        "durationMs": 5839
+      },
+      {
+        "text": "dentro de su tipo de terceros ya tiene habilitada la opción de cliente y esa",
+        "startMs": 67149,
+        "durationMs": 4280
+      },
+      {
+        "text": "opción lo que hace Es que yo tenga una pestaña donde me muestra los datos del",
+        "startMs": 71429,
+        "durationMs": 5961
+      },
+      {
+        "text": "cliente esa información que me va a ayudar a mí a categorizar a configurar",
+        "startMs": 77390,
+        "durationMs": 4359
+      },
+      {
+        "text": "distintas cosas dentro del sistema para los clientes tenemos El vendedor por",
+        "startMs": 81749,
+        "durationMs": 5121
+      },
+      {
+        "text": "defecto el centro de costos por defecto el descuento en ventas una lista de",
+        "startMs": 86870,
+        "durationMs": 5680
+      },
+      {
+        "text": "precios por defecto o algunas configuraciones de crédito que nosotros",
+        "startMs": 92550,
+        "durationMs": 4400
+      },
+      {
+        "text": "necesitemos sobre este cliente Si me devuelvo a la pestaña de tipo de tercero",
+        "startMs": 96950,
+        "durationMs": 5560
+      },
+      {
+        "text": "voy a encontrar que yo puedo tener terceros que son clientes pero también",
+        "startMs": 102510,
+        "durationMs": 4559
+      },
+      {
+        "text": "son proveedores es decir tienen varios tipos de terceros si yo habilito la",
+        "startMs": 107069,
+        "durationMs": 6161
+      },
+      {
+        "text": "pestaña de proveedor podemos ver que se habilita una nueva pestaña que se llama",
+        "startMs": 113230,
+        "durationMs": 5879
+      },
+      {
+        "text": "datos proveedor allí voy a encontrar ya datos específicos y configuraciones",
+        "startMs": 119109,
+        "durationMs": 5280
+      },
+      {
+        "text": "específicas para el tipo de tercero proveedor Por ejemplo si le doy",
+        "startMs": 124389,
+        "durationMs": 5041
+      },
+      {
+        "text": "proveedor estándar porque no es un proveedor de nómina en este caso voy a",
+        "startMs": 129430,
+        "durationMs": 3560
+      },
+      {
+        "text": "encontrar que se despliega a mano izquierda eh pagos productos cuentas",
+        "startMs": 132990,
+        "durationMs": 6680
+      },
+      {
+        "text": "entre otros datos que voy a tener para configuraciones dentro de conta pyme",
+        "startMs": 139670,
+        "durationMs": 5320
+      },
+      {
+        "text": "ahora Cómo puedo configurar esos datos que se tienen por cada tipo de tercero",
+        "startMs": 144990,
+        "durationMs": 5480
+      },
+      {
+        "text": "vamos a verlo aquí en el sistema de una manera muy sencilla vamos a cerrar por",
+        "startMs": 39190,
+        "durationMs": 115600
+      },
+      {
+        "text": "aquí no vamos a modificar y en la configuración de este catálogo en la",
+        "startMs": 154790,
+        "durationMs": 4600
+      },
+      {
+        "text": "configuración avanzada configuración para todos los",
+        "startMs": 159390,
+        "durationMs": 4360
+      },
+      {
+        "text": "usuarios en el menú de la parte izquierda vamos a tener datos terceros y",
+        "startMs": 163750,
+        "durationMs": 5640
+      },
+      {
+        "text": "como podemos ver un poco más abajo está cada pestaña de ese tipo de tercero que",
+        "startMs": 169390,
+        "durationMs": 5720
+      },
+      {
+        "text": "yo les había mostrado hace un momento si yo voy a la pestaña cliente me voy voy a",
+        "startMs": 175110,
+        "durationMs": 4960
+      },
+      {
+        "text": "encontrar con todas esas etiquetas que son los campos que yo tengo para esa",
+        "startMs": 180070,
+        "durationMs": 5480
+      },
+      {
+        "text": "pestaña como podemos ver yo puedo marcar que sean visibles que sean de solo",
+        "startMs": 185550,
+        "durationMs": 5000
+      },
+      {
+        "text": "lectura que sean requeridos o que tengan un valor por defecto todo eso lo puedo",
+        "startMs": 190550,
+        "durationMs": 5000
+      },
+      {
+        "text": "hacer yo por cada uno de los tipos de tercero ya sea para proveedor cliente",
+        "startMs": 195550,
+        "durationMs": 5280
+      },
+      {
+        "text": "empleado vendedor y lo que yo necesite dentro de",
+        "startMs": 200830,
+        "durationMs": 4800
+      },
+      {
+        "text": "contapyme de esa manera yo puedo categorizar y clasificar mis terceros en",
+        "startMs": 205630,
+        "durationMs": 6879
+      },
+      {
+        "text": "contapyme de esa forma Entonces cuando yo haga una venta se me desplegará un",
+        "startMs": 212509,
+        "durationMs": 5241
+      },
+      {
+        "text": "menú de solo los terceros que son tipo cliente y también cuando hago una compra",
+        "startMs": 217750,
+        "durationMs": 4839
+      },
+      {
+        "text": "de los que son tipo proveedor y podré yo entonces tener una información mucho más",
+        "startMs": 222589,
+        "durationMs": 5441
+      },
+      {
+        "text": "organizada con unos datos específicos para ese tipo de tercero con unas",
+        "startMs": 228030,
+        "durationMs": 4800
+      },
+      {
+        "text": "configuraciones específicas para esos datos de terceros y de esa forma",
+        "startMs": 232830,
+        "durationMs": 3520
+      },
+      {
+        "text": "contapyme me ayudará para facilitar cada uno de los procesos que yo tengo dentro",
+        "startMs": 236350,
+        "durationMs": 5560
+      },
+      {
+        "text": "de mi empresa que tengan que ver con mis terceros",
+        "startMs": 241910,
+        "durationMs": 5490
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDescubre cómo clasificar correctamente los tipos de terceros en ContaPyme de manera fácil y clara. En este tutorial, te explicaremos paso a paso cómo organizarlos dentro del software para que gestiones la información sin complicaciones. Aprenderás a reconocer los distintos tipos de terceros, incluyendo cómo identificar los perfiles de clientes y clasificar los diferentes tipos de proveedores. Conoce más de nuestras soluciones entrando a www.contapyme.com\n\n## Transcripción\n\nconfiguración de tipos de tercero en cont\ncont pime en nuestras empresas tenemos\nrelación con muchos terceros esos terceros son cualquier persona natural o\njurídica que tenga un vínculo con Nuestra Empresa dentro de esos tipos de\nterceros nosotros podemos tener nuestros clientes proveedores empleados\ninteresados vendedores y otros tipos de tercero que necesitemos en contapyme\nsabemos la importancia de clasificar y categorizar correctamente estos terceros\npor eso cuando escogemos un tipo de tercero vamos a tener unos datos\ncontapyme para que revisemos cómo funciona una vez en contapyme vamos a ir\na la pestaña de básico y al catálogo de terceros para este ejemplo yo voy a\ntomar uno de los terceros que ya están creados en mi base de datos voy a tomar\nal señor José alveiro pulgarín Voy a darle modificar y como podemos ver él\ndentro de su tipo de terceros ya tiene habilitada la opción de cliente y esa\nopción lo que hace Es que yo tenga una pestaña donde me muestra los datos del\ncliente esa información que me va a ayudar a mí a categorizar a configurar\ndistintas cosas dentro del sistema para los clientes tenemos El vendedor por\ndefecto el centro de costos por defecto el descuento en ventas una lista de\nprecios por defecto o algunas configuraciones de crédito que nosotros\nnecesitemos sobre este cliente Si me devuelvo a la pestaña de tipo de tercero\nvoy a encontrar que yo puedo tener terceros que son clientes pero también\nson proveedores es decir tienen varios tipos de terceros si yo habilito la\npestaña de proveedor podemos ver que se habilita una nueva pestaña que se llama\ndatos proveedor allí voy a encontrar ya datos específicos y configuraciones\nespecíficas para el tipo de tercero proveedor Por ejemplo si le doy\nproveedor estándar porque no es un proveedor de nómina en este caso voy a\nencontrar que se despliega a mano izquierda eh pagos productos cuentas\nentre otros datos que voy a tener para configuraciones dentro de conta pyme\nahora Cómo puedo configurar esos datos que se tienen por cada tipo de tercero\nvamos a verlo aquí en el sistema de una manera muy sencilla vamos a cerrar por\naquí no vamos a modificar y en la configuración de este catálogo en la\nconfiguración avanzada configuración para todos los\nusuarios en el menú de la parte izquierda vamos a tener datos terceros y\ncomo podemos ver un poco más abajo está cada pestaña de ese tipo de tercero que\nyo les había mostrado hace un momento si yo voy a la pestaña cliente me voy voy a\nencontrar con todas esas etiquetas que son los campos que yo tengo para esa\npestaña como podemos ver yo puedo marcar que sean visibles que sean de solo\nlectura que sean requeridos o que tengan un valor por defecto todo eso lo puedo\nhacer yo por cada uno de los tipos de tercero ya sea para proveedor cliente\nempleado vendedor y lo que yo necesite dentro de\ncontapyme de esa manera yo puedo categorizar y clasificar mis terceros en\ncontapyme de esa forma Entonces cuando yo haga una venta se me desplegará un\nmenú de solo los terceros que son tipo cliente y también cuando hago una compra\nde los que son tipo proveedor y podré yo entonces tener una información mucho más\norganizada con unos datos específicos para ese tipo de tercero con unas\nconfiguraciones específicas para esos datos de terceros y de esa forma\ncontapyme me ayudará para facilitar cada uno de los procesos que yo tengo dentro\nde mi empresa que tengan que ver con mis terceros"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 152.758,
+    "asr": 22050,
+    "filesizeApprox": 4784934,
+    "formatCount": 5
+  },
+  "contentKind": "videos",
+  "publishYear": "2025",
+  "files": {
+    "year": "2025",
+    "kind": "videos",
+    "md": "videos/2025/AYrBrsHtWKU.md",
+    "json": "videos/2025/AYrBrsHtWKU.json",
+    "infoJson": "videos/2025/AYrBrsHtWKU.info.json"
+  }
+}

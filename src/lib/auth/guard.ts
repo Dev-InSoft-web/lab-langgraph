@@ -11,7 +11,26 @@ const PUBLIC_ROUTES: PublicRoute[] = [
 	{ method: "GET", path: "/docs" },
 	{ method: "GET", path: "/openapi.json" },
 	{ method: "POST", path: "/auth/token" },
+	{ method: "GET", path: "/mssql/clientesis/ping" },
+	{ method: "GET", path: "/mssql/paty/ping" },
+	{ method: "GET", path: "/mssql/clientesis/query" },
+	{ method: "GET", path: "/mssql/paty/query" },
+	{ method: "POST", path: "/mssql/clientesis/query" },
+	{ method: "POST", path: "/mssql/paty/query" },
 ];
+
+/** GET de API ISA-DOC (lectura) sin JWT. SignalR negotiate y mutaciones siguen protegidos. */
+const ISA_DOC_GET_PREFIXES = [
+	"/entity",
+	"/catalog",
+	"/revisado",
+	"/persistence",
+	"/config/connections",
+	"/imgbb/",
+	"/tickets/mermaid/",
+	"/patyia/cache/",
+	"/bitacora/",
+] as const;
 
 export function normalizeApiPath(pathname: string): string {
 	const idx = pathname.indexOf("/api");
@@ -20,10 +39,22 @@ export function normalizeApiPath(pathname: string): string {
 	return rest || "/";
 }
 
+function normalizePath(path: string): string {
+	return path.endsWith("/") && path.length > 1 ? path.slice(0, -1) : path;
+}
+
+export function isIsaDocPublicGet(method: string, apiPath: string): boolean {
+	if (method.toUpperCase() !== "GET") return false;
+	const p = normalizePath(apiPath);
+	if (p.startsWith("/mssql/") && (p.endsWith("/ping") || p.endsWith("/query"))) return true;
+	return ISA_DOC_GET_PREFIXES.some((prefix) => p === prefix || p.startsWith(prefix));
+}
+
 export function isPublicLabRoute(method: string, apiPath: string): boolean {
 	const m = method.toUpperCase();
-	const p = apiPath.endsWith("/") && apiPath.length > 1 ? apiPath.slice(0, -1) : apiPath;
-	return PUBLIC_ROUTES.some((r) => r.method === m && r.path === p);
+	const p = normalizePath(apiPath);
+	if (PUBLIC_ROUTES.some((r) => r.method === m && r.path === p)) return true;
+	return isIsaDocPublicGet(m, p);
 }
 
 export async function verifyRequestLabJwt(request: HttpRequest): Promise<LabJwtClaims | null> {

@@ -1,0 +1,4360 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:43:42.333Z",
+  "videoId": "Csh7NoeE6Vs",
+  "videoUrl": "https://www.youtube.com/watch?v=Csh7NoeE6Vs",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "Csh7NoeE6Vs",
+    "title": "Materias primas",
+    "fulltitle": "Materias primas",
+    "description": "Módulo de costos de ContaPyme® y AgroWin® - Tema: Materias primas\n\nDescripción:\nComprenda los conceptos básicos de insumos y materias primas, explicamos cómo configurar el sistema ContaPyme/AgroWin para costear la materia prima de manera efectiva. Estudiaremos un listado de materias primas y sus categorías, utilizando un ejemplo en Excel. Repase la configuración de cuentas de costos de producción para materias primas y grupos de inventarios. Aprenda a configurar productos de insumos y/o materias primas en el sistema, también a cómo crear y configurar bodegas de inventarios. Visualice cómo realizar cargues iniciales de inventarios y compras de materias primas y cómo realizar planillas de uso y/o consumo de las materias primas. Vea cómo consultar informes de inventarios y cómo consultar los costos de producción respecto a las materias primas. Finalmente revisamos algunos casos especiales que se pueden registrar en el sistema, y proporcionamos algunos ejemplos prácticos para ayudar a los usuarios a comprender mejor el proceso.\n\nExperta: Ing. Diana María Menjura\nEspecialista en producto de InSoft®\n\nSíganos en nuestras redes sociales:\nFacebook /SoftwareContableContaPyme \nInstagram /contapyme \n\nConozca más en www.contapyme.com y www.agrowin.com",
+    "duration": 5094,
+    "duration_string": "1:24:54",
+    "upload_date": "20230221",
+    "timestamp": 1677009798,
+    "view_count": 136,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/Csh7NoeE6Vs/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWVBNH27uParfJFQj3OpKQ7gAOFw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDyPGqV3VOKWz8J6X1BMbgkFQwL9g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdJpoWxJDfcAavmEEp-OZpxQgVMw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBkwqaYFNujlLoHyl-TIARddkz1Ww",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt2jtJqhn9BNmIecghmAcTdIsNZw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwHOxI5VA5KcRghU_w19WuH67Y1A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaGoRr4F-fies16AfNQbeBpdShaw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD52qbl7fvjOWMKghHsfcNE2nHOtQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/Csh7NoeE6Vs/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Csh7NoeE6Vs",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.01963093835885355,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10031409501374165,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10031409501374165,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 199.845,
+        "asr": 44100,
+        "filesize_approx": 127248805,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Materias primas",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/Csh7NoeE6Vs/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Csh7NoeE6Vs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Materias primas\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 782,
+    "transcriptChars": 53560,
+    "segments": [
+      {
+        "text": "Bienvenidos a esta sesión en la que hablaremos acerca de los costos de las",
+        "startMs": 1140,
+        "durationMs": 4850
+      },
+      {
+        "text": "materias primas antes de iniciar con la configuración",
+        "startMs": 5990,
+        "durationMs": 4800
+      },
+      {
+        "text": "que se requiere para el manejo de materias primas vamos a ver dos",
+        "startMs": 10790,
+        "durationMs": 4799
+      },
+      {
+        "text": "conceptos importantes que son insumo y materia prima",
+        "startMs": 15589,
+        "durationMs": 6241
+      },
+      {
+        "text": "el insumo son los elementos que están procesados y que ayudan a desarrollar un",
+        "startMs": 21830,
+        "durationMs": 6060
+      },
+      {
+        "text": "producto o servicio final sin embargo las materias primas son",
+        "startMs": 27890,
+        "durationMs": 5940
+      },
+      {
+        "text": "aquellos materiales que se extraen principalmente de la naturaleza y que",
+        "startMs": 33830,
+        "durationMs": 4379
+      },
+      {
+        "text": "constituyen la base de algún producto si nos basamos en las imágenes estamos",
+        "startMs": 38209,
+        "durationMs": 5461
+      },
+      {
+        "text": "viendo elementos para la elaboración de calzado los insumos son aquellos",
+        "startMs": 43670,
+        "durationMs": 5640
+      },
+      {
+        "text": "productos que ya están procesados Como por ejemplo las suelas las plantillas",
+        "startMs": 49310,
+        "durationMs": 4919
+      },
+      {
+        "text": "los tacones los hilos y demás sin embargo la materia prima es el cuero que",
+        "startMs": 54229,
+        "durationMs": 6480
+      },
+      {
+        "text": "es un material que está extraído principalmente de la naturaleza",
+        "startMs": 60709,
+        "durationMs": 5760
+      },
+      {
+        "text": "Ahora sí claros estos dos conceptos vamos a ver qué configuraciones debemos",
+        "startMs": 66469,
+        "durationMs": 5460
+      },
+      {
+        "text": "hacer para poder costear la materia prima",
+        "startMs": 71929,
+        "durationMs": 5220
+      },
+      {
+        "text": "lo primero que debemos hacer es definir un listado de insumos y materias primas",
+        "startMs": 77159,
+        "durationMs": 6191
+      },
+      {
+        "text": "eso lo vamos a hacer inicialmente en Excel",
+        "startMs": 83350,
+        "durationMs": 4960
+      },
+      {
+        "text": "Excel La idea es que en una hoja de Excel",
+        "startMs": 88310,
+        "durationMs": 3680
+      },
+      {
+        "text": "Hagamos una tabla como la que vemos en la pantalla",
+        "startMs": 91990,
+        "durationMs": 4540
+      },
+      {
+        "text": "Cuál es la idea por cada uno de los diferentes insumos y materias primas",
+        "startMs": 96530,
+        "durationMs": 5100
+      },
+      {
+        "text": "vamos a definir nombre unidad de compra unidad de consumo",
+        "startMs": 101630,
+        "durationMs": 6740
+      },
+      {
+        "text": "equivalencia que es una equivalencia entre estas dos ya vamos a hacer un",
+        "startMs": 108370,
+        "durationMs": 4779
+      },
+      {
+        "text": "ejemplo y vamos a definir una especie de categoría",
+        "startMs": 113149,
+        "durationMs": 6240
+      },
+      {
+        "text": "voy a hacer un ejemplo entonces en el nombre del insumo le vamos a poner",
+        "startMs": 119399,
+        "durationMs": 6070
+      },
+      {
+        "text": "digamos tela Lafayette listo luego debemos evaluar",
+        "startMs": 125469,
+        "durationMs": 10021
+      },
+      {
+        "text": "si esta tela se compra en alguna unidad que sea diferente a la unidad de consumo",
+        "startMs": 135490,
+        "durationMs": 7680
+      },
+      {
+        "text": "Digamos que normalmente la tela Lafayette se consume en metros",
+        "startMs": 143170,
+        "durationMs": 10419
+      },
+      {
+        "text": "Pero eso no significa que necesariamente se tenga que comprar en metros puede ser",
+        "startMs": 153599,
+        "durationMs": 10251
+      },
+      {
+        "text": "cuando hay diferencia entre la unidad de compra y la unidad de consumo debemos",
+        "startMs": 163860,
+        "durationMs": 6530
+      },
+      {
+        "text": "establecer la equivalencia es decir cuántos metros hay en un rollo",
+        "startMs": 170390,
+        "durationMs": 7940
+      },
+      {
+        "text": "Cuántas unidades de consumo hay en la unidad de compra digamos que en este",
+        "startMs": 178330,
+        "durationMs": 6399
+      },
+      {
+        "text": "caso vamos a decir que en un rollo hay 50 metros",
+        "startMs": 184729,
+        "durationMs": 7321
+      },
+      {
+        "text": "Asimismo debemos hacer con todos los insumos y las materias primas en la",
+        "startMs": 192050,
+        "durationMs": 6240
+      },
+      {
+        "text": "parte de costos de producción Es normal que se maneje una unidad de compra",
+        "startMs": 198290,
+        "durationMs": 5820
+      },
+      {
+        "text": "diferente a la unidad de consumo no solamente en el área de la manufactura o",
+        "startMs": 204110,
+        "durationMs": 6060
+      },
+      {
+        "text": "la producción industrial sino también en la parte agrícola Es normal que se",
+        "startMs": 210170,
+        "durationMs": 6960
+      },
+      {
+        "text": "compre un insumo en litros y se consumen mililitros se compre en bultos y se",
+        "startMs": 217130,
+        "durationMs": 7140
+      },
+      {
+        "text": "consuma en kilos se compren kilos y se consuma en gramos Es muy normal que se",
+        "startMs": 224270,
+        "durationMs": 7140
+      },
+      {
+        "text": "manejen dos unidades diferentes por eso es importante que desde el mismo momento",
+        "startMs": 231410,
+        "durationMs": 5340
+      },
+      {
+        "text": "en el que nosotros estamos definiendo Este listado identifiquemos estas dos",
+        "startMs": 236750,
+        "durationMs": 6360
+      },
+      {
+        "text": "unidades y su respectiva equivalencia si el caso fuera que la tela Lafayette",
+        "startMs": 243110,
+        "durationMs": 7020
+      },
+      {
+        "text": "también se compra en metro Es decir se compra y se consume en metro aquí la",
+        "startMs": 250130,
+        "durationMs": 6300
+      },
+      {
+        "text": "equivalencia sería cero pero en este caso lo vamos a dejar que",
+        "startMs": 256430,
+        "durationMs": 5579
+      },
+      {
+        "text": "se compra en rollo luego de establecer unidades es",
+        "startMs": 262009,
+        "durationMs": 6661
+      },
+      {
+        "text": "importante que empecemos a poner como una categoría para cada producto Cuál es",
+        "startMs": 268670,
+        "durationMs": 6480
+      },
+      {
+        "text": "el objetivo de la categoría que después basados en estas categorías vamos a",
+        "startMs": 275150,
+        "durationMs": 5700
+      },
+      {
+        "text": "crear las cuentas en el plan de cuentas para lo que se refiere a consumo de",
+        "startMs": 280850,
+        "durationMs": 5760
+      },
+      {
+        "text": "materia prima y vamos a crear los respectivos grupos de inventario",
+        "startMs": 286610,
+        "durationMs": 4500
+      },
+      {
+        "text": "Entonces digamos que en este caso yo puedo decir que la tela Lafayette",
+        "startMs": 291110,
+        "durationMs": 12060
+      },
+      {
+        "text": "y así mismo debemos hacer con todos los insumos no significa que cuando vamos a",
+        "startMs": 303180,
+        "durationMs": 6710
+      },
+      {
+        "text": "hacer este proceso todos los insumos tienen que estar identificados se hace",
+        "startMs": 309890,
+        "durationMs": 6000
+      },
+      {
+        "text": "con los insumos que se tienen hasta el momento Y si más adelante Pues resulta",
+        "startMs": 315890,
+        "durationMs": 5220
+      },
+      {
+        "text": "algún insumo ya lo que se debe hacer es proceder a crear cada uno de esos",
+        "startMs": 321110,
+        "durationMs": 5820
+      },
+      {
+        "text": "elementos en el catálogo de elementos de inventario en este caso lo vamos a hacer",
+        "startMs": 326930,
+        "durationMs": 5099
+      },
+      {
+        "text": "con los elementos que tenemos identificados por tanto nos debe quedar",
+        "startMs": 332029,
+        "durationMs": 5041
+      },
+      {
+        "text": "algo así como vemos nos ha quedado entonces un listado de unos insumos y",
+        "startMs": 337070,
+        "durationMs": 7320
+      },
+      {
+        "text": "materias primas que hemos identificado cada uno tiene nombre unidad de compra",
+        "startMs": 344390,
+        "durationMs": 6540
+      },
+      {
+        "text": "equivalencia y la categoría",
+        "startMs": 356870,
+        "durationMs": 3060
+      },
+      {
+        "text": "lo mismo como se hace acá con este ejemplo de Telas guatas cremalleras debe",
+        "startMs": 359930,
+        "durationMs": 6240
+      },
+      {
+        "text": "ser en el caso de agro Win en agro Win se deben identificar todos los insumos y",
+        "startMs": 366170,
+        "durationMs": 6959
+      },
+      {
+        "text": "materias primas que se utilizan Así que puede ser algo como esto",
+        "startMs": 373129,
+        "durationMs": 9721
+      },
+      {
+        "text": "nos quedaría un listado en el que podemos ver los diferentes insumos",
+        "startMs": 382860,
+        "durationMs": 5829
+      },
+      {
+        "text": "con su unidad de compra unidad de consumo",
+        "startMs": 388689,
+        "durationMs": 4321
+      },
+      {
+        "text": "consumo equivalencia y la categoría miren",
+        "startMs": 350930,
+        "durationMs": 46280
+      },
+      {
+        "text": "fertilizantes insecticidas fungicidas coadyuvantes desinfectantes y demás",
+        "startMs": 397210,
+        "durationMs": 14800
+      },
+      {
+        "text": "cuando ya tenemos el listado Entonces ahora vamos a identificar Cuáles son",
+        "startMs": 412020,
+        "durationMs": 5930
+      },
+      {
+        "text": "esas categorías únicas que vamos a trabajar vamos a copiar",
+        "startMs": 417950,
+        "durationMs": 11280
+      },
+      {
+        "startMs": 429240,
+        "durationMs": 7970,
+        "text": "la vamos a pegar en otra hoja"
+      },
+      {
+        "startMs": 437220,
+        "durationMs": 9309,
+        "text": "y vamos a eliminar los duplicados"
+      },
+      {
+        "text": "listo nos han quedado entonces nueve valores únicos",
+        "startMs": 446539,
+        "durationMs": 5990
+      },
+      {
+        "text": "telas entretelas sesgos guatas cremalleras y demás",
+        "startMs": 452529,
+        "durationMs": 5261
+      },
+      {
+        "text": "ahora vamos a ver en la diapositiva que paso debe seguir",
+        "startMs": 457790,
+        "durationMs": 6660
+      },
+      {
+        "text": "ya tenemos el listado de insumos y materias primas",
+        "startMs": 464460,
+        "durationMs": 4090
+      },
+      {
+        "text": "establecimos categorías o grupos y ahora debemos crear una cuenta 71 por cada",
+        "startMs": 468550,
+        "durationMs": 10479
+      },
+      {
+        "text": "por tanto como tenemos 8 grupos entonces debemos crear",
+        "startMs": 479039,
+        "durationMs": 5471
+      },
+      {
+        "text": "ocho cuentas vamos en este momento",
+        "startMs": 484510,
+        "durationMs": 4679
+      },
+      {
+        "text": "a ubicarnos en el plan de cuentas de contappyme y vamos a ver cómo se ve la",
+        "startMs": 489189,
+        "durationMs": 7780
+      },
+      {
+        "text": "estructura de la cuenta 7 en conta pyme y vamos a compararla contra la",
+        "startMs": 496969,
+        "durationMs": 5041
+      },
+      {
+        "text": "estructura de la cuenta en agroin estando ubicados en contapimy ingresamos",
+        "startMs": 502010,
+        "durationMs": 7260
+      },
+      {
+        "text": "al plan de cuentas y nos dirigimos a la cuenta 7",
+        "startMs": 509270,
+        "durationMs": 5040
+      },
+      {
+        "text": "como podemos ver con tapyme nos ofrece una estructura muy básica que es la",
+        "startMs": 514310,
+        "durationMs": 6180
+      },
+      {
+        "text": "cuenta principal subcuenta y una auxiliar tanto para materia prima que es",
+        "startMs": 520490,
+        "durationMs": 5820
+      },
+      {
+        "text": "la 71 mano de obra directa costos indirectos y contratos de servicios",
+        "startMs": 526310,
+        "durationMs": 7440
+      },
+      {
+        "text": "sin embargo en agroin es diferente en agro Win ingresamos al plan de",
+        "startMs": 533760,
+        "durationMs": 9410
+      },
+      {
+        "text": "cuentas verificamos la cuenta 7 y vamos a",
+        "startMs": 543170,
+        "durationMs": 3480
+      },
+      {
+        "text": "encontrar que agro Win nos ofrece una estructura de plan de cuenta muy",
+        "startMs": 546650,
+        "durationMs": 5040
+      },
+      {
+        "text": "completo ya nos ofrece auxiliares para materias primas para insumos agrícolas",
+        "startMs": 551690,
+        "durationMs": 7160
+      },
+      {
+        "text": "miren que encontramos aquí un auxiliar para herbicidas fungicidas fertilizantes",
+        "startMs": 558850,
+        "durationMs": 6900
+      },
+      {
+        "text": "coadyuvantes y demás también materiales de post cosecha materiales agrícolas",
+        "startMs": 565750,
+        "durationMs": 6040
+      },
+      {
+        "text": "combustibles y lubricantes nos podemos hacer la pregunta de Por qué en",
+        "startMs": 571790,
+        "durationMs": 6300
+      },
+      {
+        "text": "contapyme es tan básico y en agro Win la estructura es más completa",
+        "startMs": 578090,
+        "durationMs": 5700
+      },
+      {
+        "text": "resulta que en la parte agrícola independiente del",
+        "startMs": 583790,
+        "durationMs": 5640
+      },
+      {
+        "text": "cultivo que se maneje los insumos agrícolas todos pertenecen a las mismas",
+        "startMs": 589430,
+        "durationMs": 6120
+      },
+      {
+        "text": "categorías puede que para el aguacate trabajen un insumo un fertilizante en",
+        "startMs": 595550,
+        "durationMs": 7320
+      },
+      {
+        "text": "particular y que para el café trabaje en otro fertilizante Pero los dos van a",
+        "startMs": 602870,
+        "durationMs": 6720
+      },
+      {
+        "text": "pertenecer a la misma categoría de fertilizantes por eso las categorías son",
+        "startMs": 609590,
+        "durationMs": 5700
+      },
+      {
+        "text": "muy estándar casi todos los cultivos todas las fincas o empresas agrícolas",
+        "startMs": 615290,
+        "durationMs": 5840
+      },
+      {
+        "text": "trabajan los mismos tipos o categorías de insumos agrícolas",
+        "startMs": 621130,
+        "durationMs": 6300
+      },
+      {
+        "text": "agrowing nos ofrece esa estructura ya definida y con eso nos facilita el",
+        "startMs": 627430,
+        "durationMs": 6459
+      },
+      {
+        "text": "proceso de configuración de los inventarios sin embargo en conta pyme",
+        "startMs": 633889,
+        "durationMs": 5581
+      },
+      {
+        "text": "pues todas las empresas manufactureras o de producción son completamente",
+        "startMs": 639470,
+        "durationMs": 4620
+      },
+      {
+        "text": "diferentes entonces el sistema no nos ofrece una estructura ya como sugerida",
+        "startMs": 644090,
+        "durationMs": 6840
+      },
+      {
+        "text": "sino que debemos empezar desde cero vamos entonces a devolvernos a contapyme",
+        "startMs": 650930,
+        "durationMs": 7680
+      },
+      {
+        "text": "y vamos a crear las cuentas correspondientes",
+        "startMs": 658610,
+        "durationMs": 3260
+      },
+      {
+        "text": "correspondientes dijimos entonces",
+        "startMs": 661870,
+        "durationMs": 2160
+      },
+      {
+        "text": "que por cada categoría o grupo debemos crear una cuenta en la 71 recordemos",
+        "startMs": 664030,
+        "durationMs": 9760
+      },
+      {
+        "text": "entonces que categorías son telas entretelas sesgos guatas",
+        "startMs": 673790,
+        "durationMs": 6840
+      },
+      {
+        "text": "cremalleras botones y los y elásticos vamos a crear telas",
+        "startMs": 680630,
+        "durationMs": 5639
+      },
+      {
+        "text": "miramos la configuración y luego creamos las demás",
+        "startMs": 686269,
+        "durationMs": 5221
+      },
+      {
+        "text": "como ya existe la cuenta 71 01 01 Pues básicamente lo que vamos a hacer aquí es",
+        "startMs": 691500,
+        "durationMs": 8569
+      },
+      {
+        "text": "modificar y vamos a cambiar el nombre entonces",
+        "startMs": 700069,
+        "durationMs": 4041
+      },
+      {
+        "text": "podemos ponerlo así",
+        "startMs": 704110,
+        "durationMs": 3040
+      },
+      {
+        "text": "las cuentas están bueno podríamos ponerlo mejor con",
+        "startMs": 707150,
+        "durationMs": 5820
+      },
+      {
+        "text": "mayúsculas sostenida listo qué configuración tienen que tener estas",
+        "startMs": 712970,
+        "durationMs": 7919
+      },
+      {
+        "text": "cuentas Son tipo cuenta 5 de egresos clase",
+        "startMs": 720889,
+        "durationMs": 3721
+      },
+      {
+        "text": "normal afectables directamente por el usuario",
+        "startMs": 724610,
+        "durationMs": 4100
+      },
+      {
+        "text": "usuario disponibles en operaciones de gastos e",
+        "startMs": 728710,
+        "durationMs": 3660
+      },
+      {
+        "text": "ingresos siempre deben tener la opción de",
+        "startMs": 732370,
+        "durationMs": 5280
+      },
+      {
+        "text": "autoactivar recordemos que solo las cuentas 7 son",
+        "startMs": 737650,
+        "durationMs": 4299
+      },
+      {
+        "text": "las que deben tener la opción de autoactivar ninguna otra en el plan de",
+        "startMs": 741949,
+        "durationMs": 7380
+      },
+      {
+        "text": "cuentas si tiene descuentos aquí en esta parte",
+        "startMs": 749329,
+        "durationMs": 3000
+      },
+      {
+        "text": "de impuestos descuentos y cargos debemos configurar los impuestos",
+        "startMs": 752329,
+        "durationMs": 8041
+      },
+      {
+        "text": "y en datos requeridos debe tener que exige centro de costos y maneja tercero",
+        "startMs": 760380,
+        "durationMs": 11090
+      },
+      {
+        "text": "listo con esto ya nos queda bien configurada la cuenta y vamos a darle a",
+        "startMs": 771480,
+        "durationMs": 6950
+      },
+      {
+        "text": "aceptar si necesitamos crear otra cuenta",
+        "startMs": 778430,
+        "durationMs": 3959
+      },
+      {
+        "text": "pues podemos entonces pararnos en la 71 01",
+        "startMs": 782389,
+        "durationMs": 4581
+      },
+      {
+        "text": "01 y con clic derecho le decimos crear y",
+        "startMs": 786970,
+        "durationMs": 4060
+      },
+      {
+        "text": "aquí crearíamos la 71 01 02 que sería digamos las entretelas",
+        "startMs": 791030,
+        "durationMs": 13680
+      },
+      {
+        "text": "revisamos la misma que tenga la misma configuración",
+        "startMs": 804720,
+        "durationMs": 6530
+      },
+      {
+        "text": "y aquí en datos requeridos y aceptar de esta forma vamos a crear las demás",
+        "startMs": 811260,
+        "durationMs": 9710
+      },
+      {
+        "text": "cuentas y nos debe quedar así",
+        "startMs": 820970,
+        "durationMs": 2760
+      },
+      {
+        "text": "telas entretelas sesgos guatas cremalleras botones y los y elásticos",
+        "startMs": 823730,
+        "durationMs": 5480
+      },
+      {
+        "text": "hemos creado entonces ocho cuentas cada una",
+        "startMs": 829210,
+        "durationMs": 5460
+      },
+      {
+        "text": "una correspondiente a cada categoría de las",
+        "startMs": 834670,
+        "durationMs": 3219
+      },
+      {
+        "text": "que identificamos cuando sacamos el listado de los insumos y las materias",
+        "startMs": 837889,
+        "durationMs": 8341
+      },
+      {
+        "text": "primas ya tenemos las cuentas vamos a mirar",
+        "startMs": 846230,
+        "durationMs": 2099
+      },
+      {
+        "text": "Entonces con qué continuamos listas las cuentas ahora debemos crear",
+        "startMs": 848329,
+        "durationMs": 6721
+      },
+      {
+        "text": "los grupos y elementos asociados a estos grupos vamos a devolvernos entonces a",
+        "startMs": 855050,
+        "durationMs": 8820
+      },
+      {
+        "text": "Entonces esta es la 01 Esta es la 02 y así respectivamente",
+        "startMs": 863870,
+        "durationMs": 12899
+      },
+      {
+        "text": "a cada uno de estos grupos debemos ponerle un código",
+        "startMs": 876779,
+        "durationMs": 6110
+      },
+      {
+        "text": "el código Pues es de libre definición por el usuario nosotros Pues digamos",
+        "startMs": 882889,
+        "durationMs": 6380
+      },
+      {
+        "text": "acostumbramos trabajar una estructura en la que el código son las tres primeras",
+        "startMs": 889269,
+        "durationMs": 6701
+      },
+      {
+        "text": "letras del nombre Entonces nos quedaría algo así",
+        "startMs": 895970,
+        "durationMs": 17659
+      },
+      {
+        "text": "cuando ya tenemos esto identificado nos vamos a ir al sistema y vamos a crear",
+        "startMs": 913639,
+        "durationMs": 11370
+      },
+      {
+        "text": "inventario vamos a encontrar que el sistema por defecto trae estos cuatro",
+        "startMs": 930530,
+        "durationMs": 5460
+      },
+      {
+        "text": "grupos de ejemplo general impuesto al consumo de bolsas plásticas materias",
+        "startMs": 925019,
+        "durationMs": 20211
+      },
+      {
+        "text": "no podemos eliminarlos en este momento porque tienen elementos de inventario",
+        "startMs": 945240,
+        "durationMs": 5209
+      },
+      {
+        "text": "asociados así que por ahora debemos es proceder a crear los nuevos grupos Pero",
+        "startMs": 950449,
+        "durationMs": 6541
+      },
+      {
+        "text": "antes de hacer eso vamos a mirar cómo es esta misma estructura o sea Qué grupos",
+        "startMs": 956990,
+        "durationMs": 6720
+      },
+      {
+        "text": "de inventario nos sugiere agrow y vamos a ver que también es muy diferente",
+        "startMs": 963710,
+        "durationMs": 6359
+      },
+      {
+        "text": "en agro Win besamos a los grupos de inventario y nos vamos a dar cuenta que",
+        "startMs": 970069,
+        "durationMs": 6481
+      },
+      {
+        "text": "él ya nos trae creados unos grupos que son equivalentes a las cuentas que vimos",
+        "startMs": 976550,
+        "durationMs": 6779
+      },
+      {
+        "text": "en el plan de cuentas tenemos un grupo para enmiendas para biológicos",
+        "startMs": 983329,
+        "durationMs": 5601
+      },
+      {
+        "text": "fungicidas insumos menores nematicidas y demás si consultamos alguno de estos nos",
+        "startMs": 988930,
+        "durationMs": 7240
+      },
+      {
+        "text": "vamos a dar cuenta que ya viene configurado con su cuenta",
+        "startMs": 996170,
+        "durationMs": 6740
+      },
+      {
+        "text": "de nuevo como mencioné ahora agro Win tiene ya un plan de cuentas digamos",
+        "startMs": 1002920,
+        "durationMs": 7589
+      },
+      {
+        "text": "sugerido lo mismo unos grupos de inventario sugeridos y ya lo que debe",
+        "startMs": 1010509,
+        "durationMs": 7560
+      },
+      {
+        "text": "hacer el usuario es revisar y crear los grupos que falten y luego crear los",
+        "startMs": 1018069,
+        "durationMs": 8641
+      },
+      {
+        "text": "elementos de inventario correspondientes de la misma forma como estamos haciendo",
+        "startMs": 1026710,
+        "durationMs": 3959
+      },
+      {
+        "text": "en este momento con contapping devolvámonos entonces para con tapime y",
+        "startMs": 1030669,
+        "durationMs": 8400
+      },
+      {
+        "text": "vamos a crear los grupos de inventario estando entonces ubicados en el catálogo",
+        "startMs": 1039069,
+        "durationMs": 6781
+      },
+      {
+        "text": "de grupos de inventario vamos a proceder a dar la opción crear",
+        "startMs": 1045850,
+        "durationMs": 6800
+      },
+      {
+        "text": "lo primero que nos pregunta es el código recordemos que estamos utilizando las",
+        "startMs": 1052650,
+        "durationMs": 11860
+      },
+      {
+        "text": "indicamos nombre y luego debemos definir el grupo",
+        "startMs": 1064520,
+        "durationMs": 7850
+      },
+      {
+        "text": "control de existencias el control de existencias nos va a permitir en",
+        "startMs": 1072370,
+        "durationMs": 6060
+      },
+      {
+        "text": "cualquier momento poder consultar un informe y poder ver las unidades",
+        "startMs": 1078430,
+        "durationMs": 5760
+      },
+      {
+        "text": "disponibles de este producto o mejor de los productos que van a pertenecer a",
+        "startMs": 1084190,
+        "durationMs": 5460
+      },
+      {
+        "text": "este grupo el control de existencias requiere que se registren todas las",
+        "startMs": 1089650,
+        "durationMs": 5820
+      },
+      {
+        "text": "entradas y todas las salidas del producto",
+        "startMs": 1095470,
+        "durationMs": 4740
+      },
+      {
+        "text": "ahora el uso Generalmente todos los insumos y las materias primas se",
+        "startMs": 1100220,
+        "durationMs": 6050
+      },
+      {
+        "text": "configuran para consumo después de todo ese su fin principal ser consumidos",
+        "startMs": 1106270,
+        "durationMs": 6480
+      },
+      {
+        "text": "dentro de los procesos internos de la empresa",
+        "startMs": 1112750,
+        "durationMs": 4440
+      },
+      {
+        "text": "empresa las dos siguientes opciones",
+        "startMs": 1117190,
+        "durationMs": 3180
+      },
+      {
+        "text": "digamos que dependen de el tipo de actividad a la que se dedique la empresa",
+        "startMs": 1120370,
+        "durationMs": 6740
+      },
+      {
+        "text": "si yo compro telas y vendo telas lo marco como mercancía para la venta",
+        "startMs": 1127110,
+        "durationMs": 8980
+      },
+      {
+        "text": "Y si yo fabrico telas las marco como un producto de elaboración interna en este",
+        "startMs": 1136090,
+        "durationMs": 8220
+      },
+      {
+        "text": "caso para mí las telas son solo de consumo por tanto desactivamos estas dos",
+        "startMs": 1144310,
+        "durationMs": 9440
+      },
+      {
+        "text": "dependiendo de la configuración que hayamos hecho en este primer paso el",
+        "startMs": 1153760,
+        "durationMs": 6090
+      },
+      {
+        "text": "sistema nos va a requerir unas cuentas Nos pasamos a manejo contable Y tenemos",
+        "startMs": 1159850,
+        "durationMs": 9179
+      },
+      {
+        "text": "nos pregunta la cuenta de egresos esta es la cuenta donde se debitarán los",
+        "startMs": 1169029,
+        "durationMs": 6841
+      },
+      {
+        "text": "consumos que se hagan de este producto por tanto es acá donde debemos",
+        "startMs": 1175870,
+        "durationMs": 6840
+      },
+      {
+        "text": "configurar la respectiva cuenta que acabamos de crear en el plan de cuentas",
+        "startMs": 1182710,
+        "durationMs": 4980
+      },
+      {
+        "text": "en este caso nos tomó la primera cuenta que es la 71 01 01 que Efectivamente es",
+        "startMs": 1187690,
+        "durationMs": 7620
+      },
+      {
+        "text": "la cuenta de telas luego debemos configurar las cuentas de",
+        "startMs": 1195310,
+        "durationMs": 5880
+      },
+      {
+        "text": "deterioro Entonces vamos a buscar aquí las cuentas de deterioro",
+        "startMs": 1201190,
+        "durationMs": 12300
+      },
+      {
+        "startMs": 1213500,
+        "durationMs": 6890,
+        "text": "y la de reversión"
+      },
+      {
+        "startMs": 1220400,
+        "durationMs": 5030,
+        "text": "y los impuestos en compra"
+      },
+      {
+        "text": "es importante en este paso que tengamos en cuenta si cuando nosotros compramos",
+        "startMs": 1225440,
+        "durationMs": 8830
+      },
+      {
+        "text": "telas nos cobran algún impuesto como el IVA",
+        "startMs": 1234270,
+        "durationMs": 3160
+      },
+      {
+        "text": "entonces debemos venir acá en el IVA y seleccionar el concepto de liquidación",
+        "startMs": 1237430,
+        "durationMs": 6359
+      },
+      {
+        "text": "correspondiente para que cuando hagamos la compra el sistema nos liquide",
+        "startMs": 1243789,
+        "durationMs": 10101
+      },
+      {
+        "text": "cuando manejemos IVA debemos evaluar si vamos a asignar este IVA como mayor",
+        "startMs": 1253900,
+        "durationMs": 6750
+      },
+      {
+        "text": "valor Aquí es importante tener en cuenta cuando el IVA se debe manejar como mayor",
+        "startMs": 1260650,
+        "durationMs": 9360
+      },
+      {
+        "text": "valor cuando yo adquiero productos que tienen",
+        "startMs": 1270010,
+        "durationMs": 3960
+      },
+      {
+        "text": "iva pero mi producto final se encuentra en",
+        "startMs": 1273970,
+        "durationMs": 2760
+      },
+      {
+        "text": "la categoría de excluidos en ese caso ese IVA que yo pagué cuando",
+        "startMs": 1276730,
+        "durationMs": 6540
+      },
+      {
+        "text": "compré los insumos no lo voy a poder recuperar",
+        "startMs": 1283270,
+        "durationMs": 4080
+      },
+      {
+        "text": "recuperar y aquellos impuestos que no son",
+        "startMs": 1287350,
+        "durationMs": 2340
+      },
+      {
+        "text": "recuperables se deben considerar mayor valor del costo de los inventarios",
+        "startMs": 1289690,
+        "durationMs": 6479
+      },
+      {
+        "text": "entonces en otras palabras si la tela que yo compro tiene IVA pero",
+        "startMs": 1296169,
+        "durationMs": 6841
+      },
+      {
+        "text": "mi producto final no tiene IVA el IVA de estas telas tiene que asumirse",
+        "startMs": 1303010,
+        "durationMs": 6180
+      },
+      {
+        "text": "como mayor valor del inventario en ese caso tendríamos que activar esta opción",
+        "startMs": 1309190,
+        "durationMs": 8160
+      },
+      {
+        "text": "ya ustedes conocen el manejo del IVA como mayor valor acá simplemente estamos",
+        "startMs": 1317350,
+        "durationMs": 8640
+      },
+      {
+        "text": "haciendo énfasis en esta opción porque en la",
+        "startMs": 1325990,
+        "durationMs": 3240
+      },
+      {
+        "text": "parte de producción es común que se maneje el IVA como mayor valor",
+        "startMs": 1329230,
+        "durationMs": 6919
+      },
+      {
+        "text": "especialmente en el tema agrícola Es normal que los insumos que se compran",
+        "startMs": 1336149,
+        "durationMs": 6821
+      },
+      {
+        "text": "tengan IVA pero que el producto terminado no lo tenga por tanto ese IVA",
+        "startMs": 1342970,
+        "durationMs": 6179
+      },
+      {
+        "text": "debe asumirse Como mayor valor en este caso no lo vamos a marcar pero Ustedes",
+        "startMs": 1349149,
+        "durationMs": 5821
+      },
+      {
+        "text": "deben evaluarlo por cada uno de los grupos que van a crear",
+        "startMs": 1354970,
+        "durationMs": 9000
+      },
+      {
+        "text": "de esta forma como acabamos de crear el grupo de Telas debemos crear los demás",
+        "startMs": 1363980,
+        "durationMs": 9710
+      },
+      {
+        "text": "y nos debe quedar así un grupo para botones cremalleras elásticos entretelas",
+        "startMs": 1373700,
+        "durationMs": 6530
+      },
+      {
+        "text": "guatas y cada uno de los grupos que tenemos identificados",
+        "startMs": 1380230,
+        "durationMs": 7140
+      },
+      {
+        "text": "cuando ya hemos identificado y creado los grupos ahora debemos proceder a",
+        "startMs": 1387380,
+        "durationMs": 8930
+      },
+      {
+        "text": "definir el esquema de codificación que vamos a utilizar para los elementos de",
+        "startMs": 1396310,
+        "durationMs": 4979
+      },
+      {
+        "text": "inventario y luego proceder a crear dichos elementos",
+        "startMs": 1401289,
+        "durationMs": 5181
+      },
+      {
+        "text": "devolvámonos entonces a Excel esta parte de grupos ya la tenemos lista",
+        "startMs": 1406470,
+        "durationMs": 6000
+      },
+      {
+        "text": "vamos a devolvernos a la hoja donde tenemos el listado de los insumos",
+        "startMs": 1412470,
+        "durationMs": 8380
+      },
+      {
+        "startMs": 1420860,
+        "durationMs": 4850,
+        "text": "que es esta que tenemos acá"
+      },
+      {
+        "text": "cada una de estas categorías Pues si queremos podemos reemplazarla por su",
+        "startMs": 1425720,
+        "durationMs": 17569
+      },
+      {
+        "text": "y así Ahora debemos definir el esquema de",
+        "startMs": 1443299,
+        "durationMs": 5511
+      },
+      {
+        "text": "codificación que vamos a utilizar se pueden manejar diferentes esquemas de",
+        "startMs": 1448810,
+        "durationMs": 7099
+      },
+      {
+        "text": "codificación en la parte agrícola es común que los insumos se codifiquen",
+        "startMs": 1455909,
+        "durationMs": 8260
+      },
+      {
+        "text": "basados en el código del ica el ica asigna un código a cada uno de",
+        "startMs": 1464169,
+        "durationMs": 7681
+      },
+      {
+        "text": "los insumos digámoslo Así que ellos tienen autorizados para los diferentes",
+        "startMs": 1471850,
+        "durationMs": 5939
+      },
+      {
+        "text": "cultivos Entonces es normal que el código que le pone el cliente a cada uno",
+        "startMs": 1477789,
+        "durationMs": 7141
+      },
+      {
+        "text": "de estos insumos sea correspondiente a ese código de lic",
+        "startMs": 1484930,
+        "durationMs": 5219
+      },
+      {
+        "text": "sin embargo en la parte de conta pyme en la parte de manufactura y producción",
+        "startMs": 1490149,
+        "durationMs": 5461
+      },
+      {
+        "text": "pues es no hay un esquema de codificación a menos de que se decida",
+        "startMs": 1495610,
+        "durationMs": 6780
+      },
+      {
+        "text": "ponerle a cada uno de estos insumos el código que le tiene asignado su",
+        "startMs": 1502390,
+        "durationMs": 6600
+      },
+      {
+        "text": "proveedor en este caso vamos a utilizar un esquema de codificación que toma el",
+        "startMs": 1508990,
+        "durationMs": 8520
+      },
+      {
+        "text": "código del grupo al que va a pertenecer ese producto y luego le asigna un",
+        "startMs": 1517510,
+        "durationMs": 5159
+      },
+      {
+        "text": "consecutivo Entonces nos quedaría algo Como así",
+        "startMs": 1522669,
+        "durationMs": 6961
+      },
+      {
+        "text": "entonces las telas serían del 0 0 1 0 0 2 0 0 3 para que me sirve",
+        "startMs": 1529640,
+        "durationMs": 9529
+      },
+      {
+        "text": "Este modelo me sirve para que dentro del mismo código yo pueda identificar a qué",
+        "startMs": 1539169,
+        "durationMs": 21120
+      },
+      {
+        "text": "y así debemos hacer con todos los diferentes insumos",
+        "startMs": 1560299,
+        "durationMs": 7671
+      },
+      {
+        "text": "después de que ya hemos codificado Entonces ahora debemos mirar el tema de",
+        "startMs": 1567970,
+        "durationMs": 10679
+      },
+      {
+        "text": "si se presentan diferencias o sea si digamos Siempre es lo mismo como digamos",
+        "startMs": 1578659,
+        "durationMs": 5931
+      },
+      {
+        "text": "en estos casos que se compra y se consume en la misma unidad Pues en esos",
+        "startMs": 1584590,
+        "durationMs": 6000
+      },
+      {
+        "text": "casos no se necesitaría trabajar una configuración de unidad de compra pero",
+        "startMs": 1590590,
+        "durationMs": 7260
+      },
+      {
+        "text": "como en estos casos a veces sí y a veces no entonces antes de ir a crear el",
+        "startMs": 1597850,
+        "durationMs": 7620
+      },
+      {
+        "text": "producto debemos ingresar al sistema a configurar que nos permita definir",
+        "startMs": 1605470,
+        "durationMs": 6960
+      },
+      {
+        "text": "unidad de compra diferente a la unidad de consumo",
+        "startMs": 1612430,
+        "durationMs": 4320
+      },
+      {
+        "text": "vamos entonces a ubicarnos en conta pyme y activar esa opción",
+        "startMs": 1616750,
+        "durationMs": 8399
+      },
+      {
+        "text": "cerramos acá para activar la opción ingresamos a los elementos de inventario",
+        "startMs": 1625159,
+        "durationMs": 9411
+      },
+      {
+        "text": "y en configuración le decimos configuración avanzada",
+        "startMs": 1634580,
+        "durationMs": 6469
+      },
+      {
+        "text": "configuración todos los usuarios y buscamos la opción que debemos tenerla",
+        "startMs": 1641059,
+        "durationMs": 5871
+      },
+      {
+        "text": "por acá unidad de medida para compras esta",
+        "startMs": 1646930,
+        "durationMs": 4080
+      },
+      {
+        "text": "opción debemos activarla si está desactivada y si ya está activada pues",
+        "startMs": 1651010,
+        "durationMs": 5340
+      },
+      {
+        "text": "simplemente la dejamos activada y le damos a aceptar",
+        "startMs": 1656350,
+        "durationMs": 6720
+      },
+      {
+        "text": "claro Entonces esta parte de configuración vamos a proceder Entonces",
+        "startMs": 1663080,
+        "durationMs": 5750
+      },
+      {
+        "text": "ahora a crear los productos vamos a mirar el primero vamos a crearlo aquí",
+        "startMs": 1668830,
+        "durationMs": 12060
+      },
+      {
+        "text": "nuestro primer producto va a ser entonces este código tel001 tela",
+        "startMs": 1680900,
+        "durationMs": 6649
+      },
+      {
+        "text": "Lafayette la compramos en rollos la consumimos en metros la equivalencia es",
+        "startMs": 1687549,
+        "durationMs": 7081
+      },
+      {
+        "text": "de 50 metros por rollo y pertenece a la categoría de Telas vamos entonces ahora",
+        "startMs": 1694630,
+        "durationMs": 11600
+      },
+      {
+        "text": "ubicados en el catálogo de elementos de inventario Pues acá tenemos los cuatro",
+        "startMs": 1706240,
+        "durationMs": 5850
+      },
+      {
+        "text": "ejemplos que nos trae el sistema por defecto en agroin es también",
+        "startMs": 1712090,
+        "durationMs": 5579
+      },
+      {
+        "text": "completamente diferente mirémoslo aquí rápidamente antes de crear ese elemento",
+        "startMs": 1717669,
+        "durationMs": 6480
+      },
+      {
+        "text": "en agro Win el sistema nos sugiere una serie de insumos ya creados como podemos",
+        "startMs": 1724149,
+        "durationMs": 7801
+      },
+      {
+        "text": "ver casi que hay un insumo por cada uno de los grupos de inventario Estos son",
+        "startMs": 1731950,
+        "durationMs": 6180
+      },
+      {
+        "text": "más con el objetivo de que el usuario entienda Cómo es la estructura que se",
+        "startMs": 1738130,
+        "durationMs": 6659
+      },
+      {
+        "text": "espera que él realice esto se pueden eliminar y crear cada uno de los",
+        "startMs": 1744789,
+        "durationMs": 6661
+      },
+      {
+        "text": "diferentes insumos que si son propios de cada una de las empresas agrícolas en",
+        "startMs": 1751450,
+        "durationMs": 6599
+      },
+      {
+        "text": "conta pyme como acabamos de ver el listado si viene apenas con cuatro",
+        "startMs": 1758049,
+        "durationMs": 6120
+      },
+      {
+        "text": "productos que en este caso vamos a eliminar para crear ya los productos que",
+        "startMs": 1764169,
+        "durationMs": 4561
+      },
+      {
+        "text": "son propios de nuestra actividad",
+        "startMs": 1768730,
+        "durationMs": 4020
+      },
+      {
+        "text": "para eliminar estos cuatro elementos podemos hacerlo uno a uno",
+        "startMs": 1772760,
+        "durationMs": 8509
+      },
+      {
+        "text": "le decimos clic derecho utilidades Eliminar todos los elementos",
+        "startMs": 1781279,
+        "durationMs": 10551
+      },
+      {
+        "text": "y nos ha quedado el listado vacío Ahora sí vamos a proceder a crear nuestro",
+        "startMs": 1791840,
+        "durationMs": 6290
+      },
+      {
+        "text": "primer insumo le vamos a dar entonces crear le",
+        "startMs": 1798130,
+        "durationMs": 10620
+      },
+      {
+        "startMs": 1808760,
+        "durationMs": 9769,
+        "text": "le decimos el nombre"
+      },
+      {
+        "text": "luego debemos indicar la unidad recordemos que en el Excel estamos",
+        "startMs": 1818539,
+        "durationMs": 6651
+      },
+      {
+        "text": "trabajando dos unidades la unidad de compra y la unidad de consumo",
+        "startMs": 1825190,
+        "durationMs": 5900
+      },
+      {
+        "text": "siempre la unidad que indicamos aquí es la unidad de consumo la unidad de compra",
+        "startMs": 1831090,
+        "durationMs": 8079
+      },
+      {
+        "text": "se indica en otro lado entonces acá debemos indicar es unidad de consumo por",
+        "startMs": 1839169,
+        "durationMs": 7620
+      },
+      {
+        "text": "tanto en este caso vamos a seleccionar que la unidad de consumo Es el metro",
+        "startMs": 1846789,
+        "durationMs": 8461
+      },
+      {
+        "text": "luego indicamos el grupo de inventario Entonces vamos a seleccionarlo vamos a",
+        "startMs": 1855260,
+        "durationMs": 6470
+      },
+      {
+        "text": "decir que estos son telas Y si trabajamos con departamentos o",
+        "startMs": 1861730,
+        "durationMs": 5460
+      },
+      {
+        "text": "líneas podemos acá indicar la línea a la que va a pertenecer este producto esto",
+        "startMs": 1867190,
+        "durationMs": 4920
+      },
+      {
+        "text": "es más como de la parte comercial de la parte de insumos pues es poco común pero",
+        "startMs": 1872110,
+        "durationMs": 6960
+      },
+      {
+        "text": "también se puede utilizar revisamos entonces la definición del",
+        "startMs": 1879070,
+        "durationMs": 6180
+      },
+      {
+        "text": "elemento control de existencias y para consumo en otras definiciones pues no es",
+        "startMs": 1885250,
+        "durationMs": 6659
+      },
+      {
+        "text": "necesario poner nada a menos de que queramos llevar control de que el precio",
+        "startMs": 1891909,
+        "durationMs": 4740
+      },
+      {
+        "text": "de venta o el costo del producto sea cero esto también puede ser válido",
+        "startMs": 1896649,
+        "durationMs": 5101
+      },
+      {
+        "text": "Aunque vale la pena aclarar acá que a veces sucede que algunos insumos tienen",
+        "startMs": 1901750,
+        "durationMs": 8039
+      },
+      {
+        "text": "costo Cero en el en el tema agrícola es común que pase porque",
+        "startMs": 1909789,
+        "durationMs": 7281
+      },
+      {
+        "text": "la empresa Compra unos insumos y muchas veces su proveedor le obsequia a otros",
+        "startMs": 1917070,
+        "durationMs": 7420
+      },
+      {
+        "text": "sin costo si activamos esta opción tendríamos inconveniente con ese manejo",
+        "startMs": 1924490,
+        "durationMs": 6440
+      },
+      {
+        "text": "porque el sistema nos mostraría error en la pestaña de manejo de inventarios",
+        "startMs": 1930930,
+        "durationMs": 8080
+      },
+      {
+        "text": "vamos a buscar acá la opción que dice maneja unidad de compra diferente a la",
+        "startMs": 1939010,
+        "durationMs": 7860
+      },
+      {
+        "text": "y luego debemos decir en qué unidad es que vamos a comprar Entonces vamos a",
+        "startMs": 1946880,
+        "durationMs": 5750
+      },
+      {
+        "text": "decir que vamos a comprar en rollo y aquí ponemos la equivalencia es decir",
+        "startMs": 1952630,
+        "durationMs": 8060
+      },
+      {
+        "text": "en un rollo Cuántos metros hay entonces le vamos a decir que 50 metros",
+        "startMs": 1960690,
+        "durationMs": 8260
+      },
+      {
+        "text": "y ya con esto terminamos esta configuración",
+        "startMs": 1968950,
+        "durationMs": 4459
+      },
+      {
+        "text": "configuración a un elemento de inventarios pues se le",
+        "startMs": 1973409,
+        "durationMs": 2801
+      },
+      {
+        "text": "pueden configurar muchos otros opciones pero en esta parte de manejo de insumos",
+        "startMs": 1976210,
+        "durationMs": 6660
+      },
+      {
+        "text": "y materias primas Pues digamos que solo con estas configuraciones es suficiente",
+        "startMs": 1982870,
+        "durationMs": 9659
+      },
+      {
+        "text": "de la misma forma como creamos entonces la tela Lafayette debemos crear los",
+        "startMs": 1992539,
+        "durationMs": 6411
+      },
+      {
+        "text": "demás insumos nos debe quedar así",
+        "startMs": 1998950,
+        "durationMs": 5219
+      },
+      {
+        "text": "cada uno de los insumos creados con sus respectiva unidad de medida",
+        "startMs": 2004169,
+        "durationMs": 6261
+      },
+      {
+        "text": "con su respectivo grupo de inventarios si consultamos cualquiera de estos vamos",
+        "startMs": 2010430,
+        "durationMs": 6700
+      },
+      {
+        "text": "a encontrar la unidad de consumo",
+        "startMs": 2017130,
+        "durationMs": 6840
+      },
+      {
+        "text": "Y en este caso no hay unidad de compra significa que se compra y se consume en",
+        "startMs": 2023970,
+        "durationMs": 6120
+      },
+      {
+        "text": "la misma unidad",
+        "startMs": 2030090,
+        "durationMs": 4380
+      },
+      {
+        "text": "si miramos digamos uno como la esta entretela",
+        "startMs": 2034480,
+        "durationMs": 8169
+      },
+      {
+        "text": "acá se compra en metros Perdón se consumen",
+        "startMs": 2042649,
+        "durationMs": 5440
+      },
+      {
+        "text": "metros y también se compra en metros las telas",
+        "startMs": 2048089,
+        "durationMs": 3540
+      },
+      {
+        "text": "Generalmente son las que tienen ese manejo",
+        "startMs": 2051629,
+        "durationMs": 3361
+      },
+      {
+        "text": "se consume en metros y se compra en rollos de 50 metros",
+        "startMs": 2054990,
+        "durationMs": 7740
+      },
+      {
+        "text": "con esta configuración Entonces cuando realicemos una compra de este insumo el",
+        "startMs": 2062740,
+        "durationMs": 8030
+      },
+      {
+        "text": "sistema nos preguntará cantidad y costo por rollo pero",
+        "startMs": 2070770,
+        "durationMs": 5700
+      },
+      {
+        "text": "internamente lo registrará en metros más adelante haremos un ejemplo",
+        "startMs": 2076470,
+        "durationMs": 9060
+      },
+      {
+        "text": "la creación de los elementos se puede hacer una a una a través de la opción",
+        "startMs": 2085540,
+        "durationMs": 5510
+      },
+      {
+        "text": "crear o cuando se tienen en Excel pues se puede hacer A través de la plantilla",
+        "startMs": 2091050,
+        "durationMs": 6120
+      },
+      {
+        "text": "de importación igual tengamos en cuenta que acá tenemos",
+        "startMs": 2097170,
+        "durationMs": 5100
+      },
+      {
+        "text": "los principales insumos y materias primas identificados pero muy",
+        "startMs": 2102270,
+        "durationMs": 5339
+      },
+      {
+        "text": "seguramente más adelante aparecerán nuevos insumos que en ese caso debemos",
+        "startMs": 2107609,
+        "durationMs": 6240
+      },
+      {
+        "text": "crear entonces a través de esta opción que tenemos en la cinta de opciones",
+        "startMs": 2113849,
+        "durationMs": 6061
+      },
+      {
+        "text": "Aquí es importante aclarar que hasta el momento solo estamos hablando de",
+        "startMs": 2119910,
+        "durationMs": 5580
+      },
+      {
+        "text": "materias primas e insumos no hemos hablado todavía de producto terminado",
+        "startMs": 2125490,
+        "durationMs": 5040
+      },
+      {
+        "text": "por eso todos los grupos y los elementos que están creados están relacionados",
+        "startMs": 2130530,
+        "durationMs": 5880
+      },
+      {
+        "text": "solamente con materias primas como ya creamos los elementos podemos Si",
+        "startMs": 2136410,
+        "durationMs": 6900
+      },
+      {
+        "text": "queremos devolvernos a los grupos de inventario y eliminar estos grupos que",
+        "startMs": 2143310,
+        "durationMs": 5880
+      },
+      {
+        "text": "ahora sí nos va a permitir eliminarlos porque ya los elementos que estaban",
+        "startMs": 2149190,
+        "durationMs": 22379
+      },
+      {
+        "text": "tenemos Entonces hasta el momento recordemos",
+        "startMs": 2171579,
+        "durationMs": 8571
+      },
+      {
+        "text": "en la cuenta 71 una cuenta creada por cada uno de los grupos de",
+        "startMs": 2180160,
+        "durationMs": 7370
+      },
+      {
+        "text": "inventario que identificamos cuando hicimos nuestro listado de insumos y",
+        "startMs": 2187530,
+        "durationMs": 6120
+      },
+      {
+        "text": "materias primas estas cuentas Recuerden que la clave",
+        "startMs": 2193650,
+        "durationMs": 4260
+      },
+      {
+        "text": "Aquí está en el auto activar después de creadas las cuentas",
+        "startMs": 2197910,
+        "durationMs": 6500
+      },
+      {
+        "text": "procedemos a crear los grupos de inventario cada grupo de inventario",
+        "startMs": 2204410,
+        "durationMs": 13960
+      },
+      {
+        "text": "y después de crear los grupos de inventario creamos los elementos de",
+        "startMs": 2218380,
+        "durationMs": 7969
+      },
+      {
+        "text": "inventario cada elemento apuntando al grupo",
+        "startMs": 2226349,
+        "durationMs": 2581
+      },
+      {
+        "text": "correspondiente y aquellos elementos que manejan unidad de compra y unidad de",
+        "startMs": 2228930,
+        "durationMs": 6000
+      },
+      {
+        "text": "consumo diferente tienen activa la opción de maneja unidad de compra",
+        "startMs": 2234930,
+        "durationMs": 5340
+      },
+      {
+        "text": "diferente a la unidad general Con su respectiva equivalencia",
+        "startMs": 2240270,
+        "durationMs": 6420
+      },
+      {
+        "text": "veamos Entonces ahora que nos falta en esta parte de configuración",
+        "startMs": 2246700,
+        "durationMs": 7070
+      },
+      {
+        "text": "tenemos listado establecimos categorías creamos",
+        "startMs": 2253780,
+        "durationMs": 5329
+      },
+      {
+        "text": "cuentas creamos grupos y elementos nos falta la configuración de las Bodegas",
+        "startMs": 2259109,
+        "durationMs": 6081
+      },
+      {
+        "text": "Tan pronto terminemos la configuración de las Bodegas quedaremos listos para",
+        "startMs": 2265190,
+        "durationMs": 12419
+      },
+      {
+        "text": "con tapime en la parte de bodegas Generalmente trae dos bodegas creadas",
+        "startMs": 2277619,
+        "durationMs": 6811
+      },
+      {
+        "text": "que son la bodega de insumos y materiales y la bodega de producto",
+        "startMs": 2284430,
+        "durationMs": 6560
+      },
+      {
+        "text": "terminado recordemos que la principal",
+        "startMs": 2290990,
+        "durationMs": 2940
+      },
+      {
+        "text": "característica que tiene la bodega es que en ella se define la cuenta de",
+        "startMs": 2293930,
+        "durationMs": 11919
+      },
+      {
+        "text": "en este caso la bodega de insumos y materiales maneja",
+        "startMs": 2305859,
+        "durationMs": 6171
+      },
+      {
+        "text": "la cuenta 14 05 01 todos los productos que ingresen a esta bodega van a afectar",
+        "startMs": 2312030,
+        "durationMs": 8340
+      },
+      {
+        "text": "esta cuenta la 14 05 01 tiene también otras cuentas como son las cuentas de",
+        "startMs": 2320370,
+        "durationMs": 6900
+      },
+      {
+        "text": "ajuste y las cuentas de devoluciones pero realmente es esta la principal",
+        "startMs": 2327270,
+        "durationMs": 6299
+      },
+      {
+        "text": "Y tenemos una bodega de producto terminado que maneja la cuenta 143005",
+        "startMs": 2333569,
+        "durationMs": 8601
+      },
+      {
+        "text": "si dentro de las actividades que realiza la empresa también estuviera la compra y",
+        "startMs": 2342180,
+        "durationMs": 7290
+      },
+      {
+        "text": "venta de productos deberíamos tener una bodega comercial que en ese caso",
+        "startMs": 2349470,
+        "durationMs": 5700
+      },
+      {
+        "text": "manejaría la cuenta 1435 que sería la de mercancías para la venta",
+        "startMs": 2355170,
+        "durationMs": 7679
+      },
+      {
+        "text": "Cuántas bodegas se pueden crear pues todas las Bodegas que el cliente",
+        "startMs": 2362849,
+        "durationMs": 4281
+      },
+      {
+        "text": "considere necesarias algunos clientes quisieran que nos",
+        "startMs": 2367130,
+        "durationMs": 7000
+      },
+      {
+        "text": "tuvieran que separar los insumos del producto terminado porque ellos tienen",
+        "startMs": 2374130,
+        "durationMs": 5880
+      },
+      {
+        "text": "todo físicamente en una sola bodega el que el cliente tenga varias bodegas o",
+        "startMs": 2380010,
+        "durationMs": 7620
+      },
+      {
+        "text": "tenga una sola no equivale a que así mismo tiene que ser en conta pyme",
+        "startMs": 2387630,
+        "durationMs": 5300
+      },
+      {
+        "text": "recordemos que el concepto de bodega No necesariamente es físico también puede",
+        "startMs": 2392930,
+        "durationMs": 6040
+      },
+      {
+        "text": "ser una bodega virtual más cuando el cliente",
+        "startMs": 2398970,
+        "durationMs": 5900
+      },
+      {
+        "text": "quiere tener todo físicamente y en el sistema en una sola bodega pues en ese",
+        "startMs": 2404870,
+        "durationMs": 7000
+      },
+      {
+        "text": "caso manejamos una sola bodega pero tenemos que trabajar personalización de",
+        "startMs": 2411870,
+        "durationMs": 5820
+      },
+      {
+        "text": "cuentas para qué Para que la cuenta de inventario no se maneje a nivel de la",
+        "startMs": 2417690,
+        "durationMs": 7800
+      },
+      {
+        "text": "bodega sino que se maneje a nivel del elemento o en algunos casos a nivel del",
+        "startMs": 2425490,
+        "durationMs": 7619
+      },
+      {
+        "text": "grupo de inventario Lo mismo sucede con los grupos de inventario vale la pena",
+        "startMs": 2433109,
+        "durationMs": 6061
+      },
+      {
+        "text": "hacer la aclaración acá recordemos que es al grupo de inventario",
+        "startMs": 2439170,
+        "durationMs": 5100
+      },
+      {
+        "text": "al que nosotros le hemos configurado la cuenta de consumo la cuenta 71",
+        "startMs": 2444270,
+        "durationMs": 8339
+      },
+      {
+        "text": "si alguien deseara tener todo en un solo grupo o en varios grupos Pues en más",
+        "startMs": 2452609,
+        "durationMs": 9361
+      },
+      {
+        "text": "pocos grupos entonces podría trabajar una personalización de cuentas para que",
+        "startMs": 2461970,
+        "durationMs": 6300
+      },
+      {
+        "text": "la cuenta de consumo no se defina a nivel de grupo sino a nivel de elemento",
+        "startMs": 2468270,
+        "durationMs": 7740
+      },
+      {
+        "text": "entonces para que lo tengamos presente volviendo acá a las Bodegas Entonces",
+        "startMs": 2476010,
+        "durationMs": 5040
+      },
+      {
+        "text": "tenemos estas dos bodegas lo ideal siempre sería trabajar los insumos y el",
+        "startMs": 2481050,
+        "durationMs": 5760
+      },
+      {
+        "text": "producto terminado por separado pero como les digo pues se puede prestar para",
+        "startMs": 2486810,
+        "durationMs": 5299
+      },
+      {
+        "text": "múltiples configuraciones otra cosa puede ser digamos en las empresas",
+        "startMs": 2492109,
+        "durationMs": 5321
+      },
+      {
+        "text": "agropecuarias o agrícolas es normal bodega principal que es la que compra",
+        "startMs": 2497430,
+        "durationMs": 6300
+      },
+      {
+        "text": "todo y la que traslada a las bodegas de las fincas eso también lo podemos hacer",
+        "startMs": 2503730,
+        "durationMs": 5400
+      },
+      {
+        "text": "sin ningún inconveniente podemos crear las Bodegas que sean necesarias",
+        "startMs": 2509130,
+        "durationMs": 6920
+      },
+      {
+        "text": "importante tener en cuenta acá a nivel de bodega solo debemos trabajar la",
+        "startMs": 2516050,
+        "durationMs": 6779
+      },
+      {
+        "text": "cuenta 1405 14 30 y la 1435 nada de tener",
+        "startMs": 2522829,
+        "durationMs": 6221
+      },
+      {
+        "text": "ninguna bodega con la cuenta 1410 configurada eso es un error que nos",
+        "startMs": 2529050,
+        "durationMs": 5820
+      },
+      {
+        "text": "puede ocasionar problemas en el modelo de costeo",
+        "startMs": 2534870,
+        "durationMs": 3660
+      },
+      {
+        "text": "Cuando tenemos Entonces ya las Bodegas listas Ahora sí podríamos entonces",
+        "startMs": 2538530,
+        "durationMs": 5420
+      },
+      {
+        "text": "proceder a crear las diferentes operaciones que son las que nos van a",
+        "startMs": 2543950,
+        "durationMs": 6879
+      },
+      {
+        "text": "alimentar los inventarios antes de crear las operaciones es",
+        "startMs": 2550829,
+        "durationMs": 5760
+      },
+      {
+        "text": "importante que tengamos en cuenta que este proceso que estamos haciendo hasta",
+        "startMs": 2556589,
+        "durationMs": 5101
+      },
+      {
+        "text": "el momento lo estamos haciendo como si fuésemos a iniciar con el sistema desde",
+        "startMs": 2561690,
+        "durationMs": 5760
+      },
+      {
+        "text": "cero porque apenas estamos creando las cuentas 7 los grupos de inventario y los",
+        "startMs": 2567450,
+        "durationMs": 6780
+      },
+      {
+        "text": "elementos cuando ya venimos trabajando y vamos a iniciar con costos pues es",
+        "startMs": 2574230,
+        "durationMs": 6060
+      },
+      {
+        "text": "posible que este proceso que acabamos de realizar no sea necesario porque ya los",
+        "startMs": 2580290,
+        "durationMs": 5160
+      },
+      {
+        "text": "elementos están creados por tanto que nos corresponde hacer nos corresponde es",
+        "startMs": 2585450,
+        "durationMs": 5460
+      },
+      {
+        "text": "revisar que todo haya quedado bien entonces que las cuentas 7 estén bien",
+        "startMs": 2590910,
+        "durationMs": 7159
+      },
+      {
+        "text": "que los grupos de inventario estén bien creados y que los elementos estén bien",
+        "startMs": 2598069,
+        "durationMs": 6941
+      },
+      {
+        "text": "creados y bien configurados lo mismo y muy importante el tema de las Bodegas",
+        "startMs": 2605010,
+        "durationMs": 5819
+      },
+      {
+        "text": "porque a veces sucede que cuando no se trabaja costos se hacen algunas",
+        "startMs": 2610829,
+        "durationMs": 5941
+      },
+      {
+        "text": "configuraciones de bodegas que cuando se van a trabajar costos Ya no funcionan",
+        "startMs": 2616770,
+        "durationMs": 5460
+      },
+      {
+        "text": "entonces debemos revisar también la configuración de las Bodegas listo",
+        "startMs": 2622230,
+        "durationMs": 7320
+      },
+      {
+        "text": "también sucede cuando ya venimos con el sistema Pues que cuando vamos a iniciar",
+        "startMs": 2629550,
+        "durationMs": 6420
+      },
+      {
+        "text": "con costos no es necesario que hagamos cargue inicial Pues porque ya venimos",
+        "startMs": 2635970,
+        "durationMs": 5520
+      },
+      {
+        "text": "trabajando y tenemos insumos en las bodegas en este caso como apenas estamos",
+        "startMs": 2641490,
+        "durationMs": 6839
+      },
+      {
+        "text": "iniciando para registrar las existencias iniciales pues normalmente lo que se",
+        "startMs": 2648329,
+        "durationMs": 5581
+      },
+      {
+        "text": "hace Es que se realiza una operación de cargue inicial de inventarios La idea es",
+        "startMs": 2653910,
+        "durationMs": 6899
+      },
+      {
+        "text": "que identifiquemos aquellos insumos con los que vamos a empezar",
+        "startMs": 2660809,
+        "durationMs": 4341
+      },
+      {
+        "text": "digamos los inventarios y los registremos a través del asistente de",
+        "startMs": 2665150,
+        "durationMs": 6699
+      },
+      {
+        "text": "carga inicial vamos a Entonces cómo se hace esto",
+        "startMs": 2671849,
+        "durationMs": 3921
+      },
+      {
+        "text": "ingresamos entonces aquí al manejador de operaciones",
+        "startMs": 2675770,
+        "durationMs": 5079
+      },
+      {
+        "text": "operaciones vamos a seleccionar la fecha a la que",
+        "startMs": 2680849,
+        "durationMs": 2460
+      },
+      {
+        "text": "vamos a realizar el carga inicial vamos a hacer un ejercicio muy sencillo",
+        "startMs": 2683309,
+        "durationMs": 6901
+      },
+      {
+        "text": "Entonces ingresamos por operaciones carga inicial y vamos a hacer un cargue",
+        "startMs": 2690210,
+        "durationMs": 5700
+      },
+      {
+        "text": "inicial de inventarios para llegar al cargue inicial de",
+        "startMs": 2695910,
+        "durationMs": 4199
+      },
+      {
+        "text": "inventarios ya tuvo que haberse creado y configurado las Bodegas los grupos de",
+        "startMs": 2700109,
+        "durationMs": 5101
+      },
+      {
+        "text": "inventario y los elementos de inventario indicamos Entonces a qué bodega va a",
+        "startMs": 2705210,
+        "durationMs": 9000
+      },
+      {
+        "startMs": 2714220,
+        "durationMs": 4790,
+        "text": "el elemento que Vamos a ingresar"
+      },
+      {
+        "startMs": 2719020,
+        "durationMs": 4190,
+        "text": "la cantidad"
+      },
+      {
+        "startMs": 2723220,
+        "durationMs": 4190,
+        "text": "valor unitario o valor total"
+      },
+      {
+        "text": "acá debemos tener en cuenta algo y es recordemos que la tela Lafayette tiene",
+        "startMs": 2727420,
+        "durationMs": 7250
+      },
+      {
+        "text": "dos unidades unidad de compra y unidad de consumo la unidad de compra es en",
+        "startMs": 2734670,
+        "durationMs": 6540
+      },
+      {
+        "text": "rollos y la unidad de consumo en metros en el cargue inicial el sistema nos",
+        "startMs": 2741210,
+        "durationMs": 7139
+      },
+      {
+        "text": "pregunta unidad o cantidad mejor pero basado en la unidad de consumo miren que",
+        "startMs": 2748349,
+        "durationMs": 7141
+      },
+      {
+        "text": "acá nos dice que la unidad es metros cosa diferente a cuando vamos a comprar",
+        "startMs": 2755490,
+        "durationMs": 5460
+      },
+      {
+        "text": "es unidad de compra así como lo hacemos con la tela",
+        "startMs": 2760950,
+        "durationMs": 8159
+      },
+      {
+        "text": "Lafayette debemos cargar los demás productos",
+        "startMs": 2769109,
+        "durationMs": 5101
+      },
+      {
+        "text": "productos el carga inicial realmente es una",
+        "startMs": 2774210,
+        "durationMs": 2220
+      },
+      {
+        "text": "operación muy sencilla cuando el usuario va a iniciar con el",
+        "startMs": 2776430,
+        "durationMs": 5159
+      },
+      {
+        "text": "sistema muchas veces ya tiene su inventario en un Excel entonces lo que",
+        "startMs": 2781589,
+        "durationMs": 5941
+      },
+      {
+        "text": "podemos hacer es organizarle el Excel para que nos quede exactamente con esta",
+        "startMs": 2787530,
+        "durationMs": 6240
+      },
+      {
+        "text": "misma estructura y podamos copiar y pegar desde Excel y así agilizar el",
+        "startMs": 2793770,
+        "durationMs": 10260
+      },
+      {
+        "text": "tengamos en cuenta algo y es recordemos que esta operación de cargue inicial de",
+        "startMs": 2804040,
+        "durationMs": 6289
+      },
+      {
+        "text": "inventarios debe ir acompañada de una operación de carga inicial de cuentas",
+        "startMs": 2810329,
+        "durationMs": 6321
+      },
+      {
+        "text": "porque lo debe hacer porque esta operación cuando la procesamos",
+        "startMs": 2816650,
+        "durationMs": 7000
+      },
+      {
+        "text": "nos vamos a dar cuenta que solo nos afectó la cuenta del inventario nos hizo",
+        "startMs": 2823650,
+        "durationMs": 7020
+      },
+      {
+        "text": "un débito al inventario por 500 mil pesos y no nos hizo contrapartida ni en",
+        "startMs": 2830670,
+        "durationMs": 6120
+      },
+      {
+        "text": "el pasivo ni en el patrimonio por tanto en este momento tenemos el balance",
+        "startMs": 2836790,
+        "durationMs": 4799
+      },
+      {
+        "text": "descuadrado porque no se está cumpliendo con la ecuación patrimonial es decir el",
+        "startMs": 2841589,
+        "durationMs": 6661
+      },
+      {
+        "text": "activo No es igual al pasivo más el patrimonio",
+        "startMs": 2848250,
+        "durationMs": 4680
+      },
+      {
+        "text": "patrimonio debemos entonces",
+        "startMs": 2852930,
+        "durationMs": 1940
+      },
+      {
+        "text": "crear una operación de carga inicial de cuentas este cargue inicial de cuentas",
+        "startMs": 2854870,
+        "durationMs": 7060
+      },
+      {
+        "text": "se debe hacer a la misma fecha en la que se realizó el cargue inicial",
+        "startMs": 2861930,
+        "durationMs": 6960
+      },
+      {
+        "text": "de inventarios y debe hacer la contrapartida correspondiente entonces",
+        "startMs": 2868890,
+        "durationMs": 4380
+      },
+      {
+        "text": "debemos registrar en el pasivo o en el patrimonio el correspondiente a esos",
+        "startMs": 2873270,
+        "durationMs": 7799
+      },
+      {
+        "text": "500.000 Entonces digamos acá vamos a hacerlo rápidamente",
+        "startMs": 2881069,
+        "durationMs": 9780
+      },
+      {
+        "text": ".000 y debemos seleccionar el tercero con esto Entonces ya",
+        "startMs": 2890859,
+        "durationMs": 12531
+      },
+      {
+        "text": "y ya nuestro balance quedaría cuadrado hay que tener en cuenta que el balance",
+        "startMs": 2903400,
+        "durationMs": 5750
+      },
+      {
+        "text": "Perdón que los cargues iniciales tienen un manejo particular Y es que el carga",
+        "startMs": 2909150,
+        "durationMs": 7140
+      },
+      {
+        "text": "inicial de inventarios afecta contabilización local y contabilización",
+        "startMs": 2916290,
+        "durationMs": 4440
+      },
+      {
+        "text": "nif a la vez sin embargo el cargue inicial de cuentas si afecta o una o la",
+        "startMs": 2920730,
+        "durationMs": 6900
+      },
+      {
+        "text": "otra entonces Muchas veces es necesario registrarlo dos veces uno con tipo de",
+        "startMs": 2927630,
+        "durationMs": 5580
+      },
+      {
+        "text": "contabilización If y otro con tipo de contabilización local para que lo",
+        "startMs": 2933210,
+        "durationMs": 5099
+      },
+      {
+        "text": "tengamos presente bueno Esto es en el caso de que estemos apenas iniciando con",
+        "startMs": 2938309,
+        "durationMs": 6421
+      },
+      {
+        "text": "el sistema así como se hizo el cargue inicial de cuenta pues para cruzar ahí",
+        "startMs": 2944730,
+        "durationMs": 5700
+      },
+      {
+        "text": "el cargue de inventarios se debe hacer el cargue inicial de cuentas de todas",
+        "startMs": 2950430,
+        "durationMs": 5100
+      },
+      {
+        "text": "las demás las cuentas de efectivo cuentas por cobrar",
+        "startMs": 2955530,
+        "durationMs": 5600
+      },
+      {
+        "text": "se debe hacer el cargue fijos se debe hacer el cargue de pasivos y el cargue",
+        "startMs": 2961130,
+        "durationMs": 7300
+      },
+      {
+        "text": "de el patrimonio si estamos hablando Pues en un cargue A 31 de diciembre si",
+        "startMs": 2968430,
+        "durationMs": 6780
+      },
+      {
+        "text": "ya lo hacemos en un cargue a mitad de año o a cualquier digamos mes diferente",
+        "startMs": 2975210,
+        "durationMs": 6060
+      },
+      {
+        "text": "a diciembre en ese caso También tenemos que cargar las cuentas de resultado",
+        "startMs": 2981270,
+        "durationMs": 6480
+      },
+      {
+        "text": "si nosotros o mejor si el cliente no está iniciando apenas Pues lo que",
+        "startMs": 2987750,
+        "durationMs": 7859
+      },
+      {
+        "text": "debemos hacer no es un carga inicial sino",
+        "startMs": 2995609,
+        "durationMs": 4341
+      },
+      {
+        "text": "sino iniciar con el registro de compras",
+        "startMs": 2999950,
+        "durationMs": 2980
+      },
+      {
+        "text": "Entonces vamos a hacer un registro de una compra",
+        "startMs": 3002930,
+        "durationMs": 11780
+      },
+      {
+        "startMs": 3014720,
+        "durationMs": 5730,
+        "text": "pongámosle acá la fecha"
+      },
+      {
+        "text": "Es normal que las facturas de compra que me envíe mi proveedor",
+        "startMs": 3020460,
+        "durationMs": 6970
+      },
+      {
+        "text": "traigan pues vengan con un número con un número y también muchas veces",
+        "startMs": 3027440,
+        "durationMs": 5669
+      },
+      {
+        "text": "acompañados de un prefijo entonces en algunos casos la factura es digamos las",
+        "startMs": 3033109,
+        "durationMs": 6960
+      },
+      {
+        "text": "56 89 y en otros casos es la pl5689 lo ideal es que acá en el",
+        "startMs": 3040069,
+        "durationMs": 8760
+      },
+      {
+        "text": "documento número de documento pongamos el número de documento de la factura que",
+        "startMs": 3048829,
+        "durationMs": 5701
+      },
+      {
+        "text": "nos envió nuestro proveedor Con qué objetivo con el objetivo de que sea más",
+        "startMs": 3054530,
+        "durationMs": 6960
+      },
+      {
+        "text": "fácil de buscar ese documento en la contabilidad",
+        "startMs": 3061490,
+        "durationMs": 4440
+      },
+      {
+        "text": "contabilidad pero en este caso aquí arriba en",
+        "startMs": 3065930,
+        "durationMs": 2820
+      },
+      {
+        "text": "documento solo nos permite los números no nos permite el prefijo por eso me",
+        "startMs": 3068750,
+        "durationMs": 7559
+      },
+      {
+        "text": "gusta aquí en el detalle después de ya haberlo indicado en el documento si",
+        "startMs": 3076309,
+        "durationMs": 7321
+      },
+      {
+        "text": "poner el número tal cual me lo manda el proveedor",
+        "startMs": 3083630,
+        "durationMs": 5699
+      },
+      {
+        "text": "proveedor de esta forma voy a poder identificar el",
+        "startMs": 3089329,
+        "durationMs": 2641
+      },
+      {
+        "text": "documento por el número o por el detalle luego debemos seleccionar el proveedor",
+        "startMs": 3091970,
+        "durationMs": 9480
+      },
+      {
+        "text": "Entonces en este caso vamos a decir que esto se lo compramos a Lafayette",
+        "startMs": 3101450,
+        "durationMs": 6659
+      },
+      {
+        "startMs": 3108119,
+        "durationMs": 6351,
+        "text": "Vamos a darle acá y buscamos a la"
+      },
+      {
+        "text": "los proveedores pues ya deben estar creados en el catálogo de terceros o si",
+        "startMs": 3114480,
+        "durationMs": 6650
+      },
+      {
+        "text": "es necesario pues desde la misma compra a través de este botón que es un más",
+        "startMs": 3121130,
+        "durationMs": 4740
+      },
+      {
+        "text": "pues podemos hacer la creación del proveedor",
+        "startMs": 3125870,
+        "durationMs": 3840
+      },
+      {
+        "text": "proveedor si estamos trabajando con órdenes de",
+        "startMs": 3129710,
+        "durationMs": 2700
+      },
+      {
+        "text": "compra podemos aquí en referencia Llamar la orden de compra para que",
+        "startMs": 3132410,
+        "durationMs": 5040
+      },
+      {
+        "text": "automáticamente nos cargue los productos luego indicamos a qué bodega Vamos a",
+        "startMs": 3137450,
+        "durationMs": 6480
+      },
+      {
+        "text": "ingresar el producto y seleccionamos el él o los productos",
+        "startMs": 3143930,
+        "durationMs": 5340
+      },
+      {
+        "text": "que vamos a comprar Entonces vamos a decir que vamos a comprar estas tres",
+        "startMs": 3149270,
+        "durationMs": 15000
+      },
+      {
+        "text": "debemos Entonces ahora registrar costo por unidad o costo total acá es",
+        "startMs": 3164280,
+        "durationMs": 7370
+      },
+      {
+        "text": "importante que tengamos en cuenta la unidad que nos está mostrando el sistema",
+        "startMs": 3171650,
+        "durationMs": 7159
+      },
+      {
+        "text": "acá es unidad de compra no unidad de consumo vuelvo al ejemplo de la tela",
+        "startMs": 3178809,
+        "durationMs": 6461
+      },
+      {
+        "text": "Lafayette la tela Lafayette se compra en rollos pero se consume en metros",
+        "startMs": 3185270,
+        "durationMs": 8660
+      },
+      {
+        "text": "acá cuán la cantidad que debemos indicar es cantidad de metros o cantidad de",
+        "startMs": 3193930,
+        "durationMs": 6580
+      },
+      {
+        "text": "rollos es cantidad de rollos y ya el sistema internamente lo convertirá en",
+        "startMs": 3200510,
+        "durationMs": 5579
+      },
+      {
+        "text": "metros si Estos son rollos el costo por unidad que debemos registrar también",
+        "startMs": 3206089,
+        "durationMs": 6240
+      },
+      {
+        "text": "debe ser el costo del rollo no el costo del método muy importante que hagamos",
+        "startMs": 3212329,
+        "durationMs": 7681
+      },
+      {
+        "text": "énfasis en esta parte porque puede ocasionar inconvenientes el manejo de",
+        "startMs": 3220010,
+        "durationMs": 6360
+      },
+      {
+        "text": "esas dos unidades por eso siempre debemos basarnos en este dato que vemos",
+        "startMs": 3226370,
+        "durationMs": 5100
+      },
+      {
+        "text": "acá de unidad para saber qué unidad es la que se está trabajando en ese momento",
+        "startMs": 3231470,
+        "durationMs": 6900
+      },
+      {
+        "text": "Entonces indicamos vamos a decir digamos que compramos 100 botones",
+        "startMs": 3238370,
+        "durationMs": 6600
+      },
+      {
+        "text": "dos rollos de elástico tres rollos de hilo",
+        "startMs": 3244970,
+        "durationMs": 5900
+      },
+      {
+        "text": "dos rollos de tela Lafayette uno de popelina y uno de algodón ahora costo",
+        "startMs": 3250870,
+        "durationMs": 7120
+      },
+      {
+        "text": "por unidad de los botones vamos a decir que 50 pesos costo de el rollo de",
+        "startMs": 3257990,
+        "durationMs": 12300
+      },
+      {
+        "text": "costo del rollo de hilo esto le podemos decir que a 6000 Y eso que está caro",
+        "startMs": 3270300,
+        "durationMs": 6289
+      },
+      {
+        "text": "pongámosle a 5 000 costo del rollo de la tela Lafayette",
+        "startMs": 3276589,
+        "durationMs": 6480
+      },
+      {
+        "text": "miren que ahora cuando hicimos el carga inicial pusimos fue costo por metro acá",
+        "startMs": 3283069,
+        "durationMs": 7740
+      },
+      {
+        "text": "tenemos que poner es costo por rollo si nos equivocamos se nos puede dañar el",
+        "startMs": 3290809,
+        "durationMs": 9721
+      },
+      {
+        "text": "entonces acá vamos a decir que este rollo vale millón 200",
+        "startMs": 3300540,
+        "durationMs": 7250
+      },
+      {
+        "text": "la popelina vamos a decir que vale millón 50",
+        "startMs": 3307800,
+        "durationMs": 9230
+      },
+      {
+        "startMs": 3317040,
+        "durationMs": 6710,
+        "text": "y la tela de algodón que vale millón 500"
+      },
+      {
+        "text": "si estamos trabajando iba como mayor valor pues debemos verificar que nos",
+        "startMs": 3323760,
+        "durationMs": 6470
+      },
+      {
+        "text": "esté liquidando el IVA como mayor valor y también es importante que miremos si",
+        "startMs": 3330230,
+        "durationMs": 6180
+      },
+      {
+        "text": "se trabaja con esta opción que permite registrar el costo Con el IVA incluido",
+        "startMs": 3336410,
+        "durationMs": 7139
+      },
+      {
+        "text": "acá lo vamos a dejar así como está verificamos costo miren acá me quedo",
+        "startMs": 3343549,
+        "durationMs": 12000
+      },
+      {
+        "text": "a continuación Entonces tenemos el paso de otros gastos y tenemos el paso de",
+        "startMs": 3355559,
+        "durationMs": 5931
+      },
+      {
+        "text": "liquidación de impuestos Vamos a darle acá en el cálculo automático de",
+        "startMs": 3361490,
+        "durationMs": 5520
+      },
+      {
+        "text": "impuestos y nos dice que nos está calculando un IVA del 19% sobre una base",
+        "startMs": 3367010,
+        "durationMs": 6360
+      },
+      {
+        "text": "de 4 millones 950 muy seguramente",
+        "startMs": 3373370,
+        "durationMs": 6739
+      },
+      {
+        "text": "aquí Pues habrá uno que otro producto que no tiene IVA y por eso pues no nos",
+        "startMs": 3380119,
+        "durationMs": 6511
+      },
+      {
+        "text": "está tomando la totalidad si tuviéramos IVA como mayor valor pues",
+        "startMs": 3386630,
+        "durationMs": 5280
+      },
+      {
+        "text": "no nos debe aparecer como iba descontable no en este caso nos aparece",
+        "startMs": 3391910,
+        "durationMs": 4199
+      },
+      {
+        "text": "como iba descontable pues porque la empresa después",
+        "startMs": 3396109,
+        "durationMs": 5240
+      },
+      {
+        "text": "Este iba que va a pagar se lo va a poder descontar entonces por",
+        "startMs": 3401349,
+        "durationMs": 6700
+      },
+      {
+        "text": "eso lo estamos discriminando como iba a descontable luego tenemos entonces acá",
+        "startMs": 3408049,
+        "durationMs": 5701
+      },
+      {
+        "text": "la forma de pago podemos decirle que una cuenta por pagar",
+        "startMs": 3413750,
+        "durationMs": 11359
+      },
+      {
+        "text": "22 0501 y la fecha de pago podemos decirle que el 31 de enero y finalizar",
+        "startMs": 3425119,
+        "durationMs": 12411
+      },
+      {
+        "startMs": 3437540,
+        "durationMs": 8130,
+        "text": "acá tenemos un tema de filtros"
+      },
+      {
+        "text": "nos quedó fue en el 15 de diciembre vamos a modificar",
+        "startMs": 3445680,
+        "durationMs": 5290
+      },
+      {
+        "text": "esto es 15 pero de enero 14 de enero",
+        "startMs": 3450970,
+        "durationMs": 8440
+      },
+      {
+        "text": "y Aquí vamos a cambiarle la fecha de pago y decirle",
+        "startMs": 3459420,
+        "durationMs": 6350
+      },
+      {
+        "text": "31 de enero listo ahora sí ya nos quedó entonces registrada la compra si miramos",
+        "startMs": 3465770,
+        "durationMs": 12900
+      },
+      {
+        "text": "nos vamos a dar cuenta que tenemos un ingreso a la cuenta del inventario que",
+        "startMs": 3478680,
+        "durationMs": 7190
+      },
+      {
+        "text": "recordemos es la cuenta que está configurada en la bodega",
+        "startMs": 3485870,
+        "durationMs": 5479
+      },
+      {
+        "text": "tenemos la cuenta por pagar y acá tenemos el impuesto",
+        "startMs": 3491359,
+        "durationMs": 7651
+      },
+      {
+        "startMs": 3499020,
+        "durationMs": 4910,
+        "text": "Y si miramos el efecto en el inventario"
+      },
+      {
+        "text": "tenemos la el ingreso de los productos miren que en la tela Lafayette vamos a",
+        "startMs": 3503940,
+        "durationMs": 5990
+      },
+      {
+        "text": "poner acá dos columnas que se llama elemento nombre",
+        "startMs": 3509930,
+        "durationMs": 8060
+      },
+      {
+        "text": "y costo unitario",
+        "startMs": 3517990,
+        "durationMs": 4500
+      },
+      {
+        "text": "está ahí no costo por unidad acá refrescar entonces la tela Lafayette",
+        "startMs": 3522500,
+        "durationMs": 8270
+      },
+      {
+        "text": "en la compra compramos fue dos rollos pero internamente él no registró 100",
+        "startMs": 3530770,
+        "durationMs": 9100
+      },
+      {
+        "text": "metros la compra fue por 2 millones 400 es",
+        "startMs": 3539870,
+        "durationMs": 4080
+      },
+      {
+        "text": "decir cada metro Cuesta 24.000 lo mismo con la popelina el",
+        "startMs": 3543950,
+        "durationMs": 10560
+      },
+      {
+        "text": "con esto ya tenemos entonces inventario disponible la bodega para empezar a",
+        "startMs": 3554520,
+        "durationMs": 7190
+      },
+      {
+        "text": "hacer los consumos podemos entonces también consultar por acá un saldo de",
+        "startMs": 3561710,
+        "durationMs": 9000
+      },
+      {
+        "startMs": 3570720,
+        "durationMs": 11930,
+        "text": "vamos a mirarlo a enero"
+      },
+      {
+        "text": "y aquí nos Aparecen las existencias que acabamos de comprar",
+        "startMs": 3582660,
+        "durationMs": 7669
+      },
+      {
+        "text": "como ya tenemos entonces existencias podemos proceder ahora a realizar los",
+        "startMs": 3590339,
+        "durationMs": 8270
+      },
+      {
+        "text": "consumos los consumos se registran a través de",
+        "startMs": 3598609,
+        "durationMs": 4021
+      },
+      {
+        "text": "una operación que la encontramos acá en compras y se llama planilla de uso y",
+        "startMs": 3602630,
+        "durationMs": 6179
+      },
+      {
+        "text": "consumo más adelante hablaremos de unas pequeñas variaciones que se pueden hacer",
+        "startMs": 3608809,
+        "durationMs": 5240
+      },
+      {
+        "text": "Pero principalmente se hace por la planilla de uso y consumo",
+        "startMs": 3614049,
+        "durationMs": 5381
+      },
+      {
+        "text": "A qué fecha se debe hacer la planilla pues lo ideal siempre es hacerla después",
+        "startMs": 3619430,
+        "durationMs": 6359
+      },
+      {
+        "text": "de haber registrado la compra del insumo o sea debemos garantizar que tengamos",
+        "startMs": 3625789,
+        "durationMs": 7040
+      },
+      {
+        "text": "existencias del producto para poder hacer el consumo de este de estos",
+        "startMs": 3632829,
+        "durationMs": 7841
+      },
+      {
+        "text": "insumos una configuración que me gusta hacer es",
+        "startMs": 3640670,
+        "durationMs": 4879
+      },
+      {
+        "text": "cambiar acá la configuración de la operación",
+        "startMs": 3645549,
+        "durationMs": 5321
+      },
+      {
+        "text": "para que me muestre aquí en el seleccionador de elementos que me",
+        "startMs": 3650880,
+        "durationMs": 5449
+      },
+      {
+        "text": "muestre saldos basados en el explorador de saldos de inventario esto con qué",
+        "startMs": 3656329,
+        "durationMs": 5821
+      },
+      {
+        "text": "objetivo con el objetivo de que pueda ver existencias del producto Al momento",
+        "startMs": 3662150,
+        "durationMs": 7860
+      },
+      {
+        "text": "de hacer el consumo vamos a ver si nos funciona o es necesario cerrar la",
+        "startMs": 3670010,
+        "durationMs": 5339
+      },
+      {
+        "text": "operación y volverla a abrir vamos digamos entonces a decir que el 19",
+        "startMs": 3675349,
+        "durationMs": 4681
+      },
+      {
+        "text": "de enero vamos a consumir unos insumos Si",
+        "startMs": 3680030,
+        "durationMs": 4319
+      },
+      {
+        "text": "queremos podemos poner aquí en el detalle digamos",
+        "startMs": 3684349,
+        "durationMs": 5301
+      },
+      {
+        "text": "consumo de tela la",
+        "startMs": 3689660,
+        "durationMs": 8310
+      },
+      {
+        "text": "luego indicamos la bodega de la cual estamos consumiendo que sería la de",
+        "startMs": 3697980,
+        "durationMs": 6410
+      },
+      {
+        "text": "insumos y materiales si tenemos responsable pues podemos",
+        "startMs": 3704390,
+        "durationMs": 5840
+      },
+      {
+        "text": "aquí el sistema nos muestra cantidad contable y cantidad física Entonces le",
+        "startMs": 3715079,
+        "durationMs": 5451
+      },
+      {
+        "text": "vamos a decir que de la tela la falla tenemos 100 metros miren que acá ya nos",
+        "startMs": 3710230,
+        "durationMs": 19059
+      },
+      {
+        "text": "entonces de la tela Lafayette vamos a consumirla vamos a consumir 100",
+        "startMs": 3729299,
+        "durationMs": 6951
+      },
+      {
+        "text": "metros Perdón vamos a consumir digamos 10 metros",
+        "startMs": 3736250,
+        "durationMs": 4799
+      },
+      {
+        "text": "antes de indicar la cantidad el sistema nos pregunta centro de costos destino es",
+        "startMs": 3741049,
+        "durationMs": 6540
+      },
+      {
+        "text": "decir en qué unidad productiva se va a sacrificar esta tela Lafayette",
+        "startMs": 3747589,
+        "durationMs": 7041
+      },
+      {
+        "text": "recordemos que hasta que la tela no se sacrifique no se considera costo de",
+        "startMs": 3754630,
+        "durationMs": 5380
+      },
+      {
+        "text": "producción sí en este caso hasta este momento la tela es un",
+        "startMs": 3760010,
+        "durationMs": 8400
+      },
+      {
+        "text": "inventario ya cuando la apliquemos en la planilla",
+        "startMs": 3768410,
+        "durationMs": 2460
+      },
+      {
+        "text": "allí ya se va a convertir en un costo Entonces qué debemos indicar acá debemos",
+        "startMs": 3770870,
+        "durationMs": 5520
+      },
+      {
+        "text": "indicar el código de la línea de producción de la orden de producción del",
+        "startMs": 3776390,
+        "durationMs": 5399
+      },
+      {
+        "text": "cultivo transitorio o del cultivo perenne en el que se está consumiendo",
+        "startMs": 3781789,
+        "durationMs": 5661
+      },
+      {
+        "text": "este insumo nada de hacer consumos por allá a centros de costos básicos de",
+        "startMs": 3787450,
+        "durationMs": 7060
+      },
+      {
+        "text": "pronto los únicos que podrían sería hacer consumos a los indirectos o a los",
+        "startMs": 3794510,
+        "durationMs": 6900
+      },
+      {
+        "text": "de maquinaria y equipo siempre y cuando esos después se vayan a distribuir en",
+        "startMs": 3801410,
+        "durationMs": 4620
+      },
+      {
+        "text": "las unidades productivas pero tengamos en cuenta",
+        "startMs": 3806030,
+        "durationMs": 5420
+      },
+      {
+        "text": "que los insumos pues lo que es materias primas eso es un costo directo entonces",
+        "startMs": 3811450,
+        "durationMs": 7119
+      },
+      {
+        "text": "generalmente se carga directo a las unidades productivas",
+        "startMs": 3818569,
+        "durationMs": 4740
+      },
+      {
+        "text": "vamos entonces a seleccionar acá la línea de producción donde se va a",
+        "startMs": 3823309,
+        "durationMs": 5461
+      },
+      {
+        "text": "consumir esa tela vamos a decir que en las camisas",
+        "startMs": 3828770,
+        "durationMs": 6420
+      },
+      {
+        "text": "Cómo vemos el sistema no se exige que le indiquemos",
+        "startMs": 3835190,
+        "durationMs": 5340
+      },
+      {
+        "text": "indiquemos qué labor se estaba realizando o para",
+        "startMs": 3840530,
+        "durationMs": 3900
+      },
+      {
+        "text": "qué labor se consume esta tela Lafayette acá el sistema lo que hace es establecer",
+        "startMs": 3844430,
+        "durationMs": 7740
+      },
+      {
+        "text": "una relación entre los consumos de insumos y las labores que se van a",
+        "startMs": 3852170,
+        "durationMs": 5639
+      },
+      {
+        "text": "registrar cuando se hagan las planillas de labores que Eso lo veremos con el",
+        "startMs": 3857809,
+        "durationMs": 6061
+      },
+      {
+        "text": "tema de los costos de mano de obra por ahora",
+        "startMs": 3863870,
+        "durationMs": 5179
+      },
+      {
+        "text": "bastará con que seleccionemos pues alguna de las labores puede ser esta",
+        "startMs": 3869049,
+        "durationMs": 6280
+      },
+      {
+        "text": "labor general y luego indicamos la cantidad luego cuando miremos ya más en",
+        "startMs": 3875329,
+        "durationMs": 6240
+      },
+      {
+        "text": "detalle el tema de las labores entenderemos porque el sistema nos",
+        "startMs": 3881569,
+        "durationMs": 4740
+      },
+      {
+        "text": "pregunta en la planilla de uso y consumo la labor en la cual se está consumiendo",
+        "startMs": 3886309,
+        "durationMs": 6661
+      },
+      {
+        "text": "este insumo por ahora no nos preocupemos vamos a ponerle 0 y luego indicamos",
+        "startMs": 3892970,
+        "durationMs": 6780
+      },
+      {
+        "text": "entonces la cantidad hay que tener en cuenta que el sistema nos pregunta",
+        "startMs": 3899750,
+        "durationMs": 4680
+      },
+      {
+        "text": "cantidad lunes martes miércoles hasta el domingo pero realmente para él es más",
+        "startMs": 3904430,
+        "durationMs": 7080
+      },
+      {
+        "text": "una ayuda visual porque no importa cuántos metros yo le ponga el al final",
+        "startMs": 3911510,
+        "durationMs": 7860
+      },
+      {
+        "text": "lo que me va a registrar es el consumo de toda la semana este consumo va a",
+        "startMs": 3919370,
+        "durationMs": 5340
+      },
+      {
+        "text": "quedar registrado es con esta fecha que tenemos en la parte superior en ninguna",
+        "startMs": 3924710,
+        "durationMs": 4859
+      },
+      {
+        "text": "parte va a registrar que el lunes fueron 5 metros y que el martes fueron dos no",
+        "startMs": 3929569,
+        "durationMs": 4161
+      },
+      {
+        "text": "es el total a esta fecha como vemos la planilla no tiene más pasos no nos",
+        "startMs": 3933730,
+        "durationMs": 11740
+      },
+      {
+        "text": "A qué cuenta va a llevar o de qué cuenta va a sacar no",
+        "startMs": 3945480,
+        "durationMs": 4030
+      },
+      {
+        "text": "de qué cuenta de inventario va a salir pues de la cuenta que tenga la bodega Y",
+        "startMs": 3949510,
+        "durationMs": 5200
+      },
+      {
+        "text": "a qué cuenta de costos va a ir a la cuenta de costos que tenga configurado",
+        "startMs": 3954710,
+        "durationMs": 5579
+      },
+      {
+        "text": "el grupo al que pertenezca este elemento vamos entonces a darle finalizar",
+        "startMs": 3960289,
+        "durationMs": 7921
+      },
+      {
+        "text": "y vamos a ver el efecto contable y el efecto de inventarios entonces",
+        "startMs": 3968210,
+        "durationMs": 5540
+      },
+      {
+        "text": "contablemente salió de la cuenta de inventario y se fue para",
+        "startMs": 3973750,
+        "durationMs": 6579
+      },
+      {
+        "text": "la cuenta del costo acá nos aparece el centro de costos",
+        "startMs": 3980329,
+        "durationMs": 5700
+      },
+      {
+        "text": "el efecto del inventario",
+        "startMs": 3991390,
+        "durationMs": 5020
+      },
+      {
+        "text": "vemos una salida de 7 metros de tela Lafayette que tuvieron un costo de 168",
+        "startMs": 3996410,
+        "durationMs": 11639
+      },
+      {
+        "text": "si miramos el inventario la tela Lafayette estaba en 100 metros si le",
+        "startMs": 3986029,
+        "durationMs": 27060
+      },
+      {
+        "text": "damos actualizar pues ya nos quedó en 93 si miramos un explorador de inventarios",
+        "startMs": 4013089,
+        "durationMs": 10561
+      },
+      {
+        "text": "nos Aparecen las compras y aquí nos aparece el consumo de la tela Lafayette",
+        "startMs": 4023650,
+        "durationMs": 6620
+      },
+      {
+        "text": "Si queremos podemos aquí agregar la columna de centro de costos imputado y",
+        "startMs": 4030270,
+        "durationMs": 11220
+      },
+      {
+        "text": "el código de la línea de producción pero realmente el que nos interesa más",
+        "startMs": 4041500,
+        "durationMs": 7650
+      },
+      {
+        "text": "que los informes de inventarios es el informe de costos de producción de la",
+        "startMs": 4049150,
+        "durationMs": 6000
+      },
+      {
+        "text": "unidad productiva porque como vimos ya empezamos a cargar costos a la unidad",
+        "startMs": 4055150,
+        "durationMs": 6480
+      },
+      {
+        "text": "productiva vamos entonces a ubicarnos en el explorador gráfico",
+        "startMs": 4061630,
+        "durationMs": 5899
+      },
+      {
+        "text": "vamos a ubicarnos en la línea de producción",
+        "startMs": 4067529,
+        "durationMs": 5701
+      },
+      {
+        "text": "y con clic derecho le decimos informes costos producción y ventas",
+        "startMs": 4073230,
+        "durationMs": 6940
+      },
+      {
+        "text": "costos de producción de esta forma como lo hacemos con las líneas de producción",
+        "startMs": 4080170,
+        "durationMs": 5460
+      },
+      {
+        "text": "lo hacemos también con las órdenes de producción y los cultivos transitorios o",
+        "startMs": 4085630,
+        "durationMs": 7640
+      },
+      {
+        "text": "perennes esta cajita la miraremos más adelante",
+        "startMs": 4093270,
+        "durationMs": 2440
+      },
+      {
+        "text": "cuando hablemos de informes por ahora nos interesa es darle ver reporte",
+        "startMs": 4095710,
+        "durationMs": 6300
+      },
+      {
+        "text": "y acá nos aparece línea de producción de camisas",
+        "startMs": 4102010,
+        "durationMs": 5900
+      },
+      {
+        "text": "camisas costos acumulados a la fecha 168",
+        "startMs": 4107910,
+        "durationMs": 5140
+      },
+      {
+        "text": "mil y aquí abajo en el detalle de planillas de insumos y materiales",
+        "startMs": 4113050,
+        "durationMs": 3920
+      },
+      {
+        "text": "tenemos que se consumieron siete metros de tela",
+        "startMs": 4116970,
+        "durationMs": 5799
+      },
+      {
+        "text": "Lafayette con un costo de 168 mil pesos costo por metro de 24.000 Entonces como",
+        "startMs": 4122769,
+        "durationMs": 9000
+      },
+      {
+        "text": "vemos esa planilla no solamente nos afectó la contabilidad",
+        "startMs": 4131769,
+        "durationMs": 5420
+      },
+      {
+        "text": "nos afecta el inventario sino que también nos empieza ya a afectar",
+        "startMs": 4137189,
+        "durationMs": 6540
+      },
+      {
+        "text": "los costos de producción de esta línea recordemos que las líneas tienen",
+        "startMs": 4143729,
+        "durationMs": 6120
+      },
+      {
+        "text": "múltiples ciclos de costos y este consumo pues aplican en especial este",
+        "startMs": 4149849,
+        "durationMs": 7840
+      },
+      {
+        "text": "costo que este ciclo Perdón que estamos evaluando en este momento",
+        "startMs": 4157689,
+        "durationMs": 4921
+      },
+      {
+        "text": "materias primas pues ya tengamos creados algunos productores",
+        "startMs": 4168849,
+        "durationMs": 6081
+      },
+      {
+        "text": "Con qué objetivo con el objetivo de que tan pronto hacemos una transacción",
+        "startMs": 4174930,
+        "durationMs": 6419
+      },
+      {
+        "text": "podamos visualizar el efecto de esa transacción en los informes de costos Y",
+        "startMs": 4181349,
+        "durationMs": 6101
+      },
+      {
+        "text": "así pues nos vamos a ir familiarizando con el efecto que tienen las",
+        "startMs": 4187450,
+        "durationMs": 5580
+      },
+      {
+        "text": "producción Ya hicimos Entonces el consumo",
+        "startMs": 4196030,
+        "durationMs": 2720
+      },
+      {
+        "text": "de esta misma forma como se realiza este consumo se hacen todos los demás",
+        "startMs": 4198750,
+        "durationMs": 5919
+      },
+      {
+        "text": "consumos de los de los demás insumos lo mismo pasa con el área agrícola",
+        "startMs": 4204669,
+        "durationMs": 7341
+      },
+      {
+        "text": "cuando se consumen fertilizantes enmiendas coadyuvantes se hace también a",
+        "startMs": 4212010,
+        "durationMs": 6940
+      },
+      {
+        "text": "través de una planilla de consumo simplemente que aquí el centro de costos",
+        "startMs": 4218950,
+        "durationMs": 5520
+      },
+      {
+        "text": "destino pues ya no sería una línea de producción sino que sería el cultivo",
+        "startMs": 4224470,
+        "durationMs": 5520
+      },
+      {
+        "text": "transitorio o el cultivo en específico pero la planilla se hace de la misma",
+        "startMs": 4229990,
+        "durationMs": 8840
+      },
+      {
+        "text": "manera bueno estas entonces la operación",
+        "startMs": 4238830,
+        "durationMs": 3600
+      },
+      {
+        "text": "estrella digámoslo así para poder hacer el consumo de helados insumos y la",
+        "startMs": 4242430,
+        "durationMs": 6279
+      },
+      {
+        "text": "materia prima y es la que nos va a afectar principalmente la cuenta de",
+        "startMs": 4248709,
+        "durationMs": 5761
+      },
+      {
+        "text": "costos de materias primas miremos Entonces con qué tema debemos",
+        "startMs": 4162610,
+        "durationMs": 97500
+      },
+      {
+        "text": "continuar ya miramos entonces todo el tema de configuración de insumos y",
+        "startMs": 4260110,
+        "durationMs": 5280
+      },
+      {
+        "text": "materias primas acabamos de ver también transacciones ahora vamos a hablar de",
+        "startMs": 4265390,
+        "durationMs": 5819
+      },
+      {
+        "text": "estos tres casos especiales tenemos el caso del manejo de producto terminado",
+        "startMs": 4271209,
+        "durationMs": 6000
+      },
+      {
+        "text": "compuesto muy a pesar de que es un tema de producto terminado nos afecta el tema",
+        "startMs": 4277209,
+        "durationMs": 6000
+      },
+      {
+        "text": "de los consumos Por eso quiero ponerlo Pues en esta parte Igual cuando hablemos",
+        "startMs": 4283209,
+        "durationMs": 4921
+      },
+      {
+        "text": "de producción volveremos a poner el tema está el reintegro de materia prima que",
+        "startMs": 4193030,
+        "durationMs": 101639
+      },
+      {
+        "text": "se realiza cuando yo ya había hecho una planilla y había dicho que iba a",
+        "startMs": 4294669,
+        "durationMs": 5161
+      },
+      {
+        "text": "consumir siete metros de tela pero realmente solo consumimos 6 entonces hay",
+        "startMs": 4299830,
+        "durationMs": 4260
+      },
+      {
+        "text": "que devolver uno a la bodega y la transformación de productos que está",
+        "startMs": 4304090,
+        "durationMs": 5400
+      },
+      {
+        "text": "cuando trabajamos con costos también está relacionada con el consumo de",
+        "startMs": 4309490,
+        "durationMs": 4560
+      },
+      {
+        "text": "insumos Entonces iniciemos pues no vamos a profundizar",
+        "startMs": 4314050,
+        "durationMs": 5340
+      },
+      {
+        "text": "mucho sino que los vamos a mencionar para que los tengamos en cuenta en caso",
+        "startMs": 4319390,
+        "durationMs": 6180
+      },
+      {
+        "text": "de que en algún momento se requiere devolvámonos a contabili",
+        "startMs": 4325570,
+        "durationMs": 6000
+      },
+      {
+        "text": "vamos a cerrar acá todas estas ventanas y vamos a devolvernos a los elementos de",
+        "startMs": 4331570,
+        "durationMs": 7260
+      },
+      {
+        "text": "inventario sucede a veces que cuando ya estamos",
+        "startMs": 4338830,
+        "durationMs": 3660
+      },
+      {
+        "text": "creando los productos terminados aquí sólo estamos con insumos cuando ya",
+        "startMs": 4342490,
+        "durationMs": 5460
+      },
+      {
+        "text": "estamos creando los productos terminados nosotros podemos configurar un producto",
+        "startMs": 4347950,
+        "durationMs": 5100
+      },
+      {
+        "text": "terminado y decirle que es un elemento compuesto",
+        "startMs": 4353050,
+        "durationMs": 4740
+      },
+      {
+        "text": "compuesto cuando yo le digo a un elemento que es",
+        "startMs": 4357790,
+        "durationMs": 2580
+      },
+      {
+        "text": "compuesto yo le debo decir de Qué elementos se componen o sea cuáles son",
+        "startMs": 4360370,
+        "durationMs": 5520
+      },
+      {
+        "text": "sus partes dentro de la configuración de los",
+        "startMs": 4365890,
+        "durationMs": 4200
+      },
+      {
+        "text": "elementos compuestos voy a activarla aquí un momentico rápidamente para",
+        "startMs": 4370090,
+        "durationMs": 8820
+      },
+      {
+        "startMs": 4378920,
+        "durationMs": 7490,
+        "text": "activemos aquí los compuestos"
+      },
+      {
+        "text": "por acá están Entonces activemos lo y cojamos cualquiera de estos productos",
+        "startMs": 4386420,
+        "durationMs": 7729
+      },
+      {
+        "text": "aquí todo esto pues es insumos pero digamos que fuese un producto terminado",
+        "startMs": 4394149,
+        "durationMs": 6181
+      },
+      {
+        "text": "cuando es un producto terminado en muchas empresas los productos terminados",
+        "startMs": 4400330,
+        "durationMs": 4680
+      },
+      {
+        "text": "se configuran como elementos compuestos cuando yo configuro un elemento",
+        "startMs": 4405010,
+        "durationMs": 8580
+      },
+      {
+        "text": "compuesto en esta pestaña de elementos compuestos",
+        "startMs": 4413590,
+        "durationMs": 2579
+      },
+      {
+        "text": "yo debo definir su lista de partes Es decir indicar de Qué elementos se",
+        "startMs": 4416169,
+        "durationMs": 6661
+      },
+      {
+        "text": "compone y en qué cantidad cuando defino el comportamiento Pues yo",
+        "startMs": 4422830,
+        "durationMs": 6660
+      },
+      {
+        "text": "puedo venir y decir que se va a hacer un control de este producto a través de los",
+        "startMs": 4429490,
+        "durationMs": 6960
+      },
+      {
+        "text": "embodegamientos entonces hay que tener en cuenta algo y",
+        "startMs": 4436450,
+        "durationMs": 2699
+      },
+      {
+        "text": "es cuando yo manejo compuestos en producto terminado cuando yo manejo",
+        "startMs": 4439149,
+        "durationMs": 6560
+      },
+      {
+        "text": "compuestos no se tienen que hacer planillas de",
+        "startMs": 4445709,
+        "durationMs": 2861
+      },
+      {
+        "text": "consumo así como la que acabamos de hacer sino que en el mismo momento en el",
+        "startMs": 4448570,
+        "durationMs": 5520
+      },
+      {
+        "text": "que en bodegamos el producto terminado en ese momento el sistema hace el",
+        "startMs": 4454090,
+        "durationMs": 6720
+      },
+      {
+        "text": "consumo de los insumos que componen ese elemento eso es muy importante que lo",
+        "startMs": 4460810,
+        "durationMs": 6540
+      },
+      {
+        "text": "tengamos presente para que no nos pongamos a dar vueltas creyendo que",
+        "startMs": 4467350,
+        "durationMs": 5100
+      },
+      {
+        "text": "tenemos que registrar una planilla de consumo y después hacer un",
+        "startMs": 4472450,
+        "durationMs": 4080
+      },
+      {
+        "text": "embodegamiento de productos no cuando trabajamos compuestos en producto",
+        "startMs": 4476530,
+        "durationMs": 5760
+      },
+      {
+        "text": "terminado en el mismo momento en el que se hace el embocamiento del producto",
+        "startMs": 4482290,
+        "durationMs": 5640
+      },
+      {
+        "text": "terminado en ese mismo instante se hace el consumo de los insumos que Lo",
+        "startMs": 4487930,
+        "durationMs": 6060
+      },
+      {
+        "text": "componen entonces ahí no es necesario hacer la planilla de uso y consumo más",
+        "startMs": 4493990,
+        "durationMs": 6840
+      },
+      {
+        "text": "el efecto contable es el mismo o sea se bodega el producto terminado y se",
+        "startMs": 4500830,
+        "durationMs": 7140
+      },
+      {
+        "text": "consume la materia prima descontando la de la cuenta 1405 y llevándola a la",
+        "startMs": 4507970,
+        "durationMs": 6360
+      },
+      {
+        "text": "cuenta 7 que tenga configurado el grupo de inventario al que pertenece ese",
+        "startMs": 4514330,
+        "durationMs": 6740
+      },
+      {
+        "text": "elemento ese ejemplo lo haremos cuando miremos",
+        "startMs": 4521070,
+        "durationMs": 2920
+      },
+      {
+        "text": "producción pero es importante que lo tengamos en cuenta porque eso hace que",
+        "startMs": 4523990,
+        "durationMs": 6600
+      },
+      {
+        "text": "no tengamos que registrar planillas de uso y consumo",
+        "startMs": 4530590,
+        "durationMs": 4980
+      },
+      {
+        "text": "Ahora hay otro ejemplo similar Qué sucede cuando se registran las",
+        "startMs": 4535570,
+        "durationMs": 7320
+      },
+      {
+        "text": "transformaciones de productos que es otro de los casos especiales aquí en",
+        "startMs": 4542890,
+        "durationMs": 5880
+      },
+      {
+        "text": "inventarios hay una operación que se llama transformación de productos esta",
+        "startMs": 4548770,
+        "durationMs": 5520
+      },
+      {
+        "text": "operación permite convertir un producto en otro o convertir dos productos en",
+        "startMs": 4554290,
+        "durationMs": 6120
+      },
+      {
+        "text": "otro en uno solo cuando se trabaja con costos de",
+        "startMs": 4560410,
+        "durationMs": 5100
+      },
+      {
+        "text": "producción siempre la transformación nos va a pedir que el centro de costos que",
+        "startMs": 4565510,
+        "durationMs": 5940
+      },
+      {
+        "text": "indiquemos aquí sea un centro de costos productor una unidad productiva se",
+        "startMs": 4571450,
+        "durationMs": 7080
+      },
+      {
+        "text": "alinea orden o cultivo siempre nos va a solicitar centro de costos transformador",
+        "startMs": 4578530,
+        "durationMs": 5840
+      },
+      {
+        "text": "una transformación de productos tiene el siguiente efecto un consumo de los",
+        "startMs": 4584370,
+        "durationMs": 6940
+      },
+      {
+        "text": "elementos origen y un embodegamiento del elemento destino",
+        "startMs": 4591310,
+        "durationMs": 6240
+      },
+      {
+        "text": "cuando yo registro una transformación yo simplemente veo que él me convierte un",
+        "startMs": 4597550,
+        "durationMs": 4800
+      },
+      {
+        "text": "producto en otro pero internamente el efecto es el efecto de una planilla",
+        "startMs": 4602350,
+        "durationMs": 6660
+      },
+      {
+        "text": "de consumo y un empoderamiento a la vez este tema también lo veremos cuando",
+        "startMs": 4609010,
+        "durationMs": 6659
+      },
+      {
+        "text": "hablemos de producción pero acá también hay que tener en cuenta que no se",
+        "startMs": 4615669,
+        "durationMs": 6241
+      },
+      {
+        "text": "realiza planilla de consumo O sea la misma operación de transformación de",
+        "startMs": 4621910,
+        "durationMs": 5100
+      },
+      {
+        "text": "productos realiza las dos acciones o sea es parecido a lo que hablamos ahorita de",
+        "startMs": 4627010,
+        "durationMs": 7080
+      },
+      {
+        "text": "los elementos compuestos Solo que aquí pues ya es cambiar un producto por otro",
+        "startMs": 4634090,
+        "durationMs": 5099
+      },
+      {
+        "text": "por eso la operación se llama transformación de productos Entonces",
+        "startMs": 4639189,
+        "durationMs": 4161
+      },
+      {
+        "text": "otro caso especial que debemos tener en cuenta miremos que no estamos",
+        "startMs": 4643350,
+        "durationMs": 4420
+      },
+      {
+        "text": "profundizando mucho porque son más temas de producto terminado pero igual es",
+        "startMs": 4647770,
+        "durationMs": 6240
+      },
+      {
+        "text": "importante que nosotros los tengamos presente",
+        "startMs": 4654010,
+        "durationMs": 2940
+      },
+      {
+        "text": "presente ahora si hay un caso que es muy propio",
+        "startMs": 4656950,
+        "durationMs": 4020
+      },
+      {
+        "text": "del consumo de materias primas que es el tema del reintegro de materia prima",
+        "startMs": 4660970,
+        "durationMs": 6739
+      },
+      {
+        "text": "digamos que en este caso a nosotros no solicitaron siete metros de tela para la",
+        "startMs": 4667709,
+        "durationMs": 7361
+      },
+      {
+        "text": "línea de camisas nosotros hicimos la planilla todo bien no hubo problema pero",
+        "startMs": 4675070,
+        "durationMs": 6800
+      },
+      {
+        "text": "ya en la fabricación de camisas solo se solo fue necesario consumir seis metros",
+        "startMs": 4681870,
+        "durationMs": 7600
+      },
+      {
+        "text": "entonces sobre un metro y ese metro debemos",
+        "startMs": 4689470,
+        "durationMs": 5239
+      },
+      {
+        "text": "debemos reintegrarlo nuevamente a la bodega",
+        "startMs": 4694709,
+        "durationMs": 2921
+      },
+      {
+        "text": "Se podrían hacer varias cosas Si estamos todavía en el mismo mes en el",
+        "startMs": 4697630,
+        "durationMs": 6300
+      },
+      {
+        "text": "que se hizo el consumo Pues yo podría venir y Modificar el consumo venir acá y",
+        "startMs": 4703930,
+        "durationMs": 6719
+      },
+      {
+        "text": "ya no ponerle siete sino solo seis y con eso puedes solucionamos cierto pero si",
+        "startMs": 4710649,
+        "durationMs": 7321
+      },
+      {
+        "text": "el consumo se hizo digamos en el mes anterior y el reintegro se va a hacer en",
+        "startMs": 4717970,
+        "durationMs": 5640
+      },
+      {
+        "text": "este momento pues yo no me puedo devolver a corregir la planilla de uso y",
+        "startMs": 4723610,
+        "durationMs": 4320
+      },
+      {
+        "text": "consumo en ese caso lo que tendría que hacer es hacer un reintegro de materia",
+        "startMs": 4727930,
+        "durationMs": 8779
+      },
+      {
+        "text": "no existe un asistente especial para reintegrar la materia prima o sea no hay",
+        "startMs": 4736719,
+        "durationMs": 6271
+      },
+      {
+        "text": "un asistente que se llame reintegro de materia prima Por eso vamos a aprender",
+        "startMs": 4742990,
+        "durationMs": 5480
+      },
+      {
+        "text": "que si yo tengo que reintegrar materia prima lo voy a hacer A través de una",
+        "startMs": 4748470,
+        "durationMs": 6340
+      },
+      {
+        "text": "operación de embodegamiento de productos cuando yo hago un empoderamiento de",
+        "startMs": 4754810,
+        "durationMs": 6120
+      },
+      {
+        "text": "productos digamos que lo vamos a hacer el 25 de enero",
+        "startMs": 4760930,
+        "durationMs": 7460
+      },
+      {
+        "text": "bastará con que active esta opción la que dice devolución o reintegro de",
+        "startMs": 4768390,
+        "durationMs": 5500
+      },
+      {
+        "text": "materia de materia prima o productos elaborados para que el sistema sepa que",
+        "startMs": 4773890,
+        "durationMs": 6240
+      },
+      {
+        "text": "lo que vamos a hacer aquí es reintegrar una materia prima",
+        "startMs": 4780130,
+        "durationMs": 4099
+      },
+      {
+        "text": "entonces acá nos dice a qué bodega va a ingresar la materia prima entonces",
+        "startMs": 4784229,
+        "durationMs": 5701
+      },
+      {
+        "text": "a insumos y materiales Qué elemento va a ingresar Entonces le",
+        "startMs": 4789930,
+        "durationMs": 5020
+      },
+      {
+        "text": "vamos a decir que la tela Lafayette Cuántos metros va a reintegrar Entonces",
+        "startMs": 4794950,
+        "durationMs": 5699
+      },
+      {
+        "text": "le vamos a decir que un metro y cuál fue el productor digamos donde",
+        "startMs": 4800649,
+        "durationMs": 6241
+      },
+      {
+        "text": "usted inicialmente había hecho el consumo Entonces le vamos a decir que la",
+        "startMs": 4806890,
+        "durationMs": 4680
+      },
+      {
+        "text": "línea de camisas y vamos a darle finalizar",
+        "startMs": 4811570,
+        "durationMs": 10680
+      },
+      {
+        "text": "Bueno antes del efecto Perdón aquí se me olvidó una pequeña parte y fue el costo",
+        "startMs": 4822260,
+        "durationMs": 6889
+      },
+      {
+        "text": "estimado cierto en este caso pues yo tengo que indicar que en el momento del",
+        "startMs": 4829149,
+        "durationMs": 6361
+      },
+      {
+        "text": "consumo yo consumí el metro de tela a 24.000 y que en este caso que lo voy a",
+        "startMs": 4835510,
+        "durationMs": 7260
+      },
+      {
+        "text": "reintegrar Pues también es a 24.000 si dejamos el costo vacío Pues el sistema",
+        "startMs": 4842770,
+        "durationMs": 5939
+      },
+      {
+        "text": "no nos haría ningún ajuste y le damos finalizar Entonces vamos a mirar aquí el",
+        "startMs": 4848709,
+        "durationMs": 11061
+      },
+      {
+        "text": "recordemos que cuando hicimos el consumo salió de el inventario y se fue para el",
+        "startMs": 4859780,
+        "durationMs": 9090
+      },
+      {
+        "text": "costo como ahora Estamos reintegrando Entonces es al revés ingresa al",
+        "startMs": 4868870,
+        "durationMs": 8400
+      },
+      {
+        "text": "inventario y sale el costo listo",
+        "startMs": 4877270,
+        "durationMs": 4260
+      },
+      {
+        "text": "listo si miramos el efecto en el inventario",
+        "startMs": 4881530,
+        "durationMs": 6540
+      },
+      {
+        "text": "miren que volvió a entrar un metro de tela",
+        "startMs": 4888080,
+        "durationMs": 3670
+      },
+      {
+        "text": "tela a la bodega de insumos y materiales por",
+        "startMs": 4891750,
+        "durationMs": 3760
+      },
+      {
+        "text": "un costo de 24.000 Y si miramos el informe de costos",
+        "startMs": 4895510,
+        "durationMs": 22020
+      },
+      {
+        "text": "miren que el costo cambio ahora estaba en 168 y ahora aparece en",
+        "startMs": 4917540,
+        "durationMs": 8030
+      },
+      {
+        "text": "144 y ya no aparece que consumimos 7 metros de tela sino solo 6 entonces este",
+        "startMs": 4925570,
+        "durationMs": 8220
+      },
+      {
+        "text": "paso si es importante tenerlo en cuenta recordemos",
+        "startMs": 4933790,
+        "durationMs": 5120
+      },
+      {
+        "text": "recordemos no existe una operación con el nombre de",
+        "startMs": 4938910,
+        "durationMs": 3580
+      },
+      {
+        "text": "reintegro de materia prima el reintegro de materia prima se hace a través de un",
+        "startMs": 4942490,
+        "durationMs": 6900
+      },
+      {
+        "text": "asistente de empoderamiento de productos Lo importante es que le activemos esta",
+        "startMs": 4949390,
+        "durationMs": 6600
+      },
+      {
+        "text": "opción y cuando indiquemos el producto que vamos a reintegrar le debemos",
+        "startMs": 4955990,
+        "durationMs": 5960
+      },
+      {
+        "text": "indicar el costo estimado si nosotros no le indicamos el costo estimado el",
+        "startMs": 4961950,
+        "durationMs": 7719
+      },
+      {
+        "text": "producto va a volver a entrar a la bodega pero sin costo y ahí pues ya los",
+        "startMs": 4969669,
+        "durationMs": 5581
+      },
+      {
+        "text": "costos se nos dañarían entonces importante lo de indicar devolución o",
+        "startMs": 4975250,
+        "durationMs": 6540
+      },
+      {
+        "text": "reintegro e indicar el costo cómo me doy cuenta yo de A qué costo lo debo y",
+        "startMs": 4981790,
+        "durationMs": 6080
+      },
+      {
+        "text": "reintegrar pues en este caso yo me devuelvo aquí a la planilla en la que lo",
+        "startMs": 4987870,
+        "durationMs": 5859
+      },
+      {
+        "text": "consumí le puedo decir un imprimir como miramos",
+        "startMs": 4993729,
+        "durationMs": 5101
+      },
+      {
+        "text": "miramos de almacén aquí dice que salió a 24.000",
+        "startMs": 4998830,
+        "durationMs": 4140
+      },
+      {
+        "text": "Entonces yo ya sé Que cuando haga el reintegro pues debo reintegrarlo a los",
+        "startMs": 5002970,
+        "durationMs": 5759
+      },
+      {
+        "text": "mismos 24 mil pesos listo con esta operación Entonces ya quedaría como",
+        "startMs": 5008729,
+        "durationMs": 6420
+      },
+      {
+        "text": "terminado este ciclo del costo de las materias primas",
+        "startMs": 5015149,
+        "durationMs": 5241
+      },
+      {
+        "text": "muy importante ser cuidadosos en el tema de configuración de cuentas",
+        "startMs": 5020390,
+        "durationMs": 6720
+      },
+      {
+        "text": "en el tema también de configuración de los elementos para que se puedan",
+        "startMs": 5027110,
+        "durationMs": 5680
+      },
+      {
+        "text": "consumir Pues siempre tienen que estar marcados para para consumo y como les",
+        "startMs": 5032790,
+        "durationMs": 5760
+      },
+      {
+        "text": "decía cuando hicimos aquí la planilla pues hay que indicar un tema de labor",
+        "startMs": 5038550,
+        "durationMs": 5220
+      },
+      {
+        "text": "pero pues en esta parte No todavía no hemos activado y configurado el manejo",
+        "startMs": 5043770,
+        "durationMs": 7379
+      },
+      {
+        "text": "de actividades y labores por eso por ahora Pues pusimos un",
+        "startMs": 5051149,
+        "durationMs": 4381
+      },
+      {
+        "text": "un cero dos cosas importantes acá con ese tema que acabe de mencionar de las",
+        "startMs": 5055530,
+        "durationMs": 5880
+      },
+      {
+        "text": "actividades y las labores y es el siguiente",
+        "startMs": 5061410,
+        "durationMs": 4980
+      },
+      {
+        "text": "cuando trabajamos producto terminado compuesto que como",
+        "startMs": 5066400,
+        "durationMs": 5990
+      },
+      {
+        "text": "les dije cuando en bodegamos de una vez se hace el consumo y cuando trabajamos",
+        "startMs": 5072390,
+        "durationMs": 5040
+      },
+      {
+        "text": "transformación de productos allí no nos pide labor esas son los únicos consumos",
+        "startMs": 5077430,
+        "durationMs": 5219
+      },
+      {
+        "text": "que No exigen que se detalle la labor pero como les decía eso ya lo miraremos",
+        "startMs": 5082649,
+        "durationMs": 5520
+      },
+      {
+        "text": "más adelante bueno no siendo más Muchas gracias por la atención",
+        "startMs": 5088169,
+        "durationMs": 6451
+      }
+    ],
+    "plainText": "## Descripción del video\n\nMódulo de costos de ContaPyme® y AgroWin® - Tema: Materias primas\n\nDescripción:\nComprenda los conceptos básicos de insumos y materias primas, explicamos cómo configurar el sistema ContaPyme/AgroWin para costear la materia prima de manera efectiva. Estudiaremos un listado de materias primas y sus categorías, utilizando un ejemplo en Excel. Repase la configuración de cuentas de costos de producción para materias primas y grupos de inventarios. Aprenda a configurar productos de insumos y/o materias primas en el sistema, también a cómo crear y configurar bodegas de inventarios. Visualice cómo realizar cargues iniciales de inventarios y compras de materias primas y cómo realizar planillas de uso y/o consumo de las materias primas. Vea cómo consultar informes de inventarios y cómo consultar los costos de producción respecto a las materias primas. Finalmente revisamos algunos casos especiales que se pueden registrar en el sistema, y proporcionamos algunos ejemplos prácticos para ayudar a los usuarios a comprender mejor el proceso.\n\nExperta: Ing. Diana María Menjura\nEspecialista en producto de InSoft®\n\nSíganos en nuestras redes sociales:\nFacebook /SoftwareContableContaPyme \nInstagram /contapyme \n\nConozca más en www.contapyme.com y www.agrowin.com\n\n## Transcripción\n\nBienvenidos a esta sesión en la que hablaremos acerca de los costos de las\nmaterias primas antes de iniciar con la configuración\nque se requiere para el manejo de materias primas vamos a ver dos\nconceptos importantes que son insumo y materia prima\nel insumo son los elementos que están procesados y que ayudan a desarrollar un\nproducto o servicio final sin embargo las materias primas son\naquellos materiales que se extraen principalmente de la naturaleza y que\nconstituyen la base de algún producto si nos basamos en las imágenes estamos\nviendo elementos para la elaboración de calzado los insumos son aquellos\nproductos que ya están procesados Como por ejemplo las suelas las plantillas\nlos tacones los hilos y demás sin embargo la materia prima es el cuero que\nes un material que está extraído principalmente de la naturaleza\nAhora sí claros estos dos conceptos vamos a ver qué configuraciones debemos\nhacer para poder costear la materia prima\nlo primero que debemos hacer es definir un listado de insumos y materias primas\neso lo vamos a hacer inicialmente en Excel\nExcel La idea es que en una hoja de Excel\nHagamos una tabla como la que vemos en la pantalla\nCuál es la idea por cada uno de los diferentes insumos y materias primas\nvamos a definir nombre unidad de compra unidad de consumo\nequivalencia que es una equivalencia entre estas dos ya vamos a hacer un\nejemplo y vamos a definir una especie de categoría\nvoy a hacer un ejemplo entonces en el nombre del insumo le vamos a poner\ndigamos tela Lafayette listo luego debemos evaluar\nsi esta tela se compra en alguna unidad que sea diferente a la unidad de consumo\nDigamos que normalmente la tela Lafayette se consume en metros\nPero eso no significa que necesariamente se tenga que comprar en metros puede ser\ncuando hay diferencia entre la unidad de compra y la unidad de consumo debemos\nestablecer la equivalencia es decir cuántos metros hay en un rollo\nCuántas unidades de consumo hay en la unidad de compra digamos que en este\ncaso vamos a decir que en un rollo hay 50 metros\nAsimismo debemos hacer con todos los insumos y las materias primas en la\nparte de costos de producción Es normal que se maneje una unidad de compra\ndiferente a la unidad de consumo no solamente en el área de la manufactura o\nla producción industrial sino también en la parte agrícola Es normal que se\ncompre un insumo en litros y se consumen mililitros se compre en bultos y se\nconsuma en kilos se compren kilos y se consuma en gramos Es muy normal que se\nmanejen dos unidades diferentes por eso es importante que desde el mismo momento\nen el que nosotros estamos definiendo Este listado identifiquemos estas dos\nunidades y su respectiva equivalencia si el caso fuera que la tela Lafayette\ntambién se compra en metro Es decir se compra y se consume en metro aquí la\nequivalencia sería cero pero en este caso lo vamos a dejar que\nse compra en rollo luego de establecer unidades es\nimportante que empecemos a poner como una categoría para cada producto Cuál es\nel objetivo de la categoría que después basados en estas categorías vamos a\ncrear las cuentas en el plan de cuentas para lo que se refiere a consumo de\nmateria prima y vamos a crear los respectivos grupos de inventario\nEntonces digamos que en este caso yo puedo decir que la tela Lafayette\ny así mismo debemos hacer con todos los insumos no significa que cuando vamos a\nhacer este proceso todos los insumos tienen que estar identificados se hace\ncon los insumos que se tienen hasta el momento Y si más adelante Pues resulta\nalgún insumo ya lo que se debe hacer es proceder a crear cada uno de esos\nelementos en el catálogo de elementos de inventario en este caso lo vamos a hacer\ncon los elementos que tenemos identificados por tanto nos debe quedar\nalgo así como vemos nos ha quedado entonces un listado de unos insumos y\nmaterias primas que hemos identificado cada uno tiene nombre unidad de compra\nequivalencia y la categoría\nlo mismo como se hace acá con este ejemplo de Telas guatas cremalleras debe\nser en el caso de agro Win en agro Win se deben identificar todos los insumos y\nmaterias primas que se utilizan Así que puede ser algo como esto\nnos quedaría un listado en el que podemos ver los diferentes insumos\ncon su unidad de compra unidad de consumo\nconsumo equivalencia y la categoría miren\nfertilizantes insecticidas fungicidas coadyuvantes desinfectantes y demás\ncuando ya tenemos el listado Entonces ahora vamos a identificar Cuáles son\nesas categorías únicas que vamos a trabajar vamos a copiar\nla vamos a pegar en otra hoja\ny vamos a eliminar los duplicados\nlisto nos han quedado entonces nueve valores únicos\ntelas entretelas sesgos guatas cremalleras y demás\nahora vamos a ver en la diapositiva que paso debe seguir\nya tenemos el listado de insumos y materias primas\nestablecimos categorías o grupos y ahora debemos crear una cuenta 71 por cada\npor tanto como tenemos 8 grupos entonces debemos crear\nocho cuentas vamos en este momento\na ubicarnos en el plan de cuentas de contappyme y vamos a ver cómo se ve la\nestructura de la cuenta 7 en conta pyme y vamos a compararla contra la\nestructura de la cuenta en agroin estando ubicados en contapimy ingresamos\nal plan de cuentas y nos dirigimos a la cuenta 7\ncomo podemos ver con tapyme nos ofrece una estructura muy básica que es la\ncuenta principal subcuenta y una auxiliar tanto para materia prima que es\nla 71 mano de obra directa costos indirectos y contratos de servicios\nsin embargo en agroin es diferente en agro Win ingresamos al plan de\ncuentas verificamos la cuenta 7 y vamos a\nencontrar que agro Win nos ofrece una estructura de plan de cuenta muy\ncompleto ya nos ofrece auxiliares para materias primas para insumos agrícolas\nmiren que encontramos aquí un auxiliar para herbicidas fungicidas fertilizantes\ncoadyuvantes y demás también materiales de post cosecha materiales agrícolas\ncombustibles y lubricantes nos podemos hacer la pregunta de Por qué en\ncontapyme es tan básico y en agro Win la estructura es más completa\nresulta que en la parte agrícola independiente del\ncultivo que se maneje los insumos agrícolas todos pertenecen a las mismas\ncategorías puede que para el aguacate trabajen un insumo un fertilizante en\nparticular y que para el café trabaje en otro fertilizante Pero los dos van a\npertenecer a la misma categoría de fertilizantes por eso las categorías son\nmuy estándar casi todos los cultivos todas las fincas o empresas agrícolas\ntrabajan los mismos tipos o categorías de insumos agrícolas\nagrowing nos ofrece esa estructura ya definida y con eso nos facilita el\nproceso de configuración de los inventarios sin embargo en conta pyme\npues todas las empresas manufactureras o de producción son completamente\ndiferentes entonces el sistema no nos ofrece una estructura ya como sugerida\nsino que debemos empezar desde cero vamos entonces a devolvernos a contapyme\ny vamos a crear las cuentas correspondientes\ncorrespondientes dijimos entonces\nque por cada categoría o grupo debemos crear una cuenta en la 71 recordemos\nentonces que categorías son telas entretelas sesgos guatas\ncremalleras botones y los y elásticos vamos a crear telas\nmiramos la configuración y luego creamos las demás\ncomo ya existe la cuenta 71 01 01 Pues básicamente lo que vamos a hacer aquí es\nmodificar y vamos a cambiar el nombre entonces\npodemos ponerlo así\nlas cuentas están bueno podríamos ponerlo mejor con\nmayúsculas sostenida listo qué configuración tienen que tener estas\ncuentas Son tipo cuenta 5 de egresos clase\nnormal afectables directamente por el usuario\nusuario disponibles en operaciones de gastos e\ningresos siempre deben tener la opción de\nautoactivar recordemos que solo las cuentas 7 son\nlas que deben tener la opción de autoactivar ninguna otra en el plan de\ncuentas si tiene descuentos aquí en esta parte\nde impuestos descuentos y cargos debemos configurar los impuestos\ny en datos requeridos debe tener que exige centro de costos y maneja tercero\nlisto con esto ya nos queda bien configurada la cuenta y vamos a darle a\naceptar si necesitamos crear otra cuenta\npues podemos entonces pararnos en la 71 01\n01 y con clic derecho le decimos crear y\naquí crearíamos la 71 01 02 que sería digamos las entretelas\nrevisamos la misma que tenga la misma configuración\ny aquí en datos requeridos y aceptar de esta forma vamos a crear las demás\ncuentas y nos debe quedar así\ntelas entretelas sesgos guatas cremalleras botones y los y elásticos\nhemos creado entonces ocho cuentas cada una\nuna correspondiente a cada categoría de las\nque identificamos cuando sacamos el listado de los insumos y las materias\nprimas ya tenemos las cuentas vamos a mirar\nEntonces con qué continuamos listas las cuentas ahora debemos crear\nlos grupos y elementos asociados a estos grupos vamos a devolvernos entonces a\nEntonces esta es la 01 Esta es la 02 y así respectivamente\na cada uno de estos grupos debemos ponerle un código\nel código Pues es de libre definición por el usuario nosotros Pues digamos\nacostumbramos trabajar una estructura en la que el código son las tres primeras\nletras del nombre Entonces nos quedaría algo así\ncuando ya tenemos esto identificado nos vamos a ir al sistema y vamos a crear\ninventario vamos a encontrar que el sistema por defecto trae estos cuatro\ngrupos de ejemplo general impuesto al consumo de bolsas plásticas materias\nno podemos eliminarlos en este momento porque tienen elementos de inventario\nasociados así que por ahora debemos es proceder a crear los nuevos grupos Pero\nantes de hacer eso vamos a mirar cómo es esta misma estructura o sea Qué grupos\nde inventario nos sugiere agrow y vamos a ver que también es muy diferente\nen agro Win besamos a los grupos de inventario y nos vamos a dar cuenta que\nél ya nos trae creados unos grupos que son equivalentes a las cuentas que vimos\nen el plan de cuentas tenemos un grupo para enmiendas para biológicos\nfungicidas insumos menores nematicidas y demás si consultamos alguno de estos nos\nvamos a dar cuenta que ya viene configurado con su cuenta\nde nuevo como mencioné ahora agro Win tiene ya un plan de cuentas digamos\nsugerido lo mismo unos grupos de inventario sugeridos y ya lo que debe\nhacer el usuario es revisar y crear los grupos que falten y luego crear los\nelementos de inventario correspondientes de la misma forma como estamos haciendo\nen este momento con contapping devolvámonos entonces para con tapime y\nvamos a crear los grupos de inventario estando entonces ubicados en el catálogo\nde grupos de inventario vamos a proceder a dar la opción crear\nlo primero que nos pregunta es el código recordemos que estamos utilizando las\nindicamos nombre y luego debemos definir el grupo\ncontrol de existencias el control de existencias nos va a permitir en\ncualquier momento poder consultar un informe y poder ver las unidades\ndisponibles de este producto o mejor de los productos que van a pertenecer a\neste grupo el control de existencias requiere que se registren todas las\nentradas y todas las salidas del producto\nahora el uso Generalmente todos los insumos y las materias primas se\nconfiguran para consumo después de todo ese su fin principal ser consumidos\ndentro de los procesos internos de la empresa\nempresa las dos siguientes opciones\ndigamos que dependen de el tipo de actividad a la que se dedique la empresa\nsi yo compro telas y vendo telas lo marco como mercancía para la venta\nY si yo fabrico telas las marco como un producto de elaboración interna en este\ncaso para mí las telas son solo de consumo por tanto desactivamos estas dos\ndependiendo de la configuración que hayamos hecho en este primer paso el\nsistema nos va a requerir unas cuentas Nos pasamos a manejo contable Y tenemos\nnos pregunta la cuenta de egresos esta es la cuenta donde se debitarán los\nconsumos que se hagan de este producto por tanto es acá donde debemos\nconfigurar la respectiva cuenta que acabamos de crear en el plan de cuentas\nen este caso nos tomó la primera cuenta que es la 71 01 01 que Efectivamente es\nla cuenta de telas luego debemos configurar las cuentas de\ndeterioro Entonces vamos a buscar aquí las cuentas de deterioro\ny la de reversión\ny los impuestos en compra\nes importante en este paso que tengamos en cuenta si cuando nosotros compramos\ntelas nos cobran algún impuesto como el IVA\nentonces debemos venir acá en el IVA y seleccionar el concepto de liquidación\ncorrespondiente para que cuando hagamos la compra el sistema nos liquide\ncuando manejemos IVA debemos evaluar si vamos a asignar este IVA como mayor\nvalor Aquí es importante tener en cuenta cuando el IVA se debe manejar como mayor\nvalor cuando yo adquiero productos que tienen\niva pero mi producto final se encuentra en\nla categoría de excluidos en ese caso ese IVA que yo pagué cuando\ncompré los insumos no lo voy a poder recuperar\nrecuperar y aquellos impuestos que no son\nrecuperables se deben considerar mayor valor del costo de los inventarios\nentonces en otras palabras si la tela que yo compro tiene IVA pero\nmi producto final no tiene IVA el IVA de estas telas tiene que asumirse\ncomo mayor valor del inventario en ese caso tendríamos que activar esta opción\nya ustedes conocen el manejo del IVA como mayor valor acá simplemente estamos\nhaciendo énfasis en esta opción porque en la\nparte de producción es común que se maneje el IVA como mayor valor\nespecialmente en el tema agrícola Es normal que los insumos que se compran\ntengan IVA pero que el producto terminado no lo tenga por tanto ese IVA\ndebe asumirse Como mayor valor en este caso no lo vamos a marcar pero Ustedes\ndeben evaluarlo por cada uno de los grupos que van a crear\nde esta forma como acabamos de crear el grupo de Telas debemos crear los demás\ny nos debe quedar así un grupo para botones cremalleras elásticos entretelas\nguatas y cada uno de los grupos que tenemos identificados\ncuando ya hemos identificado y creado los grupos ahora debemos proceder a\ndefinir el esquema de codificación que vamos a utilizar para los elementos de\ninventario y luego proceder a crear dichos elementos\ndevolvámonos entonces a Excel esta parte de grupos ya la tenemos lista\nvamos a devolvernos a la hoja donde tenemos el listado de los insumos\nque es esta que tenemos acá\ncada una de estas categorías Pues si queremos podemos reemplazarla por su\ny así Ahora debemos definir el esquema de\ncodificación que vamos a utilizar se pueden manejar diferentes esquemas de\ncodificación en la parte agrícola es común que los insumos se codifiquen\nbasados en el código del ica el ica asigna un código a cada uno de\nlos insumos digámoslo Así que ellos tienen autorizados para los diferentes\ncultivos Entonces es normal que el código que le pone el cliente a cada uno\nde estos insumos sea correspondiente a ese código de lic\nsin embargo en la parte de conta pyme en la parte de manufactura y producción\npues es no hay un esquema de codificación a menos de que se decida\nponerle a cada uno de estos insumos el código que le tiene asignado su\nproveedor en este caso vamos a utilizar un esquema de codificación que toma el\ncódigo del grupo al que va a pertenecer ese producto y luego le asigna un\nconsecutivo Entonces nos quedaría algo Como así\nentonces las telas serían del 0 0 1 0 0 2 0 0 3 para que me sirve\nEste modelo me sirve para que dentro del mismo código yo pueda identificar a qué\ny así debemos hacer con todos los diferentes insumos\ndespués de que ya hemos codificado Entonces ahora debemos mirar el tema de\nsi se presentan diferencias o sea si digamos Siempre es lo mismo como digamos\nen estos casos que se compra y se consume en la misma unidad Pues en esos\ncasos no se necesitaría trabajar una configuración de unidad de compra pero\ncomo en estos casos a veces sí y a veces no entonces antes de ir a crear el\nproducto debemos ingresar al sistema a configurar que nos permita definir\nunidad de compra diferente a la unidad de consumo\nvamos entonces a ubicarnos en conta pyme y activar esa opción\ncerramos acá para activar la opción ingresamos a los elementos de inventario\ny en configuración le decimos configuración avanzada\nconfiguración todos los usuarios y buscamos la opción que debemos tenerla\npor acá unidad de medida para compras esta\nopción debemos activarla si está desactivada y si ya está activada pues\nsimplemente la dejamos activada y le damos a aceptar\nclaro Entonces esta parte de configuración vamos a proceder Entonces\nahora a crear los productos vamos a mirar el primero vamos a crearlo aquí\nnuestro primer producto va a ser entonces este código tel001 tela\nLafayette la compramos en rollos la consumimos en metros la equivalencia es\nde 50 metros por rollo y pertenece a la categoría de Telas vamos entonces ahora\nubicados en el catálogo de elementos de inventario Pues acá tenemos los cuatro\nejemplos que nos trae el sistema por defecto en agroin es también\ncompletamente diferente mirémoslo aquí rápidamente antes de crear ese elemento\nen agro Win el sistema nos sugiere una serie de insumos ya creados como podemos\nver casi que hay un insumo por cada uno de los grupos de inventario Estos son\nmás con el objetivo de que el usuario entienda Cómo es la estructura que se\nespera que él realice esto se pueden eliminar y crear cada uno de los\ndiferentes insumos que si son propios de cada una de las empresas agrícolas en\nconta pyme como acabamos de ver el listado si viene apenas con cuatro\nproductos que en este caso vamos a eliminar para crear ya los productos que\nson propios de nuestra actividad\npara eliminar estos cuatro elementos podemos hacerlo uno a uno\nle decimos clic derecho utilidades Eliminar todos los elementos\ny nos ha quedado el listado vacío Ahora sí vamos a proceder a crear nuestro\nprimer insumo le vamos a dar entonces crear le\nle decimos el nombre\nluego debemos indicar la unidad recordemos que en el Excel estamos\ntrabajando dos unidades la unidad de compra y la unidad de consumo\nsiempre la unidad que indicamos aquí es la unidad de consumo la unidad de compra\nse indica en otro lado entonces acá debemos indicar es unidad de consumo por\ntanto en este caso vamos a seleccionar que la unidad de consumo Es el metro\nluego indicamos el grupo de inventario Entonces vamos a seleccionarlo vamos a\ndecir que estos son telas Y si trabajamos con departamentos o\nlíneas podemos acá indicar la línea a la que va a pertenecer este producto esto\nes más como de la parte comercial de la parte de insumos pues es poco común pero\ntambién se puede utilizar revisamos entonces la definición del\nelemento control de existencias y para consumo en otras definiciones pues no es\nnecesario poner nada a menos de que queramos llevar control de que el precio\nde venta o el costo del producto sea cero esto también puede ser válido\nAunque vale la pena aclarar acá que a veces sucede que algunos insumos tienen\ncosto Cero en el en el tema agrícola es común que pase porque\nla empresa Compra unos insumos y muchas veces su proveedor le obsequia a otros\nsin costo si activamos esta opción tendríamos inconveniente con ese manejo\nporque el sistema nos mostraría error en la pestaña de manejo de inventarios\nvamos a buscar acá la opción que dice maneja unidad de compra diferente a la\ny luego debemos decir en qué unidad es que vamos a comprar Entonces vamos a\ndecir que vamos a comprar en rollo y aquí ponemos la equivalencia es decir\nen un rollo Cuántos metros hay entonces le vamos a decir que 50 metros\ny ya con esto terminamos esta configuración\nconfiguración a un elemento de inventarios pues se le\npueden configurar muchos otros opciones pero en esta parte de manejo de insumos\ny materias primas Pues digamos que solo con estas configuraciones es suficiente\nde la misma forma como creamos entonces la tela Lafayette debemos crear los\ndemás insumos nos debe quedar así\ncada uno de los insumos creados con sus respectiva unidad de medida\ncon su respectivo grupo de inventarios si consultamos cualquiera de estos vamos\na encontrar la unidad de consumo\nY en este caso no hay unidad de compra significa que se compra y se consume en\nla misma unidad\nsi miramos digamos uno como la esta entretela\nacá se compra en metros Perdón se consumen\nmetros y también se compra en metros las telas\nGeneralmente son las que tienen ese manejo\nse consume en metros y se compra en rollos de 50 metros\ncon esta configuración Entonces cuando realicemos una compra de este insumo el\nsistema nos preguntará cantidad y costo por rollo pero\ninternamente lo registrará en metros más adelante haremos un ejemplo\nla creación de los elementos se puede hacer una a una a través de la opción\ncrear o cuando se tienen en Excel pues se puede hacer A través de la plantilla\nde importación igual tengamos en cuenta que acá tenemos\nlos principales insumos y materias primas identificados pero muy\nseguramente más adelante aparecerán nuevos insumos que en ese caso debemos\ncrear entonces a través de esta opción que tenemos en la cinta de opciones\nAquí es importante aclarar que hasta el momento solo estamos hablando de\nmaterias primas e insumos no hemos hablado todavía de producto terminado\npor eso todos los grupos y los elementos que están creados están relacionados\nsolamente con materias primas como ya creamos los elementos podemos Si\nqueremos devolvernos a los grupos de inventario y eliminar estos grupos que\nahora sí nos va a permitir eliminarlos porque ya los elementos que estaban\ntenemos Entonces hasta el momento recordemos\nen la cuenta 71 una cuenta creada por cada uno de los grupos de\ninventario que identificamos cuando hicimos nuestro listado de insumos y\nmaterias primas estas cuentas Recuerden que la clave\nAquí está en el auto activar después de creadas las cuentas\nprocedemos a crear los grupos de inventario cada grupo de inventario\ny después de crear los grupos de inventario creamos los elementos de\ninventario cada elemento apuntando al grupo\ncorrespondiente y aquellos elementos que manejan unidad de compra y unidad de\nconsumo diferente tienen activa la opción de maneja unidad de compra\ndiferente a la unidad general Con su respectiva equivalencia\nveamos Entonces ahora que nos falta en esta parte de configuración\ntenemos listado establecimos categorías creamos\ncuentas creamos grupos y elementos nos falta la configuración de las Bodegas\nTan pronto terminemos la configuración de las Bodegas quedaremos listos para\ncon tapime en la parte de bodegas Generalmente trae dos bodegas creadas\nque son la bodega de insumos y materiales y la bodega de producto\nterminado recordemos que la principal\ncaracterística que tiene la bodega es que en ella se define la cuenta de\nen este caso la bodega de insumos y materiales maneja\nla cuenta 14 05 01 todos los productos que ingresen a esta bodega van a afectar\nesta cuenta la 14 05 01 tiene también otras cuentas como son las cuentas de\najuste y las cuentas de devoluciones pero realmente es esta la principal\nY tenemos una bodega de producto terminado que maneja la cuenta 143005\nsi dentro de las actividades que realiza la empresa también estuviera la compra y\nventa de productos deberíamos tener una bodega comercial que en ese caso\nmanejaría la cuenta 1435 que sería la de mercancías para la venta\nCuántas bodegas se pueden crear pues todas las Bodegas que el cliente\nconsidere necesarias algunos clientes quisieran que nos\ntuvieran que separar los insumos del producto terminado porque ellos tienen\ntodo físicamente en una sola bodega el que el cliente tenga varias bodegas o\ntenga una sola no equivale a que así mismo tiene que ser en conta pyme\nrecordemos que el concepto de bodega No necesariamente es físico también puede\nser una bodega virtual más cuando el cliente\nquiere tener todo físicamente y en el sistema en una sola bodega pues en ese\ncaso manejamos una sola bodega pero tenemos que trabajar personalización de\ncuentas para qué Para que la cuenta de inventario no se maneje a nivel de la\nbodega sino que se maneje a nivel del elemento o en algunos casos a nivel del\ngrupo de inventario Lo mismo sucede con los grupos de inventario vale la pena\nhacer la aclaración acá recordemos que es al grupo de inventario\nal que nosotros le hemos configurado la cuenta de consumo la cuenta 71\nsi alguien deseara tener todo en un solo grupo o en varios grupos Pues en más\npocos grupos entonces podría trabajar una personalización de cuentas para que\nla cuenta de consumo no se defina a nivel de grupo sino a nivel de elemento\nentonces para que lo tengamos presente volviendo acá a las Bodegas Entonces\ntenemos estas dos bodegas lo ideal siempre sería trabajar los insumos y el\nproducto terminado por separado pero como les digo pues se puede prestar para\nmúltiples configuraciones otra cosa puede ser digamos en las empresas\nagropecuarias o agrícolas es normal bodega principal que es la que compra\ntodo y la que traslada a las bodegas de las fincas eso también lo podemos hacer\nsin ningún inconveniente podemos crear las Bodegas que sean necesarias\nimportante tener en cuenta acá a nivel de bodega solo debemos trabajar la\ncuenta 1405 14 30 y la 1435 nada de tener\nninguna bodega con la cuenta 1410 configurada eso es un error que nos\npuede ocasionar problemas en el modelo de costeo\nCuando tenemos Entonces ya las Bodegas listas Ahora sí podríamos entonces\nproceder a crear las diferentes operaciones que son las que nos van a\nalimentar los inventarios antes de crear las operaciones es\nimportante que tengamos en cuenta que este proceso que estamos haciendo hasta\nel momento lo estamos haciendo como si fuésemos a iniciar con el sistema desde\ncero porque apenas estamos creando las cuentas 7 los grupos de inventario y los\nelementos cuando ya venimos trabajando y vamos a iniciar con costos pues es\nposible que este proceso que acabamos de realizar no sea necesario porque ya los\nelementos están creados por tanto que nos corresponde hacer nos corresponde es\nrevisar que todo haya quedado bien entonces que las cuentas 7 estén bien\nque los grupos de inventario estén bien creados y que los elementos estén bien\ncreados y bien configurados lo mismo y muy importante el tema de las Bodegas\nporque a veces sucede que cuando no se trabaja costos se hacen algunas\nconfiguraciones de bodegas que cuando se van a trabajar costos Ya no funcionan\nentonces debemos revisar también la configuración de las Bodegas listo\ntambién sucede cuando ya venimos con el sistema Pues que cuando vamos a iniciar\ncon costos no es necesario que hagamos cargue inicial Pues porque ya venimos\ntrabajando y tenemos insumos en las bodegas en este caso como apenas estamos\niniciando para registrar las existencias iniciales pues normalmente lo que se\nhace Es que se realiza una operación de cargue inicial de inventarios La idea es\nque identifiquemos aquellos insumos con los que vamos a empezar\ndigamos los inventarios y los registremos a través del asistente de\ncarga inicial vamos a Entonces cómo se hace esto\ningresamos entonces aquí al manejador de operaciones\noperaciones vamos a seleccionar la fecha a la que\nvamos a realizar el carga inicial vamos a hacer un ejercicio muy sencillo\nEntonces ingresamos por operaciones carga inicial y vamos a hacer un cargue\ninicial de inventarios para llegar al cargue inicial de\ninventarios ya tuvo que haberse creado y configurado las Bodegas los grupos de\ninventario y los elementos de inventario indicamos Entonces a qué bodega va a\nel elemento que Vamos a ingresar\nla cantidad\nvalor unitario o valor total\nacá debemos tener en cuenta algo y es recordemos que la tela Lafayette tiene\ndos unidades unidad de compra y unidad de consumo la unidad de compra es en\nrollos y la unidad de consumo en metros en el cargue inicial el sistema nos\npregunta unidad o cantidad mejor pero basado en la unidad de consumo miren que\nacá nos dice que la unidad es metros cosa diferente a cuando vamos a comprar\nes unidad de compra así como lo hacemos con la tela\nLafayette debemos cargar los demás productos\nproductos el carga inicial realmente es una\noperación muy sencilla cuando el usuario va a iniciar con el\nsistema muchas veces ya tiene su inventario en un Excel entonces lo que\npodemos hacer es organizarle el Excel para que nos quede exactamente con esta\nmisma estructura y podamos copiar y pegar desde Excel y así agilizar el\ntengamos en cuenta algo y es recordemos que esta operación de cargue inicial de\ninventarios debe ir acompañada de una operación de carga inicial de cuentas\nporque lo debe hacer porque esta operación cuando la procesamos\nnos vamos a dar cuenta que solo nos afectó la cuenta del inventario nos hizo\nun débito al inventario por 500 mil pesos y no nos hizo contrapartida ni en\nel pasivo ni en el patrimonio por tanto en este momento tenemos el balance\ndescuadrado porque no se está cumpliendo con la ecuación patrimonial es decir el\nactivo No es igual al pasivo más el patrimonio\npatrimonio debemos entonces\ncrear una operación de carga inicial de cuentas este cargue inicial de cuentas\nse debe hacer a la misma fecha en la que se realizó el cargue inicial\nde inventarios y debe hacer la contrapartida correspondiente entonces\ndebemos registrar en el pasivo o en el patrimonio el correspondiente a esos\n500.000 Entonces digamos acá vamos a hacerlo rápidamente\n.000 y debemos seleccionar el tercero con esto Entonces ya\ny ya nuestro balance quedaría cuadrado hay que tener en cuenta que el balance\nPerdón que los cargues iniciales tienen un manejo particular Y es que el carga\ninicial de inventarios afecta contabilización local y contabilización\nnif a la vez sin embargo el cargue inicial de cuentas si afecta o una o la\notra entonces Muchas veces es necesario registrarlo dos veces uno con tipo de\ncontabilización If y otro con tipo de contabilización local para que lo\ntengamos presente bueno Esto es en el caso de que estemos apenas iniciando con\nel sistema así como se hizo el cargue inicial de cuenta pues para cruzar ahí\nel cargue de inventarios se debe hacer el cargue inicial de cuentas de todas\nlas demás las cuentas de efectivo cuentas por cobrar\nse debe hacer el cargue fijos se debe hacer el cargue de pasivos y el cargue\nde el patrimonio si estamos hablando Pues en un cargue A 31 de diciembre si\nya lo hacemos en un cargue a mitad de año o a cualquier digamos mes diferente\na diciembre en ese caso También tenemos que cargar las cuentas de resultado\nsi nosotros o mejor si el cliente no está iniciando apenas Pues lo que\ndebemos hacer no es un carga inicial sino\nsino iniciar con el registro de compras\nEntonces vamos a hacer un registro de una compra\npongámosle acá la fecha\nEs normal que las facturas de compra que me envíe mi proveedor\ntraigan pues vengan con un número con un número y también muchas veces\nacompañados de un prefijo entonces en algunos casos la factura es digamos las\n56 89 y en otros casos es la pl5689 lo ideal es que acá en el\ndocumento número de documento pongamos el número de documento de la factura que\nnos envió nuestro proveedor Con qué objetivo con el objetivo de que sea más\nfácil de buscar ese documento en la contabilidad\ncontabilidad pero en este caso aquí arriba en\ndocumento solo nos permite los números no nos permite el prefijo por eso me\ngusta aquí en el detalle después de ya haberlo indicado en el documento si\nponer el número tal cual me lo manda el proveedor\nproveedor de esta forma voy a poder identificar el\ndocumento por el número o por el detalle luego debemos seleccionar el proveedor\nEntonces en este caso vamos a decir que esto se lo compramos a Lafayette\nVamos a darle acá y buscamos a la\nlos proveedores pues ya deben estar creados en el catálogo de terceros o si\nes necesario pues desde la misma compra a través de este botón que es un más\npues podemos hacer la creación del proveedor\nproveedor si estamos trabajando con órdenes de\ncompra podemos aquí en referencia Llamar la orden de compra para que\nautomáticamente nos cargue los productos luego indicamos a qué bodega Vamos a\ningresar el producto y seleccionamos el él o los productos\nque vamos a comprar Entonces vamos a decir que vamos a comprar estas tres\ndebemos Entonces ahora registrar costo por unidad o costo total acá es\nimportante que tengamos en cuenta la unidad que nos está mostrando el sistema\nacá es unidad de compra no unidad de consumo vuelvo al ejemplo de la tela\nLafayette la tela Lafayette se compra en rollos pero se consume en metros\nacá cuán la cantidad que debemos indicar es cantidad de metros o cantidad de\nrollos es cantidad de rollos y ya el sistema internamente lo convertirá en\nmetros si Estos son rollos el costo por unidad que debemos registrar también\ndebe ser el costo del rollo no el costo del método muy importante que hagamos\nénfasis en esta parte porque puede ocasionar inconvenientes el manejo de\nesas dos unidades por eso siempre debemos basarnos en este dato que vemos\nacá de unidad para saber qué unidad es la que se está trabajando en ese momento\nEntonces indicamos vamos a decir digamos que compramos 100 botones\ndos rollos de elástico tres rollos de hilo\ndos rollos de tela Lafayette uno de popelina y uno de algodón ahora costo\npor unidad de los botones vamos a decir que 50 pesos costo de el rollo de\ncosto del rollo de hilo esto le podemos decir que a 6000 Y eso que está caro\npongámosle a 5 000 costo del rollo de la tela Lafayette\nmiren que ahora cuando hicimos el carga inicial pusimos fue costo por metro acá\ntenemos que poner es costo por rollo si nos equivocamos se nos puede dañar el\nentonces acá vamos a decir que este rollo vale millón 200\nla popelina vamos a decir que vale millón 50\ny la tela de algodón que vale millón 500\nsi estamos trabajando iba como mayor valor pues debemos verificar que nos\nesté liquidando el IVA como mayor valor y también es importante que miremos si\nse trabaja con esta opción que permite registrar el costo Con el IVA incluido\nacá lo vamos a dejar así como está verificamos costo miren acá me quedo\na continuación Entonces tenemos el paso de otros gastos y tenemos el paso de\nliquidación de impuestos Vamos a darle acá en el cálculo automático de\nimpuestos y nos dice que nos está calculando un IVA del 19% sobre una base\nde 4 millones 950 muy seguramente\naquí Pues habrá uno que otro producto que no tiene IVA y por eso pues no nos\nestá tomando la totalidad si tuviéramos IVA como mayor valor pues\nno nos debe aparecer como iba descontable no en este caso nos aparece\ncomo iba descontable pues porque la empresa después\nEste iba que va a pagar se lo va a poder descontar entonces por\neso lo estamos discriminando como iba a descontable luego tenemos entonces acá\nla forma de pago podemos decirle que una cuenta por pagar\n22 0501 y la fecha de pago podemos decirle que el 31 de enero y finalizar\nacá tenemos un tema de filtros\nnos quedó fue en el 15 de diciembre vamos a modificar\nesto es 15 pero de enero 14 de enero\ny Aquí vamos a cambiarle la fecha de pago y decirle\n31 de enero listo ahora sí ya nos quedó entonces registrada la compra si miramos\nnos vamos a dar cuenta que tenemos un ingreso a la cuenta del inventario que\nrecordemos es la cuenta que está configurada en la bodega\ntenemos la cuenta por pagar y acá tenemos el impuesto\nY si miramos el efecto en el inventario\ntenemos la el ingreso de los productos miren que en la tela Lafayette vamos a\nponer acá dos columnas que se llama elemento nombre\ny costo unitario\nestá ahí no costo por unidad acá refrescar entonces la tela Lafayette\nen la compra compramos fue dos rollos pero internamente él no registró 100\nmetros la compra fue por 2 millones 400 es\ndecir cada metro Cuesta 24.000 lo mismo con la popelina el\ncon esto ya tenemos entonces inventario disponible la bodega para empezar a\nhacer los consumos podemos entonces también consultar por acá un saldo de\nvamos a mirarlo a enero\ny aquí nos Aparecen las existencias que acabamos de comprar\ncomo ya tenemos entonces existencias podemos proceder ahora a realizar los\nconsumos los consumos se registran a través de\nuna operación que la encontramos acá en compras y se llama planilla de uso y\nconsumo más adelante hablaremos de unas pequeñas variaciones que se pueden hacer\nPero principalmente se hace por la planilla de uso y consumo\nA qué fecha se debe hacer la planilla pues lo ideal siempre es hacerla después\nde haber registrado la compra del insumo o sea debemos garantizar que tengamos\nexistencias del producto para poder hacer el consumo de este de estos\ninsumos una configuración que me gusta hacer es\ncambiar acá la configuración de la operación\npara que me muestre aquí en el seleccionador de elementos que me\nmuestre saldos basados en el explorador de saldos de inventario esto con qué\nobjetivo con el objetivo de que pueda ver existencias del producto Al momento\nde hacer el consumo vamos a ver si nos funciona o es necesario cerrar la\noperación y volverla a abrir vamos digamos entonces a decir que el 19\nde enero vamos a consumir unos insumos Si\nqueremos podemos poner aquí en el detalle digamos\nconsumo de tela la\nluego indicamos la bodega de la cual estamos consumiendo que sería la de\ninsumos y materiales si tenemos responsable pues podemos\naquí el sistema nos muestra cantidad contable y cantidad física Entonces le\nvamos a decir que de la tela la falla tenemos 100 metros miren que acá ya nos\nentonces de la tela Lafayette vamos a consumirla vamos a consumir 100\nmetros Perdón vamos a consumir digamos 10 metros\nantes de indicar la cantidad el sistema nos pregunta centro de costos destino es\ndecir en qué unidad productiva se va a sacrificar esta tela Lafayette\nrecordemos que hasta que la tela no se sacrifique no se considera costo de\nproducción sí en este caso hasta este momento la tela es un\ninventario ya cuando la apliquemos en la planilla\nallí ya se va a convertir en un costo Entonces qué debemos indicar acá debemos\nindicar el código de la línea de producción de la orden de producción del\ncultivo transitorio o del cultivo perenne en el que se está consumiendo\neste insumo nada de hacer consumos por allá a centros de costos básicos de\npronto los únicos que podrían sería hacer consumos a los indirectos o a los\nde maquinaria y equipo siempre y cuando esos después se vayan a distribuir en\nlas unidades productivas pero tengamos en cuenta\nque los insumos pues lo que es materias primas eso es un costo directo entonces\ngeneralmente se carga directo a las unidades productivas\nvamos entonces a seleccionar acá la línea de producción donde se va a\nconsumir esa tela vamos a decir que en las camisas\nCómo vemos el sistema no se exige que le indiquemos\nindiquemos qué labor se estaba realizando o para\nqué labor se consume esta tela Lafayette acá el sistema lo que hace es establecer\nuna relación entre los consumos de insumos y las labores que se van a\nregistrar cuando se hagan las planillas de labores que Eso lo veremos con el\ntema de los costos de mano de obra por ahora\nbastará con que seleccionemos pues alguna de las labores puede ser esta\nlabor general y luego indicamos la cantidad luego cuando miremos ya más en\ndetalle el tema de las labores entenderemos porque el sistema nos\npregunta en la planilla de uso y consumo la labor en la cual se está consumiendo\neste insumo por ahora no nos preocupemos vamos a ponerle 0 y luego indicamos\nentonces la cantidad hay que tener en cuenta que el sistema nos pregunta\ncantidad lunes martes miércoles hasta el domingo pero realmente para él es más\nuna ayuda visual porque no importa cuántos metros yo le ponga el al final\nlo que me va a registrar es el consumo de toda la semana este consumo va a\nquedar registrado es con esta fecha que tenemos en la parte superior en ninguna\nparte va a registrar que el lunes fueron 5 metros y que el martes fueron dos no\nes el total a esta fecha como vemos la planilla no tiene más pasos no nos\nA qué cuenta va a llevar o de qué cuenta va a sacar no\nde qué cuenta de inventario va a salir pues de la cuenta que tenga la bodega Y\na qué cuenta de costos va a ir a la cuenta de costos que tenga configurado\nel grupo al que pertenezca este elemento vamos entonces a darle finalizar\ny vamos a ver el efecto contable y el efecto de inventarios entonces\ncontablemente salió de la cuenta de inventario y se fue para\nla cuenta del costo acá nos aparece el centro de costos\nel efecto del inventario\nvemos una salida de 7 metros de tela Lafayette que tuvieron un costo de 168\nsi miramos el inventario la tela Lafayette estaba en 100 metros si le\ndamos actualizar pues ya nos quedó en 93 si miramos un explorador de inventarios\nnos Aparecen las compras y aquí nos aparece el consumo de la tela Lafayette\nSi queremos podemos aquí agregar la columna de centro de costos imputado y\nel código de la línea de producción pero realmente el que nos interesa más\nque los informes de inventarios es el informe de costos de producción de la\nunidad productiva porque como vimos ya empezamos a cargar costos a la unidad\nproductiva vamos entonces a ubicarnos en el explorador gráfico\nvamos a ubicarnos en la línea de producción\ny con clic derecho le decimos informes costos producción y ventas\ncostos de producción de esta forma como lo hacemos con las líneas de producción\nlo hacemos también con las órdenes de producción y los cultivos transitorios o\nperennes esta cajita la miraremos más adelante\ncuando hablemos de informes por ahora nos interesa es darle ver reporte\ny acá nos aparece línea de producción de camisas\ncamisas costos acumulados a la fecha 168\nmil y aquí abajo en el detalle de planillas de insumos y materiales\ntenemos que se consumieron siete metros de tela\nLafayette con un costo de 168 mil pesos costo por metro de 24.000 Entonces como\nvemos esa planilla no solamente nos afectó la contabilidad\nnos afecta el inventario sino que también nos empieza ya a afectar\nlos costos de producción de esta línea recordemos que las líneas tienen\nmúltiples ciclos de costos y este consumo pues aplican en especial este\ncosto que este ciclo Perdón que estamos evaluando en este momento\nmaterias primas pues ya tengamos creados algunos productores\nCon qué objetivo con el objetivo de que tan pronto hacemos una transacción\npodamos visualizar el efecto de esa transacción en los informes de costos Y\nasí pues nos vamos a ir familiarizando con el efecto que tienen las\nproducción Ya hicimos Entonces el consumo\nde esta misma forma como se realiza este consumo se hacen todos los demás\nconsumos de los de los demás insumos lo mismo pasa con el área agrícola\ncuando se consumen fertilizantes enmiendas coadyuvantes se hace también a\ntravés de una planilla de consumo simplemente que aquí el centro de costos\ndestino pues ya no sería una línea de producción sino que sería el cultivo\ntransitorio o el cultivo en específico pero la planilla se hace de la misma\nmanera bueno estas entonces la operación\nestrella digámoslo así para poder hacer el consumo de helados insumos y la\nmateria prima y es la que nos va a afectar principalmente la cuenta de\ncostos de materias primas miremos Entonces con qué tema debemos\ncontinuar ya miramos entonces todo el tema de configuración de insumos y\nmaterias primas acabamos de ver también transacciones ahora vamos a hablar de\nestos tres casos especiales tenemos el caso del manejo de producto terminado\ncompuesto muy a pesar de que es un tema de producto terminado nos afecta el tema\nde los consumos Por eso quiero ponerlo Pues en esta parte Igual cuando hablemos\nde producción volveremos a poner el tema está el reintegro de materia prima que\nse realiza cuando yo ya había hecho una planilla y había dicho que iba a\nconsumir siete metros de tela pero realmente solo consumimos 6 entonces hay\nque devolver uno a la bodega y la transformación de productos que está\ncuando trabajamos con costos también está relacionada con el consumo de\ninsumos Entonces iniciemos pues no vamos a profundizar\nmucho sino que los vamos a mencionar para que los tengamos en cuenta en caso\nde que en algún momento se requiere devolvámonos a contabili\nvamos a cerrar acá todas estas ventanas y vamos a devolvernos a los elementos de\ninventario sucede a veces que cuando ya estamos\ncreando los productos terminados aquí sólo estamos con insumos cuando ya\nestamos creando los productos terminados nosotros podemos configurar un producto\nterminado y decirle que es un elemento compuesto\ncompuesto cuando yo le digo a un elemento que es\ncompuesto yo le debo decir de Qué elementos se componen o sea cuáles son\nsus partes dentro de la configuración de los\nelementos compuestos voy a activarla aquí un momentico rápidamente para\nactivemos aquí los compuestos\npor acá están Entonces activemos lo y cojamos cualquiera de estos productos\naquí todo esto pues es insumos pero digamos que fuese un producto terminado\ncuando es un producto terminado en muchas empresas los productos terminados\nse configuran como elementos compuestos cuando yo configuro un elemento\ncompuesto en esta pestaña de elementos compuestos\nyo debo definir su lista de partes Es decir indicar de Qué elementos se\ncompone y en qué cantidad cuando defino el comportamiento Pues yo\npuedo venir y decir que se va a hacer un control de este producto a través de los\nembodegamientos entonces hay que tener en cuenta algo y\nes cuando yo manejo compuestos en producto terminado cuando yo manejo\ncompuestos no se tienen que hacer planillas de\nconsumo así como la que acabamos de hacer sino que en el mismo momento en el\nque en bodegamos el producto terminado en ese momento el sistema hace el\nconsumo de los insumos que componen ese elemento eso es muy importante que lo\ntengamos presente para que no nos pongamos a dar vueltas creyendo que\ntenemos que registrar una planilla de consumo y después hacer un\nembodegamiento de productos no cuando trabajamos compuestos en producto\nterminado en el mismo momento en el que se hace el embocamiento del producto\nterminado en ese mismo instante se hace el consumo de los insumos que Lo\ncomponen entonces ahí no es necesario hacer la planilla de uso y consumo más\nel efecto contable es el mismo o sea se bodega el producto terminado y se\nconsume la materia prima descontando la de la cuenta 1405 y llevándola a la\ncuenta 7 que tenga configurado el grupo de inventario al que pertenece ese\nelemento ese ejemplo lo haremos cuando miremos\nproducción pero es importante que lo tengamos en cuenta porque eso hace que\nno tengamos que registrar planillas de uso y consumo\nAhora hay otro ejemplo similar Qué sucede cuando se registran las\ntransformaciones de productos que es otro de los casos especiales aquí en\ninventarios hay una operación que se llama transformación de productos esta\noperación permite convertir un producto en otro o convertir dos productos en\notro en uno solo cuando se trabaja con costos de\nproducción siempre la transformación nos va a pedir que el centro de costos que\nindiquemos aquí sea un centro de costos productor una unidad productiva se\nalinea orden o cultivo siempre nos va a solicitar centro de costos transformador\nuna transformación de productos tiene el siguiente efecto un consumo de los\nelementos origen y un embodegamiento del elemento destino\ncuando yo registro una transformación yo simplemente veo que él me convierte un\nproducto en otro pero internamente el efecto es el efecto de una planilla\nde consumo y un empoderamiento a la vez este tema también lo veremos cuando\nhablemos de producción pero acá también hay que tener en cuenta que no se\nrealiza planilla de consumo O sea la misma operación de transformación de\nproductos realiza las dos acciones o sea es parecido a lo que hablamos ahorita de\nlos elementos compuestos Solo que aquí pues ya es cambiar un producto por otro\npor eso la operación se llama transformación de productos Entonces\notro caso especial que debemos tener en cuenta miremos que no estamos\nprofundizando mucho porque son más temas de producto terminado pero igual es\nimportante que nosotros los tengamos presente\npresente ahora si hay un caso que es muy propio\ndel consumo de materias primas que es el tema del reintegro de materia prima\ndigamos que en este caso a nosotros no solicitaron siete metros de tela para la\nlínea de camisas nosotros hicimos la planilla todo bien no hubo problema pero\nya en la fabricación de camisas solo se solo fue necesario consumir seis metros\nentonces sobre un metro y ese metro debemos\ndebemos reintegrarlo nuevamente a la bodega\nSe podrían hacer varias cosas Si estamos todavía en el mismo mes en el\nque se hizo el consumo Pues yo podría venir y Modificar el consumo venir acá y\nya no ponerle siete sino solo seis y con eso puedes solucionamos cierto pero si\nel consumo se hizo digamos en el mes anterior y el reintegro se va a hacer en\neste momento pues yo no me puedo devolver a corregir la planilla de uso y\nconsumo en ese caso lo que tendría que hacer es hacer un reintegro de materia\nno existe un asistente especial para reintegrar la materia prima o sea no hay\nun asistente que se llame reintegro de materia prima Por eso vamos a aprender\nque si yo tengo que reintegrar materia prima lo voy a hacer A través de una\noperación de embodegamiento de productos cuando yo hago un empoderamiento de\nproductos digamos que lo vamos a hacer el 25 de enero\nbastará con que active esta opción la que dice devolución o reintegro de\nmateria de materia prima o productos elaborados para que el sistema sepa que\nlo que vamos a hacer aquí es reintegrar una materia prima\nentonces acá nos dice a qué bodega va a ingresar la materia prima entonces\na insumos y materiales Qué elemento va a ingresar Entonces le\nvamos a decir que la tela Lafayette Cuántos metros va a reintegrar Entonces\nle vamos a decir que un metro y cuál fue el productor digamos donde\nusted inicialmente había hecho el consumo Entonces le vamos a decir que la\nlínea de camisas y vamos a darle finalizar\nBueno antes del efecto Perdón aquí se me olvidó una pequeña parte y fue el costo\nestimado cierto en este caso pues yo tengo que indicar que en el momento del\nconsumo yo consumí el metro de tela a 24.000 y que en este caso que lo voy a\nreintegrar Pues también es a 24.000 si dejamos el costo vacío Pues el sistema\nno nos haría ningún ajuste y le damos finalizar Entonces vamos a mirar aquí el\nrecordemos que cuando hicimos el consumo salió de el inventario y se fue para el\ncosto como ahora Estamos reintegrando Entonces es al revés ingresa al\ninventario y sale el costo listo\nlisto si miramos el efecto en el inventario\nmiren que volvió a entrar un metro de tela\ntela a la bodega de insumos y materiales por\nun costo de 24.000 Y si miramos el informe de costos\nmiren que el costo cambio ahora estaba en 168 y ahora aparece en\n144 y ya no aparece que consumimos 7 metros de tela sino solo 6 entonces este\npaso si es importante tenerlo en cuenta recordemos\nrecordemos no existe una operación con el nombre de\nreintegro de materia prima el reintegro de materia prima se hace a través de un\nasistente de empoderamiento de productos Lo importante es que le activemos esta\nopción y cuando indiquemos el producto que vamos a reintegrar le debemos\nindicar el costo estimado si nosotros no le indicamos el costo estimado el\nproducto va a volver a entrar a la bodega pero sin costo y ahí pues ya los\ncostos se nos dañarían entonces importante lo de indicar devolución o\nreintegro e indicar el costo cómo me doy cuenta yo de A qué costo lo debo y\nreintegrar pues en este caso yo me devuelvo aquí a la planilla en la que lo\nconsumí le puedo decir un imprimir como miramos\nmiramos de almacén aquí dice que salió a 24.000\nEntonces yo ya sé Que cuando haga el reintegro pues debo reintegrarlo a los\nmismos 24 mil pesos listo con esta operación Entonces ya quedaría como\nterminado este ciclo del costo de las materias primas\nmuy importante ser cuidadosos en el tema de configuración de cuentas\nen el tema también de configuración de los elementos para que se puedan\nconsumir Pues siempre tienen que estar marcados para para consumo y como les\ndecía cuando hicimos aquí la planilla pues hay que indicar un tema de labor\npero pues en esta parte No todavía no hemos activado y configurado el manejo\nde actividades y labores por eso por ahora Pues pusimos un\nun cero dos cosas importantes acá con ese tema que acabe de mencionar de las\nactividades y las labores y es el siguiente\ncuando trabajamos producto terminado compuesto que como\nles dije cuando en bodegamos de una vez se hace el consumo y cuando trabajamos\ntransformación de productos allí no nos pide labor esas son los únicos consumos\nque No exigen que se detalle la labor pero como les decía eso ya lo miraremos\nmás adelante bueno no siendo más Muchas gracias por la atención"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 199.845,
+    "asr": 44100,
+    "filesizeApprox": 127248805,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2023",
+  "files": {
+    "year": "2023",
+    "kind": "videos",
+    "md": "videos/2023/Csh7NoeE6Vs.md",
+    "json": "videos/2023/Csh7NoeE6Vs.json",
+    "infoJson": "videos/2023/Csh7NoeE6Vs.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "Csh7NoeE6Vs",
+        "youtubeId": "Csh7NoeE6Vs",
+        "titulo": "Materias primas",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

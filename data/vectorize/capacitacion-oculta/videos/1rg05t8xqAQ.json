@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:24:40.801Z",
+  "videoId": "1rg05t8xqAQ",
+  "videoUrl": "https://www.youtube.com/watch?v=1rg05t8xqAQ",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "1rg05t8xqAQ",
+    "title": "Cálculo automático de impuestos",
+    "fulltitle": "Cálculo automático de impuestos",
+    "description": "En este video se explican las 4 configuraciones que se deben tener en cuenta para que el sistema calcule automáticamente los impuestos.",
+    "duration": 383,
+    "duration_string": "6:23",
+    "upload_date": "20210716",
+    "timestamp": 1626472379,
+    "view_count": 31,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/1rg05t8xqAQ/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLBuXRErsGj5RO1F9sE-OaqtYhHOkQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARhHIEkoZTAP&rs=AOn4CLC_hxyBaNb-zBDCH9jqyyhZOUHWzQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLC3VOout3DiqFmIWE6PeiFjDN7eaQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLBZGl86iPDuUJAy2Jb8fRizRqmKrQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhHIEkoZTAP&rs=AOn4CLA0ly6w041uZTcuSXh4oZDlw0n-_Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "34",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLBk6KAcANwEOGYBoV9gqEf2N4OeXA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "35",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhHIEkoZTAP&rs=AOn4CLB5JKnekBEvhSMC5kV-pqo9NkmhYw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "36",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIEkoZTAP&rs=AOn4CLB1wrNwjgR7IARIbS34nq0Mls6G-g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "37",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYRyBJKGUwDw==&rs=AOn4CLBeV2-0JtKJkKMNv8HB7iUz-A_Z4A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "38",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIEkoZTAP&rs=AOn4CLC0ShEn5XqXlPiGkEZ6-MZqAxa37A",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "39",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYRyBJKGUwDw==&rs=AOn4CLDb6JS7zw0xtSd-FdW22ALVCdHBrQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "40",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLBq9hH4qBlWxxGBpEg3m58n4T_j2A",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "41",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/hqdefault.webp",
+        "preference": -6,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/sddefault.jpg",
+        "preference": -5,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSShlMA8=&rs=AOn4CLBuXRErsGj5RO1F9sE-OaqtYhHOkQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "44",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/sddefault.webp",
+        "preference": -4,
+        "id": "45"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hq720.jpg",
+        "preference": -3,
+        "id": "46"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/hq720.webp",
+        "preference": -2,
+        "id": "47"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1rg05t8xqAQ/maxresdefault.jpg",
+        "preference": -1,
+        "id": "48"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1rg05t8xqAQ/maxresdefault.webp",
+        "preference": 0,
+        "id": "49"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=1rg05t8xqAQ",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.26109660574412535,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20365535248041775,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20365535248041775,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 165.101,
+        "asr": 44100,
+        "filesize_approx": 7900640,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Cálculo automático de impuestos",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/1rg05t8xqAQ/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/1rg05t8xqAQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Cálculo automático de impuestos\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 76,
+    "transcriptChars": 5775,
+    "segments": [
+      {
+        "text": "bien entonces como les comentaba con tap y me cuenta con una herramienta para",
+        "startMs": 0,
+        "durationMs": 4579
+      },
+      {
+        "text": "realizar de forma automática el cálculo de los diferentes impuestos que apliquen",
+        "startMs": 4579,
+        "durationMs": 5581
+      },
+      {
+        "text": "obviamente para cada tipo de empresa este cálculo de impuestos digamos que",
+        "startMs": 10160,
+        "durationMs": 5539
+      },
+      {
+        "text": "consta de unas configuraciones muy sencillas son básicamente cuatro",
+        "startMs": 15699,
+        "durationMs": 3921
+      },
+      {
+        "text": "configuraciones que los usuarios van a tener que tener presentes cuáles son",
+        "startMs": 19620,
+        "durationMs": 4989
+      },
+      {
+        "text": "esas cuatro configuraciones primero la clasificación legal y tributaria de la",
+        "startMs": 24609,
+        "durationMs": 6511
+      },
+      {
+        "text": "tributaria de los diferentes terceros con los cuales digamos se vayan",
+        "startMs": 33250,
+        "durationMs": 4950
+      },
+      {
+        "text": "realizando las transacciones o las operaciones",
+        "startMs": 38200,
+        "durationMs": 4190
+      },
+      {
+        "text": "operaciones tercero la configuración de las cuentas",
+        "startMs": 42390,
+        "durationMs": 4900
+      },
+      {
+        "text": "y cuarto la configuración de los conceptos de liquidación ya vamos a ver",
+        "startMs": 47290,
+        "durationMs": 4590
+      },
+      {
+        "text": "punto por punto a qué se refiere cada una de esas configuraciones y vamos a",
+        "startMs": 51880,
+        "durationMs": 4470
+      },
+      {
+        "text": "pasar al sistema para recordar un poco dónde vamos a encontrar esas diferentes",
+        "startMs": 56350,
+        "durationMs": 6910
+      },
+      {
+        "text": "configuraciones entonces la primera configuración es la",
+        "startMs": 63260,
+        "durationMs": 2310
+      },
+      {
+        "text": "clasificación legal y tributaria de la empresa está clasificación donde vamos a",
+        "startMs": 31120,
+        "durationMs": 39970
+      },
+      {
+        "text": "encontrar o dónde vamos a poder digamos tener presente esta configuración en el",
+        "startMs": 71090,
+        "durationMs": 5220
+      },
+      {
+        "text": "explorador gráfico de la empresa y que parte del explorador gráfico de la",
+        "startMs": 76310,
+        "durationMs": 4050
+      },
+      {
+        "text": "empresa en la ventana de creación de la empresa digamos si yo ya creé la empresa",
+        "startMs": 80360,
+        "durationMs": 5580
+      },
+      {
+        "text": "entro a modificar la operación en el paso de clasificación tributaria vamos a",
+        "startMs": 85940,
+        "durationMs": 6750
+      },
+      {
+        "text": "encontrar las diferentes opciones que el sistema nos ofrece en cuanto a la",
+        "startMs": 92690,
+        "durationMs": 4529
+      },
+      {
+        "text": "configuración legal y tributaria que tiene nuestra empresa",
+        "startMs": 97219,
+        "durationMs": 4531
+      },
+      {
+        "text": "el segundo digamos paso o la segunda configuración que tengo que tener",
+        "startMs": 101750,
+        "durationMs": 4410
+      },
+      {
+        "text": "presente es la clasificación legal y tributaria de mis terceros donde puedo",
+        "startMs": 106160,
+        "durationMs": 5130
+      },
+      {
+        "text": "tener acceso a esa clasificación legal y tributaria en el catálogo de terceros",
+        "startMs": 111290,
+        "durationMs": 4920
+      },
+      {
+        "text": "aquí les muestro digamos la pestaña entonces yo lo que tengo que hacer cada",
+        "startMs": 116210,
+        "durationMs": 4200
+      },
+      {
+        "text": "vez que yo creé un tercero dentro de los datos que que digamos la pestaña o la",
+        "startMs": 120410,
+        "durationMs": 5310
+      },
+      {
+        "text": "ventana de edición del tercero me pide vamos a encontrar esta pestañita de acá",
+        "startMs": 125720,
+        "durationMs": 4560
+      },
+      {
+        "text": "que ya vamos a pasar a verla al sistema de clasificación tributaria entonces",
+        "startMs": 130280,
+        "durationMs": 4890
+      },
+      {
+        "text": "aquí tengo que hacer también esa definición del del perfil jurídico y",
+        "startMs": 135170,
+        "durationMs": 5190
+      },
+      {
+        "text": "legal que tiene que tiene cada uno de mis terceros vamos a continuar con la",
+        "startMs": 140360,
+        "durationMs": 6300
+      },
+      {
+        "text": "tercera configuración y es la configuración que debemos hacer en las",
+        "startMs": 146660,
+        "durationMs": 3510
+      },
+      {
+        "text": "cuentas esta configuración pues básicamente como les comentaba vamos a",
+        "startMs": 150170,
+        "durationMs": 3840
+      },
+      {
+        "text": "encontrarla en el plan de cuentas en la ventana de edición de cada cuenta miren",
+        "startMs": 154010,
+        "durationMs": 4950
+      },
+      {
+        "text": "que en este paso de acá vamos a encontrar la clase de la cuenta",
+        "startMs": 158960,
+        "durationMs": 5010
+      },
+      {
+        "text": "y dependiendo de esa clase de la cuenta vamos a poder configurar los diferentes",
+        "startMs": 163970,
+        "durationMs": 5069
+      },
+      {
+        "text": "impuestos a que haya lugar la cuarta configuración es la",
+        "startMs": 169039,
+        "durationMs": 4891
+      },
+      {
+        "text": "configuración de los conceptos de liquidación que fueron que fue el",
+        "startMs": 173930,
+        "durationMs": 3870
+      },
+      {
+        "text": "catálogo del catálogo perdón que les acaba de mostrar que aparecía allá en la",
+        "startMs": 177800,
+        "durationMs": 4649
+      },
+      {
+        "text": "configuración de la cuenta entonces este catálogo consta de o más",
+        "startMs": 182449,
+        "durationMs": 5181
+      },
+      {
+        "text": "bien hay dos catálogos un catálogo para conceptos de liquidación del ingreso y",
+        "startMs": 187630,
+        "durationMs": 4770
+      },
+      {
+        "text": "otro para los conceptos de liquidación en egresos son dos catálogos que están",
+        "startMs": 192400,
+        "durationMs": 3960
+      },
+      {
+        "text": "digamos creados por aparte catálogos que ya vienen preconfigurados vienen con una",
+        "startMs": 196360,
+        "durationMs": 5250
+      },
+      {
+        "text": "cantidad de impuestos que digamos que normalmente son los más utilizados",
+        "startMs": 201610,
+        "durationMs": 5430
+      },
+      {
+        "text": "dentro dentro de la parte contable de nuestro país de cualquier forma siempre",
+        "startMs": 207040,
+        "durationMs": 5490
+      },
+      {
+        "text": "va a ser tarea de los usuarios verificar todas esas configuraciones que vienen",
+        "startMs": 212530,
+        "durationMs": 4680
+      },
+      {
+        "text": "preestablecidas en el sistema como para estar seguros pues de que estamos o de",
+        "startMs": 217210,
+        "durationMs": 5670
+      },
+      {
+        "text": "que nuestra información va a quedar digamos de manera correcta ahora vamos a",
+        "startMs": 222880,
+        "durationMs": 4800
+      },
+      {
+        "text": "ver un poco qué son estos dos catálogos entonces el catálogo de conceptos de",
+        "startMs": 227680,
+        "durationMs": 4140
+      },
+      {
+        "text": "liquidación del ingreso básicamente es un listado que tiene creado unos ítems",
+        "startMs": 231820,
+        "durationMs": 5040
+      },
+      {
+        "text": "relacionados con todos los impuestos que se causan o que digamos nos dan lugar en",
+        "startMs": 236860,
+        "durationMs": 6690
+      },
+      {
+        "text": "una empresa al momento de recibir algún ingreso por ejemplo una venta una",
+        "startMs": 243550,
+        "durationMs": 6360
+      },
+      {
+        "text": "prestación de un servicio que impuestos vamos a encontrar allí vamos a encontrar",
+        "startMs": 249910,
+        "durationMs": 4560
+      },
+      {
+        "text": "el impuesto al consumo hay algunas empresas que manejan este impuesto y",
+        "startMs": 254470,
+        "durationMs": 3990
+      },
+      {
+        "text": "este impuesto digamos se causa al momento de recibir el ingreso",
+        "startMs": 258460,
+        "durationMs": 3000
+      },
+      {
+        "text": "tenemos el iva liquidado y el impuesto del creen ahora el catálogo de concierto",
+        "startMs": 261460,
+        "durationMs": 6540
+      },
+      {
+        "text": "esta liquidación ingreso también es un listado que trae como todos los",
+        "startMs": 268000,
+        "durationMs": 3540
+      },
+      {
+        "text": "impuestos que normalmente o suceden al momento de registrar",
+        "startMs": 271540,
+        "durationMs": 5310
+      },
+      {
+        "text": "digamos una salida de dinero de mi empresa dígase una compra una compra de",
+        "startMs": 276850,
+        "durationMs": 7320
+      },
+      {
+        "text": "algún artículo una compra de un servicio digamos un pago de un servicio público",
+        "startMs": 284170,
+        "durationMs": 8299
+      },
+      {
+        "text": "lo digamos cuando yo le pago al contador o si le pagó una persona que le estoy",
+        "startMs": 292469,
+        "durationMs": 4390
+      },
+      {
+        "text": "prestando lo que me está prestando más bien en algún servicio entonces en esos",
+        "startMs": 296859,
+        "durationMs": 4591
+      },
+      {
+        "text": "casos también se calculan algunos impuestos entonces en este catálogo",
+        "startMs": 301450,
+        "durationMs": 4019
+      },
+      {
+        "text": "vamos a encontrar esos esos impuestos que se podrían digamos presentar en esos",
+        "startMs": 305469,
+        "durationMs": 5220
+      },
+      {
+        "text": "casos qué tipo de impuestos vamos a encontrar acá en este catálogo vamos a",
+        "startMs": 310689,
+        "durationMs": 4981
+      },
+      {
+        "text": "montar el iva descontable la retención en la fuente las retenciones y aportes",
+        "startMs": 315670,
+        "durationMs": 5819
+      },
+      {
+        "text": "de nómina miren que todos son como impuestos que se que digamos que se",
+        "startMs": 321489,
+        "durationMs": 4890
+      },
+      {
+        "text": "aplican cuando se está registrando una salida o un egreso de mi empresa",
+        "startMs": 326379,
+        "durationMs": 6921
+      },
+      {
+        "text": "bueno yo quiero entonces que pasemos al sistema para mostrarles cada uno de",
+        "startMs": 333300,
+        "durationMs": 6420
+      },
+      {
+        "text": "estos catálogos donde se encuentran y muy rápidamente como cuáles son esas",
+        "startMs": 339720,
+        "durationMs": 4050
+      },
+      {
+        "text": "configuraciones que vamos a encontrar en estos conceptos de liquidación entonces",
+        "startMs": 343770,
+        "durationMs": 5430
+      },
+      {
+        "text": "recordemos que son cuatro configuraciones fundamentales que se",
+        "startMs": 349200,
+        "durationMs": 3810
+      },
+      {
+        "text": "deben hacer en el sistema para que funcione de forma automática el cálculo",
+        "startMs": 353010,
+        "durationMs": 4470
+      },
+      {
+        "text": "de los impuestos entonces primero clasificación legal y tributaria de mi",
+        "startMs": 357480,
+        "durationMs": 4950
+      },
+      {
+        "text": "empresa clasificación legal y tributaria del tercero",
+        "startMs": 362430,
+        "durationMs": 5070
+      },
+      {
+        "text": "configuración de las cuentas es decir en cada cuenta indicar qué tipo de",
+        "startMs": 367500,
+        "durationMs": 4570
+      },
+      {
+        "text": "impuestos se deben calcular y por último venir y verificar el catálogo de",
+        "startMs": 372070,
+        "durationMs": 5220
+      },
+      {
+        "text": "conceptos de liquidación en ingreso y catálogo de conceptos de liquidación de",
+        "startMs": 377290,
+        "durationMs": 7080
+      }
+    ],
+    "plainText": "## Descripción del video\n\nEn este video se explican las 4 configuraciones que se deben tener en cuenta para que el sistema calcule automáticamente los impuestos.\n\n## Transcripción\n\nbien entonces como les comentaba con tap y me cuenta con una herramienta para\nrealizar de forma automática el cálculo de los diferentes impuestos que apliquen\nobviamente para cada tipo de empresa este cálculo de impuestos digamos que\nconsta de unas configuraciones muy sencillas son básicamente cuatro\nconfiguraciones que los usuarios van a tener que tener presentes cuáles son\nesas cuatro configuraciones primero la clasificación legal y tributaria de la\ntributaria de los diferentes terceros con los cuales digamos se vayan\nrealizando las transacciones o las operaciones\noperaciones tercero la configuración de las cuentas\ny cuarto la configuración de los conceptos de liquidación ya vamos a ver\npunto por punto a qué se refiere cada una de esas configuraciones y vamos a\npasar al sistema para recordar un poco dónde vamos a encontrar esas diferentes\nconfiguraciones entonces la primera configuración es la\nclasificación legal y tributaria de la empresa está clasificación donde vamos a\nencontrar o dónde vamos a poder digamos tener presente esta configuración en el\nexplorador gráfico de la empresa y que parte del explorador gráfico de la\nempresa en la ventana de creación de la empresa digamos si yo ya creé la empresa\nentro a modificar la operación en el paso de clasificación tributaria vamos a\nencontrar las diferentes opciones que el sistema nos ofrece en cuanto a la\nconfiguración legal y tributaria que tiene nuestra empresa\nel segundo digamos paso o la segunda configuración que tengo que tener\npresente es la clasificación legal y tributaria de mis terceros donde puedo\ntener acceso a esa clasificación legal y tributaria en el catálogo de terceros\naquí les muestro digamos la pestaña entonces yo lo que tengo que hacer cada\nvez que yo creé un tercero dentro de los datos que que digamos la pestaña o la\nventana de edición del tercero me pide vamos a encontrar esta pestañita de acá\nque ya vamos a pasar a verla al sistema de clasificación tributaria entonces\naquí tengo que hacer también esa definición del del perfil jurídico y\nlegal que tiene que tiene cada uno de mis terceros vamos a continuar con la\ntercera configuración y es la configuración que debemos hacer en las\ncuentas esta configuración pues básicamente como les comentaba vamos a\nencontrarla en el plan de cuentas en la ventana de edición de cada cuenta miren\nque en este paso de acá vamos a encontrar la clase de la cuenta\ny dependiendo de esa clase de la cuenta vamos a poder configurar los diferentes\nimpuestos a que haya lugar la cuarta configuración es la\nconfiguración de los conceptos de liquidación que fueron que fue el\ncatálogo del catálogo perdón que les acaba de mostrar que aparecía allá en la\nconfiguración de la cuenta entonces este catálogo consta de o más\nbien hay dos catálogos un catálogo para conceptos de liquidación del ingreso y\notro para los conceptos de liquidación en egresos son dos catálogos que están\ndigamos creados por aparte catálogos que ya vienen preconfigurados vienen con una\ncantidad de impuestos que digamos que normalmente son los más utilizados\ndentro dentro de la parte contable de nuestro país de cualquier forma siempre\nva a ser tarea de los usuarios verificar todas esas configuraciones que vienen\npreestablecidas en el sistema como para estar seguros pues de que estamos o de\nque nuestra información va a quedar digamos de manera correcta ahora vamos a\nver un poco qué son estos dos catálogos entonces el catálogo de conceptos de\nliquidación del ingreso básicamente es un listado que tiene creado unos ítems\nrelacionados con todos los impuestos que se causan o que digamos nos dan lugar en\nuna empresa al momento de recibir algún ingreso por ejemplo una venta una\nprestación de un servicio que impuestos vamos a encontrar allí vamos a encontrar\nel impuesto al consumo hay algunas empresas que manejan este impuesto y\neste impuesto digamos se causa al momento de recibir el ingreso\ntenemos el iva liquidado y el impuesto del creen ahora el catálogo de concierto\nesta liquidación ingreso también es un listado que trae como todos los\nimpuestos que normalmente o suceden al momento de registrar\ndigamos una salida de dinero de mi empresa dígase una compra una compra de\nalgún artículo una compra de un servicio digamos un pago de un servicio público\nlo digamos cuando yo le pago al contador o si le pagó una persona que le estoy\nprestando lo que me está prestando más bien en algún servicio entonces en esos\ncasos también se calculan algunos impuestos entonces en este catálogo\nvamos a encontrar esos esos impuestos que se podrían digamos presentar en esos\ncasos qué tipo de impuestos vamos a encontrar acá en este catálogo vamos a\nmontar el iva descontable la retención en la fuente las retenciones y aportes\nde nómina miren que todos son como impuestos que se que digamos que se\naplican cuando se está registrando una salida o un egreso de mi empresa\nbueno yo quiero entonces que pasemos al sistema para mostrarles cada uno de\nestos catálogos donde se encuentran y muy rápidamente como cuáles son esas\nconfiguraciones que vamos a encontrar en estos conceptos de liquidación entonces\nrecordemos que son cuatro configuraciones fundamentales que se\ndeben hacer en el sistema para que funcione de forma automática el cálculo\nde los impuestos entonces primero clasificación legal y tributaria de mi\nempresa clasificación legal y tributaria del tercero\nconfiguración de las cuentas es decir en cada cuenta indicar qué tipo de\nimpuestos se deben calcular y por último venir y verificar el catálogo de\nconceptos de liquidación en ingreso y catálogo de conceptos de liquidación de"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 165.101,
+    "asr": 44100,
+    "filesizeApprox": 7900640,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2021",
+  "files": {
+    "year": "2021",
+    "kind": "videos",
+    "md": "videos/2021/1rg05t8xqAQ.md",
+    "json": "videos/2021/1rg05t8xqAQ.json",
+    "infoJson": "videos/2021/1rg05t8xqAQ.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "1rg05t8xqAQ",
+        "youtubeId": "1rg05t8xqAQ",
+        "titulo": "Cálculo automático de impuestos",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

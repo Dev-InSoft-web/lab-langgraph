@@ -40,5 +40,14 @@
 				body: JSON.stringify({ iconversacion, mensaje }),
 			});
 		},
+		async getConversationLogs(iconversacion) {
+			return window.Lab.fetch.labFetch(`/conversacion/${iconversacion}/logs`);
+		},
+		async truncateConversation(iconversacion, throughTurnIndex) {
+			return window.Lab.fetch.labFetch(`/conversacion/${iconversacion}/truncate`, {
+				method: "POST",
+				body: JSON.stringify({ throughTurnIndex }),
+			});
+		},
 	};
 })();

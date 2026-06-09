@@ -1,7 +1,7 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "../lib/core/http.js";
-import { createConversation, listConversations } from "../lib/patyia/conversation/store.js";
-import type { CreateConversationBody } from "../lib/patyia/conversation/types.js";
+import { createConversation, listConversations } from "../lib/langlab/conversation/store.js";
+import type { CreateConversationBody } from "../lib/langlab/conversation/types.js";
 
 const LAB_ITERCERO = "lab-langgraph";
 

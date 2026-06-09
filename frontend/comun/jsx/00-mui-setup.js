@@ -26,6 +26,7 @@ window.Lab.mui = {
 	DialogContent: M.DialogContent,
 	DialogActions: M.DialogActions,
 	Chip: M.Chip,
+	Link: M.Link,
 	Grid: M.Grid,
 	Rating: M.Rating,
 	CircularProgress: M.CircularProgress,

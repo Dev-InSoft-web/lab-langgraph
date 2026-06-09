@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "LX3zvp_34YI",
+  "youtubeId": "LX3zvp_34YI",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:23:20.521Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2012/LX3zvp_34YI.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "LX3zvp_34YI",
+      "youtubeId": "LX3zvp_34YI",
+      "titulo": "LX3zvp_34YI",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

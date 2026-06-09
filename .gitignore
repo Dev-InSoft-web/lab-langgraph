@@ -4,6 +4,7 @@ dist/
 .env
 local.settings.json
 storage/
+.azurite/
 *.log
 secrets/
 *.PublishSettings

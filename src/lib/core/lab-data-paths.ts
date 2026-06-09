@@ -15,12 +15,19 @@ export function labDataPath(...segments: string[]): string {
 
 export const API_CATALOG_JSON = () => labDataPath("api-catalog.json");
 export const POSTMAN_DATA_ROOT = () => labDataPath("postman");
+
+/** ISA-DOC · catálogo de prompts PatyIA en disco (fuente antes de sync a PG LangLab). */
 export const PATYIA_PROMPTS_CATALOG = () => labDataPath("patyia", "prompts", "catalog");
 
+/** ISA-DOC · caches JSON administrados desde el lab (no son el store de conversación PG). */
 export const PATYIA_CONVERSACIONES_CACHE = () =>
 	labDataPath("patyia", "caches", "conversaciones-cache.json");
 export const PATYIA_IDENTIDADES_CACHE = () =>
 	labDataPath("patyia", "caches", "identidades-cache.json");
+
+/** @deprecated Usar PATYIA_PROMPTS_CATALOG */
+export const LANGLAB_PROMPTS_CATALOG = PATYIA_PROMPTS_CATALOG;
+
 export const BITACORA_REVISADO = () => labDataPath("bitacora", "revisado.json");
 
 export const OPENAI_STORAGE_ROOT = () =>

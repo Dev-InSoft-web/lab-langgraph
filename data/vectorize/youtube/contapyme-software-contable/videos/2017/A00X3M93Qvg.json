@@ -1,0 +1,3322 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T17:47:54.083Z",
+  "videoId": "A00X3M93Qvg",
+  "videoUrl": "https://www.youtube.com/watch?v=A00X3M93Qvg",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "A00X3M93Qvg",
+    "title": "Implementación y seguimiento de las NIIF en las Pymes (parte 2) - Comunidad ContaPyme Junio 2017",
+    "fulltitle": "Implementación y seguimiento de las NIIF en las Pymes (parte 2) - Comunidad ContaPyme Junio 2017",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 2965,
+    "duration_string": "49:25",
+    "upload_date": "20170620",
+    "timestamp": 1497993725,
+    "view_count": 148,
+    "like_count": 2,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "#SoftwareContable",
+      "#ContaPyme",
+      "#SistemaFacturación",
+      "#ProgramaContable",
+      "#Contabilidad",
+      "#NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAt0DUGVyd4OWYrqrLF7tJDKWSTw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB75UKN-ua0yWWLwut8Qzg4_eY3Dw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0zD71D6tfXr4jsVXSTrTdOPOZwQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQyRg1eHfwrYk1xcObKH1LO6H99Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC23_iy4VXgxcJSQUlNUTisEjIIKg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASQvLdKetL0QNUGbj38txKa-r42Q",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC16xT39YCH4j5gApDGbpeFhdVeZQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSHlGfDub5Cs9vn5R_2pigHwODVw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/A00X3M93Qvg/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/A00X3M93Qvg/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=A00X3M93Qvg",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.03372681281618887,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10050590219224283,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10050590219224283,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 222.23,
+        "asr": 44100,
+        "filesize_approx": 82355660,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Implementación y seguimiento de las NIIF en las Pymes (parte 2) - Comunidad ContaPyme Junio 2017",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/A00X3M93Qvg/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/A00X3M93Qvg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Implementación y seguimiento de las NIIF en las Pymes (parte 2) - Comunidad ContaPyme Junio 2017\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 578,
+    "transcriptChars": 41986,
+    "segments": [
+      {
+        "text": "en este momento damos entonces la bienvenida a la doctora Diana chocontá",
+        "startMs": 0,
+        "durationMs": 4829
+      },
+      {
+        "text": "Quien será la responsable de dictar la segunda parte de las primera sesión del",
+        "startMs": 4829,
+        "durationMs": 4760
+      },
+      {
+        "text": "curso virtual gratuito implementación y seguimiento de las nif en las pymes la",
+        "startMs": 9589,
+        "durationMs": 6280
+      },
+      {
+        "text": "doctora Diana chocontá es contadora pública de la universidad Central es",
+        "startMs": 15869,
+        "durationMs": 4281
+      },
+      {
+        "text": "especialista en estándares internacionales de contabilidad de la",
+        "startMs": 20150,
+        "durationMs": 4039
+      },
+      {
+        "text": "pontificia universidad javeriana es certificada en normas internacionales de",
+        "startMs": 24189,
+        "durationMs": 4920
+      },
+      {
+        "text": "información financiera cuenta con una amplia experiencia en la ejecución de",
+        "startMs": 29109,
+        "durationMs": 4440
+      },
+      {
+        "text": "labores de consultoría auditoría y revisoría fiscal así como también en la",
+        "startMs": 33549,
+        "durationMs": 5320
+      },
+      {
+        "text": "evaluación del control interno análisis de los estados financieros y matriz de",
+        "startMs": 38869,
+        "durationMs": 5281
+      },
+      {
+        "text": "riesgos hoy por hoy la doctora Diana chocontá es instructora de",
+        "startMs": 44150,
+        "durationMs": 4520
+      },
+      {
+        "text": "capacitaciones nif y nif para pymes a nivel nacional de la empresa gran Torton",
+        "startMs": 48670,
+        "durationMs": 5559
+      },
+      {
+        "text": "Colombia bienvenida doctora Diana es un placer contar con usted el día de hoy",
+        "startMs": 54229,
+        "durationMs": 5800
+      },
+      {
+        "text": "Muchas gracias gracias a contapyme Vamos a continuar con los temas que tenemos",
+        "startMs": 60029,
+        "durationMs": 4961
+      },
+      {
+        "text": "previstos para el día de hoy listo uno de los siguientes interrogantes para",
+        "startMs": 64990,
+        "durationMs": 5240
+      },
+      {
+        "text": "todos que nos indagan en estos días es Por qué es tan importante que las pymes",
+        "startMs": 70230,
+        "durationMs": 5160
+      },
+      {
+        "text": "colombianas puedan implementar las nif lo más pronto posible en ese escenario",
+        "startMs": 75390,
+        "durationMs": 5679
+      },
+      {
+        "text": "para responder esta pregunta tan importante debemos preguntar bueno en",
+        "startMs": 81069,
+        "durationMs": 4801
+      },
+      {
+        "text": "este escenario bajo el marco conceptual de las nip para pymes quiénes son son",
+        "startMs": 85870,
+        "durationMs": 4160
+      },
+      {
+        "text": "las pymes y debemos preguntarnos son esas pequeñas y medianas entidades que",
+        "startMs": 90030,
+        "durationMs": 4320
+      },
+      {
+        "text": "no tienen la obligación de rendir cuentas y que emiten estados financieros",
+        "startMs": 94350,
+        "durationMs": 3960
+      },
+      {
+        "text": "de propósito general tengamos en cuenta que bajo el Antiguo decreto 2649 del año",
+        "startMs": 98310,
+        "durationMs": 4920
+      },
+      {
+        "text": "93 existían estados financieros de propósito general y de propósito",
+        "startMs": 103230,
+        "durationMs": 4239
+      },
+      {
+        "text": "específico pero el marco técnico nuevo de las niip para pymes hablan solo de",
+        "startMs": 107469,
+        "durationMs": 4841
+      },
+      {
+        "text": "información general de estados financieros de propósito general Cuál es",
+        "startMs": 112310,
+        "durationMs": 4520
+      },
+      {
+        "text": "el objetivo de estos estados financieros financieros de propósito general es",
+        "startMs": 116830,
+        "durationMs": 5160
+      },
+      {
+        "text": "proporcionar información de la situación financiera de la entidad del el",
+        "startMs": 121990,
+        "durationMs": 5080
+      },
+      {
+        "text": "rendimiento y de los flujos de efectivo que son claves para tomar decisiones",
+        "startMs": 127070,
+        "durationMs": 4600
+      },
+      {
+        "text": "sobre esos usuarios usuarios que Son externos como inversionistas",
+        "startMs": 131670,
+        "durationMs": 4440
+      },
+      {
+        "text": "prestamistas acreedores y que no están en la posibilidad de exigir información",
+        "startMs": 136110,
+        "durationMs": 5680
+      },
+      {
+        "text": "a su medida de esta manera Aunque el marco conceptual de las niit para pymes",
+        "startMs": 141790,
+        "durationMs": 5799
+      },
+      {
+        "text": "identifica unos terceros no me dice que tampoco la información pública los entes",
+        "startMs": 147589,
+        "durationMs": 7801
+      },
+      {
+        "text": "de control la dian el estado no pueda tomar estos estados financieros como",
+        "startMs": 155390,
+        "durationMs": 5280
+      },
+      {
+        "text": "referente Pero él sí identifica unos usuarios importantes que Son externos y",
+        "startMs": 160670,
+        "durationMs": 5600
+      },
+      {
+        "text": "que no tienen información a su medida adicionalmente para saber por qué es tan",
+        "startMs": 166270,
+        "durationMs": 5080
+      },
+      {
+        "text": "importante apresurar este proceso tendríamos que pensar bueno y quiénes",
+        "startMs": 171350,
+        "durationMs": 3680
+      },
+      {
+        "text": "son los involucrados vamos a ver que el mercado y la economía los usuarios de",
+        "startMs": 175030,
+        "durationMs": 4960
+      },
+      {
+        "text": "esa información financiera que van a tomar decisión decisiones sobre ellos eh",
+        "startMs": 179990,
+        "durationMs": 4440
+      },
+      {
+        "text": "Son involucrados y la misma ley 131 desde el artículo tercero primero en",
+        "startMs": 184430,
+        "durationMs": 7240
+      },
+      {
+        "text": "adelante determinó que hay unos garantes de que se cumplan estas",
+        "startMs": 191670,
+        "durationMs": 6800
+      },
+      {
+        "text": "normas el artículo 12 menciona que debemos garantizar que la adopción de",
+        "startMs": 198470,
+        "durationMs": 6240
+      },
+      {
+        "text": "esa información financiera y de esas normas de aseguramiento cumplen que sean",
+        "startMs": 204710,
+        "durationMs": 5599
+      },
+      {
+        "text": "homogéneas consistentes Y comparables entonces desde los entes reguladores los",
+        "startMs": 210309,
+        "durationMs": 6401
+      },
+      {
+        "text": "usuarios y la economía primero nosotros decimos Y por qué el mercado y la",
+        "startMs": 216710,
+        "durationMs": 4120
+      },
+      {
+        "text": "economía en este proceso nosotros nos tenemos que dar cuenta que la",
+        "startMs": 220830,
+        "durationMs": 3640
+      },
+      {
+        "text": "globalización es un proceso económico tecnológico social cultural a gran",
+        "startMs": 224470,
+        "durationMs": 4479
+      },
+      {
+        "text": "escala entre distintos países y eso afecta la economía eso afecta las",
+        "startMs": 228949,
+        "durationMs": 5000
+      },
+      {
+        "text": "políticas hay una integración de economías locales a nivel mundial una",
+        "startMs": 233949,
+        "durationMs": 5801
+      },
+      {
+        "text": "libre circulación de de capitales una sociedad de consumo unas condiciones",
+        "startMs": 239750,
+        "durationMs": 4160
+      },
+      {
+        "text": "nuevas de competitividad y seguridad jurídica Colombia a partir del año de",
+        "startMs": 243910,
+        "durationMs": 5560
+      },
+      {
+        "text": "1990 en el gobierno de César Gaviria entró en lo que fue la apertura",
+        "startMs": 249470,
+        "durationMs": 4240
+      },
+      {
+        "text": "económica queremos competir con otros países en nuestros mercados queremos",
+        "startMs": 253710,
+        "durationMs": 4680
+      },
+      {
+        "text": "entrar a a pertenecer a ese gran economía mundial en ese escenario es",
+        "startMs": 258390,
+        "durationMs": 7880
+      },
+      {
+        "text": "importante que uniform y simplifiquemos emos los procedimientos y regulaciones",
+        "startMs": 266270,
+        "durationMs": 5240
+      },
+      {
+        "text": "nacionales e internacionales claro es aquí importante",
+        "startMs": 271510,
+        "durationMs": 5160
+      },
+      {
+        "text": "donde nosotros decimos bueno por qu vamos a uniformar como yo lo decía antes",
+        "startMs": 276670,
+        "durationMs": 3920
+      },
+      {
+        "text": "porque Debemos hablar un lenguaje estandarizado en este escenario cuando",
+        "startMs": 280590,
+        "durationMs": 4360
+      },
+      {
+        "text": "hablamos de lenguaje estandarizado si yo voy a tomar unos estados financieros de",
+        "startMs": 284950,
+        "durationMs": 4799
+      },
+      {
+        "text": "una compañía pyme en Colombia se deben leer de igual manera que una pyme en",
+        "startMs": 289749,
+        "durationMs": 5440
+      },
+      {
+        "text": "otro país en este escenario quiere decir que sus criterios de conocimiento de",
+        "startMs": 295189,
+        "durationMs": 5401
+      },
+      {
+        "text": "medición de presentación y revelación son",
+        "startMs": 300590,
+        "durationMs": 4280
+      },
+      {
+        "text": "son estandarizados bien es importante",
+        "startMs": 304870,
+        "durationMs": 4960
+      },
+      {
+        "text": "mencionar que es importante mencionar Cómo están",
+        "startMs": 309830,
+        "durationMs": 3639
+      },
+      {
+        "text": "conformadas las pymes en Colombia o por qué son tan importantes y fundamentales",
+        "startMs": 313469,
+        "durationMs": 4481
+      },
+      {
+        "text": "Aquí traigo unas estadísticas donde mostramos como en el año 1990 eh",
+        "startMs": 317950,
+        "durationMs": 5320
+      },
+      {
+        "text": "Colombia ocupaba el puesto número 40 en el pib Y actualmente ocupa el puesto",
+        "startMs": 323270,
+        "durationMs": 4960
+      },
+      {
+        "text": "número 26 como las pymes representa alrededor del 67 por del empleo y",
+        "startMs": 328230,
+        "durationMs": 5880
+      },
+      {
+        "text": "aportan el 28 por al producto interno bruto esto quiere decir que las micro",
+        "startMs": 334110,
+        "durationMs": 5720
+      },
+      {
+        "text": "pequeñas y medianas empresas son fundamentales en el sistema productivo",
+        "startMs": 339830,
+        "durationMs": 4400
+      },
+      {
+        "text": "colombiano como son fundamentales es así como la la misma economía la misma",
+        "startMs": 344230,
+        "durationMs": 6079
+      },
+      {
+        "text": "dirección el mismo estado va a intervenir",
+        "startMs": 350309,
+        "durationMs": 3281
+      },
+      {
+        "text": "intervenir económicamente estas políticas políticas",
+        "startMs": 353590,
+        "durationMs": 2879
+      },
+      {
+        "text": "donde van a expedir normas de información financiera y de",
+        "startMs": 356469,
+        "durationMs": 4000
+      },
+      {
+        "text": "aseguramiento que conformen un sistema único y homogéneo un sistema único y",
+        "startMs": 360469,
+        "durationMs": 5560
+      },
+      {
+        "text": "homogéneo de alta calidad comprensible y que se debe ser de forzosa observancia",
+        "startMs": 366029,
+        "durationMs": 6641
+      },
+      {
+        "text": "en ese escenario cuando decimos esto es que como bien lo están viendo en el",
+        "startMs": 372670,
+        "durationMs": 5400
+      },
+      {
+        "text": "artículo 334 de la constitución política dice que la dirección general de la",
+        "startMs": 378070,
+        "durationMs": 5519
+      },
+      {
+        "text": "economía estará a cargo del estado y esta le intervendrá por mandato de ley",
+        "startMs": 383589,
+        "durationMs": 5121
+      },
+      {
+        "text": "es como bien la ley 1314 del 2009 es una forma de intervención económica porque",
+        "startMs": 388710,
+        "durationMs": 5599
+      },
+      {
+        "text": "el gobierno emite unos estándares contables de información financiera y de",
+        "startMs": 394309,
+        "durationMs": 4801
+      },
+      {
+        "text": "aseguramiento de esa información estándares mundiales que tienen como",
+        "startMs": 399110,
+        "durationMs": 4240
+      },
+      {
+        "text": "objetivo intervenir la economía en cuanto a productividad competitividad",
+        "startMs": 403350,
+        "durationMs": 5080
+      },
+      {
+        "text": "desarrollo armónico e internacionalización de la de la",
+        "startMs": 408430,
+        "durationMs": 4560
+      },
+      {
+        "text": "economía en este escenario como ya decimos es el estado el que va a",
+        "startMs": 412990,
+        "durationMs": 4800
+      },
+      {
+        "text": "intervenir el que va a liber al limitar la libertad económica mediante leyes y",
+        "startMs": 417790,
+        "durationMs": 5519
+      },
+      {
+        "text": "eso es una observancia la ley 1314 del 2009 en esa intervenir la economía o",
+        "startMs": 423309,
+        "durationMs": 7201
+      },
+      {
+        "text": "condiciones de internacionalización ha traído condiciones como la equidad la",
+        "startMs": 430510,
+        "durationMs": 5200
+      },
+      {
+        "text": "reciprocidad y la conveniencia nacional entonces a quién primordialmente",
+        "startMs": 435710,
+        "durationMs": 5840
+      },
+      {
+        "text": "requiere que Colombia a nivel mundial implemente o converja nuevos estándares",
+        "startMs": 441550,
+        "durationMs": 6359
+      },
+      {
+        "text": "de alta calidad internacional que van a permitir que tengamos estados",
+        "startMs": 447909,
+        "durationMs": 3881
+      },
+      {
+        "text": "financieros comprensibles transparentes comparables sobre los cuales se toman",
+        "startMs": 451790,
+        "durationMs": 5399
+      },
+      {
+        "text": "información financiera al estado y al mismo mercado que está en un estado",
+        "startMs": 457189,
+        "durationMs": 5241
+      },
+      {
+        "text": "cambiante desde ese tipo de desde ese tipo vemos que la ley 1314 pensó en un",
+        "startMs": 462430,
+        "durationMs": 6400
+      },
+      {
+        "text": "tamaño de las entidades el sector al que pertenecen la forma de organización",
+        "startMs": 468830,
+        "durationMs": 4960
+      },
+      {
+        "text": "jurídica las circunstancias socioeconómicas y el interés público",
+        "startMs": 473790,
+        "durationMs": 4359
+      },
+      {
+        "text": "privado desde este punto de vista es desde ahí donde surgen los decretos",
+        "startMs": 478149,
+        "durationMs": 5121
+      },
+      {
+        "text": "reglamentarios y en el tamaño de las entidades se vislumbran tres grandes",
+        "startMs": 483270,
+        "durationMs": 5039
+      },
+      {
+        "text": "grupos como son el grupo uno las compañías grandes que eh emiten eh",
+        "startMs": 488309,
+        "durationMs": 5801
+      },
+      {
+        "text": "títulos a terceros emiten información a terceros están en bolsas de valores",
+        "startMs": 494110,
+        "durationMs": 5600
+      },
+      {
+        "text": "tienen más de 200 empleados tienen más de 30,000 salarios mínimos en activos en",
+        "startMs": 499710,
+        "durationMs": 5400
+      },
+      {
+        "text": "este escenario es donde ellos dicen bueno estos van a ser grupo uno aquellos",
+        "startMs": 505110,
+        "durationMs": 3720
+      },
+      {
+        "text": "que no cen con esta condición y adicionalmente no tienen casa matriz",
+        "startMs": 508830,
+        "durationMs": 4119
+      },
+      {
+        "text": "información bajo nif van a pertenecer al grupos con unas características en",
+        "startMs": 512949,
+        "durationMs": 6960
+      },
+      {
+        "text": "cuanto al tamaño de las entidades como son los pequeñas y las medianas",
+        "startMs": 519909,
+        "durationMs": 4681
+      },
+      {
+        "text": "compañías esos referentes de convergencia tienden estándares",
+        "startMs": 524590,
+        "durationMs": 4120
+      },
+      {
+        "text": "Internacionales que me van a aportar mejores prácticas y evolución de los",
+        "startMs": 528710,
+        "durationMs": 4760
+      },
+      {
+        "text": "negocios Entonces por qué la necesidad del gobierno porque nos quiere hacer más",
+        "startMs": 533470,
+        "durationMs": 4280
+      },
+      {
+        "text": "competentes porque quiere que nuestros productos sean sean puestos en mercados",
+        "startMs": 537750,
+        "durationMs": 4360
+      },
+      {
+        "text": "internacionales que nuestros estados financieros sean competitivos contra",
+        "startMs": 542110,
+        "durationMs": 3680
+      },
+      {
+        "text": "otros estados financieros como bien lo dijimos Quiénes son Quiénes intervienen",
+        "startMs": 545790,
+        "durationMs": 5800
+      },
+      {
+        "text": "el mercado intervienen los usuarios de estos estados financieros desde el mismo",
+        "startMs": 551590,
+        "durationMs": 5239
+      },
+      {
+        "text": "marco conceptual se identifica que son usuarios de estos estados financieros",
+        "startMs": 556829,
+        "durationMs": 5560
+      },
+      {
+        "text": "los inversionistas prestamistas y otros acreedores los responsables de",
+        "startMs": 562389,
+        "durationMs": 4921
+      },
+      {
+        "text": "prepararlos y presentarlos a la administración de la",
+        "startMs": 567310,
+        "durationMs": 3000
+      },
+      {
+        "text": "compañía los inversionistas por qué porque ellos quieren ver cuáles son los",
+        "startMs": 570310,
+        "durationMs": 4440
+      },
+      {
+        "text": "riesgos y la rentabilidad de un negocio quiere saber a qué riesgos están",
+        "startMs": 574750,
+        "durationMs": 4480
+      },
+      {
+        "text": "expuestos los prestamistas porque en términos de riesgo de crédito y de",
+        "startMs": 579230,
+        "durationMs": 4599
+      },
+      {
+        "text": "rentabilidad quieren saber cómo va a ver el retorno de esos dineros o el retorno",
+        "startMs": 583829,
+        "durationMs": 4961
+      },
+      {
+        "text": "de esos préstamos que va a hacer a la entidad sin embargo Aunque el mismo",
+        "startMs": 588790,
+        "durationMs": 4640
+      },
+      {
+        "text": "marco conceptual de las nit para pymes habla principalmente de estos usuarios",
+        "startMs": 593430,
+        "durationMs": 5360
+      },
+      {
+        "text": "como nos podemos ver en el artículo número un de la ley 18 de la ley 13 144",
+        "startMs": 598790,
+        "durationMs": 5440
+      },
+      {
+        "text": "del 2009 bien indica que también el gobierno entidades reguladoras van a",
+        "startMs": 604230,
+        "durationMs": 5760
+      },
+      {
+        "text": "tomar decisión o van a revisar la información que emitan las pymes de",
+        "startMs": 609990,
+        "durationMs": 6200
+      },
+      {
+        "text": "propósito general en ese escenario Por qué es útil",
+        "startMs": 616190,
+        "durationMs": 3800
+      },
+      {
+        "text": "porque permite a los usuarios diferencien cambios en los recursos que",
+        "startMs": 619990,
+        "durationMs": 3360
+      },
+      {
+        "text": "provienen del rendimiento de emisión de deuda o de patrimonio proporcionan el",
+        "startMs": 623350,
+        "durationMs": 4520
+      },
+      {
+        "text": "indicador de la forma como la empresa ha cumplido sus responsabilidades de uso",
+        "startMs": 627870,
+        "durationMs": 3800
+      },
+      {
+        "text": "eficaz ayuda a evaluar la incertidumbre de los flujos de efectivo porque ayudado",
+        "startMs": 631670,
+        "durationMs": 4640
+      },
+      {
+        "text": "a evaluar incertidumbre porque tengamos en cuenta que una de las cualidades de",
+        "startMs": 636310,
+        "durationMs": 4319
+      },
+      {
+        "text": "la información financiera en el marco conceptual de las pymes es que sea",
+        "startMs": 640629,
+        "durationMs": 4281
+      },
+      {
+        "text": "relevante y y tenga fiabilidad como son dos cualidades importantes la relevancia",
+        "startMs": 644910,
+        "durationMs": 7159
+      },
+      {
+        "text": "una de las características de la relevancia es que puede predecir es de",
+        "startMs": 652069,
+        "durationMs": 4760
+      },
+      {
+        "text": "carácter predictivo luego con la información histórica yo puedo predecir",
+        "startMs": 656829,
+        "durationMs": 4921
+      },
+      {
+        "text": "flujos de efectivos futuros puedo predecir rentabilidad futura qué otras",
+        "startMs": 661750,
+        "durationMs": 5079
+      },
+      {
+        "text": "necesidades tienen esos señores usuarios de la información financiera los bancos",
+        "startMs": 666829,
+        "durationMs": 4841
+      },
+      {
+        "text": "que van a otorgar préstamos a las pymes van a tomar decisiones sobre esos",
+        "startMs": 671670,
+        "durationMs": 4480
+      },
+      {
+        "text": "estados financieros de propósito general que son los primeros estados financieros",
+        "startMs": 676150,
+        "durationMs": 4080
+      },
+      {
+        "text": "que ya se emitieron los vendedores que les venden a las pymes en términos de",
+        "startMs": 680230,
+        "durationMs": 4560
+      },
+      {
+        "text": "decisiones sobre créditos precios van a tomar decisiones sobre esos estados",
+        "startMs": 684790,
+        "durationMs": 4839
+      },
+      {
+        "text": "financieros es importante como bien lo dijo esos estados financieros",
+        "startMs": 689629,
+        "durationMs": 4601
+      },
+      {
+        "text": "proporcionan información sobre situación financiera el rendimiento y los flujos",
+        "startMs": 694230,
+        "durationMs": 5960
+      },
+      {
+        "text": "de efectivo importante como bien lo dije qué más quién más están interesados",
+        "startMs": 700190,
+        "durationMs": 5639
+      },
+      {
+        "text": "ayudar a evaluar incertidumbre de flujos proporcionar un indicador de la forma en",
+        "startMs": 705829,
+        "durationMs": 4641
+      },
+      {
+        "text": "como la empresa cumple sus responsabilidades y todos los",
+        "startMs": 710470,
+        "durationMs": 3520
+      },
+      {
+        "text": "indicadores financieros como es cobertura de intereses como es liquidez",
+        "startMs": 713990,
+        "durationMs": 5279
+      },
+      {
+        "text": "como es eh todos los estados todos los",
+        "startMs": 719269,
+        "durationMs": 3761
+      },
+      {
+        "text": "indicadores financieros que ya se venían tomando sobre los antiguos estados",
+        "startMs": 723030,
+        "durationMs": 3680
+      },
+      {
+        "text": "financieros se seguirán tomando sobre esos estados financieros porque es como",
+        "startMs": 726710,
+        "durationMs": 4160
+      },
+      {
+        "text": "te están viendo afuera tus prestamistas tus acreedores y tus",
+        "startMs": 730870,
+        "durationMs": 5680
+      },
+      {
+        "text": "inversionistas ahora por qué es prioridad y a través de nuestra",
+        "startMs": 736550,
+        "durationMs": 5320
+      },
+      {
+        "text": "implementación hemos visto las siguientes prioridades porque ellos",
+        "startMs": 741870,
+        "durationMs": 3240
+      },
+      {
+        "text": "deben dar deben agilizar el proceso de conversión uno de ellos primero es la",
+        "startMs": 745110,
+        "durationMs": 5320
+      },
+      {
+        "text": "tecnología nosotros nos estamos viendo abocados actualmente a un tema bien",
+        "startMs": 750430,
+        "durationMs": 5040
+      },
+      {
+        "text": "importante y es el siguiente cuando nos dijeron vamos a dotar ni para las pymes",
+        "startMs": 755470,
+        "durationMs": 5520
+      },
+      {
+        "text": "vamos a a converger a Marcos regulatorios",
+        "startMs": 760990,
+        "durationMs": 4120
+      },
+      {
+        "text": "regulatorios internacionales entonces dijimos nuestro",
+        "startMs": 765110,
+        "durationMs": 2240
+      },
+      {
+        "text": "sistema contable va a cambiar Sí por qué nuestro sistema contable va a cambiar",
+        "startMs": 767350,
+        "durationMs": 3839
+      },
+      {
+        "text": "porque se van a emitir unas políticas contables y administrativas armonizadas",
+        "startMs": 771189,
+        "durationMs": 4041
+      },
+      {
+        "text": "con nif porque cuando yo digo que mis estados financieros cumplen con nif",
+        "startMs": 775230,
+        "durationMs": 5120
+      },
+      {
+        "text": "estoy dando un aseguramiento una expresión de que cumplen con todas las",
+        "startMs": 780350,
+        "durationMs": 5400
+      },
+      {
+        "text": "nif en ese escenario elaboré unas políticas tanto para el reconocimiento",
+        "startMs": 785750,
+        "durationMs": 5280
+      },
+      {
+        "text": "inicial para la medición para la presentación y revelación en donde digo",
+        "startMs": 791030,
+        "durationMs": 4919
+      },
+      {
+        "text": "estas políticas deben cumplir bajo nif qué tenían que hacer los desarrolladores",
+        "startMs": 795949,
+        "durationMs": 4680
+      },
+      {
+        "text": "de software puede ser que los estándares son estándares para todo el mundo pero",
+        "startMs": 800629,
+        "durationMs": 5121
+      },
+      {
+        "text": "la forma de hacer negocios se customiza a cada entidad Qué quiere decir la",
+        "startMs": 805750,
+        "durationMs": 5920
+      },
+      {
+        "text": "entidad que se dedica a vender bienes no es la misma entidad que se dedica a",
+        "startMs": 811670,
+        "durationMs": 4080
+      },
+      {
+        "text": "prestar servicios las formas de reconocimiento son diferentes cuánd",
+        "startMs": 815750,
+        "durationMs": 4759
+      },
+      {
+        "text": "transfiero riesgos cuando realmente él tiene derecho a esos activos en ese",
+        "startMs": 820509,
+        "durationMs": 5320
+      },
+      {
+        "text": "escenario el la tecnología es muy clave porque surgió una gran brecha entre lo",
+        "startMs": 825829,
+        "durationMs": 6521
+      },
+      {
+        "text": "que fue la norma contable y la norma tributaria el la ley 1607 del año 2012",
+        "startMs": 832350,
+        "durationMs": 6760
+      },
+      {
+        "text": "la reforma tributaria qué le dijo inicialmente a las entidades que",
+        "startMs": 839110,
+        "durationMs": 3639
+      },
+      {
+        "text": "adoptaron los nuevos Marcos técnicos contables les dijo Mire yo me voy a",
+        "startMs": 842749,
+        "durationMs": 3561
+      },
+      {
+        "text": "tomar 4 años 4 años en los cuales ustedes van a tener que tomar como bases",
+        "startMs": 846310,
+        "durationMs": 7079
+      },
+      {
+        "text": "Fiscales mis bases Fiscales sin adaptarse a lo que tenga ifv o sea los",
+        "startMs": 853389,
+        "durationMs": 6721
+      },
+      {
+        "text": "nuevos Marcos regulatorios no afectarían las bases Fiscales permanecerían",
+        "startMs": 860110,
+        "durationMs": 6880
+      },
+      {
+        "text": "inalteradas por los 4 años se entendería que para las pymes de acuerdo a lo que",
+        "startMs": 866990,
+        "durationMs": 4959
+      },
+      {
+        "text": "dijo el decreto 2548 del 2014 permanecerían inalteradas",
+        "startMs": 871949,
+        "durationMs": 5240
+      },
+      {
+        "text": "hasta el año 2019 cierto pero eso no fue así también",
+        "startMs": 877189,
+        "durationMs": 4601
+      },
+      {
+        "text": "qué le implica prioridad valores de medición la medición no solo va a ser al",
+        "startMs": 881790,
+        "durationMs": 6159
+      },
+      {
+        "text": "costo existe el costo amortizado existe el costo reexpresado el que existe el",
+        "startMs": 887949,
+        "durationMs": 6201
+      },
+      {
+        "text": "costo reevaluado Qué quiere decir que eso todo lo va a hacer el sistema",
+        "startMs": 894150,
+        "durationMs": 3720
+      },
+      {
+        "text": "contable no sabemos muy bien que van a haber cosas",
+        "startMs": 897870,
+        "durationMs": 3800
+      },
+      {
+        "text": "donde extracontables se van a tener que manejar y lo he vivido con muchas",
+        "startMs": 901670,
+        "durationMs": 5120
+      },
+      {
+        "text": "compañías que tienen derivados financieros instrumentos financieros",
+        "startMs": 906790,
+        "durationMs": 4800
+      },
+      {
+        "text": "derivados como son forw como son swaps como son opciones en las cuales la",
+        "startMs": 911590,
+        "durationMs": 6760
+      },
+      {
+        "text": "valoración de ellos lo tiene que hacer un experto me da el valor y yo lo tengo",
+        "startMs": 918350,
+        "durationMs": 4279
+      },
+      {
+        "text": "que ajustar Pero estas políticas contables deben ser tan claves que yo",
+        "startMs": 922629,
+        "durationMs": 5081
+      },
+      {
+        "text": "debo definir a mi generador de información financiera mire el sistema",
+        "startMs": 927710,
+        "durationMs": 5320
+      },
+      {
+        "text": "debe quedar parametrizado de la siguiente manera las vías útiles no van",
+        "startMs": 933030,
+        "durationMs": 4599
+      },
+      {
+        "text": "a permanecer estáticas eso fue Bajo La regulación fiscal ni siquiera fue el",
+        "startMs": 937629,
+        "durationMs": 5760
+      },
+      {
+        "text": "decreto 2649 2649 del año 93 ni siquiera fue el",
+        "startMs": 943389,
+        "durationMs": 4321
+      },
+      {
+        "text": "que dijo que se depreciará a 5 años los vehículos fue una costumbre que tomamos",
+        "startMs": 947710,
+        "durationMs": 4679
+      },
+      {
+        "text": "por imposición tributaria de esta manera como bien dice la vida Útil es un",
+        "startMs": 952389,
+        "durationMs": 5401
+      },
+      {
+        "text": "estimado que quiere decir que en la medida que yo espero utilizarlo Esto va",
+        "startMs": 957790,
+        "durationMs": 3959
+      },
+      {
+        "text": "a cambiar luego mi sistema contable esa propiedad planta de equipo ese vehículo",
+        "startMs": 961749,
+        "durationMs": 4041
+      },
+      {
+        "text": "que lo tenía 5 años y que ya le falta un año pero lo Espero seguir utilizando voy",
+        "startMs": 965790,
+        "durationMs": 4360
+      },
+      {
+        "text": "a tener que ir a cambiar la parametrización de vida útil en el",
+        "startMs": 970150,
+        "durationMs": 3560
+      },
+      {
+        "text": "balance de apertura surgieron muchos ajustes yo tuve que mirar qué ajustes",
+        "startMs": 973710,
+        "durationMs": 4760
+      },
+      {
+        "text": "surgieron y adoptaron esos ajustes que se adoptaron se ajustaron contra el",
+        "startMs": 978470,
+        "durationMs": 5000
+      },
+      {
+        "text": "patrimonio qué seguimiento le voy a hacer esos ajustes errores de años",
+        "startMs": 983470,
+        "durationMs": 4760
+      },
+      {
+        "text": "anteriores Es verdad que ya estamos en nuestros primeros estados financieros",
+        "startMs": 988230,
+        "durationMs": 3920
+      },
+      {
+        "text": "bajo nif que fue el cierre 2016 comparativo con el 2015 y hay errores si",
+        "startMs": 992150,
+        "durationMs": 5320
+      },
+      {
+        "text": "esos errores son materiales Qué vamos a hacer es por eso que estos usuarios de",
+        "startMs": 997470,
+        "durationMs": 4240
+      },
+      {
+        "text": "información financiera deben correr hacia este tema Ahora hay un tema que es",
+        "startMs": 1001710,
+        "durationMs": 5760
+      },
+      {
+        "text": "nos había dicho la Diana inicialmente usted se va a tomar 4 años yo me voy a",
+        "startMs": 1007470,
+        "durationMs": 4120
+      },
+      {
+        "text": "tomar 4 años para analizar el impacto de esos nuevos Marcos normativos pero entra",
+        "startMs": 1011590,
+        "durationMs": 5080
+      },
+      {
+        "text": "la ley 1819 del 2016 qué le dice esa ley le dice mire tenga en cuenta que yo voy",
+        "startMs": 1016670,
+        "durationMs": 5839
+      },
+      {
+        "text": "a tener un periodo de transición pero en ese periodo de transición a partir del",
+        "startMs": 1022509,
+        "durationMs": 3520
+      },
+      {
+        "text": "primero de enero del 2017 vamos a partir de saldos niif al partir de saldos niif",
+        "startMs": 1026029,
+        "durationMs": 5841
+      },
+      {
+        "text": "hay unas excepciones donde van a decir en estos casos no como lo fue para",
+        "startMs": 1031870,
+        "durationMs": 4480
+      },
+      {
+        "text": "ingresos mire su ingreso contable mi ingreso fiscal va a ser el mismo ingreso",
+        "startMs": 1036350,
+        "durationMs": 4839
+      },
+      {
+        "text": "contable a excepciones de estos siete puntos entonces quiere decir que de",
+        "startMs": 1041189,
+        "durationMs": 4441
+      },
+      {
+        "text": "igual manera voy a tener que seguir llevando una conciliación fiscal es tan",
+        "startMs": 1045630,
+        "durationMs": 5000
+      },
+      {
+        "text": "así que la ley 1819 del año 2016 en su Artículo",
+        "startMs": 1050630,
+        "durationMs": 4960
+      },
+      {
+        "text": "Artículo 772 estableció conciliación fiscal dice",
+        "startMs": 1055590,
+        "durationMs": 4280
+      },
+      {
+        "text": "sin perjuicio lo previsto en el artículo cuarto de la ley 1314 los contribuyentes",
+        "startMs": 1059870,
+        "durationMs": 5560
+      },
+      {
+        "text": "obligados a llevar contabilidad deberán llevar un sistema",
+        "startMs": 1065430,
+        "durationMs": 4840
+      },
+      {
+        "text": "de control de conciliaciones de las diferencias que surjan entre las",
+        "startMs": 1070270,
+        "durationMs": 4600
+      },
+      {
+        "text": "aplicaciones de los nuevos Marcos técnicos y las disposiciones de este",
+        "startMs": 1074870,
+        "durationMs": 4000
+      },
+      {
+        "text": "estatuto quiere decir que mi contabilidad va a ser totalmente nif y",
+        "startMs": 1078870,
+        "durationMs": 4000
+      },
+      {
+        "text": "mis declaraciones van a ser totalmente nif no ustedes van a tener que seguir",
+        "startMs": 1082870,
+        "durationMs": 4960
+      },
+      {
+        "text": "llevando esas conciliaciones Fiscales Entonces ella de igual manera",
+        "startMs": 1087830,
+        "durationMs": 5319
+      },
+      {
+        "text": "dijo que el incumplimiento de esta obligación se considera para efectos",
+        "startMs": 1093149,
+        "durationMs": 5681
+      },
+      {
+        "text": "sancionatorios como una irregularidad en la contabilidad y el gobierno nacional",
+        "startMs": 1098830,
+        "durationMs": 6160
+      },
+      {
+        "text": "reglamentará la materia en Cómo se llevarán estas conciliaciones fiscales",
+        "startMs": 1104990,
+        "durationMs": 3840
+      },
+      {
+        "text": "nos dio el como no sin embargo sí nos dijo seguirán existiendo esas brechas y",
+        "startMs": 1108830,
+        "durationMs": 5560
+      },
+      {
+        "text": "por eso ahorita por qué ven agilizar el proceso de conversión porque ya hoy hoy",
+        "startMs": 1114390,
+        "durationMs": 5920
+      },
+      {
+        "text": "mediodía ya está vigente la ley 1819 y ya estamos totalmente ni para las",
+        "startMs": 1120310,
+        "durationMs": 7640
+      },
+      {
+        "text": "pymes continuando es me la la el cuestionamiento que nos hacemos Es Qué",
+        "startMs": 1127950,
+        "durationMs": 6160
+      },
+      {
+        "text": "beneficios han obtenido las pymes de Colombia en la implementación de las nif",
+        "startMs": 1134110,
+        "durationMs": 4919
+      },
+      {
+        "text": "cuando nosotros hablamos de beneficios pues tenemos que hablar de costo",
+        "startMs": 1139029,
+        "durationMs": 2921
+      },
+      {
+        "text": "beneficio Es verdad que para las pymes no solamente esto ha significado",
+        "startMs": 1141950,
+        "durationMs": 3920
+      },
+      {
+        "text": "contratar un consultor adecuar el sistema",
+        "startMs": 1145870,
+        "durationMs": 2880
+      },
+      {
+        "text": "sistema eh contratar una consultoría de sistemas",
+        "startMs": 1148750,
+        "durationMs": 2919
+      },
+      {
+        "text": "para verificar si mi sistema cumple no cumple hacer unas",
+        "startMs": 1151669,
+        "durationMs": 4201
+      },
+      {
+        "text": "parametrizaciones primero Qué beneficios estados financieros de propósito general",
+        "startMs": 1155870,
+        "durationMs": 5880
+      },
+      {
+        "text": "que reflejan un conjunto de normas que son aceptadas exigibles y comprensibles",
+        "startMs": 1161750,
+        "durationMs": 5840
+      },
+      {
+        "text": "y estandar globalmente mayor inversión extranjera competitividad de las",
+        "startMs": 1167590,
+        "durationMs": 6480
+      },
+      {
+        "text": "compañías colombianas modernización de la",
+        "startMs": 1174070,
+        "durationMs": 3880
+      },
+      {
+        "text": "la tecnología adicionalmente evitar",
+        "startMs": 1177950,
+        "durationMs": 2839
+      },
+      {
+        "text": "sanciones por incumplimiento de la ley 1314 de sus decretos reglamentarios y de",
+        "startMs": 1180789,
+        "durationMs": 4641
+      },
+      {
+        "text": "la actual ley 1819 fiscalmente entonces beneficios tanto de competencia como de",
+        "startMs": 1185430,
+        "durationMs": 7479
+      },
+      {
+        "text": "evitar incumplimientos y sanciones por esos",
+        "startMs": 1192909,
+        "durationMs": 3281
+      },
+      {
+        "text": "esos incumplimientos desde esta forma vamos a",
+        "startMs": 1196190,
+        "durationMs": 3599
+      },
+      {
+        "text": "proseguir con lo que es la adopción por primera vez Aunque ustedes van a decir",
+        "startMs": 1199789,
+        "durationMs": 4561
+      },
+      {
+        "text": "Bueno un tema de adopción por primera vez cuando yo ya tengo primeros estados",
+        "startMs": 1204350,
+        "durationMs": 4199
+      },
+      {
+        "text": "financieros pero vamos a ver dónde pudimos haber tenido algunos pecadillos",
+        "startMs": 1208549,
+        "durationMs": 4600
+      },
+      {
+        "text": "Y qué cosas Debemos corregir cuando nosotros dijimos vamos a elaborar un",
+        "startMs": 1213149,
+        "durationMs": 5000
+      },
+      {
+        "text": "balance de apertura debemos de tener en cuenta varias cosas que ese balance de",
+        "startMs": 1218149,
+        "durationMs": 4681
+      },
+      {
+        "text": "apertura se define con unas políticas contables para aplicar desde el primero",
+        "startMs": 1222830,
+        "durationMs": 4800
+      },
+      {
+        "text": "de enero del5 15 hasta el 31 de diciembre del 2016 porque debe cumplir",
+        "startMs": 1227630,
+        "durationMs": 5279
+      },
+      {
+        "text": "con una característica de que son comparables y que son uniformes yo no",
+        "startMs": 1232909,
+        "durationMs": 4721
+      },
+      {
+        "text": "puedo cambiar las políticas porque es de los cuestionamientos que muchas veces",
+        "startMs": 1237630,
+        "durationMs": 3880
+      },
+      {
+        "text": "nos han llegado Ay es que yo definí unas políticas en el espa pero comenzando el",
+        "startMs": 1241510,
+        "durationMs": 4639
+      },
+      {
+        "text": "periodo de transición el primero de enero del 2016 ya quiero cambiar las",
+        "startMs": 1246149,
+        "durationMs": 3760
+      },
+      {
+        "text": "políticas ojo porque mis primeros estados financieros de propósito general",
+        "startMs": 1249909,
+        "durationMs": 6120
+      },
+      {
+        "text": "deben cumplir con unas cualidades o atrib os y uno de ellos es que sea",
+        "startMs": 1256029,
+        "durationMs": 4241
+      },
+      {
+        "text": "comparable y que las políticas sean uniformes yo puedo cambiar de política",
+        "startMs": 1260270,
+        "durationMs": 5920
+      },
+      {
+        "text": "Si eso hace que la información sea más relevante y fiable pero a partir de que",
+        "startMs": 1266190,
+        "durationMs": 4680
+      },
+      {
+        "text": "emito mis primeros estados financieros cuándo los emití 31 de diciembre del",
+        "startMs": 1270870,
+        "durationMs": 4560
+      },
+      {
+        "text": "2016 y solo en la medida en que el mismo iasb cambie el marco que actualmente",
+        "startMs": 1275430,
+        "durationMs": 7440
+      },
+      {
+        "text": "está y que yo amerite que eso haga que mi información sea más relevante y",
+        "startMs": 1282870,
+        "durationMs": 6159
+      },
+      {
+        "text": "fiable o que yo identifique que hay un cambio que sea más relevante Y fiable",
+        "startMs": 1289029,
+        "durationMs": 4281
+      },
+      {
+        "text": "desde ese escenario vamos a ver varias cosas yo qué tenía que hacer en este",
+        "startMs": 1293310,
+        "durationMs": 4760
+      },
+      {
+        "text": "escenario mi balance al primero de enero del 2014 a primero de enero del",
+        "startMs": 1298070,
+        "durationMs": 5079
+      },
+      {
+        "text": "2015 Perdón que es con el que voy a evaluar y voy a tomar las cifras al",
+        "startMs": 1303149,
+        "durationMs": 4241
+      },
+      {
+        "text": "cierre de diciembre del 2014 voy a mirar mis activos mis pasivos y mi patrimonio",
+        "startMs": 1307390,
+        "durationMs": 5159
+      },
+      {
+        "text": "y debo determinar a la luz del marco conceptual de ni para pymes qué cumple",
+        "startMs": 1312549,
+        "durationMs": 5240
+      },
+      {
+        "text": "con la ición de activo que cumple con la definición de pasivo y determinar si hay",
+        "startMs": 1317789,
+        "durationMs": 5880
+      },
+      {
+        "text": "algo reconocido A 31 de diciembre del 2014 que para el nuevo eh balance de",
+        "startMs": 1323669,
+        "durationMs": 5880
+      },
+      {
+        "text": "apertura debería yo eliminar o debería reconocer o debería valorarlo o lo que",
+        "startMs": 1329549,
+        "durationMs": 6000
+      },
+      {
+        "text": "no va a impactar las ganancias acumuladas es el reclasificar porque las",
+        "startMs": 1335549,
+        "durationMs": 4720
+      },
+      {
+        "text": "reclasificaciones se van a dar entre cuenta de balance activo o pasivo",
+        "startMs": 1340269,
+        "durationMs": 4520
+      },
+      {
+        "text": "dependiendo donde corresponda pero no van a afectar el patrimonio afectarán el",
+        "startMs": 1344789,
+        "durationMs": 4880
+      },
+      {
+        "text": "patrimonio en el caso por ejemplo de ajustes por inflación que hayan quedado",
+        "startMs": 1349669,
+        "durationMs": 4600
+      },
+      {
+        "text": "en el patrimonio y que yo sé que ya en Colombia no cumplimos las condiciones",
+        "startMs": 1354269,
+        "durationMs": 5400
+      },
+      {
+        "text": "para estar en una economía hiperinflacionaria y yo elimino esos",
+        "startMs": 1359669,
+        "durationMs": 4321
+      },
+      {
+        "text": "ajustes por inflación que habían en el patrimonio contra las ganancias",
+        "startMs": 1363990,
+        "durationMs": 3159
+      },
+      {
+        "text": "acumuladas en ese escenario todos los ajustes de eliminar reconocer Y valorar",
+        "startMs": 1367149,
+        "durationMs": 5880
+      },
+      {
+        "text": "afectan principalmente al patrimonio posteriormente cómo lo van a afectar lo",
+        "startMs": 1373029,
+        "durationMs": 4801
+      },
+      {
+        "text": "van a ar con la norma de políticas contables errores contables si hay un",
+        "startMs": 1377830,
+        "durationMs": 4920
+      },
+      {
+        "text": "cambio en política va a afectar el patrimonio si hay un error contable y",
+        "startMs": 1382750,
+        "durationMs": 5240
+      },
+      {
+        "text": "debo reexpresar esos estados financieros retrospectivamente va a afectar ese",
+        "startMs": 1387990,
+        "durationMs": 6840
+      },
+      {
+        "text": "patrimonio para continuar nos vamos a dar cuenta que cuando la norma me dice",
+        "startMs": 1394830,
+        "durationMs": 5000
+      },
+      {
+        "text": "Bueno usted va a hacer una declaración explícita y sin reservas de que usted",
+        "startMs": 1399830,
+        "durationMs": 4160
+      },
+      {
+        "text": "cumple ni para las pymes como usted va a partir de unos saldos iniciales la norma",
+        "startMs": 1403990,
+        "durationMs": 5640
+      },
+      {
+        "text": "de la sección 35 de implementación por primera vez te permite unas excepciones",
+        "startMs": 1409630,
+        "durationMs": 6399
+      },
+      {
+        "text": "de uso obligatorio y unas excepciones de uso voluntario las excepciones de uso",
+        "startMs": 1416029,
+        "durationMs": 5921
+      },
+      {
+        "text": "obligatorio ténganlo en cuenta excepciones con p de uso obligatorio me",
+        "startMs": 1421950,
+        "durationMs": 5000
+      },
+      {
+        "text": "indican lo siguiente quiere decir que la compañía no ajustará",
+        "startMs": 1426950,
+        "durationMs": 5920
+      },
+      {
+        "text": "retroactivamente su contabilidad local Qué quiere decir que yo no voy a ir a",
+        "startMs": 1432870,
+        "durationMs": 5640
+      },
+      {
+        "text": "ajustar lo que yo ya había hecho localmente o sea mi balance local A 31",
+        "startMs": 1438510,
+        "durationMs": 5680
+      },
+      {
+        "text": "de diciembre del 2014 no cambiará retroactivamente yo voy a determinar",
+        "startMs": 1444190,
+        "durationMs": 4640
+      },
+      {
+        "text": "unos nuevos saldos iniciales Pero eso que existía 31 de diciembre del 2014 no",
+        "startMs": 1448830,
+        "durationMs": 7719
+      },
+      {
+        "text": "cambiará retroactivamente Cuáles son las",
+        "startMs": 1456549,
+        "durationMs": 1761
+      },
+      {
+        "text": "excepciones de uso obligatorio está la baja en cuenta de activos y pasivos",
+        "startMs": 1458310,
+        "durationMs": 4520
+      },
+      {
+        "text": "financieros y Qué quiere decir esto quiere decir que si bajo el decreto 2649",
+        "startMs": 1462830,
+        "durationMs": 5640
+      },
+      {
+        "text": "que se se venía aplicando el cierre de diciembre 2014 Yo di de baja cuentas de",
+        "startMs": 1468470,
+        "durationMs": 5640
+      },
+      {
+        "text": "activos y pasivos financieros antes de la fecha de transición antes del 31 de",
+        "startMs": 1474110,
+        "durationMs": 4880
+      },
+      {
+        "text": "diciembre del 2014 no hay lugar a que yo los vuelva a reconocer en mi balance de",
+        "startMs": 1478990,
+        "durationMs": 4799
+      },
+      {
+        "text": "apertura ojo con esto baja en cuentas de activos y pasivos financieros que se",
+        "startMs": 1483789,
+        "durationMs": 5041
+      },
+      {
+        "text": "habían dado de baja bajo lo local antes de la fecha de",
+        "startMs": 1488830,
+        "durationMs": 4319
+      },
+      {
+        "text": "transición ahora otra excepción de uso obligatorio la contabilidad de",
+        "startMs": 1493149,
+        "durationMs": 5760
+      },
+      {
+        "text": "coberturas qué me dice la norma usted venía aplicando contabilidad de",
+        "startMs": 1498909,
+        "durationMs": 4161
+      },
+      {
+        "text": "coberturas en ese escenario la contabilidad de coberturas ustedes dirán",
+        "startMs": 1503070,
+        "durationMs": 4160
+      },
+      {
+        "text": "Bueno eso es nuevo dónde hablaba el decreto 2649 contabilidad de coberturas",
+        "startMs": 1507230,
+        "durationMs": 4319
+      },
+      {
+        "text": "efectivamente como tal el decreto 2649 del año 93 que se quedó obsoleto no",
+        "startMs": 1511549,
+        "durationMs": 5401
+      },
+      {
+        "text": "hablaba de contabilidad coberturas pero las nip para las pymes en su sección 12",
+        "startMs": 1516950,
+        "durationMs": 4880
+      },
+      {
+        "text": "Sí habla de contabilidad de coberturas y es cuando aquellas entidades se quieren",
+        "startMs": 1521830,
+        "durationMs": 5360
+      },
+      {
+        "text": "cubrir de un riesgo de Mercado como puede ser tasa de cambio tasa de interés",
+        "startMs": 1527190,
+        "durationMs": 5240
+      },
+      {
+        "text": "y o comitis y en ese escenario existen instrumentos financieros de cobertura",
+        "startMs": 1532430,
+        "durationMs": 5080
+      },
+      {
+        "text": "como son los Forward como son eh los swaps como son los como son el caso",
+        "startMs": 1537510,
+        "durationMs": 6600
+      },
+      {
+        "text": "de como son el caso de otros instrumentos financieros derivados y",
+        "startMs": 1544110,
+        "durationMs": 4799
+      },
+      {
+        "text": "están cubriendo o mitigando un riesgo en una partida cubierta que bien puede ser",
+        "startMs": 1548909,
+        "durationMs": 4721
+      },
+      {
+        "text": "un pasivo en moneda extranjera un ejemplo en ese escenario la norma me",
+        "startMs": 1553630,
+        "durationMs": 3960
+      },
+      {
+        "text": "dice usted contabilizará sus sus contabilidades de coberturas como lo",
+        "startMs": 1557590,
+        "durationMs": 5319
+      },
+      {
+        "text": "venía haciendo localmente para aquellas relaciones de cobertura que dejaron de",
+        "startMs": 1562909,
+        "durationMs": 6480
+      },
+      {
+        "text": "existir a la fecha de a la fecha de eh de reconocimiento bajo ni para pymes",
+        "startMs": 1569389,
+        "durationMs": 7841
+      },
+      {
+        "text": "que es el primero de enero del 2015 O sea que si yo venía aplicando",
+        "startMs": 1577230,
+        "durationMs": 4159
+      },
+      {
+        "text": "contabilidad coberturas tengo que corregirlas Pero si ya la relación de",
+        "startMs": 1581389,
+        "durationMs": 3520
+      },
+      {
+        "text": "cobertura termino tengo que seguirlo haciendo no lo dejo como lo venía",
+        "startMs": 1584909,
+        "durationMs": 3721
+      },
+      {
+        "text": "haciendo localmente y para aquellas nuevas relaciones de cobertura que no se",
+        "startMs": 1588630,
+        "durationMs": 4039
+      },
+      {
+        "text": "habían cerrado sí debo aplicar la sección 12 estimaciones contables quiere",
+        "startMs": 1592669,
+        "durationMs": 5801
+      },
+      {
+        "text": "decir que esta opción si yo hice una estimación ya sea un litigio cualquier",
+        "startMs": 1598470,
+        "durationMs": 5400
+      },
+      {
+        "text": "forma de estimación como también puede ser la vida útil ir a cambiar las",
+        "startMs": 1603870,
+        "durationMs": 4039
+      },
+      {
+        "text": "estimaciones que quedaron en la foto a 31 de diciembre del 2014 en el psga",
+        "startMs": 1607909,
+        "durationMs": 4880
+      },
+      {
+        "text": "local no cambiará retroactivamente la norma me dice no cambiará porque es",
+        "startMs": 1612789,
+        "durationMs": 4880
+      },
+      {
+        "text": "información con la cual estaba disponible en ese momento que se hizo la",
+        "startMs": 1617669,
+        "durationMs": 3720
+      },
+      {
+        "text": "estimación usted no puede cambiar la información que se llevaba Bajo su",
+        "startMs": 1621389,
+        "durationMs": 3841
+      },
+      {
+        "text": "contabilidad local anterior Esa fue la foto de la cual usted parte otras",
+        "startMs": 1625230,
+        "durationMs": 4919
+      },
+      {
+        "text": "excepciones con p de uso obligatorio medición de participaciones no",
+        "startMs": 1630149,
+        "durationMs": 4961
+      },
+      {
+        "text": "controladas cuando hablamos de participación hablamos de participación",
+        "startMs": 1635110,
+        "durationMs": 4080
+      },
+      {
+        "text": "en otra entidad de acuerdo a lo que quedó vivo en la ley 222 y que no lo",
+        "startMs": 1639190,
+        "durationMs": 5079
+      },
+      {
+        "text": "anuló la ley 13 14 es hay control cuando usted tiene más del 50% de derecho a",
+        "startMs": 1644269,
+        "durationMs": 5880
+      },
+      {
+        "text": "voto en ese escenario si yo tengo una participación en otra entidad y defino",
+        "startMs": 1650149,
+        "durationMs": 4961
+      },
+      {
+        "text": "que no hay control porque no tengo poder para incidir en sus políticas",
+        "startMs": 1655110,
+        "durationMs": 4400
+      },
+      {
+        "text": "financieras administrativas operativas No tengo más del 50% del derecho a voto",
+        "startMs": 1659510,
+        "durationMs": 4960
+      },
+      {
+        "text": "es algo que no controlo en ese escenario él dice ustedes las seguirán midiendo",
+        "startMs": 1664470,
+        "durationMs": 4880
+      },
+      {
+        "text": "como las venía midiendo y no cambiará la forma en medir las participaciones en no",
+        "startMs": 1669350,
+        "durationMs": 7000
+      },
+      {
+        "text": "controladas continuemos como ya hablamos de las excepciones de uso obligatorio",
+        "startMs": 1676350,
+        "durationMs": 6199
+      },
+      {
+        "text": "ahora vamos a hablar de las exenciones con x de uso voluntario y Qué quiere",
+        "startMs": 1682549,
+        "durationMs": 5240
+      },
+      {
+        "text": "decir esto quiere decir que la compañía voluntariamente puede optar por",
+        "startMs": 1687789,
+        "durationMs": 5000
+      },
+      {
+        "text": "utilizarlas sí o no entonces una de ellas es el valor razonable como costo",
+        "startMs": 1692789,
+        "durationMs": 6321
+      },
+      {
+        "text": "atribuido Qué quiere decir que la compañía optará es voluntariamente",
+        "startMs": 1699110,
+        "durationMs": 6600
+      },
+      {
+        "text": "utilizar una valoración de valor razonable para elementos como propiedad",
+        "startMs": 1705710,
+        "durationMs": 4040
+      },
+      {
+        "text": "plantea equipo propiedades de inversión O intangibles y reemplazará el costo",
+        "startMs": 1709750,
+        "durationMs": 5880
+      },
+      {
+        "text": "histórico que venía anteriormente Y atribuirá por eso dice atribuido",
+        "startMs": 1715630,
+        "durationMs": 5039
+      },
+      {
+        "text": "reemplazará ese costo histórico por este nuevo valor",
+        "startMs": 1720669,
+        "durationMs": 3681
+      },
+      {
+        "text": "razonable Entonces qué hicieron muchas compañías al cierre 31 de diciembre del",
+        "startMs": 1724350,
+        "durationMs": 4760
+      },
+      {
+        "text": "2014 para elaborar el esa el primero de enero del 2015 tomaron ese evalúo",
+        "startMs": 1729110,
+        "durationMs": 5840
+      },
+      {
+        "text": "reemplazaron lo que había históricamente y ese evaluo se convier en el nuevo",
+        "startMs": 1734950,
+        "durationMs": 3920
+      },
+      {
+        "text": "valor de su propiedad planta equipo o de su propiedad de inversión O de su activo",
+        "startMs": 1738870,
+        "durationMs": 4440
+      },
+      {
+        "text": "intangible existe otro y es la reevaluación como costo atribuido Y qué",
+        "startMs": 1743310,
+        "durationMs": 5079
+      },
+      {
+        "text": "te permite acá la Norma que tú en el momento de transición tome una",
+        "startMs": 1748389,
+        "durationMs": 5400
+      },
+      {
+        "text": "revaluación hecha bajo pcga anteriores Y lo tomes como costo atribuido en esa",
+        "startMs": 1753789,
+        "durationMs": 6401
+      },
+      {
+        "text": "fecha vamos a colocar un ejemplo soy una compañía que elaboré una malo bajo psg",
+        "startMs": 1760190,
+        "durationMs": 7959
+      },
+      {
+        "text": "anteriores el en septiembre del 2014 pero mi esfa tiene que partir de los",
+        "startMs": 1768149,
+        "durationMs": 5880
+      },
+      {
+        "text": "saldos A 31 de diciembre O sea que lo hice TR meses 4 meses antes en ese",
+        "startMs": 1774029,
+        "durationMs": 5120
+      },
+      {
+        "text": "escenario yo puedo tomar esa ese avaluo como",
+        "startMs": 1779149,
+        "durationMs": 6880
+      },
+      {
+        "text": "reevaluación y calcular depreciación de esos TR meses que me está haciendo falta",
+        "startMs": 1786029,
+        "durationMs": 5201
+      },
+      {
+        "text": "a partir de ese valor reevaluado tengan en cuenta que bajo el Antiguo marco",
+        "startMs": 1791230,
+        "durationMs": 4960
+      },
+      {
+        "text": "contable la reevaluación donde un activo quedaba separada entre lo que es el",
+        "startMs": 1796190,
+        "durationMs": 4160
+      },
+      {
+        "text": "valor del activo y lo que es el valor en la cuenta 19 por revaluación contra una",
+        "startMs": 1800350,
+        "durationMs": 4880
+      },
+      {
+        "text": "cuenta en el patrimonio para nif ese valor reevaluado se convierte en el todo",
+        "startMs": 1805230,
+        "durationMs": 5760
+      },
+      {
+        "text": "del activo yo voy a depreciar el costo o el avalúo que me dio el el tasador",
+        "startMs": 1810990,
+        "durationMs": 7840
+      },
+      {
+        "text": "experto es el que voy a tomar como referente como base de depreciación",
+        "startMs": 1818830,
+        "durationMs": 4679
+      },
+      {
+        "text": "menos cualquier valor residual qué exiones también me me permitía la misma",
+        "startMs": 1823509,
+        "durationMs": 6520
+      },
+      {
+        "text": "Norma impuestos diferidos el impuesto diferido que es",
+        "startMs": 1830029,
+        "durationMs": 4480
+      },
+      {
+        "text": "algo a los que muchos les gusta dice que no requiere que una entidad que adopta",
+        "startMs": 1834509,
+        "durationMs": 5681
+      },
+      {
+        "text": "por primera vez reconozca bajo las n para las pymes activos o pasivos por",
+        "startMs": 1840190,
+        "durationMs": 5040
+      },
+      {
+        "text": "impuesto diferidos que surjan de la diferencia entre su base fiscal y su",
+        "startMs": 1845230,
+        "durationMs": 4000
+      },
+      {
+        "text": "saldo nif Si cuyo reconocimiento conlleva un costo o esfuerzo",
+        "startMs": 1849230,
+        "durationMs": 5159
+      },
+      {
+        "text": "desproporcionado Entonces qué le está diciendo la Norma usted no lo reconocerá",
+        "startMs": 1854389,
+        "durationMs": 4961
+      },
+      {
+        "text": "si esto conlleva un costo o esfuerzo desproporcionado realmente en la",
+        "startMs": 1859350,
+        "durationMs": 4799
+      },
+      {
+        "text": "aducción de todos nuestros clientes de n para pymes en ningún caso se nos dio ese",
+        "startMs": 1864149,
+        "durationMs": 4400
+      },
+      {
+        "text": "costo de esfuerzo desproporcionado porque yo tanto conozco las bases",
+        "startMs": 1868549,
+        "durationMs": 3881
+      },
+      {
+        "text": "Fiscales tanto conozco las bases niif y no hay un costo o esfuerzo",
+        "startMs": 1872430,
+        "durationMs": 4400
+      },
+      {
+        "text": "desproporcionado que yo pueda llegar a justificar y hacer una revelación no es",
+        "startMs": 1876830,
+        "durationMs": 4079
+      },
+      {
+        "text": "que para mí fue un costo o esfuerzo es proporcionado calcular el impuesto",
+        "startMs": 1880909,
+        "durationMs": 3281
+      },
+      {
+        "text": "diferido tendría que estar bien justificado y revelado pero a la fecha",
+        "startMs": 1884190,
+        "durationMs": 4880
+      },
+      {
+        "text": "del día de hoy no tengo ninguna conversión con este",
+        "startMs": 1889070,
+        "durationMs": 3120
+      },
+      {
+        "text": "escenario acuerdos que contienen un arrendamiento como voy des hablaba de",
+        "startMs": 1892190,
+        "durationMs": 4120
+      },
+      {
+        "text": "arrendamientos a la fecha de transición que es el primero de enero del 2015 con",
+        "startMs": 1896310,
+        "durationMs": 4400
+      },
+      {
+        "text": "el cierre del 2014 puedo tener contratos de arrendamiento donde contextualmente",
+        "startMs": 1900710,
+        "durationMs": 5799
+      },
+      {
+        "text": "se llaman contratos de arrendamiento o unos que Son acuerdos de servicios y que",
+        "startMs": 1906509,
+        "durationMs": 4801
+      },
+      {
+        "text": "implícitamente tener un acuerdo de arrendamiento la norma bien me dice mire",
+        "startMs": 1911310,
+        "durationMs": 4719
+      },
+      {
+        "text": "usted puede optar por lo siguiente es voluntario puede ser que hoy es 31 de",
+        "startMs": 1916029,
+        "durationMs": 4760
+      },
+      {
+        "text": "diciembre del 2014 pero ese arrendamiento se dio hace 3 años y",
+        "startMs": 1920789,
+        "durationMs": 4161
+      },
+      {
+        "text": "ustedes no conocen Los criterios y condiciones con las cuales se dieron ese",
+        "startMs": 1924950,
+        "durationMs": 3719
+      },
+      {
+        "text": "arrendamiento valor ese arrendamiento con las condiciones que tiene ahorita",
+        "startMs": 1928669,
+        "durationMs": 11240
+      },
+      {
+        "text": "valórese de uso voluntario y qué me dice esa Norma la sección 34 habla de los",
+        "startMs": 1939919,
+        "durationMs": 6870
+      },
+      {
+        "text": "acuerdos de concesión en la condición de la concesionaria O el operador de la",
+        "startMs": 1946789,
+        "durationMs": 6041
+      },
+      {
+        "text": "concesión ojo con esto concesionaria por qué porque esta misma",
+        "startMs": 1952830,
+        "durationMs": 5520
+      },
+      {
+        "text": "sección 34 te dice mire Los acuerdos de concesión pueden ser o un activo",
+        "startMs": 1958350,
+        "durationMs": 6120
+      },
+      {
+        "text": "financiero o pueden ser un intangible Pero qué me está diciendo la norma todos",
+        "startMs": 1964470,
+        "durationMs": 4760
+      },
+      {
+        "text": "aquellos acuerdos de concesión que se hayan celebrado antes de la fecha de",
+        "startMs": 1969230,
+        "durationMs": 4439
+      },
+      {
+        "text": "transición an para pymes se tratarán como venían haciéndolo localmente mente",
+        "startMs": 1973669,
+        "durationMs": 4801
+      },
+      {
+        "text": "pero aquellos que surjan después de la fecha de transición debes darle la",
+        "startMs": 1978470,
+        "durationMs": 4520
+      },
+      {
+        "text": "disposición de la sección 34 listo continuemos los pasivos por",
+        "startMs": 1982990,
+        "durationMs": 7120
+      },
+      {
+        "text": "retiro o por desmantelamiento como les habló Boris en la anterior presentación",
+        "startMs": 1990110,
+        "durationMs": 5159
+      },
+      {
+        "text": "tengan en cuenta que el costo por desmantelamiento el costo por",
+        "startMs": 1995269,
+        "durationMs": 4280
+      },
+      {
+        "text": "retiro cuando hay esa obligación ligal o implícita en los contratos quiere decir",
+        "startMs": 1999549,
+        "durationMs": 6521
+      },
+      {
+        "text": "que es un mayor valor de la contra un pasivo llamado provisión en ese",
+        "startMs": 2006070,
+        "durationMs": 5400
+      },
+      {
+        "text": "escenario la norma te dice lo siguiente puede ser que el contrato venga hace TR",
+        "startMs": 2011470,
+        "durationMs": 5280
+      },
+      {
+        "text": "cu 5 años a la fecha de transición calcúlalo el pasivo hoy en la fecha de",
+        "startMs": 2016750,
+        "durationMs": 6000
+      },
+      {
+        "text": "transición Cuál es su pasivo y no tenga en cuenta desde que nació la obligación",
+        "startMs": 2022750,
+        "durationMs": 5080
+      },
+      {
+        "text": "la fecha de transición entonces son esas exenciones de uso voluntario que me",
+        "startMs": 2027830,
+        "durationMs": 7120
+      },
+      {
+        "text": "permitía la Norma desde este punto de vista Ya vimos las exenciones y",
+        "startMs": 2034950,
+        "durationMs": 5240
+      },
+      {
+        "text": "excepciones hay una exención clave que no la contiene las nif completas como es",
+        "startMs": 2040190,
+        "durationMs": 5680
+      },
+      {
+        "text": "la nif un Y es que no se requiere la reexpresión de unos o más ajustes si",
+        "startMs": 2045870,
+        "durationMs": 7719
+      },
+      {
+        "text": "resulta impracticable en la elaboración de mi",
+        "startMs": 2053589,
+        "durationMs": 4240
+      },
+      {
+        "text": "estado financiero por primera vez cierto el",
+        "startMs": 2057829,
+        "durationMs": 2760
+      },
+      {
+        "text": "estado financiero de apertura yo puedo decir esto es impracticable y no lo voy",
+        "startMs": 2060589,
+        "durationMs": 5040
+      },
+      {
+        "text": "a hacer ahorita y no se requiere de eh información comparativa si resulta",
+        "startMs": 2065629,
+        "durationMs": 6081
+      },
+      {
+        "text": "impracticable y dice la norma de impracticability",
+        "startMs": 2071710,
+        "durationMs": 25960
+      },
+      {
+        "text": "se debe reconocer que se debe eliminar Y qué requiere otra medición en ese",
+        "startMs": 2097680,
+        "durationMs": 5470
+      },
+      {
+        "text": "escenario nosotros decimos Oye es impracticable hacer estos ajustes en ese",
+        "startMs": 2103150,
+        "durationMs": 5120
+      },
+      {
+        "text": "escenario cuando yo digo que eso es impracticable la norma me dice cuando",
+        "startMs": 2108270,
+        "durationMs": 3360
+      },
+      {
+        "text": "resulte practicable hacerlo hágalo y mírelo con qué periodo comparable",
+        "startMs": 2111630,
+        "durationMs": 4400
+      },
+      {
+        "text": "anterior debe hacerlo si no es posible hacerlo comparable Usted debe",
+        "startMs": 2116030,
+        "durationMs": 5480
+      },
+      {
+        "text": "revelarlo ahora bien ya muchos han hecho eh implementación de ni para las pymes",
+        "startMs": 2121510,
+        "durationMs": 7680
+      },
+      {
+        "text": "porque ya inclusive se encuentran aplicando completamente ni para las",
+        "startMs": 2129190,
+        "durationMs": 3720
+      },
+      {
+        "text": "pymes pero vamos a ver el siguiente caso práctico tenemos el en este escenario",
+        "startMs": 2132910,
+        "durationMs": 5640
+      },
+      {
+        "text": "una compañía donde tenemos activos y pasivos todos sus activos y pasivos y",
+        "startMs": 2138550,
+        "durationMs": 6720
+      },
+      {
+        "text": "patrimonio que es lo que va a tener su balance de apertura listo qué más Vamos",
+        "startMs": 2145270,
+        "durationMs": 5160
+      },
+      {
+        "text": "a ver en este ejercicio Permítame hago aquí un tema de",
+        "startMs": 2150430,
+        "durationMs": 6200
+      },
+      {
+        "text": "compartir pantalla",
+        "startMs": 2156630,
+        "durationMs": 3120
+      },
+      {
+        "text": "listo vamos a retomar el tema Entonces qué hicieron muchos en sus balances de",
+        "startMs": 2159760,
+        "durationMs": 5750
+      },
+      {
+        "text": "apertura nosotros tenemos más columnas de las que ven acá No solo ajustes nif",
+        "startMs": 2165510,
+        "durationMs": 5120
+      },
+      {
+        "text": "sino ajustes por reclasificación por qué Porque cuando ustedes aplican la sección",
+        "startMs": 2170630,
+        "durationMs": 6120
+      },
+      {
+        "text": "35 van a tener que emitir unas conciliaciones donde usted dice Mire yo",
+        "startMs": 2176750,
+        "durationMs": 4520
+      },
+      {
+        "text": "partí de mi patrimonio que yo tengo un patrimonio en este escenario en el",
+        "startMs": 2181270,
+        "durationMs": 5280
+      },
+      {
+        "text": "ejercicio tengo un patrimonio aquí no me lo deja bajar Bueno ya ya miramos",
+        "startMs": 2186550,
+        "durationMs": 4920
+      },
+      {
+        "text": "partimos de un patrimonio local y vamos a llegar a un patrimonio nif producto de",
+        "startMs": 2191470,
+        "durationMs": 4879
+      },
+      {
+        "text": "que ajusté algunos activos los eliminé otros los valoré un",
+        "startMs": 2196349,
+        "durationMs": 6000
+      },
+      {
+        "text": "ejemplo puede ser la cartera donde para efectos Fiscales yo venía aplicando un",
+        "startMs": 2202349,
+        "durationMs": 4720
+      },
+      {
+        "text": "deterioro individual y general de acuerdo a unas normas Fiscales pero como",
+        "startMs": 2207069,
+        "durationMs": 4921
+      },
+      {
+        "text": "bien lo enunció Boris el deterioro debo revisar si cumpo unos indicios de",
+        "startMs": 2211990,
+        "durationMs": 6040
+      },
+      {
+        "text": "deterior Y si cumplo sus indicios de deterioro",
+        "startMs": 2218030,
+        "durationMs": 1960
+      },
+      {
+        "text": "voy a calcular el deterioro para aquellos medidos al costo amortizado va",
+        "startMs": 2219990,
+        "durationMs": 4000
+      },
+      {
+        "text": "a ser el menor va a ser comparar el valor presente de esos flujos contra el",
+        "startMs": 2223990,
+        "durationMs": 6400
+      },
+      {
+        "text": "valor en libros y si es un instrumento financiero medido al costo voy a hacer",
+        "startMs": 2230390,
+        "durationMs": 5480
+      },
+      {
+        "text": "una mejor estimación de ese deterioro Entonces vamos a ver en este",
+        "startMs": 2235870,
+        "durationMs": 6280
+      },
+      {
+        "text": "ejemplo tres o cuatro enunciados muy claves primero Aquí vemos un ejemplo de",
+        "startMs": 2242150,
+        "durationMs": 6520
+      },
+      {
+        "text": "una reclasificación que pudo ocurrirles en su estado financiero de apertura Y es",
+        "startMs": 2248670,
+        "durationMs": 4840
+      },
+      {
+        "text": "que esos derechos fiduciarios se van a reclasificar a efectivos y equivalentes",
+        "startMs": 2253510,
+        "durationMs": 5079
+      },
+      {
+        "text": "de efectivo y aquí lo vamos a ver muchas compañías",
+        "startMs": 2258589,
+        "durationMs": 4480
+      },
+      {
+        "text": "compañías tenían los derechos fiduciarios Como si",
+        "startMs": 2263069,
+        "durationMs": 2961
+      },
+      {
+        "text": "fueran una inversión y teníamos bajo psga locales 338",
+        "startMs": 2266030,
+        "durationMs": 7200
+      },
+      {
+        "text": "millones esos 338 millones nosotros los hemos reclasificado a una cuenta",
+        "startMs": 2273230,
+        "durationMs": 6720
+      },
+      {
+        "text": "11 que bien la podemos como ya no existe plan de cuentas para algunas",
+        "startMs": 2279950,
+        "durationMs": 6000
+      },
+      {
+        "text": "superintendencias y Lo aclaro porque el mismo la misma ley 13 14 dijo que esa",
+        "startMs": 2285950,
+        "durationMs": 6440
+      },
+      {
+        "text": "libre albedrío quiénes van a definir Cómo se va a llevar su plan contable Yo",
+        "startMs": 2292390,
+        "durationMs": 4959
+      },
+      {
+        "text": "podría llamarle a esto la cuenta 1130 y decir que se llama equivalentes al",
+        "startMs": 2297349,
+        "durationMs": 4361
+      },
+      {
+        "text": "efectivo Por qué cumple con equivalentes de efectivo la misma política de la",
+        "startMs": 2301710,
+        "durationMs": 4920
+      },
+      {
+        "text": "entidad de debe decir que es un equivalente efectivo debe decir que es",
+        "startMs": 2306630,
+        "durationMs": 4000
+      },
+      {
+        "text": "altamente líquido que se espera que sea realizable en los próximos un ejemplo",
+        "startMs": 2310630,
+        "durationMs": 4560
+      },
+      {
+        "text": "tres meses debe decir que es poco probable el cambio en su valor razonable",
+        "startMs": 2315190,
+        "durationMs": 5639
+      },
+      {
+        "text": "O sea que su el cambio en el valor razonable este activo no va a ser",
+        "startMs": 2320829,
+        "durationMs": 4201
+      },
+      {
+        "text": "significativo en ese escenario como cumple esa cualidad ya no va a ser una",
+        "startMs": 2325030,
+        "durationMs": 4760
+      },
+      {
+        "text": "inversión dentro de los Derechos fiduciarios si no va a ser un",
+        "startMs": 2329790,
+        "durationMs": 4200
+      },
+      {
+        "text": "equivalente efectivo ese es un ejemplo de reclasificación",
+        "startMs": 2333990,
+        "durationMs": 4280
+      },
+      {
+        "text": "ahora nuestra compañía ABC al cierre del ejercicio 2014 reconoció 500 millones",
+        "startMs": 2338270,
+        "durationMs": 7240
+      },
+      {
+        "text": "por el valor de venta de mercancía sin haber transferido riesgos y ventajas de",
+        "startMs": 2345510,
+        "durationMs": 5599
+      },
+      {
+        "text": "de esa mercancía y el costo de la mercancía fue de 200 millones Qué vamos",
+        "startMs": 2351109,
+        "durationMs": 6281
+      },
+      {
+        "text": "a hacer en esos escenarios claro nuestras compañías deben revisar si esos",
+        "startMs": 2357390,
+        "durationMs": 4880
+      },
+      {
+        "text": "ingresos yo ya transferí riesgos y beneficios si yo no conservo riesgos",
+        "startMs": 2362270,
+        "durationMs": 4319
+      },
+      {
+        "text": "significativos de esas ventas como yo todavía lo tengo en mi bodega yo ya lo",
+        "startMs": 2366589,
+        "durationMs": 4841
+      },
+      {
+        "text": "vendí vía factura pero no ha llegado porque no no espach el carro y me quedó",
+        "startMs": 2371430,
+        "durationMs": 5840
+      },
+      {
+        "text": "en mi bodega quiere decir que en ese escenario yo tengo que eliminar esa",
+        "startMs": 2377270,
+        "durationMs": 5400
+      },
+      {
+        "text": "venta Cómo la elimino Pues como ya no hay ingreso elimino la cuenta por cobrar",
+        "startMs": 2382670,
+        "durationMs": 5880
+      },
+      {
+        "text": "por 500 millones y su contrapartida va a afectar las ganancias retenidas en una",
+        "startMs": 2388550,
+        "durationMs": 6440
+      },
+      {
+        "text": "cuenta del patrimonio como aquí lo ven de 500 millones ahora eso también tenía",
+        "startMs": 2394990,
+        "durationMs": 8079
+      },
+      {
+        "text": "un costo ese costo cómo lo vamos a ver en",
+        "startMs": 2403069,
+        "durationMs": 3040
+      },
+      {
+        "text": "el inventario porque como vendí inventario y no he transferido los",
+        "startMs": 2406109,
+        "durationMs": 3480
+      },
+      {
+        "text": "riesgos pues lo que va a pasar acá si me permite el Excel subir Es que yo voy a",
+        "startMs": 2409589,
+        "durationMs": 5281
+      },
+      {
+        "text": "revivir esa partida en el inventario y voy a eliminar ese costo de las",
+        "startMs": 2414870,
+        "durationMs": 5239
+      },
+      {
+        "text": "ganancias acumuladas entonces aquí estamos viendo que vuelvo y revivo el",
+        "startMs": 2420109,
+        "durationMs": 5161
+      },
+      {
+        "text": "inventario y en las retenidas en la cuenta del patrimonio",
+        "startMs": 2425270,
+        "durationMs": 6160
+      },
+      {
+        "text": "voy a eliminar ese efecto del costo de la",
+        "startMs": 2431430,
+        "durationMs": 4879
+      },
+      {
+        "text": "venta por 200 millones acá lo tenemos listo otro enunciado así clave",
+        "startMs": 2436309,
+        "durationMs": 8561
+      },
+      {
+        "text": "qué va a pasar la cuenta de anticipos y avances entregados a terceros ustedes",
+        "startMs": 2444870,
+        "durationMs": 5560
+      },
+      {
+        "text": "siempre lo han tenido dentro del rubro de deudores qué ha sido nuestro",
+        "startMs": 2450430,
+        "durationMs": 4240
+      },
+      {
+        "text": "cuestionamiento como firma cuando nosotros hablamos de de un activo",
+        "startMs": 2454670,
+        "durationMs": 5000
+      },
+      {
+        "text": "financiero es aquel contrato que te va a dar derecho a otro activo financiero",
+        "startMs": 2459670,
+        "durationMs": 5919
+      },
+      {
+        "text": "cierto y realmente los anticipos No es que me va a dar derecho a que yo tenga",
+        "startMs": 2465589,
+        "durationMs": 5480
+      },
+      {
+        "text": "un dinero o un derecho en dinero realmente yo tengo derecho a que me",
+        "startMs": 2471069,
+        "durationMs": 4441
+      },
+      {
+        "text": "presten un bien o un servicio Luego si yo digo mire estos son mis deudores",
+        "startMs": 2475510,
+        "durationMs": 5240
+      },
+      {
+        "text": "quién le debe esa plata No a mí no me deben la plata a mí realmente me deben",
+        "startMs": 2480750,
+        "durationMs": 3359
+      },
+      {
+        "text": "es un bien o un servicio desde ese punto de de vista lo que nosotros hacemos Es",
+        "startMs": 2484109,
+        "durationMs": 4761
+      },
+      {
+        "text": "que si tenemos un saldo de 1472 millones qué hicimos nosotros por",
+        "startMs": 2488870,
+        "durationMs": 6000
+      },
+      {
+        "text": "lo generales nuestras conversiones nosotros como gran Torton no cumple la",
+        "startMs": 2494870,
+        "durationMs": 4640
+      },
+      {
+        "text": "condición de que sea un activo financiero luego reclasificado y hay",
+        "startMs": 2499510,
+        "durationMs": 5280
+      },
+      {
+        "text": "lugar a reclasificación para aquello que no se",
+        "startMs": 2504790,
+        "durationMs": 3120
+      },
+      {
+        "text": "ha recibido qué no se ha recibido como lo vemos dimos un anticipo para",
+        "startMs": 2507910,
+        "durationMs": 4560
+      },
+      {
+        "text": "propiedad plantea equipo pero yo hoy no recibido la propiedad plantea equipo",
+        "startMs": 2512470,
+        "durationMs": 3960
+      },
+      {
+        "text": "creo una cuenta dentro de la cuenta dentro de las cuentas de propiedad",
+        "startMs": 2516430,
+        "durationMs": 4040
+      },
+      {
+        "text": "planta de equipo que se llama anticipos y ahí reclasificó esos 800 millones",
+        "startMs": 2520470,
+        "durationMs": 5280
+      },
+      {
+        "text": "también entregué anticipos para qué más dice mi enunciado anticipos de gastos",
+        "startMs": 2525750,
+        "durationMs": 6280
+      },
+      {
+        "text": "pagados por anticipado yo le pagué al señor del mantenimiento a cierre 31 de",
+        "startMs": 2532030,
+        "durationMs": 5840
+      },
+      {
+        "text": "diciembre del 2014 pero resulta que no me han prestado el servicio a qué tengo",
+        "startMs": 2537870,
+        "durationMs": 4520
+      },
+      {
+        "text": "yo derecho a futuro a que me presten un servicio luego yo reclasificó esa",
+        "startMs": 2542390,
+        "durationMs": 4919
+      },
+      {
+        "text": "partida aquí en la cuenta 1705 porque aún cumple la condición de",
+        "startMs": 2547309,
+        "durationMs": 5040
+      },
+      {
+        "text": "activo porque yo a futuro voy a tener un servicio Qué otros otros que afectan la",
+        "startMs": 2552349,
+        "durationMs": 7361
+      },
+      {
+        "text": "ganancia retera y que muchos de pronto dijeron No pero para mí no afecta pueden",
+        "startMs": 2559710,
+        "durationMs": 4560
+      },
+      {
+        "text": "haber anticipos que ya me prestaron el servicio pero que no me han entregado la",
+        "startMs": 2564270,
+        "durationMs": 4360
+      },
+      {
+        "text": "factura bajo normas nif ya se realizó Claro ya se realizó ya me debe afectar",
+        "startMs": 2568630,
+        "durationMs": 5800
+      },
+      {
+        "text": "el patrimonio Entonces nosotros aquí lo vemos ese anticipo que me afecta el",
+        "startMs": 2574430,
+        "durationMs": 5360
+      },
+      {
+        "text": "patrimonio porque ya se realizó De igual forma Qué otros ajustes tenemos este",
+        "startMs": 2579790,
+        "durationMs": 6400
+      },
+      {
+        "text": "cliente la compañía ABC si nos damos cuenta utilizó la opción del costo",
+        "startMs": 2586190,
+        "durationMs": 6480
+      },
+      {
+        "text": "atribuido tomó la exención la que yo les dije que es opcional contrató a un señor",
+        "startMs": 2592670,
+        "durationMs": 5520
+      },
+      {
+        "text": "evaluador en septiembre del 2014 y le dijo señor evaluador Cuánto valen mis",
+        "startMs": 2598190,
+        "durationMs": 5240
+      },
+      {
+        "text": "terrenos mis construcciones mi equipo de oficina luego mi propiedad planta y",
+        "startMs": 2603430,
+        "durationMs": 5000
+      },
+      {
+        "text": "equipo qué voy a hacer yo me voy a ir a la cuenta 15 donde reposa la propiedad",
+        "startMs": 2608430,
+        "durationMs": 5679
+      },
+      {
+        "text": "planta y equipo y y ese costo histórico lo voy a ajustar hasta que alcance el",
+        "startMs": 2614109,
+        "durationMs": 5720
+      },
+      {
+        "text": "valor razonable que fue la valu que me dio quién el perito o el experto tasador",
+        "startMs": 2619829,
+        "durationMs": 7081
+      },
+      {
+        "text": "experto que conoce la lonja y que me puede dar una condición de Mercado de",
+        "startMs": 2626910,
+        "durationMs": 5679
+      },
+      {
+        "text": "esos activos y me dice mire sus activos ahora cuestan 80.000",
+        "startMs": 2632589,
+        "durationMs": 5240
+      },
+      {
+        "text": "cierto 80,000 millones y como ese Ese avalúo fue realizado antes de la fecha",
+        "startMs": 2637829,
+        "durationMs": 7881
+      },
+      {
+        "text": "de transición qué me dice la Norma que yo deo calcular depreciación a 31 de",
+        "startMs": 2645710,
+        "durationMs": 5480
+      },
+      {
+        "text": "diciembre del 2014 y me dice la depreciación con las vías útiles",
+        "startMs": 2651190,
+        "durationMs": 5680
+      },
+      {
+        "text": "estimadas bajo nif en su política es 18 millones luego yo tendré que eliminar la",
+        "startMs": 2656870,
+        "durationMs": 5880
+      },
+      {
+        "text": "depreciación que venía local y reconocer la depreciación bajo",
+        "startMs": 2662750,
+        "durationMs": 5040
+      },
+      {
+        "text": "este efecto dónde se va a dar muy clave se va a dar en el patrimonio entonces si",
+        "startMs": 2667790,
+        "durationMs": 5039
+      },
+      {
+        "text": "yo me voy al patrimonio el efecto de la depreciación Acá está molestando un",
+        "startMs": 2672829,
+        "durationMs": 6520
+      },
+      {
+        "text": "poquito el Excel el efecto de la depreciación lo voy a ver aquí en esta",
+        "startMs": 2679349,
+        "durationMs": 4281
+      },
+      {
+        "text": "cuenta de la depreciación acá la depreciación antigua",
+        "startMs": 2683630,
+        "durationMs": 4760
+      },
+      {
+        "text": "y la depreciación nueva y adicionalmente tiene un efecto de que estoy eliminando",
+        "startMs": 2688390,
+        "durationMs": 7080
+      },
+      {
+        "text": "lo que venía en la cuenta por revalorización del patrimonio esto venía",
+        "startMs": 2695470,
+        "durationMs": 5160
+      },
+      {
+        "text": "ajustándose contra la cuenta 19 bajo los Marcos contables acá están el efecto de",
+        "startMs": 2700630,
+        "durationMs": 6199
+      },
+      {
+        "text": "lo que venía en la 19 se elimina contra la cuenta respectiva del patrimonio",
+        "startMs": 2706829,
+        "durationMs": 4601
+      },
+      {
+        "text": "donde se venía dando y el costo atribuido dónde tuvo efecto acá voy a",
+        "startMs": 2711430,
+        "durationMs": 5159
+      },
+      {
+        "text": "escribirlo porque acá no lo tengo ganancias",
+        "startMs": 2716589,
+        "durationMs": 5801
+      },
+      {
+        "text": "ganancias efecto costo",
+        "startMs": 2722390,
+        "durationMs": 3560
+      },
+      {
+        "text": "atribuido ese mayor valor de la propiedad planta de equipo también me",
+        "startMs": 2725950,
+        "durationMs": 4680
+      },
+      {
+        "text": "afectó las ganancias acumuladas entonces a ustedes muchos de",
+        "startMs": 2730630,
+        "durationMs": 5560
+      },
+      {
+        "text": "ustedes puede ser que ustedes crearon una cuenta dentro de las ganancias",
+        "startMs": 2736190,
+        "durationMs": 3919
+      },
+      {
+        "text": "acumuladas crearon una nueva cuenta un ejemplo la 3710 dijeron esta es la",
+        "startMs": 2740109,
+        "durationMs": 5641
+      },
+      {
+        "text": "cuenta para tomar todo el efecto de la adopción por qué lo tenían que tener así",
+        "startMs": 2745750,
+        "durationMs": 4440
+      },
+      {
+        "text": "de juiciosos todo el efecto de la aducción que en este caso fueron 219",
+        "startMs": 2750190,
+        "durationMs": 4440
+      },
+      {
+        "text": "millones aproximadamente Por qué Porque si yo ahora me voy a la",
+        "startMs": 2754630,
+        "durationMs": 8880
+      },
+      {
+        "text": "tenemos cierto vamos a ver que eso no se vuelve",
+        "startMs": 2763520,
+        "durationMs": 4950
+      },
+      {
+        "text": "en una caja negra eso no quiere decir que el efecto de la adopción queda un",
+        "startMs": 2768470,
+        "durationMs": 3879
+      },
+      {
+        "text": "número constante toda la vida ahí la misma normatividad que me dijo no me lo",
+        "startMs": 2772349,
+        "durationMs": 6561
+      },
+      {
+        "text": "dice la normatividad de las nit para pymes pero para efectos en Colombia la",
+        "startMs": 2778910,
+        "durationMs": 5399
+      },
+      {
+        "text": "superintendencia de sociedades un boletín informativo de",
+        "startMs": 2784309,
+        "durationMs": 4321
+      },
+      {
+        "text": "orientación En referencia a los nuevos Marcos contables que nació el 8 de marzo",
+        "startMs": 2788630,
+        "durationMs": 5000
+      },
+      {
+        "text": "del 2016 y le dice el consejo técnico de la contaduría pública considera que el",
+        "startMs": 2793630,
+        "durationMs": 7080
+      },
+      {
+        "text": "incremento de las ganancias acumuladas como consecuencia de la transición a las",
+        "startMs": 2800710,
+        "durationMs": 5280
+      },
+      {
+        "text": "nif no corresponde a ganancias ya realizadas motivo por el cual no puede",
+        "startMs": 2805990,
+        "durationMs": 5040
+      },
+      {
+        "text": "ser distribuido mientras no se haga efectiva la entrada de los fondos de",
+        "startMs": 2811030,
+        "durationMs": 5200
+      },
+      {
+        "text": "igual era para las pérdidas que afectaron esas ganancias de otro lado la",
+        "startMs": 2816230,
+        "durationMs": 5560
+      },
+      {
+        "text": "ley 1819 qué le dijo y cuál es esa ley la ley tributaria le dijo cualquier",
+        "startMs": 2821790,
+        "durationMs": 8000
+      },
+      {
+        "text": "incremento en los resultados acumulados producto de la conversión del nuevo",
+        "startMs": 2829790,
+        "durationMs": 5160
+      },
+      {
+        "text": "marco normativo se entenderá el incremento en los resultados como",
+        "startMs": 2834950,
+        "durationMs": 4800
+      },
+      {
+        "text": "consecuencia de la conversión de los nuevos Marcos eh nuevos Marcos técnicos",
+        "startMs": 2839750,
+        "durationMs": 5520
+      },
+      {
+        "text": "no podrá ser distribuido con como dividiendo sino hasta el momento el que",
+        "startMs": 2845270,
+        "durationMs": 3720
+      },
+      {
+        "text": "el incremento se haya realizado de manera efectiva entonces esa cuenta del",
+        "startMs": 2848990,
+        "durationMs": 5520
+      },
+      {
+        "text": "patrimonio que yo aquí creé en la manera en que se vaya realizando la voy a pasar",
+        "startMs": 2854510,
+        "durationMs": 6760
+      },
+      {
+        "text": "a esas utilidades que se iban a ser distribuibles un ejemplo es el caso de",
+        "startMs": 2861270,
+        "durationMs": 5120
+      },
+      {
+        "text": "los ingresos esos ingresos A 31 de diciembre del 2014 no se habían",
+        "startMs": 2866390,
+        "durationMs": 4959
+      },
+      {
+        "text": "transferido pero muy seguramente en el año 2015 ya Se realizaron luego ya son",
+        "startMs": 2871349,
+        "durationMs": 6521
+      },
+      {
+        "text": "susceptibles que el ingreso Y el costo sea susceptible de distribución En ese",
+        "startMs": 2877870,
+        "durationMs": 5000
+      },
+      {
+        "text": "escenario es donde yo voy a comenzar a revisar cada partida que afectó el",
+        "startMs": 2882870,
+        "durationMs": 4320
+      },
+      {
+        "text": "patrimonio y voy a tener que mirar qué se realizó muy seguramente ustedes no",
+        "startMs": 2887190,
+        "durationMs": 4840
+      },
+      {
+        "text": "distribuyeron esto el 31 de diciembre del 2015 porque cuándo son sus primeros",
+        "startMs": 2892030,
+        "durationMs": 4640
+      },
+      {
+        "text": "estados financieros bajo nif 31 de diciembre del 2016 es ahí donde usted",
+        "startMs": 2896670,
+        "durationMs": 5720
+      },
+      {
+        "text": "sabe qué es susceptible distribución y qué no es susceptible distribución tanto",
+        "startMs": 2902390,
+        "durationMs": 5000
+      },
+      {
+        "text": "es así que tanto la norma fiscal como la norma contable dice que eso va a afectar",
+        "startMs": 2907390,
+        "durationMs": 5880
+      },
+      {
+        "text": "la distribución de dividiendo hasta que se haya realizado de manera efectiva es",
+        "startMs": 2913270,
+        "durationMs": 6000
+      },
+      {
+        "text": "ahí donde tenemos que mirar Cuándo se realizó el activo o cuándo se liquidó",
+        "startMs": 2919270,
+        "durationMs": 4880
+      },
+      {
+        "text": "ese pasivo Bueno hasta acá Todos hemos visto",
+        "startMs": 2924150,
+        "durationMs": 4639
+      },
+      {
+        "text": "nuestros nuestro caso práctico Qué consecuencias va a tener",
+        "startMs": 2928789,
+        "durationMs": 4681
+      },
+      {
+        "text": "esos efectos de la ganancia acumulada por primera vez que no quedan en una",
+        "startMs": 2933470,
+        "durationMs": 4359
+      },
+      {
+        "text": "caja negra dentro del patrimonio y les agradezco su tiempo y",
+        "startMs": 2937829,
+        "durationMs": 6201
+      },
+      {
+        "text": "vamos agradecemos a todas las personas que en este momento continúan",
+        "startMs": 2944030,
+        "durationMs": 4400
+      },
+      {
+        "text": "participando del curso virtual gratuito implementación y seguimiento de las nif",
+        "startMs": 2948430,
+        "durationMs": 5960
+      },
+      {
+        "text": "en las pymes un abrazo fraterno para todos tengan un feliz resto de tarde",
+        "startMs": 2954390,
+        "durationMs": 9199
+      },
+      {
+        "startMs": 2963599,
+        "durationMs": 3000,
+        "text": "Hasta"
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\nen este momento damos entonces la bienvenida a la doctora Diana chocontá\nQuien será la responsable de dictar la segunda parte de las primera sesión del\ncurso virtual gratuito implementación y seguimiento de las nif en las pymes la\ndoctora Diana chocontá es contadora pública de la universidad Central es\nespecialista en estándares internacionales de contabilidad de la\npontificia universidad javeriana es certificada en normas internacionales de\ninformación financiera cuenta con una amplia experiencia en la ejecución de\nlabores de consultoría auditoría y revisoría fiscal así como también en la\nevaluación del control interno análisis de los estados financieros y matriz de\nriesgos hoy por hoy la doctora Diana chocontá es instructora de\ncapacitaciones nif y nif para pymes a nivel nacional de la empresa gran Torton\nColombia bienvenida doctora Diana es un placer contar con usted el día de hoy\nMuchas gracias gracias a contapyme Vamos a continuar con los temas que tenemos\nprevistos para el día de hoy listo uno de los siguientes interrogantes para\ntodos que nos indagan en estos días es Por qué es tan importante que las pymes\ncolombianas puedan implementar las nif lo más pronto posible en ese escenario\npara responder esta pregunta tan importante debemos preguntar bueno en\neste escenario bajo el marco conceptual de las nip para pymes quiénes son son\nlas pymes y debemos preguntarnos son esas pequeñas y medianas entidades que\nno tienen la obligación de rendir cuentas y que emiten estados financieros\nde propósito general tengamos en cuenta que bajo el Antiguo decreto 2649 del año\n93 existían estados financieros de propósito general y de propósito\nespecífico pero el marco técnico nuevo de las niip para pymes hablan solo de\ninformación general de estados financieros de propósito general Cuál es\nel objetivo de estos estados financieros financieros de propósito general es\nproporcionar información de la situación financiera de la entidad del el\nrendimiento y de los flujos de efectivo que son claves para tomar decisiones\nsobre esos usuarios usuarios que Son externos como inversionistas\nprestamistas acreedores y que no están en la posibilidad de exigir información\na su medida de esta manera Aunque el marco conceptual de las niit para pymes\nidentifica unos terceros no me dice que tampoco la información pública los entes\nde control la dian el estado no pueda tomar estos estados financieros como\nreferente Pero él sí identifica unos usuarios importantes que Son externos y\nque no tienen información a su medida adicionalmente para saber por qué es tan\nimportante apresurar este proceso tendríamos que pensar bueno y quiénes\nson los involucrados vamos a ver que el mercado y la economía los usuarios de\nesa información financiera que van a tomar decisión decisiones sobre ellos eh\nSon involucrados y la misma ley 131 desde el artículo tercero primero en\nadelante determinó que hay unos garantes de que se cumplan estas\nnormas el artículo 12 menciona que debemos garantizar que la adopción de\nesa información financiera y de esas normas de aseguramiento cumplen que sean\nhomogéneas consistentes Y comparables entonces desde los entes reguladores los\nusuarios y la economía primero nosotros decimos Y por qué el mercado y la\neconomía en este proceso nosotros nos tenemos que dar cuenta que la\nglobalización es un proceso económico tecnológico social cultural a gran\nescala entre distintos países y eso afecta la economía eso afecta las\npolíticas hay una integración de economías locales a nivel mundial una\nlibre circulación de de capitales una sociedad de consumo unas condiciones\nnuevas de competitividad y seguridad jurídica Colombia a partir del año de\n1990 en el gobierno de César Gaviria entró en lo que fue la apertura\neconómica queremos competir con otros países en nuestros mercados queremos\nentrar a a pertenecer a ese gran economía mundial en ese escenario es\nimportante que uniform y simplifiquemos emos los procedimientos y regulaciones\nnacionales e internacionales claro es aquí importante\ndonde nosotros decimos bueno por qu vamos a uniformar como yo lo decía antes\nporque Debemos hablar un lenguaje estandarizado en este escenario cuando\nhablamos de lenguaje estandarizado si yo voy a tomar unos estados financieros de\nuna compañía pyme en Colombia se deben leer de igual manera que una pyme en\notro país en este escenario quiere decir que sus criterios de conocimiento de\nmedición de presentación y revelación son\nson estandarizados bien es importante\nmencionar que es importante mencionar Cómo están\nconformadas las pymes en Colombia o por qué son tan importantes y fundamentales\nAquí traigo unas estadísticas donde mostramos como en el año 1990 eh\nColombia ocupaba el puesto número 40 en el pib Y actualmente ocupa el puesto\nnúmero 26 como las pymes representa alrededor del 67 por del empleo y\naportan el 28 por al producto interno bruto esto quiere decir que las micro\npequeñas y medianas empresas son fundamentales en el sistema productivo\ncolombiano como son fundamentales es así como la la misma economía la misma\ndirección el mismo estado va a intervenir\nintervenir económicamente estas políticas políticas\ndonde van a expedir normas de información financiera y de\naseguramiento que conformen un sistema único y homogéneo un sistema único y\nhomogéneo de alta calidad comprensible y que se debe ser de forzosa observancia\nen ese escenario cuando decimos esto es que como bien lo están viendo en el\nartículo 334 de la constitución política dice que la dirección general de la\neconomía estará a cargo del estado y esta le intervendrá por mandato de ley\nes como bien la ley 1314 del 2009 es una forma de intervención económica porque\nel gobierno emite unos estándares contables de información financiera y de\naseguramiento de esa información estándares mundiales que tienen como\nobjetivo intervenir la economía en cuanto a productividad competitividad\ndesarrollo armónico e internacionalización de la de la\neconomía en este escenario como ya decimos es el estado el que va a\nintervenir el que va a liber al limitar la libertad económica mediante leyes y\neso es una observancia la ley 1314 del 2009 en esa intervenir la economía o\ncondiciones de internacionalización ha traído condiciones como la equidad la\nreciprocidad y la conveniencia nacional entonces a quién primordialmente\nrequiere que Colombia a nivel mundial implemente o converja nuevos estándares\nde alta calidad internacional que van a permitir que tengamos estados\nfinancieros comprensibles transparentes comparables sobre los cuales se toman\ninformación financiera al estado y al mismo mercado que está en un estado\ncambiante desde ese tipo de desde ese tipo vemos que la ley 1314 pensó en un\ntamaño de las entidades el sector al que pertenecen la forma de organización\njurídica las circunstancias socioeconómicas y el interés público\nprivado desde este punto de vista es desde ahí donde surgen los decretos\nreglamentarios y en el tamaño de las entidades se vislumbran tres grandes\ngrupos como son el grupo uno las compañías grandes que eh emiten eh\ntítulos a terceros emiten información a terceros están en bolsas de valores\ntienen más de 200 empleados tienen más de 30,000 salarios mínimos en activos en\neste escenario es donde ellos dicen bueno estos van a ser grupo uno aquellos\nque no cen con esta condición y adicionalmente no tienen casa matriz\ninformación bajo nif van a pertenecer al grupos con unas características en\ncuanto al tamaño de las entidades como son los pequeñas y las medianas\ncompañías esos referentes de convergencia tienden estándares\nInternacionales que me van a aportar mejores prácticas y evolución de los\nnegocios Entonces por qué la necesidad del gobierno porque nos quiere hacer más\ncompetentes porque quiere que nuestros productos sean sean puestos en mercados\ninternacionales que nuestros estados financieros sean competitivos contra\notros estados financieros como bien lo dijimos Quiénes son Quiénes intervienen\nel mercado intervienen los usuarios de estos estados financieros desde el mismo\nmarco conceptual se identifica que son usuarios de estos estados financieros\nlos inversionistas prestamistas y otros acreedores los responsables de\nprepararlos y presentarlos a la administración de la\ncompañía los inversionistas por qué porque ellos quieren ver cuáles son los\nriesgos y la rentabilidad de un negocio quiere saber a qué riesgos están\nexpuestos los prestamistas porque en términos de riesgo de crédito y de\nrentabilidad quieren saber cómo va a ver el retorno de esos dineros o el retorno\nde esos préstamos que va a hacer a la entidad sin embargo Aunque el mismo\nmarco conceptual de las nit para pymes habla principalmente de estos usuarios\ncomo nos podemos ver en el artículo número un de la ley 18 de la ley 13 144\ndel 2009 bien indica que también el gobierno entidades reguladoras van a\ntomar decisión o van a revisar la información que emitan las pymes de\npropósito general en ese escenario Por qué es útil\nporque permite a los usuarios diferencien cambios en los recursos que\nprovienen del rendimiento de emisión de deuda o de patrimonio proporcionan el\nindicador de la forma como la empresa ha cumplido sus responsabilidades de uso\neficaz ayuda a evaluar la incertidumbre de los flujos de efectivo porque ayudado\na evaluar incertidumbre porque tengamos en cuenta que una de las cualidades de\nla información financiera en el marco conceptual de las pymes es que sea\nrelevante y y tenga fiabilidad como son dos cualidades importantes la relevancia\nuna de las características de la relevancia es que puede predecir es de\ncarácter predictivo luego con la información histórica yo puedo predecir\nflujos de efectivos futuros puedo predecir rentabilidad futura qué otras\nnecesidades tienen esos señores usuarios de la información financiera los bancos\nque van a otorgar préstamos a las pymes van a tomar decisiones sobre esos\nestados financieros de propósito general que son los primeros estados financieros\nque ya se emitieron los vendedores que les venden a las pymes en términos de\ndecisiones sobre créditos precios van a tomar decisiones sobre esos estados\nfinancieros es importante como bien lo dijo esos estados financieros\nproporcionan información sobre situación financiera el rendimiento y los flujos\nde efectivo importante como bien lo dije qué más quién más están interesados\nayudar a evaluar incertidumbre de flujos proporcionar un indicador de la forma en\ncomo la empresa cumple sus responsabilidades y todos los\nindicadores financieros como es cobertura de intereses como es liquidez\ncomo es eh todos los estados todos los\nindicadores financieros que ya se venían tomando sobre los antiguos estados\nfinancieros se seguirán tomando sobre esos estados financieros porque es como\nte están viendo afuera tus prestamistas tus acreedores y tus\ninversionistas ahora por qué es prioridad y a través de nuestra\nimplementación hemos visto las siguientes prioridades porque ellos\ndeben dar deben agilizar el proceso de conversión uno de ellos primero es la\ntecnología nosotros nos estamos viendo abocados actualmente a un tema bien\nimportante y es el siguiente cuando nos dijeron vamos a dotar ni para las pymes\nvamos a a converger a Marcos regulatorios\nregulatorios internacionales entonces dijimos nuestro\nsistema contable va a cambiar Sí por qué nuestro sistema contable va a cambiar\nporque se van a emitir unas políticas contables y administrativas armonizadas\ncon nif porque cuando yo digo que mis estados financieros cumplen con nif\nestoy dando un aseguramiento una expresión de que cumplen con todas las\nnif en ese escenario elaboré unas políticas tanto para el reconocimiento\ninicial para la medición para la presentación y revelación en donde digo\nestas políticas deben cumplir bajo nif qué tenían que hacer los desarrolladores\nde software puede ser que los estándares son estándares para todo el mundo pero\nla forma de hacer negocios se customiza a cada entidad Qué quiere decir la\nentidad que se dedica a vender bienes no es la misma entidad que se dedica a\nprestar servicios las formas de reconocimiento son diferentes cuánd\ntransfiero riesgos cuando realmente él tiene derecho a esos activos en ese\nescenario el la tecnología es muy clave porque surgió una gran brecha entre lo\nque fue la norma contable y la norma tributaria el la ley 1607 del año 2012\nla reforma tributaria qué le dijo inicialmente a las entidades que\nadoptaron los nuevos Marcos técnicos contables les dijo Mire yo me voy a\ntomar 4 años 4 años en los cuales ustedes van a tener que tomar como bases\nFiscales mis bases Fiscales sin adaptarse a lo que tenga ifv o sea los\nnuevos Marcos regulatorios no afectarían las bases Fiscales permanecerían\ninalteradas por los 4 años se entendería que para las pymes de acuerdo a lo que\ndijo el decreto 2548 del 2014 permanecerían inalteradas\nhasta el año 2019 cierto pero eso no fue así también\nqué le implica prioridad valores de medición la medición no solo va a ser al\ncosto existe el costo amortizado existe el costo reexpresado el que existe el\ncosto reevaluado Qué quiere decir que eso todo lo va a hacer el sistema\ncontable no sabemos muy bien que van a haber cosas\ndonde extracontables se van a tener que manejar y lo he vivido con muchas\ncompañías que tienen derivados financieros instrumentos financieros\nderivados como son forw como son swaps como son opciones en las cuales la\nvaloración de ellos lo tiene que hacer un experto me da el valor y yo lo tengo\nque ajustar Pero estas políticas contables deben ser tan claves que yo\ndebo definir a mi generador de información financiera mire el sistema\ndebe quedar parametrizado de la siguiente manera las vías útiles no van\na permanecer estáticas eso fue Bajo La regulación fiscal ni siquiera fue el\ndecreto 2649 2649 del año 93 ni siquiera fue el\nque dijo que se depreciará a 5 años los vehículos fue una costumbre que tomamos\npor imposición tributaria de esta manera como bien dice la vida Útil es un\nestimado que quiere decir que en la medida que yo espero utilizarlo Esto va\na cambiar luego mi sistema contable esa propiedad planta de equipo ese vehículo\nque lo tenía 5 años y que ya le falta un año pero lo Espero seguir utilizando voy\na tener que ir a cambiar la parametrización de vida útil en el\nbalance de apertura surgieron muchos ajustes yo tuve que mirar qué ajustes\nsurgieron y adoptaron esos ajustes que se adoptaron se ajustaron contra el\npatrimonio qué seguimiento le voy a hacer esos ajustes errores de años\nanteriores Es verdad que ya estamos en nuestros primeros estados financieros\nbajo nif que fue el cierre 2016 comparativo con el 2015 y hay errores si\nesos errores son materiales Qué vamos a hacer es por eso que estos usuarios de\ninformación financiera deben correr hacia este tema Ahora hay un tema que es\nnos había dicho la Diana inicialmente usted se va a tomar 4 años yo me voy a\ntomar 4 años para analizar el impacto de esos nuevos Marcos normativos pero entra\nla ley 1819 del 2016 qué le dice esa ley le dice mire tenga en cuenta que yo voy\na tener un periodo de transición pero en ese periodo de transición a partir del\nprimero de enero del 2017 vamos a partir de saldos niif al partir de saldos niif\nhay unas excepciones donde van a decir en estos casos no como lo fue para\ningresos mire su ingreso contable mi ingreso fiscal va a ser el mismo ingreso\ncontable a excepciones de estos siete puntos entonces quiere decir que de\nigual manera voy a tener que seguir llevando una conciliación fiscal es tan\nasí que la ley 1819 del año 2016 en su Artículo\nArtículo 772 estableció conciliación fiscal dice\nsin perjuicio lo previsto en el artículo cuarto de la ley 1314 los contribuyentes\nobligados a llevar contabilidad deberán llevar un sistema\nde control de conciliaciones de las diferencias que surjan entre las\naplicaciones de los nuevos Marcos técnicos y las disposiciones de este\nestatuto quiere decir que mi contabilidad va a ser totalmente nif y\nmis declaraciones van a ser totalmente nif no ustedes van a tener que seguir\nllevando esas conciliaciones Fiscales Entonces ella de igual manera\ndijo que el incumplimiento de esta obligación se considera para efectos\nsancionatorios como una irregularidad en la contabilidad y el gobierno nacional\nreglamentará la materia en Cómo se llevarán estas conciliaciones fiscales\nnos dio el como no sin embargo sí nos dijo seguirán existiendo esas brechas y\npor eso ahorita por qué ven agilizar el proceso de conversión porque ya hoy hoy\nmediodía ya está vigente la ley 1819 y ya estamos totalmente ni para las\npymes continuando es me la la el cuestionamiento que nos hacemos Es Qué\nbeneficios han obtenido las pymes de Colombia en la implementación de las nif\ncuando nosotros hablamos de beneficios pues tenemos que hablar de costo\nbeneficio Es verdad que para las pymes no solamente esto ha significado\ncontratar un consultor adecuar el sistema\nsistema eh contratar una consultoría de sistemas\npara verificar si mi sistema cumple no cumple hacer unas\nparametrizaciones primero Qué beneficios estados financieros de propósito general\nque reflejan un conjunto de normas que son aceptadas exigibles y comprensibles\ny estandar globalmente mayor inversión extranjera competitividad de las\ncompañías colombianas modernización de la\nla tecnología adicionalmente evitar\nsanciones por incumplimiento de la ley 1314 de sus decretos reglamentarios y de\nla actual ley 1819 fiscalmente entonces beneficios tanto de competencia como de\nevitar incumplimientos y sanciones por esos\nesos incumplimientos desde esta forma vamos a\nproseguir con lo que es la adopción por primera vez Aunque ustedes van a decir\nBueno un tema de adopción por primera vez cuando yo ya tengo primeros estados\nfinancieros pero vamos a ver dónde pudimos haber tenido algunos pecadillos\nY qué cosas Debemos corregir cuando nosotros dijimos vamos a elaborar un\nbalance de apertura debemos de tener en cuenta varias cosas que ese balance de\napertura se define con unas políticas contables para aplicar desde el primero\nde enero del5 15 hasta el 31 de diciembre del 2016 porque debe cumplir\ncon una característica de que son comparables y que son uniformes yo no\npuedo cambiar las políticas porque es de los cuestionamientos que muchas veces\nnos han llegado Ay es que yo definí unas políticas en el espa pero comenzando el\nperiodo de transición el primero de enero del 2016 ya quiero cambiar las\npolíticas ojo porque mis primeros estados financieros de propósito general\ndeben cumplir con unas cualidades o atrib os y uno de ellos es que sea\ncomparable y que las políticas sean uniformes yo puedo cambiar de política\nSi eso hace que la información sea más relevante y fiable pero a partir de que\nemito mis primeros estados financieros cuándo los emití 31 de diciembre del\n2016 y solo en la medida en que el mismo iasb cambie el marco que actualmente\nestá y que yo amerite que eso haga que mi información sea más relevante y\nfiable o que yo identifique que hay un cambio que sea más relevante Y fiable\ndesde ese escenario vamos a ver varias cosas yo qué tenía que hacer en este\nescenario mi balance al primero de enero del 2014 a primero de enero del\n2015 Perdón que es con el que voy a evaluar y voy a tomar las cifras al\ncierre de diciembre del 2014 voy a mirar mis activos mis pasivos y mi patrimonio\ny debo determinar a la luz del marco conceptual de ni para pymes qué cumple\ncon la ición de activo que cumple con la definición de pasivo y determinar si hay\nalgo reconocido A 31 de diciembre del 2014 que para el nuevo eh balance de\napertura debería yo eliminar o debería reconocer o debería valorarlo o lo que\nno va a impactar las ganancias acumuladas es el reclasificar porque las\nreclasificaciones se van a dar entre cuenta de balance activo o pasivo\ndependiendo donde corresponda pero no van a afectar el patrimonio afectarán el\npatrimonio en el caso por ejemplo de ajustes por inflación que hayan quedado\nen el patrimonio y que yo sé que ya en Colombia no cumplimos las condiciones\npara estar en una economía hiperinflacionaria y yo elimino esos\najustes por inflación que habían en el patrimonio contra las ganancias\nacumuladas en ese escenario todos los ajustes de eliminar reconocer Y valorar\nafectan principalmente al patrimonio posteriormente cómo lo van a afectar lo\nvan a ar con la norma de políticas contables errores contables si hay un\ncambio en política va a afectar el patrimonio si hay un error contable y\ndebo reexpresar esos estados financieros retrospectivamente va a afectar ese\npatrimonio para continuar nos vamos a dar cuenta que cuando la norma me dice\nBueno usted va a hacer una declaración explícita y sin reservas de que usted\ncumple ni para las pymes como usted va a partir de unos saldos iniciales la norma\nde la sección 35 de implementación por primera vez te permite unas excepciones\nde uso obligatorio y unas excepciones de uso voluntario las excepciones de uso\nobligatorio ténganlo en cuenta excepciones con p de uso obligatorio me\nindican lo siguiente quiere decir que la compañía no ajustará\nretroactivamente su contabilidad local Qué quiere decir que yo no voy a ir a\najustar lo que yo ya había hecho localmente o sea mi balance local A 31\nde diciembre del 2014 no cambiará retroactivamente yo voy a determinar\nunos nuevos saldos iniciales Pero eso que existía 31 de diciembre del 2014 no\ncambiará retroactivamente Cuáles son las\nexcepciones de uso obligatorio está la baja en cuenta de activos y pasivos\nfinancieros y Qué quiere decir esto quiere decir que si bajo el decreto 2649\nque se se venía aplicando el cierre de diciembre 2014 Yo di de baja cuentas de\nactivos y pasivos financieros antes de la fecha de transición antes del 31 de\ndiciembre del 2014 no hay lugar a que yo los vuelva a reconocer en mi balance de\napertura ojo con esto baja en cuentas de activos y pasivos financieros que se\nhabían dado de baja bajo lo local antes de la fecha de\ntransición ahora otra excepción de uso obligatorio la contabilidad de\ncoberturas qué me dice la norma usted venía aplicando contabilidad de\ncoberturas en ese escenario la contabilidad de coberturas ustedes dirán\nBueno eso es nuevo dónde hablaba el decreto 2649 contabilidad de coberturas\nefectivamente como tal el decreto 2649 del año 93 que se quedó obsoleto no\nhablaba de contabilidad coberturas pero las nip para las pymes en su sección 12\nSí habla de contabilidad de coberturas y es cuando aquellas entidades se quieren\ncubrir de un riesgo de Mercado como puede ser tasa de cambio tasa de interés\ny o comitis y en ese escenario existen instrumentos financieros de cobertura\ncomo son los Forward como son eh los swaps como son los como son el caso\nde como son el caso de otros instrumentos financieros derivados y\nestán cubriendo o mitigando un riesgo en una partida cubierta que bien puede ser\nun pasivo en moneda extranjera un ejemplo en ese escenario la norma me\ndice usted contabilizará sus sus contabilidades de coberturas como lo\nvenía haciendo localmente para aquellas relaciones de cobertura que dejaron de\nexistir a la fecha de a la fecha de eh de reconocimiento bajo ni para pymes\nque es el primero de enero del 2015 O sea que si yo venía aplicando\ncontabilidad coberturas tengo que corregirlas Pero si ya la relación de\ncobertura termino tengo que seguirlo haciendo no lo dejo como lo venía\nhaciendo localmente y para aquellas nuevas relaciones de cobertura que no se\nhabían cerrado sí debo aplicar la sección 12 estimaciones contables quiere\ndecir que esta opción si yo hice una estimación ya sea un litigio cualquier\nforma de estimación como también puede ser la vida útil ir a cambiar las\nestimaciones que quedaron en la foto a 31 de diciembre del 2014 en el psga\nlocal no cambiará retroactivamente la norma me dice no cambiará porque es\ninformación con la cual estaba disponible en ese momento que se hizo la\nestimación usted no puede cambiar la información que se llevaba Bajo su\ncontabilidad local anterior Esa fue la foto de la cual usted parte otras\nexcepciones con p de uso obligatorio medición de participaciones no\ncontroladas cuando hablamos de participación hablamos de participación\nen otra entidad de acuerdo a lo que quedó vivo en la ley 222 y que no lo\nanuló la ley 13 14 es hay control cuando usted tiene más del 50% de derecho a\nvoto en ese escenario si yo tengo una participación en otra entidad y defino\nque no hay control porque no tengo poder para incidir en sus políticas\nfinancieras administrativas operativas No tengo más del 50% del derecho a voto\nes algo que no controlo en ese escenario él dice ustedes las seguirán midiendo\ncomo las venía midiendo y no cambiará la forma en medir las participaciones en no\ncontroladas continuemos como ya hablamos de las excepciones de uso obligatorio\nahora vamos a hablar de las exenciones con x de uso voluntario y Qué quiere\ndecir esto quiere decir que la compañía voluntariamente puede optar por\nutilizarlas sí o no entonces una de ellas es el valor razonable como costo\natribuido Qué quiere decir que la compañía optará es voluntariamente\nutilizar una valoración de valor razonable para elementos como propiedad\nplantea equipo propiedades de inversión O intangibles y reemplazará el costo\nhistórico que venía anteriormente Y atribuirá por eso dice atribuido\nreemplazará ese costo histórico por este nuevo valor\nrazonable Entonces qué hicieron muchas compañías al cierre 31 de diciembre del\n2014 para elaborar el esa el primero de enero del 2015 tomaron ese evalúo\nreemplazaron lo que había históricamente y ese evaluo se convier en el nuevo\nvalor de su propiedad planta equipo o de su propiedad de inversión O de su activo\nintangible existe otro y es la reevaluación como costo atribuido Y qué\nte permite acá la Norma que tú en el momento de transición tome una\nrevaluación hecha bajo pcga anteriores Y lo tomes como costo atribuido en esa\nfecha vamos a colocar un ejemplo soy una compañía que elaboré una malo bajo psg\nanteriores el en septiembre del 2014 pero mi esfa tiene que partir de los\nsaldos A 31 de diciembre O sea que lo hice TR meses 4 meses antes en ese\nescenario yo puedo tomar esa ese avaluo como\nreevaluación y calcular depreciación de esos TR meses que me está haciendo falta\na partir de ese valor reevaluado tengan en cuenta que bajo el Antiguo marco\ncontable la reevaluación donde un activo quedaba separada entre lo que es el\nvalor del activo y lo que es el valor en la cuenta 19 por revaluación contra una\ncuenta en el patrimonio para nif ese valor reevaluado se convierte en el todo\ndel activo yo voy a depreciar el costo o el avalúo que me dio el el tasador\nexperto es el que voy a tomar como referente como base de depreciación\nmenos cualquier valor residual qué exiones también me me permitía la misma\nNorma impuestos diferidos el impuesto diferido que es\nalgo a los que muchos les gusta dice que no requiere que una entidad que adopta\npor primera vez reconozca bajo las n para las pymes activos o pasivos por\nimpuesto diferidos que surjan de la diferencia entre su base fiscal y su\nsaldo nif Si cuyo reconocimiento conlleva un costo o esfuerzo\ndesproporcionado Entonces qué le está diciendo la Norma usted no lo reconocerá\nsi esto conlleva un costo o esfuerzo desproporcionado realmente en la\naducción de todos nuestros clientes de n para pymes en ningún caso se nos dio ese\ncosto de esfuerzo desproporcionado porque yo tanto conozco las bases\nFiscales tanto conozco las bases niif y no hay un costo o esfuerzo\ndesproporcionado que yo pueda llegar a justificar y hacer una revelación no es\nque para mí fue un costo o esfuerzo es proporcionado calcular el impuesto\ndiferido tendría que estar bien justificado y revelado pero a la fecha\ndel día de hoy no tengo ninguna conversión con este\nescenario acuerdos que contienen un arrendamiento como voy des hablaba de\narrendamientos a la fecha de transición que es el primero de enero del 2015 con\nel cierre del 2014 puedo tener contratos de arrendamiento donde contextualmente\nse llaman contratos de arrendamiento o unos que Son acuerdos de servicios y que\nimplícitamente tener un acuerdo de arrendamiento la norma bien me dice mire\nusted puede optar por lo siguiente es voluntario puede ser que hoy es 31 de\ndiciembre del 2014 pero ese arrendamiento se dio hace 3 años y\nustedes no conocen Los criterios y condiciones con las cuales se dieron ese\narrendamiento valor ese arrendamiento con las condiciones que tiene ahorita\nvalórese de uso voluntario y qué me dice esa Norma la sección 34 habla de los\nacuerdos de concesión en la condición de la concesionaria O el operador de la\nconcesión ojo con esto concesionaria por qué porque esta misma\nsección 34 te dice mire Los acuerdos de concesión pueden ser o un activo\nfinanciero o pueden ser un intangible Pero qué me está diciendo la norma todos\naquellos acuerdos de concesión que se hayan celebrado antes de la fecha de\ntransición an para pymes se tratarán como venían haciéndolo localmente mente\npero aquellos que surjan después de la fecha de transición debes darle la\ndisposición de la sección 34 listo continuemos los pasivos por\nretiro o por desmantelamiento como les habló Boris en la anterior presentación\ntengan en cuenta que el costo por desmantelamiento el costo por\nretiro cuando hay esa obligación ligal o implícita en los contratos quiere decir\nque es un mayor valor de la contra un pasivo llamado provisión en ese\nescenario la norma te dice lo siguiente puede ser que el contrato venga hace TR\ncu 5 años a la fecha de transición calcúlalo el pasivo hoy en la fecha de\ntransición Cuál es su pasivo y no tenga en cuenta desde que nació la obligación\nla fecha de transición entonces son esas exenciones de uso voluntario que me\npermitía la Norma desde este punto de vista Ya vimos las exenciones y\nexcepciones hay una exención clave que no la contiene las nif completas como es\nla nif un Y es que no se requiere la reexpresión de unos o más ajustes si\nresulta impracticable en la elaboración de mi\nestado financiero por primera vez cierto el\nestado financiero de apertura yo puedo decir esto es impracticable y no lo voy\na hacer ahorita y no se requiere de eh información comparativa si resulta\nimpracticable y dice la norma de impracticability\nse debe reconocer que se debe eliminar Y qué requiere otra medición en ese\nescenario nosotros decimos Oye es impracticable hacer estos ajustes en ese\nescenario cuando yo digo que eso es impracticable la norma me dice cuando\nresulte practicable hacerlo hágalo y mírelo con qué periodo comparable\nanterior debe hacerlo si no es posible hacerlo comparable Usted debe\nrevelarlo ahora bien ya muchos han hecho eh implementación de ni para las pymes\nporque ya inclusive se encuentran aplicando completamente ni para las\npymes pero vamos a ver el siguiente caso práctico tenemos el en este escenario\nuna compañía donde tenemos activos y pasivos todos sus activos y pasivos y\npatrimonio que es lo que va a tener su balance de apertura listo qué más Vamos\na ver en este ejercicio Permítame hago aquí un tema de\ncompartir pantalla\nlisto vamos a retomar el tema Entonces qué hicieron muchos en sus balances de\napertura nosotros tenemos más columnas de las que ven acá No solo ajustes nif\nsino ajustes por reclasificación por qué Porque cuando ustedes aplican la sección\n35 van a tener que emitir unas conciliaciones donde usted dice Mire yo\npartí de mi patrimonio que yo tengo un patrimonio en este escenario en el\nejercicio tengo un patrimonio aquí no me lo deja bajar Bueno ya ya miramos\npartimos de un patrimonio local y vamos a llegar a un patrimonio nif producto de\nque ajusté algunos activos los eliminé otros los valoré un\nejemplo puede ser la cartera donde para efectos Fiscales yo venía aplicando un\ndeterioro individual y general de acuerdo a unas normas Fiscales pero como\nbien lo enunció Boris el deterioro debo revisar si cumpo unos indicios de\ndeterior Y si cumplo sus indicios de deterioro\nvoy a calcular el deterioro para aquellos medidos al costo amortizado va\na ser el menor va a ser comparar el valor presente de esos flujos contra el\nvalor en libros y si es un instrumento financiero medido al costo voy a hacer\nuna mejor estimación de ese deterioro Entonces vamos a ver en este\nejemplo tres o cuatro enunciados muy claves primero Aquí vemos un ejemplo de\nuna reclasificación que pudo ocurrirles en su estado financiero de apertura Y es\nque esos derechos fiduciarios se van a reclasificar a efectivos y equivalentes\nde efectivo y aquí lo vamos a ver muchas compañías\ncompañías tenían los derechos fiduciarios Como si\nfueran una inversión y teníamos bajo psga locales 338\nmillones esos 338 millones nosotros los hemos reclasificado a una cuenta\n11 que bien la podemos como ya no existe plan de cuentas para algunas\nsuperintendencias y Lo aclaro porque el mismo la misma ley 13 14 dijo que esa\nlibre albedrío quiénes van a definir Cómo se va a llevar su plan contable Yo\npodría llamarle a esto la cuenta 1130 y decir que se llama equivalentes al\nefectivo Por qué cumple con equivalentes de efectivo la misma política de la\nentidad de debe decir que es un equivalente efectivo debe decir que es\naltamente líquido que se espera que sea realizable en los próximos un ejemplo\ntres meses debe decir que es poco probable el cambio en su valor razonable\nO sea que su el cambio en el valor razonable este activo no va a ser\nsignificativo en ese escenario como cumple esa cualidad ya no va a ser una\ninversión dentro de los Derechos fiduciarios si no va a ser un\nequivalente efectivo ese es un ejemplo de reclasificación\nahora nuestra compañía ABC al cierre del ejercicio 2014 reconoció 500 millones\npor el valor de venta de mercancía sin haber transferido riesgos y ventajas de\nde esa mercancía y el costo de la mercancía fue de 200 millones Qué vamos\na hacer en esos escenarios claro nuestras compañías deben revisar si esos\ningresos yo ya transferí riesgos y beneficios si yo no conservo riesgos\nsignificativos de esas ventas como yo todavía lo tengo en mi bodega yo ya lo\nvendí vía factura pero no ha llegado porque no no espach el carro y me quedó\nen mi bodega quiere decir que en ese escenario yo tengo que eliminar esa\nventa Cómo la elimino Pues como ya no hay ingreso elimino la cuenta por cobrar\npor 500 millones y su contrapartida va a afectar las ganancias retenidas en una\ncuenta del patrimonio como aquí lo ven de 500 millones ahora eso también tenía\nun costo ese costo cómo lo vamos a ver en\nel inventario porque como vendí inventario y no he transferido los\nriesgos pues lo que va a pasar acá si me permite el Excel subir Es que yo voy a\nrevivir esa partida en el inventario y voy a eliminar ese costo de las\nganancias acumuladas entonces aquí estamos viendo que vuelvo y revivo el\ninventario y en las retenidas en la cuenta del patrimonio\nvoy a eliminar ese efecto del costo de la\nventa por 200 millones acá lo tenemos listo otro enunciado así clave\nqué va a pasar la cuenta de anticipos y avances entregados a terceros ustedes\nsiempre lo han tenido dentro del rubro de deudores qué ha sido nuestro\ncuestionamiento como firma cuando nosotros hablamos de de un activo\nfinanciero es aquel contrato que te va a dar derecho a otro activo financiero\ncierto y realmente los anticipos No es que me va a dar derecho a que yo tenga\nun dinero o un derecho en dinero realmente yo tengo derecho a que me\npresten un bien o un servicio Luego si yo digo mire estos son mis deudores\nquién le debe esa plata No a mí no me deben la plata a mí realmente me deben\nes un bien o un servicio desde ese punto de de vista lo que nosotros hacemos Es\nque si tenemos un saldo de 1472 millones qué hicimos nosotros por\nlo generales nuestras conversiones nosotros como gran Torton no cumple la\ncondición de que sea un activo financiero luego reclasificado y hay\nlugar a reclasificación para aquello que no se\nha recibido qué no se ha recibido como lo vemos dimos un anticipo para\npropiedad plantea equipo pero yo hoy no recibido la propiedad plantea equipo\ncreo una cuenta dentro de la cuenta dentro de las cuentas de propiedad\nplanta de equipo que se llama anticipos y ahí reclasificó esos 800 millones\ntambién entregué anticipos para qué más dice mi enunciado anticipos de gastos\npagados por anticipado yo le pagué al señor del mantenimiento a cierre 31 de\ndiciembre del 2014 pero resulta que no me han prestado el servicio a qué tengo\nyo derecho a futuro a que me presten un servicio luego yo reclasificó esa\npartida aquí en la cuenta 1705 porque aún cumple la condición de\nactivo porque yo a futuro voy a tener un servicio Qué otros otros que afectan la\nganancia retera y que muchos de pronto dijeron No pero para mí no afecta pueden\nhaber anticipos que ya me prestaron el servicio pero que no me han entregado la\nfactura bajo normas nif ya se realizó Claro ya se realizó ya me debe afectar\nel patrimonio Entonces nosotros aquí lo vemos ese anticipo que me afecta el\npatrimonio porque ya se realizó De igual forma Qué otros ajustes tenemos este\ncliente la compañía ABC si nos damos cuenta utilizó la opción del costo\natribuido tomó la exención la que yo les dije que es opcional contrató a un señor\nevaluador en septiembre del 2014 y le dijo señor evaluador Cuánto valen mis\nterrenos mis construcciones mi equipo de oficina luego mi propiedad planta y\nequipo qué voy a hacer yo me voy a ir a la cuenta 15 donde reposa la propiedad\nplanta y equipo y y ese costo histórico lo voy a ajustar hasta que alcance el\nvalor razonable que fue la valu que me dio quién el perito o el experto tasador\nexperto que conoce la lonja y que me puede dar una condición de Mercado de\nesos activos y me dice mire sus activos ahora cuestan 80.000\ncierto 80,000 millones y como ese Ese avalúo fue realizado antes de la fecha\nde transición qué me dice la Norma que yo deo calcular depreciación a 31 de\ndiciembre del 2014 y me dice la depreciación con las vías útiles\nestimadas bajo nif en su política es 18 millones luego yo tendré que eliminar la\ndepreciación que venía local y reconocer la depreciación bajo\neste efecto dónde se va a dar muy clave se va a dar en el patrimonio entonces si\nyo me voy al patrimonio el efecto de la depreciación Acá está molestando un\npoquito el Excel el efecto de la depreciación lo voy a ver aquí en esta\ncuenta de la depreciación acá la depreciación antigua\ny la depreciación nueva y adicionalmente tiene un efecto de que estoy eliminando\nlo que venía en la cuenta por revalorización del patrimonio esto venía\najustándose contra la cuenta 19 bajo los Marcos contables acá están el efecto de\nlo que venía en la 19 se elimina contra la cuenta respectiva del patrimonio\ndonde se venía dando y el costo atribuido dónde tuvo efecto acá voy a\nescribirlo porque acá no lo tengo ganancias\nganancias efecto costo\natribuido ese mayor valor de la propiedad planta de equipo también me\nafectó las ganancias acumuladas entonces a ustedes muchos de\nustedes puede ser que ustedes crearon una cuenta dentro de las ganancias\nacumuladas crearon una nueva cuenta un ejemplo la 3710 dijeron esta es la\ncuenta para tomar todo el efecto de la adopción por qué lo tenían que tener así\nde juiciosos todo el efecto de la aducción que en este caso fueron 219\nmillones aproximadamente Por qué Porque si yo ahora me voy a la\ntenemos cierto vamos a ver que eso no se vuelve\nen una caja negra eso no quiere decir que el efecto de la adopción queda un\nnúmero constante toda la vida ahí la misma normatividad que me dijo no me lo\ndice la normatividad de las nit para pymes pero para efectos en Colombia la\nsuperintendencia de sociedades un boletín informativo de\norientación En referencia a los nuevos Marcos contables que nació el 8 de marzo\ndel 2016 y le dice el consejo técnico de la contaduría pública considera que el\nincremento de las ganancias acumuladas como consecuencia de la transición a las\nnif no corresponde a ganancias ya realizadas motivo por el cual no puede\nser distribuido mientras no se haga efectiva la entrada de los fondos de\nigual era para las pérdidas que afectaron esas ganancias de otro lado la\nley 1819 qué le dijo y cuál es esa ley la ley tributaria le dijo cualquier\nincremento en los resultados acumulados producto de la conversión del nuevo\nmarco normativo se entenderá el incremento en los resultados como\nconsecuencia de la conversión de los nuevos Marcos eh nuevos Marcos técnicos\nno podrá ser distribuido con como dividiendo sino hasta el momento el que\nel incremento se haya realizado de manera efectiva entonces esa cuenta del\npatrimonio que yo aquí creé en la manera en que se vaya realizando la voy a pasar\na esas utilidades que se iban a ser distribuibles un ejemplo es el caso de\nlos ingresos esos ingresos A 31 de diciembre del 2014 no se habían\ntransferido pero muy seguramente en el año 2015 ya Se realizaron luego ya son\nsusceptibles que el ingreso Y el costo sea susceptible de distribución En ese\nescenario es donde yo voy a comenzar a revisar cada partida que afectó el\npatrimonio y voy a tener que mirar qué se realizó muy seguramente ustedes no\ndistribuyeron esto el 31 de diciembre del 2015 porque cuándo son sus primeros\nestados financieros bajo nif 31 de diciembre del 2016 es ahí donde usted\nsabe qué es susceptible distribución y qué no es susceptible distribución tanto\nes así que tanto la norma fiscal como la norma contable dice que eso va a afectar\nla distribución de dividiendo hasta que se haya realizado de manera efectiva es\nahí donde tenemos que mirar Cuándo se realizó el activo o cuándo se liquidó\nese pasivo Bueno hasta acá Todos hemos visto\nnuestros nuestro caso práctico Qué consecuencias va a tener\nesos efectos de la ganancia acumulada por primera vez que no quedan en una\ncaja negra dentro del patrimonio y les agradezco su tiempo y\nvamos agradecemos a todas las personas que en este momento continúan\nparticipando del curso virtual gratuito implementación y seguimiento de las nif\nen las pymes un abrazo fraterno para todos tengan un feliz resto de tarde\nHasta"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 222.23,
+    "asr": 44100,
+    "filesizeApprox": 82355660,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2017",
+  "files": {
+    "year": "2017",
+    "kind": "videos",
+    "md": "videos/2017/A00X3M93Qvg.md",
+    "json": "videos/2017/A00X3M93Qvg.json",
+    "infoJson": "videos/2017/A00X3M93Qvg.info.json"
+  }
+}

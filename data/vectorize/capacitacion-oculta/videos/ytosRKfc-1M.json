@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:27:42.248Z",
+  "videoId": "ytosRKfc-1M",
+  "videoUrl": "https://www.youtube.com/watch?v=ytosRKfc-1M",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "ytosRKfc-1M",
+    "title": "Software contable ContaPyme - ContaExcel Add In - Repaso de fórmulas en Excel",
+    "fulltitle": "Software contable ContaPyme - ContaExcel Add In - Repaso de fórmulas en Excel",
+    "description": "http://www.contapyme.com\nhttp://www.contapyme.com/software-agricola\nEste video presenta un breve repaso de las formulas en Excel en ContaExcel Add In para usar desde allí el software contable ContaPyme.\nCP40-385-020-020B-010M",
+    "duration": 215,
+    "duration_string": "3:35",
+    "upload_date": "20120908",
+    "timestamp": 1347115174,
+    "view_count": 413,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "software contable",
+      "paquete contable",
+      "software contable colombia",
+      "programa contable",
+      "sistema contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/ytosRKfc-1M/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBcs_dK4-2xWlXAv-ThKrKeowwJbw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAyOozphO6D6RDlRM_XdghCZaSKxg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuxO33YNnbMQhwkaak0LizQW4LRQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9oDi1E1T59g4qpqEwdYlBR25O4w",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ytosRKfc-1M/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "40",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/ytosRKfc-1M/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ytosRKfc-1M",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.46511627906976744,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.5069767441860465,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.5069767441860465,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 226.07,
+        "asr": 44100,
+        "filesize_approx": 6063621,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - ContaExcel Add In - Repaso de fórmulas en Excel",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/ytosRKfc-1M/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ytosRKfc-1M?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - ContaExcel Add In - Repaso de fórmulas en Excel\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 33,
+    "transcriptChars": 2550,
+    "segments": [
+      {
+        "text": "podemos trabajar con fórmulas para ello entonces decimos",
+        "startMs": 4160,
+        "durationMs": 4710
+      },
+      {
+        "text": "vamos a calcular por ejemplo el área de un rectángulo Entonces tenemos la base",
+        "startMs": 8870,
+        "durationMs": 6240
+      },
+      {
+        "text": "Aquí vamos a poner el valor de la base aquí la",
+        "startMs": 15110,
+        "durationMs": 9319
+      },
+      {
+        "text": "altura y queremos que el área se calcule en esta Entonces",
+        "startMs": 24439,
+        "durationMs": 6150
+      },
+      {
+        "text": "nosotros podríamos decir es igual a 45 por 10 eso nos quiere decir que nos",
+        "startMs": 30589,
+        "durationMs": 8761
+      },
+      {
+        "text": "da 450 el área de un rectángulo con esta base y con esta altura Pero obviamente",
+        "startMs": 39350,
+        "durationMs": 6920
+      },
+      {
+        "text": "Esto no es lo que nosotros esperamos de Excel lo que nosotros esperamos es que",
+        "startMs": 46270,
+        "durationMs": 3400
+      },
+      {
+        "text": "se puedan hacer fórmulas que se vayan recalculando",
+        "startMs": 49670,
+        "durationMs": 3480
+      },
+      {
+        "text": "recalculando automáticamente entonces lo que hacemos",
+        "startMs": 53150,
+        "durationMs": 2120
+      },
+      {
+        "text": "Es en vez de poner los valores absolutos ponemos lo que se llama referencia",
+        "startMs": 55270,
+        "durationMs": 5400
+      },
+      {
+        "text": "celdas observen que aquí que aquí el 45 que es el valor de la base está en la",
+        "startMs": 60670,
+        "durationMs": 9680
+      },
+      {
+        "text": "c40 esto Pues yo creo que muchos son están muy claros pero Pero observen esto",
+        "startMs": 70360,
+        "durationMs": 5990
+      },
+      {
+        "text": "la columna c y la fila 40 se llama esta celda se llama la",
+        "startMs": 76350,
+        "durationMs": 7200
+      },
+      {
+        "text": "c40 y esta Entonces sería la columna c y la fila",
+        "startMs": 83550,
+        "durationMs": 6960
+      },
+      {
+        "text": "41 entonces diríamos que lo que vamos a hacer es a",
+        "startMs": 90510,
+        "durationMs": 5559
+      },
+      {
+        "text": "multiplicar la columna la celda que está en la",
+        "startMs": 96069,
+        "durationMs": 6921
+      },
+      {
+        "text": "c40 por la celda que está en la en la celda la c 41 Entonces el sistema",
+        "startMs": 103000,
+        "durationMs": 10870
+      },
+      {
+        "text": "automáticamente nos muestra el resultado cuando lo hemos basado en referencia a",
+        "startMs": 113870,
+        "durationMs": 6879
+      },
+      {
+        "text": "celdas pues entonces quiere decir que si nosotros variamos algún dato que la base",
+        "startMs": 120749,
+        "durationMs": 3640
+      },
+      {
+        "text": "ya no es 45 sino 10 y recalculo nos da 100 voy a poner por un rato el",
+        "startMs": 124389,
+        "durationMs": 8920
+      },
+      {
+        "text": "cálculo fórmulas recuerden voy a poner cálculo automático para que el sistema",
+        "startMs": 133309,
+        "durationMs": 5841
+      },
+      {
+        "text": "me esté calculando si yo ahora digo que la base es 30 entonces ya me da 300 si",
+        "startMs": 139150,
+        "durationMs": 6439
+      },
+      {
+        "text": "digo que la altura es 15 entonces ya me da 450 observen siempre Cómo se va",
+        "startMs": 145589,
+        "durationMs": 6241
+      },
+      {
+        "text": "recalculando el área antiguamente uno tenía que digitar",
+        "startMs": 151830,
+        "durationMs": 5479
+      },
+      {
+        "text": "cada valor de cada celda así como lo hice yo hace un momento",
+        "startMs": 157309,
+        "durationMs": 4401
+      },
+      {
+        "text": "c40 por c41 hoy en día pues Y desde hace muchísimos años la referencia celdas se",
+        "startMs": 161710,
+        "durationMs": 7799
+      },
+      {
+        "text": "puede hacer simplemente apuntando simplemente damos igual y señalamos el",
+        "startMs": 169509,
+        "durationMs": 6601
+      },
+      {
+        "text": "el primer operador Le ponemos el símbolo de multiplicación señalamos el segundo y",
+        "startMs": 176110,
+        "durationMs": 4800
+      },
+      {
+        "text": "listo la fórmula eh queda eh eh lista y haciendo referencia a las celdas que",
+        "startMs": 180910,
+        "durationMs": 8039
+      },
+      {
+        "text": "nosotros seleccionamos y cada que nosotros nos paramos sobre una fórmula y",
+        "startMs": 188949,
+        "durationMs": 4840
+      },
+      {
+        "text": "le damos f2 Entonces el sistema nos muestra observen esta casilla azul es la",
+        "startMs": 193789,
+        "durationMs": 7241
+      },
+      {
+        "text": "referencia en la fórmula c40 fí que también está en azul y esta casilla",
+        "startMs": 201030,
+        "durationMs": 4960
+      },
+      {
+        "text": "verde el recuadros verde en este caso solo vamos a ver los laterales hace",
+        "startMs": 205990,
+        "durationMs": 9609
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nhttp://www.contapyme.com/software-agricola\nEste video presenta un breve repaso de las formulas en Excel en ContaExcel Add In para usar desde allí el software contable ContaPyme.\nCP40-385-020-020B-010M\n\n## Transcripción\n\npodemos trabajar con fórmulas para ello entonces decimos\nvamos a calcular por ejemplo el área de un rectángulo Entonces tenemos la base\nAquí vamos a poner el valor de la base aquí la\naltura y queremos que el área se calcule en esta Entonces\nnosotros podríamos decir es igual a 45 por 10 eso nos quiere decir que nos\nda 450 el área de un rectángulo con esta base y con esta altura Pero obviamente\nEsto no es lo que nosotros esperamos de Excel lo que nosotros esperamos es que\nse puedan hacer fórmulas que se vayan recalculando\nrecalculando automáticamente entonces lo que hacemos\nEs en vez de poner los valores absolutos ponemos lo que se llama referencia\nceldas observen que aquí que aquí el 45 que es el valor de la base está en la\nc40 esto Pues yo creo que muchos son están muy claros pero Pero observen esto\nla columna c y la fila 40 se llama esta celda se llama la\nc40 y esta Entonces sería la columna c y la fila\n41 entonces diríamos que lo que vamos a hacer es a\nmultiplicar la columna la celda que está en la\nc40 por la celda que está en la en la celda la c 41 Entonces el sistema\nautomáticamente nos muestra el resultado cuando lo hemos basado en referencia a\nceldas pues entonces quiere decir que si nosotros variamos algún dato que la base\nya no es 45 sino 10 y recalculo nos da 100 voy a poner por un rato el\ncálculo fórmulas recuerden voy a poner cálculo automático para que el sistema\nme esté calculando si yo ahora digo que la base es 30 entonces ya me da 300 si\ndigo que la altura es 15 entonces ya me da 450 observen siempre Cómo se va\nrecalculando el área antiguamente uno tenía que digitar\ncada valor de cada celda así como lo hice yo hace un momento\nc40 por c41 hoy en día pues Y desde hace muchísimos años la referencia celdas se\npuede hacer simplemente apuntando simplemente damos igual y señalamos el\nel primer operador Le ponemos el símbolo de multiplicación señalamos el segundo y\nlisto la fórmula eh queda eh eh lista y haciendo referencia a las celdas que\nnosotros seleccionamos y cada que nosotros nos paramos sobre una fórmula y\nle damos f2 Entonces el sistema nos muestra observen esta casilla azul es la\nreferencia en la fórmula c40 fí que también está en azul y esta casilla\nverde el recuadros verde en este caso solo vamos a ver los laterales hace"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 226.07,
+    "asr": 44100,
+    "filesizeApprox": 6063621,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/ytosRKfc-1M.md",
+    "json": "videos/2012/ytosRKfc-1M.json",
+    "infoJson": "videos/2012/ytosRKfc-1M.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "ytosRKfc-1M",
+        "youtubeId": "ytosRKfc-1M",
+        "titulo": "ytosRKfc-1M",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

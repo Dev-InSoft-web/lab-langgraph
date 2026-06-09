@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "pEKhL-qa2dc",
+  "youtubeId": "pEKhL-qa2dc",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:17:33.848Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2011/pEKhL-qa2dc.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "pEKhL-qa2dc",
+      "youtubeId": "pEKhL-qa2dc",
+      "titulo": "pEKhL-qa2dc",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

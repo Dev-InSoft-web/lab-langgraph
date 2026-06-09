@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "lGNNFYNw-6E",
+  "youtubeId": "lGNNFYNw-6E",
+  "status": "error",
+  "updatedAt": "2026-06-05T17:37:40.914Z",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "lGNNFYNw-6E",
+      "youtubeId": "lGNNFYNw-6E",
+      "titulo": "lGNNFYNw-6E",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "error": "yt-dlp falló para lGNNFYNw-6E: ERROR: [youtube] lGNNFYNw-6E: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n[youtube] Extracting URL: https://www.youtube.com/watch?v=lGNNFYNw-6E\n[youtube] lGNNFYNw"
+}

@@ -1,6 +1,6 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
-import { ensurePatySchema } from "../db/ensure-schemas.js";
+import { ensureLanglabSchema } from "../db/ensure-schemas.js";
 import { readPersistenceJson, writePersistenceJson } from "./json-store.js";
 import { countRevisadoPg, readRevisadoAllPg, writeRevisadoManyPg } from "./revisado-pg.js";
 import { loadMergedRevisadoJson } from "./revisado-merge.js";
@@ -13,7 +13,7 @@ let pgReady: Promise<void> | null = null;
 async function ensurePgRevisado(): Promise<void> {
 	if (!pgReady) {
 		pgReady = (async () => {
-			await ensurePatySchema();
+			await ensureLanglabSchema();
 			if ((await countRevisadoPg()) > 0) return;
 			const merged = await loadMergedRevisadoJson();
 			if (Object.keys(merged).length) await writeRevisadoManyPg(merged);

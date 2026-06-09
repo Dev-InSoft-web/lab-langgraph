@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "GlbwtA0L5Dw",
+  "youtubeId": "GlbwtA0L5Dw",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:20:52.645Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2012/GlbwtA0L5Dw.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "GlbwtA0L5Dw",
+      "youtubeId": "GlbwtA0L5Dw",
+      "titulo": "GlbwtA0L5Dw",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

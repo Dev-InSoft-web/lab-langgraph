@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:43:12.207Z",
+  "videoId": "E1j8_5oDJvc",
+  "videoUrl": "https://www.youtube.com/watch?v=E1j8_5oDJvc",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "E1j8_5oDJvc",
+    "title": "Configuración en ContaPyme®: Tipos de documentos de soporte",
+    "fulltitle": "Configuración en ContaPyme®: Tipos de documentos de soporte",
+    "description": "Configuración de tipos de documentos de soporte en ContaPyme® en el proceso de activación de facturación electrónica.",
+    "duration": 256,
+    "duration_string": "4:16",
+    "upload_date": "20230215",
+    "timestamp": 1676501685,
+    "view_count": 578,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD69Rgt2MKiNdWNUJRaLONDmIr5PA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBi3hHlMJLqvTQpAoKX4Nj9yy3G-A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUVdb4z71puCpngO8Ha5q-paYzng",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC0Zr-g8iEfAr-MRDRDs2AxszpVMQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUuMVlYb5rFFhQSLLbdye1NahzuQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAO8Yxk_0GCFj0TDW9TESxFU7gr7Q",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi9HBtzZmv1TcvOnhRD7dJsFwiTA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkZaa4iT0Qk24LdDsWs16ZQ9D_Mw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/E1j8_5oDJvc/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/E1j8_5oDJvc/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=E1j8_5oDJvc",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.390625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "79x45",
+        "width": 79,
+        "height": 45,
+        "fps": 0.50390625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "159x90",
+        "width": 159,
+        "height": 90,
+        "fps": 0.50390625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 225.781,
+        "asr": 44100,
+        "filesize_approx": 7211868,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Configuración en ContaPyme®: Tipos de documentos de soporte",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/E1j8_5oDJvc/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/E1j8_5oDJvc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Configuración en ContaPyme®: Tipos de documentos de soporte\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 29,
+    "transcriptChars": 1867,
+    "segments": [
+      {
+        "text": "nos vamos nuevamente para la pestaña de básico y documentos soporte",
+        "startMs": 5240,
+        "durationMs": 7290
+      },
+      {
+        "text": "vamos a buscar el 10 10 Vamos a darle clic derecho",
+        "startMs": 12540,
+        "durationMs": 8930
+      },
+      {
+        "startMs": 21480,
+        "durationMs": 8150,
+        "text": "podemos cambiarle el nombre"
+      },
+      {
+        "startMs": 29640,
+        "durationMs": 4130,
+        "text": "vamos a seleccionar la empresa"
+      },
+      {
+        "text": "vamos a validar la máscara desde nuestra resolución",
+        "startMs": 33780,
+        "durationMs": 20929
+      },
+      {
+        "text": "y vamos a activarle hace parte de la facturación electrónica",
+        "startMs": 54719,
+        "durationMs": 7131
+      },
+      {
+        "text": "podemos dejar el tipo de numeración manual automática o equipo de factura de",
+        "startMs": 61860,
+        "durationMs": 4550
+      },
+      {
+        "text": "venta de acá nos vamos para la opción de resoluciones",
+        "startMs": 66410,
+        "durationMs": 4739
+      },
+      {
+        "text": "vamos a poner el número de nuestra resolución",
+        "startMs": 71149,
+        "durationMs": 11100
+      },
+      {
+        "text": "validamos el consecutivo inicial y el final",
+        "startMs": 82259,
+        "durationMs": 10251
+      },
+      {
+        "startMs": 92520,
+        "durationMs": 17269,
+        "text": "vamos a validar la fecha inicial"
+      },
+      {
+        "text": "y vamos a validar la vigencia de nuestra resolución que la vemos en esta parte de",
+        "startMs": 109799,
+        "durationMs": 5331
+      },
+      {
+        "text": "acá esta resolución tiene una vigencia de 18 meses",
+        "startMs": 115130,
+        "durationMs": 16440
+      },
+      {
+        "text": "vamos para la opción de acciones vamos a chequear publicación en plataforma de",
+        "startMs": 131580,
+        "durationMs": 6350
+      },
+      {
+        "text": "documentos envío de email automático y vamos a seleccionar solicitar aprobación",
+        "startMs": 137930,
+        "durationMs": 5879
+      },
+      {
+        "text": "al finalizar vamos a la opción de impresión del documento",
+        "startMs": 143809,
+        "durationMs": 4401
+      },
+      {
+        "text": "seleccionar la 100 30 envío de email",
+        "startMs": 153470,
+        "durationMs": 6660
+      },
+      {
+        "text": "vamos a seleccionar nombre usuario nombre empresa enviar a tercero",
+        "startMs": 160140,
+        "durationMs": 7190
+      },
+      {
+        "text": "acá en tiempo de contenido email vamos a seleccionar plantilla de contenido vamos",
+        "startMs": 167330,
+        "durationMs": 5759
+      },
+      {
+        "text": "a buscar acá en esta lupa notificación de documento electrónico",
+        "startMs": 173089,
+        "durationMs": 6541
+      },
+      {
+        "text": "la opción de facturación electrónica en proveedor vamos a seleccionar el",
+        "startMs": 186710,
+        "durationMs": 5040
+      },
+      {
+        "text": "proveedor cadena administrar conexión con proveedor",
+        "startMs": 191750,
+        "durationMs": 5940
+      },
+      {
+        "text": "le damos desde conexión y le vamos a aceptar",
+        "startMs": 197690,
+        "durationMs": 5580
+      },
+      {
+        "text": "nos vamos para la opción de publicación del documento en esta fecha vamos a",
+        "startMs": 179630,
+        "durationMs": 28140
+      },
+      {
+        "text": "seleccionar una fecha anterior a la fecha pues inicial de nuestra resolución",
+        "startMs": 207770,
+        "durationMs": 13379
+      },
+      {
+        "text": "y colocamos nuevamente el 100 30 en acciones",
+        "startMs": 221159,
+        "durationMs": 8150
+      },
+      {
+        "text": "vamos a quitarle el check a seleccionar llamado nos vamos para notificaciones y",
+        "startMs": 148210,
+        "durationMs": 86620
+      },
+      {
+        "text": "le vamos a quitar el check en publicación del documento y le vamos a",
+        "startMs": 234830,
+        "durationMs": 6060
+      },
+      {
+        "text": "aceptar continuar cerrar asistente aceptar",
+        "startMs": 240890,
+        "durationMs": 4349
+      }
+    ],
+    "plainText": "## Descripción del video\n\nConfiguración de tipos de documentos de soporte en ContaPyme® en el proceso de activación de facturación electrónica.\n\n## Transcripción\n\nnos vamos nuevamente para la pestaña de básico y documentos soporte\nvamos a buscar el 10 10 Vamos a darle clic derecho\npodemos cambiarle el nombre\nvamos a seleccionar la empresa\nvamos a validar la máscara desde nuestra resolución\ny vamos a activarle hace parte de la facturación electrónica\npodemos dejar el tipo de numeración manual automática o equipo de factura de\nventa de acá nos vamos para la opción de resoluciones\nvamos a poner el número de nuestra resolución\nvalidamos el consecutivo inicial y el final\nvamos a validar la fecha inicial\ny vamos a validar la vigencia de nuestra resolución que la vemos en esta parte de\nacá esta resolución tiene una vigencia de 18 meses\nvamos para la opción de acciones vamos a chequear publicación en plataforma de\ndocumentos envío de email automático y vamos a seleccionar solicitar aprobación\nal finalizar vamos a la opción de impresión del documento\nseleccionar la 100 30 envío de email\nvamos a seleccionar nombre usuario nombre empresa enviar a tercero\nacá en tiempo de contenido email vamos a seleccionar plantilla de contenido vamos\na buscar acá en esta lupa notificación de documento electrónico\nla opción de facturación electrónica en proveedor vamos a seleccionar el\nproveedor cadena administrar conexión con proveedor\nle damos desde conexión y le vamos a aceptar\nnos vamos para la opción de publicación del documento en esta fecha vamos a\nseleccionar una fecha anterior a la fecha pues inicial de nuestra resolución\ny colocamos nuevamente el 100 30 en acciones\nvamos a quitarle el check a seleccionar llamado nos vamos para notificaciones y\nle vamos a quitar el check en publicación del documento y le vamos a\naceptar continuar cerrar asistente aceptar"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 225.781,
+    "asr": 44100,
+    "filesizeApprox": 7211868,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2023",
+  "files": {
+    "year": "2023",
+    "kind": "videos",
+    "md": "videos/2023/E1j8_5oDJvc.md",
+    "json": "videos/2023/E1j8_5oDJvc.json",
+    "infoJson": "videos/2023/E1j8_5oDJvc.info.json"
+  }
+}

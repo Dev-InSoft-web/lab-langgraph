@@ -11,33 +11,62 @@ export function keySuffix(key: string): string {
 	return key.length >= 4 ? `···${key.slice(-4)}` : "···";
 }
 
-export function loadGroqApiKeysFromEnv(): GroqKeyEntry[] {
+function collectGroqKeys(
+	addTo: GroqKeyEntry[],
+	raw: string | undefined,
+	label: string,
+	excludeKeys: Set<string>,
+): void {
+	const k = raw?.trim();
+	if (!k || excludeKeys.has(k) || addTo.some((e) => e.key === k)) return;
+	addTo.push({ label, key: k });
+}
+
+function collectGroqKeysMulti(
+	addTo: GroqKeyEntry[],
+	envVar: string | undefined,
+	prefix: string,
+	excludeKeys: Set<string>,
+): void {
+	const multi = envVar?.trim();
+	if (!multi) return;
+	let i = 0;
+	for (const part of multi.split(/[,;\n]+/)) {
+		i += 1;
+		collectGroqKeys(addTo, part, `${prefix}[${i}]`, excludeKeys);
+	}
+}
+
+/** Solo transcripción Whisper (orquestador capability=whisper). */
+export function loadGroqWhisperApiKeysFromEnv(): GroqKeyEntry[] {
 	preloadIsaDocSecrets();
 	const entries: GroqKeyEntry[] = [];
-	const add = (raw: string | undefined, label: string) => {
-		const k = raw?.trim();
-		if (k && !entries.some((e) => e.key === k)) entries.push({ label, key: k });
-	};
-	add(process.env.GROQ_API_KEY, "GROQ_API_KEY");
-	add(process.env.GROQ_API_KEY_2, "GROQ_API_KEY_2");
-	add(process.env.paty_groq_api_key, "paty_groq_api_key");
-	const multi = process.env.GROQ_API_KEYS?.trim();
-	if (multi) {
-		let i = 0;
-		for (const part of multi.split(/[,;\n]+/)) {
-			i += 1;
-			const k = part.trim();
-			if (k && !entries.some((e) => e.key === k)) {
-				entries.push({ label: `GROQ_API_KEYS[${i}]`, key: k });
-			}
-		}
-	}
+	const exclude = new Set<string>();
+	collectGroqKeys(entries, process.env.GROQ_WHISPER_API_KEY, "GROQ_WHISPER_API_KEY", exclude);
+	collectGroqKeys(entries, process.env.GROQ_WHISPER_API_KEY_2, "GROQ_WHISPER_API_KEY_2", exclude);
+	collectGroqKeysMulti(entries, process.env.GROQ_WHISPER_API_KEYS, "GROQ_WHISPER_API_KEYS", exclude);
 	return entries;
+}
+
+/** Chat, clasificador, proofread — nunca incluye keys de whisper. */
+export function loadGroqChatApiKeysFromEnv(): GroqKeyEntry[] {
+	preloadIsaDocSecrets();
+	const whisperOnly = new Set(loadGroqWhisperApiKeysFromEnv().map((e) => e.key));
+	const entries: GroqKeyEntry[] = [];
+	collectGroqKeys(entries, process.env.GROQ_API_KEY, "GROQ_API_KEY", whisperOnly);
+	collectGroqKeys(entries, process.env.GROQ_API_KEY_2, "GROQ_API_KEY_2", whisperOnly);
+	collectGroqKeysMulti(entries, process.env.GROQ_API_KEYS, "GROQ_API_KEYS", whisperOnly);
+	return entries;
+}
+
+/** @deprecated Preferir loadGroqChatApiKeysFromEnv o loadGroqWhisperApiKeysFromEnv. */
+export function loadGroqApiKeysFromEnv(): GroqKeyEntry[] {
+	return loadGroqChatApiKeysFromEnv();
 }
 
 export function getGroqKeyPool(): GroqKeyPool {
 	if (!poolSingleton) {
-		const entries = loadGroqApiKeysFromEnv();
+		const entries = loadGroqChatApiKeysFromEnv();
 		if (!entries.length) {
 			throw new Error("Falta GROQ_API_KEY en secrets/patyia/lab-langgraph.env");
 		}

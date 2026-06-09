@@ -1,0 +1,1003 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:10:43.564Z",
+  "videoId": "vidOzM55gnI",
+  "videoUrl": "https://www.youtube.com/watch?v=vidOzM55gnI",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "vidOzM55gnI",
+    "title": "Conexion punto a punto",
+    "fulltitle": "Conexion punto a punto",
+    "description": "Conexión punto a punto cliente - servidor",
+    "duration": 683,
+    "duration_string": "11:23",
+    "upload_date": "20200325",
+    "timestamp": 1585147141,
+    "view_count": 1,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/vidOzM55gnI/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAexL3Bu6jlJBHKOiKxd99qlH4XRw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAQya3pnQmTDwR4kuJm9sboCms3_A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgWy8xRzOfu77JVo3xqDvgOS_E3Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBhjIjKWCXqWjHOpz9IcLcsrD4OgQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB8nJgaMYXLCKIP68JJo1d0p8x_A",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVPHhwtyg7llokCiezYpBu33zKZA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArDfNJGy6imPqWhzOYffuzCKP4iA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4VLGOgpCMg5nFFLWo2GoE2qYQlA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/vidOzM55gnI/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/vidOzM55gnI/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vidOzM55gnI",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.14641288433382138,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.2020497803806735,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.2020497803806735,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 193.124,
+        "asr": 44100,
+        "filesize_approx": 16481033,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Conexion punto a punto",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/vidOzM55gnI/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/vidOzM55gnI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Conexion punto a punto\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 115,
+    "transcriptChars": 8192,
+    "segments": [
+      {
+        "text": "como trabajar desde casa con con tapping conexión punto a punto",
+        "startMs": 870,
+        "durationMs": 7300
+      },
+      {
+        "text": "cuando se tiene el sistema punto a punto puede conectarse desde el computador de",
+        "startMs": 8170,
+        "durationMs": 5370
+      },
+      {
+        "text": "su casa al servidor mediante internet y utilizar los propios recursos de cada",
+        "startMs": 13540,
+        "durationMs": 5520
+      },
+      {
+        "text": "equipo cliente o estación para trabajar propiamente en contamine en el equipo",
+        "startMs": 19060,
+        "durationMs": 6300
+      },
+      {
+        "text": "principal que va a ser el servidor se tiene instalado el sistema con está pyme",
+        "startMs": 25360,
+        "durationMs": 5270
+      },
+      {
+        "text": "desde otro u otros equipos que son los clientes u estaciones con sistema",
+        "startMs": 30630,
+        "durationMs": 5440
+      },
+      {
+        "text": "operativo windows también debe tener instalado con está pyme pero cliente en",
+        "startMs": 36070,
+        "durationMs": 6600
+      },
+      {
+        "text": "la misma versión release y actualización del servidor por medio de la ip pública",
+        "startMs": 42670,
+        "durationMs": 6660
+      },
+      {
+        "text": "del equipo servidor podrá conectarse y hacer solicitudes y peticiones al",
+        "startMs": 49330,
+        "durationMs": 5969
+      },
+      {
+        "text": "servidor a diferencia del escritorio remoto esta",
+        "startMs": 55299,
+        "durationMs": 3631
+      },
+      {
+        "text": "opción sólo permite trabajar en conta pyme y no tiene acceso a demás archivos",
+        "startMs": 58930,
+        "durationMs": 5759
+      },
+      {
+        "text": "del equipo servidor pues sólo en cada equipo cliente hay un acceso directo a",
+        "startMs": 64689,
+        "durationMs": 6631
+      },
+      {
+        "text": "con está pyme para trabajar con varios usuarios",
+        "startMs": 71320,
+        "durationMs": 3090
+      },
+      {
+        "text": "mediante la opción punto a punto es necesario tener en cuenta algunos",
+        "startMs": 74410,
+        "durationMs": 4860
+      },
+      {
+        "text": "requisitos y recomendaciones para su óptimo funcionamiento",
+        "startMs": 79270,
+        "durationMs": 4940
+      },
+      {
+        "text": "primero recordemos que en cuanto a características de los computadores cada",
+        "startMs": 84220,
+        "durationMs": 6140
+      },
+      {
+        "text": "equipo va a utilizar sus propios recursos",
+        "startMs": 90360,
+        "durationMs": 2520
+      },
+      {
+        "text": "recursos su procesador su memoria ram su disco",
+        "startMs": 92880,
+        "durationMs": 3630
+      },
+      {
+        "text": "duro por tanto en este caso el servidor sólo responde peticiones de los clientes",
+        "startMs": 96510,
+        "durationMs": 6030
+      },
+      {
+        "text": "pero no va a tener todos los usuarios conectados consumiendo sus mismos",
+        "startMs": 102540,
+        "durationMs": 5100
+      },
+      {
+        "text": "recursos segundo apertura del puerto 30 50 de fibers para establecer una",
+        "startMs": 107640,
+        "durationMs": 7710
+      },
+      {
+        "text": "comunicación con la base de datos almacenada en el servidor y poder",
+        "startMs": 115350,
+        "durationMs": 4259
+      },
+      {
+        "text": "trabajar en conta pyme cómo puedo validar si el puerto 30 50 de",
+        "startMs": 119609,
+        "durationMs": 6111
+      },
+      {
+        "text": "fire está habilitado hay múltiples páginas en internet por donde se puede",
+        "startMs": 125720,
+        "durationMs": 5160
+      },
+      {
+        "text": "consultar sin embargo nosotros recomendamos la página cambio si mi",
+        "startMs": 130880,
+        "durationMs": 5790
+      },
+      {
+        "text": "punto o hereje que me arroja una respuesta si el puerto está o no",
+        "startMs": 136670,
+        "durationMs": 5700
+      },
+      {
+        "text": "habilitado para hacer la consulta del puerto vamos a ir al navegador y en el",
+        "startMs": 142370,
+        "durationMs": 7710
+      },
+      {
+        "text": "buscador vamos a indicar la palabra can you see me",
+        "startMs": 150080,
+        "durationMs": 6370
+      },
+      {
+        "text": "enter y la primera opción que nos arroja vamos a dar clic",
+        "startMs": 156450,
+        "durationMs": 6690
+      },
+      {
+        "text": "la url como tales cambios en mi punto o hereje en este recuadro debemos tener en",
+        "startMs": 163150,
+        "durationMs": 8630
+      },
+      {
+        "text": "cuenta dos cosas la primera es la ip pública del servidor que sería esta en",
+        "startMs": 171780,
+        "durationMs": 7289
+      },
+      {
+        "text": "este caso las 177 puntos 55 punto 233 puntos 60 esa sería mi p pública por",
+        "startMs": 179069,
+        "durationMs": 9121
+      },
+      {
+        "text": "defecto trae configurado el puerto 80 vamos a modificarlo porque requerimos",
+        "startMs": 188190,
+        "durationMs": 5849
+      },
+      {
+        "text": "consultar el puerto 30 50 seguidamente damos clic en check port y tenemos dos",
+        "startMs": 194039,
+        "durationMs": 7410
+      },
+      {
+        "text": "opciones de respuesta en este caso nos está arrojando en color rojo error lo",
+        "startMs": 201449,
+        "durationMs": 6060
+      },
+      {
+        "text": "que indica que para esta ip el puerto 30 50 está cerrado en caso de que el puerto",
+        "startMs": 207509,
+        "durationMs": 6901
+      },
+      {
+        "text": "estuviera abierto me arrojaba en color verde un mensaje de satisfactorio si en",
+        "startMs": 214410,
+        "durationMs": 5879
+      },
+      {
+        "text": "el caso de ustedes el puerto también está cerrado deben comunicarse con el",
+        "startMs": 220289,
+        "durationMs": 5280
+      },
+      {
+        "text": "proveedor de servicios de internet y solicitar la apertura",
+        "startMs": 225569,
+        "durationMs": 3541
+      },
+      {
+        "text": "del puerto 30 50 se recomienda tener presente la ip pública del servidor para",
+        "startMs": 229110,
+        "durationMs": 6479
+      },
+      {
+        "text": "poder establecer conexión desde los equipos cliente tercero velocidad de",
+        "startMs": 235589,
+        "durationMs": 5551
+      },
+      {
+        "text": "internet del equipo servidor y de los equipos clientes hay múltiples páginas",
+        "startMs": 241140,
+        "durationMs": 5490
+      },
+      {
+        "text": "donde se puede realizar un test de velocidad y comprobar el estado de",
+        "startMs": 246630,
+        "durationMs": 4349
+      },
+      {
+        "text": "servicio de internet vamos a ir al buscador",
+        "startMs": 250979,
+        "durationMs": 5301
+      },
+      {
+        "text": "buscador y escribimos en el buscador test de",
+        "startMs": 256280,
+        "durationMs": 3210
+      },
+      {
+        "text": "velocidad de internet enter y podemos utilizar la primera opción que",
+        "startMs": 259490,
+        "durationMs": 6720
+      },
+      {
+        "text": "nos arroja el speed test es una prueba de velocidad confiable vamos a dar clic",
+        "startMs": 266210,
+        "durationMs": 6920
+      },
+      {
+        "text": "nos aparece un botón de inicio le damos click a ese inicio y ya debemos",
+        "startMs": 273130,
+        "durationMs": 8180
+      },
+      {
+        "text": "esperar propiamente los resultados de dicha prueba después de esperar un",
+        "startMs": 281310,
+        "durationMs": 5280
+      },
+      {
+        "text": "momento que cargue pues ya vamos a obtener los resultados nos debemos fijar",
+        "startMs": 286590,
+        "durationMs": 4680
+      },
+      {
+        "text": "en dos valores la velocidad en descarga y la velocidad en carga",
+        "startMs": 291270,
+        "durationMs": 7080
+      },
+      {
+        "text": "si solo se tiene entre 1 y 2 usuarios el equipo servidor como tal debería tener",
+        "startMs": 298350,
+        "durationMs": 5790
+      },
+      {
+        "text": "entre 1.5 y 2 megabits de subida y mínimo 5 megabits de bajada si se tienen",
+        "startMs": 304140,
+        "durationMs": 8039
+      },
+      {
+        "text": "más de 2 usuarios y hasta 56 usuarios pues el servidor debería tener mínimo 3",
+        "startMs": 312179,
+        "durationMs": 6540
+      },
+      {
+        "text": "megabits o más de subida y de bajada unos 10 megabits por segundo ya en la",
+        "startMs": 318719,
+        "durationMs": 5761
+      },
+      {
+        "text": "medida en que se tengan más usuarios pues se debe validar que ésta sea buena",
+        "startMs": 324480,
+        "durationMs": 5130
+      },
+      {
+        "text": "para la conexión hablo de la carga y la descarga en megabits por segundo cuando",
+        "startMs": 329610,
+        "durationMs": 6659
+      },
+      {
+        "text": "se tienen claro los requisitos iniciales y se cumple con todos los puntos se",
+        "startMs": 336269,
+        "durationMs": 5010
+      },
+      {
+        "text": "procede a poner en marcha el funcionamiento de la conexión punto a",
+        "startMs": 341279,
+        "durationMs": 4111
+      },
+      {
+        "text": "punto lo primero que debemos hacer es deshabilitar en el equipo servidor las",
+        "startMs": 345390,
+        "durationMs": 5250
+      },
+      {
+        "text": "opciones de ahorro de energía para garantizar que los equipos no se van a",
+        "startMs": 350640,
+        "durationMs": 4109
+      },
+      {
+        "text": "apagar o se van a suspender o entrar en estado de hibernación debemos recordar",
+        "startMs": 354749,
+        "durationMs": 5460
+      },
+      {
+        "text": "que el equipo servidor siempre deben permanecer prendido",
+        "startMs": 360209,
+        "durationMs": 3821
+      },
+      {
+        "text": "vamos a realizar el proceso de deshabilitar que se suspenda el equipo",
+        "startMs": 364030,
+        "durationMs": 6140
+      },
+      {
+        "text": "ubicados en el escritorio vamos a dar clic derecho",
+        "startMs": 370170,
+        "durationMs": 5240
+      },
+      {
+        "text": "después seleccionamos la opción de configuración de pantalla",
+        "startMs": 375410,
+        "durationMs": 5460
+      },
+      {
+        "text": "seguidamente damos clic en inicio apagado y suspensión y en las opciones",
+        "startMs": 380870,
+        "durationMs": 6730
+      },
+      {
+        "text": "debemos seleccionar nunca en todas estas opciones las vamos a dejar en única que",
+        "startMs": 387600,
+        "durationMs": 6150
+      },
+      {
+        "text": "si deseamos que se suspenda el equipo en cuánto tiempo vamos a dejar nunca que",
+        "startMs": 393750,
+        "durationMs": 3870
+      },
+      {
+        "text": "todas queden con nunca de esta forma vamos a evitar que el equipo se suspenda",
+        "startMs": 397620,
+        "durationMs": 6870
+      },
+      {
+        "text": "en algún momento o entre en estado de hibernación segundo instalar el sistema",
+        "startMs": 404490,
+        "durationMs": 5670
+      },
+      {
+        "text": "con está pyme cliente en los equipos de la casa que se van a conectar al",
+        "startMs": 410160,
+        "durationMs": 4350
+      },
+      {
+        "text": "servidor se debe tener en cuenta que ese sistema debe estar en la misma versión",
+        "startMs": 414510,
+        "durationMs": 5340
+      },
+      {
+        "text": "en el mismo release y la misma actualización del equipo servidor el",
+        "startMs": 419850,
+        "durationMs": 5280
+      },
+      {
+        "text": "instalador de contra pyme clientes lo pueden obtener del portal de clientes",
+        "startMs": 425130,
+        "durationMs": 4580
+      },
+      {
+        "text": "ingresando a con está pyme puntocom ya en esta página seleccionamos la",
+        "startMs": 429710,
+        "durationMs": 6850
+      },
+      {
+        "text": "opción portal clientes ingresan con la cuenta registrada en time soft y ya",
+        "startMs": 436560,
+        "durationMs": 5730
+      },
+      {
+        "text": "estamos en el portal clientes ubicados en el portal clientes damos clic derecho",
+        "startMs": 442290,
+        "durationMs": 5460
+      },
+      {
+        "text": "sobre la parte izquierda sobre instaladores recuerden que el equipo",
+        "startMs": 447750,
+        "durationMs": 5820
+      },
+      {
+        "text": "cliente debe tener la misma actualización la misma versión y el",
+        "startMs": 453570,
+        "durationMs": 3870
+      },
+      {
+        "text": "mismo release que esté en el servidor si tienen la última les debe aparecer en",
+        "startMs": 457440,
+        "durationMs": 5160
+      },
+      {
+        "text": "esta opción de instaladores y solamente deben descargar con está pyme cliente si",
+        "startMs": 462600,
+        "durationMs": 4830
+      },
+      {
+        "text": "tiene una actualización anterior pueden ir",
+        "startMs": 467430,
+        "durationMs": 4080
+      },
+      {
+        "text": "ir por versiones anteriores",
+        "startMs": 471510,
+        "durationMs": 3559
+      },
+      {
+        "text": "seleccionan clientes seleccionan en release correspondiente",
+        "startMs": 475069,
+        "durationMs": 6711
+      },
+      {
+        "text": "y ya van a tener acceso a todas las actualizaciones de con está pyme cliente",
+        "startMs": 481780,
+        "durationMs": 6480
+      },
+      {
+        "text": "la última que tenemos en la 64 de ahí hacia atrás puede seleccionar la que",
+        "startMs": 488260,
+        "durationMs": 6150
+      },
+      {
+        "text": "usted requiera basta con darle click y empieza la",
+        "startMs": 494410,
+        "durationMs": 4929
+      },
+      {
+        "text": "descarga cuando termina la descarga del instalador vamos a dar clic",
+        "startMs": 499339,
+        "durationMs": 7091
+      },
+      {
+        "text": "nos aparece la ventana de instalación vamos a esperar la carga",
+        "startMs": 506440,
+        "durationMs": 6900
+      },
+      {
+        "text": "s bienvenidos a conta pyme vamos a dar clic en siguiente aparece el acuerdo de",
+        "startMs": 513350,
+        "durationMs": 6350
+      },
+      {
+        "text": "licenciamiento entre un soft y el cliente se aceptan los términos dan clic",
+        "startMs": 519700,
+        "durationMs": 4890
+      },
+      {
+        "text": "acá y luego en siguiente la ruta donde va a quedar almacenado el",
+        "startMs": 524590,
+        "durationMs": 6040
+      },
+      {
+        "text": "instalador por defecto se almacena en su programa file x86 en una carpeta que se",
+        "startMs": 530630,
+        "durationMs": 6210
+      },
+      {
+        "text": "llama in soft vamos a dejarla en la ruta por defecto siguiente y finalmente",
+        "startMs": 536840,
+        "durationMs": 5480
+      },
+      {
+        "text": "instalar la instalación es supremamente sencilla",
+        "startMs": 542320,
+        "durationMs": 7310
+      },
+      {
+        "text": "y en este momento aparece la ventana de finalización de la instalación de contar",
+        "startMs": 549640,
+        "durationMs": 6320
+      },
+      {
+        "text": "pyme podemos ejecutar el programa inmediatamente dejando el check activado",
+        "startMs": 555960,
+        "durationMs": 6210
+      },
+      {
+        "text": "y dar clic en finalizar esto lo que hace es abrirme el acceso directo",
+        "startMs": 562170,
+        "durationMs": 5280
+      },
+      {
+        "text": "inmediatamente tercero abrir el sistema con está pyme que ya debe tener el",
+        "startMs": 567450,
+        "durationMs": 6270
+      },
+      {
+        "text": "acceso directo en el escritorio y conectarse con la ip pública del",
+        "startMs": 573720,
+        "durationMs": 4170
+      },
+      {
+        "text": "servidor recordemos que anteriormente visitamos una página que fue",
+        "startMs": 577890,
+        "durationMs": 6800
+      },
+      {
+        "text": "www.yuzz.org para consultarse un puerto estado habilitado y allí también pudimos",
+        "startMs": 584690,
+        "durationMs": 5830
+      },
+      {
+        "text": "evidenciar cuál era la ip del servidor esa la ip que nos va a servir para",
+        "startMs": 590520,
+        "durationMs": 4770
+      },
+      {
+        "text": "establecer conexión desde los equipos clientes al servidor vamos entonces al",
+        "startMs": 595290,
+        "durationMs": 12540
+      },
+      {
+        "text": "con está pyme ya nos va a aparecer el icono directo la aplicación y damos clic",
+        "startMs": 607840,
+        "durationMs": 6200
+      },
+      {
+        "text": "en esa aplicación lo primero que nos pide es el servidor de datos",
+        "startMs": 614040,
+        "durationMs": 6209
+      },
+      {
+        "text": "acá es donde debemos indicar la ip pública del servidor que anteriormente",
+        "startMs": 620249,
+        "durationMs": 5820
+      },
+      {
+        "text": "consultamos por la pagina www.cas.org esa la ip que debemos indicar en",
+        "startMs": 626069,
+        "durationMs": 8670
+      },
+      {
+        "text": "servidor de datos que en nuestro caso era la ip",
+        "startMs": 634739,
+        "durationMs": 6721
+      },
+      {
+        "text": "habíamos consultado anteriormente 177.2 55.2 33 puntos 60 esa es la que se debe",
+        "startMs": 641460,
+        "durationMs": 13710
+      },
+      {
+        "text": "indicar acá cuando el puerto se encuentra habilitado basta con dar clic",
+        "startMs": 655170,
+        "durationMs": 5760
+      },
+      {
+        "text": "en conectar y solamente el sistema nos pediría dos datos adicionales cuarto",
+        "startMs": 660930,
+        "durationMs": 6900
+      },
+      {
+        "text": "indicar un usuario y contraseña de contra pyme y ya podrán trabajar en el",
+        "startMs": 667830,
+        "durationMs": 5340
+      },
+      {
+        "text": "sistema sin ningún problema esto es todo acerca de conexión punto a",
+        "startMs": 673170,
+        "durationMs": 9120
+      }
+    ],
+    "plainText": "## Descripción del video\n\nConexión punto a punto cliente - servidor\n\n## Transcripción\n\ncomo trabajar desde casa con con tapping conexión punto a punto\ncuando se tiene el sistema punto a punto puede conectarse desde el computador de\nsu casa al servidor mediante internet y utilizar los propios recursos de cada\nequipo cliente o estación para trabajar propiamente en contamine en el equipo\nprincipal que va a ser el servidor se tiene instalado el sistema con está pyme\ndesde otro u otros equipos que son los clientes u estaciones con sistema\noperativo windows también debe tener instalado con está pyme pero cliente en\nla misma versión release y actualización del servidor por medio de la ip pública\ndel equipo servidor podrá conectarse y hacer solicitudes y peticiones al\nservidor a diferencia del escritorio remoto esta\nopción sólo permite trabajar en conta pyme y no tiene acceso a demás archivos\ndel equipo servidor pues sólo en cada equipo cliente hay un acceso directo a\ncon está pyme para trabajar con varios usuarios\nmediante la opción punto a punto es necesario tener en cuenta algunos\nrequisitos y recomendaciones para su óptimo funcionamiento\nprimero recordemos que en cuanto a características de los computadores cada\nequipo va a utilizar sus propios recursos\nrecursos su procesador su memoria ram su disco\nduro por tanto en este caso el servidor sólo responde peticiones de los clientes\npero no va a tener todos los usuarios conectados consumiendo sus mismos\nrecursos segundo apertura del puerto 30 50 de fibers para establecer una\ncomunicación con la base de datos almacenada en el servidor y poder\ntrabajar en conta pyme cómo puedo validar si el puerto 30 50 de\nfire está habilitado hay múltiples páginas en internet por donde se puede\nconsultar sin embargo nosotros recomendamos la página cambio si mi\npunto o hereje que me arroja una respuesta si el puerto está o no\nhabilitado para hacer la consulta del puerto vamos a ir al navegador y en el\nbuscador vamos a indicar la palabra can you see me\nenter y la primera opción que nos arroja vamos a dar clic\nla url como tales cambios en mi punto o hereje en este recuadro debemos tener en\ncuenta dos cosas la primera es la ip pública del servidor que sería esta en\neste caso las 177 puntos 55 punto 233 puntos 60 esa sería mi p pública por\ndefecto trae configurado el puerto 80 vamos a modificarlo porque requerimos\nconsultar el puerto 30 50 seguidamente damos clic en check port y tenemos dos\nopciones de respuesta en este caso nos está arrojando en color rojo error lo\nque indica que para esta ip el puerto 30 50 está cerrado en caso de que el puerto\nestuviera abierto me arrojaba en color verde un mensaje de satisfactorio si en\nel caso de ustedes el puerto también está cerrado deben comunicarse con el\nproveedor de servicios de internet y solicitar la apertura\ndel puerto 30 50 se recomienda tener presente la ip pública del servidor para\npoder establecer conexión desde los equipos cliente tercero velocidad de\ninternet del equipo servidor y de los equipos clientes hay múltiples páginas\ndonde se puede realizar un test de velocidad y comprobar el estado de\nservicio de internet vamos a ir al buscador\nbuscador y escribimos en el buscador test de\nvelocidad de internet enter y podemos utilizar la primera opción que\nnos arroja el speed test es una prueba de velocidad confiable vamos a dar clic\nnos aparece un botón de inicio le damos click a ese inicio y ya debemos\nesperar propiamente los resultados de dicha prueba después de esperar un\nmomento que cargue pues ya vamos a obtener los resultados nos debemos fijar\nen dos valores la velocidad en descarga y la velocidad en carga\nsi solo se tiene entre 1 y 2 usuarios el equipo servidor como tal debería tener\nentre 1.5 y 2 megabits de subida y mínimo 5 megabits de bajada si se tienen\nmás de 2 usuarios y hasta 56 usuarios pues el servidor debería tener mínimo 3\nmegabits o más de subida y de bajada unos 10 megabits por segundo ya en la\nmedida en que se tengan más usuarios pues se debe validar que ésta sea buena\npara la conexión hablo de la carga y la descarga en megabits por segundo cuando\nse tienen claro los requisitos iniciales y se cumple con todos los puntos se\nprocede a poner en marcha el funcionamiento de la conexión punto a\npunto lo primero que debemos hacer es deshabilitar en el equipo servidor las\nopciones de ahorro de energía para garantizar que los equipos no se van a\napagar o se van a suspender o entrar en estado de hibernación debemos recordar\nque el equipo servidor siempre deben permanecer prendido\nvamos a realizar el proceso de deshabilitar que se suspenda el equipo\nubicados en el escritorio vamos a dar clic derecho\ndespués seleccionamos la opción de configuración de pantalla\nseguidamente damos clic en inicio apagado y suspensión y en las opciones\ndebemos seleccionar nunca en todas estas opciones las vamos a dejar en única que\nsi deseamos que se suspenda el equipo en cuánto tiempo vamos a dejar nunca que\ntodas queden con nunca de esta forma vamos a evitar que el equipo se suspenda\nen algún momento o entre en estado de hibernación segundo instalar el sistema\ncon está pyme cliente en los equipos de la casa que se van a conectar al\nservidor se debe tener en cuenta que ese sistema debe estar en la misma versión\nen el mismo release y la misma actualización del equipo servidor el\ninstalador de contra pyme clientes lo pueden obtener del portal de clientes\ningresando a con está pyme puntocom ya en esta página seleccionamos la\nopción portal clientes ingresan con la cuenta registrada en time soft y ya\nestamos en el portal clientes ubicados en el portal clientes damos clic derecho\nsobre la parte izquierda sobre instaladores recuerden que el equipo\ncliente debe tener la misma actualización la misma versión y el\nmismo release que esté en el servidor si tienen la última les debe aparecer en\nesta opción de instaladores y solamente deben descargar con está pyme cliente si\ntiene una actualización anterior pueden ir\nir por versiones anteriores\nseleccionan clientes seleccionan en release correspondiente\ny ya van a tener acceso a todas las actualizaciones de con está pyme cliente\nla última que tenemos en la 64 de ahí hacia atrás puede seleccionar la que\nusted requiera basta con darle click y empieza la\ndescarga cuando termina la descarga del instalador vamos a dar clic\nnos aparece la ventana de instalación vamos a esperar la carga\ns bienvenidos a conta pyme vamos a dar clic en siguiente aparece el acuerdo de\nlicenciamiento entre un soft y el cliente se aceptan los términos dan clic\nacá y luego en siguiente la ruta donde va a quedar almacenado el\ninstalador por defecto se almacena en su programa file x86 en una carpeta que se\nllama in soft vamos a dejarla en la ruta por defecto siguiente y finalmente\ninstalar la instalación es supremamente sencilla\ny en este momento aparece la ventana de finalización de la instalación de contar\npyme podemos ejecutar el programa inmediatamente dejando el check activado\ny dar clic en finalizar esto lo que hace es abrirme el acceso directo\ninmediatamente tercero abrir el sistema con está pyme que ya debe tener el\nacceso directo en el escritorio y conectarse con la ip pública del\nservidor recordemos que anteriormente visitamos una página que fue\nwww.yuzz.org para consultarse un puerto estado habilitado y allí también pudimos\nevidenciar cuál era la ip del servidor esa la ip que nos va a servir para\nestablecer conexión desde los equipos clientes al servidor vamos entonces al\ncon está pyme ya nos va a aparecer el icono directo la aplicación y damos clic\nen esa aplicación lo primero que nos pide es el servidor de datos\nacá es donde debemos indicar la ip pública del servidor que anteriormente\nconsultamos por la pagina www.cas.org esa la ip que debemos indicar en\nservidor de datos que en nuestro caso era la ip\nhabíamos consultado anteriormente 177.2 55.2 33 puntos 60 esa es la que se debe\nindicar acá cuando el puerto se encuentra habilitado basta con dar clic\nen conectar y solamente el sistema nos pediría dos datos adicionales cuarto\nindicar un usuario y contraseña de contra pyme y ya podrán trabajar en el\nsistema sin ningún problema esto es todo acerca de conexión punto a"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 193.124,
+    "asr": 44100,
+    "filesizeApprox": 16481033,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/vidOzM55gnI.md",
+    "json": "videos/2020/vidOzM55gnI.json",
+    "infoJson": "videos/2020/vidOzM55gnI.info.json"
+  }
+}

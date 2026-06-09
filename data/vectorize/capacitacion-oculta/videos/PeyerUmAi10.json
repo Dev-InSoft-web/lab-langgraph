@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:29:40.567Z",
+  "videoId": "PeyerUmAi10",
+  "videoUrl": "https://www.youtube.com/watch?v=PeyerUmAi10",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "PeyerUmAi10",
+    "title": "Software contable ContaPyme - Ej facturación a cliente con dto por porcentaje fijo",
+    "fulltitle": "Software contable ContaPyme - Ej facturación a cliente con dto por porcentaje fijo",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme presenta un ejemplo de facturación, en donde se registra la venta a un cliente que pertenece al perfil de clientes mayoristas, el cual tiene un descuento en ventas del 20%. \nCP40-140-090-010B-060M",
+    "duration": 214,
+    "duration_string": "3:34",
+    "upload_date": "20120503",
+    "timestamp": 1336063221,
+    "view_count": 166,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/PeyerUmAi10/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgUyh_MA8=&rs=AOn4CLD0tTpRRX-2pdBa1zIPE2iu-2RCsQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARg1IFMofzAP&rs=AOn4CLA2Pq6KAeVTXmRuKV0LVuGq59WXpQ",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgUyh_MA8=&rs=AOn4CLA9ymDpHzQIZV1GigV2FGPjmPbgJQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDUgUyh_MA8=&rs=AOn4CLBu0SOUqrLPprl59AqR58oO4kT34w",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGDUgUyh_MA8=&rs=AOn4CLBlvcY5y3pn1_YNnWDnXIWDuP8MfQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARg1IFMofzAP&rs=AOn4CLDa5GXLP6AozGcPyWByLwNmpRN5NQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARg1IFMofzAP&rs=AOn4CLB3ygjRPlCoeDtSK35gkB0xsi6Dpg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgUyh_MA8=&rs=AOn4CLCtfzxTR2k26ViApb4S-v-y539IvQ",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGDUgUyh_MA8=&rs=AOn4CLD0tTpRRX-2pdBa1zIPE2iu-2RCsQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/PeyerUmAi10/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/PeyerUmAi10/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=PeyerUmAi10",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.4672897196261682,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.5046728971962616,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.5046728971962616,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.5046728971962616,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 215.193,
+        "asr": 44100,
+        "filesize_approx": 5755013,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Ej facturación a cliente con dto por porcentaje fijo",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/PeyerUmAi10/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/PeyerUmAi10?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Ej facturación a cliente con dto por porcentaje fijo\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 30,
+    "transcriptChars": 2178,
+    "segments": [
+      {
+        "text": "ejemplo de facturación a cliente con descuento por porcentaje",
+        "startMs": 680,
+        "durationMs": 5669
+      },
+      {
+        "text": "fijo antes de visualizar este video se recomienda haber visto el video",
+        "startMs": 6349,
+        "durationMs": 5320
+      },
+      {
+        "text": "configuración de perfil con descuento por porcentaje",
+        "startMs": 11669,
+        "durationMs": 5081
+      },
+      {
+        "text": "fijo vamos a realizar un ejemplo de facturación en donde vamos a registrar",
+        "startMs": 16750,
+        "durationMs": 6200
+      },
+      {
+        "text": "la venta a un cliente que pertenece al perfil de clientes mayoristas el cual",
+        "startMs": 22950,
+        "durationMs": 6040
+      },
+      {
+        "text": "tiene un descuento en ventas del 20% ubicados en el manejador de",
+        "startMs": 28990,
+        "durationMs": 7320
+      },
+      {
+        "text": "operaciones seleccionamos facturación y",
+        "startMs": 36310,
+        "durationMs": 3040
+      },
+      {
+        "text": "ventas y nos abre el asistente para registrar la operación es importante",
+        "startMs": 39350,
+        "durationMs": 6600
+      },
+      {
+        "text": "mencionar que el objetivo de este video no es definir cada uno de los campos de",
+        "startMs": 45950,
+        "durationMs": 5279
+      },
+      {
+        "text": "la operación ya que dichos conceptos se debieron haber estudiado con",
+        "startMs": 51229,
+        "durationMs": 4960
+      },
+      {
+        "text": "anterioridad en el video operación de facturación y",
+        "startMs": 56189,
+        "durationMs": 15161
+      },
+      {
+        "text": "operación indicamos el cliente en este caso el señor Humberto",
+        "startMs": 71360,
+        "durationMs": 7230
+      },
+      {
+        "startMs": 78600,
+        "durationMs": 5430,
+        "text": "giraldo seleccionamos el"
+      },
+      {
+        "text": "producto en este caso un monitor de 15 pulgadas",
+        "startMs": 84040,
+        "durationMs": 7069
+      },
+      {
+        "text": "y podemos visualizar que el sistema cargó",
+        "startMs": 91119,
+        "durationMs": 3950
+      },
+      {
+        "text": "cargó automáticamente el porcentaje de",
+        "startMs": 95069,
+        "durationMs": 2360
+      },
+      {
+        "text": "descuento del 20% que es el que tenemos configurado en el perfil de clientes",
+        "startMs": 97429,
+        "durationMs": 12040
+      },
+      {
+        "startMs": 109479,
+        "durationMs": 10590,
+        "text": "cantidad indicamos otro producto"
+      },
+      {
+        "text": "y podemos visualizar que también cargó automáticamente el porcentaje de",
+        "startMs": 120079,
+        "durationMs": 5630
+      },
+      {
+        "text": "descuento del 20% ya que recordemos que cuando se",
+        "startMs": 125709,
+        "durationMs": 4600
+      },
+      {
+        "text": "configura en el perfil de clientes el descuento en ventas por porcentaje fijo",
+        "startMs": 130309,
+        "durationMs": 6481
+      },
+      {
+        "text": "este descuento aplica a cada producto vendido antes de impuestos indicamos la",
+        "startMs": 136790,
+        "durationMs": 8920
+      },
+      {
+        "text": "cantidad en la parte inferior de la operación el sistema nos indica el valor",
+        "startMs": 145720,
+        "durationMs": 5869
+      },
+      {
+        "text": "parcial antes del IVA y de los descuentos nos indica el valor total del",
+        "startMs": 151589,
+        "durationMs": 6881
+      },
+      {
+        "text": "descuento el valor del IVA y el valor total de la venta damos",
+        "startMs": 158470,
+        "durationMs": 7640
+      },
+      {
+        "text": "siguiente podemos visualizar el IVA en forma de pago vamos a indicar que es AC",
+        "startMs": 166110,
+        "durationMs": 10240
+      },
+      {
+        "text": "crédito vamos a visualizar cómo nos quedará impresa",
+        "startMs": 176360,
+        "durationMs": 10630
+      },
+      {
+        "text": "venta podemos observar que nos indica el porcentaje de descuento por cada",
+        "startMs": 187000,
+        "durationMs": 10670
+      },
+      {
+        "text": "producto cerramos y damos aceptar para guardar la",
+        "startMs": 197670,
+        "durationMs": 7199
+      },
+      {
+        "text": "operación esto es todo sobre ejemplo de facturación a cliente con descuento por",
+        "startMs": 204879,
+        "durationMs": 10681
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme presenta un ejemplo de facturación, en donde se registra la venta a un cliente que pertenece al perfil de clientes mayoristas, el cual tiene un descuento en ventas del 20%. \nCP40-140-090-010B-060M\n\n## Transcripción\n\nejemplo de facturación a cliente con descuento por porcentaje\nfijo antes de visualizar este video se recomienda haber visto el video\nconfiguración de perfil con descuento por porcentaje\nfijo vamos a realizar un ejemplo de facturación en donde vamos a registrar\nla venta a un cliente que pertenece al perfil de clientes mayoristas el cual\ntiene un descuento en ventas del 20% ubicados en el manejador de\noperaciones seleccionamos facturación y\nventas y nos abre el asistente para registrar la operación es importante\nmencionar que el objetivo de este video no es definir cada uno de los campos de\nla operación ya que dichos conceptos se debieron haber estudiado con\nanterioridad en el video operación de facturación y\noperación indicamos el cliente en este caso el señor Humberto\ngiraldo seleccionamos el\nproducto en este caso un monitor de 15 pulgadas\ny podemos visualizar que el sistema cargó\ncargó automáticamente el porcentaje de\ndescuento del 20% que es el que tenemos configurado en el perfil de clientes\ncantidad indicamos otro producto\ny podemos visualizar que también cargó automáticamente el porcentaje de\ndescuento del 20% ya que recordemos que cuando se\nconfigura en el perfil de clientes el descuento en ventas por porcentaje fijo\neste descuento aplica a cada producto vendido antes de impuestos indicamos la\ncantidad en la parte inferior de la operación el sistema nos indica el valor\nparcial antes del IVA y de los descuentos nos indica el valor total del\ndescuento el valor del IVA y el valor total de la venta damos\nsiguiente podemos visualizar el IVA en forma de pago vamos a indicar que es AC\ncrédito vamos a visualizar cómo nos quedará impresa\nventa podemos observar que nos indica el porcentaje de descuento por cada\nproducto cerramos y damos aceptar para guardar la\noperación esto es todo sobre ejemplo de facturación a cliente con descuento por"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 215.193,
+    "asr": 44100,
+    "filesizeApprox": 5755013,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/PeyerUmAi10.md",
+    "json": "videos/2012/PeyerUmAi10.json",
+    "infoJson": "videos/2012/PeyerUmAi10.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "PeyerUmAi10",
+        "youtubeId": "PeyerUmAi10",
+        "titulo": "PeyerUmAi10",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

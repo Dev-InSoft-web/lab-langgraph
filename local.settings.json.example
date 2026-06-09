@@ -10,9 +10,8 @@
     "LAB_JWT_SECRET": "cambiar-en-produccion-min-32-chars",
     "LAB_AUTH_REQUIRED": "true",
 
-    "PATY_DATABASE_URL": "postgresql://USER:PASS@HOST/langlab",
+    "LANGLAB_DATABASE_URL": "postgresql://USER:PASS@HOST/langlab",
     "CLIENTESIS_DATABASE_URL": "postgresql://USER:PASS@HOST/clientesis_lab",
-    "DATABASE_URL": "postgresql://USER:PASS@HOST/langlab",
     "RAG_DATABASE_URL": "postgresql://USER:PASS@HOST/rag_5hen",
 
     "CLIENTESIS_MSSQL_HOST": "mssql2.insoft.co",
@@ -28,6 +27,8 @@
     "PATY_MSSQL_DB": "AYUDASCP_IA_STAGING",
 
     "GROQ_API_KEY": "",
+    "GROQ_API_KEY_2": "",
+    "GROQ_WHISPER_API_KEY": "",
     "HUGGINGFACE_API_KEY": "",
     "OPENAI_API_KEY": ""
   }

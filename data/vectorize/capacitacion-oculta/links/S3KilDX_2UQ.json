@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "S3KilDX_2UQ",
+  "youtubeId": "S3KilDX_2UQ",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:28:42.994Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2012/S3KilDX_2UQ.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "S3KilDX_2UQ",
+      "youtubeId": "S3KilDX_2UQ",
+      "titulo": "S3KilDX_2UQ",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

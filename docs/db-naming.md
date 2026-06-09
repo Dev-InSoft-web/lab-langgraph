@@ -4,47 +4,46 @@
 
 | Esquema PG | Dominio |
 | --- | --- |
-| `BD_PATY` | PatyIA operacional (conversaciones, prompts) |
-| `BD_LAB` | Catálogo, entity store, orquestador, revisado, auth |
+| `BD_LANGLAB` | Todo el ops LangLab: conversación, prompts, entity store ISA-DOC, orquestador, auth |
 | `BD_CLIENTESIS` | Entity store ClientesIS |
 | `BD_RAG` | Vectores RAG |
 
-En PostgreSQL: `"BD_LAB"."ENTITY_ENTITYROW"`.
+En PostgreSQL: `"BD_LAB"."ENTITY_ROW"`.
 
 **No** deben coexistir esquemas legacy (`paty`, `lab`, `clientesis`, `bd_*`). Tras migrar:
 
 ```bash
-npm run db:migrate-nomenclature    # bd_* → BD_* (si aplica)
-npm run db:migrate-entity-domain   # PATY_/LAB_/… → prefijo entidad
+npm run db:apply-pg-ops              # incluye renombres en 002_patyia.sql
+npm run db:migrate-simplify-names    # alternativa manual idempotente
 ```
 
-## Tablas — prefijo de **entidad**, no del esquema
+## Tablas — dominio + sufijo solo si hay varias tablas del dominio
 
-El prefijo refleja el dominio de la entidad principal, **no** el esquema (`BD_PATY`, `BD_LAB`).
+Sin duplicar el dominio (`CONVERSACION`, no `CONVERSACION_CONVERSACION`).
 
-| Antes (incorrecto) | Correcto | Esquema |
+| Legacy | Canónico | Esquema |
 | --- | --- | --- |
-| `PATY_CONVERSACION` | `CONVERSACION_CONVERSACION` | `BD_PATY` |
-| `PATY_CONVERSACIONTURNO` | `CONVERSACION_CONVERSACIONTURNO` | `BD_PATY` |
-| `PATY_CONVERSACIONTURNOLOCK` | `CONVERSACION_CONVERSACIONTURNOLOCK` | `BD_PATY` |
-| `PATY_INSTRUCCION` | `INSTRUCCION_INSTRUCCION` | `BD_PATY` |
-| `PATY_TDCONSULTA` | `TDCONSULTA_TDCONSULTA` | `BD_PATY` |
-| `LAB_ENTITYROW` | `ENTITY_ENTITYROW` | `BD_LAB` |
-| `LAB_ENTITYDEFINITION` | `ENTITY_ENTITYDEFINITION` | `BD_LAB` |
-| `LAB_AUTHUSER` | `AUTH_AUTHUSER` | `BD_LAB` |
-| `CIS_ENTITYROW` | `ENTITY_ENTITYROW` | `BD_CLIENTESIS` |
+| `paty_conversacion` / `PATY_CONVERSACION` | `CONVERSACION` | `BD_LANGLAB` |
+| `paty_conversacion_turno` | `CONVERSACION_TURNO` | `BD_LANGLAB` |
+| `paty_conversacion_turno_lock` | `CONVERSACION_TURNOLOCK` | `BD_LANGLAB` |
+| `paty_instruccion` | `INSTRUCCION` | `BD_LANGLAB` |
+| `paty_tdconsulta` | `TDCONSULTA` | `BD_LANGLAB` |
+| `lab_entity_row` | `ENTITY_ROW` | `BD_LAB` |
+| `lab_entity_definition` | `ENTITY_DEFINITION` | `BD_LAB` |
+| `lab_auth_user` | `AUTH_USER` | `BD_LAB` |
+| `cis_entity_row` | `ENTITY_ROW` | `BD_CLIENTESIS` |
 
 ### Tickets (sin tabla `TICKET_*`)
 
 Los tickets viven en el **entity store** genérico:
 
-- Tabla: `BD_LAB.ENTITY_ENTITYROW`
+- Tabla: `BD_LAB.ENTITY_ROW`
 - Ruta: `project=isa-doc`, `page=tickets`, `entity=ticket`
-- Catálogo: `BD_LAB.ENTITY_ENTITYDEFINITION` (seed `009_seed_entity_definitions.sql`)
+- Catálogo: `BD_LAB.ENTITY_DEFINITION` (seed `009_seed_entity_definitions.sql`)
 - PK en JSON: `ITICKET`
 
 ```bash
-npm run tickets:migrate-store   # staticRegistry → ENTITY_ENTITYROW
+npm run tickets:migrate-store   # staticRegistry → ENTITY_ROW
 npm run catalog:sql:gen         # regenerar seed definiciones
 ```
 
@@ -56,9 +55,9 @@ npm run catalog:sql:gen         # regenerar seed definiciones
 
 ## TypeScript
 
-- `src/lib/db/pg-identifiers.ts` — constantes canónicas (`T_CONVERSACION_*`, `T_ENTITY_*`, …).
-- Alias legacy: `Q_PATY_*`, `Q_LAB_*` apuntan a los nombres nuevos.
-- `src/lib/db/entity-domain-rename-map.ts` — mapa de migración PG.
+- `src/lib/db/pg-identifiers.ts` — constantes canónicas (`T_CONVERSACION`, `T_CONVERSACION_TURNO`, `T_ENTITY_ROW`, …).
+- Alias legacy: `Q_PATY_*`, `Q_LAB_*` apuntan a los nombres canónicos.
+- `src/lib/db/simplify-table-rename-map.ts` — mapa de migración PG.
 
 ## Comandos
 

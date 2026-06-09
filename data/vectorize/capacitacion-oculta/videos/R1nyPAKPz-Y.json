@@ -1,0 +1,904 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:35:01.455Z",
+  "videoId": "R1nyPAKPz-Y",
+  "videoUrl": "https://www.youtube.com/watch?v=R1nyPAKPz-Y",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "R1nyPAKPz-Y",
+    "title": "Software de contabilidad ContaPyme - Ej 2 ingresos recibidos por anticipado",
+    "fulltitle": "Software de contabilidad ContaPyme - Ej 2 ingresos recibidos por anticipado",
+    "description": "http://www.contapyme.com\nEste video de el software contable ContaPyme le indica al usuario con el ejemplo \"Alquiner de oficina\" diferida a 6 meses, el uso y registro de la operación Ingresos recibidos por anticipado en el sistema.\nCP40-090-028-030B-020M",
+    "duration": 534,
+    "duration_string": "8:54",
+    "upload_date": "20120123",
+    "timestamp": 1327344924,
+    "view_count": 408,
+    "like_count": 1,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/R1nyPAKPz-Y/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCkgSyh_MA8=&rs=AOn4CLAaV8pzi_qhOHUr6Mm8cT0jm4hcAQ",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARgpIEsofzAP&rs=AOn4CLBwFQcZu_66rJYRcpT6BDUXbBbJHw",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCkgSyh_MA8=&rs=AOn4CLBUpGoA-q68V05uz9rIyBwQuPESMQ",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCkgSyh_MA8=&rs=AOn4CLDPyiO86LtaFrLEsq1NsophJgd8Zg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGCkgSyh_MA8=&rs=AOn4CLDwFEx10FAYO60zxG6k913URw3Zqw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgpIEsofzAP&rs=AOn4CLBuN-G_u7EylDnHp4uDst6R65vv7Q",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgpIEsofzAP&rs=AOn4CLC6NJOJRuwQEBqo58Yp8O6pBc0pHg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCkgSyh_MA8=&rs=AOn4CLCFMEL-9v81go0xzQtoNym8nxDgjQ",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGCkgSyh_MA8=&rs=AOn4CLAaV8pzi_qhOHUr6Mm8cT0jm4hcAQ",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/R1nyPAKPz-Y/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=R1nyPAKPz-Y",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.18726591760299627,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20224719101123595,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20224719101123595,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20224719101123595,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 204.503,
+        "asr": 44100,
+        "filesize_approx": 13662743,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software de contabilidad ContaPyme - Ej 2 ingresos recibidos por anticipado",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/R1nyPAKPz-Y/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/R1nyPAKPz-Y?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software de contabilidad ContaPyme - Ej 2 ingresos recibidos por anticipado\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 90,
+    "transcriptChars": 5880,
+    "segments": [
+      {
+        "text": "anticipado en este ejemplo realizaremos mediante la operación de ingresos",
+        "startMs": 5919,
+        "durationMs": 5231
+      },
+      {
+        "text": "recibidos por anticipado el alquiler de una oficina que posee Nuestra Empresa a",
+        "startMs": 359,
+        "durationMs": 16471
+      },
+      {
+        "text": "la compañía ingeniería y Asociados por un periodo de 6",
+        "startMs": 16830,
+        "durationMs": 5279
+      },
+      {
+        "text": "meses por lo tanto ubicados en el manejador de operaciones ingresaremos a",
+        "startMs": 22109,
+        "durationMs": 6121
+      },
+      {
+        "text": "través del botón más operaciones ingresos y gastos donde seleccionaremos",
+        "startMs": 28230,
+        "durationMs": 5720
+      },
+      {
+        "text": "la opción de ingresos recibidos por anticipado como podemos visualizar el",
+        "startMs": 33950,
+        "durationMs": 7480
+      },
+      {
+        "text": "sistema nos ha abierto la operación para registrar la",
+        "startMs": 41430,
+        "durationMs": 5119
+      },
+      {
+        "text": "transacción para registrar el alquiler de la oficina en el ejemplo lo",
+        "startMs": 46549,
+        "durationMs": 5320
+      },
+      {
+        "text": "soportaremos en un comprobante de ingreso para ello en el campo tipo",
+        "startMs": 51869,
+        "durationMs": 5200
+      },
+      {
+        "text": "documento mediante el botón de búsqueda podemos seleccionar de la lista el",
+        "startMs": 57069,
+        "durationMs": 6241
+      },
+      {
+        "text": "documento requerido en este caso el comprobante de",
+        "startMs": 63310,
+        "durationMs": 3560
+      },
+      {
+        "text": "ingreso es el documento predeterminado de esta operación por lo que el sistema",
+        "startMs": 66870,
+        "durationMs": 5200
+      },
+      {
+        "text": "nos indica que el comprobante a registrar corresponderá el comprobante",
+        "startMs": 72070,
+        "durationMs": 4880
+      },
+      {
+        "text": "de ingreso número 15 en el detalle de la operación",
+        "startMs": 76950,
+        "durationMs": 6280
+      },
+      {
+        "text": "especificaremos una observación de la transacción Así que registraremos",
+        "startMs": 83230,
+        "durationMs": 10800
+      },
+      {
+        "startMs": 94040,
+        "durationMs": 2870,
+        "text": "por 6"
+      },
+      {
+        "text": "meses este alquiler se realizó el 9 de septiembre por lo que modificaremos la",
+        "startMs": 96920,
+        "durationMs": 6270
+      },
+      {
+        "text": "fecha de soporte de la operación en el campo recibido de",
+        "startMs": 103190,
+        "durationMs": 7000
+      },
+      {
+        "text": "indicaremos el tercero al cual estamos alquilando la",
+        "startMs": 110190,
+        "durationMs": 5400
+      },
+      {
+        "text": "oficina por lo que seleccionaremos ingeniería y",
+        "startMs": 115590,
+        "durationMs": 8119
+      },
+      {
+        "text": "seleccionar en el código de diferido especificaremos el código número tres",
+        "startMs": 123719,
+        "durationMs": 7351
+      },
+      {
+        "text": "código con el que se creará y se identificará el diferido del alquiler de",
+        "startMs": 131070,
+        "durationMs": 6120
+      },
+      {
+        "text": "la oficina es importante tener en cuenta",
+        "startMs": 137190,
+        "durationMs": 3280
+      },
+      {
+        "text": "que en este campo el sistema automáticamente nos asigna el código",
+        "startMs": 140470,
+        "durationMs": 5320
+      },
+      {
+        "text": "consecutivo disponible para el diferido como podemos apreciar en este",
+        "startMs": 145790,
+        "durationMs": 6200
+      },
+      {
+        "text": "ejemplo el sistema nos ha sugerido el código tres lo que indica que la empresa",
+        "startMs": 151990,
+        "durationMs": 5959
+      },
+      {
+        "text": "ya ha registrado en fechas anteriores dos",
+        "startMs": 157949,
+        "durationMs": 3521
+      },
+      {
+        "text": "dos diferidos en el nombre diferido digitar",
+        "startMs": 161470,
+        "durationMs": 8399
+      },
+      {
+        "startMs": 169879,
+        "durationMs": 3951,
+        "text": "oficina por 6"
+      },
+      {
+        "text": "meses en ingreso a diferir registraremos el valor del alquiler",
+        "startMs": 173840,
+        "durationMs": 6590
+      },
+      {
+        "text": "es decir 3280.00",
+        "startMs": 180430,
+        "durationMs": 4320
+      },
+      {
+        "text": "3280.00 pes en la columna grupo indicaremos En",
+        "startMs": 184750,
+        "durationMs": 4160
+      },
+      {
+        "text": "qué clasificación de diferido vamos a especificar el alquiler de la oficina",
+        "startMs": 188910,
+        "durationMs": 5720
+      },
+      {
+        "text": "así quedando un clic en el botón de búsqueda podemos observar los diferentes",
+        "startMs": 194630,
+        "durationMs": 6080
+      },
+      {
+        "text": "clasificadores como diferidos otros",
+        "startMs": 200710,
+        "durationMs": 8040
+      },
+      {
+        "text": "intangibles propiedad planta y equipo entre otros para este ejemplo nos",
+        "startMs": 208760,
+        "durationMs": 5710
+      },
+      {
+        "text": "ubicaremos en el grupo número 27 correspondiente a ingresos recibidos por",
+        "startMs": 214470,
+        "durationMs": 7200
+      },
+      {
+        "text": "anticipado para seleccionar ingresos diferidos",
+        "startMs": 221670,
+        "durationMs": 6080
+      },
+      {
+        "text": "diferidos 2705 es importante mencionar que el",
+        "startMs": 227750,
+        "durationMs": 3199
+      },
+      {
+        "text": "grupo diferido es una clasificación dada no solo a los ingresos amortizables en",
+        "startMs": 230949,
+        "durationMs": 6081
+      },
+      {
+        "text": "un periodo de tiempo determinado sino también a los activos adquiridos en la",
+        "startMs": 237030,
+        "durationMs": 5000
+      },
+      {
+        "text": "empresa estos grupos establecen las cuentas que se imputarán automáticamente",
+        "startMs": 242030,
+        "durationMs": 6119
+      },
+      {
+        "text": "cuando se registren en el sistema operaciones relacionadas con los activos",
+        "startMs": 248149,
+        "durationMs": 5881
+      },
+      {
+        "text": "y diferidos como podemos visualizar una",
+        "startMs": 254030,
+        "durationMs": 3360
+      },
+      {
+        "text": "vez seleccionado el grupo automáticamente el sistema cargará la",
+        "startMs": 257390,
+        "durationMs": 4519
+      },
+      {
+        "text": "cuenta del pasivo la cuenta del diferido y el periodo de amortización Así que el",
+        "startMs": 261909,
+        "durationMs": 6961
+      },
+      {
+        "text": "sistema nos indica que la cuenta del pasivo corresponderá a la",
+        "startMs": 268870,
+        "durationMs": 6440
+      },
+      {
+        "text": "27051 relacionado los arrendamientos la cuenta del diferido e",
+        "startMs": 275320,
+        "durationMs": 6830
+      },
+      {
+        "text": "indicaremos un centro de costos para este ejemplo seleccionaremos ventas",
+        "startMs": 282150,
+        "durationMs": 7200
+      },
+      {
+        "text": "nacionales y en la columna periodo amortización el sistema nos ha",
+        "startMs": 289350,
+        "durationMs": 5600
+      },
+      {
+        "text": "especificado un tiempo de 12 meses recordemos que el alquiler de la oficina",
+        "startMs": 294950,
+        "durationMs": 6600
+      },
+      {
+        "text": "es por un tiempo de 6 meses Así que modificaremos el periodo de",
+        "startMs": 301550,
+        "durationMs": 6720
+      },
+      {
+        "text": "amortización dado a que no poseemos otros ingresos diferidos a registrar",
+        "startMs": 308270,
+        "durationMs": 5639
+      },
+      {
+        "text": "para continuar la operación hacemos un clic en el botón",
+        "startMs": 313909,
+        "durationMs": 5120
+      },
+      {
+        "text": "siguiente en el segundo paso de la operación de ingreso recibidos por",
+        "startMs": 319029,
+        "durationMs": 5321
+      },
+      {
+        "text": "anticipado realizaremos el cálculo automático de impuestos en donde al",
+        "startMs": 324350,
+        "durationMs": 6160
+      },
+      {
+        "text": "hacer un clic en el botón de la calculadora el sistema nos indica que",
+        "startMs": 330510,
+        "durationMs": 4679
+      },
+      {
+        "text": "para este ingreso se ha calculado un IVA liquidado del 16 por y una retención por",
+        "startMs": 335189,
+        "durationMs": 6801
+      },
+      {
+        "text": "ventas en general correspondientes al 3,5",
+        "startMs": 341990,
+        "durationMs": 5039
+      },
+      {
+        "text": "3,5 por. en la parte",
+        "startMs": 347029,
+        "durationMs": 2280
+      },
+      {
+        "text": "inferior indicaremos la forma de pago donde especificaremos que el saldo de",
+        "startMs": 349309,
+        "durationMs": 7401
+      },
+      {
+        "text": "3,690 1000 entraron a a la cuenta bancaria de Nuestra Empresa por lo que",
+        "startMs": 356710,
+        "durationMs": 6640
+      },
+      {
+        "text": "ubicados en el campo banco llevaremos aquí el valor mediante el botón de",
+        "startMs": 363350,
+        "durationMs": 6959
+      },
+      {
+        "text": "diferencia y en la cuenta Banco digitar remos",
+        "startMs": 370309,
+        "durationMs": 4280
+      },
+      {
+        "text": "remos 1110 correspondiente a bancos para",
+        "startMs": 374589,
+        "durationMs": 3561
+      },
+      {
+        "text": "seleccionar la cuenta correspondiente al Banco",
+        "startMs": 378150,
+        "durationMs": 4520
+      },
+      {
+        "text": "Banco Popular",
+        "startMs": 382670,
+        "durationMs": 2560
+      },
+      {
+        "text": "Popular seleccionar en el tipo de movimiento",
+        "startMs": 385230,
+        "durationMs": 2679
+      },
+      {
+        "text": "bancario especifica emos que este pago se realizó mediante la",
+        "startMs": 387909,
+        "durationMs": 6201
+      },
+      {
+        "text": "consignación número 24 0058",
+        "startMs": 394110,
+        "durationMs": 6720
+      },
+      {
+        "text": "0058 625 fecha de transacción indicaremos el",
+        "startMs": 400830,
+        "durationMs": 7000
+      },
+      {
+        "text": "septiembre en el caso de que se requiera imprimir el soporte físico de esta",
+        "startMs": 407840,
+        "durationMs": 4950
+      },
+      {
+        "text": "operación debemos hacer un clic en el botón de",
+        "startMs": 412790,
+        "durationMs": 3760
+      },
+      {
+        "text": "imprimir y en el campo documento mediante el botón de búsqueda podemos",
+        "startMs": 416550,
+        "durationMs": 5359
+      },
+      {
+        "text": "seleccionar el documento de impresión deseado en este caso lo generaremos en",
+        "startMs": 421909,
+        "durationMs": 6481
+      },
+      {
+        "text": "el comprobante de ingreso vista previa como podemos visualizar el sistema nos",
+        "startMs": 428390,
+        "durationMs": 6720
+      },
+      {
+        "text": "ha generado el comprobante de ingreso número 15 por un valor de",
+        "startMs": 435110,
+        "durationMs": 7639
+      },
+      {
+        "text": "3,690 pesos correspondientes a alquiler de oficina por un periodo de 6 meses",
+        "startMs": 442759,
+        "durationMs": 7791
+      },
+      {
+        "text": "al tercero ingeniería y Asociados e igualmente nos especifica",
+        "startMs": 450550,
+        "durationMs": 6120
+      },
+      {
+        "text": "los impuestos aplicados y la forma de pago",
+        "startMs": 456670,
+        "durationMs": 6000
+      },
+      {
+        "text": "cerrar para finalizar la operación activaremos con un clic el botón",
+        "startMs": 462670,
+        "durationMs": 17160
+      },
+      {
+        "text": "en el catálogo el comprobante de ingreso número 15 de ingeniería y Asociados ha",
+        "startMs": 479840,
+        "durationMs": 6349
+      },
+      {
+        "text": "quedado guardado y procesado generando así un movimiento contable de nuestra",
+        "startMs": 486189,
+        "durationMs": 6840
+      },
+      {
+        "text": "contabilidad es importante mencionar que los ingresos recibidos por anticipado",
+        "startMs": 493029,
+        "durationMs": 5720
+      },
+      {
+        "text": "son ingresos que se deberán de amortizar mes a mes hasta que se cumpla su vida",
+        "startMs": 498749,
+        "durationMs": 5521
+      },
+      {
+        "text": "útil recordemos que para este ejemplo el ingreso recibido por",
+        "startMs": 504270,
+        "durationMs": 5680
+      },
+      {
+        "text": "del alquiler de oficina corresponde a un periodo de 6",
+        "startMs": 509950,
+        "durationMs": 5280
+      },
+      {
+        "text": "meses para obtener más información sobre la amortización de este diferido se",
+        "startMs": 515230,
+        "durationMs": 5599
+      },
+      {
+        "text": "sugiere consultar el video amortización automática de gastos e ingresos",
+        "startMs": 520829,
+        "durationMs": 6120
+      },
+      {
+        "text": "diferidos esto es todo sobre el registro de un ingreso recibido por anticipado en",
+        "startMs": 526949,
+        "durationMs": 9010
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video de el software contable ContaPyme le indica al usuario con el ejemplo \"Alquiner de oficina\" diferida a 6 meses, el uso y registro de la operación Ingresos recibidos por anticipado en el sistema.\nCP40-090-028-030B-020M\n\n## Transcripción\n\nanticipado en este ejemplo realizaremos mediante la operación de ingresos\nrecibidos por anticipado el alquiler de una oficina que posee Nuestra Empresa a\nla compañía ingeniería y Asociados por un periodo de 6\nmeses por lo tanto ubicados en el manejador de operaciones ingresaremos a\ntravés del botón más operaciones ingresos y gastos donde seleccionaremos\nla opción de ingresos recibidos por anticipado como podemos visualizar el\nsistema nos ha abierto la operación para registrar la\ntransacción para registrar el alquiler de la oficina en el ejemplo lo\nsoportaremos en un comprobante de ingreso para ello en el campo tipo\ndocumento mediante el botón de búsqueda podemos seleccionar de la lista el\ndocumento requerido en este caso el comprobante de\ningreso es el documento predeterminado de esta operación por lo que el sistema\nnos indica que el comprobante a registrar corresponderá el comprobante\nde ingreso número 15 en el detalle de la operación\nespecificaremos una observación de la transacción Así que registraremos\npor 6\nmeses este alquiler se realizó el 9 de septiembre por lo que modificaremos la\nfecha de soporte de la operación en el campo recibido de\nindicaremos el tercero al cual estamos alquilando la\noficina por lo que seleccionaremos ingeniería y\nseleccionar en el código de diferido especificaremos el código número tres\ncódigo con el que se creará y se identificará el diferido del alquiler de\nla oficina es importante tener en cuenta\nque en este campo el sistema automáticamente nos asigna el código\nconsecutivo disponible para el diferido como podemos apreciar en este\nejemplo el sistema nos ha sugerido el código tres lo que indica que la empresa\nya ha registrado en fechas anteriores dos\ndos diferidos en el nombre diferido digitar\noficina por 6\nmeses en ingreso a diferir registraremos el valor del alquiler\nes decir 3280.00\n3280.00 pes en la columna grupo indicaremos En\nqué clasificación de diferido vamos a especificar el alquiler de la oficina\nasí quedando un clic en el botón de búsqueda podemos observar los diferentes\nclasificadores como diferidos otros\nintangibles propiedad planta y equipo entre otros para este ejemplo nos\nubicaremos en el grupo número 27 correspondiente a ingresos recibidos por\nanticipado para seleccionar ingresos diferidos\ndiferidos 2705 es importante mencionar que el\ngrupo diferido es una clasificación dada no solo a los ingresos amortizables en\nun periodo de tiempo determinado sino también a los activos adquiridos en la\nempresa estos grupos establecen las cuentas que se imputarán automáticamente\ncuando se registren en el sistema operaciones relacionadas con los activos\ny diferidos como podemos visualizar una\nvez seleccionado el grupo automáticamente el sistema cargará la\ncuenta del pasivo la cuenta del diferido y el periodo de amortización Así que el\nsistema nos indica que la cuenta del pasivo corresponderá a la\n27051 relacionado los arrendamientos la cuenta del diferido e\nindicaremos un centro de costos para este ejemplo seleccionaremos ventas\nnacionales y en la columna periodo amortización el sistema nos ha\nespecificado un tiempo de 12 meses recordemos que el alquiler de la oficina\nes por un tiempo de 6 meses Así que modificaremos el periodo de\namortización dado a que no poseemos otros ingresos diferidos a registrar\npara continuar la operación hacemos un clic en el botón\nsiguiente en el segundo paso de la operación de ingreso recibidos por\nanticipado realizaremos el cálculo automático de impuestos en donde al\nhacer un clic en el botón de la calculadora el sistema nos indica que\npara este ingreso se ha calculado un IVA liquidado del 16 por y una retención por\nventas en general correspondientes al 3,5\n3,5 por. en la parte\ninferior indicaremos la forma de pago donde especificaremos que el saldo de\n3,690 1000 entraron a a la cuenta bancaria de Nuestra Empresa por lo que\nubicados en el campo banco llevaremos aquí el valor mediante el botón de\ndiferencia y en la cuenta Banco digitar remos\nremos 1110 correspondiente a bancos para\nseleccionar la cuenta correspondiente al Banco\nBanco Popular\nPopular seleccionar en el tipo de movimiento\nbancario especifica emos que este pago se realizó mediante la\nconsignación número 24 0058\n0058 625 fecha de transacción indicaremos el\nseptiembre en el caso de que se requiera imprimir el soporte físico de esta\noperación debemos hacer un clic en el botón de\nimprimir y en el campo documento mediante el botón de búsqueda podemos\nseleccionar el documento de impresión deseado en este caso lo generaremos en\nel comprobante de ingreso vista previa como podemos visualizar el sistema nos\nha generado el comprobante de ingreso número 15 por un valor de\n3,690 pesos correspondientes a alquiler de oficina por un periodo de 6 meses\nal tercero ingeniería y Asociados e igualmente nos especifica\nlos impuestos aplicados y la forma de pago\ncerrar para finalizar la operación activaremos con un clic el botón\nen el catálogo el comprobante de ingreso número 15 de ingeniería y Asociados ha\nquedado guardado y procesado generando así un movimiento contable de nuestra\ncontabilidad es importante mencionar que los ingresos recibidos por anticipado\nson ingresos que se deberán de amortizar mes a mes hasta que se cumpla su vida\nútil recordemos que para este ejemplo el ingreso recibido por\ndel alquiler de oficina corresponde a un periodo de 6\nmeses para obtener más información sobre la amortización de este diferido se\nsugiere consultar el video amortización automática de gastos e ingresos\ndiferidos esto es todo sobre el registro de un ingreso recibido por anticipado en"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 204.503,
+    "asr": 44100,
+    "filesizeApprox": 13662743,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2012",
+    "kind": "videos",
+    "md": "videos/2012/R1nyPAKPz-Y.md",
+    "json": "videos/2012/R1nyPAKPz-Y.json",
+    "infoJson": "videos/2012/R1nyPAKPz-Y.info.json"
+  },
+  "publishYear": "2012",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "R1nyPAKPz-Y",
+        "youtubeId": "R1nyPAKPz-Y",
+        "titulo": "R1nyPAKPz-Y",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

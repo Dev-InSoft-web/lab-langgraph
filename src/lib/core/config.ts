@@ -16,25 +16,36 @@ function env(...keys: string[]): string {
 	return "";
 }
 
-/** BD PatyIA + ISA-DOC (`paty`, `lab` catálogo y filas isa-doc/patyia). */
-export function getPatyDatabaseUrl(): string {
+/** PostgreSQL principal del lab (esquemas BD_LANGLAB, BD_LAB, … en Render `langlab`). */
+export function getLanglabDatabaseUrl(): string {
 	preloadIsaDocSecrets();
-	const url = env("PATY_DATABASE_URL", "DATABASE_URL", "LAB_DATABASE_URL", "OPS_DATABASE_URL");
+	const url = env(
+		"LANGLAB_DATABASE_URL",
+		"DATABASE_URL",
+		"LAB_DATABASE_URL",
+		"OPS_DATABASE_URL",
+		"PATY_DATABASE_URL",
+	);
 	if (!url) {
-		throw new Error("PATY_DATABASE_URL / DATABASE_URL no configurada (Render langlab).");
+		throw new Error("LANGLAB_DATABASE_URL no configurada (Render langlab).");
 	}
 	return url;
 }
 
-/** BD ClientesIS (Capacitación + postman-catalog). Si falta, usa PATY hasta crear `clientesis_lab` en Render. */
-export function getClientesisDatabaseUrl(): string {
-	preloadIsaDocSecrets();
-	return env("CLIENTESIS_DATABASE_URL", "CLIENTESIS_PG_URL") || getPatyDatabaseUrl();
+/** @deprecated Alias histórico (migrar env a LANGLAB_DATABASE_URL). */
+export function getPatyDatabaseUrl(): string {
+	return getLanglabDatabaseUrl();
 }
 
-/** @deprecated Alias de `getPatyDatabaseUrl`. */
+/** BD ClientesIS (Capacitación + postman-catalog). Si falta, usa la BD principal del lab. */
+export function getClientesisDatabaseUrl(): string {
+	preloadIsaDocSecrets();
+	return env("CLIENTESIS_DATABASE_URL", "CLIENTESIS_PG_URL") || getLanglabDatabaseUrl();
+}
+
+/** @deprecated Alias de `getLanglabDatabaseUrl`. */
 export function getDatabaseUrl(): string {
-	return getPatyDatabaseUrl();
+	return getLanglabDatabaseUrl();
 }
 
 export type MssqlConnectionConfig = {
@@ -86,7 +97,7 @@ export function getRagDatabaseUrl(): string {
 
 export function getGroqApiKey(): string {
 	preloadIsaDocSecrets();
-	const key = env("GROQ_API_KEY", "paty_groq_api_key");
+	const key = env("GROQ_API_KEY");
 	if (!key) {
 		throw new Error(
 			"GROQ_API_KEY no configurada. Ponla en lab-langgraph/local.settings.json",

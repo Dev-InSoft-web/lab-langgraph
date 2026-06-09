@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-03T17:29:58.857Z",
+  "videoId": "h5D-FMCM3ps",
+  "videoUrl": "https://www.youtube.com/watch?v=h5D-FMCM3ps",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "h5D-FMCM3ps",
+    "title": "Software contable ContaPyme - Configuración de los perfiles de seguridad para clientes móviles",
+    "fulltitle": "Software contable ContaPyme - Configuración de los perfiles de seguridad para clientes móviles",
+    "description": "http://www.contapyme.com\nEste video explica cómo configurar los perfiles de seguridad de los usuarios que se conectarán desde dispositivos móviles al servidor de datos central.\nCP40-530-060-030B",
+    "duration": 256,
+    "duration_string": "4:16",
+    "upload_date": "20130704",
+    "timestamp": 1372975805,
+    "view_count": 586,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/h5D-FMCM3ps/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8WwjMd8w-iSS3evoNjyWvbxuSeQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9yQh3UwQUHL_H2TvbMdd0BHsPbQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "31",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjmYFvnn-DaYbSfz6NleZSiYTBdQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "32",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgTTCE8pydl5BjgwZufREJ1dr21Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "33",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "34",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/hqdefault.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "36",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/sddefault.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hq720.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/hq720.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/h5D-FMCM3ps/maxresdefault.jpg",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/h5D-FMCM3ps/maxresdefault.webp",
+        "preference": 0,
+        "id": "41"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=h5D-FMCM3ps",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.390625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.50390625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.50390625,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 214.544,
+        "asr": 44100,
+        "filesize_approx": 6856048,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Software contable ContaPyme - Configuración de los perfiles de seguridad para clientes móviles",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/h5D-FMCM3ps/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/h5D-FMCM3ps?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Software contable ContaPyme - Configuración de los perfiles de seguridad para clientes móviles\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 49,
+    "transcriptChars": 3593,
+    "segments": [
+      {
+        "text": "configuración de los perfiles de seguridad para clientes móviles",
+        "startMs": 610,
+        "durationMs": 4070
+      },
+      {
+        "text": "esta utilidad permite establecer las restricciones o permisos a que tiene",
+        "startMs": 4680,
+        "durationMs": 5409
+      },
+      {
+        "text": "derecho cada usuario cuando ingresa al sistema",
+        "startMs": 10089,
+        "durationMs": 3431
+      },
+      {
+        "text": "sistema así como con está pyme de escritorio",
+        "startMs": 13520,
+        "durationMs": 2069
+      },
+      {
+        "text": "posee una definición de perfiles de seguridad que permite restringir las",
+        "startMs": 15589,
+        "durationMs": 4501
+      },
+      {
+        "text": "acciones que puede realizar un usuario en el sistema con está pyme móvil cuenta",
+        "startMs": 20090,
+        "durationMs": 4830
+      },
+      {
+        "text": "con una definición propia de las acciones que puede ejecutar o no un",
+        "startMs": 24920,
+        "durationMs": 4980
+      },
+      {
+        "text": "usuario desde internet es decir el administrador podrá ejercer un control",
+        "startMs": 29900,
+        "durationMs": 5610
+      },
+      {
+        "text": "total de toda la información los reportes con las operaciones que puede",
+        "startMs": 35510,
+        "durationMs": 4859
+      },
+      {
+        "text": "realizar un usuario desde su dispositivo móvil definiendo para cada uno de ellos",
+        "startMs": 40369,
+        "durationMs": 4801
+      },
+      {
+        "text": "un perfil de seguridad vamos a ver en el sistema dónde está la",
+        "startMs": 45170,
+        "durationMs": 5220
+      },
+      {
+        "text": "opción para configurar estos perfiles de seguridad de clientes móviles",
+        "startMs": 50390,
+        "durationMs": 4310
+      },
+      {
+        "text": "ubicados en la pestaña básico damos clic en el botón móvil y elegimos la opción",
+        "startMs": 54700,
+        "durationMs": 6690
+      },
+      {
+        "text": "perfiles de seguridad para clientes móviles",
+        "startMs": 61390,
+        "durationMs": 4130
+      },
+      {
+        "text": "móviles como podemos observar se abre el",
+        "startMs": 65520,
+        "durationMs": 2339
+      },
+      {
+        "text": "catálogo de perfiles de seguridad cabe resaltar que los perfiles son los",
+        "startMs": 67859,
+        "durationMs": 5191
+      },
+      {
+        "text": "mismos de con está pyme de escritorio la diferencia radica en los permisos a las",
+        "startMs": 73050,
+        "durationMs": 5160
+      },
+      {
+        "text": "acciones en cada uno de ellos vamos a ver de qué se trata por ejemplo si damos",
+        "startMs": 78210,
+        "durationMs": 6480
+      },
+      {
+        "text": "doble clic sobre el perfil a bus contable",
+        "startMs": 84690,
+        "durationMs": 4300
+      },
+      {
+        "text": "contable se abre el asistente de configuración de",
+        "startMs": 88990,
+        "durationMs": 2520
+      },
+      {
+        "text": "permisos aquí podemos observar que los permisos se definen de acuerdo al tipo",
+        "startMs": 91510,
+        "durationMs": 6360
+      },
+      {
+        "text": "de licenciamiento adquirido por ejemplo en mi caso tengo los dos tipos de",
+        "startMs": 97870,
+        "durationMs": 4200
+      },
+      {
+        "text": "licencia la licencia cliente móvil y financiero y contable y la licencia",
+        "startMs": 102070,
+        "durationMs": 5970
+      },
+      {
+        "text": "cliente móvil vendedor si nos ubicamos en la primera opción",
+        "startMs": 108040,
+        "durationMs": 6880
+      },
+      {
+        "text": "aparecen las acciones disponibles en móvil las cuales podemos activar o",
+        "startMs": 114920,
+        "durationMs": 5930
+      },
+      {
+        "text": "desactivar por ejemplo podemos definir que los",
+        "startMs": 120850,
+        "durationMs": 3460
+      },
+      {
+        "text": "usuarios con el perfil a bus contable no puedan acceder al catálogo de elementos",
+        "startMs": 124310,
+        "durationMs": 5549
+      },
+      {
+        "text": "de inventario y que tampoco puedan acceder a la opción de consulta a",
+        "startMs": 129859,
+        "durationMs": 7441
+      },
+      {
+        "text": "podemos también definir que solamente puedan ver el balance general de saldos",
+        "startMs": 137310,
+        "durationMs": 6410
+      },
+      {
+        "text": "a fin de año y las demás presentaciones del balance general no lo podemos hacer",
+        "startMs": 143720,
+        "durationMs": 5460
+      },
+      {
+        "text": "también con el estado de resultados y con los demás informes del sistema",
+        "startMs": 149180,
+        "durationMs": 6580
+      },
+      {
+        "text": "pero también podemos definir cuáles acciones van a poder ejecutar los",
+        "startMs": 155770,
+        "durationMs": 4370
+      },
+      {
+        "text": "usuarios de este perfil con respecto a las operaciones",
+        "startMs": 160140,
+        "durationMs": 6690
+      },
+      {
+        "text": "para guardar los cambios realizados damos clic en el botón aceptar el",
+        "startMs": 166840,
+        "durationMs": 5510
+      },
+      {
+        "text": "sistema nos indica que para ver los cambios reflejados es necesario",
+        "startMs": 172350,
+        "durationMs": 3780
+      },
+      {
+        "text": "reiniciar el sistema vamos a darle clic en aceptar y vamos a ver ahora el",
+        "startMs": 176130,
+        "durationMs": 5580
+      },
+      {
+        "text": "ejemplo pero con un vendedor damos clic sobre el perfil vendedor ubicamos la",
+        "startMs": 181710,
+        "durationMs": 6120
+      },
+      {
+        "text": "opción cliente móvil vendedor y se cargan las acciones disponibles de",
+        "startMs": 187830,
+        "durationMs": 6280
+      },
+      {
+        "text": "acuerdo a este tipo de licenciamiento por ejemplo podemos definir que los",
+        "startMs": 194110,
+        "durationMs": 4440
+      },
+      {
+        "text": "usuarios con el perfil vendedor no puedan acceder al catálogo de plan de",
+        "startMs": 198550,
+        "durationMs": 6720
+      },
+      {
+        "text": "cuentas que no puedan eliminar terceros",
+        "startMs": 205270,
+        "durationMs": 4480
+      },
+      {
+        "text": "y en la zona de operaciones podemos definir por ejemplo que no puedan",
+        "startMs": 209750,
+        "durationMs": 5390
+      },
+      {
+        "text": "procesar operaciones de pedido damos clic en el botón aceptar para",
+        "startMs": 215140,
+        "durationMs": 10790
+      },
+      {
+        "text": "como podemos ver los perfiles de seguridad se configuran de acuerdo a las",
+        "startMs": 225940,
+        "durationMs": 4310
+      },
+      {
+        "text": "necesidades que tengamos solo basta con tener bien claro que queremos que los",
+        "startMs": 230250,
+        "durationMs": 4920
+      },
+      {
+        "text": "usuarios de un determinado perfil vean o no y ya esté con está pyme escritorio",
+        "startMs": 235170,
+        "durationMs": 5100
+      },
+      {
+        "text": "realizar las configuraciones que se aplicarán cuando el usuario ingrese",
+        "startMs": 240270,
+        "durationMs": 4260
+      },
+      {
+        "text": "desde dispositivos móviles tal y como lo pudimos observar en el paso anterior",
+        "startMs": 244530,
+        "durationMs": 5430
+      },
+      {
+        "text": "esto es todo sobre configuración de los perfiles de seguridad para clientes",
+        "startMs": 249960,
+        "durationMs": 6690
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video explica cómo configurar los perfiles de seguridad de los usuarios que se conectarán desde dispositivos móviles al servidor de datos central.\nCP40-530-060-030B\n\n## Transcripción\n\nconfiguración de los perfiles de seguridad para clientes móviles\nesta utilidad permite establecer las restricciones o permisos a que tiene\nderecho cada usuario cuando ingresa al sistema\nsistema así como con está pyme de escritorio\nposee una definición de perfiles de seguridad que permite restringir las\nacciones que puede realizar un usuario en el sistema con está pyme móvil cuenta\ncon una definición propia de las acciones que puede ejecutar o no un\nusuario desde internet es decir el administrador podrá ejercer un control\ntotal de toda la información los reportes con las operaciones que puede\nrealizar un usuario desde su dispositivo móvil definiendo para cada uno de ellos\nun perfil de seguridad vamos a ver en el sistema dónde está la\nopción para configurar estos perfiles de seguridad de clientes móviles\nubicados en la pestaña básico damos clic en el botón móvil y elegimos la opción\nperfiles de seguridad para clientes móviles\nmóviles como podemos observar se abre el\ncatálogo de perfiles de seguridad cabe resaltar que los perfiles son los\nmismos de con está pyme de escritorio la diferencia radica en los permisos a las\nacciones en cada uno de ellos vamos a ver de qué se trata por ejemplo si damos\ndoble clic sobre el perfil a bus contable\ncontable se abre el asistente de configuración de\npermisos aquí podemos observar que los permisos se definen de acuerdo al tipo\nde licenciamiento adquirido por ejemplo en mi caso tengo los dos tipos de\nlicencia la licencia cliente móvil y financiero y contable y la licencia\ncliente móvil vendedor si nos ubicamos en la primera opción\naparecen las acciones disponibles en móvil las cuales podemos activar o\ndesactivar por ejemplo podemos definir que los\nusuarios con el perfil a bus contable no puedan acceder al catálogo de elementos\nde inventario y que tampoco puedan acceder a la opción de consulta a\npodemos también definir que solamente puedan ver el balance general de saldos\na fin de año y las demás presentaciones del balance general no lo podemos hacer\ntambién con el estado de resultados y con los demás informes del sistema\npero también podemos definir cuáles acciones van a poder ejecutar los\nusuarios de este perfil con respecto a las operaciones\npara guardar los cambios realizados damos clic en el botón aceptar el\nsistema nos indica que para ver los cambios reflejados es necesario\nreiniciar el sistema vamos a darle clic en aceptar y vamos a ver ahora el\nejemplo pero con un vendedor damos clic sobre el perfil vendedor ubicamos la\nopción cliente móvil vendedor y se cargan las acciones disponibles de\nacuerdo a este tipo de licenciamiento por ejemplo podemos definir que los\nusuarios con el perfil vendedor no puedan acceder al catálogo de plan de\ncuentas que no puedan eliminar terceros\ny en la zona de operaciones podemos definir por ejemplo que no puedan\nprocesar operaciones de pedido damos clic en el botón aceptar para\ncomo podemos ver los perfiles de seguridad se configuran de acuerdo a las\nnecesidades que tengamos solo basta con tener bien claro que queremos que los\nusuarios de un determinado perfil vean o no y ya esté con está pyme escritorio\nrealizar las configuraciones que se aplicarán cuando el usuario ingrese\ndesde dispositivos móviles tal y como lo pudimos observar en el paso anterior\nesto es todo sobre configuración de los perfiles de seguridad para clientes"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 214.544,
+    "asr": 44100,
+    "filesizeApprox": 6856048,
+    "formatCount": 4
+  },
+  "files": {
+    "year": "2013",
+    "md": "videos/2013/h5D-FMCM3ps.md",
+    "json": "videos/2013/h5D-FMCM3ps.json",
+    "infoJson": "videos/2013/h5D-FMCM3ps.info.json"
+  },
+  "publishYear": "2013",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "h5D-FMCM3ps",
+        "youtubeId": "h5D-FMCM3ps",
+        "titulo": "h5D-FMCM3ps",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

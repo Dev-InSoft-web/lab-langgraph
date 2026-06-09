@@ -3,14 +3,14 @@
  *   npm run db:migrate-ientityid
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { getPatyPgPool, pingPatyDb } from "../src/lib/db/pg.js";
 import { pgQ } from "../src/lib/db/pg-quote.js";
 import { migrateBodyKeys } from "../src/lib/ispgen/entity-id-fields.js";
 
 preloadLabSecrets();
 try {
-	getPatyDatabaseUrl();
+	getLanglabDatabaseUrl();
 } catch (e) {
 	console.error(e);
 	process.exit(1);
@@ -20,7 +20,7 @@ if (!(await pingPatyDb())) process.exit(1);
 const pool = getPatyPgPool();
 
 const ENTITY_STORES = [
-	["BD_LAB", "ENTITY_ENTITYROW"],
+	["BD_LAB", "ENTITY_ROW"],
 	["BD_CLIENTESIS", "CIS_ENTITYROW"],
 ] as const;
 

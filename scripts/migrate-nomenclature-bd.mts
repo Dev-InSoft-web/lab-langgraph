@@ -3,14 +3,14 @@
  *   npm run db:migrate-nomenclature
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { getPatyPgPool, getClientesisPgPool, getRagPgPool, pingPatyDb, pingRagDb } from "../src/lib/db/pg.js";
 import { pgQ } from "../src/lib/db/pg-quote.js";
 
 preloadLabSecrets();
 
 try {
-	getPatyDatabaseUrl();
+	getLanglabDatabaseUrl();
 } catch (e) {
 	console.error(e);
 	process.exit(1);
@@ -32,39 +32,39 @@ type TableMove = {
 };
 
 const OPS_MOVES: TableMove[] = [
-	{ oldSchema: "bd_paty", oldTable: "paty_tdconsulta", newSchema: "BD_PATY", newTable: "PATY_TDCONSULTA" },
-	{ oldSchema: "bd_paty", oldTable: "paty_instruccion", newSchema: "BD_PATY", newTable: "PATY_INSTRUCCION" },
-	{ oldSchema: "bd_paty", oldTable: "paty_tdconsulta_instruccion", newSchema: "BD_PATY", newTable: "PATY_TDCONSULTAINSTRUCCION" },
-	{ oldSchema: "bd_paty", oldTable: "paty_tdconsulta_corpus", newSchema: "BD_PATY", newTable: "PATY_TDCONSULTACORPUS" },
-	{ oldSchema: "bd_paty", oldTable: "paty_conversacion", newSchema: "BD_PATY", newTable: "PATY_CONVERSACION" },
-	{ oldSchema: "bd_paty", oldTable: "paty_conversacion_turno", newSchema: "BD_PATY", newTable: "PATY_CONVERSACIONTURNO" },
-	{ oldSchema: "bd_paty", oldTable: "paty_mensaje_calificado", newSchema: "BD_PATY", newTable: "PATY_MENSAJECALIFICADO" },
-	{ oldSchema: "bd_paty", oldTable: "paty_conversacion_turno_lock", newSchema: "BD_PATY", newTable: "PATY_CONVERSACIONTURNOLOCK" },
-	{ oldSchema: "bd_paty", oldTable: "paty_conversacion_turno_timing", newSchema: "BD_PATY", newTable: "PATY_CONVERSACIONTURNOTIMING" },
-	{ oldSchema: "bd_lab", oldTable: "lab_entity_row", newSchema: "BD_LAB", newTable: "LAB_ENTITYROW" },
-	{ oldSchema: "bd_lab", oldTable: "lab_store_project", newSchema: "BD_LAB", newTable: "LAB_STOREPROJECT" },
-	{ oldSchema: "bd_lab", oldTable: "lab_store_section", newSchema: "BD_LAB", newTable: "LAB_STORESECTION" },
-	{ oldSchema: "bd_lab", oldTable: "lab_entity_definition", newSchema: "BD_LAB", newTable: "LAB_ENTITYDEFINITION" },
-	{ oldSchema: "bd_lab", oldTable: "lab_api_catalog_manifest", newSchema: "BD_LAB", newTable: "LAB_APICATALOGMANIFEST" },
-	{ oldSchema: "bd_lab", oldTable: "lab_bitacora_revisado", newSchema: "BD_LAB", newTable: "LAB_BITACORAREVISADO" },
-	{ oldSchema: "bd_lab", oldTable: "lab_api_key_slot", newSchema: "BD_LAB", newTable: "LAB_APIKEYSLOT" },
-	{ oldSchema: "bd_lab", oldTable: "lab_orchestrator_lease", newSchema: "BD_LAB", newTable: "LAB_ORCHESTRATORLEASE" },
-	{ oldSchema: "bd_lab", oldTable: "lab_capability_timing", newSchema: "BD_LAB", newTable: "LAB_CAPABILITYTIMING" },
-	{ oldSchema: "bd_lab", oldTable: "lab_orchestrator_rotation_log", newSchema: "BD_LAB", newTable: "LAB_ORCHESTRATORROTATIONLOG" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_tdconsulta", newSchema: "BD_LANGLAB", newTable: "TDCONSULTA" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_instruccion", newSchema: "BD_LANGLAB", newTable: "INSTRUCCION" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_tdconsulta_instruccion", newSchema: "BD_LANGLAB", newTable: "TDCONSULTA_INSTRUCCION" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_tdconsulta_corpus", newSchema: "BD_LANGLAB", newTable: "TDCONSULTA_CORPUS" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_conversacion", newSchema: "BD_LANGLAB", newTable: "CONVERSACION" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_conversacion_turno", newSchema: "BD_LANGLAB", newTable: "CONVERSACION_TURNO" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_mensaje_calificado", newSchema: "BD_LANGLAB", newTable: "CONVERSACION_MENSAJE" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_conversacion_turno_lock", newSchema: "BD_LANGLAB", newTable: "CONVERSACION_TURNOLOCK" },
+	{ oldSchema: "BD_LANGLAB", oldTable: "paty_conversacion_turno_timing", newSchema: "BD_LANGLAB", newTable: "CONVERSACION_TURNOTIMING" },
+	{ oldSchema: "bd_lab", oldTable: "lab_entity_row", newSchema: "BD_LAB", newTable: "ENTITY_ROW" },
+	{ oldSchema: "bd_lab", oldTable: "lab_store_project", newSchema: "BD_LAB", newTable: "STORE_PROJECT" },
+	{ oldSchema: "bd_lab", oldTable: "lab_store_section", newSchema: "BD_LAB", newTable: "STORE_SECTION" },
+	{ oldSchema: "bd_lab", oldTable: "lab_entity_definition", newSchema: "BD_LAB", newTable: "ENTITY_DEFINITION" },
+	{ oldSchema: "bd_lab", oldTable: "lab_api_catalog_manifest", newSchema: "BD_LAB", newTable: "APICATALOG_MANIFEST" },
+	{ oldSchema: "bd_lab", oldTable: "lab_bitacora_revisado", newSchema: "BD_LAB", newTable: "BITACORA_REVISADO" },
+	{ oldSchema: "bd_lab", oldTable: "lab_api_key_slot", newSchema: "BD_LAB", newTable: "ORCHESTRATOR_SLOT" },
+	{ oldSchema: "bd_lab", oldTable: "lab_orchestrator_lease", newSchema: "BD_LAB", newTable: "ORCHESTRATOR_LEASE" },
+	{ oldSchema: "bd_lab", oldTable: "lab_capability_timing", newSchema: "BD_LAB", newTable: "ORCHESTRATOR_CAPABILITY" },
+	{ oldSchema: "bd_lab", oldTable: "lab_orchestrator_rotation_log", newSchema: "BD_LAB", newTable: "ORCHESTRATOR_ROTATIONLOG" },
 	{
 		oldSchema: "bd_lab",
 		oldTable: "lab_auth_user",
 		newSchema: "BD_LAB",
-		newTable: "LAB_AUTHUSER",
+		newTable: "AUTH_USER",
 		columns: { password_hash: "PASSWORDHASH", display_name: "DISPLAYNAME" },
 	},
-	{ oldSchema: "bd_clientesis", oldTable: "cis_entity_row", newSchema: "BD_CLIENTESIS", newTable: "CIS_ENTITYROW" },
+	{ oldSchema: "bd_clientesis", oldTable: "cis_entity_row", newSchema: "BD_CLIENTESIS", newTable: "ENTITY_ROW" },
 ];
 
 const RAG_MOVES: TableMove[] = [
-	{ oldSchema: "bd_rag", oldTable: "rag_index_run", newSchema: "BD_RAG", newTable: "RAG_INDEXRUN" },
-	{ oldSchema: "bd_rag", oldTable: "rag_vec_contapyme", newSchema: "BD_RAG", newTable: "RAG_VECCONTAPYME" },
-	{ oldSchema: "bd_rag", oldTable: "rag_vec_fitdocs", newSchema: "BD_RAG", newTable: "RAG_VECFITDOCS" },
+	{ oldSchema: "bd_rag", oldTable: "rag_index_run", newSchema: "BD_RAG", newTable: "INDEX_RUN" },
+	{ oldSchema: "bd_rag", oldTable: "rag_vec_contapyme", newSchema: "BD_RAG", newTable: "VECTOR_CONTAPYME" },
+	{ oldSchema: "bd_rag", oldTable: "rag_vec_fitdocs", newSchema: "BD_RAG", newTable: "VECTOR_FITDOCS" },
 ];
 
 async function tableExists(pool: { query: Function }, schema: string, table: string): Promise<boolean> {
@@ -115,9 +115,9 @@ async function migrateTable(pool: { query: Function }, move: TableMove): Promise
 
 async function renameSequences(pool: { query: Function }): Promise<void> {
 	const seqMap: Array<[string, string, string]> = [
-		["bd_lab", "seq_lab_store_project", "SEQ_LAB_STOREPROJECT"],
-		["bd_lab", "seq_lab_store_section", "SEQ_LAB_STORESECTION"],
-		["bd_lab", "seq_lab_entity_definition", "SEQ_LAB_ENTITYDEFINITION"],
+		["bd_lab", "seq_lab_store_project", "SEQ_STORE_PROJECT"],
+		["bd_lab", "seq_lab_store_section", "SEQ_STORE_SECTION"],
+		["bd_lab", "seq_lab_entity_definition", "SEQ_ENTITY_DEFINITION"],
 	];
 	for (const [oldSchema, oldSeq, newSeq] of seqMap) {
 		const r = await pool.query(
@@ -133,29 +133,29 @@ async function renameSequences(pool: { query: Function }): Promise<void> {
 }
 
 async function recreatePatyFunctions(pool: { query: Function }): Promise<void> {
-	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_PATY"`);
+	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_LANGLAB"`);
 	await pool.query(`
-		CREATE OR REPLACE FUNCTION "BD_PATY"."CONVERSACION_NEXTTURNINDEX"(p_iconversacion BIGINT)
+		CREATE OR REPLACE FUNCTION "BD_LANGLAB"."CONVERSACION_NEXTTURNINDEX"(p_iconversacion BIGINT)
 		RETURNS INT LANGUAGE sql STABLE AS $$
 			SELECT COALESCE(MAX("ITURNINDEX"), 0) + 1
-			FROM "BD_PATY"."CONVERSACION_CONVERSACIONTURNO"
+			FROM "BD_LANGLAB"."CONVERSACION_TURNO"
 			WHERE "ICONVERSACION" = p_iconversacion;
 		$$`);
 	await pool.query(`
-		CREATE OR REPLACE FUNCTION "BD_PATY"."ORCHESTRATOR_EXPIRESTALORCHESTRATORLEASES"()
+		CREATE OR REPLACE FUNCTION "BD_LANGLAB"."ORCHESTRATOR_EXPIRESTALORCHESTRATORLEASES"()
 		RETURNS INT LANGUAGE plpgsql AS $$
 		DECLARE n INT;
 		BEGIN
-			UPDATE "BD_LAB"."ORCHESTRATOR_ORCHESTRATORLEASE"
+			UPDATE "BD_LAB"."ORCHESTRATOR_LEASE"
 			SET "RELEASEDAT" = NOW(), "BOK" = FALSE,
 				"LASTERROR" = COALESCE("LASTERROR", 'expired_stale_lease')
 			WHERE "RELEASEDAT" IS NULL AND "EXPIRESAT" < NOW();
 			GET DIAGNOSTICS n = ROW_COUNT;
-			DELETE FROM "BD_PATY"."CONVERSACION_CONVERSACIONTURNOLOCK" WHERE "LOCKEDUNTIL" < NOW();
+			DELETE FROM "BD_LANGLAB"."CONVERSACION_TURNOLOCK" WHERE "LOCKEDUNTIL" < NOW();
 			RETURN n;
 		END;
 		$$`);
-	console.log("  funciones BD_PATY actualizadas (prefijo entidad)");
+	console.log("  funciones BD_LANGLAB actualizadas (prefijo entidad)");
 }
 
 console.log("Migración nomenclatura BD_* …\nOps (paty+lab+clientesis):");
@@ -183,7 +183,7 @@ if (await pingRagDb()) {
 
 /** Esquemas bd_* vacíos tras mover tablas a "BD_*" (confunden en pgAdmin). */
 async function dropEmptyLegacySchemas(pool: { query: Function }): Promise<void> {
-	for (const legacy of ["bd_lab", "bd_paty", "bd_clientesis", "bd_rag"]) {
+	for (const legacy of ["bd_lab", "BD_LANGLAB", "bd_clientesis", "bd_rag"]) {
 		const t = await pool.query(
 			`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname = $1`,
 			[legacy],

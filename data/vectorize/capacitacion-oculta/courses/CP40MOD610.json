@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "icurso": "CP40MOD610",
+  "cursoFetched": true,
+  "planFetched": true,
+  "fetchedAt": "2026-06-05T17:10:08.857Z",
+  "curso": {
+    "icurso": "CP40MOD610",
+    "ncurso": "Curso Sistema básico",
+    "descripcion": "Módulo de sistema básico de ContaPyme",
+    "bactivo": true,
+    "idriver": 3,
+    "itema": ""
+  },
+  "videoIds": [
+    "hJ5YPrv1Hrw",
+    "oXkLTWy3Ry0",
+    "I0750Sj_S9M",
+    "sw20SxAQT0M",
+    "Z7SW282VH4E",
+    "EHhHBlFSSB8",
+    "F0CC6Ns0RjA"
+  ],
+  "videos": [
+    {
+      "entryId": "hJ5YPrv1Hrw",
+      "youtubeId": "hJ5YPrv1Hrw",
+      "iplan": "010010",
+      "capitulo": "Introducción al módulo",
+      "titulo": "¿Cómo funciona el módulo de Sistema básico en ContaPyme?",
+      "descripcion": "Descubre el módulo principal de ContaPyme y su funcionamiento. En este tutorial, te explicamos cómo integrar y gestionar las operaciones contables y administrativas de tu empresa. Conocerás cómo se relacionan sus principales componentes, desde el Manejador de Operaciones hasta los Documentos de Soporte, el Catálogo de Terceros y el Explorador Gráfico de Empresas y las acciones importantes. Además, aprenderás cómo cada transacción impacta la contabilidad, los estados financieros y otros módulos del sistema.&nbsp;",
+      "profesor": {
+        "rol": "Asesora",
+        "nombre": "Viviana Restrepo"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    },
+    {
+      "entryId": "oXkLTWy3Ry0",
+      "youtubeId": "oXkLTWy3Ry0",
+      "iplan": "020010",
+      "capitulo": "Introducción al módulo",
+      "titulo": "Explorador gráfico de la empresa",
+      "descripcion": "Este video explica qué es y cómo es el manejo básico del explorador gráfico de la empresa.&nbsp;",
+      "profesor": {
+        "rol": "Administradora",
+        "nombre": "Paola Alzate López"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    },
+    {
+      "entryId": "I0750Sj_S9M",
+      "youtubeId": "I0750Sj_S9M",
+      "iplan": "020030",
+      "capitulo": "Empresa",
+      "titulo": "¿Cómo definir la estructura de la empresa en ContaPyme?",
+      "descripcion": "Aprende cómo estructurar correctamente tu empresa desde el explorador gráfico en ContaPyme: organiza empresa, unidades de negocio, sedes y centros de costos de forma clara y eficiente.&nbsp;",
+      "profesor": {
+        "rol": "Asesor",
+        "nombre": "Santiago Alarcon Arango"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    },
+    {
+      "entryId": "sw20SxAQT0M",
+      "youtubeId": "sw20SxAQT0M",
+      "iplan": "020033",
+      "capitulo": "Empresa",
+      "titulo": "Qué es una unidad de negocio en ContaPyme",
+      "descripcion": "Conoce qué son las unidades de negocio en ContaPyme. En este tutorial aprenderás la diferencia entre crear una empresa y crear una unidad de negocio dentro del sistema. Te explicaremos paso a paso cómo configurar una unidad de negocio cuando una misma empresa administra varias líneas o sedes que dependen de un mismo NIT, facilitando una gestión organizada e independiente de cada operación.&nbsp;",
+      "profesor": {
+        "rol": "Asesor",
+        "nombre": "Santiago Alarcon Arango"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    },
+    {
+      "entryId": "Z7SW282VH4E",
+      "youtubeId": "Z7SW282VH4E",
+      "iplan": "020035",
+      "capitulo": "Empresa",
+      "titulo": "Creación de una nueva empresa en ContaPyme",
+      "descripcion": "Conoce el proceso para crear una empresa en ContaPyme y definir la base estructural del sistema, paso fundamental para una correcta parametrización.&nbsp;",
+      "profesor": {
+        "rol": "Asesor",
+        "nombre": "Santiago Alarcon Arango"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    },
+    {
+      "entryId": "EHhHBlFSSB8",
+      "youtubeId": "EHhHBlFSSB8",
+      "iplan": "020040",
+      "capitulo": "Empresa",
+      "titulo": "Configuracion del explorador grafico de la empresa en ContaPyme",
+      "descripcion": "En este tutorial aprenderás cómo utilizar la configuración del Explorador Gráfico de la Empresa en ContaPyme, una herramienta clave para personalizar la visualización de la estructura organizacional dentro del sistema. Conocerás cómo definir configuraciones por usuario o perfil, ajustar la visualización de los nodos, aplicar filtros de información, gestionar la visualización de códigos y habilitar nodos adicionales según el licenciamiento. Este proceso te permitirá trabajar de forma más clara, organizada y eficiente al momento de consultar y analizar la información de tu empresa.&nbsp;",
+      "profesor": {
+        "rol": "Asesora",
+        "nombre": "Viviana Restrepo"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    },
+    {
+      "entryId": "F0CC6Ns0RjA",
+      "youtubeId": "F0CC6Ns0RjA",
+      "iplan": "020050",
+      "capitulo": "Empresa",
+      "titulo": "Tipos de centros de costos",
+      "descripcion": "Aprende a identificar los diferentes tipos de centros de costos en Contapyme. En este tutorial, te explicaremos de manera clara y sencilla cómo gestionar cada uno para mejorar la organización y eficiencia de tu empresa.",
+      "profesor": {
+        "rol": "Asesora",
+        "nombre": "Andrea Cespedes"
+      },
+      "dificultad": "Básico",
+      "source": "html-page"
+    }
+  ]
+}

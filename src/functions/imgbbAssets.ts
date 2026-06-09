@@ -5,7 +5,7 @@ import { corsHeaders, jsonResponse, optionsResponse, beginHttpRequest } from "..
 import { resolveLabDataRoot } from "../lib/core/lab-data-paths.js";
 import { getController } from "../lib/ispgen/controller.js";
 import { ensureEntityControllersRegisteredAsync } from "../lib/ispgen/register.js";
-import { uploadBufferToImgbb } from "../lib/imgbb/upload.js";
+import { uploadBufferToImgbb, uploadUrlToImgbb } from "../lib/imgbb/upload.js";
 
 const SEGMENT = { project: "isa-doc", page: "tickets", entity: "imgbb-asset" };
 
@@ -97,6 +97,8 @@ type UploadJsonBody = {
 	filename?: string;
 	base64?: string;
 	ticketId?: string;
+	/** URL remota (imgbb acepta URL en campo image). */
+	imageUrl?: string;
 	/** Ruta relativa bajo data/tickets/assets o ISA-DOC assets (solo servidor). */
 	path?: string;
 };
@@ -138,7 +140,12 @@ async function imgbbUploadHandler(
 			if (!filename) {
 				return jsonResponse({ ok: false, error: "filename requerido" }, 400, storeCors(origin));
 			}
-			if (body.base64?.trim()) {
+			if (body.imageUrl?.trim()) {
+				const ticketId = inferTicketId(filename, explicitTicketId);
+				const uploaded = await uploadUrlToImgbb(filename, body.imageUrl.trim());
+				const row = await upsertAssetRow(filename, { ...uploaded, kind: "url-import" }, ticketId);
+				return jsonResponse({ ok: true, asset: row }, 201, storeCors(origin));
+			} else if (body.base64?.trim()) {
 				const b64 = body.base64.replace(/^data:image\/\w+;base64,/, "");
 				buf = Buffer.from(b64, "base64");
 			} else if (body.path?.trim()) {
@@ -162,7 +169,7 @@ async function imgbbUploadHandler(
 				}
 				buf = await readFile(found);
 			} else {
-				return jsonResponse({ ok: false, error: "base64 o path requerido" }, 400, storeCors(origin));
+				return jsonResponse({ ok: false, error: "base64, imageUrl o path requerido" }, 400, storeCors(origin));
 			}
 		}
 

@@ -22,7 +22,7 @@ cd ISA-DOC
 npm run lab:patyia:sync-prompts
 ```
 
-Carga `PATY_BASE` + 13 agentes en `paty.instruccion` y corpus en `paty.tdconsulta_corpus`.
+Carga `LANGLAB_BASE` + 13 agentes en `paty.instruccion` y corpus en `paty.tdconsulta_corpus`.
 
 ## Operación
 

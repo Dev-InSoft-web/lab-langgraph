@@ -1,0 +1,3712 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.120 --> 00:00:01.750 align:start position:0%
+ 
+Bienvenidos<00:00:00.680><c> a</c><00:00:00.799><c> este</c><00:00:01.000><c> tutorial</c><00:00:01.480><c> donde</c>
+
+00:00:01.750 --> 00:00:01.760 align:start position:0%
+Bienvenidos a este tutorial donde
+ 
+
+00:00:01.760 --> 00:00:03.790 align:start position:0%
+Bienvenidos a este tutorial donde
+continuaremos<00:00:02.520><c> con</c><00:00:02.760><c> explicación</c><00:00:03.399><c> sobre</c><00:00:03.639><c> el</c>
+
+00:00:03.790 --> 00:00:03.800 align:start position:0%
+continuaremos con explicación sobre el
+ 
+
+00:00:03.800 --> 00:00:06.550 align:start position:0%
+continuaremos con explicación sobre el
+manejador<00:00:04.240><c> de</c><00:00:04.400><c> operaciones</c><00:00:05.080><c> en</c><00:00:05.279><c> contapyme.</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+manejador de operaciones en contapyme.
+ 
+
+00:00:06.560 --> 00:00:08.470 align:start position:0%
+manejador de operaciones en contapyme.
+Ya<00:00:06.680><c> conocimos</c><00:00:07.200><c> cómo</c><00:00:07.480><c> registrar</c><00:00:08.240><c> una</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+Ya conocimos cómo registrar una
+ 
+
+00:00:08.480 --> 00:00:10.669 align:start position:0%
+Ya conocimos cómo registrar una
+operación.<00:00:09.599><c> Ahora</c><00:00:09.840><c> conoceremos</c><00:00:10.440><c> las</c>
+
+00:00:10.669 --> 00:00:10.679 align:start position:0%
+operación. Ahora conoceremos las
+ 
+
+00:00:10.679 --> 00:00:12.830 align:start position:0%
+operación. Ahora conoceremos las
+acciones<00:00:11.160><c> disponibles</c><00:00:11.719><c> que</c><00:00:11.920><c> podemos</c><00:00:12.320><c> aplicar</c>
+
+00:00:12.830 --> 00:00:12.840 align:start position:0%
+acciones disponibles que podemos aplicar
+ 
+
+00:00:12.840 --> 00:00:15.390 align:start position:0%
+acciones disponibles que podemos aplicar
+sobre<00:00:13.160><c> una</c><00:00:13.360><c> operación</c><00:00:13.880><c> ya</c><00:00:14.120><c> registrada.</c>
+
+00:00:15.390 --> 00:00:15.400 align:start position:0%
+sobre una operación ya registrada.
+ 
+
+00:00:15.400 --> 00:00:18.150 align:start position:0%
+sobre una operación ya registrada.
+acciones<00:00:15.960><c> como</c><00:00:16.520><c> modificar,</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+acciones como modificar,
+ 
+
+00:00:18.160 --> 00:00:19.830 align:start position:0%
+acciones como modificar,
+visualizar,
+
+00:00:19.830 --> 00:00:19.840 align:start position:0%
+visualizar,
+ 
+
+00:00:19.840 --> 00:00:22.910 align:start position:0%
+visualizar,
+duplicar<00:00:20.439><c> una</c><00:00:20.640><c> operación,</c><00:00:22.039><c> eliminar</c><00:00:22.680><c> una</c>
+
+00:00:22.910 --> 00:00:22.920 align:start position:0%
+duplicar una operación, eliminar una
+ 
+
+00:00:22.920 --> 00:00:26.109 align:start position:0%
+duplicar una operación, eliminar una
+operación,<00:00:24.359><c> anular</c><00:00:24.840><c> una</c><00:00:25.000><c> operación,</c>
+
+00:00:26.109 --> 00:00:26.119 align:start position:0%
+operación, anular una operación,
+ 
+
+00:00:26.119 --> 00:00:29.150 align:start position:0%
+operación, anular una operación,
+procesar<00:00:26.880><c> y</c><00:00:27.160><c> desprocesar</c><00:00:27.800><c> una</c><00:00:28.000><c> operación,</c>
+
+00:00:29.150 --> 00:00:29.160 align:start position:0%
+procesar y desprocesar una operación,
+ 
+
+00:00:29.160 --> 00:00:31.390 align:start position:0%
+procesar y desprocesar una operación,
+imprimir<00:00:30.119><c> y</c><00:00:30.279><c> enviar</c><00:00:30.759><c> por</c><00:00:31.000><c> correo</c>
+
+00:00:31.390 --> 00:00:31.400 align:start position:0%
+imprimir y enviar por correo
+ 
+
+00:00:31.400 --> 00:00:33.670 align:start position:0%
+imprimir y enviar por correo
+electrónico.<00:00:32.439><c> Vamos</c><00:00:32.719><c> entonces</c><00:00:33.000><c> a</c><00:00:33.160><c> ver</c><00:00:33.440><c> un</c>
+
+00:00:33.670 --> 00:00:33.680 align:start position:0%
+electrónico. Vamos entonces a ver un
+ 
+
+00:00:33.680 --> 00:00:35.430 align:start position:0%
+electrónico. Vamos entonces a ver un
+ejemplo<00:00:34.079><c> práctico</c><00:00:34.440><c> en</c><00:00:34.559><c> el</c><00:00:34.680><c> sistema,</c><00:00:35.200><c> cómo</c>
+
+00:00:35.430 --> 00:00:35.440 align:start position:0%
+ejemplo práctico en el sistema, cómo
+ 
+
+00:00:35.440 --> 00:00:38.229 align:start position:0%
+ejemplo práctico en el sistema, cómo
+aplicamos<00:00:36.200><c> estas</c><00:00:36.520><c> acciones.</c>
+
+00:00:38.229 --> 00:00:38.239 align:start position:0%
+aplicamos estas acciones.
+ 
+
+00:00:38.239 --> 00:00:40.350 align:start position:0%
+aplicamos estas acciones.
+Bueno,<00:00:38.680><c> estando</c><00:00:38.920><c> en</c><00:00:39.079><c> el</c><00:00:39.200><c> sistema,</c><00:00:39.800><c> lo</c><00:00:40.000><c> primero</c>
+
+00:00:40.350 --> 00:00:40.360 align:start position:0%
+Bueno, estando en el sistema, lo primero
+ 
+
+00:00:40.360 --> 00:00:41.910 align:start position:0%
+Bueno, estando en el sistema, lo primero
+que<00:00:40.520><c> vamos</c><00:00:40.719><c> a</c><00:00:40.840><c> hacer</c><00:00:41.000><c> es</c><00:00:41.200><c> ingresar</c><00:00:41.680><c> al</c>
+
+00:00:41.910 --> 00:00:41.920 align:start position:0%
+que vamos a hacer es ingresar al
+ 
+
+00:00:41.920 --> 00:00:43.910 align:start position:0%
+que vamos a hacer es ingresar al
+manejador<00:00:42.399><c> de</c><00:00:42.559><c> operaciones,</c><00:00:43.440><c> que</c><00:00:43.600><c> es</c><00:00:43.719><c> donde</c>
+
+00:00:43.910 --> 00:00:43.920 align:start position:0%
+manejador de operaciones, que es donde
+ 
+
+00:00:43.920 --> 00:00:46.430 align:start position:0%
+manejador de operaciones, que es donde
+se<00:00:44.120><c> registran</c><00:00:44.719><c> todas</c><00:00:45.000><c> las</c><00:00:45.239><c> operaciones</c><00:00:46.160><c> día</c><00:00:46.320><c> a</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+se registran todas las operaciones día a
+ 
+
+00:00:46.440 --> 00:00:48.830 align:start position:0%
+se registran todas las operaciones día a
+día<00:00:46.600><c> de</c><00:00:46.760><c> la</c><00:00:46.879><c> empresa.</c><00:00:47.960><c> Para</c><00:00:48.280><c> ello,</c><00:00:48.559><c> vamos</c><00:00:48.719><c> a</c>
+
+00:00:48.830 --> 00:00:48.840 align:start position:0%
+día de la empresa. Para ello, vamos a
+ 
+
+00:00:48.840 --> 00:00:51.150 align:start position:0%
+día de la empresa. Para ello, vamos a
+ingresar<00:00:49.239><c> por</c><00:00:49.399><c> la</c><00:00:49.520><c> pestaña</c><00:00:49.960><c> de</c><00:00:50.120><c> básico,</c><00:00:50.840><c> luego</c>
+
+00:00:51.150 --> 00:00:51.160 align:start position:0%
+ingresar por la pestaña de básico, luego
+ 
+
+00:00:51.160 --> 00:00:53.110 align:start position:0%
+ingresar por la pestaña de básico, luego
+operaciones
+
+00:00:53.110 --> 00:00:53.120 align:start position:0%
+operaciones
+ 
+
+00:00:53.120 --> 00:00:55.150 align:start position:0%
+operaciones
+y<00:00:53.359><c> aquí</c><00:00:53.600><c> nos</c><00:00:53.800><c> lista</c><00:00:54.239><c> todas</c><00:00:54.480><c> las</c><00:00:54.680><c> operaciones</c>
+
+00:00:55.150 --> 00:00:55.160 align:start position:0%
+y aquí nos lista todas las operaciones
+ 
+
+00:00:55.160 --> 00:00:57.310 align:start position:0%
+y aquí nos lista todas las operaciones
+que<00:00:55.320><c> ya</c><00:00:55.480><c> tenemos</c><00:00:55.840><c> registradas.</c><00:00:56.920><c> En</c><00:00:57.079><c> este</c>
+
+00:00:57.310 --> 00:00:57.320 align:start position:0%
+que ya tenemos registradas. En este
+ 
+
+00:00:57.320 --> 00:00:58.389 align:start position:0%
+que ya tenemos registradas. En este
+momento<00:00:57.559><c> me</c><00:00:57.680><c> está</c><00:00:57.840><c> mostrando</c><00:00:58.199><c> las</c>
+
+00:00:58.389 --> 00:00:58.399 align:start position:0%
+momento me está mostrando las
+ 
+
+00:00:58.399 --> 00:01:00.549 align:start position:0%
+momento me está mostrando las
+operaciones<00:00:58.920><c> que</c><00:00:59.079><c> tengo</c><00:00:59.280><c> del</c><00:00:59.480><c> mes</c><00:00:59.640><c> de</c><00:00:59.800><c> mayo.</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+operaciones que tengo del mes de mayo.
+ 
+
+00:01:00.559 --> 00:01:02.029 align:start position:0%
+operaciones que tengo del mes de mayo.
+Esto<00:01:00.800><c> depende</c><00:01:01.079><c> de</c><00:01:01.199><c> los</c><00:01:01.280><c> filtros</c><00:01:01.600><c> que</c><00:01:01.760><c> tenemos</c>
+
+00:01:02.029 --> 00:01:02.039 align:start position:0%
+Esto depende de los filtros que tenemos
+ 
+
+00:01:02.039 --> 00:01:03.549 align:start position:0%
+Esto depende de los filtros que tenemos
+en<00:01:02.199><c> la</c><00:01:02.320><c> parte</c><00:01:02.559><c> inferior.</c><00:01:03.120><c> Como</c><00:01:03.320><c> pueden</c>
+
+00:01:03.549 --> 00:01:03.559 align:start position:0%
+en la parte inferior. Como pueden
+ 
+
+00:01:03.559 --> 00:01:05.870 align:start position:0%
+en la parte inferior. Como pueden
+observar,<00:01:04.040><c> tengo</c><00:01:04.239><c> el</c><00:01:04.400><c> filtro</c><00:01:04.760><c> de</c><00:01:04.920><c> año,</c><00:01:05.479><c> filtro</c>
+
+00:01:05.870 --> 00:01:05.880 align:start position:0%
+observar, tengo el filtro de año, filtro
+ 
+
+00:01:05.880 --> 00:01:08.149 align:start position:0%
+observar, tengo el filtro de año, filtro
+de<00:01:06.080><c> mes</c><00:01:06.560><c> y</c><00:01:06.880><c> dependiendo</c><00:01:07.360><c> de</c><00:01:07.520><c> la</c><00:01:07.680><c> fecha</c><00:01:07.920><c> de</c>
+
+00:01:08.149 --> 00:01:08.159 align:start position:0%
+de mes y dependiendo de la fecha de
+ 
+
+00:01:08.159 --> 00:01:10.710 align:start position:0%
+de mes y dependiendo de la fecha de
+trabajo<00:01:08.720><c> es</c><00:01:08.920><c> que</c><00:01:09.119><c> él</c><00:01:09.320><c> sabe</c><00:01:09.759><c> qué</c><00:01:10.000><c> filtros</c><00:01:10.439><c> debe</c>
+
+00:01:10.710 --> 00:01:10.720 align:start position:0%
+trabajo es que él sabe qué filtros debe
+ 
+
+00:01:10.720 --> 00:01:14.190 align:start position:0%
+trabajo es que él sabe qué filtros debe
+hacer,<00:01:11.080><c> qué</c><00:01:11.280><c> año</c><00:01:11.520><c> tomar</c><00:01:12.200><c> y</c><00:01:12.400><c> qué</c><00:01:12.560><c> mes</c><00:01:12.799><c> tomar.</c><00:01:14.040><c> Y</c>
+
+00:01:14.190 --> 00:01:14.200 align:start position:0%
+hacer, qué año tomar y qué mes tomar. Y
+ 
+
+00:01:14.200 --> 00:01:15.950 align:start position:0%
+hacer, qué año tomar y qué mes tomar. Y
+aquí,<00:01:14.479><c> como</c><00:01:14.680><c> pueden</c><00:01:14.880><c> observar,</c><00:01:15.320><c> tenemos</c><00:01:15.759><c> una</c>
+
+00:01:15.950 --> 00:01:15.960 align:start position:0%
+aquí, como pueden observar, tenemos una
+ 
+
+00:01:15.960 --> 00:01:17.390 align:start position:0%
+aquí, como pueden observar, tenemos una
+de<00:01:16.080><c> las</c><00:01:16.240><c> operaciones</c><00:01:16.680><c> que</c><00:01:16.799><c> hicimos</c><00:01:17.159><c> como</c>
+
+00:01:17.390 --> 00:01:17.400 align:start position:0%
+de las operaciones que hicimos como
+ 
+
+00:01:17.400 --> 00:01:19.350 align:start position:0%
+de las operaciones que hicimos como
+ejemplo<00:01:17.880><c> en</c><00:01:18.040><c> el</c><00:01:18.200><c> video</c><00:01:18.360><c> anterior</c><00:01:18.799><c> de</c><00:01:19.000><c> qué</c><00:01:19.159><c> es</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+ejemplo en el video anterior de qué es
+ 
+
+00:01:19.360 --> 00:01:21.109 align:start position:0%
+ejemplo en el video anterior de qué es
+una<00:01:19.520><c> operación</c><00:01:20.000><c> y</c><00:01:20.200><c> cómo</c><00:01:20.360><c> se</c><00:01:20.560><c> registra</c><00:01:20.960><c> la</c>
+
+00:01:21.109 --> 00:01:21.119 align:start position:0%
+una operación y cómo se registra la
+ 
+
+00:01:21.119 --> 00:01:23.390 align:start position:0%
+una operación y cómo se registra la
+operación.<00:01:22.159><c> Ahora</c><00:01:22.439><c> vamos</c><00:01:22.600><c> a</c><00:01:22.759><c> explicar</c><00:01:23.159><c> un</c>
+
+00:01:23.390 --> 00:01:23.400 align:start position:0%
+operación. Ahora vamos a explicar un
+ 
+
+00:01:23.400 --> 00:01:25.590 align:start position:0%
+operación. Ahora vamos a explicar un
+poco<00:01:23.759><c> qué</c><00:01:24.000><c> acciones</c><00:01:24.439><c> podemos</c><00:01:24.840><c> aplicar</c><00:01:25.240><c> sobre</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+poco qué acciones podemos aplicar sobre
+ 
+
+00:01:25.600 --> 00:01:27.670 align:start position:0%
+poco qué acciones podemos aplicar sobre
+una<00:01:25.799><c> operación.</c><00:01:26.759><c> Las</c><00:01:27.000><c> acciones</c><00:01:27.400><c> las</c>
+
+00:01:27.670 --> 00:01:27.680 align:start position:0%
+una operación. Las acciones las
+ 
+
+00:01:27.680 --> 00:01:30.030 align:start position:0%
+una operación. Las acciones las
+encontramos<00:01:28.600><c> ubicándonos</c><00:01:29.159><c> en</c><00:01:29.280><c> la</c><00:01:29.400><c> operación</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+encontramos ubicándonos en la operación
+ 
+
+00:01:30.040 --> 00:01:32.230 align:start position:0%
+encontramos ubicándonos en la operación
+y<00:01:30.240><c> dando</c><00:01:30.560><c> clic</c><00:01:30.840><c> derecho.</c><00:01:31.400><c> Y</c><00:01:31.520><c> aquí</c><00:01:31.759><c> encontramos</c>
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+y dando clic derecho. Y aquí encontramos
+ 
+
+00:01:32.240 --> 00:01:34.710 align:start position:0%
+y dando clic derecho. Y aquí encontramos
+las<00:01:32.399><c> acciones</c><00:01:32.759><c> que</c><00:01:32.960><c> podemos</c><00:01:33.280><c> realizar.</c><00:01:34.240><c> O</c><00:01:34.520><c> en</c>
+
+00:01:34.710 --> 00:01:34.720 align:start position:0%
+las acciones que podemos realizar. O en
+ 
+
+00:01:34.720 --> 00:01:36.429 align:start position:0%
+las acciones que podemos realizar. O en
+la<00:01:34.840><c> parte</c><00:01:35.159><c> superior,</c><00:01:35.720><c> en</c><00:01:35.840><c> la</c><00:01:36.000><c> cinta</c><00:01:36.280><c> de</c>
+
+00:01:36.429 --> 00:01:36.439 align:start position:0%
+la parte superior, en la cinta de
+ 
+
+00:01:36.439 --> 00:01:38.230 align:start position:0%
+la parte superior, en la cinta de
+opciones,<00:01:36.880><c> también</c><00:01:37.200><c> tenemos</c><00:01:37.880><c> estas</c>
+
+00:01:38.230 --> 00:01:38.240 align:start position:0%
+opciones, también tenemos estas
+ 
+
+00:01:38.240 --> 00:01:41.630 align:start position:0%
+opciones, también tenemos estas
+acciones.<00:01:39.360><c> Una</c><00:01:39.560><c> de</c><00:01:39.720><c> ellas</c><00:01:40.000><c> es</c><00:01:40.520><c> modificar</c>
+
+00:01:41.630 --> 00:01:41.640 align:start position:0%
+acciones. Una de ellas es modificar
+ 
+
+00:01:41.640 --> 00:01:44.310 align:start position:0%
+acciones. Una de ellas es modificar
+operación.<00:01:42.560><c> Esta</c><00:01:43.200><c> opción</c><00:01:43.520><c> la</c><00:01:43.680><c> utilizamos</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+operación. Esta opción la utilizamos
+ 
+
+00:01:44.320 --> 00:01:46.469 align:start position:0%
+operación. Esta opción la utilizamos
+cuando<00:01:44.560><c> queremos</c><00:01:45.119><c> corregir</c><00:01:45.840><c> los</c><00:01:46.119><c> datos</c>
+
+00:01:46.469 --> 00:01:46.479 align:start position:0%
+cuando queremos corregir los datos
+ 
+
+00:01:46.479 --> 00:01:49.190 align:start position:0%
+cuando queremos corregir los datos
+digitados<00:01:47.320><c> erróneamente</c><00:01:48.439><c> o</c><00:01:48.680><c> agregar</c>
+
+00:01:49.190 --> 00:01:49.200 align:start position:0%
+digitados erróneamente o agregar
+ 
+
+00:01:49.200 --> 00:01:51.469 align:start position:0%
+digitados erróneamente o agregar
+información<00:01:49.759><c> faltante,</c><00:01:50.719><c> como</c><00:01:51.000><c> por</c><00:01:51.119><c> ejemplo</c>
+
+00:01:51.469 --> 00:01:51.479 align:start position:0%
+información faltante, como por ejemplo
+ 
+
+00:01:51.479 --> 00:01:54.749 align:start position:0%
+información faltante, como por ejemplo
+actualizar<00:01:52.000><c> el</c><00:01:52.200><c> tercero,</c><00:01:53.280><c> el</c><00:01:53.560><c> valor,</c><00:01:54.439><c> el</c>
+
+00:01:54.749 --> 00:01:54.759 align:start position:0%
+actualizar el tercero, el valor, el
+ 
+
+00:01:54.759 --> 00:01:58.789 align:start position:0%
+actualizar el tercero, el valor, el
+concepto,<00:01:55.960><c> la</c><00:01:56.240><c> fecha,</c><00:01:57.079><c> el</c><00:01:57.360><c> detalle,</c><00:01:58.240><c> la</c><00:01:58.479><c> forma</c>
+
+00:01:58.789 --> 00:01:58.799 align:start position:0%
+concepto, la fecha, el detalle, la forma
+ 
+
+00:01:58.799 --> 00:02:00.990 align:start position:0%
+concepto, la fecha, el detalle, la forma
+de<00:01:59.039><c> pago</c><00:01:59.479><c> y</c><00:01:59.680><c> demás</c><00:02:00.119><c> información</c><00:02:00.640><c> que</c><00:02:00.840><c> de</c>
+
+00:02:00.990 --> 00:02:01.000 align:start position:0%
+de pago y demás información que de
+ 
+
+00:02:01.000 --> 00:02:03.310 align:start position:0%
+de pago y demás información que de
+pronto<00:02:01.320><c> queremos</c><00:02:01.799><c> corregir</c><00:02:02.479><c> o</c><00:02:02.719><c> que</c><00:02:02.840><c> nos</c><00:02:03.000><c> faltó</c>
+
+00:02:03.310 --> 00:02:03.320 align:start position:0%
+pronto queremos corregir o que nos faltó
+ 
+
+00:02:03.320 --> 00:02:04.789 align:start position:0%
+pronto queremos corregir o que nos faltó
+por<00:02:03.479><c> indicar</c><00:02:03.880><c> en</c><00:02:04.039><c> el</c><00:02:04.200><c> momento</c><00:02:04.439><c> que</c><00:02:04.600><c> la</c>
+
+00:02:04.789 --> 00:02:04.799 align:start position:0%
+por indicar en el momento que la
+ 
+
+00:02:04.799 --> 00:02:06.789 align:start position:0%
+por indicar en el momento que la
+registramos.<00:02:05.840><c> Después</c><00:02:06.119><c> de</c><00:02:06.280><c> hacer</c><00:02:06.560><c> los</c>
+
+00:02:06.789 --> 00:02:06.799 align:start position:0%
+registramos. Después de hacer los
+ 
+
+00:02:06.799 --> 00:02:08.389 align:start position:0%
+registramos. Después de hacer los
+cambios<00:02:07.200><c> necesarios,</c><00:02:07.799><c> por</c><00:02:07.960><c> ejemplo,</c><00:02:08.239><c> si</c>
+
+00:02:08.389 --> 00:02:08.399 align:start position:0%
+cambios necesarios, por ejemplo, si
+ 
+
+00:02:08.399 --> 00:02:10.589 align:start position:0%
+cambios necesarios, por ejemplo, si
+queremos<00:02:08.759><c> corregir</c><00:02:09.160><c> el</c><00:02:09.360><c> valor,</c><00:02:09.759><c> que</c><00:02:10.239><c> fueron</c>
+
+00:02:10.589 --> 00:02:10.599 align:start position:0%
+queremos corregir el valor, que fueron
+ 
+
+00:02:10.599 --> 00:02:12.229 align:start position:0%
+queremos corregir el valor, que fueron
+600,000es,
+
+00:02:12.229 --> 00:02:12.239 align:start position:0%
+600,000es,
+ 
+
+00:02:12.239 --> 00:02:14.869 align:start position:0%
+600,000es,
+simplemente<00:02:12.800><c> lo</c><00:02:13.000><c> digitamos,</c><00:02:14.239><c> vamos</c><00:02:14.680><c> a</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+simplemente lo digitamos, vamos a
+ 
+
+00:02:14.879 --> 00:02:17.509 align:start position:0%
+simplemente lo digitamos, vamos a
+siguiente,<00:02:15.840><c> corregimos</c><00:02:16.400><c> la</c><00:02:16.599><c> forma</c><00:02:16.879><c> de</c><00:02:17.120><c> pago</c>
+
+00:02:17.509 --> 00:02:17.519 align:start position:0%
+siguiente, corregimos la forma de pago
+ 
+
+00:02:17.519 --> 00:02:19.550 align:start position:0%
+siguiente, corregimos la forma de pago
+para<00:02:17.720><c> que</c><00:02:17.879><c> quede</c><00:02:18.120><c> el</c><00:02:18.280><c> valor</c><00:02:18.599><c> correcto</c><00:02:19.319><c> y</c>
+
+00:02:19.550 --> 00:02:19.560 align:start position:0%
+para que quede el valor correcto y
+ 
+
+00:02:19.560 --> 00:02:21.990 align:start position:0%
+para que quede el valor correcto y
+simplemente<00:02:20.000><c> le</c><00:02:20.200><c> damos</c><00:02:20.760><c> finalizar</c><00:02:21.519><c> y</c><00:02:21.720><c> así</c>
+
+00:02:21.990 --> 00:02:22.000 align:start position:0%
+simplemente le damos finalizar y así
+ 
+
+00:02:22.000 --> 00:02:23.990 align:start position:0%
+simplemente le damos finalizar y así
+modificamos<00:02:22.680><c> y</c><00:02:22.840><c> actualizamos</c><00:02:23.720><c> una</c>
+
+00:02:23.990 --> 00:02:24.000 align:start position:0%
+modificamos y actualizamos una
+ 
+
+00:02:24.000 --> 00:02:26.509 align:start position:0%
+modificamos y actualizamos una
+operación.<00:02:25.080><c> Otra</c><00:02:25.319><c> opción</c><00:02:25.599><c> que</c><00:02:25.840><c> tenemos</c><00:02:26.160><c> es</c>
+
+00:02:26.509 --> 00:02:26.519 align:start position:0%
+operación. Otra opción que tenemos es
+ 
+
+00:02:26.519 --> 00:02:29.190 align:start position:0%
+operación. Otra opción que tenemos es
+visualizar<00:02:27.239><c> la</c><00:02:27.440><c> operación.</c><00:02:28.599><c> Si</c><00:02:28.840><c> solo</c>
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+visualizar la operación. Si solo
+ 
+
+00:02:29.200 --> 00:02:31.990 align:start position:0%
+visualizar la operación. Si solo
+necesitamos<00:02:30.200><c> consultar</c><00:02:30.879><c> los</c><00:02:31.160><c> datos</c><00:02:31.560><c> de</c><00:02:31.760><c> una</c>
+
+00:02:31.990 --> 00:02:32.000 align:start position:0%
+necesitamos consultar los datos de una
+ 
+
+00:02:32.000 --> 00:02:35.030 align:start position:0%
+necesitamos consultar los datos de una
+operación<00:02:32.879><c> sin</c><00:02:33.120><c> modificarlos,</c><00:02:34.319><c> podemos</c><00:02:34.720><c> usar</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+operación sin modificarlos, podemos usar
+ 
+
+00:02:35.040 --> 00:02:37.710 align:start position:0%
+operación sin modificarlos, podemos usar
+la<00:02:35.200><c> opción</c><00:02:35.480><c> de</c><00:02:35.680><c> visualizar.</c><00:02:36.959><c> El</c><00:02:37.120><c> sistema</c><00:02:37.480><c> nos</c>
+
+00:02:37.710 --> 00:02:37.720 align:start position:0%
+la opción de visualizar. El sistema nos
+ 
+
+00:02:37.720 --> 00:02:40.390 align:start position:0%
+la opción de visualizar. El sistema nos
+ofrece<00:02:38.120><c> la</c><00:02:38.319><c> posibilidad</c><00:02:38.920><c> de</c><00:02:39.159><c> crear</c><00:02:39.800><c> usuarios</c>
+
+00:02:40.390 --> 00:02:40.400 align:start position:0%
+ofrece la posibilidad de crear usuarios
+ 
+
+00:02:40.400 --> 00:02:43.030 align:start position:0%
+ofrece la posibilidad de crear usuarios
+y<00:02:40.599><c> perfiles</c><00:02:41.480><c> y</c><00:02:41.720><c> por</c><00:02:41.920><c> cada</c><00:02:42.159><c> usuario</c><00:02:42.599><c> creado</c><00:02:42.920><c> en</c>
+
+00:02:43.030 --> 00:02:43.040 align:start position:0%
+y perfiles y por cada usuario creado en
+ 
+
+00:02:43.040 --> 00:02:46.030 align:start position:0%
+y perfiles y por cada usuario creado en
+el<00:02:43.200><c> sistema</c><00:02:43.640><c> le</c><00:02:43.879><c> podemos</c><00:02:44.239><c> asignar</c><00:02:44.959><c> un</c><00:02:45.239><c> perfil</c>
+
+00:02:46.030 --> 00:02:46.040 align:start position:0%
+el sistema le podemos asignar un perfil
+ 
+
+00:02:46.040 --> 00:02:48.309 align:start position:0%
+el sistema le podemos asignar un perfil
+que<00:02:46.280><c> es</c><00:02:46.440><c> el</c><00:02:46.599><c> que</c><00:02:46.760><c> da</c><00:02:47.040><c> el</c><00:02:47.319><c> permiso</c><00:02:47.760><c> de</c><00:02:48.080><c> qué</c>
+
+00:02:48.309 --> 00:02:48.319 align:start position:0%
+que es el que da el permiso de qué
+ 
+
+00:02:48.319 --> 00:02:51.229 align:start position:0%
+que es el que da el permiso de qué
+acciones<00:02:49.000><c> puede</c><00:02:49.319><c> realizar</c><00:02:50.239><c> en</c><00:02:50.480><c> una</c><00:02:50.680><c> operación</c>
+
+00:02:51.229 --> 00:02:51.239 align:start position:0%
+acciones puede realizar en una operación
+ 
+
+00:02:51.239 --> 00:02:53.110 align:start position:0%
+acciones puede realizar en una operación
+o<00:02:51.440><c> en</c><00:02:51.560><c> general</c><00:02:51.879><c> en</c><00:02:52.040><c> el</c><00:02:52.239><c> sistema,</c><00:02:52.640><c> por</c><00:02:52.800><c> ejemplo,</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+o en general en el sistema, por ejemplo,
+ 
+
+00:02:53.120 --> 00:02:55.589 align:start position:0%
+o en general en el sistema, por ejemplo,
+si<00:02:53.400><c> puede</c><00:02:53.640><c> modificar</c><00:02:54.239><c> una</c><00:02:54.400><c> operación,</c><00:02:55.360><c> si</c>
+
+00:02:55.589 --> 00:02:55.599 align:start position:0%
+si puede modificar una operación, si
+ 
+
+00:02:55.599 --> 00:02:58.550 align:start position:0%
+si puede modificar una operación, si
+puede<00:02:56.000><c> visualizarla,</c><00:02:57.040><c> si</c><00:02:57.239><c> puede</c><00:02:57.480><c> eliminarla,</c>
+
+00:02:58.550 --> 00:02:58.560 align:start position:0%
+puede visualizarla, si puede eliminarla,
+ 
+
+00:02:58.560 --> 00:03:00.949 align:start position:0%
+puede visualizarla, si puede eliminarla,
+entre<00:02:58.840><c> otras</c><00:02:59.200><c> acciones.</c><00:03:00.280><c> Por</c><00:03:00.440><c> ejemplo,</c><00:03:00.760><c> si</c>
+
+00:03:00.949 --> 00:03:00.959 align:start position:0%
+entre otras acciones. Por ejemplo, si
+ 
+
+00:03:00.959 --> 00:03:03.190 align:start position:0%
+entre otras acciones. Por ejemplo, si
+tenemos<00:03:01.360><c> usuarios</c><00:03:01.800><c> donde</c><00:03:02.200><c> solo</c><00:03:02.519><c> van</c><00:03:02.720><c> a</c><00:03:02.840><c> poder</c>
+
+00:03:03.190 --> 00:03:03.200 align:start position:0%
+tenemos usuarios donde solo van a poder
+ 
+
+00:03:03.200 --> 00:03:05.430 align:start position:0%
+tenemos usuarios donde solo van a poder
+visualizar<00:03:03.959><c> las</c><00:03:04.200><c> operaciones</c><00:03:05.000><c> y</c><00:03:05.200><c> no</c>
+
+00:03:05.430 --> 00:03:05.440 align:start position:0%
+visualizar las operaciones y no
+ 
+
+00:03:05.440 --> 00:03:08.229 align:start position:0%
+visualizar las operaciones y no
+modificarlas<00:03:06.319><c> o</c><00:03:06.480><c> eliminarlas,</c><00:03:07.519><c> lo</c><00:03:07.760><c> podemos</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+modificarlas o eliminarlas, lo podemos
+ 
+
+00:03:08.239 --> 00:03:10.869 align:start position:0%
+modificarlas o eliminarlas, lo podemos
+hacer<00:03:08.519><c> mediante</c><00:03:09.159><c> un</c><00:03:09.680><c> perfil</c><00:03:10.040><c> de</c><00:03:10.239><c> usuario.</c>
+
+00:03:10.869 --> 00:03:10.879 align:start position:0%
+hacer mediante un perfil de usuario.
+ 
+
+00:03:10.879 --> 00:03:13.309 align:start position:0%
+hacer mediante un perfil de usuario.
+Allí<00:03:11.200><c> podemos</c><00:03:11.640><c> indicar</c><00:03:12.360><c> qué</c><00:03:12.599><c> permisos,</c><00:03:13.120><c> qué</c>
+
+00:03:13.309 --> 00:03:13.319 align:start position:0%
+Allí podemos indicar qué permisos, qué
+ 
+
+00:03:13.319 --> 00:03:15.589 align:start position:0%
+Allí podemos indicar qué permisos, qué
+acciones<00:03:13.920><c> pueden</c><00:03:14.159><c> o</c><00:03:14.319><c> no</c><00:03:14.560><c> realizar</c><00:03:15.120><c> cada</c><00:03:15.440><c> uno</c>
+
+00:03:15.589 --> 00:03:15.599 align:start position:0%
+acciones pueden o no realizar cada uno
+ 
+
+00:03:15.599 --> 00:03:17.789 align:start position:0%
+acciones pueden o no realizar cada uno
+de<00:03:15.760><c> nuestros</c><00:03:16.080><c> usuarios.</c><00:03:17.319><c> Bueno,</c><00:03:17.519><c> vamos</c>
+
+00:03:17.789 --> 00:03:17.799 align:start position:0%
+de nuestros usuarios. Bueno, vamos
+ 
+
+00:03:17.799 --> 00:03:20.070 align:start position:0%
+de nuestros usuarios. Bueno, vamos
+entonces<00:03:18.000><c> a</c><00:03:18.120><c> cerrar</c><00:03:18.440><c> aquí</c><00:03:19.159><c> y</c><00:03:19.360><c> vamos</c><00:03:19.560><c> a</c><00:03:19.720><c> ver</c><00:03:19.879><c> la</c>
+
+00:03:20.070 --> 00:03:20.080 align:start position:0%
+entonces a cerrar aquí y vamos a ver la
+ 
+
+00:03:20.080 --> 00:03:23.070 align:start position:0%
+entonces a cerrar aquí y vamos a ver la
+siguiente<00:03:20.480><c> acción</c><00:03:21.200><c> que</c><00:03:21.400><c> es</c><00:03:21.799><c> duplicar</c><00:03:22.799><c> una</c>
+
+00:03:23.070 --> 00:03:23.080 align:start position:0%
+siguiente acción que es duplicar una
+ 
+
+00:03:23.080 --> 00:03:26.270 align:start position:0%
+siguiente acción que es duplicar una
+operación.<00:03:24.400><c> La</c><00:03:24.560><c> acción</c><00:03:25.000><c> duplicar</c><00:03:25.920><c> nos</c>
+
+00:03:26.270 --> 00:03:26.280 align:start position:0%
+operación. La acción duplicar nos
+ 
+
+00:03:26.280 --> 00:03:29.070 align:start position:0%
+operación. La acción duplicar nos
+permite<00:03:27.040><c> copiar</c><00:03:27.840><c> una</c><00:03:28.120><c> operación</c><00:03:28.760><c> ya</c>
+
+00:03:29.070 --> 00:03:29.080 align:start position:0%
+permite copiar una operación ya
+ 
+
+00:03:29.080 --> 00:03:31.789 align:start position:0%
+permite copiar una operación ya
+registrada.<00:03:30.239><c> Y</c><00:03:30.360><c> es</c><00:03:30.560><c> muy</c><00:03:30.760><c> útil</c><00:03:31.200><c> para</c><00:03:31.480><c> casos</c>
+
+00:03:31.789 --> 00:03:31.799 align:start position:0%
+registrada. Y es muy útil para casos
+ 
+
+00:03:31.799 --> 00:03:34.030 align:start position:0%
+registrada. Y es muy útil para casos
+donde<00:03:32.000><c> las</c><00:03:32.200><c> transacciones</c><00:03:33.000><c> se</c><00:03:33.280><c> repiten,</c><00:03:33.799><c> como</c>
+
+00:03:34.030 --> 00:03:34.040 align:start position:0%
+donde las transacciones se repiten, como
+ 
+
+00:03:34.040 --> 00:03:36.910 align:start position:0%
+donde las transacciones se repiten, como
+por<00:03:34.200><c> ejemplo</c><00:03:35.159><c> pagos</c><00:03:35.519><c> mensuales,</c><00:03:36.760><c> por</c>
+
+00:03:36.910 --> 00:03:36.920 align:start position:0%
+por ejemplo pagos mensuales, por
+ 
+
+00:03:36.920 --> 00:03:38.949 align:start position:0%
+por ejemplo pagos mensuales, por
+ejemplo,<00:03:37.360><c> ese</c><00:03:37.599><c> pago</c><00:03:37.799><c> de</c><00:03:37.959><c> servicios</c><00:03:38.400><c> públicos.</c>
+
+00:03:38.949 --> 00:03:38.959 align:start position:0%
+ejemplo, ese pago de servicios públicos.
+ 
+
+00:03:38.959 --> 00:03:40.750 align:start position:0%
+ejemplo, ese pago de servicios públicos.
+Si<00:03:39.080><c> es</c><00:03:39.200><c> la</c><00:03:39.400><c> misma</c><00:03:39.720><c> información</c><00:03:40.280><c> para</c><00:03:40.439><c> el</c><00:03:40.599><c> mes</c>
+
+00:03:40.750 --> 00:03:40.760 align:start position:0%
+Si es la misma información para el mes
+ 
+
+00:03:40.760 --> 00:03:43.149 align:start position:0%
+Si es la misma información para el mes
+siguiente,<00:03:41.519><c> simplemente</c><00:03:42.120><c> duplicamos</c><00:03:42.920><c> la</c>
+
+00:03:43.149 --> 00:03:43.159 align:start position:0%
+siguiente, simplemente duplicamos la
+ 
+
+00:03:43.159 --> 00:03:45.910 align:start position:0%
+siguiente, simplemente duplicamos la
+información<00:03:44.080><c> y</c><00:03:44.280><c> ya</c><00:03:44.799><c> entramos</c><00:03:45.280><c> a</c><00:03:45.480><c> él</c><00:03:45.720><c> a</c>
+
+00:03:45.910 --> 00:03:45.920 align:start position:0%
+información y ya entramos a él a
+ 
+
+00:03:45.920 --> 00:03:48.309 align:start position:0%
+información y ya entramos a él a
+corregir<00:03:46.360><c> lo</c><00:03:46.480><c> que</c><00:03:46.640><c> sea</c><00:03:46.920><c> necesario.</c><00:03:47.920><c> Miren</c><00:03:48.200><c> que</c>
+
+00:03:48.309 --> 00:03:48.319 align:start position:0%
+corregir lo que sea necesario. Miren que
+ 
+
+00:03:48.319 --> 00:03:50.630 align:start position:0%
+corregir lo que sea necesario. Miren que
+aquí<00:03:48.560><c> le</c><00:03:48.720><c> di</c><00:03:48.959><c> duplicar</c><00:03:49.599><c> a</c><00:03:49.799><c> la</c><00:03:49.920><c> operación</c><00:03:50.439><c> que</c>
+
+00:03:50.630 --> 00:03:50.640 align:start position:0%
+aquí le di duplicar a la operación que
+ 
+
+00:03:50.640 --> 00:03:52.229 align:start position:0%
+aquí le di duplicar a la operación que
+tenemos<00:03:51.040><c> registrada</c><00:03:51.599><c> o</c><00:03:51.760><c> que</c><00:03:51.879><c> teníamos</c>
+
+00:03:52.229 --> 00:03:52.239 align:start position:0%
+tenemos registrada o que teníamos
+ 
+
+00:03:52.239 --> 00:03:55.030 align:start position:0%
+tenemos registrada o que teníamos
+seleccionada<00:03:52.920><c> de</c><00:03:53.840><c> el</c><00:03:54.040><c> pago</c><00:03:54.319><c> por</c><00:03:54.560><c> servicios</c>
+
+00:03:55.030 --> 00:03:55.040 align:start position:0%
+seleccionada de el pago por servicios
+ 
+
+00:03:55.040 --> 00:03:57.990 align:start position:0%
+seleccionada de el pago por servicios
+públicos.<00:03:56.280><c> Aquí</c><00:03:56.480><c> en</c><00:03:56.640><c> la</c><00:03:56.840><c> parte</c><00:03:57.239><c> superior,</c><00:03:57.799><c> él</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+públicos. Aquí en la parte superior, él
+ 
+
+00:03:58.000 --> 00:03:59.910 align:start position:0%
+públicos. Aquí en la parte superior, él
+me<00:03:58.159><c> muestra</c><00:03:58.480><c> los</c><00:03:58.640><c> datos</c><00:03:58.920><c> de</c><00:03:59.079><c> la</c><00:03:59.200><c> operación</c>
+
+00:03:59.910 --> 00:03:59.920 align:start position:0%
+me muestra los datos de la operación
+ 
+
+00:03:59.920 --> 00:04:01.670 align:start position:0%
+me muestra los datos de la operación
+original,<00:04:00.400><c> la</c><00:04:00.519><c> operación</c><00:04:00.920><c> que</c><00:04:01.120><c> estamos</c>
+
+00:04:01.670 --> 00:04:01.680 align:start position:0%
+original, la operación que estamos
+ 
+
+00:04:01.680 --> 00:04:04.309 align:start position:0%
+original, la operación que estamos
+duplicando,<00:04:02.400><c> que</c><00:04:02.560><c> estamos</c><00:04:02.879><c> copiando.</c><00:04:04.040><c> Entre</c>
+
+00:04:04.309 --> 00:04:04.319 align:start position:0%
+duplicando, que estamos copiando. Entre
+ 
+
+00:04:04.319 --> 00:04:06.229 align:start position:0%
+duplicando, que estamos copiando. Entre
+ellos<00:04:04.599><c> me</c><00:04:04.760><c> muestra</c><00:04:05.040><c> el</c><00:04:05.200><c> tipo</c><00:04:05.400><c> de</c><00:04:05.480><c> documento,</c>
+
+00:04:06.229 --> 00:04:06.239 align:start position:0%
+ellos me muestra el tipo de documento,
+ 
+
+00:04:06.239 --> 00:04:08.470 align:start position:0%
+ellos me muestra el tipo de documento,
+cuál<00:04:06.480><c> es</c><00:04:06.599><c> el</c><00:04:06.760><c> consecutivo</c><00:04:07.400><c> actual,</c><00:04:08.239><c> la</c>
+
+00:04:08.470 --> 00:04:08.480 align:start position:0%
+cuál es el consecutivo actual, la
+ 
+
+00:04:08.480 --> 00:04:11.229 align:start position:0%
+cuál es el consecutivo actual, la
+moneda,<00:04:09.079><c> la</c><00:04:09.319><c> fecha</c><00:04:09.640><c> y</c><00:04:09.840><c> en</c><00:04:09.959><c> detalhe.</c><00:04:10.920><c> Y</c><00:04:11.040><c> me</c>
+
+00:04:11.229 --> 00:04:11.239 align:start position:0%
+moneda, la fecha y en detalhe. Y me
+ 
+
+00:04:11.239 --> 00:04:13.589 align:start position:0%
+moneda, la fecha y en detalhe. Y me
+indica<00:04:11.959><c> o</c><00:04:12.200><c> nos</c><00:04:12.439><c> permite</c><00:04:12.920><c> indicar</c><00:04:13.319><c> la</c>
+
+00:04:13.589 --> 00:04:13.599 align:start position:0%
+indica o nos permite indicar la
+ 
+
+00:04:13.599 --> 00:04:15.550 align:start position:0%
+indica o nos permite indicar la
+información<00:04:14.239><c> para</c><00:04:14.519><c> la</c><00:04:14.680><c> nueva</c><00:04:14.920><c> operación</c><00:04:15.400><c> que</c>
+
+00:04:15.550 --> 00:04:15.560 align:start position:0%
+información para la nueva operación que
+ 
+
+00:04:15.560 --> 00:04:17.710 align:start position:0%
+información para la nueva operación que
+estamos<00:04:15.840><c> copiando.</c><00:04:16.759><c> En</c><00:04:16.919><c> este</c><00:04:17.160><c> caso</c><00:04:17.359><c> me</c><00:04:17.519><c> trae</c>
+
+00:04:17.710 --> 00:04:17.720 align:start position:0%
+estamos copiando. En este caso me trae
+ 
+
+00:04:17.720 --> 00:04:19.749 align:start position:0%
+estamos copiando. En este caso me trae
+el<00:04:17.840><c> mismo</c><00:04:18.239><c> documento</c><00:04:18.880><c> soporte,</c><00:04:19.359><c> pero</c><00:04:19.560><c> lo</c>
+
+00:04:19.749 --> 00:04:19.759 align:start position:0%
+el mismo documento soporte, pero lo
+ 
+
+00:04:19.759 --> 00:04:22.510 align:start position:0%
+el mismo documento soporte, pero lo
+podemos<00:04:20.199><c> cambiar.</c><00:04:21.160><c> El</c><00:04:21.320><c> documento</c><00:04:22.079><c> en</c><00:04:22.280><c> este</c>
+
+00:04:22.510 --> 00:04:22.520 align:start position:0%
+podemos cambiar. El documento en este
+ 
+
+00:04:22.520 --> 00:04:24.790 align:start position:0%
+podemos cambiar. El documento en este
+momento<00:04:22.720><c> es</c><00:04:23.080><c> auto,</c><00:04:23.560><c> ya</c><00:04:23.800><c> cuando</c><00:04:24.040><c> se</c><00:04:24.320><c> genere</c><00:04:24.639><c> y</c>
+
+00:04:24.790 --> 00:04:24.800 align:start position:0%
+momento es auto, ya cuando se genere y
+ 
+
+00:04:24.800 --> 00:04:26.830 align:start position:0%
+momento es auto, ya cuando se genere y
+se<00:04:24.960><c> guarde,</c><00:04:25.320><c> nos</c><00:04:25.520><c> genera</c><00:04:25.960><c> el</c><00:04:26.199><c> consecutivo</c>
+
+00:04:26.830 --> 00:04:26.840 align:start position:0%
+se guarde, nos genera el consecutivo
+ 
+
+00:04:26.840 --> 00:04:29.270 align:start position:0%
+se guarde, nos genera el consecutivo
+correspondiente.<00:04:28.160><c> Nos</c><00:04:28.440><c> pregunta</c><00:04:28.919><c> en</c><00:04:29.039><c> qué</c>
+
+00:04:29.270 --> 00:04:29.280 align:start position:0%
+correspondiente. Nos pregunta en qué
+ 
+
+00:04:29.280 --> 00:04:31.550 align:start position:0%
+correspondiente. Nos pregunta en qué
+fecha<00:04:29.639><c> deseamos</c><00:04:30.160><c> duplicarla.</c><00:04:31.000><c> Aquí</c>
+
+00:04:31.550 --> 00:04:31.560 align:start position:0%
+fecha deseamos duplicarla. Aquí
+ 
+
+00:04:31.560 --> 00:04:33.830 align:start position:0%
+fecha deseamos duplicarla. Aquí
+indicamos,<00:04:32.120><c> bueno,</c><00:04:32.400><c> también</c><00:04:32.680><c> es</c><00:04:32.840><c> el</c><00:04:33.160><c> 14</c><00:04:33.639><c> del</c>
+
+00:04:33.830 --> 00:04:33.840 align:start position:0%
+indicamos, bueno, también es el 14 del
+ 
+
+00:04:33.840 --> 00:04:36.350 align:start position:0%
+indicamos, bueno, también es el 14 del
+mes<00:04:34.039><c> siguiente.</c><00:04:35.199><c> Nos</c><00:04:35.400><c> pide</c><00:04:35.639><c> un</c><00:04:35.800><c> detalle.</c>
+
+00:04:36.350 --> 00:04:36.360 align:start position:0%
+mes siguiente. Nos pide un detalle.
+ 
+
+00:04:36.360 --> 00:04:37.950 align:start position:0%
+mes siguiente. Nos pide un detalle.
+Vamos<00:04:36.520><c> a</c><00:04:36.680><c> poner</c><00:04:36.880><c> el</c><00:04:37.080><c> mismo</c><00:04:37.320><c> detalle</c><00:04:37.680><c> de</c><00:04:37.759><c> la</c>
+
+00:04:37.950 --> 00:04:37.960 align:start position:0%
+Vamos a poner el mismo detalle de la
+ 
+
+00:04:37.960 --> 00:04:40.790 align:start position:0%
+Vamos a poner el mismo detalle de la
+original.<00:04:39.039><c> Y</c><00:04:39.199><c> ya</c><00:04:39.360><c> en</c><00:04:39.440><c> la</c><00:04:39.560><c> parte</c><00:04:39.880><c> final</c><00:04:40.479><c> nos</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+original. Y ya en la parte final nos
+ 
+
+00:04:40.800 --> 00:04:43.110 align:start position:0%
+original. Y ya en la parte final nos
+pregunta<00:04:41.440><c> cómo</c><00:04:41.680><c> deseamos</c><00:04:42.320><c> incrementar</c><00:04:42.919><c> la</c>
+
+00:04:43.110 --> 00:04:43.120 align:start position:0%
+pregunta cómo deseamos incrementar la
+ 
+
+00:04:43.120 --> 00:04:45.990 align:start position:0%
+pregunta cómo deseamos incrementar la
+fecha.<00:04:44.080><c> una</c><00:04:44.360><c> semana,</c><00:04:44.960><c> en</c><00:04:45.120><c> este</c><00:04:45.320><c> caso</c><00:04:45.520><c> lo</c><00:04:45.720><c> tengo</c>
+
+00:04:45.990 --> 00:04:46.000 align:start position:0%
+fecha. una semana, en este caso lo tengo
+ 
+
+00:04:46.000 --> 00:04:49.550 align:start position:0%
+fecha. una semana, en este caso lo tengo
+un<00:04:46.160><c> mes,</c><00:04:46.520><c> por</c><00:04:46.680><c> eso</c><00:04:46.840><c> nos</c><00:04:47.320><c> sugiere</c><00:04:48.520><c> el</c><00:04:48.919><c> 13</c><00:04:49.320><c> del</c>
+
+00:04:49.550 --> 00:04:49.560 align:start position:0%
+un mes, por eso nos sugiere el 13 del
+ 
+
+00:04:49.560 --> 00:04:51.990 align:start position:0%
+un mes, por eso nos sugiere el 13 del
+mes<00:04:49.720><c> siguiente</c><00:04:50.120><c> o</c><00:04:50.280><c> el</c><00:04:50.479><c> 14</c><00:04:50.840><c> en</c><00:04:50.960><c> este</c><00:04:51.199><c> caso,</c><00:04:51.800><c> si</c>
+
+00:04:51.990 --> 00:04:52.000 align:start position:0%
+mes siguiente o el 14 en este caso, si
+ 
+
+00:04:52.000 --> 00:04:53.430 align:start position:0%
+mes siguiente o el 14 en este caso, si
+no<00:04:52.160><c> la</c><00:04:52.280><c> queremos</c><00:04:52.680><c> incrementar,</c><00:04:53.199><c> si</c><00:04:53.360><c> la</c>
+
+00:04:53.430 --> 00:04:53.440 align:start position:0%
+no la queremos incrementar, si la
+ 
+
+00:04:53.440 --> 00:04:55.629 align:start position:0%
+no la queremos incrementar, si la
+queremos<00:04:53.840><c> hacer</c><00:04:53.960><c> en</c><00:04:54.120><c> el</c><00:04:54.320><c> mismo</c><00:04:54.639><c> mes</c><00:04:55.199><c> o</c><00:04:55.440><c> los</c>
+
+00:04:55.629 --> 00:04:55.639 align:start position:0%
+queremos hacer en el mismo mes o los
+ 
+
+00:04:55.639 --> 00:04:58.390 align:start position:0%
+queremos hacer en el mismo mes o los
+días<00:04:55.880><c> que</c><00:04:56.120><c> deseamos</c><00:04:56.960><c> incrementarla.</c><00:04:58.120><c> También</c>
+
+00:04:58.390 --> 00:04:58.400 align:start position:0%
+días que deseamos incrementarla. También
+ 
+
+00:04:58.400 --> 00:05:00.430 align:start position:0%
+días que deseamos incrementarla. También
+nos<00:04:58.600><c> permite</c><00:04:58.960><c> indicar</c><00:04:59.560><c> el</c><00:04:59.759><c> número</c><00:05:00.039><c> de</c><00:05:00.199><c> veces</c>
+
+00:05:00.430 --> 00:05:00.440 align:start position:0%
+nos permite indicar el número de veces
+ 
+
+00:05:00.440 --> 00:05:03.110 align:start position:0%
+nos permite indicar el número de veces
+que<00:05:00.840><c> vamos</c><00:05:01.080><c> a</c><00:05:01.479><c> copiar</c><00:05:01.840><c> o</c><00:05:02.000><c> duplicar</c><00:05:02.840><c> esta</c>
+
+00:05:03.110 --> 00:05:03.120 align:start position:0%
+que vamos a copiar o duplicar esta
+ 
+
+00:05:03.120 --> 00:05:05.270 align:start position:0%
+que vamos a copiar o duplicar esta
+operación.<00:05:04.080><c> En</c><00:05:04.240><c> este</c><00:05:04.440><c> caso</c><00:05:04.639><c> le</c><00:05:04.759><c> voy</c><00:05:04.840><c> a</c><00:05:04.960><c> indicar</c>
+
+00:05:05.270 --> 00:05:05.280 align:start position:0%
+operación. En este caso le voy a indicar
+ 
+
+00:05:05.280 --> 00:05:08.270 align:start position:0%
+operación. En este caso le voy a indicar
+que<00:05:05.440><c> necesito</c><00:05:05.960><c> esta</c><00:05:06.160><c> operación</c><00:05:07.199><c> un</c><00:05:07.320><c> mes,</c><00:05:07.840><c> 30</c>
+
+00:05:08.270 --> 00:05:08.280 align:start position:0%
+que necesito esta operación un mes, 30
+ 
+
+00:05:08.280 --> 00:05:11.629 align:start position:0%
+que necesito esta operación un mes, 30
+días<00:05:08.680><c> y</c><00:05:08.919><c> simplemente</c><00:05:09.400><c> le</c><00:05:09.600><c> damos</c><00:05:10.199><c> aceptar.</c>
+
+00:05:11.629 --> 00:05:11.639 align:start position:0%
+días y simplemente le damos aceptar.
+ 
+
+00:05:11.639 --> 00:05:13.670 align:start position:0%
+días y simplemente le damos aceptar.
+Él<00:05:11.800><c> aquí</c><00:05:12.000><c> nos</c><00:05:12.199><c> indica</c><00:05:12.560><c> que</c><00:05:13.039><c> la</c><00:05:13.240><c> fecha</c><00:05:13.440><c> de</c><00:05:13.560><c> la</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+Él aquí nos indica que la fecha de la
+ 
+
+00:05:13.680 --> 00:05:16.510 align:start position:0%
+Él aquí nos indica que la fecha de la
+operación<00:05:14.199><c> quedó</c><00:05:15.000><c> en</c><00:05:15.160><c> el</c><00:05:15.280><c> mes</c><00:05:15.479><c> siguiente</c><00:05:16.280><c> y</c>
+
+00:05:16.510 --> 00:05:16.520 align:start position:0%
+operación quedó en el mes siguiente y
+ 
+
+00:05:16.520 --> 00:05:18.469 align:start position:0%
+operación quedó en el mes siguiente y
+como<00:05:16.759><c> tenemos</c><00:05:17.080><c> el</c><00:05:17.280><c> filtro</c><00:05:17.639><c> del</c><00:05:17.919><c> mes,</c><00:05:18.199><c> pues</c><00:05:18.360><c> no</c>
+
+00:05:18.469 --> 00:05:18.479 align:start position:0%
+como tenemos el filtro del mes, pues no
+ 
+
+00:05:18.479 --> 00:05:20.230 align:start position:0%
+como tenemos el filtro del mes, pues no
+la<00:05:18.639><c> vamos</c><00:05:18.800><c> a</c><00:05:18.919><c> encontrar</c><00:05:19.240><c> en</c><00:05:19.400><c> este</c><00:05:19.560><c> listado</c><00:05:20.039><c> y</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+la vamos a encontrar en este listado y
+ 
+
+00:05:20.240 --> 00:05:22.629 align:start position:0%
+la vamos a encontrar en este listado y
+debemos<00:05:21.440><c> eh</c><00:05:21.759><c> pasarnos</c><00:05:22.240><c> para</c><00:05:22.360><c> el</c><00:05:22.479><c> mes</c>
+
+00:05:22.629 --> 00:05:22.639 align:start position:0%
+debemos eh pasarnos para el mes
+ 
+
+00:05:22.639 --> 00:05:25.550 align:start position:0%
+debemos eh pasarnos para el mes
+siguiente.<00:05:23.199><c> Vamos</c><00:05:23.360><c> a</c><00:05:23.479><c> darle</c><00:05:23.680><c> aceptar</c>
+
+00:05:25.550 --> 00:05:25.560 align:start position:0%
+siguiente. Vamos a darle aceptar
+ 
+
+00:05:25.560 --> 00:05:27.749 align:start position:0%
+siguiente. Vamos a darle aceptar
+y<00:05:25.759><c> listo.</c><00:05:26.160><c> Si</c><00:05:26.240><c> nos</c><00:05:26.440><c> pasamos</c><00:05:26.919><c> para</c><00:05:27.120><c> el</c><00:05:27.280><c> mes</c><00:05:27.479><c> de</c>
+
+00:05:27.749 --> 00:05:27.759 align:start position:0%
+y listo. Si nos pasamos para el mes de
+ 
+
+00:05:27.759 --> 00:05:30.510 align:start position:0%
+y listo. Si nos pasamos para el mes de
+junio,<00:05:29.080><c> aquí</c><00:05:29.360><c> vamos</c><00:05:29.560><c> a</c><00:05:29.720><c> encontrar</c><00:05:30.120><c> la</c><00:05:30.280><c> nueva</c>
+
+00:05:30.510 --> 00:05:30.520 align:start position:0%
+junio, aquí vamos a encontrar la nueva
+ 
+
+00:05:30.520 --> 00:05:32.350 align:start position:0%
+junio, aquí vamos a encontrar la nueva
+operación<00:05:31.080><c> con</c><00:05:31.280><c> el</c><00:05:31.520><c> consecutivo</c>
+
+00:05:32.350 --> 00:05:32.360 align:start position:0%
+operación con el consecutivo
+ 
+
+00:05:32.360 --> 00:05:33.870 align:start position:0%
+operación con el consecutivo
+correspondiente.<00:05:33.160><c> Miren</c><00:05:33.360><c> que</c><00:05:33.479><c> ya</c><00:05:33.600><c> no</c><00:05:33.759><c> lo</c>
+
+00:05:33.870 --> 00:05:33.880 align:start position:0%
+correspondiente. Miren que ya no lo
+ 
+
+00:05:33.880 --> 00:05:36.230 align:start position:0%
+correspondiente. Miren que ya no lo
+muestra<00:05:34.280><c> auto,</c><00:05:34.840><c> sino</c><00:05:35.120><c> que</c><00:05:35.240><c> nos</c><00:05:35.440><c> calcula</c><00:05:36.000><c> el</c>
+
+00:05:36.230 --> 00:05:36.240 align:start position:0%
+muestra auto, sino que nos calcula el
+ 
+
+00:05:36.240 --> 00:05:38.790 align:start position:0%
+muestra auto, sino que nos calcula el
+consecutivo.<00:05:37.400><c> Ya</c><00:05:37.560><c> lo</c><00:05:37.680><c> que</c><00:05:37.759><c> debemos</c><00:05:38.199><c> hacer</c><00:05:38.440><c> es</c>
+
+00:05:38.790 --> 00:05:38.800 align:start position:0%
+consecutivo. Ya lo que debemos hacer es
+ 
+
+00:05:38.800 --> 00:05:40.670 align:start position:0%
+consecutivo. Ya lo que debemos hacer es
+ingresar<00:05:39.240><c> a</c><00:05:39.520><c> ella.</c><00:05:39.840><c> Le</c><00:05:40.000><c> podemos</c><00:05:40.240><c> dar</c><00:05:40.440><c> clic</c>
+
+00:05:40.670 --> 00:05:40.680 align:start position:0%
+ingresar a ella. Le podemos dar clic
+ 
+
+00:05:40.680 --> 00:05:43.469 align:start position:0%
+ingresar a ella. Le podemos dar clic
+derecho,<00:05:41.080><c> modificar,</c><00:05:42.560><c> cambiar</c><00:05:43.039><c> lo</c><00:05:43.199><c> que</c><00:05:43.319><c> es</c>
+
+00:05:43.469 --> 00:05:43.479 align:start position:0%
+derecho, modificar, cambiar lo que es
+ 
+
+00:05:43.479 --> 00:05:45.150 align:start position:0%
+derecho, modificar, cambiar lo que es
+necesario.<00:05:44.120><c> Digamos</c><00:05:44.479><c> que,</c><00:05:44.680><c> por</c><00:05:44.800><c> ejemplo,</c>
+
+00:05:45.150 --> 00:05:45.160 align:start position:0%
+necesario. Digamos que, por ejemplo,
+ 
+
+00:05:45.160 --> 00:05:48.270 align:start position:0%
+necesario. Digamos que, por ejemplo,
+para<00:05:45.400><c> este</c><00:05:45.720><c> mes</c><00:05:46.240><c> llegó</c><00:05:46.639><c> de</c><00:05:46.840><c> 620,000es</c><00:05:48.080><c> la</c>
+
+00:05:48.270 --> 00:05:48.280 align:start position:0%
+para este mes llegó de 620,000es la
+ 
+
+00:05:48.280 --> 00:05:51.790 align:start position:0%
+para este mes llegó de 620,000es la
+factura.<00:05:49.400><c> Cambiamos</c><00:05:49.919><c> el</c><00:05:50.120><c> valor</c><00:05:51.240><c> de</c><00:05:51.400><c> más</c><00:05:51.560><c> datos</c>
+
+00:05:51.790 --> 00:05:51.800 align:start position:0%
+factura. Cambiamos el valor de más datos
+ 
+
+00:05:51.800 --> 00:05:55.230 align:start position:0%
+factura. Cambiamos el valor de más datos
+si<00:05:51.960><c> es</c><00:05:52.080><c> necesario.</c><00:05:53.120><c> Siguiente.</c><00:05:54.520><c> Subimos</c><00:05:55.039><c> el</c>
+
+00:05:55.230 --> 00:05:55.240 align:start position:0%
+si es necesario. Siguiente. Subimos el
+ 
+
+00:05:55.240 --> 00:05:57.230 align:start position:0%
+si es necesario. Siguiente. Subimos el
+valor<00:05:55.560><c> para</c><00:05:55.720><c> que</c><00:05:55.919><c> quede</c><00:05:56.280><c> actualizado</c><00:05:56.919><c> de</c><00:05:57.080><c> la</c>
+
+00:05:57.230 --> 00:05:57.240 align:start position:0%
+valor para que quede actualizado de la
+ 
+
+00:05:57.240 --> 00:05:59.710 align:start position:0%
+valor para que quede actualizado de la
+forma<00:05:57.440><c> de</c><00:05:57.639><c> pago</c><00:05:57.919><c> y</c><00:05:58.240><c> finalizar.</c><00:05:59.280><c> Y</c><00:05:59.440><c> así</c>
+
+00:05:59.710 --> 00:05:59.720 align:start position:0%
+forma de pago y finalizar. Y así
+ 
+
+00:05:59.720 --> 00:06:03.590 align:start position:0%
+forma de pago y finalizar. Y así
+duplicamos<00:06:00.800><c> una</c><00:06:01.080><c> operación.</c><00:06:02.240><c> Y</c><00:06:02.400><c> listo.</c><00:06:03.360><c> Voy</c><00:06:03.520><c> a</c>
+
+00:06:03.590 --> 00:06:03.600 align:start position:0%
+duplicamos una operación. Y listo. Voy a
+ 
+
+00:06:03.600 --> 00:06:06.510 align:start position:0%
+duplicamos una operación. Y listo. Voy a
+devolverme<00:06:04.120><c> para</c><00:06:04.319><c> el</c><00:06:04.440><c> mes</c><00:06:04.639><c> anterior</c>
+
+00:06:06.510 --> 00:06:06.520 align:start position:0%
+devolverme para el mes anterior
+ 
+
+00:06:06.520 --> 00:06:08.950 align:start position:0%
+devolverme para el mes anterior
+para<00:06:06.759><c> que</c><00:06:06.960><c> revisemos</c><00:06:07.440><c> la</c><00:06:07.639><c> siguiente</c><00:06:08.039><c> acción.</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+para que revisemos la siguiente acción.
+ 
+
+00:06:08.960 --> 00:06:10.670 align:start position:0%
+para que revisemos la siguiente acción.
+La<00:06:09.160><c> siguiente</c><00:06:09.520><c> acción</c><00:06:09.960><c> que</c><00:06:10.199><c> podemos</c>
+
+00:06:10.670 --> 00:06:10.680 align:start position:0%
+La siguiente acción que podemos
+ 
+
+00:06:10.680 --> 00:06:13.350 align:start position:0%
+La siguiente acción que podemos
+encontrar<00:06:11.680><c> y</c><00:06:12.080><c> la</c><00:06:12.280><c> podemos</c><00:06:12.639><c> encontrar</c><00:06:13.039><c> en</c><00:06:13.199><c> la</c>
+
+00:06:13.350 --> 00:06:13.360 align:start position:0%
+encontrar y la podemos encontrar en la
+ 
+
+00:06:13.360 --> 00:06:15.189 align:start position:0%
+encontrar y la podemos encontrar en la
+parte<00:06:13.639><c> superior</c><00:06:14.240><c> es,</c><00:06:14.479><c> por</c><00:06:14.639><c> ejemplo,</c><00:06:15.000><c> la</c>
+
+00:06:15.189 --> 00:06:15.199 align:start position:0%
+parte superior es, por ejemplo, la
+ 
+
+00:06:15.199 --> 00:06:18.230 align:start position:0%
+parte superior es, por ejemplo, la
+opción<00:06:15.800><c> eliminar.</c><00:06:16.960><c> Si</c><00:06:17.080><c> nos</c><00:06:17.360><c> ubicamos</c><00:06:17.960><c> en</c><00:06:18.120><c> la</c>
+
+00:06:18.230 --> 00:06:18.240 align:start position:0%
+opción eliminar. Si nos ubicamos en la
+ 
+
+00:06:18.240 --> 00:06:20.309 align:start position:0%
+opción eliminar. Si nos ubicamos en la
+operación,<00:06:19.280><c> aquí</c><00:06:19.560><c> vamos</c><00:06:19.759><c> a</c><00:06:19.880><c> encontrar</c><00:06:20.199><c> la</c>
+
+00:06:20.309 --> 00:06:20.319 align:start position:0%
+operación, aquí vamos a encontrar la
+ 
+
+00:06:20.319 --> 00:06:23.309 align:start position:0%
+operación, aquí vamos a encontrar la
+opción<00:06:20.560><c> de</c><00:06:21.000><c> eliminar</c><00:06:21.840><c> operación.</c><00:06:23.160><c> Si</c>
+
+00:06:23.309 --> 00:06:23.319 align:start position:0%
+opción de eliminar operación. Si
+ 
+
+00:06:23.319 --> 00:06:25.909 align:start position:0%
+opción de eliminar operación. Si
+registramos,<00:06:23.960><c> por</c><00:06:24.160><c> ejemplo,</c><00:06:24.840><c> una</c><00:06:25.120><c> operación</c>
+
+00:06:25.909 --> 00:06:25.919 align:start position:0%
+registramos, por ejemplo, una operación
+ 
+
+00:06:25.919 --> 00:06:28.270 align:start position:0%
+registramos, por ejemplo, una operación
+por<00:06:26.120><c> error,</c><00:06:27.000><c> podemos</c><00:06:27.440><c> usar</c><00:06:27.759><c> la</c><00:06:27.919><c> opción</c><00:06:28.160><c> de</c>
+
+00:06:28.270 --> 00:06:28.280 align:start position:0%
+por error, podemos usar la opción de
+ 
+
+00:06:28.280 --> 00:06:30.710 align:start position:0%
+por error, podemos usar la opción de
+eliminar<00:06:28.800><c> para</c><00:06:29.039><c> borrarla</c><00:06:29.440><c> de</c><00:06:29.639><c> sistema.</c><00:06:30.560><c> En</c>
+
+00:06:30.710 --> 00:06:30.720 align:start position:0%
+eliminar para borrarla de sistema. En
+ 
+
+00:06:30.720 --> 00:06:33.029 align:start position:0%
+eliminar para borrarla de sistema. En
+este<00:06:31.000><c> caso,</c><00:06:31.319><c> realicemos</c><00:06:31.840><c> un</c><00:06:32.039><c> ejemplo</c><00:06:32.680><c> con</c><00:06:32.880><c> el</c>
+
+00:06:33.029 --> 00:06:33.039 align:start position:0%
+este caso, realicemos un ejemplo con el
+ 
+
+00:06:33.039 --> 00:06:35.270 align:start position:0%
+este caso, realicemos un ejemplo con el
+gasto<00:06:33.360><c> que</c><00:06:33.680><c> duplicamos</c><00:06:34.319><c> hace</c><00:06:34.639><c> un</c><00:06:34.800><c> momento,</c>
+
+00:06:35.270 --> 00:06:35.280 align:start position:0%
+gasto que duplicamos hace un momento,
+ 
+
+00:06:35.280 --> 00:06:36.710 align:start position:0%
+gasto que duplicamos hace un momento,
+que<00:06:35.440><c> es</c><00:06:35.599><c> esta</c><00:06:35.800><c> que</c><00:06:35.960><c> tenemos</c><00:06:36.319><c> aquí.</c>
+
+00:06:36.710 --> 00:06:36.720 align:start position:0%
+que es esta que tenemos aquí.
+ 
+
+00:06:36.720 --> 00:06:39.710 align:start position:0%
+que es esta que tenemos aquí.
+Simplemente<00:06:37.759><c> seleccionamos</c><00:06:38.520><c> la</c><00:06:38.680><c> operación,</c>
+
+00:06:39.710 --> 00:06:39.720 align:start position:0%
+Simplemente seleccionamos la operación,
+ 
+
+00:06:39.720 --> 00:06:42.390 align:start position:0%
+Simplemente seleccionamos la operación,
+le<00:06:39.919><c> damos</c><00:06:40.280><c> eliminar.</c><00:06:41.160><c> El</c><00:06:41.319><c> sistema</c><00:06:41.680><c> pedirá</c>
+
+00:06:42.390 --> 00:06:42.400 align:start position:0%
+le damos eliminar. El sistema pedirá
+ 
+
+00:06:42.400 --> 00:06:44.189 align:start position:0%
+le damos eliminar. El sistema pedirá
+confirmación<00:06:43.120><c> antes</c><00:06:43.360><c> de</c><00:06:43.520><c> eliminar</c>
+
+00:06:44.189 --> 00:06:44.199 align:start position:0%
+confirmación antes de eliminar
+ 
+
+00:06:44.199 --> 00:06:46.710 align:start position:0%
+confirmación antes de eliminar
+definitivamente<00:06:45.199><c> una</c><00:06:45.440><c> operación.</c><00:06:46.520><c> Esta</c>
+
+00:06:46.710 --> 00:06:46.720 align:start position:0%
+definitivamente una operación. Esta
+ 
+
+00:06:46.720 --> 00:06:48.950 align:start position:0%
+definitivamente una operación. Esta
+opción<00:06:47.199><c> elimina</c><00:06:47.960><c> completamente</c><00:06:48.720><c> el</c>
+
+00:06:48.950 --> 00:06:48.960 align:start position:0%
+opción elimina completamente el
+ 
+
+00:06:48.960 --> 00:06:51.909 align:start position:0%
+opción elimina completamente el
+registro,<00:06:49.680><c> por</c><00:06:49.880><c> lo</c><00:06:50.039><c> tanto</c><00:06:50.800><c> no</c><00:06:51.000><c> va</c><00:06:51.120><c> a</c><00:06:51.240><c> conservar</c>
+
+00:06:51.909 --> 00:06:51.919 align:start position:0%
+registro, por lo tanto no va a conservar
+ 
+
+00:06:51.919 --> 00:06:54.350 align:start position:0%
+registro, por lo tanto no va a conservar
+el<00:06:52.199><c> historial</c><00:06:52.880><c> ni</c><00:06:53.120><c> el</c><00:06:53.360><c> consecutivo</c><00:06:54.120><c> para</c>
+
+00:06:54.350 --> 00:06:54.360 align:start position:0%
+el historial ni el consecutivo para
+ 
+
+00:06:54.360 --> 00:06:56.550 align:start position:0%
+el historial ni el consecutivo para
+tenerlo<00:06:54.759><c> en</c><00:06:54.919><c> cuenta.</c><00:06:55.759><c> Y</c><00:06:55.879><c> simplemente</c><00:06:56.360><c> le</c>
+
+00:06:56.550 --> 00:06:56.560 align:start position:0%
+tenerlo en cuenta. Y simplemente le
+ 
+
+00:06:56.560 --> 00:06:58.950 align:start position:0%
+tenerlo en cuenta. Y simplemente le
+damos<00:06:56.919><c> sí</c><00:06:57.319><c> eliminar.</c><00:06:58.080><c> Y</c><00:06:58.240><c> listo,</c><00:06:58.520><c> aquí</c><00:06:58.680><c> queda</c>
+
+00:06:58.950 --> 00:06:58.960 align:start position:0%
+damos sí eliminar. Y listo, aquí queda
+ 
+
+00:06:58.960 --> 00:07:01.230 align:start position:0%
+damos sí eliminar. Y listo, aquí queda
+eliminada<00:06:59.400><c> la</c><00:06:59.599><c> operación,</c><00:07:00.479><c> queda</c><00:07:00.800><c> eliminado</c>
+
+00:07:01.230 --> 00:07:01.240 align:start position:0%
+eliminada la operación, queda eliminado
+ 
+
+00:07:01.240 --> 00:07:03.550 align:start position:0%
+eliminada la operación, queda eliminado
+todo<00:07:01.520><c> su</c><00:07:01.800><c> registro</c><00:07:02.319><c> completamente</c><00:07:03.240><c> del</c>
+
+00:07:03.550 --> 00:07:03.560 align:start position:0%
+todo su registro completamente del
+ 
+
+00:07:03.560 --> 00:07:06.070 align:start position:0%
+todo su registro completamente del
+sistema<00:07:03.960><c> para</c><00:07:04.199><c> que</c><00:07:04.599><c> se</c><00:07:04.800><c> tenga</c><00:07:05.080><c> en</c><00:07:05.199><c> cuenta.</c>
+
+00:07:06.070 --> 00:07:06.080 align:start position:0%
+sistema para que se tenga en cuenta.
+ 
+
+00:07:06.080 --> 00:07:08.070 align:start position:0%
+sistema para que se tenga en cuenta.
+Recordemos<00:07:06.639><c> que</c><00:07:06.800><c> estas</c><00:07:07.080><c> acciones</c><00:07:07.520><c> lo</c><00:07:07.759><c> pueden</c>
+
+00:07:08.070 --> 00:07:08.080 align:start position:0%
+Recordemos que estas acciones lo pueden
+ 
+
+00:07:08.080 --> 00:07:09.950 align:start position:0%
+Recordemos que estas acciones lo pueden
+hacer<00:07:08.319><c> los</c><00:07:08.560><c> usuarios</c><00:07:08.960><c> que</c><00:07:09.120><c> tengan</c><00:07:09.599><c> esos</c>
+
+00:07:09.950 --> 00:07:09.960 align:start position:0%
+hacer los usuarios que tengan esos
+ 
+
+00:07:09.960 --> 00:07:12.110 align:start position:0%
+hacer los usuarios que tengan esos
+permisos.<00:07:11.120><c> Vamos</c><00:07:11.400><c> entonces</c><00:07:11.680><c> al</c><00:07:11.879><c> mes</c>
+
+00:07:12.110 --> 00:07:12.120 align:start position:0%
+permisos. Vamos entonces al mes
+ 
+
+00:07:12.120 --> 00:07:14.510 align:start position:0%
+permisos. Vamos entonces al mes
+anterior.<00:07:13.280><c> Y</c><00:07:13.440><c> otra</c><00:07:13.680><c> de</c><00:07:13.800><c> las</c><00:07:13.960><c> acciones</c><00:07:14.319><c> que</c>
+
+00:07:14.510 --> 00:07:14.520 align:start position:0%
+anterior. Y otra de las acciones que
+ 
+
+00:07:14.520 --> 00:07:16.670 align:start position:0%
+anterior. Y otra de las acciones que
+podemos<00:07:14.960><c> aplicar</c><00:07:15.680><c> en</c><00:07:15.840><c> una</c><00:07:16.039><c> operación</c><00:07:16.440><c> ya</c>
+
+00:07:16.670 --> 00:07:16.680 align:start position:0%
+podemos aplicar en una operación ya
+ 
+
+00:07:16.680 --> 00:07:18.749 align:start position:0%
+podemos aplicar en una operación ya
+registrada<00:07:17.599><c> también</c><00:07:17.879><c> la</c><00:07:18.039><c> encontramos</c><00:07:18.479><c> en</c><00:07:18.639><c> la</c>
+
+00:07:18.749 --> 00:07:18.759 align:start position:0%
+registrada también la encontramos en la
+ 
+
+00:07:18.759 --> 00:07:22.350 align:start position:0%
+registrada también la encontramos en la
+parte<00:07:19.120><c> superior</c><00:07:19.960><c> y</c><00:07:20.120><c> es</c><00:07:20.240><c> la</c><00:07:20.400><c> opción</c><00:07:20.720><c> de</c><00:07:21.560><c> anular</c>
+
+00:07:22.350 --> 00:07:22.360 align:start position:0%
+parte superior y es la opción de anular
+ 
+
+00:07:22.360 --> 00:07:25.390 align:start position:0%
+parte superior y es la opción de anular
+operación.<00:07:23.360><c> A</c><00:07:23.560><c> diferencia</c><00:07:24.160><c> de</c><00:07:24.759><c> la</c><00:07:24.960><c> acción</c>
+
+00:07:25.390 --> 00:07:25.400 align:start position:0%
+operación. A diferencia de la acción
+ 
+
+00:07:25.400 --> 00:07:28.710 align:start position:0%
+operación. A diferencia de la acción
+eliminar,<00:07:26.680><c> anular</c><00:07:27.560><c> mantiene</c><00:07:28.120><c> la</c><00:07:28.319><c> operación</c>
+
+00:07:28.710 --> 00:07:28.720 align:start position:0%
+eliminar, anular mantiene la operación
+ 
+
+00:07:28.720 --> 00:07:31.790 align:start position:0%
+eliminar, anular mantiene la operación
+en<00:07:28.919><c> el</c><00:07:29.080><c> sistema,</c><00:07:29.960><c> pero</c><00:07:30.400><c> es</c><00:07:30.680><c> como</c><00:07:30.919><c> si</c><00:07:31.080><c> indicara</c>
+
+00:07:31.790 --> 00:07:31.800 align:start position:0%
+en el sistema, pero es como si indicara
+ 
+
+00:07:31.800 --> 00:07:34.869 align:start position:0%
+en el sistema, pero es como si indicara
+que<00:07:32.080><c> ya</c><00:07:32.280><c> no</c><00:07:32.520><c> tiene</c><00:07:32.960><c> una</c><00:07:33.240><c> validez</c><00:07:33.919><c> eh</c><00:07:34.360><c> contable.</c>
+
+00:07:34.869 --> 00:07:34.879 align:start position:0%
+que ya no tiene una validez eh contable.
+ 
+
+00:07:34.879 --> 00:07:36.749 align:start position:0%
+que ya no tiene una validez eh contable.
+En<00:07:35.000><c> este</c><00:07:35.240><c> caso,</c><00:07:35.919><c> aquí,</c><00:07:36.199><c> como</c><00:07:36.400><c> se</c><00:07:36.560><c> puede</c>
+
+00:07:36.749 --> 00:07:36.759 align:start position:0%
+En este caso, aquí, como se puede
+ 
+
+00:07:36.759 --> 00:07:38.430 align:start position:0%
+En este caso, aquí, como se puede
+observar,<00:07:37.240><c> simplemente</c><00:07:37.720><c> me</c><00:07:37.960><c> ubiqué</c><00:07:38.199><c> en</c><00:07:38.280><c> la</c>
+
+00:07:38.430 --> 00:07:38.440 align:start position:0%
+observar, simplemente me ubiqué en la
+ 
+
+00:07:38.440 --> 00:07:41.550 align:start position:0%
+observar, simplemente me ubiqué en la
+operación,<00:07:39.160><c> le</c><00:07:39.319><c> di</c><00:07:39.560><c> anular,</c><00:07:40.520><c> él</c><00:07:40.759><c> me</c><00:07:40.960><c> pregunta</c>
+
+00:07:41.550 --> 00:07:41.560 align:start position:0%
+operación, le di anular, él me pregunta
+ 
+
+00:07:41.560 --> 00:07:43.869 align:start position:0%
+operación, le di anular, él me pregunta
+si<00:07:41.919><c> estamos</c><00:07:42.280><c> seguros</c><00:07:42.639><c> de</c><00:07:42.840><c> que</c><00:07:43.120><c> deseamos</c>
+
+00:07:43.869 --> 00:07:43.879 align:start position:0%
+si estamos seguros de que deseamos
+ 
+
+00:07:43.879 --> 00:07:47.110 align:start position:0%
+si estamos seguros de que deseamos
+anular<00:07:44.440><c> esta</c><00:07:44.720><c> operación.</c><00:07:45.479><c> Le</c><00:07:45.680><c> decimos</c><00:07:46.080><c> que</c><00:07:46.319><c> sí</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+anular esta operación. Le decimos que sí
+ 
+
+00:07:47.120 --> 00:07:50.230 align:start position:0%
+anular esta operación. Le decimos que sí
+y<00:07:47.319><c> listo,</c><00:07:47.919><c> queda</c><00:07:48.479><c> anulada</c><00:07:48.960><c> la</c><00:07:49.120><c> operación.</c><00:07:50.039><c> Y</c>
+
+00:07:50.230 --> 00:07:50.240 align:start position:0%
+y listo, queda anulada la operación. Y
+ 
+
+00:07:50.240 --> 00:07:52.629 align:start position:0%
+y listo, queda anulada la operación. Y
+como<00:07:50.479><c> pueden</c><00:07:50.800><c> observar,</c><00:07:51.520><c> se</c><00:07:51.759><c> pone</c><00:07:52.240><c> de</c><00:07:52.440><c> un</c>
+
+00:07:52.629 --> 00:07:52.639 align:start position:0%
+como pueden observar, se pone de un
+ 
+
+00:07:52.639 --> 00:07:55.309 align:start position:0%
+como pueden observar, se pone de un
+color<00:07:53.000><c> gris</c><00:07:53.879><c> para</c><00:07:54.159><c> indicar</c><00:07:54.759><c> que</c><00:07:55.039><c> esta</c>
+
+00:07:55.309 --> 00:07:55.319 align:start position:0%
+color gris para indicar que esta
+ 
+
+00:07:55.319 --> 00:07:58.390 align:start position:0%
+color gris para indicar que esta
+operación<00:07:56.159><c> está</c><00:07:56.800><c> anulada</c><00:07:57.639><c> y</c><00:07:57.840><c> ya</c><00:07:58.039><c> no</c><00:07:58.199><c> está</c>
+
+00:07:58.390 --> 00:07:58.400 align:start position:0%
+operación está anulada y ya no está
+ 
+
+00:07:58.400 --> 00:08:00.749 align:start position:0%
+operación está anulada y ya no está
+generando<00:07:59.039><c> movimientos</c><00:07:59.960><c> en</c><00:08:00.159><c> el</c><00:08:00.319><c> sistema,</c>
+
+00:08:00.749 --> 00:08:00.759 align:start position:0%
+generando movimientos en el sistema,
+ 
+
+00:08:00.759 --> 00:08:03.110 align:start position:0%
+generando movimientos en el sistema,
+movimientos<00:08:01.360><c> como</c><00:08:01.840><c> contables,</c><00:08:02.919><c> de</c>
+
+00:08:03.110 --> 00:08:03.120 align:start position:0%
+movimientos como contables, de
+ 
+
+00:08:03.120 --> 00:08:05.990 align:start position:0%
+movimientos como contables, de
+inventarios,<00:08:03.919><c> de</c><00:08:04.199><c> activos,</c><00:08:05.240><c> eh</c><00:08:05.479><c> no</c><00:08:05.680><c> se</c><00:08:05.800><c> va</c><00:08:05.919><c> a</c>
+
+00:08:05.990 --> 00:08:06.000 align:start position:0%
+inventarios, de activos, eh no se va a
+ 
+
+00:08:06.000 --> 00:08:08.309 align:start position:0%
+inventarios, de activos, eh no se va a
+ver<00:08:06.159><c> visualizada</c><00:08:06.759><c> en</c><00:08:06.879><c> los</c><00:08:07.199><c> informes</c><00:08:08.000><c> porque</c>
+
+00:08:08.309 --> 00:08:08.319 align:start position:0%
+ver visualizada en los informes porque
+ 
+
+00:08:08.319 --> 00:08:11.270 align:start position:0%
+ver visualizada en los informes porque
+la<00:08:08.520><c> tenemos</c><00:08:09.199><c> anulada,</c><00:08:10.000><c> ¿sí?</c><00:08:10.840><c> Pero</c><00:08:11.039><c> como</c>
+
+00:08:11.270 --> 00:08:11.280 align:start position:0%
+la tenemos anulada, ¿sí? Pero como
+ 
+
+00:08:11.280 --> 00:08:12.830 align:start position:0%
+la tenemos anulada, ¿sí? Pero como
+pueden<00:08:11.520><c> observar,</c><00:08:12.039><c> se</c><00:08:12.199><c> mantiene</c><00:08:12.560><c> en</c><00:08:12.680><c> el</c>
+
+00:08:12.830 --> 00:08:12.840 align:start position:0%
+pueden observar, se mantiene en el
+ 
+
+00:08:12.840 --> 00:08:15.309 align:start position:0%
+pueden observar, se mantiene en el
+sistema<00:08:13.240><c> y</c><00:08:13.479><c> estamos</c><00:08:13.800><c> conservando</c><00:08:14.599><c> en</c><00:08:15.120><c> el</c>
+
+00:08:15.309 --> 00:08:15.319 align:start position:0%
+sistema y estamos conservando en el
+ 
+
+00:08:15.319 --> 00:08:18.189 align:start position:0%
+sistema y estamos conservando en el
+consecutivo<00:08:16.000><c> como</c><00:08:16.240><c> tal.</c><00:08:17.199><c> Para</c><00:08:17.479><c> recuperar</c><00:08:18.000><c> una</c>
+
+00:08:18.189 --> 00:08:18.199 align:start position:0%
+consecutivo como tal. Para recuperar una
+ 
+
+00:08:18.199 --> 00:08:20.070 align:start position:0%
+consecutivo como tal. Para recuperar una
+operación<00:08:18.840><c> anulada,</c><00:08:19.360><c> que</c><00:08:19.479><c> es</c><00:08:19.599><c> otra</c><00:08:19.800><c> de</c><00:08:19.919><c> las</c>
+
+00:08:20.070 --> 00:08:20.080 align:start position:0%
+operación anulada, que es otra de las
+ 
+
+00:08:20.080 --> 00:08:22.790 align:start position:0%
+operación anulada, que es otra de las
+ventajas<00:08:20.560><c> que</c><00:08:20.759><c> tiene,</c><00:08:21.479><c> simplemente</c><00:08:22.479><c> nos</c>
+
+00:08:22.790 --> 00:08:22.800 align:start position:0%
+ventajas que tiene, simplemente nos
+ 
+
+00:08:22.800 --> 00:08:25.710 align:start position:0%
+ventajas que tiene, simplemente nos
+ubicamos<00:08:23.400><c> en</c><00:08:23.759><c> ella</c><00:08:24.080><c> y</c><00:08:24.240><c> le</c><00:08:24.400><c> damos</c><00:08:24.759><c> nuevamente</c>
+
+00:08:25.710 --> 00:08:25.720 align:start position:0%
+ubicamos en ella y le damos nuevamente
+ 
+
+00:08:25.720 --> 00:08:28.149 align:start position:0%
+ubicamos en ella y le damos nuevamente
+anular.<00:08:26.560><c> Y</c><00:08:26.720><c> aquí</c><00:08:26.960><c> nos</c><00:08:27.159><c> vuelve</c><00:08:27.400><c> a</c><00:08:27.560><c> preguntar</c><00:08:27.960><c> si</c>
+
+00:08:28.149 --> 00:08:28.159 align:start position:0%
+anular. Y aquí nos vuelve a preguntar si
+ 
+
+00:08:28.159 --> 00:08:31.629 align:start position:0%
+anular. Y aquí nos vuelve a preguntar si
+deseamos<00:08:28.919><c> anular</c><00:08:29.560><c> o</c><00:08:29.919><c> recuperar</c><00:08:30.960><c> la</c><00:08:31.199><c> operación</c>
+
+00:08:31.629 --> 00:08:31.639 align:start position:0%
+deseamos anular o recuperar la operación
+ 
+
+00:08:31.639 --> 00:08:34.630 align:start position:0%
+deseamos anular o recuperar la operación
+seleccionada.<00:08:32.440><c> Le</c><00:08:32.640><c> damos</c><00:08:32.919><c> que</c><00:08:33.159><c> sí</c><00:08:33.959><c> y</c><00:08:34.200><c> listo.</c>
+
+00:08:34.630 --> 00:08:34.640 align:start position:0%
+seleccionada. Le damos que sí y listo.
+ 
+
+00:08:34.640 --> 00:08:37.589 align:start position:0%
+seleccionada. Le damos que sí y listo.
+El<00:08:34.760><c> sistema</c><00:08:35.240><c> recupera</c><00:08:35.760><c> la</c><00:08:35.959><c> operación</c><00:08:36.959><c> y</c><00:08:37.360><c> ya</c>
+
+00:08:37.589 --> 00:08:37.599 align:start position:0%
+El sistema recupera la operación y ya
+ 
+
+00:08:37.599 --> 00:08:40.469 align:start position:0%
+El sistema recupera la operación y ya
+queda<00:08:37.880><c> aquí</c><00:08:38.800><c> como</c><00:08:39.120><c> tal.</c><00:08:39.719><c> Ya</c><00:08:39.800><c> no</c><00:08:39.959><c> queda</c><00:08:40.240><c> como</c>
+
+00:08:40.469 --> 00:08:40.479 align:start position:0%
+queda aquí como tal. Ya no queda como
+ 
+
+00:08:40.479 --> 00:08:42.630 align:start position:0%
+queda aquí como tal. Ya no queda como
+con<00:08:40.680><c> un</c><00:08:40.839><c> color</c><00:08:41.159><c> gris,</c><00:08:41.479><c> sino</c><00:08:41.719><c> un</c><00:08:41.880><c> color</c><00:08:42.159><c> blanco</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+con un color gris, sino un color blanco
+ 
+
+00:08:42.640 --> 00:08:45.350 align:start position:0%
+con un color gris, sino un color blanco
+o<00:08:42.880><c> azul</c><00:08:43.279><c> si</c><00:08:43.519><c> está</c><00:08:43.839><c> procesada.</c>
+
+00:08:45.350 --> 00:08:45.360 align:start position:0%
+o azul si está procesada.
+ 
+
+00:08:45.360 --> 00:08:47.750 align:start position:0%
+o azul si está procesada.
+Ahora,<00:08:46.160><c> otra</c><00:08:46.480><c> de</c><00:08:46.600><c> las</c><00:08:46.760><c> acciones</c><00:08:47.160><c> que</c><00:08:47.360><c> tenemos</c>
+
+00:08:47.750 --> 00:08:47.760 align:start position:0%
+Ahora, otra de las acciones que tenemos
+ 
+
+00:08:47.760 --> 00:08:51.350 align:start position:0%
+Ahora, otra de las acciones que tenemos
+es<00:08:48.040><c> precisamente</c><00:08:49.160><c> procesar</c><00:08:49.920><c> una</c><00:08:50.240><c> operación.</c>
+
+00:08:51.350 --> 00:08:51.360 align:start position:0%
+es precisamente procesar una operación.
+ 
+
+00:08:51.360 --> 00:08:54.550 align:start position:0%
+es precisamente procesar una operación.
+Y<00:08:51.680><c> procesar</c><00:08:52.399><c> una</c><00:08:52.640><c> operación</c><00:08:53.720><c> significa</c><00:08:54.399><c> que</c>
+
+00:08:54.550 --> 00:08:54.560 align:start position:0%
+Y procesar una operación significa que
+ 
+
+00:08:54.560 --> 00:08:57.190 align:start position:0%
+Y procesar una operación significa que
+el<00:08:54.760><c> sistema</c><00:08:55.640><c> interpreta</c><00:08:56.399><c> los</c><00:08:56.640><c> datos</c><00:08:57.000><c> que</c>
+
+00:08:57.190 --> 00:08:57.200 align:start position:0%
+el sistema interpreta los datos que
+ 
+
+00:08:57.200 --> 00:08:59.829 align:start position:0%
+el sistema interpreta los datos que
+indicamos<00:08:58.040><c> en</c><00:08:58.240><c> la</c><00:08:58.360><c> operación</c><00:08:59.320><c> y</c><00:08:59.560><c> los</c>
+
+00:08:59.829 --> 00:08:59.839 align:start position:0%
+indicamos en la operación y los
+ 
+
+00:08:59.839 --> 00:09:02.590 align:start position:0%
+indicamos en la operación y los
+convierte<00:09:00.320><c> en</c><00:09:00.480><c> movimientos</c><00:09:01.399><c> contables,</c><00:09:02.440><c> en</c>
+
+00:09:02.590 --> 00:09:02.600 align:start position:0%
+convierte en movimientos contables, en
+ 
+
+00:09:02.600 --> 00:09:05.310 align:start position:0%
+convierte en movimientos contables, en
+movimientos<00:09:03.079><c> de</c><00:09:03.279><c> inventario,</c><00:09:04.240><c> de</c><00:09:04.519><c> activos,</c>
+
+00:09:05.310 --> 00:09:05.320 align:start position:0%
+movimientos de inventario, de activos,
+ 
+
+00:09:05.320 --> 00:09:07.990 align:start position:0%
+movimientos de inventario, de activos,
+presupuesto,<00:09:06.600><c> entre</c><00:09:06.880><c> otros</c><00:09:07.320><c> movimientos</c>
+
+00:09:07.990 --> 00:09:08.000 align:start position:0%
+presupuesto, entre otros movimientos
+ 
+
+00:09:08.000 --> 00:09:10.230 align:start position:0%
+presupuesto, entre otros movimientos
+según<00:09:08.320><c> el</c><00:09:08.440><c> licenciamiento</c><00:09:09.079><c> que</c><00:09:09.279><c> tenemos</c><00:09:09.880><c> o</c><00:09:10.079><c> la</c>
+
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+según el licenciamiento que tenemos o la
+ 
+
+00:09:10.240 --> 00:09:12.430 align:start position:0%
+según el licenciamiento que tenemos o la
+operación<00:09:10.640><c> que</c><00:09:10.839><c> estamos</c><00:09:11.200><c> procesando.</c>
+
+00:09:12.430 --> 00:09:12.440 align:start position:0%
+operación que estamos procesando.
+ 
+
+00:09:12.440 --> 00:09:15.430 align:start position:0%
+operación que estamos procesando.
+Simplemente<00:09:13.079><c> le</c><00:09:13.320><c> damos</c><00:09:13.839><c> procesar.</c>
+
+00:09:15.430 --> 00:09:15.440 align:start position:0%
+Simplemente le damos procesar.
+ 
+
+00:09:15.440 --> 00:09:18.350 align:start position:0%
+Simplemente le damos procesar.
+Y<00:09:15.640><c> como</c><00:09:15.920><c> pueden</c><00:09:16.240><c> observar,</c><00:09:17.360><c> la</c><00:09:17.680><c> columna</c><00:09:18.120><c> de</c>
+
+00:09:18.350 --> 00:09:18.360 align:start position:0%
+Y como pueden observar, la columna de
+ 
+
+00:09:18.360 --> 00:09:20.389 align:start position:0%
+Y como pueden observar, la columna de
+estado<00:09:18.839><c> tiene</c><00:09:19.160><c> la</c><00:09:19.399><c> columna</c><00:09:19.880><c> de</c><00:09:20.079><c> si</c><00:09:20.200><c> una</c>
+
+00:09:20.389 --> 00:09:20.399 align:start position:0%
+estado tiene la columna de si una
+ 
+
+00:09:20.399 --> 00:09:22.949 align:start position:0%
+estado tiene la columna de si una
+operación<00:09:21.040><c> está</c><00:09:21.360><c> procesada</c><00:09:21.800><c> o</c><00:09:21.959><c> no.</c><00:09:22.600><c> Miren</c><00:09:22.800><c> que</c>
+
+00:09:22.949 --> 00:09:22.959 align:start position:0%
+operación está procesada o no. Miren que
+ 
+
+00:09:22.959 --> 00:09:25.190 align:start position:0%
+operación está procesada o no. Miren que
+aquí<00:09:23.240><c> queda</c><00:09:23.680><c> activa</c><00:09:24.079><c> la</c><00:09:24.279><c> columna,</c><00:09:24.880><c> quiere</c>
+
+00:09:25.190 --> 00:09:25.200 align:start position:0%
+aquí queda activa la columna, quiere
+ 
+
+00:09:25.200 --> 00:09:27.910 align:start position:0%
+aquí queda activa la columna, quiere
+decir<00:09:25.440><c> que</c><00:09:25.640><c> está</c><00:09:26.000><c> procesada.</c><00:09:27.200><c> Otra</c><00:09:27.480><c> forma</c><00:09:27.760><c> de</c>
+
+00:09:27.910 --> 00:09:27.920 align:start position:0%
+decir que está procesada. Otra forma de
+ 
+
+00:09:27.920 --> 00:09:30.110 align:start position:0%
+decir que está procesada. Otra forma de
+saber<00:09:28.160><c> si</c><00:09:28.320><c> está</c><00:09:28.519><c> procesada</c><00:09:29.279><c> es</c><00:09:29.480><c> que</c><00:09:29.640><c> queda</c><00:09:29.959><c> de</c>
+
+00:09:30.110 --> 00:09:30.120 align:start position:0%
+saber si está procesada es que queda de
+ 
+
+00:09:30.120 --> 00:09:33.110 align:start position:0%
+saber si está procesada es que queda de
+un<00:09:30.279><c> color</c><00:09:30.680><c> como</c><00:09:31.360><c> azul.</c><00:09:32.279><c> Si</c><00:09:32.440><c> está</c><00:09:32.640><c> de</c><00:09:32.800><c> color</c>
+
+00:09:33.110 --> 00:09:33.120 align:start position:0%
+un color como azul. Si está de color
+ 
+
+00:09:33.120 --> 00:09:34.590 align:start position:0%
+un color como azul. Si está de color
+blanco<00:09:33.480><c> es</c><00:09:33.640><c> que</c><00:09:33.720><c> la</c><00:09:33.880><c> operación</c><00:09:34.320><c> está</c>
+
+00:09:34.590 --> 00:09:34.600 align:start position:0%
+blanco es que la operación está
+ 
+
+00:09:34.600 --> 00:09:37.670 align:start position:0%
+blanco es que la operación está
+registrada,<00:09:35.360><c> está</c><00:09:35.640><c> guardada,</c><00:09:36.600><c> pero</c><00:09:37.079><c> no</c><00:09:37.360><c> está</c>
+
+00:09:37.670 --> 00:09:37.680 align:start position:0%
+registrada, está guardada, pero no está
+ 
+
+00:09:37.680 --> 00:09:40.710 align:start position:0%
+registrada, está guardada, pero no está
+procesada.<00:09:38.279><c> Es</c><00:09:38.399><c> decir,</c><00:09:38.680><c> en</c><00:09:38.880><c> este</c><00:09:39.160><c> momento</c><00:09:39.959><c> no</c>
+
+00:09:40.710 --> 00:09:40.720 align:start position:0%
+procesada. Es decir, en este momento no
+ 
+
+00:09:40.720 --> 00:09:43.350 align:start position:0%
+procesada. Es decir, en este momento no
+se<00:09:41.000><c> puede</c><00:09:41.399><c> ver</c><00:09:41.800><c> esta</c><00:09:42.240><c> información</c><00:09:42.920><c> en</c><00:09:43.120><c> los</c>
+
+00:09:43.350 --> 00:09:43.360 align:start position:0%
+se puede ver esta información en los
+ 
+
+00:09:43.360 --> 00:09:45.630 align:start position:0%
+se puede ver esta información en los
+informes<00:09:43.880><c> contables</c><00:09:44.760><c> o</c><00:09:44.920><c> en</c><00:09:45.040><c> los</c><00:09:45.200><c> informes</c><00:09:45.519><c> de</c>
+
+00:09:45.630 --> 00:09:45.640 align:start position:0%
+informes contables o en los informes de
+ 
+
+00:09:45.640 --> 00:09:47.949 align:start position:0%
+informes contables o en los informes de
+inventarios<00:09:46.560><c> o</c><00:09:46.760><c> de</c><00:09:46.920><c> activos,</c><00:09:47.440><c> depende</c><00:09:47.839><c> pues</c>
+
+00:09:47.949 --> 00:09:47.959 align:start position:0%
+inventarios o de activos, depende pues
+ 
+
+00:09:47.959 --> 00:09:49.910 align:start position:0%
+inventarios o de activos, depende pues
+de<00:09:48.040><c> la</c><00:09:48.120><c> operación</c><00:09:48.440><c> que</c><00:09:48.560><c> estemos</c><00:09:48.880><c> registrando.</c>
+
+00:09:49.910 --> 00:09:49.920 align:start position:0%
+de la operación que estemos registrando.
+ 
+
+00:09:49.920 --> 00:09:52.470 align:start position:0%
+de la operación que estemos registrando.
+Pero<00:09:50.079><c> si</c><00:09:50.279><c> está</c><00:09:50.560><c> procesada,</c><00:09:51.600><c> ya</c><00:09:51.920><c> aquí</c><00:09:52.240><c> nos</c>
+
+00:09:52.470 --> 00:09:52.480 align:start position:0%
+Pero si está procesada, ya aquí nos
+ 
+
+00:09:52.480 --> 00:09:54.470 align:start position:0%
+Pero si está procesada, ya aquí nos
+muestra<00:09:53.240><c> también</c><00:09:53.560><c> en</c><00:09:53.760><c> el</c><00:09:53.880><c> estado</c><00:09:54.120><c> que</c><00:09:54.279><c> está</c>
+
+00:09:54.470 --> 00:09:54.480 align:start position:0%
+muestra también en el estado que está
+ 
+
+00:09:54.480 --> 00:09:57.269 align:start position:0%
+muestra también en el estado que está
+procesada<00:09:55.519><c> se</c><00:09:55.640><c> torna</c><00:09:55.920><c> de</c><00:09:56.079><c> un</c><00:09:56.200><c> color</c><00:09:56.519><c> azul</c><00:09:57.079><c> y</c>
+
+00:09:57.269 --> 00:09:57.279 align:start position:0%
+procesada se torna de un color azul y
+ 
+
+00:09:57.279 --> 00:09:59.710 align:start position:0%
+procesada se torna de un color azul y
+quiere<00:09:57.519><c> decir</c><00:09:57.760><c> que</c><00:09:58.200><c> ya</c><00:09:58.440><c> la</c><00:09:58.640><c> tenemos</c><00:09:59.160><c> en</c><00:09:59.399><c> los</c>
+
+00:09:59.710 --> 00:09:59.720 align:start position:0%
+quiere decir que ya la tenemos en los
+ 
+
+00:09:59.720 --> 00:10:01.910 align:start position:0%
+quiere decir que ya la tenemos en los
+informes.<00:10:00.519><c> Para</c><00:10:00.680><c> mostrar</c><00:10:01.000><c> un</c><00:10:01.160><c> ejemplo</c><00:10:01.519><c> de</c><00:10:01.680><c> que</c>
+
+00:10:01.910 --> 00:10:01.920 align:start position:0%
+informes. Para mostrar un ejemplo de que
+ 
+
+00:10:01.920 --> 00:10:04.069 align:start position:0%
+informes. Para mostrar un ejemplo de que
+si<00:10:02.160><c> está</c><00:10:02.360><c> afectando</c><00:10:02.959><c> contablemente,</c><00:10:03.800><c> voy</c><00:10:03.959><c> a</c>
+
+00:10:04.069 --> 00:10:04.079 align:start position:0%
+si está afectando contablemente, voy a
+ 
+
+00:10:04.079 --> 00:10:06.150 align:start position:0%
+si está afectando contablemente, voy a
+abrir<00:10:04.320><c> aquí</c><00:10:04.760><c> el</c><00:10:05.040><c> inspector</c><00:10:05.560><c> de</c><00:10:05.760><c> datos</c><00:10:06.040><c> que</c>
+
+00:10:06.150 --> 00:10:06.160 align:start position:0%
+abrir aquí el inspector de datos que
+ 
+
+00:10:06.160 --> 00:10:08.630 align:start position:0%
+abrir aquí el inspector de datos que
+ofrece<00:10:06.480><c> el</c><00:10:06.600><c> manejador</c><00:10:07.040><c> de</c><00:10:07.240><c> operaciones.</c><00:10:08.440><c> Me</c>
+
+00:10:08.630 --> 00:10:08.640 align:start position:0%
+ofrece el manejador de operaciones. Me
+ 
+
+00:10:08.640 --> 00:10:10.509 align:start position:0%
+ofrece el manejador de operaciones. Me
+ubico<00:10:08.920><c> en</c><00:10:08.959><c> la</c><00:10:09.120><c> operación.</c><00:10:09.800><c> Voy</c><00:10:09.920><c> a</c><00:10:10.040><c> darle</c><00:10:10.279><c> clic</c>
+
+00:10:10.509 --> 00:10:10.519 align:start position:0%
+ubico en la operación. Voy a darle clic
+ 
+
+00:10:10.519 --> 00:10:12.910 align:start position:0%
+ubico en la operación. Voy a darle clic
+en<00:10:10.680><c> refrescar</c><00:10:11.560><c> y</c><00:10:11.800><c> como</c><00:10:12.040><c> pueden</c><00:10:12.279><c> observar</c>
+
+00:10:12.910 --> 00:10:12.920 align:start position:0%
+en refrescar y como pueden observar
+ 
+
+00:10:12.920 --> 00:10:14.910 align:start position:0%
+en refrescar y como pueden observar
+desde<00:10:13.160><c> la</c><00:10:13.360><c> pestaña</c><00:10:13.920><c> movimientos,</c><00:10:14.600><c> él</c><00:10:14.760><c> me</c>
+
+00:10:14.910 --> 00:10:14.920 align:start position:0%
+desde la pestaña movimientos, él me
+ 
+
+00:10:14.920 --> 00:10:17.069 align:start position:0%
+desde la pestaña movimientos, él me
+muestra<00:10:15.519><c> el</c><00:10:15.800><c> registro</c><00:10:16.240><c> contable</c><00:10:16.680><c> de</c><00:10:16.880><c> esta</c>
+
+00:10:17.069 --> 00:10:17.079 align:start position:0%
+muestra el registro contable de esta
+ 
+
+00:10:17.079 --> 00:10:19.310 align:start position:0%
+muestra el registro contable de esta
+operación.<00:10:17.959><c> Aquí</c><00:10:18.160><c> de</c><00:10:18.320><c> manera</c><00:10:18.640><c> rápida</c><00:10:19.079><c> para</c>
+
+00:10:19.310 --> 00:10:19.320 align:start position:0%
+operación. Aquí de manera rápida para
+ 
+
+00:10:19.320 --> 00:10:20.829 align:start position:0%
+operación. Aquí de manera rápida para
+visualizar<00:10:19.839><c> el</c><00:10:20.040><c> movimiento</c><00:10:20.480><c> de</c><00:10:20.680><c> esta</c>
+
+00:10:20.829 --> 00:10:20.839 align:start position:0%
+visualizar el movimiento de esta
+ 
+
+00:10:20.839 --> 00:10:23.870 align:start position:0%
+visualizar el movimiento de esta
+operación.<00:10:22.160><c> Si</c><00:10:22.279><c> yo</c><00:10:22.440><c> la</c><00:10:22.720><c> desproceso,</c><00:10:23.600><c> voy</c><00:10:23.760><c> a</c>
+
+00:10:23.870 --> 00:10:23.880 align:start position:0%
+operación. Si yo la desproceso, voy a
+ 
+
+00:10:23.880 --> 00:10:25.829 align:start position:0%
+operación. Si yo la desproceso, voy a
+dar<00:10:24.079><c> clic</c><00:10:24.320><c> derecho.</c><00:10:25.000><c> Otra</c><00:10:25.200><c> de</c><00:10:25.320><c> las</c><00:10:25.440><c> acciones</c>
+
+00:10:25.829 --> 00:10:25.839 align:start position:0%
+dar clic derecho. Otra de las acciones
+ 
+
+00:10:25.839 --> 00:10:28.430 align:start position:0%
+dar clic derecho. Otra de las acciones
+que<00:10:26.000><c> tenemos</c><00:10:26.320><c> es</c><00:10:27.160><c> desprocesar</c><00:10:28.160><c> una</c>
+
+00:10:28.430 --> 00:10:28.440 align:start position:0%
+que tenemos es desprocesar una
+ 
+
+00:10:28.440 --> 00:10:31.550 align:start position:0%
+que tenemos es desprocesar una
+operación.<00:10:29.399><c> Esta</c><00:10:30.040><c> acción</c><00:10:30.399><c> de</c><00:10:30.600><c> desprocesar</c><00:10:31.360><c> lo</c>
+
+00:10:31.550 --> 00:10:31.560 align:start position:0%
+operación. Esta acción de desprocesar lo
+ 
+
+00:10:31.560 --> 00:10:35.269 align:start position:0%
+operación. Esta acción de desprocesar lo
+que<00:10:31.720><c> hace</c><00:10:32.240><c> básicamente</c><00:10:33.000><c> es</c><00:10:33.279><c> como</c><00:10:34.120><c> quitar</c><00:10:34.959><c> los</c>
+
+00:10:35.269 --> 00:10:35.279 align:start position:0%
+que hace básicamente es como quitar los
+ 
+
+00:10:35.279 --> 00:10:38.230 align:start position:0%
+que hace básicamente es como quitar los
+movimientos<00:10:36.000><c> generados</c><00:10:37.000><c> y</c><00:10:37.480><c> la</c><00:10:37.680><c> operación</c>
+
+00:10:38.230 --> 00:10:38.240 align:start position:0%
+movimientos generados y la operación
+ 
+
+00:10:38.240 --> 00:10:40.629 align:start position:0%
+movimientos generados y la operación
+vuelve<00:10:38.639><c> como</c><00:10:38.839><c> en</c><00:10:39.040><c> un</c><00:10:39.200><c> estado</c><00:10:39.600><c> no</c><00:10:39.880><c> procesado.</c>
+
+00:10:40.629 --> 00:10:40.639 align:start position:0%
+vuelve como en un estado no procesado.
+ 
+
+00:10:40.639 --> 00:10:43.190 align:start position:0%
+vuelve como en un estado no procesado.
+Simplemente<00:10:41.120><c> le</c><00:10:41.279><c> damos</c><00:10:41.560><c> desprocesar.</c><00:10:42.920><c> Miren</c>
+
+00:10:43.190 --> 00:10:43.200 align:start position:0%
+Simplemente le damos desprocesar. Miren
+ 
+
+00:10:43.200 --> 00:10:46.670 align:start position:0%
+Simplemente le damos desprocesar. Miren
+que<00:10:43.560><c> en</c><00:10:43.720><c> la</c><00:10:43.959><c> columna</c><00:10:44.399><c> de</c><00:10:44.639><c> estado</c><00:10:45.560><c> queda</c><00:10:46.000><c> sin</c><00:10:46.279><c> la</c>
+
+00:10:46.670 --> 00:10:46.680 align:start position:0%
+que en la columna de estado queda sin la
+ 
+
+00:10:46.680 --> 00:10:48.829 align:start position:0%
+que en la columna de estado queda sin la
+opción<00:10:47.160><c> activada</c><00:10:47.839><c> y</c><00:10:48.000><c> queda</c><00:10:48.240><c> de</c><00:10:48.399><c> un</c><00:10:48.519><c> color</c>
+
+00:10:48.829 --> 00:10:48.839 align:start position:0%
+opción activada y queda de un color
+ 
+
+00:10:48.839 --> 00:10:50.750 align:start position:0%
+opción activada y queda de un color
+blanco.<00:10:49.800><c> Es</c><00:10:49.920><c> decir,</c><00:10:50.120><c> la</c><00:10:50.240><c> operación</c><00:10:50.600><c> la</c>
+
+00:10:50.750 --> 00:10:50.760 align:start position:0%
+blanco. Es decir, la operación la
+ 
+
+00:10:50.760 --> 00:10:53.150 align:start position:0%
+blanco. Es decir, la operación la
+tenemos<00:10:51.200><c> aquí,</c><00:10:51.560><c> está</c><00:10:51.839><c> guardada,</c><00:10:52.480><c> pero</c><00:10:52.880><c> no</c>
+
+00:10:53.150 --> 00:10:53.160 align:start position:0%
+tenemos aquí, está guardada, pero no
+ 
+
+00:10:53.160 --> 00:10:55.590 align:start position:0%
+tenemos aquí, está guardada, pero no
+está<00:10:53.560><c> procesada.</c><00:10:54.240><c> Es</c><00:10:54.320><c> decir,</c><00:10:55.000><c> no</c><00:10:55.399><c> está</c>
+
+00:10:55.590 --> 00:10:55.600 align:start position:0%
+está procesada. Es decir, no está
+ 
+
+00:10:55.600 --> 00:10:57.069 align:start position:0%
+está procesada. Es decir, no está
+afectando<00:10:56.079><c> en</c><00:10:56.279><c> este</c><00:10:56.560><c> momento</c><00:10:56.839><c> los</c>
+
+00:10:57.069 --> 00:10:57.079 align:start position:0%
+afectando en este momento los
+ 
+
+00:10:57.079 --> 00:10:59.550 align:start position:0%
+afectando en este momento los
+movimientos<00:10:57.760><c> contables</c><00:10:58.760><c> o</c><00:10:59.000><c> movimientos</c><00:10:59.440><c> de</c>
+
+00:10:59.550 --> 00:10:59.560 align:start position:0%
+movimientos contables o movimientos de
+ 
+
+00:10:59.560 --> 00:11:01.790 align:start position:0%
+movimientos contables o movimientos de
+inventario.<00:11:00.160><c> Bueno,</c><00:11:00.519><c> según</c><00:11:00.880><c> lo</c><00:11:01.040><c> que</c><00:11:01.480><c> eh</c><00:11:01.639><c> la</c>
+
+00:11:01.790 --> 00:11:01.800 align:start position:0%
+inventario. Bueno, según lo que eh la
+ 
+
+00:11:01.800 --> 00:11:03.430 align:start position:0%
+inventario. Bueno, según lo que eh la
+operación<00:11:02.120><c> que</c><00:11:02.279><c> estamos</c><00:11:02.519><c> registrando</c><00:11:03.160><c> y</c><00:11:03.320><c> el</c>
+
+00:11:03.430 --> 00:11:03.440 align:start position:0%
+operación que estamos registrando y el
+ 
+
+00:11:03.440 --> 00:11:05.430 align:start position:0%
+operación que estamos registrando y el
+licenciamiento.<00:11:04.560><c> Como</c><00:11:04.800><c> pueden</c><00:11:05.000><c> observar</c>
+
+00:11:05.430 --> 00:11:05.440 align:start position:0%
+licenciamiento. Como pueden observar
+ 
+
+00:11:05.440 --> 00:11:07.470 align:start position:0%
+licenciamiento. Como pueden observar
+aquí<00:11:05.639><c> en</c><00:11:05.760><c> este</c><00:11:06.160><c> inspector,</c><00:11:06.800><c> miren</c><00:11:07.040><c> que</c><00:11:07.200><c> si</c><00:11:07.360><c> le</c>
+
+00:11:07.470 --> 00:11:07.480 align:start position:0%
+aquí en este inspector, miren que si le
+ 
+
+00:11:07.480 --> 00:11:10.069 align:start position:0%
+aquí en este inspector, miren que si le
+doy<00:11:07.680><c> refrescar</c><00:11:08.560><c> no</c><00:11:08.760><c> me</c><00:11:08.880><c> muestra</c><00:11:09.240><c> información.</c>
+
+00:11:10.069 --> 00:11:10.079 align:start position:0%
+doy refrescar no me muestra información.
+ 
+
+00:11:10.079 --> 00:11:11.590 align:start position:0%
+doy refrescar no me muestra información.
+Mientras<00:11:10.480><c> que</c><00:11:10.600><c> esta</c><00:11:10.800><c> que</c><00:11:10.959><c> tenemos</c><00:11:11.320><c> en</c><00:11:11.480><c> la</c>
+
+00:11:11.590 --> 00:11:11.600 align:start position:0%
+Mientras que esta que tenemos en la
+ 
+
+00:11:11.600 --> 00:11:14.069 align:start position:0%
+Mientras que esta que tenemos en la
+parte<00:11:11.839><c> inferior</c><00:11:12.320><c> que</c><00:11:12.480><c> sí</c><00:11:12.680><c> está</c><00:11:12.920><c> procesada</c><00:11:13.920><c> si</c>
+
+00:11:14.069 --> 00:11:14.079 align:start position:0%
+parte inferior que sí está procesada si
+ 
+
+00:11:14.079 --> 00:11:15.790 align:start position:0%
+parte inferior que sí está procesada si
+nos<00:11:14.240><c> muestra</c><00:11:14.560><c> su</c><00:11:14.720><c> movimiento</c><00:11:15.200><c> contable</c>
+
+00:11:15.790 --> 00:11:15.800 align:start position:0%
+nos muestra su movimiento contable
+ 
+
+00:11:15.800 --> 00:11:17.870 align:start position:0%
+nos muestra su movimiento contable
+porque<00:11:16.320><c> está</c><00:11:16.639><c> procesada.</c><00:11:17.200><c> Es</c><00:11:17.240><c> decir,</c><00:11:17.440><c> en</c><00:11:17.639><c> ese</c>
+
+00:11:17.870 --> 00:11:17.880 align:start position:0%
+porque está procesada. Es decir, en ese
+ 
+
+00:11:17.880 --> 00:11:19.870 align:start position:0%
+porque está procesada. Es decir, en ese
+momento<00:11:18.160><c> sí</c><00:11:18.320><c> me</c><00:11:18.440><c> está</c><00:11:18.560><c> afectando</c><00:11:19.440><c> todos</c><00:11:19.680><c> los</c>
+
+00:11:19.870 --> 00:11:19.880 align:start position:0%
+momento sí me está afectando todos los
+ 
+
+00:11:19.880 --> 00:11:23.350 align:start position:0%
+momento sí me está afectando todos los
+movimientos<00:11:20.680><c> e</c><00:11:20.959><c> informes</c><00:11:21.519><c> del</c><00:11:21.839><c> sistema.</c><00:11:22.519><c> Esta</c>
+
+00:11:23.350 --> 00:11:23.360 align:start position:0%
+movimientos e informes del sistema. Esta
+ 
+
+00:11:23.360 --> 00:11:25.910 align:start position:0%
+movimientos e informes del sistema. Esta
+que<00:11:23.600><c> está</c><00:11:23.839><c> sin</c><00:11:24.079><c> procesar,</c><00:11:25.120><c> aquí</c><00:11:25.360><c> la</c><00:11:25.560><c> tenemos</c>
+
+00:11:25.910 --> 00:11:25.920 align:start position:0%
+que está sin procesar, aquí la tenemos
+ 
+
+00:11:25.920 --> 00:11:27.350 align:start position:0%
+que está sin procesar, aquí la tenemos
+guardada,<00:11:26.480><c> pero</c><00:11:26.639><c> hasta</c><00:11:26.839><c> que</c><00:11:27.000><c> no</c><00:11:27.160><c> la</c>
+
+00:11:27.350 --> 00:11:27.360 align:start position:0%
+guardada, pero hasta que no la
+ 
+
+00:11:27.360 --> 00:11:29.550 align:start position:0%
+guardada, pero hasta que no la
+procesemos,<00:11:27.880><c> pues</c><00:11:28.040><c> no</c><00:11:28.200><c> va</c><00:11:28.360><c> a</c><00:11:28.760><c> afectar</c><00:11:29.279><c> los</c>
+
+00:11:29.550 --> 00:11:29.560 align:start position:0%
+procesemos, pues no va a afectar los
+ 
+
+00:11:29.560 --> 00:11:31.190 align:start position:0%
+procesemos, pues no va a afectar los
+movimientos.<00:11:30.320><c> Recordemos</c><00:11:30.760><c> que</c><00:11:30.959><c> para</c>
+
+00:11:31.190 --> 00:11:31.200 align:start position:0%
+movimientos. Recordemos que para
+ 
+
+00:11:31.200 --> 00:11:33.310 align:start position:0%
+movimientos. Recordemos que para
+procesarla,<00:11:32.240><c> simplemente</c><00:11:32.720><c> le</c><00:11:32.920><c> damos</c>
+
+00:11:33.310 --> 00:11:33.320 align:start position:0%
+procesarla, simplemente le damos
+ 
+
+00:11:33.320 --> 00:11:35.990 align:start position:0%
+procesarla, simplemente le damos
+procesar<00:11:34.320><c> o</c><00:11:34.560><c> en</c><00:11:34.720><c> la</c><00:11:34.920><c> parte</c><00:11:35.240><c> superior,</c><00:11:35.760><c> aquí</c>
+
+00:11:35.990 --> 00:11:36.000 align:start position:0%
+procesar o en la parte superior, aquí
+ 
+
+00:11:36.000 --> 00:11:38.710 align:start position:0%
+procesar o en la parte superior, aquí
+tenemos<00:11:36.279><c> la</c><00:11:36.480><c> opción</c><00:11:36.720><c> de</c><00:11:37.440><c> procesar</c><00:11:38.399><c> e</c><00:11:38.560><c> la</c>
+
+00:11:38.710 --> 00:11:38.720 align:start position:0%
+tenemos la opción de procesar e la
+ 
+
+00:11:38.720 --> 00:11:40.590 align:start position:0%
+tenemos la opción de procesar e la
+operación,<00:11:39.440><c> procesar</c><00:11:40.079><c> todas</c><00:11:40.360><c> las</c>
+
+00:11:40.590 --> 00:11:40.600 align:start position:0%
+operación, procesar todas las
+ 
+
+00:11:40.600 --> 00:11:43.030 align:start position:0%
+operación, procesar todas las
+operaciones<00:11:41.279><c> o</c><00:11:41.480><c> procesar</c><00:11:41.959><c> desde</c><00:11:42.200><c> un</c><00:11:42.399><c> punto</c>
+
+00:11:43.030 --> 00:11:43.040 align:start position:0%
+operaciones o procesar desde un punto
+ 
+
+00:11:43.040 --> 00:11:46.110 align:start position:0%
+operaciones o procesar desde un punto
+hacia<00:11:43.360><c> abajo</c><00:11:44.000><c> las</c><00:11:44.279><c> operaciones</c><00:11:44.800><c> como</c><00:11:45.079><c> tal.</c><00:11:45.959><c> O</c>
+
+00:11:46.110 --> 00:11:46.120 align:start position:0%
+hacia abajo las operaciones como tal. O
+ 
+
+00:11:46.120 --> 00:11:47.710 align:start position:0%
+hacia abajo las operaciones como tal. O
+otra<00:11:46.320><c> opción,</c><00:11:46.720><c> por</c><00:11:46.880><c> ejemplo,</c><00:11:47.240><c> si</c><00:11:47.360><c> le</c><00:11:47.480><c> doy</c>
+
+00:11:47.710 --> 00:11:47.720 align:start position:0%
+otra opción, por ejemplo, si le doy
+ 
+
+00:11:47.720 --> 00:11:50.629 align:start position:0%
+otra opción, por ejemplo, si le doy
+modificar,<00:11:49.079><c> es</c><00:11:49.279><c> que</c><00:11:49.480><c> desde</c><00:11:49.760><c> la</c><00:11:49.959><c> operación</c><00:11:50.480><c> yo</c>
+
+00:11:50.629 --> 00:11:50.639 align:start position:0%
+modificar, es que desde la operación yo
+ 
+
+00:11:50.639 --> 00:11:53.430 align:start position:0%
+modificar, es que desde la operación yo
+le<00:11:50.800><c> puedo</c><00:11:51.079><c> decir</c><00:11:51.639><c> autoprocesar,</c><00:11:52.880><c> es</c><00:11:53.120><c> decir,</c>
+
+00:11:53.430 --> 00:11:53.440 align:start position:0%
+le puedo decir autoprocesar, es decir,
+ 
+
+00:11:53.440 --> 00:11:55.550 align:start position:0%
+le puedo decir autoprocesar, es decir,
+cada<00:11:53.680><c> que</c><00:11:53.920><c> registre</c><00:11:54.279><c> una</c><00:11:54.480><c> operación</c><00:11:54.959><c> nueva</c><00:11:55.360><c> y</c>
+
+00:11:55.550 --> 00:11:55.560 align:start position:0%
+cada que registre una operación nueva y
+ 
+
+00:11:55.560 --> 00:11:58.470 align:start position:0%
+cada que registre una operación nueva y
+le<00:11:55.680><c> dé</c><00:11:55.920><c> finalizar,</c><00:11:57.200><c> procese</c><00:11:57.680><c> automáticamente</c>
+
+00:11:58.470 --> 00:11:58.480 align:start position:0%
+le dé finalizar, procese automáticamente
+ 
+
+00:11:58.480 --> 00:12:00.190 align:start position:0%
+le dé finalizar, procese automáticamente
+la<00:11:58.680><c> operación.</c><00:11:59.480><c> Si</c><00:11:59.560><c> yo</c><00:11:59.680><c> le</c><00:11:59.800><c> doy</c><00:11:59.959><c> aquí</c>
+
+00:12:00.190 --> 00:12:00.200 align:start position:0%
+la operación. Si yo le doy aquí
+ 
+
+00:12:00.200 --> 00:12:02.509 align:start position:0%
+la operación. Si yo le doy aquí
+finalizar,<00:12:01.120><c> él</c><00:12:01.279><c> automáticamente</c><00:12:02.120><c> me</c><00:12:02.279><c> va</c><00:12:02.399><c> a</c>
+
+00:12:02.509 --> 00:12:02.519 align:start position:0%
+finalizar, él automáticamente me va a
+ 
+
+00:12:02.519 --> 00:12:04.550 align:start position:0%
+finalizar, él automáticamente me va a
+procesar<00:12:02.880><c> la</c><00:12:03.040><c> operación</c><00:12:03.440><c> porque</c><00:12:03.839><c> tengo</c>
+
+00:12:04.550 --> 00:12:04.560 align:start position:0%
+procesar la operación porque tengo
+ 
+
+00:12:04.560 --> 00:12:06.790 align:start position:0%
+procesar la operación porque tengo
+dentro<00:12:05.320><c> la</c><00:12:05.600><c> configuración</c><00:12:06.160><c> de</c><00:12:06.320><c> que</c><00:12:06.480><c> sea</c>
+
+00:12:06.790 --> 00:12:06.800 align:start position:0%
+dentro la configuración de que sea
+ 
+
+00:12:06.800 --> 00:12:08.829 align:start position:0%
+dentro la configuración de que sea
+autoprocese<00:12:07.399><c> la</c><00:12:07.519><c> operación</c><00:12:08.240><c> cada</c><00:12:08.440><c> que</c><00:12:08.560><c> yo</c><00:12:08.680><c> la</c>
+
+00:12:08.829 --> 00:12:08.839 align:start position:0%
+autoprocese la operación cada que yo la
+ 
+
+00:12:08.839 --> 00:12:11.190 align:start position:0%
+autoprocese la operación cada que yo la
+guarde.<00:12:09.279><c> Y</c><00:12:09.399><c> así</c><00:12:09.639><c> queda,</c><00:12:10.160><c> mire,</c><00:12:10.519><c> de</c><00:12:10.720><c> una</c><00:12:10.880><c> vez</c>
+
+00:12:11.190 --> 00:12:11.200 align:start position:0%
+guarde. Y así queda, mire, de una vez
+ 
+
+00:12:11.200 --> 00:12:13.829 align:start position:0%
+guarde. Y así queda, mire, de una vez
+registrado<00:12:11.839><c> sus</c><00:12:12.120><c> movimientos.</c><00:12:13.040><c> Ahora,</c><00:12:13.560><c> otra</c>
+
+00:12:13.829 --> 00:12:13.839 align:start position:0%
+registrado sus movimientos. Ahora, otra
+ 
+
+00:12:13.839 --> 00:12:16.430 align:start position:0%
+registrado sus movimientos. Ahora, otra
+acción<00:12:14.120><c> que</c><00:12:14.279><c> podemos</c><00:12:14.600><c> realizar</c><00:12:15.000><c> es</c><00:12:15.600><c> imprimir</c>
+
+00:12:16.430 --> 00:12:16.440 align:start position:0%
+acción que podemos realizar es imprimir
+ 
+
+00:12:16.440 --> 00:12:18.949 align:start position:0%
+acción que podemos realizar es imprimir
+una<00:12:16.680><c> operación</c><00:12:17.680><c> y</c><00:12:17.839><c> hay</c><00:12:18.199><c> varias</c><00:12:18.519><c> formas</c><00:12:18.800><c> de</c>
+
+00:12:18.949 --> 00:12:18.959 align:start position:0%
+una operación y hay varias formas de
+ 
+
+00:12:18.959 --> 00:12:20.829 align:start position:0%
+una operación y hay varias formas de
+hacerlo.<00:12:19.680><c> Dentro</c><00:12:19.920><c> de</c><00:12:20.040><c> la</c><00:12:20.160><c> operación</c><00:12:20.639><c> voy</c><00:12:20.760><c> a</c>
+
+00:12:20.829 --> 00:12:20.839 align:start position:0%
+hacerlo. Dentro de la operación voy a
+ 
+
+00:12:20.839 --> 00:12:23.750 align:start position:0%
+hacerlo. Dentro de la operación voy a
+darle<00:12:21.079><c> aquí</c><00:12:21.560><c> clic</c><00:12:21.839><c> derecho,</c><00:12:22.199><c> modificar.</c><00:12:23.480><c> Aquí</c>
+
+00:12:23.750 --> 00:12:23.760 align:start position:0%
+darle aquí clic derecho, modificar. Aquí
+ 
+
+00:12:23.760 --> 00:12:25.990 align:start position:0%
+darle aquí clic derecho, modificar. Aquí
+por<00:12:23.959><c> operación</c><00:12:24.600><c> tenemos</c><00:12:24.920><c> la</c><00:12:25.040><c> opción</c><00:12:25.279><c> de</c>
+
+00:12:25.990 --> 00:12:26.000 align:start position:0%
+por operación tenemos la opción de
+ 
+
+00:12:26.000 --> 00:12:28.590 align:start position:0%
+por operación tenemos la opción de
+imprimir<00:12:26.880><c> y</c><00:12:27.120><c> nos</c><00:12:27.279><c> sale</c><00:12:27.560><c> el</c><00:12:27.760><c> asistente</c><00:12:28.360><c> para</c>
+
+00:12:28.590 --> 00:12:28.600 align:start position:0%
+imprimir y nos sale el asistente para
+ 
+
+00:12:28.600 --> 00:12:30.910 align:start position:0%
+imprimir y nos sale el asistente para
+imprimir<00:12:28.959><c> la</c><00:12:29.120><c> operación.</c><00:12:30.040><c> Nos</c><00:12:30.199><c> sale</c><00:12:30.519><c> con</c><00:12:30.720><c> un</c>
+
+00:12:30.910 --> 00:12:30.920 align:start position:0%
+imprimir la operación. Nos sale con un
+ 
+
+00:12:30.920 --> 00:12:32.949 align:start position:0%
+imprimir la operación. Nos sale con un
+documento<00:12:31.440><c> por</c><00:12:31.680><c> defecto,</c><00:12:32.240><c> pero</c><00:12:32.519><c> podemos</c>
+
+00:12:32.949 --> 00:12:32.959 align:start position:0%
+documento por defecto, pero podemos
+ 
+
+00:12:32.959 --> 00:12:35.110 align:start position:0%
+documento por defecto, pero podemos
+cambiar<00:12:33.360><c> el</c><00:12:33.519><c> documento</c><00:12:33.959><c> de</c><00:12:34.160><c> impresión.</c>
+
+00:12:35.110 --> 00:12:35.120 align:start position:0%
+cambiar el documento de impresión.
+ 
+
+00:12:35.120 --> 00:12:37.150 align:start position:0%
+cambiar el documento de impresión.
+Recordemos<00:12:35.560><c> que</c><00:12:35.680><c> el</c><00:12:35.800><c> documento</c><00:12:36.160><c> de</c><00:12:36.320><c> impresión</c>
+
+00:12:37.150 --> 00:12:37.160 align:start position:0%
+Recordemos que el documento de impresión
+ 
+
+00:12:37.160 --> 00:12:39.470 align:start position:0%
+Recordemos que el documento de impresión
+es<00:12:37.399><c> ya</c><00:12:37.600><c> como</c><00:12:37.839><c> la</c><00:12:38.000><c> parte</c><00:12:38.320><c> visual</c><00:12:38.760><c> física</c><00:12:39.240><c> de</c>
+
+00:12:39.470 --> 00:12:39.480 align:start position:0%
+es ya como la parte visual física de
+ 
+
+00:12:39.480 --> 00:12:41.870 align:start position:0%
+es ya como la parte visual física de
+cómo<00:12:39.839><c> vamos</c><00:12:40.120><c> a</c><00:12:40.560><c> visualizar</c><00:12:41.079><c> la</c><00:12:41.279><c> información</c>
+
+00:12:41.870 --> 00:12:41.880 align:start position:0%
+cómo vamos a visualizar la información
+ 
+
+00:12:41.880 --> 00:12:43.910 align:start position:0%
+cómo vamos a visualizar la información
+para<00:12:42.160><c> ya</c><00:12:42.360><c> sea</c><00:12:42.760><c> imprimir</c><00:12:43.199><c> el</c><00:12:43.320><c> documento</c><00:12:43.760><c> o</c>
+
+00:12:43.910 --> 00:12:43.920 align:start position:0%
+para ya sea imprimir el documento o
+ 
+
+00:12:43.920 --> 00:12:46.269 align:start position:0%
+para ya sea imprimir el documento o
+enviarlo<00:12:44.320><c> por</c><00:12:44.519><c> correo.</c><00:12:45.440><c> En</c><00:12:45.600><c> este</c><00:12:45.839><c> caso</c><00:12:46.079><c> vamos</c>
+
+00:12:46.269 --> 00:12:46.279 align:start position:0%
+enviarlo por correo. En este caso vamos
+ 
+
+00:12:46.279 --> 00:12:47.990 align:start position:0%
+enviarlo por correo. En este caso vamos
+a<00:12:46.399><c> seleccionar</c><00:12:46.880><c> el</c><00:12:47.040><c> que</c><00:12:47.120><c> nos</c><00:12:47.440><c> deja</c><00:12:47.800><c> por</c>
+
+00:12:47.990 --> 00:12:48.000 align:start position:0%
+a seleccionar el que nos deja por
+ 
+
+00:12:48.000 --> 00:12:52.389 align:start position:0%
+a seleccionar el que nos deja por
+defecto.<00:12:49.040><c> Nos</c><00:12:49.320><c> pide</c><00:12:49.720><c> la</c><00:12:50.279><c> impresora</c><00:12:51.720><c> el</c><00:12:52.000><c> número</c>
+
+00:12:52.389 --> 00:12:52.399 align:start position:0%
+defecto. Nos pide la impresora el número
+ 
+
+00:12:52.399 --> 00:12:54.470 align:start position:0%
+defecto. Nos pide la impresora el número
+de<00:12:52.639><c> copias</c><00:12:52.959><c> que</c><00:12:53.160><c> queremos</c><00:12:53.600><c> imprimir</c><00:12:54.120><c> y</c><00:12:54.279><c> el</c>
+
+00:12:54.470 --> 00:12:54.480 align:start position:0%
+de copias que queremos imprimir y el
+ 
+
+00:12:54.480 --> 00:12:57.829 align:start position:0%
+de copias que queremos imprimir y el
+tipo<00:12:54.760><c> de</c><00:12:55.199><c> de</c><00:12:55.360><c> papel,</c><00:12:55.760><c> ya</c><00:12:56.000><c> si</c><00:12:56.199><c> es</c><00:12:56.920><c> eh</c><00:12:57.240><c> carta</c><00:12:57.560><c> hoja</c>
+
+00:12:57.829 --> 00:12:57.839 align:start position:0%
+tipo de de papel, ya si es eh carta hoja
+ 
+
+00:12:57.839 --> 00:13:00.990 align:start position:0%
+tipo de de papel, ya si es eh carta hoja
+completa<00:12:58.440><c> o</c><00:12:58.680><c> media</c><00:12:58.959><c> carta.</c><00:12:59.880><c> y</c><00:13:00.079><c> le</c><00:13:00.240><c> podemos</c><00:13:00.560><c> dar</c>
+
+00:13:00.990 --> 00:13:01.000 align:start position:0%
+completa o media carta. y le podemos dar
+ 
+
+00:13:01.000 --> 00:13:04.350 align:start position:0%
+completa o media carta. y le podemos dar
+vista<00:13:01.399><c> previa</c><00:13:02.360><c> y</c><00:13:02.600><c> nos</c><00:13:02.800><c> muestra</c><00:13:03.440><c> el</c><00:13:03.720><c> diseño</c><00:13:04.160><c> de</c>
+
+00:13:04.350 --> 00:13:04.360 align:start position:0%
+vista previa y nos muestra el diseño de
+ 
+
+00:13:04.360 --> 00:13:06.310 align:start position:0%
+vista previa y nos muestra el diseño de
+este<00:13:04.519><c> documento</c><00:13:04.959><c> de</c><00:13:05.079><c> impresión,</c><00:13:05.920><c> quedando</c>
+
+00:13:06.310 --> 00:13:06.320 align:start position:0%
+este documento de impresión, quedando
+ 
+
+00:13:06.320 --> 00:13:08.230 align:start position:0%
+este documento de impresión, quedando
+como<00:13:06.560><c> con</c><00:13:06.839><c> toda</c><00:13:07.120><c> la</c><00:13:07.320><c> información</c><00:13:07.800><c> que</c><00:13:07.959><c> hemos</c>
+
+00:13:08.230 --> 00:13:08.240 align:start position:0%
+como con toda la información que hemos
+ 
+
+00:13:08.240 --> 00:13:10.350 align:start position:0%
+como con toda la información que hemos
+registrado<00:13:08.720><c> en</c><00:13:08.880><c> esta</c><00:13:09.120><c> operación,</c><00:13:09.959><c> que</c><00:13:10.079><c> es</c><00:13:10.199><c> un</c>
+
+00:13:10.350 --> 00:13:10.360 align:start position:0%
+registrado en esta operación, que es un
+ 
+
+00:13:10.360 --> 00:13:11.990 align:start position:0%
+registrado en esta operación, que es un
+comprobante<00:13:10.880><c> de</c><00:13:11.040><c> ingreso,</c><00:13:11.480><c> cuál</c><00:13:11.720><c> es</c><00:13:11.839><c> el</c>
+
+00:13:11.990 --> 00:13:12.000 align:start position:0%
+comprobante de ingreso, cuál es el
+ 
+
+00:13:12.000 --> 00:13:14.590 align:start position:0%
+comprobante de ingreso, cuál es el
+consecutivo,<00:13:13.320><c> información</c><00:13:13.880><c> de</c><00:13:14.079><c> encabezado</c>
+
+00:13:14.590 --> 00:13:14.600 align:start position:0%
+consecutivo, información de encabezado
+ 
+
+00:13:14.600 --> 00:13:17.230 align:start position:0%
+consecutivo, información de encabezado
+en<00:13:14.800><c> nuestra</c><00:13:15.120><c> empresa,</c><00:13:16.079><c> del</c><00:13:16.399><c> tercero</c><00:13:16.959><c> o</c><00:13:17.079><c> el</c>
+
+00:13:17.230 --> 00:13:17.240 align:start position:0%
+en nuestra empresa, del tercero o el
+ 
+
+00:13:17.240 --> 00:13:18.870 align:start position:0%
+en nuestra empresa, del tercero o el
+proveedor<00:13:17.560><c> al</c><00:13:17.720><c> cual</c><00:13:18.000><c> estamos</c><00:13:18.320><c> pagando</c><00:13:18.680><c> el</c>
+
+00:13:18.870 --> 00:13:18.880 align:start position:0%
+proveedor al cual estamos pagando el
+ 
+
+00:13:18.880 --> 00:13:21.509 align:start position:0%
+proveedor al cual estamos pagando el
+servicio,<00:13:19.440><c> qué</c><00:13:19.680><c> servicio</c><00:13:20.160><c> es</c><00:13:20.680><c> y</c><00:13:20.880><c> la</c><00:13:21.079><c> forma</c><00:13:21.320><c> de</c>
+
+00:13:21.509 --> 00:13:21.519 align:start position:0%
+servicio, qué servicio es y la forma de
+ 
+
+00:13:21.519 --> 00:13:23.550 align:start position:0%
+servicio, qué servicio es y la forma de
+pago,<00:13:21.800><c> entre</c><00:13:22.040><c> otra</c><00:13:22.320><c> información.</c><00:13:23.160><c> Y</c><00:13:23.320><c> este</c>
+
+00:13:23.550 --> 00:13:23.560 align:start position:0%
+pago, entre otra información. Y este
+ 
+
+00:13:23.560 --> 00:13:25.509 align:start position:0%
+pago, entre otra información. Y este
+asistente,<00:13:24.079><c> este</c><00:13:24.240><c> visualizador</c><00:13:25.000><c> en</c><00:13:25.160><c> la</c><00:13:25.279><c> parte</c>
+
+00:13:25.509 --> 00:13:25.519 align:start position:0%
+asistente, este visualizador en la parte
+ 
+
+00:13:25.519 --> 00:13:28.150 align:start position:0%
+asistente, este visualizador en la parte
+superior<00:13:25.920><c> nos</c><00:13:26.199><c> permite</c><00:13:27.240><c> imprimirlo,</c>
+
+00:13:28.150 --> 00:13:28.160 align:start position:0%
+superior nos permite imprimirlo,
+ 
+
+00:13:28.160 --> 00:13:32.590 align:start position:0%
+superior nos permite imprimirlo,
+guardarlo<00:13:28.680><c> en</c><00:13:28.880><c> PDF,</c><00:13:30.079><c> subirlo</c><00:13:30.959><c> en</c><00:13:31.160><c> la</c><00:13:31.320><c> nube</c><00:13:32.199><c> o</c>
+
+00:13:32.590 --> 00:13:32.600 align:start position:0%
+guardarlo en PDF, subirlo en la nube o
+ 
+
+00:13:32.600 --> 00:13:34.750 align:start position:0%
+guardarlo en PDF, subirlo en la nube o
+bajar<00:13:32.959><c> el</c><00:13:33.120><c> documento</c><00:13:33.519><c> de</c><00:13:33.680><c> la</c><00:13:33.800><c> nube</c><00:13:34.160><c> o</c><00:13:34.320><c> enviarlo</c>
+
+00:13:34.750 --> 00:13:34.760 align:start position:0%
+bajar el documento de la nube o enviarlo
+ 
+
+00:13:34.760 --> 00:13:37.710 align:start position:0%
+bajar el documento de la nube o enviarlo
+por<00:13:34.959><c> correo</c><00:13:35.320><c> electrónico.</c><00:13:36.639><c> Otra</c><00:13:36.920><c> opción</c><00:13:37.320><c> es</c>
+
+00:13:37.710 --> 00:13:37.720 align:start position:0%
+por correo electrónico. Otra opción es
+ 
+
+00:13:37.720 --> 00:13:41.189 align:start position:0%
+por correo electrónico. Otra opción es
+con<00:13:37.959><c> el</c><00:13:38.079><c> teclado.</c><00:13:38.880><c> Si</c><00:13:39.000><c> yo</c><00:13:39.199><c> le</c><00:13:39.360><c> doy</c><00:13:39.920><c> control</c><00:13:40.360><c> Y,</c>
+
+00:13:41.189 --> 00:13:41.199 align:start position:0%
+con el teclado. Si yo le doy control Y,
+ 
+
+00:13:41.199 --> 00:13:44.550 align:start position:0%
+con el teclado. Si yo le doy control Y,
+me<00:13:41.440><c> sale</c><00:13:41.839><c> el</c><00:13:42.120><c> asistente</c><00:13:43.160><c> para</c><00:13:43.720><c> indicar</c><00:13:44.360><c> el</c>
+
+00:13:44.550 --> 00:13:44.560 align:start position:0%
+me sale el asistente para indicar el
+ 
+
+00:13:44.560 --> 00:13:46.590 align:start position:0%
+me sale el asistente para indicar el
+documento<00:13:44.959><c> de</c><00:13:45.120><c> impresión</c><00:13:45.639><c> y</c><00:13:45.800><c> de</c><00:13:45.959><c> una</c><00:13:46.079><c> vez</c><00:13:46.279><c> aquí</c>
+
+00:13:46.590 --> 00:13:46.600 align:start position:0%
+documento de impresión y de una vez aquí
+ 
+
+00:13:46.600 --> 00:13:49.790 align:start position:0%
+documento de impresión y de una vez aquí
+darle<00:13:47.000><c> vista</c><00:13:47.399><c> previa</c><00:13:47.920><c> o</c><00:13:48.240><c> imprimir.</c>
+
+00:13:49.790 --> 00:13:49.800 align:start position:0%
+darle vista previa o imprimir.
+ 
+
+00:13:49.800 --> 00:13:52.269 align:start position:0%
+darle vista previa o imprimir.
+Otra<00:13:50.000><c> opción</c><00:13:50.279><c> es</c><00:13:50.639><c> control</c><00:13:51.000><c> I,</c><00:13:51.759><c> solo</c><00:13:52.000><c> que</c>
+
+00:13:52.269 --> 00:13:52.279 align:start position:0%
+Otra opción es control I, solo que
+ 
+
+00:13:52.279 --> 00:13:54.629 align:start position:0%
+Otra opción es control I, solo que
+control<00:13:52.680><c> i</c><00:13:53.040><c> no</c><00:13:53.240><c> me</c><00:13:53.440><c> sale</c><00:13:53.680><c> el</c><00:13:53.880><c> asistente,</c><00:13:54.399><c> sino</c>
+
+00:13:54.629 --> 00:13:54.639 align:start position:0%
+control i no me sale el asistente, sino
+ 
+
+00:13:54.639 --> 00:13:56.590 align:start position:0%
+control i no me sale el asistente, sino
+que<00:13:54.800><c> de</c><00:13:54.959><c> una</c><00:13:55.079><c> vez</c><00:13:55.199><c> lo</c><00:13:55.320><c> envía</c><00:13:55.600><c> la</c><00:13:55.720><c> impresora</c><00:13:56.399><c> con</c>
+
+00:13:56.590 --> 00:13:56.600 align:start position:0%
+que de una vez lo envía la impresora con
+ 
+
+00:13:56.600 --> 00:13:58.230 align:start position:0%
+que de una vez lo envía la impresora con
+el<00:13:56.759><c> documento</c><00:13:57.160><c> que</c><00:13:57.360><c> configuramos</c><00:13:58.000><c> por</c>
+
+00:13:58.230 --> 00:13:58.240 align:start position:0%
+el documento que configuramos por
+ 
+
+00:13:58.240 --> 00:14:00.550 align:start position:0%
+el documento que configuramos por
+defecto<00:13:59.000><c> al</c><00:13:59.279><c> momento</c><00:13:59.519><c> de</c><00:13:59.720><c> crear</c><00:14:00.000><c> el</c><00:14:00.160><c> documento</c>
+
+00:14:00.550 --> 00:14:00.560 align:start position:0%
+defecto al momento de crear el documento
+ 
+
+00:14:00.560 --> 00:14:03.110 align:start position:0%
+defecto al momento de crear el documento
+de<00:14:00.759><c> soporte.</c><00:14:01.240><c> Si</c><00:14:01.320><c> yo</c><00:14:01.440><c> le</c><00:14:01.560><c> doy</c><00:14:01.839><c> control</c><00:14:02.160><c> i,</c><00:14:02.880><c> él</c>
+
+00:14:03.110 --> 00:14:03.120 align:start position:0%
+de soporte. Si yo le doy control i, él
+ 
+
+00:14:03.120 --> 00:14:04.910 align:start position:0%
+de soporte. Si yo le doy control i, él
+me<00:14:03.320><c> pregunta</c><00:14:04.000><c> si</c><00:14:04.240><c> estoy</c><00:14:04.480><c> seguro</c><00:14:04.759><c> de</c>
+
+00:14:04.910 --> 00:14:04.920 align:start position:0%
+me pregunta si estoy seguro de
+ 
+
+00:14:04.920 --> 00:14:07.150 align:start position:0%
+me pregunta si estoy seguro de
+imprimirlo<00:14:05.560><c> y</c><00:14:05.759><c> me</c><00:14:05.920><c> indica</c><00:14:06.279><c> con</c><00:14:06.440><c> qué</c><00:14:06.639><c> documento</c>
+
+00:14:07.150 --> 00:14:07.160 align:start position:0%
+imprimirlo y me indica con qué documento
+ 
+
+00:14:07.160 --> 00:14:08.590 align:start position:0%
+imprimirlo y me indica con qué documento
+se<00:14:07.240><c> va</c><00:14:07.279><c> a</c><00:14:07.360><c> imprimir.</c><00:14:07.839><c> Simplemente</c><00:14:08.279><c> le</c><00:14:08.399><c> damos</c>
+
+00:14:08.590 --> 00:14:08.600 align:start position:0%
+se va a imprimir. Simplemente le damos
+ 
+
+00:14:08.600 --> 00:14:11.430 align:start position:0%
+se va a imprimir. Simplemente le damos
+que<00:14:08.759><c> así</c><00:14:08.920><c> y</c><00:14:09.079><c> se</c><00:14:09.199><c> envía</c><00:14:09.560><c> a</c><00:14:09.720><c> la</c><00:14:09.839><c> impresora.</c><00:14:11.199><c> Otra</c>
+
+00:14:11.430 --> 00:14:11.440 align:start position:0%
+que así y se envía a la impresora. Otra
+ 
+
+00:14:11.440 --> 00:14:14.350 align:start position:0%
+que así y se envía a la impresora. Otra
+opción<00:14:12.120><c> es</c><00:14:12.600><c> por</c><00:14:12.800><c> fuera.</c><00:14:13.680><c> Simplemente</c><00:14:14.199><c> le</c>
+
+00:14:14.350 --> 00:14:14.360 align:start position:0%
+opción es por fuera. Simplemente le
+ 
+
+00:14:14.360 --> 00:14:16.990 align:start position:0%
+opción es por fuera. Simplemente le
+damos<00:14:14.680><c> clic</c><00:14:14.959><c> derecho,</c>
+
+00:14:16.990 --> 00:14:17.000 align:start position:0%
+damos clic derecho,
+ 
+
+00:14:17.000 --> 00:14:18.870 align:start position:0%
+damos clic derecho,
+imprimir<00:14:17.680><c> como,</c><00:14:18.160><c> que</c><00:14:18.320><c> es</c><00:14:18.440><c> la</c><00:14:18.600><c> misma</c>
+
+00:14:18.870 --> 00:14:18.880 align:start position:0%
+imprimir como, que es la misma
+ 
+
+00:14:18.880 --> 00:14:21.030 align:start position:0%
+imprimir como, que es la misma
+funcionalidad<00:14:19.560><c> de</c><00:14:19.800><c> control</c><00:14:20.160><c> y,</c><00:14:20.320><c> es</c><00:14:20.480><c> decir,</c><00:14:20.800><c> me</c>
+
+00:14:21.030 --> 00:14:21.040 align:start position:0%
+funcionalidad de control y, es decir, me
+ 
+
+00:14:21.040 --> 00:14:22.829 align:start position:0%
+funcionalidad de control y, es decir, me
+trae<00:14:21.320><c> la</c><00:14:21.480><c> asistente</c><00:14:22.040><c> para</c><00:14:22.279><c> indicar</c><00:14:22.639><c> la</c>
+
+00:14:22.829 --> 00:14:22.839 align:start position:0%
+trae la asistente para indicar la
+ 
+
+00:14:22.839 --> 00:14:25.550 align:start position:0%
+trae la asistente para indicar la
+información<00:14:23.920><c> o</c>
+
+00:14:25.550 --> 00:14:25.560 align:start position:0%
+información o
+ 
+
+00:14:25.560 --> 00:14:27.550 align:start position:0%
+información o
+la<00:14:25.759><c> opción</c><00:14:26.320><c> imprimir,</c><00:14:26.880><c> que</c><00:14:27.000><c> es</c><00:14:27.120><c> la</c><00:14:27.279><c> misma</c>
+
+00:14:27.550 --> 00:14:27.560 align:start position:0%
+la opción imprimir, que es la misma
+ 
+
+00:14:27.560 --> 00:14:29.949 align:start position:0%
+la opción imprimir, que es la misma
+acción<00:14:28.000><c> de</c><00:14:28.360><c> control</c><00:14:28.800><c> i</c><00:14:28.959><c> del</c><00:14:29.199><c> teclado</c><00:14:29.639><c> que</c><00:14:29.800><c> de</c>
+
+00:14:29.949 --> 00:14:29.959 align:start position:0%
+acción de control i del teclado que de
+ 
+
+00:14:29.959 --> 00:14:31.910 align:start position:0%
+acción de control i del teclado que de
+una<00:14:30.079><c> vez</c><00:14:30.279><c> lo</c><00:14:30.399><c> envía</c><00:14:30.759><c> a</c><00:14:30.880><c> la</c><00:14:31.040><c> impresora.</c>
+
+00:14:31.910 --> 00:14:31.920 align:start position:0%
+una vez lo envía a la impresora.
+ 
+
+00:14:31.920 --> 00:14:33.590 align:start position:0%
+una vez lo envía a la impresora.
+Entonces,<00:14:32.199><c> también</c><00:14:32.480><c> tenemos</c><00:14:32.880><c> estas</c><00:14:33.199><c> opciones</c>
+
+00:14:33.590 --> 00:14:33.600 align:start position:0%
+Entonces, también tenemos estas opciones
+ 
+
+00:14:33.600 --> 00:14:35.670 align:start position:0%
+Entonces, también tenemos estas opciones
+para<00:14:33.800><c> imprimir</c><00:14:34.240><c> cualquier</c><00:14:34.800><c> operación</c><00:14:35.399><c> del</c>
+
+00:14:35.670 --> 00:14:35.680 align:start position:0%
+para imprimir cualquier operación del
+ 
+
+00:14:35.680 --> 00:14:37.030 align:start position:0%
+para imprimir cualquier operación del
+sistema.
+
+00:14:37.030 --> 00:14:37.040 align:start position:0%
+sistema.
+ 
+
+00:14:37.040 --> 00:14:40.710 align:start position:0%
+sistema.
+Otra<00:14:37.279><c> opción</c><00:14:37.600><c> es</c><00:14:38.120><c> enviar</c><00:14:39.440><c> la</c><00:14:39.759><c> información</c><00:14:40.480><c> de</c>
+
+00:14:40.710 --> 00:14:40.720 align:start position:0%
+Otra opción es enviar la información de
+ 
+
+00:14:40.720 --> 00:14:43.430 align:start position:0%
+Otra opción es enviar la información de
+este<00:14:41.000><c> comprobante</c><00:14:42.120><c> por</c><00:14:42.360><c> correo</c><00:14:42.759><c> electrónico</c>
+
+00:14:43.430 --> 00:14:43.440 align:start position:0%
+este comprobante por correo electrónico
+ 
+
+00:14:43.440 --> 00:14:45.550 align:start position:0%
+este comprobante por correo electrónico
+o<00:14:43.680><c> la</c><00:14:43.880><c> información</c><00:14:44.279><c> de</c><00:14:44.480><c> cualquier</c><00:14:44.920><c> operación</c>
+
+00:14:45.550 --> 00:14:45.560 align:start position:0%
+o la información de cualquier operación
+ 
+
+00:14:45.560 --> 00:14:47.949 align:start position:0%
+o la información de cualquier operación
+por<00:14:45.759><c> correo</c><00:14:46.079><c> electrónico.</c><00:14:47.120><c> Le</c><00:14:47.279><c> damos</c><00:14:47.680><c> clic</c>
+
+00:14:47.949 --> 00:14:47.959 align:start position:0%
+por correo electrónico. Le damos clic
+ 
+
+00:14:47.959 --> 00:14:51.150 align:start position:0%
+por correo electrónico. Le damos clic
+derecho,<00:14:49.040><c> enviar</c><00:14:49.399><c> por</c><00:14:49.639><c> email</c><00:14:50.240><c> y</c><00:14:50.440><c> nos</c><00:14:50.680><c> abre</c><00:14:50.959><c> un</c>
+
+00:14:51.150 --> 00:14:51.160 align:start position:0%
+derecho, enviar por email y nos abre un
+ 
+
+00:14:51.160 --> 00:14:53.790 align:start position:0%
+derecho, enviar por email y nos abre un
+asistente<00:14:52.120><c> donde</c><00:14:52.360><c> nos</c><00:14:52.560><c> pregunta</c><00:14:53.040><c> primero</c><00:14:53.600><c> el</c>
+
+00:14:53.790 --> 00:14:53.800 align:start position:0%
+asistente donde nos pregunta primero el
+ 
+
+00:14:53.800 --> 00:14:55.629 align:start position:0%
+asistente donde nos pregunta primero el
+tipo<00:14:54.000><c> de</c><00:14:54.120><c> documento</c><00:14:54.560><c> de</c><00:14:54.759><c> impresión</c><00:14:55.240><c> que</c><00:14:55.440><c> vamos</c>
+
+00:14:55.629 --> 00:14:55.639 align:start position:0%
+tipo de documento de impresión que vamos
+ 
+
+00:14:55.639 --> 00:14:58.670 align:start position:0%
+tipo de documento de impresión que vamos
+a<00:14:55.800><c> enviar</c><00:14:56.120><c> por</c><00:14:56.360><c> email.</c><00:14:57.279><c> Nos</c><00:14:57.600><c> pregunta</c><00:14:58.199><c> el</c><00:14:58.440><c> tipo</c>
+
+00:14:58.670 --> 00:14:58.680 align:start position:0%
+a enviar por email. Nos pregunta el tipo
+ 
+
+00:14:58.680 --> 00:15:01.030 align:start position:0%
+a enviar por email. Nos pregunta el tipo
+de<00:14:58.920><c> contenido</c><00:14:59.399><c> donde</c><00:14:59.680><c> tenemos</c><00:15:00.040><c> dos</c><00:15:00.279><c> opciones,</c>
+
+00:15:01.030 --> 00:15:01.040 align:start position:0%
+de contenido donde tenemos dos opciones,
+ 
+
+00:15:01.040 --> 00:15:02.870 align:start position:0%
+de contenido donde tenemos dos opciones,
+plantilla<00:15:01.519><c> de</c><00:15:01.759><c> contenido</c><00:15:02.360><c> o</c><00:15:02.480><c> si</c><00:15:02.680><c> vamos</c><00:15:02.800><c> a</c>
+
+00:15:02.870 --> 00:15:02.880 align:start position:0%
+plantilla de contenido o si vamos a
+ 
+
+00:15:02.880 --> 00:15:05.550 align:start position:0%
+plantilla de contenido o si vamos a
+enviar<00:15:03.160><c> el</c><00:15:03.279><c> documento</c><00:15:03.720><c> en</c><00:15:03.920><c> HTML.</c><00:15:05.399><c> En</c>
+
+00:15:05.550 --> 00:15:05.560 align:start position:0%
+enviar el documento en HTML. En
+ 
+
+00:15:05.560 --> 00:15:07.470 align:start position:0%
+enviar el documento en HTML. En
+plantilla<00:15:05.959><c> de</c><00:15:06.079><c> contenido,</c><00:15:06.600><c> aquí</c><00:15:06.839><c> nos</c><00:15:07.079><c> permite</c>
+
+00:15:07.470 --> 00:15:07.480 align:start position:0%
+plantilla de contenido, aquí nos permite
+ 
+
+00:15:07.480 --> 00:15:09.790 align:start position:0%
+plantilla de contenido, aquí nos permite
+indicar<00:15:08.199><c> una</c><00:15:08.480><c> plantilla.</c><00:15:09.160><c> El</c><00:15:09.240><c> sistema</c><00:15:09.560><c> trae</c>
+
+00:15:09.790 --> 00:15:09.800 align:start position:0%
+indicar una plantilla. El sistema trae
+ 
+
+00:15:09.800 --> 00:15:11.990 align:start position:0%
+indicar una plantilla. El sistema trae
+unas<00:15:10.040><c> plantillas</c><00:15:10.600><c> por</c><00:15:10.839><c> defecto</c><00:15:11.759><c> que</c>
+
+00:15:11.990 --> 00:15:12.000 align:start position:0%
+unas plantillas por defecto que
+ 
+
+00:15:12.000 --> 00:15:15.949 align:start position:0%
+unas plantillas por defecto que
+básicamente<00:15:12.800><c> es</c><00:15:13.160><c> como</c><00:15:13.920><c> eh</c><00:15:14.360><c> programar</c><00:15:15.680><c> el</c>
+
+00:15:15.949 --> 00:15:15.959 align:start position:0%
+básicamente es como eh programar el
+ 
+
+00:15:15.959 --> 00:15:17.910 align:start position:0%
+básicamente es como eh programar el
+cuerpo<00:15:16.320><c> del</c><00:15:16.519><c> correo.</c><00:15:17.160><c> Si</c><00:15:17.240><c> yo</c><00:15:17.399><c> le</c><00:15:17.519><c> digo,</c><00:15:17.800><c> por</c>
+
+00:15:17.910 --> 00:15:17.920 align:start position:0%
+cuerpo del correo. Si yo le digo, por
+ 
+
+00:15:17.920 --> 00:15:19.990 align:start position:0%
+cuerpo del correo. Si yo le digo, por
+ejemplo,<00:15:18.560><c> la</c><00:15:18.759><c> plantilla</c><00:15:19.160><c> de</c><00:15:19.360><c> publicación</c><00:15:19.839><c> de</c>
+
+00:15:19.990 --> 00:15:20.000 align:start position:0%
+ejemplo, la plantilla de publicación de
+ 
+
+00:15:20.000 --> 00:15:23.550 align:start position:0%
+ejemplo, la plantilla de publicación de
+un<00:15:20.120><c> documento</c><00:15:21.160><c> y</c><00:15:21.360><c> le</c><00:15:21.480><c> digo</c><00:15:21.959><c> enviar</c><00:15:22.440><c> email,</c><00:15:23.279><c> esa</c>
+
+00:15:23.550 --> 00:15:23.560 align:start position:0%
+un documento y le digo enviar email, esa
+ 
+
+00:15:23.560 --> 00:15:25.749 align:start position:0%
+un documento y le digo enviar email, esa
+plantilla<00:15:24.040><c> básicamente</c><00:15:24.639><c> lo</c><00:15:24.800><c> que</c><00:15:24.959><c> contiene</c><00:15:25.480><c> es</c>
+
+00:15:25.749 --> 00:15:25.759 align:start position:0%
+plantilla básicamente lo que contiene es
+ 
+
+00:15:25.759 --> 00:15:27.790 align:start position:0%
+plantilla básicamente lo que contiene es
+este<00:15:26.040><c> cuerpo</c><00:15:26.680><c> donde</c><00:15:27.000><c> vamos</c><00:15:27.160><c> a</c><00:15:27.320><c> indicar</c>
+
+00:15:27.790 --> 00:15:27.800 align:start position:0%
+este cuerpo donde vamos a indicar
+ 
+
+00:15:27.800 --> 00:15:30.389 align:start position:0%
+este cuerpo donde vamos a indicar
+automáticamente,<00:15:28.800><c> "Hola,</c><00:15:29.120><c> señores,</c><00:15:30.160><c> el</c>
+
+00:15:30.389 --> 00:15:30.399 align:start position:0%
+automáticamente, "Hola, señores, el
+ 
+
+00:15:30.399 --> 00:15:32.030 align:start position:0%
+automáticamente, "Hola, señores, el
+tercero<00:15:30.800><c> de</c><00:15:30.920><c> la</c><00:15:31.040><c> operación.</c><00:15:31.759><c> Hemos</c>
+
+00:15:32.030 --> 00:15:32.040 align:start position:0%
+tercero de la operación. Hemos
+ 
+
+00:15:32.040 --> 00:15:34.629 align:start position:0%
+tercero de la operación. Hemos
+compartido<00:15:32.519><c> con</c><00:15:32.720><c> usted</c><00:15:33.000><c> un</c><00:15:33.160><c> documento,</c><00:15:34.399><c> eh</c>
+
+00:15:34.629 --> 00:15:34.639 align:start position:0%
+compartido con usted un documento, eh
+ 
+
+00:15:34.639 --> 00:15:37.670 align:start position:0%
+compartido con usted un documento, eh
+las<00:15:34.959><c> firmas.</c><00:15:36.199><c> Este</c><00:15:36.399><c> es</c><00:15:36.759><c> el</c><00:15:37.000><c> cuerpo</c><00:15:37.319><c> de</c><00:15:37.480><c> esa</c>
+
+00:15:37.670 --> 00:15:37.680 align:start position:0%
+las firmas. Este es el cuerpo de esa
+ 
+
+00:15:37.680 --> 00:15:40.189 align:start position:0%
+las firmas. Este es el cuerpo de esa
+plantilla<00:15:38.120><c> que</c><00:15:38.360><c> acabo</c><00:15:38.680><c> de</c><00:15:38.880><c> seleccionar.</c><00:15:39.959><c> Y</c>
+
+00:15:40.189 --> 00:15:40.199 align:start position:0%
+plantilla que acabo de seleccionar. Y
+ 
+
+00:15:40.199 --> 00:15:42.189 align:start position:0%
+plantilla que acabo de seleccionar. Y
+para<00:15:40.440><c> crear</c><00:15:40.839><c> plantillas</c><00:15:41.399><c> o</c><00:15:41.600><c> modificar</c><00:15:42.120><c> las</c>
+
+00:15:42.189 --> 00:15:42.199 align:start position:0%
+para crear plantillas o modificar las
+ 
+
+00:15:42.199 --> 00:15:44.230 align:start position:0%
+para crear plantillas o modificar las
+que<00:15:42.360><c> ya</c><00:15:42.480><c> existen,</c><00:15:42.959><c> las</c><00:15:43.199><c> encontramos</c><00:15:43.720><c> por</c>
+
+00:15:44.230 --> 00:15:44.240 align:start position:0%
+que ya existen, las encontramos por
+ 
+
+00:15:44.240 --> 00:15:46.509 align:start position:0%
+que ya existen, las encontramos por
+básico,<00:15:44.880><c> plantillas.</c><00:15:45.759><c> Ahí</c><00:15:45.959><c> vamos</c><00:15:46.120><c> a</c><00:15:46.279><c> poder</c>
+
+00:15:46.509 --> 00:15:46.519 align:start position:0%
+básico, plantillas. Ahí vamos a poder
+ 
+
+00:15:46.519 --> 00:15:48.829 align:start position:0%
+básico, plantillas. Ahí vamos a poder
+encontrar<00:15:46.880><c> las</c><00:15:47.079><c> plantillas</c><00:15:47.560><c> como</c><00:15:47.800><c> tal.</c><00:15:48.600><c> O</c>
+
+00:15:48.829 --> 00:15:48.839 align:start position:0%
+encontrar las plantillas como tal. O
+ 
+
+00:15:48.839 --> 00:15:50.910 align:start position:0%
+encontrar las plantillas como tal. O
+tenemos<00:15:49.199><c> la</c><00:15:49.399><c> opción,</c><00:15:49.759><c> voy</c><00:15:49.920><c> a</c><00:15:50.040><c> volver</c><00:15:50.319><c> aquí</c><00:15:50.759><c> a</c>
+
+00:15:50.910 --> 00:15:50.920 align:start position:0%
+tenemos la opción, voy a volver aquí a
+ 
+
+00:15:50.920 --> 00:15:54.030 align:start position:0%
+tenemos la opción, voy a volver aquí a
+darle<00:15:51.240><c> clic</c><00:15:51.519><c> derecho,</c><00:15:52.040><c> enviar,</c><00:15:53.120><c> de</c><00:15:53.360><c> enviar</c><00:15:53.839><c> de</c>
+
+00:15:54.030 --> 00:15:54.040 align:start position:0%
+darle clic derecho, enviar, de enviar de
+ 
+
+00:15:54.040 --> 00:15:57.389 align:start position:0%
+darle clic derecho, enviar, de enviar de
+una<00:15:54.199><c> vez</c><00:15:54.560><c> un</c><00:15:54.759><c> documento</c><00:15:55.279><c> en</c><00:15:55.480><c> HTML.</c><00:15:56.720><c> Y</c><00:15:56.920><c> aquí</c><00:15:57.160><c> nos</c>
+
+00:15:57.389 --> 00:15:57.399 align:start position:0%
+una vez un documento en HTML. Y aquí nos
+ 
+
+00:15:57.399 --> 00:15:59.870 align:start position:0%
+una vez un documento en HTML. Y aquí nos
+pregunta<00:15:57.920><c> qué</c><00:15:58.160><c> documento</c><00:15:58.759><c> como</c><00:15:59.000><c> tal.</c><00:15:59.399><c> En</c><00:15:59.600><c> este</c>
+
+00:15:59.870 --> 00:15:59.880 align:start position:0%
+pregunta qué documento como tal. En este
+ 
+
+00:15:59.880 --> 00:16:02.030 align:start position:0%
+pregunta qué documento como tal. En este
+momento<00:16:00.279><c> para</c><00:16:00.600><c> este</c><00:16:00.800><c> tipo</c><00:16:01.000><c> de</c><00:16:01.120><c> operación</c>
+
+00:16:02.030 --> 00:16:02.040 align:start position:0%
+momento para este tipo de operación
+ 
+
+00:16:02.040 --> 00:16:03.829 align:start position:0%
+momento para este tipo de operación
+tenemos<00:16:02.480><c> disponibles</c><00:16:03.279><c> estos</c><00:16:03.639><c> dos</c>
+
+00:16:03.829 --> 00:16:03.839 align:start position:0%
+tenemos disponibles estos dos
+ 
+
+00:16:03.839 --> 00:16:05.629 align:start position:0%
+tenemos disponibles estos dos
+documentos.<00:16:04.880><c> Vamos</c><00:16:05.040><c> a</c><00:16:05.199><c> ver</c><00:16:05.319><c> el</c><00:16:05.480><c> de</c>
+
+00:16:05.629 --> 00:16:05.639 align:start position:0%
+documentos. Vamos a ver el de
+ 
+
+00:16:05.639 --> 00:16:07.949 align:start position:0%
+documentos. Vamos a ver el de
+comprobante<00:16:06.240><c> de</c><00:16:06.360><c> egreso</c><00:16:06.959><c> y</c><00:16:07.120><c> le</c><00:16:07.240><c> doy</c><00:16:07.560><c> vista</c>
+
+00:16:07.949 --> 00:16:07.959 align:start position:0%
+comprobante de egreso y le doy vista
+ 
+
+00:16:07.959 --> 00:16:10.389 align:start position:0%
+comprobante de egreso y le doy vista
+previa.<00:16:09.079><c> Y</c><00:16:09.199><c> lo</c><00:16:09.319><c> que</c><00:16:09.480><c> hace</c><00:16:09.720><c> aquí</c><00:16:09.959><c> ya</c><00:16:10.120><c> no</c><00:16:10.240><c> es</c>
+
+00:16:10.389 --> 00:16:10.399 align:start position:0%
+previa. Y lo que hace aquí ya no es
+ 
+
+00:16:10.399 --> 00:16:12.189 align:start position:0%
+previa. Y lo que hace aquí ya no es
+tener<00:16:10.639><c> como</c><00:16:10.839><c> un</c><00:16:10.959><c> cuerpo</c><00:16:11.319><c> del</c><00:16:11.480><c> correo,</c><00:16:11.839><c> sino</c>
+
+00:16:12.189 --> 00:16:12.199 align:start position:0%
+tener como un cuerpo del correo, sino
+ 
+
+00:16:12.199 --> 00:16:15.470 align:start position:0%
+tener como un cuerpo del correo, sino
+directamente<00:16:13.120><c> poner</c><00:16:14.040><c> este</c><00:16:14.360><c> comprobante</c><00:16:15.199><c> en</c>
+
+00:16:15.470 --> 00:16:15.480 align:start position:0%
+directamente poner este comprobante en
+ 
+
+00:16:15.480 --> 00:16:19.309 align:start position:0%
+directamente poner este comprobante en
+HTML,<00:16:16.600><c> que</c><00:16:16.839><c> un</c><00:16:17.000><c> documento</c><00:16:17.480><c> en</c><00:16:17.680><c> HTML</c><00:16:18.759><c> es</c><00:16:19.040><c> como</c>
+
+00:16:19.309 --> 00:16:19.319 align:start position:0%
+HTML, que un documento en HTML es como
+ 
+
+00:16:19.319 --> 00:16:21.629 align:start position:0%
+HTML, que un documento en HTML es como
+la<00:16:19.600><c> estructura</c><00:16:20.120><c> que</c><00:16:20.319><c> vemos</c><00:16:20.639><c> aquí,</c><00:16:20.959><c> que</c><00:16:21.079><c> es</c>
+
+00:16:21.629 --> 00:16:21.639 align:start position:0%
+la estructura que vemos aquí, que es
+ 
+
+00:16:21.639 --> 00:16:25.309 align:start position:0%
+la estructura que vemos aquí, que es
+como<00:16:21.920><c> con</c><00:16:22.279><c> colores</c><00:16:23.199><c> más</c><00:16:23.600><c> estructurado,</c><00:16:24.880><c> más</c>
+
+00:16:25.309 --> 00:16:25.319 align:start position:0%
+como con colores más estructurado, más
+ 
+
+00:16:25.319 --> 00:16:27.670 align:start position:0%
+como con colores más estructurado, más
+profesional<00:16:26.240><c> que</c><00:16:26.519><c> tenerlo</c><00:16:26.920><c> en</c><00:16:27.079><c> el</c><00:16:27.199><c> documento</c>
+
+00:16:27.670 --> 00:16:27.680 align:start position:0%
+profesional que tenerlo en el documento
+ 
+
+00:16:27.680 --> 00:16:29.870 align:start position:0%
+profesional que tenerlo en el documento
+PDF,<00:16:28.160><c> que</c><00:16:28.279><c> es</c><00:16:28.399><c> un</c><00:16:28.519><c> poquito</c><00:16:28.839><c> más</c><00:16:29.120><c> plano,</c><00:16:29.680><c> en</c>
+
+00:16:29.870 --> 00:16:29.880 align:start position:0%
+PDF, que es un poquito más plano, en
+ 
+
+00:16:29.880 --> 00:16:32.230 align:start position:0%
+PDF, que es un poquito más plano, en
+grises.<00:16:30.600><c> Aquí</c><00:16:30.800><c> ya</c><00:16:31.000><c> podemos</c><00:16:31.319><c> ver</c><00:16:31.560><c> algo</c><00:16:31.959><c> como</c>
+
+00:16:32.230 --> 00:16:32.240 align:start position:0%
+grises. Aquí ya podemos ver algo como
+ 
+
+00:16:32.240 --> 00:16:34.749 align:start position:0%
+grises. Aquí ya podemos ver algo como
+más<00:16:32.600><c> profesional,</c><00:16:33.199><c> más</c><00:16:33.480><c> estructurado</c><00:16:34.519><c> en</c>
+
+00:16:34.749 --> 00:16:34.759 align:start position:0%
+más profesional, más estructurado en
+ 
+
+00:16:34.759 --> 00:16:36.389 align:start position:0%
+más profesional, más estructurado en
+HTML.
+
+00:16:36.389 --> 00:16:36.399 align:start position:0%
+HTML.
+ 
+
+00:16:36.399 --> 00:16:38.670 align:start position:0%
+HTML.
+Y<00:16:36.519><c> listo.</c><00:16:36.839><c> Aquí</c><00:16:37.000><c> indicamos</c><00:16:37.720><c> el</c><00:16:37.920><c> correo</c><00:16:38.399><c> para</c>
+
+00:16:38.670 --> 00:16:38.680 align:start position:0%
+Y listo. Aquí indicamos el correo para
+ 
+
+00:16:38.680 --> 00:16:42.350 align:start position:0%
+Y listo. Aquí indicamos el correo para
+quién,<00:16:39.600><c> eh</c><00:16:40.399><c> si</c><00:16:40.639><c> queremos</c><00:16:41.000><c> enviar</c><00:16:41.480><c> una</c><00:16:41.839><c> copia,</c>
+
+00:16:42.350 --> 00:16:42.360 align:start position:0%
+quién, eh si queremos enviar una copia,
+ 
+
+00:16:42.360 --> 00:16:45.470 align:start position:0%
+quién, eh si queremos enviar una copia,
+cuál<00:16:42.600><c> es</c><00:16:42.759><c> el</c><00:16:43.040><c> asunto,</c><00:16:44.199><c> el</c><00:16:44.560><c> eh</c><00:16:44.759><c> los</c><00:16:45.000><c> adjuntos,</c>
+
+00:16:45.470 --> 00:16:45.480 align:start position:0%
+cuál es el asunto, el eh los adjuntos,
+ 
+
+00:16:45.480 --> 00:16:47.389 align:start position:0%
+cuál es el asunto, el eh los adjuntos,
+quienes<00:16:45.800><c> también</c><00:16:46.079><c> nos</c><00:16:46.319><c> está</c><00:16:46.560><c> adjuntando</c><00:16:47.240><c> el</c>
+
+00:16:47.389 --> 00:16:47.399 align:start position:0%
+quienes también nos está adjuntando el
+ 
+
+00:16:47.399 --> 00:16:50.670 align:start position:0%
+quienes también nos está adjuntando el
+correo<00:16:47.800><c> en</c><00:16:47.920><c> PDF</c><00:16:48.759><c> y</c><00:16:49.360><c> responderá.</c><00:16:50.279><c> También</c><00:16:50.519><c> lo</c>
+
+00:16:50.670 --> 00:16:50.680 align:start position:0%
+correo en PDF y responderá. También lo
+ 
+
+00:16:50.680 --> 00:16:53.629 align:start position:0%
+correo en PDF y responderá. También lo
+podemos<00:16:51.040><c> indicar</c><00:16:51.480><c> acá</c><00:16:52.680><c> y</c><00:16:52.920><c> simplemente</c><00:16:53.440><c> le</c>
+
+00:16:53.629 --> 00:16:53.639 align:start position:0%
+podemos indicar acá y simplemente le
+ 
+
+00:16:53.639 --> 00:16:55.269 align:start position:0%
+podemos indicar acá y simplemente le
+damos<00:16:53.839><c> a</c><00:16:53.920><c> enviar.</c><00:16:54.480><c> Entonces,</c><00:16:54.720><c> ponemos</c><00:16:55.079><c> un</c>
+
+00:16:55.269 --> 00:16:55.279 align:start position:0%
+damos a enviar. Entonces, ponemos un
+ 
+
+00:16:55.279 --> 00:17:00.710 align:start position:0%
+damos a enviar. Entonces, ponemos un
+correo
+
+00:17:00.710 --> 00:17:00.720 align:start position:0%
+ 
+ 
+
+00:17:00.720 --> 00:17:03.670 align:start position:0%
+ 
+y<00:17:00.920><c> le</c><00:17:01.079><c> damos</c><00:17:01.519><c> enviar.</c>
+
+00:17:03.670 --> 00:17:03.680 align:start position:0%
+y le damos enviar.
+ 
+
+00:17:03.680 --> 00:17:05.230 align:start position:0%
+y le damos enviar.
+Y<00:17:03.800><c> listo.</c><00:17:04.199><c> De</c><00:17:04.319><c> forma</c><00:17:04.520><c> automática,</c><00:17:05.039><c> en</c><00:17:05.120><c> la</c>
+
+00:17:05.230 --> 00:17:05.240 align:start position:0%
+Y listo. De forma automática, en la
+ 
+
+00:17:05.240 --> 00:17:07.029 align:start position:0%
+Y listo. De forma automática, en la
+parte<00:17:05.520><c> superior</c><00:17:05.880><c> nos</c><00:17:06.079><c> indica</c><00:17:06.439><c> que</c><00:17:06.559><c> el</c><00:17:06.720><c> correo</c>
+
+00:17:07.029 --> 00:17:07.039 align:start position:0%
+parte superior nos indica que el correo
+ 
+
+00:17:07.039 --> 00:17:09.270 align:start position:0%
+parte superior nos indica que el correo
+fue<00:17:07.319><c> programado</c><00:17:08.000><c> satisfactoriamente</c><00:17:09.000><c> y</c><00:17:09.160><c> se</c>
+
+00:17:09.270 --> 00:17:09.280 align:start position:0%
+fue programado satisfactoriamente y se
+ 
+
+00:17:09.280 --> 00:17:12.069 align:start position:0%
+fue programado satisfactoriamente y se
+envía<00:17:09.720><c> al</c><00:17:09.959><c> correo</c><00:17:10.520><c> indicado.</c><00:17:11.559><c> Esas</c><00:17:11.760><c> son</c><00:17:11.880><c> las</c>
+
+00:17:12.069 --> 00:17:12.079 align:start position:0%
+envía al correo indicado. Esas son las
+ 
+
+00:17:12.079 --> 00:17:14.590 align:start position:0%
+envía al correo indicado. Esas son las
+formas<00:17:12.400><c> de</c><00:17:13.039><c> eh</c><00:17:13.559><c> enviar</c><00:17:14.000><c> por</c><00:17:14.240><c> correo</c>
+
+00:17:14.590 --> 00:17:14.600 align:start position:0%
+formas de eh enviar por correo
+ 
+
+00:17:14.600 --> 00:17:16.750 align:start position:0%
+formas de eh enviar por correo
+electrónico.<00:17:15.559><c> También</c><00:17:15.880><c> si</c><00:17:16.079><c> deseamos</c>
+
+00:17:16.750 --> 00:17:16.760 align:start position:0%
+electrónico. También si deseamos
+ 
+
+00:17:16.760 --> 00:17:19.350 align:start position:0%
+electrónico. También si deseamos
+adjuntar<00:17:17.559><c> algún</c><00:17:17.880><c> otro</c><00:17:18.079><c> archivo</c><00:17:18.439><c> en</c><00:17:18.559><c> PDF</c><00:17:19.160><c> para</c>
+
+00:17:19.350 --> 00:17:19.360 align:start position:0%
+adjuntar algún otro archivo en PDF para
+ 
+
+00:17:19.360 --> 00:17:21.470 align:start position:0%
+adjuntar algún otro archivo en PDF para
+que<00:17:19.520><c> se</c><00:17:19.640><c> envíe</c><00:17:19.959><c> de</c><00:17:20.120><c> una</c><00:17:20.280><c> vez,</c><00:17:20.839><c> lo</c><00:17:21.079><c> podemos</c>
+
+00:17:21.470 --> 00:17:21.480 align:start position:0%
+que se envíe de una vez, lo podemos
+ 
+
+00:17:21.480 --> 00:17:23.429 align:start position:0%
+que se envíe de una vez, lo podemos
+hacer.<00:17:21.880><c> Simplemente</c><00:17:22.360><c> le</c><00:17:22.520><c> damos</c><00:17:22.760><c> clic</c><00:17:23.079><c> en</c><00:17:23.280><c> el</c>
+
+00:17:23.429 --> 00:17:23.439 align:start position:0%
+hacer. Simplemente le damos clic en el
+ 
+
+00:17:23.439 --> 00:17:25.870 align:start position:0%
+hacer. Simplemente le damos clic en el
+visor<00:17:24.160><c> y</c><00:17:24.360><c> nos</c><00:17:24.559><c> abre</c><00:17:24.799><c> el</c><00:17:25.000><c> asistente</c><00:17:25.559><c> para</c><00:17:25.720><c> que</c>
+
+00:17:25.870 --> 00:17:25.880 align:start position:0%
+visor y nos abre el asistente para que
+ 
+
+00:17:25.880 --> 00:17:29.390 align:start position:0%
+visor y nos abre el asistente para que
+podamos<00:17:26.319><c> indicar</c><00:17:27.199><c> un</c><00:17:27.439><c> documento</c><00:17:28.480><c> y</c><00:17:28.840><c> se</c><00:17:29.000><c> envía</c>
+
+00:17:29.390 --> 00:17:29.400 align:start position:0%
+podamos indicar un documento y se envía
+ 
+
+00:17:29.400 --> 00:17:31.190 align:start position:0%
+podamos indicar un documento y se envía
+junto<00:17:29.840><c> con</c><00:17:30.039><c> el</c><00:17:30.200><c> comprobante</c><00:17:30.679><c> que</c><00:17:30.880><c> estamos</c>
+
+00:17:31.190 --> 00:17:31.200 align:start position:0%
+junto con el comprobante que estamos
+ 
+
+00:17:31.200 --> 00:17:33.310 align:start position:0%
+junto con el comprobante que estamos
+enviando<00:17:31.720><c> y</c><00:17:31.919><c> así</c><00:17:32.160><c> podemos</c><00:17:32.480><c> enviar</c><00:17:32.840><c> cualquier</c>
+
+00:17:33.310 --> 00:17:33.320 align:start position:0%
+enviando y así podemos enviar cualquier
+ 
+
+00:17:33.320 --> 00:17:36.070 align:start position:0%
+enviando y así podemos enviar cualquier
+tipo<00:17:33.559><c> de</c><00:17:33.679><c> operación</c><00:17:34.240><c> desde</c><00:17:34.480><c> el</c><00:17:34.640><c> sistema.</c>
+
+00:17:36.070 --> 00:17:36.080 align:start position:0%
+tipo de operación desde el sistema.
+ 
+
+00:17:36.080 --> 00:17:37.750 align:start position:0%
+tipo de operación desde el sistema.
+Estas<00:17:36.400><c> acciones</c><00:17:36.840><c> de</c><00:17:37.000><c> enviar</c><00:17:37.280><c> por</c><00:17:37.480><c> email</c>
+
+00:17:37.750 --> 00:17:37.760 align:start position:0%
+Estas acciones de enviar por email
+ 
+
+00:17:37.760 --> 00:17:39.150 align:start position:0%
+Estas acciones de enviar por email
+también<00:17:37.960><c> la</c><00:17:38.120><c> encontramos</c><00:17:38.600><c> en</c><00:17:38.760><c> la</c><00:17:38.880><c> parte</c>
+
+00:17:39.150 --> 00:17:39.160 align:start position:0%
+también la encontramos en la parte
+ 
+
+00:17:39.160 --> 00:17:41.470 align:start position:0%
+también la encontramos en la parte
+superior.<00:17:39.799><c> Aquí</c><00:17:40.000><c> encontramos</c><00:17:40.840><c> eh</c><00:17:41.039><c> la</c><00:17:41.200><c> acción</c>
+
+00:17:41.470 --> 00:17:41.480 align:start position:0%
+superior. Aquí encontramos eh la acción
+ 
+
+00:17:41.480 --> 00:17:43.830 align:start position:0%
+superior. Aquí encontramos eh la acción
+de<00:17:41.640><c> enviar</c><00:17:41.960><c> por</c><00:17:42.200><c> email</c><00:17:42.760><c> y</c><00:17:42.960><c> si</c><00:17:43.120><c> queremos</c>
+
+00:17:43.830 --> 00:17:43.840 align:start position:0%
+de enviar por email y si queremos
+ 
+
+00:17:43.840 --> 00:17:46.710 align:start position:0%
+de enviar por email y si queremos
+imprimirlo<00:17:44.480><c> como</c><00:17:44.720><c> tal</c><00:17:45.000><c> o</c><00:17:45.200><c> guardarlo</c><00:17:45.640><c> en</c><00:17:45.760><c> PDF.</c>
+
+00:17:46.710 --> 00:17:46.720 align:start position:0%
+imprimirlo como tal o guardarlo en PDF.
+ 
+
+00:17:46.720 --> 00:17:49.430 align:start position:0%
+imprimirlo como tal o guardarlo en PDF.
+Como<00:17:46.919><c> hemos</c><00:17:47.240><c> visto,</c><00:17:48.000><c> el</c><00:17:48.200><c> sistema</c><00:17:48.600><c> nos</c><00:17:48.880><c> brinda</c>
+
+00:17:49.430 --> 00:17:49.440 align:start position:0%
+Como hemos visto, el sistema nos brinda
+ 
+
+00:17:49.440 --> 00:17:51.870 align:start position:0%
+Como hemos visto, el sistema nos brinda
+una<00:17:49.760><c> amplia</c><00:17:50.160><c> gama</c><00:17:50.440><c> de</c><00:17:50.600><c> acciones</c><00:17:51.559><c> para</c>
+
+00:17:51.870 --> 00:17:51.880 align:start position:0%
+una amplia gama de acciones para
+ 
+
+00:17:51.880 --> 00:17:53.750 align:start position:0%
+una amplia gama de acciones para
+gestionar<00:17:52.320><c> las</c><00:17:52.520><c> operaciones</c><00:17:53.120><c> registradas</c><00:17:53.640><c> en</c>
+
+00:17:53.750 --> 00:17:53.760 align:start position:0%
+gestionar las operaciones registradas en
+ 
+
+00:17:53.760 --> 00:17:56.750 align:start position:0%
+gestionar las operaciones registradas en
+el<00:17:53.960><c> sistema,</c><00:17:54.840><c> desde</c><00:17:55.159><c> modificarlas</c><00:17:56.520><c> como</c>
+
+00:17:56.750 --> 00:17:56.760 align:start position:0%
+el sistema, desde modificarlas como
+ 
+
+00:17:56.760 --> 00:17:59.549 align:start position:0%
+el sistema, desde modificarlas como
+duplicarlas,<00:17:57.919><c> eliminarlas</c><00:17:59.120><c> hasta</c>
+
+00:17:59.549 --> 00:17:59.559 align:start position:0%
+duplicarlas, eliminarlas hasta
+ 
+
+00:17:59.559 --> 00:18:01.350 align:start position:0%
+duplicarlas, eliminarlas hasta
+procesarlas,<00:18:00.240><c> que</c><00:18:00.400><c> es</c><00:18:00.520><c> una</c><00:18:00.640><c> de</c><00:18:00.760><c> las</c><00:18:00.880><c> acciones</c>
+
+00:18:01.350 --> 00:18:01.360 align:start position:0%
+procesarlas, que es una de las acciones
+ 
+
+00:18:01.360 --> 00:18:05.029 align:start position:0%
+procesarlas, que es una de las acciones
+más<00:18:02.000><c> importantes</c><00:18:03.120><c> en</c><00:18:03.360><c> una</c><00:18:03.559><c> operación,</c><00:18:04.600><c> ya</c><00:18:04.799><c> que</c>
+
+00:18:05.029 --> 00:18:05.039 align:start position:0%
+más importantes en una operación, ya que
+ 
+
+00:18:05.039 --> 00:18:06.909 align:start position:0%
+más importantes en una operación, ya que
+recordemos<00:18:05.600><c> que</c><00:18:05.760><c> esto</c><00:18:06.000><c> significa</c><00:18:06.640><c> que</c><00:18:06.760><c> el</c>
+
+00:18:06.909 --> 00:18:06.919 align:start position:0%
+recordemos que esto significa que el
+ 
+
+00:18:06.919 --> 00:18:09.149 align:start position:0%
+recordemos que esto significa que el
+sistema<00:18:07.280><c> va</c><00:18:07.400><c> a</c><00:18:07.600><c> interpretar</c><00:18:08.280><c> los</c><00:18:08.520><c> datos</c><00:18:08.880><c> que</c>
+
+00:18:09.149 --> 00:18:09.159 align:start position:0%
+sistema va a interpretar los datos que
+ 
+
+00:18:09.159 --> 00:18:11.470 align:start position:0%
+sistema va a interpretar los datos que
+digitamos<00:18:09.760><c> en</c><00:18:09.919><c> la</c><00:18:10.080><c> operación</c><00:18:10.919><c> y</c><00:18:11.120><c> los</c><00:18:11.280><c> va</c><00:18:11.400><c> a</c>
+
+00:18:11.470 --> 00:18:11.480 align:start position:0%
+digitamos en la operación y los va a
+ 
+
+00:18:11.480 --> 00:18:14.070 align:start position:0%
+digitamos en la operación y los va a
+convertir<00:18:12.080><c> en</c><00:18:12.320><c> movimientos</c><00:18:13.000><c> contables,</c><00:18:13.919><c> en</c>
+
+00:18:14.070 --> 00:18:14.080 align:start position:0%
+convertir en movimientos contables, en
+ 
+
+00:18:14.080 --> 00:18:15.789 align:start position:0%
+convertir en movimientos contables, en
+movimientos<00:18:14.520><c> de</c><00:18:14.720><c> inventario,</c><00:18:15.640><c> en</c>
+
+00:18:15.789 --> 00:18:15.799 align:start position:0%
+movimientos de inventario, en
+ 
+
+00:18:15.799 --> 00:18:18.070 align:start position:0%
+movimientos de inventario, en
+movimientos<00:18:16.320><c> de</c><00:18:16.520><c> activos,</c><00:18:17.120><c> presupuestos,</c>
+
+00:18:18.070 --> 00:18:18.080 align:start position:0%
+movimientos de activos, presupuestos,
+ 
+
+00:18:18.080 --> 00:18:19.909 align:start position:0%
+movimientos de activos, presupuestos,
+entre<00:18:18.320><c> otros</c><00:18:18.640><c> movimientos,</c><00:18:19.280><c> dependiendo</c><00:18:19.720><c> de</c>
+
+00:18:19.909 --> 00:18:19.919 align:start position:0%
+entre otros movimientos, dependiendo de
+ 
+
+00:18:19.919 --> 00:18:22.310 align:start position:0%
+entre otros movimientos, dependiendo de
+la<00:18:20.039><c> operación</c><00:18:20.520><c> y</c><00:18:20.679><c> el</c><00:18:20.799><c> licenciamiento.</c>
+
+00:18:22.310 --> 00:18:22.320 align:start position:0%
+la operación y el licenciamiento.
+ 
+
+00:18:22.320 --> 00:18:25.669 align:start position:0%
+la operación y el licenciamiento.
+Solo<00:18:22.840><c> las</c><00:18:23.159><c> operaciones</c><00:18:23.880><c> procesadas</c><00:18:24.760><c> generan</c>
+
+00:18:25.669 --> 00:18:25.679 align:start position:0%
+Solo las operaciones procesadas generan
+ 
+
+00:18:25.679 --> 00:18:28.870 align:start position:0%
+Solo las operaciones procesadas generan
+efectos<00:18:26.320><c> en</c><00:18:26.520><c> los</c><00:18:26.760><c> reportes</c><00:18:27.360><c> e</c><00:18:27.720><c> informes,</c><00:18:28.679><c> es</c>
+
+00:18:28.870 --> 00:18:28.880 align:start position:0%
+efectos en los reportes e informes, es
+ 
+
+00:18:28.880 --> 00:18:31.070 align:start position:0%
+efectos en los reportes e informes, es
+decir,<00:18:29.159><c> ya</c><00:18:29.360><c> nos</c><00:18:29.600><c> muestra</c><00:18:30.000><c> la</c><00:18:30.200><c> información</c>
+
+00:18:31.070 --> 00:18:31.080 align:start position:0%
+decir, ya nos muestra la información
+ 
+
+00:18:31.080 --> 00:18:34.149 align:start position:0%
+decir, ya nos muestra la información
+como<00:18:31.360><c> tal</c><00:18:31.679><c> registrada</c><00:18:32.600><c> en</c><00:18:32.880><c> la</c><00:18:33.080><c> operación,</c><00:18:33.960><c> por</c>
+
+00:18:34.149 --> 00:18:34.159 align:start position:0%
+como tal registrada en la operación, por
+ 
+
+00:18:34.159 --> 00:18:38.110 align:start position:0%
+como tal registrada en la operación, por
+eso<00:18:34.559><c> es</c><00:18:34.799><c> tan</c><00:18:35.159><c> importante.</c>
+
+00:18:38.110 --> 00:18:38.120 align:start position:0%
+eso es tan importante.
+ 
+
+00:18:38.120 --> 00:18:41.029 align:start position:0%
+eso es tan importante.
+Esto<00:18:38.320><c> es</c><00:18:38.480><c> todo</c><00:18:39.120><c> acerca</c><00:18:39.640><c> de</c><00:18:40.400><c> acciones</c>
+
+00:18:41.029 --> 00:18:41.039 align:start position:0%
+Esto es todo acerca de acciones
+ 
+
+00:18:41.039 --> 00:18:43.549 align:start position:0%
+Esto es todo acerca de acciones
+disponibles<00:18:41.679><c> en</c><00:18:41.880><c> una</c><00:18:42.080><c> operación.</c><00:18:42.919><c> Nos</c><00:18:43.120><c> vemos</c>
+
+00:18:43.549 --> 00:18:43.559 align:start position:0%
+disponibles en una operación. Nos vemos
+ 
+
+00:18:43.559 --> 00:18:45.590 align:start position:0%
+disponibles en una operación. Nos vemos
+en<00:18:43.760><c> el</c><00:18:43.919><c> próximo</c><00:18:44.360><c> video.</c><00:18:44.799><c> Muchas</c><00:18:45.120><c> gracias.</c>
+
+00:18:45.590 --> 00:18:45.600 align:start position:0%
+en el próximo video. Muchas gracias.
+ 
+
+00:18:45.600 --> 00:18:47.679 align:start position:0%
+en el próximo video. Muchas gracias.
+Yeah.
+

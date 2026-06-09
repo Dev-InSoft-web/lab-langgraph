@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:39:03.773Z",
+  "videoId": "1LK_56m0F9M",
+  "videoUrl": "https://www.youtube.com/watch?v=1LK_56m0F9M",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "1LK_56m0F9M",
+    "title": "Documento soporte a no obligados a facturar: Configuración en el software ContaPyme®",
+    "fulltitle": "Documento soporte a no obligados a facturar: Configuración en el software ContaPyme®",
+    "description": "Conozca la activación y la configuración del documentos de soporte y de la nota de ajuste en el software ContaPyme®.",
+    "duration": 575,
+    "duration_string": "9:35",
+    "upload_date": "20220829",
+    "timestamp": 1661807982,
+    "view_count": 182,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/1LK_56m0F9M/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEvYgL2FigO_bwd_CeUr6xGPfrPw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC8uA6LzzW04xvqPoA5XTDh5ea7mA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYvJSQ4PtvBAyhH9tdk8cvDOQxhw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZWKfzOPJlfrsKkSxMqycVyl9XkQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3FKcDcyDIlLl5p_Tp6X-f67qlrA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmsRnJXne8AB-soEKnrgq2hT935g",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqguE10PnLlOXmyp3nxlhBRrsg0A",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkdifZxMgZMlLGsDvkIgo6n7H2Gg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1LK_56m0F9M/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/1LK_56m0F9M/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=1LK_56m0F9M",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.17391304347826086,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20347826086956522,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20347826086956522,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 203.934,
+        "asr": 44100,
+        "filesize_approx": 14662370,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Documento soporte a no obligados a facturar: Configuración en el software ContaPyme®",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/1LK_56m0F9M/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/1LK_56m0F9M?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Documento soporte a no obligados a facturar: Configuración en el software ContaPyme®\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 109,
+    "transcriptChars": 7791,
+    "segments": [
+      {
+        "text": "en este punto yo vamos a revisar qué configuración debemos realizar para el",
+        "startMs": 230,
+        "durationMs": 4250
+      },
+      {
+        "text": "documento de soporte a no obligados a facturar y la nota de ajuste en contra",
+        "startMs": 4480,
+        "durationMs": 4439
+      },
+      {
+        "text": "pyme para ello quiero recordarles que antes de realizar esta configuración en",
+        "startMs": 8919,
+        "durationMs": 5100
+      },
+      {
+        "text": "conta pyme debemos realizar unos pasos previos que son la habilitación",
+        "startMs": 14019,
+        "durationMs": 5240
+      },
+      {
+        "text": "recordemos que en la habilitación sólo es registrar el prior tecnológico con el",
+        "startMs": 19259,
+        "durationMs": 4451
+      },
+      {
+        "text": "que vamos a emitir documentos de soporte debemos solicitar la resolución de anne",
+        "startMs": 23710,
+        "durationMs": 4469
+      },
+      {
+        "text": "para documentos soporte no obligados a facturar electrónicamente y la",
+        "startMs": 28179,
+        "durationMs": 4530
+      },
+      {
+        "text": "finalización que es simplemente ir a asociar ese prefijo de la resolución con",
+        "startMs": 32709,
+        "durationMs": 4801
+      },
+      {
+        "text": "el prior tecnológico después de tener estos pasos y principalmente tener la",
+        "startMs": 37510,
+        "durationMs": 4920
+      },
+      {
+        "text": "resolución ya nos podemos ir al sistema a configurar la información que se",
+        "startMs": 42430,
+        "durationMs": 5400
+      },
+      {
+        "text": "requiere para poder tener listo todo lo que es documento de soporte a no",
+        "startMs": 47830,
+        "durationMs": 4800
+      },
+      {
+        "text": "obligados a facturar electrónicamente vamos entonces a pasar al sistema a",
+        "startMs": 52630,
+        "durationMs": 4410
+      },
+      {
+        "text": "revisar qué configuraciones debemos realizar",
+        "startMs": 57040,
+        "durationMs": 4870
+      },
+      {
+        "text": "estando dentro del sistema lo primero que vamos a hacer es verificar que",
+        "startMs": 61920,
+        "durationMs": 4700
+      },
+      {
+        "text": "nuestra empresa tenga la opción activa del manejo de facturación electrónica",
+        "startMs": 66620,
+        "durationMs": 4349
+      },
+      {
+        "text": "para los usuarios que ya facturan electrónicamente con con está pyme no es",
+        "startMs": 70969,
+        "durationMs": 4861
+      },
+      {
+        "text": "necesario ir a hacer esta configuración aún así vamos a verificar voy a",
+        "startMs": 75830,
+        "durationMs": 6150
+      },
+      {
+        "text": "mostrarles cómo pueden hacer esa verificación",
+        "startMs": 81980,
+        "durationMs": 2570
+      },
+      {
+        "text": "verificación para ello vamos a ingresar a la opción",
+        "startMs": 84550,
+        "durationMs": 3370
+      },
+      {
+        "text": "básico y posteriormente a la opción empresa",
+        "startMs": 87920,
+        "durationMs": 4920
+      },
+      {
+        "text": "empresa estando dentro del explorador gráfico de",
+        "startMs": 92840,
+        "durationMs": 2590
+      },
+      {
+        "text": "empresa no nos vamos a ubicar encima de nuestra empresa y le vamos a dar clic",
+        "startMs": 95430,
+        "durationMs": 9770
+      },
+      {
+        "text": "dentro del editor de la empresa vamos a dirigirnos a la opción servicios",
+        "startMs": 105210,
+        "durationMs": 4520
+      },
+      {
+        "text": "electrónicos y aquí es donde vamos a verificar que se tenga activo el manejo",
+        "startMs": 109730,
+        "durationMs": 5489
+      },
+      {
+        "text": "de facturación electrónica de no estar activo lo vamos a activar y vamos a",
+        "startMs": 115219,
+        "durationMs": 5461
+      },
+      {
+        "text": "registrar la información que nos solicita vamos a que darle aceptar",
+        "startMs": 120680,
+        "durationMs": 5380
+      },
+      {
+        "text": "ya con esta verificación vamos ahora sí a configurar el documento de soporte",
+        "startMs": 126060,
+        "durationMs": 5400
+      },
+      {
+        "text": "para ello vamos a ingresar a la pestaña de básico posteriormente le vamos a dar",
+        "startMs": 131460,
+        "durationMs": 10500
+      },
+      {
+        "text": "dentro del catálogo de documentos de soporte inicialmente vamos a buscar el",
+        "startMs": 141970,
+        "durationMs": 4820
+      },
+      {
+        "text": "documento llamado documentos de soporte en adquisiciones efectuadas a no",
+        "startMs": 146790,
+        "durationMs": 5100
+      },
+      {
+        "text": "obligados a facturar electrónicamente en mi caso dice el 116 y le voy a dar clic",
+        "startMs": 151890,
+        "durationMs": 6240
+      },
+      {
+        "text": "derecho modificar estando en el asistente y lo primero que",
+        "startMs": 158130,
+        "durationMs": 5500
+      },
+      {
+        "text": "vamos a hacer es configurar la empresa que va a utilizar este documento de",
+        "startMs": 163630,
+        "durationMs": 4440
+      },
+      {
+        "text": "soporte en mi caso aislado es la empresa número uno mi empresa sas",
+        "startMs": 168070,
+        "durationMs": 6200
+      },
+      {
+        "text": "posteriormente podemos cambiar el nombre corto el nombre del documento si es",
+        "startMs": 174270,
+        "durationMs": 5590
+      },
+      {
+        "text": "necesario y vamos a activar en la configuración hace parte de facturación",
+        "startMs": 179860,
+        "durationMs": 5759
+      },
+      {
+        "text": "electrónica después de activar esta configuración vamos a indicar el prefijo",
+        "startMs": 185619,
+        "durationMs": 6451
+      },
+      {
+        "text": "de la resolución que es el prefijo que ustedes indicaron cuando generaron la",
+        "startMs": 192070,
+        "durationMs": 4860
+      },
+      {
+        "text": "resolución 1876 para documento de soporte en mi caso yo voy a poner un",
+        "startMs": 196930,
+        "durationMs": 5820
+      },
+      {
+        "text": "prefijo de prueba recuerden que ustedes si ven indicar el que está en la",
+        "startMs": 202750,
+        "durationMs": 4259
+      },
+      {
+        "text": "resolución después de indicar el prefijo nos vamos a ir a la opción resoluciones",
+        "startMs": 207009,
+        "durationMs": 6211
+      },
+      {
+        "text": "y aquí le vamos a dar en el botón adicional aquí ya vamos a indicar lo que",
+        "startMs": 213220,
+        "durationMs": 5849
+      },
+      {
+        "text": "es el número de resolución el consecutivo de iniciar el consecutivo",
+        "startMs": 219069,
+        "durationMs": 7731
+      },
+      {
+        "text": "final posteriormente indicamos lo que es la",
+        "startMs": 226800,
+        "durationMs": 2680
+      },
+      {
+        "text": "fecha inicial y la fecha final esta información y les recuerdo",
+        "startMs": 229480,
+        "durationMs": 7480
+      },
+      {
+        "text": "nuevamente que la encuentra en la resolución 1876 que debieron generar",
+        "startMs": 236960,
+        "durationMs": 7820
+      },
+      {
+        "text": "previamente para documentos de soporte han obligados a facturar",
+        "startMs": 244780,
+        "durationMs": 6000
+      },
+      {
+        "text": "electrónicamente ya en acciones miremos que debemos",
+        "startMs": 250780,
+        "durationMs": 2740
+      },
+      {
+        "text": "activar no debemos activar publicación en plataforma de documentos no debemos",
+        "startMs": 253520,
+        "durationMs": 5040
+      },
+      {
+        "text": "activar envío de email realmente esto no es necesario recordemos que no debemos",
+        "startMs": 258560,
+        "durationMs": 4650
+      },
+      {
+        "text": "no es necesario enviarle al proveedor el documento de soporte ya que es un",
+        "startMs": 263210,
+        "durationMs": 6330
+      },
+      {
+        "text": "documento que nosotros nos estamos auto generando para soportar precisamente",
+        "startMs": 269540,
+        "durationMs": 5160
+      },
+      {
+        "text": "estas compras que realizamos a sujetos no obligados a facturar por ello no es",
+        "startMs": 274700,
+        "durationMs": 5310
+      },
+      {
+        "text": "tan necesario ya si ustedes lo que quieren es que se envíe este soporte a",
+        "startMs": 280010,
+        "durationMs": 6390
+      },
+      {
+        "text": "un correo pero interno de la empresa también lo podrían hacer en ese caso lo",
+        "startMs": 286400,
+        "durationMs": 5100
+      },
+      {
+        "text": "que pueden hacer es en activar el envío de email automático ingresar al envío de",
+        "startMs": 291500,
+        "durationMs": 6510
+      },
+      {
+        "text": "email y aquí poner él sería por ejemplo el nombre de usuario que estoy",
+        "startMs": 298010,
+        "durationMs": 5540
+      },
+      {
+        "text": "realizando el documento y en enviar vamos a poner un correo fijo y allí",
+        "startMs": 303550,
+        "durationMs": 5730
+      },
+      {
+        "text": "ustedes podrían indicar por ejemplo un correo interno de la empresa para que",
+        "startMs": 309280,
+        "durationMs": 3930
+      },
+      {
+        "text": "llegue hasta ese paquete ese puntos y con el xml",
+        "startMs": 313210,
+        "durationMs": 4590
+      },
+      {
+        "text": "y el pdf que es lo que tenemos aquí activo al correo interno que ustedes",
+        "startMs": 317800,
+        "durationMs": 4680
+      },
+      {
+        "text": "prefieran en mi caso no lo vamos a activar si ya que no es necesario y ya",
+        "startMs": 322480,
+        "durationMs": 5790
+      },
+      {
+        "text": "nos dirigimos a la pestaña facturación electrónica aquí lo que debemos hacer",
+        "startMs": 328270,
+        "durationMs": 6000
+      },
+      {
+        "text": "inicialmente es verificar que se tenga activa la opción documento de soporte en",
+        "startMs": 334270,
+        "durationMs": 5880
+      },
+      {
+        "text": "adquisiciones efectuadas al no obligados a facturar posteriormente vamos a",
+        "startMs": 340150,
+        "durationMs": 4800
+      },
+      {
+        "text": "indicar el proveedor tecnológico y vamos a ingresar a la opción que nos",
+        "startMs": 344950,
+        "durationMs": 5940
+      },
+      {
+        "text": "aparece administrar conexión con el proveedor",
+        "startMs": 350890,
+        "durationMs": 3820
+      },
+      {
+        "text": "proveedor en este caso vamos a hacer un test de",
+        "startMs": 354710,
+        "durationMs": 2490
+      },
+      {
+        "text": "conexión aquí nos va a mostrar la conexión con los servicios de",
+        "startMs": 357200,
+        "durationMs": 4020
+      },
+      {
+        "text": "facturación electrónica de los documentos electrónicos y el saldo que",
+        "startMs": 361220,
+        "durationMs": 3540
+      },
+      {
+        "text": "tenemos le damos a aceptar y finalizamos ya con esto lo que tenemos que hacer es",
+        "startMs": 364760,
+        "durationMs": 7830
+      },
+      {
+        "text": "darle clic en la opción aceptar para finalizar la configuración",
+        "startMs": 372590,
+        "durationMs": 8950
+      },
+      {
+        "text": "después de terminar la configuración de documento de soporte en adquisiciones",
+        "startMs": 381550,
+        "durationMs": 4280
+      },
+      {
+        "text": "efectuadas a no obligados a facturar electrónicamente",
+        "startMs": 385830,
+        "durationMs": 3560
+      },
+      {
+        "text": "soporte para las notas de ajustes vamos a ingresar a ese documento en mi caso",
+        "startMs": 392490,
+        "durationMs": 5940
+      },
+      {
+        "text": "dice el 117 el cual se llama nota de ajuste a documento de soporte en",
+        "startMs": 398430,
+        "durationMs": 5400
+      },
+      {
+        "text": "adquisiciones efectuadas han obligados a facturar le vamos a dar clic derecho",
+        "startMs": 403830,
+        "durationMs": 7790
+      },
+      {
+        "text": "modificar estando dentro del asistente lo primero",
+        "startMs": 411620,
+        "durationMs": 2670
+      },
+      {
+        "text": "que vamos a indicar es la empresa que iba a utilizar estas notas de ajustes en",
+        "startMs": 414290,
+        "durationMs": 5610
+      },
+      {
+        "text": "mi caso es la empresa número 1 después vamos a activar la configuración hace",
+        "startMs": 419900,
+        "durationMs": 7020
+      },
+      {
+        "text": "parte de facturación electrónica después de activar la configuración vamos a",
+        "startMs": 426920,
+        "durationMs": 5250
+      },
+      {
+        "text": "indicar el prefijo que vamos a utilizar para estas notas en mi caso yo voy a",
+        "startMs": 432170,
+        "durationMs": 5040
+      },
+      {
+        "text": "dejar el prefijo que el sistema nos sugiere",
+        "startMs": 437210,
+        "durationMs": 3650
+      },
+      {
+        "text": "sugiere posteriormente vamos a ir a la opción de",
+        "startMs": 440860,
+        "durationMs": 2560
+      },
+      {
+        "text": "resoluciones y vamos a dar clic en el botón adicionar en mi caso vamos a poner",
+        "startMs": 443420,
+        "durationMs": 6210
+      },
+      {
+        "text": "la misma resolución que tenemos para documento de soporte a no obligados a",
+        "startMs": 449630,
+        "durationMs": 5280
+      },
+      {
+        "text": "facturar ustedes también deben indicar la resolución que ustedes generaron",
+        "startMs": 454910,
+        "durationMs": 5340
+      },
+      {
+        "text": "todos esos datos lo encuentran allí esos mismos datos que configuramos para",
+        "startMs": 460250,
+        "durationMs": 4920
+      },
+      {
+        "text": "documento de soporte los vamos a configurar aquí para notas de ajuste",
+        "startMs": 389390,
+        "durationMs": 81240
+      },
+      {
+        "text": "posteriormente vamos a ir a acciones recordemos que aquí es opcional el envío",
+        "startMs": 470630,
+        "durationMs": 4780
+      },
+      {
+        "text": "del mail donde ustedes pueden si desean enviar se en esa información ese paquete",
+        "startMs": 475410,
+        "durationMs": 6630
+      },
+      {
+        "text": "a un correo de la empresa posteriormente vamos a ir a facturación",
+        "startMs": 482040,
+        "durationMs": 5430
+      },
+      {
+        "text": "electrónica y aquí lo que vamos a verificar es que se active la opción",
+        "startMs": 487470,
+        "durationMs": 4230
+      },
+      {
+        "text": "nota de ajuste a documentos en adquisiciones efectuadas a no obligados",
+        "startMs": 491700,
+        "durationMs": 6000
+      },
+      {
+        "text": "a facturar después de verificar que esté la opción activa vamos a indicar el",
+        "startMs": 497700,
+        "durationMs": 5280
+      },
+      {
+        "text": "proveedor tecnológico vamos a ingresar nuevamente a",
+        "startMs": 502980,
+        "durationMs": 3780
+      },
+      {
+        "text": "administrar conexión con el proveedor si deseamos podemos hacer el test de",
+        "startMs": 506760,
+        "durationMs": 4830
+      },
+      {
+        "text": "conexión y finalmente le damos a aceptar esta es la configuración que debemos",
+        "startMs": 511590,
+        "durationMs": 5490
+      },
+      {
+        "text": "realizar y por último finalizamos dando clic en la opción a aceptar",
+        "startMs": 517080,
+        "durationMs": 10540
+      },
+      {
+        "text": "y estos son los dos documentos que debemos configurar en el sistema mire",
+        "startMs": 527630,
+        "durationMs": 3620
+      },
+      {
+        "text": "que son unos pasos muy fáciles simplemente si ingresar a él indicar la",
+        "startMs": 531250,
+        "durationMs": 5010
+      },
+      {
+        "text": "empresa que va a utilizar el documento de soporte indicar los datos de",
+        "startMs": 536260,
+        "durationMs": 4110
+      },
+      {
+        "text": "resolución para el documento de soporte el prefijo que definimos en la",
+        "startMs": 540370,
+        "durationMs": 3960
+      },
+      {
+        "text": "resolución el número de resolución los rangos y las fechas y ya la nota de",
+        "startMs": 544330,
+        "durationMs": 6660
+      },
+      {
+        "text": "ajuste tiene los mismos datos de resolución excepto lo que es el prefijo",
+        "startMs": 550990,
+        "durationMs": 4680
+      },
+      {
+        "text": "ahí y ahí si debemos definir un prefijo para notas de ajuste y ya con esto queda",
+        "startMs": 555670,
+        "durationMs": 5520
+      },
+      {
+        "text": "configurado y listo para empezar a realizar",
+        "startMs": 561190,
+        "durationMs": 3020
+      },
+      {
+        "text": "realizar documento compras o gastos a",
+        "startMs": 564210,
+        "durationMs": 3750
+      },
+      {
+        "text": "sujetos no obligados a facturar electrónicamente",
+        "startMs": 567960,
+        "durationMs": 5080
+      }
+    ],
+    "plainText": "## Descripción del video\n\nConozca la activación y la configuración del documentos de soporte y de la nota de ajuste en el software ContaPyme®.\n\n## Transcripción\n\nen este punto yo vamos a revisar qué configuración debemos realizar para el\ndocumento de soporte a no obligados a facturar y la nota de ajuste en contra\npyme para ello quiero recordarles que antes de realizar esta configuración en\nconta pyme debemos realizar unos pasos previos que son la habilitación\nrecordemos que en la habilitación sólo es registrar el prior tecnológico con el\nque vamos a emitir documentos de soporte debemos solicitar la resolución de anne\npara documentos soporte no obligados a facturar electrónicamente y la\nfinalización que es simplemente ir a asociar ese prefijo de la resolución con\nel prior tecnológico después de tener estos pasos y principalmente tener la\nresolución ya nos podemos ir al sistema a configurar la información que se\nrequiere para poder tener listo todo lo que es documento de soporte a no\nobligados a facturar electrónicamente vamos entonces a pasar al sistema a\nrevisar qué configuraciones debemos realizar\nestando dentro del sistema lo primero que vamos a hacer es verificar que\nnuestra empresa tenga la opción activa del manejo de facturación electrónica\npara los usuarios que ya facturan electrónicamente con con está pyme no es\nnecesario ir a hacer esta configuración aún así vamos a verificar voy a\nmostrarles cómo pueden hacer esa verificación\nverificación para ello vamos a ingresar a la opción\nbásico y posteriormente a la opción empresa\nempresa estando dentro del explorador gráfico de\nempresa no nos vamos a ubicar encima de nuestra empresa y le vamos a dar clic\ndentro del editor de la empresa vamos a dirigirnos a la opción servicios\nelectrónicos y aquí es donde vamos a verificar que se tenga activo el manejo\nde facturación electrónica de no estar activo lo vamos a activar y vamos a\nregistrar la información que nos solicita vamos a que darle aceptar\nya con esta verificación vamos ahora sí a configurar el documento de soporte\npara ello vamos a ingresar a la pestaña de básico posteriormente le vamos a dar\ndentro del catálogo de documentos de soporte inicialmente vamos a buscar el\ndocumento llamado documentos de soporte en adquisiciones efectuadas a no\nobligados a facturar electrónicamente en mi caso dice el 116 y le voy a dar clic\nderecho modificar estando en el asistente y lo primero que\nvamos a hacer es configurar la empresa que va a utilizar este documento de\nsoporte en mi caso aislado es la empresa número uno mi empresa sas\nposteriormente podemos cambiar el nombre corto el nombre del documento si es\nnecesario y vamos a activar en la configuración hace parte de facturación\nelectrónica después de activar esta configuración vamos a indicar el prefijo\nde la resolución que es el prefijo que ustedes indicaron cuando generaron la\nresolución 1876 para documento de soporte en mi caso yo voy a poner un\nprefijo de prueba recuerden que ustedes si ven indicar el que está en la\nresolución después de indicar el prefijo nos vamos a ir a la opción resoluciones\ny aquí le vamos a dar en el botón adicional aquí ya vamos a indicar lo que\nes el número de resolución el consecutivo de iniciar el consecutivo\nfinal posteriormente indicamos lo que es la\nfecha inicial y la fecha final esta información y les recuerdo\nnuevamente que la encuentra en la resolución 1876 que debieron generar\npreviamente para documentos de soporte han obligados a facturar\nelectrónicamente ya en acciones miremos que debemos\nactivar no debemos activar publicación en plataforma de documentos no debemos\nactivar envío de email realmente esto no es necesario recordemos que no debemos\nno es necesario enviarle al proveedor el documento de soporte ya que es un\ndocumento que nosotros nos estamos auto generando para soportar precisamente\nestas compras que realizamos a sujetos no obligados a facturar por ello no es\ntan necesario ya si ustedes lo que quieren es que se envíe este soporte a\nun correo pero interno de la empresa también lo podrían hacer en ese caso lo\nque pueden hacer es en activar el envío de email automático ingresar al envío de\nemail y aquí poner él sería por ejemplo el nombre de usuario que estoy\nrealizando el documento y en enviar vamos a poner un correo fijo y allí\nustedes podrían indicar por ejemplo un correo interno de la empresa para que\nllegue hasta ese paquete ese puntos y con el xml\ny el pdf que es lo que tenemos aquí activo al correo interno que ustedes\nprefieran en mi caso no lo vamos a activar si ya que no es necesario y ya\nnos dirigimos a la pestaña facturación electrónica aquí lo que debemos hacer\ninicialmente es verificar que se tenga activa la opción documento de soporte en\nadquisiciones efectuadas al no obligados a facturar posteriormente vamos a\nindicar el proveedor tecnológico y vamos a ingresar a la opción que nos\naparece administrar conexión con el proveedor\nproveedor en este caso vamos a hacer un test de\nconexión aquí nos va a mostrar la conexión con los servicios de\nfacturación electrónica de los documentos electrónicos y el saldo que\ntenemos le damos a aceptar y finalizamos ya con esto lo que tenemos que hacer es\ndarle clic en la opción aceptar para finalizar la configuración\ndespués de terminar la configuración de documento de soporte en adquisiciones\nefectuadas a no obligados a facturar electrónicamente\nsoporte para las notas de ajustes vamos a ingresar a ese documento en mi caso\ndice el 117 el cual se llama nota de ajuste a documento de soporte en\nadquisiciones efectuadas han obligados a facturar le vamos a dar clic derecho\nmodificar estando dentro del asistente lo primero\nque vamos a indicar es la empresa que iba a utilizar estas notas de ajustes en\nmi caso es la empresa número 1 después vamos a activar la configuración hace\nparte de facturación electrónica después de activar la configuración vamos a\nindicar el prefijo que vamos a utilizar para estas notas en mi caso yo voy a\ndejar el prefijo que el sistema nos sugiere\nsugiere posteriormente vamos a ir a la opción de\nresoluciones y vamos a dar clic en el botón adicionar en mi caso vamos a poner\nla misma resolución que tenemos para documento de soporte a no obligados a\nfacturar ustedes también deben indicar la resolución que ustedes generaron\ntodos esos datos lo encuentran allí esos mismos datos que configuramos para\ndocumento de soporte los vamos a configurar aquí para notas de ajuste\nposteriormente vamos a ir a acciones recordemos que aquí es opcional el envío\ndel mail donde ustedes pueden si desean enviar se en esa información ese paquete\na un correo de la empresa posteriormente vamos a ir a facturación\nelectrónica y aquí lo que vamos a verificar es que se active la opción\nnota de ajuste a documentos en adquisiciones efectuadas a no obligados\na facturar después de verificar que esté la opción activa vamos a indicar el\nproveedor tecnológico vamos a ingresar nuevamente a\nadministrar conexión con el proveedor si deseamos podemos hacer el test de\nconexión y finalmente le damos a aceptar esta es la configuración que debemos\nrealizar y por último finalizamos dando clic en la opción a aceptar\ny estos son los dos documentos que debemos configurar en el sistema mire\nque son unos pasos muy fáciles simplemente si ingresar a él indicar la\nempresa que va a utilizar el documento de soporte indicar los datos de\nresolución para el documento de soporte el prefijo que definimos en la\nresolución el número de resolución los rangos y las fechas y ya la nota de\najuste tiene los mismos datos de resolución excepto lo que es el prefijo\nahí y ahí si debemos definir un prefijo para notas de ajuste y ya con esto queda\nconfigurado y listo para empezar a realizar\nrealizar documento compras o gastos a\nsujetos no obligados a facturar electrónicamente"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 203.934,
+    "asr": 44100,
+    "filesizeApprox": 14662370,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2022",
+  "files": {
+    "year": "2022",
+    "kind": "videos",
+    "md": "videos/2022/1LK_56m0F9M.md",
+    "json": "videos/2022/1LK_56m0F9M.json",
+    "infoJson": "videos/2022/1LK_56m0F9M.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "1LK_56m0F9M",
+        "youtubeId": "1LK_56m0F9M",
+        "titulo": "Documento soporte a no obligados a facturar: Configuración en el software ContaPyme®",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

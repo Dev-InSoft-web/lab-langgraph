@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "entryId": "EHhHBlFSSB8",
+  "youtubeId": "EHhHBlFSSB8",
+  "status": "pending",
+  "updatedAt": "2026-06-05T17:10:08.869Z",
+  "icursos": [
+    "CP40MOD610"
+  ],
+  "entries": [
+    {
+      "entryId": "EHhHBlFSSB8",
+      "youtubeId": "EHhHBlFSSB8",
+      "iplan": "020040",
+      "capitulo": "Empresa",
+      "titulo": "Configuracion del explorador grafico de la empresa en ContaPyme",
+      "descripcion": "En este tutorial aprenderás cómo utilizar la configuración del Explorador Gráfico de la Empresa en ContaPyme, una herramienta clave para personalizar la visualización de la estructura organizacional dentro del sistema. Conocerás cómo definir configuraciones por usuario o perfil, ajustar la visualización de los nodos, aplicar filtros de información, gestionar la visualización de códigos y habilitar nodos adicionales según el licenciamiento. Este proceso te permitirá trabajar de forma más clara, organizada y eficiente al momento de consultar y analizar la información de tu empresa.&nbsp;",
+      "profesor": {
+        "rol": "Asesora",
+        "nombre": "Viviana Restrepo"
+      },
+      "dificultad": "Básico",
+      "source": "html-page",
+      "icurso": "CP40MOD610"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "descripcionCurso": "Módulo de sistema básico de ContaPyme"
+    }
+  ]
+}

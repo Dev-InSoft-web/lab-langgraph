@@ -5,14 +5,14 @@
  *   npm run db:apply-pg-ops
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl, getClientesisDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl, getClientesisDatabaseUrl } from "../src/lib/core/config.js";
 import { pingClientesisDb, pingPatyDb } from "../src/lib/db/pg.js";
-import { ensureClientesisSchema, ensurePatySchema } from "../src/lib/db/ensure-schemas.js";
+import { applyClientesisSchema, applyLanglabOpsSchema } from "../src/lib/db/ensure-schemas.js";
 
 preloadLabSecrets();
 
 try {
-	getPatyDatabaseUrl();
+	getLanglabDatabaseUrl();
 	getClientesisDatabaseUrl();
 } catch (e) {
 	console.error("FALLO:", e instanceof Error ? e.message : e);
@@ -30,11 +30,11 @@ console.log("  paty: OK");
 console.log("  clientesis: OK\n");
 
 console.log("Aplicando ops (paty, lab, sin FK)…");
-const patyFiles = await ensurePatySchema();
+const patyFiles = await applyLanglabOpsSchema();
 console.log("  ", patyFiles.join(", "));
 
 console.log("\nAplicando clientesis (esquema + migración desde lab.entity_row)…");
-const cisFiles = await ensureClientesisSchema();
+const cisFiles = await applyClientesisSchema();
 console.log("  ", cisFiles.join(", "));
 
 console.log("\n[ok] Schemas paty, lab y clientesis listos.");

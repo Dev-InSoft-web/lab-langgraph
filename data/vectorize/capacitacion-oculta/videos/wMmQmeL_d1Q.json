@@ -1,0 +1,1611 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:33:28.689Z",
+  "videoId": "wMmQmeL_d1Q",
+  "videoUrl": "https://www.youtube.com/watch?v=wMmQmeL_d1Q",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "wMmQmeL_d1Q",
+    "title": "Liquidación de prima en ContaPyme®",
+    "fulltitle": "Liquidación de prima en ContaPyme®",
+    "description": "Vea ejercicios prácticos de cómo realizar el pago de la prima a sus empleados y cómo puede parametrizar el concepto de prima legal.",
+    "duration": 1131,
+    "duration_string": "18:51",
+    "upload_date": "20211217",
+    "timestamp": 1639771081,
+    "view_count": 891,
+    "like_count": 10,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/wMmQmeL_d1Q/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6euoTg3WIZ7u2Ymb5E9-5gV0v6Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDG2aieZL7YlzJmBWlgBQvPKYt5NQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-tvYVt7dW5kVIr3rGsCTA0fy5eg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUgEmwgIwQD4R5KSJi-4rzb-a9eg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADwpLM8gRD5oAbxsuKwnc7iI0taw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZcNcjGODJEjiY8UF2HMLVzz1ccg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqXu4S6XwQSyQmvFH6zsxBO1i9NQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVQHJ_uC5MFkicrm1UhHdLb_O64Q",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/wMmQmeL_d1Q/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wMmQmeL_d1Q",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.08841732979664015,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10167992926613616,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10167992926613616,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 235.156,
+        "asr": 44100,
+        "filesize_approx": 33231452,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Liquidación de prima en ContaPyme®",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/wMmQmeL_d1Q/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/wMmQmeL_d1Q?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Liquidación de prima en ContaPyme®\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 232,
+    "transcriptChars": 17209,
+    "segments": [
+      {
+        "text": "buenos días mi nombre es tomás cárdenas banegas ingeniero de proyectos y el día",
+        "startMs": 7920,
+        "durationMs": 5330
+      },
+      {
+        "text": "de hoy vamos a aprender cómo se realiza la liquidación de la prima legal en",
+        "startMs": 13250,
+        "durationMs": 4380
+      },
+      {
+        "text": "contra pyme vamos a ver los diferentes catálogos en los que tenemos que hacer",
+        "startMs": 17630,
+        "durationMs": 3780
+      },
+      {
+        "text": "ciertas configuraciones y luego en el manejador de operaciones vamos a ver lo",
+        "startMs": 21410,
+        "durationMs": 4470
+      },
+      {
+        "text": "sencillo que es realizar el pago de esta prestación vamos a iniciar por la",
+        "startMs": 25880,
+        "durationMs": 4080
+      },
+      {
+        "text": "presentación de la liquidación de la prima módulo de nómina inicialmente",
+        "startMs": 29960,
+        "durationMs": 4650
+      },
+      {
+        "text": "vamos a ver qué es la prima que es la prima legal y vamos a entender que ésta",
+        "startMs": 34610,
+        "durationMs": 4439
+      },
+      {
+        "text": "es una prestación social que equivale a 30 días de salario por cada año",
+        "startMs": 39049,
+        "durationMs": 4231
+      },
+      {
+        "text": "trabajado y que además ésta se debe pagar en mitad es la primera mitad se de",
+        "startMs": 43280,
+        "durationMs": 5130
+      },
+      {
+        "text": "pagar máximo hasta el día 30 del mes de junio y la segunda mitad hasta máximo",
+        "startMs": 48410,
+        "durationMs": 5550
+      },
+      {
+        "text": "los primeros 20 días del mes de diciembre",
+        "startMs": 53960,
+        "durationMs": 3280
+      },
+      {
+        "text": "legal vamos a pasar al paso a paso en conta pib",
+        "startMs": 61230,
+        "durationMs": 4330
+      },
+      {
+        "text": "inicialmente debemos validar la fecha de pago de la prima luego vamos a",
+        "startMs": 65560,
+        "durationMs": 5280
+      },
+      {
+        "text": "parametrizar el concepto de nómina prima legal y por último vamos a realizar la",
+        "startMs": 70840,
+        "durationMs": 5980
+      },
+      {
+        "text": "el pago de la prima en la fecha requerida bueno primer paso validar la",
+        "startMs": 76820,
+        "durationMs": 4950
+      },
+      {
+        "text": "fecha de pago de la prima esto es muy importante porque la prima se puede",
+        "startMs": 81770,
+        "durationMs": 4380
+      },
+      {
+        "text": "pagar de manera semestral por ejemplo el 15 de junio y el 15 de diciembre o puede",
+        "startMs": 86150,
+        "durationMs": 6870
+      },
+      {
+        "text": "pagarse en fechas diferentes por ejemplo el 15 de junio y el 30 de",
+        "startMs": 93020,
+        "durationMs": 5640
+      },
+      {
+        "text": "noviembre una vez la empresa o usted haya definido cómo va a realizar el pago",
+        "startMs": 98660,
+        "durationMs": 4800
+      },
+      {
+        "text": "de la prima podemos pasar al segundo paso que es la parametrización del",
+        "startMs": 103460,
+        "durationMs": 4860
+      },
+      {
+        "text": "concepto de nómina prima legal para ello nos vamos a dirigir a con está",
+        "startMs": 108320,
+        "durationMs": 4840
+      },
+      {
+        "text": "pyme y vamos a ingresar por el catálogo de con de nómina vamos a ingresar al",
+        "startMs": 113160,
+        "durationMs": 5159
+      },
+      {
+        "text": "catálogo de conceptos de nómina y allí vamos a revisar el concepto que está",
+        "startMs": 118319,
+        "durationMs": 5661
+      },
+      {
+        "text": "preconfigurado por contacto para buscar prima nos vamos a abrir el",
+        "startMs": 123980,
+        "durationMs": 4840
+      },
+      {
+        "text": "comportamiento de prestaciones y vamos a ingresar por prima legal una vez allí",
+        "startMs": 128820,
+        "durationMs": 5120
+      },
+      {
+        "text": "este concepto está completamente preconfigurado pero vamos a revisar la",
+        "startMs": 133940,
+        "durationMs": 4180
+      },
+      {
+        "text": "parametrización que tiene en caso tal de que usted necesite realizar cambios en",
+        "startMs": 138120,
+        "durationMs": 4170
+      },
+      {
+        "text": "él vamos a fijarnos primero que este concepto es de pago recurrente y vamos a",
+        "startMs": 142290,
+        "durationMs": 5130
+      },
+      {
+        "text": "dirigirnos a esa pestaña una vez allí vamos a encontrar la primero",
+        "startMs": 147420,
+        "durationMs": 3960
+      },
+      {
+        "text": "periodicidad de pago que en este caso es semestral eso quiere decir que vamos a",
+        "startMs": 151380,
+        "durationMs": 4409
+      },
+      {
+        "text": "pagar una vez cada semestre y le estamos indicando a cuanta pyme que se paga en",
+        "startMs": 155789,
+        "durationMs": 4981
+      },
+      {
+        "text": "el mes 6 esto quiere decir que este concepto se va a pagar en junio y en",
+        "startMs": 160770,
+        "durationMs": 5160
+      },
+      {
+        "text": "diciembre y por último estamos indicando la fecha de pago respectiva que en este",
+        "startMs": 165930,
+        "durationMs": 5549
+      },
+      {
+        "text": "caso es el día 15 de cada mes en este caso estamos diciendo entonces que vamos",
+        "startMs": 171479,
+        "durationMs": 4830
+      },
+      {
+        "text": "la prima el 15 de junio y la segunda mitad la vamos a pagar el 15 de",
+        "startMs": 57240,
+        "durationMs": 125310
+      },
+      {
+        "text": "diciembre una vez revisada la revisada parametrización del concepto podemos",
+        "startMs": 182550,
+        "durationMs": 5310
+      },
+      {
+        "text": "revisar los perfiles de contrato esto porque es importante porque si nosotros",
+        "startMs": 187860,
+        "durationMs": 4890
+      },
+      {
+        "text": "queremos que ese concepto preconfigurado o si vamos a hacer cambios esté en un",
+        "startMs": 192750,
+        "durationMs": 4349
+      },
+      {
+        "text": "nuevo perfil de contrato debemos primero ingresar a él por ejemplo vamos a",
+        "startMs": 197099,
+        "durationMs": 4410
+      },
+      {
+        "text": "ingresar el perfil término indefinido pago mensual y nos vamos a dirigir a los",
+        "startMs": 201509,
+        "durationMs": 4830
+      },
+      {
+        "text": "conceptos de nómina una vez allí vamos a abrir la pestaña de prestaciones y allí",
+        "startMs": 206339,
+        "durationMs": 5581
+      },
+      {
+        "text": "vamos a encontrar el concepto que nosotros tengamos asignado a ese perfil",
+        "startMs": 211920,
+        "durationMs": 4110
+      },
+      {
+        "text": "de contrato los perfiles de contrato preconfigurados en contra pyme ya tienen",
+        "startMs": 216030,
+        "durationMs": 5250
+      },
+      {
+        "text": "este concepto asociado así que recuerde si usted va a crear un nuevo concepto de",
+        "startMs": 221280,
+        "durationMs": 4379
+      },
+      {
+        "text": "prima o un nuevo perfil de contrato revisar la parametrización de los",
+        "startMs": 225659,
+        "durationMs": 4530
+      },
+      {
+        "text": "conceptos de este perfil de contrato y que las prestaciones esté incluyendo la",
+        "startMs": 230189,
+        "durationMs": 5790
+      },
+      {
+        "text": "prima legal o la prima que usted haya configurado",
+        "startMs": 235979,
+        "durationMs": 3451
+      },
+      {
+        "text": "configurado una vez revisado que tengamos",
+        "startMs": 239430,
+        "durationMs": 2220
+      },
+      {
+        "text": "efectivamente en el perfil de contrato del concepto de prima vamos a dirigirnos",
+        "startMs": 241650,
+        "durationMs": 4320
+      },
+      {
+        "text": "al catálogo de empleados para revisar cómo se puede validar la configuración",
+        "startMs": 245970,
+        "durationMs": 5720
+      },
+      {
+        "text": "directamente en el tercero vamos a ingresar por básico terceros terceros",
+        "startMs": 251690,
+        "durationMs": 5140
+      },
+      {
+        "text": "empleados una vez allí vamos a seleccionar un empleado en este caso va",
+        "startMs": 256830,
+        "durationMs": 4950
+      },
+      {
+        "text": "a ser samuel cárdenas vamos a darle clic derecho modificar y vamos a abrir el",
+        "startMs": 261780,
+        "durationMs": 4200
+      },
+      {
+        "text": "formulario completo nos dirigimos a la pestaña de datos empleados y vamos a",
+        "startMs": 265980,
+        "durationMs": 5760
+      },
+      {
+        "text": "abrir la sección de prestaciones allí vamos a encontrar el concepto que",
+        "startMs": 271740,
+        "durationMs": 3750
+      },
+      {
+        "text": "tenemos preconfigurado o que tenemos asociados al contrato desempleado que en",
+        "startMs": 275490,
+        "durationMs": 4890
+      },
+      {
+        "text": "este caso es prima legal vamos a encontrar la periodicidad de pago vamos",
+        "startMs": 280380,
+        "durationMs": 4830
+      },
+      {
+        "text": "a encontrar el mes en que se paga es decir el mes seis de cada semestre junio",
+        "startMs": 285210,
+        "durationMs": 4290
+      },
+      {
+        "text": "y diciembre y vamos a contar que este es un valor formulado recordemos que",
+        "startMs": 289500,
+        "durationMs": 4890
+      },
+      {
+        "text": "contamina va a ser el cálculo de la prima de manera automática y que usted",
+        "startMs": 294390,
+        "durationMs": 4200
+      },
+      {
+        "text": "puede configurar este este concepto de manera manual en caso tal de que usted",
+        "startMs": 298590,
+        "durationMs": 4260
+      },
+      {
+        "text": "quiera asignarle el valor una vez realizada la configuración en el",
+        "startMs": 302850,
+        "durationMs": 5970
+      },
+      {
+        "text": "revisamos los perfiles de contrato y revisamos directamente el empleado",
+        "startMs": 308820,
+        "durationMs": 7490
+      },
+      {
+        "text": "podemos continuar con el proceso y ya podríamos comenzar a realizar el pago de",
+        "startMs": 316310,
+        "durationMs": 5260
+      },
+      {
+        "text": "la prima en las fechas que nosotros necesitemos en este punto vamos a",
+        "startMs": 321570,
+        "durationMs": 4470
+      },
+      {
+        "text": "realizar algunos ejemplos inicialmente vamos a ver al empleado eddy muñoz quien",
+        "startMs": 326040,
+        "durationMs": 5610
+      },
+      {
+        "text": "es un empleador que tiene un pago quincenal y recibe la prima de diciembre",
+        "startMs": 331650,
+        "durationMs": 4320
+      },
+      {
+        "text": "el día 15 del mes vamos a dirigirnos a contra pyme y vamos",
+        "startMs": 335970,
+        "durationMs": 5580
+      },
+      {
+        "text": "a abrir y vamos a revisar primero la configuración de el hogar y de empleados",
+        "startMs": 341550,
+        "durationMs": 4290
+      },
+      {
+        "text": "nuevamente vamos a seleccionar el empleado clic derecho modificar y vamos",
+        "startMs": 345840,
+        "durationMs": 5010
+      },
+      {
+        "text": "a abrir el formulario completo posteriormente nos dirigimos a la",
+        "startMs": 350850,
+        "durationMs": 2880
+      },
+      {
+        "text": "pestaña de datos empleado y vamos a abrir aquí la parte de prestaciones aquí",
+        "startMs": 353730,
+        "durationMs": 5190
+      },
+      {
+        "text": "vamos a encontrar que él tiene configurado el concepto de prima legal",
+        "startMs": 358920,
+        "durationMs": 3420
+      },
+      {
+        "text": "es de periodicidad semestral el mes 6 podemos también aquí abrir directamente",
+        "startMs": 362340,
+        "durationMs": 5670
+      },
+      {
+        "text": "el concepto en caso de que queramos modificarlo su configuración",
+        "startMs": 368010,
+        "durationMs": 4069
+      },
+      {
+        "text": "directamente en él y una vez nos aseguramos de que todo está correcto y",
+        "startMs": 372079,
+        "durationMs": 5410
+      },
+      {
+        "text": "que vamos a pagar el día 15 el mes que está correcta la configuración podemos",
+        "startMs": 377489,
+        "durationMs": 3240
+      },
+      {
+        "text": "dar clic en aceptar y dirigirnos al manejador de operaciones",
+        "startMs": 380729,
+        "durationMs": 4430
+      },
+      {
+        "text": "una vez en el manejador vamos a pagar en la fecha en la que queremos realizar el",
+        "startMs": 385159,
+        "durationMs": 5230
+      },
+      {
+        "text": "pago de la prima y en este caso para este ejemplo vamos a pagarle la prima",
+        "startMs": 390389,
+        "durationMs": 4770
+      },
+      {
+        "text": "más operaciones nómina pago de nómina vamos a buscar al empleado a edil lo",
+        "startMs": 400559,
+        "durationMs": 7231
+      },
+      {
+        "text": "seleccionamos y aquí es muy importante como vamos a pagarle la prima junto con",
+        "startMs": 407790,
+        "durationMs": 4019
+      },
+      {
+        "text": "el salario lo vamos a indicar nada más vamos a dejarlo tal cual está con todas",
+        "startMs": 411809,
+        "durationMs": 4650
+      },
+      {
+        "text": "estos con todos estos conceptos seleccionados vamos a darle",
+        "startMs": 416459,
+        "durationMs": 4560
+      },
+      {
+        "text": "clic en aceptar esperamos que nos cargue y como los",
+        "startMs": 421019,
+        "durationMs": 3300
+      },
+      {
+        "text": "vinos vamos a dar cuenta que nos va a traer los correspondientes 15 días de",
+        "startMs": 424319,
+        "durationMs": 4471
+      },
+      {
+        "text": "salario y los 90 días que hasta otros los días correspondientes a la prima que",
+        "startMs": 428790,
+        "durationMs": 5459
+      },
+      {
+        "text": "correspondiente por ese tiempo en este caso son 587 mil 500 pesos podemos dar",
+        "startMs": 437890,
+        "durationMs": 7200
+      },
+      {
+        "text": "clic en siguiente revisamos la lista de deducciones la lista aportes y",
+        "startMs": 445090,
+        "durationMs": 3720
+      },
+      {
+        "text": "provisiones y sólo nos restaría cargar la forma de pago seleccionar la cuenta",
+        "startMs": 448810,
+        "durationMs": 5400
+      },
+      {
+        "text": "contable y ya podríamos finalizar esta operación de pago aquí podemos hacer las",
+        "startMs": 454210,
+        "durationMs": 4680
+      },
+      {
+        "text": "recordemos hacer las verificaciones que nos recomienda el sistema y procesamos",
+        "startMs": 458890,
+        "durationMs": 4739
+      },
+      {
+        "text": "la operación como vemos ese es el ejemplo más sencillo es se calcula de",
+        "startMs": 463629,
+        "durationMs": 4530
+      },
+      {
+        "text": "manera automática y es realmente muy fácil hacerlo con contra pyme ahora bien",
+        "startMs": 468159,
+        "durationMs": 5250
+      },
+      {
+        "text": "vamos a seguir con el ejemplo del empleado samuel cárdenas",
+        "startMs": 473409,
+        "durationMs": 5511
+      },
+      {
+        "text": "es mensual pero él recibe la prima el 15 de diciembre vamos a pasar a contrapié a",
+        "startMs": 478920,
+        "durationMs": 5670
+      },
+      {
+        "text": "realizar primero la configuración del empleado ingresamos por básico terceros",
+        "startMs": 484590,
+        "durationMs": 4650
+      },
+      {
+        "text": "vamos a entrar por empleados y vamos a ver la configuración de samuel vamos a",
+        "startMs": 395159,
+        "durationMs": 99391
+      },
+      {
+        "text": "dar clic derecho modificar abrimos el formulario completo y nos dirigimos a la",
+        "startMs": 494550,
+        "durationMs": 4949
+      },
+      {
+        "text": "pestaña datos empleados una vez allí vamos a la parte de prestaciones y nos",
+        "startMs": 499499,
+        "durationMs": 4801
+      },
+      {
+        "text": "vamos a dar cuenta que ya tiene asociado el concepto de prima legal con",
+        "startMs": 504300,
+        "durationMs": 3990
+      },
+      {
+        "text": "periodicidad semestral que se paga el mes 6 y el día 15 son restaría",
+        "startMs": 508290,
+        "durationMs": 5669
+      },
+      {
+        "text": "dirigirnos al manejador de operaciones y ubicarnos en la fecha en la fecha",
+        "startMs": 513959,
+        "durationMs": 6591
+      },
+      {
+        "text": "correspondiente para comunicarnos en el 15 del mes y vamos a realizar el pago de",
+        "startMs": 520550,
+        "durationMs": 5550
+      },
+      {
+        "text": "la prima aquí hay que tener en cuenta que él tiene un pago mensual pero le",
+        "startMs": 434249,
+        "durationMs": 96291
+      },
+      {
+        "text": "vamos a pagar la prima el 15 es decir que vamos a ingresar por las operaciones",
+        "startMs": 530540,
+        "durationMs": 4680
+      },
+      {
+        "text": "nómina pago de nómina vamos a cargar al empleado samuel pero en este caso le",
+        "startMs": 535220,
+        "durationMs": 6780
+      },
+      {
+        "text": "vamos a indicar la operación que únicamente vamos a hacer el pago de",
+        "startMs": 542000,
+        "durationMs": 3330
+      },
+      {
+        "text": "prestaciones del contrato vamos a quitar los devengos vamos a quitar novedades y",
+        "startMs": 545330,
+        "durationMs": 6120
+      },
+      {
+        "text": "vamos a dar clic en aceptar con está pyme entonces nos va a calcular el valor",
+        "startMs": 551450,
+        "durationMs": 4920
+      },
+      {
+        "text": "correspondiente de la prima por los días trabajados que lleva el empleado samuel",
+        "startMs": 556370,
+        "durationMs": 5040
+      },
+      {
+        "text": "vemos que son 90 días y en este caso son 600 16 mil 250 pesos vamos a dar clic en",
+        "startMs": 561410,
+        "durationMs": 6660
+      },
+      {
+        "text": "siguiente vamos a ver que no se hacen deducciones por sando de pensión tampoco",
+        "startMs": 568070,
+        "durationMs": 4200
+      },
+      {
+        "text": "están haciendo la lista de aportes y provisiones porque como indicábamos",
+        "startMs": 572270,
+        "durationMs": 3510
+      },
+      {
+        "text": "estamos pagando únicamente el valor de la prima sólo nos restaría cargarlo la",
+        "startMs": 575780,
+        "durationMs": 5340
+      },
+      {
+        "text": "forma de pago indicar la cuenta contable y finalizar la operación realizamos las",
+        "startMs": 581120,
+        "durationMs": 5520
+      },
+      {
+        "text": "validaciones que nos indica el sistema y podemos entonces procesarla ahora como",
+        "startMs": 586640,
+        "durationMs": 4830
+      },
+      {
+        "text": "hacemos el pago de la prima de samuel teniendo en cuenta que ya pagamos la",
+        "startMs": 591470,
+        "durationMs": 4530
+      },
+      {
+        "text": "prima es muy sencillo nos paramos en la fecha correspondiente en este caso el 31",
+        "startMs": 596000,
+        "durationMs": 4860
+      },
+      {
+        "text": "de diciembre va entramos por más operaciones pago de nómina y le vamos a",
+        "startMs": 600860,
+        "durationMs": 4200
+      },
+      {
+        "text": "pagar entonces sólo lo correspondiente al salario en",
+        "startMs": 605060,
+        "durationMs": 5250
+      },
+      {
+        "text": "este caso los conceptos a liquidar vamos a indicar que ya pagamos las",
+        "startMs": 610310,
+        "durationMs": 3300
+      },
+      {
+        "text": "prestaciones no queremos cargarlas en esta operación damos clic en aceptar y",
+        "startMs": 613610,
+        "durationMs": 5370
+      },
+      {
+        "text": "con está pyme nos va a traer el valor correspondiente por salario que en este",
+        "startMs": 618980,
+        "durationMs": 4560
+      },
+      {
+        "text": "caso son 30 días de salario por un valor de",
+        "startMs": 623540,
+        "durationMs": 3200
+      },
+      {
+        "text": "de 202 millones 465 mil pesos si damos",
+        "startMs": 626740,
+        "durationMs": 4810
+      },
+      {
+        "text": "siguiente vemos que se están realizando los corrientes los correspondientes",
+        "startMs": 631550,
+        "durationMs": 3630
+      },
+      {
+        "text": "descuentos a salud y pensión y la lista de aportes y provisiones a cargo del",
+        "startMs": 635180,
+        "durationMs": 4170
+      },
+      {
+        "text": "empleador una vez revisado estos cálculos vamos a cargar la forma de pago",
+        "startMs": 639350,
+        "durationMs": 4950
+      },
+      {
+        "text": "indicamos la cuenta contable y finalizamos la operación como vemos es",
+        "startMs": 644300,
+        "durationMs": 4260
+      },
+      {
+        "text": "muy sencillo realizar pago de la prima el 15 de diciembre",
+        "startMs": 648560,
+        "durationMs": 3750
+      },
+      {
+        "text": "cuando el contrato del empleado desde formar el pago es de forma mensual ahora",
+        "startMs": 652310,
+        "durationMs": 5430
+      },
+      {
+        "text": "con nuestro último ejemplo el empleado tomás banegas tiene un pago quincenal y",
+        "startMs": 657740,
+        "durationMs": 5519
+      },
+      {
+        "text": "recibe la prima el 30 de junio y el 20 de diciembre este ejemplo es diferente a",
+        "startMs": 663259,
+        "durationMs": 5940
+      },
+      {
+        "text": "los dos anteriores ya que veíamos en los ejemplos anteriores que el pago de la",
+        "startMs": 669199,
+        "durationMs": 4681
+      },
+      {
+        "text": "prima se hacía de manera semestral el 15 de junio y el 15 de diciembre en este",
+        "startMs": 673880,
+        "durationMs": 5220
+      },
+      {
+        "text": "caso las fechas son diferentes así que debemos hacer una configuración distinta",
+        "startMs": 679100,
+        "durationMs": 5300
+      },
+      {
+        "text": "pero igualmente es muy sencillo y para ello vamos a ingresar a contar pyme y",
+        "startMs": 684400,
+        "durationMs": 5140
+      },
+      {
+        "text": "nos vamos a dirigir al catálogo de conceptos de nómina ingresamos por",
+        "startMs": 689540,
+        "durationMs": 3570
+      },
+      {
+        "text": "nómina catálogo de conceptos de nómina y vamos a buscar la prima",
+        "startMs": 693110,
+        "durationMs": 4990
+      },
+      {
+        "text": "en este caso vamos a configurar dos conceptos de prima legal uno",
+        "startMs": 698100,
+        "durationMs": 5190
+      },
+      {
+        "text": "correspondiente a la primera mitad de la prima y el otro que va a ser el",
+        "startMs": 703290,
+        "durationMs": 4680
+      },
+      {
+        "text": "equivalente a la segunda mitad de la prima y en cada uno vamos a indicar las",
+        "startMs": 707970,
+        "durationMs": 5400
+      },
+      {
+        "text": "primera mitad clic derecho a modificar vamos a ver que igualmente es un",
+        "startMs": 717420,
+        "durationMs": 5040
+      },
+      {
+        "text": "concepto de pago recurrente vamos a ingresar a la pestaña de pago recurrente",
+        "startMs": 722460,
+        "durationMs": 3660
+      },
+      {
+        "text": "y allí vamos a ver que tiene periodicidad anual lo vamos a pagar en",
+        "startMs": 726120,
+        "durationMs": 4620
+      },
+      {
+        "text": "el mes 6 y como el empleado le estábamos diciendo que era el último día del mes",
+        "startMs": 730740,
+        "durationMs": 3450
+      },
+      {
+        "text": "es decir el 30 indicamos en la fecha de pago es el último día del mes en este",
+        "startMs": 734190,
+        "durationMs": 5100
+      },
+      {
+        "text": "caso tenemos que vamos a pagar la primera mitad el 30 de junio del 2021",
+        "startMs": 739290,
+        "durationMs": 5510
+      },
+      {
+        "text": "damos clic en aceptar ya realizamos la configuración de la primera mitad ahora",
+        "startMs": 744800,
+        "durationMs": 4570
+      },
+      {
+        "text": "vamos a hacer la segunda en este caso vamos a la prima legal segunda mitad",
+        "startMs": 749370,
+        "durationMs": 4649
+      },
+      {
+        "text": "vamos a ir derecho modificar vemos que también está seleccionado es recurrente",
+        "startMs": 754019,
+        "durationMs": 4471
+      },
+      {
+        "text": "vamos a la pestaña de pago recurrente y revisamos que nuevamente tiene",
+        "startMs": 758490,
+        "durationMs": 3779
+      },
+      {
+        "text": "periodicidad anual pero en este caso estamos indicando que el mes en el que",
+        "startMs": 762269,
+        "durationMs": 4291
+      },
+      {
+        "text": "se va a pagar es el mes 12 que es la diciembre porque está la segunda prima",
+        "startMs": 766560,
+        "durationMs": 5880
+      },
+      {
+        "text": "si quisiéramos pagar la segunda mitad en noviembre a que indicaría mos el mes de",
+        "startMs": 772440,
+        "durationMs": 4530
+      },
+      {
+        "text": "noviembre o en este caso es diciembre la fecha de pago como van a pagarlo el 20",
+        "startMs": 776970,
+        "durationMs": 6060
+      },
+      {
+        "text": "en la fecha máxima del plazo máximo para el pago de la segunda mitad de la prima",
+        "startMs": 783030,
+        "durationMs": 4500
+      },
+      {
+        "text": "entonces indicamos que es el día 20 del mes y nos queda la configuración de la",
+        "startMs": 787530,
+        "durationMs": 3750
+      },
+      {
+        "text": "siguiente manera la segunda mitad de la prima sea pagar el 20 de diciembre del",
+        "startMs": 791280,
+        "durationMs": 4860
+      },
+      {
+        "text": "año actual damos clic en aceptar ahora lo segundo",
+        "startMs": 796140,
+        "durationMs": 4140
+      },
+      {
+        "text": "que tenemos que verificar es la configuración directamente del empleado",
+        "startMs": 800280,
+        "durationMs": 3720
+      },
+      {
+        "text": "para ello vamos a ingresar por básico terceros terceros empleados puede",
+        "startMs": 804000,
+        "durationMs": 6270
+      },
+      {
+        "text": "ingresar al empleado tomás banegas omar clic derecho a modificar abrimos el",
+        "startMs": 810270,
+        "durationMs": 3900
+      },
+      {
+        "text": "formulario completo y entramos a la pestaña de datos empleados vamos a la",
+        "startMs": 814170,
+        "durationMs": 4380
+      },
+      {
+        "text": "parte de prestaciones y aquí encontramos otra diferencia en este caso no tenemos",
+        "startMs": 818550,
+        "durationMs": 4920
+      },
+      {
+        "text": "el concepto de prima legal que es aplico figuraban con está pyme sino que le",
+        "startMs": 713370,
+        "durationMs": 113940
+      },
+      {
+        "text": "tenemos asociado al empleo y los conceptos que acabamos de configurar",
+        "startMs": 827310,
+        "durationMs": 3930
+      },
+      {
+        "text": "esto con el fin de realizar el pago el 30 de junio que va a ser el equivalente",
+        "startMs": 831240,
+        "durationMs": 4980
+      },
+      {
+        "text": "a la primera mitad de la prima y vamos al otro concepto que va a realizar el",
+        "startMs": 836220,
+        "durationMs": 5040
+      },
+      {
+        "text": "pago el 20 de diciembre una vez realizados los conceptos de",
+        "startMs": 841260,
+        "durationMs": 5990
+      },
+      {
+        "text": "prima de primera mitad y segunda mitad en el empleado ya podríamos realizar los",
+        "startMs": 847250,
+        "durationMs": 5190
+      },
+      {
+        "text": "pagos correspondientes vamos a dirigirnos por básico manejador de",
+        "startMs": 852440,
+        "durationMs": 3870
+      },
+      {
+        "text": "operaciones y vamos a hacer el pago de la primera mitad de la pena para ello",
+        "startMs": 856310,
+        "durationMs": 5280
+      },
+      {
+        "text": "vamos a parar en la fecha correspondiente en este caso es el 30 de",
+        "startMs": 861590,
+        "durationMs": 3960
+      },
+      {
+        "text": "junio estamos aquí vamos a ingresar por las operaciones nómina pago de nómina",
+        "startMs": 865550,
+        "durationMs": 6030
+      },
+      {
+        "text": "vamos a seleccionar al empleado tomás banegas y vamos a pagar la prima en este",
+        "startMs": 871580,
+        "durationMs": 5850
+      },
+      {
+        "text": "caso junto con el salario seleccionado pero aquí todos los conceptos que nos",
+        "startMs": 877430,
+        "durationMs": 4560
+      },
+      {
+        "text": "indican la operación de pago hagamos clic en aceptar y contable nos va a",
+        "startMs": 881990,
+        "durationMs": 3900
+      },
+      {
+        "text": "cargar lo correspondiente a los 15 días de pago a la quincena de ese periodo y",
+        "startMs": 885890,
+        "durationMs": 6450
+      },
+      {
+        "text": "unos 180 días correspondientes a la primera mitad de la prima ya que este",
+        "startMs": 892340,
+        "durationMs": 5100
+      },
+      {
+        "text": "empleado empezó a elaborar el primero de enero del 2021 vamos a dar clic en",
+        "startMs": 897440,
+        "durationMs": 5070
+      },
+      {
+        "text": "siguiente vemos que se realizan los respectivos descuentos de salud y",
+        "startMs": 902510,
+        "durationMs": 3450
+      },
+      {
+        "text": "pensión y lo respectivo la respectiva lista de aportes y provisiones a cargo",
+        "startMs": 905960,
+        "durationMs": 3990
+      },
+      {
+        "text": "del empleador sólo restaría cargar la forma de pago",
+        "startMs": 909950,
+        "durationMs": 3360
+      },
+      {
+        "text": "indicar la cuenta y damos clic en finalizar",
+        "startMs": 913310,
+        "durationMs": 3380
+      },
+      {
+        "text": "finalizar cerramos aquí y procesamos la operación",
+        "startMs": 916690,
+        "durationMs": 4240
+      },
+      {
+        "text": "ahora vamos a devolvernos un momento y vamos a visualizar esta operación de",
+        "startMs": 920930,
+        "durationMs": 4140
+      },
+      {
+        "text": "pago y vamos a ver que aquí se está cargando la prima legal primera mitad la",
+        "startMs": 925070,
+        "durationMs": 5100
+      },
+      {
+        "text": "que tenemos configurada para que se pague el 30 de junio cerramos esta",
+        "startMs": 930170,
+        "durationMs": 5070
+      },
+      {
+        "text": "operación y ahora vamos a realizar el pago de la segunda mitad de la prima el",
+        "startMs": 935240,
+        "durationMs": 4710
+      },
+      {
+        "text": "20 de diciembre pagamos en la fecha correspondiente",
+        "startMs": 939950,
+        "durationMs": 3530
+      },
+      {
+        "text": "vamos a ingresar por más operaciones nómina pago de nómina y vamos a",
+        "startMs": 943480,
+        "durationMs": 5620
+      },
+      {
+        "text": "seleccionar al empleado tomás banegas en este caso como él tiene un pago",
+        "startMs": 949100,
+        "durationMs": 5550
+      },
+      {
+        "text": "quincenal no vamos a realizar el pago de la quincena al 20 para indicar la contra",
+        "startMs": 954650,
+        "durationMs": 4800
+      },
+      {
+        "text": "pibe que únicamente vamos a pagarle la prima es decir que vamos a dejar solo",
+        "startMs": 959450,
+        "durationMs": 3930
+      },
+      {
+        "text": "las prestaciones del contrato damos clic en aceptar y vemos que en este caso se",
+        "startMs": 963380,
+        "durationMs": 6060
+      },
+      {
+        "text": "nos va a cargar es el concepto de prima segunda mitad que es el que está",
+        "startMs": 969440,
+        "durationMs": 4080
+      },
+      {
+        "text": "configurado para que se pague en esta fecha",
+        "startMs": 973520,
+        "durationMs": 2980
+      },
+      {
+        "text": "fecha y aquí hemos prima legal segunda mitad",
+        "startMs": 976500,
+        "durationMs": 3030
+      },
+      {
+        "text": "están los días del valor correspondiente por los 180 días trabajados vamos a dar",
+        "startMs": 979530,
+        "durationMs": 5100
+      },
+      {
+        "text": "clic en siguiente no se está haciendo ninguna deducción tampoco se están",
+        "startMs": 984630,
+        "durationMs": 3680
+      },
+      {
+        "text": "pagando los aportes y provisiones a cargo del empleador por lo que sólo nos",
+        "startMs": 988310,
+        "durationMs": 4480
+      },
+      {
+        "text": "resta cargar la operación de pago indicamos la cuenta contable y",
+        "startMs": 992790,
+        "durationMs": 4140
+      },
+      {
+        "text": "finalizamos la operación ya para terminar con este ejemplo para",
+        "startMs": 996930,
+        "durationMs": 5370
+      },
+      {
+        "text": "hacer el pago de nómina nos paramos en la fecha correspondiente y vamos",
+        "startMs": 1002300,
+        "durationMs": 3779
+      },
+      {
+        "text": "ingresamos por más operaciones nómina pago de nómina seleccionamos al empleado",
+        "startMs": 1006079,
+        "durationMs": 4771
+      },
+      {
+        "text": "tomas banegas y vamos a indicar que en este caso no vamos a pagar las",
+        "startMs": 1010850,
+        "durationMs": 4080
+      },
+      {
+        "text": "prestaciones porque este pago ya lo hicimos el día 20 de diciembre damos",
+        "startMs": 1014930,
+        "durationMs": 4350
+      },
+      {
+        "text": "clic en aceptar y vemos que aquí se nos va a cargar el valor correspondiente a",
+        "startMs": 1019280,
+        "durationMs": 4410
+      },
+      {
+        "text": "los 15 días trabajados por el empleado tomás vamos aquí en siguiente si",
+        "startMs": 1023690,
+        "durationMs": 4230
+      },
+      {
+        "text": "realizamos las deducciones vemos que aquí todo está correcto cargamos la",
+        "startMs": 1027920,
+        "durationMs": 4649
+      },
+      {
+        "text": "forma de pago y finalizamos la operación como vemos es muy sencillo en este caso",
+        "startMs": 1032569,
+        "durationMs": 5760
+      },
+      {
+        "text": "lo único que tenemos que hacer es ingresar a nómina catálogo de conceptos",
+        "startMs": 1038329,
+        "durationMs": 4500
+      },
+      {
+        "text": "de nómina y configurar dos conceptos de prima legal de forma de periodicidad",
+        "startMs": 1042829,
+        "durationMs": 5011
+      },
+      {
+        "text": "anual e indicamos el mes y el día en que se va a pagar cada uno posteriormente en",
+        "startMs": 1047840,
+        "durationMs": 5850
+      },
+      {
+        "text": "el empleado debemos asignar estos conceptos para que contamine al hacer",
+        "startMs": 1053690,
+        "durationMs": 4530
+      },
+      {
+        "text": "las operaciones de pago los cálculos de labor en la forma que le estamos",
+        "startMs": 1058220,
+        "durationMs": 4020
+      },
+      {
+        "text": "indicando es base es muy muy sencillo como vemos habríamos aquí realizado",
+        "startMs": 1062240,
+        "durationMs": 4500
+      },
+      {
+        "text": "nuestros tres ejemplos para liquidar la prima legal de los empleados de la",
+        "startMs": 1066740,
+        "durationMs": 4320
+      },
+      {
+        "text": "empresa otra precisión que quiero hacer en este momento es que no es necesario",
+        "startMs": 1071060,
+        "durationMs": 4410
+      },
+      {
+        "text": "hacer carga inicial si utilizábamos nómina contable si por ejemplo en",
+        "startMs": 1075470,
+        "durationMs": 5070
+      },
+      {
+        "text": "nuestra nómina no era variable no teníamos variaciones de nómina por",
+        "startMs": 1080540,
+        "durationMs": 2879
+      },
+      {
+        "text": "bonificaciones y demás no es necesario hacer carga inicial ya que con está pyme",
+        "startMs": 1083419,
+        "durationMs": 4591
+      },
+      {
+        "text": "realiza el cálculo con un día cuando con los días que está que ha trabajado el",
+        "startMs": 1088010,
+        "durationMs": 3360
+      },
+      {
+        "text": "empleado ahora bien si tiene nuestra nómina era muy variable es necesario que",
+        "startMs": 1091370,
+        "durationMs": 4830
+      },
+      {
+        "text": "hagamos el cargue inicial para que con está pyme tenga esta información a la",
+        "startMs": 1096200,
+        "durationMs": 4140
+      },
+      {
+        "text": "hora de hacer sus y también recordar que podemos configurar estos conceptos como",
+        "startMs": 1100340,
+        "durationMs": 5910
+      },
+      {
+        "text": "manuales en la forma de cálculo podemos configurar el valor manual en caso de",
+        "startMs": 1106250,
+        "durationMs": 4980
+      },
+      {
+        "text": "que nosotros queramos indicar manualmente el valor de la prima",
+        "startMs": 1111230,
+        "durationMs": 6050
+      },
+      {
+        "text": "ya habríamos entonces terminado con el paso a paso para liquidar la prima legal",
+        "startMs": 1117290,
+        "durationMs": 4370
+      },
+      {
+        "text": "en contra pyme y recordarles que pueden aprender más en el portal de clientes",
+        "startMs": 1121660,
+        "durationMs": 6750
+      }
+    ],
+    "plainText": "## Descripción del video\n\nVea ejercicios prácticos de cómo realizar el pago de la prima a sus empleados y cómo puede parametrizar el concepto de prima legal.\n\n## Transcripción\n\nbuenos días mi nombre es tomás cárdenas banegas ingeniero de proyectos y el día\nde hoy vamos a aprender cómo se realiza la liquidación de la prima legal en\ncontra pyme vamos a ver los diferentes catálogos en los que tenemos que hacer\nciertas configuraciones y luego en el manejador de operaciones vamos a ver lo\nsencillo que es realizar el pago de esta prestación vamos a iniciar por la\npresentación de la liquidación de la prima módulo de nómina inicialmente\nvamos a ver qué es la prima que es la prima legal y vamos a entender que ésta\nes una prestación social que equivale a 30 días de salario por cada año\ntrabajado y que además ésta se debe pagar en mitad es la primera mitad se de\npagar máximo hasta el día 30 del mes de junio y la segunda mitad hasta máximo\nlos primeros 20 días del mes de diciembre\nlegal vamos a pasar al paso a paso en conta pib\ninicialmente debemos validar la fecha de pago de la prima luego vamos a\nparametrizar el concepto de nómina prima legal y por último vamos a realizar la\nel pago de la prima en la fecha requerida bueno primer paso validar la\nfecha de pago de la prima esto es muy importante porque la prima se puede\npagar de manera semestral por ejemplo el 15 de junio y el 15 de diciembre o puede\npagarse en fechas diferentes por ejemplo el 15 de junio y el 30 de\nnoviembre una vez la empresa o usted haya definido cómo va a realizar el pago\nde la prima podemos pasar al segundo paso que es la parametrización del\nconcepto de nómina prima legal para ello nos vamos a dirigir a con está\npyme y vamos a ingresar por el catálogo de con de nómina vamos a ingresar al\ncatálogo de conceptos de nómina y allí vamos a revisar el concepto que está\npreconfigurado por contacto para buscar prima nos vamos a abrir el\ncomportamiento de prestaciones y vamos a ingresar por prima legal una vez allí\neste concepto está completamente preconfigurado pero vamos a revisar la\nparametrización que tiene en caso tal de que usted necesite realizar cambios en\nél vamos a fijarnos primero que este concepto es de pago recurrente y vamos a\ndirigirnos a esa pestaña una vez allí vamos a encontrar la primero\nperiodicidad de pago que en este caso es semestral eso quiere decir que vamos a\npagar una vez cada semestre y le estamos indicando a cuanta pyme que se paga en\nel mes 6 esto quiere decir que este concepto se va a pagar en junio y en\ndiciembre y por último estamos indicando la fecha de pago respectiva que en este\ncaso es el día 15 de cada mes en este caso estamos diciendo entonces que vamos\nla prima el 15 de junio y la segunda mitad la vamos a pagar el 15 de\ndiciembre una vez revisada la revisada parametrización del concepto podemos\nrevisar los perfiles de contrato esto porque es importante porque si nosotros\nqueremos que ese concepto preconfigurado o si vamos a hacer cambios esté en un\nnuevo perfil de contrato debemos primero ingresar a él por ejemplo vamos a\ningresar el perfil término indefinido pago mensual y nos vamos a dirigir a los\nconceptos de nómina una vez allí vamos a abrir la pestaña de prestaciones y allí\nvamos a encontrar el concepto que nosotros tengamos asignado a ese perfil\nde contrato los perfiles de contrato preconfigurados en contra pyme ya tienen\neste concepto asociado así que recuerde si usted va a crear un nuevo concepto de\nprima o un nuevo perfil de contrato revisar la parametrización de los\nconceptos de este perfil de contrato y que las prestaciones esté incluyendo la\nprima legal o la prima que usted haya configurado\nconfigurado una vez revisado que tengamos\nefectivamente en el perfil de contrato del concepto de prima vamos a dirigirnos\nal catálogo de empleados para revisar cómo se puede validar la configuración\ndirectamente en el tercero vamos a ingresar por básico terceros terceros\nempleados una vez allí vamos a seleccionar un empleado en este caso va\na ser samuel cárdenas vamos a darle clic derecho modificar y vamos a abrir el\nformulario completo nos dirigimos a la pestaña de datos empleados y vamos a\nabrir la sección de prestaciones allí vamos a encontrar el concepto que\ntenemos preconfigurado o que tenemos asociados al contrato desempleado que en\neste caso es prima legal vamos a encontrar la periodicidad de pago vamos\na encontrar el mes en que se paga es decir el mes seis de cada semestre junio\ny diciembre y vamos a contar que este es un valor formulado recordemos que\ncontamina va a ser el cálculo de la prima de manera automática y que usted\npuede configurar este este concepto de manera manual en caso tal de que usted\nquiera asignarle el valor una vez realizada la configuración en el\nrevisamos los perfiles de contrato y revisamos directamente el empleado\npodemos continuar con el proceso y ya podríamos comenzar a realizar el pago de\nla prima en las fechas que nosotros necesitemos en este punto vamos a\nrealizar algunos ejemplos inicialmente vamos a ver al empleado eddy muñoz quien\nes un empleador que tiene un pago quincenal y recibe la prima de diciembre\nel día 15 del mes vamos a dirigirnos a contra pyme y vamos\na abrir y vamos a revisar primero la configuración de el hogar y de empleados\nnuevamente vamos a seleccionar el empleado clic derecho modificar y vamos\na abrir el formulario completo posteriormente nos dirigimos a la\npestaña de datos empleado y vamos a abrir aquí la parte de prestaciones aquí\nvamos a encontrar que él tiene configurado el concepto de prima legal\nes de periodicidad semestral el mes 6 podemos también aquí abrir directamente\nel concepto en caso de que queramos modificarlo su configuración\ndirectamente en él y una vez nos aseguramos de que todo está correcto y\nque vamos a pagar el día 15 el mes que está correcta la configuración podemos\ndar clic en aceptar y dirigirnos al manejador de operaciones\nuna vez en el manejador vamos a pagar en la fecha en la que queremos realizar el\npago de la prima y en este caso para este ejemplo vamos a pagarle la prima\nmás operaciones nómina pago de nómina vamos a buscar al empleado a edil lo\nseleccionamos y aquí es muy importante como vamos a pagarle la prima junto con\nel salario lo vamos a indicar nada más vamos a dejarlo tal cual está con todas\nestos con todos estos conceptos seleccionados vamos a darle\nclic en aceptar esperamos que nos cargue y como los\nvinos vamos a dar cuenta que nos va a traer los correspondientes 15 días de\nsalario y los 90 días que hasta otros los días correspondientes a la prima que\ncorrespondiente por ese tiempo en este caso son 587 mil 500 pesos podemos dar\nclic en siguiente revisamos la lista de deducciones la lista aportes y\nprovisiones y sólo nos restaría cargar la forma de pago seleccionar la cuenta\ncontable y ya podríamos finalizar esta operación de pago aquí podemos hacer las\nrecordemos hacer las verificaciones que nos recomienda el sistema y procesamos\nla operación como vemos ese es el ejemplo más sencillo es se calcula de\nmanera automática y es realmente muy fácil hacerlo con contra pyme ahora bien\nvamos a seguir con el ejemplo del empleado samuel cárdenas\nes mensual pero él recibe la prima el 15 de diciembre vamos a pasar a contrapié a\nrealizar primero la configuración del empleado ingresamos por básico terceros\nvamos a entrar por empleados y vamos a ver la configuración de samuel vamos a\ndar clic derecho modificar abrimos el formulario completo y nos dirigimos a la\npestaña datos empleados una vez allí vamos a la parte de prestaciones y nos\nvamos a dar cuenta que ya tiene asociado el concepto de prima legal con\nperiodicidad semestral que se paga el mes 6 y el día 15 son restaría\ndirigirnos al manejador de operaciones y ubicarnos en la fecha en la fecha\ncorrespondiente para comunicarnos en el 15 del mes y vamos a realizar el pago de\nla prima aquí hay que tener en cuenta que él tiene un pago mensual pero le\nvamos a pagar la prima el 15 es decir que vamos a ingresar por las operaciones\nnómina pago de nómina vamos a cargar al empleado samuel pero en este caso le\nvamos a indicar la operación que únicamente vamos a hacer el pago de\nprestaciones del contrato vamos a quitar los devengos vamos a quitar novedades y\nvamos a dar clic en aceptar con está pyme entonces nos va a calcular el valor\ncorrespondiente de la prima por los días trabajados que lleva el empleado samuel\nvemos que son 90 días y en este caso son 600 16 mil 250 pesos vamos a dar clic en\nsiguiente vamos a ver que no se hacen deducciones por sando de pensión tampoco\nestán haciendo la lista de aportes y provisiones porque como indicábamos\nestamos pagando únicamente el valor de la prima sólo nos restaría cargarlo la\nforma de pago indicar la cuenta contable y finalizar la operación realizamos las\nvalidaciones que nos indica el sistema y podemos entonces procesarla ahora como\nhacemos el pago de la prima de samuel teniendo en cuenta que ya pagamos la\nprima es muy sencillo nos paramos en la fecha correspondiente en este caso el 31\nde diciembre va entramos por más operaciones pago de nómina y le vamos a\npagar entonces sólo lo correspondiente al salario en\neste caso los conceptos a liquidar vamos a indicar que ya pagamos las\nprestaciones no queremos cargarlas en esta operación damos clic en aceptar y\ncon está pyme nos va a traer el valor correspondiente por salario que en este\ncaso son 30 días de salario por un valor de\nde 202 millones 465 mil pesos si damos\nsiguiente vemos que se están realizando los corrientes los correspondientes\ndescuentos a salud y pensión y la lista de aportes y provisiones a cargo del\nempleador una vez revisado estos cálculos vamos a cargar la forma de pago\nindicamos la cuenta contable y finalizamos la operación como vemos es\nmuy sencillo realizar pago de la prima el 15 de diciembre\ncuando el contrato del empleado desde formar el pago es de forma mensual ahora\ncon nuestro último ejemplo el empleado tomás banegas tiene un pago quincenal y\nrecibe la prima el 30 de junio y el 20 de diciembre este ejemplo es diferente a\nlos dos anteriores ya que veíamos en los ejemplos anteriores que el pago de la\nprima se hacía de manera semestral el 15 de junio y el 15 de diciembre en este\ncaso las fechas son diferentes así que debemos hacer una configuración distinta\npero igualmente es muy sencillo y para ello vamos a ingresar a contar pyme y\nnos vamos a dirigir al catálogo de conceptos de nómina ingresamos por\nnómina catálogo de conceptos de nómina y vamos a buscar la prima\nen este caso vamos a configurar dos conceptos de prima legal uno\ncorrespondiente a la primera mitad de la prima y el otro que va a ser el\nequivalente a la segunda mitad de la prima y en cada uno vamos a indicar las\nprimera mitad clic derecho a modificar vamos a ver que igualmente es un\nconcepto de pago recurrente vamos a ingresar a la pestaña de pago recurrente\ny allí vamos a ver que tiene periodicidad anual lo vamos a pagar en\nel mes 6 y como el empleado le estábamos diciendo que era el último día del mes\nes decir el 30 indicamos en la fecha de pago es el último día del mes en este\ncaso tenemos que vamos a pagar la primera mitad el 30 de junio del 2021\ndamos clic en aceptar ya realizamos la configuración de la primera mitad ahora\nvamos a hacer la segunda en este caso vamos a la prima legal segunda mitad\nvamos a ir derecho modificar vemos que también está seleccionado es recurrente\nvamos a la pestaña de pago recurrente y revisamos que nuevamente tiene\nperiodicidad anual pero en este caso estamos indicando que el mes en el que\nse va a pagar es el mes 12 que es la diciembre porque está la segunda prima\nsi quisiéramos pagar la segunda mitad en noviembre a que indicaría mos el mes de\nnoviembre o en este caso es diciembre la fecha de pago como van a pagarlo el 20\nen la fecha máxima del plazo máximo para el pago de la segunda mitad de la prima\nentonces indicamos que es el día 20 del mes y nos queda la configuración de la\nsiguiente manera la segunda mitad de la prima sea pagar el 20 de diciembre del\naño actual damos clic en aceptar ahora lo segundo\nque tenemos que verificar es la configuración directamente del empleado\npara ello vamos a ingresar por básico terceros terceros empleados puede\ningresar al empleado tomás banegas omar clic derecho a modificar abrimos el\nformulario completo y entramos a la pestaña de datos empleados vamos a la\nparte de prestaciones y aquí encontramos otra diferencia en este caso no tenemos\nel concepto de prima legal que es aplico figuraban con está pyme sino que le\ntenemos asociado al empleo y los conceptos que acabamos de configurar\nesto con el fin de realizar el pago el 30 de junio que va a ser el equivalente\na la primera mitad de la prima y vamos al otro concepto que va a realizar el\npago el 20 de diciembre una vez realizados los conceptos de\nprima de primera mitad y segunda mitad en el empleado ya podríamos realizar los\npagos correspondientes vamos a dirigirnos por básico manejador de\noperaciones y vamos a hacer el pago de la primera mitad de la pena para ello\nvamos a parar en la fecha correspondiente en este caso es el 30 de\njunio estamos aquí vamos a ingresar por las operaciones nómina pago de nómina\nvamos a seleccionar al empleado tomás banegas y vamos a pagar la prima en este\ncaso junto con el salario seleccionado pero aquí todos los conceptos que nos\nindican la operación de pago hagamos clic en aceptar y contable nos va a\ncargar lo correspondiente a los 15 días de pago a la quincena de ese periodo y\nunos 180 días correspondientes a la primera mitad de la prima ya que este\nempleado empezó a elaborar el primero de enero del 2021 vamos a dar clic en\nsiguiente vemos que se realizan los respectivos descuentos de salud y\npensión y lo respectivo la respectiva lista de aportes y provisiones a cargo\ndel empleador sólo restaría cargar la forma de pago\nindicar la cuenta y damos clic en finalizar\nfinalizar cerramos aquí y procesamos la operación\nahora vamos a devolvernos un momento y vamos a visualizar esta operación de\npago y vamos a ver que aquí se está cargando la prima legal primera mitad la\nque tenemos configurada para que se pague el 30 de junio cerramos esta\noperación y ahora vamos a realizar el pago de la segunda mitad de la prima el\n20 de diciembre pagamos en la fecha correspondiente\nvamos a ingresar por más operaciones nómina pago de nómina y vamos a\nseleccionar al empleado tomás banegas en este caso como él tiene un pago\nquincenal no vamos a realizar el pago de la quincena al 20 para indicar la contra\npibe que únicamente vamos a pagarle la prima es decir que vamos a dejar solo\nlas prestaciones del contrato damos clic en aceptar y vemos que en este caso se\nnos va a cargar es el concepto de prima segunda mitad que es el que está\nconfigurado para que se pague en esta fecha\nfecha y aquí hemos prima legal segunda mitad\nestán los días del valor correspondiente por los 180 días trabajados vamos a dar\nclic en siguiente no se está haciendo ninguna deducción tampoco se están\npagando los aportes y provisiones a cargo del empleador por lo que sólo nos\nresta cargar la operación de pago indicamos la cuenta contable y\nfinalizamos la operación ya para terminar con este ejemplo para\nhacer el pago de nómina nos paramos en la fecha correspondiente y vamos\ningresamos por más operaciones nómina pago de nómina seleccionamos al empleado\ntomas banegas y vamos a indicar que en este caso no vamos a pagar las\nprestaciones porque este pago ya lo hicimos el día 20 de diciembre damos\nclic en aceptar y vemos que aquí se nos va a cargar el valor correspondiente a\nlos 15 días trabajados por el empleado tomás vamos aquí en siguiente si\nrealizamos las deducciones vemos que aquí todo está correcto cargamos la\nforma de pago y finalizamos la operación como vemos es muy sencillo en este caso\nlo único que tenemos que hacer es ingresar a nómina catálogo de conceptos\nde nómina y configurar dos conceptos de prima legal de forma de periodicidad\nanual e indicamos el mes y el día en que se va a pagar cada uno posteriormente en\nel empleado debemos asignar estos conceptos para que contamine al hacer\nlas operaciones de pago los cálculos de labor en la forma que le estamos\nindicando es base es muy muy sencillo como vemos habríamos aquí realizado\nnuestros tres ejemplos para liquidar la prima legal de los empleados de la\nempresa otra precisión que quiero hacer en este momento es que no es necesario\nhacer carga inicial si utilizábamos nómina contable si por ejemplo en\nnuestra nómina no era variable no teníamos variaciones de nómina por\nbonificaciones y demás no es necesario hacer carga inicial ya que con está pyme\nrealiza el cálculo con un día cuando con los días que está que ha trabajado el\nempleado ahora bien si tiene nuestra nómina era muy variable es necesario que\nhagamos el cargue inicial para que con está pyme tenga esta información a la\nhora de hacer sus y también recordar que podemos configurar estos conceptos como\nmanuales en la forma de cálculo podemos configurar el valor manual en caso de\nque nosotros queramos indicar manualmente el valor de la prima\nya habríamos entonces terminado con el paso a paso para liquidar la prima legal\nen contra pyme y recordarles que pueden aprender más en el portal de clientes"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 235.156,
+    "asr": 44100,
+    "filesizeApprox": 33231452,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2021",
+  "files": {
+    "year": "2021",
+    "kind": "videos",
+    "md": "videos/2021/wMmQmeL_d1Q.md",
+    "json": "videos/2021/wMmQmeL_d1Q.json",
+    "infoJson": "videos/2021/wMmQmeL_d1Q.info.json"
+  },
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "wMmQmeL_d1Q",
+        "youtubeId": "wMmQmeL_d1Q",
+        "titulo": "Liquidación de prima en ContaPyme®",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

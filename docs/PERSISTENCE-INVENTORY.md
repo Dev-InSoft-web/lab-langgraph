@@ -5,10 +5,10 @@
 | Origen ISA-DOC | Destino lab | API lab |
 |----------------|-------------|---------|
 | `data/postman/` | `data/postman/` | `GET /api/agent/postman-ui` |
-| `data/patyia/*.json` caches | `data/patyia/caches/` | `GET/PUT /api/persistence/...` |
+| `data/langlab/*.json` caches | `data/langlab/caches/` | `GET/PUT /api/persistence/...` |
 | `data/revisado.json` | `data/bitacora/revisado.json` | `GET/PUT /api/persistence/bitacora/revisado` |
 | `data/openai-storage/` | `data/openai-storage/` | `GET/PUT` (metadatos JSON; archivos vía path) |
-| Prompts `.md` | `data/patyia/prompts/catalog/` | sync → PostgreSQL |
+| Prompts `.md` | `data/langlab/prompts/catalog/` | sync → PostgreSQL |
 | `data/api-catalog.json` | generado | `GET /api/agent/manifest` |
 | `public/data/clientesis/` | `data/clientesis-schema/` | inventario (futuro API schema) |
 | `public/data/codegen/` | `data/codegen/` | inventario |

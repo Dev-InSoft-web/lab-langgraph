@@ -1,0 +1,3864 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.760 --> 00:00:03.840 align:start position:0%
+ 
+funciones<00:00:01.660><c> de</c><00:00:01.750><c> contabilidad</c><00:00:02.500><c> a</c><00:00:03.189><c> continuación</c>
+
+00:00:03.840 --> 00:00:03.850 align:start position:0%
+funciones de contabilidad a continuación
+ 
+
+00:00:03.850 --> 00:00:06.120 align:start position:0%
+funciones de contabilidad a continuación
+vamos<00:00:04.240><c> a</c><00:00:04.510><c> revisar</c><00:00:04.899><c> algunas</c><00:00:05.349><c> de</c><00:00:05.470><c> las</c><00:00:05.590><c> funciones</c>
+
+00:00:06.120 --> 00:00:06.130 align:start position:0%
+vamos a revisar algunas de las funciones
+ 
+
+00:00:06.130 --> 00:00:08.669 align:start position:0%
+vamos a revisar algunas de las funciones
+más<00:00:06.340><c> usadas</c><00:00:06.880><c> para</c><00:00:07.450><c> realizar</c><00:00:08.050><c> consultas</c>
+
+00:00:08.669 --> 00:00:08.679 align:start position:0%
+más usadas para realizar consultas
+ 
+
+00:00:08.679 --> 00:00:10.500 align:start position:0%
+más usadas para realizar consultas
+contables<00:00:09.310><c> y</c><00:00:09.490><c> armar</c><00:00:09.790><c> informes</c><00:00:10.390><c> de</c>
+
+00:00:10.500 --> 00:00:10.510 align:start position:0%
+contables y armar informes de
+ 
+
+00:00:10.510 --> 00:00:13.509 align:start position:0%
+contables y armar informes de
+contabilidad<00:00:11.260><c> personalizados</c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+contabilidad personalizados
+ 
+
+00:00:13.519 --> 00:00:16.660 align:start position:0%
+contabilidad personalizados
+función<00:00:14.209><c> saldo</c><00:00:14.599><c> cuenta</c><00:00:15.340><c> esta</c><00:00:16.340><c> función</c>
+
+00:00:16.660 --> 00:00:16.670 align:start position:0%
+función saldo cuenta esta función
+ 
+
+00:00:16.670 --> 00:00:18.790 align:start position:0%
+función saldo cuenta esta función
+determina<00:00:17.240><c> el</c><00:00:17.420><c> saldo</c><00:00:17.750><c> de</c><00:00:17.930><c> una</c><00:00:18.170><c> o</c><00:00:18.199><c> más</c><00:00:18.529><c> cuentas</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+determina el saldo de una o más cuentas
+ 
+
+00:00:18.800 --> 00:00:22.330 align:start position:0%
+determina el saldo de una o más cuentas
+a<00:00:19.279><c> una</c><00:00:19.550><c> fecha</c><00:00:19.880><c> en</c><00:00:19.970><c> específico</c><00:00:20.890><c> antes</c><00:00:21.890><c> que</c><00:00:22.009><c> nada</c>
+
+00:00:22.330 --> 00:00:22.340 align:start position:0%
+a una fecha en específico antes que nada
+ 
+
+00:00:22.340 --> 00:00:24.249 align:start position:0%
+a una fecha en específico antes que nada
+debemos<00:00:22.610><c> tener</c><00:00:22.939><c> en</c><00:00:23.029><c> cuenta</c><00:00:23.419><c> que</c><00:00:23.689><c> el</c><00:00:23.810><c> saldo</c>
+
+00:00:24.249 --> 00:00:24.259 align:start position:0%
+debemos tener en cuenta que el saldo
+ 
+
+00:00:24.259 --> 00:00:26.740 align:start position:0%
+debemos tener en cuenta que el saldo
+contable<00:00:24.500><c> se</c><00:00:24.980><c> calcula</c><00:00:25.520><c> restando</c><00:00:26.239><c> los</c>
+
+00:00:26.740 --> 00:00:26.750 align:start position:0%
+contable se calcula restando los
+ 
+
+00:00:26.750 --> 00:00:29.930 align:start position:0%
+contable se calcula restando los
+créditos<00:00:27.410><c> de</c><00:00:27.590><c> los</c><00:00:27.770><c> débitos</c>
+
+00:00:29.930 --> 00:00:29.940 align:start position:0%
+créditos de los débitos
+ 
+
+00:00:29.940 --> 00:00:32.420 align:start position:0%
+créditos de los débitos
+vamos<00:00:30.660><c> a</c><00:00:30.750><c> iniciar</c><00:00:30.930><c> cargando</c><00:00:31.680><c> la</c><00:00:31.800><c> función</c><00:00:32.220><c> en</c>
+
+00:00:32.420 --> 00:00:32.430 align:start position:0%
+vamos a iniciar cargando la función en
+ 
+
+00:00:32.430 --> 00:00:35.840 align:start position:0%
+vamos a iniciar cargando la función en
+esta<00:00:32.730><c> celda</c><00:00:33.050><c> tenemos</c><00:00:34.050><c> dos</c><00:00:34.200><c> posibilidades</c><00:00:34.850><c> la</c>
+
+00:00:35.840 --> 00:00:35.850 align:start position:0%
+esta celda tenemos dos posibilidades la
+ 
+
+00:00:35.850 --> 00:00:37.370 align:start position:0%
+esta celda tenemos dos posibilidades la
+primera<00:00:35.880><c> es</c><00:00:36.270><c> cargar</c><00:00:36.870><c> la</c><00:00:36.990><c> función</c>
+
+00:00:37.370 --> 00:00:37.380 align:start position:0%
+primera es cargar la función
+ 
+
+00:00:37.380 --> 00:00:39.260 align:start position:0%
+primera es cargar la función
+directamente<00:00:38.190><c> desde</c><00:00:38.550><c> las</c><00:00:38.700><c> funciones</c><00:00:39.150><c> de</c>
+
+00:00:39.260 --> 00:00:39.270 align:start position:0%
+directamente desde las funciones de
+ 
+
+00:00:39.270 --> 00:00:42.140 align:start position:0%
+directamente desde las funciones de
+contable<00:00:39.930><c> para</c><00:00:40.710><c> ello</c><00:00:41.040><c> buscamos</c><00:00:41.460><c> la</c><00:00:41.730><c> función</c>
+
+00:00:42.140 --> 00:00:42.150 align:start position:0%
+contable para ello buscamos la función
+ 
+
+00:00:42.150 --> 00:00:44.860 align:start position:0%
+contable para ello buscamos la función
+en<00:00:42.390><c> este</c><00:00:42.690><c> caso</c><00:00:43.050><c> en</c><00:00:43.170><c> la</c><00:00:43.230><c> pestaña</c><00:00:43.550><c> contabilidad</c>
+
+00:00:44.860 --> 00:00:44.870 align:start position:0%
+en este caso en la pestaña contabilidad
+ 
+
+00:00:44.870 --> 00:00:48.280 align:start position:0%
+en este caso en la pestaña contabilidad
+saldos<00:00:45.870><c> saldo</c><00:00:46.559><c> cuenta</c>
+
+00:00:48.280 --> 00:00:48.290 align:start position:0%
+saldos saldo cuenta
+ 
+
+00:00:48.290 --> 00:00:51.490 align:start position:0%
+saldos saldo cuenta
+otra<00:00:49.040><c> opción</c><00:00:49.310><c> es</c><00:00:49.850><c> escribir</c><00:00:50.570><c> directamente</c><00:00:50.870><c> la</c>
+
+00:00:51.490 --> 00:00:51.500 align:start position:0%
+otra opción es escribir directamente la
+ 
+
+00:00:51.500 --> 00:00:55.500 align:start position:0%
+otra opción es escribir directamente la
+función<00:00:52.300><c> colocamos</c><00:00:53.300><c> el</c><00:00:53.840><c> signo</c><00:00:54.260><c> igual</c>
+
+00:00:55.500 --> 00:00:55.510 align:start position:0%
+función colocamos el signo igual
+ 
+
+00:00:55.510 --> 00:00:59.670 align:start position:0%
+función colocamos el signo igual
+y<00:00:55.989><c> vamos</c><00:00:56.170><c> escribiendo</c><00:00:56.829><c> la</c><00:00:57.160><c> función</c>
+
+00:00:59.670 --> 00:00:59.680 align:start position:0%
+y vamos escribiendo la función
+ 
+
+00:00:59.680 --> 00:01:02.460 align:start position:0%
+y vamos escribiendo la función
+una<00:01:00.220><c> vez</c><00:01:00.370><c> encontramos</c><00:01:00.850><c> la</c><00:01:01.120><c> función</c><00:01:01.570><c> se</c><00:01:02.200><c> abren</c>
+
+00:01:02.460 --> 00:01:02.470 align:start position:0%
+una vez encontramos la función se abren
+ 
+
+00:01:02.470 --> 00:01:05.040 align:start position:0%
+una vez encontramos la función se abren
+los<00:01:02.620><c> paréntesis</c><00:01:03.250><c> y</c><00:01:03.550><c> si</c><00:01:03.700><c> cerramos</c><00:01:04.030><c> se</c><00:01:04.660><c> carga</c><00:01:05.019><c> la</c>
+
+00:01:05.040 --> 00:01:05.050 align:start position:0%
+los paréntesis y si cerramos se carga la
+ 
+
+00:01:05.050 --> 00:01:08.040 align:start position:0%
+los paréntesis y si cerramos se carga la
+función<00:01:05.970><c> podemos</c><00:01:06.970><c> ver</c><00:01:07.150><c> que</c><00:01:07.360><c> esta</c><00:01:07.630><c> función</c>
+
+00:01:08.040 --> 00:01:08.050 align:start position:0%
+función podemos ver que esta función
+ 
+
+00:01:08.050 --> 00:01:10.850 align:start position:0%
+función podemos ver que esta función
+muestra<00:01:08.680><c> la</c><00:01:08.770><c> frase</c><00:01:09.160><c> parámetro</c><00:01:09.850><c> obligatorio</c>
+
+00:01:10.850 --> 00:01:10.860 align:start position:0%
+muestra la frase parámetro obligatorio
+ 
+
+00:01:10.860 --> 00:01:13.650 align:start position:0%
+muestra la frase parámetro obligatorio
+vamos<00:01:11.860><c> a</c><00:01:11.950><c> adentrarnos</c><00:01:12.520><c> en</c><00:01:12.880><c> la</c><00:01:13.030><c> ayuda</c><00:01:13.450><c> para</c>
+
+00:01:13.650 --> 00:01:13.660 align:start position:0%
+vamos a adentrarnos en la ayuda para
+ 
+
+00:01:13.660 --> 00:01:15.810 align:start position:0%
+vamos a adentrarnos en la ayuda para
+verificar<00:01:14.229><c> cuáles</c><00:01:14.650><c> son</c><00:01:14.770><c> los</c><00:01:14.890><c> parámetros</c><00:01:15.280><c> que</c>
+
+00:01:15.810 --> 00:01:15.820 align:start position:0%
+verificar cuáles son los parámetros que
+ 
+
+00:01:15.820 --> 00:01:18.660 align:start position:0%
+verificar cuáles son los parámetros que
+solicita<00:01:16.270><c> esta</c><00:01:16.450><c> función</c><00:01:16.950><c> para</c><00:01:17.950><c> ello</c><00:01:18.340><c> abrimos</c>
+
+00:01:18.660 --> 00:01:18.670 align:start position:0%
+solicita esta función para ello abrimos
+ 
+
+00:01:18.670 --> 00:01:21.620 align:start position:0%
+solicita esta función para ello abrimos
+el<00:01:18.970><c> panel</c><00:01:19.330><c> de</c><00:01:19.479><c> ayuda</c><00:01:19.780><c> con</c><00:01:20.020><c> f1</c>
+
+00:01:21.620 --> 00:01:21.630 align:start position:0%
+el panel de ayuda con f1
+ 
+
+00:01:21.630 --> 00:01:23.990 align:start position:0%
+el panel de ayuda con f1
+vemos<00:01:22.320><c> que</c><00:01:22.439><c> se</c><00:01:22.590><c> abre</c><00:01:22.829><c> directamente</c><00:01:23.610><c> la</c><00:01:23.880><c> ayuda</c>
+
+00:01:23.990 --> 00:01:24.000 align:start position:0%
+vemos que se abre directamente la ayuda
+ 
+
+00:01:24.000 --> 00:01:26.959 align:start position:0%
+vemos que se abre directamente la ayuda
+de<00:01:24.450><c> saldo</c><00:01:24.780><c> cuenta</c><00:01:25.340><c> la</c><00:01:26.340><c> estructura</c><00:01:26.549><c> de</c><00:01:26.880><c> la</c>
+
+00:01:26.959 --> 00:01:26.969 align:start position:0%
+de saldo cuenta la estructura de la
+ 
+
+00:01:26.969 --> 00:01:29.420 align:start position:0%
+de saldo cuenta la estructura de la
+ayuda<00:01:27.270><c> es</c><00:01:27.509><c> la</c><00:01:27.659><c> siguiente</c><00:01:28.100><c> primero</c><00:01:29.100><c> vamos</c><00:01:29.219><c> a</c>
+
+00:01:29.420 --> 00:01:29.430 align:start position:0%
+ayuda es la siguiente primero vamos a
+ 
+
+00:01:29.430 --> 00:01:32.050 align:start position:0%
+ayuda es la siguiente primero vamos a
+encontrar<00:01:29.850><c> una</c><00:01:30.360><c> descripción</c><00:01:30.539><c> de</c><00:01:31.140><c> la</c><00:01:31.259><c> función</c>
+
+00:01:32.050 --> 00:01:32.060 align:start position:0%
+encontrar una descripción de la función
+ 
+
+00:01:32.060 --> 00:01:35.810 align:start position:0%
+encontrar una descripción de la función
+luego<00:01:33.060><c> tenemos</c><00:01:33.329><c> la</c><00:01:33.570><c> sintaxis</c><00:01:34.229><c> que</c><00:01:35.220><c> para</c><00:01:35.520><c> esta</c>
+
+00:01:35.810 --> 00:01:35.820 align:start position:0%
+luego tenemos la sintaxis que para esta
+ 
+
+00:01:35.820 --> 00:01:38.779 align:start position:0%
+luego tenemos la sintaxis que para esta
+función<00:01:36.380><c> solicita</c><00:01:37.380><c> el</c><00:01:38.159><c> y</c><00:01:38.310><c> cuenta</c><00:01:38.759><c> o</c>
+
+00:01:38.779 --> 00:01:38.789 align:start position:0%
+función solicita el y cuenta o
+ 
+
+00:01:38.789 --> 00:01:42.289 align:start position:0%
+función solicita el y cuenta o
+identificador<00:01:39.780><c> de</c><00:01:39.990><c> la</c><00:01:40.079><c> cuenta</c><00:01:40.700><c> la</c><00:01:41.700><c> fecha</c><00:01:41.880><c> fin</c>
+
+00:01:42.289 --> 00:01:42.299 align:start position:0%
+identificador de la cuenta la fecha fin
+ 
+
+00:01:42.299 --> 00:01:44.270 align:start position:0%
+identificador de la cuenta la fecha fin
+es<00:01:42.600><c> decir</c><00:01:42.780><c> la</c><00:01:43.079><c> fecha</c><00:01:43.259><c> hasta</c><00:01:43.649><c> la</c><00:01:43.710><c> cual</c><00:01:43.979><c> se</c>
+
+00:01:44.270 --> 00:01:44.280 align:start position:0%
+es decir la fecha hasta la cual se
+ 
+
+00:01:44.280 --> 00:01:47.590 align:start position:0%
+es decir la fecha hasta la cual se
+traerá<00:01:44.700><c> el</c><00:01:44.789><c> saldo</c><00:01:45.319><c> el</c><00:01:46.319><c> código</c><00:01:46.860><c> de</c><00:01:46.950><c> la</c><00:01:47.039><c> empresa</c>
+
+00:01:47.590 --> 00:01:47.600 align:start position:0%
+traerá el saldo el código de la empresa
+ 
+
+00:01:47.600 --> 00:01:51.230 align:start position:0%
+traerá el saldo el código de la empresa
+el<00:01:48.600><c> código</c><00:01:49.110><c> del</c><00:01:49.229><c> centro</c><00:01:49.649><c> de</c><00:01:49.770><c> costos</c><00:01:50.220><c> y</c><00:01:50.819><c> el</c><00:01:50.909><c> tipo</c>
+
+00:01:51.230 --> 00:01:51.240 align:start position:0%
+el código del centro de costos y el tipo
+ 
+
+00:01:51.240 --> 00:01:54.490 align:start position:0%
+el código del centro de costos y el tipo
+de<00:01:51.360><c> contabilización</c>
+
+00:01:54.490 --> 00:01:54.500 align:start position:0%
+ 
+ 
+
+00:01:54.500 --> 00:01:57.220 align:start position:0%
+ 
+si<00:01:54.980><c> bajamos</c><00:01:55.280><c> un</c><00:01:55.520><c> poco</c><00:01:55.910><c> en</c><00:01:56.000><c> la</c><00:01:56.090><c> ayuda</c><00:01:56.450><c> vamos</c><00:01:57.140><c> a</c>
+
+00:01:57.220 --> 00:01:57.230 align:start position:0%
+si bajamos un poco en la ayuda vamos a
+ 
+
+00:01:57.230 --> 00:01:59.860 align:start position:0%
+si bajamos un poco en la ayuda vamos a
+encontrar<00:01:57.620><c> una</c><00:01:57.950><c> tabla</c><00:01:58.400><c> donde</c><00:01:58.850><c> está</c><00:01:59.060><c> cada</c><00:01:59.630><c> uno</c>
+
+00:01:59.860 --> 00:01:59.870 align:start position:0%
+encontrar una tabla donde está cada uno
+ 
+
+00:01:59.870 --> 00:02:03.370 align:start position:0%
+encontrar una tabla donde está cada uno
+de<00:02:00.230><c> los</c><00:02:00.410><c> parámetros</c><00:02:00.820><c> y</c><00:02:01.820><c> su</c><00:02:02.000><c> información</c>
+
+00:02:03.370 --> 00:02:03.380 align:start position:0%
+de los parámetros y su información
+ 
+
+00:02:03.380 --> 00:02:06.350 align:start position:0%
+de los parámetros y su información
+tenemos<00:02:03.740><c> el</c><00:02:03.860><c> argumento</c><00:02:04.460><c> del</c><00:02:04.580><c> parámetro</c>
+
+00:02:06.350 --> 00:02:06.360 align:start position:0%
+tenemos el argumento del parámetro
+ 
+
+00:02:06.360 --> 00:02:09.020 align:start position:0%
+tenemos el argumento del parámetro
+el<00:02:06.840><c> formato</c><00:02:07.470><c> en</c><00:02:07.680><c> el</c><00:02:07.800><c> que</c><00:02:07.890><c> se</c><00:02:07.980><c> debe</c><00:02:08.340><c> cargar</c><00:02:08.640><c> que</c>
+
+00:02:09.020 --> 00:02:09.030 align:start position:0%
+el formato en el que se debe cargar que
+ 
+
+00:02:09.030 --> 00:02:13.210 align:start position:0%
+el formato en el que se debe cargar que
+puede<00:02:09.330><c> ser</c><00:02:09.539><c> alfanumérico</c><00:02:10.820><c> numérico</c><00:02:11.820><c> de</c><00:02:12.510><c> fecha</c>
+
+00:02:13.210 --> 00:02:13.220 align:start position:0%
+puede ser alfanumérico numérico de fecha
+ 
+
+00:02:13.220 --> 00:02:16.130 align:start position:0%
+puede ser alfanumérico numérico de fecha
+tenemos<00:02:14.220><c> la</c><00:02:14.580><c> descripción</c><00:02:15.120><c> de</c><00:02:15.420><c> cada</c><00:02:15.720><c> uno</c><00:02:16.020><c> de</c>
+
+00:02:16.130 --> 00:02:16.140 align:start position:0%
+tenemos la descripción de cada uno de
+ 
+
+00:02:16.140 --> 00:02:19.210 align:start position:0%
+tenemos la descripción de cada uno de
+los<00:02:16.260><c> parámetros</c><00:02:16.770><c> y</c><00:02:17.700><c> el</c><00:02:17.790><c> valor</c><00:02:18.180><c> si</c><00:02:18.540><c> es</c><00:02:18.660><c> vacío</c>
+
+00:02:19.210 --> 00:02:19.220 align:start position:0%
+los parámetros y el valor si es vacío
+ 
+
+00:02:19.220 --> 00:02:21.770 align:start position:0%
+los parámetros y el valor si es vacío
+para<00:02:20.220><c> los</c><00:02:20.370><c> parámetros</c><00:02:20.790><c> que</c><00:02:21.060><c> son</c><00:02:21.210><c> requeridos</c>
+
+00:02:21.770 --> 00:02:21.780 align:start position:0%
+para los parámetros que son requeridos
+ 
+
+00:02:21.780 --> 00:02:24.890 align:start position:0%
+para los parámetros que son requeridos
+no<00:02:22.380><c> hay</c><00:02:22.530><c> valor</c><00:02:22.860><c> vacío</c><00:02:23.250><c> sino</c><00:02:24.120><c> que</c><00:02:24.390><c> el</c><00:02:24.480><c> parámetro</c>
+
+00:02:24.890 --> 00:02:24.900 align:start position:0%
+no hay valor vacío sino que el parámetro
+ 
+
+00:02:24.900 --> 00:02:26.990 align:start position:0%
+no hay valor vacío sino que el parámetro
+siempre<00:02:25.500><c> debe</c><00:02:25.890><c> indicarse</c><00:02:26.370><c> dentro</c><00:02:26.790><c> de</c><00:02:26.880><c> la</c>
+
+00:02:26.990 --> 00:02:27.000 align:start position:0%
+siempre debe indicarse dentro de la
+ 
+
+00:02:27.000 --> 00:02:28.360 align:start position:0%
+siempre debe indicarse dentro de la
+función
+
+00:02:28.360 --> 00:02:28.370 align:start position:0%
+función
+ 
+
+00:02:28.370 --> 00:02:30.970 align:start position:0%
+función
+los<00:02:28.940><c> parámetros</c><00:02:29.330><c> que</c><00:02:29.599><c> tienen</c><00:02:29.870><c> asterisco</c><00:02:30.650><c> son</c>
+
+00:02:30.970 --> 00:02:30.980 align:start position:0%
+los parámetros que tienen asterisco son
+ 
+
+00:02:30.980 --> 00:02:32.949 align:start position:0%
+los parámetros que tienen asterisco son
+parámetros<00:02:31.489><c> opcionales</c>
+
+00:02:32.949 --> 00:02:32.959 align:start position:0%
+parámetros opcionales
+ 
+
+00:02:32.959 --> 00:02:35.259 align:start position:0%
+parámetros opcionales
+es<00:02:33.019><c> decir</c><00:02:33.379><c> que</c><00:02:33.650><c> si</c><00:02:33.799><c> no</c><00:02:33.920><c> se</c><00:02:34.069><c> indican</c><00:02:34.489><c> el</c><00:02:34.730><c> sistema</c>
+
+00:02:35.259 --> 00:02:35.269 align:start position:0%
+es decir que si no se indican el sistema
+ 
+
+00:02:35.269 --> 00:02:38.199 align:start position:0%
+es decir que si no se indican el sistema
+asume<00:02:35.900><c> un</c><00:02:36.080><c> valor</c><00:02:36.349><c> por</c><00:02:37.099><c> ejemplo</c><00:02:37.610><c> en</c><00:02:37.819><c> la</c><00:02:37.909><c> fecha</c>
+
+00:02:38.199 --> 00:02:38.209 align:start position:0%
+asume un valor por ejemplo en la fecha
+ 
+
+00:02:38.209 --> 00:02:40.570 align:start position:0%
+asume un valor por ejemplo en la fecha
+fin<00:02:38.590><c> establece</c><00:02:39.590><c> la</c><00:02:39.709><c> fecha</c><00:02:39.890><c> de</c><00:02:40.129><c> trabajo</c>
+
+00:02:40.570 --> 00:02:40.580 align:start position:0%
+fin establece la fecha de trabajo
+ 
+
+00:02:40.580 --> 00:02:44.290 align:start position:0%
+fin establece la fecha de trabajo
+configurada<00:02:41.269><c> en</c><00:02:41.299><c> el</c><00:02:41.420><c> momento</c>
+
+00:02:44.290 --> 00:02:44.300 align:start position:0%
+ 
+ 
+
+00:02:44.300 --> 00:02:46.600 align:start position:0%
+ 
+más<00:02:44.870><c> adelante</c><00:02:45.440><c> en</c><00:02:45.500><c> la</c><00:02:45.590><c> función</c><00:02:46.040><c> vamos</c><00:02:46.520><c> a</c>
+
+00:02:46.600 --> 00:02:46.610 align:start position:0%
+más adelante en la función vamos a
+ 
+
+00:02:46.610 --> 00:02:48.400 align:start position:0%
+más adelante en la función vamos a
+encontrar<00:02:47.030><c> un</c><00:02:47.300><c> ejemplo</c><00:02:47.780><c> totalmente</c>
+
+00:02:48.400 --> 00:02:48.410 align:start position:0%
+encontrar un ejemplo totalmente
+ 
+
+00:02:48.410 --> 00:02:51.370 align:start position:0%
+encontrar un ejemplo totalmente
+explicado<00:02:48.980><c> de</c><00:02:49.550><c> cómo</c><00:02:49.820><c> se</c><00:02:49.940><c> puede</c><00:02:50.240><c> utilizar</c><00:02:50.380><c> esta</c>
+
+00:02:51.370 --> 00:02:51.380 align:start position:0%
+explicado de cómo se puede utilizar esta
+ 
+
+00:02:51.380 --> 00:02:53.080 align:start position:0%
+explicado de cómo se puede utilizar esta
+función
+
+00:02:53.080 --> 00:02:53.090 align:start position:0%
+función
+ 
+
+00:02:53.090 --> 00:02:55.390 align:start position:0%
+función
+los<00:02:53.629><c> parámetros</c><00:02:53.989><c> que</c><00:02:54.260><c> solicita</c><00:02:54.739><c> esta</c><00:02:54.950><c> función</c>
+
+00:02:55.390 --> 00:02:55.400 align:start position:0%
+los parámetros que solicita esta función
+ 
+
+00:02:55.400 --> 00:02:58.509 align:start position:0%
+los parámetros que solicita esta función
+los<00:02:55.970><c> hemos</c><00:02:56.300><c> indicado</c><00:02:56.569><c> uno</c><00:02:57.290><c> a</c><00:02:57.319><c> uno</c><00:02:57.620><c> en</c><00:02:57.830><c> cada</c><00:02:58.250><c> una</c>
+
+00:02:58.509 --> 00:02:58.519 align:start position:0%
+los hemos indicado uno a uno en cada una
+ 
+
+00:02:58.519 --> 00:03:01.540 align:start position:0%
+los hemos indicado uno a uno en cada una
+de<00:02:58.550><c> estas</c><00:02:58.910><c> celdas</c><00:02:59.620><c> lo</c><00:03:00.620><c> que</c><00:03:00.650><c> vamos</c><00:03:01.040><c> a</c><00:03:01.099><c> hacer</c><00:03:01.310><c> es</c>
+
+00:03:01.540 --> 00:03:01.550 align:start position:0%
+de estas celdas lo que vamos a hacer es
+ 
+
+00:03:01.550 --> 00:03:03.820 align:start position:0%
+de estas celdas lo que vamos a hacer es
+referenciar<00:03:02.180><c> estos</c><00:03:02.599><c> parámetros</c><00:03:03.019><c> dentro</c><00:03:03.739><c> de</c>
+
+00:03:03.820 --> 00:03:03.830 align:start position:0%
+referenciar estos parámetros dentro de
+ 
+
+00:03:03.830 --> 00:03:06.830 align:start position:0%
+referenciar estos parámetros dentro de
+la<00:03:03.950><c> función</c>
+
+00:03:06.830 --> 00:03:06.840 align:start position:0%
+ 
+ 
+
+00:03:06.840 --> 00:03:09.059 align:start position:0%
+ 
+recordemos<00:03:07.840><c> que</c><00:03:07.959><c> cada</c><00:03:08.319><c> una</c><00:03:08.560><c> de</c><00:03:08.650><c> las</c><00:03:08.769><c> celdas</c>
+
+00:03:09.059 --> 00:03:09.069 align:start position:0%
+recordemos que cada una de las celdas
+ 
+
+00:03:09.069 --> 00:03:12.660 align:start position:0%
+recordemos que cada una de las celdas
+debe<00:03:09.909><c> ser</c><00:03:10.120><c> seleccionada</c><00:03:10.840><c> con</c><00:03:11.079><c> el</c><00:03:11.200><c> mouse</c><00:03:11.670><c> y</c>
+
+00:03:12.660 --> 00:03:12.670 align:start position:0%
+debe ser seleccionada con el mouse y
+ 
+
+00:03:12.670 --> 00:03:15.030 align:start position:0%
+debe ser seleccionada con el mouse y
+cada<00:03:13.030><c> parámetro</c><00:03:13.329><c> va</c><00:03:13.840><c> separado</c><00:03:14.469><c> de</c><00:03:14.620><c> punto</c><00:03:15.010><c> y</c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+cada parámetro va separado de punto y
+ 
+
+00:03:15.040 --> 00:03:27.040 align:start position:0%
+cada parámetro va separado de punto y
+coma
+
+00:03:27.040 --> 00:03:27.050 align:start position:0%
+ 
+ 
+
+00:03:27.050 --> 00:03:29.200 align:start position:0%
+ 
+una<00:03:27.650><c> vez</c><00:03:27.800><c> cargados</c><00:03:28.250><c> los</c><00:03:28.310><c> parámetros</c><00:03:29.000><c> la</c>
+
+00:03:29.200 --> 00:03:29.210 align:start position:0%
+una vez cargados los parámetros la
+ 
+
+00:03:29.210 --> 00:03:31.480 align:start position:0%
+una vez cargados los parámetros la
+función<00:03:29.600><c> nos</c><00:03:29.750><c> sigue</c><00:03:29.990><c> mostrando</c><00:03:30.490><c> parámetro</c>
+
+00:03:31.480 --> 00:03:31.490 align:start position:0%
+función nos sigue mostrando parámetro
+ 
+
+00:03:31.490 --> 00:03:34.810 align:start position:0%
+función nos sigue mostrando parámetro
+obligatorio<00:03:32.180><c> ya</c><00:03:32.900><c> que</c><00:03:32.990><c> el</c><00:03:33.470><c> parámetro</c><00:03:33.980><c> y</c><00:03:34.190><c> cuenta</c>
+
+00:03:34.810 --> 00:03:34.820 align:start position:0%
+obligatorio ya que el parámetro y cuenta
+ 
+
+00:03:34.820 --> 00:03:37.780 align:start position:0%
+obligatorio ya que el parámetro y cuenta
+es<00:03:35.060><c> un</c><00:03:35.210><c> parámetro</c><00:03:35.660><c> obligatorio</c><00:03:36.700><c> vamos</c><00:03:37.700><c> a</c>
+
+00:03:37.780 --> 00:03:37.790 align:start position:0%
+es un parámetro obligatorio vamos a
+ 
+
+00:03:37.790 --> 00:03:39.520 align:start position:0%
+es un parámetro obligatorio vamos a
+indicar<00:03:38.000><c> una</c><00:03:38.330><c> cuenta</c><00:03:38.720><c> por</c><00:03:38.930><c> ejemplo</c><00:03:39.410><c> en</c><00:03:39.470><c> la</c>
+
+00:03:39.520 --> 00:03:39.530 align:start position:0%
+indicar una cuenta por ejemplo en la
+ 
+
+00:03:39.530 --> 00:03:41.870 align:start position:0%
+indicar una cuenta por ejemplo en la
+cuenta<00:03:39.920><c> 1</c><00:03:40.250><c> del</c><00:03:40.520><c> activo</c>
+
+00:03:41.870 --> 00:03:41.880 align:start position:0%
+cuenta 1 del activo
+ 
+
+00:03:41.880 --> 00:03:44.450 align:start position:0%
+cuenta 1 del activo
+cargamos<00:03:42.660><c> la</c><00:03:42.810><c> cuenta</c><00:03:43.230><c> y</c><00:03:43.980><c> vemos</c><00:03:44.310><c> que</c>
+
+00:03:44.450 --> 00:03:44.460 align:start position:0%
+cargamos la cuenta y vemos que
+ 
+
+00:03:44.460 --> 00:03:46.580 align:start position:0%
+cargamos la cuenta y vemos que
+inmediatamente<00:03:44.940><c> la</c><00:03:45.360><c> función</c><00:03:45.780><c> en</c><00:03:45.960><c> este</c><00:03:46.260><c> caso</c>
+
+00:03:46.580 --> 00:03:46.590 align:start position:0%
+inmediatamente la función en este caso
+ 
+
+00:03:46.590 --> 00:03:49.090 align:start position:0%
+inmediatamente la función en este caso
+nos<00:03:46.740><c> arroja</c><00:03:47.160><c> un</c><00:03:47.280><c> valor</c><00:03:47.550><c> este</c><00:03:48.510><c> valores</c>
+
+00:03:49.090 --> 00:03:49.100 align:start position:0%
+nos arroja un valor este valores
+ 
+
+00:03:49.100 --> 00:03:52.040 align:start position:0%
+nos arroja un valor este valores
+específicamente<00:03:50.100><c> el</c><00:03:50.580><c> saldo</c><00:03:51.000><c> de</c><00:03:51.210><c> la</c><00:03:51.300><c> cuenta</c><00:03:51.450><c> 1</c>
+
+00:03:52.040 --> 00:03:52.050 align:start position:0%
+específicamente el saldo de la cuenta 1
+ 
+
+00:03:52.050 --> 00:03:55.040 align:start position:0%
+específicamente el saldo de la cuenta 1
+es<00:03:52.320><c> decir</c><00:03:52.500><c> la</c><00:03:52.890><c> cuenta</c><00:03:53.340><c> del</c><00:03:53.490><c> activo</c><00:03:53.940><c> a</c><00:03:54.630><c> la</c><00:03:54.750><c> fecha</c>
+
+00:03:55.040 --> 00:03:55.050 align:start position:0%
+es decir la cuenta del activo a la fecha
+ 
+
+00:03:55.050 --> 00:03:58.430 align:start position:0%
+es decir la cuenta del activo a la fecha
+fin<00:03:55.260><c> que</c><00:03:55.440><c> sería</c><00:03:55.770><c> la</c><00:03:56.220><c> fecha</c><00:03:56.400><c> de</c><00:03:56.700><c> trabajo</c><00:03:57.440><c> para</c>
+
+00:03:58.430 --> 00:03:58.440 align:start position:0%
+fin que sería la fecha de trabajo para
+ 
+
+00:03:58.440 --> 00:04:00.500 align:start position:0%
+fin que sería la fecha de trabajo para
+la<00:03:58.560><c> empresa</c><00:03:59.040><c> de</c><00:03:59.280><c> trabajo</c><00:03:59.820><c> que</c><00:03:59.970><c> sería</c><00:04:00.300><c> la</c>
+
+00:04:00.500 --> 00:04:00.510 align:start position:0%
+la empresa de trabajo que sería la
+ 
+
+00:04:00.510 --> 00:04:03.860 align:start position:0%
+la empresa de trabajo que sería la
+empresa<00:04:00.900><c> 1</c><00:04:01.200><c> demo</c><00:04:01.620><c> computadores</c><00:04:02.450><c> para</c><00:04:03.450><c> todos</c>
+
+00:04:03.860 --> 00:04:03.870 align:start position:0%
+empresa 1 demo computadores para todos
+ 
+
+00:04:03.870 --> 00:04:05.900 align:start position:0%
+empresa 1 demo computadores para todos
+los<00:04:03.990><c> centros</c><00:04:04.350><c> de</c><00:04:04.410><c> costos</c><00:04:04.830><c> y</c><00:04:05.310><c> en</c><00:04:05.400><c> tipo</c><00:04:05.640><c> de</c>
+
+00:04:05.900 --> 00:04:05.910 align:start position:0%
+los centros de costos y en tipo de
+ 
+
+00:04:05.910 --> 00:04:07.880 align:start position:0%
+los centros de costos y en tipo de
+contabilización<00:04:06.660><c> asume</c><00:04:07.560><c> como</c>
+
+00:04:07.880 --> 00:04:07.890 align:start position:0%
+contabilización asume como
+ 
+
+00:04:07.890 --> 00:04:09.950 align:start position:0%
+contabilización asume como
+contabilización<00:04:08.790><c> la</c><00:04:09.150><c> que</c><00:04:09.270><c> se</c><00:04:09.420><c> esté</c><00:04:09.600><c> manejando</c>
+
+00:04:09.950 --> 00:04:09.960 align:start position:0%
+contabilización la que se esté manejando
+ 
+
+00:04:09.960 --> 00:04:12.950 align:start position:0%
+contabilización la que se esté manejando
+por<00:04:10.260><c> defecto</c><00:04:10.800><c> en</c><00:04:11.700><c> este</c><00:04:11.940><c> caso</c><00:04:12.240><c> nuestra</c><00:04:12.570><c> empresa</c>
+
+00:04:12.950 --> 00:04:12.960 align:start position:0%
+por defecto en este caso nuestra empresa
+ 
+
+00:04:12.960 --> 00:04:15.380 align:start position:0%
+por defecto en este caso nuestra empresa
+maneja<00:04:13.320><c> por</c><00:04:13.500><c> defecto</c><00:04:14.040><c> la</c><00:04:14.610><c> contabilización</c>
+
+00:04:15.380 --> 00:04:15.390 align:start position:0%
+maneja por defecto la contabilización
+ 
+
+00:04:15.390 --> 00:04:17.210 align:start position:0%
+maneja por defecto la contabilización
+nif
+
+00:04:17.210 --> 00:04:17.220 align:start position:0%
+nif
+ 
+
+00:04:17.220 --> 00:04:19.130 align:start position:0%
+nif
+vamos<00:04:17.850><c> a</c><00:04:17.940><c> hacer</c><00:04:18.060><c> uso</c><00:04:18.180><c> de</c><00:04:18.299><c> otras</c><00:04:18.630><c> funciones</c><00:04:19.049><c> de</c>
+
+00:04:19.130 --> 00:04:19.140 align:start position:0%
+vamos a hacer uso de otras funciones de
+ 
+
+00:04:19.140 --> 00:04:21.229 align:start position:0%
+vamos a hacer uso de otras funciones de
+contras<00:04:19.500><c> pib</c><00:04:19.620><c> y</c><00:04:19.769><c> como</c><00:04:20.370><c> son</c><00:04:20.549><c> las</c><00:04:20.700><c> funciones</c><00:04:20.910><c> de</c>
+
+00:04:21.229 --> 00:04:21.239 align:start position:0%
+contras pib y como son las funciones de
+ 
+
+00:04:21.239 --> 00:04:23.480 align:start position:0%
+contras pib y como son las funciones de
+atributo<00:04:21.750><c> que</c><00:04:21.930><c> traen</c><00:04:22.320><c> el</c><00:04:22.410><c> dato</c><00:04:22.740><c> específico</c><00:04:23.370><c> de</c>
+
+00:04:23.480 --> 00:04:23.490 align:start position:0%
+atributo que traen el dato específico de
+ 
+
+00:04:23.490 --> 00:04:25.910 align:start position:0%
+atributo que traen el dato específico de
+algún<00:04:23.730><c> registro</c><00:04:24.260><c> vamos</c><00:04:25.260><c> a</c><00:04:25.350><c> utilizar</c><00:04:25.770><c> el</c>
+
+00:04:25.910 --> 00:04:25.920 align:start position:0%
+algún registro vamos a utilizar el
+ 
+
+00:04:25.920 --> 00:04:28.040 align:start position:0%
+algún registro vamos a utilizar el
+atributo<00:04:26.340><c> nombre</c><00:04:26.820><c> cuenta</c><00:04:27.150><c> para</c><00:04:27.390><c> que</c><00:04:27.510><c> contacte</c>
+
+00:04:28.040 --> 00:04:28.050 align:start position:0%
+atributo nombre cuenta para que contacte
+ 
+
+00:04:28.050 --> 00:04:30.620 align:start position:0%
+atributo nombre cuenta para que contacte
+el<00:04:28.170><c> nos</c><00:04:28.290><c> traiga</c><00:04:28.680><c> en</c><00:04:29.190><c> esta</c><00:04:29.490><c> celda</c><00:04:29.880><c> el</c><00:04:30.120><c> nombre</c><00:04:30.540><c> de</c>
+
+00:04:30.620 --> 00:04:30.630 align:start position:0%
+el nos traiga en esta celda el nombre de
+ 
+
+00:04:30.630 --> 00:04:33.800 align:start position:0%
+el nos traiga en esta celda el nombre de
+la<00:04:30.750><c> cuenta</c><00:04:32.000><c> recordemos</c><00:04:33.000><c> que</c><00:04:33.120><c> la</c><00:04:33.240><c> función</c><00:04:33.660><c> la</c>
+
+00:04:33.800 --> 00:04:33.810 align:start position:0%
+la cuenta recordemos que la función la
+ 
+
+00:04:33.810 --> 00:04:36.140 align:start position:0%
+la cuenta recordemos que la función la
+podemos<00:04:34.140><c> cargar</c><00:04:34.680><c> directamente</c><00:04:35.520><c> del</c><00:04:35.670><c> panel</c><00:04:36.000><c> de</c>
+
+00:04:36.140 --> 00:04:36.150 align:start position:0%
+podemos cargar directamente del panel de
+ 
+
+00:04:36.150 --> 00:04:39.710 align:start position:0%
+podemos cargar directamente del panel de
+funciones<00:04:36.720><c> o</c><00:04:37.170><c> podemos</c><00:04:37.470><c> escribirla</c><00:04:38.720><c> cualquier</c>
+
+00:04:39.710 --> 00:04:39.720 align:start position:0%
+funciones o podemos escribirla cualquier
+ 
+
+00:04:39.720 --> 00:04:41.990 align:start position:0%
+funciones o podemos escribirla cualquier
+función<00:04:40.110><c> siempre</c><00:04:40.440><c> debe</c><00:04:40.830><c> estar</c><00:04:41.100><c> precedida</c><00:04:41.820><c> del</c>
+
+00:04:41.990 --> 00:04:42.000 align:start position:0%
+función siempre debe estar precedida del
+ 
+
+00:04:42.000 --> 00:04:43.730 align:start position:0%
+función siempre debe estar precedida del
+signo<00:04:42.390><c> igual</c>
+
+00:04:43.730 --> 00:04:43.740 align:start position:0%
+signo igual
+ 
+
+00:04:43.740 --> 00:04:48.239 align:start position:0%
+signo igual
+colocamos<00:04:44.520><c> la</c><00:04:45.389><c> función</c>
+
+00:04:48.239 --> 00:04:48.249 align:start position:0%
+ 
+ 
+
+00:04:48.249 --> 00:04:50.740 align:start position:0%
+ 
+las<00:04:48.729><c> seleccionamos</c>
+
+00:04:50.740 --> 00:04:50.750 align:start position:0%
+las seleccionamos
+ 
+
+00:04:50.750 --> 00:04:53.480 align:start position:0%
+las seleccionamos
+cerramos<00:04:51.470><c> el</c><00:04:51.590><c> paréntesis</c>
+
+00:04:53.480 --> 00:04:53.490 align:start position:0%
+cerramos el paréntesis
+ 
+
+00:04:53.490 --> 00:04:56.689 align:start position:0%
+cerramos el paréntesis
+enter<00:04:54.090><c> en</c><00:04:54.870><c> este</c><00:04:55.139><c> caso</c><00:04:55.530><c> la</c><00:04:55.949><c> función</c><00:04:56.370><c> tiene</c><00:04:56.490><c> un</c>
+
+00:04:56.689 --> 00:04:56.699 align:start position:0%
+enter en este caso la función tiene un
+ 
+
+00:04:56.699 --> 00:04:58.610 align:start position:0%
+enter en este caso la función tiene un
+parámetro<00:04:57.090><c> obligatorio</c><00:04:57.840><c> vamos</c><00:04:58.380><c> a</c><00:04:58.470><c> dar</c>
+
+00:04:58.610 --> 00:04:58.620 align:start position:0%
+parámetro obligatorio vamos a dar
+ 
+
+00:04:58.620 --> 00:05:01.439 align:start position:0%
+parámetro obligatorio vamos a dar
+nuevamente<00:04:58.860><c> f1</c>
+
+00:05:01.439 --> 00:05:01.449 align:start position:0%
+nuevamente f1
+ 
+
+00:05:01.449 --> 00:05:04.339 align:start position:0%
+nuevamente f1
+y<00:05:01.930><c> en</c><00:05:01.990><c> este</c><00:05:02.289><c> caso</c><00:05:02.620><c> la</c><00:05:02.770><c> ayuda</c><00:05:02.860><c> se</c><00:05:03.279><c> devuelve</c><00:05:03.789><c> para</c>
+
+00:05:04.339 --> 00:05:04.349 align:start position:0%
+y en este caso la ayuda se devuelve para
+ 
+
+00:05:04.349 --> 00:05:08.369 align:start position:0%
+y en este caso la ayuda se devuelve para
+nombre<00:05:05.349><c> cuenta</c><00:05:06.210><c> esta</c><00:05:07.210><c> función</c><00:05:07.629><c> nos</c><00:05:07.779><c> solicita</c>
+
+00:05:08.369 --> 00:05:08.379 align:start position:0%
+nombre cuenta esta función nos solicita
+ 
+
+00:05:08.379 --> 00:05:10.890 align:start position:0%
+nombre cuenta esta función nos solicita
+el<00:05:08.949><c> identificador</c><00:05:09.699><c> de</c><00:05:09.819><c> la</c><00:05:09.939><c> cuenta</c><00:05:10.389><c> que</c><00:05:10.749><c> es</c>
+
+00:05:10.890 --> 00:05:10.900 align:start position:0%
+el identificador de la cuenta que es
+ 
+
+00:05:10.900 --> 00:05:14.390 align:start position:0%
+el identificador de la cuenta que es
+obligatorio<00:05:11.620><c> y</c><00:05:12.219><c> el</c><00:05:12.339><c> tipo</c><00:05:12.699><c> de</c><00:05:12.819><c> contabilización</c>
+
+00:05:14.390 --> 00:05:14.400 align:start position:0%
+obligatorio y el tipo de contabilización
+ 
+
+00:05:14.400 --> 00:05:16.709 align:start position:0%
+obligatorio y el tipo de contabilización
+vamos<00:05:15.400><c> a</c><00:05:15.460><c> referenciar</c><00:05:15.999><c> la</c><00:05:16.150><c> cuenta</c><00:05:16.539><c> y</c><00:05:16.569><c> el</c>
+
+00:05:16.709 --> 00:05:16.719 align:start position:0%
+vamos a referenciar la cuenta y el
+ 
+
+00:05:16.719 --> 00:05:18.809 align:start position:0%
+vamos a referenciar la cuenta y el
+argumento<00:05:17.379><c> de</c><00:05:17.710><c> tipo</c><00:05:18.039><c> de</c><00:05:18.129><c> contabilización</c>
+
+00:05:18.809 --> 00:05:18.819 align:start position:0%
+argumento de tipo de contabilización
+ 
+
+00:05:18.819 --> 00:05:20.999 align:start position:0%
+argumento de tipo de contabilización
+desde<00:05:19.689><c> las</c><00:05:19.839><c> celdas</c><00:05:20.110><c> que</c><00:05:20.259><c> tenemos</c><00:05:20.710><c> para</c><00:05:20.979><c> la</c>
+
+00:05:20.999 --> 00:05:21.009 align:start position:0%
+desde las celdas que tenemos para la
+ 
+
+00:05:21.009 --> 00:05:35.690 align:start position:0%
+desde las celdas que tenemos para la
+función<00:05:21.550><c> saldo</c><00:05:22.120><c> cuenta</c>
+
+00:05:35.690 --> 00:05:35.700 align:start position:0%
+ 
+ 
+
+00:05:35.700 --> 00:05:38.120 align:start position:0%
+ 
+como<00:05:36.360><c> vemos</c><00:05:36.660><c> nos</c><00:05:36.840><c> trae</c><00:05:37.110><c> el</c><00:05:37.470><c> nombre</c><00:05:37.860><c> de</c><00:05:37.980><c> esta</c>
+
+00:05:38.120 --> 00:05:38.130 align:start position:0%
+como vemos nos trae el nombre de esta
+ 
+
+00:05:38.130 --> 00:05:40.490 align:start position:0%
+como vemos nos trae el nombre de esta
+cuenta<00:05:38.400><c> para</c><00:05:38.730><c> la</c><00:05:38.850><c> contabilización</c><00:05:39.480><c> en</c><00:05:40.200><c> este</c>
+
+00:05:40.490 --> 00:05:40.500 align:start position:0%
+cuenta para la contabilización en este
+ 
+
+00:05:40.500 --> 00:05:43.400 align:start position:0%
+cuenta para la contabilización en este
+caso<00:05:40.860><c> ni</c><00:05:41.040><c> para</c><00:05:41.820><c> algunas</c><00:05:42.150><c> cuentas</c><00:05:42.600><c> el</c><00:05:42.960><c> nombre</c>
+
+00:05:43.400 --> 00:05:43.410 align:start position:0%
+caso ni para algunas cuentas el nombre
+ 
+
+00:05:43.410 --> 00:05:44.750 align:start position:0%
+caso ni para algunas cuentas el nombre
+en<00:05:43.500><c> contabilización</c><00:05:44.250><c> local</c><00:05:44.550><c> y</c>
+
+00:05:44.750 --> 00:05:44.760 align:start position:0%
+en contabilización local y
+ 
+
+00:05:44.760 --> 00:05:47.810 align:start position:0%
+en contabilización local y
+contabilización<00:05:45.420><c> nif</c><00:05:45.840><c> es</c><00:05:46.230><c> diferente</c><00:05:46.920><c> por</c>
+
+00:05:47.810 --> 00:05:47.820 align:start position:0%
+contabilización nif es diferente por
+ 
+
+00:05:47.820 --> 00:05:50.510 align:start position:0%
+contabilización nif es diferente por
+ejemplo<00:05:48.300><c> la</c><00:05:48.450><c> cuenta</c><00:05:48.660><c> 11</c><00:05:49.260><c> disponible</c><00:05:50.040><c> tiene</c><00:05:50.220><c> un</c>
+
+00:05:50.510 --> 00:05:50.520 align:start position:0%
+ejemplo la cuenta 11 disponible tiene un
+ 
+
+00:05:50.520 --> 00:05:52.790 align:start position:0%
+ejemplo la cuenta 11 disponible tiene un
+nombre<00:05:50.880><c> diferente</c><00:05:51.120><c> en</c><00:05:51.930><c> contabilización</c>
+
+00:05:52.790 --> 00:05:52.800 align:start position:0%
+nombre diferente en contabilización
+ 
+
+00:05:52.800 --> 00:05:55.640 align:start position:0%
+nombre diferente en contabilización
+local<00:05:53.100><c> y</c><00:05:53.250><c> en</c><00:05:53.310><c> contabilización</c><00:05:54.150><c> if</c><00:05:54.560><c> vamos</c><00:05:55.560><c> a</c>
+
+00:05:55.640 --> 00:05:55.650 align:start position:0%
+local y en contabilización if vamos a
+ 
+
+00:05:55.650 --> 00:05:57.530 align:start position:0%
+local y en contabilización if vamos a
+llamar<00:05:55.920><c> la</c><00:05:56.070><c> cuenta</c><00:05:56.430><c> directamente</c><00:05:57.120><c> desde</c><00:05:57.450><c> el</c>
+
+00:05:57.530 --> 00:05:57.540 align:start position:0%
+llamar la cuenta directamente desde el
+ 
+
+00:05:57.540 --> 00:05:59.540 align:start position:0%
+llamar la cuenta directamente desde el
+seleccionador<00:05:58.170><c> de</c><00:05:58.320><c> cuentas</c><00:05:58.740><c> vamos</c><00:05:59.250><c> a</c><00:05:59.460><c> la</c>
+
+00:05:59.540 --> 00:05:59.550 align:start position:0%
+seleccionador de cuentas vamos a la
+ 
+
+00:05:59.550 --> 00:06:03.129 align:start position:0%
+seleccionador de cuentas vamos a la
+pestaña<00:06:00.000><c> con</c><00:06:00.180><c> está</c><00:06:00.360><c> pyme</c><00:06:01.100><c> cuentas</c>
+
+00:06:03.129 --> 00:06:03.139 align:start position:0%
+pestaña con está pyme cuentas
+ 
+
+00:06:03.139 --> 00:06:06.909 align:start position:0%
+pestaña con está pyme cuentas
+y<00:06:03.620><c> buscamos</c><00:06:03.979><c> la</c><00:06:04.310><c> cuenta</c><00:06:04.729><c> 11</c><00:06:05.509><c> que</c><00:06:06.199><c> ni</c><00:06:06.590><c> es</c>
+
+00:06:06.909 --> 00:06:06.919 align:start position:0%
+y buscamos la cuenta 11 que ni es
+ 
+
+00:06:06.919 --> 00:06:10.180 align:start position:0%
+y buscamos la cuenta 11 que ni es
+efectivo<00:06:07.639><c> y</c><00:06:07.669><c> equivalentes</c><00:06:07.939><c> al</c><00:06:08.419><c> efectivo</c>
+
+00:06:10.180 --> 00:06:10.190 align:start position:0%
+efectivo y equivalentes al efectivo
+ 
+
+00:06:10.190 --> 00:06:12.310 align:start position:0%
+efectivo y equivalentes al efectivo
+vemos<00:06:10.820><c> que</c><00:06:10.940><c> trae</c><00:06:11.150><c> inmediatamente</c><00:06:12.020><c> el</c><00:06:12.230><c> nombre</c>
+
+00:06:12.310 --> 00:06:12.320 align:start position:0%
+vemos que trae inmediatamente el nombre
+ 
+
+00:06:12.320 --> 00:06:13.840 align:start position:0%
+vemos que trae inmediatamente el nombre
+de<00:06:12.650><c> la</c><00:06:12.740><c> cuenta</c><00:06:13.130><c> en</c><00:06:13.310><c> el</c><00:06:13.400><c> tipo</c><00:06:13.730><c> de</c>
+
+00:06:13.840 --> 00:06:13.850 align:start position:0%
+de la cuenta en el tipo de
+ 
+
+00:06:13.850 --> 00:06:16.090 align:start position:0%
+de la cuenta en el tipo de
+contabilización<00:06:14.540><c> que</c><00:06:15.200><c> en</c><00:06:15.260><c> este</c><00:06:15.470><c> caso</c><00:06:15.620><c> sería</c>
+
+00:06:16.090 --> 00:06:16.100 align:start position:0%
+contabilización que en este caso sería
+ 
+
+00:06:16.100 --> 00:06:18.280 align:start position:0%
+contabilización que en este caso sería
+la<00:06:16.160><c> nit</c><00:06:16.460><c> ya</c><00:06:16.850><c> que</c><00:06:17.000><c> nuestra</c><00:06:17.330><c> base</c><00:06:17.630><c> de</c><00:06:17.660><c> datos</c><00:06:18.020><c> está</c>
+
+00:06:18.280 --> 00:06:18.290 align:start position:0%
+la nit ya que nuestra base de datos está
+ 
+
+00:06:18.290 --> 00:06:21.700 align:start position:0%
+la nit ya que nuestra base de datos está
+en<00:06:18.380><c> contabilización</c><00:06:19.220><c> y</c><00:06:20.020><c> también</c><00:06:21.020><c> el</c><00:06:21.320><c> valor</c>
+
+00:06:21.700 --> 00:06:21.710 align:start position:0%
+en contabilización y también el valor
+ 
+
+00:06:21.710 --> 00:06:24.220 align:start position:0%
+en contabilización y también el valor
+que<00:06:21.920><c> ha</c><00:06:21.950><c> traído</c><00:06:22.190><c> la</c><00:06:22.490><c> función</c><00:06:23.000><c> ha</c><00:06:23.210><c> cambiado</c><00:06:23.810><c> ya</c>
+
+00:06:24.220 --> 00:06:24.230 align:start position:0%
+que ha traído la función ha cambiado ya
+ 
+
+00:06:24.230 --> 00:06:25.990 align:start position:0%
+que ha traído la función ha cambiado ya
+que<00:06:24.470><c> sólo</c><00:06:24.710><c> está</c><00:06:24.860><c> cargando</c><00:06:25.370><c> el</c><00:06:25.520><c> valor</c><00:06:25.790><c> de</c><00:06:25.910><c> la</c>
+
+00:06:25.990 --> 00:06:26.000 align:start position:0%
+que sólo está cargando el valor de la
+ 
+
+00:06:26.000 --> 00:06:28.540 align:start position:0%
+que sólo está cargando el valor de la
+cuenta<00:06:26.330><c> 11</c><00:06:26.720><c> efectivo</c><00:06:27.620><c> y</c><00:06:27.650><c> equivalentes</c><00:06:28.040><c> al</c>
+
+00:06:28.540 --> 00:06:28.550 align:start position:0%
+cuenta 11 efectivo y equivalentes al
+ 
+
+00:06:28.550 --> 00:06:30.100 align:start position:0%
+cuenta 11 efectivo y equivalentes al
+efectivo
+
+00:06:30.100 --> 00:06:30.110 align:start position:0%
+efectivo
+ 
+
+00:06:30.110 --> 00:06:32.170 align:start position:0%
+efectivo
+si<00:06:30.590><c> cambiamos</c><00:06:30.920><c> el</c><00:06:31.130><c> tipo</c><00:06:31.430><c> de</c><00:06:31.520><c> contabilización</c>
+
+00:06:32.170 --> 00:06:32.180 align:start position:0%
+si cambiamos el tipo de contabilización
+ 
+
+00:06:32.180 --> 00:06:36.370 align:start position:0%
+si cambiamos el tipo de contabilización
+para<00:06:32.810><c> local</c><00:06:33.220><c> colocamos</c><00:06:34.220><c> la</c><00:06:34.580><c> letra</c><00:06:34.850><c> t</c>
+
+00:06:36.370 --> 00:06:36.380 align:start position:0%
+para local colocamos la letra t
+ 
+
+00:06:36.380 --> 00:06:39.130 align:start position:0%
+para local colocamos la letra t
+vemos<00:06:37.100><c> que</c><00:06:37.280><c> inmediatamente</c><00:06:38.120><c> el</c><00:06:38.390><c> nombre</c><00:06:38.840><c> de</c><00:06:39.020><c> la</c>
+
+00:06:39.130 --> 00:06:39.140 align:start position:0%
+vemos que inmediatamente el nombre de la
+ 
+
+00:06:39.140 --> 00:06:41.560 align:start position:0%
+vemos que inmediatamente el nombre de la
+cuenta<00:06:39.350><c> cambia</c><00:06:39.980><c> llamando</c><00:06:40.850><c> el</c><00:06:40.940><c> nombre</c><00:06:41.300><c> que</c><00:06:41.480><c> la</c>
+
+00:06:41.560 --> 00:06:41.570 align:start position:0%
+cuenta cambia llamando el nombre que la
+ 
+
+00:06:41.570 --> 00:06:44.920 align:start position:0%
+cuenta cambia llamando el nombre que la
+cuenta<00:06:41.930><c> tiene</c><00:06:42.290><c> en</c><00:06:42.550><c> contabilización</c><00:06:43.550><c> local</c>
+
+00:06:44.920 --> 00:06:44.930 align:start position:0%
+cuenta tiene en contabilización local
+ 
+
+00:06:44.930 --> 00:06:46.450 align:start position:0%
+cuenta tiene en contabilización local
+vamos<00:06:45.200><c> a</c><00:06:45.260><c> utilizar</c><00:06:45.350><c> otra</c><00:06:45.980><c> función</c><00:06:46.340><c> de</c>
+
+00:06:46.450 --> 00:06:46.460 align:start position:0%
+vamos a utilizar otra función de
+ 
+
+00:06:46.460 --> 00:06:49.690 align:start position:0%
+vamos a utilizar otra función de
+atributo<00:06:46.910><c> como</c><00:06:47.240><c> es</c><00:06:47.360><c> nombre</c><00:06:47.870><c> de</c><00:06:47.960><c> empresa</c><00:06:48.700><c> vamos</c>
+
+00:06:49.690 --> 00:06:49.700 align:start position:0%
+atributo como es nombre de empresa vamos
+ 
+
+00:06:49.700 --> 00:06:52.090 align:start position:0%
+atributo como es nombre de empresa vamos
+a<00:06:49.820><c> llamar</c><00:06:50.120><c> la</c><00:06:50.300><c> función</c><00:06:50.750><c> en</c><00:06:51.200><c> este</c><00:06:51.470><c> caso</c><00:06:51.800><c> en</c><00:06:52.010><c> el</c>
+
+00:06:52.090 --> 00:06:52.100 align:start position:0%
+a llamar la función en este caso en el
+ 
+
+00:06:52.100 --> 00:07:01.300 align:start position:0%
+a llamar la función en este caso en el
+campo<00:06:52.490><c> de</c><00:06:52.610><c> iu</c><00:06:52.640><c> empresa</c>
+
+00:07:01.300 --> 00:07:01.310 align:start position:0%
+ 
+ 
+
+00:07:01.310 --> 00:07:05.410 align:start position:0%
+ 
+nos<00:07:01.880><c> ubicamos</c><00:07:02.270><c> en</c><00:07:02.570><c> la</c><00:07:02.660><c> función</c><00:07:03.250><c> f</c><00:07:04.250><c> 1</c><00:07:04.610><c> y</c><00:07:04.940><c> tenemos</c>
+
+00:07:05.410 --> 00:07:05.420 align:start position:0%
+nos ubicamos en la función f 1 y tenemos
+ 
+
+00:07:05.420 --> 00:07:07.990 align:start position:0%
+nos ubicamos en la función f 1 y tenemos
+la<00:07:05.570><c> ayuda</c><00:07:05.690><c> de</c><00:07:05.990><c> nombre</c><00:07:06.350><c> empresa</c><00:07:06.610><c> esta</c><00:07:07.610><c> función</c>
+
+00:07:07.990 --> 00:07:08.000 align:start position:0%
+la ayuda de nombre empresa esta función
+ 
+
+00:07:08.000 --> 00:07:10.960 align:start position:0%
+la ayuda de nombre empresa esta función
+sólo<00:07:08.270><c> pide</c><00:07:08.630><c> el</c><00:07:09.200><c> código</c><00:07:09.680><c> de</c><00:07:09.800><c> la</c><00:07:09.920><c> empresa</c><00:07:10.340><c> y</c><00:07:10.790><c> nos</c>
+
+00:07:10.960 --> 00:07:10.970 align:start position:0%
+sólo pide el código de la empresa y nos
+ 
+
+00:07:10.970 --> 00:07:13.060 align:start position:0%
+sólo pide el código de la empresa y nos
+pregunta<00:07:11.570><c> si</c><00:07:11.600><c> queremos</c><00:07:12.050><c> el</c><00:07:12.350><c> nombre</c><00:07:12.680><c> largo</c><00:07:12.860><c> o</c>
+
+00:07:13.060 --> 00:07:13.070 align:start position:0%
+pregunta si queremos el nombre largo o
+ 
+
+00:07:13.070 --> 00:07:15.119 align:start position:0%
+pregunta si queremos el nombre largo o
+el<00:07:13.220><c> nombre</c><00:07:13.520><c> corto</c>
+
+00:07:15.119 --> 00:07:15.129 align:start position:0%
+el nombre corto
+ 
+
+00:07:15.129 --> 00:07:17.249 align:start position:0%
+el nombre corto
+para<00:07:15.759><c> indicar</c><00:07:16.059><c> si</c><00:07:16.239><c> queremos</c><00:07:16.539><c> el</c><00:07:16.779><c> nombre</c><00:07:17.110><c> largo</c>
+
+00:07:17.249 --> 00:07:17.259 align:start position:0%
+para indicar si queremos el nombre largo
+ 
+
+00:07:17.259 --> 00:07:20.820 align:start position:0%
+para indicar si queremos el nombre largo
+o<00:07:17.499><c> el</c><00:07:17.619><c> nombre</c><00:07:17.919><c> corto</c><00:07:18.929><c> debemos</c><00:07:19.929><c> colocar</c><00:07:20.379><c> la</c><00:07:20.649><c> tf</c>
+
+00:07:20.820 --> 00:07:20.830 align:start position:0%
+o el nombre corto debemos colocar la tf
+ 
+
+00:07:20.830 --> 00:07:24.809 align:start position:0%
+o el nombre corto debemos colocar la tf
+para<00:07:21.489><c> mostrar</c><00:07:21.909><c> el</c><00:07:22.270><c> nombre</c><00:07:22.479><c> largo</c><00:07:23.369><c> o</c><00:07:24.369><c> la</c><00:07:24.519><c> efe</c>
+
+00:07:24.809 --> 00:07:24.819 align:start position:0%
+para mostrar el nombre largo o la efe
+ 
+
+00:07:24.819 --> 00:07:27.509 align:start position:0%
+para mostrar el nombre largo o la efe
+para<00:07:25.059><c> el</c><00:07:25.149><c> nombre</c><00:07:25.449><c> corto</c><00:07:25.800><c> si</c><00:07:26.800><c> dejamos</c><00:07:27.099><c> este</c>
+
+00:07:27.509 --> 00:07:27.519 align:start position:0%
+para el nombre corto si dejamos este
+ 
+
+00:07:27.519 --> 00:07:28.829 align:start position:0%
+para el nombre corto si dejamos este
+atributo<00:07:27.849><c> sin</c><00:07:28.209><c> marcar</c>
+
+00:07:28.829 --> 00:07:28.839 align:start position:0%
+atributo sin marcar
+ 
+
+00:07:28.839 --> 00:07:31.350 align:start position:0%
+atributo sin marcar
+el<00:07:29.019><c> sistema</c><00:07:29.499><c> asume</c><00:07:29.739><c> por</c><00:07:29.919><c> defecto</c><00:07:30.550><c> efe</c><00:07:31.149><c> de</c>
+
+00:07:31.350 --> 00:07:31.360 align:start position:0%
+el sistema asume por defecto efe de
+ 
+
+00:07:31.360 --> 00:07:33.510 align:start position:0%
+el sistema asume por defecto efe de
+nombre<00:07:31.689><c> corto</c>
+
+00:07:33.510 --> 00:07:33.520 align:start position:0%
+nombre corto
+ 
+
+00:07:33.520 --> 00:07:36.680 align:start position:0%
+nombre corto
+vamos<00:07:34.150><c> a</c><00:07:34.240><c> colocar</c><00:07:34.539><c> el</c><00:07:35.379><c> código</c><00:07:35.860><c> de</c><00:07:35.949><c> la</c><00:07:36.099><c> empresa</c>
+
+00:07:36.680 --> 00:07:36.690 align:start position:0%
+vamos a colocar el código de la empresa
+ 
+
+00:07:36.690 --> 00:07:40.409 align:start position:0%
+vamos a colocar el código de la empresa
+y<00:07:37.690><c> luego</c><00:07:37.870><c> vamos</c><00:07:38.379><c> a</c><00:07:38.470><c> referenciar</c><00:07:39.099><c> la</c><00:07:39.340><c> dentro</c><00:07:40.090><c> de</c>
+
+00:07:40.409 --> 00:07:40.419 align:start position:0%
+y luego vamos a referenciar la dentro de
+ 
+
+00:07:40.419 --> 00:07:42.890 align:start position:0%
+y luego vamos a referenciar la dentro de
+la<00:07:40.509><c> función</c>
+
+00:07:42.890 --> 00:07:42.900 align:start position:0%
+la función
+ 
+
+00:07:42.900 --> 00:07:46.219 align:start position:0%
+la función
+primero<00:07:43.650><c> el</c><00:07:43.740><c> código</c><00:07:44.160><c> de</c><00:07:44.250><c> la</c><00:07:44.370><c> empresa</c><00:07:45.050><c> y</c><00:07:46.050><c> luego</c>
+
+00:07:46.219 --> 00:07:46.229 align:start position:0%
+primero el código de la empresa y luego
+ 
+
+00:07:46.229 --> 00:07:49.610 align:start position:0%
+primero el código de la empresa y luego
+si<00:07:46.889><c> dejamos</c><00:07:47.190><c> vacío</c><00:07:47.729><c> el</c><00:07:48.389><c> sistema</c><00:07:48.930><c> asumirá</c><00:07:49.470><c> el</c>
+
+00:07:49.610 --> 00:07:49.620 align:start position:0%
+si dejamos vacío el sistema asumirá el
+ 
+
+00:07:49.620 --> 00:07:52.219 align:start position:0%
+si dejamos vacío el sistema asumirá el
+nombre<00:07:49.889><c> corto</c><00:07:50.190><c> si</c><00:07:50.699><c> colocamos</c><00:07:51.120><c> te</c><00:07:51.479><c> traerá</c><00:07:51.990><c> el</c>
+
+00:07:52.219 --> 00:07:52.229 align:start position:0%
+nombre corto si colocamos te traerá el
+ 
+
+00:07:52.229 --> 00:07:54.980 align:start position:0%
+nombre corto si colocamos te traerá el
+nombre<00:07:52.530><c> largo</c><00:07:52.699><c> para</c><00:07:53.699><c> colocarla</c><00:07:54.330><c> te</c><00:07:54.509><c> debemos</c>
+
+00:07:54.980 --> 00:07:54.990 align:start position:0%
+nombre largo para colocarla te debemos
+ 
+
+00:07:54.990 --> 00:08:00.660 align:start position:0%
+nombre largo para colocarla te debemos
+hacerlo<00:07:55.530><c> entre</c><00:07:55.889><c> comillas</c><00:07:56.190><c> sencillas</c>
+
+00:08:00.660 --> 00:08:00.670 align:start position:0%
+ 
+ 
+
+00:08:00.670 --> 00:08:04.040 align:start position:0%
+ 
+vemos<00:08:01.360><c> que</c><00:08:01.510><c> ha</c><00:08:01.540><c> traído</c><00:08:01.780><c> el</c><00:08:02.050><c> nombre</c><00:08:02.320><c> largo</c>
+
+00:08:04.040 --> 00:08:04.050 align:start position:0%
+vemos que ha traído el nombre largo
+ 
+
+00:08:04.050 --> 00:08:12.430 align:start position:0%
+vemos que ha traído el nombre largo
+si<00:08:04.590><c> dejamos</c><00:08:04.889><c> el</c><00:08:05.190><c> atributo</c><00:08:05.610><c> vacío</c>
+
+00:08:12.430 --> 00:08:12.440 align:start position:0%
+ 
+ 
+
+00:08:12.440 --> 00:08:15.220 align:start position:0%
+ 
+traerá<00:08:13.250><c> el</c><00:08:13.490><c> nombre</c><00:08:13.850><c> corto</c><00:08:14.150><c> ya</c><00:08:14.600><c> que</c><00:08:14.750><c> asume</c><00:08:15.080><c> por</c>
+
+00:08:15.220 --> 00:08:15.230 align:start position:0%
+traerá el nombre corto ya que asume por
+ 
+
+00:08:15.230 --> 00:08:18.520 align:start position:0%
+traerá el nombre corto ya que asume por
+defecto<00:08:15.830><c> el</c><00:08:16.070><c> atributo</c><00:08:16.520><c> falso</c><00:08:17.530><c> es</c>
+
+00:08:18.520 --> 00:08:18.530 align:start position:0%
+defecto el atributo falso es
+ 
+
+00:08:18.530 --> 00:08:20.530 align:start position:0%
+defecto el atributo falso es
+recomendable<00:08:19.100><c> dejar</c><00:08:19.310><c> como</c><00:08:20.030><c> nombre</c><00:08:20.420><c> de</c><00:08:20.510><c> la</c>
+
+00:08:20.530 --> 00:08:20.540 align:start position:0%
+recomendable dejar como nombre de la
+ 
+
+00:08:20.540 --> 00:08:23.050 align:start position:0%
+recomendable dejar como nombre de la
+empresa<00:08:20.720><c> el</c><00:08:21.110><c> nombre</c><00:08:21.380><c> corto</c><00:08:21.830><c> esto</c><00:08:22.550><c> para</c><00:08:22.760><c> poder</c>
+
+00:08:23.050 --> 00:08:23.060 align:start position:0%
+empresa el nombre corto esto para poder
+ 
+
+00:08:23.060 --> 00:08:24.880 align:start position:0%
+empresa el nombre corto esto para poder
+ahorrar<00:08:23.240><c> mayor</c><00:08:23.690><c> espacio</c><00:08:24.020><c> dentro</c><00:08:24.680><c> de</c><00:08:24.740><c> los</c>
+
+00:08:24.880 --> 00:08:24.890 align:start position:0%
+ahorrar mayor espacio dentro de los
+ 
+
+00:08:24.890 --> 00:08:27.580 align:start position:0%
+ahorrar mayor espacio dentro de los
+informes<00:08:25.460><c> y</c><00:08:26.180><c> poder</c><00:08:26.540><c> visualizar</c><00:08:27.110><c> de</c><00:08:27.320><c> forma</c>
+
+00:08:27.580 --> 00:08:27.590 align:start position:0%
+informes y poder visualizar de forma
+ 
+
+00:08:27.590 --> 00:08:30.280 align:start position:0%
+informes y poder visualizar de forma
+completa<00:08:28.070><c> los</c><00:08:28.280><c> datos</c><00:08:28.640><c> de</c><00:08:28.760><c> la</c><00:08:28.880><c> celda</c><00:08:29.230><c> vamos</c><00:08:30.230><c> a</c>
+
+00:08:30.280 --> 00:08:30.290 align:start position:0%
+completa los datos de la celda vamos a
+ 
+
+00:08:30.290 --> 00:08:33.520 align:start position:0%
+completa los datos de la celda vamos a
+colocar<00:08:30.740><c> una</c><00:08:31.070><c> fecha</c><00:08:31.400><c> fin</c><00:08:31.659><c> en</c><00:08:32.659><c> este</c><00:08:32.960><c> caso</c><00:08:33.260><c> será</c>
+
+00:08:33.520 --> 00:08:33.530 align:start position:0%
+colocar una fecha fin en este caso será
+ 
+
+00:08:33.530 --> 00:08:37.570 align:start position:0%
+colocar una fecha fin en este caso será
+el<00:08:33.800><c> 30</c><00:08:34.280><c> abril</c><00:08:34.400><c> de</c><00:08:34.909><c> 2020</c><00:08:35.690><c> vamos</c><00:08:36.650><c> a</c><00:08:36.860><c> utilizar</c><00:08:37.280><c> una</c>
+
+00:08:37.570 --> 00:08:37.580 align:start position:0%
+el 30 abril de 2020 vamos a utilizar una
+ 
+
+00:08:37.580 --> 00:08:40.750 align:start position:0%
+el 30 abril de 2020 vamos a utilizar una
+función<00:08:38.030><c> que</c><00:08:38.390><c> se</c><00:08:38.539><c> llama</c><00:08:38.810><c> fecha</c><00:08:39.580><c> para</c><00:08:40.580><c> poder</c>
+
+00:08:40.750 --> 00:08:40.760 align:start position:0%
+función que se llama fecha para poder
+ 
+
+00:08:40.760 --> 00:08:43.600 align:start position:0%
+función que se llama fecha para poder
+indicar<00:08:41.270><c> de</c><00:08:41.450><c> forma</c><00:08:41.479><c> adecuada</c><00:08:42.380><c> los</c><00:08:43.010><c> parámetros</c>
+
+00:08:43.600 --> 00:08:43.610 align:start position:0%
+indicar de forma adecuada los parámetros
+ 
+
+00:08:43.610 --> 00:08:47.920 align:start position:0%
+indicar de forma adecuada los parámetros
+de<00:08:43.729><c> la</c><00:08:43.820><c> fecha</c><00:08:44.180><c> primero</c><00:08:44.990><c> indicamos</c><00:08:45.710><c> el</c><00:08:46.610><c> año</c>
+
+00:08:47.920 --> 00:08:47.930 align:start position:0%
+de la fecha primero indicamos el año
+ 
+
+00:08:47.930 --> 00:08:52.980 align:start position:0%
+de la fecha primero indicamos el año
+luego<00:08:48.649><c> el</c><00:08:48.740><c> mes</c><00:08:49.390><c> y</c><00:08:50.390><c> luego</c><00:08:50.540><c> el</c><00:08:50.839><c> día</c><00:08:51.460><c> 30</c><00:08:52.460><c> de</c><00:08:52.580><c> abril</c>
+
+00:08:52.980 --> 00:08:52.990 align:start position:0%
+luego el mes y luego el día 30 de abril
+ 
+
+00:08:52.990 --> 00:08:55.540 align:start position:0%
+luego el mes y luego el día 30 de abril
+vamos<00:08:53.990><c> a</c><00:08:54.080><c> cambiar</c><00:08:54.410><c> nuevamente</c><00:08:54.980><c> la</c><00:08:55.070><c> cuenta</c><00:08:55.460><c> en</c>
+
+00:08:55.540 --> 00:08:55.550 align:start position:0%
+vamos a cambiar nuevamente la cuenta en
+ 
+
+00:08:55.550 --> 00:08:59.260 align:start position:0%
+vamos a cambiar nuevamente la cuenta en
+este<00:08:55.730><c> caso</c><00:08:56.060><c> vamos</c><00:08:56.330><c> a</c><00:08:56.420><c> colocar</c><00:08:56.839><c> la</c><00:08:57.020><c> cuenta</c><00:08:57.380><c> 2</c>
+
+00:08:59.260 --> 00:08:59.270 align:start position:0%
+este caso vamos a colocar la cuenta 2
+ 
+
+00:08:59.270 --> 00:09:01.090 align:start position:0%
+este caso vamos a colocar la cuenta 2
+vemos<00:08:59.930><c> que</c><00:09:00.020><c> el</c><00:09:00.080><c> valor</c><00:09:00.350><c> cambia</c><00:09:00.830><c> inmediatamente</c>
+
+00:09:01.090 --> 00:09:01.100 align:start position:0%
+vemos que el valor cambia inmediatamente
+ 
+
+00:09:01.100 --> 00:09:04.680 align:start position:0%
+vemos que el valor cambia inmediatamente
+al<00:09:01.970><c> igual</c><00:09:02.240><c> que</c><00:09:02.510><c> el</c><00:09:02.600><c> nombre</c><00:09:02.720><c> de</c><00:09:03.020><c> la</c><00:09:03.140><c> cuenta</c>
+
+00:09:04.680 --> 00:09:04.690 align:start position:0%
+al igual que el nombre de la cuenta
+ 
+
+00:09:04.690 --> 00:09:08.180 align:start position:0%
+al igual que el nombre de la cuenta
+ahora<00:09:05.410><c> vamos</c><00:09:05.650><c> a</c><00:09:05.740><c> colocar</c><00:09:06.190><c> la</c><00:09:06.550><c> cuenta</c><00:09:06.910><c> 3</c>
+
+00:09:08.180 --> 00:09:08.190 align:start position:0%
+ahora vamos a colocar la cuenta 3
+ 
+
+00:09:08.190 --> 00:09:10.530 align:start position:0%
+ahora vamos a colocar la cuenta 3
+nuevamente<00:09:09.190><c> el</c><00:09:09.370><c> valor</c><00:09:09.700><c> y</c><00:09:09.970><c> el</c><00:09:10.060><c> nombre</c><00:09:10.390><c> de</c><00:09:10.480><c> la</c>
+
+00:09:10.530 --> 00:09:10.540 align:start position:0%
+nuevamente el valor y el nombre de la
+ 
+
+00:09:10.540 --> 00:09:12.650 align:start position:0%
+nuevamente el valor y el nombre de la
+cuenta<00:09:10.720><c> cambian</c>
+
+00:09:12.650 --> 00:09:12.660 align:start position:0%
+cuenta cambian
+ 
+
+00:09:12.660 --> 00:09:15.170 align:start position:0%
+cuenta cambian
+vamos<00:09:13.290><c> a</c><00:09:13.350><c> colocar</c><00:09:13.589><c> otra</c><00:09:14.160><c> cuenta</c><00:09:14.459><c> que</c><00:09:14.910><c> es</c><00:09:15.060><c> la</c>
+
+00:09:15.170 --> 00:09:15.180 align:start position:0%
+vamos a colocar otra cuenta que es la
+ 
+
+00:09:15.180 --> 00:09:18.170 align:start position:0%
+vamos a colocar otra cuenta que es la
+cuenta<00:09:15.449><c> 4</c><00:09:15.810><c> de</c><00:09:16.079><c> ingresos</c>
+
+00:09:18.170 --> 00:09:18.180 align:start position:0%
+cuenta 4 de ingresos
+ 
+
+00:09:18.180 --> 00:09:20.420 align:start position:0%
+cuenta 4 de ingresos
+el<00:09:18.630><c> valor</c><00:09:18.960><c> vuelve</c><00:09:19.350><c> a</c><00:09:19.380><c> cambiar</c><00:09:19.740><c> al</c><00:09:19.980><c> igual</c><00:09:20.250><c> que</c>
+
+00:09:20.420 --> 00:09:20.430 align:start position:0%
+el valor vuelve a cambiar al igual que
+ 
+
+00:09:20.430 --> 00:09:22.820 align:start position:0%
+el valor vuelve a cambiar al igual que
+el<00:09:20.520><c> nombre</c><00:09:20.790><c> de</c><00:09:20.850><c> la</c><00:09:20.970><c> cuenta</c><00:09:21.800><c> este</c><00:09:22.800><c> valor</c>
+
+00:09:22.820 --> 00:09:22.830 align:start position:0%
+el nombre de la cuenta este valor
+ 
+
+00:09:22.830 --> 00:09:24.860 align:start position:0%
+el nombre de la cuenta este valor
+representa<00:09:23.580><c> todos</c><00:09:23.910><c> los</c><00:09:24.029><c> ingresos</c><00:09:24.540><c> de</c><00:09:24.750><c> la</c>
+
+00:09:24.860 --> 00:09:24.870 align:start position:0%
+representa todos los ingresos de la
+ 
+
+00:09:24.870 --> 00:09:28.880 align:start position:0%
+representa todos los ingresos de la
+empresa<00:09:24.990><c> 1</c><00:09:25.589><c> al</c><00:09:26.010><c> 30</c><00:09:26.460><c> de</c><00:09:26.580><c> abril</c><00:09:26.640><c> de</c><00:09:26.910><c> 2020</c><00:09:27.890><c> pero</c>
+
+00:09:28.880 --> 00:09:28.890 align:start position:0%
+empresa 1 al 30 de abril de 2020 pero
+ 
+
+00:09:28.890 --> 00:09:31.100 align:start position:0%
+empresa 1 al 30 de abril de 2020 pero
+como<00:09:29.190><c> esta</c><00:09:29.460><c> cuenta</c><00:09:29.730><c> maneja</c><00:09:30.240><c> centro</c><00:09:30.630><c> de</c><00:09:30.720><c> costos</c>
+
+00:09:31.100 --> 00:09:31.110 align:start position:0%
+como esta cuenta maneja centro de costos
+ 
+
+00:09:31.110 --> 00:09:33.620 align:start position:0%
+como esta cuenta maneja centro de costos
+vamos<00:09:31.440><c> a</c><00:09:31.529><c> agregar</c><00:09:31.830><c> otro</c><00:09:32.220><c> parámetro</c><00:09:32.610><c> que</c><00:09:33.330><c> es</c><00:09:33.510><c> el</c>
+
+00:09:33.620 --> 00:09:33.630 align:start position:0%
+vamos a agregar otro parámetro que es el
+ 
+
+00:09:33.630 --> 00:09:36.650 align:start position:0%
+vamos a agregar otro parámetro que es el
+de<00:09:33.779><c> centro</c><00:09:34.170><c> de</c><00:09:34.230><c> costos</c><00:09:35.060><c> vamos</c><00:09:36.060><c> a</c><00:09:36.149><c> ayudarnos</c>
+
+00:09:36.650 --> 00:09:36.660 align:start position:0%
+de centro de costos vamos a ayudarnos
+ 
+
+00:09:36.660 --> 00:09:38.810 align:start position:0%
+de centro de costos vamos a ayudarnos
+del<00:09:37.410><c> seleccionador</c><00:09:38.130><c> que</c><00:09:38.279><c> tiene</c><00:09:38.430><c> con</c><00:09:38.700><c> está</c>
+
+00:09:38.810 --> 00:09:38.820 align:start position:0%
+del seleccionador que tiene con está
+ 
+
+00:09:38.820 --> 00:09:41.180 align:start position:0%
+del seleccionador que tiene con está
+pyme<00:09:39.149><c> de</c><00:09:39.300><c> catálogos</c><00:09:39.930><c> en</c><00:09:40.110><c> este</c><00:09:40.350><c> caso</c><00:09:40.680><c> catálogo</c>
+
+00:09:41.180 --> 00:09:41.190 align:start position:0%
+pyme de catálogos en este caso catálogo
+ 
+
+00:09:41.190 --> 00:09:43.760 align:start position:0%
+pyme de catálogos en este caso catálogo
+de<00:09:41.279><c> centros</c><00:09:41.700><c> de</c><00:09:41.760><c> costos</c><00:09:42.500><c> vamos</c><00:09:43.500><c> a</c><00:09:43.589><c> seleccionar</c>
+
+00:09:43.760 --> 00:09:43.770 align:start position:0%
+de centros de costos vamos a seleccionar
+ 
+
+00:09:43.770 --> 00:09:46.660 align:start position:0%
+de centros de costos vamos a seleccionar
+el<00:09:44.310><c> centro</c><00:09:44.670><c> de</c><00:09:44.730><c> costos</c><00:09:45.089><c> comercial</c><00:09:45.630><c> principal</c>
+
+00:09:46.660 --> 00:09:46.670 align:start position:0%
+el centro de costos comercial principal
+ 
+
+00:09:46.670 --> 00:09:50.120 align:start position:0%
+el centro de costos comercial principal
+vemos<00:09:47.670><c> que</c><00:09:47.820><c> el</c><00:09:47.880><c> valor</c><00:09:48.149><c> cambio</c><00:09:48.740><c> para</c><00:09:49.740><c> el</c><00:09:49.830><c> centro</c>
+
+00:09:50.120 --> 00:09:50.130 align:start position:0%
+vemos que el valor cambio para el centro
+ 
+
+00:09:50.130 --> 00:09:52.280 align:start position:0%
+vemos que el valor cambio para el centro
+de<00:09:50.250><c> costos</c><00:09:50.640><c> también</c><00:09:51.000><c> existe</c><00:09:51.450><c> una</c><00:09:51.660><c> función</c><00:09:52.080><c> que</c>
+
+00:09:52.280 --> 00:09:52.290 align:start position:0%
+de costos también existe una función que
+ 
+
+00:09:52.290 --> 00:09:54.470 align:start position:0%
+de costos también existe una función que
+nos<00:09:52.440><c> permite</c><00:09:52.890><c> cargar</c><00:09:53.250><c> el</c><00:09:53.580><c> nombre</c><00:09:53.970><c> del</c><00:09:54.089><c> centro</c>
+
+00:09:54.470 --> 00:09:54.480 align:start position:0%
+nos permite cargar el nombre del centro
+ 
+
+00:09:54.480 --> 00:09:57.910 align:start position:0%
+nos permite cargar el nombre del centro
+de<00:09:54.540><c> costos</c><00:09:55.190><c> podemos</c><00:09:56.190><c> buscarla</c><00:09:56.790><c> en</c><00:09:57.029><c> fórmulas</c>
+
+00:09:57.910 --> 00:09:57.920 align:start position:0%
+de costos podemos buscarla en fórmulas
+ 
+
+00:09:57.920 --> 00:10:01.579 align:start position:0%
+de costos podemos buscarla en fórmulas
+centros<00:09:58.920><c> de</c><00:09:59.040><c> costos</c><00:10:00.080><c> nombre</c><00:10:01.080><c> centro</c><00:10:01.470><c> de</c>
+
+00:10:01.579 --> 00:10:01.589 align:start position:0%
+centros de costos nombre centro de
+ 
+
+00:10:01.589 --> 00:10:04.850 align:start position:0%
+centros de costos nombre centro de
+costos<00:10:02.120><c> esta</c><00:10:03.120><c> función</c><00:10:03.510><c> nos</c><00:10:03.660><c> solicita</c><00:10:04.290><c> el</c>
+
+00:10:04.850 --> 00:10:04.860 align:start position:0%
+costos esta función nos solicita el
+ 
+
+00:10:04.860 --> 00:10:07.010 align:start position:0%
+costos esta función nos solicita el
+código<00:10:05.310><c> de</c><00:10:05.430><c> la</c><00:10:05.520><c> empresa</c><00:10:05.970><c> el</c><00:10:06.420><c> código</c><00:10:06.899><c> del</c>
+
+00:10:07.010 --> 00:10:07.020 align:start position:0%
+código de la empresa el código del
+ 
+
+00:10:07.020 --> 00:10:09.290 align:start position:0%
+código de la empresa el código del
+centro<00:10:07.380><c> de</c><00:10:07.440><c> costos</c><00:10:07.860><c> y</c><00:10:08.370><c> nos</c><00:10:08.520><c> pregunta</c><00:10:09.089><c> si</c>
+
+00:10:09.290 --> 00:10:09.300 align:start position:0%
+centro de costos y nos pregunta si
+ 
+
+00:10:09.300 --> 00:10:11.329 align:start position:0%
+centro de costos y nos pregunta si
+deseamos<00:10:09.690><c> ver</c><00:10:10.050><c> el</c><00:10:10.170><c> nombre</c><00:10:10.350><c> corto</c><00:10:10.860><c> o</c><00:10:10.890><c> el</c><00:10:11.010><c> nombre</c>
+
+00:10:11.329 --> 00:10:11.339 align:start position:0%
+deseamos ver el nombre corto o el nombre
+ 
+
+00:10:11.339 --> 00:10:12.480 align:start position:0%
+deseamos ver el nombre corto o el nombre
+largo
+
+00:10:12.480 --> 00:10:12.490 align:start position:0%
+largo
+ 
+
+00:10:12.490 --> 00:10:15.240 align:start position:0%
+largo
+vamos<00:10:13.209><c> a</c><00:10:13.330><c> referenciar</c><00:10:14.140><c> el</c><00:10:14.529><c> código</c><00:10:15.040><c> de</c><00:10:15.130><c> la</c>
+
+00:10:15.240 --> 00:10:15.250 align:start position:0%
+vamos a referenciar el código de la
+ 
+
+00:10:15.250 --> 00:10:17.390 align:start position:0%
+vamos a referenciar el código de la
+empresa
+
+00:10:17.390 --> 00:10:17.400 align:start position:0%
+empresa
+ 
+
+00:10:17.400 --> 00:10:20.910 align:start position:0%
+empresa
+el<00:10:17.730><c> código</c><00:10:18.150><c> del</c><00:10:18.360><c> centro</c><00:10:18.690><c> de</c><00:10:18.780><c> costos</c>
+
+00:10:20.910 --> 00:10:20.920 align:start position:0%
+el código del centro de costos
+ 
+
+00:10:20.920 --> 00:10:23.550 align:start position:0%
+el código del centro de costos
+y<00:10:21.339><c> nos</c><00:10:21.490><c> trae</c><00:10:21.790><c> el</c><00:10:22.060><c> nombre</c><00:10:22.420><c> corto</c><00:10:22.690><c> en</c><00:10:22.930><c> este</c><00:10:23.200><c> caso</c>
+
+00:10:23.550 --> 00:10:23.560 align:start position:0%
+y nos trae el nombre corto en este caso
+ 
+
+00:10:23.560 --> 00:10:25.190 align:start position:0%
+y nos trae el nombre corto en este caso
+del<00:10:23.740><c> centro</c><00:10:24.130><c> de</c><00:10:24.220><c> costos</c>
+
+00:10:25.190 --> 00:10:25.200 align:start position:0%
+del centro de costos
+ 
+
+00:10:25.200 --> 00:10:28.019 align:start position:0%
+del centro de costos
+vamos<00:10:26.200><c> a</c><00:10:26.260><c> colocar</c><00:10:26.529><c> otro</c><00:10:27.040><c> centro</c><00:10:27.430><c> de</c><00:10:27.550><c> costos</c>
+
+00:10:28.019 --> 00:10:28.029 align:start position:0%
+vamos a colocar otro centro de costos
+ 
+
+00:10:28.029 --> 00:10:30.120 align:start position:0%
+vamos a colocar otro centro de costos
+desde<00:10:28.690><c> el</c><00:10:28.779><c> seleccionador</c><00:10:29.500><c> de</c><00:10:29.649><c> centros</c><00:10:30.040><c> de</c>
+
+00:10:30.120 --> 00:10:30.130 align:start position:0%
+desde el seleccionador de centros de
+ 
+
+00:10:30.130 --> 00:10:35.199 align:start position:0%
+desde el seleccionador de centros de
+costos<00:10:31.050><c> por</c><00:10:32.050><c> ejemplo</c><00:10:32.529><c> comercial</c><00:10:33.070><c> local</c><00:10:33.579><c> 103</c>
+
+00:10:35.199 --> 00:10:35.209 align:start position:0%
+costos por ejemplo comercial local 103
+ 
+
+00:10:35.209 --> 00:10:37.840 align:start position:0%
+costos por ejemplo comercial local 103
+vemos<00:10:35.929><c> que</c><00:10:36.079><c> nuevamente</c><00:10:36.350><c> el</c><00:10:36.920><c> valor</c><00:10:37.279><c> de</c><00:10:37.730><c> la</c>
+
+00:10:37.840 --> 00:10:37.850 align:start position:0%
+vemos que nuevamente el valor de la
+ 
+
+00:10:37.850 --> 00:10:39.830 align:start position:0%
+vemos que nuevamente el valor de la
+cuenta<00:10:38.269><c> ha</c><00:10:38.300><c> cambiado</c>
+
+00:10:39.830 --> 00:10:39.840 align:start position:0%
+cuenta ha cambiado
+ 
+
+00:10:39.840 --> 00:10:41.960 align:start position:0%
+cuenta ha cambiado
+podemos<00:10:40.590><c> ver</c><00:10:40.770><c> que</c><00:10:40.950><c> esta</c><00:10:41.130><c> función</c><00:10:41.460><c> es</c><00:10:41.550><c> muy</c><00:10:41.670><c> útil</c>
+
+00:10:41.960 --> 00:10:41.970 align:start position:0%
+podemos ver que esta función es muy útil
+ 
+
+00:10:41.970 --> 00:10:43.670 align:start position:0%
+podemos ver que esta función es muy útil
+para<00:10:42.120><c> consultar</c><00:10:42.720><c> los</c><00:10:42.900><c> saldos</c><00:10:43.200><c> de</c><00:10:43.290><c> cualquier</c>
+
+00:10:43.670 --> 00:10:43.680 align:start position:0%
+para consultar los saldos de cualquier
+ 
+
+00:10:43.680 --> 00:10:46.220 align:start position:0%
+para consultar los saldos de cualquier
+cuenta<00:10:44.060><c> incluso</c><00:10:45.060><c> podemos</c><00:10:45.420><c> colocar</c><00:10:45.870><c> varias</c>
+
+00:10:46.220 --> 00:10:46.230 align:start position:0%
+cuenta incluso podemos colocar varias
+ 
+
+00:10:46.230 --> 00:10:48.650 align:start position:0%
+cuenta incluso podemos colocar varias
+cuentas<00:10:46.620><c> en</c><00:10:46.740><c> la</c><00:10:46.830><c> consulta</c><00:10:47.460><c> esto</c><00:10:48.360><c> simplemente</c>
+
+00:10:48.650 --> 00:10:48.660 align:start position:0%
+cuentas en la consulta esto simplemente
+ 
+
+00:10:48.660 --> 00:10:51.320 align:start position:0%
+cuentas en la consulta esto simplemente
+separando<00:10:49.590><c> cada</c><00:10:49.950><c> cuenta</c><00:10:50.340><c> con</c><00:10:50.520><c> punto</c><00:10:50.940><c> y</c><00:10:50.970><c> coma</c>
+
+00:10:51.320 --> 00:10:51.330 align:start position:0%
+separando cada cuenta con punto y coma
+ 
+
+00:10:51.330 --> 00:10:53.690 align:start position:0%
+separando cada cuenta con punto y coma
+podemos<00:10:52.290><c> ver</c><00:10:52.440><c> que</c><00:10:52.560><c> esta</c><00:10:52.710><c> función</c><00:10:53.100><c> es</c><00:10:53.220><c> muy</c><00:10:53.430><c> útil</c>
+
+00:10:53.690 --> 00:10:53.700 align:start position:0%
+podemos ver que esta función es muy útil
+ 
+
+00:10:53.700 --> 00:10:55.490 align:start position:0%
+podemos ver que esta función es muy útil
+para<00:10:53.850><c> consultar</c><00:10:54.450><c> los</c><00:10:54.630><c> saldos</c><00:10:55.020><c> de</c><00:10:55.110><c> cualquier</c>
+
+00:10:55.490 --> 00:10:55.500 align:start position:0%
+para consultar los saldos de cualquier
+ 
+
+00:10:55.500 --> 00:10:57.860 align:start position:0%
+para consultar los saldos de cualquier
+cuenta<00:10:55.730><c> incluso</c><00:10:56.730><c> podemos</c><00:10:57.000><c> colocar</c><00:10:57.510><c> varias</c>
+
+00:10:57.860 --> 00:10:57.870 align:start position:0%
+cuenta incluso podemos colocar varias
+ 
+
+00:10:57.870 --> 00:11:00.530 align:start position:0%
+cuenta incluso podemos colocar varias
+cuentas<00:10:58.200><c> en</c><00:10:58.740><c> la</c><00:10:58.860><c> consulta</c><00:10:59.520><c> esto</c><00:11:00.210><c> simplemente</c>
+
+00:11:00.530 --> 00:11:00.540 align:start position:0%
+cuentas en la consulta esto simplemente
+ 
+
+00:11:00.540 --> 00:11:03.370 align:start position:0%
+cuentas en la consulta esto simplemente
+separando<00:11:01.350><c> cada</c><00:11:01.620><c> cuenta</c><00:11:01.980><c> con</c><00:11:02.160><c> punto</c><00:11:02.550><c> y</c><00:11:02.580><c> coma</c>
+
+00:11:03.370 --> 00:11:03.380 align:start position:0%
+separando cada cuenta con punto y coma
+ 
+
+00:11:03.380 --> 00:11:05.780 align:start position:0%
+separando cada cuenta con punto y coma
+esta<00:11:04.380><c> es</c><00:11:04.470><c> una</c><00:11:04.620><c> de</c><00:11:04.680><c> las</c><00:11:04.800><c> funciones</c><00:11:04.980><c> más</c><00:11:05.280><c> básicas</c>
+
+00:11:05.780 --> 00:11:05.790 align:start position:0%
+esta es una de las funciones más básicas
+ 
+
+00:11:05.790 --> 00:11:08.150 align:start position:0%
+esta es una de las funciones más básicas
+de<00:11:05.910><c> context</c><00:11:06.420><c> 'el</c><00:11:06.480><c> y</c><00:11:07.020><c> con</c><00:11:07.170><c> ella</c><00:11:07.410><c> podemos</c><00:11:07.890><c> hacer</c>
+
+00:11:08.150 --> 00:11:08.160 align:start position:0%
+de context 'el y con ella podemos hacer
+ 
+
+00:11:08.160 --> 00:11:10.460 align:start position:0%
+de context 'el y con ella podemos hacer
+infinidad<00:11:08.670><c> de</c><00:11:08.760><c> consultas</c><00:11:09.390><c> desde</c><00:11:09.780><c> la</c><00:11:10.050><c> base</c><00:11:10.350><c> de</c>
+
+00:11:10.460 --> 00:11:10.470 align:start position:0%
+infinidad de consultas desde la base de
+ 
+
+00:11:10.470 --> 00:11:12.550 align:start position:0%
+infinidad de consultas desde la base de
+datos
+
+00:11:12.550 --> 00:11:12.560 align:start position:0%
+datos
+ 
+
+00:11:12.560 --> 00:11:16.480 align:start position:0%
+datos
+función<00:11:13.279><c> cuenta</c><00:11:14.320><c> esta</c><00:11:15.320><c> función</c><00:11:15.650><c> calcula</c><00:11:16.279><c> el</c>
+
+00:11:16.480 --> 00:11:16.490 align:start position:0%
+función cuenta esta función calcula el
+ 
+
+00:11:16.490 --> 00:11:18.700 align:start position:0%
+función cuenta esta función calcula el
+movimiento<00:11:17.000><c> contable</c><00:11:17.540><c> de</c><00:11:17.630><c> una</c><00:11:17.840><c> cuenta</c><00:11:18.230><c> en</c><00:11:18.560><c> un</c>
+
+00:11:18.700 --> 00:11:18.710 align:start position:0%
+movimiento contable de una cuenta en un
+ 
+
+00:11:18.710 --> 00:11:22.000 align:start position:0%
+movimiento contable de una cuenta en un
+periodo<00:11:19.130><c> de</c><00:11:19.220><c> tiempo</c><00:11:19.610><c> determinado</c>
+
+00:11:22.000 --> 00:11:22.010 align:start position:0%
+ 
+ 
+
+00:11:22.010 --> 00:11:24.640 align:start position:0%
+ 
+la<00:11:22.520><c> sintaxis</c><00:11:23.120><c> de</c><00:11:23.270><c> esta</c><00:11:23.540><c> función</c><00:11:23.960><c> solicita</c>
+
+00:11:24.640 --> 00:11:24.650 align:start position:0%
+la sintaxis de esta función solicita
+ 
+
+00:11:24.650 --> 00:11:27.630 align:start position:0%
+la sintaxis de esta función solicita
+datos<00:11:24.980><c> como</c><00:11:25.400><c> el</c><00:11:25.940><c> identificador</c><00:11:26.090><c> de</c><00:11:26.930><c> la</c><00:11:27.050><c> cuenta</c>
+
+00:11:27.630 --> 00:11:27.640 align:start position:0%
+datos como el identificador de la cuenta
+ 
+
+00:11:27.640 --> 00:11:33.490 align:start position:0%
+datos como el identificador de la cuenta
+fecha<00:11:28.640><c> inicial</c><00:11:29.090><c> fecha</c><00:11:30.080><c> final</c><00:11:31.150><c> empresa</c><00:11:32.500><c> centro</c>
+
+00:11:33.490 --> 00:11:33.500 align:start position:0%
+fecha inicial fecha final empresa centro
+ 
+
+00:11:33.500 --> 00:11:36.930 align:start position:0%
+fecha inicial fecha final empresa centro
+de<00:11:33.590><c> costos</c><00:11:34.070><c> y</c><00:11:34.460><c> tipo</c><00:11:34.790><c> de</c><00:11:34.910><c> contabilización</c>
+
+00:11:36.930 --> 00:11:36.940 align:start position:0%
+de costos y tipo de contabilización
+ 
+
+00:11:36.940 --> 00:11:39.150 align:start position:0%
+de costos y tipo de contabilización
+a<00:11:37.450><c> diferencia</c><00:11:38.020><c> de</c><00:11:38.080><c> la</c><00:11:38.140><c> función</c><00:11:38.500><c> saldo</c><00:11:38.770><c> cuenta</c>
+
+00:11:39.150 --> 00:11:39.160 align:start position:0%
+a diferencia de la función saldo cuenta
+ 
+
+00:11:39.160 --> 00:11:41.760 align:start position:0%
+a diferencia de la función saldo cuenta
+esta<00:11:39.880><c> función</c><00:11:40.240><c> solicita</c><00:11:40.840><c> una</c><00:11:41.050><c> fecha</c><00:11:41.380><c> inicial</c>
+
+00:11:41.760 --> 00:11:41.770 align:start position:0%
+esta función solicita una fecha inicial
+ 
+
+00:11:41.770 --> 00:11:43.800 align:start position:0%
+esta función solicita una fecha inicial
+ya<00:11:42.250><c> que</c><00:11:42.340><c> permite</c><00:11:42.820><c> el</c><00:11:43.000><c> movimiento</c><00:11:43.600><c> de</c><00:11:43.690><c> la</c>
+
+00:11:43.800 --> 00:11:43.810 align:start position:0%
+ya que permite el movimiento de la
+ 
+
+00:11:43.810 --> 00:11:46.170 align:start position:0%
+ya que permite el movimiento de la
+cuenta<00:11:44.140><c> en</c><00:11:44.260><c> un</c><00:11:44.320><c> periodo</c><00:11:44.710><c> determinado</c><00:11:45.090><c> en</c><00:11:46.090><c> la</c>
+
+00:11:46.170 --> 00:11:46.180 align:start position:0%
+cuenta en un periodo determinado en la
+ 
+
+00:11:46.180 --> 00:11:48.030 align:start position:0%
+cuenta en un periodo determinado en la
+ayuda<00:11:46.450><c> de</c><00:11:46.480><c> esta</c><00:11:46.750><c> función</c><00:11:47.200><c> podemos</c><00:11:47.620><c> también</c>
+
+00:11:48.030 --> 00:11:48.040 align:start position:0%
+ayuda de esta función podemos también
+ 
+
+00:11:48.040 --> 00:11:51.240 align:start position:0%
+ayuda de esta función podemos también
+ver<00:11:48.220><c> los</c><00:11:48.580><c> datos</c><00:11:48.760><c> que</c><00:11:49.030><c> el</c><00:11:49.090><c> sistema</c><00:11:49.600><c> asume</c><00:11:50.250><c> por</c>
+
+00:11:51.240 --> 00:11:51.250 align:start position:0%
+ver los datos que el sistema asume por
+ 
+
+00:11:51.250 --> 00:11:54.270 align:start position:0%
+ver los datos que el sistema asume por
+ejemplo<00:11:51.760><c> para</c><00:11:52.300><c> el</c><00:11:52.360><c> dato</c><00:11:52.690><c> y</c><00:11:52.720><c> cuenta</c><00:11:53.320><c> que</c><00:11:54.040><c> es</c><00:11:54.160><c> un</c>
+
+00:11:54.270 --> 00:11:54.280 align:start position:0%
+ejemplo para el dato y cuenta que es un
+ 
+
+00:11:54.280 --> 00:11:56.670 align:start position:0%
+ejemplo para el dato y cuenta que es un
+valor<00:11:54.550><c> requerido</c><00:11:55.150><c> siempre</c><00:11:55.900><c> debe</c><00:11:56.140><c> ir</c><00:11:56.200><c> este</c>
+
+00:11:56.670 --> 00:11:56.680 align:start position:0%
+valor requerido siempre debe ir este
+ 
+
+00:11:56.680 --> 00:11:59.670 align:start position:0%
+valor requerido siempre debe ir este
+parámetro<00:11:57.090><c> en</c><00:11:58.090><c> fecha</c><00:11:58.450><c> inicial</c><00:11:58.870><c> establece</c>
+
+00:11:59.670 --> 00:11:59.680 align:start position:0%
+parámetro en fecha inicial establece
+ 
+
+00:11:59.680 --> 00:12:01.590 align:start position:0%
+parámetro en fecha inicial establece
+como<00:11:59.920><c> fecha</c><00:12:00.100><c> inicial</c><00:12:00.250><c> cuando</c><00:12:00.940><c> no</c><00:12:01.120><c> se</c><00:12:01.240><c> indica</c>
+
+00:12:01.590 --> 00:12:01.600 align:start position:0%
+como fecha inicial cuando no se indica
+ 
+
+00:12:01.600 --> 00:12:04.050 align:start position:0%
+como fecha inicial cuando no se indica
+ninguna<00:12:02.050><c> el</c><00:12:02.590><c> principio</c><00:12:03.130><c> de</c><00:12:03.220><c> los</c><00:12:03.370><c> tiempos</c><00:12:03.490><c> es</c>
+
+00:12:04.050 --> 00:12:04.060 align:start position:0%
+ninguna el principio de los tiempos es
+ 
+
+00:12:04.060 --> 00:12:07.710 align:start position:0%
+ninguna el principio de los tiempos es
+decir<00:12:04.210><c> el</c><00:12:04.750><c> primero</c><00:12:05.170><c> de</c><00:12:05.260><c> enero</c><00:12:05.410><c> de</c><00:12:05.640><c> 1900</c><00:12:06.720><c> vamos</c>
+
+00:12:07.710 --> 00:12:07.720 align:start position:0%
+decir el primero de enero de 1900 vamos
+ 
+
+00:12:07.720 --> 00:12:09.990 align:start position:0%
+decir el primero de enero de 1900 vamos
+a<00:12:07.780><c> referenciar</c><00:12:08.320><c> en</c><00:12:08.470><c> la</c><00:12:08.590><c> función</c><00:12:09.040><c> los</c><00:12:09.460><c> datos</c><00:12:09.850><c> de</c>
+
+00:12:09.990 --> 00:12:10.000 align:start position:0%
+a referenciar en la función los datos de
+ 
+
+00:12:10.000 --> 00:12:12.000 align:start position:0%
+a referenciar en la función los datos de
+esta<00:12:10.240><c> celda</c><00:12:10.510><c> para</c><00:12:10.810><c> poder</c><00:12:11.110><c> cargar</c><00:12:11.500><c> los</c>
+
+00:12:12.000 --> 00:12:12.010 align:start position:0%
+esta celda para poder cargar los
+ 
+
+00:12:12.010 --> 00:12:20.310 align:start position:0%
+esta celda para poder cargar los
+parámetros<00:12:12.640><c> con</c><00:12:12.910><c> mayor</c><00:12:13.210><c> facilidad</c>
+
+00:12:20.310 --> 00:12:20.320 align:start position:0%
+ 
+ 
+
+00:12:20.320 --> 00:12:23.100 align:start position:0%
+ 
+recordemos<00:12:21.280><c> que</c><00:12:21.400><c> para</c><00:12:21.640><c> esta</c><00:12:21.880><c> función</c><00:12:22.150><c> el</c>
+
+00:12:23.100 --> 00:12:23.110 align:start position:0%
+recordemos que para esta función el
+ 
+
+00:12:23.110 --> 00:12:25.770 align:start position:0%
+recordemos que para esta función el
+parámetro<00:12:23.740><c> y</c><00:12:23.770><c> cuenta</c><00:12:24.280><c> es</c><00:12:24.430><c> requerido</c><00:12:24.970><c> por</c><00:12:25.540><c> ello</c>
+
+00:12:25.770 --> 00:12:25.780 align:start position:0%
+parámetro y cuenta es requerido por ello
+ 
+
+00:12:25.780 --> 00:12:28.500 align:start position:0%
+parámetro y cuenta es requerido por ello
+no<00:12:25.900><c> nos</c><00:12:26.050><c> trae</c><00:12:26.290><c> ningún</c><00:12:26.680><c> dato</c><00:12:27.210><c> vamos</c><00:12:28.210><c> a</c><00:12:28.300><c> cargar</c>
+
+00:12:28.500 --> 00:12:28.510 align:start position:0%
+no nos trae ningún dato vamos a cargar
+ 
+
+00:12:28.510 --> 00:12:30.720 align:start position:0%
+no nos trae ningún dato vamos a cargar
+inicialmente<00:12:29.380><c> la</c><00:12:29.500><c> cuenta</c><00:12:29.830><c> de</c><00:12:29.950><c> caja</c><00:12:30.130><c> nos</c>
+
+00:12:30.720 --> 00:12:30.730 align:start position:0%
+inicialmente la cuenta de caja nos
+ 
+
+00:12:30.730 --> 00:12:33.900 align:start position:0%
+inicialmente la cuenta de caja nos
+ubicamos<00:12:31.150><c> en</c><00:12:31.900><c> la</c><00:12:32.020><c> celda</c><00:12:32.440><c> y</c><00:12:32.470><c> cuenta</c><00:12:33.040><c> abrimos</c><00:12:33.790><c> el</c>
+
+00:12:33.900 --> 00:12:33.910 align:start position:0%
+ubicamos en la celda y cuenta abrimos el
+ 
+
+00:12:33.910 --> 00:12:36.120 align:start position:0%
+ubicamos en la celda y cuenta abrimos el
+seleccionador<00:12:34.570><c> de</c><00:12:34.690><c> cuentas</c><00:12:35.140><c> y</c><00:12:35.680><c> en</c><00:12:35.770><c> este</c><00:12:35.980><c> caso</c>
+
+00:12:36.120 --> 00:12:36.130 align:start position:0%
+seleccionador de cuentas y en este caso
+ 
+
+00:12:36.130 --> 00:12:39.769 align:start position:0%
+seleccionador de cuentas y en este caso
+vamos<00:12:36.430><c> a</c><00:12:36.610><c> cargar</c><00:12:36.970><c> la</c><00:12:37.120><c> cuenta</c><00:12:37.540><c> caja</c><00:12:38.080><c> general</c>
+
+00:12:39.769 --> 00:12:39.779 align:start position:0%
+vamos a cargar la cuenta caja general
+ 
+
+00:12:39.779 --> 00:12:42.199 align:start position:0%
+vamos a cargar la cuenta caja general
+vemos<00:12:40.470><c> que</c><00:12:40.680><c> inmediatamente</c><00:12:41.220><c> nos</c><00:12:41.550><c> trae</c><00:12:41.970><c> un</c>
+
+00:12:42.199 --> 00:12:42.209 align:start position:0%
+vemos que inmediatamente nos trae un
+ 
+
+00:12:42.209 --> 00:12:44.829 align:start position:0%
+vemos que inmediatamente nos trae un
+valor<00:12:42.560><c> vamos</c><00:12:43.560><c> a</c><00:12:43.649><c> indicar</c><00:12:43.829><c> un</c><00:12:44.100><c> rango</c><00:12:44.399><c> de</c><00:12:44.550><c> fechas</c>
+
+00:12:44.829 --> 00:12:44.839 align:start position:0%
+valor vamos a indicar un rango de fechas
+ 
+
+00:12:44.839 --> 00:12:48.110 align:start position:0%
+valor vamos a indicar un rango de fechas
+por<00:12:45.839><c> ejemplo</c><00:12:46.290><c> del</c><00:12:46.589><c> primero</c><00:12:47.009><c> de</c><00:12:47.069><c> abril</c><00:12:47.160><c> de</c><00:12:47.430><c> 2020</c>
+
+00:12:48.110 --> 00:12:48.120 align:start position:0%
+por ejemplo del primero de abril de 2020
+ 
+
+00:12:48.120 --> 00:12:51.630 align:start position:0%
+por ejemplo del primero de abril de 2020
+al<00:12:48.389><c> 30</c><00:12:48.839><c> de</c><00:12:48.930><c> abril</c><00:12:49.019><c> de</c><00:12:49.290><c> 2020</c>
+
+00:12:51.630 --> 00:12:51.640 align:start position:0%
+al 30 de abril de 2020
+ 
+
+00:12:51.640 --> 00:12:57.680 align:start position:0%
+al 30 de abril de 2020
+utilizamos<00:12:52.450><c> la</c><00:12:53.350><c> función</c><00:12:53.740><c> fecha</c>
+
+00:12:57.680 --> 00:12:57.690 align:start position:0%
+ 
+ 
+
+00:12:57.690 --> 00:12:59.990 align:start position:0%
+ 
+vemos<00:12:58.410><c> que</c><00:12:58.530><c> al</c><00:12:58.590><c> cargar</c><00:12:58.800><c> la</c><00:12:59.040><c> fecha</c><00:12:59.400><c> el</c><00:12:59.850><c> sistema</c>
+
+00:12:59.990 --> 00:13:00.000 align:start position:0%
+vemos que al cargar la fecha el sistema
+ 
+
+00:13:00.000 --> 00:13:03.080 align:start position:0%
+vemos que al cargar la fecha el sistema
+trae<00:13:00.570><c> un</c><00:13:00.810><c> valor</c><00:13:01.310><c> ahora</c><00:13:02.310><c> vamos</c><00:13:02.580><c> a</c><00:13:02.640><c> cambiar</c><00:13:02.970><c> la</c>
+
+00:13:03.080 --> 00:13:03.090 align:start position:0%
+trae un valor ahora vamos a cambiar la
+ 
+
+00:13:03.090 --> 00:13:05.240 align:start position:0%
+trae un valor ahora vamos a cambiar la
+fecha<00:13:03.240><c> vamos</c><00:13:03.720><c> a</c><00:13:03.810><c> cambiarla</c><00:13:04.350><c> por</c><00:13:04.500><c> ejemplo</c><00:13:05.010><c> al</c>
+
+00:13:05.240 --> 00:13:05.250 align:start position:0%
+fecha vamos a cambiarla por ejemplo al
+ 
+
+00:13:05.250 --> 00:13:09.350 align:start position:0%
+fecha vamos a cambiarla por ejemplo al
+15<00:13:05.730><c> de</c><00:13:05.850><c> abril</c><00:13:06.230><c> la</c><00:13:07.230><c> fecha</c><00:13:07.410><c> final</c>
+
+00:13:09.350 --> 00:13:09.360 align:start position:0%
+15 de abril la fecha final
+ 
+
+00:13:09.360 --> 00:13:12.820 align:start position:0%
+15 de abril la fecha final
+vemos<00:13:10.019><c> que</c><00:13:10.170><c> inmediatamente</c><00:13:10.920><c> el</c><00:13:11.160><c> valor</c><00:13:11.490><c> cambia</c>
+
+00:13:12.820 --> 00:13:12.830 align:start position:0%
+vemos que inmediatamente el valor cambia
+ 
+
+00:13:12.830 --> 00:13:14.830 align:start position:0%
+vemos que inmediatamente el valor cambia
+esta<00:13:13.490><c> función</c><00:13:13.850><c> es</c><00:13:13.910><c> muy</c><00:13:14.060><c> útil</c><00:13:14.390><c> para</c><00:13:14.540><c> determinar</c>
+
+00:13:14.830 --> 00:13:14.840 align:start position:0%
+esta función es muy útil para determinar
+ 
+
+00:13:14.840 --> 00:13:16.420 align:start position:0%
+esta función es muy útil para determinar
+los<00:13:15.200><c> movimientos</c><00:13:15.770><c> sobre</c><00:13:15.950><c> una</c><00:13:16.340><c> o</c><00:13:16.370><c> varias</c>
+
+00:13:16.420 --> 00:13:16.430 align:start position:0%
+los movimientos sobre una o varias
+ 
+
+00:13:16.430 --> 00:13:18.580 align:start position:0%
+los movimientos sobre una o varias
+cuentas<00:13:16.970><c> y</c><00:13:17.420><c> también</c><00:13:17.600><c> sobre</c><00:13:18.080><c> un</c><00:13:18.200><c> centro</c><00:13:18.470><c> de</c>
+
+00:13:18.580 --> 00:13:18.590 align:start position:0%
+cuentas y también sobre un centro de
+ 
+
+00:13:18.590 --> 00:13:21.290 align:start position:0%
+cuentas y también sobre un centro de
+costos<00:13:18.950><c> en</c><00:13:19.070><c> particular</c>
+
+00:13:21.290 --> 00:13:21.300 align:start position:0%
+costos en particular
+ 
+
+00:13:21.300 --> 00:13:25.220 align:start position:0%
+costos en particular
+función<00:13:22.080><c> move</c><00:13:22.589><c> cuenta</c><00:13:23.100><c> de</c><00:13:23.399><c> si</c><00:13:23.899><c> esta</c><00:13:24.899><c> función</c>
+
+00:13:25.220 --> 00:13:25.230 align:start position:0%
+función move cuenta de si esta función
+ 
+
+00:13:25.230 --> 00:13:27.139 align:start position:0%
+función move cuenta de si esta función
+calcula<00:13:25.649><c> los</c><00:13:25.800><c> movimientos</c><00:13:26.370><c> débito</c><00:13:26.850><c> o</c><00:13:27.060><c> crédito</c>
+
+00:13:27.139 --> 00:13:27.149 align:start position:0%
+calcula los movimientos débito o crédito
+ 
+
+00:13:27.149 --> 00:13:30.259 align:start position:0%
+calcula los movimientos débito o crédito
+de<00:13:27.899><c> una</c><00:13:28.170><c> o</c><00:13:28.200><c> varias</c><00:13:28.260><c> cuentas</c><00:13:28.830><c> entre</c><00:13:29.670><c> un</c><00:13:29.790><c> período</c>
+
+00:13:30.259 --> 00:13:30.269 align:start position:0%
+de una o varias cuentas entre un período
+ 
+
+00:13:30.269 --> 00:13:32.249 align:start position:0%
+de una o varias cuentas entre un período
+determinado
+
+00:13:32.249 --> 00:13:32.259 align:start position:0%
+determinado
+ 
+
+00:13:32.259 --> 00:13:34.349 align:start position:0%
+determinado
+a<00:13:32.769><c> diferencia</c><00:13:33.249><c> de</c><00:13:33.339><c> la</c><00:13:33.399><c> función</c><00:13:33.729><c> anterior</c><00:13:34.149><c> que</c>
+
+00:13:34.349 --> 00:13:34.359 align:start position:0%
+a diferencia de la función anterior que
+ 
+
+00:13:34.359 --> 00:13:35.909 align:start position:0%
+a diferencia de la función anterior que
+traía<00:13:34.689><c> el</c><00:13:34.779><c> movimiento</c><00:13:35.139><c> completo</c><00:13:35.679><c> de</c><00:13:35.799><c> una</c>
+
+00:13:35.909 --> 00:13:35.919 align:start position:0%
+traía el movimiento completo de una
+ 
+
+00:13:35.919 --> 00:13:37.639 align:start position:0%
+traía el movimiento completo de una
+cuenta<00:13:36.249><c> en</c><00:13:36.519><c> un</c><00:13:36.669><c> período</c><00:13:37.059><c> de</c><00:13:37.149><c> tiempo</c>
+
+00:13:37.639 --> 00:13:37.649 align:start position:0%
+cuenta en un período de tiempo
+ 
+
+00:13:37.649 --> 00:13:39.960 align:start position:0%
+cuenta en un período de tiempo
+entiéndase<00:13:38.649><c> como</c><00:13:38.769><c> un</c><00:13:38.949><c> movimiento</c><00:13:39.160><c> completo</c>
+
+00:13:39.960 --> 00:13:39.970 align:start position:0%
+entiéndase como un movimiento completo
+ 
+
+00:13:39.970 --> 00:13:42.659 align:start position:0%
+entiéndase como un movimiento completo
+el<00:13:40.449><c> saldo</c><00:13:40.839><c> esta</c><00:13:41.769><c> función</c><00:13:42.129><c> permite</c><00:13:42.459><c> traer</c>
+
+00:13:42.659 --> 00:13:42.669 align:start position:0%
+el saldo esta función permite traer
+ 
+
+00:13:42.669 --> 00:13:46.139 align:start position:0%
+el saldo esta función permite traer
+débitos<00:13:43.479><c> o</c><00:13:43.720><c> créditos</c><00:13:44.369><c> por</c><00:13:45.369><c> ello</c><00:13:45.669><c> dentro</c><00:13:45.999><c> de</c>
+
+00:13:46.139 --> 00:13:46.149 align:start position:0%
+débitos o créditos por ello dentro de
+ 
+
+00:13:46.149 --> 00:13:48.569 align:start position:0%
+débitos o créditos por ello dentro de
+sus<00:13:46.299><c> parámetros</c><00:13:46.600><c> vemos</c><00:13:47.259><c> que</c><00:13:47.949><c> nos</c><00:13:48.100><c> permite</c>
+
+00:13:48.569 --> 00:13:48.579 align:start position:0%
+sus parámetros vemos que nos permite
+ 
+
+00:13:48.579 --> 00:13:50.819 align:start position:0%
+sus parámetros vemos que nos permite
+definir<00:13:48.879><c> el</c><00:13:49.479><c> débito</c><00:13:49.839><c> o</c><00:13:49.989><c> el</c><00:13:50.109><c> crédito</c><00:13:50.470><c> que</c>
+
+00:13:50.819 --> 00:13:50.829 align:start position:0%
+definir el débito o el crédito que
+ 
+
+00:13:50.829 --> 00:13:53.369 align:start position:0%
+definir el débito o el crédito que
+necesitamos<00:13:51.459><c> traer</c><00:13:51.929><c> si</c><00:13:52.929><c> dejamos</c><00:13:53.169><c> el</c>
+
+00:13:53.369 --> 00:13:53.379 align:start position:0%
+necesitamos traer si dejamos el
+ 
+
+00:13:53.379 --> 00:13:56.099 align:start position:0%
+necesitamos traer si dejamos el
+parámetro<00:13:53.769><c> vacío</c><00:13:54.279><c> traerá</c><00:13:54.850><c> el</c><00:13:54.939><c> saldo</c><00:13:55.269><c> para</c>
+
+00:13:56.099 --> 00:13:56.109 align:start position:0%
+parámetro vacío traerá el saldo para
+ 
+
+00:13:56.109 --> 00:13:58.889 align:start position:0%
+parámetro vacío traerá el saldo para
+traer<00:13:56.439><c> los</c><00:13:56.619><c> datos</c><00:13:57.069><c> indicamos</c><00:13:57.579><c> la</c><00:13:57.850><c> letra</c><00:13:58.149><c> de</c><00:13:58.299><c> y</c>
+
+00:13:58.889 --> 00:13:58.899 align:start position:0%
+traer los datos indicamos la letra de y
+ 
+
+00:13:58.899 --> 00:14:01.769 align:start position:0%
+traer los datos indicamos la letra de y
+para<00:13:59.049><c> los</c><00:13:59.259><c> créditos</c><00:13:59.799><c> la</c><00:14:00.009><c> letra</c><00:14:00.309><c> c</c><00:14:00.689><c> vamos</c><00:14:01.689><c> a</c>
+
+00:14:01.769 --> 00:14:01.779 align:start position:0%
+para los créditos la letra c vamos a
+ 
+
+00:14:01.779 --> 00:14:03.689 align:start position:0%
+para los créditos la letra c vamos a
+cargar<00:14:01.989><c> algunos</c><00:14:02.439><c> datos</c><00:14:02.739><c> primero</c><00:14:03.129><c> vamos</c><00:14:03.489><c> a</c>
+
+00:14:03.689 --> 00:14:03.699 align:start position:0%
+cargar algunos datos primero vamos a
+ 
+
+00:14:03.699 --> 00:14:05.849 align:start position:0%
+cargar algunos datos primero vamos a
+cargar<00:14:03.970><c> una</c><00:14:04.209><c> cuenta</c><00:14:04.600><c> vamos</c><00:14:05.470><c> a</c><00:14:05.679><c> los</c>
+
+00:14:05.849 --> 00:14:05.859 align:start position:0%
+cargar una cuenta vamos a los
+ 
+
+00:14:05.859 --> 00:14:08.009 align:start position:0%
+cargar una cuenta vamos a los
+seleccionadores<00:14:06.549><c> abrimos</c><00:14:07.269><c> el</c><00:14:07.389><c> seleccionador</c>
+
+00:14:08.009 --> 00:14:08.019 align:start position:0%
+seleccionadores abrimos el seleccionador
+ 
+
+00:14:08.019 --> 00:14:10.259 align:start position:0%
+seleccionadores abrimos el seleccionador
+de<00:14:08.139><c> cuentas</c><00:14:08.529><c> y</c><00:14:09.069><c> en</c><00:14:09.160><c> este</c><00:14:09.369><c> caso</c><00:14:09.519><c> vamos</c><00:14:09.699><c> a</c><00:14:09.999><c> cargar</c>
+
+00:14:10.259 --> 00:14:10.269 align:start position:0%
+de cuentas y en este caso vamos a cargar
+ 
+
+00:14:10.269 --> 00:14:12.349 align:start position:0%
+de cuentas y en este caso vamos a cargar
+la<00:14:10.449><c> cuenta</c><00:14:10.809><c> del</c><00:14:11.049><c> banco</c><00:14:11.229><c> santander</c>
+
+00:14:12.349 --> 00:14:12.359 align:start position:0%
+la cuenta del banco santander
+ 
+
+00:14:12.359 --> 00:14:14.699 align:start position:0%
+la cuenta del banco santander
+vemos<00:14:13.359><c> que</c><00:14:13.479><c> inmediatamente</c><00:14:13.929><c> nos</c><00:14:14.319><c> trae</c><00:14:14.529><c> un</c>
+
+00:14:14.699 --> 00:14:14.709 align:start position:0%
+vemos que inmediatamente nos trae un
+ 
+
+00:14:14.709 --> 00:14:16.040 align:start position:0%
+vemos que inmediatamente nos trae un
+valor
+
+00:14:16.040 --> 00:14:16.050 align:start position:0%
+valor
+ 
+
+00:14:16.050 --> 00:14:18.230 align:start position:0%
+valor
+vamos<00:14:16.740><c> a</c><00:14:16.830><c> definir</c><00:14:17.160><c> una</c><00:14:17.370><c> fecha</c><00:14:17.490><c> inicial</c><00:14:18.000><c> una</c>
+
+00:14:18.230 --> 00:14:18.240 align:start position:0%
+vamos a definir una fecha inicial una
+ 
+
+00:14:18.240 --> 00:14:19.639 align:start position:0%
+vamos a definir una fecha inicial una
+fecha<00:14:18.510><c> final</c><00:14:18.660><c> como</c><00:14:19.320><c> fecha</c><00:14:19.620><c> inicial</c>
+
+00:14:19.639 --> 00:14:19.649 align:start position:0%
+fecha final como fecha inicial
+ 
+
+00:14:19.649 --> 00:14:22.370 align:start position:0%
+fecha final como fecha inicial
+colocaremos<00:14:20.610><c> el</c><00:14:20.850><c> primero</c><00:14:21.240><c> de</c><00:14:21.330><c> enero</c><00:14:21.450><c> de</c><00:14:21.690><c> 2020</c>
+
+00:14:22.370 --> 00:14:22.380 align:start position:0%
+colocaremos el primero de enero de 2020
+ 
+
+00:14:22.380 --> 00:14:25.070 align:start position:0%
+colocaremos el primero de enero de 2020
+y<00:14:22.920><c> como</c><00:14:23.190><c> fecha</c><00:14:23.459><c> final</c><00:14:23.640><c> el</c><00:14:24.149><c> 30</c><00:14:24.600><c> de</c><00:14:24.720><c> abril</c><00:14:24.779><c> de</c>
+
+00:14:25.070 --> 00:14:25.080 align:start position:0%
+y como fecha final el 30 de abril de
+ 
+
+00:14:25.080 --> 00:14:29.500 align:start position:0%
+y como fecha final el 30 de abril de
+2020
+
+00:14:29.500 --> 00:14:29.510 align:start position:0%
+ 
+ 
+
+00:14:29.510 --> 00:14:32.380 align:start position:0%
+ 
+vemos<00:14:30.110><c> que</c><00:14:30.260><c> el</c><00:14:30.320><c> valor</c><00:14:30.560><c> cambia</c><00:14:31.060><c> ahora</c><00:14:32.060><c> vamos</c><00:14:32.300><c> a</c>
+
+00:14:32.380 --> 00:14:32.390 align:start position:0%
+vemos que el valor cambia ahora vamos a
+ 
+
+00:14:32.390 --> 00:14:34.260 align:start position:0%
+vemos que el valor cambia ahora vamos a
+cambiar<00:14:32.750><c> el</c><00:14:32.840><c> parámetro</c><00:14:33.440><c> de</c><00:14:33.650><c> débito</c><00:14:34.070><c> o</c><00:14:34.100><c> crédito</c>
+
+00:14:34.260 --> 00:14:34.270 align:start position:0%
+cambiar el parámetro de débito o crédito
+ 
+
+00:14:34.270 --> 00:14:37.990 align:start position:0%
+cambiar el parámetro de débito o crédito
+vamos<00:14:35.270><c> a</c><00:14:35.360><c> colocar</c><00:14:35.780><c> la</c><00:14:35.900><c> letra</c><00:14:36.200><c> de</c><00:14:36.550><c> y</c><00:14:37.550><c> nos</c><00:14:37.730><c> trae</c>
+
+00:14:37.990 --> 00:14:38.000 align:start position:0%
+vamos a colocar la letra de y nos trae
+ 
+
+00:14:38.000 --> 00:14:42.009 align:start position:0%
+vamos a colocar la letra de y nos trae
+los<00:14:38.270><c> débitos</c><00:14:38.680><c> si</c><00:14:39.680><c> colocamos</c><00:14:40.070><c> la</c><00:14:40.340><c> letra</c><00:14:40.640><c> c</c>
+
+00:14:42.009 --> 00:14:42.019 align:start position:0%
+los débitos si colocamos la letra c
+ 
+
+00:14:42.019 --> 00:14:45.879 align:start position:0%
+los débitos si colocamos la letra c
+ahora<00:14:42.709><c> nos</c><00:14:42.980><c> trae</c><00:14:43.249><c> los</c><00:14:43.459><c> créditos</c><00:14:44.559><c> esta</c><00:14:45.559><c> función</c>
+
+00:14:45.879 --> 00:14:45.889 align:start position:0%
+ahora nos trae los créditos esta función
+ 
+
+00:14:45.889 --> 00:14:48.040 align:start position:0%
+ahora nos trae los créditos esta función
+es<00:14:45.949><c> muy</c><00:14:46.100><c> útil</c><00:14:46.399><c> para</c><00:14:46.550><c> controlar</c><00:14:46.970><c> las</c><00:14:47.480><c> entradas</c>
+
+00:14:48.040 --> 00:14:48.050 align:start position:0%
+es muy útil para controlar las entradas
+ 
+
+00:14:48.050 --> 00:14:49.720 align:start position:0%
+es muy útil para controlar las entradas
+y<00:14:48.170><c> salidas</c><00:14:48.319><c> de</c><00:14:48.709><c> alguna</c><00:14:49.009><c> cuenta</c><00:14:49.220><c> en</c><00:14:49.489><c> particular</c>
+
+00:14:49.720 --> 00:14:49.730 align:start position:0%
+y salidas de alguna cuenta en particular
+ 
+
+00:14:49.730 --> 00:14:52.920 align:start position:0%
+y salidas de alguna cuenta en particular
+en<00:14:50.540><c> rangos</c><00:14:50.959><c> de</c><00:14:51.050><c> tiempo</c>
+
+00:14:52.920 --> 00:14:52.930 align:start position:0%
+en rangos de tiempo
+ 
+
+00:14:52.930 --> 00:14:56.310 align:start position:0%
+en rangos de tiempo
+función<00:14:53.770><c> nos</c><00:14:54.160><c> cuenta</c><00:14:54.550><c> tercero</c><00:14:55.779><c> esta</c><00:14:55.990><c> función</c>
+
+00:14:56.310 --> 00:14:56.320 align:start position:0%
+función nos cuenta tercero esta función
+ 
+
+00:14:56.320 --> 00:14:58.110 align:start position:0%
+función nos cuenta tercero esta función
+calcula<00:14:56.740><c> los</c><00:14:56.890><c> movimientos</c><00:14:57.339><c> de</c><00:14:57.430><c> una</c><00:14:57.550><c> cuenta</c><00:14:57.850><c> en</c>
+
+00:14:58.110 --> 00:14:58.120 align:start position:0%
+calcula los movimientos de una cuenta en
+ 
+
+00:14:58.120 --> 00:14:59.820 align:start position:0%
+calcula los movimientos de una cuenta en
+un<00:14:58.240><c> periodo</c><00:14:58.570><c> de</c><00:14:58.630><c> tiempo</c><00:14:58.779><c> y</c><00:14:59.080><c> que</c><00:14:59.410><c> se</c><00:14:59.560><c> le</c><00:14:59.680><c> han</c>
+
+00:14:59.820 --> 00:14:59.830 align:start position:0%
+un periodo de tiempo y que se le han
+ 
+
+00:14:59.830 --> 00:15:03.260 align:start position:0%
+un periodo de tiempo y que se le han
+imputado<00:15:00.040><c> a</c><00:15:00.580><c> un</c><00:15:00.760><c> tercero</c><00:15:01.270><c> determinado</c>
+
+00:15:03.260 --> 00:15:03.270 align:start position:0%
+imputado a un tercero determinado
+ 
+
+00:15:03.270 --> 00:15:05.300 align:start position:0%
+imputado a un tercero determinado
+esta<00:15:03.900><c> función</c><00:15:04.290><c> es</c><00:15:04.560><c> muy</c><00:15:04.710><c> parecida</c><00:15:05.190><c> a</c><00:15:05.220><c> la</c>
+
+00:15:05.300 --> 00:15:05.310 align:start position:0%
+esta función es muy parecida a la
+ 
+
+00:15:05.310 --> 00:15:07.340 align:start position:0%
+esta función es muy parecida a la
+anterior<00:15:05.400><c> solo</c><00:15:06.180><c> que</c><00:15:06.300><c> adicionalmente</c><00:15:06.810><c> permite</c>
+
+00:15:07.340 --> 00:15:07.350 align:start position:0%
+anterior solo que adicionalmente permite
+ 
+
+00:15:07.350 --> 00:15:09.230 align:start position:0%
+anterior solo que adicionalmente permite
+traer<00:15:07.590><c> los</c><00:15:07.860><c> movimientos</c><00:15:08.550><c> de</c><00:15:08.760><c> dicho</c><00:15:09.000><c> crédito</c>
+
+00:15:09.230 --> 00:15:09.240 align:start position:0%
+traer los movimientos de dicho crédito
+ 
+
+00:15:09.240 --> 00:15:12.650 align:start position:0%
+traer los movimientos de dicho crédito
+de<00:15:10.200><c> una</c><00:15:10.410><c> cuenta</c><00:15:10.740><c> añadiendo</c><00:15:11.580><c> el</c><00:15:11.730><c> dato</c><00:15:12.060><c> tercero</c>
+
+00:15:12.650 --> 00:15:12.660 align:start position:0%
+de una cuenta añadiendo el dato tercero
+ 
+
+00:15:12.660 --> 00:15:15.200 align:start position:0%
+de una cuenta añadiendo el dato tercero
+ya<00:15:13.260><c> tenemos</c><00:15:13.530><c> la</c><00:15:13.740><c> función</c><00:15:13.890><c> con</c><00:15:14.520><c> algunos</c><00:15:14.910><c> datos</c>
+
+00:15:15.200 --> 00:15:15.210 align:start position:0%
+ya tenemos la función con algunos datos
+ 
+
+00:15:15.210 --> 00:15:18.140 align:start position:0%
+ya tenemos la función con algunos datos
+como<00:15:15.480><c> son</c><00:15:15.660><c> la</c><00:15:15.900><c> cuenta</c><00:15:16.380><c> la</c><00:15:17.070><c> fecha</c><00:15:17.250><c> inicial</c><00:15:17.760><c> y</c><00:15:18.030><c> la</c>
+
+00:15:18.140 --> 00:15:18.150 align:start position:0%
+como son la cuenta la fecha inicial y la
+ 
+
+00:15:18.150 --> 00:15:20.600 align:start position:0%
+como son la cuenta la fecha inicial y la
+fecha<00:15:18.330><c> final</c><00:15:18.750><c> vamos</c><00:15:19.650><c> a</c><00:15:19.860><c> colocar</c><00:15:20.280><c> en</c><00:15:20.520><c> el</c>
+
+00:15:20.600 --> 00:15:20.610 align:start position:0%
+fecha final vamos a colocar en el
+ 
+
+00:15:20.610 --> 00:15:22.640 align:start position:0%
+fecha final vamos a colocar en el
+argumento<00:15:21.210><c> de</c><00:15:21.360><c> hábito</c><00:15:21.630><c> crédito</c><00:15:22.110><c> la</c><00:15:22.230><c> letra</c><00:15:22.500><c> ce</c>
+
+00:15:22.640 --> 00:15:22.650 align:start position:0%
+argumento de hábito crédito la letra ce
+ 
+
+00:15:22.650 --> 00:15:26.569 align:start position:0%
+argumento de hábito crédito la letra ce
+para<00:15:22.860><c> que</c><00:15:22.950><c> nos</c><00:15:23.190><c> traiga</c><00:15:23.490><c> los</c><00:15:23.640><c> créditos</c>
+
+00:15:26.569 --> 00:15:26.579 align:start position:0%
+ 
+ 
+
+00:15:26.579 --> 00:15:28.549 align:start position:0%
+ 
+ahora<00:15:27.239><c> vamos</c><00:15:27.420><c> a</c><00:15:27.600><c> cargar</c><00:15:27.839><c> un</c><00:15:28.049><c> tercero</c>
+
+00:15:28.549 --> 00:15:28.559 align:start position:0%
+ahora vamos a cargar un tercero
+ 
+
+00:15:28.559 --> 00:15:34.720 align:start position:0%
+ahora vamos a cargar un tercero
+utilizando<00:15:29.429><c> el</c><00:15:29.610><c> seleccionador</c><00:15:30.329><c> de</c><00:15:30.480><c> terceros</c>
+
+00:15:34.720 --> 00:15:34.730 align:start position:0%
+ 
+ 
+
+00:15:34.730 --> 00:15:37.000 align:start position:0%
+ 
+en<00:15:35.240><c> este</c><00:15:35.480><c> caso</c><00:15:35.810><c> vamos</c><00:15:36.110><c> a</c><00:15:36.199><c> buscar</c><00:15:36.529><c> al</c><00:15:36.680><c> señor</c>
+
+00:15:37.000 --> 00:15:37.010 align:start position:0%
+en este caso vamos a buscar al señor
+ 
+
+00:15:37.010 --> 00:15:41.050 align:start position:0%
+en este caso vamos a buscar al señor
+diego<00:15:37.220><c> grajales</c><00:15:38.199><c> damos</c><00:15:39.199><c> doble</c><00:15:39.440><c> clic</c><00:15:39.760><c> y</c><00:15:40.760><c> vemos</c>
+
+00:15:41.050 --> 00:15:41.060 align:start position:0%
+diego grajales damos doble clic y vemos
+ 
+
+00:15:41.060 --> 00:15:43.120 align:start position:0%
+diego grajales damos doble clic y vemos
+que<00:15:41.209><c> nos</c><00:15:41.360><c> traen</c><00:15:41.779><c> un</c><00:15:41.870><c> valor</c><00:15:42.170><c> en</c><00:15:42.350><c> este</c><00:15:42.620><c> caso</c><00:15:42.949><c> son</c>
+
+00:15:43.120 --> 00:15:43.130 align:start position:0%
+que nos traen un valor en este caso son
+ 
+
+00:15:43.130 --> 00:15:44.740 align:start position:0%
+que nos traen un valor en este caso son
+todos<00:15:43.430><c> los</c><00:15:43.519><c> ingresos</c><00:15:44.029><c> es</c><00:15:44.269><c> decir</c><00:15:44.420><c> los</c>
+
+00:15:44.740 --> 00:15:44.750 align:start position:0%
+todos los ingresos es decir los
+ 
+
+00:15:44.750 --> 00:15:47.259 align:start position:0%
+todos los ingresos es decir los
+movimientos<00:15:45.290><c> de</c><00:15:45.380><c> la</c><00:15:45.470><c> cuenta</c><00:15:45.589><c> 41</c><00:15:46.490><c> entre</c><00:15:47.149><c> el</c>
+
+00:15:47.259 --> 00:15:47.269 align:start position:0%
+movimientos de la cuenta 41 entre el
+ 
+
+00:15:47.269 --> 00:15:49.420 align:start position:0%
+movimientos de la cuenta 41 entre el
+primero<00:15:47.660><c> y</c><00:15:47.690><c> el</c><00:15:47.810><c> 30</c><00:15:48.170><c> de</c><00:15:48.230><c> abril</c><00:15:48.290><c> del</c><00:15:48.800><c> señor</c><00:15:49.130><c> diego</c>
+
+00:15:49.420 --> 00:15:49.430 align:start position:0%
+primero y el 30 de abril del señor diego
+ 
+
+00:15:49.430 --> 00:15:52.360 align:start position:0%
+primero y el 30 de abril del señor diego
+grajales<00:15:50.139><c> para</c><00:15:51.139><c> el</c><00:15:51.199><c> tercero</c><00:15:51.560><c> también</c><00:15:51.889><c> existe</c>
+
+00:15:52.360 --> 00:15:52.370 align:start position:0%
+grajales para el tercero también existe
+ 
+
+00:15:52.370 --> 00:15:57.879 align:start position:0%
+grajales para el tercero también existe
+una<00:15:52.579><c> función</c><00:15:53.000><c> que</c><00:15:53.540><c> nos</c><00:15:53.720><c> trae</c><00:15:53.930><c> su</c><00:15:54.139><c> nombre</c><00:15:54.500><c> igual</c>
+
+00:15:57.879 --> 00:15:57.889 align:start position:0%
+ 
+ 
+
+00:15:57.889 --> 00:16:01.420 align:start position:0%
+ 
+nombre<00:15:58.609><c> tercero</c>
+
+00:16:01.420 --> 00:16:01.430 align:start position:0%
+ 
+ 
+
+00:16:01.430 --> 00:16:04.389 align:start position:0%
+ 
+referenciamos<00:16:02.360><c> la</c><00:16:02.510><c> celda</c><00:16:02.950><c> y</c><00:16:03.950><c> en</c><00:16:04.040><c> este</c><00:16:04.250><c> caso</c>
+
+00:16:04.389 --> 00:16:04.399 align:start position:0%
+referenciamos la celda y en este caso
+ 
+
+00:16:04.399 --> 00:16:06.519 align:start position:0%
+referenciamos la celda y en este caso
+tenemos<00:16:04.850><c> el</c><00:16:04.970><c> nombre</c><00:16:05.300><c> del</c><00:16:05.570><c> señor</c><00:16:05.870><c> diego</c><00:16:06.140><c> brajá</c>
+
+00:16:06.519 --> 00:16:06.529 align:start position:0%
+tenemos el nombre del señor diego brajá
+ 
+
+00:16:06.529 --> 00:16:09.880 align:start position:0%
+tenemos el nombre del señor diego brajá
+les<00:16:06.910><c> vamos</c><00:16:07.910><c> a</c><00:16:08.120><c> cargar</c><00:16:08.360><c> otro</c><00:16:08.690><c> tercero</c><00:16:09.200><c> abrimos</c>
+
+00:16:09.880 --> 00:16:09.890 align:start position:0%
+les vamos a cargar otro tercero abrimos
+ 
+
+00:16:09.890 --> 00:16:13.000 align:start position:0%
+les vamos a cargar otro tercero abrimos
+el<00:16:10.040><c> seleccionador</c><00:16:10.760><c> en</c><00:16:11.720><c> este</c><00:16:11.990><c> caso</c><00:16:12.350><c> vamos</c><00:16:12.890><c> a</c>
+
+00:16:13.000 --> 00:16:13.010 align:start position:0%
+el seleccionador en este caso vamos a
+ 
+
+00:16:13.010 --> 00:16:17.170 align:start position:0%
+el seleccionador en este caso vamos a
+buscar<00:16:13.450><c> a</c><00:16:14.450><c> la</c><00:16:14.570><c> señora</c><00:16:15.050><c> juana</c><00:16:15.560><c> romana</c><00:16:16.180><c> vemos</c>
+
+00:16:17.170 --> 00:16:17.180 align:start position:0%
+buscar a la señora juana romana vemos
+ 
+
+00:16:17.180 --> 00:16:18.820 align:start position:0%
+buscar a la señora juana romana vemos
+que<00:16:17.330><c> ella</c><00:16:17.540><c> también</c><00:16:17.779><c> tiene</c><00:16:17.899><c> movimientos</c><00:16:18.589><c> para</c>
+
+00:16:18.820 --> 00:16:18.830 align:start position:0%
+que ella también tiene movimientos para
+ 
+
+00:16:18.830 --> 00:16:21.430 align:start position:0%
+que ella también tiene movimientos para
+la<00:16:18.920><c> cuenta</c><00:16:19.160><c> 41</c><00:16:19.940><c> entre</c><00:16:20.330><c> el</c><00:16:20.450><c> primero</c><00:16:20.839><c> de</c><00:16:20.959><c> abril</c><00:16:21.020><c> y</c>
+
+00:16:21.430 --> 00:16:21.440 align:start position:0%
+la cuenta 41 entre el primero de abril y
+ 
+
+00:16:21.440 --> 00:16:24.220 align:start position:0%
+la cuenta 41 entre el primero de abril y
+el<00:16:21.529><c> 30</c><00:16:21.950><c> de</c><00:16:22.040><c> abril</c><00:16:22.600><c> vemos</c><00:16:23.600><c> que</c><00:16:23.720><c> es</c><00:16:23.779><c> muy</c><00:16:23.870><c> sencillo</c>
+
+00:16:24.220 --> 00:16:24.230 align:start position:0%
+el 30 de abril vemos que es muy sencillo
+ 
+
+00:16:24.230 --> 00:16:25.810 align:start position:0%
+el 30 de abril vemos que es muy sencillo
+con<00:16:24.350><c> esta</c><00:16:24.620><c> función</c><00:16:25.010><c> consultar</c><00:16:25.640><c> los</c>
+
+00:16:25.810 --> 00:16:25.820 align:start position:0%
+con esta función consultar los
+ 
+
+00:16:25.820 --> 00:16:28.090 align:start position:0%
+con esta función consultar los
+movimientos<00:16:26.330><c> generados</c><00:16:26.690><c> por</c><00:16:27.020><c> una</c><00:16:27.200><c> cuenta</c><00:16:27.560><c> y</c>
+
+00:16:28.090 --> 00:16:28.100 align:start position:0%
+movimientos generados por una cuenta y
+ 
+
+00:16:28.100 --> 00:16:31.020 align:start position:0%
+movimientos generados por una cuenta y
+con<00:16:28.279><c> un</c><00:16:28.399><c> tercero</c><00:16:28.910><c> específico</c>
+
+00:16:31.020 --> 00:16:31.030 align:start position:0%
+con un tercero específico
+ 
+
+00:16:31.030 --> 00:16:34.260 align:start position:0%
+con un tercero específico
+informe<00:16:31.900><c> de</c><00:16:31.990><c> contabilidad</c><00:16:32.290><c> completo</c><00:16:33.160><c> con</c><00:16:34.150><c> las</c>
+
+00:16:34.260 --> 00:16:34.270 align:start position:0%
+informe de contabilidad completo con las
+ 
+
+00:16:34.270 --> 00:16:36.060 align:start position:0%
+informe de contabilidad completo con las
+funciones<00:16:34.690><c> vistas</c><00:16:35.020><c> anteriormente</c><00:16:35.530><c> vamos</c><00:16:35.980><c> a</c>
+
+00:16:36.060 --> 00:16:36.070 align:start position:0%
+funciones vistas anteriormente vamos a
+ 
+
+00:16:36.070 --> 00:16:38.370 align:start position:0%
+funciones vistas anteriormente vamos a
+construir<00:16:36.610><c> un</c><00:16:36.700><c> informe</c><00:16:37.120><c> que</c><00:16:37.270><c> nos</c><00:16:37.420><c> muestre</c><00:16:37.900><c> los</c>
+
+00:16:38.370 --> 00:16:38.380 align:start position:0%
+construir un informe que nos muestre los
+ 
+
+00:16:38.380 --> 00:16:40.230 align:start position:0%
+construir un informe que nos muestre los
+movimientos<00:16:38.920><c> de</c><00:16:39.010><c> algunas</c><00:16:39.310><c> cuentas</c><00:16:39.550><c> en</c><00:16:39.880><c> rango</c>
+
+00:16:40.230 --> 00:16:40.240 align:start position:0%
+movimientos de algunas cuentas en rango
+ 
+
+00:16:40.240 --> 00:16:42.540 align:start position:0%
+movimientos de algunas cuentas en rango
+de<00:16:40.270><c> tiempo</c><00:16:40.530><c> aplicando</c><00:16:41.530><c> variables</c><00:16:42.310><c> como</c>
+
+00:16:42.540 --> 00:16:42.550 align:start position:0%
+de tiempo aplicando variables como
+ 
+
+00:16:42.550 --> 00:16:45.910 align:start position:0%
+de tiempo aplicando variables como
+tercero<00:16:43.060><c> y</c><00:16:43.090><c> centro</c><00:16:43.480><c> de</c><00:16:43.570><c> costos</c>
+
+00:16:45.910 --> 00:16:45.920 align:start position:0%
+tercero y centro de costos
+ 
+
+00:16:45.920 --> 00:16:47.620 align:start position:0%
+tercero y centro de costos
+este<00:16:46.490><c> es</c><00:16:46.579><c> el</c><00:16:46.670><c> informe</c><00:16:46.850><c> que</c><00:16:47.209><c> hemos</c><00:16:47.329><c> creado</c>
+
+00:16:47.620 --> 00:16:47.630 align:start position:0%
+este es el informe que hemos creado
+ 
+
+00:16:47.630 --> 00:16:49.530 align:start position:0%
+este es el informe que hemos creado
+dentro<00:16:48.410><c> de</c><00:16:48.529><c> contexto</c>
+
+00:16:49.530 --> 00:16:49.540 align:start position:0%
+dentro de contexto
+ 
+
+00:16:49.540 --> 00:16:52.420 align:start position:0%
+dentro de contexto
+utilizamos<00:16:50.540><c> una</c><00:16:50.990><c> función</c><00:16:51.410><c> llamada</c><00:16:51.560><c> nombre</c><00:16:52.370><c> de</c>
+
+00:16:52.420 --> 00:16:52.430 align:start position:0%
+utilizamos una función llamada nombre de
+ 
+
+00:16:52.430 --> 00:16:54.610 align:start position:0%
+utilizamos una función llamada nombre de
+empresa<00:16:52.790><c> de</c><00:16:52.910><c> trabajo</c><00:16:53.360><c> activa</c><00:16:53.720><c> para</c><00:16:54.350><c> que</c><00:16:54.470><c> nos</c>
+
+00:16:54.610 --> 00:16:54.620 align:start position:0%
+empresa de trabajo activa para que nos
+ 
+
+00:16:54.620 --> 00:16:56.410 align:start position:0%
+empresa de trabajo activa para que nos
+trajera<00:16:55.070><c> el</c><00:16:55.100><c> nombre</c><00:16:55.639><c> de</c><00:16:55.700><c> nuestra</c><00:16:56.029><c> empresa</c><00:16:56.149><c> que</c>
+
+00:16:56.410 --> 00:16:56.420 align:start position:0%
+trajera el nombre de nuestra empresa que
+ 
+
+00:16:56.420 --> 00:16:58.829 align:start position:0%
+trajera el nombre de nuestra empresa que
+en<00:16:56.600><c> este</c><00:16:56.810><c> caso</c><00:16:57.139><c> es</c><00:16:57.260><c> demo</c><00:16:57.529><c> computadores</c>
+
+00:16:58.829 --> 00:16:58.839 align:start position:0%
+en este caso es demo computadores
+ 
+
+00:16:58.839 --> 00:17:01.329 align:start position:0%
+en este caso es demo computadores
+también<00:16:59.839><c> creamos</c><00:17:00.139><c> unos</c><00:17:00.529><c> rangos</c><00:17:00.889><c> de</c><00:17:01.010><c> fecha</c>
+
+00:17:01.329 --> 00:17:01.339 align:start position:0%
+también creamos unos rangos de fecha
+ 
+
+00:17:01.339 --> 00:17:03.730 align:start position:0%
+también creamos unos rangos de fecha
+inicial<00:17:01.730><c> y</c><00:17:01.940><c> fecha</c><00:17:02.240><c> final</c><00:17:02.570><c> utilizando</c><00:17:03.500><c> una</c>
+
+00:17:03.730 --> 00:17:03.740 align:start position:0%
+inicial y fecha final utilizando una
+ 
+
+00:17:03.740 --> 00:17:06.309 align:start position:0%
+inicial y fecha final utilizando una
+función<00:17:04.100><c> sencilla</c><00:17:04.610><c> de</c><00:17:04.730><c> fecha</c><00:17:05.120><c> pero</c><00:17:05.990><c> la</c><00:17:06.020><c> fecha</c>
+
+00:17:06.309 --> 00:17:06.319 align:start position:0%
+función sencilla de fecha pero la fecha
+ 
+
+00:17:06.319 --> 00:17:08.710 align:start position:0%
+función sencilla de fecha pero la fecha
+final<00:17:06.770><c> la</c><00:17:07.189><c> creamos</c><00:17:07.579><c> utilizando</c><00:17:08.449><c> la</c><00:17:08.569><c> función</c>
+
+00:17:08.710 --> 00:17:08.720 align:start position:0%
+final la creamos utilizando la función
+ 
+
+00:17:08.720 --> 00:17:11.949 align:start position:0%
+final la creamos utilizando la función
+último<00:17:09.709><c> día</c><00:17:09.890><c> mes</c><00:17:10.160><c> que</c><00:17:10.790><c> es</c><00:17:10.939><c> una</c><00:17:11.209><c> función</c><00:17:11.689><c> propia</c>
+
+00:17:11.949 --> 00:17:11.959 align:start position:0%
+último día mes que es una función propia
+ 
+
+00:17:11.959 --> 00:17:15.309 align:start position:0%
+último día mes que es una función propia
+de<00:17:12.439><c> context</c><00:17:13.069><c> el</c><00:17:13.419><c> también</c><00:17:14.419><c> definimos</c><00:17:14.809><c> algunos</c>
+
+00:17:15.309 --> 00:17:15.319 align:start position:0%
+de context el también definimos algunos
+ 
+
+00:17:15.319 --> 00:17:17.199 align:start position:0%
+de context el también definimos algunos
+parámetros<00:17:15.770><c> como</c><00:17:16.160><c> son</c><00:17:16.189><c> el</c><00:17:16.520><c> código</c><00:17:16.970><c> de</c><00:17:17.059><c> la</c>
+
+00:17:17.199 --> 00:17:17.209 align:start position:0%
+parámetros como son el código de la
+ 
+
+00:17:17.209 --> 00:17:18.819 align:start position:0%
+parámetros como son el código de la
+empresa
+
+00:17:18.819 --> 00:17:18.829 align:start position:0%
+empresa
+ 
+
+00:17:18.829 --> 00:17:22.960 align:start position:0%
+empresa
+el<00:17:19.159><c> tercero</c><00:17:19.909><c> el</c><00:17:20.480><c> centro</c><00:17:20.929><c> de</c><00:17:21.049><c> costos</c><00:17:21.620><c> el</c><00:17:22.549><c> tipo</c>
+
+00:17:22.960 --> 00:17:22.970 align:start position:0%
+el tercero el centro de costos el tipo
+ 
+
+00:17:22.970 --> 00:17:26.649 align:start position:0%
+el tercero el centro de costos el tipo
+de<00:17:23.089><c> movimiento</c><00:17:23.559><c> débito</c><00:17:24.559><c> o</c><00:17:24.589><c> crédito</c><00:17:24.679><c> o</c><00:17:25.579><c> saldo</c><00:17:26.089><c> y</c>
+
+00:17:26.649 --> 00:17:26.659 align:start position:0%
+de movimiento débito o crédito o saldo y
+ 
+
+00:17:26.659 --> 00:17:29.470 align:start position:0%
+de movimiento débito o crédito o saldo y
+el<00:17:26.750><c> tipo</c><00:17:27.169><c> de</c><00:17:27.289><c> contabilización</c>
+
+00:17:29.470 --> 00:17:29.480 align:start position:0%
+el tipo de contabilización
+ 
+
+00:17:29.480 --> 00:17:31.900 align:start position:0%
+el tipo de contabilización
+en<00:17:29.990><c> la</c><00:17:30.110><c> parte</c><00:17:30.470><c> inferior</c><00:17:30.590><c> cargamos</c><00:17:31.429><c> las</c>
+
+00:17:31.900 --> 00:17:31.910 align:start position:0%
+en la parte inferior cargamos las
+ 
+
+00:17:31.910 --> 00:17:33.640 align:start position:0%
+en la parte inferior cargamos las
+cuentas<00:17:32.419><c> desde</c><00:17:32.720><c> el</c><00:17:32.809><c> seleccionador</c><00:17:33.500><c> de</c>
+
+00:17:33.640 --> 00:17:33.650 align:start position:0%
+cuentas desde el seleccionador de
+ 
+
+00:17:33.650 --> 00:17:36.490 align:start position:0%
+cuentas desde el seleccionador de
+cuentas<00:17:34.210><c> utilizamos</c><00:17:35.210><c> la</c><00:17:35.510><c> función</c><00:17:36.020><c> nombre</c>
+
+00:17:36.490 --> 00:17:36.500 align:start position:0%
+cuentas utilizamos la función nombre
+ 
+
+00:17:36.500 --> 00:17:39.909 align:start position:0%
+cuentas utilizamos la función nombre
+cuenta<00:17:36.950><c> y</c><00:17:37.640><c> lo</c><00:17:37.850><c> que</c><00:17:37.970><c> pretendemos</c><00:17:38.480><c> hacer</c><00:17:38.750><c> es</c><00:17:39.200><c> por</c>
+
+00:17:39.909 --> 00:17:39.919 align:start position:0%
+cuenta y lo que pretendemos hacer es por
+ 
+
+00:17:39.919 --> 00:17:42.700 align:start position:0%
+cuenta y lo que pretendemos hacer es por
+cada<00:17:40.280><c> una</c><00:17:40.549><c> de</c><00:17:40.700><c> estas</c><00:17:41.000><c> fechas</c><00:17:41.390><c> es</c><00:17:41.600><c> decir</c><00:17:41.960><c> por</c><00:17:42.620><c> el</c>
+
+00:17:42.700 --> 00:17:42.710 align:start position:0%
+cada una de estas fechas es decir por el
+ 
+
+00:17:42.710 --> 00:17:47.039 align:start position:0%
+cada una de estas fechas es decir por el
+mes<00:17:42.919><c> de</c><00:17:43.070><c> enero</c><00:17:43.160><c> de</c><00:17:43.520><c> 2019</c><00:17:44.179><c> de</c><00:17:45.049><c> febrero</c><00:17:45.620><c> de</c><00:17:46.070><c> marzo</c>
+
+00:17:47.039 --> 00:17:47.049 align:start position:0%
+mes de enero de 2019 de febrero de marzo
+ 
+
+00:17:47.049 --> 00:17:51.070 align:start position:0%
+mes de enero de 2019 de febrero de marzo
+todo<00:17:48.049><c> esto</c><00:17:48.290><c> para</c><00:17:48.530><c> el</c><00:17:48.620><c> año</c><00:17:48.830><c> 2019</c><00:17:49.690><c> y</c><00:17:50.690><c> también</c>
+
+00:17:51.070 --> 00:17:51.080 align:start position:0%
+todo esto para el año 2019 y también
+ 
+
+00:17:51.080 --> 00:17:54.850 align:start position:0%
+todo esto para el año 2019 y también
+para<00:17:51.350><c> el</c><00:17:51.440><c> año</c><00:17:51.650><c> 2018</c><00:17:52.480><c> vamos</c><00:17:53.480><c> a</c><00:17:53.720><c> llamar</c><00:17:54.049><c> a</c><00:17:54.470><c> través</c>
+
+00:17:54.850 --> 00:17:54.860 align:start position:0%
+para el año 2018 vamos a llamar a través
+ 
+
+00:17:54.860 --> 00:17:57.970 align:start position:0%
+para el año 2018 vamos a llamar a través
+de<00:17:54.980><c> la</c><00:17:55.100><c> función</c><00:17:55.549><c> cuenta</c><00:17:56.150><c> tercero</c><00:17:56.900><c> los</c><00:17:57.530><c> valores</c>
+
+00:17:57.970 --> 00:17:57.980 align:start position:0%
+de la función cuenta tercero los valores
+ 
+
+00:17:57.980 --> 00:18:01.180 align:start position:0%
+de la función cuenta tercero los valores
+de<00:17:58.160><c> las</c><00:17:58.309><c> cuentas</c><00:17:58.820><c> 4</c><00:17:59.540><c> y</c><00:17:59.570><c> 5</c><00:18:00.080><c> para</c><00:18:00.410><c> cada</c><00:18:00.799><c> uno</c><00:18:01.070><c> de</c>
+
+00:18:01.180 --> 00:18:01.190 align:start position:0%
+de las cuentas 4 y 5 para cada uno de
+ 
+
+00:18:01.190 --> 00:18:06.860 align:start position:0%
+de las cuentas 4 y 5 para cada uno de
+estos<00:18:01.549><c> meses</c>
+
+00:18:06.860 --> 00:18:06.870 align:start position:0%
+ 
+ 
+
+00:18:06.870 --> 00:18:08.540 align:start position:0%
+ 
+esta<00:18:07.500><c> es</c><00:18:07.559><c> la</c><00:18:07.620><c> función</c><00:18:07.770><c> que</c><00:18:08.100><c> vamos</c><00:18:08.340><c> a</c><00:18:08.430><c> utilizar</c>
+
+00:18:08.540 --> 00:18:08.550 align:start position:0%
+esta es la función que vamos a utilizar
+ 
+
+00:18:08.550 --> 00:18:11.540 align:start position:0%
+esta es la función que vamos a utilizar
+mod<00:18:09.480><c> 30</c><00:18:09.870><c> tercero</c>
+
+00:18:11.540 --> 00:18:11.550 align:start position:0%
+mod 30 tercero
+ 
+
+00:18:11.550 --> 00:18:13.520 align:start position:0%
+mod 30 tercero
+tenemos<00:18:11.880><c> referenciado</c><00:18:12.630><c> el</c><00:18:12.809><c> código</c><00:18:13.290><c> de</c><00:18:13.380><c> la</c>
+
+00:18:13.520 --> 00:18:13.530 align:start position:0%
+tenemos referenciado el código de la
+ 
+
+00:18:13.530 --> 00:18:17.840 align:start position:0%
+tenemos referenciado el código de la
+cuenta<00:18:14.030><c> el</c><00:18:15.030><c> tercero</c><00:18:15.750><c> el</c><00:18:16.620><c> tipo</c><00:18:17.040><c> de</c><00:18:17.160><c> movimiento</c>
+
+00:18:17.840 --> 00:18:17.850 align:start position:0%
+cuenta el tercero el tipo de movimiento
+ 
+
+00:18:17.850 --> 00:18:21.080 align:start position:0%
+cuenta el tercero el tipo de movimiento
+en<00:18:18.000><c> este</c><00:18:18.330><c> caso</c><00:18:18.690><c> sería</c><00:18:18.960><c> la</c><00:18:18.990><c> s</c><00:18:19.470><c> de</c><00:18:19.590><c> saldo</c><00:18:20.090><c> las</c>
+
+00:18:21.080 --> 00:18:21.090 align:start position:0%
+en este caso sería la s de saldo las
+ 
+
+00:18:21.090 --> 00:18:24.410 align:start position:0%
+en este caso sería la s de saldo las
+fechas<00:18:21.510><c> inicial</c><00:18:21.960><c> y</c><00:18:22.050><c> final</c><00:18:22.610><c> la</c><00:18:23.610><c> empresa</c><00:18:24.150><c> el</c>
+
+00:18:24.410 --> 00:18:24.420 align:start position:0%
+fechas inicial y final la empresa el
+ 
+
+00:18:24.420 --> 00:18:26.840 align:start position:0%
+fechas inicial y final la empresa el
+centro<00:18:24.900><c> de</c><00:18:24.990><c> costos</c><00:18:25.530><c> y</c><00:18:26.280><c> el</c><00:18:26.370><c> tipo</c><00:18:26.730><c> de</c>
+
+00:18:26.840 --> 00:18:26.850 align:start position:0%
+centro de costos y el tipo de
+ 
+
+00:18:26.850 --> 00:18:29.360 align:start position:0%
+centro de costos y el tipo de
+contabilización<00:18:27.740><c> como</c><00:18:28.740><c> esta</c><00:18:28.980><c> función</c>
+
+00:18:29.360 --> 00:18:29.370 align:start position:0%
+contabilización como esta función
+ 
+
+00:18:29.370 --> 00:18:32.090 align:start position:0%
+contabilización como esta función
+queremos<00:18:29.790><c> arrastrarla</c><00:18:30.600><c> hacia</c><00:18:31.260><c> la</c><00:18:31.559><c> derecha</c><00:18:31.800><c> y</c>
+
+00:18:32.090 --> 00:18:32.100 align:start position:0%
+queremos arrastrarla hacia la derecha y
+ 
+
+00:18:32.100 --> 00:18:34.430 align:start position:0%
+queremos arrastrarla hacia la derecha y
+hacia<00:18:32.610><c> abajo</c><00:18:32.760><c> debemos</c><00:18:33.630><c> tener</c><00:18:33.870><c> presente</c><00:18:34.410><c> que</c>
+
+00:18:34.430 --> 00:18:34.440 align:start position:0%
+hacia abajo debemos tener presente que
+ 
+
+00:18:34.440 --> 00:18:37.400 align:start position:0%
+hacia abajo debemos tener presente que
+datos<00:18:34.920><c> deben</c><00:18:35.220><c> quedar</c><00:18:35.520><c> fijados</c><00:18:36.030><c> por</c><00:18:36.870><c> ejemplo</c>
+
+00:18:37.400 --> 00:18:37.410 align:start position:0%
+datos deben quedar fijados por ejemplo
+ 
+
+00:18:37.410 --> 00:18:39.770 align:start position:0%
+datos deben quedar fijados por ejemplo
+el<00:18:37.620><c> dato</c><00:18:37.830><c> cuenta</c><00:18:38.370><c> debe</c><00:18:38.730><c> quedar</c><00:18:39.030><c> fijado</c><00:18:39.480><c> en</c><00:18:39.660><c> la</c>
+
+00:18:39.770 --> 00:18:39.780 align:start position:0%
+el dato cuenta debe quedar fijado en la
+ 
+
+00:18:39.780 --> 00:18:42.710 align:start position:0%
+el dato cuenta debe quedar fijado en la
+columna<00:18:40.260><c> para</c><00:18:41.100><c> poder</c><00:18:41.400><c> fijar</c><00:18:41.580><c> este</c><00:18:42.030><c> dato</c><00:18:42.390><c> nos</c>
+
+00:18:42.710 --> 00:18:42.720 align:start position:0%
+columna para poder fijar este dato nos
+ 
+
+00:18:42.720 --> 00:18:46.220 align:start position:0%
+columna para poder fijar este dato nos
+ubicamos<00:18:43.170><c> en</c><00:18:43.890><c> la</c><00:18:44.010><c> fila</c><00:18:44.460><c> o</c><00:18:44.490><c> en</c><00:18:44.730><c> la</c><00:18:44.880><c> columna</c><00:18:45.480><c> y</c>
+
+00:18:46.220 --> 00:18:46.230 align:start position:0%
+ubicamos en la fila o en la columna y
+ 
+
+00:18:46.230 --> 00:18:48.710 align:start position:0%
+ubicamos en la fila o en la columna y
+con<00:18:46.410><c> el</c><00:18:46.559><c> signo</c><00:18:46.980><c> de</c><00:18:47.100><c> pesos</c><00:18:47.250><c> fijamos</c><00:18:48.150><c> dicho</c>
+
+00:18:48.710 --> 00:18:48.720 align:start position:0%
+con el signo de pesos fijamos dicho
+ 
+
+00:18:48.720 --> 00:18:51.230 align:start position:0%
+con el signo de pesos fijamos dicho
+valor<00:18:49.550><c> también</c><00:18:50.550><c> vamos</c><00:18:50.730><c> a</c><00:18:50.970><c> fijar</c>
+
+00:18:51.230 --> 00:18:51.240 align:start position:0%
+valor también vamos a fijar
+ 
+
+00:18:51.240 --> 00:18:53.660 align:start position:0%
+valor también vamos a fijar
+completamente<00:18:52.050><c> el</c><00:18:52.230><c> dato</c><00:18:52.590><c> tercero</c><00:18:53.100><c> para</c><00:18:53.370><c> poder</c>
+
+00:18:53.660 --> 00:18:53.670 align:start position:0%
+completamente el dato tercero para poder
+ 
+
+00:18:53.670 --> 00:18:56.750 align:start position:0%
+completamente el dato tercero para poder
+hacer<00:18:53.910><c> el</c><00:18:54.000><c> arrastre</c><00:18:54.630><c> al</c><00:18:55.500><c> igual</c><00:18:55.800><c> que</c><00:18:56.280><c> el</c><00:18:56.370><c> tipo</c>
+
+00:18:56.750 --> 00:18:56.760 align:start position:0%
+hacer el arrastre al igual que el tipo
+ 
+
+00:18:56.760 --> 00:18:59.780 align:start position:0%
+hacer el arrastre al igual que el tipo
+de<00:18:56.910><c> movimiento</c><00:18:57.140><c> débito</c><00:18:58.140><c> o</c><00:18:58.170><c> crédito</c><00:18:58.670><c> para</c><00:18:59.670><c> la</c>
+
+00:18:59.780 --> 00:18:59.790 align:start position:0%
+de movimiento débito o crédito para la
+ 
+
+00:18:59.790 --> 00:19:02.810 align:start position:0%
+de movimiento débito o crédito para la
+fecha<00:19:00.120><c> sólo</c><00:19:00.450><c> vamos</c><00:19:00.720><c> a</c><00:19:00.809><c> fijar</c><00:19:01.170><c> la</c><00:19:01.500><c> fila</c><00:19:01.860><c> el</c>
+
+00:19:02.810 --> 00:19:02.820 align:start position:0%
+fecha sólo vamos a fijar la fila el
+ 
+
+00:19:02.820 --> 00:19:04.640 align:start position:0%
+fecha sólo vamos a fijar la fila el
+código<00:19:03.300><c> de</c><00:19:03.390><c> la</c><00:19:03.480><c> empresa</c><00:19:03.870><c> lo</c><00:19:04.020><c> vamos</c><00:19:04.260><c> a</c><00:19:04.380><c> fijar</c>
+
+00:19:04.640 --> 00:19:04.650 align:start position:0%
+código de la empresa lo vamos a fijar
+ 
+
+00:19:04.650 --> 00:19:07.070 align:start position:0%
+código de la empresa lo vamos a fijar
+completamente<00:19:05.550><c> también</c><00:19:06.330><c> el</c><00:19:06.540><c> centro</c><00:19:06.990><c> de</c>
+
+00:19:07.070 --> 00:19:07.080 align:start position:0%
+completamente también el centro de
+ 
+
+00:19:07.080 --> 00:19:11.210 align:start position:0%
+completamente también el centro de
+costos<00:19:07.470><c> y</c><00:19:07.590><c> el</c><00:19:07.650><c> tipo</c><00:19:07.980><c> de</c><00:19:08.070><c> contabilización</c>
+
+00:19:11.210 --> 00:19:11.220 align:start position:0%
+ 
+ 
+
+00:19:11.220 --> 00:19:14.180 align:start position:0%
+ 
+vamos<00:19:11.820><c> a</c><00:19:11.909><c> arrastrar</c><00:19:12.179><c> la</c><00:19:12.419><c> función</c><00:19:13.100><c> buscando</c><00:19:14.100><c> el</c>
+
+00:19:14.180 --> 00:19:14.190 align:start position:0%
+vamos a arrastrar la función buscando el
+ 
+
+00:19:14.190 --> 00:19:16.310 align:start position:0%
+vamos a arrastrar la función buscando el
+signo<00:19:14.490><c> más</c><00:19:14.520><c> de</c><00:19:14.850><c> color</c><00:19:15.150><c> negro</c><00:19:15.510><c> que</c><00:19:15.630><c> aparece</c><00:19:16.140><c> en</c>
+
+00:19:16.310 --> 00:19:16.320 align:start position:0%
+signo más de color negro que aparece en
+ 
+
+00:19:16.320 --> 00:19:18.730 align:start position:0%
+signo más de color negro que aparece en
+la<00:19:16.440><c> esquina</c><00:19:16.860><c> inferior</c><00:19:17.100><c> de</c><00:19:17.700><c> la</c><00:19:17.820><c> función</c>
+
+00:19:18.730 --> 00:19:18.740 align:start position:0%
+la esquina inferior de la función
+ 
+
+00:19:18.740 --> 00:19:21.140 align:start position:0%
+la esquina inferior de la función
+arrastramos<00:19:19.740><c> con</c><00:19:19.950><c> clic</c><00:19:20.220><c> sostenido</c><00:19:20.789><c> hacia</c>
+
+00:19:21.140 --> 00:19:21.150 align:start position:0%
+arrastramos con clic sostenido hacia
+ 
+
+00:19:21.150 --> 00:19:22.540 align:start position:0%
+arrastramos con clic sostenido hacia
+abajo
+
+00:19:22.540 --> 00:19:22.550 align:start position:0%
+abajo
+ 
+
+00:19:22.550 --> 00:19:25.000 align:start position:0%
+abajo
+y<00:19:23.030><c> el</c><00:19:23.150><c> sistema</c><00:19:23.570><c> nos</c><00:19:23.720><c> carga</c><00:19:24.110><c> un</c><00:19:24.170><c> valor</c><00:19:24.410><c> ahora</c>
+
+00:19:25.000 --> 00:19:25.010 align:start position:0%
+y el sistema nos carga un valor ahora
+ 
+
+00:19:25.010 --> 00:19:27.760 align:start position:0%
+y el sistema nos carga un valor ahora
+tomamos<00:19:25.790><c> la</c><00:19:26.120><c> función</c><00:19:26.570><c> y</c><00:19:26.870><c> arrastramos</c><00:19:27.440><c> hacia</c>
+
+00:19:27.760 --> 00:19:27.770 align:start position:0%
+tomamos la función y arrastramos hacia
+ 
+
+00:19:27.770 --> 00:19:31.700 align:start position:0%
+tomamos la función y arrastramos hacia
+la<00:19:27.860><c> derecha</c>
+
+00:19:31.700 --> 00:19:31.710 align:start position:0%
+ 
+ 
+
+00:19:31.710 --> 00:19:37.030 align:start position:0%
+ 
+y<00:19:32.100><c> luego</c><00:19:32.370><c> vamos</c><00:19:32.580><c> a</c><00:19:32.820><c> arrastrar</c><00:19:33.059><c> hacia</c><00:19:33.570><c> abajo</c>
+
+00:19:37.030 --> 00:19:37.040 align:start position:0%
+ 
+ 
+
+00:19:37.040 --> 00:19:39.760 align:start position:0%
+ 
+vamos<00:19:37.640><c> a</c><00:19:37.730><c> copiar</c><00:19:38.000><c> la</c><00:19:38.240><c> función</c><00:19:38.690><c> con</c><00:19:39.110><c> control</c><00:19:39.560><c> ce</c>
+
+00:19:39.760 --> 00:19:39.770 align:start position:0%
+vamos a copiar la función con control ce
+ 
+
+00:19:39.770 --> 00:19:44.020 align:start position:0%
+vamos a copiar la función con control ce
+y<00:19:40.250><c> la</c><00:19:40.370><c> pegamos</c><00:19:40.700><c> en</c><00:19:41.120><c> la</c><00:19:41.240><c> siguiente</c><00:19:41.720><c> fila</c>
+
+00:19:44.020 --> 00:19:44.030 align:start position:0%
+y la pegamos en la siguiente fila
+ 
+
+00:19:44.030 --> 00:19:49.680 align:start position:0%
+y la pegamos en la siguiente fila
+arrastramos<00:19:45.030><c> hacia</c><00:19:45.420><c> abajo</c>
+
+00:19:49.680 --> 00:19:49.690 align:start position:0%
+ 
+ 
+
+00:19:49.690 --> 00:19:54.030 align:start position:0%
+ 
+hacia<00:19:50.320><c> la</c><00:19:50.470><c> derecha</c>
+
+00:19:54.030 --> 00:19:54.040 align:start position:0%
+ 
+ 
+
+00:19:54.040 --> 00:19:56.830 align:start position:0%
+ 
+y<00:19:54.370><c> hacia</c><00:19:54.670><c> abajo</c>
+
+00:19:56.830 --> 00:19:56.840 align:start position:0%
+y hacia abajo
+ 
+
+00:19:56.840 --> 00:19:58.930 align:start position:0%
+y hacia abajo
+este<00:19:57.470><c> informe</c><00:19:57.799><c> como</c><00:19:57.980><c> tal</c><00:19:58.279><c> nos</c><00:19:58.520><c> está</c><00:19:58.789><c> mostrando</c>
+
+00:19:58.930 --> 00:19:58.940 align:start position:0%
+este informe como tal nos está mostrando
+ 
+
+00:19:58.940 --> 00:20:05.590 align:start position:0%
+este informe como tal nos está mostrando
+los<00:19:59.570><c> movimientos</c><00:20:00.350><c> mes</c><00:20:00.590><c> a</c><00:20:00.710><c> mes</c><00:20:00.919><c> de</c><00:20:01.909><c> las</c><00:20:02.059><c> cuentas</c>
+
+00:20:05.590 --> 00:20:05.600 align:start position:0%
+ 
+ 
+
+00:20:05.600 --> 00:20:09.890 align:start position:0%
+ 
+441<00:20:06.600><c> operacionales</c><00:20:07.380><c> no</c><00:20:07.559><c> operacionales</c><00:20:08.370><c> 5</c><00:20:09.090><c> 51</c>
+
+00:20:09.890 --> 00:20:09.900 align:start position:0%
+441 operacionales no operacionales 5 51
+ 
+
+00:20:09.900 --> 00:20:11.770 align:start position:0%
+441 operacionales no operacionales 5 51
+52<00:20:10.559><c> y</c><00:20:10.650><c> 53</c>
+
+00:20:11.770 --> 00:20:11.780 align:start position:0%
+52 y 53
+ 
+
+00:20:11.780 --> 00:20:14.539 align:start position:0%
+52 y 53
+vamos<00:20:12.780><c> a</c><00:20:12.870><c> cambiar</c><00:20:13.230><c> el</c><00:20:13.350><c> año</c><00:20:13.500><c> actual</c><00:20:14.070><c> por</c>
+
+00:20:14.539 --> 00:20:14.549 align:start position:0%
+vamos a cambiar el año actual por
+ 
+
+00:20:14.549 --> 00:20:17.370 align:start position:0%
+vamos a cambiar el año actual por
+ejemplo<00:20:15.000><c> por</c><00:20:15.150><c> el</c><00:20:15.270><c> 2018</c>
+
+00:20:17.370 --> 00:20:17.380 align:start position:0%
+ejemplo por el 2018
+ 
+
+00:20:17.380 --> 00:20:19.560 align:start position:0%
+ejemplo por el 2018
+vemos<00:20:18.100><c> que</c><00:20:18.250><c> inmediatamente</c><00:20:18.670><c> los</c><00:20:19.090><c> valores</c><00:20:19.480><c> se</c>
+
+00:20:19.560 --> 00:20:19.570 align:start position:0%
+vemos que inmediatamente los valores se
+ 
+
+00:20:19.570 --> 00:20:23.200 align:start position:0%
+vemos que inmediatamente los valores se
+recalcula
+
+00:20:23.200 --> 00:20:23.210 align:start position:0%
+ 
+ 
+
+00:20:23.210 --> 00:20:27.010 align:start position:0%
+ 
+vamos<00:20:23.840><c> a</c><00:20:23.929><c> volver</c><00:20:24.049><c> al</c><00:20:24.289><c> 2019</c>
+
+00:20:27.010 --> 00:20:27.020 align:start position:0%
+ 
+ 
+
+00:20:27.020 --> 00:20:29.050 align:start position:0%
+ 
+y<00:20:27.500><c> organizando</c><00:20:28.070><c> las</c><00:20:28.220><c> funciones</c><00:20:28.700><c> de</c><00:20:28.850><c> esta</c>
+
+00:20:29.050 --> 00:20:29.060 align:start position:0%
+y organizando las funciones de esta
+ 
+
+00:20:29.060 --> 00:20:30.880 align:start position:0%
+y organizando las funciones de esta
+forma<00:20:29.450><c> es</c><00:20:29.630><c> más</c><00:20:29.870><c> sencillo</c><00:20:30.320><c> simplemente</c>
+
+00:20:30.880 --> 00:20:30.890 align:start position:0%
+forma es más sencillo simplemente
+ 
+
+00:20:30.890 --> 00:20:33.790 align:start position:0%
+forma es más sencillo simplemente
+cambiar<00:20:31.250><c> el</c><00:20:31.370><c> año</c><00:20:31.690><c> ahora</c><00:20:32.690><c> vamos</c><00:20:33.230><c> a</c><00:20:33.320><c> cargar</c><00:20:33.590><c> un</c>
+
+00:20:33.790 --> 00:20:33.800 align:start position:0%
+cambiar el año ahora vamos a cargar un
+ 
+
+00:20:33.800 --> 00:20:35.920 align:start position:0%
+cambiar el año ahora vamos a cargar un
+tercero<00:20:34.310><c> abrimos</c><00:20:34.970><c> el</c><00:20:35.120><c> seleccionador</c><00:20:35.810><c> de</c>
+
+00:20:35.920 --> 00:20:35.930 align:start position:0%
+tercero abrimos el seleccionador de
+ 
+
+00:20:35.930 --> 00:20:38.860 align:start position:0%
+tercero abrimos el seleccionador de
+terceros<00:20:36.470><c> en</c><00:20:37.340><c> este</c><00:20:37.550><c> caso</c><00:20:37.880><c> vamos</c><00:20:38.060><c> a</c><00:20:38.270><c> buscar</c><00:20:38.630><c> al</c>
+
+00:20:38.860 --> 00:20:38.870 align:start position:0%
+terceros en este caso vamos a buscar al
+ 
+
+00:20:38.870 --> 00:20:41.440 align:start position:0%
+terceros en este caso vamos a buscar al
+señor<00:20:39.050><c> jesús</c><00:20:39.620><c> marín</c>
+
+00:20:41.440 --> 00:20:41.450 align:start position:0%
+señor jesús marín
+ 
+
+00:20:41.450 --> 00:20:43.210 align:start position:0%
+señor jesús marín
+vemos<00:20:42.110><c> que</c><00:20:42.230><c> al</c><00:20:42.289><c> cargar</c><00:20:42.590><c> el</c><00:20:42.740><c> tercero</c>
+
+00:20:43.210 --> 00:20:43.220 align:start position:0%
+vemos que al cargar el tercero
+ 
+
+00:20:43.220 --> 00:20:47.090 align:start position:0%
+vemos que al cargar el tercero
+inmediatamente<00:20:44.120><c> los</c><00:20:44.330><c> valores</c><00:20:44.750><c> cambian</c>
+
+00:20:47.090 --> 00:20:47.100 align:start position:0%
+ 
+ 
+
+00:20:47.100 --> 00:20:49.450 align:start position:0%
+ 
+vamos<00:20:47.730><c> a</c><00:20:47.789><c> cargar</c><00:20:48.059><c> un</c><00:20:48.270><c> centro</c><00:20:48.630><c> de</c><00:20:48.750><c> costos</c>
+
+00:20:49.450 --> 00:20:49.460 align:start position:0%
+vamos a cargar un centro de costos
+ 
+
+00:20:49.460 --> 00:20:51.830 align:start position:0%
+vamos a cargar un centro de costos
+abrimos<00:20:50.460><c> el</c><00:20:50.580><c> seleccionador</c><00:20:51.240><c> de</c><00:20:51.360><c> centros</c><00:20:51.750><c> de</c>
+
+00:20:51.830 --> 00:20:51.840 align:start position:0%
+abrimos el seleccionador de centros de
+ 
+
+00:20:51.840 --> 00:20:54.289 align:start position:0%
+abrimos el seleccionador de centros de
+costos<00:20:52.320><c> por</c><00:20:53.010><c> ejemplo</c><00:20:53.490><c> departamento</c>
+
+00:20:54.289 --> 00:20:54.299 align:start position:0%
+costos por ejemplo departamento
+ 
+
+00:20:54.299 --> 00:20:56.320 align:start position:0%
+costos por ejemplo departamento
+administrativo
+
+00:20:56.320 --> 00:20:56.330 align:start position:0%
+administrativo
+ 
+
+00:20:56.330 --> 00:20:59.019 align:start position:0%
+administrativo
+los<00:20:56.809><c> seleccionamos</c><00:20:57.380><c> y</c><00:20:58.070><c> los</c><00:20:58.220><c> valores</c><00:20:58.610><c> vuelven</c>
+
+00:20:59.019 --> 00:20:59.029 align:start position:0%
+los seleccionamos y los valores vuelven
+ 
+
+00:20:59.029 --> 00:21:01.180 align:start position:0%
+los seleccionamos y los valores vuelven
+a<00:20:59.120><c> cambiar</c><00:20:59.360><c> con</c><00:21:00.200><c> las</c><00:21:00.320><c> funciones</c><00:21:00.649><c> básicas</c><00:21:00.799><c> de</c>
+
+00:21:01.180 --> 00:21:01.190 align:start position:0%
+a cambiar con las funciones básicas de
+ 
+
+00:21:01.190 --> 00:21:02.980 align:start position:0%
+a cambiar con las funciones básicas de
+context<00:21:01.669><c> el</c><00:21:01.730><c> para</c><00:21:02.269><c> las</c><00:21:02.450><c> funciones</c><00:21:02.840><c> de</c>
+
+00:21:02.980 --> 00:21:02.990 align:start position:0%
+context el para las funciones de
+ 
+
+00:21:02.990 --> 00:21:04.990 align:start position:0%
+context el para las funciones de
+contable<00:21:03.590><c> hemos</c><00:21:03.919><c> creado</c><00:21:04.340><c> este</c><00:21:04.490><c> informe</c><00:21:04.880><c> que</c>
+
+00:21:04.990 --> 00:21:05.000 align:start position:0%
+contable hemos creado este informe que
+ 
+
+00:21:05.000 --> 00:21:07.659 align:start position:0%
+contable hemos creado este informe que
+nos<00:21:05.149><c> permite</c><00:21:05.600><c> ver</c><00:21:05.750><c> mes</c><00:21:06.529><c> a</c><00:21:06.649><c> mes</c><00:21:06.830><c> el</c><00:21:07.130><c> movimiento</c>
+
+00:21:07.659 --> 00:21:07.669 align:start position:0%
+nos permite ver mes a mes el movimiento
+ 
+
+00:21:07.669 --> 00:21:09.909 align:start position:0%
+nos permite ver mes a mes el movimiento
+que<00:21:07.820><c> han</c><00:21:07.880><c> tenido</c><00:21:08.269><c> por</c><00:21:08.539><c> ejemplo</c><00:21:09.019><c> los</c><00:21:09.350><c> ingresos</c>
+
+00:21:09.909 --> 00:21:09.919 align:start position:0%
+que han tenido por ejemplo los ingresos
+ 
+
+00:21:09.919 --> 00:21:12.909 align:start position:0%
+que han tenido por ejemplo los ingresos
+y<00:21:10.039><c> los</c><00:21:10.130><c> gastos</c><00:21:10.720><c> para</c><00:21:11.720><c> dos</c><00:21:11.870><c> años</c><00:21:12.019><c> comparativos</c>
+
+00:21:12.909 --> 00:21:12.919 align:start position:0%
+y los gastos para dos años comparativos
+ 
+
+00:21:12.919 --> 00:21:16.889 align:start position:0%
+y los gastos para dos años comparativos
+en<00:21:13.070><c> este</c><00:21:13.309><c> caso</c><00:21:13.640><c> el</c><00:21:13.760><c> año</c><00:21:13.850><c> 2019</c><00:21:14.649><c> y</c><00:21:15.649><c> el</c><00:21:15.740><c> año</c><00:21:16.039><c> 2018</c>
+
+00:21:16.889 --> 00:21:16.899 align:start position:0%
+en este caso el año 2019 y el año 2018
+ 
+
+00:21:16.899 --> 00:21:19.419 align:start position:0%
+en este caso el año 2019 y el año 2018
+en<00:21:17.899><c> la</c><00:21:17.990><c> parte</c><00:21:18.350><c> de</c><00:21:18.440><c> arriba</c><00:21:18.529><c> simplemente</c>
+
+00:21:19.419 --> 00:21:19.429 align:start position:0%
+en la parte de arriba simplemente
+ 
+
+00:21:19.429 --> 00:21:22.100 align:start position:0%
+en la parte de arriba simplemente
+cambiamos<00:21:19.850><c> el</c><00:21:20.659><c> año</c>
+
+00:21:22.100 --> 00:21:22.110 align:start position:0%
+cambiamos el año
+ 
+
+00:21:22.110 --> 00:21:25.430 align:start position:0%
+cambiamos el año
+y<00:21:22.620><c> el</c><00:21:22.710><c> sistema</c><00:21:22.890><c> recalcular</c><00:21:23.880><c> los</c><00:21:24.000><c> valores</c>
+
+00:21:25.430 --> 00:21:25.440 align:start position:0%
+y el sistema recalcular los valores
+ 
+
+00:21:25.440 --> 00:21:28.039 align:start position:0%
+y el sistema recalcular los valores
+por<00:21:25.950><c> ejemplo</c><00:21:26.340><c> vemos</c><00:21:26.669><c> que</c><00:21:26.789><c> para</c><00:21:27.029><c> el</c><00:21:27.120><c> año</c><00:21:27.330><c> 2020</c>
+
+00:21:28.039 --> 00:21:28.049 align:start position:0%
+por ejemplo vemos que para el año 2020
+ 
+
+00:21:28.049 --> 00:21:29.810 align:start position:0%
+por ejemplo vemos que para el año 2020
+no<00:21:28.350><c> hay</c><00:21:28.440><c> movimientos</c><00:21:28.950><c> con</c><00:21:29.100><c> el</c><00:21:29.190><c> señor</c><00:21:29.460><c> jesús</c>
+
+00:21:29.810 --> 00:21:29.820 align:start position:0%
+no hay movimientos con el señor jesús
+ 
+
+00:21:29.820 --> 00:21:32.600 align:start position:0%
+no hay movimientos con el señor jesús
+marín<00:21:30.620><c> ahora</c><00:21:31.620><c> vamos</c><00:21:31.919><c> a</c><00:21:32.039><c> ver</c><00:21:32.159><c> cómo</c><00:21:32.490><c> se</c>
+
+00:21:32.600 --> 00:21:32.610 align:start position:0%
+marín ahora vamos a ver cómo se
+ 
+
+00:21:32.610 --> 00:21:34.960 align:start position:0%
+marín ahora vamos a ver cómo se
+sincroniza<00:21:33.179><c> directamente</c><00:21:33.840><c> con</c><00:21:33.990><c> con</c><00:21:34.139><c> tap</c><00:21:34.320><c> y</c><00:21:34.440><c> me</c>
+
+00:21:34.960 --> 00:21:34.970 align:start position:0%
+sincroniza directamente con con tap y me
+ 
+
+00:21:34.970 --> 00:21:37.460 align:start position:0%
+sincroniza directamente con con tap y me
+vamos<00:21:35.970><c> a</c><00:21:36.090><c> pasar</c><00:21:36.389><c> en</c><00:21:36.509><c> este</c><00:21:36.750><c> momento</c><00:21:37.139><c> con</c><00:21:37.320><c> está</c>
+
+00:21:37.460 --> 00:21:37.470 align:start position:0%
+vamos a pasar en este momento con está
+ 
+
+00:21:37.470 --> 00:21:40.430 align:start position:0%
+vamos a pasar en este momento con está
+pyme<00:21:38.149><c> y</c><00:21:39.149><c> en</c><00:21:39.240><c> cuanto</c><00:21:39.539><c> a</c><00:21:39.570><c> pyme</c><00:21:39.870><c> tenemos</c><00:21:40.259><c> una</c>
+
+00:21:40.430 --> 00:21:40.440 align:start position:0%
+pyme y en cuanto a pyme tenemos una
+ 
+
+00:21:40.440 --> 00:21:42.830 align:start position:0%
+pyme y en cuanto a pyme tenemos una
+transacción<00:21:41.039><c> del</c><00:21:41.250><c> 2</c><00:21:41.429><c> de</c><00:21:41.580><c> mayo</c><00:21:41.730><c> de</c><00:21:41.940><c> 2020</c><00:21:42.570><c> que</c><00:21:42.720><c> no</c>
+
+00:21:42.830 --> 00:21:42.840 align:start position:0%
+transacción del 2 de mayo de 2020 que no
+ 
+
+00:21:42.840 --> 00:21:45.560 align:start position:0%
+transacción del 2 de mayo de 2020 que no
+está<00:21:42.990><c> procesada</c><00:21:43.649><c> esta</c><00:21:44.639><c> transacción</c><00:21:44.970><c> es</c><00:21:45.389><c> con</c>
+
+00:21:45.560 --> 00:21:45.570 align:start position:0%
+está procesada esta transacción es con
+ 
+
+00:21:45.570 --> 00:21:48.289 align:start position:0%
+está procesada esta transacción es con
+el<00:21:45.690><c> señor</c><00:21:45.960><c> jesús</c><00:21:46.320><c> marín</c><00:21:46.940><c> vamos</c><00:21:47.940><c> a</c><00:21:48.029><c> entrar</c><00:21:48.240><c> a</c>
+
+00:21:48.289 --> 00:21:48.299 align:start position:0%
+el señor jesús marín vamos a entrar a
+ 
+
+00:21:48.299 --> 00:21:50.510 align:start position:0%
+el señor jesús marín vamos a entrar a
+modificarla
+
+00:21:50.510 --> 00:21:50.520 align:start position:0%
+modificarla
+ 
+
+00:21:50.520 --> 00:21:53.060 align:start position:0%
+modificarla
+vemos<00:21:51.150><c> que</c><00:21:51.300><c> es</c><00:21:51.420><c> un</c><00:21:51.570><c> valor</c><00:21:51.870><c> de</c><00:21:52.080><c> 600</c><00:21:52.650><c> mil</c><00:21:52.860><c> pesos</c>
+
+00:21:53.060 --> 00:21:53.070 align:start position:0%
+vemos que es un valor de 600 mil pesos
+ 
+
+00:21:53.070 --> 00:22:00.580 align:start position:0%
+vemos que es un valor de 600 mil pesos
+para<00:21:53.610><c> la</c><00:21:53.730><c> cuenta</c><00:21:54.060><c> 51</c><00:21:54.930><c> 45</c><00:21:55.680><c> 25</c><00:21:56.690><c> damos</c><00:21:57.690><c> siguiente</c>
+
+00:22:00.580 --> 00:22:00.590 align:start position:0%
+ 
+ 
+
+00:22:00.590 --> 00:22:02.830 align:start position:0%
+ 
+y<00:22:00.980><c> finalizamos</c><00:22:01.460><c> y</c><00:22:01.700><c> procesamos</c><00:22:02.240><c> la</c><00:22:02.360><c> operación</c>
+
+00:22:02.830 --> 00:22:02.840 align:start position:0%
+y finalizamos y procesamos la operación
+ 
+
+00:22:02.840 --> 00:22:04.930 align:start position:0%
+y finalizamos y procesamos la operación
+en<00:22:03.169><c> este</c><00:22:03.409><c> momento</c><00:22:03.860><c> en</c><00:22:03.919><c> contra</c><00:22:04.190><c> pyme</c><00:22:04.490><c> esta</c>
+
+00:22:04.930 --> 00:22:04.940 align:start position:0%
+en este momento en contra pyme esta
+ 
+
+00:22:04.940 --> 00:22:06.880 align:start position:0%
+en este momento en contra pyme esta
+operación<00:22:05.419><c> del</c><00:22:05.570><c> señor</c><00:22:05.840><c> jesús</c><00:22:06.140><c> marín</c><00:22:06.440><c> por</c>
+
+00:22:06.880 --> 00:22:06.890 align:start position:0%
+operación del señor jesús marín por
+ 
+
+00:22:06.890 --> 00:22:09.279 align:start position:0%
+operación del señor jesús marín por
+valor<00:22:07.220><c> de</c><00:22:07.309><c> 600</c><00:22:07.850><c> mil</c><00:22:08.000><c> pesos</c><00:22:08.210><c> en</c><00:22:08.659><c> la</c><00:22:08.750><c> cuenta</c><00:22:09.169><c> de</c>
+
+00:22:09.279 --> 00:22:09.289 align:start position:0%
+valor de 600 mil pesos en la cuenta de
+ 
+
+00:22:09.289 --> 00:22:12.370 align:start position:0%
+valor de 600 mil pesos en la cuenta de
+gastos<00:22:09.919><c> está</c><00:22:10.309><c> procesada</c><00:22:10.990><c> vamos</c><00:22:11.990><c> a</c><00:22:12.080><c> volver</c><00:22:12.320><c> a</c>
+
+00:22:12.370 --> 00:22:12.380 align:start position:0%
+gastos está procesada vamos a volver a
+ 
+
+00:22:12.380 --> 00:22:14.200 align:start position:0%
+gastos está procesada vamos a volver a
+contactar<00:22:12.919><c> y</c><00:22:13.039><c> vamos</c><00:22:13.370><c> a</c><00:22:13.460><c> recalcular</c><00:22:14.059><c> la</c>
+
+00:22:14.200 --> 00:22:14.210 align:start position:0%
+contactar y vamos a recalcular la
+ 
+
+00:22:14.210 --> 00:22:16.450 align:start position:0%
+contactar y vamos a recalcular la
+fórmula
+
+00:22:16.450 --> 00:22:16.460 align:start position:0%
+fórmula
+ 
+
+00:22:16.460 --> 00:22:19.030 align:start position:0%
+fórmula
+damos<00:22:17.090><c> click</c><00:22:17.360><c> al</c><00:22:17.480><c> botón</c><00:22:17.600><c> recalcular</c><00:22:18.440><c> de</c><00:22:18.920><c> la</c>
+
+00:22:19.030 --> 00:22:19.040 align:start position:0%
+damos click al botón recalcular de la
+ 
+
+00:22:19.040 --> 00:22:21.680 align:start position:0%
+damos click al botón recalcular de la
+sección<00:22:19.430><c> fórmulas</c>
+
+00:22:21.680 --> 00:22:21.690 align:start position:0%
+sección fórmulas
+ 
+
+00:22:21.690 --> 00:22:23.720 align:start position:0%
+sección fórmulas
+y<00:22:22.080><c> vemos</c><00:22:22.200><c> que</c><00:22:22.500><c> inmediatamente</c><00:22:22.950><c> el</c><00:22:23.340><c> valor</c><00:22:23.580><c> se</c>
+
+00:22:23.720 --> 00:22:23.730 align:start position:0%
+y vemos que inmediatamente el valor se
+ 
+
+00:22:23.730 --> 00:22:25.879 align:start position:0%
+y vemos que inmediatamente el valor se
+carga<00:22:24.120><c> en</c><00:22:24.600><c> el</c><00:22:24.720><c> mes</c><00:22:24.899><c> de</c><00:22:25.019><c> mayo</c><00:22:25.350><c> con</c><00:22:25.500><c> el</c><00:22:25.590><c> señor</c>
+
+00:22:25.879 --> 00:22:25.889 align:start position:0%
+carga en el mes de mayo con el señor
+ 
+
+00:22:25.889 --> 00:22:28.669 align:start position:0%
+carga en el mes de mayo con el señor
+jesús<00:22:26.279><c> marín</c><00:22:26.580><c> así</c><00:22:27.539><c> podemos</c><00:22:27.840><c> ver</c><00:22:28.169><c> como</c><00:22:28.500><c> con</c>
+
+00:22:28.669 --> 00:22:28.679 align:start position:0%
+jesús marín así podemos ver como con
+ 
+
+00:22:28.679 --> 00:22:30.710 align:start position:0%
+jesús marín así podemos ver como con
+está<00:22:28.860><c> pyme</c><00:22:29.250><c> y</c><00:22:29.669><c> con</c><00:22:29.850><c> textil</c><00:22:30.269><c> están</c>
+
+00:22:30.710 --> 00:22:30.720 align:start position:0%
+está pyme y con textil están
+ 
+
+00:22:30.720 --> 00:22:32.720 align:start position:0%
+está pyme y con textil están
+sincronizados<00:22:31.409><c> en</c><00:22:31.559><c> todo</c><00:22:31.830><c> momento</c><00:22:32.340><c> y</c>
+
+00:22:32.720 --> 00:22:32.730 align:start position:0%
+sincronizados en todo momento y
+ 
+
+00:22:32.730 --> 00:22:34.549 align:start position:0%
+sincronizados en todo momento y
+cualquier<00:22:33.179><c> cambio</c><00:22:33.539><c> que</c><00:22:33.750><c> hagamos</c><00:22:34.110><c> en</c><00:22:34.230><c> contra</c>
+
+00:22:34.549 --> 00:22:34.559 align:start position:0%
+cualquier cambio que hagamos en contra
+ 
+
+00:22:34.559 --> 00:22:36.799 align:start position:0%
+cualquier cambio que hagamos en contra
+pyme<00:22:34.860><c> se</c><00:22:35.399><c> afectará</c><00:22:35.850><c> directamente</c><00:22:36.299><c> en</c>
+
+00:22:36.799 --> 00:22:36.809 align:start position:0%
+pyme se afectará directamente en
+ 
+
+00:22:36.809 --> 00:22:38.570 align:start position:0%
+pyme se afectará directamente en
+contracción<00:22:37.409><c> cuando</c><00:22:37.740><c> re</c><00:22:37.860><c> calculemos</c><00:22:38.279><c> las</c>
+
+00:22:38.570 --> 00:22:38.580 align:start position:0%
+contracción cuando re calculemos las
+ 
+
+00:22:38.580 --> 00:22:41.059 align:start position:0%
+contracción cuando re calculemos las
+fórmulas
+

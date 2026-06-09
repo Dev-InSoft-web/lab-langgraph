@@ -1,0 +1,3424 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:40:02.455Z",
+  "videoId": "MkGSVW4Kxt0",
+  "videoUrl": "https://www.youtube.com/watch?v=MkGSVW4Kxt0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "MkGSVW4Kxt0",
+    "title": "Reunión Distribuidores 31/08/2022",
+    "fulltitle": "Reunión Distribuidores 31/08/2022",
+    "description": "Charla con distribuidores: \"Hablemos de: Actualización de ContaPyme 18.11\"\n\nTemas a tratar:\n\nEn este espacio se hablará sobre lo que hace la actualización V4 R8 C-18.11 del software ContaPyme® y cómo se corrigen errores de documentos soporte.",
+    "duration": 3430,
+    "duration_string": "57:10",
+    "upload_date": "20220831",
+    "timestamp": 1661907652,
+    "view_count": 72,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "ContaPyme",
+      "Contabilidad",
+      "NIIF",
+      "Programa Contable",
+      "Software Contable"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "was_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?v=630eb2c5",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/default.jpg?v=630eb2c5",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/mqdefault.jpg?v=630eb2c5",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAotR4-3HV3JCLTnGe7iPgTVZqe3A",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "32",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAZ2TrptMg4AJOcMhma0B4Wfp57rA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpM8M32XGGPe1q9kv4zoDx7_0oaQ",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdtmgCWtjTTW3rhdq2IjvQm5Mqlw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "35",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFOZy0adet5W155o5PG5Vg8e3ZQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "36",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCpTsPn_nfnn0qhbvP3-YgRF-ItSw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "37",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkSx2NPdhxjtZK-VoV2p_T2nTCTQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "38",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAeE9hA38vA3fDCh1k-kyMjQ7Iy0A",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "39",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "40",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg?v=630eb2c5",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "41",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/hqdefault.webp",
+        "preference": -6,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/sddefault.jpg",
+        "preference": -5,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/sddefault.webp",
+        "preference": -4,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hq720.jpg",
+        "preference": -3,
+        "id": "45"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/hq720.webp",
+        "preference": -2,
+        "id": "46"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/maxresdefault.jpg",
+        "preference": -1,
+        "id": "47"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MkGSVW4Kxt0/maxresdefault.webp",
+        "preference": 0,
+        "id": "48"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MkGSVW4Kxt0",
+    "is_live": false,
+    "was_live": true,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.029154518950437316,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10029154518950437,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10029154518950437,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 226.354,
+        "asr": 44100,
+        "filesize_approx": 97040874,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Reunión Distribuidores 31/08/2022",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/MkGSVW4Kxt0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MkGSVW4Kxt0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Reunión Distribuidores 31/08/2022\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 597,
+    "transcriptChars": 43212,
+    "segments": [
+      {
+        "text": "un cordial saludo para todos quiero darles la bienvenida a este espacio tan",
+        "startMs": 37560,
+        "durationMs": 5780
+      },
+      {
+        "text": "especial esta sesión de distribuidores con está pyme mi nombre es ana maría",
+        "startMs": 43340,
+        "durationMs": 4320
+      },
+      {
+        "text": "parra yo soy moderadora de eventos de in soft y estaré con ustedes unos minutos",
+        "startMs": 47660,
+        "durationMs": 4950
+      },
+      {
+        "text": "antes del inicio de la temática del día de hoy voy a darles unas recomendaciones",
+        "startMs": 52610,
+        "durationMs": 5490
+      },
+      {
+        "text": "super importantes para garantizar que la participación de todos sea exitosa para",
+        "startMs": 58100,
+        "durationMs": 6390
+      },
+      {
+        "text": "esto les sugiero realizar los ajustes y configuraciones necesarias una vez",
+        "startMs": 64490,
+        "durationMs": 6300
+      },
+      {
+        "text": "terminadas daremos inicio a la temática del día de hoy nuestra primera",
+        "startMs": 70790,
+        "durationMs": 5880
+      },
+      {
+        "text": "recomendación es acerca del audio es muy importante configurar los dispositivos",
+        "startMs": 76670,
+        "durationMs": 5670
+      },
+      {
+        "text": "de audio del computador antes del inicio de la temática del día de hoy como",
+        "startMs": 82340,
+        "durationMs": 4740
+      },
+      {
+        "text": "unificamos que ya nuestro audio está listo esto es muy sencillo si usted está",
+        "startMs": 87080,
+        "durationMs": 5580
+      },
+      {
+        "text": "escuchando mi voz quiere decir que sus dispositivos de audio ya están",
+        "startMs": 92660,
+        "durationMs": 12540
+      },
+      {
+        "text": "para nosotros es muy importante estar conectados con todos ustedes y",
+        "startMs": 105210,
+        "durationMs": 6860
+      },
+      {
+        "text": "cómo podemos lograrlo bueno utilizando nuestras redes sociales por ejemplo por",
+        "startMs": 112070,
+        "durationMs": 5610
+      },
+      {
+        "text": "eso los invitamos a que nos sigan en nuestra fanpage de facebook de contra",
+        "startMs": 117680,
+        "durationMs": 4650
+      },
+      {
+        "text": "piña y estamos como con está pyme software contable también tenemos",
+        "startMs": 122330,
+        "durationMs": 4740
+      },
+      {
+        "text": "nuestra cuenta oficial de abro wing no se encuentran como a growing software",
+        "startMs": 127070,
+        "durationMs": 5909
+      },
+      {
+        "text": "agrícola en instagram tenemos nuestra cuenta oficial con está pyme los",
+        "startMs": 132979,
+        "durationMs": 5821
+      },
+      {
+        "text": "invitamos a que vayan a sus redes sociales nos busquen y le den tapa en",
+        "startMs": 138800,
+        "durationMs": 5820
+      },
+      {
+        "text": "seguir logren también interactuar con nuestros contenidos publicaciones e",
+        "startMs": 144620,
+        "durationMs": 5220
+      },
+      {
+        "text": "historias también enviarnos un mensaje directo en caso de que requieran algún",
+        "startMs": 149840,
+        "durationMs": 4410
+      },
+      {
+        "text": "especial con muchísimo gusto estaremos allí atentos para ayudarles",
+        "startMs": 154250,
+        "durationMs": 7550
+      },
+      {
+        "text": "segunda recomendación ajustar la calidad de nuestra imagen",
+        "startMs": 161800,
+        "durationMs": 6480
+      },
+      {
+        "text": "cómo podemos hacerlo bueno muy sencillo debemos ir al botón que está en la parte",
+        "startMs": 168280,
+        "durationMs": 5820
+      },
+      {
+        "text": "inferior este es el botón de configuración elegir la opción calidad y",
+        "startMs": 174100,
+        "durationMs": 5099
+      },
+      {
+        "text": "seleccionar el número más alto disponible tengamos en cuenta que este",
+        "startMs": 179199,
+        "durationMs": 5521
+      },
+      {
+        "text": "número más alto o la calidad óptima que podamos visualizar está muy relacionada",
+        "startMs": 184720,
+        "durationMs": 6000
+      },
+      {
+        "text": "con la velocidad de la conexión a internet con la que contemos entonces",
+        "startMs": 190720,
+        "durationMs": 5190
+      },
+      {
+        "text": "una vez más les recuerdo que la velocidad de nuestra conexión también",
+        "startMs": 195910,
+        "durationMs": 3450
+      },
+      {
+        "text": "influye en que logremos visualizar esta sesión sin esperas por demora en la",
+        "startMs": 199360,
+        "durationMs": 9490
+      },
+      {
+        "text": "en caso de presentar pérdida de conexión o caída inoportuna de esta sesión vamos",
+        "startMs": 208860,
+        "durationMs": 6290
+      },
+      {
+        "text": "a habilitar nuevamente la página pasados 5 minutos usted que debe hacer presionar",
+        "startMs": 215150,
+        "durationMs": 6330
+      },
+      {
+        "text": "la tecla f5 o refrescar su navegador y listo ya estará de regreso con nosotros",
+        "startMs": 221480,
+        "durationMs": 9830
+      },
+      {
+        "text": "recomendación número 3 es súper importante configurar el chat en vivo",
+        "startMs": 231320,
+        "durationMs": 5460
+      },
+      {
+        "text": "debe tener la opción tal como está en pantalla para escribir algo si no es así",
+        "startMs": 236780,
+        "durationMs": 4590
+      },
+      {
+        "text": "debe dar clic en acceder para chatear e ingresar con una cuenta de correo",
+        "startMs": 241370,
+        "durationMs": 4260
+      },
+      {
+        "text": "asociada a gmail esta cuenta puede ser diferente a la que utilizó para",
+        "startMs": 245630,
+        "durationMs": 5700
+      },
+      {
+        "text": "registrarse e ingresar en este evento virtual y listo ya usted podrá",
+        "startMs": 251330,
+        "durationMs": 5550
+      },
+      {
+        "text": "participar activamente realizando sus preguntas y comentarios aquí en este",
+        "startMs": 256880,
+        "durationMs": 11310
+      },
+      {
+        "text": "esta sesión de distribuidores es en vivo sin embargo usted tiene el control de",
+        "startMs": 268200,
+        "durationMs": 5750
+      },
+      {
+        "text": "ella puede pausar o retroceder la transmisión en cualquier momento para no",
+        "startMs": 273950,
+        "durationMs": 9630
+      },
+      {
+        "text": "esta sesión estará disponible durante todo el día sin embargo recuerde que al",
+        "startMs": 283590,
+        "durationMs": 5840
+      },
+      {
+        "text": "ingresar en un espacio diferente al horario en vivo ya no podrá participar",
+        "startMs": 289430,
+        "durationMs": 5360
+      },
+      {
+        "text": "realizando preguntas o comentarios en el chat así que si usted desea disfrutar al",
+        "startMs": 294790,
+        "durationMs": 5800
+      },
+      {
+        "text": "máximo estas sesiones le recomendamos asistir en los horarios indicados",
+        "startMs": 300590,
+        "durationMs": 7409
+      },
+      {
+        "text": "sin más preámbulos vamos a dar inicio con este espacio tan especial de",
+        "startMs": 307999,
+        "durationMs": 5550
+      },
+      {
+        "text": "capacitación para nuestros distribuidores una vez más bienvenidos",
+        "startMs": 313549,
+        "durationMs": 17541
+      },
+      {
+        "text": "muy buenas tardes a todos los distribuidores espero que se encuentren",
+        "startMs": 352810,
+        "durationMs": 4250
+      },
+      {
+        "text": "muy bien me complace mucho poder saludar en esta tarde en nuestra sesión",
+        "startMs": 357060,
+        "durationMs": 6090
+      },
+      {
+        "text": "abriremos de la actualización 18 puntos pues si bien ya saben que salió a las",
+        "startMs": 363150,
+        "durationMs": 6750
+      },
+      {
+        "text": "18.12 pero esta actualización en la cual queremos hacer hoy este acompañamiento",
+        "startMs": 369900,
+        "durationMs": 6830
+      },
+      {
+        "text": "trae sí unos cambios en recepción de documentos y corrige dos errores muy",
+        "startMs": 376730,
+        "durationMs": 7690
+      },
+      {
+        "text": "comunes en este mismo tema el día de hoy nos acompaña la especialista de producto",
+        "startMs": 384420,
+        "durationMs": 7680
+      },
+      {
+        "text": "andrea se después es primera vez que andrea nos acompaña en estas sesiones de",
+        "startMs": 392100,
+        "durationMs": 5430
+      },
+      {
+        "text": "distribuir es esperábamos seguirla viendo es una persona",
+        "startMs": 397530,
+        "durationMs": 4250
+      },
+      {
+        "text": "especialista pues ya del producto conoce muy bien la funcionalidad de recepción",
+        "startMs": 401780,
+        "durationMs": 4689
+      },
+      {
+        "text": "de documentos y hoy nos dará muchísima información espero que estén muy atentos",
+        "startMs": 406469,
+        "durationMs": 4531
+      },
+      {
+        "text": "vamos a hacer la misma dinámica vamos a exponer ustedes van escribiendo todas",
+        "startMs": 411000,
+        "durationMs": 5909
+      },
+      {
+        "text": "sus inquietudes y al final tendremos una sesión y preguntas",
+        "startMs": 416909,
+        "durationMs": 4500
+      },
+      {
+        "text": "ahora sí andrea muy buenas partes cómo estás",
+        "startMs": 421409,
+        "durationMs": 7590
+      },
+      {
+        "text": "hola buenas tardes cómo están si es la primera vez que los acompañe a una",
+        "startMs": 429009,
+        "durationMs": 4230
+      },
+      {
+        "text": "sesión de distribuir espero pues la mayoría ya me conocen y desde la parte",
+        "startMs": 433239,
+        "durationMs": 3630
+      },
+      {
+        "text": "de soporte cuando estoy en la parte comercial la idea de hoy es es una",
+        "startMs": 436869,
+        "durationMs": 4590
+      },
+      {
+        "text": "charla corta sé que estamos en tierra de mes tanto ustedes como nosotros entonces",
+        "startMs": 441459,
+        "durationMs": 5310
+      },
+      {
+        "text": "no los quiero demorar mucho pero sí es importante",
+        "startMs": 446769,
+        "durationMs": 2510
+      },
+      {
+        "text": "importante contarles que hemos corregido como",
+        "startMs": 449279,
+        "durationMs": 3160
+      },
+      {
+        "text": "errores generales que puedan salir en los clientes y que tenemos nuevo en la",
+        "startMs": 452439,
+        "durationMs": 3420
+      },
+      {
+        "text": "actualización para que también sepan que con estas novedades",
+        "startMs": 455859,
+        "durationMs": 3800
+      },
+      {
+        "text": "o adiciones que se hicieron pues se van a también corregir varios temas que",
+        "startMs": 459659,
+        "durationMs": 3790
+      },
+      {
+        "text": "tenemos en soporte pendientes y sneijder",
+        "startMs": 463449,
+        "durationMs": 7961
+      },
+      {
+        "text": "bueno entonces muy atentos sin más preámbulo les vamos a dar inicio a",
+        "startMs": 471420,
+        "durationMs": 4580
+      },
+      {
+        "text": "nuestra sesión muchísimas gracias andrea por acompañarnos y vamos a iniciar",
+        "startMs": 476000,
+        "durationMs": 6390
+      },
+      {
+        "text": "buen experimento de yo les comparta acá la pantalla",
+        "startMs": 482390,
+        "durationMs": 15380
+      },
+      {
+        "startMs": 497780,
+        "durationMs": 14590,
+        "text": "me confirman por pasión están viendo"
+      },
+      {
+        "text": "sí señor ya se ve perfecto entonces cuál es la idea más",
+        "startMs": 512380,
+        "durationMs": 10000
+      },
+      {
+        "startMs": 522390,
+        "durationMs": 37580,
+        "text": "porque se está poniendo la pantalla"
+      },
+      {
+        "text": "y como tengo dos pantallas se me abría la presentación en la otra",
+        "startMs": 559980,
+        "durationMs": 5290
+      },
+      {
+        "text": "esto bueno entonces de que les voy a hablar hoy es un error o una situación",
+        "startMs": 565270,
+        "durationMs": 5530
+      },
+      {
+        "text": "que nos hemos encontrado es con una novedad del firewall que detectamos que",
+        "startMs": 570800,
+        "durationMs": 5610
+      },
+      {
+        "text": "sale este error que les estoy aquí presentando a continuación y es cuando",
+        "startMs": 576410,
+        "durationMs": 6940
+      },
+      {
+        "text": "la persona a la que le envía en la factura tenía varias listas de productos",
+        "startMs": 583360,
+        "durationMs": 4700
+      },
+      {
+        "text": "o varios listas de elementos con el mismo código o sea se entiende que por",
+        "startMs": 588060,
+        "durationMs": 5190
+      },
+      {
+        "text": "el tema de la codificación estándar que apelarían para facturación electrónica",
+        "startMs": 593250,
+        "durationMs": 4410
+      },
+      {
+        "text": "pues cada elemento de inventario debería tener un único código pero en este",
+        "startMs": 597660,
+        "durationMs": 3840
+      },
+      {
+        "text": "cliente particular porque sólo nos hemos encontrado uno",
+        "startMs": 601500,
+        "durationMs": 3530
+      },
+      {
+        "text": "tiene dos elementos de inventario con el mismo código entonces el sistema",
+        "startMs": 605030,
+        "durationMs": 6160
+      },
+      {
+        "text": "presentarlo porque nosotros no hacíamos la validación sino por código digamos",
+        "startMs": 611190,
+        "durationMs": 3990
+      },
+      {
+        "text": "único por elemento pero pues ya se corrigió todos los que estén en la nueva",
+        "startMs": 615180,
+        "durationMs": 5070
+      },
+      {
+        "text": "actualización las 18.12 digamos que con la corrección que se",
+        "startMs": 620250,
+        "durationMs": 5920
+      },
+      {
+        "text": "hizo pues no se debe volver a presentar pero para las personas que están en una",
+        "startMs": 626170,
+        "durationMs": 3990
+      },
+      {
+        "text": "actualización anterior la solución es actualizarlos pues para que ese error se",
+        "startMs": 630160,
+        "durationMs": 4770
+      },
+      {
+        "text": "corrija y no no no salga pues si hice algo como tormentoso para el cliente",
+        "startMs": 634930,
+        "durationMs": 4920
+      },
+      {
+        "text": "realmente si uno le daba a cerrar podía seguir convirtiendo la operación aplicar",
+        "startMs": 639850,
+        "durationMs": 4230
+      },
+      {
+        "text": "el evento normal pero pues el solo hecho de mostrar la cajita con el tema del",
+        "startMs": 644080,
+        "durationMs": 3810
+      },
+      {
+        "text": "error pues si es como de alarmar o de preocupar pero pues ya se corrigió en",
+        "startMs": 647890,
+        "durationMs": 4890
+      },
+      {
+        "text": "esta actualización entonces simplemente es como se ve aquí como les muestro en",
+        "startMs": 652780,
+        "durationMs": 4560
+      },
+      {
+        "text": "pantalla el error cuando yo le daba a convertir a la operación me aparecía",
+        "startMs": 657340,
+        "durationMs": 3240
+      },
+      {
+        "text": "este error se identifica por el mismo error o como",
+        "startMs": 660580,
+        "durationMs": 5689
+      },
+      {
+        "text": "les digo cuando el proveedor asigna el mismo código elemento a productos",
+        "startMs": 666269,
+        "durationMs": 4521
+      },
+      {
+        "text": "diferentes ahora identificamos que era por esta",
+        "startMs": 670790,
+        "durationMs": 3159
+      },
+      {
+        "text": "situación pero ingeniería si nos pide que si de pronto están a las 18.12 sale",
+        "startMs": 673949,
+        "durationMs": 5220
+      },
+      {
+        "text": "error al momento de convertir parecido con este que es puntualmente",
+        "startMs": 679169,
+        "durationMs": 5120
+      },
+      {
+        "text": "the fire pues si no lo reporten porque a primera instancia hemos identificado que",
+        "startMs": 684289,
+        "durationMs": 4680
+      },
+      {
+        "text": "se presenta cuando el mismo código está asignado a productos diferentes pero",
+        "startMs": 688969,
+        "durationMs": 3871
+      },
+      {
+        "text": "puede que de pronto se presente por otra situación que agradecemos y se las",
+        "startMs": 692840,
+        "durationMs": 4409
+      },
+      {
+        "text": "llegan a reportar pues nos cuenten para nosotros poder empezar también a abordar",
+        "startMs": 697249,
+        "durationMs": 4110
+      },
+      {
+        "text": "los otros casos que se puedan presentar otra situación son pre operaciones mal",
+        "startMs": 701359,
+        "durationMs": 4751
+      },
+      {
+        "text": "asociadas este ha sido muy común que cuando descargan la factura y la",
+        "startMs": 706110,
+        "durationMs": 4710
+      },
+      {
+        "text": "convierte en el sistema se bloquea y cuando yo vuelvo de ingreso a contaminar",
+        "startMs": 710820,
+        "durationMs": 5040
+      },
+      {
+        "text": "porque de pronto si retrocede su moto el proceso me queda tanto la pre operación",
+        "startMs": 715860,
+        "durationMs": 4260
+      },
+      {
+        "text": "como la operación convertida entonces también se corrigió la actualización",
+        "startMs": 720120,
+        "durationMs": 5120
+      },
+      {
+        "text": "para las personas que están en 18.12 no debe volverse a presentar si se presenta",
+        "startMs": 725240,
+        "durationMs": 5709
+      },
+      {
+        "text": "por favor informarlo la perfila todas las pruebas que hicimos para salieron",
+        "startMs": 730949,
+        "durationMs": 3151
+      },
+      {
+        "text": "correctas para las personas que están en una actualización anterior sí es",
+        "startMs": 734100,
+        "durationMs": 4469
+      },
+      {
+        "text": "importante que si les quedaron dobles o algunas no tienen referencia bien aquí",
+        "startMs": 738569,
+        "durationMs": 5611
+      },
+      {
+        "text": "donde dicen el manejo de operaciones referencia bien queda con la referencia",
+        "startMs": 744180,
+        "durationMs": 3930
+      },
+      {
+        "text": "vacía si hay que descargarlo directamente con soporte porque ya es",
+        "startMs": 748110,
+        "durationMs": 3959
+      },
+      {
+        "text": "puntualmente de un cliente que algunos quedan 5 hay que adicionarle ser coupé",
+        "startMs": 752069,
+        "durationMs": 4801
+      },
+      {
+        "text": "por medio de ser el manual algunos quedan sin la referencia bien entonces",
+        "startMs": 756870,
+        "durationMs": 3870
+      },
+      {
+        "text": "hay que adicionar la manual eso se presentaba por cuando se hacía la",
+        "startMs": 760740,
+        "durationMs": 4050
+      },
+      {
+        "text": "conversión y el sistema se quedaba ahí como un estado de bloqueo no responde y",
+        "startMs": 764790,
+        "durationMs": 6219
+      },
+      {
+        "text": "tocaba el sistema de volver no abrir ya también",
+        "startMs": 771009,
+        "durationMs": 2730
+      },
+      {
+        "text": "se corrigió por si de pronto se llegara a presentar clientes con estos casos",
+        "startMs": 773739,
+        "durationMs": 5101
+      },
+      {
+        "text": "como les digo desde las 18.12 no se debería volver a presentar la situación",
+        "startMs": 778840,
+        "durationMs": 4549
+      },
+      {
+        "text": "válida muchas con varios clientes y está correcto y con los que son de aquí hacia",
+        "startMs": 783389,
+        "durationMs": 4600
+      },
+      {
+        "text": "atrás que les quedaron con esta situación",
+        "startMs": 787989,
+        "durationMs": 3000
+      },
+      {
+        "text": "situación por favor de reportarlo con soporte para",
+        "startMs": 790989,
+        "durationMs": 2280
+      },
+      {
+        "text": "ella con ingeniería y evaluar el documento puntual y saber que tenemos",
+        "startMs": 793269,
+        "durationMs": 3360
+      },
+      {
+        "text": "que aplicarle a cada caso vale ahora",
+        "startMs": 796629,
+        "durationMs": 4471
+      },
+      {
+        "text": "ahora novedades de la actualización a raíz de",
+        "startMs": 801100,
+        "durationMs": 2880
+      },
+      {
+        "text": "de ciertos casos que nos hemos encontrado",
+        "startMs": 803980,
+        "durationMs": 3560
+      },
+      {
+        "text": "encontrado esta viene desde la 18.9 por eso le puse",
+        "startMs": 807540,
+        "durationMs": 3250
+      },
+      {
+        "text": "aquí como 18.9 pero es importante mencionarlo",
+        "startMs": 810790,
+        "durationMs": 4170
+      },
+      {
+        "text": "mencionarlo para que la gente",
+        "startMs": 814960,
+        "durationMs": 1919
+      },
+      {
+        "text": "porque se nos presentaron una cantidad de soportes impresionantes con el tema",
+        "startMs": 816879,
+        "durationMs": 3661
+      },
+      {
+        "text": "entonces por eso lo traemos acotación y es que en los clientes eliminaban la pre",
+        "startMs": 820540,
+        "durationMs": 4320
+      },
+      {
+        "text": "operación eliminaba la operación que ya se había convertido y pues hasta ese",
+        "startMs": 824860,
+        "durationMs": 4350
+      },
+      {
+        "text": "entonces no teníamos cómo volver digamos a recuperar esa operación porque",
+        "startMs": 829210,
+        "durationMs": 6440
+      },
+      {
+        "text": "recordemos que todo lo que se elimina no tengo cómo hacer una reversión de esa",
+        "startMs": 835650,
+        "durationMs": 3930
+      },
+      {
+        "text": "acción en cuenta pyme entonces a partir de esta actualización se adiciona el",
+        "startMs": 839580,
+        "durationMs": 4860
+      },
+      {
+        "text": "manejador de operaciones una nueva pestaña de descargar efe recibidas por",
+        "startMs": 844440,
+        "durationMs": 5040
+      },
+      {
+        "text": "número de documento para que yo pueda volver a descargar esa operación que",
+        "startMs": 849480,
+        "durationMs": 4920
+      },
+      {
+        "text": "pronto elimine por error o presente elimino como tal de todas formas en",
+        "startMs": 854400,
+        "durationMs": 5430
+      },
+      {
+        "text": "bitácora queda el registro de eliminación como cualquier operación",
+        "startMs": 859830,
+        "durationMs": 3450
+      },
+      {
+        "text": "para poder confirmar con el cliente que es que la eliminar de forma manual",
+        "startMs": 863280,
+        "durationMs": 4710
+      },
+      {
+        "text": "porque pues hay unos clientes que decían que no que eso se desaparecido solito",
+        "startMs": 867990,
+        "durationMs": 3810
+      },
+      {
+        "text": "cuando uno iba a la bitácora pues le mostraba que era que lo habían eliminado",
+        "startMs": 871800,
+        "durationMs": 3090
+      },
+      {
+        "text": "y pues a raíz de todos estos casos que tuvimos y que nos reportaron desde el",
+        "startMs": 874890,
+        "durationMs": 5640
+      },
+      {
+        "text": "área soporte que fueran muchos se optó por hacer una opción cita que permita",
+        "startMs": 880530,
+        "durationMs": 6030
+      },
+      {
+        "text": "descargar el documento que yo ya había descargado anteriormente y que pues no",
+        "startMs": 886560,
+        "durationMs": 4950
+      },
+      {
+        "text": "elimine o sea por error o sea porque lo hice intencional pero pues tengo cómo",
+        "startMs": 891510,
+        "durationMs": 5280
+      },
+      {
+        "text": "volverla a recuperar entonces está esta opción de descargar el pd por número me",
+        "startMs": 896790,
+        "durationMs": 5279
+      },
+      {
+        "text": "abre esta cajita de aquí y yo simplemente le digo el número del",
+        "startMs": 902069,
+        "durationMs": 3120
+      },
+      {
+        "text": "documento y él vuelve y hacer la descarga sin ningún problema ahora qué",
+        "startMs": 905189,
+        "durationMs": 4531
+      },
+      {
+        "text": "pasa si la operación que yo elimine ya tenía eventos",
+        "startMs": 909720,
+        "durationMs": 5799
+      },
+      {
+        "text": "ya tenía pronto la notificación al pp o ya tenía la aventura cruce cuando yo la",
+        "startMs": 915519,
+        "durationMs": 5341
+      },
+      {
+        "text": "eliminó y la vuelvo a descargar él automáticamente vuelve y mira los",
+        "startMs": 920860,
+        "durationMs": 3779
+      },
+      {
+        "text": "eventos que yo ya le había aplicado inicialmente el documento entonces no",
+        "startMs": 924639,
+        "durationMs": 5011
+      },
+      {
+        "text": "habría que volverlos a hacer porque él vuelve los heredero vuelve los trae tal",
+        "startMs": 929650,
+        "durationMs": 3599
+      },
+      {
+        "text": "cual como estaban antes eliminar la operación",
+        "startMs": 933249,
+        "durationMs": 5020
+      },
+      {
+        "text": "tenemos ya en la actualización 18.12 y es que vamos a poder hacer eventos",
+        "startMs": 940480,
+        "durationMs": 7190
+      },
+      {
+        "text": "electrónicos a partir de la pre operación del aparato nica",
+        "startMs": 947670,
+        "durationMs": 7200
+      },
+      {
+        "text": "acción y posteriormente la queremos convertir a operación que ya tengamos",
+        "startMs": 954880,
+        "durationMs": 4750
+      },
+      {
+        "text": "digitada o como operación diría existente o queramos convertir a una",
+        "startMs": 959630,
+        "durationMs": 4330
+      },
+      {
+        "text": "operación como tal me va desde ceros estos eventos que aplicamos desde la pre",
+        "startMs": 963960,
+        "durationMs": 3720
+      },
+      {
+        "text": "operación también se van a quedar a esa operación que yo asocio oa la nueva",
+        "startMs": 967680,
+        "durationMs": 3840
+      },
+      {
+        "text": "operación que yo ya se convirtiendo esta es una novedad nueva y grande que",
+        "startMs": 971520,
+        "durationMs": 5070
+      },
+      {
+        "text": "tenemos a raíz de el tema de los contadores que dictaban sus operaciones",
+        "startMs": 976590,
+        "durationMs": 6000
+      },
+      {
+        "text": "de movimiento contable y nosotros no tenemos cómo asociar las está muy bien",
+        "startMs": 982590,
+        "durationMs": 3270
+      },
+      {
+        "text": "tu contable entonces optamos según el anexo y las investigaciones que hicimos",
+        "startMs": 985860,
+        "durationMs": 5790
+      },
+      {
+        "text": "con la dian y con las normas de que se pueden aplicar los eventos directamente",
+        "startMs": 991650,
+        "durationMs": 4890
+      },
+      {
+        "text": "desde la pre operación entonces este día y recuerden que la preparación no hace",
+        "startMs": 996540,
+        "durationMs": 3900
+      },
+      {
+        "text": "ninguna afectación contable ni ninguna afectación adicional en el",
+        "startMs": 1000440,
+        "durationMs": 5199
+      },
+      {
+        "text": "sistema como en la parte de inventarios con la compra o en la parte de cuentas",
+        "startMs": 1005639,
+        "durationMs": 3541
+      },
+      {
+        "text": "con los gastos simplemente es una pre operación a la",
+        "startMs": 1009180,
+        "durationMs": 4440
+      },
+      {
+        "text": "cual le pueda aplicar eventos y que está allí para que podamos cumplir con el",
+        "startMs": 1013620,
+        "durationMs": 2970
+      },
+      {
+        "text": "tema de la recepción y los eventos electrónicos también adicionamos una",
+        "startMs": 1016590,
+        "durationMs": 5549
+      },
+      {
+        "text": "validación para evitar el envío de notificaciones para las operaciones",
+        "startMs": 1022139,
+        "durationMs": 4981
+      },
+      {
+        "text": "electrónicas que recibimos con un medio de pago de contado detectamos en una",
+        "startMs": 938279,
+        "durationMs": 94511
+      },
+      {
+        "text": "cantidad grande de documentos que teníamos que los clientes por el tema al",
+        "startMs": 1032790,
+        "durationMs": 5039
+      },
+      {
+        "text": "principio de causación y descargaban la factura de contado pero al convertirla",
+        "startMs": 1037829,
+        "durationMs": 5340
+      },
+      {
+        "text": "le cambio en la forma de pago a crédito y nosotros lo que estamos validando era",
+        "startMs": 1043169,
+        "durationMs": 4530
+      },
+      {
+        "text": "el medio de pago de la operación entonces cómo era crédito",
+        "startMs": 1047699,
+        "durationMs": 3031
+      },
+      {
+        "text": "automáticamente se abría la personita eventos electrónicos y quedaba la",
+        "startMs": 1050730,
+        "durationMs": 3930
+      },
+      {
+        "text": "notificación siempre quedaba pendiente nunca iba a cambiar porque su forma",
+        "startMs": 1054660,
+        "durationMs": 5670
+      },
+      {
+        "text": "original de medio de pago es de contado entonces recordar que los eventos o la",
+        "startMs": 1060330,
+        "durationMs": 5130
+      },
+      {
+        "text": "recepción de eventos tanto de misión como el receptor y de",
+        "startMs": 1065460,
+        "durationMs": 4770
+      },
+      {
+        "text": "documentos de recepción y eventos electrónicos es únicamente para las",
+        "startMs": 1070230,
+        "durationMs": 4720
+      },
+      {
+        "text": "facturas a crédito no para las facturas de contar por más de que yo lo cambie",
+        "startMs": 1074950,
+        "durationMs": 4260
+      },
+      {
+        "text": "pues con esta nueva verificación que estamos haciendo ya nos vamos a ir",
+        "startMs": 1079210,
+        "durationMs": 4800
+      },
+      {
+        "text": "directamente al 15 de mailer más no al medio de pago que tenga la operación",
+        "startMs": 1084010,
+        "durationMs": 4050
+      },
+      {
+        "text": "como tal entonces qué va a pasar para las personas que sigan haciendo ese",
+        "startMs": 1088060,
+        "durationMs": 5010
+      },
+      {
+        "text": "manejo vamos a sacar esta alerta que dice que la factura que estamos",
+        "startMs": 1093070,
+        "durationMs": 3960
+      },
+      {
+        "text": "recibiendo y que estamos asociando tiene un método de pago de contado por lo",
+        "startMs": 1097030,
+        "durationMs": 4320
+      },
+      {
+        "text": "tanto no se van a poder aplicar eventos y adicional a eso nos vamos a la",
+        "startMs": 1101350,
+        "durationMs": 4080
+      },
+      {
+        "text": "pestañita de eventos electrónicos en el inspector cuando la forma de pago del",
+        "startMs": 1105430,
+        "durationMs": 4710
+      },
+      {
+        "text": "xml sea de contado únicamente es cuando sea a crédito",
+        "startMs": 1110140,
+        "durationMs": 6279
+      },
+      {
+        "text": "a partir de esta actualización vamos a poder asociar facturas electrónicas a",
+        "startMs": 1119140,
+        "durationMs": 4370
+      },
+      {
+        "text": "una operación de abono en cuentas por pagar",
+        "startMs": 1123510,
+        "durationMs": 3230
+      },
+      {
+        "text": "pagar recordemos de que yo solo puedo hacer la",
+        "startMs": 1126740,
+        "durationMs": 2980
+      },
+      {
+        "text": "conversión y la asociación de esas preoperación es a operaciones de gastos",
+        "startMs": 1129720,
+        "durationMs": 5580
+      },
+      {
+        "text": "de compras de abonos a cuentas por pagar que éstas la nueva y a la operación de",
+        "startMs": 1135300,
+        "durationMs": 6120
+      },
+      {
+        "text": "compra de activos que después no la puse aquí porque realmente no hemos tenido",
+        "startMs": 1141420,
+        "durationMs": 4500
+      },
+      {
+        "text": "hasta el momento ninguna pero si se los menciono porque también se puede ahora",
+        "startMs": 1145920,
+        "durationMs": 3630
+      },
+      {
+        "text": "porque se implementó esta opción de hacer la asociación de la operación o la",
+        "startMs": 1149550,
+        "durationMs": 5990
+      },
+      {
+        "text": "a la operación de bono de cuentas por pagar resulta que",
+        "startMs": 1155540,
+        "durationMs": 4920
+      },
+      {
+        "text": "por ejemplo cuando yo hacía la factura de venta y tenía comisiones esas",
+        "startMs": 1160460,
+        "durationMs": 5590
+      },
+      {
+        "text": "comisiones automáticamente tienen una causa acción a la cuenta del gasto",
+        "startMs": 1166050,
+        "durationMs": 3750
+      },
+      {
+        "text": "contra la cuenta por pagar cuando a mí el proveedor me envía la factura",
+        "startMs": 1169800,
+        "durationMs": 5100
+      },
+      {
+        "text": "electrónica por cobrar esas comisiones por ejemplo entonces al yo registrar",
+        "startMs": 1174900,
+        "durationMs": 5460
+      },
+      {
+        "text": "nuevamente esa factura pues me va a quedar doble la contabilidad con lo que",
+        "startMs": 1180360,
+        "durationMs": 3480
+      },
+      {
+        "text": "yo había causa en la factura de venta de la comisión más la nueva factura que me",
+        "startMs": 1183840,
+        "durationMs": 4770
+      },
+      {
+        "text": "están viendo a mí ese proveedor entonces optamos por desde el abono que yo ya",
+        "startMs": 1188610,
+        "durationMs": 5880
+      },
+      {
+        "text": "estoy haciendo el cruce del pago de esa comisión por ejemplo para este para este",
+        "startMs": 1116429,
+        "durationMs": 83761
+      },
+      {
+        "text": "caso que desde ella se puedan emitir eventos electrónicos desde la operación",
+        "startMs": 1200190,
+        "durationMs": 6360
+      },
+      {
+        "text": "entonces ya yo voy a poder descargar la factura asociar la la operación de abono",
+        "startMs": 1206550,
+        "durationMs": 4710
+      },
+      {
+        "text": "y desde allí hacer la misión de eventos sin ningún problema entonces esto",
+        "startMs": 1211260,
+        "durationMs": 3990
+      },
+      {
+        "text": "también es una novedad que nos ayuda mucho con esos casos de las personas que",
+        "startMs": 1215250,
+        "durationMs": 4470
+      },
+      {
+        "text": "les estaba pronto quedando doble o que necesitaban hacer el tema de comisiones",
+        "startMs": 1219720,
+        "durationMs": 5190
+      },
+      {
+        "text": "on the players como tal de labores también desde la planilla si se causa",
+        "startMs": 1224910,
+        "durationMs": 4410
+      },
+      {
+        "text": "como tal alguna bonificación al momento de hacer el abono puede obtener esa",
+        "startMs": 1229320,
+        "durationMs": 5550
+      },
+      {
+        "text": "operación para asociarla en la propera sino que yo descargue y comenzar con él",
+        "startMs": 1234870,
+        "durationMs": 4770
+      },
+      {
+        "text": "en el tema del envío de los eventos sin ningún problema entonces esto también es",
+        "startMs": 1239640,
+        "durationMs": 10219
+      },
+      {
+        "text": "tenemos ya unos motivos de rechazo de correos enviados pero antes de pasar acá",
+        "startMs": 1249869,
+        "durationMs": 5720
+      },
+      {
+        "text": "voy a pasarme aquí al sistema para poderles mostrar",
+        "startMs": 1255589,
+        "durationMs": 6161
+      },
+      {
+        "text": "hacemos lo para que el tema ya pues como tal que lo que les mencionaba el",
+        "startMs": 1261750,
+        "durationMs": 5460
+      },
+      {
+        "text": "descargo de la factura recibida por número de documentos miren que cuando",
+        "startMs": 1267210,
+        "durationMs": 4530
+      },
+      {
+        "text": "ustedes le dan clic simplemente les pide la cajita para que le indiquen el número",
+        "startMs": 1271740,
+        "durationMs": 3390
+      },
+      {
+        "text": "del documento de vuelta vamos a volver a descargar aquí por ejemplo tengo esta",
+        "startMs": 1275130,
+        "durationMs": 4680
+      },
+      {
+        "text": "factura la cual ya tiene una notificación y unos eventos de la puse",
+        "startMs": 1279810,
+        "durationMs": 4710
+      },
+      {
+        "text": "del recibido y el reclamo qué pasa si yo eliminó la factura pues inicialmente va",
+        "startMs": 1284520,
+        "durationMs": 6270
+      },
+      {
+        "text": "a sacar un aviso donde le va a decir vea señor cliente recuerde que esta factura",
+        "startMs": 1290790,
+        "durationMs": 4530
+      },
+      {
+        "text": "usted ya le metió dos eventos está seguro que la quiere eliminar entonces",
+        "startMs": 1295320,
+        "durationMs": 3630
+      },
+      {
+        "text": "si yo le digo eliminar pues él la va a eliminar sin ningún problema si ahora",
+        "startMs": 1298950,
+        "durationMs": 4350
+      },
+      {
+        "text": "qué pasa si yo necesito volver a descargar la factura porque la elimine",
+        "startMs": 1303300,
+        "durationMs": 5310
+      },
+      {
+        "text": "por error uno leila el mensajito que me sacó o bueno no sé qué otras causas",
+        "startMs": 1308610,
+        "durationMs": 6180
+      },
+      {
+        "text": "puede hacer la eliminación de que no se hayan dado cuenta simplemente es que le",
+        "startMs": 1314790,
+        "durationMs": 3480
+      },
+      {
+        "text": "abra la cajita con lo que el documento le diga ok para que él vuelva y haga",
+        "startMs": 1318270,
+        "durationMs": 6100
+      },
+      {
+        "text": "la descarga del documento va a sacar esta ventanita automáticamente me dice",
+        "startMs": 1324370,
+        "durationMs": 4710
+      },
+      {
+        "text": "que se ha recibido una factura electrónica nueva new le digo que si la",
+        "startMs": 1329080,
+        "durationMs": 3120
+      },
+      {
+        "text": "quiero volver a descargar y miren que va a abrirlo aquí en uno nuevo para que lo",
+        "startMs": 1332200,
+        "durationMs": 6150
+      },
+      {
+        "text": "puedan ver miren que ya vuelve y descarga pero con todos los eventos que",
+        "startMs": 1338350,
+        "durationMs": 5160
+      },
+      {
+        "text": "yo ya le había aplicado o sea digamos que si yo le aplica el acuse a recibido",
+        "startMs": 1343510,
+        "durationMs": 4290
+      },
+      {
+        "text": "necesito algo no no no tenía que aplicar el acuse o le aplique un reclamo y no",
+        "startMs": 1347800,
+        "durationMs": 4530
+      },
+      {
+        "text": "tenía que aplicar reclamos ahí sin nada que hacer porque reforma que esto se va",
+        "startMs": 1352330,
+        "durationMs": 3900
+      },
+      {
+        "text": "labial por eso tenemos una equis xml de cada evento que yo estoy emitiendo",
+        "startMs": 1356230,
+        "durationMs": 5120
+      },
+      {
+        "text": "entonces si esto se va a la dian yo noto como reversar ahí le hice reclamo y no",
+        "startMs": 1361350,
+        "durationMs": 4030
+      },
+      {
+        "text": "era reclamos ahí sí ya tendríamos que hacer una nota a crédito con la persona",
+        "startMs": 1365380,
+        "durationMs": 6420
+      },
+      {
+        "text": "que nos hizo la emisión de la factura y volver a generar una nueva para poder",
+        "startMs": 1371800,
+        "durationMs": 2880
+      },
+      {
+        "text": "aplicar eventos pero no tengo como reversar una aplicación de un evento por",
+        "startMs": 1374680,
+        "durationMs": 5430
+      },
+      {
+        "text": "eso si la línea porque de pronto a le aplique los eventos que no haya eliminó",
+        "startMs": 1380110,
+        "durationMs": 3990
+      },
+      {
+        "text": "cuando ustedes la vuelvan a descargar ella descarga los eventos que yo ya haya",
+        "startMs": 1384100,
+        "durationMs": 3720
+      },
+      {
+        "text": "informado y la razón es porque esto se va",
+        "startMs": 1387820,
+        "durationMs": 3360
+      },
+      {
+        "text": "va por eso nos retomé nosotros un xml de",
+        "startMs": 1391180,
+        "durationMs": 3450
+      },
+      {
+        "text": "cada evento que estamos practicando al documento y por tal motivo pues yo ya no",
+        "startMs": 1394630,
+        "durationMs": 4560
+      },
+      {
+        "text": "tengo cómo regresar vale entonces voy a volver aquí al manejador de operaciones",
+        "startMs": 1399190,
+        "durationMs": 9370
+      },
+      {
+        "text": "también quiero contarles que hicimos un cambio y es que como ya vamos a",
+        "startMs": 1408570,
+        "durationMs": 7319
+      },
+      {
+        "text": "verificar es la forma de pago del xml directamente hacer la validación desde",
+        "startMs": 1415889,
+        "durationMs": 4650
+      },
+      {
+        "text": "allí qué pasa cuando yo dentro del abono tengo un cruce de una cuenta por cobrar",
+        "startMs": 1420539,
+        "durationMs": 7221
+      },
+      {
+        "text": "anteriormente como esto quedaba con un medio de pago cruce pues no tenía yo",
+        "startMs": 1427760,
+        "durationMs": 5230
+      },
+      {
+        "text": "cómo hacer emisión de eventos electrónicos porque no era una forma de",
+        "startMs": 1432990,
+        "durationMs": 4830
+      },
+      {
+        "text": "pago a crédito como ya vamos a verificar directamente es la forma de pago de",
+        "startMs": 1437820,
+        "durationMs": 5040
+      },
+      {
+        "text": "leticia de ml ya tenemos cómo va a aplicar eventos cuando se presenten esos",
+        "startMs": 1442860,
+        "durationMs": 4500
+      },
+      {
+        "text": "casos que yo en el abono realice un cruce de alguna cuenta por cobrar que",
+        "startMs": 1447360,
+        "durationMs": 4260
+      },
+      {
+        "text": "tenido con este tercero y ya desde allí puedo hacer la emisión de los eventos",
+        "startMs": 1451620,
+        "durationMs": 4110
+      },
+      {
+        "text": "sin ningún problema en la 18.2 y también va a salir esa solución que se",
+        "startMs": 1455730,
+        "durationMs": 4500
+      },
+      {
+        "text": "implementó y que después de estudiarse se llegó a la conclusión de que sí se",
+        "startMs": 1460230,
+        "durationMs": 3600
+      },
+      {
+        "text": "podía evaluar directamente el xml y ya independientemente la forma de pago",
+        "startMs": 1463830,
+        "durationMs": 4770
+      },
+      {
+        "text": "flexión que vayan a asociar al momento de convertirlo pero",
+        "startMs": 1468600,
+        "durationMs": 6530
+      },
+      {
+        "text": "e hasta ahí luisa no sé si quieres que",
+        "startMs": 1475140,
+        "durationMs": 3820
+      },
+      {
+        "text": "hagamos una pausa para resolver algunas preguntas",
+        "startMs": 1478960,
+        "durationMs": 3949
+      },
+      {
+        "text": "preguntas creo que se está moviendo mucho mucho el",
+        "startMs": 1482909,
+        "durationMs": 4731
+      },
+      {
+        "text": "o la 3a pues sí sí nos da el espacio",
+        "startMs": 1487650,
+        "durationMs": 8020
+      },
+      {
+        "text": "y sería muy bueno así si yo creo porque ya lo que sigue son las validaciones",
+        "startMs": 1495670,
+        "durationMs": 6240
+      },
+      {
+        "text": "preguntó sin ton para que tengamos en cuenta antes del y listo",
+        "startMs": 1501910,
+        "durationMs": 5460
+      },
+      {
+        "text": "como les decía era algo muy corto que quita mucho tiempo pero sí mencionarles",
+        "startMs": 1507370,
+        "durationMs": 4530
+      },
+      {
+        "text": "algo importante relevante que quieren la actualización",
+        "startMs": 1511900,
+        "durationMs": 5710
+      },
+      {
+        "text": "y bueno aquí hay una pregunta que fue frecuente en tres distribuidores en este",
+        "startMs": 1517620,
+        "durationMs": 5780
+      },
+      {
+        "text": "momento a tomar la del señor jorge eliécer nos dice que tiene un cliente",
+        "startMs": 1523400,
+        "durationMs": 4290
+      },
+      {
+        "text": "que le están saliendo en dos empresas que las operaciones son descontados y",
+        "startMs": 1527690,
+        "durationMs": 4650
+      },
+      {
+        "text": "que en realidad son de crédito y no deja realizar los eventos",
+        "startMs": 1532340,
+        "durationMs": 5130
+      },
+      {
+        "text": "los verdes nos confirma que tienen casos similares",
+        "startMs": 1537470,
+        "durationMs": 4860
+      },
+      {
+        "text": "similares y si también ya quedó corregido en las",
+        "startMs": 1542330,
+        "durationMs": 2339
+      },
+      {
+        "text": "18.12 digamos que en las 18.11 tendrá que está en el portal como dice",
+        "startMs": 1544669,
+        "durationMs": 6630
+      },
+      {
+        "text": "y acá algún de estudiar que en el porta todavía está la 18.11 digamos que ya",
+        "startMs": 1551299,
+        "durationMs": 6090
+      },
+      {
+        "text": "está el a 18.2 a pero nuestra lista para descargas porque se están ultimando de",
+        "startMs": 1557389,
+        "durationMs": 4051
+      },
+      {
+        "text": "atrás desde acá directamente por eso no les aparece todavía en el portal las",
+        "startMs": 1561440,
+        "durationMs": 4890
+      },
+      {
+        "text": "18.12 en las 18.11 se presentó una situación y era que estaba haciendo una",
+        "startMs": 1566330,
+        "durationMs": 6719
+      },
+      {
+        "text": "validación sobre facturas decretos ya contaba poniendo el mismo mensajito eso",
+        "startMs": 1573049,
+        "durationMs": 4350
+      },
+      {
+        "text": "ya se corrige con las 18.12 yo ya les confirmó si el 18.2 se queda",
+        "startMs": 1577399,
+        "durationMs": 5850
+      },
+      {
+        "text": "ahorita publicada de una vez para descarga o si ya sería el día de mañana",
+        "startMs": 1583249,
+        "durationMs": 3890
+      },
+      {
+        "text": "pero si eso se corrigen a 18.2 visto bueno por acá nos pregunta",
+        "startMs": 1587139,
+        "durationMs": 8500
+      },
+      {
+        "text": "jf soluciones que si las operaciones que quedaron con este estado en 1 y que son",
+        "startMs": 1595639,
+        "durationMs": 7750
+      },
+      {
+        "text": "de contados podemos tener una este q l para ajustarlo",
+        "startMs": 1603389,
+        "durationMs": 4401
+      },
+      {
+        "text": "sólo con instalarla 18.2 se soluciona perfecto y",
+        "startMs": 1607790,
+        "durationMs": 6890
+      },
+      {
+        "text": "listo perfecto bueno fraga nos preguntan y mariel que",
+        "startMs": 1614680,
+        "durationMs": 6240
+      },
+      {
+        "text": "con estos cambios de las 18.12 se podría cerrar mes y re costear teniendo",
+        "startMs": 1620920,
+        "durationMs": 6250
+      },
+      {
+        "text": "preoperación es no pasadas a operaciones para quienes sólo deseen hacer eventos",
+        "startMs": 1627170,
+        "durationMs": 6360
+      },
+      {
+        "text": "en la operación y no deseen cargar las operaciones",
+        "startMs": 1633530,
+        "durationMs": 8230
+      },
+      {
+        "text": "si yo quiero hacer evento desde la pre operación la puede hacer porque ya no me",
+        "startMs": 1641770,
+        "durationMs": 3890
+      },
+      {
+        "text": "afecta mina contable y por lo tanto no me puede recoger porque no me va a",
+        "startMs": 1645660,
+        "durationMs": 3990
+      },
+      {
+        "text": "afectar por agilizar mi de inventarios de todas formas sería una prueba",
+        "startMs": 1649650,
+        "durationMs": 3750
+      },
+      {
+        "text": "interesante que habría que hacer pero pues hasta donde tengo conocimiento el",
+        "startMs": 1653400,
+        "durationMs": 5250
+      },
+      {
+        "text": "re coste o solamente nos toca operaciones de inventarios nada más y de",
+        "startMs": 1658650,
+        "durationMs": 4910
+      },
+      {
+        "text": "elementos de inventario que estén como tal",
+        "startMs": 1663560,
+        "durationMs": 3630
+      },
+      {
+        "text": "tal digamos involucrados en ese recorte o",
+        "startMs": 1667190,
+        "durationMs": 2620
+      },
+      {
+        "text": "qué tiene que hacer porque encontró que primero estaba la salida antes que la",
+        "startMs": 1669810,
+        "durationMs": 4110
+      },
+      {
+        "text": "entrada entonces únicamente es de eso pero la pre operación pues no nos afecta",
+        "startMs": 1673920,
+        "durationMs": 4500
+      },
+      {
+        "text": "nada contable por tanto nada de inventarios y entonces podría ser sin",
+        "startMs": 1678420,
+        "durationMs": 3330
+      },
+      {
+        "text": "ningún problema y es sobre este mal me cerrado y eso sí les confirmo porque no",
+        "startMs": 1681750,
+        "durationMs": 4850
+      },
+      {
+        "text": "les podría dar una respuesta aquí así o no porque no no es claro no sé si la",
+        "startMs": 1686600,
+        "durationMs": 5980
+      },
+      {
+        "text": "prueba ya se hizo y cómo funcionaría pero la tengo presente para contársela",
+        "startMs": 1692580,
+        "durationMs": 3900
+      },
+      {
+        "text": "sí y reenviar se las bueno por acá tenemos otra pregunta que",
+        "startMs": 1696480,
+        "durationMs": 4860
+      },
+      {
+        "text": "dice si en la actualización 18.11 cuando se le da a ver pdf o xml a operaciones",
+        "startMs": 1701340,
+        "durationMs": 6990
+      },
+      {
+        "text": "con recepción de documentos asociados no está mostrando los archivos y solo",
+        "startMs": 1708330,
+        "durationMs": 8860
+      },
+      {
+        "text": "o sea si yo le doy ver el xc mail o el pp me lo debe mostrar si no me lo",
+        "startMs": 1717200,
+        "durationMs": 4640
+      },
+      {
+        "text": "muestras porque que llama la sociedad a la operación entonces hay que escalar lo",
+        "startMs": 1721840,
+        "durationMs": 4079
+      },
+      {
+        "text": "con soporte para mirar propiamente el documento en nuestro servidor de base de",
+        "startMs": 1725919,
+        "durationMs": 4021
+      },
+      {
+        "text": "datos cómo quedó y poderles ayudar hay unas que se les puede correr sql y se",
+        "startMs": 1729940,
+        "durationMs": 5579
+      },
+      {
+        "text": "puede arreglar con ese hay otro que el ingeniero necesariamente debe conectarse",
+        "startMs": 1735519,
+        "durationMs": 4081
+      },
+      {
+        "text": "a la base de datos para realizar entonces en estos casos puntuales si hay",
+        "startMs": 1739600,
+        "durationMs": 3960
+      },
+      {
+        "text": "que reportarlo porque no debería pero era el xml me lo demostrar",
+        "startMs": 1743560,
+        "durationMs": 6380
+      },
+      {
+        "text": "bueno por acá hay una es como las observaciones de que han reportado unos",
+        "startMs": 1749940,
+        "durationMs": 6839
+      },
+      {
+        "text": "casos a soporte esperemos pues la respuesta de soporte directamente acá",
+        "startMs": 1756779,
+        "durationMs": 3421
+      },
+      {
+        "text": "vamos a hablar sobre las preguntas listo si gustan los casos reportados a las",
+        "startMs": 1760200,
+        "durationMs": 7500
+      },
+      {
+        "text": "partes no lo pueden incluir allí en el canal de disfrutar es en nuestro chat y",
+        "startMs": 1767700,
+        "durationMs": 4680
+      },
+      {
+        "text": "nos confirman",
+        "startMs": 1779810,
+        "durationMs": 2340
+      },
+      {
+        "text": "confirman bueno para acá también nos están",
+        "startMs": 1782150,
+        "durationMs": 1800
+      },
+      {
+        "text": "preguntando sobre el documento soporte no se genera si vamos a resolver esas",
+        "startMs": 1783950,
+        "durationMs": 5460
+      },
+      {
+        "text": "preguntas o mentalidades relación directamente",
+        "startMs": 1789410,
+        "durationMs": 3500
+      },
+      {
+        "text": "directamente la recepción para que no se nos muestren los temas porque son",
+        "startMs": 1792910,
+        "durationMs": 3670
+      },
+      {
+        "text": "totalmente diferentes hay unas cositas que si digamos en cuanto al manejo se",
+        "startMs": 1796580,
+        "durationMs": 4110
+      },
+      {
+        "text": "pueden asimilar pero son totalmente diferentes entes directamente recepción",
+        "startMs": 1800690,
+        "durationMs": 4940
+      },
+      {
+        "text": "por acá y la del señor formas única creencia que si tenemos algún manual",
+        "startMs": 1772380,
+        "durationMs": 37400
+      },
+      {
+        "text": "alguna guía en el portal está sin embargo también sólo podemos compartir",
+        "startMs": 1809780,
+        "durationMs": 4050
+      },
+      {
+        "text": "con con luisa para que ustedes la tengan de ese paso a paso de qué es lo que hay",
+        "startMs": 1813830,
+        "durationMs": 4110
+      },
+      {
+        "text": "que hacer para la configuración de recepción de documentos y por acá tengo",
+        "startMs": 1817940,
+        "durationMs": 5460
+      },
+      {
+        "text": "anterior juan alessandro que dice que se están presentando muchos errores con el",
+        "startMs": 1823400,
+        "durationMs": 2820
+      },
+      {
+        "text": "tema de impuestos me gustaría saber cómo poner a mente era compartir ese material",
+        "startMs": 1826220,
+        "durationMs": 6180
+      },
+      {
+        "text": "y puntualmente de qué pasa con el tema de impuestos porque hasta donde yo tengo",
+        "startMs": 1832400,
+        "durationMs": 4740
+      },
+      {
+        "text": "conocimiento no me ha llegado nada sobre el tema de impuestos pero si nos pueden",
+        "startMs": 1837140,
+        "durationMs": 4440
+      },
+      {
+        "text": "compartir puntualmente que eso a través de soporte pues podríamos realizar el",
+        "startMs": 1841580,
+        "durationMs": 8570
+      },
+      {
+        "text": "bueno entonces voy a pasar a la segunda parte de las validaciones tendríamos que",
+        "startMs": 1850160,
+        "durationMs": 5150
+      },
+      {
+        "text": "hacer y ya vamos y retornamos con la parte de preguntas aparece luisa",
+        "startMs": 1855310,
+        "durationMs": 6770
+      },
+      {
+        "text": "y listo entonces espero en un segundo pero compartirá la pantalla",
+        "startMs": 1862080,
+        "durationMs": 12710
+      },
+      {
+        "text": "bueno resulta que hay unos motivos de rechazo de los correos que llegarán a",
+        "startMs": 1874800,
+        "durationMs": 6320
+      },
+      {
+        "text": "nuestro buzón de recepción donde digamos que lo rechazamos directamente desde in",
+        "startMs": 1881120,
+        "durationMs": 4950
+      },
+      {
+        "text": "soft pero no descansan en the garage alrededor tecnológico para poder hacer",
+        "startMs": 1886070,
+        "durationMs": 4140
+      },
+      {
+        "text": "el tema del receso sino que son las validaciones que nosotros hacemos antes",
+        "startMs": 1890210,
+        "durationMs": 3300
+      },
+      {
+        "text": "de pasarlo con el producto tecnológico y esto es como un listado de esos posibles",
+        "startMs": 1893510,
+        "durationMs": 5190
+      },
+      {
+        "text": "errores que le van a retornar a los clientes cuando no se está cumpliendo",
+        "startMs": 1898700,
+        "durationMs": 3150
+      },
+      {
+        "text": "digamos el tema de la validación entonces el correo es así está",
+        "startMs": 1901850,
+        "durationMs": 5100
+      },
+      {
+        "text": "encabezado como ven esta imagen que les muestro dice rechazo en el asunto",
+        "startMs": 1906950,
+        "durationMs": 3900
+      },
+      {
+        "text": "también va a ser el tema del rechazo no se ha podido procesar el documento y",
+        "startMs": 1910850,
+        "durationMs": 5130
+      },
+      {
+        "text": "todo lo que sea eléctrica roja es alguno de esto él está dictó con el cual le",
+        "startMs": 1915980,
+        "durationMs": 4260
+      },
+      {
+        "text": "pueda poder retornar al cliente ese mensaje de error",
+        "startMs": 1920240,
+        "durationMs": 4010
+      },
+      {
+        "text": "hay unos errores que nosotros desde la ingeniería hemos ido corrigiendo porque",
+        "startMs": 1924250,
+        "durationMs": 4590
+      },
+      {
+        "text": "no eran claros ayunos de fecha que al inicio se presentaron que ya se",
+        "startMs": 1928840,
+        "durationMs": 3750
+      },
+      {
+        "text": "corrigieron hay otros el tema de los archivos adjuntos que tampoco eran muy",
+        "startMs": 1932590,
+        "durationMs": 5370
+      },
+      {
+        "text": "claro y ya se corrigió pues como para que el mensaje sea mucho más detallado y",
+        "startMs": 1937960,
+        "durationMs": 4530
+      },
+      {
+        "text": "empático y qué es lo que estamos haciendo mal para crecientes de fallo",
+        "startMs": 1942490,
+        "durationMs": 3150
+      },
+      {
+        "text": "puedan corregir si hay alguno de este listado que les aparezca a sus clientes",
+        "startMs": 1945640,
+        "durationMs": 4950
+      },
+      {
+        "text": "y no se entienda por favor también reportarlo para descargarlo con el",
+        "startMs": 1950590,
+        "durationMs": 3930
+      },
+      {
+        "text": "ingeniero y él lo corrige automáticamente es así no tenemos que",
+        "startMs": 1954520,
+        "durationMs": 2910
+      },
+      {
+        "text": "esperar actualizar su unidad porque se hace directamente desde el servidor",
+        "startMs": 1957430,
+        "durationMs": 2970
+      },
+      {
+        "text": "entonces el cambio es inmediato vale hay unos que son muy dicientes o muy obvios",
+        "startMs": 1960400,
+        "durationMs": 6090
+      },
+      {
+        "text": "como no se ha recibido información en el email como el tema de que el xml no",
+        "startMs": 1966490,
+        "durationMs": 5100
+      },
+      {
+        "text": "contiene el del receptor o el del emisor de la factura electrónica como que los",
+        "startMs": 1971590,
+        "durationMs": 4920
+      },
+      {
+        "text": "archivos que estamos en el adjunto enviando el mail no correspondiera una",
+        "startMs": 1976510,
+        "durationMs": 4470
+      },
+      {
+        "text": "factura electrónica el asunto del correo no es que nosotros digamos validamos que",
+        "startMs": 1980980,
+        "durationMs": 7020
+      },
+      {
+        "text": "es con el que debe llegar electrónica entonces todas estas son las",
+        "startMs": 1988000,
+        "durationMs": 3570
+      },
+      {
+        "text": "validaciones que por parte de mi show hacemos cuando recibimos el correo y no",
+        "startMs": 1991570,
+        "durationMs": 4469
+      },
+      {
+        "text": "encontramos correctas entonces damos un rechazo para que siempre pueda validar y",
+        "startMs": 1996039,
+        "durationMs": 4500
+      },
+      {
+        "text": "para realizar ese ese envío y pueda ser arrollada de manera óptima con la",
+        "startMs": 2000539,
+        "durationMs": 9711
+      },
+      {
+        "text": "este es un listado de todos los que nos hemos encontrado hasta el momento pueden",
+        "startMs": 2010260,
+        "durationMs": 4370
+      },
+      {
+        "text": "haber más que como les digo si se encuentran con alguno sobre todo que la",
+        "startMs": 2014630,
+        "durationMs": 4740
+      },
+      {
+        "text": "eléctrica en roja no sea muy diciente o muy explícita por favor reportar no lo",
+        "startMs": 2019370,
+        "durationMs": 4380
+      },
+      {
+        "text": "para nosotros poderlo corregir porque el güero no es lo que hemos venido haciendo",
+        "startMs": 2023750,
+        "durationMs": 3000
+      },
+      {
+        "text": "con con ciertos mensajes al principio como les digo se presentaban unos de",
+        "startMs": 2026750,
+        "durationMs": 4740
+      },
+      {
+        "text": "fecha que uno hacía pero qué pasa con la fecha e ingeniero corregía como en algo",
+        "startMs": 2031490,
+        "durationMs": 5010
+      },
+      {
+        "text": "ya más puntual para poder saber que correspondía al error pero pues todo eso",
+        "startMs": 2036500,
+        "durationMs": 4110
+      },
+      {
+        "text": "ya se ha ido corrigiendo depurando y pues en este momento ya está",
+        "startMs": 2040610,
+        "durationMs": 3840
+      },
+      {
+        "text": "digamos que el 95 por ciento de esos mensajitos son detalladamente qué es lo",
+        "startMs": 2044450,
+        "durationMs": 6120
+      },
+      {
+        "text": "que estamos fallando y pues son muy dicientes para el cliente o para el",
+        "startMs": 2050570,
+        "durationMs": 3809
+      },
+      {
+        "text": "asesor que esté revisando el motivo de rechazo pues qué es lo que está pasando",
+        "startMs": 2054379,
+        "durationMs": 6331
+      },
+      {
+        "text": "validaciones que tenemos que tener en cuenta lo que debemos hacer antes de",
+        "startMs": 2060720,
+        "durationMs": 4980
+      },
+      {
+        "text": "escalar algún documento que nos quede pronto pendiente que salga con error en",
+        "startMs": 2065700,
+        "durationMs": 5250
+      },
+      {
+        "text": "contra pyme al departamento de soporte sacamos como las variaciones más",
+        "startMs": 2070950,
+        "durationMs": 4620
+      },
+      {
+        "text": "importantes para que también las podemos hacer con ustedes que son los",
+        "startMs": 2075570,
+        "durationMs": 3210
+      },
+      {
+        "text": "escritorios como son el primer filtro pues para que no nos vayamos llenando de",
+        "startMs": 2078780,
+        "durationMs": 3780
+      },
+      {
+        "text": "un montón de solicitudes y que de pronto sea algo muy sencillo que se hubiese",
+        "startMs": 2082560,
+        "durationMs": 3270
+      },
+      {
+        "text": "podido validar o revisar con ustedes directamente uno de los más comunes que",
+        "startMs": 2085830,
+        "durationMs": 6480
+      },
+      {
+        "text": "ya ha ido bajando como está el tema digamos de la cantidad de casos de las",
+        "startMs": 2092310,
+        "durationMs": 4080
+      },
+      {
+        "text": "del tema del asunto si a mí me llegó la factura y andrew a la reenvió a la",
+        "startMs": 2096390,
+        "durationMs": 5010
+      },
+      {
+        "text": "persona que se va a encargar de hacer el descargo de las facturas de compras por",
+        "startMs": 2101400,
+        "durationMs": 5100
+      },
+      {
+        "text": "ejemplo en este departamento y a mí me dio por cambiarle en el asunto de compra",
+        "startMs": 2106500,
+        "durationMs": 4890
+      },
+      {
+        "text": "de computador cuando te envíen el correo nosotros no lo vamos a poder validar",
+        "startMs": 2111390,
+        "durationMs": 6180
+      },
+      {
+        "text": "porque no cumple con esa condición para que coloquen rojito cuál es digamos cómo",
+        "startMs": 2117570,
+        "durationMs": 7519
+      },
+      {
+        "text": "obligatorio por así decirlo que debe contener este asunto para que nosotros",
+        "startMs": 2125099,
+        "durationMs": 3601
+      },
+      {
+        "text": "nos podamos validar y pues no se vaya a rechazar y es que debe contener el nyt",
+        "startMs": 2128700,
+        "durationMs": 4440
+      },
+      {
+        "text": "el nombre de la empresa el número del documento el tipo de documento sea 01 02",
+        "startMs": 2133140,
+        "durationMs": 6480
+      },
+      {
+        "text": "03 04 y la razón social de la persona que está emitiendo la factura",
+        "startMs": 2139620,
+        "durationMs": 5369
+      },
+      {
+        "text": "o sea de quien nos está nosotros generando como tal esta factura",
+        "startMs": 2144989,
+        "durationMs": 3990
+      },
+      {
+        "text": "electrónica también debemos de validar que los adjuntos que se enviaron en ese",
+        "startMs": 2148979,
+        "durationMs": 4711
+      },
+      {
+        "text": "correo pues son correctos es decir que necesita este el xml y este el pdf",
+        "startMs": 2153690,
+        "durationMs": 6470
+      },
+      {
+        "text": "también validar que es el cliente está enviando los correos a la dirección",
+        "startMs": 2160160,
+        "durationMs": 4780
+      },
+      {
+        "text": "confirmada aquí también les hago con muy énfasis en este punto porque nos hemos",
+        "startMs": 2164940,
+        "durationMs": 5339
+      },
+      {
+        "text": "encontrado que hay clientes que envían las facturas a recepcionar nueva cuenta",
+        "startMs": 2170279,
+        "durationMs": 4621
+      },
+      {
+        "text": "pyme puntocom ese correo existe o sea nunca le va a rebotar al cliente porque",
+        "startMs": 2174900,
+        "durationMs": 5790
+      },
+      {
+        "text": "ese correo existe que puede el primer correo que nosotros utilizamos para",
+        "startMs": 2180690,
+        "durationMs": 4169
+      },
+      {
+        "text": "poder hacer todo el tema de pruebas de desarrollos etcétera cuando ya nos",
+        "startMs": 2184859,
+        "durationMs": 4170
+      },
+      {
+        "text": "miramos al puntocom puntocom qué es el correo que actualmente está",
+        "startMs": 2189029,
+        "durationMs": 4481
+      },
+      {
+        "text": "funcionando para la recepción entonces nos encontramos que en este otro buzón",
+        "startMs": 2193510,
+        "durationMs": 3930
+      },
+      {
+        "text": "hay un montón de facturas que envían los clientes automáticamente tenemos",
+        "startMs": 2197440,
+        "durationMs": 4320
+      },
+      {
+        "text": "respuesta al correo diciéndole al cliente que en este correo pues no no se",
+        "startMs": 2201760,
+        "durationMs": 5760
+      },
+      {
+        "text": "van a tener en cuenta los documentos que por favor lo reenvíe a recepción a rueda",
+        "startMs": 2207520,
+        "durationMs": 3930
+      },
+      {
+        "text": "contra primer punto con punto acá pero también sería bueno validar con ellos y",
+        "startMs": 2211450,
+        "durationMs": 3690
+      },
+      {
+        "text": "de pronto que que le están enviando al al puntocom solito para que se pueda",
+        "startMs": 2215140,
+        "durationMs": 4620
+      },
+      {
+        "text": "reenviar sea el correcto pero de todas formas les cuento que tenemos respuesta",
+        "startMs": 2219760,
+        "durationMs": 4140
+      },
+      {
+        "text": "automática para las personas que de pronto reenvíen a este buzón donde se",
+        "startMs": 2223900,
+        "durationMs": 4199
+      },
+      {
+        "text": "les informa que pues no se van a tener en cuenta que por favor reenviar un",
+        "startMs": 2228099,
+        "durationMs": 5191
+      },
+      {
+        "text": "correcto y",
+        "startMs": 2233290,
+        "durationMs": 1360
+      },
+      {
+        "text": "y tenemos también",
+        "startMs": 2234650,
+        "durationMs": 3680
+      },
+      {
+        "text": "algo de digamos de después de evaluar más o menos cuántos del máximo tiempo en",
+        "startMs": 2238340,
+        "durationMs": 7550
+      },
+      {
+        "text": "que cambian los estados de los eventos o el notificado a entonces que tenemos un",
+        "startMs": 2245890,
+        "durationMs": 6060
+      },
+      {
+        "text": "lapso de cuatro horas para poder haber enviado esa notificación o el retorno de",
+        "startMs": 2251950,
+        "durationMs": 6570
+      },
+      {
+        "text": "la respuesta de que ya fue reportado al pp o que el evento ya fue reportado",
+        "startMs": 2258520,
+        "durationMs": 5010
+      },
+      {
+        "text": "directamente a la dea mientras en este caso les bueno de que si el cliente lo",
+        "startMs": 2263530,
+        "durationMs": 4860
+      },
+      {
+        "text": "llama usted y le dice mire a que emitió un evento y ha pasado una obra y eso no",
+        "startMs": 2268390,
+        "durationMs": 3840
+      },
+      {
+        "text": "cambia pues señores que vamos a tener un lapso de cuatro horas y en cuatro horas",
+        "startMs": 2272230,
+        "durationMs": 3630
+      },
+      {
+        "text": "ustedes que no le ha cambiado pues decir por favor reporte melo para saber qué es",
+        "startMs": 2275860,
+        "durationMs": 3810
+      },
+      {
+        "text": "lo que está pasando porque vamos a este espacio de cuatro horas porque",
+        "startMs": 2279670,
+        "durationMs": 3830
+      },
+      {
+        "text": "recordemos que esto es un servicio nuevo que se está estabilizando no sólo por",
+        "startMs": 2283500,
+        "durationMs": 5500
+      },
+      {
+        "text": "parte de nosotros sino sobre todo por parte de la dian y el producto",
+        "startMs": 2289000,
+        "durationMs": 5070
+      },
+      {
+        "text": "tecnológico y como todos sabemos la dian tiene",
+        "startMs": 2294070,
+        "durationMs": 1740
+      },
+      {
+        "text": "constantes caídas y desde que no se estabilice esa conexión pues nosotros no",
+        "startMs": 2295810,
+        "durationMs": 5730
+      },
+      {
+        "text": "vamos a tener como tal una respuesta casi inmediata al tema de los eventos o",
+        "startMs": 2301540,
+        "durationMs": 4950
+      },
+      {
+        "text": "de las notificaciones de las operaciones que estemos descargando entonces si",
+        "startMs": 2306490,
+        "durationMs": 4890
+      },
+      {
+        "text": "super importante como dar ese es el lapso de tiempo para que el cliente",
+        "startMs": 2311380,
+        "durationMs": 4080
+      },
+      {
+        "text": "puede actualizar el estado si ya ve que pase un día pues no le cambio así es",
+        "startMs": 2315460,
+        "durationMs": 3990
+      },
+      {
+        "text": "importante reportarlo porque algo debe estar pasar",
+        "startMs": 2319450,
+        "durationMs": 3700
+      },
+      {
+        "text": "super importante verificar la forma de pago del documento que se da crédito",
+        "startMs": 2323150,
+        "durationMs": 3780
+      },
+      {
+        "text": "también nos hemos encontrado con recordar de que también las herramientas",
+        "startMs": 2326930,
+        "durationMs": 3870
+      },
+      {
+        "text": "para de poder descargar operaciones de contador y agilizar mi proceso de",
+        "startMs": 2330800,
+        "durationMs": 4350
+      },
+      {
+        "text": "digitación pues porque no solamente dedicamos que no desarrollamos para el",
+        "startMs": 2335150,
+        "durationMs": 3870
+      },
+      {
+        "text": "tema de emisión de eventos sino que también para que el usuario pueda",
+        "startMs": 2339020,
+        "durationMs": 3300
+      },
+      {
+        "text": "agilizar su proceso de digitación con sus facturas pues recordarle que si es",
+        "startMs": 2342320,
+        "durationMs": 4950
+      },
+      {
+        "text": "de contado pues nuevo poder emitir eventos simplemente lo que va a hacer es",
+        "startMs": 2347270,
+        "durationMs": 2760
+      },
+      {
+        "text": "poder descargarla convertirla para que le ahorre a usted tenemos que volver a",
+        "startMs": 2350030,
+        "durationMs": 4740
+      },
+      {
+        "text": "hacerlo pero pues no se va a poder emitir eventos como tal",
+        "startMs": 2354770,
+        "durationMs": 3950
+      },
+      {
+        "text": "en esta creas que yo les contaba ahorita que detectamos por el tema de causación",
+        "startMs": 2358720,
+        "durationMs": 5170
+      },
+      {
+        "text": "del cliente descargado la factura de contado le cambiaba la forma de pago a",
+        "startMs": 2363890,
+        "durationMs": 3660
+      },
+      {
+        "text": "crédito y quedaba notificada porque nosotros estábamos mirando era la forma",
+        "startMs": 2367550,
+        "durationMs": 4170
+      },
+      {
+        "text": "de pago de la operación más no es válida vamos la del xml entonces teníamos un",
+        "startMs": 2371720,
+        "durationMs": 5550
+      },
+      {
+        "text": "montón de documentos que nos habían reportado que se quedaron con el",
+        "startMs": 2377270,
+        "durationMs": 3390
+      },
+      {
+        "text": "notificado pendiente y es dependiente nunca iba a cambiar porque su forma",
+        "startMs": 2380660,
+        "durationMs": 4410
+      },
+      {
+        "text": "original era pago de punta entonces cuando llevamos al cliente después a",
+        "startMs": 2385070,
+        "durationMs": 4050
+      },
+      {
+        "text": "liar en una base de datos de nosotros que es que no tenía una forma de pago a",
+        "startMs": 2389120,
+        "durationMs": 3659
+      },
+      {
+        "text": "crédito el cliente nos decía así es que yo soy la cambie para poderlo registrar",
+        "startMs": 2392779,
+        "durationMs": 4411
+      },
+      {
+        "text": "porque necesito ser el principio de causación entonces simplemente",
+        "startMs": 2397190,
+        "durationMs": 3419
+      },
+      {
+        "text": "recordarle a bueno señor plantea si usted lo cambia pues no va a poder",
+        "startMs": 2400609,
+        "durationMs": 3660
+      },
+      {
+        "text": "emitir eventos por lo tanto pues no va a quedar notificado pero recuerden que a",
+        "startMs": 2404269,
+        "durationMs": 4141
+      },
+      {
+        "text": "partir de la 18.12 esa pestañita para la forma de pago de contado ya no a salir y",
+        "startMs": 2408410,
+        "durationMs": 5609
+      },
+      {
+        "text": "va a salir el mensajito para que exente pueda saber qué es a pesar de que se les",
+        "startMs": 2414019,
+        "durationMs": 3780
+      },
+      {
+        "text": "está cambiando pues es de cuenta de no va a poder emitir eventos listo y por",
+        "startMs": 2417799,
+        "durationMs": 6260
+      },
+      {
+        "text": "último que recordemos que si tenemos",
+        "startMs": 2424059,
+        "durationMs": 2290
+      },
+      {
+        "text": "facturación electrónica con vibrador diferente a cadena pues debe habilitarse",
+        "startMs": 2426349,
+        "durationMs": 4321
+      },
+      {
+        "text": "ante la dian con ese proveedor tecnológico que es para poder hacer la",
+        "startMs": 2430670,
+        "durationMs": 3750
+      },
+      {
+        "text": "misión de eventos que actualmente tenemos en desarrollo con el pro",
+        "startMs": 2434420,
+        "durationMs": 3389
+      },
+      {
+        "text": "tecnológico cadena porque si no también va a salir un mensajito que dice que no",
+        "startMs": 2437809,
+        "durationMs": 5131
+      },
+      {
+        "text": "ha sido asociado como tal y pues no vamos a poder hacer oa continuar con el",
+        "startMs": 2442940,
+        "durationMs": 6000
+      },
+      {
+        "text": "tema de la misión de los eventos listo eso es como en resumen la parte de",
+        "startMs": 2448940,
+        "durationMs": 6410
+      },
+      {
+        "text": "corrección de roles y la parte de edición que nos va a permitir a nosotros",
+        "startMs": 2455350,
+        "durationMs": 3450
+      },
+      {
+        "text": "optimizar el tema de soporte pues vamos entonces luisa con preguntas",
+        "startMs": 2458800,
+        "durationMs": 5840
+      },
+      {
+        "text": "en el chat bueno pues creo que ya no tenemos sino",
+        "startMs": 2464640,
+        "durationMs": 6210
+      },
+      {
+        "text": "solo una apreciación del ingeniero de ariel donde dice que si el sistema está",
+        "startMs": 2470850,
+        "durationMs": 7710
+      },
+      {
+        "text": "validando por ejemplo que el proveedor tenga teléfono y si no no deja crear el",
+        "startMs": 2478560,
+        "durationMs": 5700
+      },
+      {
+        "text": "proveedor lastimosamente la diana está permitiendo así las facturas no se",
+        "startMs": 2484260,
+        "durationMs": 4560
+      },
+      {
+        "text": "debería exigir se debería de dejar el tiquete con soporte ingeniero daniel",
+        "startMs": 2488820,
+        "durationMs": 5729
+      },
+      {
+        "text": "para poder evaluar el caso como tal para para poder mirar en detalle pues qué es",
+        "startMs": 2494549,
+        "durationMs": 5241
+      },
+      {
+        "text": "lo que están pidiendo de ese proveedor y pues poder hacer la evaluación del caso",
+        "startMs": 2499790,
+        "durationMs": 5160
+      },
+      {
+        "text": "cómo es bueno pero la de preguntas no veo más el",
+        "startMs": 2504950,
+        "durationMs": 4260
+      },
+      {
+        "text": "ine o juan alejandro nos ha notificado los tiquetes que tienen p q r",
+        "startMs": 2509210,
+        "durationMs": 5180
+      },
+      {
+        "text": "y veo que están relacionados con error de cadena ya tocaría es como validarlo",
+        "startMs": 2514390,
+        "durationMs": 6659
+      },
+      {
+        "text": "acá internamente si hay unas cuantas resoluciones como",
+        "startMs": 2521049,
+        "durationMs": 5520
+      },
+      {
+        "text": "vemos los momentos que nos reportan nuestros clientes",
+        "startMs": 2526569,
+        "durationMs": 5061
+      },
+      {
+        "text": "digamos que no tengo como mostrarles en este momento por lo que",
+        "startMs": 2531640,
+        "durationMs": 4450
+      },
+      {
+        "text": "debe hacerse en un área de trabajo como tal en producción aún no tenemos un",
+        "startMs": 2536090,
+        "durationMs": 4180
+      },
+      {
+        "text": "ambiente de pruebas donde yo pueda como un facturación electrónica",
+        "startMs": 2540270,
+        "durationMs": 4420
+      },
+      {
+        "text": "reproducir como tales y el evento o el proceso para poderles mostrar pero",
+        "startMs": 2544690,
+        "durationMs": 5220
+      },
+      {
+        "text": "cuando usted emite la factura electrónica y su cliente descarga la",
+        "startMs": 2549910,
+        "durationMs": 5410
+      },
+      {
+        "text": "factura y hace un evento al yo decirle descargar documentos en mi corta pyme el",
+        "startMs": 2555320,
+        "durationMs": 7110
+      },
+      {
+        "text": "sistema me va a sacar los ventanitas uno que encontró tanta cantidad de facturas",
+        "startMs": 2562430,
+        "durationMs": 4260
+      },
+      {
+        "text": "para descargar y dos que el captor encontró tanta cantidad de eventos para",
+        "startMs": 2566690,
+        "durationMs": 3960
+      },
+      {
+        "text": "poder descargar si yo emita actuación electrónica con contra pyme y la persona",
+        "startMs": 2570650,
+        "durationMs": 5730
+      },
+      {
+        "text": "que está recibiendo la factura tiene contra pyme no tengo que hacer nada más",
+        "startMs": 2576380,
+        "durationMs": 4140
+      },
+      {
+        "text": "pero si yo evito la factura electrónica con un sistema diferente",
+        "startMs": 2580520,
+        "durationMs": 6760
+      },
+      {
+        "text": "tengo que reenviar el correo del evento que me llegó a recepción arroba contra",
+        "startMs": 2587280,
+        "durationMs": 5550
+      },
+      {
+        "text": "pyme puntocom para poder descargar los y que ya me queden asociados a las",
+        "startMs": 2592830,
+        "durationMs": 6320
+      },
+      {
+        "text": "facturas entonces en este caso tendríamos como",
+        "startMs": 2599150,
+        "durationMs": 4020
+      },
+      {
+        "text": "esos dos mangos pero yo tengo que hacer un vídeo mostrándoles no sólo a ustedes",
+        "startMs": 2603170,
+        "durationMs": 7080
+      },
+      {
+        "text": "sino a los clientes y ya en la parte de producción como sería un caso un caso",
+        "startMs": 2610250,
+        "durationMs": 4920
+      },
+      {
+        "text": "ver para que ustedes puedan saber también cómo funciona",
+        "startMs": 2615170,
+        "durationMs": 3500
+      },
+      {
+        "text": "entonces si apenas esté listo se los comparto con luisa para que también lo",
+        "startMs": 2618670,
+        "durationMs": 7730
+      },
+      {
+        "startMs": 2626410,
+        "durationMs": 4870,
+        "text": "y por acá mostradores"
+      },
+      {
+        "text": "y ya hay una petición de jf donde dice que tenemos un alto tiempo de respuesta",
+        "startMs": 2631290,
+        "durationMs": 5390
+      },
+      {
+        "text": "y efectivamente hay una alta demanda de solicitudes que ha alterado los tiempos",
+        "startMs": 2636680,
+        "durationMs": 7890
+      },
+      {
+        "text": "y el día de mañana estamos preparando material porque vemos que las",
+        "startMs": 2644570,
+        "durationMs": 6240
+      },
+      {
+        "text": "solicitudes la mayoría vienen es porque el cliente no sabe configurar documentos",
+        "startMs": 2650810,
+        "durationMs": 5850
+      },
+      {
+        "text": "soporte tiene dudas en configuración documentos soporte hasta menor recepción",
+        "startMs": 2656660,
+        "durationMs": 4110
+      },
+      {
+        "text": "entonces estamos preparando un material voy pues muy liviano para poder serlo",
+        "startMs": 2660770,
+        "durationMs": 5790
+      },
+      {
+        "text": "enviar a los clientes de forma masiva porque eso nos está afectando los",
+        "startMs": 2666560,
+        "durationMs": 3510
+      },
+      {
+        "text": "tiempos de atención porque todas las personas están como generando esos dos",
+        "startMs": 2670070,
+        "durationMs": 3420
+      },
+      {
+        "text": "tiquetes de cómo configurar y no son tiquetes de errores explícitamente para",
+        "startMs": 2673490,
+        "durationMs": 5280
+      },
+      {
+        "text": "los casos que tengan más de 15 días regularmente deben de ser p q eres",
+        "startMs": 2678770,
+        "durationMs": 5130
+      },
+      {
+        "text": "escaladas el señor de jf señor freddy nos puede enviar pues si gusta en el",
+        "startMs": 2683900,
+        "durationMs": 8300
+      },
+      {
+        "text": "enemigo hasta me envía ese listado de los tiquetes yo válido si es que tienen",
+        "startMs": 2692200,
+        "durationMs": 5410
+      },
+      {
+        "text": "pero que tienen allí pendiente listo si luisa como el señor battle ya dice",
+        "startMs": 2697610,
+        "durationMs": 7450
+      },
+      {
+        "text": "que por ejemplo algunos motivos de rechazo recibidos no son claros",
+        "startMs": 2705060,
+        "durationMs": 3930
+      },
+      {
+        "text": "necesitaba saber necesitaría yo saber cuáles son porque como yo les decía de",
+        "startMs": 2708990,
+        "durationMs": 4230
+      },
+      {
+        "text": "ese listado que yo les mostré que ya lo hice también se los va a compartir",
+        "startMs": 2713220,
+        "durationMs": 4220
+      },
+      {
+        "text": "la mayoría son muy dicientes los que no eran claros o detallados que uno hable y",
+        "startMs": 2717440,
+        "durationMs": 5560
+      },
+      {
+        "text": "ahí es y ahora que tengo que hacer ya se corrigieron si tiene unos que no sean",
+        "startMs": 2723000,
+        "durationMs": 4560
+      },
+      {
+        "text": "claros como tal o que tengan o que les falten comportar esos detalles sobre qué",
+        "startMs": 2727560,
+        "durationMs": 5940
+      },
+      {
+        "text": "inconsistencia y por favor pantalla citó para yo poder se los pasa de ingeniería",
+        "startMs": 2733500,
+        "durationMs": 3570
+      },
+      {
+        "text": "que los podamos corregir yo digo algo y es que nos volvemos a los",
+        "startMs": 2737070,
+        "durationMs": 5610
+      },
+      {
+        "text": "distribuidores que que estuvimos en el tema de facturación electrónica cuando",
+        "startMs": 2742680,
+        "durationMs": 3510
+      },
+      {
+        "text": "se empezó a implementar el volumen de casos por desconocimiento del cliente y",
+        "startMs": 2746190,
+        "durationMs": 4680
+      },
+      {
+        "text": "porque nosotros digamos que llegamos hasta unas pruebas con lo que a groso",
+        "startMs": 2750870,
+        "durationMs": 4320
+      },
+      {
+        "text": "modo generalmente podemos simular de que se puede hacer y que no",
+        "startMs": 2755190,
+        "durationMs": 5300
+      },
+      {
+        "text": "se puede hacer pero estamos estabilizando el servicio estamos",
+        "startMs": 2760490,
+        "durationMs": 4530
+      },
+      {
+        "text": "estabilizando un proceso de conexión de nosotros comprador tecnológico por",
+        "startMs": 2765020,
+        "durationMs": 4110
+      },
+      {
+        "text": "probar tecnológico con las llaves y en esta calle a nosotros digamos que a ella",
+        "startMs": 2769130,
+        "durationMs": 3540
+      },
+      {
+        "text": "se nos sale un poquito el tema de las manos mientras la estabiliza como",
+        "startMs": 2772670,
+        "durationMs": 3360
+      },
+      {
+        "text": "facturación electrónica vamos a tener tiempos de atención largos porque si no",
+        "startMs": 2776030,
+        "durationMs": 4020
+      },
+      {
+        "text": "va tenemos 110 90 clientes tenemos todo el país con ustedes como clientes pues",
+        "startMs": 2780050,
+        "durationMs": 5430
+      },
+      {
+        "text": "con los clientes de los distribuidores con los clientes de nosotros nuestros y",
+        "startMs": 2785480,
+        "durationMs": 2970
+      },
+      {
+        "text": "pues cada cliente es un mundillo como tal digamos propio que si hay muchas",
+        "startMs": 2788450,
+        "durationMs": 4980
+      },
+      {
+        "text": "solicitudes que se asemejan o se pueden generalizar para varios pero si hay unos",
+        "startMs": 2793430,
+        "durationMs": 4440
+      },
+      {
+        "text": "que son muy puntuales entonces yo sé que están saturados ustedes nosotros estamos",
+        "startMs": 2797870,
+        "durationMs": 4920
+      },
+      {
+        "text": "muy saturados pero pedimos paciencia para que ustedes también puedan",
+        "startMs": 2802790,
+        "durationMs": 3390
+      },
+      {
+        "text": "transmitir esa paciencia al cliente y que el cliente primero se los vaya a",
+        "startMs": 2806180,
+        "durationMs": 3090
+      },
+      {
+        "text": "esperar por lo tanto ustedes exasperen y pues nosotros hacemos aquí internamente",
+        "startMs": 2809270,
+        "durationMs": 5100
+      },
+      {
+        "text": "si tenemos tiempos muy largos tiene todas las razones señor matarí",
+        "startMs": 2814370,
+        "durationMs": 3990
+      },
+      {
+        "text": "resoluciones estamos trabajando realmente muy duro con el tema para",
+        "startMs": 2818360,
+        "durationMs": 3900
+      },
+      {
+        "text": "poderles dar solución a ustedes rápido ustedes pueden darse los clientes pero",
+        "startMs": 2822260,
+        "durationMs": 4760
+      },
+      {
+        "text": "mientras logramos estabilizar si les pedimos un poquito de paciencia yo sé",
+        "startMs": 2827020,
+        "durationMs": 4390
+      },
+      {
+        "text": "que la solicitud desde hace 15 días pues no es normal eso no pasa con nosotros en",
+        "startMs": 2831410,
+        "durationMs": 4199
+      },
+      {
+        "text": "un soporte normal pero estamos tratando de todos los casos para poder",
+        "startMs": 2835609,
+        "durationMs": 4081
+      },
+      {
+        "text": "librar la solución tenemos mucha gente trabajando en el tema y pues ayudamos",
+        "startMs": 2839690,
+        "durationMs": 4740
+      },
+      {
+        "text": "porfa si tienen algo urgente algo que como me dicen los mensajes no son claros",
+        "startMs": 2844430,
+        "durationMs": 5070
+      },
+      {
+        "text": "reportarlos con la supervisa con soporte para nosotros poder dar solución y",
+        "startMs": 2849500,
+        "durationMs": 4770
+      },
+      {
+        "text": "poderle hacer seguimiento al tema y pues no dejar que se nos sigan acumulándose",
+        "startMs": 2854270,
+        "durationMs": 3480
+      },
+      {
+        "text": "los y no pasa las cositas",
+        "startMs": 2857750,
+        "durationMs": 6500
+      },
+      {
+        "text": "listo eso por mi lado es eso no sé si tú tienes algo más que agregar les va a",
+        "startMs": 2864260,
+        "durationMs": 5120
+      },
+      {
+        "text": "pasar la lista de los errores de las validaciones para que ustedes también la",
+        "startMs": 2869380,
+        "durationMs": 3150
+      },
+      {
+        "text": "tengan en pdf y tengan esa guía como tal esperamos que la actualización se pueda",
+        "startMs": 2872530,
+        "durationMs": 4620
+      },
+      {
+        "text": "liberar hoy finalizando pues la jornada y si no",
+        "startMs": 2877150,
+        "durationMs": 3480
+      },
+      {
+        "text": "mañana a primera hora para que ya la tengan en el portal y la puedan",
+        "startMs": 2880630,
+        "durationMs": 3390
+      },
+      {
+        "text": "descargar y cualquier duda cualquier inquietud porfa nos cuentan y cualquier",
+        "startMs": 2884020,
+        "durationMs": 4920
+      },
+      {
+        "text": "cosa rara que se encuentren por ahí por favor también tener en cuenta para que",
+        "startMs": 2888940,
+        "durationMs": 3210
+      },
+      {
+        "text": "no lo reporten nuestro retroalimenten porque pues esto básicamente es de todos",
+        "startMs": 2892150,
+        "durationMs": 4740
+      },
+      {
+        "text": "y si ustedes no nos retroalimentan pues nos vamos a llenar de un montón de cosas",
+        "startMs": 2896890,
+        "durationMs": 3030
+      },
+      {
+        "text": "que que no vamos a poder solucionar o no vamos a poder tener en cuenta para todos",
+        "startMs": 2899920,
+        "durationMs": 4890
+      },
+      {
+        "text": "esos casos colectivos de quintos puntuales que se pueden tratar",
+        "startMs": 2904810,
+        "durationMs": 6310
+      },
+      {
+        "text": "visto bueno andreas muchísimas gracias como les informé ahoritica mañana",
+        "startMs": 2911130,
+        "durationMs": 6260
+      },
+      {
+        "text": "también vamos a enviar material de apoyo material muy liviano para los clientes",
+        "startMs": 2917390,
+        "durationMs": 3980
+      },
+      {
+        "text": "porque si se está evidenciando un incremento en",
+        "startMs": 2921370,
+        "durationMs": 4760
+      },
+      {
+        "text": "en solicitudes netamente de configuración que no son errores y eso",
+        "startMs": 2926130,
+        "durationMs": 5100
+      },
+      {
+        "text": "nos lleva a que todos los tiquetes lb en sus tiempos entonces mañana",
+        "startMs": 2931230,
+        "durationMs": 3660
+      },
+      {
+        "text": "compartiremos ese material no creo que ya hemos finalizado recuerde",
+        "startMs": 2934890,
+        "durationMs": 5930
+      },
+      {
+        "text": "que hoy estuvimos hablando fue de recepción de documentos próximamente",
+        "startMs": 2940820,
+        "durationMs": 4020
+      },
+      {
+        "text": "vamos a hablar también de documentos soporte entonces",
+        "startMs": 2944840,
+        "durationMs": 4910
+      },
+      {
+        "text": "vamos a dar por finalizada la sesión recuerden que también en el whatsapp me",
+        "startMs": 2949750,
+        "durationMs": 4480
+      },
+      {
+        "text": "oyen desde esta tienda pueden esperar casos puntuales ya voy a validar los dos",
+        "startMs": 2954230,
+        "durationMs": 4230
+      },
+      {
+        "text": "casos reportados por ingeniero juan alejandro para poderle dar respuesta",
+        "startMs": 2958460,
+        "durationMs": 3780
+      },
+      {
+        "text": "listo bueno muchísimas gracias andrea por esta presentación por acompañarnos",
+        "startMs": 2962240,
+        "durationMs": 5670
+      },
+      {
+        "text": "el día de hoy muchísimas gracias a todos por asistir y espero poderlos volver a",
+        "startMs": 2967910,
+        "durationMs": 4830
+      },
+      {
+        "text": "ver en una próxima oportunidad muchas gracias por su tiempo y están muy",
+        "startMs": 2972740,
+        "durationMs": 16740
+      },
+      {
+        "text": "a mí me encanta la solución de inventarios de planta firme básicamente",
+        "startMs": 2989490,
+        "durationMs": 4580
+      },
+      {
+        "text": "por tres razones primero como director de la compañía puede obtener informes",
+        "startMs": 2994070,
+        "durationMs": 4410
+      },
+      {
+        "text": "detallados de todo lo que está pasando en el cristal puede hacer la",
+        "startMs": 2998480,
+        "durationMs": 4170
+      },
+      {
+        "text": "trazabilidad de cualquier producto segundo mis empleados mis colaboradores",
+        "startMs": 3002650,
+        "durationMs": 6699
+      },
+      {
+        "text": "se adaptan de una manera muy fácil y rápida aún sean cuenta criba porque es",
+        "startMs": 3009349,
+        "durationMs": 5281
+      },
+      {
+        "text": "muy intuitivo sin conocerse excel puedes trabajar fácilmente con contamina y",
+        "startMs": 3014630,
+        "durationMs": 6330
+      },
+      {
+        "text": "tercero la relación coste-beneficio en contra pyme es buenísima si no usas",
+        "startMs": 3020960,
+        "durationMs": 4859
+      },
+      {
+        "text": "contact y blade a la hora",
+        "startMs": 3025819,
+        "durationMs": 9371
+      },
+      {
+        "text": "serpiente con tap y me tiene muchos beneficios ya conoce nuestro portal de",
+        "startMs": 3035200,
+        "durationMs": 5000
+      },
+      {
+        "text": "clientes tendrá acceso a todo el contenido que conta pm tiene para usted",
+        "startMs": 3040200,
+        "durationMs": 6020
+      },
+      {
+        "text": "podrá aprender a manejar el sistema con miles de vídeos explicativos",
+        "startMs": 3046220,
+        "durationMs": 5340
+      },
+      {
+        "text": "enterarse de nuestros cursos y capacitaciones",
+        "startMs": 3051560,
+        "durationMs": 4460
+      },
+      {
+        "text": "capacitaciones ver las memorias de todos los eventos",
+        "startMs": 3056020,
+        "durationMs": 2550
+      },
+      {
+        "text": "realizados por la comunidad contamine y descargar las últimas actualizaciones",
+        "startMs": 3058570,
+        "durationMs": 7640
+      },
+      {
+        "text": "solicitar soporte técnico y mucho más sólo debe ingresar a www punto con tap y",
+        "startMs": 3066210,
+        "durationMs": 8270
+      },
+      {
+        "text": "punto com dirigido se al botón portal de clientes",
+        "startMs": 3074480,
+        "durationMs": 4550
+      },
+      {
+        "text": "e iniciar sesión con sus correos registrado en contra pyme no lo olvide",
+        "startMs": 3079030,
+        "durationMs": 6100
+      },
+      {
+        "text": "con está pyme portal de clientes y listo con está pyme simple y rápido y fácil de",
+        "startMs": 3085130,
+        "durationMs": 9040
+      },
+      {
+        "text": "usar",
+        "startMs": 3094170,
+        "durationMs": 3100
+      }
+    ],
+    "plainText": "## Descripción del video\n\nCharla con distribuidores: \"Hablemos de: Actualización de ContaPyme 18.11\"\n\nTemas a tratar:\n\nEn este espacio se hablará sobre lo que hace la actualización V4 R8 C-18.11 del software ContaPyme® y cómo se corrigen errores de documentos soporte.\n\n## Transcripción\n\nun cordial saludo para todos quiero darles la bienvenida a este espacio tan\nespecial esta sesión de distribuidores con está pyme mi nombre es ana maría\nparra yo soy moderadora de eventos de in soft y estaré con ustedes unos minutos\nantes del inicio de la temática del día de hoy voy a darles unas recomendaciones\nsuper importantes para garantizar que la participación de todos sea exitosa para\nesto les sugiero realizar los ajustes y configuraciones necesarias una vez\nterminadas daremos inicio a la temática del día de hoy nuestra primera\nrecomendación es acerca del audio es muy importante configurar los dispositivos\nde audio del computador antes del inicio de la temática del día de hoy como\nunificamos que ya nuestro audio está listo esto es muy sencillo si usted está\nescuchando mi voz quiere decir que sus dispositivos de audio ya están\npara nosotros es muy importante estar conectados con todos ustedes y\ncómo podemos lograrlo bueno utilizando nuestras redes sociales por ejemplo por\neso los invitamos a que nos sigan en nuestra fanpage de facebook de contra\npiña y estamos como con está pyme software contable también tenemos\nnuestra cuenta oficial de abro wing no se encuentran como a growing software\nagrícola en instagram tenemos nuestra cuenta oficial con está pyme los\ninvitamos a que vayan a sus redes sociales nos busquen y le den tapa en\nseguir logren también interactuar con nuestros contenidos publicaciones e\nhistorias también enviarnos un mensaje directo en caso de que requieran algún\nespecial con muchísimo gusto estaremos allí atentos para ayudarles\nsegunda recomendación ajustar la calidad de nuestra imagen\ncómo podemos hacerlo bueno muy sencillo debemos ir al botón que está en la parte\ninferior este es el botón de configuración elegir la opción calidad y\nseleccionar el número más alto disponible tengamos en cuenta que este\nnúmero más alto o la calidad óptima que podamos visualizar está muy relacionada\ncon la velocidad de la conexión a internet con la que contemos entonces\nuna vez más les recuerdo que la velocidad de nuestra conexión también\ninfluye en que logremos visualizar esta sesión sin esperas por demora en la\nen caso de presentar pérdida de conexión o caída inoportuna de esta sesión vamos\na habilitar nuevamente la página pasados 5 minutos usted que debe hacer presionar\nla tecla f5 o refrescar su navegador y listo ya estará de regreso con nosotros\nrecomendación número 3 es súper importante configurar el chat en vivo\ndebe tener la opción tal como está en pantalla para escribir algo si no es así\ndebe dar clic en acceder para chatear e ingresar con una cuenta de correo\nasociada a gmail esta cuenta puede ser diferente a la que utilizó para\nregistrarse e ingresar en este evento virtual y listo ya usted podrá\nparticipar activamente realizando sus preguntas y comentarios aquí en este\nesta sesión de distribuidores es en vivo sin embargo usted tiene el control de\nella puede pausar o retroceder la transmisión en cualquier momento para no\nesta sesión estará disponible durante todo el día sin embargo recuerde que al\ningresar en un espacio diferente al horario en vivo ya no podrá participar\nrealizando preguntas o comentarios en el chat así que si usted desea disfrutar al\nmáximo estas sesiones le recomendamos asistir en los horarios indicados\nsin más preámbulos vamos a dar inicio con este espacio tan especial de\ncapacitación para nuestros distribuidores una vez más bienvenidos\nmuy buenas tardes a todos los distribuidores espero que se encuentren\nmuy bien me complace mucho poder saludar en esta tarde en nuestra sesión\nabriremos de la actualización 18 puntos pues si bien ya saben que salió a las\n18.12 pero esta actualización en la cual queremos hacer hoy este acompañamiento\ntrae sí unos cambios en recepción de documentos y corrige dos errores muy\ncomunes en este mismo tema el día de hoy nos acompaña la especialista de producto\nandrea se después es primera vez que andrea nos acompaña en estas sesiones de\ndistribuir es esperábamos seguirla viendo es una persona\nespecialista pues ya del producto conoce muy bien la funcionalidad de recepción\nde documentos y hoy nos dará muchísima información espero que estén muy atentos\nvamos a hacer la misma dinámica vamos a exponer ustedes van escribiendo todas\nsus inquietudes y al final tendremos una sesión y preguntas\nahora sí andrea muy buenas partes cómo estás\nhola buenas tardes cómo están si es la primera vez que los acompañe a una\nsesión de distribuir espero pues la mayoría ya me conocen y desde la parte\nde soporte cuando estoy en la parte comercial la idea de hoy es es una\ncharla corta sé que estamos en tierra de mes tanto ustedes como nosotros entonces\nno los quiero demorar mucho pero sí es importante\nimportante contarles que hemos corregido como\nerrores generales que puedan salir en los clientes y que tenemos nuevo en la\nactualización para que también sepan que con estas novedades\no adiciones que se hicieron pues se van a también corregir varios temas que\ntenemos en soporte pendientes y sneijder\nbueno entonces muy atentos sin más preámbulo les vamos a dar inicio a\nnuestra sesión muchísimas gracias andrea por acompañarnos y vamos a iniciar\nbuen experimento de yo les comparta acá la pantalla\nme confirman por pasión están viendo\nsí señor ya se ve perfecto entonces cuál es la idea más\nporque se está poniendo la pantalla\ny como tengo dos pantallas se me abría la presentación en la otra\nesto bueno entonces de que les voy a hablar hoy es un error o una situación\nque nos hemos encontrado es con una novedad del firewall que detectamos que\nsale este error que les estoy aquí presentando a continuación y es cuando\nla persona a la que le envía en la factura tenía varias listas de productos\no varios listas de elementos con el mismo código o sea se entiende que por\nel tema de la codificación estándar que apelarían para facturación electrónica\npues cada elemento de inventario debería tener un único código pero en este\ncliente particular porque sólo nos hemos encontrado uno\ntiene dos elementos de inventario con el mismo código entonces el sistema\npresentarlo porque nosotros no hacíamos la validación sino por código digamos\núnico por elemento pero pues ya se corrigió todos los que estén en la nueva\nactualización las 18.12 digamos que con la corrección que se\nhizo pues no se debe volver a presentar pero para las personas que están en una\nactualización anterior la solución es actualizarlos pues para que ese error se\ncorrija y no no no salga pues si hice algo como tormentoso para el cliente\nrealmente si uno le daba a cerrar podía seguir convirtiendo la operación aplicar\nel evento normal pero pues el solo hecho de mostrar la cajita con el tema del\nerror pues si es como de alarmar o de preocupar pero pues ya se corrigió en\nesta actualización entonces simplemente es como se ve aquí como les muestro en\npantalla el error cuando yo le daba a convertir a la operación me aparecía\neste error se identifica por el mismo error o como\nles digo cuando el proveedor asigna el mismo código elemento a productos\ndiferentes ahora identificamos que era por esta\nsituación pero ingeniería si nos pide que si de pronto están a las 18.12 sale\nerror al momento de convertir parecido con este que es puntualmente\nthe fire pues si no lo reporten porque a primera instancia hemos identificado que\nse presenta cuando el mismo código está asignado a productos diferentes pero\npuede que de pronto se presente por otra situación que agradecemos y se las\nllegan a reportar pues nos cuenten para nosotros poder empezar también a abordar\nlos otros casos que se puedan presentar otra situación son pre operaciones mal\nasociadas este ha sido muy común que cuando descargan la factura y la\nconvierte en el sistema se bloquea y cuando yo vuelvo de ingreso a contaminar\nporque de pronto si retrocede su moto el proceso me queda tanto la pre operación\ncomo la operación convertida entonces también se corrigió la actualización\npara las personas que están en 18.12 no debe volverse a presentar si se presenta\npor favor informarlo la perfila todas las pruebas que hicimos para salieron\ncorrectas para las personas que están en una actualización anterior sí es\nimportante que si les quedaron dobles o algunas no tienen referencia bien aquí\ndonde dicen el manejo de operaciones referencia bien queda con la referencia\nvacía si hay que descargarlo directamente con soporte porque ya es\npuntualmente de un cliente que algunos quedan 5 hay que adicionarle ser coupé\npor medio de ser el manual algunos quedan sin la referencia bien entonces\nhay que adicionar la manual eso se presentaba por cuando se hacía la\nconversión y el sistema se quedaba ahí como un estado de bloqueo no responde y\ntocaba el sistema de volver no abrir ya también\nse corrigió por si de pronto se llegara a presentar clientes con estos casos\ncomo les digo desde las 18.12 no se debería volver a presentar la situación\nválida muchas con varios clientes y está correcto y con los que son de aquí hacia\natrás que les quedaron con esta situación\nsituación por favor de reportarlo con soporte para\nella con ingeniería y evaluar el documento puntual y saber que tenemos\nque aplicarle a cada caso vale ahora\nahora novedades de la actualización a raíz de\nde ciertos casos que nos hemos encontrado\nencontrado esta viene desde la 18.9 por eso le puse\naquí como 18.9 pero es importante mencionarlo\nmencionarlo para que la gente\nporque se nos presentaron una cantidad de soportes impresionantes con el tema\nentonces por eso lo traemos acotación y es que en los clientes eliminaban la pre\noperación eliminaba la operación que ya se había convertido y pues hasta ese\nentonces no teníamos cómo volver digamos a recuperar esa operación porque\nrecordemos que todo lo que se elimina no tengo cómo hacer una reversión de esa\nacción en cuenta pyme entonces a partir de esta actualización se adiciona el\nmanejador de operaciones una nueva pestaña de descargar efe recibidas por\nnúmero de documento para que yo pueda volver a descargar esa operación que\npronto elimine por error o presente elimino como tal de todas formas en\nbitácora queda el registro de eliminación como cualquier operación\npara poder confirmar con el cliente que es que la eliminar de forma manual\nporque pues hay unos clientes que decían que no que eso se desaparecido solito\ncuando uno iba a la bitácora pues le mostraba que era que lo habían eliminado\ny pues a raíz de todos estos casos que tuvimos y que nos reportaron desde el\nárea soporte que fueran muchos se optó por hacer una opción cita que permita\ndescargar el documento que yo ya había descargado anteriormente y que pues no\nelimine o sea por error o sea porque lo hice intencional pero pues tengo cómo\nvolverla a recuperar entonces está esta opción de descargar el pd por número me\nabre esta cajita de aquí y yo simplemente le digo el número del\ndocumento y él vuelve y hacer la descarga sin ningún problema ahora qué\npasa si la operación que yo elimine ya tenía eventos\nya tenía pronto la notificación al pp o ya tenía la aventura cruce cuando yo la\neliminó y la vuelvo a descargar él automáticamente vuelve y mira los\neventos que yo ya le había aplicado inicialmente el documento entonces no\nhabría que volverlos a hacer porque él vuelve los heredero vuelve los trae tal\ncual como estaban antes eliminar la operación\ntenemos ya en la actualización 18.12 y es que vamos a poder hacer eventos\nelectrónicos a partir de la pre operación del aparato nica\nacción y posteriormente la queremos convertir a operación que ya tengamos\ndigitada o como operación diría existente o queramos convertir a una\noperación como tal me va desde ceros estos eventos que aplicamos desde la pre\noperación también se van a quedar a esa operación que yo asocio oa la nueva\noperación que yo ya se convirtiendo esta es una novedad nueva y grande que\ntenemos a raíz de el tema de los contadores que dictaban sus operaciones\nde movimiento contable y nosotros no tenemos cómo asociar las está muy bien\ntu contable entonces optamos según el anexo y las investigaciones que hicimos\ncon la dian y con las normas de que se pueden aplicar los eventos directamente\ndesde la pre operación entonces este día y recuerden que la preparación no hace\nninguna afectación contable ni ninguna afectación adicional en el\nsistema como en la parte de inventarios con la compra o en la parte de cuentas\ncon los gastos simplemente es una pre operación a la\ncual le pueda aplicar eventos y que está allí para que podamos cumplir con el\ntema de la recepción y los eventos electrónicos también adicionamos una\nvalidación para evitar el envío de notificaciones para las operaciones\nelectrónicas que recibimos con un medio de pago de contado detectamos en una\ncantidad grande de documentos que teníamos que los clientes por el tema al\nprincipio de causación y descargaban la factura de contado pero al convertirla\nle cambio en la forma de pago a crédito y nosotros lo que estamos validando era\nel medio de pago de la operación entonces cómo era crédito\nautomáticamente se abría la personita eventos electrónicos y quedaba la\nnotificación siempre quedaba pendiente nunca iba a cambiar porque su forma\noriginal de medio de pago es de contado entonces recordar que los eventos o la\nrecepción de eventos tanto de misión como el receptor y de\ndocumentos de recepción y eventos electrónicos es únicamente para las\nfacturas a crédito no para las facturas de contar por más de que yo lo cambie\npues con esta nueva verificación que estamos haciendo ya nos vamos a ir\ndirectamente al 15 de mailer más no al medio de pago que tenga la operación\ncomo tal entonces qué va a pasar para las personas que sigan haciendo ese\nmanejo vamos a sacar esta alerta que dice que la factura que estamos\nrecibiendo y que estamos asociando tiene un método de pago de contado por lo\ntanto no se van a poder aplicar eventos y adicional a eso nos vamos a la\npestañita de eventos electrónicos en el inspector cuando la forma de pago del\nxml sea de contado únicamente es cuando sea a crédito\na partir de esta actualización vamos a poder asociar facturas electrónicas a\nuna operación de abono en cuentas por pagar\npagar recordemos de que yo solo puedo hacer la\nconversión y la asociación de esas preoperación es a operaciones de gastos\nde compras de abonos a cuentas por pagar que éstas la nueva y a la operación de\ncompra de activos que después no la puse aquí porque realmente no hemos tenido\nhasta el momento ninguna pero si se los menciono porque también se puede ahora\nporque se implementó esta opción de hacer la asociación de la operación o la\na la operación de bono de cuentas por pagar resulta que\npor ejemplo cuando yo hacía la factura de venta y tenía comisiones esas\ncomisiones automáticamente tienen una causa acción a la cuenta del gasto\ncontra la cuenta por pagar cuando a mí el proveedor me envía la factura\nelectrónica por cobrar esas comisiones por ejemplo entonces al yo registrar\nnuevamente esa factura pues me va a quedar doble la contabilidad con lo que\nyo había causa en la factura de venta de la comisión más la nueva factura que me\nestán viendo a mí ese proveedor entonces optamos por desde el abono que yo ya\nestoy haciendo el cruce del pago de esa comisión por ejemplo para este para este\ncaso que desde ella se puedan emitir eventos electrónicos desde la operación\nentonces ya yo voy a poder descargar la factura asociar la la operación de abono\ny desde allí hacer la misión de eventos sin ningún problema entonces esto\ntambién es una novedad que nos ayuda mucho con esos casos de las personas que\nles estaba pronto quedando doble o que necesitaban hacer el tema de comisiones\non the players como tal de labores también desde la planilla si se causa\ncomo tal alguna bonificación al momento de hacer el abono puede obtener esa\noperación para asociarla en la propera sino que yo descargue y comenzar con él\nen el tema del envío de los eventos sin ningún problema entonces esto también es\ntenemos ya unos motivos de rechazo de correos enviados pero antes de pasar acá\nvoy a pasarme aquí al sistema para poderles mostrar\nhacemos lo para que el tema ya pues como tal que lo que les mencionaba el\ndescargo de la factura recibida por número de documentos miren que cuando\nustedes le dan clic simplemente les pide la cajita para que le indiquen el número\ndel documento de vuelta vamos a volver a descargar aquí por ejemplo tengo esta\nfactura la cual ya tiene una notificación y unos eventos de la puse\ndel recibido y el reclamo qué pasa si yo eliminó la factura pues inicialmente va\na sacar un aviso donde le va a decir vea señor cliente recuerde que esta factura\nusted ya le metió dos eventos está seguro que la quiere eliminar entonces\nsi yo le digo eliminar pues él la va a eliminar sin ningún problema si ahora\nqué pasa si yo necesito volver a descargar la factura porque la elimine\npor error uno leila el mensajito que me sacó o bueno no sé qué otras causas\npuede hacer la eliminación de que no se hayan dado cuenta simplemente es que le\nabra la cajita con lo que el documento le diga ok para que él vuelva y haga\nla descarga del documento va a sacar esta ventanita automáticamente me dice\nque se ha recibido una factura electrónica nueva new le digo que si la\nquiero volver a descargar y miren que va a abrirlo aquí en uno nuevo para que lo\npuedan ver miren que ya vuelve y descarga pero con todos los eventos que\nyo ya le había aplicado o sea digamos que si yo le aplica el acuse a recibido\nnecesito algo no no no tenía que aplicar el acuse o le aplique un reclamo y no\ntenía que aplicar reclamos ahí sin nada que hacer porque reforma que esto se va\nlabial por eso tenemos una equis xml de cada evento que yo estoy emitiendo\nentonces si esto se va a la dian yo noto como reversar ahí le hice reclamo y no\nera reclamos ahí sí ya tendríamos que hacer una nota a crédito con la persona\nque nos hizo la emisión de la factura y volver a generar una nueva para poder\naplicar eventos pero no tengo como reversar una aplicación de un evento por\neso si la línea porque de pronto a le aplique los eventos que no haya eliminó\ncuando ustedes la vuelvan a descargar ella descarga los eventos que yo ya haya\ninformado y la razón es porque esto se va\nva por eso nos retomé nosotros un xml de\ncada evento que estamos practicando al documento y por tal motivo pues yo ya no\ntengo cómo regresar vale entonces voy a volver aquí al manejador de operaciones\ntambién quiero contarles que hicimos un cambio y es que como ya vamos a\nverificar es la forma de pago del xml directamente hacer la validación desde\nallí qué pasa cuando yo dentro del abono tengo un cruce de una cuenta por cobrar\nanteriormente como esto quedaba con un medio de pago cruce pues no tenía yo\ncómo hacer emisión de eventos electrónicos porque no era una forma de\npago a crédito como ya vamos a verificar directamente es la forma de pago de\nleticia de ml ya tenemos cómo va a aplicar eventos cuando se presenten esos\ncasos que yo en el abono realice un cruce de alguna cuenta por cobrar que\ntenido con este tercero y ya desde allí puedo hacer la emisión de los eventos\nsin ningún problema en la 18.2 y también va a salir esa solución que se\nimplementó y que después de estudiarse se llegó a la conclusión de que sí se\npodía evaluar directamente el xml y ya independientemente la forma de pago\nflexión que vayan a asociar al momento de convertirlo pero\ne hasta ahí luisa no sé si quieres que\nhagamos una pausa para resolver algunas preguntas\npreguntas creo que se está moviendo mucho mucho el\no la 3a pues sí sí nos da el espacio\ny sería muy bueno así si yo creo porque ya lo que sigue son las validaciones\npreguntó sin ton para que tengamos en cuenta antes del y listo\ncomo les decía era algo muy corto que quita mucho tiempo pero sí mencionarles\nalgo importante relevante que quieren la actualización\ny bueno aquí hay una pregunta que fue frecuente en tres distribuidores en este\nmomento a tomar la del señor jorge eliécer nos dice que tiene un cliente\nque le están saliendo en dos empresas que las operaciones son descontados y\nque en realidad son de crédito y no deja realizar los eventos\nlos verdes nos confirma que tienen casos similares\nsimilares y si también ya quedó corregido en las\n18.12 digamos que en las 18.11 tendrá que está en el portal como dice\ny acá algún de estudiar que en el porta todavía está la 18.11 digamos que ya\nestá el a 18.2 a pero nuestra lista para descargas porque se están ultimando de\natrás desde acá directamente por eso no les aparece todavía en el portal las\n18.12 en las 18.11 se presentó una situación y era que estaba haciendo una\nvalidación sobre facturas decretos ya contaba poniendo el mismo mensajito eso\nya se corrige con las 18.12 yo ya les confirmó si el 18.2 se queda\nahorita publicada de una vez para descarga o si ya sería el día de mañana\npero si eso se corrigen a 18.2 visto bueno por acá nos pregunta\njf soluciones que si las operaciones que quedaron con este estado en 1 y que son\nde contados podemos tener una este q l para ajustarlo\nsólo con instalarla 18.2 se soluciona perfecto y\nlisto perfecto bueno fraga nos preguntan y mariel que\ncon estos cambios de las 18.12 se podría cerrar mes y re costear teniendo\npreoperación es no pasadas a operaciones para quienes sólo deseen hacer eventos\nen la operación y no deseen cargar las operaciones\nsi yo quiero hacer evento desde la pre operación la puede hacer porque ya no me\nafecta mina contable y por lo tanto no me puede recoger porque no me va a\nafectar por agilizar mi de inventarios de todas formas sería una prueba\ninteresante que habría que hacer pero pues hasta donde tengo conocimiento el\nre coste o solamente nos toca operaciones de inventarios nada más y de\nelementos de inventario que estén como tal\ntal digamos involucrados en ese recorte o\nqué tiene que hacer porque encontró que primero estaba la salida antes que la\nentrada entonces únicamente es de eso pero la pre operación pues no nos afecta\nnada contable por tanto nada de inventarios y entonces podría ser sin\nningún problema y es sobre este mal me cerrado y eso sí les confirmo porque no\nles podría dar una respuesta aquí así o no porque no no es claro no sé si la\nprueba ya se hizo y cómo funcionaría pero la tengo presente para contársela\nsí y reenviar se las bueno por acá tenemos otra pregunta que\ndice si en la actualización 18.11 cuando se le da a ver pdf o xml a operaciones\ncon recepción de documentos asociados no está mostrando los archivos y solo\no sea si yo le doy ver el xc mail o el pp me lo debe mostrar si no me lo\nmuestras porque que llama la sociedad a la operación entonces hay que escalar lo\ncon soporte para mirar propiamente el documento en nuestro servidor de base de\ndatos cómo quedó y poderles ayudar hay unas que se les puede correr sql y se\npuede arreglar con ese hay otro que el ingeniero necesariamente debe conectarse\na la base de datos para realizar entonces en estos casos puntuales si hay\nque reportarlo porque no debería pero era el xml me lo demostrar\nbueno por acá hay una es como las observaciones de que han reportado unos\ncasos a soporte esperemos pues la respuesta de soporte directamente acá\nvamos a hablar sobre las preguntas listo si gustan los casos reportados a las\npartes no lo pueden incluir allí en el canal de disfrutar es en nuestro chat y\nnos confirman\nconfirman bueno para acá también nos están\npreguntando sobre el documento soporte no se genera si vamos a resolver esas\npreguntas o mentalidades relación directamente\ndirectamente la recepción para que no se nos muestren los temas porque son\ntotalmente diferentes hay unas cositas que si digamos en cuanto al manejo se\npueden asimilar pero son totalmente diferentes entes directamente recepción\npor acá y la del señor formas única creencia que si tenemos algún manual\nalguna guía en el portal está sin embargo también sólo podemos compartir\ncon con luisa para que ustedes la tengan de ese paso a paso de qué es lo que hay\nque hacer para la configuración de recepción de documentos y por acá tengo\nanterior juan alessandro que dice que se están presentando muchos errores con el\ntema de impuestos me gustaría saber cómo poner a mente era compartir ese material\ny puntualmente de qué pasa con el tema de impuestos porque hasta donde yo tengo\nconocimiento no me ha llegado nada sobre el tema de impuestos pero si nos pueden\ncompartir puntualmente que eso a través de soporte pues podríamos realizar el\nbueno entonces voy a pasar a la segunda parte de las validaciones tendríamos que\nhacer y ya vamos y retornamos con la parte de preguntas aparece luisa\ny listo entonces espero en un segundo pero compartirá la pantalla\nbueno resulta que hay unos motivos de rechazo de los correos que llegarán a\nnuestro buzón de recepción donde digamos que lo rechazamos directamente desde in\nsoft pero no descansan en the garage alrededor tecnológico para poder hacer\nel tema del receso sino que son las validaciones que nosotros hacemos antes\nde pasarlo con el producto tecnológico y esto es como un listado de esos posibles\nerrores que le van a retornar a los clientes cuando no se está cumpliendo\ndigamos el tema de la validación entonces el correo es así está\nencabezado como ven esta imagen que les muestro dice rechazo en el asunto\ntambién va a ser el tema del rechazo no se ha podido procesar el documento y\ntodo lo que sea eléctrica roja es alguno de esto él está dictó con el cual le\npueda poder retornar al cliente ese mensaje de error\nhay unos errores que nosotros desde la ingeniería hemos ido corrigiendo porque\nno eran claros ayunos de fecha que al inicio se presentaron que ya se\ncorrigieron hay otros el tema de los archivos adjuntos que tampoco eran muy\nclaro y ya se corrigió pues como para que el mensaje sea mucho más detallado y\nempático y qué es lo que estamos haciendo mal para crecientes de fallo\npuedan corregir si hay alguno de este listado que les aparezca a sus clientes\ny no se entienda por favor también reportarlo para descargarlo con el\ningeniero y él lo corrige automáticamente es así no tenemos que\nesperar actualizar su unidad porque se hace directamente desde el servidor\nentonces el cambio es inmediato vale hay unos que son muy dicientes o muy obvios\ncomo no se ha recibido información en el email como el tema de que el xml no\ncontiene el del receptor o el del emisor de la factura electrónica como que los\narchivos que estamos en el adjunto enviando el mail no correspondiera una\nfactura electrónica el asunto del correo no es que nosotros digamos validamos que\nes con el que debe llegar electrónica entonces todas estas son las\nvalidaciones que por parte de mi show hacemos cuando recibimos el correo y no\nencontramos correctas entonces damos un rechazo para que siempre pueda validar y\npara realizar ese ese envío y pueda ser arrollada de manera óptima con la\neste es un listado de todos los que nos hemos encontrado hasta el momento pueden\nhaber más que como les digo si se encuentran con alguno sobre todo que la\neléctrica en roja no sea muy diciente o muy explícita por favor reportar no lo\npara nosotros poderlo corregir porque el güero no es lo que hemos venido haciendo\ncon con ciertos mensajes al principio como les digo se presentaban unos de\nfecha que uno hacía pero qué pasa con la fecha e ingeniero corregía como en algo\nya más puntual para poder saber que correspondía al error pero pues todo eso\nya se ha ido corrigiendo depurando y pues en este momento ya está\ndigamos que el 95 por ciento de esos mensajitos son detalladamente qué es lo\nque estamos fallando y pues son muy dicientes para el cliente o para el\nasesor que esté revisando el motivo de rechazo pues qué es lo que está pasando\nvalidaciones que tenemos que tener en cuenta lo que debemos hacer antes de\nescalar algún documento que nos quede pronto pendiente que salga con error en\ncontra pyme al departamento de soporte sacamos como las variaciones más\nimportantes para que también las podemos hacer con ustedes que son los\nescritorios como son el primer filtro pues para que no nos vayamos llenando de\nun montón de solicitudes y que de pronto sea algo muy sencillo que se hubiese\npodido validar o revisar con ustedes directamente uno de los más comunes que\nya ha ido bajando como está el tema digamos de la cantidad de casos de las\ndel tema del asunto si a mí me llegó la factura y andrew a la reenvió a la\npersona que se va a encargar de hacer el descargo de las facturas de compras por\nejemplo en este departamento y a mí me dio por cambiarle en el asunto de compra\nde computador cuando te envíen el correo nosotros no lo vamos a poder validar\nporque no cumple con esa condición para que coloquen rojito cuál es digamos cómo\nobligatorio por así decirlo que debe contener este asunto para que nosotros\nnos podamos validar y pues no se vaya a rechazar y es que debe contener el nyt\nel nombre de la empresa el número del documento el tipo de documento sea 01 02\n03 04 y la razón social de la persona que está emitiendo la factura\no sea de quien nos está nosotros generando como tal esta factura\nelectrónica también debemos de validar que los adjuntos que se enviaron en ese\ncorreo pues son correctos es decir que necesita este el xml y este el pdf\ntambién validar que es el cliente está enviando los correos a la dirección\nconfirmada aquí también les hago con muy énfasis en este punto porque nos hemos\nencontrado que hay clientes que envían las facturas a recepcionar nueva cuenta\npyme puntocom ese correo existe o sea nunca le va a rebotar al cliente porque\nese correo existe que puede el primer correo que nosotros utilizamos para\npoder hacer todo el tema de pruebas de desarrollos etcétera cuando ya nos\nmiramos al puntocom puntocom qué es el correo que actualmente está\nfuncionando para la recepción entonces nos encontramos que en este otro buzón\nhay un montón de facturas que envían los clientes automáticamente tenemos\nrespuesta al correo diciéndole al cliente que en este correo pues no no se\nvan a tener en cuenta los documentos que por favor lo reenvíe a recepción a rueda\ncontra primer punto con punto acá pero también sería bueno validar con ellos y\nde pronto que que le están enviando al al puntocom solito para que se pueda\nreenviar sea el correcto pero de todas formas les cuento que tenemos respuesta\nautomática para las personas que de pronto reenvíen a este buzón donde se\nles informa que pues no se van a tener en cuenta que por favor reenviar un\ncorrecto y\ny tenemos también\nalgo de digamos de después de evaluar más o menos cuántos del máximo tiempo en\nque cambian los estados de los eventos o el notificado a entonces que tenemos un\nlapso de cuatro horas para poder haber enviado esa notificación o el retorno de\nla respuesta de que ya fue reportado al pp o que el evento ya fue reportado\ndirectamente a la dea mientras en este caso les bueno de que si el cliente lo\nllama usted y le dice mire a que emitió un evento y ha pasado una obra y eso no\ncambia pues señores que vamos a tener un lapso de cuatro horas y en cuatro horas\nustedes que no le ha cambiado pues decir por favor reporte melo para saber qué es\nlo que está pasando porque vamos a este espacio de cuatro horas porque\nrecordemos que esto es un servicio nuevo que se está estabilizando no sólo por\nparte de nosotros sino sobre todo por parte de la dian y el producto\ntecnológico y como todos sabemos la dian tiene\nconstantes caídas y desde que no se estabilice esa conexión pues nosotros no\nvamos a tener como tal una respuesta casi inmediata al tema de los eventos o\nde las notificaciones de las operaciones que estemos descargando entonces si\nsuper importante como dar ese es el lapso de tiempo para que el cliente\npuede actualizar el estado si ya ve que pase un día pues no le cambio así es\nimportante reportarlo porque algo debe estar pasar\nsuper importante verificar la forma de pago del documento que se da crédito\ntambién nos hemos encontrado con recordar de que también las herramientas\npara de poder descargar operaciones de contador y agilizar mi proceso de\ndigitación pues porque no solamente dedicamos que no desarrollamos para el\ntema de emisión de eventos sino que también para que el usuario pueda\nagilizar su proceso de digitación con sus facturas pues recordarle que si es\nde contado pues nuevo poder emitir eventos simplemente lo que va a hacer es\npoder descargarla convertirla para que le ahorre a usted tenemos que volver a\nhacerlo pero pues no se va a poder emitir eventos como tal\nen esta creas que yo les contaba ahorita que detectamos por el tema de causación\ndel cliente descargado la factura de contado le cambiaba la forma de pago a\ncrédito y quedaba notificada porque nosotros estábamos mirando era la forma\nde pago de la operación más no es válida vamos la del xml entonces teníamos un\nmontón de documentos que nos habían reportado que se quedaron con el\nnotificado pendiente y es dependiente nunca iba a cambiar porque su forma\noriginal era pago de punta entonces cuando llevamos al cliente después a\nliar en una base de datos de nosotros que es que no tenía una forma de pago a\ncrédito el cliente nos decía así es que yo soy la cambie para poderlo registrar\nporque necesito ser el principio de causación entonces simplemente\nrecordarle a bueno señor plantea si usted lo cambia pues no va a poder\nemitir eventos por lo tanto pues no va a quedar notificado pero recuerden que a\npartir de la 18.12 esa pestañita para la forma de pago de contado ya no a salir y\nva a salir el mensajito para que exente pueda saber qué es a pesar de que se les\nestá cambiando pues es de cuenta de no va a poder emitir eventos listo y por\núltimo que recordemos que si tenemos\nfacturación electrónica con vibrador diferente a cadena pues debe habilitarse\nante la dian con ese proveedor tecnológico que es para poder hacer la\nmisión de eventos que actualmente tenemos en desarrollo con el pro\ntecnológico cadena porque si no también va a salir un mensajito que dice que no\nha sido asociado como tal y pues no vamos a poder hacer oa continuar con el\ntema de la misión de los eventos listo eso es como en resumen la parte de\ncorrección de roles y la parte de edición que nos va a permitir a nosotros\noptimizar el tema de soporte pues vamos entonces luisa con preguntas\nen el chat bueno pues creo que ya no tenemos sino\nsolo una apreciación del ingeniero de ariel donde dice que si el sistema está\nvalidando por ejemplo que el proveedor tenga teléfono y si no no deja crear el\nproveedor lastimosamente la diana está permitiendo así las facturas no se\ndebería exigir se debería de dejar el tiquete con soporte ingeniero daniel\npara poder evaluar el caso como tal para para poder mirar en detalle pues qué es\nlo que están pidiendo de ese proveedor y pues poder hacer la evaluación del caso\ncómo es bueno pero la de preguntas no veo más el\nine o juan alejandro nos ha notificado los tiquetes que tienen p q r\ny veo que están relacionados con error de cadena ya tocaría es como validarlo\nacá internamente si hay unas cuantas resoluciones como\nvemos los momentos que nos reportan nuestros clientes\ndigamos que no tengo como mostrarles en este momento por lo que\ndebe hacerse en un área de trabajo como tal en producción aún no tenemos un\nambiente de pruebas donde yo pueda como un facturación electrónica\nreproducir como tales y el evento o el proceso para poderles mostrar pero\ncuando usted emite la factura electrónica y su cliente descarga la\nfactura y hace un evento al yo decirle descargar documentos en mi corta pyme el\nsistema me va a sacar los ventanitas uno que encontró tanta cantidad de facturas\npara descargar y dos que el captor encontró tanta cantidad de eventos para\npoder descargar si yo emita actuación electrónica con contra pyme y la persona\nque está recibiendo la factura tiene contra pyme no tengo que hacer nada más\npero si yo evito la factura electrónica con un sistema diferente\ntengo que reenviar el correo del evento que me llegó a recepción arroba contra\npyme puntocom para poder descargar los y que ya me queden asociados a las\nfacturas entonces en este caso tendríamos como\nesos dos mangos pero yo tengo que hacer un vídeo mostrándoles no sólo a ustedes\nsino a los clientes y ya en la parte de producción como sería un caso un caso\nver para que ustedes puedan saber también cómo funciona\nentonces si apenas esté listo se los comparto con luisa para que también lo\ny por acá mostradores\ny ya hay una petición de jf donde dice que tenemos un alto tiempo de respuesta\ny efectivamente hay una alta demanda de solicitudes que ha alterado los tiempos\ny el día de mañana estamos preparando material porque vemos que las\nsolicitudes la mayoría vienen es porque el cliente no sabe configurar documentos\nsoporte tiene dudas en configuración documentos soporte hasta menor recepción\nentonces estamos preparando un material voy pues muy liviano para poder serlo\nenviar a los clientes de forma masiva porque eso nos está afectando los\ntiempos de atención porque todas las personas están como generando esos dos\ntiquetes de cómo configurar y no son tiquetes de errores explícitamente para\nlos casos que tengan más de 15 días regularmente deben de ser p q eres\nescaladas el señor de jf señor freddy nos puede enviar pues si gusta en el\nenemigo hasta me envía ese listado de los tiquetes yo válido si es que tienen\npero que tienen allí pendiente listo si luisa como el señor battle ya dice\nque por ejemplo algunos motivos de rechazo recibidos no son claros\nnecesitaba saber necesitaría yo saber cuáles son porque como yo les decía de\nese listado que yo les mostré que ya lo hice también se los va a compartir\nla mayoría son muy dicientes los que no eran claros o detallados que uno hable y\nahí es y ahora que tengo que hacer ya se corrigieron si tiene unos que no sean\nclaros como tal o que tengan o que les falten comportar esos detalles sobre qué\ninconsistencia y por favor pantalla citó para yo poder se los pasa de ingeniería\nque los podamos corregir yo digo algo y es que nos volvemos a los\ndistribuidores que que estuvimos en el tema de facturación electrónica cuando\nse empezó a implementar el volumen de casos por desconocimiento del cliente y\nporque nosotros digamos que llegamos hasta unas pruebas con lo que a groso\nmodo generalmente podemos simular de que se puede hacer y que no\nse puede hacer pero estamos estabilizando el servicio estamos\nestabilizando un proceso de conexión de nosotros comprador tecnológico por\nprobar tecnológico con las llaves y en esta calle a nosotros digamos que a ella\nse nos sale un poquito el tema de las manos mientras la estabiliza como\nfacturación electrónica vamos a tener tiempos de atención largos porque si no\nva tenemos 110 90 clientes tenemos todo el país con ustedes como clientes pues\ncon los clientes de los distribuidores con los clientes de nosotros nuestros y\npues cada cliente es un mundillo como tal digamos propio que si hay muchas\nsolicitudes que se asemejan o se pueden generalizar para varios pero si hay unos\nque son muy puntuales entonces yo sé que están saturados ustedes nosotros estamos\nmuy saturados pero pedimos paciencia para que ustedes también puedan\ntransmitir esa paciencia al cliente y que el cliente primero se los vaya a\nesperar por lo tanto ustedes exasperen y pues nosotros hacemos aquí internamente\nsi tenemos tiempos muy largos tiene todas las razones señor matarí\nresoluciones estamos trabajando realmente muy duro con el tema para\npoderles dar solución a ustedes rápido ustedes pueden darse los clientes pero\nmientras logramos estabilizar si les pedimos un poquito de paciencia yo sé\nque la solicitud desde hace 15 días pues no es normal eso no pasa con nosotros en\nun soporte normal pero estamos tratando de todos los casos para poder\nlibrar la solución tenemos mucha gente trabajando en el tema y pues ayudamos\nporfa si tienen algo urgente algo que como me dicen los mensajes no son claros\nreportarlos con la supervisa con soporte para nosotros poder dar solución y\npoderle hacer seguimiento al tema y pues no dejar que se nos sigan acumulándose\nlos y no pasa las cositas\nlisto eso por mi lado es eso no sé si tú tienes algo más que agregar les va a\npasar la lista de los errores de las validaciones para que ustedes también la\ntengan en pdf y tengan esa guía como tal esperamos que la actualización se pueda\nliberar hoy finalizando pues la jornada y si no\nmañana a primera hora para que ya la tengan en el portal y la puedan\ndescargar y cualquier duda cualquier inquietud porfa nos cuentan y cualquier\ncosa rara que se encuentren por ahí por favor también tener en cuenta para que\nno lo reporten nuestro retroalimenten porque pues esto básicamente es de todos\ny si ustedes no nos retroalimentan pues nos vamos a llenar de un montón de cosas\nque que no vamos a poder solucionar o no vamos a poder tener en cuenta para todos\nesos casos colectivos de quintos puntuales que se pueden tratar\nvisto bueno andreas muchísimas gracias como les informé ahoritica mañana\ntambién vamos a enviar material de apoyo material muy liviano para los clientes\nporque si se está evidenciando un incremento en\nen solicitudes netamente de configuración que no son errores y eso\nnos lleva a que todos los tiquetes lb en sus tiempos entonces mañana\ncompartiremos ese material no creo que ya hemos finalizado recuerde\nque hoy estuvimos hablando fue de recepción de documentos próximamente\nvamos a hablar también de documentos soporte entonces\nvamos a dar por finalizada la sesión recuerden que también en el whatsapp me\noyen desde esta tienda pueden esperar casos puntuales ya voy a validar los dos\ncasos reportados por ingeniero juan alejandro para poderle dar respuesta\nlisto bueno muchísimas gracias andrea por esta presentación por acompañarnos\nel día de hoy muchísimas gracias a todos por asistir y espero poderlos volver a\nver en una próxima oportunidad muchas gracias por su tiempo y están muy\na mí me encanta la solución de inventarios de planta firme básicamente\npor tres razones primero como director de la compañía puede obtener informes\ndetallados de todo lo que está pasando en el cristal puede hacer la\ntrazabilidad de cualquier producto segundo mis empleados mis colaboradores\nse adaptan de una manera muy fácil y rápida aún sean cuenta criba porque es\nmuy intuitivo sin conocerse excel puedes trabajar fácilmente con contamina y\ntercero la relación coste-beneficio en contra pyme es buenísima si no usas\ncontact y blade a la hora\nserpiente con tap y me tiene muchos beneficios ya conoce nuestro portal de\nclientes tendrá acceso a todo el contenido que conta pm tiene para usted\npodrá aprender a manejar el sistema con miles de vídeos explicativos\nenterarse de nuestros cursos y capacitaciones\ncapacitaciones ver las memorias de todos los eventos\nrealizados por la comunidad contamine y descargar las últimas actualizaciones\nsolicitar soporte técnico y mucho más sólo debe ingresar a www punto con tap y\npunto com dirigido se al botón portal de clientes\ne iniciar sesión con sus correos registrado en contra pyme no lo olvide\ncon está pyme portal de clientes y listo con está pyme simple y rápido y fácil de\nusar"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 226.354,
+    "asr": 44100,
+    "filesizeApprox": 97040874,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2022",
+  "files": {
+    "year": "2022",
+    "kind": "videos",
+    "md": "videos/2022/MkGSVW4Kxt0.md",
+    "json": "videos/2022/MkGSVW4Kxt0.json",
+    "infoJson": "videos/2022/MkGSVW4Kxt0.info.json"
+  }
+}

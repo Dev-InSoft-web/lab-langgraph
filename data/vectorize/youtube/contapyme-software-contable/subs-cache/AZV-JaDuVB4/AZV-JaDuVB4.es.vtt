@@ -1,0 +1,2144 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.319 --> 00:00:03.030 align:start position:0%
+ 
+Buenos<00:00:01.599><c> días,</c><00:00:01.880><c> bienvenidos</c><00:00:02.280><c> a</c><00:00:02.399><c> este</c><00:00:02.600><c> tutorial</c>
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+Buenos días, bienvenidos a este tutorial
+ 
+
+00:00:03.040 --> 00:00:04.630 align:start position:0%
+Buenos días, bienvenidos a este tutorial
+en<00:00:03.199><c> el</c><00:00:03.280><c> que</c><00:00:03.399><c> hablaremos</c><00:00:04.000><c> acerca</c><00:00:04.359><c> de</c><00:00:04.520><c> la</c>
+
+00:00:04.630 --> 00:00:04.640 align:start position:0%
+en el que hablaremos acerca de la
+ 
+
+00:00:04.640 --> 00:00:06.630 align:start position:0%
+en el que hablaremos acerca de la
+retención<00:00:05.080><c> en</c><00:00:05.160><c> la</c><00:00:05.240><c> fuente</c><00:00:05.560><c> sobre</c><00:00:05.839><c> salario.</c>
+
+00:00:06.630 --> 00:00:06.640 align:start position:0%
+retención en la fuente sobre salario.
+ 
+
+00:00:06.640 --> 00:00:09.110 align:start position:0%
+retención en la fuente sobre salario.
+Bienvenidos.<00:00:07.960><c> Para</c><00:00:08.120><c> el</c><00:00:08.280><c> contenido</c><00:00:08.679><c> de</c><00:00:08.880><c> esta</c>
+
+00:00:09.110 --> 00:00:09.120 align:start position:0%
+Bienvenidos. Para el contenido de esta
+ 
+
+00:00:09.120 --> 00:00:11.549 align:start position:0%
+Bienvenidos. Para el contenido de esta
+sesión<00:00:09.559><c> vamos</c><00:00:09.800><c> a</c><00:00:10.000><c> realizar</c><00:00:10.599><c> un</c><00:00:11.000><c> pago</c><00:00:11.360><c> de</c>
+
+00:00:11.549 --> 00:00:11.559 align:start position:0%
+sesión vamos a realizar un pago de
+ 
+
+00:00:11.559 --> 00:00:13.509 align:start position:0%
+sesión vamos a realizar un pago de
+nómina,<00:00:12.160><c> pero</c><00:00:12.440><c> la</c><00:00:12.639><c> idea</c><00:00:12.799><c> es</c><00:00:12.920><c> que</c><00:00:13.080><c> realicemos</c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+nómina, pero la idea es que realicemos
+ 
+
+00:00:13.519 --> 00:00:15.629 align:start position:0%
+nómina, pero la idea es que realicemos
+un<00:00:13.679><c> ejemplo</c><00:00:14.160><c> práctico</c><00:00:14.719><c> completo,</c><00:00:15.120><c> es</c><00:00:15.320><c> decir,</c>
+
+00:00:15.629 --> 00:00:15.639 align:start position:0%
+un ejemplo práctico completo, es decir,
+ 
+
+00:00:15.639 --> 00:00:17.790 align:start position:0%
+un ejemplo práctico completo, es decir,
+desde<00:00:15.879><c> la</c><00:00:16.080><c> configuración</c><00:00:16.600><c> del</c><00:00:16.840><c> empleado,</c>
+
+00:00:17.790 --> 00:00:17.800 align:start position:0%
+desde la configuración del empleado,
+ 
+
+00:00:17.800 --> 00:00:20.310 align:start position:0%
+desde la configuración del empleado,
+configuración<00:00:18.400><c> del</c><00:00:18.640><c> contrato</c><00:00:19.359><c> para</c><00:00:19.640><c> pasar</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+configuración del contrato para pasar
+ 
+
+00:00:20.320 --> 00:00:22.070 align:start position:0%
+configuración del contrato para pasar
+por<00:00:20.519><c> último</c><00:00:20.960><c> al</c><00:00:21.160><c> pago</c><00:00:21.400><c> de</c><00:00:21.519><c> nómina</c><00:00:21.880><c> y</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+por último al pago de nómina y
+ 
+
+00:00:22.080 --> 00:00:24.070 align:start position:0%
+por último al pago de nómina y
+visualizar<00:00:22.800><c> cómo</c><00:00:23.039><c> se</c><00:00:23.240><c> realiza</c><00:00:23.760><c> esta</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+visualizar cómo se realiza esta
+ 
+
+00:00:24.080 --> 00:00:26.390 align:start position:0%
+visualizar cómo se realiza esta
+deducción<00:00:24.680><c> en</c><00:00:24.880><c> el</c><00:00:25.000><c> pago</c><00:00:25.240><c> de</c><00:00:25.359><c> nómina.</c><00:00:26.199><c> Pero</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+deducción en el pago de nómina. Pero
+ 
+
+00:00:26.400 --> 00:00:28.429 align:start position:0%
+deducción en el pago de nómina. Pero
+también<00:00:26.800><c> vamos</c><00:00:27.080><c> a</c><00:00:27.240><c> revisar</c><00:00:27.800><c> cómo</c><00:00:28.080><c> podemos</c>
+
+00:00:28.429 --> 00:00:28.439 align:start position:0%
+también vamos a revisar cómo podemos
+ 
+
+00:00:28.439 --> 00:00:30.630 align:start position:0%
+también vamos a revisar cómo podemos
+utilizar<00:00:29.080><c> una</c><00:00:29.640><c> ayuda</c><00:00:29.960><c> que</c><00:00:30.119><c> nos</c><00:00:30.279><c> brinda</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+utilizar una ayuda que nos brinda
+ 
+
+00:00:30.640 --> 00:00:33.549 align:start position:0%
+utilizar una ayuda que nos brinda
+contapyme<00:00:31.480><c> para</c><00:00:31.840><c> visualizar</c><00:00:32.640><c> el</c><00:00:32.880><c> cálculo</c><00:00:33.399><c> de</c>
+
+00:00:33.549 --> 00:00:33.559 align:start position:0%
+contapyme para visualizar el cálculo de
+ 
+
+00:00:33.559 --> 00:00:34.910 align:start position:0%
+contapyme para visualizar el cálculo de
+la<00:00:33.680><c> retención</c><00:00:34.079><c> en</c><00:00:34.239><c> la</c><00:00:34.320><c> fuente</c><00:00:34.640><c> sobre</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+la retención en la fuente sobre
+ 
+
+00:00:34.920 --> 00:00:36.750 align:start position:0%
+la retención en la fuente sobre
+salarios.<00:00:35.680><c> Para</c><00:00:35.920><c> esto</c><00:00:36.120><c> vamos</c><00:00:36.320><c> a</c><00:00:36.440><c> pasar</c>
+
+00:00:36.750 --> 00:00:36.760 align:start position:0%
+salarios. Para esto vamos a pasar
+ 
+
+00:00:36.760 --> 00:00:38.310 align:start position:0%
+salarios. Para esto vamos a pasar
+entonces<00:00:37.120><c> a</c><00:00:37.320><c> nuestro</c><00:00:37.640><c> sistema</c><00:00:38.040><c> para</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+entonces a nuestro sistema para
+ 
+
+00:00:38.320 --> 00:00:40.150 align:start position:0%
+entonces a nuestro sistema para
+revisarlo.
+
+00:00:40.150 --> 00:00:40.160 align:start position:0%
+revisarlo.
+ 
+
+00:00:40.160 --> 00:00:42.350 align:start position:0%
+revisarlo.
+Muy<00:00:40.360><c> bien,</c><00:00:40.719><c> ubicados</c><00:00:41.079><c> en</c><00:00:41.239><c> contapme,</c><00:00:41.879><c> vamos</c><00:00:42.160><c> a</c>
+
+00:00:42.350 --> 00:00:42.360 align:start position:0%
+Muy bien, ubicados en contapme, vamos a
+ 
+
+00:00:42.360 --> 00:00:44.670 align:start position:0%
+Muy bien, ubicados en contapme, vamos a
+abrir<00:00:42.600><c> el</c><00:00:42.800><c> catálogo</c><00:00:43.239><c> de</c><00:00:43.440><c> terceros,</c>
+
+00:00:44.670 --> 00:00:44.680 align:start position:0%
+abrir el catálogo de terceros,
+ 
+
+00:00:44.680 --> 00:00:46.590 align:start position:0%
+abrir el catálogo de terceros,
+específicamente<00:00:45.440><c> en</c><00:00:45.640><c> el</c><00:00:45.800><c> catálogo</c><00:00:46.199><c> de</c>
+
+00:00:46.590 --> 00:00:46.600 align:start position:0%
+específicamente en el catálogo de
+ 
+
+00:00:46.600 --> 00:00:48.830 align:start position:0%
+específicamente en el catálogo de
+empleados<00:00:47.239><c> y</c><00:00:47.520><c> vamos</c><00:00:47.719><c> a</c><00:00:47.879><c> crear</c><00:00:48.280><c> un</c><00:00:48.520><c> nuevo</c>
+
+00:00:48.830 --> 00:00:48.840 align:start position:0%
+empleados y vamos a crear un nuevo
+ 
+
+00:00:48.840 --> 00:00:51.310 align:start position:0%
+empleados y vamos a crear un nuevo
+contrato,<00:00:49.920><c> un</c><00:00:50.039><c> nuevo</c><00:00:50.399><c> empleado,</c><00:00:50.879><c> perdón.</c>
+
+00:00:51.310 --> 00:00:51.320 align:start position:0%
+contrato, un nuevo empleado, perdón.
+ 
+
+00:00:51.320 --> 00:00:53.670 align:start position:0%
+contrato, un nuevo empleado, perdón.
+Vamos<00:00:51.480><c> a</c><00:00:51.600><c> poner</c><00:00:51.840><c> aquí</c><00:00:52.160><c> un</c><00:00:52.399><c> nit</c><00:00:52.760><c> aleatorio.</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+Vamos a poner aquí un nit aleatorio.
+ 
+
+00:00:53.680 --> 00:00:55.990 align:start position:0%
+Vamos a poner aquí un nit aleatorio.
+Vamos<00:00:53.840><c> a</c><00:00:54.000><c> dar</c><00:00:54.160><c> clic</c><00:00:54.399><c> en</c><00:00:54.640><c> aceptar.</c>
+
+00:00:55.990 --> 00:00:56.000 align:start position:0%
+Vamos a dar clic en aceptar.
+ 
+
+00:00:56.000 --> 00:00:59.950 align:start position:0%
+Vamos a dar clic en aceptar.
+Vamos<00:00:56.199><c> a</c><00:00:56.320><c> crear</c><00:00:56.520><c> el</c><00:00:56.680><c> nombre</c><00:00:56.879><c> del</c><00:00:57.039><c> empleado.</c>
+
+00:00:59.950 --> 00:00:59.960 align:start position:0%
+Vamos a crear el nombre del empleado.
+ 
+
+00:00:59.960 --> 00:01:02.670 align:start position:0%
+Vamos a crear el nombre del empleado.
+Cristina<00:01:00.519><c> Ríos</c><00:01:00.960><c> puede</c><00:01:01.280><c> ser.</c><00:01:02.079><c> Vamos</c><00:01:02.239><c> a</c><00:01:02.440><c> decir</c>
+
+00:01:02.670 --> 00:01:02.680 align:start position:0%
+Cristina Ríos puede ser. Vamos a decir
+ 
+
+00:01:02.680 --> 00:01:05.509 align:start position:0%
+Cristina Ríos puede ser. Vamos a decir
+que<00:01:02.879><c> está</c><00:01:03.800><c> en</c><00:01:03.960><c> la</c><00:01:04.080><c> ciudad</c><00:01:04.280><c> de</c><00:01:04.400><c> Manizales.</c>
+
+00:01:05.509 --> 00:01:05.519 align:start position:0%
+que está en la ciudad de Manizales.
+ 
+
+00:01:05.519 --> 00:01:07.670 align:start position:0%
+que está en la ciudad de Manizales.
+Vamos<00:01:05.680><c> a</c><00:01:05.799><c> indicar</c><00:01:06.240><c> una</c><00:01:06.439><c> dirección</c><00:01:07.000><c> y</c><00:01:07.240><c> vamos</c><00:01:07.439><c> a</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+Vamos a indicar una dirección y vamos a
+ 
+
+00:01:07.680 --> 00:01:09.830 align:start position:0%
+Vamos a indicar una dirección y vamos a
+abrir<00:01:07.920><c> el</c><00:01:08.080><c> formulario</c><00:01:08.600><c> completo.</c><00:01:09.479><c> Me</c><00:01:09.600><c> voy</c><00:01:09.720><c> a</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+abrir el formulario completo. Me voy a
+ 
+
+00:01:09.840 --> 00:01:11.630 align:start position:0%
+abrir el formulario completo. Me voy a
+dirigir<00:01:10.200><c> a</c><00:01:10.320><c> la</c><00:01:10.439><c> pestaña</c><00:01:10.840><c> de</c><00:01:11.119><c> datos</c><00:01:11.439><c> del</c>
+
+00:01:11.630 --> 00:01:11.640 align:start position:0%
+dirigir a la pestaña de datos del
+ 
+
+00:01:11.640 --> 00:01:13.749 align:start position:0%
+dirigir a la pestaña de datos del
+empleado.<00:01:12.520><c> Aquí</c><00:01:12.759><c> todavía</c><00:01:13.200><c> no</c><00:01:13.400><c> tenemos</c>
+
+00:01:13.749 --> 00:01:13.759 align:start position:0%
+empleado. Aquí todavía no tenemos
+ 
+
+00:01:13.759 --> 00:01:15.429 align:start position:0%
+empleado. Aquí todavía no tenemos
+contrato,<00:01:14.280><c> pero</c><00:01:14.479><c> no</c><00:01:14.640><c> hay</c><00:01:14.840><c> problema.</c><00:01:15.280><c> Me</c>
+
+00:01:15.429 --> 00:01:15.439 align:start position:0%
+contrato, pero no hay problema. Me
+ 
+
+00:01:15.439 --> 00:01:17.390 align:start position:0%
+contrato, pero no hay problema. Me
+interesa<00:01:15.799><c> que</c><00:01:15.920><c> revisemos</c><00:01:16.680><c> específicamente</c>
+
+00:01:17.390 --> 00:01:17.400 align:start position:0%
+interesa que revisemos específicamente
+ 
+
+00:01:17.400 --> 00:01:19.230 align:start position:0%
+interesa que revisemos específicamente
+la<00:01:17.560><c> configuración</c><00:01:18.119><c> de</c><00:01:18.280><c> la</c><00:01:18.400><c> retención</c><00:01:18.920><c> en</c><00:01:19.080><c> la</c>
+
+00:01:19.230 --> 00:01:19.240 align:start position:0%
+la configuración de la retención en la
+ 
+
+00:01:19.240 --> 00:01:20.870 align:start position:0%
+la configuración de la retención en la
+cuenta.<00:01:19.840><c> Como</c><00:01:20.000><c> vimos</c><00:01:20.280><c> en</c><00:01:20.400><c> tutoriales</c>
+
+00:01:20.870 --> 00:01:20.880 align:start position:0%
+cuenta. Como vimos en tutoriales
+ 
+
+00:01:20.880 --> 00:01:23.109 align:start position:0%
+cuenta. Como vimos en tutoriales
+anteriores,<00:01:21.400><c> aquí</c><00:01:21.640><c> tenemos</c><00:01:22.240><c> los</c><00:01:22.600><c> conceptos</c>
+
+00:01:23.109 --> 00:01:23.119 align:start position:0%
+anteriores, aquí tenemos los conceptos
+ 
+
+00:01:23.119 --> 00:01:24.910 align:start position:0%
+anteriores, aquí tenemos los conceptos
+que<00:01:23.320><c> son</c><00:01:23.560><c> necesarios</c><00:01:24.200><c> para</c><00:01:24.479><c> poder</c><00:01:24.600><c> que</c><00:01:24.759><c> el</c>
+
+00:01:24.910 --> 00:01:24.920 align:start position:0%
+que son necesarios para poder que el
+ 
+
+00:01:24.920 --> 00:01:27.429 align:start position:0%
+que son necesarios para poder que el
+sistema<00:01:25.759><c> obtenga</c><00:01:26.280><c> la</c><00:01:26.479><c> información</c><00:01:26.880><c> adecuada</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+sistema obtenga la información adecuada
+ 
+
+00:01:27.439 --> 00:01:29.910 align:start position:0%
+sistema obtenga la información adecuada
+y<00:01:27.680><c> así</c><00:01:28.439><c> calcule</c><00:01:29.119><c> correctamente</c><00:01:29.759><c> la</c>
+
+00:01:29.910 --> 00:01:29.920 align:start position:0%
+y así calcule correctamente la
+ 
+
+00:01:29.920 --> 00:01:32.270 align:start position:0%
+y así calcule correctamente la
+retención.<00:01:31.000><c> Aquí</c><00:01:31.320><c> a</c><00:01:31.479><c> manera</c><00:01:31.759><c> de</c><00:01:31.880><c> ejemplo</c>
+
+00:01:32.270 --> 00:01:32.280 align:start position:0%
+retención. Aquí a manera de ejemplo
+ 
+
+00:01:32.280 --> 00:01:34.350 align:start position:0%
+retención. Aquí a manera de ejemplo
+vamos<00:01:32.479><c> a</c><00:01:32.600><c> utilizar</c><00:01:33.040><c> los</c><00:01:33.240><c> más</c><00:01:33.439><c> comunes.</c><00:01:34.159><c> Vamos</c>
+
+00:01:34.350 --> 00:01:34.360 align:start position:0%
+vamos a utilizar los más comunes. Vamos
+ 
+
+00:01:34.360 --> 00:01:36.749 align:start position:0%
+vamos a utilizar los más comunes. Vamos
+a<00:01:34.520><c> poner</c><00:01:34.880><c> que</c><00:01:35.200><c> tiene</c><00:01:35.680><c> un</c><00:01:35.960><c> dependiente</c><00:01:36.479><c> para</c><00:01:36.640><c> el</c>
+
+00:01:36.749 --> 00:01:36.759 align:start position:0%
+a poner que tiene un dependiente para el
+ 
+
+00:01:36.759 --> 00:01:39.789 align:start position:0%
+a poner que tiene un dependiente para el
+año<00:01:37.200><c> 2025</c><00:01:38.159><c> que</c><00:01:38.600><c> en</c><00:01:38.840><c> intereses</c><00:01:39.240><c> de</c><00:01:39.360><c> préstamos</c>
+
+00:01:39.789 --> 00:01:39.799 align:start position:0%
+año 2025 que en intereses de préstamos
+ 
+
+00:01:39.799 --> 00:01:43.710 align:start position:0%
+año 2025 que en intereses de préstamos
+de<00:01:39.920><c> vivienda</c><00:01:40.439><c> pagó</c><00:01:41.560><c> 950,000</c>
+
+00:01:43.710 --> 00:01:43.720 align:start position:0%
+de vivienda pagó 950,000
+ 
+
+00:01:43.720 --> 00:01:45.550 align:start position:0%
+de vivienda pagó 950,000
+y<00:01:43.960><c> que</c><00:01:44.159><c> de</c><00:01:44.280><c> medicina</c><00:01:44.719><c> prepagada</c><00:01:45.200><c> pagó</c>
+
+00:01:45.550 --> 00:01:45.560 align:start position:0%
+y que de medicina prepagada pagó
+ 
+
+00:01:45.560 --> 00:01:48.510 align:start position:0%
+y que de medicina prepagada pagó
+700,000.
+
+00:01:48.510 --> 00:01:48.520 align:start position:0%
+700,000.
+ 
+
+00:01:48.520 --> 00:01:50.870 align:start position:0%
+700,000.
+Y<00:01:48.680><c> por</c><00:01:48.880><c> último</c><00:01:49.320><c> vamos</c><00:01:49.520><c> a</c><00:01:49.799><c> indicar</c><00:01:50.360><c> los</c><00:01:50.560><c> datos</c>
+
+00:01:50.870 --> 00:01:50.880 align:start position:0%
+Y por último vamos a indicar los datos
+ 
+
+00:01:50.880 --> 00:01:52.830 align:start position:0%
+Y por último vamos a indicar los datos
+del<00:01:51.119><c> dependiente</c><00:01:51.600><c> principal.</c><00:01:52.159><c> Sabemos</c><00:01:52.520><c> que</c>
+
+00:01:52.830 --> 00:01:52.840 align:start position:0%
+del dependiente principal. Sabemos que
+ 
+
+00:01:52.840 --> 00:01:54.389 align:start position:0%
+del dependiente principal. Sabemos que
+esta<00:01:53.119><c> información</c><00:01:53.640><c> la</c><00:01:53.840><c> solicita</c><00:01:54.240><c> la</c>
+
+00:01:54.389 --> 00:01:54.399 align:start position:0%
+esta información la solicita la
+ 
+
+00:01:54.399 --> 00:01:56.230 align:start position:0%
+esta información la solicita la
+información<00:01:54.880><c> exógena.</c><00:01:55.520><c> Aquí</c><00:01:55.719><c> también</c><00:01:55.960><c> voy</c><00:01:56.119><c> a</c>
+
+00:01:56.230 --> 00:01:56.240 align:start position:0%
+información exógena. Aquí también voy a
+ 
+
+00:01:56.240 --> 00:01:59.270 align:start position:0%
+información exógena. Aquí también voy a
+poner<00:01:56.719><c> un</c><00:01:56.920><c> dato</c><00:01:57.520><c> aleatorio.</c>
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+poner un dato aleatorio.
+ 
+
+00:01:59.280 --> 00:02:04.109 align:start position:0%
+poner un dato aleatorio.
+Vamos<00:01:59.479><c> a</c><00:01:59.880><c> decir</c><00:02:00.159><c> que</c><00:02:00.680><c> el</c><00:02:00.880><c> hijo</c><00:02:01.119><c> es</c><00:02:01.719><c> Rafael</c>
+
+00:02:04.109 --> 00:02:04.119 align:start position:0%
+Vamos a decir que el hijo es Rafael
+ 
+
+00:02:04.119 --> 00:02:07.270 align:start position:0%
+Vamos a decir que el hijo es Rafael
+Ramírez<00:02:05.240><c> Ríos</c>
+
+00:02:07.270 --> 00:02:07.280 align:start position:0%
+Ramírez Ríos
+ 
+
+00:02:07.280 --> 00:02:09.389 align:start position:0%
+Ramírez Ríos
+y<00:02:07.600><c> vamos</c><00:02:07.840><c> a</c><00:02:08.000><c> dar</c><00:02:08.119><c> clic</c><00:02:08.360><c> en</c><00:02:08.560><c> aceptar.</c><00:02:09.080><c> Aquí</c><00:02:09.239><c> ya</c>
+
+00:02:09.389 --> 00:02:09.399 align:start position:0%
+y vamos a dar clic en aceptar. Aquí ya
+ 
+
+00:02:09.399 --> 00:02:11.390 align:start position:0%
+y vamos a dar clic en aceptar. Aquí ya
+tenemos<00:02:09.720><c> configurada</c><00:02:10.280><c> nuestro</c><00:02:10.560><c> empleado.</c><00:02:11.239><c> Es</c>
+
+00:02:11.390 --> 00:02:11.400 align:start position:0%
+tenemos configurada nuestro empleado. Es
+ 
+
+00:02:11.400 --> 00:02:14.509 align:start position:0%
+tenemos configurada nuestro empleado. Es
+una<00:02:11.599><c> configuración</c><00:02:12.599><c> muy</c><00:02:12.959><c> sencilla.</c><00:02:14.319><c> Pero</c>
+
+00:02:14.509 --> 00:02:14.519 align:start position:0%
+una configuración muy sencilla. Pero
+ 
+
+00:02:14.519 --> 00:02:16.750 align:start position:0%
+una configuración muy sencilla. Pero
+entonces<00:02:14.959><c> ahora</c><00:02:15.319><c> vamos</c><00:02:15.519><c> a</c><00:02:15.680><c> crear</c><00:02:16.000><c> el</c><00:02:16.239><c> contrato</c>
+
+00:02:16.750 --> 00:02:16.760 align:start position:0%
+entonces ahora vamos a crear el contrato
+ 
+
+00:02:16.760 --> 00:02:19.430 align:start position:0%
+entonces ahora vamos a crear el contrato
+para<00:02:17.080><c> nuestro</c><00:02:17.400><c> empleado.</c>
+
+00:02:19.430 --> 00:02:19.440 align:start position:0%
+para nuestro empleado.
+ 
+
+00:02:19.440 --> 00:02:22.910 align:start position:0%
+para nuestro empleado.
+Vamos<00:02:19.640><c> a</c><00:02:19.879><c> ubicarnos</c><00:02:20.879><c> el</c><00:02:21.160><c> primer</c><00:02:21.519><c> día</c><00:02:21.760><c> del</c><00:02:22.000><c> mes</c>
+
+00:02:22.910 --> 00:02:22.920 align:start position:0%
+Vamos a ubicarnos el primer día del mes
+ 
+
+00:02:22.920 --> 00:02:27.390 align:start position:0%
+Vamos a ubicarnos el primer día del mes
+para<00:02:23.160><c> crear</c><00:02:23.480><c> su</c><00:02:23.680><c> contrato.</c>
+
+00:02:27.390 --> 00:02:27.400 align:start position:0%
+ 
+ 
+
+00:02:27.400 --> 00:02:31.750 align:start position:0%
+ 
+Vamos<00:02:27.560><c> a</c><00:02:27.760><c> llamar</c><00:02:28.160><c> a</c><00:02:28.440><c> Cristina</c><00:02:29.200><c> Ríos.</c>
+
+00:02:31.750 --> 00:02:31.760 align:start position:0%
+Vamos a llamar a Cristina Ríos.
+ 
+
+00:02:31.760 --> 00:02:34.030 align:start position:0%
+Vamos a llamar a Cristina Ríos.
+Vamos<00:02:32.080><c> a</c><00:02:32.280><c> asignar</c><00:02:32.680><c> un</c><00:02:32.879><c> perfil</c><00:02:33.200><c> de</c><00:02:33.400><c> contrato</c><00:02:33.920><c> a</c>
+
+00:02:34.030 --> 00:02:34.040 align:start position:0%
+Vamos a asignar un perfil de contrato a
+ 
+
+00:02:34.040 --> 00:02:37.030 align:start position:0%
+Vamos a asignar un perfil de contrato a
+término<00:02:34.440><c> indefinido</c><00:02:35.480><c> de</c><00:02:35.680><c> pago</c><00:02:35.959><c> mensual,</c><00:02:36.519><c> pero</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+término indefinido de pago mensual, pero
+ 
+
+00:02:37.040 --> 00:02:39.430 align:start position:0%
+término indefinido de pago mensual, pero
+para<00:02:37.360><c> un</c><00:02:37.519><c> salario</c><00:02:37.920><c> integral.</c>
+
+00:02:39.430 --> 00:02:39.440 align:start position:0%
+para un salario integral.
+ 
+
+00:02:39.440 --> 00:02:41.589 align:start position:0%
+para un salario integral.
+Asignamos<00:02:39.879><c> el</c><00:02:40.080><c> centro</c><00:02:40.319><c> de</c><00:02:40.519><c> costos,</c><00:02:41.040><c> el</c><00:02:41.239><c> centro</c>
+
+00:02:41.589 --> 00:02:41.599 align:start position:0%
+Asignamos el centro de costos, el centro
+ 
+
+00:02:41.599 --> 00:02:44.430 align:start position:0%
+Asignamos el centro de costos, el centro
+de<00:02:41.879><c> trabajo.</c><00:02:42.720><c> Clique</c><00:02:43.000><c> en</c><00:02:43.120><c> siguiente,</c>
+
+00:02:44.430 --> 00:02:44.440 align:start position:0%
+de trabajo. Clique en siguiente,
+ 
+
+00:02:44.440 --> 00:02:46.949 align:start position:0%
+de trabajo. Clique en siguiente,
+siguiente.<00:02:45.599><c> No</c><00:02:45.720><c> me</c><00:02:45.840><c> voy</c><00:02:45.959><c> a</c><00:02:46.080><c> detener</c><00:02:46.480><c> en</c><00:02:46.720><c> esas</c>
+
+00:02:46.949 --> 00:02:46.959 align:start position:0%
+siguiente. No me voy a detener en esas
+ 
+
+00:02:46.959 --> 00:02:48.470 align:start position:0%
+siguiente. No me voy a detener en esas
+configuraciones<00:02:47.680><c> iniciales</c><00:02:48.120><c> porque</c><00:02:48.319><c> me</c>
+
+00:02:48.470 --> 00:02:48.480 align:start position:0%
+configuraciones iniciales porque me
+ 
+
+00:02:48.480 --> 00:02:50.390 align:start position:0%
+configuraciones iniciales porque me
+interesa<00:02:48.760><c> que</c><00:02:48.920><c> revisemos</c><00:02:49.280><c> la</c><00:02:49.440><c> temática</c><00:02:50.080><c> para</c>
+
+00:02:50.390 --> 00:02:50.400 align:start position:0%
+interesa que revisemos la temática para
+ 
+
+00:02:50.400 --> 00:02:52.869 align:start position:0%
+interesa que revisemos la temática para
+retención.<00:02:51.599><c> Voy</c><00:02:51.760><c> a</c><00:02:51.879><c> asignar</c><00:02:52.280><c> un</c><00:02:52.560><c> salario</c>
+
+00:02:52.869 --> 00:02:52.879 align:start position:0%
+retención. Voy a asignar un salario
+ 
+
+00:02:52.879 --> 00:02:56.030 align:start position:0%
+retención. Voy a asignar un salario
+integral<00:02:53.200><c> de</c><00:02:53.400><c> 19,000</c>
+
+00:02:56.030 --> 00:02:56.040 align:start position:0%
+integral de 19,000
+ 
+
+00:02:56.040 --> 00:02:57.869 align:start position:0%
+integral de 19,000
+y<00:02:56.280><c> voy</c><00:02:56.440><c> a</c><00:02:56.599><c> validar</c><00:02:57.120><c> que</c><00:02:57.280><c> se</c><00:02:57.480><c> asigne</c>
+
+00:02:57.869 --> 00:02:57.879 align:start position:0%
+y voy a validar que se asigne
+ 
+
+00:02:57.879 --> 00:03:00.509 align:start position:0%
+y voy a validar que se asigne
+correctamente<00:02:58.920><c> las</c><00:02:59.159><c> deducciones.</c><00:03:00.200><c> En</c><00:03:00.319><c> este</c>
+
+00:03:00.509 --> 00:03:00.519 align:start position:0%
+correctamente las deducciones. En este
+ 
+
+00:03:00.519 --> 00:03:02.030 align:start position:0%
+correctamente las deducciones. En este
+caso,<00:03:00.760><c> la</c><00:03:00.959><c> retención</c><00:03:01.319><c> en</c><00:03:01.440><c> la</c><00:03:01.519><c> fuente</c><00:03:01.800><c> vemos</c>
+
+00:03:02.030 --> 00:03:02.040 align:start position:0%
+caso, la retención en la fuente vemos
+ 
+
+00:03:02.040 --> 00:03:04.990 align:start position:0%
+caso, la retención en la fuente vemos
+que<00:03:02.200><c> está</c><00:03:02.400><c> correctamente</c><00:03:03.120><c> parametrizada.</c>
+
+00:03:04.990 --> 00:03:05.000 align:start position:0%
+que está correctamente parametrizada.
+ 
+
+00:03:05.000 --> 00:03:06.990 align:start position:0%
+que está correctamente parametrizada.
+Ya<00:03:05.319><c> teniendo</c><00:03:05.640><c> los</c><00:03:05.840><c> conceptos</c><00:03:06.360><c> correctamente</c>
+
+00:03:06.990 --> 00:03:07.000 align:start position:0%
+Ya teniendo los conceptos correctamente
+ 
+
+00:03:07.000 --> 00:03:09.229 align:start position:0%
+Ya teniendo los conceptos correctamente
+configurados<00:03:07.760><c> y</c><00:03:07.959><c> el</c><00:03:08.200><c> contrato,</c><00:03:08.760><c> vamos</c><00:03:08.959><c> a</c><00:03:09.080><c> dar</c>
+
+00:03:09.229 --> 00:03:09.239 align:start position:0%
+configurados y el contrato, vamos a dar
+ 
+
+00:03:09.239 --> 00:03:12.430 align:start position:0%
+configurados y el contrato, vamos a dar
+clic<00:03:09.560><c> en</c><00:03:09.720><c> siguiente</c><00:03:10.239><c> y</c><00:03:10.400><c> en</c><00:03:10.560><c> finalizar.</c>
+
+00:03:12.430 --> 00:03:12.440 align:start position:0%
+clic en siguiente y en finalizar.
+ 
+
+00:03:12.440 --> 00:03:15.070 align:start position:0%
+clic en siguiente y en finalizar.
+Vamos<00:03:12.640><c> a</c><00:03:12.840><c> decir</c><00:03:13.080><c> que</c><00:03:13.519><c> este</c><00:03:13.879><c> empleado</c><00:03:14.599><c> tiene</c>
+
+00:03:15.070 --> 00:03:15.080 align:start position:0%
+Vamos a decir que este empleado tiene
+ 
+
+00:03:15.080 --> 00:03:17.390 align:start position:0%
+Vamos a decir que este empleado tiene
+algunas<00:03:15.519><c> novedades</c><00:03:16.000><c> de</c><00:03:16.159><c> nómina.</c><00:03:17.000><c> ¿Cuáles</c>
+
+00:03:17.390 --> 00:03:17.400 align:start position:0%
+algunas novedades de nómina. ¿Cuáles
+ 
+
+00:03:17.400 --> 00:03:19.869 align:start position:0%
+algunas novedades de nómina. ¿Cuáles
+novedades<00:03:17.840><c> de</c><00:03:18.000><c> nómina?</c><00:03:18.400><c> Por</c><00:03:18.599><c> ejemplo,</c><00:03:19.239><c> voy</c><00:03:19.440><c> a</c>
+
+00:03:19.869 --> 00:03:19.879 align:start position:0%
+novedades de nómina? Por ejemplo, voy a
+ 
+
+00:03:19.879 --> 00:03:24.309 align:start position:0%
+novedades de nómina? Por ejemplo, voy a
+registrar<00:03:21.080><c> un</c><00:03:21.680><c> aporte</c><00:03:22.280><c> a</c><00:03:22.480><c> cuenta</c><00:03:22.959><c> AFC</c><00:03:23.799><c> y</c><00:03:24.040><c> voy</c><00:03:24.159><c> a</c>
+
+00:03:24.309 --> 00:03:24.319 align:start position:0%
+registrar un aporte a cuenta AFC y voy a
+ 
+
+00:03:24.319 --> 00:03:26.270 align:start position:0%
+registrar un aporte a cuenta AFC y voy a
+registrar<00:03:24.879><c> un</c><00:03:25.080><c> descuento</c><00:03:25.560><c> por</c><00:03:25.920><c> pensión</c>
+
+00:03:26.270 --> 00:03:26.280 align:start position:0%
+registrar un descuento por pensión
+ 
+
+00:03:26.280 --> 00:03:28.110 align:start position:0%
+registrar un descuento por pensión
+voluntaria.<00:03:27.000><c> Vamos</c><00:03:27.200><c> a</c><00:03:27.319><c> llamar</c><00:03:27.519><c> a</c><00:03:27.680><c> Cristina</c>
+
+00:03:28.110 --> 00:03:28.120 align:start position:0%
+voluntaria. Vamos a llamar a Cristina
+ 
+
+00:03:28.120 --> 00:03:32.429 align:start position:0%
+voluntaria. Vamos a llamar a Cristina
+nuevamente.
+
+00:03:32.429 --> 00:03:32.439 align:start position:0%
+ 
+ 
+
+00:03:32.439 --> 00:03:36.750 align:start position:0%
+ 
+Estos<00:03:32.680><c> conceptos</c><00:03:33.159><c> de</c><00:03:33.840><c> aportes</c><00:03:34.400><c> a</c><00:03:35.280><c> de</c><00:03:35.840><c> aporte</c><00:03:36.560><c> a</c>
+
+00:03:36.750 --> 00:03:36.760 align:start position:0%
+Estos conceptos de aportes a de aporte a
+ 
+
+00:03:36.760 --> 00:03:39.229 align:start position:0%
+Estos conceptos de aportes a de aporte a
+pensión<00:03:37.080><c> voluntario</c><00:03:37.599><c> y</c><00:03:37.799><c> cuentas</c><00:03:38.200><c> AFC</c><00:03:38.959><c> también</c>
+
+00:03:39.229 --> 00:03:39.239 align:start position:0%
+pensión voluntario y cuentas AFC también
+ 
+
+00:03:39.239 --> 00:03:42.789 align:start position:0%
+pensión voluntario y cuentas AFC también
+lo<00:03:39.439><c> podemos</c><00:03:40.439><c> indicar</c><00:03:41.040><c> a</c><00:03:41.280><c> través</c><00:03:41.560><c> de</c><00:03:42.560><c> el</c>
+
+00:03:42.789 --> 00:03:42.799 align:start position:0%
+lo podemos indicar a través de el
+ 
+
+00:03:42.799 --> 00:03:44.390 align:start position:0%
+lo podemos indicar a través de el
+contrato.
+
+00:03:44.390 --> 00:03:44.400 align:start position:0%
+contrato.
+ 
+
+00:03:44.400 --> 00:03:46.350 align:start position:0%
+contrato.
+Sin<00:03:44.720><c> embargo,</c><00:03:45.040><c> también</c><00:03:45.280><c> lo</c><00:03:45.480><c> podemos</c><00:03:45.840><c> hacer</c>
+
+00:03:46.350 --> 00:03:46.360 align:start position:0%
+Sin embargo, también lo podemos hacer
+ 
+
+00:03:46.360 --> 00:03:48.429 align:start position:0%
+Sin embargo, también lo podemos hacer
+con
+
+00:03:48.429 --> 00:03:48.439 align:start position:0%
+con
+ 
+
+00:03:48.439 --> 00:03:50.630 align:start position:0%
+con
+la<00:03:48.680><c> novedad.</c>
+
+00:03:50.630 --> 00:03:50.640 align:start position:0%
+la novedad.
+ 
+
+00:03:50.640 --> 00:03:54.270 align:start position:0%
+la novedad.
+Vamos<00:03:50.840><c> a</c><00:03:50.959><c> llamar</c><00:03:51.280><c> entonces</c><00:03:52.439><c> la</c><00:03:52.680><c> cuenta</c><00:03:53.120><c> AFC</c><00:03:53.840><c> y</c>
+
+00:03:54.270 --> 00:03:54.280 align:start position:0%
+Vamos a llamar entonces la cuenta AFC y
+ 
+
+00:03:54.280 --> 00:03:55.949 align:start position:0%
+Vamos a llamar entonces la cuenta AFC y
+el<00:03:54.519><c> descuento</c><00:03:54.879><c> de</c><00:03:55.079><c> pensión</c><00:03:55.360><c> voluntaria</c><00:03:55.799><c> del</c>
+
+00:03:55.949 --> 00:03:55.959 align:start position:0%
+el descuento de pensión voluntaria del
+ 
+
+00:03:55.959 --> 00:03:58.350 align:start position:0%
+el descuento de pensión voluntaria del
+empleado.<00:03:57.200><c> Vamos</c><00:03:57.360><c> a</c><00:03:57.560><c> decir</c><00:03:57.720><c> que</c><00:03:57.920><c> de</c><00:03:58.040><c> pensión</c>
+
+00:03:58.350 --> 00:03:58.360 align:start position:0%
+empleado. Vamos a decir que de pensión
+ 
+
+00:03:58.360 --> 00:04:02.069 align:start position:0%
+empleado. Vamos a decir que de pensión
+voluntaria<00:03:59.079><c> vamos</c><00:03:59.280><c> a</c><00:03:59.439><c> hacer</c><00:03:59.640><c> un</c><00:03:59.840><c> aporte</c>
+
+00:04:02.069 --> 00:04:02.079 align:start position:0%
+voluntaria vamos a hacer un aporte
+ 
+
+00:04:02.079 --> 00:04:06.390 align:start position:0%
+voluntaria vamos a hacer un aporte
+digamos<00:04:03.239><c> de</c><00:04:03.720><c> 100,000</c><00:04:04.439><c> puede</c><00:04:04.720><c> ser</c>
+
+00:04:06.390 --> 00:04:06.400 align:start position:0%
+digamos de 100,000 puede ser
+ 
+
+00:04:06.400 --> 00:04:09.630 align:start position:0%
+digamos de 100,000 puede ser
+mensual<00:04:07.319><c> y</c><00:04:07.680><c> en</c><00:04:07.840><c> cuentas</c><00:04:08.239><c> AFC</c><00:04:08.760><c> vamos</c><00:04:09.000><c> a</c><00:04:09.159><c> poner</c>
+
+00:04:09.630 --> 00:04:09.640 align:start position:0%
+mensual y en cuentas AFC vamos a poner
+ 
+
+00:04:09.640 --> 00:04:14.270 align:start position:0%
+mensual y en cuentas AFC vamos a poner
+500,000.
+
+00:04:14.270 --> 00:04:14.280 align:start position:0%
+ 
+ 
+
+00:04:14.280 --> 00:04:18.189 align:start position:0%
+ 
+Por<00:04:14.439><c> poner</c><00:04:14.760><c> algún</c><00:04:15.040><c> ejemplo,</c><00:04:16.040><c> vamos</c><00:04:16.320><c> a</c><00:04:17.759><c> guardar</c>
+
+00:04:18.189 --> 00:04:18.199 align:start position:0%
+Por poner algún ejemplo, vamos a guardar
+ 
+
+00:04:18.199 --> 00:04:19.870 align:start position:0%
+Por poner algún ejemplo, vamos a guardar
+el<00:04:18.359><c> nick</c><00:04:18.560><c> del</c><00:04:18.720><c> empleado.</c><00:04:19.120><c> Ya</c><00:04:19.280><c> registramos</c><00:04:19.720><c> la</c>
+
+00:04:19.870 --> 00:04:19.880 align:start position:0%
+el nick del empleado. Ya registramos la
+ 
+
+00:04:19.880 --> 00:04:22.230 align:start position:0%
+el nick del empleado. Ya registramos la
+novedad<00:04:20.359><c> y</c><00:04:20.519><c> nos</c><00:04:20.720><c> vamos</c><00:04:20.919><c> a</c><00:04:21.280><c> ubicar</c><00:04:21.680><c> al</c><00:04:21.880><c> último</c>
+
+00:04:22.230 --> 00:04:22.240 align:start position:0%
+novedad y nos vamos a ubicar al último
+ 
+
+00:04:22.240 --> 00:04:24.510 align:start position:0%
+novedad y nos vamos a ubicar al último
+día<00:04:22.440><c> del</c><00:04:22.680><c> mes</c><00:04:22.960><c> para</c><00:04:23.280><c> realizar</c><00:04:23.840><c> el</c><00:04:24.080><c> pago</c><00:04:24.360><c> de</c>
+
+00:04:24.510 --> 00:04:24.520 align:start position:0%
+día del mes para realizar el pago de
+ 
+
+00:04:24.520 --> 00:04:27.030 align:start position:0%
+día del mes para realizar el pago de
+nómina.
+
+00:04:27.030 --> 00:04:27.040 align:start position:0%
+nómina.
+ 
+
+00:04:27.040 --> 00:04:29.150 align:start position:0%
+nómina.
+Voy<00:04:27.280><c> a</c><00:04:27.919><c> clicarle</c><00:04:28.360><c> acá.</c><00:04:28.600><c> Aquí</c><00:04:28.759><c> ya</c><00:04:28.919><c> tengo</c>
+
+00:04:29.150 --> 00:04:29.160 align:start position:0%
+Voy a clicarle acá. Aquí ya tengo
+ 
+
+00:04:29.160 --> 00:04:32.029 align:start position:0%
+Voy a clicarle acá. Aquí ya tengo
+copiado<00:04:29.520><c> el</c><00:04:29.680><c> nit</c><00:04:31.120><c> y</c><00:04:31.360><c> voy</c><00:04:31.479><c> a</c><00:04:31.560><c> dar</c><00:04:31.680><c> clic</c><00:04:31.880><c> en</c>
+
+00:04:32.029 --> 00:04:32.039 align:start position:0%
+copiado el nit y voy a dar clic en
+ 
+
+00:04:32.039 --> 00:04:33.830 align:start position:0%
+copiado el nit y voy a dar clic en
+aceptar.<00:04:32.479><c> Aquí</c><00:04:32.639><c> el</c><00:04:32.800><c> sistema</c><00:04:33.120><c> me</c><00:04:33.280><c> va</c><00:04:33.400><c> a</c><00:04:33.479><c> cargar</c>
+
+00:04:33.830 --> 00:04:33.840 align:start position:0%
+aceptar. Aquí el sistema me va a cargar
+ 
+
+00:04:33.840 --> 00:04:36.950 align:start position:0%
+aceptar. Aquí el sistema me va a cargar
+entonces<00:04:34.680><c> la</c><00:04:35.600><c> lo</c><00:04:35.840><c> que</c><00:04:36.000><c> tengo</c><00:04:36.360><c> configurado</c><00:04:36.840><c> en</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+entonces la lo que tengo configurado en
+ 
+
+00:04:36.960 --> 00:04:39.310 align:start position:0%
+entonces la lo que tengo configurado en
+el<00:04:37.039><c> contrato,</c><00:04:37.360><c> en</c><00:04:37.479><c> este</c><00:04:37.639><c> caso</c><00:04:38.080><c> salarios</c><00:04:38.800><c> y</c><00:04:39.120><c> las</c>
+
+00:04:39.310 --> 00:04:39.320 align:start position:0%
+el contrato, en este caso salarios y las
+ 
+
+00:04:39.320 --> 00:04:41.110 align:start position:0%
+el contrato, en este caso salarios y las
+deducciones.
+
+00:04:41.110 --> 00:04:41.120 align:start position:0%
+deducciones.
+ 
+
+00:04:41.120 --> 00:04:43.430 align:start position:0%
+deducciones.
+Tenemos<00:04:41.560><c> la</c><00:04:41.720><c> pensión</c><00:04:42.080><c> voluntaria,</c><00:04:42.919><c> la</c><00:04:43.120><c> cuenta</c>
+
+00:04:43.430 --> 00:04:43.440 align:start position:0%
+Tenemos la pensión voluntaria, la cuenta
+ 
+
+00:04:43.440 --> 00:04:45.310 align:start position:0%
+Tenemos la pensión voluntaria, la cuenta
+de<00:04:43.520><c> PC,</c><00:04:44.080><c> descuento</c><00:04:44.479><c> de</c><00:04:44.600><c> salud,</c><00:04:44.919><c> pensión,</c>
+
+00:04:45.310 --> 00:04:45.320 align:start position:0%
+de PC, descuento de salud, pensión,
+ 
+
+00:04:45.320 --> 00:04:47.350 align:start position:0%
+de PC, descuento de salud, pensión,
+fondos<00:04:45.680><c> de</c><00:04:45.840><c> solidaridad</c><00:04:46.320><c> y</c><00:04:46.479><c> subsistencia.</c><00:04:47.160><c> Y</c>
+
+00:04:47.350 --> 00:04:47.360 align:start position:0%
+fondos de solidaridad y subsistencia. Y
+ 
+
+00:04:47.360 --> 00:04:49.070 align:start position:0%
+fondos de solidaridad y subsistencia. Y
+por<00:04:47.479><c> último</c><00:04:47.919><c> tenemos</c><00:04:48.400><c> el</c><00:04:48.600><c> concepto</c><00:04:48.960><c> de</c>
+
+00:04:49.070 --> 00:04:49.080 align:start position:0%
+por último tenemos el concepto de
+ 
+
+00:04:49.080 --> 00:04:50.909 align:start position:0%
+por último tenemos el concepto de
+retención<00:04:49.479><c> en</c><00:04:49.600><c> la</c><00:04:49.680><c> fuente.</c><00:04:50.320><c> ¿Qué</c><00:04:50.440><c> es</c><00:04:50.560><c> lo</c><00:04:50.639><c> más</c>
+
+00:04:50.909 --> 00:04:50.919 align:start position:0%
+retención en la fuente. ¿Qué es lo más
+ 
+
+00:04:50.919 --> 00:04:52.350 align:start position:0%
+retención en la fuente. ¿Qué es lo más
+importante?<00:04:51.440><c> que</c><00:04:51.600><c> encontremos</c><00:04:52.039><c> que</c><00:04:52.160><c> aquí</c>
+
+00:04:52.350 --> 00:04:52.360 align:start position:0%
+importante? que encontremos que aquí
+ 
+
+00:04:52.360 --> 00:04:55.150 align:start position:0%
+importante? que encontremos que aquí
+tenemos<00:04:52.800><c> un</c><00:04:53.000><c> valor</c><00:04:53.320><c> base</c><00:04:54.080><c> y</c><00:04:54.400><c> un</c><00:04:54.560><c> valor</c><00:04:54.840><c> final</c>
+
+00:04:55.150 --> 00:04:55.160 align:start position:0%
+tenemos un valor base y un valor final
+ 
+
+00:04:55.160 --> 00:04:57.189 align:start position:0%
+tenemos un valor base y un valor final
+calculado.<00:04:55.880><c> Recordemos</c><00:04:56.320><c> que</c><00:04:56.600><c> esto</c><00:04:56.800><c> se</c><00:04:56.960><c> puede</c>
+
+00:04:57.189 --> 00:04:57.199 align:start position:0%
+calculado. Recordemos que esto se puede
+ 
+
+00:04:57.199 --> 00:04:59.430 align:start position:0%
+calculado. Recordemos que esto se puede
+visualizar<00:04:57.759><c> en</c><00:04:57.960><c> los</c><00:04:58.120><c> anexos</c><00:04:58.680><c> y</c><00:04:58.880><c> certificados</c>
+
+00:04:59.430 --> 00:04:59.440 align:start position:0%
+visualizar en los anexos y certificados
+ 
+
+00:04:59.440 --> 00:05:01.070 align:start position:0%
+visualizar en los anexos y certificados
+de<00:04:59.560><c> retención</c><00:04:59.919><c> en</c><00:05:00.080><c> la</c><00:05:00.160><c> fuente.</c><00:05:00.759><c> Y</c><00:05:00.880><c> aquí</c>
+
+00:05:01.070 --> 00:05:01.080 align:start position:0%
+de retención en la fuente. Y aquí
+ 
+
+00:05:01.080 --> 00:05:03.590 align:start position:0%
+de retención en la fuente. Y aquí
+tenemos<00:05:01.440><c> un</c><00:05:01.639><c> botón</c><00:05:02.160><c> que</c><00:05:02.400><c> me</c><00:05:02.759><c> sirve</c><00:05:03.160><c> para</c>
+
+00:05:03.590 --> 00:05:03.600 align:start position:0%
+tenemos un botón que me sirve para
+ 
+
+00:05:03.600 --> 00:05:06.029 align:start position:0%
+tenemos un botón que me sirve para
+visualizar<00:05:04.639><c> el</c><00:05:04.880><c> cálculo</c><00:05:05.240><c> de</c><00:05:05.360><c> la</c><00:05:05.479><c> retención,</c>
+
+00:05:06.029 --> 00:05:06.039 align:start position:0%
+visualizar el cálculo de la retención,
+ 
+
+00:05:06.039 --> 00:05:08.550 align:start position:0%
+visualizar el cálculo de la retención,
+es<00:05:06.240><c> decir,</c><00:05:06.680><c> cómo</c><00:05:06.960><c> llegó</c><00:05:07.320><c> con</c><00:05:07.440><c> Tapyme</c><00:05:08.000><c> a</c><00:05:08.240><c> estos</c>
+
+00:05:08.550 --> 00:05:08.560 align:start position:0%
+es decir, cómo llegó con Tapyme a estos
+ 
+
+00:05:08.560 --> 00:05:10.790 align:start position:0%
+es decir, cómo llegó con Tapyme a estos
+valores.<00:05:09.400><c> Pues</c><00:05:09.680><c> entonces</c><00:05:10.000><c> podemos</c><00:05:10.320><c> dar</c><00:05:10.520><c> clic</c>
+
+00:05:10.790 --> 00:05:10.800 align:start position:0%
+valores. Pues entonces podemos dar clic
+ 
+
+00:05:10.800 --> 00:05:13.390 align:start position:0%
+valores. Pues entonces podemos dar clic
+acá<00:05:11.440><c> para</c><00:05:11.639><c> que</c><00:05:11.759><c> el</c><00:05:11.919><c> sistema</c><00:05:12.320><c> nos</c><00:05:12.560><c> muestre</c><00:05:13.160><c> un</c>
+
+00:05:13.390 --> 00:05:13.400 align:start position:0%
+acá para que el sistema nos muestre un
+ 
+
+00:05:13.400 --> 00:05:15.590 align:start position:0%
+acá para que el sistema nos muestre un
+asistente<00:05:14.360><c> donde</c><00:05:14.639><c> va</c><00:05:14.800><c> a</c><00:05:14.919><c> especificar</c><00:05:15.440><c> y</c>
+
+00:05:15.590 --> 00:05:15.600 align:start position:0%
+asistente donde va a especificar y
+ 
+
+00:05:15.600 --> 00:05:17.749 align:start position:0%
+asistente donde va a especificar y
+detallar<00:05:16.120><c> el</c><00:05:16.320><c> paso</c><00:05:16.520><c> a</c><00:05:16.680><c> paso</c><00:05:16.880><c> de</c><00:05:17.080><c> cómo</c><00:05:17.280><c> llegó</c><00:05:17.600><c> a</c>
+
+00:05:17.749 --> 00:05:17.759 align:start position:0%
+detallar el paso a paso de cómo llegó a
+ 
+
+00:05:17.759 --> 00:05:19.830 align:start position:0%
+detallar el paso a paso de cómo llegó a
+ese<00:05:17.960><c> valor</c><00:05:18.240><c> final.</c>
+
+00:05:19.830 --> 00:05:19.840 align:start position:0%
+ese valor final.
+ 
+
+00:05:19.840 --> 00:05:23.390 align:start position:0%
+ese valor final.
+Es<00:05:20.080><c> importante</c><00:05:20.680><c> resaltar</c><00:05:21.680><c> que</c><00:05:22.560><c> para</c><00:05:23.160><c> las</c>
+
+00:05:23.390 --> 00:05:23.400 align:start position:0%
+Es importante resaltar que para las
+ 
+
+00:05:23.400 --> 00:05:26.150 align:start position:0%
+Es importante resaltar que para las
+periodicidades<00:05:24.120><c> quincenales</c><00:05:25.440><c> podemos</c><00:05:25.880><c> tener</c>
+
+00:05:26.150 --> 00:05:26.160 align:start position:0%
+periodicidades quincenales podemos tener
+ 
+
+00:05:26.160 --> 00:05:28.189 align:start position:0%
+periodicidades quincenales podemos tener
+algún<00:05:26.560><c> tipo</c><00:05:26.800><c> de</c><00:05:27.080><c> diferencias</c><00:05:27.720><c> con</c><00:05:27.960><c> esta</c>
+
+00:05:28.189 --> 00:05:28.199 align:start position:0%
+algún tipo de diferencias con esta
+ 
+
+00:05:28.199 --> 00:05:30.950 align:start position:0%
+algún tipo de diferencias con esta
+ayuda,<00:05:28.919><c> ya</c><00:05:29.120><c> que</c><00:05:29.560><c> esta</c><00:05:29.960><c> ayuda</c><00:05:30.319><c> está</c><00:05:30.479><c> diseñada</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+ayuda, ya que esta ayuda está diseñada
+ 
+
+00:05:30.960 --> 00:05:33.990 align:start position:0%
+ayuda, ya que esta ayuda está diseñada
+principalmente<00:05:31.840><c> para</c><00:05:32.639><c> mostrar</c><00:05:33.360><c> el</c><00:05:33.639><c> valor</c>
+
+00:05:33.990 --> 00:05:34.000 align:start position:0%
+principalmente para mostrar el valor
+ 
+
+00:05:34.000 --> 00:05:36.029 align:start position:0%
+principalmente para mostrar el valor
+final<00:05:34.400><c> esperado</c><00:05:34.919><c> para</c><00:05:35.160><c> la</c><00:05:35.319><c> retención</c><00:05:35.759><c> en</c><00:05:35.919><c> la</c>
+
+00:05:36.029 --> 00:05:36.039 align:start position:0%
+final esperado para la retención en la
+ 
+
+00:05:36.039 --> 00:05:38.909 align:start position:0%
+final esperado para la retención en la
+fuente<00:05:37.039><c> eh</c><00:05:37.479><c> al</c><00:05:37.720><c> final</c><00:05:37.919><c> del</c><00:05:38.120><c> mes,</c><00:05:38.600><c> porque</c>
+
+00:05:38.909 --> 00:05:38.919 align:start position:0%
+fuente eh al final del mes, porque
+ 
+
+00:05:38.919 --> 00:05:41.469 align:start position:0%
+fuente eh al final del mes, porque
+sabemos<00:05:39.319><c> que</c><00:05:40.000><c> la</c><00:05:40.240><c> primera</c><00:05:40.520><c> quincena</c><00:05:41.120><c> más</c><00:05:41.319><c> la</c>
+
+00:05:41.469 --> 00:05:41.479 align:start position:0%
+sabemos que la primera quincena más la
+ 
+
+00:05:41.479 --> 00:05:44.110 align:start position:0%
+sabemos que la primera quincena más la
+segunda<00:05:41.759><c> quincena</c><00:05:42.720><c> debemos</c><00:05:43.240><c> obtener</c><00:05:43.840><c> un</c>
+
+00:05:44.110 --> 00:05:44.120 align:start position:0%
+segunda quincena debemos obtener un
+ 
+
+00:05:44.120 --> 00:05:45.870 align:start position:0%
+segunda quincena debemos obtener un
+valor<00:05:44.400><c> mensualizado</c><00:05:45.120><c> de</c><00:05:45.240><c> la</c><00:05:45.360><c> retención</c><00:05:45.720><c> de</c><00:05:45.800><c> la</c>
+
+00:05:45.870 --> 00:05:45.880 align:start position:0%
+valor mensualizado de la retención de la
+ 
+
+00:05:45.880 --> 00:05:48.629 align:start position:0%
+valor mensualizado de la retención de la
+fuente<00:05:46.160><c> para</c><00:05:46.319><c> garantizar</c><00:05:47.560><c> esta</c><00:05:47.880><c> deducción</c><00:05:48.400><c> al</c>
+
+00:05:48.629 --> 00:05:48.639 align:start position:0%
+fuente para garantizar esta deducción al
+ 
+
+00:05:48.639 --> 00:05:50.590 align:start position:0%
+fuente para garantizar esta deducción al
+empleo.<00:05:49.199><c> Entonces,</c><00:05:49.840><c> aquí</c><00:05:50.080><c> tenemos</c><00:05:50.400><c> un</c>
+
+00:05:50.590 --> 00:05:50.600 align:start position:0%
+empleo. Entonces, aquí tenemos un
+ 
+
+00:05:50.600 --> 00:05:52.909 align:start position:0%
+empleo. Entonces, aquí tenemos un
+resumen<00:05:50.960><c> de</c><00:05:51.160><c> los</c><00:05:51.319><c> pagos</c><00:05:51.639><c> laborales</c><00:05:52.120><c> del</c><00:05:52.319><c> mes.</c>
+
+00:05:52.909 --> 00:05:52.919 align:start position:0%
+resumen de los pagos laborales del mes.
+ 
+
+00:05:52.919 --> 00:05:55.110 align:start position:0%
+resumen de los pagos laborales del mes.
+Tenemos<00:05:53.400><c> unos</c><00:05:53.639><c> ingresos</c><00:05:54.000><c> laborales,</c><00:05:54.880><c> prima</c>
+
+00:05:55.110 --> 00:05:55.120 align:start position:0%
+Tenemos unos ingresos laborales, prima
+ 
+
+00:05:55.120 --> 00:05:56.469 align:start position:0%
+Tenemos unos ingresos laborales, prima
+legal<00:05:55.319><c> y</c><00:05:55.479><c> extralegal</c><00:05:56.000><c> y</c><00:05:56.199><c> unas</c>
+
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+legal y extralegal y unas
+ 
+
+00:05:56.479 --> 00:05:58.510 align:start position:0%
+legal y extralegal y unas
+indemnizaciones.<00:05:57.400><c> Cuando</c><00:05:57.680><c> apliquen</c><00:05:58.199><c> se</c><00:05:58.400><c> van</c>
+
+00:05:58.510 --> 00:05:58.520 align:start position:0%
+indemnizaciones. Cuando apliquen se van
+ 
+
+00:05:58.520 --> 00:06:00.590 align:start position:0%
+indemnizaciones. Cuando apliquen se van
+a<00:05:58.680><c> cargar</c><00:05:58.960><c> aquí</c><00:05:59.160><c> de</c><00:05:59.280><c> forma</c><00:05:59.479><c> automática</c>
+
+00:06:00.590 --> 00:06:00.600 align:start position:0%
+a cargar aquí de forma automática
+ 
+
+00:06:00.600 --> 00:06:02.590 align:start position:0%
+a cargar aquí de forma automática
+tenemos<00:06:01.039><c> unos</c><00:06:01.360><c> ingresos</c><00:06:01.759><c> no</c><00:06:01.960><c> constitutivos</c>
+
+00:06:02.590 --> 00:06:02.600 align:start position:0%
+tenemos unos ingresos no constitutivos
+ 
+
+00:06:02.600 --> 00:06:04.790 align:start position:0%
+tenemos unos ingresos no constitutivos
+de<00:06:02.759><c> renta,</c><00:06:03.600><c> es</c><00:06:03.800><c> el</c><00:06:04.000><c> resumen</c><00:06:04.319><c> de</c><00:06:04.440><c> lo</c><00:06:04.520><c> que</c><00:06:04.639><c> ya</c>
+
+00:06:04.790 --> 00:06:04.800 align:start position:0%
+de renta, es el resumen de lo que ya
+ 
+
+00:06:04.800 --> 00:06:06.909 align:start position:0%
+de renta, es el resumen de lo que ya
+sucedió<00:06:05.160><c> en</c><00:06:05.280><c> el</c><00:06:05.400><c> pago,</c><00:06:06.039><c> unos</c><00:06:06.319><c> aportes</c><00:06:06.720><c> a</c>
+
+00:06:06.909 --> 00:06:06.919 align:start position:0%
+sucedió en el pago, unos aportes a
+ 
+
+00:06:06.919 --> 00:06:09.070 align:start position:0%
+sucedió en el pago, unos aportes a
+pensión,<00:06:07.440><c> a</c><00:06:07.639><c> salud</c><00:06:07.960><c> y</c><00:06:08.160><c> fondo</c><00:06:08.400><c> de</c><00:06:08.560><c> solidaridad</c>
+
+00:06:09.070 --> 00:06:09.080 align:start position:0%
+pensión, a salud y fondo de solidaridad
+ 
+
+00:06:09.080 --> 00:06:11.550 align:start position:0%
+pensión, a salud y fondo de solidaridad
+y<00:06:09.280><c> subsistencia.</c><00:06:10.599><c> Y</c><00:06:10.720><c> aquí</c><00:06:10.880><c> ya</c><00:06:11.080><c> empecemos</c>
+
+00:06:11.550 --> 00:06:11.560 align:start position:0%
+y subsistencia. Y aquí ya empecemos
+ 
+
+00:06:11.560 --> 00:06:14.270 align:start position:0%
+y subsistencia. Y aquí ya empecemos
+empezamos<00:06:12.039><c> a</c><00:06:12.199><c> tener</c><00:06:12.440><c> algunos</c><00:06:13.240><c> algunos</c>
+
+00:06:14.270 --> 00:06:14.280 align:start position:0%
+empezamos a tener algunos algunos
+ 
+
+00:06:14.280 --> 00:06:16.950 align:start position:0%
+empezamos a tener algunos algunos
+conceptos<00:06:15.039><c> adicionales</c><00:06:16.039><c> como</c><00:06:16.240><c> lo</c><00:06:16.440><c> son</c><00:06:16.759><c> las</c>
+
+00:06:16.950 --> 00:06:16.960 align:start position:0%
+conceptos adicionales como lo son las
+ 
+
+00:06:16.960 --> 00:06:20.029 align:start position:0%
+conceptos adicionales como lo son las
+deducciones<00:06:17.560><c> del</c><00:06:17.800><c> artículo</c><00:06:18.240><c> 387</c><00:06:19.520><c> del</c>
+
+00:06:20.029 --> 00:06:20.039 align:start position:0%
+deducciones del artículo 387 del
+ 
+
+00:06:20.039 --> 00:06:22.189 align:start position:0%
+deducciones del artículo 387 del
+Estatuto<00:06:20.479><c> Tributario</c><00:06:21.360><c> que</c><00:06:21.560><c> habla</c><00:06:21.840><c> de</c><00:06:22.000><c> los</c>
+
+00:06:22.189 --> 00:06:22.199 align:start position:0%
+Estatuto Tributario que habla de los
+ 
+
+00:06:22.199 --> 00:06:23.790 align:start position:0%
+Estatuto Tributario que habla de los
+intereses<00:06:22.560><c> en</c><00:06:22.680><c> préstamos</c><00:06:23.120><c> de</c><00:06:23.240><c> vivienda,</c>
+
+00:06:23.790 --> 00:06:23.800 align:start position:0%
+intereses en préstamos de vivienda,
+ 
+
+00:06:23.800 --> 00:06:26.510 align:start position:0%
+intereses en préstamos de vivienda,
+pagos<00:06:24.280><c> por</c><00:06:24.599><c> salud</c><00:06:24.880><c> prepagada,</c><00:06:25.919><c> dependientes</c>
+
+00:06:26.510 --> 00:06:26.520 align:start position:0%
+pagos por salud prepagada, dependientes
+ 
+
+00:06:26.520 --> 00:06:28.790 align:start position:0%
+pagos por salud prepagada, dependientes
+económicos<00:06:27.520><c> y</c><00:06:27.800><c> también</c><00:06:28.120><c> vamos</c><00:06:28.319><c> a</c><00:06:28.440><c> empezar</c><00:06:28.680><c> a</c>
+
+00:06:28.790 --> 00:06:28.800 align:start position:0%
+económicos y también vamos a empezar a
+ 
+
+00:06:28.800 --> 00:06:31.670 align:start position:0%
+económicos y también vamos a empezar a
+encontrar<00:06:29.479><c> alguno</c><00:06:30.160><c> algunos</c><00:06:30.840><c> topes</c><00:06:31.160><c> o</c><00:06:31.360><c> algunos</c>
+
+00:06:31.670 --> 00:06:31.680 align:start position:0%
+encontrar alguno algunos topes o algunos
+ 
+
+00:06:31.680 --> 00:06:33.749 align:start position:0%
+encontrar alguno algunos topes o algunos
+límites<00:06:32.080><c> que</c><00:06:32.240><c> establece</c><00:06:32.639><c> la</c><00:06:32.759><c> normatividad</c>
+
+00:06:33.749 --> 00:06:33.759 align:start position:0%
+límites que establece la normatividad
+ 
+
+00:06:33.759 --> 00:06:37.110 align:start position:0%
+límites que establece la normatividad
+para<00:06:34.039><c> garantizar</c><00:06:35.039><c> que</c><00:06:35.280><c> no</c><00:06:35.440><c> se</c><00:06:35.599><c> haga</c><00:06:36.160><c> una</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+para garantizar que no se haga una
+ 
+
+00:06:37.120 --> 00:06:39.350 align:start position:0%
+para garantizar que no se haga una
+deducción<00:06:37.759><c> superior</c><00:06:38.720><c> a</c><00:06:38.880><c> la</c><00:06:39.000><c> que</c><00:06:39.160><c> está</c>
+
+00:06:39.350 --> 00:06:39.360 align:start position:0%
+deducción superior a la que está
+ 
+
+00:06:39.360 --> 00:06:41.270 align:start position:0%
+deducción superior a la que está
+permitida.<00:06:39.919><c> por</c><00:06:40.120><c> la</c><00:06:40.280><c> norma.</c><00:06:40.759><c> Entonces,</c><00:06:41.120><c> por</c>
+
+00:06:41.270 --> 00:06:41.280 align:start position:0%
+permitida. por la norma. Entonces, por
+ 
+
+00:06:41.280 --> 00:06:43.029 align:start position:0%
+permitida. por la norma. Entonces, por
+ejemplo,<00:06:41.680><c> los</c><00:06:41.919><c> intereses</c><00:06:42.360><c> no</c><00:06:42.560><c> se</c><00:06:42.720><c> pueden</c>
+
+00:06:43.029 --> 00:06:43.039 align:start position:0%
+ejemplo, los intereses no se pueden
+ 
+
+00:06:43.039 --> 00:06:46.230 align:start position:0%
+ejemplo, los intereses no se pueden
+exceder<00:06:43.560><c> 100</c><00:06:43.840><c> VTS</c><00:06:44.240><c> mensuales.</c><00:06:45.240><c> Salud</c><00:06:46.080><c> eh</c>
+
+00:06:46.230 --> 00:06:46.240 align:start position:0%
+exceder 100 VTS mensuales. Salud eh
+ 
+
+00:06:46.240 --> 00:06:48.749 align:start position:0%
+exceder 100 VTS mensuales. Salud eh
+medicina<00:06:46.680><c> prepagada</c><00:06:47.319><c> no</c><00:06:47.520><c> puede</c><00:06:47.720><c> exceder</c><00:06:48.160><c> 16</c>
+
+00:06:48.749 --> 00:06:48.759 align:start position:0%
+medicina prepagada no puede exceder 16
+ 
+
+00:06:48.759 --> 00:06:50.670 align:start position:0%
+medicina prepagada no puede exceder 16
+VTS<00:06:49.120><c> mensuales</c><00:06:49.759><c> esta</c><00:06:49.960><c> deducción.</c><00:06:50.440><c> Entonces,</c>
+
+00:06:50.670 --> 00:06:50.680 align:start position:0%
+VTS mensuales esta deducción. Entonces,
+ 
+
+00:06:50.680 --> 00:06:53.589 align:start position:0%
+VTS mensuales esta deducción. Entonces,
+bueno,<00:06:51.319><c> así</c><00:06:51.680><c> con</c><00:06:51.880><c> cada</c><00:06:52.199><c> una</c><00:06:52.680><c> de</c><00:06:52.919><c> estos</c><00:06:53.240><c> topes</c>
+
+00:06:53.589 --> 00:06:53.599 align:start position:0%
+bueno, así con cada una de estos topes
+ 
+
+00:06:53.599 --> 00:06:55.710 align:start position:0%
+bueno, así con cada una de estos topes
+vamos<00:06:53.840><c> a</c><00:06:54.000><c> ir</c><00:06:54.160><c> en</c><00:06:54.319><c> contrato</c><00:06:55.120><c> encontrando,</c>
+
+00:06:55.710 --> 00:06:55.720 align:start position:0%
+vamos a ir en contrato encontrando,
+ 
+
+00:06:55.720 --> 00:06:59.390 align:start position:0%
+vamos a ir en contrato encontrando,
+perdón,<00:06:56.120><c> las</c><00:06:56.520><c> especificaciones</c><00:06:57.800><c> y</c><00:06:58.080><c> también</c>
+
+00:06:59.390 --> 00:06:59.400 align:start position:0%
+perdón, las especificaciones y también
+ 
+
+00:06:59.400 --> 00:07:02.029 align:start position:0%
+perdón, las especificaciones y también
+vamos<00:06:59.639><c> a</c><00:06:59.759><c> encontrar</c><00:07:00.120><c> algunos</c><00:07:00.520><c> artículos</c><00:07:01.680><c> eh</c>
+
+00:07:02.029 --> 00:07:02.039 align:start position:0%
+vamos a encontrar algunos artículos eh
+ 
+
+00:07:02.039 --> 00:07:03.990 align:start position:0%
+vamos a encontrar algunos artículos eh
+referenciados<00:07:02.680><c> acá</c><00:07:03.120><c> para</c><00:07:03.360><c> que</c><00:07:03.560><c> ustedes</c><00:07:03.800><c> lo</c>
+
+00:07:03.990 --> 00:07:04.000 align:start position:0%
+referenciados acá para que ustedes lo
+ 
+
+00:07:04.000 --> 00:07:06.550 align:start position:0%
+referenciados acá para que ustedes lo
+puedan<00:07:04.280><c> consultar</c><00:07:04.680><c> en</c><00:07:04.840><c> caso</c><00:07:05.080><c> tal</c><00:07:05.280><c> de</c><00:07:05.759><c> querer</c>
+
+00:07:06.550 --> 00:07:06.560 align:start position:0%
+puedan consultar en caso tal de querer
+ 
+
+00:07:06.560 --> 00:07:08.950 align:start position:0%
+puedan consultar en caso tal de querer
+ampliar<00:07:07.120><c> un</c><00:07:07.319><c> poco</c><00:07:07.479><c> esta</c><00:07:07.720><c> información.</c><00:07:08.759><c> Aquí</c>
+
+00:07:08.950 --> 00:07:08.960 align:start position:0%
+ampliar un poco esta información. Aquí
+ 
+
+00:07:08.960 --> 00:07:10.469 align:start position:0%
+ampliar un poco esta información. Aquí
+vemos<00:07:09.199><c> que</c><00:07:09.360><c> el</c><00:07:09.479><c> sistema</c><00:07:09.800><c> también</c><00:07:10.039><c> carga</c><00:07:10.360><c> de</c>
+
+00:07:10.469 --> 00:07:10.479 align:start position:0%
+vemos que el sistema también carga de
+ 
+
+00:07:10.479 --> 00:07:12.150 align:start position:0%
+vemos que el sistema también carga de
+forma<00:07:10.720><c> automática</c><00:07:11.280><c> las</c><00:07:11.520><c> novedades</c><00:07:11.960><c> que</c>
+
+00:07:12.150 --> 00:07:12.160 align:start position:0%
+forma automática las novedades que
+ 
+
+00:07:12.160 --> 00:07:14.469 align:start position:0%
+forma automática las novedades que
+apliquen<00:07:12.840><c> y</c><00:07:13.080><c> que</c><00:07:13.280><c> se</c><00:07:13.479><c> vean</c><00:07:13.960><c> que</c><00:07:14.120><c> se</c><00:07:14.280><c> ven</c>
+
+00:07:14.469 --> 00:07:14.479 align:start position:0%
+apliquen y que se vean que se ven
+ 
+
+00:07:14.479 --> 00:07:16.230 align:start position:0%
+apliquen y que se vean que se ven
+reflejadas<00:07:14.960><c> en</c><00:07:15.080><c> la</c><00:07:15.160><c> nómina.</c><00:07:15.759><c> Por</c><00:07:15.879><c> ejemplo,</c>
+
+00:07:16.230 --> 00:07:16.240 align:start position:0%
+reflejadas en la nómina. Por ejemplo,
+ 
+
+00:07:16.240 --> 00:07:18.950 align:start position:0%
+reflejadas en la nómina. Por ejemplo,
+los<00:07:16.440><c> fondos</c><00:07:17.120><c> eh</c><00:07:17.400><c> aportes</c><00:07:17.800><c> a</c><00:07:17.919><c> fondo</c><00:07:18.440><c> de</c><00:07:18.639><c> pensión</c>
+
+00:07:18.950 --> 00:07:18.960 align:start position:0%
+los fondos eh aportes a fondo de pensión
+ 
+
+00:07:18.960 --> 00:07:21.550 align:start position:0%
+los fondos eh aportes a fondo de pensión
+voluntaria<00:07:19.759><c> o</c><00:07:19.960><c> aportes</c><00:07:20.319><c> a</c><00:07:20.440><c> cuentas</c><00:07:20.759><c> AFC.</c>
+
+00:07:21.550 --> 00:07:21.560 align:start position:0%
+voluntaria o aportes a cuentas AFC.
+ 
+
+00:07:21.560 --> 00:07:22.950 align:start position:0%
+voluntaria o aportes a cuentas AFC.
+También<00:07:21.879><c> vemos</c><00:07:22.160><c> que</c><00:07:22.280><c> se</c><00:07:22.400><c> carga</c><00:07:22.639><c> de</c><00:07:22.759><c> forma</c>
+
+00:07:22.950 --> 00:07:22.960 align:start position:0%
+También vemos que se carga de forma
+ 
+
+00:07:22.960 --> 00:07:25.909 align:start position:0%
+También vemos que se carga de forma
+automática.<00:07:24.120><c> Estos</c><00:07:24.759><c> eh</c><00:07:25.120><c> gastos</c><00:07:25.400><c> de</c><00:07:25.560><c> entierro</c>
+
+00:07:25.909 --> 00:07:25.919 align:start position:0%
+automática. Estos eh gastos de entierro
+ 
+
+00:07:25.919 --> 00:07:26.869 align:start position:0%
+automática. Estos eh gastos de entierro
+prima<00:07:26.160><c> especial</c><00:07:26.400><c> y</c><00:07:26.520><c> gastos</c><00:07:26.759><c> de</c>
+
+00:07:26.869 --> 00:07:26.879 align:start position:0%
+prima especial y gastos de
+ 
+
+00:07:26.879 --> 00:07:28.869 align:start position:0%
+prima especial y gastos de
+representación<00:07:27.680><c> no</c><00:07:27.879><c> los</c><00:07:28.120><c> utilizamos</c><00:07:28.639><c> para</c>
+
+00:07:28.869 --> 00:07:28.879 align:start position:0%
+representación no los utilizamos para
+ 
+
+00:07:28.879 --> 00:07:31.749 align:start position:0%
+representación no los utilizamos para
+este<00:07:29.120><c> ejemplo.</c><00:07:30.080><c> Y</c><00:07:30.199><c> aquí</c><00:07:30.400><c> ya</c><00:07:30.599><c> tenemos</c><00:07:31.000><c> entonces</c>
+
+00:07:31.749 --> 00:07:31.759 align:start position:0%
+este ejemplo. Y aquí ya tenemos entonces
+ 
+
+00:07:31.759 --> 00:07:34.350 align:start position:0%
+este ejemplo. Y aquí ya tenemos entonces
+un<00:07:32.000><c> segundo</c><00:07:32.400><c> subtotal.</c><00:07:33.440><c> El</c><00:07:33.560><c> primer</c><00:07:33.840><c> subtotal</c>
+
+00:07:34.350 --> 00:07:34.360 align:start position:0%
+un segundo subtotal. El primer subtotal
+ 
+
+00:07:34.360 --> 00:07:36.790 align:start position:0%
+un segundo subtotal. El primer subtotal
+sería<00:07:34.840><c> la</c><00:07:35.000><c> suma</c><00:07:35.199><c> de</c><00:07:35.360><c> los</c><00:07:35.520><c> ingresos</c><00:07:35.919><c> netos.</c>
+
+00:07:36.790 --> 00:07:36.800 align:start position:0%
+sería la suma de los ingresos netos.
+ 
+
+00:07:36.800 --> 00:07:38.390 align:start position:0%
+sería la suma de los ingresos netos.
+tenemos<00:07:37.120><c> ya</c><00:07:37.280><c> el</c><00:07:37.400><c> subtotal</c><00:07:37.840><c> dos,</c><00:07:38.039><c> que</c><00:07:38.160><c> son</c><00:07:38.280><c> las</c>
+
+00:07:38.390 --> 00:07:38.400 align:start position:0%
+tenemos ya el subtotal dos, que son las
+ 
+
+00:07:38.400 --> 00:07:40.430 align:start position:0%
+tenemos ya el subtotal dos, que son las
+deducciones<00:07:38.879><c> y</c><00:07:39.000><c> rentas</c><00:07:39.440><c> exentas.</c>
+
+00:07:40.430 --> 00:07:40.440 align:start position:0%
+deducciones y rentas exentas.
+ 
+
+00:07:40.440 --> 00:07:42.589 align:start position:0%
+deducciones y rentas exentas.
+Posteriormente,<00:07:41.080><c> el</c><00:07:41.280><c> sistema</c><00:07:41.960><c> aquí</c><00:07:42.280><c> entonces</c>
+
+00:07:42.589 --> 00:07:42.599 align:start position:0%
+Posteriormente, el sistema aquí entonces
+ 
+
+00:07:42.599 --> 00:07:44.350 align:start position:0%
+Posteriormente, el sistema aquí entonces
+va<00:07:42.720><c> a</c><00:07:42.800><c> empezar</c><00:07:43.120><c> a</c><00:07:43.479><c> hacer</c><00:07:43.720><c> una</c><00:07:43.919><c> depuración</c>
+
+00:07:44.350 --> 00:07:44.360 align:start position:0%
+va a empezar a hacer una depuración
+ 
+
+00:07:44.360 --> 00:07:46.589 align:start position:0%
+va a empezar a hacer una depuración
+adicional<00:07:44.840><c> en</c><00:07:45.000><c> el</c><00:07:45.159><c> subtotal</c><00:07:45.680><c> tres</c><00:07:45.879><c> y</c><00:07:46.080><c> subtotal</c>
+
+00:07:46.589 --> 00:07:46.599 align:start position:0%
+adicional en el subtotal tres y subtotal
+ 
+
+00:07:46.599 --> 00:07:50.550 align:start position:0%
+adicional en el subtotal tres y subtotal
+cuatro,<00:07:47.440><c> que</c><00:07:48.440><c> palabras</c><00:07:48.919><c> más,</c><00:07:49.159><c> palabras</c><00:07:49.720><c> menos</c>
+
+00:07:50.550 --> 00:07:50.560 align:start position:0%
+cuatro, que palabras más, palabras menos
+ 
+
+00:07:50.560 --> 00:07:52.830 align:start position:0%
+cuatro, que palabras más, palabras menos
+lo<00:07:50.759><c> que</c><00:07:50.879><c> hace</c><00:07:51.080><c> el</c><00:07:51.280><c> sistema</c><00:07:51.639><c> es</c><00:07:52.159><c> aplicar</c><00:07:52.639><c> la</c>
+
+00:07:52.830 --> 00:07:52.840 align:start position:0%
+lo que hace el sistema es aplicar la
+ 
+
+00:07:52.840 --> 00:07:56.189 align:start position:0%
+lo que hace el sistema es aplicar la
+normatividad<00:07:53.800><c> según</c><00:07:54.599><c> la</c><00:07:54.879><c> fórmula</c><00:07:55.360><c> que</c><00:07:55.639><c> tiene</c>
+
+00:07:56.189 --> 00:07:56.199 align:start position:0%
+normatividad según la fórmula que tiene
+ 
+
+00:07:56.199 --> 00:07:57.909 align:start position:0%
+normatividad según la fórmula que tiene
+la<00:07:56.400><c> retención</c><00:07:56.840><c> en</c><00:07:56.960><c> la</c><00:07:57.039><c> cuenta.</c><00:07:57.599><c> Vemos</c><00:07:57.800><c> que</c>
+
+00:07:57.909 --> 00:07:57.919 align:start position:0%
+la retención en la cuenta. Vemos que
+ 
+
+00:07:57.919 --> 00:07:59.510 align:start position:0%
+la retención en la cuenta. Vemos que
+este<00:07:58.120><c> concepto</c><00:07:58.520><c> puede</c><00:07:58.759><c> ser</c><00:07:59.000><c> un</c><00:07:59.199><c> poco</c>
+
+00:07:59.510 --> 00:07:59.520 align:start position:0%
+este concepto puede ser un poco
+ 
+
+00:07:59.520 --> 00:08:01.990 align:start position:0%
+este concepto puede ser un poco
+dispendioso<00:08:00.280><c> o</c><00:08:00.440><c> un</c><00:08:00.599><c> poco</c><00:08:00.919><c> complejo</c><00:08:01.560><c> y</c><00:08:01.759><c> puede</c>
+
+00:08:01.990 --> 00:08:02.000 align:start position:0%
+dispendioso o un poco complejo y puede
+ 
+
+00:08:02.000 --> 00:08:05.830 align:start position:0%
+dispendioso o un poco complejo y puede
+generar<00:08:02.680><c> dudas</c><00:08:03.599><c> para</c><00:08:04.000><c> el</c><00:08:04.199><c> cálculo.</c><00:08:05.280><c> Esto</c><00:08:05.520><c> lo</c>
+
+00:08:05.830 --> 00:08:05.840 align:start position:0%
+generar dudas para el cálculo. Esto lo
+ 
+
+00:08:05.840 --> 00:08:09.270 align:start position:0%
+generar dudas para el cálculo. Esto lo
+lo<00:08:05.960><c> que</c><00:08:06.080><c> busca</c><00:08:06.360><c> esta</c><00:08:06.520><c> ayuda</c><00:08:06.960><c> es</c>
+
+00:08:09.270 --> 00:08:09.280 align:start position:0%
+lo que busca esta ayuda es
+ 
+
+00:08:09.280 --> 00:08:11.909 align:start position:0%
+lo que busca esta ayuda es
+principalmente<00:08:10.720><c> facilitar</c><00:08:11.400><c> a</c><00:08:11.560><c> nuestros</c>
+
+00:08:11.909 --> 00:08:11.919 align:start position:0%
+principalmente facilitar a nuestros
+ 
+
+00:08:11.919 --> 00:08:14.270 align:start position:0%
+principalmente facilitar a nuestros
+usuarios<00:08:12.599><c> y</c><00:08:12.879><c> mostrar</c><00:08:13.280><c> cuál</c><00:08:13.520><c> ha</c><00:08:13.639><c> sido</c><00:08:13.840><c> ese</c><00:08:14.039><c> paso</c>
+
+00:08:14.270 --> 00:08:14.280 align:start position:0%
+usuarios y mostrar cuál ha sido ese paso
+ 
+
+00:08:14.280 --> 00:08:16.670 align:start position:0%
+usuarios y mostrar cuál ha sido ese paso
+a<00:08:14.400><c> paso</c><00:08:14.639><c> y</c><00:08:14.879><c> orientar</c><00:08:15.319><c> un</c><00:08:15.479><c> poco</c><00:08:16.199><c> en</c><00:08:16.440><c> este</c>
+
+00:08:16.670 --> 00:08:16.680 align:start position:0%
+a paso y orientar un poco en este
+ 
+
+00:08:16.680 --> 00:08:18.990 align:start position:0%
+a paso y orientar un poco en este
+sentido.<00:08:17.919><c> Aquí</c><00:08:18.159><c> simplemente</c><00:08:18.680><c> vamos</c><00:08:18.840><c> a</c>
+
+00:08:18.990 --> 00:08:19.000 align:start position:0%
+sentido. Aquí simplemente vamos a
+ 
+
+00:08:19.000 --> 00:08:20.710 align:start position:0%
+sentido. Aquí simplemente vamos a
+aplicar<00:08:19.280><c> un</c><00:08:19.440><c> tope</c><00:08:19.680><c> en</c><00:08:19.800><c> la</c><00:08:19.919><c> normatividad.</c>
+
+00:08:20.710 --> 00:08:20.720 align:start position:0%
+aplicar un tope en la normatividad.
+ 
+
+00:08:20.720 --> 00:08:23.149 align:start position:0%
+aplicar un tope en la normatividad.
+También<00:08:21.199><c> incluimos</c><00:08:21.800><c> pues</c><00:08:22.000><c> como</c><00:08:22.440><c> el</c><00:08:22.639><c> límite</c><00:08:23.000><c> y</c>
+
+00:08:23.149 --> 00:08:23.159 align:start position:0%
+También incluimos pues como el límite y
+ 
+
+00:08:23.159 --> 00:08:25.029 align:start position:0%
+También incluimos pues como el límite y
+la<00:08:23.280><c> normatividad</c><00:08:23.879><c> si</c><00:08:24.039><c> ustedes</c><00:08:24.319><c> quieren</c><00:08:24.720><c> ir</c><00:08:24.879><c> a</c>
+
+00:08:25.029 --> 00:08:25.039 align:start position:0%
+la normatividad si ustedes quieren ir a
+ 
+
+00:08:25.039 --> 00:08:27.230 align:start position:0%
+la normatividad si ustedes quieren ir a
+revisarlo<00:08:25.560><c> un</c><00:08:25.720><c> poco,</c><00:08:26.360><c> pero</c><00:08:26.759><c> lo</c><00:08:26.960><c> más</c>
+
+00:08:27.230 --> 00:08:27.240 align:start position:0%
+revisarlo un poco, pero lo más
+ 
+
+00:08:27.240 --> 00:08:30.670 align:start position:0%
+revisarlo un poco, pero lo más
+importante<00:08:27.759><c> será</c><00:08:28.199><c> al</c><00:08:28.440><c> final</c><00:08:29.440><c> el</c><00:08:29.759><c> resumen</c><00:08:30.319><c> o</c><00:08:30.520><c> el</c>
+
+00:08:30.670 --> 00:08:30.680 align:start position:0%
+importante será al final el resumen o el
+ 
+
+00:08:30.680 --> 00:08:32.310 align:start position:0%
+importante será al final el resumen o el
+cálculo<00:08:31.080><c> final</c><00:08:31.400><c> de</c><00:08:31.560><c> la</c><00:08:31.680><c> retención.</c><00:08:32.120><c> En</c><00:08:32.240><c> la</c>
+
+00:08:32.310 --> 00:08:32.320 align:start position:0%
+cálculo final de la retención. En la
+ 
+
+00:08:32.320 --> 00:08:35.190 align:start position:0%
+cálculo final de la retención. En la
+fuente<00:08:32.719><c> vamos</c><00:08:32.959><c> a</c><00:08:33.120><c> encontrar</c><00:08:33.839><c> tres</c><00:08:34.240><c> cuadros.</c>
+
+00:08:35.190 --> 00:08:35.200 align:start position:0%
+fuente vamos a encontrar tres cuadros.
+ 
+
+00:08:35.200 --> 00:08:36.670 align:start position:0%
+fuente vamos a encontrar tres cuadros.
+un<00:08:35.360><c> primer</c><00:08:35.640><c> cuadro</c><00:08:35.919><c> que</c><00:08:36.080><c> me</c><00:08:36.159><c> va</c><00:08:36.240><c> a</c><00:08:36.320><c> hablar</c><00:08:36.519><c> de</c>
+
+00:08:36.670 --> 00:08:36.680 align:start position:0%
+un primer cuadro que me va a hablar de
+ 
+
+00:08:36.680 --> 00:08:37.949 align:start position:0%
+un primer cuadro que me va a hablar de
+la<00:08:36.800><c> retención</c><00:08:37.200><c> en</c><00:08:37.320><c> la</c><00:08:37.399><c> fuente</c><00:08:37.680><c> sobre</c>
+
+00:08:37.949 --> 00:08:37.959 align:start position:0%
+la retención en la fuente sobre
+ 
+
+00:08:37.959 --> 00:08:40.350 align:start position:0%
+la retención en la fuente sobre
+salarios,<00:08:38.800><c> un</c><00:08:39.159><c> segundo</c><00:08:39.519><c> cuadro</c><00:08:39.919><c> que</c><00:08:40.080><c> me</c><00:08:40.200><c> habla</c>
+
+00:08:40.350 --> 00:08:40.360 align:start position:0%
+salarios, un segundo cuadro que me habla
+ 
+
+00:08:40.360 --> 00:08:42.589 align:start position:0%
+salarios, un segundo cuadro que me habla
+de<00:08:40.519><c> la</c><00:08:40.640><c> retención</c><00:08:41.120><c> sobre</c><00:08:41.440><c> prima</c><00:08:41.800><c> y</c><00:08:42.039><c> por</c><00:08:42.200><c> último</c>
+
+00:08:42.589 --> 00:08:42.599 align:start position:0%
+de la retención sobre prima y por último
+ 
+
+00:08:42.599 --> 00:08:44.750 align:start position:0%
+de la retención sobre prima y por último
+una<00:08:42.839><c> retención</c><00:08:43.279><c> por</c><00:08:43.479><c> indemnización.</c><00:08:44.640><c> El</c>
+
+00:08:44.750 --> 00:08:44.760 align:start position:0%
+una retención por indemnización. El
+ 
+
+00:08:44.760 --> 00:08:46.590 align:start position:0%
+una retención por indemnización. El
+segundo<00:08:45.040><c> y</c><00:08:45.160><c> el</c><00:08:45.320><c> tercero</c><00:08:45.800><c> solamente</c><00:08:46.200><c> se</c><00:08:46.360><c> van</c><00:08:46.480><c> a</c>
+
+00:08:46.590 --> 00:08:46.600 align:start position:0%
+segundo y el tercero solamente se van a
+ 
+
+00:08:46.600 --> 00:08:48.990 align:start position:0%
+segundo y el tercero solamente se van a
+calcular<00:08:47.120><c> cuándo</c><00:08:47.480><c> apliquen</c><00:08:48.320><c> a</c><00:08:48.519><c> los</c><00:08:48.640><c> empleados</c>
+
+00:08:48.990 --> 00:08:49.000 align:start position:0%
+calcular cuándo apliquen a los empleados
+ 
+
+00:08:49.000 --> 00:08:50.710 align:start position:0%
+calcular cuándo apliquen a los empleados
+que<00:08:49.120><c> cumplan</c><00:08:49.720><c> con</c><00:08:49.959><c> las</c><00:08:50.120><c> condiciones</c><00:08:50.560><c> que</c>
+
+00:08:50.710 --> 00:08:50.720 align:start position:0%
+que cumplan con las condiciones que
+ 
+
+00:08:50.720 --> 00:08:53.230 align:start position:0%
+que cumplan con las condiciones que
+establece<00:08:51.120><c> la</c><00:08:51.279><c> norma.</c><00:08:52.360><c> Pero</c><00:08:52.600><c> la</c><00:08:52.760><c> retención</c><00:08:53.160><c> en</c>
+
+00:08:53.230 --> 00:08:53.240 align:start position:0%
+establece la norma. Pero la retención en
+ 
+
+00:08:53.240 --> 00:08:55.350 align:start position:0%
+establece la norma. Pero la retención en
+la<00:08:53.320><c> fuente</c><00:08:53.560><c> sobre</c><00:08:53.839><c> salarios</c><00:08:54.720><c> eh</c><00:08:54.920><c> digamos</c><00:08:55.200><c> que</c>
+
+00:08:55.350 --> 00:08:55.360 align:start position:0%
+la fuente sobre salarios eh digamos que
+ 
+
+00:08:55.360 --> 00:08:56.990 align:start position:0%
+la fuente sobre salarios eh digamos que
+bueno,<00:08:55.640><c> aplica</c><00:08:55.959><c> también</c><00:08:56.360><c> para</c><00:08:56.519><c> aquellos</c><00:08:56.839><c> que</c>
+
+00:08:56.990 --> 00:08:57.000 align:start position:0%
+bueno, aplica también para aquellos que
+ 
+
+00:08:57.000 --> 00:08:59.790 align:start position:0%
+bueno, aplica también para aquellos que
+superen<00:08:57.800><c> tope.</c><00:08:58.519><c> Digamos</c><00:08:58.800><c> que</c><00:08:58.959><c> la</c><00:08:59.120><c> prima</c><00:08:59.399><c> y</c><00:08:59.640><c> la</c>
+
+00:08:59.790 --> 00:08:59.800 align:start position:0%
+superen tope. Digamos que la prima y la
+ 
+
+00:08:59.800 --> 00:09:01.269 align:start position:0%
+superen tope. Digamos que la prima y la
+indemnización<00:09:00.440><c> aplica</c><00:09:00.720><c> en</c><00:09:00.800><c> casos</c><00:09:01.079><c> más</c>
+
+00:09:01.269 --> 00:09:01.279 align:start position:0%
+indemnización aplica en casos más
+ 
+
+00:09:01.279 --> 00:09:03.790 align:start position:0%
+indemnización aplica en casos más
+específicos.<00:09:02.560><c> Pero</c><00:09:02.760><c> entonces,</c><00:09:03.240><c> ¿qué</c><00:09:03.440><c> vamos</c><00:09:03.640><c> a</c>
+
+00:09:03.790 --> 00:09:03.800 align:start position:0%
+específicos. Pero entonces, ¿qué vamos a
+ 
+
+00:09:03.800 --> 00:09:05.710 align:start position:0%
+específicos. Pero entonces, ¿qué vamos a
+encontrar<00:09:04.160><c> en</c><00:09:04.320><c> estos</c><00:09:04.519><c> cuadros?</c><00:09:05.040><c> Un</c><00:09:05.160><c> subtotal</c>
+
+00:09:05.710 --> 00:09:05.720 align:start position:0%
+encontrar en estos cuadros? Un subtotal
+ 
+
+00:09:05.720 --> 00:09:07.790 align:start position:0%
+encontrar en estos cuadros? Un subtotal
+cuatro,<00:09:06.120><c> que</c><00:09:06.279><c> es</c><00:09:06.480><c> la</c><00:09:06.880><c> el</c><00:09:07.079><c> valor</c><00:09:07.320><c> base</c>
+
+00:09:07.790 --> 00:09:07.800 align:start position:0%
+cuatro, que es la el valor base
+ 
+
+00:09:07.800 --> 00:09:10.350 align:start position:0%
+cuatro, que es la el valor base
+expresado<00:09:08.200><c> en</c><00:09:08.360><c> pesos,</c><00:09:09.120><c> que</c><00:09:09.440><c> este</c><00:09:09.720><c> valor</c><00:09:10.040><c> base</c>
+
+00:09:10.350 --> 00:09:10.360 align:start position:0%
+expresado en pesos, que este valor base
+ 
+
+00:09:10.360 --> 00:09:13.150 align:start position:0%
+expresado en pesos, que este valor base
+sale<00:09:11.399><c> de</c><00:09:11.600><c> los</c><00:09:11.880><c> ingresos</c><00:09:12.680><c> menos</c><00:09:12.959><c> las</c>
+
+00:09:13.150 --> 00:09:13.160 align:start position:0%
+sale de los ingresos menos las
+ 
+
+00:09:13.160 --> 00:09:16.389 align:start position:0%
+sale de los ingresos menos las
+deducciones<00:09:13.640><c> y</c><00:09:13.760><c> rentas</c><00:09:14.200><c> exentas,</c><00:09:15.440><c> eh,</c><00:09:16.079><c> y</c><00:09:16.240><c> de</c>
+
+00:09:16.389 --> 00:09:16.399 align:start position:0%
+deducciones y rentas exentas, eh, y de
+ 
+
+00:09:16.399 --> 00:09:18.430 align:start position:0%
+deducciones y rentas exentas, eh, y de
+aquí<00:09:17.000><c> y</c><00:09:17.160><c> de</c><00:09:17.279><c> las</c><00:09:17.399><c> depuraciones</c><00:09:17.959><c> que</c><00:09:18.079><c> ha</c><00:09:18.320><c> ido</c>
+
+00:09:18.430 --> 00:09:18.440 align:start position:0%
+aquí y de las depuraciones que ha ido
+ 
+
+00:09:18.440 --> 00:09:20.190 align:start position:0%
+aquí y de las depuraciones que ha ido
+haciendo<00:09:18.720><c> la</c><00:09:18.880><c> fórmula.</c><00:09:19.399><c> Aquí</c><00:09:19.560><c> obtenemos</c><00:09:20.000><c> el</c>
+
+00:09:20.190 --> 00:09:20.200 align:start position:0%
+haciendo la fórmula. Aquí obtenemos el
+ 
+
+00:09:20.200 --> 00:09:23.030 align:start position:0%
+haciendo la fórmula. Aquí obtenemos el
+valor<00:09:20.519><c> base</c><00:09:21.600><c> final</c><00:09:22.200><c> sobre</c><00:09:22.399><c> el</c><00:09:22.519><c> cual</c><00:09:22.720><c> se</c><00:09:22.880><c> va</c><00:09:22.959><c> a</c>
+
+00:09:23.030 --> 00:09:23.040 align:start position:0%
+valor base final sobre el cual se va a
+ 
+
+00:09:23.040 --> 00:09:25.030 align:start position:0%
+valor base final sobre el cual se va a
+calcular<00:09:23.680><c> la</c><00:09:23.880><c> retención.</c><00:09:24.399><c> Es</c><00:09:24.440><c> decir,</c><00:09:24.720><c> a</c><00:09:24.839><c> pesar</c>
+
+00:09:25.030 --> 00:09:25.040 align:start position:0%
+calcular la retención. Es decir, a pesar
+ 
+
+00:09:25.040 --> 00:09:26.829 align:start position:0%
+calcular la retención. Es decir, a pesar
+de<00:09:25.160><c> que</c><00:09:25.240><c> el</c><00:09:25.360><c> empleado</c><00:09:25.720><c> puede</c><00:09:25.959><c> ganar</c><00:09:26.360><c> 19</c>
+
+00:09:26.829 --> 00:09:26.839 align:start position:0%
+de que el empleado puede ganar 19
+ 
+
+00:09:26.839 --> 00:09:29.430 align:start position:0%
+de que el empleado puede ganar 19
+millones,<00:09:27.560><c> la</c><00:09:27.760><c> base</c><00:09:28.000><c> no</c><00:09:28.120><c> son</c><00:09:28.320><c> 19</c><00:09:28.720><c> millones,</c>
+
+00:09:29.430 --> 00:09:29.440 align:start position:0%
+millones, la base no son 19 millones,
+ 
+
+00:09:29.440 --> 00:09:32.230 align:start position:0%
+millones, la base no son 19 millones,
+son<00:09:29.760><c> 10,681.</c>
+
+00:09:32.230 --> 00:09:32.240 align:start position:0%
+son 10,681.
+ 
+
+00:09:32.240 --> 00:09:34.829 align:start position:0%
+son 10,681.
+Este<00:09:32.440><c> valor</c><00:09:32.720><c> se</c><00:09:32.920><c> expresa</c><00:09:33.320><c> en</c><00:09:33.560><c> VTS</c><00:09:34.360><c> porque</c><00:09:34.640><c> como</c>
+
+00:09:34.829 --> 00:09:34.839 align:start position:0%
+Este valor se expresa en VTS porque como
+ 
+
+00:09:34.839 --> 00:09:37.430 align:start position:0%
+Este valor se expresa en VTS porque como
+lo<00:09:34.959><c> vimos</c><00:09:35.399><c> en</c><00:09:35.800><c> videos</c><00:09:36.079><c> anteriores,</c><00:09:36.920><c> se</c><00:09:37.079><c> debe</c>
+
+00:09:37.430 --> 00:09:37.440 align:start position:0%
+lo vimos en videos anteriores, se debe
+ 
+
+00:09:37.440 --> 00:09:40.389 align:start position:0%
+lo vimos en videos anteriores, se debe
+expresar<00:09:37.839><c> en</c><00:09:38.000><c> VTS</c><00:09:38.399><c> para</c><00:09:38.640><c> saber</c><00:09:39.040><c> en</c><00:09:39.279><c> qué</c><00:09:39.560><c> rango</c>
+
+00:09:40.389 --> 00:09:40.399 align:start position:0%
+expresar en VTS para saber en qué rango
+ 
+
+00:09:40.399 --> 00:09:43.430 align:start position:0%
+expresar en VTS para saber en qué rango
+del<00:09:40.680><c> salario</c><00:09:41.160><c> está</c><00:09:41.760><c> y</c><00:09:42.200><c> poder</c><00:09:42.480><c> aplicar</c><00:09:43.079><c> la</c>
+
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+del salario está y poder aplicar la
+ 
+
+00:09:43.440 --> 00:09:46.069 align:start position:0%
+del salario está y poder aplicar la
+fórmula<00:09:43.920><c> adecuada</c><00:09:44.560><c> para</c><00:09:44.760><c> la</c><00:09:45.000><c> retención</c><00:09:45.880><c> de</c>
+
+00:09:46.069 --> 00:09:46.079 align:start position:0%
+fórmula adecuada para la retención de
+ 
+
+00:09:46.079 --> 00:09:48.509 align:start position:0%
+fórmula adecuada para la retención de
+salarios,<00:09:46.640><c> porque</c><00:09:47.000><c> dependiendo</c><00:09:47.600><c> del</c><00:09:47.839><c> rango</c>
+
+00:09:48.509 --> 00:09:48.519 align:start position:0%
+salarios, porque dependiendo del rango
+ 
+
+00:09:48.519 --> 00:09:52.150 align:start position:0%
+salarios, porque dependiendo del rango
+va<00:09:48.680><c> a</c><00:09:48.760><c> ser</c><00:09:49.000><c> una</c><00:09:49.279><c> retención</c><00:09:49.800><c> superior</c><00:09:50.600><c> o</c><00:09:50.839><c> mayor.</c>
+
+00:09:52.150 --> 00:09:52.160 align:start position:0%
+va a ser una retención superior o mayor.
+ 
+
+00:09:52.160 --> 00:09:53.910 align:start position:0%
+va a ser una retención superior o mayor.
+Tenemos<00:09:52.640><c> el</c><00:09:52.839><c> valor</c><00:09:53.079><c> de</c><00:09:53.240><c> la</c><00:09:53.360><c> retención</c><00:09:53.760><c> por</c>
+
+00:09:53.910 --> 00:09:53.920 align:start position:0%
+Tenemos el valor de la retención por
+ 
+
+00:09:53.920 --> 00:09:56.110 align:start position:0%
+Tenemos el valor de la retención por
+concepto<00:09:54.279><c> de</c><00:09:54.399><c> salarios.</c><00:09:55.200><c> vemos</c><00:09:55.519><c> que</c><00:09:55.720><c> es</c><00:09:55.920><c> el</c>
+
+00:09:56.110 --> 00:09:56.120 align:start position:0%
+concepto de salarios. vemos que es el
+ 
+
+00:09:56.120 --> 00:09:58.350 align:start position:0%
+concepto de salarios. vemos que es el
+mismo<00:09:56.720><c> que</c><00:09:56.959><c> se</c><00:09:57.079><c> obtiene</c><00:09:57.600><c> en</c><00:09:57.800><c> el</c><00:09:57.959><c> pago</c><00:09:58.200><c> de</c>
+
+00:09:58.350 --> 00:09:58.360 align:start position:0%
+mismo que se obtiene en el pago de
+ 
+
+00:09:58.360 --> 00:10:02.030 align:start position:0%
+mismo que se obtiene en el pago de
+nómina<00:09:59.680><c> y</c><00:10:00.880><c> en</c><00:10:01.079><c> este</c><00:10:01.279><c> caso</c><00:10:01.480><c> no</c><00:10:01.680><c> tenemos</c>
+
+00:10:02.030 --> 00:10:02.040 align:start position:0%
+nómina y en este caso no tenemos
+ 
+
+00:10:02.040 --> 00:10:03.550 align:start position:0%
+nómina y en este caso no tenemos
+retención<00:10:02.560><c> por</c><00:10:02.839><c> prima</c><00:10:03.160><c> ni</c><00:10:03.360><c> por</c>
+
+00:10:03.550 --> 00:10:03.560 align:start position:0%
+retención por prima ni por
+ 
+
+00:10:03.560 --> 00:10:06.030 align:start position:0%
+retención por prima ni por
+indemnización,<00:10:04.760><c> pero</c><00:10:05.120><c> al</c><00:10:05.320><c> final</c><00:10:05.640><c> entonces</c>
+
+00:10:06.030 --> 00:10:06.040 align:start position:0%
+indemnización, pero al final entonces
+ 
+
+00:10:06.040 --> 00:10:07.949 align:start position:0%
+indemnización, pero al final entonces
+encontramos<00:10:06.720><c> un</c><00:10:07.000><c> total</c><00:10:07.399><c> general</c><00:10:07.800><c> de</c>
+
+00:10:07.949 --> 00:10:07.959 align:start position:0%
+encontramos un total general de
+ 
+
+00:10:07.959 --> 00:10:09.949 align:start position:0%
+encontramos un total general de
+retención<00:10:08.800><c> que</c><00:10:09.040><c> básicamente</c><00:10:09.680><c> ¿qué</c><00:10:09.800><c> va</c><00:10:09.880><c> a</c>
+
+00:10:09.949 --> 00:10:09.959 align:start position:0%
+retención que básicamente ¿qué va a
+ 
+
+00:10:09.959 --> 00:10:12.470 align:start position:0%
+retención que básicamente ¿qué va a
+hacer?<00:10:10.399><c> Sumar</c><00:10:10.839><c> la</c><00:10:11.040><c> retención</c><00:10:11.480><c> por</c><00:10:11.680><c> salarios,</c>
+
+00:10:12.470 --> 00:10:12.480 align:start position:0%
+hacer? Sumar la retención por salarios,
+ 
+
+00:10:12.480 --> 00:10:14.590 align:start position:0%
+hacer? Sumar la retención por salarios,
+por<00:10:12.760><c> prima</c><00:10:13.200><c> y</c><00:10:13.399><c> por</c><00:10:13.600><c> indemnizaciones</c><00:10:14.399><c> para</c>
+
+00:10:14.590 --> 00:10:14.600 align:start position:0%
+por prima y por indemnizaciones para
+ 
+
+00:10:14.600 --> 00:10:16.470 align:start position:0%
+por prima y por indemnizaciones para
+obtener<00:10:15.040><c> un</c><00:10:15.279><c> total</c><00:10:15.640><c> general</c><00:10:16.160><c> de</c><00:10:16.360><c> la</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+obtener un total general de la
+ 
+
+00:10:16.480 --> 00:10:18.389 align:start position:0%
+obtener un total general de la
+retención.<00:10:17.320><c> Tenemos</c><00:10:17.600><c> un</c><00:10:17.760><c> mensajito</c><00:10:18.200><c> también</c>
+
+00:10:18.389 --> 00:10:18.399 align:start position:0%
+retención. Tenemos un mensajito también
+ 
+
+00:10:18.399 --> 00:10:20.030 align:start position:0%
+retención. Tenemos un mensajito también
+al<00:10:18.560><c> final</c><00:10:18.760><c> que</c><00:10:18.880><c> nos</c><00:10:19.040><c> dice</c><00:10:19.240><c> que</c><00:10:19.399><c> este</c><00:10:19.600><c> cálculo</c>
+
+00:10:20.030 --> 00:10:20.040 align:start position:0%
+al final que nos dice que este cálculo
+ 
+
+00:10:20.040 --> 00:10:21.750 align:start position:0%
+al final que nos dice que este cálculo
+es<00:10:20.240><c> solo</c><00:10:20.440><c> una</c><00:10:20.640><c> referencia.</c><00:10:21.399><c> Como</c><00:10:21.600><c> les</c>
+
+00:10:21.750 --> 00:10:21.760 align:start position:0%
+es solo una referencia. Como les
+ 
+
+00:10:21.760 --> 00:10:24.430 align:start position:0%
+es solo una referencia. Como les
+mencionaba<00:10:22.279><c> anteriormente,</c><00:10:23.000><c> también</c><00:10:23.839><c> eh</c><00:10:24.160><c> es</c>
+
+00:10:24.430 --> 00:10:24.440 align:start position:0%
+mencionaba anteriormente, también eh es
+ 
+
+00:10:24.440 --> 00:10:26.389 align:start position:0%
+mencionaba anteriormente, también eh es
+importante<00:10:24.800><c> que</c><00:10:24.959><c> tengamos</c><00:10:25.279><c> en</c><00:10:25.440><c> cuenta</c><00:10:26.040><c> que</c>
+
+00:10:26.389 --> 00:10:26.399 align:start position:0%
+importante que tengamos en cuenta que
+ 
+
+00:10:26.399 --> 00:10:28.470 align:start position:0%
+importante que tengamos en cuenta que
+esta<00:10:26.600><c> es</c><00:10:26.920><c> una</c><00:10:27.200><c> ayuda</c><00:10:27.640><c> para</c><00:10:27.920><c> orientar</c><00:10:28.320><c> a</c>
+
+00:10:28.470 --> 00:10:28.480 align:start position:0%
+esta es una ayuda para orientar a
+ 
+
+00:10:28.480 --> 00:10:31.389 align:start position:0%
+esta es una ayuda para orientar a
+nuestros<00:10:28.800><c> usuarios</c><00:10:29.519><c> de</c><00:10:29.760><c> cómo</c><00:10:30.120><c> Contapure</c><00:10:31.200><c> eh</c>
+
+00:10:31.389 --> 00:10:31.399 align:start position:0%
+nuestros usuarios de cómo Contapure eh
+ 
+
+00:10:31.399 --> 00:10:34.230 align:start position:0%
+nuestros usuarios de cómo Contapure eh
+llega<00:10:31.880><c> a</c><00:10:32.079><c> esos</c><00:10:32.440><c> valores</c><00:10:33.040><c> y</c><00:10:33.279><c> qué</c><00:10:33.519><c> conceptos</c><00:10:34.000><c> va</c>
+
+00:10:34.230 --> 00:10:34.240 align:start position:0%
+llega a esos valores y qué conceptos va
+ 
+
+00:10:34.240 --> 00:10:37.389 align:start position:0%
+llega a esos valores y qué conceptos va
+utilizando<00:10:35.040><c> para</c><00:10:35.320><c> ir</c><00:10:35.519><c> depurando</c><00:10:36.519><c> eh</c><00:10:37.120><c> este</c>
+
+00:10:37.389 --> 00:10:37.399 align:start position:0%
+utilizando para ir depurando eh este
+ 
+
+00:10:37.399 --> 00:10:39.310 align:start position:0%
+utilizando para ir depurando eh este
+concepto.<00:10:38.200><c> Espero</c><00:10:38.440><c> que</c><00:10:38.560><c> esta</c><00:10:38.800><c> información</c>
+
+00:10:39.310 --> 00:10:39.320 align:start position:0%
+concepto. Espero que esta información
+ 
+
+00:10:39.320 --> 00:10:41.069 align:start position:0%
+concepto. Espero que esta información
+haya<00:10:39.560><c> sido</c><00:10:39.760><c> de</c><00:10:39.920><c> mucha</c><00:10:40.120><c> utilidad</c><00:10:40.560><c> para</c><00:10:40.760><c> todos</c>
+
+00:10:41.069 --> 00:10:41.079 align:start position:0%
+haya sido de mucha utilidad para todos
+ 
+
+00:10:41.079 --> 00:10:46.360 align:start position:0%
+haya sido de mucha utilidad para todos
+ustedes.<00:10:41.839><c> Que</c><00:10:41.959><c> tengan</c><00:10:42.519><c> un</c><00:10:42.800><c> excelente</c><00:10:43.360><c> día.</c>
+

@@ -1,0 +1,2592 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.120 --> 00:00:03.510 align:start position:0%
+ 
+Facturación<00:00:01.680><c> electrónica</c><00:00:02.240><c> con</c><00:00:02.440><c> envío</c><00:00:02.760><c> de</c>
+
+00:00:03.510 --> 00:00:03.520 align:start position:0%
+Facturación electrónica con envío de
+ 
+
+00:00:03.520 --> 00:00:06.150 align:start position:0%
+Facturación electrónica con envío de
+email.<00:00:04.520><c> Miremos</c><00:00:04.799><c> un</c><00:00:04.960><c> ejemplo</c><00:00:05.319><c> de</c><00:00:05.520><c> lo</c><00:00:05.680><c> que</c><00:00:05.960><c> es</c>
+
+00:00:06.150 --> 00:00:06.160 align:start position:0%
+email. Miremos un ejemplo de lo que es
+ 
+
+00:00:06.160 --> 00:00:07.909 align:start position:0%
+email. Miremos un ejemplo de lo que es
+la<00:00:06.319><c> facturación</c><00:00:06.839><c> electrónica</c><00:00:07.399><c> y</c><00:00:07.600><c> cómo</c><00:00:07.759><c> se</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+la facturación electrónica y cómo se
+ 
+
+00:00:07.919 --> 00:00:11.749 align:start position:0%
+la facturación electrónica y cómo se
+hace<00:00:08.160><c> el</c><00:00:08.360><c> envío</c><00:00:09.320><c> del</c><00:00:09.679><c> email</c><00:00:10.000><c> al</c><00:00:10.759><c> adquiriente.</c>
+
+00:00:11.749 --> 00:00:11.759 align:start position:0%
+hace el envío del email al adquiriente.
+ 
+
+00:00:11.759 --> 00:00:14.110 align:start position:0%
+hace el envío del email al adquiriente.
+Supongamos<00:00:12.440><c> tenemos</c><00:00:12.799><c> una</c><00:00:13.000><c> empresa,</c><00:00:13.920><c> dentro</c>
+
+00:00:14.110 --> 00:00:14.120 align:start position:0%
+Supongamos tenemos una empresa, dentro
+ 
+
+00:00:14.120 --> 00:00:16.029 align:start position:0%
+Supongamos tenemos una empresa, dentro
+de<00:00:14.240><c> esta</c><00:00:14.400><c> empresa</c><00:00:14.719><c> está</c><00:00:14.920><c> un</c><00:00:15.040><c> vendedor</c><00:00:15.559><c> y</c><00:00:15.759><c> hay</c>
+
+00:00:16.029 --> 00:00:16.039 align:start position:0%
+de esta empresa está un vendedor y hay
+ 
+
+00:00:16.039 --> 00:00:18.590 align:start position:0%
+de esta empresa está un vendedor y hay
+un<00:00:16.279><c> cliente</c><00:00:17.160><c> y</c><00:00:17.320><c> hay</c><00:00:17.439><c> un</c><00:00:17.600><c> proceso</c><00:00:17.960><c> comercial</c><00:00:18.400><c> de</c>
+
+00:00:18.590 --> 00:00:18.600 align:start position:0%
+un cliente y hay un proceso comercial de
+ 
+
+00:00:18.600 --> 00:00:21.590 align:start position:0%
+un cliente y hay un proceso comercial de
+una<00:00:19.199><c> venta.</c><00:00:20.199><c> Dicho</c><00:00:20.560><c> proceso</c><00:00:20.920><c> comercial</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+una venta. Dicho proceso comercial
+ 
+
+00:00:21.600 --> 00:00:24.189 align:start position:0%
+una venta. Dicho proceso comercial
+implica<00:00:22.039><c> varias</c><00:00:22.640><c> acciones.</c><00:00:23.640><c> Una</c><00:00:23.840><c> es</c><00:00:24.039><c> que</c>
+
+00:00:24.189 --> 00:00:24.199 align:start position:0%
+implica varias acciones. Una es que
+ 
+
+00:00:24.199 --> 00:00:26.150 align:start position:0%
+implica varias acciones. Una es que
+cuando<00:00:24.400><c> se</c><00:00:24.560><c> hace</c><00:00:24.760><c> la</c><00:00:24.920><c> venta</c><00:00:25.720><c> hay</c><00:00:25.920><c> que</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+cuando se hace la venta hay que
+ 
+
+00:00:26.160 --> 00:00:30.189 align:start position:0%
+cuando se hace la venta hay que
+notificar<00:00:26.760><c> a</c><00:00:26.880><c> la</c><00:00:27.400><c> Dian</c><00:00:28.400><c> el</c><00:00:28.560><c> archivo</c><00:00:28.960><c> XML.</c><00:00:29.960><c> para</c>
+
+00:00:30.189 --> 00:00:30.199 align:start position:0%
+notificar a la Dian el archivo XML. para
+ 
+
+00:00:30.199 --> 00:00:34.030 align:start position:0%
+notificar a la Dian el archivo XML. para
+que<00:00:30.480><c> la</c><00:00:30.640><c> dian</c><00:00:31.199><c> lo</c><00:00:31.599><c> valide.</c><00:00:32.599><c> Y</c><00:00:32.759><c> una</c><00:00:32.960><c> vez</c><00:00:33.239><c> está</c>
+
+00:00:34.030 --> 00:00:34.040 align:start position:0%
+que la dian lo valide. Y una vez está
+ 
+
+00:00:34.040 --> 00:00:36.910 align:start position:0%
+que la dian lo valide. Y una vez está
+validado<00:00:34.680><c> y</c><00:00:34.920><c> está</c><00:00:35.200><c> autorizado,</c><00:00:36.200><c> se</c><00:00:36.480><c> procede</c>
+
+00:00:36.910 --> 00:00:36.920 align:start position:0%
+validado y está autorizado, se procede
+ 
+
+00:00:36.920 --> 00:00:40.910 align:start position:0%
+validado y está autorizado, se procede
+entonces<00:00:37.680><c> a</c><00:00:38.480><c> emitir</c><00:00:39.320><c> un</c><00:00:39.559><c> correo</c><00:00:40.039><c> electrónico</c>
+
+00:00:40.910 --> 00:00:40.920 align:start position:0%
+entonces a emitir un correo electrónico
+ 
+
+00:00:40.920 --> 00:00:43.990 align:start position:0%
+entonces a emitir un correo electrónico
+de<00:00:41.160><c> parte</c><00:00:41.440><c> del</c><00:00:41.719><c> facturador</c><00:00:42.520><c> al</c><00:00:43.000><c> adquiriente.</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+de parte del facturador al adquiriente.
+ 
+
+00:00:44.000 --> 00:00:46.150 align:start position:0%
+de parte del facturador al adquiriente.
+Ese<00:00:44.239><c> correo</c><00:00:44.559><c> electrónico,</c><00:00:45.079><c> ¿qué</c><00:00:45.239><c> debe</c><00:00:45.480><c> tener?</c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+Ese correo electrónico, ¿qué debe tener?
+ 
+
+00:00:46.160 --> 00:00:48.510 align:start position:0%
+Ese correo electrónico, ¿qué debe tener?
+debe<00:00:46.520><c> tener</c><00:00:46.800><c> un</c><00:00:47.000><c> archivo</c><00:00:47.760><c> que</c><00:00:48.000><c> está</c>
+
+00:00:48.510 --> 00:00:48.520 align:start position:0%
+debe tener un archivo que está
+ 
+
+00:00:48.520 --> 00:00:50.790 align:start position:0%
+debe tener un archivo que está
+comprimido<00:00:49.039><c> en</c><00:00:49.199><c> formato</c><00:00:49.640><c> punto</c><00:00:49.879><c> zip</c><00:00:50.399><c> y</c><00:00:50.600><c> dentro</c>
+
+00:00:50.790 --> 00:00:50.800 align:start position:0%
+comprimido en formato punto zip y dentro
+ 
+
+00:00:50.800 --> 00:00:54.590 align:start position:0%
+comprimido en formato punto zip y dentro
+de<00:00:50.920><c> ese</c><00:00:51.120><c> archivo</c><00:00:52.120><c> está</c><00:00:52.680><c> tanto</c><00:00:53.280><c> el</c><00:00:53.719><c> XML</c><00:00:54.320><c> de</c><00:00:54.480><c> la</c>
+
+00:00:54.590 --> 00:00:54.600 align:start position:0%
+de ese archivo está tanto el XML de la
+ 
+
+00:00:54.600 --> 00:00:57.510 align:start position:0%
+de ese archivo está tanto el XML de la
+factura<00:00:55.000><c> electrónica</c><00:00:56.000><c> validado</c><00:00:56.440><c> por</c><00:00:56.640><c> la</c><00:00:56.760><c> Dian</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+factura electrónica validado por la Dian
+ 
+
+00:00:57.520 --> 00:00:59.590 align:start position:0%
+factura electrónica validado por la Dian
+como<00:00:58.039><c> la</c><00:00:58.320><c> representación</c><00:00:59.000><c> gráfica</c><00:00:59.440><c> que</c>
+
+00:00:59.590 --> 00:00:59.600 align:start position:0%
+como la representación gráfica que
+ 
+
+00:00:59.600 --> 00:01:01.990 align:start position:0%
+como la representación gráfica que
+comúnmente<00:01:00.120><c> es</c><00:01:00.320><c> un</c><00:01:00.440><c> archivo</c>
+
+00:01:01.990 --> 00:01:02.000 align:start position:0%
+comúnmente es un archivo
+ 
+
+00:01:02.000 --> 00:01:04.590 align:start position:0%
+comúnmente es un archivo
+PDF.<00:01:03.000><c> Pero</c><00:01:03.199><c> entonces</c>
+
+00:01:04.590 --> 00:01:04.600 align:start position:0%
+PDF. Pero entonces
+ 
+
+00:01:04.600 --> 00:01:07.270 align:start position:0%
+PDF. Pero entonces
+recordemos<00:01:05.600><c> la</c><00:01:05.840><c> acción</c><00:01:06.200><c> de</c><00:01:06.360><c> envío</c><00:01:06.640><c> de</c><00:01:06.840><c> email</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+recordemos la acción de envío de email
+ 
+
+00:01:07.280 --> 00:01:09.870 align:start position:0%
+recordemos la acción de envío de email
+de<00:01:07.439><c> documento</c><00:01:07.920><c> electrónico</c><00:01:08.520><c> para</c><00:01:08.880><c> validación</c>
+
+00:01:09.870 --> 00:01:09.880 align:start position:0%
+de documento electrónico para validación
+ 
+
+00:01:09.880 --> 00:01:11.830 align:start position:0%
+de documento electrónico para validación
+es<00:01:10.080><c> la</c><00:01:10.200><c> que</c><00:01:10.320><c> se</c><00:01:10.560><c> tiene</c><00:01:10.759><c> que</c><00:01:10.880><c> entregar</c><00:01:11.600><c> al</c>
+
+00:01:11.830 --> 00:01:11.840 align:start position:0%
+es la que se tiene que entregar al
+ 
+
+00:01:11.840 --> 00:01:13.670 align:start position:0%
+es la que se tiene que entregar al
+proveedor<00:01:12.240><c> tecnológico</c><00:01:12.799><c> y</c><00:01:12.960><c> este</c><00:01:13.119><c> a</c><00:01:13.240><c> su</c><00:01:13.320><c> vez</c><00:01:13.560><c> a</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+proveedor tecnológico y este a su vez a
+ 
+
+00:01:13.680 --> 00:01:16.550 align:start position:0%
+proveedor tecnológico y este a su vez a
+la<00:01:13.840><c> Dian</c><00:01:14.119><c> para</c><00:01:14.320><c> que</c><00:01:14.479><c> la</c><00:01:14.600><c> Dian</c><00:01:14.799><c> lo</c><00:01:14.920><c> valide.</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+la Dian para que la Dian lo valide.
+ 
+
+00:01:16.560 --> 00:01:20.149 align:start position:0%
+la Dian para que la Dian lo valide.
+y<00:01:16.759><c> la</c><00:01:17.080><c> acción</c><00:01:17.960><c> de</c><00:01:18.320><c> envío</c><00:01:18.680><c> de</c><00:01:18.960><c> email</c><00:01:19.360><c> automático</c>
+
+00:01:20.149 --> 00:01:20.159 align:start position:0%
+y la acción de envío de email automático
+ 
+
+00:01:20.159 --> 00:01:24.789 align:start position:0%
+y la acción de envío de email automático
+al<00:01:20.479><c> cliente</c><00:01:21.439><c> donde</c><00:01:21.759><c> llega</c><00:01:22.720><c> el</c><00:01:22.960><c> correo</c><00:01:23.960><c> con</c><00:01:24.479><c> la</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+al cliente donde llega el correo con la
+ 
+
+00:01:24.799 --> 00:01:27.830 align:start position:0%
+al cliente donde llega el correo con la
+representación<00:01:25.520><c> gráfica</c><00:01:26.000><c> y</c><00:01:26.200><c> con</c><00:01:26.320><c> el</c><00:01:26.479><c> archivo</c>
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+representación gráfica y con el archivo
+ 
+
+00:01:27.840 --> 00:01:31.230 align:start position:0%
+representación gráfica y con el archivo
+XML<00:01:28.840><c> se</c><00:01:29.400><c> configuran</c><00:01:30.400><c> en</c><00:01:30.600><c> el</c><00:01:30.799><c> tipo</c><00:01:31.079><c> de</c>
+
+00:01:31.230 --> 00:01:31.240 align:start position:0%
+XML se configuran en el tipo de
+ 
+
+00:01:31.240 --> 00:01:34.429 align:start position:0%
+XML se configuran en el tipo de
+documento<00:01:31.759><c> de</c><00:01:31.960><c> soporte.</c>
+
+00:01:34.429 --> 00:01:34.439 align:start position:0%
+documento de soporte.
+ 
+
+00:01:34.439 --> 00:01:36.230 align:start position:0%
+documento de soporte.
+Entonces,<00:01:34.920><c> miremos</c><00:01:35.520><c> como</c><00:01:35.720><c> dentro</c><00:01:36.000><c> del</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+Entonces, miremos como dentro del
+ 
+
+00:01:36.240 --> 00:01:39.550 align:start position:0%
+Entonces, miremos como dentro del
+sistema<00:01:36.680><c> contapime</c><00:01:37.520><c> se</c><00:01:37.759><c> puede</c><00:01:38.079><c> hacer</c><00:01:39.040><c> esta</c>
+
+00:01:39.550 --> 00:01:39.560 align:start position:0%
+sistema contapime se puede hacer esta
+ 
+
+00:01:39.560 --> 00:01:42.310 align:start position:0%
+sistema contapime se puede hacer esta
+configuración<00:01:40.560><c> y</c><00:01:40.920><c> cómo</c><00:01:41.240><c> automáticamente</c><00:01:42.159><c> a</c>
+
+00:01:42.310 --> 00:01:42.320 align:start position:0%
+configuración y cómo automáticamente a
+ 
+
+00:01:42.320 --> 00:01:44.230 align:start position:0%
+configuración y cómo automáticamente a
+través<00:01:42.520><c> del</c><00:01:42.799><c> sistema</c><00:01:43.479><c> se</c><00:01:43.680><c> hace</c><00:01:43.960><c> la</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+través del sistema se hace la
+ 
+
+00:01:44.240 --> 00:01:46.469 align:start position:0%
+través del sistema se hace la
+notificación<00:01:45.119><c> para</c><00:01:45.280><c> que</c><00:01:45.439><c> la</c><00:01:45.560><c> Dian</c><00:01:45.840><c> valide</c><00:01:46.320><c> el</c>
+
+00:01:46.469 --> 00:01:46.479 align:start position:0%
+notificación para que la Dian valide el
+ 
+
+00:01:46.479 --> 00:01:49.230 align:start position:0%
+notificación para que la Dian valide el
+documento<00:01:46.960><c> electrónico</c><00:01:47.719><c> y</c><00:01:47.960><c> a</c><00:01:48.119><c> su</c><00:01:48.240><c> vez</c><00:01:48.479><c> también</c>
+
+00:01:49.230 --> 00:01:49.240 align:start position:0%
+documento electrónico y a su vez también
+ 
+
+00:01:49.240 --> 00:01:52.069 align:start position:0%
+documento electrónico y a su vez también
+se<00:01:49.520><c> envía</c><00:01:50.079><c> al</c><00:01:50.280><c> adquiriente</c><00:01:50.920><c> final</c><00:01:51.520><c> el</c><00:01:51.759><c> correo</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+se envía al adquiriente final el correo
+ 
+
+00:01:52.079 --> 00:01:53.550 align:start position:0%
+se envía al adquiriente final el correo
+electrónico<00:01:52.600><c> con</c><00:01:52.759><c> la</c><00:01:52.920><c> información</c><00:01:53.320><c> ya</c>
+
+00:01:53.550 --> 00:01:53.560 align:start position:0%
+electrónico con la información ya
+ 
+
+00:01:53.560 --> 00:01:55.069 align:start position:0%
+electrónico con la información ya
+validada.
+
+00:01:55.069 --> 00:01:55.079 align:start position:0%
+validada.
+ 
+
+00:01:55.079 --> 00:01:56.590 align:start position:0%
+validada.
+Estamos<00:01:55.439><c> ubicados</c><00:01:55.759><c> dentro</c><00:01:55.960><c> del</c><00:01:56.200><c> sistema</c>
+
+00:01:56.590 --> 00:01:56.600 align:start position:0%
+Estamos ubicados dentro del sistema
+ 
+
+00:01:56.600 --> 00:01:58.510 align:start position:0%
+Estamos ubicados dentro del sistema
+Contapyme.<00:01:57.600><c> Vamos</c><00:01:57.799><c> a</c>
+
+00:01:58.510 --> 00:01:58.520 align:start position:0%
+Contapyme. Vamos a
+ 
+
+00:01:58.520 --> 00:02:01.789 align:start position:0%
+Contapyme. Vamos a
+entrar<00:01:59.520><c> al</c><00:01:59.759><c> manejador</c><00:02:00.240><c> de</c><00:02:00.600><c> operaciones</c><00:02:01.600><c> y</c>
+
+00:02:01.789 --> 00:02:01.799 align:start position:0%
+entrar al manejador de operaciones y
+ 
+
+00:02:01.799 --> 00:02:04.670 align:start position:0%
+entrar al manejador de operaciones y
+emitamos<00:02:02.479><c> una</c><00:02:02.799><c> factura</c><00:02:03.240><c> de</c><00:02:03.680><c> venta.</c>
+
+00:02:04.670 --> 00:02:04.680 align:start position:0%
+emitamos una factura de venta.
+ 
+
+00:02:04.680 --> 00:02:06.950 align:start position:0%
+emitamos una factura de venta.
+Simplemente<00:02:05.240><c> allí</c><00:02:05.479><c> tenemos</c><00:02:05.799><c> seleccionado</c><00:02:06.759><c> un</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+Simplemente allí tenemos seleccionado un
+ 
+
+00:02:06.960 --> 00:02:09.589 align:start position:0%
+Simplemente allí tenemos seleccionado un
+documento<00:02:07.719><c> de</c><00:02:07.960><c> soporte.</c><00:02:08.840><c> En</c><00:02:09.000><c> este</c><00:02:09.200><c> caso</c><00:02:09.399><c> estoy</c>
+
+00:02:09.589 --> 00:02:09.599 align:start position:0%
+documento de soporte. En este caso estoy
+ 
+
+00:02:09.599 --> 00:02:12.190 align:start position:0%
+documento de soporte. En este caso estoy
+señalando<00:02:10.119><c> el</c><00:02:10.319><c> código</c><00:02:10.879><c> 1010.</c><00:02:11.879><c> Dicho</c>
+
+00:02:12.190 --> 00:02:12.200 align:start position:0%
+señalando el código 1010. Dicho
+ 
+
+00:02:12.200 --> 00:02:13.750 align:start position:0%
+señalando el código 1010. Dicho
+documento<00:02:12.640><c> de</c><00:02:12.840><c> soporte</c><00:02:13.280><c> tiene</c><00:02:13.520><c> una</c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+documento de soporte tiene una
+ 
+
+00:02:13.760 --> 00:02:15.750 align:start position:0%
+documento de soporte tiene una
+configuración.<00:02:14.920><c> Si</c><00:02:15.080><c> le</c><00:02:15.239><c> decimos,</c><00:02:15.599><c> por</c>
+
+00:02:15.750 --> 00:02:15.760 align:start position:0%
+configuración. Si le decimos, por
+ 
+
+00:02:15.760 --> 00:02:18.270 align:start position:0%
+configuración. Si le decimos, por
+ejemplo,<00:02:16.040><c> desde</c><00:02:16.319><c> acá</c><00:02:16.680><c> modificar</c><00:02:17.400><c> o</c>
+
+00:02:18.270 --> 00:02:18.280 align:start position:0%
+ejemplo, desde acá modificar o
+ 
+
+00:02:18.280 --> 00:02:21.550 align:start position:0%
+ejemplo, desde acá modificar o
+visualizar,<00:02:19.280><c> podremos</c><00:02:19.840><c> encontrar</c><00:02:20.720><c> que</c><00:02:21.319><c> el</c>
+
+00:02:21.550 --> 00:02:21.560 align:start position:0%
+visualizar, podremos encontrar que el
+ 
+
+00:02:21.560 --> 00:02:23.470 align:start position:0%
+visualizar, podremos encontrar que el
+documento<00:02:22.080><c> de</c><00:02:22.319><c> soporte</c><00:02:23.120><c> que</c><00:02:23.239><c> está</c>
+
+00:02:23.470 --> 00:02:23.480 align:start position:0%
+documento de soporte que está
+ 
+
+00:02:23.480 --> 00:02:25.350 align:start position:0%
+documento de soporte que está
+configurado<00:02:24.040><c> para</c><00:02:24.239><c> la</c><00:02:24.400><c> empresa,</c><00:02:24.920><c> que</c><00:02:25.080><c> ya</c><00:02:25.239><c> está</c>
+
+00:02:25.350 --> 00:02:25.360 align:start position:0%
+configurado para la empresa, que ya está
+ 
+
+00:02:25.360 --> 00:02:27.869 align:start position:0%
+configurado para la empresa, que ya está
+autorizada<00:02:25.920><c> como</c><00:02:26.160><c> facturador</c><00:02:26.879><c> electrónico,</c>
+
+00:02:27.869 --> 00:02:27.879 align:start position:0%
+autorizada como facturador electrónico,
+ 
+
+00:02:27.879 --> 00:02:29.229 align:start position:0%
+autorizada como facturador electrónico,
+tiene<00:02:28.120><c> una</c><00:02:28.280><c> serie</c><00:02:28.480><c> de</c>
+
+00:02:29.229 --> 00:02:29.239 align:start position:0%
+tiene una serie de
+ 
+
+00:02:29.239 --> 00:02:30.630 align:start position:0%
+tiene una serie de
+configuraciones.<00:02:30.239><c> La</c><00:02:30.360><c> primera</c>
+
+00:02:30.630 --> 00:02:30.640 align:start position:0%
+configuraciones. La primera
+ 
+
+00:02:30.640 --> 00:02:32.670 align:start position:0%
+configuraciones. La primera
+configuración<00:02:31.239><c> y</c><00:02:31.440><c> muy</c><00:02:31.680><c> importante</c><00:02:32.200><c> es</c><00:02:32.400><c> que</c>
+
+00:02:32.670 --> 00:02:32.680 align:start position:0%
+configuración y muy importante es que
+ 
+
+00:02:32.680 --> 00:02:35.630 align:start position:0%
+configuración y muy importante es que
+hace<00:02:33.000><c> parte</c><00:02:33.280><c> de</c><00:02:33.480><c> factura</c><00:02:34.120><c> electrónica.</c>
+
+00:02:35.630 --> 00:02:35.640 align:start position:0%
+hace parte de factura electrónica.
+ 
+
+00:02:35.640 --> 00:02:36.990 align:start position:0%
+hace parte de factura electrónica.
+Al<00:02:35.840><c> hacer</c><00:02:36.080><c> parte</c><00:02:36.319><c> de</c><00:02:36.480><c> facturación</c>
+
+00:02:36.990 --> 00:02:37.000 align:start position:0%
+Al hacer parte de facturación
+ 
+
+00:02:37.000 --> 00:02:39.270 align:start position:0%
+Al hacer parte de facturación
+electrónica,<00:02:37.800><c> prender</c><00:02:38.120><c> este</c><00:02:38.319><c> chulito,</c><00:02:39.040><c> se</c>
+
+00:02:39.270 --> 00:02:39.280 align:start position:0%
+electrónica, prender este chulito, se
+ 
+
+00:02:39.280 --> 00:02:41.550 align:start position:0%
+electrónica, prender este chulito, se
+activa<00:02:39.680><c> esta</c><00:02:40.120><c> opción</c><00:02:40.480><c> de</c><00:02:40.920><c> facturación</c>
+
+00:02:41.550 --> 00:02:41.560 align:start position:0%
+activa esta opción de facturación
+ 
+
+00:02:41.560 --> 00:02:43.670 align:start position:0%
+activa esta opción de facturación
+electrónica<00:02:42.519><c> y</c><00:02:42.680><c> es</c><00:02:42.840><c> aquí</c><00:02:43.120><c> donde</c><00:02:43.319><c> vamos</c><00:02:43.519><c> a</c>
+
+00:02:43.670 --> 00:02:43.680 align:start position:0%
+electrónica y es aquí donde vamos a
+ 
+
+00:02:43.680 --> 00:02:45.670 align:start position:0%
+electrónica y es aquí donde vamos a
+seleccionar<00:02:44.360><c> al</c><00:02:44.599><c> proveedor</c><00:02:45.000><c> tecnológico</c><00:02:45.519><c> con</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+seleccionar al proveedor tecnológico con
+ 
+
+00:02:45.680 --> 00:02:47.110 align:start position:0%
+seleccionar al proveedor tecnológico con
+el<00:02:45.800><c> cual</c><00:02:46.000><c> vamos</c><00:02:46.200><c> a</c><00:02:46.319><c> hacer</c><00:02:46.440><c> el</c><00:02:46.560><c> envío</c><00:02:46.920><c> del</c>
+
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+el cual vamos a hacer el envío del
+ 
+
+00:02:47.120 --> 00:02:49.509 align:start position:0%
+el cual vamos a hacer el envío del
+documento<00:02:47.680><c> electrónico.</c><00:02:48.680><c> Y</c><00:02:48.840><c> también</c><00:02:49.159><c> vamos</c><00:02:49.360><c> a</c>
+
+00:02:49.509 --> 00:02:49.519 align:start position:0%
+documento electrónico. Y también vamos a
+ 
+
+00:02:49.519 --> 00:02:52.190 align:start position:0%
+documento electrónico. Y también vamos a
+indicar<00:02:50.200><c> qué</c><00:02:50.400><c> tipo</c><00:02:50.640><c> de</c><00:02:50.840><c> documento</c><00:02:51.319><c> es,</c><00:02:51.879><c> porque</c>
+
+00:02:52.190 --> 00:02:52.200 align:start position:0%
+indicar qué tipo de documento es, porque
+ 
+
+00:02:52.200 --> 00:02:54.030 align:start position:0%
+indicar qué tipo de documento es, porque
+recordemos<00:02:52.760><c> que</c><00:02:52.920><c> a</c><00:02:53.080><c> nivel</c><00:02:53.280><c> de</c><00:02:53.480><c> documentos</c>
+
+00:02:54.030 --> 00:02:54.040 align:start position:0%
+recordemos que a nivel de documentos
+ 
+
+00:02:54.040 --> 00:02:56.430 align:start position:0%
+recordemos que a nivel de documentos
+electrónicos,<00:02:54.879><c> bien</c><00:02:55.120><c> podemos</c><00:02:55.599><c> enviar</c><00:02:56.080><c> una</c>
+
+00:02:56.430 --> 00:02:56.440 align:start position:0%
+electrónicos, bien podemos enviar una
+ 
+
+00:02:56.440 --> 00:02:58.949 align:start position:0%
+electrónicos, bien podemos enviar una
+factura<00:02:56.879><c> electrónica,</c><00:02:57.840><c> una</c><00:02:58.040><c> nota</c><00:02:58.400><c> crédito,</c>
+
+00:02:58.949 --> 00:02:58.959 align:start position:0%
+factura electrónica, una nota crédito,
+ 
+
+00:02:58.959 --> 00:03:01.589 align:start position:0%
+factura electrónica, una nota crédito,
+una<00:02:59.159><c> nota</c><00:02:59.440><c> débito</c><00:03:00.080><c> o</c><00:03:00.280><c> documento</c><00:03:00.800><c> de</c><00:03:01.000><c> soporte</c><00:03:01.440><c> o</c>
+
+00:03:01.589 --> 00:03:01.599 align:start position:0%
+una nota débito o documento de soporte o
+ 
+
+00:03:01.599 --> 00:03:03.830 align:start position:0%
+una nota débito o documento de soporte o
+su<00:03:01.760><c> nota</c><00:03:01.959><c> de</c><00:03:02.120><c> ajuste.</c><00:03:02.959><c> Para</c><00:03:03.159><c> nómina</c><00:03:03.560><c> también</c>
+
+00:03:03.830 --> 00:03:03.840 align:start position:0%
+su nota de ajuste. Para nómina también
+ 
+
+00:03:03.840 --> 00:03:05.630 align:start position:0%
+su nota de ajuste. Para nómina también
+hay<00:03:04.080><c> un</c><00:03:04.200><c> tipo</c><00:03:04.400><c> de</c><00:03:04.560><c> documento</c><00:03:05.000><c> de</c><00:03:05.159><c> soporte</c>
+
+00:03:05.630 --> 00:03:05.640 align:start position:0%
+hay un tipo de documento de soporte
+ 
+
+00:03:05.640 --> 00:03:07.430 align:start position:0%
+hay un tipo de documento de soporte
+especial.<00:03:06.400><c> Para</c><00:03:06.599><c> los</c><00:03:06.760><c> comprobantes</c><00:03:07.280><c> de</c>
+
+00:03:07.430 --> 00:03:07.440 align:start position:0%
+especial. Para los comprobantes de
+ 
+
+00:03:07.440 --> 00:03:10.149 align:start position:0%
+especial. Para los comprobantes de
+ajuste<00:03:07.720><c> de</c><00:03:07.840><c> nómina</c><00:03:08.519><c> también.</c><00:03:09.519><c> En</c><00:03:09.640><c> este</c><00:03:09.879><c> caso</c>
+
+00:03:10.149 --> 00:03:10.159 align:start position:0%
+ajuste de nómina también. En este caso
+ 
+
+00:03:10.159 --> 00:03:11.990 align:start position:0%
+ajuste de nómina también. En este caso
+estamos<00:03:10.720><c> configurando</c><00:03:11.360><c> una</c><00:03:11.599><c> factura</c>
+
+00:03:11.990 --> 00:03:12.000 align:start position:0%
+estamos configurando una factura
+ 
+
+00:03:12.000 --> 00:03:15.190 align:start position:0%
+estamos configurando una factura
+electrónica<00:03:12.480><c> de</c><00:03:12.599><c> venta</c><00:03:13.239><c> y</c><00:03:13.440><c> esta</c><00:03:13.959><c> opción</c><00:03:14.799><c> se</c>
+
+00:03:15.190 --> 00:03:15.200 align:start position:0%
+electrónica de venta y esta opción se
+ 
+
+00:03:15.200 --> 00:03:18.149 align:start position:0%
+electrónica de venta y esta opción se
+visualiza<00:03:16.080><c> debido</c><00:03:16.440><c> a</c><00:03:16.599><c> que</c><00:03:17.360><c> está</c><00:03:17.640><c> activo</c><00:03:17.959><c> este</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+visualiza debido a que está activo este
+ 
+
+00:03:18.159 --> 00:03:19.910 align:start position:0%
+visualiza debido a que está activo este
+servicio<00:03:18.519><c> electrónico</c><00:03:19.000><c> de</c><00:03:19.239><c> hace</c><00:03:19.519><c> parte</c><00:03:19.760><c> de</c>
+
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+servicio electrónico de hace parte de
+ 
+
+00:03:19.920 --> 00:03:21.229 align:start position:0%
+servicio electrónico de hace parte de
+facturación
+
+00:03:21.229 --> 00:03:21.239 align:start position:0%
+facturación
+ 
+
+00:03:21.239 --> 00:03:23.949 align:start position:0%
+facturación
+electrónica.<00:03:22.239><c> Ahora</c><00:03:22.519><c> bien,</c><00:03:23.280><c> en</c><00:03:23.440><c> la</c><00:03:23.560><c> pestaña</c>
+
+00:03:23.949 --> 00:03:23.959 align:start position:0%
+electrónica. Ahora bien, en la pestaña
+ 
+
+00:03:23.959 --> 00:03:26.470 align:start position:0%
+electrónica. Ahora bien, en la pestaña
+de<00:03:24.159><c> numeración</c><00:03:25.000><c> pues</c><00:03:25.200><c> vamos</c><00:03:25.360><c> a</c><00:03:25.560><c> encontrar</c><00:03:26.200><c> la</c>
+
+00:03:26.470 --> 00:03:26.480 align:start position:0%
+de numeración pues vamos a encontrar la
+ 
+
+00:03:26.480 --> 00:03:28.470 align:start position:0%
+de numeración pues vamos a encontrar la
+configuración<00:03:27.080><c> del</c><00:03:27.400><c> prefijo</c><00:03:27.879><c> que</c><00:03:28.040><c> la</c><00:03:28.200><c> Diana</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+configuración del prefijo que la Diana
+ 
+
+00:03:28.480 --> 00:03:30.309 align:start position:0%
+configuración del prefijo que la Diana
+entregó<00:03:28.879><c> a</c><00:03:29.080><c> través</c><00:03:29.239><c> de</c><00:03:29.400><c> la</c><00:03:29.560><c> resolución</c><00:03:30.040><c> que</c><00:03:30.159><c> se</c>
+
+00:03:30.309 --> 00:03:30.319 align:start position:0%
+entregó a través de la resolución que se
+ 
+
+00:03:30.319 --> 00:03:32.149 align:start position:0%
+entregó a través de la resolución que se
+generó<00:03:30.599><c> en</c><00:03:30.680><c> el</c><00:03:30.799><c> sistema</c><00:03:31.120><c> Muisca.</c><00:03:31.920><c> una</c>
+
+00:03:32.149 --> 00:03:32.159 align:start position:0%
+generó en el sistema Muisca. una
+ 
+
+00:03:32.159 --> 00:03:34.270 align:start position:0%
+generó en el sistema Muisca. una
+resolución<00:03:32.640><c> de</c><00:03:32.799><c> facturación</c><00:03:33.360><c> electrónica,</c>
+
+00:03:34.270 --> 00:03:34.280 align:start position:0%
+resolución de facturación electrónica,
+ 
+
+00:03:34.280 --> 00:03:36.789 align:start position:0%
+resolución de facturación electrónica,
+el<00:03:34.480><c> prefijo</c><00:03:34.959><c> que</c><00:03:35.159><c> sacamos</c><00:03:35.680><c> directamente</c><00:03:36.239><c> allá</c>
+
+00:03:36.789 --> 00:03:36.799 align:start position:0%
+el prefijo que sacamos directamente allá
+ 
+
+00:03:36.799 --> 00:03:39.750 align:start position:0%
+el prefijo que sacamos directamente allá
+en<00:03:36.959><c> dicha</c><00:03:37.439><c> plataforma.</c><00:03:38.439><c> Y</c><00:03:38.599><c> en</c><00:03:38.720><c> esta</c><00:03:38.959><c> parte</c><00:03:39.239><c> de</c>
+
+00:03:39.750 --> 00:03:39.760 align:start position:0%
+en dicha plataforma. Y en esta parte de
+ 
+
+00:03:39.760 --> 00:03:43.550 align:start position:0%
+en dicha plataforma. Y en esta parte de
+resoluciones<00:03:40.720><c> debemos</c><00:03:41.200><c> indicar</c><00:03:41.879><c> la</c>
+
+00:03:43.550 --> 00:03:43.560 align:start position:0%
+resoluciones debemos indicar la
+ 
+
+00:03:43.560 --> 00:03:46.229 align:start position:0%
+resoluciones debemos indicar la
+resolución<00:03:44.560><c> que</c><00:03:45.000><c> generamos</c><00:03:45.599><c> a</c><00:03:45.799><c> través</c><00:03:46.000><c> del</c>
+
+00:03:46.229 --> 00:03:46.239 align:start position:0%
+resolución que generamos a través del
+ 
+
+00:03:46.239 --> 00:03:48.350 align:start position:0%
+resolución que generamos a través del
+sistema<00:03:46.560><c> muesca</c><00:03:46.959><c> de</c><00:03:47.120><c> la</c><00:03:47.239><c> Dian,</c><00:03:47.879><c> donde</c><00:03:48.120><c> allí</c>
+
+00:03:48.350 --> 00:03:48.360 align:start position:0%
+sistema muesca de la Dian, donde allí
+ 
+
+00:03:48.360 --> 00:03:50.750 align:start position:0%
+sistema muesca de la Dian, donde allí
+está<00:03:48.599><c> el</c><00:03:48.799><c> número</c><00:03:49.040><c> de</c><00:03:49.159><c> la</c><00:03:49.560><c> resolución,</c><00:03:50.560><c> la</c>
+
+00:03:50.750 --> 00:03:50.760 align:start position:0%
+está el número de la resolución, la
+ 
+
+00:03:50.760 --> 00:03:53.350 align:start position:0%
+está el número de la resolución, la
+vigencia<00:03:51.439><c> y</c><00:03:51.640><c> los</c><00:03:51.799><c> rangos,</c><00:03:52.439><c> es</c><00:03:52.599><c> decir,</c><00:03:53.040><c> desde</c>
+
+00:03:53.350 --> 00:03:53.360 align:start position:0%
+vigencia y los rangos, es decir, desde
+ 
+
+00:03:53.360 --> 00:03:55.429 align:start position:0%
+vigencia y los rangos, es decir, desde
+qué<00:03:53.560><c> factura</c><00:03:54.079><c> hasta</c><00:03:54.360><c> qué</c><00:03:54.560><c> factura</c><00:03:54.959><c> está</c><00:03:55.239><c> y</c>
+
+00:03:55.429 --> 00:03:55.439 align:start position:0%
+qué factura hasta qué factura está y
+ 
+
+00:03:55.439 --> 00:03:57.470 align:start position:0%
+qué factura hasta qué factura está y
+desde<00:03:55.680><c> qué</c><00:03:55.840><c> fecha</c><00:03:56.079><c> y</c><00:03:56.200><c> hasta</c><00:03:56.400><c> qué</c><00:03:56.560><c> fecha</c><00:03:56.840><c> está.</c>
+
+00:03:57.470 --> 00:03:57.480 align:start position:0%
+desde qué fecha y hasta qué fecha está.
+ 
+
+00:03:57.480 --> 00:03:59.270 align:start position:0%
+desde qué fecha y hasta qué fecha está.
+Muy<00:03:57.720><c> importante</c><00:03:58.200><c> tener</c><00:03:58.439><c> esa</c><00:03:58.680><c> configuración</c>
+
+00:03:59.270 --> 00:03:59.280 align:start position:0%
+Muy importante tener esa configuración
+ 
+
+00:03:59.280 --> 00:04:02.069 align:start position:0%
+Muy importante tener esa configuración
+plenamente<00:04:00.280><c> identificada.</c><00:04:01.280><c> Dentro</c><00:04:01.560><c> de</c><00:04:01.760><c> las</c>
+
+00:04:02.069 --> 00:04:02.079 align:start position:0%
+plenamente identificada. Dentro de las
+ 
+
+00:04:02.079 --> 00:04:04.350 align:start position:0%
+plenamente identificada. Dentro de las
+acciones<00:04:02.560><c> que</c><00:04:02.799><c> podemos</c><00:04:03.200><c> tener,</c><00:04:03.959><c> vamos</c><00:04:04.200><c> a</c>
+
+00:04:04.350 --> 00:04:04.360 align:start position:0%
+acciones que podemos tener, vamos a
+ 
+
+00:04:04.360 --> 00:04:06.869 align:start position:0%
+acciones que podemos tener, vamos a
+configurar<00:04:04.840><c> la</c><00:04:05.040><c> acción</c><00:04:05.319><c> de</c><00:04:05.680><c> envío</c><00:04:06.120><c> de</c><00:04:06.360><c> email</c>
+
+00:04:06.869 --> 00:04:06.879 align:start position:0%
+configurar la acción de envío de email
+ 
+
+00:04:06.879 --> 00:04:08.670 align:start position:0%
+configurar la acción de envío de email
+automático.<00:04:07.879><c> Ese</c><00:04:08.000><c> envío</c><00:04:08.280><c> de</c><00:04:08.439><c> email</c>
+
+00:04:08.670 --> 00:04:08.680 align:start position:0%
+automático. Ese envío de email
+ 
+
+00:04:08.680 --> 00:04:11.390 align:start position:0%
+automático. Ese envío de email
+automático<00:04:09.200><c> va</c><00:04:09.400><c> a</c><00:04:09.480><c> permitir</c><00:04:10.200><c> que</c><00:04:10.599><c> al</c><00:04:10.920><c> usuario</c>
+
+00:04:11.390 --> 00:04:11.400 align:start position:0%
+automático va a permitir que al usuario
+ 
+
+00:04:11.400 --> 00:04:13.470 align:start position:0%
+automático va a permitir que al usuario
+final,<00:04:11.720><c> es</c><00:04:11.879><c> decir,</c><00:04:12.120><c> al</c><00:04:12.319><c> adquiriente,</c><00:04:13.280><c> le</c>
+
+00:04:13.470 --> 00:04:13.480 align:start position:0%
+final, es decir, al adquiriente, le
+ 
+
+00:04:13.480 --> 00:04:15.909 align:start position:0%
+final, es decir, al adquiriente, le
+llegue<00:04:14.000><c> el</c><00:04:14.239><c> correo</c><00:04:14.680><c> electrónico</c><00:04:15.439><c> con</c><00:04:15.640><c> la</c>
+
+00:04:15.909 --> 00:04:15.919 align:start position:0%
+llegue el correo electrónico con la
+ 
+
+00:04:15.919 --> 00:04:19.310 align:start position:0%
+llegue el correo electrónico con la
+información<00:04:16.919><c> de</c><00:04:17.120><c> la</c><00:04:17.320><c> factura.</c><00:04:18.600><c> Dentro</c><00:04:18.880><c> de</c><00:04:19.040><c> la</c>
+
+00:04:19.310 --> 00:04:19.320 align:start position:0%
+información de la factura. Dentro de la
+ 
+
+00:04:19.320 --> 00:04:20.909 align:start position:0%
+información de la factura. Dentro de la
+aprobación<00:04:19.799><c> del</c><00:04:20.040><c> documento</c><00:04:20.600><c> tenemos</c>
+
+00:04:20.909 --> 00:04:20.919 align:start position:0%
+aprobación del documento tenemos
+ 
+
+00:04:20.919 --> 00:04:23.150 align:start position:0%
+aprobación del documento tenemos
+diferentes<00:04:21.440><c> acciones.</c><00:04:22.079><c> Por</c><00:04:22.160><c> ejemplo,</c><00:04:22.919><c> la</c>
+
+00:04:23.150 --> 00:04:23.160 align:start position:0%
+diferentes acciones. Por ejemplo, la
+ 
+
+00:04:23.160 --> 00:04:25.469 align:start position:0%
+diferentes acciones. Por ejemplo, la
+acción<00:04:23.440><c> de</c><00:04:23.759><c> automática</c><00:04:24.280><c> al</c><00:04:24.479><c> finalizar</c><00:04:25.160><c> quiere</c>
+
+00:04:25.469 --> 00:04:25.479 align:start position:0%
+acción de automática al finalizar quiere
+ 
+
+00:04:25.479 --> 00:04:28.230 align:start position:0%
+acción de automática al finalizar quiere
+decir<00:04:25.680><c> que</c><00:04:25.919><c> cuando</c><00:04:26.840><c> terminemos</c><00:04:27.479><c> la</c><00:04:27.840><c> factura</c>
+
+00:04:28.230 --> 00:04:28.240 align:start position:0%
+decir que cuando terminemos la factura
+ 
+
+00:04:28.240 --> 00:04:30.230 align:start position:0%
+decir que cuando terminemos la factura
+de<00:04:28.400><c> venta,</c><00:04:28.880><c> inmediatamente</c><00:04:29.680><c> se</c><00:04:29.840><c> va</c><00:04:29.960><c> a</c><00:04:30.080><c> hacer</c>
+
+00:04:30.230 --> 00:04:30.240 align:start position:0%
+de venta, inmediatamente se va a hacer
+ 
+
+00:04:30.240 --> 00:04:32.950 align:start position:0%
+de venta, inmediatamente se va a hacer
+el<00:04:30.360><c> envío</c><00:04:31.160><c> hacia</c><00:04:31.560><c> el</c><00:04:31.680><c> proveedor</c><00:04:32.120><c> tecnológico,</c>
+
+00:04:32.950 --> 00:04:32.960 align:start position:0%
+el envío hacia el proveedor tecnológico,
+ 
+
+00:04:32.960 --> 00:04:34.749 align:start position:0%
+el envío hacia el proveedor tecnológico,
+se<00:04:33.160><c> va</c><00:04:33.240><c> a</c><00:04:33.320><c> hacer</c><00:04:33.680><c> la</c><00:04:33.840><c> validación</c><00:04:34.320><c> a</c><00:04:34.479><c> través</c><00:04:34.680><c> de</c>
+
+00:04:34.749 --> 00:04:34.759 align:start position:0%
+se va a hacer la validación a través de
+ 
+
+00:04:34.759 --> 00:04:37.189 align:start position:0%
+se va a hacer la validación a través de
+la<00:04:34.919><c> Dian</c><00:04:35.400><c> y</c><00:04:35.759><c> de</c><00:04:36.080><c> manera</c><00:04:36.400><c> inmediata</c><00:04:36.880><c> se</c><00:04:37.039><c> va</c><00:04:37.120><c> a</c>
+
+00:04:37.189 --> 00:04:37.199 align:start position:0%
+la Dian y de manera inmediata se va a
+ 
+
+00:04:37.199 --> 00:04:39.590 align:start position:0%
+la Dian y de manera inmediata se va a
+despachar<00:04:37.639><c> el</c><00:04:37.759><c> correo</c><00:04:38.199><c> al</c><00:04:38.600><c> adquiriente</c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+despachar el correo al adquiriente
+ 
+
+00:04:39.600 --> 00:04:41.230 align:start position:0%
+despachar el correo al adquiriente
+mediante<00:04:39.960><c> la</c><00:04:40.120><c> opción</c><00:04:40.360><c> de</c><00:04:40.639><c> solicitar</c>
+
+00:04:41.230 --> 00:04:41.240 align:start position:0%
+mediante la opción de solicitar
+ 
+
+00:04:41.240 --> 00:04:43.710 align:start position:0%
+mediante la opción de solicitar
+aprobación<00:04:41.680><c> al</c><00:04:41.840><c> finalizar,</c><00:04:42.800><c> previo</c><00:04:43.440><c> a</c><00:04:43.600><c> la</c>
+
+00:04:43.710 --> 00:04:43.720 align:start position:0%
+aprobación al finalizar, previo a la
+ 
+
+00:04:43.720 --> 00:04:45.950 align:start position:0%
+aprobación al finalizar, previo a la
+finalización<00:04:44.280><c> del</c><00:04:44.479><c> documento</c><00:04:44.960><c> y</c><00:04:45.120><c> al</c><00:04:45.240><c> envío,</c>
+
+00:04:45.950 --> 00:04:45.960 align:start position:0%
+finalización del documento y al envío,
+ 
+
+00:04:45.960 --> 00:04:48.189 align:start position:0%
+finalización del documento y al envío,
+el<00:04:46.160><c> sistema</c><00:04:46.520><c> Contapyme</c><00:04:47.039><c> va</c><00:04:47.199><c> a</c><00:04:47.280><c> generar</c><00:04:47.720><c> una</c>
+
+00:04:48.189 --> 00:04:48.199 align:start position:0%
+el sistema Contapyme va a generar una
+ 
+
+00:04:48.199 --> 00:04:50.390 align:start position:0%
+el sistema Contapyme va a generar una
+ventana<00:04:48.720><c> con</c><00:04:48.880><c> un</c><00:04:49.039><c> mensaje</c><00:04:49.720><c> indicando</c><00:04:50.120><c> que</c><00:04:50.280><c> si</c>
+
+00:04:50.390 --> 00:04:50.400 align:start position:0%
+ventana con un mensaje indicando que si
+ 
+
+00:04:50.400 --> 00:04:52.310 align:start position:0%
+ventana con un mensaje indicando que si
+se<00:04:50.560><c> desea</c><00:04:50.880><c> hacer</c><00:04:51.039><c> el</c><00:04:51.199><c> envío</c><00:04:51.520><c> o</c><00:04:51.759><c> si</c><00:04:51.880><c> se</c><00:04:52.000><c> desea</c>
+
+00:04:52.310 --> 00:04:52.320 align:start position:0%
+se desea hacer el envío o si se desea
+ 
+
+00:04:52.320 --> 00:04:54.070 align:start position:0%
+se desea hacer el envío o si se desea
+esperar.<00:04:53.120><c> Si</c><00:04:53.240><c> yo</c><00:04:53.360><c> le</c><00:04:53.440><c> digo</c><00:04:53.639><c> que</c><00:04:53.800><c> sí,</c>
+
+00:04:54.070 --> 00:04:54.080 align:start position:0%
+esperar. Si yo le digo que sí,
+ 
+
+00:04:54.080 --> 00:04:56.110 align:start position:0%
+esperar. Si yo le digo que sí,
+inmediatamente<00:04:54.880><c> procede</c><00:04:55.280><c> y</c><00:04:55.400><c> se</c><00:04:55.520><c> ejecutan</c><00:04:55.960><c> las</c>
+
+00:04:56.110 --> 00:04:56.120 align:start position:0%
+inmediatamente procede y se ejecutan las
+ 
+
+00:04:56.120 --> 00:04:57.670 align:start position:0%
+inmediatamente procede y se ejecutan las
+acciones<00:04:56.560><c> programadas,</c><00:04:57.120><c> como</c><00:04:57.280><c> es</c><00:04:57.400><c> la</c><00:04:57.520><c> del</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+acciones programadas, como es la del
+ 
+
+00:04:57.680 --> 00:05:00.310 align:start position:0%
+acciones programadas, como es la del
+envío<00:04:58.479><c> del</c><00:04:59.160><c> documento</c><00:04:59.639><c> electrónico</c><00:05:00.120><c> al</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+envío del documento electrónico al
+ 
+
+00:05:00.320 --> 00:05:01.670 align:start position:0%
+envío del documento electrónico al
+proveedor<00:05:00.600><c> tecnológico</c><00:05:01.120><c> para</c><00:05:01.280><c> que</c><00:05:01.400><c> este</c><00:05:01.560><c> lo</c>
+
+00:05:01.670 --> 00:05:01.680 align:start position:0%
+proveedor tecnológico para que este lo
+ 
+
+00:05:01.680 --> 00:05:04.430 align:start position:0%
+proveedor tecnológico para que este lo
+valide<00:05:02.000><c> con</c><00:05:02.160><c> la</c><00:05:02.280><c> Dian</c><00:05:02.759><c> y</c><00:05:03.039><c> también</c><00:05:03.800><c> se</c><00:05:04.039><c> va</c><00:05:04.280><c> a</c>
+
+00:05:04.430 --> 00:05:04.440 align:start position:0%
+valide con la Dian y también se va a
+ 
+
+00:05:04.440 --> 00:05:06.590 align:start position:0%
+valide con la Dian y también se va a
+ejecutar<00:05:04.840><c> la</c><00:05:05.000><c> acción</c><00:05:05.520><c> de</c><00:05:05.759><c> envío</c><00:05:06.080><c> de</c><00:05:06.280><c> email</c>
+
+00:05:06.590 --> 00:05:06.600 align:start position:0%
+ejecutar la acción de envío de email
+ 
+
+00:05:06.600 --> 00:05:09.390 align:start position:0%
+ejecutar la acción de envío de email
+automático<00:05:07.600><c> y</c><00:05:07.919><c> aprobar</c><00:05:08.479><c> manualmente.</c>
+
+00:05:09.390 --> 00:05:09.400 align:start position:0%
+automático y aprobar manualmente.
+ 
+
+00:05:09.400 --> 00:05:10.990 align:start position:0%
+automático y aprobar manualmente.
+Simplemente<00:05:09.960><c> cuando</c><00:05:10.160><c> se</c><00:05:10.400><c> finaliza</c><00:05:10.840><c> la</c>
+
+00:05:10.990 --> 00:05:11.000 align:start position:0%
+Simplemente cuando se finaliza la
+ 
+
+00:05:11.000 --> 00:05:12.430 align:start position:0%
+Simplemente cuando se finaliza la
+transacción<00:05:11.479><c> de</c><00:05:11.600><c> la</c><00:05:11.720><c> venta</c><00:05:12.000><c> dentro</c><00:05:12.240><c> del</c>
+
+00:05:12.430 --> 00:05:12.440 align:start position:0%
+transacción de la venta dentro del
+ 
+
+00:05:12.440 --> 00:05:14.510 align:start position:0%
+transacción de la venta dentro del
+sistema<00:05:12.800><c> contapyme,</c><00:05:13.600><c> no</c><00:05:13.800><c> se</c><00:05:13.960><c> van</c><00:05:14.080><c> a</c><00:05:14.160><c> ejecutar</c>
+
+00:05:14.510 --> 00:05:14.520 align:start position:0%
+sistema contapyme, no se van a ejecutar
+ 
+
+00:05:14.520 --> 00:05:16.150 align:start position:0%
+sistema contapyme, no se van a ejecutar
+acciones<00:05:14.840><c> de</c><00:05:15.000><c> forma</c><00:05:15.160><c> inmediata,</c><00:05:15.800><c> sino</c><00:05:16.000><c> hasta</c>
+
+00:05:16.150 --> 00:05:16.160 align:start position:0%
+acciones de forma inmediata, sino hasta
+ 
+
+00:05:16.160 --> 00:05:17.950 align:start position:0%
+acciones de forma inmediata, sino hasta
+que<00:05:16.280><c> el</c><00:05:16.400><c> usuario</c><00:05:16.720><c> final</c><00:05:17.199><c> diga,</c><00:05:17.560><c> "Yo</c><00:05:17.759><c> voy</c><00:05:17.880><c> a</c>
+
+00:05:17.950 --> 00:05:17.960 align:start position:0%
+que el usuario final diga, "Yo voy a
+ 
+
+00:05:17.960 --> 00:05:19.469 align:start position:0%
+que el usuario final diga, "Yo voy a
+ejecutar<00:05:18.319><c> las</c><00:05:18.479><c> acciones</c><00:05:18.840><c> al</c><00:05:19.039><c> documento</c>
+
+00:05:19.469 --> 00:05:19.479 align:start position:0%
+ejecutar las acciones al documento
+ 
+
+00:05:19.479 --> 00:05:20.749 align:start position:0%
+ejecutar las acciones al documento
+electrónico."
+
+00:05:20.749 --> 00:05:20.759 align:start position:0%
+electrónico."
+ 
+
+00:05:20.759 --> 00:05:22.909 align:start position:0%
+electrónico."
+En<00:05:20.919><c> este</c><00:05:21.120><c> caso,</c><00:05:21.319><c> para</c><00:05:21.479><c> el</c><00:05:21.600><c> ejemplo,</c><00:05:22.240><c> voy</c><00:05:22.400><c> a</c><00:05:22.759><c> lo</c>
+
+00:05:22.909 --> 00:05:22.919 align:start position:0%
+En este caso, para el ejemplo, voy a lo
+ 
+
+00:05:22.919 --> 00:05:25.950 align:start position:0%
+En este caso, para el ejemplo, voy a lo
+voy<00:05:23.080><c> a</c><00:05:23.160><c> dejar</c><00:05:23.759><c> como</c><00:05:24.039><c> solicitar</c><00:05:24.560><c> aprobación</c><00:05:25.199><c> al</c>
+
+00:05:25.950 --> 00:05:25.960 align:start position:0%
+voy a dejar como solicitar aprobación al
+ 
+
+00:05:25.960 --> 00:05:28.550 align:start position:0%
+voy a dejar como solicitar aprobación al
+finalizar.<00:05:26.960><c> Miremos</c><00:05:27.280><c> que</c><00:05:27.520><c> al</c><00:05:27.759><c> activar</c><00:05:28.199><c> esta</c>
+
+00:05:28.550 --> 00:05:28.560 align:start position:0%
+finalizar. Miremos que al activar esta
+ 
+
+00:05:28.560 --> 00:05:30.950 align:start position:0%
+finalizar. Miremos que al activar esta
+opción<00:05:28.840><c> de</c><00:05:29.199><c> envío</c><00:05:29.600><c> de</c><00:05:29.759><c> email</c><00:05:30.080><c> automático,</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+opción de envío de email automático,
+ 
+
+00:05:30.960 --> 00:05:34.629 align:start position:0%
+opción de envío de email automático,
+también<00:05:31.720><c> se</c><00:05:32.479><c> muestra</c><00:05:33.319><c> una</c><00:05:33.639><c> pestaña</c><00:05:34.199><c> o</c><00:05:34.440><c> una</c>
+
+00:05:34.629 --> 00:05:34.639 align:start position:0%
+también se muestra una pestaña o una
+ 
+
+00:05:34.639 --> 00:05:37.189 align:start position:0%
+también se muestra una pestaña o una
+opción<00:05:34.960><c> de</c><00:05:35.280><c> envío</c><00:05:35.639><c> de</c><00:05:35.840><c> email.</c><00:05:36.680><c> Dentro</c><00:05:36.919><c> de</c><00:05:37.080><c> la</c>
+
+00:05:37.189 --> 00:05:37.199 align:start position:0%
+opción de envío de email. Dentro de la
+ 
+
+00:05:37.199 --> 00:05:39.189 align:start position:0%
+opción de envío de email. Dentro de la
+configuración<00:05:37.720><c> de</c><00:05:37.880><c> esta</c><00:05:38.120><c> opción</c><00:05:38.800><c> vamos</c><00:05:39.039><c> a</c>
+
+00:05:39.189 --> 00:05:39.199 align:start position:0%
+configuración de esta opción vamos a
+ 
+
+00:05:39.199 --> 00:05:42.029 align:start position:0%
+configuración de esta opción vamos a
+indicarle<00:05:40.080><c> unos</c><00:05:40.360><c> datos</c><00:05:40.720><c> de</c><00:05:40.960><c> encabezado</c><00:05:41.759><c> para</c>
+
+00:05:42.029 --> 00:05:42.039 align:start position:0%
+indicarle unos datos de encabezado para
+ 
+
+00:05:42.039 --> 00:05:43.990 align:start position:0%
+indicarle unos datos de encabezado para
+cuando<00:05:42.360><c> se</c><00:05:42.560><c> envíe</c><00:05:42.880><c> el</c><00:05:43.000><c> correo</c><00:05:43.319><c> electrónico.</c>
+
+00:05:43.990 --> 00:05:44.000 align:start position:0%
+cuando se envíe el correo electrónico.
+ 
+
+00:05:44.000 --> 00:05:46.430 align:start position:0%
+cuando se envíe el correo electrónico.
+Por<00:05:44.160><c> ejemplo,</c><00:05:44.919><c> aquí</c><00:05:45.160><c> nos</c><00:05:45.360><c> dice</c><00:05:45.919><c> cuál</c><00:05:46.160><c> va</c><00:05:46.240><c> a</c><00:05:46.360><c> ser</c>
+
+00:05:46.430 --> 00:05:46.440 align:start position:0%
+Por ejemplo, aquí nos dice cuál va a ser
+ 
+
+00:05:46.440 --> 00:05:49.270 align:start position:0%
+Por ejemplo, aquí nos dice cuál va a ser
+el<00:05:47.039><c> remitente</c><00:05:47.919><c> del</c><00:05:48.120><c> documento</c><00:05:48.639><c> electrónico.</c>
+
+00:05:49.270 --> 00:05:49.280 align:start position:0%
+el remitente del documento electrónico.
+ 
+
+00:05:49.280 --> 00:05:50.909 align:start position:0%
+el remitente del documento electrónico.
+Tenemos<00:05:49.600><c> una</c><00:05:49.800><c> serie</c><00:05:50.000><c> de</c><00:05:50.160><c> variables</c><00:05:50.639><c> que</c><00:05:50.800><c> se</c>
+
+00:05:50.909 --> 00:05:50.919 align:start position:0%
+Tenemos una serie de variables que se
+ 
+
+00:05:50.919 --> 00:05:52.710 align:start position:0%
+Tenemos una serie de variables que se
+pueden<00:05:51.120><c> seleccionar.</c><00:05:52.000><c> En</c><00:05:52.160><c> este</c><00:05:52.360><c> caso,</c><00:05:52.560><c> me</c>
+
+00:05:52.710 --> 00:05:52.720 align:start position:0%
+pueden seleccionar. En este caso, me
+ 
+
+00:05:52.720 --> 00:05:54.309 align:start position:0%
+pueden seleccionar. En este caso, me
+interesa<00:05:53.120><c> que</c><00:05:53.319><c> aparezca</c><00:05:53.759><c> el</c><00:05:53.919><c> nombre</c><00:05:54.120><c> del</c>
+
+00:05:54.309 --> 00:05:54.319 align:start position:0%
+interesa que aparezca el nombre del
+ 
+
+00:05:54.319 --> 00:05:56.070 align:start position:0%
+interesa que aparezca el nombre del
+usuario<00:05:54.880><c> y</c><00:05:55.080><c> en</c><00:05:55.199><c> especial</c><00:05:55.520><c> el</c><00:05:55.680><c> nombre</c><00:05:55.840><c> de</c><00:05:55.960><c> la</c>
+
+00:05:56.070 --> 00:05:56.080 align:start position:0%
+usuario y en especial el nombre de la
+ 
+
+00:05:56.080 --> 00:05:57.469 align:start position:0%
+usuario y en especial el nombre de la
+empresa<00:05:56.360><c> que</c><00:05:56.560><c> está</c><00:05:56.720><c> haciendo</c><00:05:56.960><c> el</c><00:05:57.039><c> envío</c><00:05:57.319><c> del</c>
+
+00:05:57.469 --> 00:05:57.479 align:start position:0%
+empresa que está haciendo el envío del
+ 
+
+00:05:57.479 --> 00:05:59.790 align:start position:0%
+empresa que está haciendo el envío del
+documento<00:05:58.080><c> electrónico.</c><00:05:59.080><c> ¿A</c><00:05:59.240><c> quién</c><00:05:59.479><c> se</c><00:05:59.600><c> le</c><00:05:59.720><c> va</c>
+
+00:05:59.790 --> 00:05:59.800 align:start position:0%
+documento electrónico. ¿A quién se le va
+ 
+
+00:05:59.800 --> 00:06:01.870 align:start position:0%
+documento electrónico. ¿A quién se le va
+a<00:05:59.880><c> enviar?</c><00:06:00.520><c> pues</c><00:06:00.800><c> es</c><00:06:01.000><c> muy</c><00:06:01.199><c> importante</c><00:06:01.600><c> que</c><00:06:01.759><c> se</c>
+
+00:06:01.870 --> 00:06:01.880 align:start position:0%
+a enviar? pues es muy importante que se
+ 
+
+00:06:01.880 --> 00:06:04.309 align:start position:0%
+a enviar? pues es muy importante que se
+le<00:06:02.000><c> envíe</c><00:06:02.520><c> al</c><00:06:02.800><c> tercero,</c><00:06:03.520><c> es</c><00:06:03.720><c> decir,</c><00:06:04.080><c> al</c>
+
+00:06:04.309 --> 00:06:04.319 align:start position:0%
+le envíe al tercero, es decir, al
+ 
+
+00:06:04.319 --> 00:06:05.990 align:start position:0%
+le envíe al tercero, es decir, al
+cliente<00:06:04.639><c> con</c><00:06:04.800><c> el</c><00:06:04.919><c> que</c><00:06:05.120><c> estoy</c><00:06:05.360><c> haciendo</c><00:06:05.800><c> la</c>
+
+00:06:05.990 --> 00:06:06.000 align:start position:0%
+cliente con el que estoy haciendo la
+ 
+
+00:06:06.000 --> 00:06:08.309 align:start position:0%
+cliente con el que estoy haciendo la
+negociación.<00:06:06.880><c> Por</c><00:06:07.039><c> eso</c><00:06:07.199><c> allí</c><00:06:07.560><c> se</c><00:06:07.800><c> configura</c>
+
+00:06:08.309 --> 00:06:08.319 align:start position:0%
+negociación. Por eso allí se configura
+ 
+
+00:06:08.319 --> 00:06:10.830 align:start position:0%
+negociación. Por eso allí se configura
+la<00:06:08.560><c> información</c><00:06:09.080><c> con</c><00:06:09.520><c> enviar</c><00:06:09.840><c> al</c><00:06:10.039><c> tercero</c><00:06:10.680><c> y</c>
+
+00:06:10.830 --> 00:06:10.840 align:start position:0%
+la información con enviar al tercero y
+ 
+
+00:06:10.840 --> 00:06:12.430 align:start position:0%
+la información con enviar al tercero y
+se<00:06:10.960><c> le</c><00:06:11.080><c> va</c><00:06:11.120><c> a</c><00:06:11.199><c> enviar</c><00:06:11.479><c> al</c><00:06:11.680><c> correo</c><00:06:12.000><c> electrónico</c>
+
+00:06:12.430 --> 00:06:12.440 align:start position:0%
+se le va a enviar al correo electrónico
+ 
+
+00:06:12.440 --> 00:06:15.150 align:start position:0%
+se le va a enviar al correo electrónico
+que<00:06:12.560><c> dicha</c><00:06:12.880><c> persona</c><00:06:13.160><c> tenga</c><00:06:13.440><c> configurada.</c>
+
+00:06:15.150 --> 00:06:15.160 align:start position:0%
+que dicha persona tenga configurada.
+ 
+
+00:06:15.160 --> 00:06:17.230 align:start position:0%
+que dicha persona tenga configurada.
+Dentro<00:06:15.400><c> del</c><00:06:15.639><c> contenido</c><00:06:16.000><c> del</c><00:06:16.240><c> email</c><00:06:16.840><c> hay</c><00:06:17.039><c> una</c>
+
+00:06:17.230 --> 00:06:17.240 align:start position:0%
+Dentro del contenido del email hay una
+ 
+
+00:06:17.240 --> 00:06:19.110 align:start position:0%
+Dentro del contenido del email hay una
+plantilla<00:06:17.639><c> que</c><00:06:17.759><c> ya</c><00:06:17.919><c> está</c><00:06:18.160><c> prediseñada</c><00:06:18.840><c> dentro</c>
+
+00:06:19.110 --> 00:06:19.120 align:start position:0%
+plantilla que ya está prediseñada dentro
+ 
+
+00:06:19.120 --> 00:06:21.670 align:start position:0%
+plantilla que ya está prediseñada dentro
+del<00:06:19.400><c> sistema</c><00:06:19.759><c> Contapyme</c><00:06:20.680><c> y</c><00:06:20.880><c> es</c><00:06:21.120><c> para</c><00:06:21.319><c> la</c>
+
+00:06:21.670 --> 00:06:21.680 align:start position:0%
+del sistema Contapyme y es para la
+ 
+
+00:06:21.680 --> 00:06:24.510 align:start position:0%
+del sistema Contapyme y es para la
+notificación<00:06:22.680><c> de</c><00:06:23.000><c> el</c><00:06:23.199><c> correo</c><00:06:23.599><c> electrónico.</c>
+
+00:06:24.510 --> 00:06:24.520 align:start position:0%
+notificación de el correo electrónico.
+ 
+
+00:06:24.520 --> 00:06:27.110 align:start position:0%
+notificación de el correo electrónico.
+Esa<00:06:24.680><c> notificación</c><00:06:25.560><c> debe</c><00:06:25.919><c> contener</c><00:06:26.440><c> un</c><00:06:26.720><c> asunto</c>
+
+00:06:27.110 --> 00:06:27.120 align:start position:0%
+Esa notificación debe contener un asunto
+ 
+
+00:06:27.120 --> 00:06:28.909 align:start position:0%
+Esa notificación debe contener un asunto
+estandarizado<00:06:27.840><c> por</c><00:06:28.000><c> la</c><00:06:28.160><c> resolución</c><00:06:28.639><c> o</c><00:06:28.800><c> la</c>
+
+00:06:28.909 --> 00:06:28.919 align:start position:0%
+estandarizado por la resolución o la
+ 
+
+00:06:28.919 --> 00:06:30.990 align:start position:0%
+estandarizado por la resolución o la
+normatividad<00:06:29.520><c> de</c><00:06:29.639><c> la</c><00:06:29.800><c> DIAN</c><00:06:30.199><c> y</c><00:06:30.360><c> debe</c><00:06:30.599><c> también</c>
+
+00:06:30.990 --> 00:06:31.000 align:start position:0%
+normatividad de la DIAN y debe también
+ 
+
+00:06:31.000 --> 00:06:34.110 align:start position:0%
+normatividad de la DIAN y debe también
+tener<00:06:31.599><c> un</c><00:06:31.840><c> acceso</c><00:06:32.479><c> o</c><00:06:32.720><c> una</c><00:06:32.960><c> información</c><00:06:33.720><c> con</c>
+
+00:06:34.110 --> 00:06:34.120 align:start position:0%
+tener un acceso o una información con
+ 
+
+00:06:34.120 --> 00:06:36.710 align:start position:0%
+tener un acceso o una información con
+los<00:06:34.520><c> documentos</c><00:06:35.520><c> que</c><00:06:35.720><c> en</c><00:06:35.840><c> este</c><00:06:36.039><c> caso</c><00:06:36.240><c> se</c><00:06:36.440><c> están</c>
+
+00:06:36.710 --> 00:06:36.720 align:start position:0%
+los documentos que en este caso se están
+ 
+
+00:06:36.720 --> 00:06:40.350 align:start position:0%
+los documentos que en este caso se están
+adjuntando.<00:06:37.720><c> ¿Cuáles</c><00:06:38.039><c> son?</c><00:06:38.599><c> el</c><00:06:38.840><c> archivo</c><00:06:39.360><c> XML</c>
+
+00:06:40.350 --> 00:06:40.360 align:start position:0%
+adjuntando. ¿Cuáles son? el archivo XML
+ 
+
+00:06:40.360 --> 00:06:42.749 align:start position:0%
+adjuntando. ¿Cuáles son? el archivo XML
+de<00:06:40.560><c> la</c><00:06:40.720><c> factura</c><00:06:41.120><c> electrónica</c><00:06:41.560><c> de</c><00:06:41.720><c> venta</c><00:06:42.319><c> más</c>
+
+00:06:42.749 --> 00:06:42.759 align:start position:0%
+de la factura electrónica de venta más
+ 
+
+00:06:42.759 --> 00:06:45.110 align:start position:0%
+de la factura electrónica de venta más
+la<00:06:43.080><c> representación</c><00:06:43.759><c> gráfica.</c><00:06:44.599><c> Recordemos</c>
+
+00:06:45.110 --> 00:06:45.120 align:start position:0%
+la representación gráfica. Recordemos
+ 
+
+00:06:45.120 --> 00:06:47.710 align:start position:0%
+la representación gráfica. Recordemos
+que<00:06:45.319><c> esos</c><00:06:45.639><c> archivos</c><00:06:46.039><c> se</c><00:06:46.240><c> tienen</c><00:06:46.520><c> que</c><00:06:46.759><c> ir</c><00:06:47.319><c> en</c><00:06:47.520><c> un</c>
+
+00:06:47.710 --> 00:06:47.720 align:start position:0%
+que esos archivos se tienen que ir en un
+ 
+
+00:06:47.720 --> 00:06:50.550 align:start position:0%
+que esos archivos se tienen que ir en un
+formato<00:06:48.360><c> punto</c><00:06:48.720><c> zip.</c><00:06:49.199><c> Es</c><00:06:49.280><c> un</c><00:06:49.560><c> contenedor</c><00:06:50.360><c> que</c>
+
+00:06:50.550 --> 00:06:50.560 align:start position:0%
+formato punto zip. Es un contenedor que
+ 
+
+00:06:50.560 --> 00:06:52.550 align:start position:0%
+formato punto zip. Es un contenedor que
+está<00:06:50.720><c> autorizado</c><00:06:51.280><c> por</c><00:06:51.479><c> la</c><00:06:51.599><c> Dian</c><00:06:52.039><c> y</c><00:06:52.240><c> es</c><00:06:52.400><c> la</c>
+
+00:06:52.550 --> 00:06:52.560 align:start position:0%
+está autorizado por la Dian y es la
+ 
+
+00:06:52.560 --> 00:06:53.790 align:start position:0%
+está autorizado por la Dian y es la
+forma<00:06:52.759><c> de</c><00:06:52.919><c> entregar</c><00:06:53.240><c> el</c><00:06:53.360><c> documento</c>
+
+00:06:53.790 --> 00:06:53.800 align:start position:0%
+forma de entregar el documento
+ 
+
+00:06:53.800 --> 00:06:55.710 align:start position:0%
+forma de entregar el documento
+electrónico<00:06:54.360><c> según</c><00:06:54.599><c> la</c><00:06:54.840><c> normatividad</c>
+
+00:06:55.710 --> 00:06:55.720 align:start position:0%
+electrónico según la normatividad
+ 
+
+00:06:55.720 --> 00:06:58.230 align:start position:0%
+electrónico según la normatividad
+vigente<00:06:56.199><c> para</c><00:06:56.400><c> facturación</c><00:06:56.960><c> electrónica.</c>
+
+00:06:58.230 --> 00:06:58.240 align:start position:0%
+vigente para facturación electrónica.
+ 
+
+00:06:58.240 --> 00:06:59.950 align:start position:0%
+vigente para facturación electrónica.
+Una<00:06:58.440><c> vez</c><00:06:58.560><c> ya</c><00:06:58.720><c> tenemos</c><00:06:59.080><c> entonces</c><00:06:59.479><c> plenamente</c>
+
+00:06:59.950 --> 00:06:59.960 align:start position:0%
+Una vez ya tenemos entonces plenamente
+ 
+
+00:06:59.960 --> 00:07:02.230 align:start position:0%
+Una vez ya tenemos entonces plenamente
+identificadas<00:07:00.639><c> las</c><00:07:00.840><c> dos</c><00:07:01.000><c> acciones,</c><00:07:01.560><c> que</c><00:07:01.759><c> son</c>
+
+00:07:02.230 --> 00:07:02.240 align:start position:0%
+identificadas las dos acciones, que son
+ 
+
+00:07:02.240 --> 00:07:05.070 align:start position:0%
+identificadas las dos acciones, que son
+la<00:07:02.400><c> de</c><00:07:02.520><c> envío</c><00:07:02.840><c> de</c><00:07:03.000><c> email</c><00:07:03.319><c> automático</c><00:07:04.280><c> y</c><00:07:04.520><c> la</c><00:07:04.720><c> de</c>
+
+00:07:05.070 --> 00:07:05.080 align:start position:0%
+la de envío de email automático y la de
+ 
+
+00:07:05.080 --> 00:07:07.270 align:start position:0%
+la de envío de email automático y la de
+hace<00:07:05.360><c> parte</c><00:07:05.599><c> de</c><00:07:05.759><c> facturación</c><00:07:06.319><c> electrónica,</c>
+
+00:07:07.270 --> 00:07:07.280 align:start position:0%
+hace parte de facturación electrónica,
+ 
+
+00:07:07.280 --> 00:07:09.589 align:start position:0%
+hace parte de facturación electrónica,
+pues<00:07:07.599><c> procedemos</c><00:07:08.160><c> simplemente</c><00:07:08.800><c> a</c><00:07:09.199><c> continuar</c>
+
+00:07:09.589 --> 00:07:09.599 align:start position:0%
+pues procedemos simplemente a continuar
+ 
+
+00:07:09.599 --> 00:07:12.350 align:start position:0%
+pues procedemos simplemente a continuar
+con<00:07:09.720><c> el</c><00:07:09.879><c> ejemplo.</c><00:07:10.440><c> Vamos</c><00:07:10.639><c> a</c><00:07:10.840><c> hacer</c><00:07:11.039><c> el</c><00:07:11.199><c> envío</c><00:07:12.120><c> a</c>
+
+00:07:12.350 --> 00:07:12.360 align:start position:0%
+con el ejemplo. Vamos a hacer el envío a
+ 
+
+00:07:12.360 --> 00:07:15.830 align:start position:0%
+con el ejemplo. Vamos a hacer el envío a
+un<00:07:13.039><c> cliente</c><00:07:14.039><c> donde</c><00:07:14.400><c> ese</c><00:07:14.599><c> tercero</c><00:07:15.000><c> ya</c><00:07:15.199><c> tiene</c><00:07:15.639><c> un</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+un cliente donde ese tercero ya tiene un
+ 
+
+00:07:15.840 --> 00:07:18.790 align:start position:0%
+un cliente donde ese tercero ya tiene un
+correo<00:07:16.199><c> electrónico</c><00:07:17.120><c> configurado.</c><00:07:18.199><c> Vamos</c><00:07:18.400><c> a</c>
+
+00:07:18.790 --> 00:07:18.800 align:start position:0%
+correo electrónico configurado. Vamos a
+ 
+
+00:07:18.800 --> 00:07:20.350 align:start position:0%
+correo electrónico configurado. Vamos a
+poner<00:07:19.080><c> allí,</c><00:07:19.360><c> por</c><00:07:19.479><c> ejemplo,</c><00:07:19.759><c> el</c><00:07:19.919><c> caso</c><00:07:20.120><c> de</c><00:07:20.240><c> un</c>
+
+00:07:20.350 --> 00:07:20.360 align:start position:0%
+poner allí, por ejemplo, el caso de un
+ 
+
+00:07:20.360 --> 00:07:22.390 align:start position:0%
+poner allí, por ejemplo, el caso de un
+vendedor,<00:07:20.759><c> si</c><00:07:20.879><c> lo</c><00:07:21.000><c> quisiéramos</c><00:07:21.560><c> tener,</c><00:07:22.199><c> la</c>
+
+00:07:22.390 --> 00:07:22.400 align:start position:0%
+vendedor, si lo quisiéramos tener, la
+ 
+
+00:07:22.400 --> 00:07:23.869 align:start position:0%
+vendedor, si lo quisiéramos tener, la
+información<00:07:22.759><c> de</c><00:07:22.960><c> nuestros</c><00:07:23.319><c> productos</c><00:07:23.720><c> y</c>
+
+00:07:23.869 --> 00:07:23.879 align:start position:0%
+información de nuestros productos y
+ 
+
+00:07:23.879 --> 00:07:25.150 align:start position:0%
+información de nuestros productos y
+nuestros<00:07:24.199><c> servicios</c><00:07:24.560><c> con</c><00:07:24.720><c> la</c><00:07:24.840><c> lista</c><00:07:25.039><c> de</c>
+
+00:07:25.150 --> 00:07:25.160 align:start position:0%
+nuestros servicios con la lista de
+ 
+
+00:07:25.160 --> 00:07:27.270 align:start position:0%
+nuestros servicios con la lista de
+precios<00:07:25.479><c> que</c><00:07:25.599><c> se</c><00:07:25.720><c> manejen</c><00:07:26.280><c> IVA</c><00:07:26.560><c> incluido</c><00:07:27.080><c> o</c>
+
+00:07:27.270 --> 00:07:27.280 align:start position:0%
+precios que se manejen IVA incluido o
+ 
+
+00:07:27.280 --> 00:07:29.430 align:start position:0%
+precios que se manejen IVA incluido o
+más<00:07:27.479><c> IVA.</c><00:07:28.160><c> En</c><00:07:28.319><c> este</c><00:07:28.520><c> caso,</c><00:07:28.720><c> yo</c><00:07:28.919><c> voy</c><00:07:29.039><c> a</c>
+
+00:07:29.430 --> 00:07:29.440 align:start position:0%
+más IVA. En este caso, yo voy a
+ 
+
+00:07:29.440 --> 00:07:31.990 align:start position:0%
+más IVA. En este caso, yo voy a
+seleccionar<00:07:30.120><c> un</c><00:07:30.400><c> producto</c><00:07:31.240><c> cualquiera,</c><00:07:31.840><c> le</c>
+
+00:07:31.990 --> 00:07:32.000 align:start position:0%
+seleccionar un producto cualquiera, le
+ 
+
+00:07:32.000 --> 00:07:33.350 align:start position:0%
+seleccionar un producto cualquiera, le
+voy<00:07:32.120><c> a</c><00:07:32.240><c> decir</c><00:07:32.360><c> que</c><00:07:32.479><c> ese</c><00:07:32.680><c> producto</c><00:07:33.039><c> vale</c>
+
+00:07:33.350 --> 00:07:33.360 align:start position:0%
+voy a decir que ese producto vale
+ 
+
+00:07:33.360 --> 00:07:37.029 align:start position:0%
+voy a decir que ese producto vale
+100,000<00:07:33.720><c> pes.</c><00:07:34.560><c> Tiene</c><00:07:34.879><c> también</c><00:07:35.240><c> allí</c><00:07:35.680><c> un</c><00:07:36.039><c> IVA.</c>
+
+00:07:37.029 --> 00:07:37.039 align:start position:0%
+100,000 pes. Tiene también allí un IVA.
+ 
+
+00:07:37.039 --> 00:07:39.309 align:start position:0%
+100,000 pes. Tiene también allí un IVA.
+Vamos<00:07:37.199><c> a</c><00:07:37.400><c> decirle</c><00:07:37.879><c> siguiente.</c><00:07:38.879><c> Podemos</c>
+
+00:07:39.309 --> 00:07:39.319 align:start position:0%
+Vamos a decirle siguiente. Podemos
+ 
+
+00:07:39.319 --> 00:07:41.430 align:start position:0%
+Vamos a decirle siguiente. Podemos
+indicar<00:07:39.800><c> otros</c><00:07:40.160><c> datos</c><00:07:40.479><c> a</c><00:07:40.639><c> la</c><00:07:40.800><c> factura,</c><00:07:41.280><c> como</c>
+
+00:07:41.430 --> 00:07:41.440 align:start position:0%
+indicar otros datos a la factura, como
+ 
+
+00:07:41.440 --> 00:07:43.110 align:start position:0%
+indicar otros datos a la factura, como
+por<00:07:41.560><c> ejemplo</c><00:07:41.840><c> la</c><00:07:42.000><c> el</c><00:07:42.160><c> número</c><00:07:42.400><c> de</c><00:07:42.520><c> la</c><00:07:42.599><c> orden</c><00:07:42.879><c> de</c>
+
+00:07:43.110 --> 00:07:43.120 align:start position:0%
+por ejemplo la el número de la orden de
+ 
+
+00:07:43.120 --> 00:07:44.790 align:start position:0%
+por ejemplo la el número de la orden de
+compra.<00:07:43.560><c> si</c><00:07:43.720><c> vamos</c><00:07:43.879><c> a</c><00:07:43.960><c> adjuntar</c><00:07:44.319><c> algún</c><00:07:44.639><c> tipo</c>
+
+00:07:44.790 --> 00:07:44.800 align:start position:0%
+compra. si vamos a adjuntar algún tipo
+ 
+
+00:07:44.800 --> 00:07:47.309 align:start position:0%
+compra. si vamos a adjuntar algún tipo
+de<00:07:45.039><c> información,</c><00:07:46.039><c> observaciones,</c><00:07:47.039><c> vamos</c><00:07:47.240><c> a</c>
+
+00:07:47.309 --> 00:07:47.319 align:start position:0%
+de información, observaciones, vamos a
+ 
+
+00:07:47.319 --> 00:07:49.309 align:start position:0%
+de información, observaciones, vamos a
+dejarlo<00:07:47.639><c> aquí</c><00:07:47.800><c> de</c><00:07:47.919><c> la</c><00:07:48.039><c> forma</c><00:07:48.639><c> más</c><00:07:48.840><c> sencilla</c>
+
+00:07:49.309 --> 00:07:49.319 align:start position:0%
+dejarlo aquí de la forma más sencilla
+ 
+
+00:07:49.319 --> 00:07:51.430 align:start position:0%
+dejarlo aquí de la forma más sencilla
+posible,<00:07:50.120><c> otros</c><00:07:50.479><c> ingresos</c><00:07:50.879><c> por</c><00:07:51.000><c> si</c><00:07:51.120><c> de</c><00:07:51.240><c> pronto</c>
+
+00:07:51.430 --> 00:07:51.440 align:start position:0%
+posible, otros ingresos por si de pronto
+ 
+
+00:07:51.440 --> 00:07:52.869 align:start position:0%
+posible, otros ingresos por si de pronto
+estoy<00:07:51.639><c> cobrando</c>
+
+00:07:52.869 --> 00:07:52.879 align:start position:0%
+estoy cobrando
+ 
+
+00:07:52.879 --> 00:07:55.510 align:start position:0%
+estoy cobrando
+fletes<00:07:53.879><c> y</c><00:07:54.080><c> vamos</c><00:07:54.240><c> a</c><00:07:54.400><c> decirle</c><00:07:54.759><c> siguiente,</c>
+
+00:07:55.510 --> 00:07:55.520 align:start position:0%
+fletes y vamos a decirle siguiente,
+ 
+
+00:07:55.520 --> 00:07:57.589 align:start position:0%
+fletes y vamos a decirle siguiente,
+donde<00:07:55.759><c> allí</c><00:07:55.960><c> ya</c><00:07:56.120><c> aparece</c><00:07:56.680><c> el</c><00:07:56.960><c> impuesto</c><00:07:57.319><c> que</c><00:07:57.479><c> se</c>
+
+00:07:57.589 --> 00:07:57.599 align:start position:0%
+donde allí ya aparece el impuesto que se
+ 
+
+00:07:57.599 --> 00:07:59.869 align:start position:0%
+donde allí ya aparece el impuesto que se
+está<00:07:57.759><c> cobrando</c><00:07:58.440><c> dentro</c><00:07:58.720><c> de</c><00:07:58.879><c> esta</c><00:07:59.120><c> transacción</c>
+
+00:07:59.869 --> 00:07:59.879 align:start position:0%
+está cobrando dentro de esta transacción
+ 
+
+00:07:59.879 --> 00:08:02.430 align:start position:0%
+está cobrando dentro de esta transacción
+y<00:08:00.080><c> la</c><00:08:00.280><c> forma</c><00:08:00.520><c> de</c><00:08:00.680><c> pago</c><00:08:01.199><c> efectivo</c><00:08:01.919><c> a</c><00:08:02.120><c> través</c><00:08:02.280><c> de</c>
+
+00:08:02.430 --> 00:08:02.440 align:start position:0%
+y la forma de pago efectivo a través de
+ 
+
+00:08:02.440 --> 00:08:05.670 align:start position:0%
+y la forma de pago efectivo a través de
+una<00:08:02.720><c> cuenta</c><00:08:03.039><c> bancaria</c><00:08:03.800><c> o</c><00:08:04.360><c> un</c><00:08:04.599><c> dinero</c><00:08:04.960><c> que</c><00:08:05.479><c> el</c>
+
+00:08:05.670 --> 00:08:05.680 align:start position:0%
+una cuenta bancaria o un dinero que el
+ 
+
+00:08:05.680 --> 00:08:07.710 align:start position:0%
+una cuenta bancaria o un dinero que el
+cliente<00:08:05.960><c> nos</c><00:08:06.120><c> va</c><00:08:06.199><c> a</c><00:08:06.240><c> quedar</c><00:08:06.520><c> de</c><00:08:06.680><c> bien.</c><00:08:07.440><c> Voy</c><00:08:07.599><c> a</c>
+
+00:08:07.710 --> 00:08:07.720 align:start position:0%
+cliente nos va a quedar de bien. Voy a
+ 
+
+00:08:07.720 --> 00:08:10.309 align:start position:0%
+cliente nos va a quedar de bien. Voy a
+dejarlo<00:08:08.039><c> allí</c><00:08:08.360><c> como</c><00:08:08.759><c> cuenta</c><00:08:09.120><c> de</c><00:08:09.440><c> efectivo</c><00:08:10.120><c> y</c>
+
+00:08:10.309 --> 00:08:10.319 align:start position:0%
+dejarlo allí como cuenta de efectivo y
+ 
+
+00:08:10.319 --> 00:08:13.070 align:start position:0%
+dejarlo allí como cuenta de efectivo y
+vamos<00:08:10.479><c> a</c><00:08:10.680><c> decirle</c><00:08:11.280><c> finalizar.</c><00:08:12.599><c> Aquí</c><00:08:12.759><c> es</c><00:08:12.879><c> donde</c>
+
+00:08:13.070 --> 00:08:13.080 align:start position:0%
+vamos a decirle finalizar. Aquí es donde
+ 
+
+00:08:13.080 --> 00:08:15.029 align:start position:0%
+vamos a decirle finalizar. Aquí es donde
+el<00:08:13.240><c> sistema</c><00:08:13.520><c> según</c><00:08:13.800><c> la</c><00:08:13.919><c> configuración</c><00:08:14.479><c> de</c><00:08:14.680><c> las</c>
+
+00:08:15.029 --> 00:08:15.039 align:start position:0%
+el sistema según la configuración de las
+ 
+
+00:08:15.039 --> 00:08:18.390 align:start position:0%
+el sistema según la configuración de las
+acciones<00:08:16.039><c> nos</c><00:08:16.479><c> va</c><00:08:16.680><c> a</c><00:08:16.840><c> preguntar</c><00:08:17.800><c> la</c><00:08:17.960><c> ejecución</c>
+
+00:08:18.390 --> 00:08:18.400 align:start position:0%
+acciones nos va a preguntar la ejecución
+ 
+
+00:08:18.400 --> 00:08:20.350 align:start position:0%
+acciones nos va a preguntar la ejecución
+de<00:08:18.560><c> estas.</c><00:08:19.199><c> Mire</c><00:08:19.400><c> que</c><00:08:19.599><c> está</c><00:08:19.759><c> diciendo</c><00:08:20.039><c> que</c><00:08:20.199><c> si</c>
+
+00:08:20.350 --> 00:08:20.360 align:start position:0%
+de estas. Mire que está diciendo que si
+ 
+
+00:08:20.360 --> 00:08:21.950 align:start position:0%
+de estas. Mire que está diciendo que si
+deseo<00:08:20.680><c> aprobar</c><00:08:21.000><c> el</c><00:08:21.159><c> documento</c><00:08:21.680><c> para</c><00:08:21.840><c> la</c>
+
+00:08:21.950 --> 00:08:21.960 align:start position:0%
+deseo aprobar el documento para la
+ 
+
+00:08:21.960 --> 00:08:24.350 align:start position:0%
+deseo aprobar el documento para la
+ejecución<00:08:22.360><c> de</c><00:08:22.520><c> acciones,</c><00:08:23.240><c> en</c><00:08:23.400><c> este</c><00:08:23.680><c> caso</c><00:08:24.199><c> el</c>
+
+00:08:24.350 --> 00:08:24.360 align:start position:0%
+ejecución de acciones, en este caso el
+ 
+
+00:08:24.360 --> 00:08:25.869 align:start position:0%
+ejecución de acciones, en este caso el
+envío<00:08:24.639><c> de</c><00:08:24.759><c> la</c><00:08:24.840><c> factura</c><00:08:25.199><c> electrónica,</c><00:08:25.759><c> el</c>
+
+00:08:25.869 --> 00:08:25.879 align:start position:0%
+envío de la factura electrónica, el
+ 
+
+00:08:25.879 --> 00:08:28.950 align:start position:0%
+envío de la factura electrónica, el
+envío<00:08:26.520><c> del</c><00:08:26.759><c> documento,</c><00:08:27.759><c> si</c><00:08:27.919><c> yo</c><00:08:28.120><c> le</c><00:08:28.280><c> indico</c><00:08:28.720><c> que</c>
+
+00:08:28.950 --> 00:08:28.960 align:start position:0%
+envío del documento, si yo le indico que
+ 
+
+00:08:28.960 --> 00:08:31.230 align:start position:0%
+envío del documento, si yo le indico que
+sí,<00:08:29.479><c> inmediatamente</c><00:08:30.240><c> el</c><00:08:30.479><c> sistema</c><00:08:31.000><c> va</c><00:08:31.159><c> a</c>
+
+00:08:31.230 --> 00:08:31.240 align:start position:0%
+sí, inmediatamente el sistema va a
+ 
+
+00:08:31.240 --> 00:08:32.509 align:start position:0%
+sí, inmediatamente el sistema va a
+ejecutar<00:08:31.680><c> las</c><00:08:31.879><c> acciones</c><00:08:32.159><c> que</c><00:08:32.279><c> tiene</c>
+
+00:08:32.509 --> 00:08:32.519 align:start position:0%
+ejecutar las acciones que tiene
+ 
+
+00:08:32.519 --> 00:08:34.550 align:start position:0%
+ejecutar las acciones que tiene
+programadas.<00:08:33.440><c> Si</c><00:08:33.560><c> le</c><00:08:33.719><c> indico</c><00:08:34.000><c> que</c><00:08:34.159><c> no,</c><00:08:34.399><c> pues</c>
+
+00:08:34.550 --> 00:08:34.560 align:start position:0%
+programadas. Si le indico que no, pues
+ 
+
+00:08:34.560 --> 00:08:36.550 align:start position:0%
+programadas. Si le indico que no, pues
+el<00:08:34.760><c> sistema</c><00:08:35.159><c> va</c><00:08:35.360><c> a</c><00:08:35.519><c> indicar</c><00:08:36.159><c> dentro</c><00:08:36.399><c> del</c>
+
+00:08:36.550 --> 00:08:36.560 align:start position:0%
+el sistema va a indicar dentro del
+ 
+
+00:08:36.560 --> 00:08:37.750 align:start position:0%
+el sistema va a indicar dentro del
+manejador<00:08:36.919><c> de</c><00:08:37.039><c> operaciones</c><00:08:37.440><c> que</c><00:08:37.560><c> esta</c>
+
+00:08:37.750 --> 00:08:37.760 align:start position:0%
+manejador de operaciones que esta
+ 
+
+00:08:37.760 --> 00:08:39.750 align:start position:0%
+manejador de operaciones que esta
+operación<00:08:38.279><c> está</c><00:08:38.599><c> pendiente</c><00:08:39.159><c> para</c><00:08:39.440><c> hacer</c><00:08:39.599><c> el</c>
+
+00:08:39.750 --> 00:08:39.760 align:start position:0%
+operación está pendiente para hacer el
+ 
+
+00:08:39.760 --> 00:08:42.350 align:start position:0%
+operación está pendiente para hacer el
+envío<00:08:40.599><c> a</c><00:08:40.760><c> la</c><00:08:40.919><c> Dian</c><00:08:41.320><c> y</c><00:08:41.519><c> también</c><00:08:41.839><c> para</c><00:08:42.039><c> hacer</c><00:08:42.200><c> el</c>
+
+00:08:42.350 --> 00:08:42.360 align:start position:0%
+envío a la Dian y también para hacer el
+ 
+
+00:08:42.360 --> 00:08:45.590 align:start position:0%
+envío a la Dian y también para hacer el
+envío<00:08:42.680><c> del</c><00:08:42.880><c> correo</c><00:08:43.440><c> a</c><00:08:44.039><c> el</c><00:08:44.360><c> adquiriente.</c><00:08:45.360><c> Voy</c><00:08:45.480><c> a</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+envío del correo a el adquiriente. Voy a
+ 
+
+00:08:45.600 --> 00:08:47.230 align:start position:0%
+envío del correo a el adquiriente. Voy a
+indicarle
+
+00:08:47.230 --> 00:08:47.240 align:start position:0%
+indicarle
+ 
+
+00:08:47.240 --> 00:08:50.269 align:start position:0%
+indicarle
+sí.<00:08:48.240><c> Allí</c><00:08:48.560><c> el</c><00:08:48.720><c> sistema</c><00:08:49.160><c> acaba</c><00:08:49.480><c> de</c><00:08:49.680><c> hacer</c><00:08:50.080><c> el</c>
+
+00:08:50.269 --> 00:08:50.279 align:start position:0%
+sí. Allí el sistema acaba de hacer el
+ 
+
+00:08:50.279 --> 00:08:52.470 align:start position:0%
+sí. Allí el sistema acaba de hacer el
+envío<00:08:50.600><c> de</c><00:08:50.800><c> email</c><00:08:51.760><c> del</c><00:08:52.000><c> documento</c>
+
+00:08:52.470 --> 00:08:52.480 align:start position:0%
+envío de email del documento
+ 
+
+00:08:52.480 --> 00:08:54.509 align:start position:0%
+envío de email del documento
+electrónico,<00:08:53.120><c> también</c><00:08:53.519><c> la</c><00:08:53.680><c> notificación</c>
+
+00:08:54.509 --> 00:08:54.519 align:start position:0%
+electrónico, también la notificación
+ 
+
+00:08:54.519 --> 00:08:55.990 align:start position:0%
+electrónico, también la notificación
+hacia<00:08:54.760><c> el</c><00:08:54.880><c> proveedor</c><00:08:55.160><c> tecnológico</c><00:08:55.720><c> con</c><00:08:55.880><c> la</c>
+
+00:08:55.990 --> 00:08:56.000 align:start position:0%
+hacia el proveedor tecnológico con la
+ 
+
+00:08:56.000 --> 00:08:59.030 align:start position:0%
+hacia el proveedor tecnológico con la
+validación<00:08:56.519><c> del</c><00:08:56.760><c> XML.</c><00:08:57.880><c> Si</c><00:08:58.040><c> chequeamos</c><00:08:58.680><c> dentro</c>
+
+00:08:59.030 --> 00:08:59.040 align:start position:0%
+validación del XML. Si chequeamos dentro
+ 
+
+00:08:59.040 --> 00:09:01.829 align:start position:0%
+validación del XML. Si chequeamos dentro
+de<00:08:59.880><c> el</c><00:09:00.040><c> manejador</c><00:09:00.480><c> de</c><00:09:00.600><c> operaciones,</c><00:09:01.440><c> miremos</c>
+
+00:09:01.829 --> 00:09:01.839 align:start position:0%
+de el manejador de operaciones, miremos
+ 
+
+00:09:01.839 --> 00:09:04.509 align:start position:0%
+de el manejador de operaciones, miremos
+que<00:09:02.000><c> ya</c><00:09:02.240><c> están</c><00:09:02.839><c> las</c><00:09:03.160><c> dos</c><00:09:03.399><c> acciones.</c><00:09:04.160><c> Aquí</c><00:09:04.360><c> está</c>
+
+00:09:04.509 --> 00:09:04.519 align:start position:0%
+que ya están las dos acciones. Aquí está
+ 
+
+00:09:04.519 --> 00:09:06.750 align:start position:0%
+que ya están las dos acciones. Aquí está
+en<00:09:04.680><c> color</c><00:09:04.920><c> verdecito,</c><00:09:05.920><c> dos</c><00:09:06.160><c> de</c><00:09:06.320><c> dos,</c><00:09:06.519><c> quiere</c>
+
+00:09:06.750 --> 00:09:06.760 align:start position:0%
+en color verdecito, dos de dos, quiere
+ 
+
+00:09:06.760 --> 00:09:08.269 align:start position:0%
+en color verdecito, dos de dos, quiere
+decir<00:09:06.920><c> que</c><00:09:07.040><c> hay</c><00:09:07.160><c> dos</c><00:09:07.360><c> acciones</c><00:09:07.800><c> que</c><00:09:07.920><c> se</c>
+
+00:09:08.269 --> 00:09:08.279 align:start position:0%
+decir que hay dos acciones que se
+ 
+
+00:09:08.279 --> 00:09:10.990 align:start position:0%
+decir que hay dos acciones que se
+ejecutaron.<00:09:09.279><c> Podemos</c><00:09:09.720><c> abrir</c><00:09:10.000><c> el</c><00:09:10.200><c> inspector</c>
+
+00:09:10.990 --> 00:09:11.000 align:start position:0%
+ejecutaron. Podemos abrir el inspector
+ 
+
+00:09:11.000 --> 00:09:14.870 align:start position:0%
+ejecutaron. Podemos abrir el inspector
+de<00:09:11.240><c> datos</c><00:09:12.160><c> y</c><00:09:12.399><c> allí</c><00:09:12.760><c> podemos</c><00:09:13.200><c> chequear</c><00:09:14.000><c> que</c><00:09:14.640><c> las</c>
+
+00:09:14.870 --> 00:09:14.880 align:start position:0%
+de datos y allí podemos chequear que las
+ 
+
+00:09:14.880 --> 00:09:16.710 align:start position:0%
+de datos y allí podemos chequear que las
+acciones<00:09:15.279><c> ya</c><00:09:15.440><c> están</c><00:09:15.640><c> ejecutadas.</c><00:09:16.360><c> Dentro</c><00:09:16.600><c> de</c>
+
+00:09:16.710 --> 00:09:16.720 align:start position:0%
+acciones ya están ejecutadas. Dentro de
+ 
+
+00:09:16.720 --> 00:09:18.750 align:start position:0%
+acciones ya están ejecutadas. Dentro de
+esta<00:09:16.920><c> opción</c><00:09:17.160><c> de</c><00:09:17.320><c> documento</c><00:09:17.920><c> nos</c><00:09:18.160><c> indica</c><00:09:18.560><c> en</c>
+
+00:09:18.750 --> 00:09:18.760 align:start position:0%
+esta opción de documento nos indica en
+ 
+
+00:09:18.760 --> 00:09:21.150 align:start position:0%
+esta opción de documento nos indica en
+la<00:09:19.279><c> pestaña</c><00:09:19.720><c> de</c><00:09:19.920><c> acciones</c><00:09:20.720><c> que</c><00:09:20.920><c> se</c><00:09:21.040><c> han</c>
+
+00:09:21.150 --> 00:09:21.160 align:start position:0%
+la pestaña de acciones que se han
+ 
+
+00:09:21.160 --> 00:09:23.310 align:start position:0%
+la pestaña de acciones que se han
+ejecutado<00:09:21.760><c> dos</c><00:09:21.959><c> acciones,</c><00:09:22.480><c> una</c><00:09:22.720><c> la</c><00:09:22.880><c> del</c><00:09:23.040><c> envío</c>
+
+00:09:23.310 --> 00:09:23.320 align:start position:0%
+ejecutado dos acciones, una la del envío
+ 
+
+00:09:23.320 --> 00:09:25.310 align:start position:0%
+ejecutado dos acciones, una la del envío
+de<00:09:23.519><c> email</c><00:09:23.959><c> y</c><00:09:24.160><c> la</c><00:09:24.320><c> otra</c><00:09:24.560><c> del</c><00:09:24.760><c> envío</c><00:09:25.040><c> del</c>
+
+00:09:25.310 --> 00:09:25.320 align:start position:0%
+de email y la otra del envío del
+ 
+
+00:09:25.320 --> 00:09:28.110 align:start position:0%
+de email y la otra del envío del
+documento<00:09:26.320><c> al</c><00:09:26.600><c> proveedor</c><00:09:27.120><c> tecnológico.</c>
+
+00:09:28.110 --> 00:09:28.120 align:start position:0%
+documento al proveedor tecnológico.
+ 
+
+00:09:28.120 --> 00:09:30.230 align:start position:0%
+documento al proveedor tecnológico.
+También<00:09:28.440><c> en</c><00:09:28.600><c> la</c><00:09:28.720><c> parte</c><00:09:28.920><c> inferior</c><00:09:29.560><c> nos</c><00:09:29.800><c> muestra</c>
+
+00:09:30.230 --> 00:09:30.240 align:start position:0%
+También en la parte inferior nos muestra
+ 
+
+00:09:30.240 --> 00:09:32.829 align:start position:0%
+También en la parte inferior nos muestra
+el<00:09:30.480><c> código</c><00:09:30.959><c> CUFE</c><00:09:31.320><c> de</c><00:09:31.519><c> este</c><00:09:31.760><c> documento</c>
+
+00:09:32.829 --> 00:09:32.839 align:start position:0%
+el código CUFE de este documento
+ 
+
+00:09:32.839 --> 00:09:35.630 align:start position:0%
+el código CUFE de este documento
+electrónico,<00:09:33.839><c> como</c><00:09:34.440><c> este</c><00:09:34.720><c> documento</c>
+
+00:09:35.630 --> 00:09:35.640 align:start position:0%
+electrónico, como este documento
+ 
+
+00:09:35.640 --> 00:09:37.829 align:start position:0%
+electrónico, como este documento
+implicaba<00:09:36.480><c> un</c><00:09:36.680><c> envío</c><00:09:37.040><c> de</c><00:09:37.279><c> email</c><00:09:37.640><c> al</c>
+
+00:09:37.829 --> 00:09:37.839 align:start position:0%
+implicaba un envío de email al
+ 
+
+00:09:37.839 --> 00:09:39.790 align:start position:0%
+implicaba un envío de email al
+adquiriente,<00:09:38.600><c> en</c><00:09:38.760><c> este</c><00:09:39.040><c> caso</c><00:09:39.279><c> a</c><00:09:39.480><c> esta</c>
+
+00:09:39.790 --> 00:09:39.800 align:start position:0%
+adquiriente, en este caso a esta
+ 
+
+00:09:39.800 --> 00:09:41.949 align:start position:0%
+adquiriente, en este caso a esta
+persona,<00:09:40.640><c> pues</c><00:09:40.920><c> entonces</c><00:09:41.320><c> vamos</c><00:09:41.519><c> a</c><00:09:41.640><c> simular</c>
+
+00:09:41.949 --> 00:09:41.959 align:start position:0%
+persona, pues entonces vamos a simular
+ 
+
+00:09:41.959 --> 00:09:43.829 align:start position:0%
+persona, pues entonces vamos a simular
+que<00:09:42.120><c> tenemos</c><00:09:42.399><c> el</c><00:09:42.600><c> correo</c><00:09:42.959><c> de</c><00:09:43.160><c> esta</c><00:09:43.440><c> persona</c>
+
+00:09:43.829 --> 00:09:43.839 align:start position:0%
+que tenemos el correo de esta persona
+ 
+
+00:09:43.839 --> 00:09:46.230 align:start position:0%
+que tenemos el correo de esta persona
+para<00:09:44.079><c> mirar</c><00:09:44.399><c> qué</c><00:09:44.560><c> fue</c><00:09:44.720><c> lo</c><00:09:44.839><c> que</c><00:09:44.920><c> le</c><00:09:45.040><c> llegó.</c><00:09:46.079><c> Al</c>
+
+00:09:46.230 --> 00:09:46.240 align:start position:0%
+para mirar qué fue lo que le llegó. Al
+ 
+
+00:09:46.240 --> 00:09:49.110 align:start position:0%
+para mirar qué fue lo que le llegó. Al
+adquiriente<00:09:46.880><c> le</c><00:09:47.079><c> llegó</c><00:09:47.360><c> entonces</c><00:09:47.839><c> un</c><00:09:48.120><c> correo,</c>
+
+00:09:49.110 --> 00:09:49.120 align:start position:0%
+adquiriente le llegó entonces un correo,
+ 
+
+00:09:49.120 --> 00:09:51.590 align:start position:0%
+adquiriente le llegó entonces un correo,
+un<00:09:49.320><c> correo</c><00:09:49.680><c> con</c><00:09:49.880><c> una</c><00:09:50.120><c> información</c><00:09:51.000><c> que</c><00:09:51.240><c> cumple</c>
+
+00:09:51.590 --> 00:09:51.600 align:start position:0%
+un correo con una información que cumple
+ 
+
+00:09:51.600 --> 00:09:53.430 align:start position:0%
+un correo con una información que cumple
+con<00:09:51.760><c> el</c><00:09:51.959><c> estándar</c><00:09:52.320><c> de</c><00:09:52.480><c> la</c><00:09:52.600><c> normatividad</c><00:09:53.200><c> de</c><00:09:53.320><c> la</c>
+
+00:09:53.430 --> 00:09:53.440 align:start position:0%
+con el estándar de la normatividad de la
+ 
+
+00:09:53.440 --> 00:09:56.150 align:start position:0%
+con el estándar de la normatividad de la
+DIAN,<00:09:53.680><c> donde</c><00:09:53.920><c> indica</c><00:09:54.800><c> los</c><00:09:55.040><c> datos</c><00:09:55.360><c> del</c><00:09:55.600><c> asunto</c>
+
+00:09:56.150 --> 00:09:56.160 align:start position:0%
+DIAN, donde indica los datos del asunto
+ 
+
+00:09:56.160 --> 00:09:58.430 align:start position:0%
+DIAN, donde indica los datos del asunto
+con<00:09:56.360><c> una</c><00:09:56.560><c> especificación</c><00:09:57.279><c> técnica,</c><00:09:58.040><c> el</c><00:09:58.240><c> nid</c>
+
+00:09:58.430 --> 00:09:58.440 align:start position:0%
+con una especificación técnica, el nid
+ 
+
+00:09:58.440 --> 00:10:01.269 align:start position:0%
+con una especificación técnica, el nid
+del<00:09:58.640><c> emisor,</c><00:09:59.560><c> el</c><00:09:59.720><c> nombre</c><00:09:59.959><c> de</c><00:10:00.120><c> la</c><00:10:00.240><c> empresa,</c><00:10:01.079><c> el</c>
+
+00:10:01.269 --> 00:10:01.279 align:start position:0%
+del emisor, el nombre de la empresa, el
+ 
+
+00:10:01.279 --> 00:10:03.590 align:start position:0%
+del emisor, el nombre de la empresa, el
+número<00:10:01.560><c> de</c><00:10:01.720><c> la</c><00:10:01.920><c> factura,</c><00:10:02.920><c> el</c><00:10:03.160><c> tipo</c><00:10:03.360><c> de</c>
+
+00:10:03.590 --> 00:10:03.600 align:start position:0%
+número de la factura, el tipo de
+ 
+
+00:10:03.600 --> 00:10:05.870 align:start position:0%
+número de la factura, el tipo de
+factura,<00:10:04.600><c> este</c><00:10:04.920><c> formato</c><00:10:05.360><c> que</c><00:10:05.640><c> está</c>
+
+00:10:05.870 --> 00:10:05.880 align:start position:0%
+factura, este formato que está
+ 
+
+00:10:05.880 --> 00:10:07.430 align:start position:0%
+factura, este formato que está
+apareciendo<00:10:06.320><c> allí</c><00:10:06.760><c> donde</c><00:10:06.959><c> nos</c><00:10:07.120><c> indica</c>
+
+00:10:07.430 --> 00:10:07.440 align:start position:0%
+apareciendo allí donde nos indica
+ 
+
+00:10:07.440 --> 00:10:10.389 align:start position:0%
+apareciendo allí donde nos indica
+cordial<00:10:07.880><c> saludo</c><00:10:08.640><c> y</c><00:10:08.800><c> nos</c><00:10:09.000><c> indica</c><00:10:09.360><c> mi</c><00:10:09.560><c> empresa</c>
+
+00:10:10.389 --> 00:10:10.399 align:start position:0%
+cordial saludo y nos indica mi empresa
+ 
+
+00:10:10.399 --> 00:10:13.069 align:start position:0%
+cordial saludo y nos indica mi empresa
+ha<00:10:10.519><c> emitido</c><00:10:11.320><c> una</c><00:10:11.600><c> factura</c><00:10:12.040><c> electrónica.</c><00:10:12.920><c> Esta</c>
+
+00:10:13.069 --> 00:10:13.079 align:start position:0%
+ha emitido una factura electrónica. Esta
+ 
+
+00:10:13.079 --> 00:10:15.430 align:start position:0%
+ha emitido una factura electrónica. Esta
+es<00:10:13.200><c> la</c><00:10:13.360><c> plantilla</c><00:10:13.920><c> que</c><00:10:14.519><c> veíamos</c><00:10:15.000><c> dentro</c><00:10:15.240><c> del</c>
+
+00:10:15.430 --> 00:10:15.440 align:start position:0%
+es la plantilla que veíamos dentro del
+ 
+
+00:10:15.440 --> 00:10:17.430 align:start position:0%
+es la plantilla que veíamos dentro del
+documento<00:10:15.839><c> de</c><00:10:16.000><c> soporte</c><00:10:16.360><c> que</c><00:10:16.519><c> se</c><00:10:16.680><c> configuraba</c>
+
+00:10:17.430 --> 00:10:17.440 align:start position:0%
+documento de soporte que se configuraba
+ 
+
+00:10:17.440 --> 00:10:19.870 align:start position:0%
+documento de soporte que se configuraba
+para<00:10:17.720><c> poderlo</c><00:10:18.120><c> notificar,</c><00:10:19.120><c> pero</c><00:10:19.440><c> también</c>
+
+00:10:19.870 --> 00:10:19.880 align:start position:0%
+para poderlo notificar, pero también
+ 
+
+00:10:19.880 --> 00:10:21.590 align:start position:0%
+para poderlo notificar, pero también
+vamos<00:10:20.120><c> a</c><00:10:20.279><c> encontrar</c><00:10:20.839><c> que</c><00:10:21.000><c> a</c><00:10:21.120><c> nivel</c><00:10:21.279><c> de</c><00:10:21.399><c> lo</c><00:10:21.519><c> que</c>
+
+00:10:21.590 --> 00:10:21.600 align:start position:0%
+vamos a encontrar que a nivel de lo que
+ 
+
+00:10:21.600 --> 00:10:24.430 align:start position:0%
+vamos a encontrar que a nivel de lo que
+son<00:10:21.959><c> archivos</c><00:10:22.839><c> adjuntos</c><00:10:23.839><c> encontramos</c><00:10:24.320><c> que</c>
+
+00:10:24.430 --> 00:10:24.440 align:start position:0%
+son archivos adjuntos encontramos que
+ 
+
+00:10:24.440 --> 00:10:27.030 align:start position:0%
+son archivos adjuntos encontramos que
+hay<00:10:24.600><c> un</c><00:10:24.680><c> archivo</c><00:10:25.440><c> punto</c><00:10:25.720><c> zip.</c><00:10:26.320><c> Este</c><00:10:26.480><c> es</c><00:10:26.680><c> el</c>
+
+00:10:27.030 --> 00:10:27.040 align:start position:0%
+hay un archivo punto zip. Este es el
+ 
+
+00:10:27.040 --> 00:10:29.389 align:start position:0%
+hay un archivo punto zip. Este es el
+contenedor<00:10:27.600><c> del</c><00:10:27.800><c> documento</c><00:10:28.320><c> electrónico.</c><00:10:29.279><c> Si</c>
+
+00:10:29.389 --> 00:10:29.399 align:start position:0%
+contenedor del documento electrónico. Si
+ 
+
+00:10:29.399 --> 00:10:31.630 align:start position:0%
+contenedor del documento electrónico. Si
+descargamos<00:10:29.959><c> dicho</c><00:10:30.399><c> documento,</c><00:10:31.399><c> ese</c>
+
+00:10:31.630 --> 00:10:31.640 align:start position:0%
+descargamos dicho documento, ese
+ 
+
+00:10:31.640 --> 00:10:33.590 align:start position:0%
+descargamos dicho documento, ese
+documento<00:10:32.120><c> electrónico</c><00:10:33.040><c> tiene</c><00:10:33.360><c> entonces</c>
+
+00:10:33.590 --> 00:10:33.600 align:start position:0%
+documento electrónico tiene entonces
+ 
+
+00:10:33.600 --> 00:10:37.030 align:start position:0%
+documento electrónico tiene entonces
+allí<00:10:34.079><c> el</c><00:10:34.279><c> archivo</c><00:10:34.760><c> XML</c><00:10:35.639><c> que</c><00:10:36.079><c> ya</c><00:10:36.360><c> está</c><00:10:36.600><c> validado</c>
+
+00:10:37.030 --> 00:10:37.040 align:start position:0%
+allí el archivo XML que ya está validado
+ 
+
+00:10:37.040 --> 00:10:39.030 align:start position:0%
+allí el archivo XML que ya está validado
+por<00:10:37.240><c> la</c><00:10:37.360><c> Dian.</c><00:10:37.920><c> Vamos</c><00:10:38.079><c> a</c>
+
+00:10:39.030 --> 00:10:39.040 align:start position:0%
+por la Dian. Vamos a
+ 
+
+00:10:39.040 --> 00:10:42.110 align:start position:0%
+por la Dian. Vamos a
+abrirlo<00:10:40.040><c> y</c><00:10:40.279><c> este</c><00:10:40.519><c> corresponde</c><00:10:41.320><c> al</c><00:10:41.680><c> attach</c>
+
+00:10:42.110 --> 00:10:42.120 align:start position:0%
+abrirlo y este corresponde al attach
+ 
+
+00:10:42.120 --> 00:10:44.990 align:start position:0%
+abrirlo y este corresponde al attach
+document,<00:10:42.760><c> que</c><00:10:42.959><c> es</c><00:10:43.440><c> el</c><00:10:43.800><c> contenedor</c><00:10:44.680><c> donde</c>
+
+00:10:44.990 --> 00:10:45.000 align:start position:0%
+document, que es el contenedor donde
+ 
+
+00:10:45.000 --> 00:10:47.110 align:start position:0%
+document, que es el contenedor donde
+contiene<00:10:46.000><c> el</c><00:10:46.200><c> invoice,</c><00:10:46.720><c> que</c><00:10:46.839><c> es</c><00:10:46.959><c> la</c>
+
+00:10:47.110 --> 00:10:47.120 align:start position:0%
+contiene el invoice, que es la
+ 
+
+00:10:47.120 --> 00:10:49.829 align:start position:0%
+contiene el invoice, que es la
+información<00:10:47.680><c> de</c><00:10:47.920><c> la</c><00:10:48.160><c> factura.</c>
+
+00:10:49.829 --> 00:10:49.839 align:start position:0%
+información de la factura.
+ 
+
+00:10:49.839 --> 00:10:52.790 align:start position:0%
+información de la factura.
+Y<00:10:50.000><c> también</c><00:10:50.639><c> contiene</c><00:10:51.200><c> algo</c><00:10:51.760><c> que</c><00:10:51.959><c> se</c><00:10:52.120><c> llama</c><00:10:52.519><c> el</c>
+
+00:10:52.790 --> 00:10:52.800 align:start position:0%
+Y también contiene algo que se llama el
+ 
+
+00:10:52.800 --> 00:10:55.470 align:start position:0%
+Y también contiene algo que se llama el
+application<00:10:53.480><c> response,</c><00:10:54.200><c> que</c><00:10:54.720><c> es</c><00:10:55.040><c> la</c>
+
+00:10:55.470 --> 00:10:55.480 align:start position:0%
+application response, que es la
+ 
+
+00:10:55.480 --> 00:10:58.069 align:start position:0%
+application response, que es la
+validación<00:10:56.279><c> directa</c><00:10:57.000><c> de</c><00:10:57.160><c> la</c><00:10:57.360><c> dian</c><00:10:57.800><c> al</c>
+
+00:10:58.069 --> 00:10:58.079 align:start position:0%
+validación directa de la dian al
+ 
+
+00:10:58.079 --> 00:11:00.829 align:start position:0%
+validación directa de la dian al
+documento<00:10:58.839><c> electrónico.</c><00:10:59.839><c> Entonces,</c><00:11:00.480><c> digamos</c>
+
+00:11:00.829 --> 00:11:00.839 align:start position:0%
+documento electrónico. Entonces, digamos
+ 
+
+00:11:00.839 --> 00:11:02.990 align:start position:0%
+documento electrónico. Entonces, digamos
+que<00:11:01.040><c> aquí</c><00:11:01.519><c> está</c><00:11:01.800><c> con</c><00:11:01.959><c> el</c><00:11:02.279><c> cumplimiento</c>
+
+00:11:02.990 --> 00:11:03.000 align:start position:0%
+que aquí está con el cumplimiento
+ 
+
+00:11:03.000 --> 00:11:05.750 align:start position:0%
+que aquí está con el cumplimiento
+normativo<00:11:03.720><c> del</c><00:11:03.959><c> envío</c><00:11:04.279><c> del</c><00:11:04.519><c> XML</c><00:11:05.160><c> ya</c><00:11:05.360><c> validado</c>
+
+00:11:05.750 --> 00:11:05.760 align:start position:0%
+normativo del envío del XML ya validado
+ 
+
+00:11:05.760 --> 00:11:08.790 align:start position:0%
+normativo del envío del XML ya validado
+a<00:11:05.839><c> la</c><00:11:06.000><c> DIAN,</c><00:11:07.000><c> pero</c><00:11:07.320><c> también</c><00:11:07.959><c> contiene</c><00:11:08.560><c> el</c>
+
+00:11:08.790 --> 00:11:08.800 align:start position:0%
+a la DIAN, pero también contiene el
+ 
+
+00:11:08.800 --> 00:11:10.790 align:start position:0%
+a la DIAN, pero también contiene el
+archivo<00:11:09.360><c> de</c><00:11:09.639><c> representación</c><00:11:10.240><c> gráfica,</c><00:11:10.680><c> que</c>
+
+00:11:10.790 --> 00:11:10.800 align:start position:0%
+archivo de representación gráfica, que
+ 
+
+00:11:10.800 --> 00:11:14.069 align:start position:0%
+archivo de representación gráfica, que
+en<00:11:10.920><c> este</c><00:11:11.120><c> caso</c><00:11:11.440><c> es</c><00:11:11.639><c> un</c><00:11:11.800><c> PDF.</c><00:11:13.040><c> Si</c><00:11:13.160><c> lo</c><00:11:13.279><c> miramos</c>
+
+00:11:14.069 --> 00:11:14.079 align:start position:0%
+en este caso es un PDF. Si lo miramos
+ 
+
+00:11:14.079 --> 00:11:15.990 align:start position:0%
+en este caso es un PDF. Si lo miramos
+contiene<00:11:14.600><c> toda</c><00:11:14.800><c> la</c><00:11:14.959><c> estructura</c><00:11:15.440><c> ya</c><00:11:15.639><c> también</c>
+
+00:11:15.990 --> 00:11:16.000 align:start position:0%
+contiene toda la estructura ya también
+ 
+
+00:11:16.000 --> 00:11:18.389 align:start position:0%
+contiene toda la estructura ya también
+validad<00:11:16.560><c> según</c><00:11:16.800><c> la</c><00:11:16.920><c> normatividad</c><00:11:17.920><c> con</c><00:11:18.160><c> todos</c>
+
+00:11:18.389 --> 00:11:18.399 align:start position:0%
+validad según la normatividad con todos
+ 
+
+00:11:18.399 --> 00:11:20.069 align:start position:0%
+validad según la normatividad con todos
+los<00:11:18.600><c> datos</c><00:11:18.959><c> técnicos</c><00:11:19.519><c> tanto</c><00:11:19.760><c> de</c><00:11:19.920><c> la</c>
+
+00:11:20.069 --> 00:11:20.079 align:start position:0%
+los datos técnicos tanto de la
+ 
+
+00:11:20.079 --> 00:11:21.629 align:start position:0%
+los datos técnicos tanto de la
+resolución<00:11:20.680><c> como</c><00:11:20.920><c> de</c><00:11:21.040><c> los</c><00:11:21.160><c> diferentes</c>
+
+00:11:21.629 --> 00:11:21.639 align:start position:0%
+resolución como de los diferentes
+ 
+
+00:11:21.639 --> 00:11:23.870 align:start position:0%
+resolución como de los diferentes
+estatutos<00:11:22.040><c> tributarios</c><00:11:23.000><c> donde</c><00:11:23.320><c> nos</c><00:11:23.560><c> indica</c>
+
+00:11:23.870 --> 00:11:23.880 align:start position:0%
+estatutos tributarios donde nos indica
+ 
+
+00:11:23.880 --> 00:11:26.230 align:start position:0%
+estatutos tributarios donde nos indica
+la<00:11:24.120><c> información</c><00:11:24.800><c> de</c><00:11:25.000><c> la</c><00:11:25.160><c> factura</c><00:11:25.519><c> de</c><00:11:25.680><c> venta</c>
+
+00:11:26.230 --> 00:11:26.240 align:start position:0%
+la información de la factura de venta
+ 
+
+00:11:26.240 --> 00:11:28.470 align:start position:0%
+la información de la factura de venta
+con<00:11:26.480><c> las</c><00:11:26.680><c> validaciones</c><00:11:27.440><c> ya</c><00:11:27.680><c> directamente</c>
+
+00:11:28.470 --> 00:11:28.480 align:start position:0%
+con las validaciones ya directamente
+ 
+
+00:11:28.480 --> 00:11:31.110 align:start position:0%
+con las validaciones ya directamente
+aprobadas<00:11:29.079><c> por</c><00:11:29.320><c> la</c><00:11:29.480><c> Dian.</c>
+
+00:11:31.110 --> 00:11:31.120 align:start position:0%
+aprobadas por la Dian.
+ 
+
+00:11:31.120 --> 00:11:33.590 align:start position:0%
+aprobadas por la Dian.
+Entonces,<00:11:31.639><c> muy</c><00:11:31.959><c> importante,</c><00:11:32.920><c> para</c><00:11:33.200><c> poder</c>
+
+00:11:33.590 --> 00:11:33.600 align:start position:0%
+Entonces, muy importante, para poder
+ 
+
+00:11:33.600 --> 00:11:35.750 align:start position:0%
+Entonces, muy importante, para poder
+nuevamente<00:11:34.480><c> confirmar</c><00:11:35.399><c> que</c><00:11:35.560><c> las</c>
+
+00:11:35.750 --> 00:11:35.760 align:start position:0%
+nuevamente confirmar que las
+ 
+
+00:11:35.760 --> 00:11:38.150 align:start position:0%
+nuevamente confirmar que las
+configuraciones<00:11:36.519><c> están</c><00:11:36.839><c> correctas,</c><00:11:37.720><c> es</c><00:11:37.959><c> muy</c>
+
+00:11:38.150 --> 00:11:38.160 align:start position:0%
+configuraciones están correctas, es muy
+ 
+
+00:11:38.160 --> 00:11:41.269 align:start position:0%
+configuraciones están correctas, es muy
+clave<00:11:38.839><c> que</c><00:11:39.560><c> siempre</c><00:11:40.040><c> chequemos</c><00:11:40.800><c> dentro</c><00:11:41.079><c> de</c>
+
+00:11:41.269 --> 00:11:41.279 align:start position:0%
+clave que siempre chequemos dentro de
+ 
+
+00:11:41.279 --> 00:11:44.269 align:start position:0%
+clave que siempre chequemos dentro de
+los<00:11:41.519><c> documentos</c><00:11:42.079><c> de</c><00:11:42.360><c> soporte,</c><00:11:43.360><c> en</c><00:11:43.560><c> este</c><00:11:43.839><c> caso</c>
+
+00:11:44.269 --> 00:11:44.279 align:start position:0%
+los documentos de soporte, en este caso
+ 
+
+00:11:44.279 --> 00:11:45.990 align:start position:0%
+los documentos de soporte, en este caso
+el<00:11:44.440><c> documento</c><00:11:44.839><c> de</c><00:11:45.000><c> soporte</c><00:11:45.360><c> que</c><00:11:45.480><c> utilicé</c><00:11:45.880><c> para</c>
+
+00:11:45.990 --> 00:11:46.000 align:start position:0%
+el documento de soporte que utilicé para
+ 
+
+00:11:46.000 --> 00:11:48.590 align:start position:0%
+el documento de soporte que utilicé para
+el<00:11:46.160><c> ejemplo</c><00:11:46.959><c> 1010,</c><00:11:47.800><c> factura</c><00:11:48.160><c> de</c><00:11:48.320><c> venta</c>
+
+00:11:48.590 --> 00:11:48.600 align:start position:0%
+el ejemplo 1010, factura de venta
+ 
+
+00:11:48.600 --> 00:11:50.750 align:start position:0%
+el ejemplo 1010, factura de venta
+electrónica,<00:11:49.560><c> que</c><00:11:49.800><c> las</c><00:11:50.000><c> acciones</c><00:11:50.519><c> están</c>
+
+00:11:50.750 --> 00:11:50.760 align:start position:0%
+electrónica, que las acciones están
+ 
+
+00:11:50.760 --> 00:11:53.150 align:start position:0%
+electrónica, que las acciones están
+plenamente<00:11:51.360><c> configuradas.</c><00:11:52.519><c> La</c><00:11:52.680><c> acción</c><00:11:53.000><c> de</c>
+
+00:11:53.150 --> 00:11:53.160 align:start position:0%
+plenamente configuradas. La acción de
+ 
+
+00:11:53.160 --> 00:11:55.150 align:start position:0%
+plenamente configuradas. La acción de
+hace<00:11:53.399><c> parte</c><00:11:53.639><c> de</c><00:11:53.839><c> facturación</c><00:11:54.440><c> electrónica</c>
+
+00:11:55.150 --> 00:11:55.160 align:start position:0%
+hace parte de facturación electrónica
+ 
+
+00:11:55.160 --> 00:11:57.389 align:start position:0%
+hace parte de facturación electrónica
+que<00:11:55.360><c> me</c><00:11:55.519><c> permite</c><00:11:56.279><c> visualizar</c><00:11:56.920><c> esta</c>
+
+00:11:57.389 --> 00:11:57.399 align:start position:0%
+que me permite visualizar esta
+ 
+
+00:11:57.399 --> 00:11:59.550 align:start position:0%
+que me permite visualizar esta
+información<00:11:58.399><c> donde</c><00:11:58.680><c> se</c><00:11:58.839><c> va</c><00:11:58.920><c> a</c><00:11:59.040><c> hacer</c><00:11:59.160><c> el</c><00:11:59.279><c> envío</c>
+
+00:11:59.550 --> 00:11:59.560 align:start position:0%
+información donde se va a hacer el envío
+ 
+
+00:11:59.560 --> 00:12:01.310 align:start position:0%
+información donde se va a hacer el envío
+del<00:11:59.760><c> documento</c><00:12:00.200><c> electrónico</c><00:12:00.720><c> para</c><00:12:00.959><c> que</c><00:12:01.200><c> la</c>
+
+00:12:01.310 --> 00:12:01.320 align:start position:0%
+del documento electrónico para que la
+ 
+
+00:12:01.320 --> 00:12:03.829 align:start position:0%
+del documento electrónico para que la
+Dian<00:12:01.639><c> lo</c><00:12:01.880><c> valide</c><00:12:02.480><c> y</c><00:12:02.680><c> lo</c><00:12:02.839><c> apruebe,</c><00:12:03.440><c> que</c><00:12:03.560><c> es</c><00:12:03.720><c> el</c>
+
+00:12:03.829 --> 00:12:03.839 align:start position:0%
+Dian lo valide y lo apruebe, que es el
+ 
+
+00:12:03.839 --> 00:12:08.150 align:start position:0%
+Dian lo valide y lo apruebe, que es el
+archivo<00:12:04.760><c> XML</c><00:12:05.760><c> y</c><00:12:05.959><c> la</c><00:12:06.639><c> configuración</c><00:12:07.639><c> de</c><00:12:07.920><c> la</c>
+
+00:12:08.150 --> 00:12:08.160 align:start position:0%
+archivo XML y la configuración de la
+ 
+
+00:12:08.160 --> 00:12:10.790 align:start position:0%
+archivo XML y la configuración de la
+acción<00:12:08.600><c> de</c><00:12:08.800><c> envío</c><00:12:09.160><c> de</c><00:12:09.320><c> email</c><00:12:09.639><c> automático</c><00:12:10.519><c> para</c>
+
+00:12:10.790 --> 00:12:10.800 align:start position:0%
+acción de envío de email automático para
+ 
+
+00:12:10.800 --> 00:12:13.430 align:start position:0%
+acción de envío de email automático para
+que<00:12:11.279><c> se</c><00:12:11.480><c> pueda</c><00:12:11.839><c> configurar</c><00:12:12.720><c> el</c><00:12:12.959><c> envío</c><00:12:13.279><c> de</c>
+
+00:12:13.430 --> 00:12:13.440 align:start position:0%
+que se pueda configurar el envío de
+ 
+
+00:12:13.440 --> 00:12:16.550 align:start position:0%
+que se pueda configurar el envío de
+email<00:12:13.800><c> a</c><00:12:14.000><c> través</c><00:12:14.199><c> de</c><00:12:14.320><c> una</c><00:12:14.880><c> plantilla</c><00:12:15.880><c> y</c><00:12:16.360><c> que</c>
+
+00:12:16.550 --> 00:12:16.560 align:start position:0%
+email a través de una plantilla y que
+ 
+
+00:12:16.560 --> 00:12:19.230 align:start position:0%
+email a través de una plantilla y que
+dentro<00:12:16.880><c> de</c><00:12:17.040><c> dicho</c><00:12:17.399><c> correo</c><00:12:18.120><c> lleguen</c><00:12:18.959><c> los</c>
+
+00:12:19.230 --> 00:12:19.240 align:start position:0%
+dentro de dicho correo lleguen los
+ 
+
+00:12:19.240 --> 00:12:22.189 align:start position:0%
+dentro de dicho correo lleguen los
+archivos<00:12:20.000><c> comprimidos</c><00:12:20.600><c> en</c><00:12:20.760><c> formato.</c><00:12:21.440><c> zif</c><00:12:21.920><c> del</c>
+
+00:12:22.189 --> 00:12:22.199 align:start position:0%
+archivos comprimidos en formato. zif del
+ 
+
+00:12:22.199 --> 00:12:25.629 align:start position:0%
+archivos comprimidos en formato. zif del
+XML<00:12:22.959><c> validado</c><00:12:23.440><c> por</c><00:12:23.639><c> la</c><00:12:23.760><c> Dian</c><00:12:24.360><c> más</c><00:12:24.560><c> el</c><00:12:24.760><c> PDF</c><00:12:25.279><c> o</c><00:12:25.440><c> la</c>
+
+00:12:25.629 --> 00:12:25.639 align:start position:0%
+XML validado por la Dian más el PDF o la
+ 
+
+00:12:25.639 --> 00:12:27.509 align:start position:0%
+XML validado por la Dian más el PDF o la
+representación<00:12:26.279><c> gráfica</c><00:12:26.680><c> de</c><00:12:26.800><c> dicho</c>
+
+00:12:27.509 --> 00:12:27.519 align:start position:0%
+representación gráfica de dicho
+ 
+
+00:12:27.519 --> 00:12:30.230 align:start position:0%
+representación gráfica de dicho
+documento.<00:12:28.519><c> Ya</c><00:12:28.680><c> con</c><00:12:28.880><c> estas</c><00:12:29.160><c> dos</c><00:12:29.519><c> acciones</c>
+
+00:12:30.230 --> 00:12:30.240 align:start position:0%
+documento. Ya con estas dos acciones
+ 
+
+00:12:30.240 --> 00:12:33.069 align:start position:0%
+documento. Ya con estas dos acciones
+configuradas<00:12:31.240><c> podremos</c><00:12:31.720><c> ver</c><00:12:31.920><c> el</c><00:12:32.120><c> resultado</c>
+
+00:12:33.069 --> 00:12:33.079 align:start position:0%
+configuradas podremos ver el resultado
+ 
+
+00:12:33.079 --> 00:12:36.030 align:start position:0%
+configuradas podremos ver el resultado
+de<00:12:33.760><c> una</c><00:12:34.000><c> validación</c><00:12:34.560><c> por</c><00:12:34.760><c> parte</c><00:12:35.040><c> de</c><00:12:35.160><c> la</c><00:12:35.279><c> Dian</c><00:12:35.760><c> y</c>
+
+00:12:36.030 --> 00:12:36.040 align:start position:0%
+de una validación por parte de la Dian y
+ 
+
+00:12:36.040 --> 00:12:38.470 align:start position:0%
+de una validación por parte de la Dian y
+posterior<00:12:36.839><c> envío</c><00:12:37.240><c> del</c><00:12:37.440><c> correo</c><00:12:37.760><c> electrónico</c>
+
+00:12:38.470 --> 00:12:38.480 align:start position:0%
+posterior envío del correo electrónico
+ 
+
+00:12:38.480 --> 00:12:40.670 align:start position:0%
+posterior envío del correo electrónico
+al<00:12:38.800><c> usuario</c><00:12:39.279><c> final</c><00:12:39.680><c> o</c>
+
+00:12:40.670 --> 00:12:40.680 align:start position:0%
+al usuario final o
+ 
+
+00:12:40.680 --> 00:12:43.269 align:start position:0%
+al usuario final o
+adquiriente.<00:12:41.680><c> Esto</c><00:12:41.880><c> es</c><00:12:42.040><c> todo</c><00:12:42.440><c> acerca</c><00:12:42.920><c> del</c>
+
+00:12:43.269 --> 00:12:43.279 align:start position:0%
+adquiriente. Esto es todo acerca del
+ 
+
+00:12:43.279 --> 00:12:45.269 align:start position:0%
+adquiriente. Esto es todo acerca del
+ejemplo<00:12:43.680><c> de</c><00:12:43.920><c> facturación</c><00:12:44.480><c> electrónica</c><00:12:45.079><c> con</c>
+
+00:12:45.269 --> 00:12:45.279 align:start position:0%
+ejemplo de facturación electrónica con
+ 
+
+00:12:45.279 --> 00:12:49.920 align:start position:0%
+ejemplo de facturación electrónica con
+envío<00:12:45.600><c> de</c><00:12:45.800><c> email.</c><00:12:46.560><c> Muchas</c><00:12:46.880><c> gracias.</c><00:12:47.680><c> M.</c>
+

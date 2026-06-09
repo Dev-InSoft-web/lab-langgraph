@@ -1,0 +1,818 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-04T03:39:43.802Z",
+  "videoId": "e18y0Iz1jms",
+  "videoUrl": "https://www.youtube.com/watch?v=e18y0Iz1jms",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/@ContaPymeSoftwareContable/videos"
+  },
+  "ytdlp": {
+    "id": "e18y0Iz1jms",
+    "title": "Programa contable ContaPyme - Drill Down ( Historia del dato de los informes)",
+    "fulltitle": "Programa contable ContaPyme - Drill Down ( Historia del dato de los informes)",
+    "description": "http://www.contapyme.com\nEste video del software contable ContaPyme explica como explorar el movimiento de cualquier dato de un informe de consulta por pantalla, haciendo uso del Drill Down.\nCP40-020-030-010B-010M",
+    "duration": 489,
+    "duration_string": "8:09",
+    "upload_date": "20111031",
+    "timestamp": 1320080340,
+    "view_count": 289,
+    "comment_count": 0,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "ContaPyme",
+      "sistema contable",
+      "software contable",
+      "sistema de contabilidad",
+      "software para pymes",
+      "sistema de gestion empresarial",
+      "software para contadores",
+      "programas contables",
+      "software contable colombia"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "public",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/e18y0Iz1jms/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC4gVih_MA8=&rs=AOn4CLDilb8VYCueizbELfUC_R3H1Q2ZWw",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gSAAuADigIMCAAQARguIFYofzAP&rs=AOn4CLD_-kVZc61vQrMyww4VztmFJ8B3Ag",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC4gVih_MA8=&rs=AOn4CLAzNEXSh6QVQRrCHelBBA0Ef9O4Rw",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC4gVih_MA8=&rs=AOn4CLAcJz7m7k3FcdLvj_8EKbFxGR9tmA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC4gVih_MA8=&rs=AOn4CLC4MuawsyETRHC-NZG2ZuY9KFHG8A",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "34",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARguIFYofzAP&rs=AOn4CLCTXzuXqBypmeQA9VZDL768Ux1EKA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARguIFYofzAP&rs=AOn4CLAc1DenhmcW-sL_IrQ_QhlTsWLzrA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC4gVih_MA8=&rs=AOn4CLCYcqe_ksGKKVBxEBNEaRUHe9CqZg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "37",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/hqdefault.webp",
+        "preference": -6,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/sddefault.jpg",
+        "preference": -5,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGC4gVih_MA8=&rs=AOn4CLDilb8VYCueizbELfUC_R3H1Q2ZWw",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/e18y0Iz1jms/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/e18y0Iz1jms/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=e18y0Iz1jms",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.20449897750511248,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "60x45",
+        "width": 60,
+        "height": 45,
+        "fps": 0.20245398773006135,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "120x90",
+        "width": 120,
+        "height": 90,
+        "fps": 0.20245398773006135,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "240x180",
+        "width": 240,
+        "height": 180,
+        "fps": 0.20245398773006135,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "480x360",
+        "width": 480,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 231.518,
+        "asr": 44100,
+        "filesize_approx": 14155242,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Programa contable ContaPyme - Drill Down ( Historia del dato de los informes)",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/e18y0Iz1jms/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/e18y0Iz1jms?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Programa contable ContaPyme - Drill Down ( Historia del dato de los informes)\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 73,
+    "transcriptChars": 5414,
+    "segments": [
+      {
+        "text": "drill down historia del dato de los informes el sistema y en especial los",
+        "startMs": 919,
+        "durationMs": 5430
+      },
+      {
+        "text": "informes de consulta por pantalla permiten realizar seguimiento y",
+        "startMs": 6349,
+        "durationMs": 4200
+      },
+      {
+        "text": "auditoría de la historia de cada dato de los",
+        "startMs": 10549,
+        "durationMs": 3681
+      },
+      {
+        "text": "los informes hasta llegar al documento que",
+        "startMs": 14230,
+        "durationMs": 2879
+      },
+      {
+        "text": "generó cada uno de los asientos bastará con unos cuantos clics",
+        "startMs": 17109,
+        "durationMs": 5481
+      },
+      {
+        "text": "para poder llegar desde un balance general hasta la operación Que originó",
+        "startMs": 22590,
+        "durationMs": 4839
+      },
+      {
+        "text": "dicho dato el drill Down no es propio únicamente del módulo de contabilidad ya",
+        "startMs": 27429,
+        "durationMs": 6561
+      },
+      {
+        "text": "que todos los demás módulos del sistema que cuenten con informes de consulta por",
+        "startMs": 33990,
+        "durationMs": 4719
+      },
+      {
+        "text": "pantalla dispondrán de esta excelente utilidad entre esos módulos tenemos el",
+        "startMs": 38709,
+        "durationMs": 5961
+      },
+      {
+        "text": "módulo de cartera y proveedores ejecución presupuestal activos fijos",
+        "startMs": 44670,
+        "durationMs": 5920
+      },
+      {
+        "text": "inventarios actividades y labores costos de producción entre otros veamos",
+        "startMs": 50590,
+        "durationMs": 6360
+      },
+      {
+        "text": "conceptualmente Cómo funciona el drill tenemos en pantalla un balance general",
+        "startMs": 56950,
+        "durationMs": 6759
+      },
+      {
+        "text": "de Nuestra Empresa el cual nos muestra que a la fecha de consulta tenemos un",
+        "startMs": 63709,
+        "durationMs": 5601
+      },
+      {
+        "text": "saldo de cuentas por cobrar a clientes de 3 millones de pesos Si quisiéramos",
+        "startMs": 69310,
+        "durationMs": 5400
+      },
+      {
+        "text": "saber el origen de dicho saldo podríamos dar doble clic sobre ese valor y el",
+        "startMs": 74710,
+        "durationMs": 5560
+      },
+      {
+        "text": "sistema nos mostraría un explorador de movimiento donde encontraríamos toda la",
+        "startMs": 80270,
+        "durationMs": 5600
+      },
+      {
+        "text": "lista de movimientos tanto débitos como créditos que fin mente originaron dicho",
+        "startMs": 85870,
+        "durationMs": 8680
+      },
+      {
+        "text": "saldo Aquí vemos facturas de venta al igual que recibos de caja que",
+        "startMs": 94560,
+        "durationMs": 6950
+      },
+      {
+        "text": "originaron a la fecha de consulta un saldo de 3 millones de",
+        "startMs": 101510,
+        "durationMs": 5599
+      },
+      {
+        "text": "pesos Si analizando el movimiento de la cuenta encontramos algún registro que",
+        "startMs": 107109,
+        "durationMs": 5441
+      },
+      {
+        "text": "nos llama la atención podríamos analizarlo más en detalle teniendo la",
+        "startMs": 112550,
+        "durationMs": 5680
+      },
+      {
+        "text": "posibilidad de ver la operación Que originó dicho dato o hasta poder",
+        "startMs": 118230,
+        "durationMs": 5400
+      },
+      {
+        "text": "modificar la operación Desde allí mismo si le indicá que queremos ver la",
+        "startMs": 123630,
+        "durationMs": 5720
+      },
+      {
+        "text": "operación el sistema nos mostrará en consulta el asistente de dicha operación",
+        "startMs": 129350,
+        "durationMs": 6560
+      },
+      {
+        "text": "para que podamos verificar la información allí contenida o detectar un",
+        "startMs": 135910,
+        "durationMs": 5120
+      },
+      {
+        "text": "posible error de digitación como hemos visto hasta el",
+        "startMs": 141030,
+        "durationMs": 4199
+      },
+      {
+        "text": "momento desde el informe de consulta como el de balance general podemos ver",
+        "startMs": 145229,
+        "durationMs": 5121
+      },
+      {
+        "text": "la historia de cualquier dato sea débito crédito o saldo llegando hasta la",
+        "startMs": 150350,
+        "durationMs": 5159
+      },
+      {
+        "text": "operación Que originó dicho valor ahora veamos Cómo utilizar esta herramienta",
+        "startMs": 155509,
+        "durationMs": 5640
+      },
+      {
+        "text": "desde el sistema como mencionamos hace un momento",
+        "startMs": 161149,
+        "durationMs": 5121
+      },
+      {
+        "text": "para poder realizar drill down debemos estar ubicados en una consulta por",
+        "startMs": 166270,
+        "durationMs": 4920
+      },
+      {
+        "text": "pantalla en este caso estamos ubicados en la consulta por pantalla de balance",
+        "startMs": 171190,
+        "durationMs": 5520
+      },
+      {
+        "text": "general para mayor información acerca de este tipo de informes consulte el video",
+        "startMs": 176710,
+        "durationMs": 5680
+      },
+      {
+        "text": "informes de consulta por pantalla allí vamos a seleccionar el",
+        "startMs": 182390,
+        "durationMs": 6040
+      },
+      {
+        "text": "saldo que deseamos explorar en este caso vamos a ubicarnos en el saldo de la",
+        "startMs": 188430,
+        "durationMs": 8799
+      },
+      {
+        "text": "Popular el informe nos muestra que el saldo de la cuenta es de",
+        "startMs": 197239,
+        "durationMs": 6311
+      },
+      {
+        "text": "3348 pes para ver el origen de dicho saldo con clic derecho seleccionamos la",
+        "startMs": 203550,
+        "durationMs": 12599
+      },
+      {
+        "text": "contable esta opción nos abrirá un explorador de contabilidad donde se",
+        "startMs": 216159,
+        "durationMs": 6710
+      },
+      {
+        "text": "encontrarán todos los movimientos débitos y créditos de la cuenta desde el",
+        "startMs": 222869,
+        "durationMs": 7401
+      },
+      {
+        "text": "inicio de registro de información en el sistema hasta la fecha de consulta",
+        "startMs": 230270,
+        "durationMs": 10480
+      },
+      {
+        "text": "otra opción que podemos utilizar Es sobre el saldo de la cuenta en el",
+        "startMs": 240760,
+        "durationMs": 6189
+      },
+      {
+        "text": "informe con clic derecho seleccionamos la opción consulta de cuentas auxiliares",
+        "startMs": 246949,
+        "durationMs": 6480
+      },
+      {
+        "text": "del mes esta opción nos abrirá una consulta de cuentas auxiliares con los",
+        "startMs": 253429,
+        "durationMs": 7760
+      },
+      {
+        "text": "movimientos de la cuenta pero solo durante el último mes",
+        "startMs": 261189,
+        "durationMs": 12560
+      },
+      {
+        "text": "una vez tenemos el explorador de contabilidad abierto allí podemos ver",
+        "startMs": 273759,
+        "durationMs": 6631
+      },
+      {
+        "text": "todo el listado de movimientos podemos analizar que Se",
+        "startMs": 280390,
+        "durationMs": 4560
+      },
+      {
+        "text": "realizaron débitos por 670 millones y créditos por",
+        "startMs": 284950,
+        "durationMs": 5760
+      },
+      {
+        "text": "666 millones lo cual deja un saldo de 3348 pes que era el saldo que nos estaba",
+        "startMs": 290710,
+        "durationMs": 16880
+      },
+      {
+        "text": "general esta lista de movimientos nos muestra discriminados cada uno de los",
+        "startMs": 307600,
+        "durationMs": 6029
+      },
+      {
+        "text": "movimientos realizados con la cuenta nos indica fecha",
+        "startMs": 313629,
+        "durationMs": 6120
+      },
+      {
+        "text": "documento código de la cuenta nombre de la cuenta débitos créditos y",
+        "startMs": 319749,
+        "durationMs": 6880
+      },
+      {
+        "text": "saldo Si dentro del análisis de la información que nos muestra el",
+        "startMs": 326629,
+        "durationMs": 11921
+      },
+      {
+        "text": "atención y queremos ver el movimiento que originó dicho dato tenemos tres",
+        "startMs": 338560,
+        "durationMs": 7629
+      },
+      {
+        "text": "opciones si damos doble clic sobre el registro veremos el documento impreso de",
+        "startMs": 346189,
+        "durationMs": 15280
+      },
+      {
+        "text": "si ubicados en el registro damos clic derecho podemos seleccionar entre otras",
+        "startMs": 361479,
+        "durationMs": 6871
+      },
+      {
+        "text": "opciones ver la operación o modificar la operación si le damos la opción Ver",
+        "startMs": 368350,
+        "durationMs": 8279
+      },
+      {
+        "text": "operación nos muestra en forma de consulta la operación Que originó dicho",
+        "startMs": 376629,
+        "durationMs": 13361
+      },
+      {
+        "text": "o si seleccionamos la opción modificar operación el sistema nos permitirá",
+        "startMs": 390000,
+        "durationMs": 6550
+      },
+      {
+        "text": "ingresar al asistente para que podamos cambiar los datos de la operación en el",
+        "startMs": 396550,
+        "durationMs": 5600
+      },
+      {
+        "text": "caso de que se requiera y al procesarla nuevamente alimentará los informes",
+        "startMs": 402150,
+        "durationMs": 5400
+      },
+      {
+        "text": "pertinentes al igual que el explorador que estábamos",
+        "startMs": 407550,
+        "durationMs": 10440
+      },
+      {
+        "text": "consultando tengamos en cuenta que para poder modificar una operación desde un",
+        "startMs": 418000,
+        "durationMs": 5550
+      },
+      {
+        "text": "explorador de movimiento el mes en el cual se encuentra la operación no debe",
+        "startMs": 423550,
+        "durationMs": 5479
+      },
+      {
+        "text": "estar cerrado al igual que tampoco debe estar cerrado el año en el cual se",
+        "startMs": 429029,
+        "durationMs": 4961
+      },
+      {
+        "text": "encuentra la operación de la misma manera como",
+        "startMs": 433990,
+        "durationMs": 5240
+      },
+      {
+        "text": "hicimos con el saldo de la cuenta de bancos se puede realizar con cualquier",
+        "startMs": 439230,
+        "durationMs": 4920
+      },
+      {
+        "text": "otra cuenta contenida en los informes de consulta como podría ser la cuenta de",
+        "startMs": 444150,
+        "durationMs": 6680
+      },
+      {
+        "text": "cuentas por cobrar a clientes si sobre el saldo de la cuenta",
+        "startMs": 450830,
+        "durationMs": 5720
+      },
+      {
+        "text": "damos clic derecho y seleccionamos la opción ver movimiento contable podemos",
+        "startMs": 456550,
+        "durationMs": 6280
+      },
+      {
+        "text": "ver un explorador con todo el movimiento de dicha cuenta hasta la fecha de",
+        "startMs": 462830,
+        "durationMs": 5720
+      },
+      {
+        "text": "consulta y allí sobre cualquier registro podemos dar clic derecho y tenemos la",
+        "startMs": 468550,
+        "durationMs": 6599
+      },
+      {
+        "text": "opción de ver la operación o modificar la operación",
+        "startMs": 475149,
+        "durationMs": 7320
+      },
+      {
+        "text": "esto es todo acerca de drill Down historia del dato de los informes",
+        "startMs": 482479,
+        "durationMs": 7840
+      }
+    ],
+    "plainText": "## Descripción del video\n\nhttp://www.contapyme.com\nEste video del software contable ContaPyme explica como explorar el movimiento de cualquier dato de un informe de consulta por pantalla, haciendo uso del Drill Down.\nCP40-020-030-010B-010M\n\n## Transcripción\n\ndrill down historia del dato de los informes el sistema y en especial los\ninformes de consulta por pantalla permiten realizar seguimiento y\nauditoría de la historia de cada dato de los\nlos informes hasta llegar al documento que\ngeneró cada uno de los asientos bastará con unos cuantos clics\npara poder llegar desde un balance general hasta la operación Que originó\ndicho dato el drill Down no es propio únicamente del módulo de contabilidad ya\nque todos los demás módulos del sistema que cuenten con informes de consulta por\npantalla dispondrán de esta excelente utilidad entre esos módulos tenemos el\nmódulo de cartera y proveedores ejecución presupuestal activos fijos\ninventarios actividades y labores costos de producción entre otros veamos\nconceptualmente Cómo funciona el drill tenemos en pantalla un balance general\nde Nuestra Empresa el cual nos muestra que a la fecha de consulta tenemos un\nsaldo de cuentas por cobrar a clientes de 3 millones de pesos Si quisiéramos\nsaber el origen de dicho saldo podríamos dar doble clic sobre ese valor y el\nsistema nos mostraría un explorador de movimiento donde encontraríamos toda la\nlista de movimientos tanto débitos como créditos que fin mente originaron dicho\nsaldo Aquí vemos facturas de venta al igual que recibos de caja que\noriginaron a la fecha de consulta un saldo de 3 millones de\npesos Si analizando el movimiento de la cuenta encontramos algún registro que\nnos llama la atención podríamos analizarlo más en detalle teniendo la\nposibilidad de ver la operación Que originó dicho dato o hasta poder\nmodificar la operación Desde allí mismo si le indicá que queremos ver la\noperación el sistema nos mostrará en consulta el asistente de dicha operación\npara que podamos verificar la información allí contenida o detectar un\nposible error de digitación como hemos visto hasta el\nmomento desde el informe de consulta como el de balance general podemos ver\nla historia de cualquier dato sea débito crédito o saldo llegando hasta la\noperación Que originó dicho valor ahora veamos Cómo utilizar esta herramienta\ndesde el sistema como mencionamos hace un momento\npara poder realizar drill down debemos estar ubicados en una consulta por\npantalla en este caso estamos ubicados en la consulta por pantalla de balance\ngeneral para mayor información acerca de este tipo de informes consulte el video\ninformes de consulta por pantalla allí vamos a seleccionar el\nsaldo que deseamos explorar en este caso vamos a ubicarnos en el saldo de la\nPopular el informe nos muestra que el saldo de la cuenta es de\n3348 pes para ver el origen de dicho saldo con clic derecho seleccionamos la\ncontable esta opción nos abrirá un explorador de contabilidad donde se\nencontrarán todos los movimientos débitos y créditos de la cuenta desde el\ninicio de registro de información en el sistema hasta la fecha de consulta\notra opción que podemos utilizar Es sobre el saldo de la cuenta en el\ninforme con clic derecho seleccionamos la opción consulta de cuentas auxiliares\ndel mes esta opción nos abrirá una consulta de cuentas auxiliares con los\nmovimientos de la cuenta pero solo durante el último mes\nuna vez tenemos el explorador de contabilidad abierto allí podemos ver\ntodo el listado de movimientos podemos analizar que Se\nrealizaron débitos por 670 millones y créditos por\n666 millones lo cual deja un saldo de 3348 pes que era el saldo que nos estaba\ngeneral esta lista de movimientos nos muestra discriminados cada uno de los\nmovimientos realizados con la cuenta nos indica fecha\ndocumento código de la cuenta nombre de la cuenta débitos créditos y\nsaldo Si dentro del análisis de la información que nos muestra el\natención y queremos ver el movimiento que originó dicho dato tenemos tres\nopciones si damos doble clic sobre el registro veremos el documento impreso de\nsi ubicados en el registro damos clic derecho podemos seleccionar entre otras\nopciones ver la operación o modificar la operación si le damos la opción Ver\noperación nos muestra en forma de consulta la operación Que originó dicho\no si seleccionamos la opción modificar operación el sistema nos permitirá\ningresar al asistente para que podamos cambiar los datos de la operación en el\ncaso de que se requiera y al procesarla nuevamente alimentará los informes\npertinentes al igual que el explorador que estábamos\nconsultando tengamos en cuenta que para poder modificar una operación desde un\nexplorador de movimiento el mes en el cual se encuentra la operación no debe\nestar cerrado al igual que tampoco debe estar cerrado el año en el cual se\nencuentra la operación de la misma manera como\nhicimos con el saldo de la cuenta de bancos se puede realizar con cualquier\notra cuenta contenida en los informes de consulta como podría ser la cuenta de\ncuentas por cobrar a clientes si sobre el saldo de la cuenta\ndamos clic derecho y seleccionamos la opción ver movimiento contable podemos\nver un explorador con todo el movimiento de dicha cuenta hasta la fecha de\nconsulta y allí sobre cualquier registro podemos dar clic derecho y tenemos la\nopción de ver la operación o modificar la operación\nesto es todo acerca de drill Down historia del dato de los informes"
+  },
+  "comments": {
+    "fetched": 0,
+    "reportedCount": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "480x360",
+    "width": 480,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 231.518,
+    "asr": 44100,
+    "filesizeApprox": 14155242,
+    "formatCount": 5
+  },
+  "files": {
+    "year": "2011",
+    "kind": "videos",
+    "md": "videos/2011/e18y0Iz1jms.md",
+    "json": "videos/2011/e18y0Iz1jms.json",
+    "infoJson": "videos/2011/e18y0Iz1jms.info.json"
+  },
+  "publishYear": "2011",
+  "contentKind": "videos",
+  "capacitacion": {
+    "hidden": true,
+    "icursos": [
+      "DB:RECURSOS_ATRIBUTOS"
+    ],
+    "entries": [
+      {
+        "entryId": "e18y0Iz1jms",
+        "youtubeId": "e18y0Iz1jms",
+        "titulo": "e18y0Iz1jms",
+        "source": "db-recursos-atributos",
+        "icurso": "DB:RECURSOS_ATRIBUTOS"
+      }
+    ],
+    "cursos": [
+      {
+        "icurso": "DB:RECURSOS_ATRIBUTOS",
+        "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+        "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+      }
+    ]
+  }
+}

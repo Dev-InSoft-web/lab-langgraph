@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "QrHJPQoYAnQ",
+  "youtubeId": "QrHJPQoYAnQ",
+  "status": "error",
+  "updatedAt": "2026-06-05T17:23:27.574Z",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "QrHJPQoYAnQ",
+      "youtubeId": "QrHJPQoYAnQ",
+      "titulo": "QrHJPQoYAnQ",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "error": "yt-dlp falló para QrHJPQoYAnQ: ERROR: [youtube] QrHJPQoYAnQ: This video has been removed for violating YouTube's policy on harassment and bullying\n[youtube] Extracting URL: https://www.youtube.com/watch?v=QrHJPQoYAnQ\n[youtube] QrHJPQoYAnQ: Downloading webpage\n[youtube] QrHJPQoYAnQ: Downloading android vr player API JSON\n[youtube] QrHJPQoYAnQ: Downloading web player API JSON\n[youtube] QrHJPQoYAnQ: Downloading web safari player API JSON\n"
+}

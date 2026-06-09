@@ -241,7 +241,7 @@ export function buildOpenApiDocument(serverUrl?: string): OpenApiDocument {
 					responses: { "200": ok },
 				},
 			}),
-			"/patyia/prompts": op({ get: { summary: "Prompts PatyIA", tags: ["PatyIA"], responses: { "200": ok } } }),
+			"/langlab/prompts": op({ get: { summary: "Prompts PatyIA", tags: ["PatyIA"], responses: { "200": ok } } }),
 			"/catalog/projects": op({ get: { summary: "Proyectos catálogo", tags: ["Catalog"], responses: { "200": ok } } }),
 			"/catalog/projects/{project}/sections": op({
 				get: {

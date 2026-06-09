@@ -1,17 +1,11 @@
-import {
-	PG_SCHEMA_CLIENTESIS,
-	PG_SCHEMA_LAB,
-	Q_CIS_ENTITY_ROW,
-	Q_LAB_ENTITY_ROW,
-} from "./pg-identifiers.js";
-import { isClientesisStoreProject } from "./store-routing.js";
+import { PG_SCHEMA_ISADOC, Q_ENTITY_ROW } from "./pg-identifiers.js";
 
-/** Esquema PG donde vive entity row para el proyecto lógico. */
-export function getEntityStoreSchema(project: string): string {
-	return isClientesisStoreProject(project) ? PG_SCHEMA_CLIENTESIS : PG_SCHEMA_LAB;
+/** Esquema PG del entity store ISA-DOC (único: BD_ISADOC). */
+export function getEntityStoreSchema(_project: string): string {
+	return PG_SCHEMA_ISADOC;
 }
 
-/** Tabla calificada (`BD_LAB.LAB_ENTITYROW` | `BD_CLIENTESIS.CIS_ENTITYROW`). */
-export function getEntityRowTable(project: string): string {
-	return isClientesisStoreProject(project) ? Q_CIS_ENTITY_ROW : Q_LAB_ENTITY_ROW;
+/** Tabla calificada `BD_ISADOC.ENTITY_ROW`. */
+export function getEntityRowTable(_project: string): string {
+	return Q_ENTITY_ROW;
 }

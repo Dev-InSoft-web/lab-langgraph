@@ -1,0 +1,2634 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:32:25.231Z",
+  "videoId": "YF_Jkrf06co",
+  "videoUrl": "https://www.youtube.com/watch?v=YF_Jkrf06co",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "YF_Jkrf06co",
+    "title": "Registro inicial de Nómina en ContaPyme®",
+    "fulltitle": "Registro inicial de Nómina en ContaPyme®",
+    "description": "Módulo de Nómina ContaPyme®: Guía de implementación.\n\nRegistro inicial:\n\n1. Implemente Nómina Electrónica con el apoyo de nuestros expertos.\n\n2. Comprenda cómo realizar el registro inicial.",
+    "duration": 2373,
+    "duration_string": "39:33",
+    "upload_date": "20211126",
+    "timestamp": 1637936492,
+    "view_count": 2038,
+    "like_count": 6,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/YF_Jkrf06co/maxresdefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrN0qQvA-1UDkua7WFRBALcqYuWQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC-RCuRRM0EpvINOdgbxeISVN5Mbg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVBmwFvQjJ8bx1-Ss5Rj-A1Mh5ow",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDFs7QlqEoCLP77jGgiw8nOXSXyw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTcC3SeH6pMxoZJ1MDMi1QHxYMtQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5Jpxs-BtFtXYCwf_BCJaX7bRgow",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC1AWqp8DDQ-3bVSy6Jv_55wAxPw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDoNAMagWiooie4-bORYw6NQcu6Ng",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/YF_Jkrf06co/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/YF_Jkrf06co/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=YF_Jkrf06co",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.04214075010535188,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10071639275179098,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10071639275179098,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 233.757,
+        "asr": 44100,
+        "filesize_approx": 69338433,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Registro inicial de Nómina en ContaPyme®",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/YF_Jkrf06co/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/YF_Jkrf06co?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Registro inicial de Nómina en ContaPyme®\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 441,
+    "transcriptChars": 30321,
+    "segments": [
+      {
+        "text": "ahorita ya vamos a pasar entonces a realizar el registro inicial que es lo",
+        "startMs": 5430,
+        "durationMs": 5689
+      },
+      {
+        "text": "que yo tengo que registrar inicialmente pues mis",
+        "startMs": 11119,
+        "durationMs": 4621
+      },
+      {
+        "text": "empleados y mes contrato cierto y si quiero un cargo inicial que lo vamos a",
+        "startMs": 15740,
+        "durationMs": 4140
+      },
+      {
+        "text": "ver más adelante entonces para el registro inicial digamos que",
+        "startMs": 19880,
+        "durationMs": 4650
+      },
+      {
+        "text": "empezamos con empleados y contratos aquí vamos a retomar un poquito la",
+        "startMs": 24530,
+        "durationMs": 4200
+      },
+      {
+        "text": "explicación de la sesión inicial que era yo que le registró a un empleado",
+        "startMs": 28730,
+        "durationMs": 5610
+      },
+      {
+        "text": "pues la información básica los datos de contacto dirección archivos asociados a",
+        "startMs": 34340,
+        "durationMs": 5760
+      },
+      {
+        "text": "cada empleado yo le puedo registrar un contrato que ya me va a definir el",
+        "startMs": 40100,
+        "durationMs": 4199
+      },
+      {
+        "text": "perfil y todas las condiciones de ese contrato",
+        "startMs": 44299,
+        "durationMs": 4101
+      },
+      {
+        "text": "contrato qué son las condiciones del contrato le",
+        "startMs": 48400,
+        "durationMs": 2469
+      },
+      {
+        "text": "voy a asociar los conceptos de pago por ejemplo salario auxilio transporte y",
+        "startMs": 50869,
+        "durationMs": 4981
+      },
+      {
+        "text": "todos los demás conceptos que son recurrentes recordemos que el contrato",
+        "startMs": 55850,
+        "durationMs": 4289
+      },
+      {
+        "text": "sería esos sean conceptos recurrentes también vivimos y ya con la explicación",
+        "startMs": 60139,
+        "durationMs": 4561
+      },
+      {
+        "text": "de ahorita vimos que todo esto yo lo puedo resumir en los perfiles de",
+        "startMs": 64700,
+        "durationMs": 4380
+      },
+      {
+        "text": "contrato y que por último pues no tengo que definir las entidades de nómina",
+        "startMs": 69080,
+        "durationMs": 4529
+      },
+      {
+        "text": "entonces hay dos formas de ello hacer este registro inicial de empleados y",
+        "startMs": 73609,
+        "durationMs": 5731
+      },
+      {
+        "text": "contratos la primera es crear empleados por medio",
+        "startMs": 79340,
+        "durationMs": 2340
+      },
+      {
+        "text": "del lector que fue como lo vimos en la primera",
+        "startMs": 81680,
+        "durationMs": 3590
+      },
+      {
+        "text": "sesión ya lo vamos a repetir y la segunda sería importar desde excel una",
+        "startMs": 85270,
+        "durationMs": 5070
+      },
+      {
+        "text": "plantilla si es que tengo muchos empleados y me es más fácil",
+        "startMs": 90340,
+        "durationMs": 5840
+      },
+      {
+        "text": "digamos que organizando información en excel e",
+        "startMs": 96190,
+        "durationMs": 4130
+      },
+      {
+        "text": "importarlo entonces vamos a ver primero cómo crear esos",
+        "startMs": 100320,
+        "durationMs": 4900
+      },
+      {
+        "text": "esos empleados por medio del editor recordemos entonces que venimos aquí en",
+        "startMs": 105220,
+        "durationMs": 5190
+      },
+      {
+        "text": "contact y no vamos a cerrar yo ya configure hice la parametrización tengo",
+        "startMs": 110410,
+        "durationMs": 4590
+      },
+      {
+        "text": "claro cuál es ese contrato tengo claros los conceptos de nóminas las entidades",
+        "startMs": 115000,
+        "durationMs": 4680
+      },
+      {
+        "text": "etcétera etcétera sí entonces yo lo único que tengo que venir aquí en básico",
+        "startMs": 119680,
+        "durationMs": 4370
+      },
+      {
+        "text": "terceros puedo abrir lo filtrado por solamente empleado le damos que yo aquí",
+        "startMs": 124050,
+        "durationMs": 4900
+      },
+      {
+        "text": "ya tenía unos empleados creados pero entonces vamos a crear un empleado desde",
+        "startMs": 128950,
+        "durationMs": 6720
+      },
+      {
+        "text": "cero este empleado desde cero vamos a ponerle",
+        "startMs": 135670,
+        "durationMs": 7000
+      },
+      {
+        "startMs": 142680,
+        "durationMs": 14530,
+        "text": "no"
+      },
+      {
+        "text": "y una identificación cualquiera pues que",
+        "startMs": 157220,
+        "durationMs": 3500
+      },
+      {
+        "text": "debe ser la cédula del empleado y vamos a ver",
+        "startMs": 160720,
+        "durationMs": 4520
+      },
+      {
+        "text": "vamos a crear por ejemplo a juan casas juan calles yo le podría subir la foto",
+        "startMs": 165240,
+        "durationMs": 7600
+      },
+      {
+        "text": "sí sí sí quiero tener todo bien organizado lo seleccionó como empleado",
+        "startMs": 172840,
+        "durationMs": 6140
+      },
+      {
+        "text": "voy a datos de terceros le podría poner aquí que es un asesor de ventas un",
+        "startMs": 178980,
+        "durationMs": 8840
+      },
+      {
+        "text": "el sexo fecha de nacimiento bueno yo le puedo poner aquí toda la información",
+        "startMs": 187830,
+        "durationMs": 4480
+      },
+      {
+        "text": "personal que yo quiera manejar voy a poderle poner aquí los datos de contacto",
+        "startMs": 192310,
+        "durationMs": 5950
+      },
+      {
+        "text": "que quiera tener en este con este empleado muy importante que si nosotros",
+        "startMs": 198260,
+        "durationMs": 7380
+      },
+      {
+        "text": "seleccionamos que el pago de la nómina la vamos a hacer por medio de la",
+        "startMs": 205640,
+        "durationMs": 3840
+      },
+      {
+        "text": "plataforma de documentos aquí yo le puedo poner un",
+        "startMs": 209480,
+        "durationMs": 4540
+      },
+      {
+        "text": "un correo en este caso vamos a poner aquí para que ahorita nos pueda llevar",
+        "startMs": 214020,
+        "durationMs": 4820
+      },
+      {
+        "text": "llegar el correo y súper importante le tengo que definir los los datos de",
+        "startMs": 218840,
+        "durationMs": 7920
+      },
+      {
+        "text": "dirección porque son exigidos para para el reporte de nómina legión y",
+        "startMs": 226760,
+        "durationMs": 16640
+      },
+      {
+        "text": "listo vamos a suponer que esto es así clasificación tributaria pues yo podría",
+        "startMs": 243410,
+        "durationMs": 4970
+      },
+      {
+        "text": "ponerle la que yo quiera y ya venimos a los datos del empleado que es donde",
+        "startMs": 248380,
+        "durationMs": 6810
+      },
+      {
+        "text": "empieza está esta configuración para que después todo me funcione entonces yo le",
+        "startMs": 255190,
+        "durationMs": 5490
+      },
+      {
+        "text": "voy a crear un contrato a ese contrato se me van a asociar los conceptos y le",
+        "startMs": 260680,
+        "durationMs": 5190
+      },
+      {
+        "text": "voy a definir las entidades entonces vamos a definirle un contrato de esta",
+        "startMs": 265870,
+        "durationMs": 4140
+      },
+      {
+        "text": "persona puede obtener si ya digamos que estoy registrando no una contratación",
+        "startMs": 270010,
+        "durationMs": 5580
+      },
+      {
+        "text": "nueva sino una contratación que viene de tiempo anterior pues yo le podría poner",
+        "startMs": 275590,
+        "durationMs": 6180
+      },
+      {
+        "text": "en el código del contrato que tenemos en papel o en otro sistema",
+        "startMs": 281770,
+        "durationMs": 5109
+      },
+      {
+        "text": "supongamos este lo asocia a una empresa y le voy a definir el perfil entonces",
+        "startMs": 286879,
+        "durationMs": 6300
+      },
+      {
+        "text": "pues supongamos que esta persona es una persona que ya lleva un tiempo con la",
+        "startMs": 293179,
+        "durationMs": 4470
+      },
+      {
+        "text": "empresa es de término indefinido le vamos a decir que inició con nosotros",
+        "startMs": 297649,
+        "durationMs": 7691
+      },
+      {
+        "text": "en el 2019 antes de la pandemia",
+        "startMs": 305340,
+        "durationMs": 5650
+      },
+      {
+        "text": "digamos el primero de febrero del 2019 no tiene fecha de finalización todavía",
+        "startMs": 310990,
+        "durationMs": 10960
+      },
+      {
+        "text": "comercial por ejemplo le podemos definir recordemos esto es opcional pero yo le",
+        "startMs": 321960,
+        "durationMs": 5539
+      },
+      {
+        "text": "podría definir un jefe por ejemplo viviana",
+        "startMs": 327499,
+        "durationMs": 4771
+      },
+      {
+        "text": "viviana y aquí le vamos a decir que es un asesor",
+        "startMs": 332270,
+        "durationMs": 2370
+      },
+      {
+        "text": "de ventas y la vamos a definir estos datos de aquí",
+        "startMs": 334640,
+        "durationMs": 5160
+      },
+      {
+        "text": "que me lo pide la dian entonces la clase de riesgo el tipo de trabajador subtipo",
+        "startMs": 339800,
+        "durationMs": 5610
+      },
+      {
+        "text": "y el lugar de trabajo aquí el sistema me permite usar la dirección del empleado",
+        "startMs": 345410,
+        "durationMs": 5010
+      },
+      {
+        "text": "que acabamos de poner la dirección de la empresa la dirección de la sede del",
+        "startMs": 350420,
+        "durationMs": 4290
+      },
+      {
+        "text": "centro de costos o definir una dirección diferente en caso de que lo necesitara",
+        "startMs": 354710,
+        "durationMs": 5820
+      },
+      {
+        "text": "por ahora vamos a poner la dirección de la empresa no tengo ningunas",
+        "startMs": 360530,
+        "durationMs": 3510
+      },
+      {
+        "text": "observaciones ni cláusulas adicionales pero recordemos que esto todo lo que me",
+        "startMs": 364040,
+        "durationMs": 4290
+      },
+      {
+        "text": "permite es llevar un control muy detallado a mis empleados doy clic en",
+        "startMs": 368330,
+        "durationMs": 5730
+      },
+      {
+        "text": "aceptar y una vez soy clic en aceptar el sistema me dice que si quiero cargar los",
+        "startMs": 374060,
+        "durationMs": 4800
+      },
+      {
+        "text": "conceptos que tiene asociados el perfil de contrato terminó indefinido en pago",
+        "startMs": 378860,
+        "durationMs": 5250
+      },
+      {
+        "text": "mensual yo le digo que sí y el sistema vemos que me carga tanto los devengos",
+        "startMs": 384110,
+        "durationMs": 4650
+      },
+      {
+        "text": "las prestaciones deducciones y los costos para la empresa",
+        "startMs": 388760,
+        "durationMs": 9040
+      },
+      {
+        "text": "vamos a ver que además de todo lo de ley como yo ya había configurado este perfil",
+        "startMs": 397810,
+        "durationMs": 5120
+      },
+      {
+        "text": "en mi parametrización la hice muy juiciosa que hace me cálculo la póliza",
+        "startMs": 402930,
+        "durationMs": 5130
+      },
+      {
+        "text": "de salud de miel aunque seguramente esté este empleado pues ya está disfrutando",
+        "startMs": 408060,
+        "durationMs": 6950
+      },
+      {
+        "text": "entonces que tengo que hacer yo aquí definir el salario digamos que son 2",
+        "startMs": 415010,
+        "durationMs": 7760
+      },
+      {
+        "text": "los millones más 2 millones de pesos el sistema por",
+        "startMs": 422780,
+        "durationMs": 6690
+      },
+      {
+        "text": "defecto me sugiere pues que la fecha inicial de ese salario sea la fecha",
+        "startMs": 429470,
+        "durationMs": 3420
+      },
+      {
+        "text": "inicial del contrato y aquí ya no le tengo que definir nada",
+        "startMs": 432890,
+        "durationMs": 5370
+      },
+      {
+        "text": "más porque recuerden todo está formulado aquí en el contrato sólo me va a",
+        "startMs": 438260,
+        "durationMs": 4709
+      },
+      {
+        "text": "preguntar los valores que deban ser manual y específicamente el valor del",
+        "startMs": 442969,
+        "durationMs": 4381
+      },
+      {
+        "text": "salario pues qué es la forma de definir el costo de la empresa como nosotros",
+        "startMs": 447350,
+        "durationMs": 4139
+      },
+      {
+        "text": "habíamos definido que la póliza de emi era era el valor era manual",
+        "startMs": 451489,
+        "durationMs": 5991
+      },
+      {
+        "text": "recordemos aquí vamos uniendo todo recordemos que cuando creamos este",
+        "startMs": 457480,
+        "durationMs": 6330
+      },
+      {
+        "text": "concepto en forma de cálculo pusimos que el valor era manual",
+        "startMs": 463810,
+        "durationMs": 3740
+      },
+      {
+        "text": "entonces como aquí lo estoy llamando él me está pidiendo un valor supongamos que",
+        "startMs": 467550,
+        "durationMs": 6720
+      },
+      {
+        "text": "mensuales veamos que aquí en mérida la periodicidad que le dijimos que ya no",
+        "startMs": 474280,
+        "durationMs": 4730
+      },
+      {
+        "text": "era cada pago sino mensual y lo mismo pasa en prestaciones en prestaciones del",
+        "startMs": 479010,
+        "durationMs": 4350
+      },
+      {
+        "text": "mes de esta prima está bien asociada a este contrato a este tercero pero la voy",
+        "startMs": 483360,
+        "durationMs": 5100
+      },
+      {
+        "text": "a pagar semanal en el mes 6 en el día 15 del",
+        "startMs": 488460,
+        "durationMs": 3660
+      },
+      {
+        "text": "mismo esto simplemente se hereda yo no tengo que hacer nada más y algo que en",
+        "startMs": 492120,
+        "durationMs": 10420
+      },
+      {
+        "text": "perdón que aquí me saco una validación porque no le puse el arroz no es un",
+        "startMs": 502550,
+        "durationMs": 9580
+      },
+      {
+        "text": "y simplemente damos clic aquí en aceptar y no hay problema listo nos quedó creado",
+        "startMs": 512140,
+        "durationMs": 4250
+      },
+      {
+        "text": "juan calle esos son los datos básicos que yo le debo ingresar a un empleado si",
+        "startMs": 516390,
+        "durationMs": 6090
+      },
+      {
+        "text": "yo soy más juiciosa vamos a ver que yo un empleado también",
+        "startMs": 522480,
+        "durationMs": 4630
+      },
+      {
+        "text": "le podría tener que ha determinado su cuenta bancaria datos adicionales si",
+        "startMs": 527110,
+        "durationMs": 5160
+      },
+      {
+        "text": "quiero empezar a clasificar los empleados de alguna forma y una cosa",
+        "startMs": 532270,
+        "durationMs": 4740
+      },
+      {
+        "text": "súper importante que es nuevo para este para este esta actualización que trae el",
+        "startMs": 537010,
+        "durationMs": 6000
+      },
+      {
+        "text": "tema de nómina es que yo a un empleado le puedo anunciar archive para que para",
+        "startMs": 543010,
+        "durationMs": 4710
+      },
+      {
+        "text": "tener una cuestión documental de mi nómina entonces yo qué archivos podría",
+        "startMs": 547720,
+        "durationMs": 4710
+      },
+      {
+        "text": "subir aquí podemos ver la hoja de vida por subir el contrato ya ha firmado por",
+        "startMs": 552430,
+        "durationMs": 4650
+      },
+      {
+        "text": "subir diferentes otros y puedo subir las incapacidades las localizaciones de",
+        "startMs": 557080,
+        "durationMs": 5250
+      },
+      {
+        "text": "vacaciones etcétera éxitos subirlo es simplemente muy fácil me ubico aquí en",
+        "startMs": 562330,
+        "durationMs": 5610
+      },
+      {
+        "text": "la pestaña archivos le doy clic en más el sistema me va a pedir",
+        "startMs": 567940,
+        "durationMs": 5920
+      },
+      {
+        "text": "una que cargue el documento por ejemplo yo le podría decir que quiero que me",
+        "startMs": 573870,
+        "durationMs": 4940
+      },
+      {
+        "text": "cargue la hoja de vida aquí vamos a decir que esto va a estar agrupado por",
+        "startMs": 578810,
+        "durationMs": 4890
+      },
+      {
+        "text": "hoja de vida y simplemente el sistema me lo cargo",
+        "startMs": 583700,
+        "durationMs": 5150
+      },
+      {
+        "text": "puedo cargar otro como el contrato pues ya va a estar agrupado por contrato",
+        "startMs": 588850,
+        "durationMs": 7800
+      },
+      {
+        "text": "y simplemente el sistema local está aquí y aceptar para que lo pueda visualizar",
+        "startMs": 596650,
+        "durationMs": 7990
+      },
+      {
+        "text": "solamente en darle a aceptar el sistema carga esos archivos a nuestra base de",
+        "startMs": 604640,
+        "durationMs": 4540
+      },
+      {
+        "text": "datos y ya mañana pasado mañana cualquier otra persona que venga aquí y",
+        "startMs": 609180,
+        "durationMs": 4200
+      },
+      {
+        "text": "tenga el permiso de ver estos archivos perdón",
+        "startMs": 613380,
+        "durationMs": 4699
+      },
+      {
+        "text": "perdón y lo va a poder si le da click aquí pues",
+        "startMs": 618079,
+        "durationMs": 2881
+      },
+      {
+        "text": "digamos que le va a abrir el archivo aquí pues tenemos un",
+        "startMs": 620960,
+        "durationMs": 3349
+      },
+      {
+        "text": "archivo de ejemplo y listo",
+        "startMs": 624309,
+        "durationMs": 4330
+      },
+      {
+        "text": "así es como funciona la creación de empleado yo de esta manera puedo crear",
+        "startMs": 628639,
+        "durationMs": 6181
+      },
+      {
+        "text": "todos mis empleados veamos que nos demoramos es por la explicación pero no",
+        "startMs": 634820,
+        "durationMs": 3689
+      },
+      {
+        "text": "por la digitación porque son muy poquitos datos los que hay que ingresar",
+        "startMs": 638509,
+        "durationMs": 4081
+      },
+      {
+        "text": "pero si yo tengo muchos empleados y yo prefiero tener una plantilla de excel",
+        "startMs": 642590,
+        "durationMs": 5720
+      },
+      {
+        "text": "entonces como lo debo hacer es muy 5 yo aquí le va dar clic derecho",
+        "startMs": 648310,
+        "durationMs": 5070
+      },
+      {
+        "text": "utilidades y voy a generar la plantilla de importación en excel cierto el",
+        "startMs": 653380,
+        "durationMs": 10710
+      },
+      {
+        "text": "el documento en xml",
+        "startMs": 664100,
+        "durationMs": 3990
+      },
+      {
+        "text": "yo le voy a dar guardar y allá es donde voy a digamos que modificar",
+        "startMs": 668090,
+        "durationMs": 6610
+      },
+      {
+        "text": "o insertar pues toda la información aquí para que el ejemplo no nos quede",
+        "startMs": 674700,
+        "durationMs": 5890
+      },
+      {
+        "text": "fácil yo les traigo ya una base cita de datos preparada en excel se las voy a",
+        "startMs": 680590,
+        "durationMs": 5370
+      },
+      {
+        "text": "mostrar a continuación donde tenemos toda la información de varios empleados",
+        "startMs": 685960,
+        "durationMs": 7140
+      },
+      {
+        "text": "con digamos que la información ya diligenciada de lo que sería y las cosas",
+        "startMs": 693100,
+        "durationMs": 7770
+      },
+      {
+        "text": "que se van a importar cierto tenemos las entidades tenemos",
+        "startMs": 700870,
+        "durationMs": 5420
+      },
+      {
+        "text": "los contratos de cada empleado por mí yo le tengo que asociar en los contratos",
+        "startMs": 706290,
+        "durationMs": 6670
+      },
+      {
+        "text": "tengo los conceptos asociados a cada nit a cada contrato etcétera etcétera para",
+        "startMs": 712960,
+        "durationMs": 6030
+      },
+      {
+        "text": "las personas que quieran digamos que usar este método de creación de",
+        "startMs": 718990,
+        "durationMs": 4050
+      },
+      {
+        "text": "empleados y contratos vamos a tener un vídeo especializado explicando cómo",
+        "startMs": 723040,
+        "durationMs": 5690
+      },
+      {
+        "text": "diligenciar esta información pero aquí para el ejemplo simplemente",
+        "startMs": 728730,
+        "durationMs": 4820
+      },
+      {
+        "text": "voy a salirme y les voy a mostrar cómo es que",
+        "startMs": 733550,
+        "durationMs": 5719
+      },
+      {
+        "text": "ese impacto cuando yo ya tengas excel diligenciado simplemente le doy clic",
+        "startMs": 739269,
+        "durationMs": 4261
+      },
+      {
+        "text": "derecho utilidades importar registros desde excel alguien porta registros pues",
+        "startMs": 743530,
+        "durationMs": 6060
+      },
+      {
+        "text": "él me va a pedir en que yo seleccione cual cual archivo es",
+        "startMs": 749590,
+        "durationMs": 6790
+      },
+      {
+        "text": "yo lo seleccionó y el sistema pues digamos que va a empezar a analizar",
+        "startMs": 756380,
+        "durationMs": 4770
+      },
+      {
+        "text": "todos los datos que yo le estoy entregando para crear así los empleados",
+        "startMs": 761150,
+        "durationMs": 8800
+      },
+      {
+        "text": "el sistema me dice el proceso terminado satisfactoriamente cerrar y vemos que",
+        "startMs": 769960,
+        "durationMs": 5310
+      },
+      {
+        "text": "aquí ya no solamente tengo los tres empleados que había quedado inicialmente",
+        "startMs": 775270,
+        "durationMs": 4500
+      },
+      {
+        "text": "sino que tengo los empleados dados en él en",
+        "startMs": 779770,
+        "durationMs": 6860
+      },
+      {
+        "text": "en desde contamina pero desde el excel",
+        "startMs": 786630,
+        "durationMs": 3710
+      },
+      {
+        "text": "listo estas son las dos formas de crear y empleados tenemos vimos la forma de",
+        "startMs": 790340,
+        "durationMs": 6510
+      },
+      {
+        "text": "crearlos por medio del editor la forma de crearlos por excel yo podría por",
+        "startMs": 796850,
+        "durationMs": 5070
+      },
+      {
+        "text": "ejemplo los datos más básicos e importarlos desde excel para que ya me",
+        "startMs": 801920,
+        "durationMs": 3930
+      },
+      {
+        "text": "quieren aquí y a cada una entradas y digamos que configurables los perfiles",
+        "startMs": 805850,
+        "durationMs": 5580
+      },
+      {
+        "text": "de contrato ahora para los clientes que ya tenían que son usuarios de con está",
+        "startMs": 811430,
+        "durationMs": 5340
+      },
+      {
+        "text": "pyme y ya tenían los terceros creados como empleados no se preocupen toda la",
+        "startMs": 816770,
+        "durationMs": 4350
+      },
+      {
+        "text": "información de los empleados pasa simplemente tienen que entrar a",
+        "startMs": 821120,
+        "durationMs": 5670
+      },
+      {
+        "text": "contratos y ya a definirle pues digamos todos los campos que se requiere un",
+        "startMs": 826790,
+        "durationMs": 5580
+      },
+      {
+        "text": "contrato y el salario también hay que definirse lo a los empleados",
+        "startMs": 832370,
+        "durationMs": 8540
+      },
+      {
+        "text": "listo muy bien entonces ya hicimos toda nuestra parametrización y ya podemos",
+        "startMs": 840920,
+        "durationMs": 4700
+      },
+      {
+        "text": "registrar un pago de nota no hemos hecho nada más nos hemos demorado dos horitas",
+        "startMs": 845620,
+        "durationMs": 4440
+      },
+      {
+        "text": "pues una horita y media larga está aquí haciendo esta marea matriz acción y",
+        "startMs": 850060,
+        "durationMs": 3900
+      },
+      {
+        "text": "listo estamos listos para en generar un pago de nómina y vamos a verlo en",
+        "startMs": 853960,
+        "durationMs": 5190
+      },
+      {
+        "text": "contacto entonces vamos a contar prime aquí yo ya tengo abierto el manejador de",
+        "startMs": 859150,
+        "durationMs": 7190
+      },
+      {
+        "text": "operaciones y recordemos que de empleados nosotros",
+        "startMs": 866340,
+        "durationMs": 4650
+      },
+      {
+        "text": "ya hicimos retomemos lo que hemos hecho hicimos la revisión de conceptos de",
+        "startMs": 870990,
+        "durationMs": 4110
+      },
+      {
+        "text": "nóminas de perfiles de contrato creamos las entidades de nómina que no estaban",
+        "startMs": 875100,
+        "durationMs": 4170
+      },
+      {
+        "text": "aquí presentes y creamos los empleados",
+        "startMs": 879270,
+        "durationMs": 5350
+      },
+      {
+        "text": "y listo vamos a venir al manejador de operaciones estamos en noviembre y lo",
+        "startMs": 884620,
+        "durationMs": 4410
+      },
+      {
+        "text": "único que yo tengo que hacer es pago de nómina",
+        "startMs": 889030,
+        "durationMs": 3700
+      },
+      {
+        "text": "nómina empleado",
+        "startMs": 892730,
+        "durationMs": 2440
+      },
+      {
+        "text": "empleado juan calle que fue el que acabamos de",
+        "startMs": 895170,
+        "durationMs": 1920
+      },
+      {
+        "text": "crear a aceptar y listo vamos a ver que el sistema me calculó automáticamente la",
+        "startMs": 897090,
+        "durationMs": 6480
+      },
+      {
+        "text": "nómina de este empleado veamos que auxiliar transporte no me cálculo porque",
+        "startMs": 903570,
+        "durationMs": 4380
+      },
+      {
+        "text": "si ya se superan digamos que el tema del salario mínimo",
+        "startMs": 907950,
+        "durationMs": 5249
+      },
+      {
+        "text": "nos hacen los descuentos de salud y pensión del empleado automáticamente",
+        "startMs": 913199,
+        "durationMs": 6261
+      },
+      {
+        "text": "viene nos calcula todos estos aportes y costos para el empleo para la empresa",
+        "startMs": 919460,
+        "durationMs": 7349
+      },
+      {
+        "text": "incluido el costo que acabamos de crear que era",
+        "startMs": 926809,
+        "durationMs": 2010
+      },
+      {
+        "text": "el de emi nosotros simplemente le tenemos que dar aquí que le vamos a",
+        "startMs": 928819,
+        "durationMs": 5420
+      },
+      {
+        "text": "pagar finalizada",
+        "startMs": 934239,
+        "durationMs": 3511
+      },
+      {
+        "startMs": 937760,
+        "durationMs": 2450,
+        "text": "y"
+      },
+      {
+        "text": "aquí en finalizar damos procesar vamos a validar que tenemos en el",
+        "startMs": 940220,
+        "durationMs": 7280
+      },
+      {
+        "text": "inspector nos generó todo el movimiento contable",
+        "startMs": 947500,
+        "durationMs": 3770
+      },
+      {
+        "text": "contable asociado al centro de costos del",
+        "startMs": 951270,
+        "durationMs": 2140
+      },
+      {
+        "text": "empleado con la cuenta digamos que asociada a cada uno de estos",
+        "startMs": 953410,
+        "durationMs": 6380
+      },
+      {
+        "text": "conceptos adicional a esto el sistema vino nos",
+        "startMs": 959790,
+        "durationMs": 3970
+      },
+      {
+        "text": "creó los movimientos de nómina de conceptos de",
+        "startMs": 963760,
+        "durationMs": 4740
+      },
+      {
+        "text": "nómina que los podemos ver aquí todos detallados y para",
+        "startMs": 968500,
+        "durationMs": 5870
+      },
+      {
+        "text": "digamos que entregarle este documento al empleado y yo simplemente tengo que",
+        "startMs": 974370,
+        "durationMs": 4140
+      },
+      {
+        "text": "venir a probar documentos recordemos que ya habíamos también configurado toda la",
+        "startMs": 978510,
+        "durationMs": 4650
+      },
+      {
+        "text": "plataforma entonces una vez yo le doy a aprobar al documento el sistema lo que",
+        "startMs": 983160,
+        "durationMs": 6060
+      },
+      {
+        "text": "va a hacer es generar método ese archivo bonito lleno de",
+        "startMs": 989220,
+        "durationMs": 5510
+      },
+      {
+        "text": "información que necesita el empleado pues para validar nos dice que ya fue",
+        "startMs": 994730,
+        "durationMs": 5050
+      },
+      {
+        "text": "publicado y enviado nosotros venimos vamos a validar en",
+        "startMs": 999780,
+        "durationMs": 8040
+      },
+      {
+        "text": "en el correo del empleado que acaba de llegar este nuevo correo de",
+        "startMs": 1007830,
+        "durationMs": 7550
+      },
+      {
+        "text": "pago de nómina de mi empresa sas yo lo abro pero doy clic para ver el",
+        "startMs": 1015380,
+        "durationMs": 6570
+      },
+      {
+        "text": "documento y vemos que el sistema me va a traer toda la configuración que ya",
+        "startMs": 1021950,
+        "durationMs": 5610
+      },
+      {
+        "text": "habíamos hecho en la plataforma de documentos primero que todo me trae el",
+        "startMs": 1027560,
+        "durationMs": 5750
+      },
+      {
+        "text": "comprobante me entra me dice el tipo de contrato la información de del empleado",
+        "startMs": 1033310,
+        "durationMs": 6280
+      },
+      {
+        "text": "el período de cuidado me trae en los conceptos viciados que yo dije que",
+        "startMs": 1039590,
+        "durationMs": 5520
+      },
+      {
+        "text": "quería que se vieran en este comprobante de nómina y le damos",
+        "startMs": 1045110,
+        "durationMs": 4170
+      },
+      {
+        "text": "que el empleado puede aprobar rechazar o chatear con el asesor en un caso tal de",
+        "startMs": 1049280,
+        "durationMs": 7080
+      },
+      {
+        "text": "que yo tenga esa opción veamos que puede imprimir descargar permita con éxito",
+        "startMs": 1056360,
+        "durationMs": 5400
+      },
+      {
+        "text": "supongamos yo soy el empleado le doy a aceptar y digo",
+        "startMs": 1061760,
+        "durationMs": 4760
+      },
+      {
+        "text": "he revisado los valores y todo esto",
+        "startMs": 1066520,
+        "durationMs": 13259
+      },
+      {
+        "text": "y al empleado simplemente le va a parecer documento aprobado y veamos que",
+        "startMs": 1079789,
+        "durationMs": 4970
+      },
+      {
+        "text": "nosotros en contra prime si yo le doy aquí actualizar seleccionó",
+        "startMs": 1084759,
+        "durationMs": 6260
+      },
+      {
+        "text": "la operación y le doy a actualizar esta vamos a ver que aquí ya me parece que el",
+        "startMs": 1091019,
+        "durationMs": 7150
+      },
+      {
+        "text": "empleado lo aprobó y sí y yo abro el inspector ya voy a ver que",
+        "startMs": 1098169,
+        "durationMs": 6631
+      },
+      {
+        "text": "el documento me aparece toda la bitácora de los datos o de las acciones que ha",
+        "startMs": 1104800,
+        "durationMs": 6450
+      },
+      {
+        "text": "hecho el empleado en con este documento listo no tengo que hacer nada ya ustedes",
+        "startMs": 1111250,
+        "durationMs": 6510
+      },
+      {
+        "text": "si quieres se puede sentir de esta capacitación y empezar a",
+        "startMs": 1117760,
+        "durationMs": 3890
+      },
+      {
+        "text": "emitir sus documentos de nómina pues una vez tenga el módulo ahora qué es lo",
+        "startMs": 1121650,
+        "durationMs": 6430
+      },
+      {
+        "text": "único que nos falta de esta de esta capacitación un punto que es lo que",
+        "startMs": 1128080,
+        "durationMs": 5790
+      },
+      {
+        "text": "llamamos el cargo inicial que era el segundo punto de ese registro inicial",
+        "startMs": 1133870,
+        "durationMs": 4530
+      },
+      {
+        "text": "entonces qué quiere decir el cargo inicial vamos primero a entender qué es",
+        "startMs": 1138400,
+        "durationMs": 5190
+      },
+      {
+        "text": "eso tan raro el cargo inicial simplemente es una operación que me",
+        "startMs": 1143590,
+        "durationMs": 4050
+      },
+      {
+        "text": "permite registrar el histórico los pagos de los empleados para que quisiera yo",
+        "startMs": 1147640,
+        "durationMs": 5370
+      },
+      {
+        "text": "hacer eso para que yo quiero si estoy en noviembre empezará a registrar lo que yo",
+        "startMs": 1153010,
+        "durationMs": 4470
+      },
+      {
+        "text": "le he pagado al empleado en en épocas anteriores porque resulta que como con",
+        "startMs": 1157480,
+        "durationMs": 5280
+      },
+      {
+        "text": "está pyme calcula todo automáticamente conceptos que usan promedios históricos",
+        "startMs": 1162760,
+        "durationMs": 4510
+      },
+      {
+        "text": "como cuales conceptos vacaciones cesantías primas",
+        "startMs": 1167270,
+        "durationMs": 4990
+      },
+      {
+        "text": "incapacidades recordemos que por ejemplo la prima pues para pagar la prima",
+        "startMs": 1172260,
+        "durationMs": 3930
+      },
+      {
+        "text": "ahorita en diciembre necesito ahí sacar el promedio de los últimos seis meses",
+        "startMs": 1176190,
+        "durationMs": 5850
+      },
+      {
+        "text": "qué pasa si yo quiero que contamine digamos que me me cuente en este",
+        "startMs": 1182040,
+        "durationMs": 6840
+      },
+      {
+        "text": "promedio todos los meses anteriores en los que yo no había usado este módulo de",
+        "startMs": 1188880,
+        "durationMs": 4590
+      },
+      {
+        "text": "nómina pues debo hacer un cargo inicial para eso posición ahora siempre siempre",
+        "startMs": 1193470,
+        "durationMs": 5340
+      },
+      {
+        "text": "se debe hacer un cargo inicial la respuesta es no es opcional en caso de",
+        "startMs": 1198810,
+        "durationMs": 5850
+      },
+      {
+        "text": "que yo no haga registro inicial vamos a ver que pues primero ya hicimos el",
+        "startMs": 1204660,
+        "durationMs": 5100
+      },
+      {
+        "text": "ejemplo del pago de nómina pero si yo pueda pagar la prima en",
+        "startMs": 1209760,
+        "durationMs": 5770
+      },
+      {
+        "text": "diciembre el sistema simplemente que va a ser va a calcular digamos que los",
+        "startMs": 1215530,
+        "durationMs": 5280
+      },
+      {
+        "text": "valores con los datos registrados hasta el momento si no hay datos registrados",
+        "startMs": 1220810,
+        "durationMs": 5400
+      },
+      {
+        "text": "pues él va a el único dato que ha realizado que es el salario y está en el",
+        "startMs": 1226210,
+        "durationMs": 6839
+      },
+      {
+        "text": "empleado y para ver esto un poquito más claro",
+        "startMs": 1233049,
+        "durationMs": 3181
+      },
+      {
+        "text": "veamos un ejemplo aquí en esta base de datos que no hemos hecho ningún cargo",
+        "startMs": 1236230,
+        "durationMs": 4529
+      },
+      {
+        "text": "inicial vamos a ver vamos a pasarnos para diciembre por ejemplo y vamos a",
+        "startMs": 1240759,
+        "durationMs": 6030
+      },
+      {
+        "text": "un empleado",
+        "startMs": 1246789,
+        "durationMs": 3341
+      },
+      {
+        "startMs": 1250130,
+        "durationMs": 4039,
+        "text": "por ejemplo carlos"
+      },
+      {
+        "text": "y le vamos a decir que nos cargue todos los conceptos damos clic en aceptar",
+        "startMs": 1254179,
+        "durationMs": 4911
+      },
+      {
+        "text": "y el sistema lo que va a hacer es calcular me todos los conceptos del",
+        "startMs": 1259090,
+        "durationMs": 6730
+      },
+      {
+        "text": "empleado veamos que aquí él tenía un salario básico y él nos calculó la prima",
+        "startMs": 1265820,
+        "durationMs": 4309
+      },
+      {
+        "text": "aquí siguiente nos calcula el resto y listo",
+        "startMs": 1270129,
+        "durationMs": 7010
+      },
+      {
+        "text": "o sea no tuvimos que hacer ningún cargo ningún cargo inicial vamos a darle",
+        "startMs": 1277139,
+        "durationMs": 8490
+      },
+      {
+        "text": "y algo nos queda la operación simplemente sería procesarla y enviar",
+        "startMs": 1285639,
+        "durationMs": 3770
+      },
+      {
+        "text": "pero entonces yo en qué casos si debería ser y en qué",
+        "startMs": 1289409,
+        "durationMs": 6311
+      },
+      {
+        "text": "casos no vamos a ver siempre se debe hacer no en qué casos no se hacen pues",
+        "startMs": 1295720,
+        "durationMs": 6210
+      },
+      {
+        "text": "básicamente 31 cuando la empresa es nueva pues digamos que no hay histórico",
+        "startMs": 1301930,
+        "durationMs": 4320
+      },
+      {
+        "text": "de pagos no es necesario hacer el cargo inicial 2 cuando yo tengo una nómina y",
+        "startMs": 1306250,
+        "durationMs": 5940
+      },
+      {
+        "text": "todos mis salarios son muy fijos realmente mi nómina no varía entonces",
+        "startMs": 1312190,
+        "durationMs": 4530
+      },
+      {
+        "text": "pues yo puedo decir no es necesario si me coge el d",
+        "startMs": 1316720,
+        "durationMs": 4800
+      },
+      {
+        "text": "el salario que está asignado en el contrato o digamos este mes que yo va a",
+        "startMs": 1321520,
+        "durationMs": 5490
+      },
+      {
+        "text": "pagar noviembre que en diciembre me coja el promedio de estos meses no hay",
+        "startMs": 1327010,
+        "durationMs": 4500
+      },
+      {
+        "text": "problema está bien en esos casos no es necesario hacer cargo inicial o si por",
+        "startMs": 1331510,
+        "durationMs": 4590
+      },
+      {
+        "text": "el contrario pues yo digo no vengan es que yo no quiero que el sistema me",
+        "startMs": 1336100,
+        "durationMs": 4380
+      },
+      {
+        "text": "calcule y automáticamente las prestaciones",
+        "startMs": 1340480,
+        "durationMs": 3800
+      },
+      {
+        "text": "prestaciones y las incapacidades yo esos valores los",
+        "startMs": 1344280,
+        "durationMs": 2820
+      },
+      {
+        "text": "prefiero registrar manualmente si la persona los va a registrar manualmente",
+        "startMs": 1347100,
+        "durationMs": 3960
+      },
+      {
+        "text": "que es lo único que tiene que hacer ir al concepto quitarle en la forma de",
+        "startMs": 1351060,
+        "durationMs": 4470
+      },
+      {
+        "text": "cálculo que se va a hacer por medio de una fórmula y hacerlo pues seleccionar",
+        "startMs": 1355530,
+        "durationMs": 4890
+      },
+      {
+        "text": "manual y simplemente cada vez que se vaya a limpiar esa esa nómina el cliente",
+        "startMs": 1360420,
+        "durationMs": 5520
+      },
+      {
+        "text": "pues o el usuario explicamos que pone el valor cierto en esos tres casos pues no",
+        "startMs": 1365940,
+        "durationMs": 7500
+      },
+      {
+        "text": "se debe hacer eso ahora si yo tengo una nómina super variable donde todo el",
+        "startMs": 1373440,
+        "durationMs": 6930
+      },
+      {
+        "text": "mundo gana comisiones y eso pues digamos que me varía bastante la",
+        "startMs": 1380370,
+        "durationMs": 6710
+      },
+      {
+        "text": "nómina mes a mes pues si lo más recomendable es que como en cualquier",
+        "startMs": 1387080,
+        "durationMs": 3329
+      },
+      {
+        "text": "otro sistema de nómina pues acabamos de ese registro histórico para que el",
+        "startMs": 1390409,
+        "durationMs": 4171
+      },
+      {
+        "text": "sistema lo pueda calcular automáticamente mucho más preciso los",
+        "startMs": 1394580,
+        "durationMs": 3719
+      },
+      {
+        "text": "temas de primas y prestaciones",
+        "startMs": 1398299,
+        "durationMs": 3771
+      },
+      {
+        "text": "ahora qué pasa la pregunta que sé que todos están haciendo y si yo ya ha",
+        "startMs": 1402070,
+        "durationMs": 5280
+      },
+      {
+        "text": "registrado a mi nómina en contamina y que debo hacer pues ahí también hay una",
+        "startMs": 1407350,
+        "durationMs": 4530
+      },
+      {
+        "text": "muy buena noticia porque como les decía se los he repetido varias veces digamos",
+        "startMs": 1411880,
+        "durationMs": 4710
+      },
+      {
+        "text": "que nuestra misión no es solamente hacerlo bien sino también hacerlo fácil",
+        "startMs": 1416590,
+        "durationMs": 3840
+      },
+      {
+        "text": "y es que tenemos con carga inicial a asistir que a más adelante lo vamos a",
+        "startMs": 1420430,
+        "durationMs": 4890
+      },
+      {
+        "text": "ver porque vamos a ver los dos ejemplos el ejemplo de un registro de carga",
+        "startMs": 1425320,
+        "durationMs": 4229
+      },
+      {
+        "text": "inicial en manual y el ejemplo de una función registro de carga inicial",
+        "startMs": 1429549,
+        "durationMs": 4891
+      },
+      {
+        "text": "asistido que éste es muy especialmente diseñada para todos los usuarios",
+        "startMs": 1434440,
+        "durationMs": 4500
+      },
+      {
+        "text": "compatibles que vienen con nosotros desde hace ya varios tiempo y usado en y",
+        "startMs": 1438940,
+        "durationMs": 5280
+      },
+      {
+        "text": "registrado pues su nómina contable en contacto entonces",
+        "startMs": 1444220,
+        "durationMs": 5569
+      },
+      {
+        "text": "como se registros allá ese es el cargo inicial ya entendimos que es ya",
+        "startMs": 1449789,
+        "durationMs": 4830
+      },
+      {
+        "text": "entendimos para que él ya sabemos que es opcional en qué casos es opcional en qué",
+        "startMs": 1454619,
+        "durationMs": 4260
+      },
+      {
+        "text": "casos no cómo se hace el cargo inicial si yo ya ha decidido hacerlo entonces",
+        "startMs": 1458879,
+        "durationMs": 4500
+      },
+      {
+        "text": "tengo que hacer una operación de carga inicial por cada mes histórico que yo",
+        "startMs": 1463379,
+        "durationMs": 5160
+      },
+      {
+        "text": "quiero registrar y en esa operación por cada mes yo voy a registrar los valores",
+        "startMs": 1468539,
+        "durationMs": 5010
+      },
+      {
+        "text": "de los conceptos de los terceros ahora qué conceptos debo registrar yo no",
+        "startMs": 1473549,
+        "durationMs": 7591
+      },
+      {
+        "text": "tengo que registrar absolutamente todos los conceptos no tengo que registrar los",
+        "startMs": 1481140,
+        "durationMs": 4500
+      },
+      {
+        "text": "que hacen base y se diferencian entre entre para calcular las fórmulas de",
+        "startMs": 1485640,
+        "durationMs": 7310
+      },
+      {
+        "text": "prestaciones de incapacidades y en vacaciones etcétera entonces cuáles son",
+        "startMs": 1492950,
+        "durationMs": 6339
+      },
+      {
+        "text": "los que nosotros recomendamos estos que ustedes ven en pantalla que una persona",
+        "startMs": 1499289,
+        "durationMs": 5101
+      },
+      {
+        "text": "generalmente solo gana salario y conceptos salariales solamente tienen",
+        "startMs": 1504390,
+        "durationMs": 3899
+      },
+      {
+        "text": "que registrar salarios conceptos salariales que es que yo tengo un",
+        "startMs": 1508289,
+        "durationMs": 3211
+      },
+      {
+        "text": "aprendiz pues solamente tendría que registrar el apoyo de seguimiento que es",
+        "startMs": 1511500,
+        "durationMs": 4500
+      },
+      {
+        "text": "que cuando yo le pago también le hago deducciones y también",
+        "startMs": 1516000,
+        "durationMs": 3740
+      },
+      {
+        "text": "tiene un costo para la empresa sí pero eso no nos interesa porque acuérdense",
+        "startMs": 1519740,
+        "durationMs": 3730
+      },
+      {
+        "text": "que el objetivo de este cardio inicial es que las fórmulas",
+        "startMs": 1523470,
+        "durationMs": 5189
+      },
+      {
+        "text": "de esos conceptos de prestaciones que usan promedios pues tienen bien",
+        "startMs": 1528659,
+        "durationMs": 5100
+      },
+      {
+        "text": "calculadas entonces estos son los conceptos que se se recomiendan",
+        "startMs": 1533759,
+        "durationMs": 6291
+      },
+      {
+        "text": "registrar en ese cargo inicial vamos a verlo con un ejemplo entonces supongamos",
+        "startMs": 1540050,
+        "durationMs": 5040
+      },
+      {
+        "text": "yo tengo a juana maría iba a ser el cargo inicial de ellos yo por cada mes",
+        "startMs": 1545090,
+        "durationMs": 4620
+      },
+      {
+        "text": "por ejemplo para julio voy a decir que los dos trabajaron 30 días y uno se ganó",
+        "startMs": 1549710,
+        "durationMs": 6270
+      },
+      {
+        "text": "un millón 500 y aquí me quedo me faltó un 0 pero se ganó digamos 2 millones",
+        "startMs": 1555980,
+        "durationMs": 8550
+      },
+      {
+        "text": "el siguiente mes resulta que juan se ganaba millón quinientos pero estuvo",
+        "startMs": 1564540,
+        "durationMs": 5930
+      },
+      {
+        "text": "diez días tuvo diez días de incapacidad entonces esto nada más por el ejemplo le",
+        "startMs": 1570470,
+        "durationMs": 5610
+      },
+      {
+        "text": "voy a poner que segaron por concepto de salario un millón veinte días y por",
+        "startMs": 1576080,
+        "durationMs": 6300
+      },
+      {
+        "text": "concepto en capacidades 500 mil supongamos",
+        "startMs": 1582380,
+        "durationMs": 3810
+      },
+      {
+        "text": "supongamos y conceptos salariales aquí perdón en",
+        "startMs": 1586190,
+        "durationMs": 2370
+      },
+      {
+        "text": "julio para maría era la comisión ahora vamos a ver en septiembre en",
+        "startMs": 1588560,
+        "durationMs": 5700
+      },
+      {
+        "text": "septiembre y los dos ganan un salario normal y maría ganó sus comisiones en",
+        "startMs": 1594260,
+        "durationMs": 6170
+      },
+      {
+        "text": "octubre",
+        "startMs": 1600430,
+        "durationMs": 2380
+      },
+      {
+        "text": "juan salió de vacaciones entonces yo reporto estoy registro estas vacaciones",
+        "startMs": 1602820,
+        "durationMs": 9599
+      },
+      {
+        "text": "bonificaciones entonces si yo tengo esto así pues digamos que cada uno de estos",
+        "startMs": 1612429,
+        "durationMs": 4171
+      },
+      {
+        "text": "recuadros azul es va a ser una operación de carga inicial que yo debo hacer en la",
+        "startMs": 1616600,
+        "durationMs": 4020
+      },
+      {
+        "text": "misma operación puedo poner todos los conceptos todos los terceros no hay",
+        "startMs": 1620620,
+        "durationMs": 3630
+      },
+      {
+        "text": "hacer un ejemplo en el ejemplo 1 vamos a hacer un cargo inicial manual y en el",
+        "startMs": 1629230,
+        "durationMs": 4439
+      },
+      {
+        "text": "ejemplo 2 vamos a hacer un cargo inicial asistido entonces vamos a ir para contar",
+        "startMs": 1633669,
+        "durationMs": 7571
+      },
+      {
+        "text": "vamos a irnos para contarme digamos que en el ejemplo nosotros vamos a empezar",
+        "startMs": 1624250,
+        "durationMs": 22750
+      },
+      {
+        "text": "con la nómina en noviembre con nómina en cuenta primer noviembre por lo tanto yo",
+        "startMs": 1647000,
+        "durationMs": 4140
+      },
+      {
+        "text": "debería ser mis mis carnes iniciales en noviembre de",
+        "startMs": 1651140,
+        "durationMs": 5530
+      },
+      {
+        "text": "lo que recomendamos pues sí sí sí digamos que los criterios que mostramos",
+        "startMs": 1656670,
+        "durationMs": 5970
+      },
+      {
+        "text": "ahorita las personas quieren hacer un cargo inicial lo que recomendamos es que",
+        "startMs": 1662640,
+        "durationMs": 4320
+      },
+      {
+        "text": "efectivamente el carné inicial lo hagan doce meses atrás o sea si empezamos en",
+        "startMs": 1666960,
+        "durationMs": 10620
+      },
+      {
+        "text": "y hagamos el cargue el cargo inicial desde",
+        "startMs": 1677590,
+        "durationMs": 3970
+      },
+      {
+        "text": "desde octubre desde perdón desde noviembre del",
+        "startMs": 1681560,
+        "durationMs": 3520
+      },
+      {
+        "text": "año anterior hasta octubre del presente año entonces aquí para el ejemplo vamos",
+        "startMs": 1685080,
+        "durationMs": 6839
+      },
+      {
+        "text": "a ver que ahorita ya tenemos todas estas cargas inicial iniciales pre que dados",
+        "startMs": 1691919,
+        "durationMs": 4230
+      },
+      {
+        "text": "pero quiero que mantengan una retentiva habíamos dicho que no era necesario",
+        "startMs": 1696149,
+        "durationMs": 5811
+      },
+      {
+        "text": "hacer el cargo inicial cuando yo tengo una nómina que es muy que es muy fija",
+        "startMs": 1701960,
+        "durationMs": 5010
+      },
+      {
+        "text": "cierto y que incluso puedo pagar en las prestaciones y el sistema menos liquidar",
+        "startMs": 1706970,
+        "durationMs": 5759
+      },
+      {
+        "text": "el caso de carlos restrepo porque me líquido",
+        "startMs": 1712729,
+        "durationMs": 4901
+      },
+      {
+        "text": "las primas pero resulta para este ejemplo que carlos y maneja unas unas",
+        "startMs": 1717640,
+        "durationMs": 6360
+      },
+      {
+        "text": "comisiones variables por lo tanto este valor no estaría correcto es que tengo",
+        "startMs": 1724000,
+        "durationMs": 4650
+      },
+      {
+        "text": "que hacer yo venir y digamos que registrar los cargos iniciales entonces",
+        "startMs": 1728650,
+        "durationMs": 5190
+      },
+      {
+        "text": "vamos a ver el primer cargo inicial qué es",
+        "startMs": 1733840,
+        "durationMs": 3990
+      },
+      {
+        "text": "es lo encuentro por aquí nómina carga",
+        "startMs": 1737830,
+        "durationMs": 3300
+      },
+      {
+        "text": "inicial de conceptos de nómina le doy clic en aceptar y vamos a ver",
+        "startMs": 1741130,
+        "durationMs": 4750
+      },
+      {
+        "text": "vamos a explicar está esta ventanita que me abre el sistema entonces él me va a",
+        "startMs": 1745880,
+        "durationMs": 6240
+      },
+      {
+        "text": "decir cuál es el mes que voy a cargar",
+        "startMs": 1752120,
+        "durationMs": 2070
+      },
+      {
+        "text": "supongamos yo aquí le voy a decir octubre que es el único mes que nos",
+        "startMs": 1754190,
+        "durationMs": 5860
+      },
+      {
+        "text": "en octubre lo puedo cargar los cargos iniciales le pueden quedar con fecha y",
+        "startMs": 1760060,
+        "durationMs": 5030
+      },
+      {
+        "text": "lo que recomendamos es que queden con la fecha en la que se va a hacer el cargo",
+        "startMs": 1765090,
+        "durationMs": 4050
+      },
+      {
+        "text": "inicial entonces supongamos que aquí lo vamos a hacer al primero de noviembre",
+        "startMs": 1769140,
+        "durationMs": 4130
+      },
+      {
+        "text": "recordemos que aquí seleccionamos el mes que vamos a cargar",
+        "startMs": 1773270,
+        "durationMs": 4540
+      },
+      {
+        "text": "y simplemente yo lo que tengo que venir aquí es a seleccionar por ejemplo el",
+        "startMs": 1777810,
+        "durationMs": 8020
+      },
+      {
+        "text": "empleado él",
+        "startMs": 1785830,
+        "durationMs": 3830
+      },
+      {
+        "text": "determinar el código de los conceptos supongamos salario y el sistema pues",
+        "startMs": 1789670,
+        "durationMs": 7770
+      },
+      {
+        "text": "salario me va a pedir cantidades por ejemplo yo le digo 30 días",
+        "startMs": 1797440,
+        "durationMs": 3960
+      },
+      {
+        "text": "recordemos que no me no siempre son días de 30 no importa si era febrero si era",
+        "startMs": 1801400,
+        "durationMs": 3540
+      },
+      {
+        "text": "julio no importa el que sea siempre son días de 30 y le vamos a poner",
+        "startMs": 1804940,
+        "durationMs": 6700
+      },
+      {
+        "text": "el valor no tengo que hacer nada más y supongamos que es camilo también",
+        "startMs": 1811650,
+        "durationMs": 6240
+      },
+      {
+        "text": "ganado un as unas comisiones",
+        "startMs": 1817890,
+        "durationMs": 6100
+      },
+      {
+        "text": "entonces yo podría aquí seleccionar el concepto de comisión pero yo también",
+        "startMs": 1823990,
+        "durationMs": 6419
+      },
+      {
+        "text": "podría seleccionar en general verá eso en total de de conceptos salariales",
+        "startMs": 1830409,
+        "durationMs": 6961
+      },
+      {
+        "text": "la persona se ganó tan y vamos a buscar aquí conceptos",
+        "startMs": 1837370,
+        "durationMs": 13039
+      },
+      {
+        "text": "y otros conceptos salariales y yo le podría decir aquí que se ganó millón",
+        "startMs": 1850419,
+        "durationMs": 5690
+      },
+      {
+        "text": "quinientos y así me podría ir con todos los empleados supongamos en octubre",
+        "startMs": 1856109,
+        "durationMs": 4410
+      },
+      {
+        "text": "entonces también estuvo mónica a mónica le voy a seleccionar",
+        "startMs": 1860519,
+        "durationMs": 6870
+      },
+      {
+        "text": "y salario le pongo esa larga etcétera etcétera cierto yo puedo hacer esto aquí",
+        "startMs": 1867399,
+        "durationMs": 4760
+      },
+      {
+        "text": "directamente en esta pestañita de en esta operación de carga inicial ahora sí",
+        "startMs": 1872159,
+        "durationMs": 6930
+      },
+      {
+        "text": "para mí también es más fácil hacerlo en excel entonces tenemos la opción vamos a",
+        "startMs": 1879089,
+        "durationMs": 5550
+      },
+      {
+        "text": "abrir aquí un excel que ya teníamos preparado",
+        "startMs": 1884639,
+        "durationMs": 4410
+      },
+      {
+        "text": "preparado porque de pronto el sistema en el que yo",
+        "startMs": 1889049,
+        "durationMs": 1980
+      },
+      {
+        "text": "manejaba mi nómina pues me lo entrega al excel es más fácil",
+        "startMs": 1891029,
+        "durationMs": 4100
+      },
+      {
+        "text": "organizar la información en excel o porque yo manejaba mi nómina en excel",
+        "startMs": 1895129,
+        "durationMs": 4691
+      },
+      {
+        "text": "etcétera el motivo que haya sido yo aquí simplemente debo organizar un excel que",
+        "startMs": 1899820,
+        "durationMs": 5280
+      },
+      {
+        "text": "tenga las mismas columnas que la operación",
+        "startMs": 1905100,
+        "durationMs": 4900
+      },
+      {
+        "text": "operación y aquí voy a poner por cada empleado",
+        "startMs": 1910000,
+        "durationMs": 3420
+      },
+      {
+        "text": "debo poner el código del empleado el contrato del empleado el código del",
+        "startMs": 1913420,
+        "durationMs": 5850
+      },
+      {
+        "text": "concepto de nómina pues es muy importante que ya esté creado ese polvo",
+        "startMs": 1919270,
+        "durationMs": 3570
+      },
+      {
+        "text": "el concepto de nómina y digamos que toda la demás información de cantidad días y",
+        "startMs": 1922840,
+        "durationMs": 11100
+      },
+      {
+        "text": "seleccionar yo simplemente doy control si voy a contar para mí vamos a ver que",
+        "startMs": 1933950,
+        "durationMs": 5280
+      },
+      {
+        "text": "el contra primer siempre es 100 compatible con excel simplemente le doy",
+        "startMs": 1939230,
+        "durationMs": 6430
+      },
+      {
+        "text": "quedaría mi nómina o mi carga inicial digamos que diligenciado de manera",
+        "startMs": 1945670,
+        "durationMs": 12920
+      },
+      {
+        "text": "manual esto vimos que lo puedo diligenciar de manera manual con cada",
+        "startMs": 1958590,
+        "durationMs": 4110
+      },
+      {
+        "text": "conceptos por medio de este editor también lo puedo organizar en excel y",
+        "startMs": 1962700,
+        "durationMs": 4350
+      },
+      {
+        "text": "copiar y pegar a cama y vamos a ver que digamos que la",
+        "startMs": 1967050,
+        "durationMs": 4610
+      },
+      {
+        "text": "maravilla para todos nuestros usuarios que ya usaban nómina y que tienen la",
+        "startMs": 1971660,
+        "durationMs": 4170
+      },
+      {
+        "text": "contabilidad ordenada y juiciosamente llevan digamos que estos registros en",
+        "startMs": 1975830,
+        "durationMs": 6450
+      },
+      {
+        "text": "contra prime la facilidad que tenemos entonces vamos a irnos otra vez a",
+        "startMs": 1982280,
+        "durationMs": 4140
+      },
+      {
+        "text": "modificar esta operación vamos a eliminar todos estos renglones",
+        "startMs": 1986420,
+        "durationMs": 8800
+      },
+      {
+        "text": "para que veamos lo que lo que pasa si yo tengo contra pymes y qué va a pasar",
+        "startMs": 1995230,
+        "durationMs": 11180
+      },
+      {
+        "text": "simplemente yo tengo aquí a mí",
+        "startMs": 2006410,
+        "durationMs": 7369
+      },
+      {
+        "text": "mi carga inicial y antes de empezar a registrar la información manual",
+        "startMs": 2013789,
+        "durationMs": 5120
+      },
+      {
+        "text": "simplemente le doy clic en estos botoncitos ya que los botoncitos de aquí",
+        "startMs": 2018909,
+        "durationMs": 5640
+      },
+      {
+        "text": "ya vienen y me traen toda la información que yo tengo registrada en mi",
+        "startMs": 2024549,
+        "durationMs": 4350
+      },
+      {
+        "text": "contabilidad y la ponen a disposición de este módulo de nómina para que yo",
+        "startMs": 2028899,
+        "durationMs": 4710
+      },
+      {
+        "text": "simplemente valide y complementar lo que tengo que complementar entonces pasamos",
+        "startMs": 2033609,
+        "durationMs": 4471
+      },
+      {
+        "text": "a hacer una cosa de pronto que el manual iguales necesarias en cualquier el",
+        "startMs": 2038080,
+        "durationMs": 3959
+      },
+      {
+        "text": "sistema de nómina si yo quiero pues que me calculen las cosas automáticamente a",
+        "startMs": 2042039,
+        "durationMs": 4671
+      },
+      {
+        "text": "tener un ya digamos que prácticamente el 90% del trabajo hecho que es lo único",
+        "startMs": 2046710,
+        "durationMs": 7030
+      },
+      {
+        "text": "que yo tengo que hacer aquí y ojo a esto el sistema en algunos casos me va a",
+        "startMs": 2053740,
+        "durationMs": 5190
+      },
+      {
+        "text": "pedir la cantidad de días recuerden que es de las principales diferencias que",
+        "startMs": 2058930,
+        "durationMs": 6689
+      },
+      {
+        "text": "hay la nómina contable y habilitar la nómina",
+        "startMs": 2065619,
+        "durationMs": 3331
+      },
+      {
+        "text": "en este módulo de nómina con nómina electrónica y es que ya el nivel de",
+        "startMs": 2068950,
+        "durationMs": 4589
+      },
+      {
+        "text": "detalle es mayor y se usa la cantidad de días trabajados la cantidad de días de",
+        "startMs": 2073539,
+        "durationMs": 7620
+      },
+      {
+        "text": "incapacidad se usan cantidades entonces el sistema que va a venir aquí me va a",
+        "startMs": 2081159,
+        "durationMs": 4531
+      },
+      {
+        "text": "preguntar los que están en blanco son obligatorios que a cuántos y en este",
+        "startMs": 2085690,
+        "durationMs": 5639
+      },
+      {
+        "text": "valor pues en nómina contable sólo teníamos valores",
+        "startMs": 2091329,
+        "durationMs": 3170
+      },
+      {
+        "text": "este valor a cuántos días y pues cuántos días representa cierto en este caso",
+        "startMs": 2094499,
+        "durationMs": 6221
+      },
+      {
+        "text": "nosotros le vamos a decir 30 yo podría y determinar aquí también auxilió el",
+        "startMs": 2100720,
+        "durationMs": 6329
+      },
+      {
+        "text": "transporte y horas extras también podría determinar cuántas cuántas horas fueron",
+        "startMs": 2107049,
+        "durationMs": 5101
+      },
+      {
+        "text": "pero realmente para el objetivo de calcular las fórmulas y que usan",
+        "startMs": 2112150,
+        "durationMs": 5369
+      },
+      {
+        "text": "promedios sólo necesito los que el sistema metida en blanco entonces aquí",
+        "startMs": 2117519,
+        "durationMs": 5191
+      },
+      {
+        "text": "pues vamos a seguir el ejemplo que todos son 30 días",
+        "startMs": 2122710,
+        "durationMs": 4990
+      },
+      {
+        "text": "es muy importante que yo pues el sistema me trae esta información pero esta",
+        "startMs": 2127700,
+        "durationMs": 4350
+      },
+      {
+        "text": "información sólo va a ser verídica si yo en contabilidad llevo todo muy bien",
+        "startMs": 2132050,
+        "durationMs": 4620
+      },
+      {
+        "text": "entonces es súper importante que se revisen todos estos valores las",
+        "startMs": 2136670,
+        "durationMs": 4679
+      },
+      {
+        "text": "provisiones y demás y simplemente le vamos a aceptar",
+        "startMs": 2141349,
+        "durationMs": 7121
+      },
+      {
+        "text": "aceptar vemos que aquí queda si lo procesamos",
+        "startMs": 2148480,
+        "durationMs": 5910
+      },
+      {
+        "startMs": 2154400,
+        "durationMs": 3790,
+        "text": "y vamos a ver"
+      },
+      {
+        "text": "ya me va este esta operación no me genera ningún tipo de movimiento",
+        "startMs": 2158200,
+        "durationMs": 4369
+      },
+      {
+        "text": "contable precisamente porque está sacando la información de la",
+        "startMs": 2162569,
+        "durationMs": 2731
+      },
+      {
+        "text": "contabilidad y quedaría doble pero si me va a dar generar todos los movimientos",
+        "startMs": 2165300,
+        "durationMs": 5100
+      },
+      {
+        "text": "de nómina para que el sistema ya pueda tener muchísima más información de",
+        "startMs": 2170400,
+        "durationMs": 4110
+      },
+      {
+        "text": "nuestros empleados y poder calcular digamos que los conceptos de manera",
+        "startMs": 2174510,
+        "durationMs": 4050
+      },
+      {
+        "text": "automática entonces para ver el ejemplo que ahorita dejamos cómo iniciado del",
+        "startMs": 2178560,
+        "durationMs": 6210
+      },
+      {
+        "text": "pago de la prima sin hacer cargo inicial y el pago de la prima haciendo cargo",
+        "startMs": 2184770,
+        "durationMs": 5100
+      },
+      {
+        "text": "inicial vamos a recordar en esta operación de casas en la operación de",
+        "startMs": 2189870,
+        "durationMs": 5459
+      },
+      {
+        "text": "carlos miremos que nos había cargado salario auxilio prima nos había",
+        "startMs": 2195329,
+        "durationMs": 5541
+      },
+      {
+        "text": "calculado 672 mil pesos que es lo correspondiente",
+        "startMs": 2200870,
+        "durationMs": 2440
+      },
+      {
+        "text": "a los valores que hasta el momento tiene el sistema cual es los que están",
+        "startMs": 2203310,
+        "durationMs": 6140
+      },
+      {
+        "text": "registrados en el contrato de carlos vamos a verlo",
+        "startMs": 2209450,
+        "durationMs": 6180
+      },
+      {
+        "startMs": 2215640,
+        "durationMs": 5840,
+        "text": "y visualizar datos del empleado"
+      },
+      {
+        "text": "y vemos que aquí pues simplemente teníamos que el salario básico de carlos",
+        "startMs": 2221490,
+        "durationMs": 4040
+      },
+      {
+        "text": "era este y que aplicaba para prima cierto no",
+        "startMs": 2225530,
+        "durationMs": 4900
+      },
+      {
+        "text": "solamente esta información el sistema cálculo esto si a mí mientras el salario",
+        "startMs": 2230430,
+        "durationMs": 6450
+      },
+      {
+        "text": "de carlos no me varía esto está súper bien entonces vamos a ver el ejemplo que",
+        "startMs": 2236880,
+        "durationMs": 5160
+      },
+      {
+        "text": "en esta y en este caso el salario carlos y valía porque él gana comisiones",
+        "startMs": 2242040,
+        "durationMs": 6920
+      },
+      {
+        "text": "entonces vamos a ver qué pasa si yo me devuelvo a noviembre y ya procesó a",
+        "startMs": 2248960,
+        "durationMs": 4990
+      },
+      {
+        "text": "todas estas operaciones del cargo inicial que había hecho nos vamos a",
+        "startMs": 2253950,
+        "durationMs": 8620
+      },
+      {
+        "text": "esto el sistema lo que está generando entonces es por cada una de esas",
+        "startMs": 2262580,
+        "durationMs": 4190
+      },
+      {
+        "text": "operaciones el registro de todos los movimientos",
+        "startMs": 2266770,
+        "durationMs": 4740
+      },
+      {
+        "text": "movimientos de todos los movimientos",
+        "startMs": 2271510,
+        "durationMs": 1850
+      },
+      {
+        "text": "de nómina pero en ningún momento va a ser un registro de movimientos contables",
+        "startMs": 2273360,
+        "durationMs": 5140
+      },
+      {
+        "text": "solo tienen que tener súper presente listo yo aquí ya procese todo",
+        "startMs": 2278500,
+        "durationMs": 5390
+      },
+      {
+        "text": "ahorita vamos a ver que como carlos restrepo",
+        "startMs": 2283890,
+        "durationMs": 4140
+      },
+      {
+        "text": "restrepo si ganaba comisiones pues digamos que",
+        "startMs": 2288030,
+        "durationMs": 3780
+      },
+      {
+        "text": "este valor de la operación o este valor de la prima pues no estaría audiencia",
+        "startMs": 2291810,
+        "durationMs": 5130
+      },
+      {
+        "text": "entonces qué tengo que hacer yo recargar simplemente estos valores veamos que",
+        "startMs": 2296940,
+        "durationMs": 5760
+      },
+      {
+        "text": "antes nos daba 671 mil pesos y ahora cuando yo lo recargo llame de",
+        "startMs": 2302700,
+        "durationMs": 5680
+      },
+      {
+        "text": "800 8000 pesos porque porque antes no estábamos teniendo las comisiones que él",
+        "startMs": 2308380,
+        "durationMs": 4679
+      },
+      {
+        "text": "se ganaba y ahora ya que hice todos los cargos iniciales pues si me los está",
+        "startMs": 2313059,
+        "durationMs": 4230
+      },
+      {
+        "text": "teniendo en cuenta y voy a poder hacer el cálculo y el pago en la nómina como",
+        "startMs": 2317289,
+        "durationMs": 3901
+      },
+      {
+        "text": "sea y le hago siguiente aceptar aquí yo simplemente le tengo que ajustar el",
+        "startMs": 2321190,
+        "durationMs": 5609
+      },
+      {
+        "text": "valor finalizar y listo yo puedo procesar esto y me va a",
+        "startMs": 2326799,
+        "durationMs": 7331
+      },
+      {
+        "text": "generar ya la contabilidad puedo enviarle al empleado el pago de nómina y",
+        "startMs": 2334130,
+        "durationMs": 5250
+      },
+      {
+        "text": "demás entonces en conclusión eso era lo único que nos faltaba para terminar la",
+        "startMs": 2339380,
+        "durationMs": 6479
+      },
+      {
+        "text": "nómina veamos que este cargo inicial se hace en ciertos casos que se puede hacer",
+        "startMs": 2345859,
+        "durationMs": 4381
+      },
+      {
+        "text": "de manera manual muy muy digamos que con mucha facilidad desde excel para traerlo",
+        "startMs": 2350240,
+        "durationMs": 5910
+      },
+      {
+        "text": "aquí a con está pyme o si yo ya soy usuario con tati más pues tengo esa",
+        "startMs": 2356150,
+        "durationMs": 3750
+      },
+      {
+        "text": "super ventaja que es que el cargo inicial se hace asistido y yo lo único",
+        "startMs": 2359900,
+        "durationMs": 4050
+      },
+      {
+        "text": "que tengo que hacer es revisar los valores y complementar la información",
+        "startMs": 2363950,
+        "durationMs": 5580
+      }
+    ],
+    "plainText": "## Descripción del video\n\nMódulo de Nómina ContaPyme®: Guía de implementación.\n\nRegistro inicial:\n\n1. Implemente Nómina Electrónica con el apoyo de nuestros expertos.\n\n2. Comprenda cómo realizar el registro inicial.\n\n## Transcripción\n\nahorita ya vamos a pasar entonces a realizar el registro inicial que es lo\nque yo tengo que registrar inicialmente pues mis\nempleados y mes contrato cierto y si quiero un cargo inicial que lo vamos a\nver más adelante entonces para el registro inicial digamos que\nempezamos con empleados y contratos aquí vamos a retomar un poquito la\nexplicación de la sesión inicial que era yo que le registró a un empleado\npues la información básica los datos de contacto dirección archivos asociados a\ncada empleado yo le puedo registrar un contrato que ya me va a definir el\nperfil y todas las condiciones de ese contrato\ncontrato qué son las condiciones del contrato le\nvoy a asociar los conceptos de pago por ejemplo salario auxilio transporte y\ntodos los demás conceptos que son recurrentes recordemos que el contrato\nsería esos sean conceptos recurrentes también vivimos y ya con la explicación\nde ahorita vimos que todo esto yo lo puedo resumir en los perfiles de\ncontrato y que por último pues no tengo que definir las entidades de nómina\nentonces hay dos formas de ello hacer este registro inicial de empleados y\ncontratos la primera es crear empleados por medio\ndel lector que fue como lo vimos en la primera\nsesión ya lo vamos a repetir y la segunda sería importar desde excel una\nplantilla si es que tengo muchos empleados y me es más fácil\ndigamos que organizando información en excel e\nimportarlo entonces vamos a ver primero cómo crear esos\nesos empleados por medio del editor recordemos entonces que venimos aquí en\ncontact y no vamos a cerrar yo ya configure hice la parametrización tengo\nclaro cuál es ese contrato tengo claros los conceptos de nóminas las entidades\netcétera etcétera sí entonces yo lo único que tengo que venir aquí en básico\nterceros puedo abrir lo filtrado por solamente empleado le damos que yo aquí\nya tenía unos empleados creados pero entonces vamos a crear un empleado desde\ncero este empleado desde cero vamos a ponerle\nno\ny una identificación cualquiera pues que\ndebe ser la cédula del empleado y vamos a ver\nvamos a crear por ejemplo a juan casas juan calles yo le podría subir la foto\nsí sí sí quiero tener todo bien organizado lo seleccionó como empleado\nvoy a datos de terceros le podría poner aquí que es un asesor de ventas un\nel sexo fecha de nacimiento bueno yo le puedo poner aquí toda la información\npersonal que yo quiera manejar voy a poderle poner aquí los datos de contacto\nque quiera tener en este con este empleado muy importante que si nosotros\nseleccionamos que el pago de la nómina la vamos a hacer por medio de la\nplataforma de documentos aquí yo le puedo poner un\nun correo en este caso vamos a poner aquí para que ahorita nos pueda llevar\nllegar el correo y súper importante le tengo que definir los los datos de\ndirección porque son exigidos para para el reporte de nómina legión y\nlisto vamos a suponer que esto es así clasificación tributaria pues yo podría\nponerle la que yo quiera y ya venimos a los datos del empleado que es donde\nempieza está esta configuración para que después todo me funcione entonces yo le\nvoy a crear un contrato a ese contrato se me van a asociar los conceptos y le\nvoy a definir las entidades entonces vamos a definirle un contrato de esta\npersona puede obtener si ya digamos que estoy registrando no una contratación\nnueva sino una contratación que viene de tiempo anterior pues yo le podría poner\nen el código del contrato que tenemos en papel o en otro sistema\nsupongamos este lo asocia a una empresa y le voy a definir el perfil entonces\npues supongamos que esta persona es una persona que ya lleva un tiempo con la\nempresa es de término indefinido le vamos a decir que inició con nosotros\nen el 2019 antes de la pandemia\ndigamos el primero de febrero del 2019 no tiene fecha de finalización todavía\ncomercial por ejemplo le podemos definir recordemos esto es opcional pero yo le\npodría definir un jefe por ejemplo viviana\nviviana y aquí le vamos a decir que es un asesor\nde ventas y la vamos a definir estos datos de aquí\nque me lo pide la dian entonces la clase de riesgo el tipo de trabajador subtipo\ny el lugar de trabajo aquí el sistema me permite usar la dirección del empleado\nque acabamos de poner la dirección de la empresa la dirección de la sede del\ncentro de costos o definir una dirección diferente en caso de que lo necesitara\npor ahora vamos a poner la dirección de la empresa no tengo ningunas\nobservaciones ni cláusulas adicionales pero recordemos que esto todo lo que me\npermite es llevar un control muy detallado a mis empleados doy clic en\naceptar y una vez soy clic en aceptar el sistema me dice que si quiero cargar los\nconceptos que tiene asociados el perfil de contrato terminó indefinido en pago\nmensual yo le digo que sí y el sistema vemos que me carga tanto los devengos\nlas prestaciones deducciones y los costos para la empresa\nvamos a ver que además de todo lo de ley como yo ya había configurado este perfil\nen mi parametrización la hice muy juiciosa que hace me cálculo la póliza\nde salud de miel aunque seguramente esté este empleado pues ya está disfrutando\nentonces que tengo que hacer yo aquí definir el salario digamos que son 2\nlos millones más 2 millones de pesos el sistema por\ndefecto me sugiere pues que la fecha inicial de ese salario sea la fecha\ninicial del contrato y aquí ya no le tengo que definir nada\nmás porque recuerden todo está formulado aquí en el contrato sólo me va a\npreguntar los valores que deban ser manual y específicamente el valor del\nsalario pues qué es la forma de definir el costo de la empresa como nosotros\nhabíamos definido que la póliza de emi era era el valor era manual\nrecordemos aquí vamos uniendo todo recordemos que cuando creamos este\nconcepto en forma de cálculo pusimos que el valor era manual\nentonces como aquí lo estoy llamando él me está pidiendo un valor supongamos que\nmensuales veamos que aquí en mérida la periodicidad que le dijimos que ya no\nera cada pago sino mensual y lo mismo pasa en prestaciones en prestaciones del\nmes de esta prima está bien asociada a este contrato a este tercero pero la voy\na pagar semanal en el mes 6 en el día 15 del\nmismo esto simplemente se hereda yo no tengo que hacer nada más y algo que en\nperdón que aquí me saco una validación porque no le puse el arroz no es un\ny simplemente damos clic aquí en aceptar y no hay problema listo nos quedó creado\njuan calle esos son los datos básicos que yo le debo ingresar a un empleado si\nyo soy más juiciosa vamos a ver que yo un empleado también\nle podría tener que ha determinado su cuenta bancaria datos adicionales si\nquiero empezar a clasificar los empleados de alguna forma y una cosa\nsúper importante que es nuevo para este para este esta actualización que trae el\ntema de nómina es que yo a un empleado le puedo anunciar archive para que para\ntener una cuestión documental de mi nómina entonces yo qué archivos podría\nsubir aquí podemos ver la hoja de vida por subir el contrato ya ha firmado por\nsubir diferentes otros y puedo subir las incapacidades las localizaciones de\nvacaciones etcétera éxitos subirlo es simplemente muy fácil me ubico aquí en\nla pestaña archivos le doy clic en más el sistema me va a pedir\nuna que cargue el documento por ejemplo yo le podría decir que quiero que me\ncargue la hoja de vida aquí vamos a decir que esto va a estar agrupado por\nhoja de vida y simplemente el sistema me lo cargo\npuedo cargar otro como el contrato pues ya va a estar agrupado por contrato\ny simplemente el sistema local está aquí y aceptar para que lo pueda visualizar\nsolamente en darle a aceptar el sistema carga esos archivos a nuestra base de\ndatos y ya mañana pasado mañana cualquier otra persona que venga aquí y\ntenga el permiso de ver estos archivos perdón\nperdón y lo va a poder si le da click aquí pues\ndigamos que le va a abrir el archivo aquí pues tenemos un\narchivo de ejemplo y listo\nasí es como funciona la creación de empleado yo de esta manera puedo crear\ntodos mis empleados veamos que nos demoramos es por la explicación pero no\npor la digitación porque son muy poquitos datos los que hay que ingresar\npero si yo tengo muchos empleados y yo prefiero tener una plantilla de excel\nentonces como lo debo hacer es muy 5 yo aquí le va dar clic derecho\nutilidades y voy a generar la plantilla de importación en excel cierto el\nel documento en xml\nyo le voy a dar guardar y allá es donde voy a digamos que modificar\no insertar pues toda la información aquí para que el ejemplo no nos quede\nfácil yo les traigo ya una base cita de datos preparada en excel se las voy a\nmostrar a continuación donde tenemos toda la información de varios empleados\ncon digamos que la información ya diligenciada de lo que sería y las cosas\nque se van a importar cierto tenemos las entidades tenemos\nlos contratos de cada empleado por mí yo le tengo que asociar en los contratos\ntengo los conceptos asociados a cada nit a cada contrato etcétera etcétera para\nlas personas que quieran digamos que usar este método de creación de\nempleados y contratos vamos a tener un vídeo especializado explicando cómo\ndiligenciar esta información pero aquí para el ejemplo simplemente\nvoy a salirme y les voy a mostrar cómo es que\nese impacto cuando yo ya tengas excel diligenciado simplemente le doy clic\nderecho utilidades importar registros desde excel alguien porta registros pues\nél me va a pedir en que yo seleccione cual cual archivo es\nyo lo seleccionó y el sistema pues digamos que va a empezar a analizar\ntodos los datos que yo le estoy entregando para crear así los empleados\nel sistema me dice el proceso terminado satisfactoriamente cerrar y vemos que\naquí ya no solamente tengo los tres empleados que había quedado inicialmente\nsino que tengo los empleados dados en él en\nen desde contamina pero desde el excel\nlisto estas son las dos formas de crear y empleados tenemos vimos la forma de\ncrearlos por medio del editor la forma de crearlos por excel yo podría por\nejemplo los datos más básicos e importarlos desde excel para que ya me\nquieren aquí y a cada una entradas y digamos que configurables los perfiles\nde contrato ahora para los clientes que ya tenían que son usuarios de con está\npyme y ya tenían los terceros creados como empleados no se preocupen toda la\ninformación de los empleados pasa simplemente tienen que entrar a\ncontratos y ya a definirle pues digamos todos los campos que se requiere un\ncontrato y el salario también hay que definirse lo a los empleados\nlisto muy bien entonces ya hicimos toda nuestra parametrización y ya podemos\nregistrar un pago de nota no hemos hecho nada más nos hemos demorado dos horitas\npues una horita y media larga está aquí haciendo esta marea matriz acción y\nlisto estamos listos para en generar un pago de nómina y vamos a verlo en\ncontacto entonces vamos a contar prime aquí yo ya tengo abierto el manejador de\noperaciones y recordemos que de empleados nosotros\nya hicimos retomemos lo que hemos hecho hicimos la revisión de conceptos de\nnóminas de perfiles de contrato creamos las entidades de nómina que no estaban\naquí presentes y creamos los empleados\ny listo vamos a venir al manejador de operaciones estamos en noviembre y lo\núnico que yo tengo que hacer es pago de nómina\nnómina empleado\nempleado juan calle que fue el que acabamos de\ncrear a aceptar y listo vamos a ver que el sistema me calculó automáticamente la\nnómina de este empleado veamos que auxiliar transporte no me cálculo porque\nsi ya se superan digamos que el tema del salario mínimo\nnos hacen los descuentos de salud y pensión del empleado automáticamente\nviene nos calcula todos estos aportes y costos para el empleo para la empresa\nincluido el costo que acabamos de crear que era\nel de emi nosotros simplemente le tenemos que dar aquí que le vamos a\npagar finalizada\ny\naquí en finalizar damos procesar vamos a validar que tenemos en el\ninspector nos generó todo el movimiento contable\ncontable asociado al centro de costos del\nempleado con la cuenta digamos que asociada a cada uno de estos\nconceptos adicional a esto el sistema vino nos\ncreó los movimientos de nómina de conceptos de\nnómina que los podemos ver aquí todos detallados y para\ndigamos que entregarle este documento al empleado y yo simplemente tengo que\nvenir a probar documentos recordemos que ya habíamos también configurado toda la\nplataforma entonces una vez yo le doy a aprobar al documento el sistema lo que\nva a hacer es generar método ese archivo bonito lleno de\ninformación que necesita el empleado pues para validar nos dice que ya fue\npublicado y enviado nosotros venimos vamos a validar en\nen el correo del empleado que acaba de llegar este nuevo correo de\npago de nómina de mi empresa sas yo lo abro pero doy clic para ver el\ndocumento y vemos que el sistema me va a traer toda la configuración que ya\nhabíamos hecho en la plataforma de documentos primero que todo me trae el\ncomprobante me entra me dice el tipo de contrato la información de del empleado\nel período de cuidado me trae en los conceptos viciados que yo dije que\nquería que se vieran en este comprobante de nómina y le damos\nque el empleado puede aprobar rechazar o chatear con el asesor en un caso tal de\nque yo tenga esa opción veamos que puede imprimir descargar permita con éxito\nsupongamos yo soy el empleado le doy a aceptar y digo\nhe revisado los valores y todo esto\ny al empleado simplemente le va a parecer documento aprobado y veamos que\nnosotros en contra prime si yo le doy aquí actualizar seleccionó\nla operación y le doy a actualizar esta vamos a ver que aquí ya me parece que el\nempleado lo aprobó y sí y yo abro el inspector ya voy a ver que\nel documento me aparece toda la bitácora de los datos o de las acciones que ha\nhecho el empleado en con este documento listo no tengo que hacer nada ya ustedes\nsi quieres se puede sentir de esta capacitación y empezar a\nemitir sus documentos de nómina pues una vez tenga el módulo ahora qué es lo\núnico que nos falta de esta de esta capacitación un punto que es lo que\nllamamos el cargo inicial que era el segundo punto de ese registro inicial\nentonces qué quiere decir el cargo inicial vamos primero a entender qué es\neso tan raro el cargo inicial simplemente es una operación que me\npermite registrar el histórico los pagos de los empleados para que quisiera yo\nhacer eso para que yo quiero si estoy en noviembre empezará a registrar lo que yo\nle he pagado al empleado en en épocas anteriores porque resulta que como con\nestá pyme calcula todo automáticamente conceptos que usan promedios históricos\ncomo cuales conceptos vacaciones cesantías primas\nincapacidades recordemos que por ejemplo la prima pues para pagar la prima\nahorita en diciembre necesito ahí sacar el promedio de los últimos seis meses\nqué pasa si yo quiero que contamine digamos que me me cuente en este\npromedio todos los meses anteriores en los que yo no había usado este módulo de\nnómina pues debo hacer un cargo inicial para eso posición ahora siempre siempre\nse debe hacer un cargo inicial la respuesta es no es opcional en caso de\nque yo no haga registro inicial vamos a ver que pues primero ya hicimos el\nejemplo del pago de nómina pero si yo pueda pagar la prima en\ndiciembre el sistema simplemente que va a ser va a calcular digamos que los\nvalores con los datos registrados hasta el momento si no hay datos registrados\npues él va a el único dato que ha realizado que es el salario y está en el\nempleado y para ver esto un poquito más claro\nveamos un ejemplo aquí en esta base de datos que no hemos hecho ningún cargo\ninicial vamos a ver vamos a pasarnos para diciembre por ejemplo y vamos a\nun empleado\npor ejemplo carlos\ny le vamos a decir que nos cargue todos los conceptos damos clic en aceptar\ny el sistema lo que va a hacer es calcular me todos los conceptos del\nempleado veamos que aquí él tenía un salario básico y él nos calculó la prima\naquí siguiente nos calcula el resto y listo\no sea no tuvimos que hacer ningún cargo ningún cargo inicial vamos a darle\ny algo nos queda la operación simplemente sería procesarla y enviar\npero entonces yo en qué casos si debería ser y en qué\ncasos no vamos a ver siempre se debe hacer no en qué casos no se hacen pues\nbásicamente 31 cuando la empresa es nueva pues digamos que no hay histórico\nde pagos no es necesario hacer el cargo inicial 2 cuando yo tengo una nómina y\ntodos mis salarios son muy fijos realmente mi nómina no varía entonces\npues yo puedo decir no es necesario si me coge el d\nel salario que está asignado en el contrato o digamos este mes que yo va a\npagar noviembre que en diciembre me coja el promedio de estos meses no hay\nproblema está bien en esos casos no es necesario hacer cargo inicial o si por\nel contrario pues yo digo no vengan es que yo no quiero que el sistema me\ncalcule y automáticamente las prestaciones\nprestaciones y las incapacidades yo esos valores los\nprefiero registrar manualmente si la persona los va a registrar manualmente\nque es lo único que tiene que hacer ir al concepto quitarle en la forma de\ncálculo que se va a hacer por medio de una fórmula y hacerlo pues seleccionar\nmanual y simplemente cada vez que se vaya a limpiar esa esa nómina el cliente\npues o el usuario explicamos que pone el valor cierto en esos tres casos pues no\nse debe hacer eso ahora si yo tengo una nómina super variable donde todo el\nmundo gana comisiones y eso pues digamos que me varía bastante la\nnómina mes a mes pues si lo más recomendable es que como en cualquier\notro sistema de nómina pues acabamos de ese registro histórico para que el\nsistema lo pueda calcular automáticamente mucho más preciso los\ntemas de primas y prestaciones\nahora qué pasa la pregunta que sé que todos están haciendo y si yo ya ha\nregistrado a mi nómina en contamina y que debo hacer pues ahí también hay una\nmuy buena noticia porque como les decía se los he repetido varias veces digamos\nque nuestra misión no es solamente hacerlo bien sino también hacerlo fácil\ny es que tenemos con carga inicial a asistir que a más adelante lo vamos a\nver porque vamos a ver los dos ejemplos el ejemplo de un registro de carga\ninicial en manual y el ejemplo de una función registro de carga inicial\nasistido que éste es muy especialmente diseñada para todos los usuarios\ncompatibles que vienen con nosotros desde hace ya varios tiempo y usado en y\nregistrado pues su nómina contable en contacto entonces\ncomo se registros allá ese es el cargo inicial ya entendimos que es ya\nentendimos para que él ya sabemos que es opcional en qué casos es opcional en qué\ncasos no cómo se hace el cargo inicial si yo ya ha decidido hacerlo entonces\ntengo que hacer una operación de carga inicial por cada mes histórico que yo\nquiero registrar y en esa operación por cada mes yo voy a registrar los valores\nde los conceptos de los terceros ahora qué conceptos debo registrar yo no\ntengo que registrar absolutamente todos los conceptos no tengo que registrar los\nque hacen base y se diferencian entre entre para calcular las fórmulas de\nprestaciones de incapacidades y en vacaciones etcétera entonces cuáles son\nlos que nosotros recomendamos estos que ustedes ven en pantalla que una persona\ngeneralmente solo gana salario y conceptos salariales solamente tienen\nque registrar salarios conceptos salariales que es que yo tengo un\naprendiz pues solamente tendría que registrar el apoyo de seguimiento que es\nque cuando yo le pago también le hago deducciones y también\ntiene un costo para la empresa sí pero eso no nos interesa porque acuérdense\nque el objetivo de este cardio inicial es que las fórmulas\nde esos conceptos de prestaciones que usan promedios pues tienen bien\ncalculadas entonces estos son los conceptos que se se recomiendan\nregistrar en ese cargo inicial vamos a verlo con un ejemplo entonces supongamos\nyo tengo a juana maría iba a ser el cargo inicial de ellos yo por cada mes\npor ejemplo para julio voy a decir que los dos trabajaron 30 días y uno se ganó\nun millón 500 y aquí me quedo me faltó un 0 pero se ganó digamos 2 millones\nel siguiente mes resulta que juan se ganaba millón quinientos pero estuvo\ndiez días tuvo diez días de incapacidad entonces esto nada más por el ejemplo le\nvoy a poner que segaron por concepto de salario un millón veinte días y por\nconcepto en capacidades 500 mil supongamos\nsupongamos y conceptos salariales aquí perdón en\njulio para maría era la comisión ahora vamos a ver en septiembre en\nseptiembre y los dos ganan un salario normal y maría ganó sus comisiones en\noctubre\njuan salió de vacaciones entonces yo reporto estoy registro estas vacaciones\nbonificaciones entonces si yo tengo esto así pues digamos que cada uno de estos\nrecuadros azul es va a ser una operación de carga inicial que yo debo hacer en la\nmisma operación puedo poner todos los conceptos todos los terceros no hay\nhacer un ejemplo en el ejemplo 1 vamos a hacer un cargo inicial manual y en el\nejemplo 2 vamos a hacer un cargo inicial asistido entonces vamos a ir para contar\nvamos a irnos para contarme digamos que en el ejemplo nosotros vamos a empezar\ncon la nómina en noviembre con nómina en cuenta primer noviembre por lo tanto yo\ndebería ser mis mis carnes iniciales en noviembre de\nlo que recomendamos pues sí sí sí digamos que los criterios que mostramos\nahorita las personas quieren hacer un cargo inicial lo que recomendamos es que\nefectivamente el carné inicial lo hagan doce meses atrás o sea si empezamos en\ny hagamos el cargue el cargo inicial desde\ndesde octubre desde perdón desde noviembre del\naño anterior hasta octubre del presente año entonces aquí para el ejemplo vamos\na ver que ahorita ya tenemos todas estas cargas inicial iniciales pre que dados\npero quiero que mantengan una retentiva habíamos dicho que no era necesario\nhacer el cargo inicial cuando yo tengo una nómina que es muy que es muy fija\ncierto y que incluso puedo pagar en las prestaciones y el sistema menos liquidar\nel caso de carlos restrepo porque me líquido\nlas primas pero resulta para este ejemplo que carlos y maneja unas unas\ncomisiones variables por lo tanto este valor no estaría correcto es que tengo\nque hacer yo venir y digamos que registrar los cargos iniciales entonces\nvamos a ver el primer cargo inicial qué es\nes lo encuentro por aquí nómina carga\ninicial de conceptos de nómina le doy clic en aceptar y vamos a ver\nvamos a explicar está esta ventanita que me abre el sistema entonces él me va a\ndecir cuál es el mes que voy a cargar\nsupongamos yo aquí le voy a decir octubre que es el único mes que nos\nen octubre lo puedo cargar los cargos iniciales le pueden quedar con fecha y\nlo que recomendamos es que queden con la fecha en la que se va a hacer el cargo\ninicial entonces supongamos que aquí lo vamos a hacer al primero de noviembre\nrecordemos que aquí seleccionamos el mes que vamos a cargar\ny simplemente yo lo que tengo que venir aquí es a seleccionar por ejemplo el\nempleado él\ndeterminar el código de los conceptos supongamos salario y el sistema pues\nsalario me va a pedir cantidades por ejemplo yo le digo 30 días\nrecordemos que no me no siempre son días de 30 no importa si era febrero si era\njulio no importa el que sea siempre son días de 30 y le vamos a poner\nel valor no tengo que hacer nada más y supongamos que es camilo también\nganado un as unas comisiones\nentonces yo podría aquí seleccionar el concepto de comisión pero yo también\npodría seleccionar en general verá eso en total de de conceptos salariales\nla persona se ganó tan y vamos a buscar aquí conceptos\ny otros conceptos salariales y yo le podría decir aquí que se ganó millón\nquinientos y así me podría ir con todos los empleados supongamos en octubre\nentonces también estuvo mónica a mónica le voy a seleccionar\ny salario le pongo esa larga etcétera etcétera cierto yo puedo hacer esto aquí\ndirectamente en esta pestañita de en esta operación de carga inicial ahora sí\npara mí también es más fácil hacerlo en excel entonces tenemos la opción vamos a\nabrir aquí un excel que ya teníamos preparado\npreparado porque de pronto el sistema en el que yo\nmanejaba mi nómina pues me lo entrega al excel es más fácil\norganizar la información en excel o porque yo manejaba mi nómina en excel\netcétera el motivo que haya sido yo aquí simplemente debo organizar un excel que\ntenga las mismas columnas que la operación\noperación y aquí voy a poner por cada empleado\ndebo poner el código del empleado el contrato del empleado el código del\nconcepto de nómina pues es muy importante que ya esté creado ese polvo\nel concepto de nómina y digamos que toda la demás información de cantidad días y\nseleccionar yo simplemente doy control si voy a contar para mí vamos a ver que\nel contra primer siempre es 100 compatible con excel simplemente le doy\nquedaría mi nómina o mi carga inicial digamos que diligenciado de manera\nmanual esto vimos que lo puedo diligenciar de manera manual con cada\nconceptos por medio de este editor también lo puedo organizar en excel y\ncopiar y pegar a cama y vamos a ver que digamos que la\nmaravilla para todos nuestros usuarios que ya usaban nómina y que tienen la\ncontabilidad ordenada y juiciosamente llevan digamos que estos registros en\ncontra prime la facilidad que tenemos entonces vamos a irnos otra vez a\nmodificar esta operación vamos a eliminar todos estos renglones\npara que veamos lo que lo que pasa si yo tengo contra pymes y qué va a pasar\nsimplemente yo tengo aquí a mí\nmi carga inicial y antes de empezar a registrar la información manual\nsimplemente le doy clic en estos botoncitos ya que los botoncitos de aquí\nya vienen y me traen toda la información que yo tengo registrada en mi\ncontabilidad y la ponen a disposición de este módulo de nómina para que yo\nsimplemente valide y complementar lo que tengo que complementar entonces pasamos\na hacer una cosa de pronto que el manual iguales necesarias en cualquier el\nsistema de nómina si yo quiero pues que me calculen las cosas automáticamente a\ntener un ya digamos que prácticamente el 90% del trabajo hecho que es lo único\nque yo tengo que hacer aquí y ojo a esto el sistema en algunos casos me va a\npedir la cantidad de días recuerden que es de las principales diferencias que\nhay la nómina contable y habilitar la nómina\nen este módulo de nómina con nómina electrónica y es que ya el nivel de\ndetalle es mayor y se usa la cantidad de días trabajados la cantidad de días de\nincapacidad se usan cantidades entonces el sistema que va a venir aquí me va a\npreguntar los que están en blanco son obligatorios que a cuántos y en este\nvalor pues en nómina contable sólo teníamos valores\neste valor a cuántos días y pues cuántos días representa cierto en este caso\nnosotros le vamos a decir 30 yo podría y determinar aquí también auxilió el\ntransporte y horas extras también podría determinar cuántas cuántas horas fueron\npero realmente para el objetivo de calcular las fórmulas y que usan\npromedios sólo necesito los que el sistema metida en blanco entonces aquí\npues vamos a seguir el ejemplo que todos son 30 días\nes muy importante que yo pues el sistema me trae esta información pero esta\ninformación sólo va a ser verídica si yo en contabilidad llevo todo muy bien\nentonces es súper importante que se revisen todos estos valores las\nprovisiones y demás y simplemente le vamos a aceptar\naceptar vemos que aquí queda si lo procesamos\ny vamos a ver\nya me va este esta operación no me genera ningún tipo de movimiento\ncontable precisamente porque está sacando la información de la\ncontabilidad y quedaría doble pero si me va a dar generar todos los movimientos\nde nómina para que el sistema ya pueda tener muchísima más información de\nnuestros empleados y poder calcular digamos que los conceptos de manera\nautomática entonces para ver el ejemplo que ahorita dejamos cómo iniciado del\npago de la prima sin hacer cargo inicial y el pago de la prima haciendo cargo\ninicial vamos a recordar en esta operación de casas en la operación de\ncarlos miremos que nos había cargado salario auxilio prima nos había\ncalculado 672 mil pesos que es lo correspondiente\na los valores que hasta el momento tiene el sistema cual es los que están\nregistrados en el contrato de carlos vamos a verlo\ny visualizar datos del empleado\ny vemos que aquí pues simplemente teníamos que el salario básico de carlos\nera este y que aplicaba para prima cierto no\nsolamente esta información el sistema cálculo esto si a mí mientras el salario\nde carlos no me varía esto está súper bien entonces vamos a ver el ejemplo que\nen esta y en este caso el salario carlos y valía porque él gana comisiones\nentonces vamos a ver qué pasa si yo me devuelvo a noviembre y ya procesó a\ntodas estas operaciones del cargo inicial que había hecho nos vamos a\nesto el sistema lo que está generando entonces es por cada una de esas\noperaciones el registro de todos los movimientos\nmovimientos de todos los movimientos\nde nómina pero en ningún momento va a ser un registro de movimientos contables\nsolo tienen que tener súper presente listo yo aquí ya procese todo\nahorita vamos a ver que como carlos restrepo\nrestrepo si ganaba comisiones pues digamos que\neste valor de la operación o este valor de la prima pues no estaría audiencia\nentonces qué tengo que hacer yo recargar simplemente estos valores veamos que\nantes nos daba 671 mil pesos y ahora cuando yo lo recargo llame de\n800 8000 pesos porque porque antes no estábamos teniendo las comisiones que él\nse ganaba y ahora ya que hice todos los cargos iniciales pues si me los está\nteniendo en cuenta y voy a poder hacer el cálculo y el pago en la nómina como\nsea y le hago siguiente aceptar aquí yo simplemente le tengo que ajustar el\nvalor finalizar y listo yo puedo procesar esto y me va a\ngenerar ya la contabilidad puedo enviarle al empleado el pago de nómina y\ndemás entonces en conclusión eso era lo único que nos faltaba para terminar la\nnómina veamos que este cargo inicial se hace en ciertos casos que se puede hacer\nde manera manual muy muy digamos que con mucha facilidad desde excel para traerlo\naquí a con está pyme o si yo ya soy usuario con tati más pues tengo esa\nsuper ventaja que es que el cargo inicial se hace asistido y yo lo único\nque tengo que hacer es revisar los valores y complementar la información"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 233.757,
+    "asr": 44100,
+    "filesizeApprox": 69338433,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2021",
+  "files": {
+    "year": "2021",
+    "kind": "videos",
+    "md": "videos/2021/YF_Jkrf06co.md",
+    "json": "videos/2021/YF_Jkrf06co.json",
+    "infoJson": "videos/2021/YF_Jkrf06co.info.json"
+  }
+}

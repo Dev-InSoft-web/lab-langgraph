@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "entryId": "Z7SW282VH4E",
+  "youtubeId": "Z7SW282VH4E",
+  "status": "pending",
+  "updatedAt": "2026-06-05T17:10:08.868Z",
+  "icursos": [
+    "CP40MOD610"
+  ],
+  "entries": [
+    {
+      "entryId": "Z7SW282VH4E",
+      "youtubeId": "Z7SW282VH4E",
+      "iplan": "020035",
+      "capitulo": "Empresa",
+      "titulo": "Creación de una nueva empresa en ContaPyme",
+      "descripcion": "Conoce el proceso para crear una empresa en ContaPyme y definir la base estructural del sistema, paso fundamental para una correcta parametrización.&nbsp;",
+      "profesor": {
+        "rol": "Asesor",
+        "nombre": "Santiago Alarcon Arango"
+      },
+      "dificultad": "Básico",
+      "source": "html-page",
+      "icurso": "CP40MOD610"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "CP40MOD610",
+      "ncurso": "Curso Sistema básico",
+      "descripcionCurso": "Módulo de sistema básico de ContaPyme"
+    }
+  ]
+}

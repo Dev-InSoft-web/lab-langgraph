@@ -1,0 +1,1639 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:25:21.227Z",
+  "videoId": "MLkTxVZ9f8I",
+  "videoUrl": "https://www.youtube.com/watch?v=MLkTxVZ9f8I",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCuG_r9msvl3FUnPdKodk__w",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "MLkTxVZ9f8I",
+    "title": "NC Inventarios IN",
+    "fulltitle": "NC Inventarios IN",
+    "description": "Nota crédito a factura de venta realizada por operación de ventas (Módulo inventarios y facturación)",
+    "duration": 1234,
+    "duration_string": "20:34",
+    "upload_date": "20210703",
+    "timestamp": 1625326900,
+    "view_count": 454,
+    "like_count": 3,
+    "channel": "Marketing Insoft",
+    "channel_id": "UCuG_r9msvl3FUnPdKodk__w",
+    "channel_url": "https://www.youtube.com/channel/UCuG_r9msvl3FUnPdKodk__w",
+    "uploader": "Marketing Insoft",
+    "uploader_id": "@marketinginsoft9490",
+    "uploader_url": "https://www.youtube.com/@marketinginsoft9490",
+    "categories": [
+      "People & Blogs"
+    ],
+    "tags": [],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/MLkTxVZ9f8I/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgVih_MA8=&rs=AOn4CLBQRngwWoiPGgoYvUMIB9a_UOaJZg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/default.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/default.jpg?sqp=-oaymwEkCHgQWvKriqkDGvABAfgB_gmAAtAFigIMCAAQARgwIFYofzAP&rs=AOn4CLCH2UwVnymQbIr_EU8h-5U00Mld5g",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "25",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/default.webp",
+        "preference": -12,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/mqdefault.jpg",
+        "preference": -11,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgVih_MA8=&rs=AOn4CLBDdZcBU8NgCUfcmVkxP0_xSGkMdA",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "28",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/mqdefault.webp",
+        "preference": -10,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/0.jpg",
+        "preference": -9,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/0.webp",
+        "preference": -8,
+        "id": "31"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg",
+        "preference": -7,
+        "id": "32"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDAgVih_MA8=&rs=AOn4CLAx1ucgGN5GwxD6E-99vnVvICVcLw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "33",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgwIFYofzAP&rs=AOn4CLCaHg4tZD-2Addag9ugWJWlbZzQqg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "34",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDAgVih_MA8=&rs=AOn4CLDeviYIDsvPZ3D_GLWIowliet5lfA",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "35",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgwIFYofzAP&rs=AOn4CLDnOpRBj90EOWO3UuuiEWsELZhvyw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "36",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgwIFYofzAP&rs=AOn4CLCSBTLvI_TnHr23urr9J6v08aWlcw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "37",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYMCBWKH8wDw==&rs=AOn4CLAOfu4mJ9gU7vSGVeCUWNYrxUbYLQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "38",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgwIFYofzAP&rs=AOn4CLBuA4HikzPVBYcv689AfEqzeURqDg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "39",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYMCBWKH8wDw==&rs=AOn4CLCNXbdfo_RM3v27b_DBWnfjedNl4g",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "40",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgVih_MA8=&rs=AOn4CLA9m-1G2YLp7ui-cfA2Q0FVilTPyw",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "41",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/hqdefault.webp",
+        "preference": -6,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/sddefault.jpg",
+        "preference": -5,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgVih_MA8=&rs=AOn4CLBQRngwWoiPGgoYvUMIB9a_UOaJZg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "44",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/sddefault.webp",
+        "preference": -4,
+        "id": "45"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hq720.jpg",
+        "preference": -3,
+        "id": "46"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/hq720.webp",
+        "preference": -2,
+        "id": "47"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/maxresdefault.jpg",
+        "preference": -1,
+        "id": "48"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/MLkTxVZ9f8I/maxresdefault.webp",
+        "preference": 0,
+        "id": "49"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MLkTxVZ9f8I",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.08103727714748785,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.1012965964343598,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.1012965964343598,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 200.068,
+        "asr": 44100,
+        "filesize_approx": 30864565,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "NC Inventarios IN",
+    "author_name": "Marketing Insoft",
+    "author_url": "https://www.youtube.com/@marketinginsoft9490",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/MLkTxVZ9f8I/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MLkTxVZ9f8I?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"NC Inventarios IN\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 240,
+    "transcriptChars": 17455,
+    "segments": [
+      {
+        "text": "no está crédito la factura de venta realizada por la operación de ventas",
+        "startMs": 290,
+        "durationMs": 5150
+      },
+      {
+        "text": "dentro del módulo de inventarios y facturación",
+        "startMs": 5440,
+        "durationMs": 3560
+      },
+      {
+        "text": "cual es su funcionalidad una nota crédito es un documento",
+        "startMs": 11220,
+        "durationMs": 4950
+      },
+      {
+        "text": "electrónico especialmente utilizado para realizar bien sea una anulación total o",
+        "startMs": 16170,
+        "durationMs": 6720
+      },
+      {
+        "text": "parcial de una factura o aplicarle rebajas o descuentos a una factura",
+        "startMs": 22890,
+        "durationMs": 5519
+      },
+      {
+        "text": "electrónica que ya se emitió dentro del sistema contable podemos realizar notas",
+        "startMs": 28409,
+        "durationMs": 6451
+      },
+      {
+        "text": "crédito a operaciones de venta bien sea que impliquen el reintegro de mercancía",
+        "startMs": 34860,
+        "durationMs": 6150
+      },
+      {
+        "text": "en el inventario o simplemente una ejecución de una disminución por un",
+        "startMs": 41010,
+        "durationMs": 5100
+      },
+      {
+        "text": "descuento o una rebaja que se le aplicó a una factura ya emitida",
+        "startMs": 46110,
+        "durationMs": 4920
+      },
+      {
+        "text": "miremos dentro del sistema contame cómo se pueden realizar esas notas crédito",
+        "startMs": 51030,
+        "durationMs": 5120
+      },
+      {
+        "text": "estando ubicados dentro del sistema con tap y me vamos a ingresar por la opción",
+        "startMs": 56150,
+        "durationMs": 5530
+      },
+      {
+        "text": "de básico operaciones que es nuestro manejador de operaciones allí vamos a",
+        "startMs": 61680,
+        "durationMs": 7200
+      },
+      {
+        "text": "encontrar por la opción de más operaciones en la opción de ventas dos",
+        "startMs": 68880,
+        "durationMs": 5820
+      },
+      {
+        "text": "operaciones especializadas para hacer notas crédito tenemos la operación de",
+        "startMs": 74700,
+        "durationMs": 5580
+      },
+      {
+        "text": "devolución en ventas y la operación de nota crédito ventas ambas operaciones",
+        "startMs": 80280,
+        "durationMs": 7130
+      },
+      {
+        "text": "sirven para realizar notas crédito sin embargo",
+        "startMs": 87410,
+        "durationMs": 5800
+      },
+      {
+        "text": "embargo cada una va a poder generar un",
+        "startMs": 93210,
+        "durationMs": 4140
+      },
+      {
+        "text": "movimiento dentro del sistema con está pyme de acuerdo al requerimiento de la",
+        "startMs": 97350,
+        "durationMs": 4740
+      },
+      {
+        "text": "nota crédito por ejemplo si la factura de venta requiere reintegro de mercancía",
+        "startMs": 9000,
+        "durationMs": 101750
+      },
+      {
+        "text": "vamos a realizar una operación de devolución en venta con el documento de",
+        "startMs": 110750,
+        "durationMs": 4810
+      },
+      {
+        "text": "soporte nota crédito porque allí se va a reintegrar en el inventario las",
+        "startMs": 115560,
+        "durationMs": 5340
+      },
+      {
+        "text": "existencias que el cliente me está devolviendo y eso es una nota crédito",
+        "startMs": 120900,
+        "durationMs": 4580
+      },
+      {
+        "text": "ahora si se está haciendo es una nota a crédito porque se le está aplicando un",
+        "startMs": 125480,
+        "durationMs": 5020
+      },
+      {
+        "text": "descuento o una rebaja a una factura que se le emitió a un cliente pero que dicho",
+        "startMs": 130500,
+        "durationMs": 5910
+      },
+      {
+        "text": "cliente no nos está devolviendo mercancía o productos se registra por",
+        "startMs": 136410,
+        "durationMs": 5520
+      },
+      {
+        "text": "esta operación no está crédito de ventas vamos a realizar entonces un primer",
+        "startMs": 141930,
+        "durationMs": 5510
+      },
+      {
+        "text": "ejercicio para hacer una nota crédito por la operación de devolución en ventas",
+        "startMs": 147440,
+        "durationMs": 4590
+      },
+      {
+        "text": "teniendo presente que me va a reintegrar en el inventario de mercancías una",
+        "startMs": 152030,
+        "durationMs": 4050
+      },
+      {
+        "text": "devolución total o parcial entremos a la operación",
+        "startMs": 156080,
+        "durationMs": 6070
+      },
+      {
+        "text": "esta operación de devolución en ventas el punto clave está en el documento de",
+        "startMs": 162160,
+        "durationMs": 5840
+      },
+      {
+        "text": "soporte que se le configure debe estar configurado el documento no está crédito",
+        "startMs": 168000,
+        "durationMs": 4880
+      },
+      {
+        "text": "ese documento de soporte ya previamente tiene que tener una configuración de ser",
+        "startMs": 172880,
+        "durationMs": 6790
+      },
+      {
+        "text": "un documento electrónico estará asociado con el proveedor tecnológico para que al",
+        "startMs": 179670,
+        "durationMs": 5760
+      },
+      {
+        "text": "momento de guardar esta operación se envíe la información al proveedor",
+        "startMs": 185430,
+        "durationMs": 5910
+      },
+      {
+        "text": "tecnológico y éste a su vez a la dian y se genere el archivo xml",
+        "startMs": 191340,
+        "durationMs": 6500
+      },
+      {
+        "text": "el documento de soporte que vamos a utilizar en este caso es la nota crédito",
+        "startMs": 197840,
+        "durationMs": 3870
+      },
+      {
+        "text": "electrónica vamos a mirar la fecha en que se va a realizar la nota crédito un",
+        "startMs": 201710,
+        "durationMs": 5490
+      },
+      {
+        "text": "detalle podemos indicar entonces unos datos de referencia estos datos de",
+        "startMs": 207200,
+        "durationMs": 5040
+      },
+      {
+        "text": "referencia cuáles son punto muy clave este campo que dice referencia aquí",
+        "startMs": 212240,
+        "durationMs": 6810
+      },
+      {
+        "text": "vamos a indicar cuál es la factura a la cual le vamos a hacer la devolución",
+        "startMs": 219050,
+        "durationMs": 3590
+      },
+      {
+        "text": "vamos a minimizar un poco esta ventana para mirar que en el manejador de",
+        "startMs": 222640,
+        "durationMs": 4390
+      },
+      {
+        "text": "operaciones ya previamente se tienen unas facturas generadas y por ejemplo",
+        "startMs": 227030,
+        "durationMs": 4530
+      },
+      {
+        "text": "vamos a mirar esta factura 7 100 12 ese cliente andrés loaiza rechazó la factura",
+        "startMs": 231560,
+        "durationMs": 7080
+      },
+      {
+        "text": "mire que tiene una manita un color rojo hacia apuntando hacia abajo quiere decir",
+        "startMs": 238640,
+        "durationMs": 4860
+      },
+      {
+        "text": "que la rechazó vamos a hacerle entonces a esa factura",
+        "startMs": 243500,
+        "durationMs": 3240
+      },
+      {
+        "text": "la nota crédito en la parte de referencia vamos a buscar dicho",
+        "startMs": 246740,
+        "durationMs": 3870
+      },
+      {
+        "text": "documento 7 100 12 al seleccionarlo automáticamente se va a dirigencias una",
+        "startMs": 250610,
+        "durationMs": 7470
+      },
+      {
+        "text": "información los datos del cliente los datos del vendedor",
+        "startMs": 258080,
+        "durationMs": 4210
+      },
+      {
+        "text": "la lista de precios que se utilizó en dicha factura y en el área de registro",
+        "startMs": 262290,
+        "durationMs": 4649
+      },
+      {
+        "text": "van a aparecer los diferentes productos o servicios que se le hayan facturado al",
+        "startMs": 266939,
+        "durationMs": 6000
+      },
+      {
+        "text": "cliente en este caso no se están notificando que se tienen unos productos",
+        "startMs": 272939,
+        "durationMs": 5791
+      },
+      {
+        "text": "con sus cantidades y sus precios está fuera información que ese le facturó",
+        "startMs": 278730,
+        "durationMs": 4760
+      },
+      {
+        "text": "ahora como se está haciendo una nota crédito",
+        "startMs": 283490,
+        "durationMs": 3819
+      },
+      {
+        "text": "crédito vamos a mirar cuáles son los motivos",
+        "startMs": 287309,
+        "durationMs": 1521
+      },
+      {
+        "text": "estandarizados por la dian para la nota crédito se tienen unos datos de",
+        "startMs": 288830,
+        "durationMs": 5740
+      },
+      {
+        "text": "evolución parcial de bienes anulación de la factura electrónica rebajado",
+        "startMs": 294570,
+        "durationMs": 4649
+      },
+      {
+        "text": "descuento ajuste de precio u otros en este caso vamos a decirle anulación de",
+        "startMs": 299219,
+        "durationMs": 5160
+      },
+      {
+        "text": "factura electrónica al indicarle anulación mire que en la",
+        "startMs": 304379,
+        "durationMs": 3990
+      },
+      {
+        "text": "parte inferior esa área de registro se cambia a un color gris quiere decir que",
+        "startMs": 308369,
+        "durationMs": 5671
+      },
+      {
+        "text": "ya no es editable implica que el cliente está devolviendo totalmente los",
+        "startMs": 314040,
+        "durationMs": 5250
+      },
+      {
+        "text": "productos por lo tanto en el inventario ya va a aparecer de nuevo una existencia",
+        "startMs": 319290,
+        "durationMs": 4890
+      },
+      {
+        "text": "más de este producto 2 desde este otro producto",
+        "startMs": 324180,
+        "durationMs": 4240
+      },
+      {
+        "text": "producto del otro producto vamos a indicarle",
+        "startMs": 328420,
+        "durationMs": 2340
+      },
+      {
+        "text": "siguiente podemos registrar las observaciones qué fue lo que pasó el",
+        "startMs": 330760,
+        "durationMs": 5250
+      },
+      {
+        "text": "motivo de la anulación por ejemplo se anula porque los productos no eran de la",
+        "startMs": 336010,
+        "durationMs": 4410
+      },
+      {
+        "text": "marca solicitada vamos a indicarle siguiente en esta parte se van a cargar",
+        "startMs": 340420,
+        "durationMs": 4710
+      },
+      {
+        "text": "automáticamente los impuestos y en la parte inferior la forma de pago",
+        "startMs": 345130,
+        "durationMs": 6149
+      },
+      {
+        "text": "como esta factura que se está referenciando se había pagado",
+        "startMs": 351279,
+        "durationMs": 3470
+      },
+      {
+        "text": "parcialmente el cliente nos había abonado 500 mil pesos en efectivo pero",
+        "startMs": 354749,
+        "durationMs": 5800
+      },
+      {
+        "text": "había generado unas cuentas por cobrar a dos cuotas del valor restante el sistema",
+        "startMs": 360549,
+        "durationMs": 5910
+      },
+      {
+        "text": "automáticamente carga en una amortización o cruce los saldos de las",
+        "startMs": 366459,
+        "durationMs": 5551
+      },
+      {
+        "text": "cuentas por cobrar que se tenían al cliente pero aún así nos indica que",
+        "startMs": 372010,
+        "durationMs": 4169
+      },
+      {
+        "text": "tiene un saldo de 500 mil pesos es decir nosotros le tenemos que reintegrar al",
+        "startMs": 376179,
+        "durationMs": 3991
+      },
+      {
+        "text": "cliente esos 500 mil pesos porque él nos lo pagó en efectivo vamos a indicarle",
+        "startMs": 380170,
+        "durationMs": 4919
+      },
+      {
+        "text": "que esos 500 mil pesos se los vamos a entregar en efectivo y que va a salir",
+        "startMs": 385089,
+        "durationMs": 3300
+      },
+      {
+        "text": "del dinero de la caja en este momento podemos indicarle finalizar",
+        "startMs": 388389,
+        "durationMs": 5041
+      },
+      {
+        "text": "nos va a ser la pregunta si desea que se envíe el documento de forma automática o",
+        "startMs": 393430,
+        "durationMs": 5520
+      },
+      {
+        "text": "si lo quiere enviar más tarde si le decimos que no",
+        "startMs": 398950,
+        "durationMs": 5080
+      },
+      {
+        "text": "la operación queda almacenada dentro del sistema nivel de ejecuciones 0 de 3 pero",
+        "startMs": 404030,
+        "durationMs": 6540
+      },
+      {
+        "text": "podemos en cualquier momento decirle que se ejecuten y se aprueben las acciones",
+        "startMs": 410570,
+        "durationMs": 4770
+      },
+      {
+        "text": "para que se envíe el documento electrónico en la nota crédito se envía",
+        "startMs": 415340,
+        "durationMs": 5850
+      },
+      {
+        "text": "el proveedor tecnológico este a la dian y también al correo del tercero que le",
+        "startMs": 421190,
+        "durationMs": 5550
+      },
+      {
+        "text": "estamos facturando vamos a indicarle entonces aprobar documento",
+        "startMs": 426740,
+        "durationMs": 5170
+      },
+      {
+        "text": "podemos ver que ya el estado está en tres acciones de las tres disponibles",
+        "startMs": 431910,
+        "durationMs": 6080
+      },
+      {
+        "text": "podemos entonces mirar en el correo electrónico si al cliente le llegó la",
+        "startMs": 437990,
+        "durationMs": 5080
+      },
+      {
+        "text": "información de la nota crédito simulando que estuviéramos del lado del cliente",
+        "startMs": 443070,
+        "durationMs": 4980
+      },
+      {
+        "text": "abrimos su correo electrónico y allí podemos ver que le llegó un correo con",
+        "startMs": 448050,
+        "durationMs": 4290
+      },
+      {
+        "text": "la información de la nota crédito en este caso vamos a mirar el archivo que",
+        "startMs": 452340,
+        "durationMs": 6270
+      },
+      {
+        "text": "se tiene como punto zip el adjunto y dentro de ese adjunto encontramos la",
+        "startMs": 458610,
+        "durationMs": 6720
+      },
+      {
+        "text": "representación gráfica que es el archivo pdf y el archivo xml de la nota crédito",
+        "startMs": 465330,
+        "durationMs": 6570
+      },
+      {
+        "text": "si damos doble clic en el pdf vemos la información de la nota crédito los datos",
+        "startMs": 471900,
+        "durationMs": 6000
+      },
+      {
+        "text": "del emisor del receptor la información de la factura referenciada vemos la",
+        "startMs": 477900,
+        "durationMs": 5370
+      },
+      {
+        "text": "información de los productos y servicios que se están anulando la información de",
+        "startMs": 483270,
+        "durationMs": 4530
+      },
+      {
+        "text": "los impuestos y la forma de pago también vamos a encontrar en la parte inferior",
+        "startMs": 487800,
+        "durationMs": 4590
+      },
+      {
+        "text": "los datos de la factura referenciada con su café",
+        "startMs": 492390,
+        "durationMs": 4380
+      },
+      {
+        "text": "crédito vemos la información de la fecha de emisión y fecha de validación ante la",
+        "startMs": 502680,
+        "durationMs": 5280
+      },
+      {
+        "text": "dian los datos del proveedor tecnológico la información del código qr y la",
+        "startMs": 507960,
+        "durationMs": 6509
+      },
+      {
+        "text": "información del software con el cual se imprimió y se generó dicha nota crédito",
+        "startMs": 514469,
+        "durationMs": 4381
+      },
+      {
+        "text": "si volvemos al correo también podemos visualizar desde la plataforma de",
+        "startMs": 518850,
+        "durationMs": 5130
+      },
+      {
+        "text": "documentos web el archivo que el cliente recibió él podría visualizar la nota",
+        "startMs": 523980,
+        "durationMs": 6030
+      },
+      {
+        "text": "crédito directamente desde la plataforma en un formato html con toda la",
+        "startMs": 530010,
+        "durationMs": 5400
+      },
+      {
+        "text": "información de la anulación este documento se puede aprobar",
+        "startMs": 535410,
+        "durationMs": 5760
+      },
+      {
+        "text": "directamente por el cliente vamos a decirle a probar",
+        "startMs": 541170,
+        "durationMs": 5149
+      },
+      {
+        "text": "no hizo ningún comentario está de acuerdo con la nota crédito ya quedó",
+        "startMs": 546319,
+        "durationMs": 4110
+      },
+      {
+        "text": "aprobado y cómo se vería dentro del sistema contra pymes está aprobación de",
+        "startMs": 550429,
+        "durationMs": 4260
+      },
+      {
+        "text": "esta nota crédito vamos a mirarlo dentro del sistema con tap y me simplemente nos",
+        "startMs": 496770,
+        "durationMs": 62450
+      },
+      {
+        "text": "ubicamos dentro de la operación o dentro de la nota crédito y le decimos a",
+        "startMs": 559220,
+        "durationMs": 4199
+      },
+      {
+        "text": "actualizar estado solamente para ese documento seleccionado y ahí ya aparece",
+        "startMs": 563419,
+        "durationMs": 5010
+      },
+      {
+        "text": "una manito con el dedo hacia arriba está en color verde esa manito quiere decir",
+        "startMs": 568429,
+        "durationMs": 4291
+      },
+      {
+        "text": "que el documento fue aprobado como esto es una nota crédito implica",
+        "startMs": 572720,
+        "durationMs": 5360
+      },
+      {
+        "text": "que hubo un reintegro de mercancía cuál fue la operación que se utilizó de",
+        "startMs": 578080,
+        "durationMs": 5460
+      },
+      {
+        "text": "evolución en ventas por lo tanto si miramos dentro del módulo de inventarios",
+        "startMs": 583540,
+        "durationMs": 5340
+      },
+      {
+        "text": "en los informes de saldos de inventario podemos chequear que por ejemplo vamos a",
+        "startMs": 588880,
+        "durationMs": 6600
+      },
+      {
+        "text": "mirar o el balón que se tenía facturado mi casa ya están las 30 unidades",
+        "startMs": 595480,
+        "durationMs": 7100
+      },
+      {
+        "text": "anteriormente se tenían 27 como sabemos ese reintegro",
+        "startMs": 602580,
+        "durationMs": 4270
+      },
+      {
+        "text": "muy sencillo recordemos que dentro de contamine existe la opción de procesar o",
+        "startMs": 606850,
+        "durationMs": 3540
+      },
+      {
+        "text": "es procesar una operación si una operación está des procesada significa",
+        "startMs": 610390,
+        "durationMs": 4440
+      },
+      {
+        "text": "que no está afectando contabilidad en este caso si tenemos el informe abierto",
+        "startMs": 614830,
+        "durationMs": 5520
+      },
+      {
+        "text": "les procesamos de esa devolución y le decimos refrescar podemos chequear por",
+        "startMs": 620350,
+        "durationMs": 5280
+      },
+      {
+        "text": "ejemplo que la bicicleta y que por ejemplo el balón que no están afectando",
+        "startMs": 625630,
+        "durationMs": 6630
+      },
+      {
+        "text": "los inventarios mediante dicha nota crédito ahora bien si vamos y nuevamente",
+        "startMs": 632260,
+        "durationMs": 5760
+      },
+      {
+        "text": "entramos a la operación que es el balón mi casa que está devolviendo tres",
+        "startMs": 638020,
+        "durationMs": 4670
+      },
+      {
+        "text": "unidades o unas zapatillas dos unidades y una bicicleta una unidad si procesamos",
+        "startMs": 642690,
+        "durationMs": 5010
+      },
+      {
+        "text": "está devolución no está crédito nuevamente entramos a los saldos de",
+        "startMs": 647700,
+        "durationMs": 5040
+      },
+      {
+        "text": "inventario y este balón mi casa que dice que tiene 27 unidades refrescamos",
+        "startMs": 652740,
+        "durationMs": 6500
+      },
+      {
+        "text": "automáticamente va a decir que el balón ya están 30 por la devolución la nota",
+        "startMs": 659240,
+        "durationMs": 5320
+      },
+      {
+        "text": "crédito de las tres unidades se está generando una integración dentro de los",
+        "startMs": 664560,
+        "durationMs": 6060
+      },
+      {
+        "text": "diferentes módulos como también la factura de venta era crédito y acá se",
+        "startMs": 670620,
+        "durationMs": 4050
+      },
+      {
+        "text": "está cancelando esa cuenta por cobrar pues ya en la parte de los informes de",
+        "startMs": 674670,
+        "durationMs": 4380
+      },
+      {
+        "text": "cartera no va a aparecer información de dicho tercero que nos debe dinero",
+        "startMs": 679050,
+        "durationMs": 7700
+      },
+      {
+        "text": "acabamos de ver entonces la operación de nota crédito para el módulo de ventas",
+        "startMs": 686750,
+        "durationMs": 6020
+      },
+      {
+        "text": "operación de devolución en ventas que implica reintegro de mercancías",
+        "startMs": 692770,
+        "durationMs": 6359
+      },
+      {
+        "text": "vamos a realizar ahora una nota a crédito de ventas pero para otra factura",
+        "startMs": 699129,
+        "durationMs": 5730
+      },
+      {
+        "text": "que no implica un reintegro de mercancías que vamos a hacerle",
+        "startMs": 704859,
+        "durationMs": 6141
+      },
+      {
+        "text": "simplemente un descuento o una rebaja a una factura",
+        "startMs": 711000,
+        "durationMs": 3210
+      },
+      {
+        "text": "que ya se le emitió a un cliente vamos entonces a dar clic en esta",
+        "startMs": 714210,
+        "durationMs": 5350
+      },
+      {
+        "text": "operación nuevamente contiene la configuración del documento de soporte",
+        "startMs": 719560,
+        "durationMs": 5490
+      },
+      {
+        "text": "nótese que es el mismo documento de soporte que utilice para la devolución",
+        "startMs": 725050,
+        "durationMs": 4529
+      },
+      {
+        "text": "en venta en este caso es el documento de soporte configurado como nota crédito",
+        "startMs": 729579,
+        "durationMs": 4560
+      },
+      {
+        "text": "electrónica que ya tiene su configuración con el proveedor",
+        "startMs": 734139,
+        "durationMs": 2791
+      },
+      {
+        "text": "tecnológico para que se le envía el y este a su vez a la dian la fecha en la",
+        "startMs": 736930,
+        "durationMs": 4589
+      },
+      {
+        "text": "que se va a realizar la nota crédito y nuevamente datos importantes la",
+        "startMs": 741519,
+        "durationMs": 4560
+      },
+      {
+        "text": "información principalmente de la referencia es decir de la factura a la",
+        "startMs": 746079,
+        "durationMs": 4321
+      },
+      {
+        "text": "que se le va a hacer la nota crédito si minimizamos un poco quiero escoger como",
+        "startMs": 750400,
+        "durationMs": 6179
+      },
+      {
+        "text": "referencia la factura 7 100 13 y a esa que está por 761 mil pesos vamos",
+        "startMs": 756579,
+        "durationMs": 9690
+      },
+      {
+        "text": "a realizar una nota a crédito busquemos en el botón referencia 7 100",
+        "startMs": 766269,
+        "durationMs": 8431
+      },
+      {
+        "text": "13 aparece la información de forma",
+        "startMs": 774700,
+        "durationMs": 1860
+      },
+      {
+        "text": "automática del cliente vendedor también la información de el producto o los",
+        "startMs": 776560,
+        "durationMs": 7140
+      },
+      {
+        "text": "productos y servicios que se están generando la nota crédito y aquí puedo",
+        "startMs": 783700,
+        "durationMs": 5550
+      },
+      {
+        "text": "indicarle por ejemplo qué va a ser una rebaja o un descuento parcial en este",
+        "startMs": 789250,
+        "durationMs": 6840
+      },
+      {
+        "text": "caso podemos indicarle que el descuento eran de 100 mil pesos podemos indicar",
+        "startMs": 796090,
+        "durationMs": 5010
+      },
+      {
+        "text": "cuál es el descuento total 100 mil pesos no es que el cliente esté devolviendo el",
+        "startMs": 801100,
+        "durationMs": 6810
+      },
+      {
+        "text": "producto como tal no me está reintegrando en el inventario esta",
+        "startMs": 807910,
+        "durationMs": 3720
+      },
+      {
+        "text": "mercancía simplemente que estamos generando un reintegro de dinero por que",
+        "startMs": 811630,
+        "durationMs": 4680
+      },
+      {
+        "text": "facturamos de pronto de una forma equivocada con una lista de precios que",
+        "startMs": 816310,
+        "durationMs": 4050
+      },
+      {
+        "text": "no correspondía a dicho cliente o porque el producto llegó con un defecto ante el",
+        "startMs": 820360,
+        "durationMs": 4140
+      },
+      {
+        "text": "cliente y simplemente para no devolverlo y enviarle otro se le dio un beneficio",
+        "startMs": 824500,
+        "durationMs": 4470
+      },
+      {
+        "text": "de un descuento adicional y el cliente lo aceptó y se va a quedar con el",
+        "startMs": 828970,
+        "durationMs": 3540
+      },
+      {
+        "text": "producto en este caso vamos a reintegrarle 100 mil pesos por esa",
+        "startMs": 832510,
+        "durationMs": 3660
+      },
+      {
+        "text": "factura que previamente se había emitido vamos a decir siguiente podemos indicar",
+        "startMs": 836170,
+        "durationMs": 5970
+      },
+      {
+        "text": "en las observaciones porque es el reintegro de los 100 mil pesos un",
+        "startMs": 842140,
+        "durationMs": 3780
+      },
+      {
+        "text": "producto defectuoso y el cliente acepta una devolución parcial de dinero no nos",
+        "startMs": 845920,
+        "durationMs": 3960
+      },
+      {
+        "text": "va a devolver la mercancía siguiente podemos dejarle la parte de",
+        "startMs": 849880,
+        "durationMs": 6400
+      },
+      {
+        "text": "impuestos y vamos a devolver reintegrar un impuesto no se va a reintegrar",
+        "startMs": 856280,
+        "durationMs": 3300
+      },
+      {
+        "text": "podemos quitar entonces la parte del impuesto asociado implica que en este",
+        "startMs": 859580,
+        "durationMs": 4470
+      },
+      {
+        "text": "caso vamos a enviarle al cliente 100 mil pesos en efectivo o el vino a nuestras",
+        "startMs": 864050,
+        "durationMs": 4950
+      },
+      {
+        "text": "instalaciones y le vamos a entregar los 100 mil pesos",
+        "startMs": 869000,
+        "durationMs": 3420
+      },
+      {
+        "text": "podemos indicarle entonces aquí finalizar se va a preguntar si se desea",
+        "startMs": 872420,
+        "durationMs": 5520
+      },
+      {
+        "text": "que se envíe de forma automática de una y se ejecuten las acciones o si más",
+        "startMs": 877940,
+        "durationMs": 4530
+      },
+      {
+        "text": "tarde se desea enviar si le decimos que sí automáticamente el documento se va a",
+        "startMs": 882470,
+        "durationMs": 4500
+      },
+      {
+        "text": "enviar al proveedor tecnológico y este a la dian y luego también le va a llegar",
+        "startMs": 886970,
+        "durationMs": 3419
+      },
+      {
+        "text": "al cliente la nota crédito vamos a decirle que si el documento ya ha sido",
+        "startMs": 890389,
+        "durationMs": 4951
+      },
+      {
+        "text": "enviado está con las acciones 3 de 3 está en color verde quiere decir que ya",
+        "startMs": 895340,
+        "durationMs": 4320
+      },
+      {
+        "text": "se envió si miramos el correo electrónico simulando que somos el",
+        "startMs": 899660,
+        "durationMs": 4080
+      },
+      {
+        "text": "usuario almacén tu equipo pues allí va a tener en su bandeja una nota crédito",
+        "startMs": 903740,
+        "durationMs": 4740
+      },
+      {
+        "text": "miremos que allí aparece no está crédito aparece la información de la devolución",
+        "startMs": 908480,
+        "durationMs": 7460
+      },
+      {
+        "text": "descarguemos el archivo adjunto que dentro de él contiene la información de",
+        "startMs": 915940,
+        "durationMs": 6550
+      },
+      {
+        "text": "la representación gráfica miremos la nota crédito a la factura electrónica en",
+        "startMs": 922490,
+        "durationMs": 6390
+      },
+      {
+        "text": "este caso nos aparece el valor de 100 mil pesos la información también de la",
+        "startMs": 928880,
+        "durationMs": 5610
+      },
+      {
+        "text": "factura referenciada el cubre que es el código único de documento",
+        "startMs": 934490,
+        "durationMs": 4170
+      },
+      {
+        "text": "único de esta nota el código qr fecha de emisión y de validación entre la dian el",
+        "startMs": 938660,
+        "durationMs": 5550
+      },
+      {
+        "text": "proveedor tecnológico y los datos del software que se está utilizando para la",
+        "startMs": 944210,
+        "durationMs": 4770
+      },
+      {
+        "text": "emisión de la nota crédito también dentro del archivo aparece el xml ya con",
+        "startMs": 948980,
+        "durationMs": 5250
+      },
+      {
+        "text": "la validación por parte de la diana si venimos nuevamente al correo electrónico",
+        "startMs": 954230,
+        "durationMs": 4500
+      },
+      {
+        "text": "podemos visualizar desde la plataforma de documentos web esa información",
+        "startMs": 958730,
+        "durationMs": 5250
+      },
+      {
+        "text": "donde vamos a encontrar la nota crédito de la factura electrónica de venta en el",
+        "startMs": 963980,
+        "durationMs": 3780
+      },
+      {
+        "text": "formato html con todos los datos del emisor del receptor los productos y",
+        "startMs": 967760,
+        "durationMs": 6120
+      },
+      {
+        "text": "servicios que se les hizo la nota crédito la información de la",
+        "startMs": 973880,
+        "durationMs": 3450
+      },
+      {
+        "text": "representación gráfica con su código qr y la información de la factura",
+        "startMs": 977330,
+        "durationMs": 4860
+      },
+      {
+        "text": "referenciada en este caso el cliente ya quedó con su nota crédito asentada",
+        "startMs": 982190,
+        "durationMs": 5170
+      },
+      {
+        "text": "puede aprobar el documento o rechazarlo por si de pronto la persona indica lo",
+        "startMs": 987360,
+        "durationMs": 5580
+      },
+      {
+        "text": "rechazó porque no eran 100.000 eran 150 mil que habíamos pactado pero si está",
+        "startMs": 992940,
+        "durationMs": 4560
+      },
+      {
+        "text": "correcto lo puede aceptar y mirémoslo dentro del lado de conta pyme nos",
+        "startMs": 997500,
+        "durationMs": 4140
+      },
+      {
+        "text": "ubicamos dentro de la operación le decimos a actualizar estado y allí",
+        "startMs": 1001640,
+        "durationMs": 4439
+      },
+      {
+        "text": "aparece el documento aprobada como esta es una nota crédito que era una rebaja",
+        "startMs": 1006079,
+        "durationMs": 7321
+      },
+      {
+        "text": "implica que para este producto de s&p 003 impresora láser no tiene por qué",
+        "startMs": 1013400,
+        "durationMs": 5490
+      },
+      {
+        "text": "moverse de la parte de inventarios no tiene por qué reintegrar a los",
+        "startMs": 1018890,
+        "durationMs": 3330
+      },
+      {
+        "text": "inventarios normalmente consultemos en dentro del módulo de inventarios a nivel",
+        "startMs": 1022220,
+        "durationMs": 4229
+      },
+      {
+        "text": "de informes una consulta de saldos de inventario y miremos para esa impresora",
+        "startMs": 1026449,
+        "durationMs": 4711
+      },
+      {
+        "text": "que tiene 28 unidades sí desprocesados que ésta no está crédito y le decimos",
+        "startMs": 1031160,
+        "durationMs": 7800
+      },
+      {
+        "text": "refrescar debe continuar las mismas 28 unidades",
+        "startMs": 1038960,
+        "durationMs": 4260
+      },
+      {
+        "text": "unidades refresquemos",
+        "startMs": 1043220,
+        "durationMs": 2420
+      },
+      {
+        "text": "refresquemos impresora láser 28 unidades porque esta",
+        "startMs": 1045640,
+        "durationMs": 4320
+      },
+      {
+        "text": "transacción denota crédito no era una devolución total o parcial de los",
+        "startMs": 1049960,
+        "durationMs": 5460
+      },
+      {
+        "text": "productos fue un descuento aplicado implica que no se tuvo que reintegrar en",
+        "startMs": 1055420,
+        "durationMs": 4530
+      },
+      {
+        "text": "el inventario ninguna mercancía nuevamente consultemos refresquemos y la",
+        "startMs": 1059950,
+        "durationMs": 6150
+      },
+      {
+        "text": "impresora láser está con los mismos 28 unidades tenemos entonces dos opciones",
+        "startMs": 1066100,
+        "durationMs": 6120
+      },
+      {
+        "text": "de generar notas créditos dentro del sistema contra primer módulo de",
+        "startMs": 1072220,
+        "durationMs": 4020
+      },
+      {
+        "text": "inventarios de evolución en ventas y nota crédito en ventas algo para tener",
+        "startMs": 1076240,
+        "durationMs": 5370
+      },
+      {
+        "text": "presente puede suceder que al momento en que se vaya a hacer una nota a crédito a",
+        "startMs": 1081610,
+        "durationMs": 5160
+      },
+      {
+        "text": "una factura el usuario no tenga claridad sobre cuál",
+        "startMs": 1086770,
+        "durationMs": 4580
+      },
+      {
+        "text": "es la factura que se va a hacer la devolución porque puede ser que al",
+        "startMs": 1091350,
+        "durationMs": 4500
+      },
+      {
+        "text": "cliente se le haya facturado durante la semana varias veces el mismo producto",
+        "startMs": 1095850,
+        "durationMs": 5850
+      },
+      {
+        "text": "por lo tanto tiene diferentes facturas al momento de hacer la devolución el",
+        "startMs": 1101700,
+        "durationMs": 5790
+      },
+      {
+        "text": "cliente realmente no sabe a cuál de esas facturas es que corresponde el producto",
+        "startMs": 1107490,
+        "durationMs": 4950
+      },
+      {
+        "text": "que se va a entregar por lo tanto para usted que es el que va a sentar la nota",
+        "startMs": 1112440,
+        "durationMs": 3839
+      },
+      {
+        "text": "crédito le queda difícil saber cuál es la referencia",
+        "startMs": 1116279,
+        "durationMs": 3511
+      },
+      {
+        "text": "podemos utilizar una configuración según lo que permite la normatividad de la",
+        "startMs": 1119790,
+        "durationMs": 4290
+      },
+      {
+        "text": "dian de no enviar una referencia son eventualidades siempre se recomienda",
+        "startMs": 1124080,
+        "durationMs": 4620
+      },
+      {
+        "text": "utilizar y mirar cuál es la factura que se va a utilizar como referencia pero si",
+        "startMs": 1128700,
+        "durationMs": 5430
+      },
+      {
+        "text": "no puedo identificar la puedo configurará con está pyme para que este",
+        "startMs": 1134130,
+        "durationMs": 3330
+      },
+      {
+        "text": "dato que está en color blanco que es obligatorio sea opcional por si de",
+        "startMs": 1137460,
+        "durationMs": 4050
+      },
+      {
+        "text": "pronto no puedo identificar la factura a hacerle la nota crédito como hago esa",
+        "startMs": 1141510,
+        "durationMs": 4440
+      },
+      {
+        "text": "configuración de cambiar este dato de obligatorio opcional venimos por la",
+        "startMs": 1145950,
+        "durationMs": 4140
+      },
+      {
+        "text": "opción de operación configuración de operación",
+        "startMs": 1150090,
+        "durationMs": 5000
+      },
+      {
+        "text": "operación le indicamos configuración para todos",
+        "startMs": 1155090,
+        "durationMs": 1890
+      },
+      {
+        "text": "los usuarios y en esta opción que dice campos de la operación datos maestros de",
+        "startMs": 1156980,
+        "durationMs": 5220
+      },
+      {
+        "text": "la operación encontramos la etiqueta o el campo referencia de la columna que",
+        "startMs": 1162200,
+        "durationMs": 5430
+      },
+      {
+        "text": "dice requerido vamos a ir activarlo y le podemos decir",
+        "startMs": 1167630,
+        "durationMs": 3419
+      },
+      {
+        "text": "color blanco como esta cliente que es obligatorio en este caso referencia a",
+        "startMs": 1175810,
+        "durationMs": 5130
+      },
+      {
+        "text": "cambio de color blanco a color verde quiere decir que es opcional siempre",
+        "startMs": 1171049,
+        "durationMs": 16401
+      },
+      {
+        "text": "siempre recomendamos notificar cuál es la referencia en lo posible como les",
+        "startMs": 1187450,
+        "durationMs": 6630
+      },
+      {
+        "text": "dije hace un momento pueden existir situaciones donde las referencias",
+        "startMs": 1194080,
+        "durationMs": 3150
+      },
+      {
+        "text": "difícil de identificar se dice inactiva esa opción y no se",
+        "startMs": 1197230,
+        "durationMs": 5370
+      },
+      {
+        "text": "indica una referencia y simplemente se cargan los productos o servicios el",
+        "startMs": 1202600,
+        "durationMs": 4290
+      },
+      {
+        "text": "cliente y el motivo del rechazo pues allí podemos enviar ese documento",
+        "startMs": 1206890,
+        "durationMs": 5340
+      },
+      {
+        "text": "electrónico como una nota crédito sin referencia ante la dian les recomendamos",
+        "startMs": 1212230,
+        "durationMs": 5720
+      },
+      {
+        "text": "entrar a nuestra plataforma de capacitación virtual y visualizar",
+        "startMs": 1217950,
+        "durationMs": 4480
+      },
+      {
+        "text": "diferentes vídeos que se tienen publicados que complementan el manejo de",
+        "startMs": 1222430,
+        "durationMs": 5490
+      },
+      {
+        "text": "lo que es el módulo de inventarios y facturación dentro del sistema contable",
+        "startMs": 1227920,
+        "durationMs": 7170
+      }
+    ],
+    "plainText": "## Descripción del video\n\nNota crédito a factura de venta realizada por operación de ventas (Módulo inventarios y facturación)\n\n## Transcripción\n\nno está crédito la factura de venta realizada por la operación de ventas\ndentro del módulo de inventarios y facturación\ncual es su funcionalidad una nota crédito es un documento\nelectrónico especialmente utilizado para realizar bien sea una anulación total o\nparcial de una factura o aplicarle rebajas o descuentos a una factura\nelectrónica que ya se emitió dentro del sistema contable podemos realizar notas\ncrédito a operaciones de venta bien sea que impliquen el reintegro de mercancía\nen el inventario o simplemente una ejecución de una disminución por un\ndescuento o una rebaja que se le aplicó a una factura ya emitida\nmiremos dentro del sistema contame cómo se pueden realizar esas notas crédito\nestando ubicados dentro del sistema con tap y me vamos a ingresar por la opción\nde básico operaciones que es nuestro manejador de operaciones allí vamos a\nencontrar por la opción de más operaciones en la opción de ventas dos\noperaciones especializadas para hacer notas crédito tenemos la operación de\ndevolución en ventas y la operación de nota crédito ventas ambas operaciones\nsirven para realizar notas crédito sin embargo\nembargo cada una va a poder generar un\nmovimiento dentro del sistema con está pyme de acuerdo al requerimiento de la\nnota crédito por ejemplo si la factura de venta requiere reintegro de mercancía\nvamos a realizar una operación de devolución en venta con el documento de\nsoporte nota crédito porque allí se va a reintegrar en el inventario las\nexistencias que el cliente me está devolviendo y eso es una nota crédito\nahora si se está haciendo es una nota a crédito porque se le está aplicando un\ndescuento o una rebaja a una factura que se le emitió a un cliente pero que dicho\ncliente no nos está devolviendo mercancía o productos se registra por\nesta operación no está crédito de ventas vamos a realizar entonces un primer\nejercicio para hacer una nota crédito por la operación de devolución en ventas\nteniendo presente que me va a reintegrar en el inventario de mercancías una\ndevolución total o parcial entremos a la operación\nesta operación de devolución en ventas el punto clave está en el documento de\nsoporte que se le configure debe estar configurado el documento no está crédito\nese documento de soporte ya previamente tiene que tener una configuración de ser\nun documento electrónico estará asociado con el proveedor tecnológico para que al\nmomento de guardar esta operación se envíe la información al proveedor\ntecnológico y éste a su vez a la dian y se genere el archivo xml\nel documento de soporte que vamos a utilizar en este caso es la nota crédito\nelectrónica vamos a mirar la fecha en que se va a realizar la nota crédito un\ndetalle podemos indicar entonces unos datos de referencia estos datos de\nreferencia cuáles son punto muy clave este campo que dice referencia aquí\nvamos a indicar cuál es la factura a la cual le vamos a hacer la devolución\nvamos a minimizar un poco esta ventana para mirar que en el manejador de\noperaciones ya previamente se tienen unas facturas generadas y por ejemplo\nvamos a mirar esta factura 7 100 12 ese cliente andrés loaiza rechazó la factura\nmire que tiene una manita un color rojo hacia apuntando hacia abajo quiere decir\nque la rechazó vamos a hacerle entonces a esa factura\nla nota crédito en la parte de referencia vamos a buscar dicho\ndocumento 7 100 12 al seleccionarlo automáticamente se va a dirigencias una\ninformación los datos del cliente los datos del vendedor\nla lista de precios que se utilizó en dicha factura y en el área de registro\nvan a aparecer los diferentes productos o servicios que se le hayan facturado al\ncliente en este caso no se están notificando que se tienen unos productos\ncon sus cantidades y sus precios está fuera información que ese le facturó\nahora como se está haciendo una nota crédito\ncrédito vamos a mirar cuáles son los motivos\nestandarizados por la dian para la nota crédito se tienen unos datos de\nevolución parcial de bienes anulación de la factura electrónica rebajado\ndescuento ajuste de precio u otros en este caso vamos a decirle anulación de\nfactura electrónica al indicarle anulación mire que en la\nparte inferior esa área de registro se cambia a un color gris quiere decir que\nya no es editable implica que el cliente está devolviendo totalmente los\nproductos por lo tanto en el inventario ya va a aparecer de nuevo una existencia\nmás de este producto 2 desde este otro producto\nproducto del otro producto vamos a indicarle\nsiguiente podemos registrar las observaciones qué fue lo que pasó el\nmotivo de la anulación por ejemplo se anula porque los productos no eran de la\nmarca solicitada vamos a indicarle siguiente en esta parte se van a cargar\nautomáticamente los impuestos y en la parte inferior la forma de pago\ncomo esta factura que se está referenciando se había pagado\nparcialmente el cliente nos había abonado 500 mil pesos en efectivo pero\nhabía generado unas cuentas por cobrar a dos cuotas del valor restante el sistema\nautomáticamente carga en una amortización o cruce los saldos de las\ncuentas por cobrar que se tenían al cliente pero aún así nos indica que\ntiene un saldo de 500 mil pesos es decir nosotros le tenemos que reintegrar al\ncliente esos 500 mil pesos porque él nos lo pagó en efectivo vamos a indicarle\nque esos 500 mil pesos se los vamos a entregar en efectivo y que va a salir\ndel dinero de la caja en este momento podemos indicarle finalizar\nnos va a ser la pregunta si desea que se envíe el documento de forma automática o\nsi lo quiere enviar más tarde si le decimos que no\nla operación queda almacenada dentro del sistema nivel de ejecuciones 0 de 3 pero\npodemos en cualquier momento decirle que se ejecuten y se aprueben las acciones\npara que se envíe el documento electrónico en la nota crédito se envía\nel proveedor tecnológico este a la dian y también al correo del tercero que le\nestamos facturando vamos a indicarle entonces aprobar documento\npodemos ver que ya el estado está en tres acciones de las tres disponibles\npodemos entonces mirar en el correo electrónico si al cliente le llegó la\ninformación de la nota crédito simulando que estuviéramos del lado del cliente\nabrimos su correo electrónico y allí podemos ver que le llegó un correo con\nla información de la nota crédito en este caso vamos a mirar el archivo que\nse tiene como punto zip el adjunto y dentro de ese adjunto encontramos la\nrepresentación gráfica que es el archivo pdf y el archivo xml de la nota crédito\nsi damos doble clic en el pdf vemos la información de la nota crédito los datos\ndel emisor del receptor la información de la factura referenciada vemos la\ninformación de los productos y servicios que se están anulando la información de\nlos impuestos y la forma de pago también vamos a encontrar en la parte inferior\nlos datos de la factura referenciada con su café\ncrédito vemos la información de la fecha de emisión y fecha de validación ante la\ndian los datos del proveedor tecnológico la información del código qr y la\ninformación del software con el cual se imprimió y se generó dicha nota crédito\nsi volvemos al correo también podemos visualizar desde la plataforma de\ndocumentos web el archivo que el cliente recibió él podría visualizar la nota\ncrédito directamente desde la plataforma en un formato html con toda la\ninformación de la anulación este documento se puede aprobar\ndirectamente por el cliente vamos a decirle a probar\nno hizo ningún comentario está de acuerdo con la nota crédito ya quedó\naprobado y cómo se vería dentro del sistema contra pymes está aprobación de\nesta nota crédito vamos a mirarlo dentro del sistema con tap y me simplemente nos\nubicamos dentro de la operación o dentro de la nota crédito y le decimos a\nactualizar estado solamente para ese documento seleccionado y ahí ya aparece\nuna manito con el dedo hacia arriba está en color verde esa manito quiere decir\nque el documento fue aprobado como esto es una nota crédito implica\nque hubo un reintegro de mercancía cuál fue la operación que se utilizó de\nevolución en ventas por lo tanto si miramos dentro del módulo de inventarios\nen los informes de saldos de inventario podemos chequear que por ejemplo vamos a\nmirar o el balón que se tenía facturado mi casa ya están las 30 unidades\nanteriormente se tenían 27 como sabemos ese reintegro\nmuy sencillo recordemos que dentro de contamine existe la opción de procesar o\nes procesar una operación si una operación está des procesada significa\nque no está afectando contabilidad en este caso si tenemos el informe abierto\nles procesamos de esa devolución y le decimos refrescar podemos chequear por\nejemplo que la bicicleta y que por ejemplo el balón que no están afectando\nlos inventarios mediante dicha nota crédito ahora bien si vamos y nuevamente\nentramos a la operación que es el balón mi casa que está devolviendo tres\nunidades o unas zapatillas dos unidades y una bicicleta una unidad si procesamos\nestá devolución no está crédito nuevamente entramos a los saldos de\ninventario y este balón mi casa que dice que tiene 27 unidades refrescamos\nautomáticamente va a decir que el balón ya están 30 por la devolución la nota\ncrédito de las tres unidades se está generando una integración dentro de los\ndiferentes módulos como también la factura de venta era crédito y acá se\nestá cancelando esa cuenta por cobrar pues ya en la parte de los informes de\ncartera no va a aparecer información de dicho tercero que nos debe dinero\nacabamos de ver entonces la operación de nota crédito para el módulo de ventas\noperación de devolución en ventas que implica reintegro de mercancías\nvamos a realizar ahora una nota a crédito de ventas pero para otra factura\nque no implica un reintegro de mercancías que vamos a hacerle\nsimplemente un descuento o una rebaja a una factura\nque ya se le emitió a un cliente vamos entonces a dar clic en esta\noperación nuevamente contiene la configuración del documento de soporte\nnótese que es el mismo documento de soporte que utilice para la devolución\nen venta en este caso es el documento de soporte configurado como nota crédito\nelectrónica que ya tiene su configuración con el proveedor\ntecnológico para que se le envía el y este a su vez a la dian la fecha en la\nque se va a realizar la nota crédito y nuevamente datos importantes la\ninformación principalmente de la referencia es decir de la factura a la\nque se le va a hacer la nota crédito si minimizamos un poco quiero escoger como\nreferencia la factura 7 100 13 y a esa que está por 761 mil pesos vamos\na realizar una nota a crédito busquemos en el botón referencia 7 100\n13 aparece la información de forma\nautomática del cliente vendedor también la información de el producto o los\nproductos y servicios que se están generando la nota crédito y aquí puedo\nindicarle por ejemplo qué va a ser una rebaja o un descuento parcial en este\ncaso podemos indicarle que el descuento eran de 100 mil pesos podemos indicar\ncuál es el descuento total 100 mil pesos no es que el cliente esté devolviendo el\nproducto como tal no me está reintegrando en el inventario esta\nmercancía simplemente que estamos generando un reintegro de dinero por que\nfacturamos de pronto de una forma equivocada con una lista de precios que\nno correspondía a dicho cliente o porque el producto llegó con un defecto ante el\ncliente y simplemente para no devolverlo y enviarle otro se le dio un beneficio\nde un descuento adicional y el cliente lo aceptó y se va a quedar con el\nproducto en este caso vamos a reintegrarle 100 mil pesos por esa\nfactura que previamente se había emitido vamos a decir siguiente podemos indicar\nen las observaciones porque es el reintegro de los 100 mil pesos un\nproducto defectuoso y el cliente acepta una devolución parcial de dinero no nos\nva a devolver la mercancía siguiente podemos dejarle la parte de\nimpuestos y vamos a devolver reintegrar un impuesto no se va a reintegrar\npodemos quitar entonces la parte del impuesto asociado implica que en este\ncaso vamos a enviarle al cliente 100 mil pesos en efectivo o el vino a nuestras\ninstalaciones y le vamos a entregar los 100 mil pesos\npodemos indicarle entonces aquí finalizar se va a preguntar si se desea\nque se envíe de forma automática de una y se ejecuten las acciones o si más\ntarde se desea enviar si le decimos que sí automáticamente el documento se va a\nenviar al proveedor tecnológico y este a la dian y luego también le va a llegar\nal cliente la nota crédito vamos a decirle que si el documento ya ha sido\nenviado está con las acciones 3 de 3 está en color verde quiere decir que ya\nse envió si miramos el correo electrónico simulando que somos el\nusuario almacén tu equipo pues allí va a tener en su bandeja una nota crédito\nmiremos que allí aparece no está crédito aparece la información de la devolución\ndescarguemos el archivo adjunto que dentro de él contiene la información de\nla representación gráfica miremos la nota crédito a la factura electrónica en\neste caso nos aparece el valor de 100 mil pesos la información también de la\nfactura referenciada el cubre que es el código único de documento\núnico de esta nota el código qr fecha de emisión y de validación entre la dian el\nproveedor tecnológico y los datos del software que se está utilizando para la\nemisión de la nota crédito también dentro del archivo aparece el xml ya con\nla validación por parte de la diana si venimos nuevamente al correo electrónico\npodemos visualizar desde la plataforma de documentos web esa información\ndonde vamos a encontrar la nota crédito de la factura electrónica de venta en el\nformato html con todos los datos del emisor del receptor los productos y\nservicios que se les hizo la nota crédito la información de la\nrepresentación gráfica con su código qr y la información de la factura\nreferenciada en este caso el cliente ya quedó con su nota crédito asentada\npuede aprobar el documento o rechazarlo por si de pronto la persona indica lo\nrechazó porque no eran 100.000 eran 150 mil que habíamos pactado pero si está\ncorrecto lo puede aceptar y mirémoslo dentro del lado de conta pyme nos\nubicamos dentro de la operación le decimos a actualizar estado y allí\naparece el documento aprobada como esta es una nota crédito que era una rebaja\nimplica que para este producto de s&p 003 impresora láser no tiene por qué\nmoverse de la parte de inventarios no tiene por qué reintegrar a los\ninventarios normalmente consultemos en dentro del módulo de inventarios a nivel\nde informes una consulta de saldos de inventario y miremos para esa impresora\nque tiene 28 unidades sí desprocesados que ésta no está crédito y le decimos\nrefrescar debe continuar las mismas 28 unidades\nunidades refresquemos\nrefresquemos impresora láser 28 unidades porque esta\ntransacción denota crédito no era una devolución total o parcial de los\nproductos fue un descuento aplicado implica que no se tuvo que reintegrar en\nel inventario ninguna mercancía nuevamente consultemos refresquemos y la\nimpresora láser está con los mismos 28 unidades tenemos entonces dos opciones\nde generar notas créditos dentro del sistema contra primer módulo de\ninventarios de evolución en ventas y nota crédito en ventas algo para tener\npresente puede suceder que al momento en que se vaya a hacer una nota a crédito a\nuna factura el usuario no tenga claridad sobre cuál\nes la factura que se va a hacer la devolución porque puede ser que al\ncliente se le haya facturado durante la semana varias veces el mismo producto\npor lo tanto tiene diferentes facturas al momento de hacer la devolución el\ncliente realmente no sabe a cuál de esas facturas es que corresponde el producto\nque se va a entregar por lo tanto para usted que es el que va a sentar la nota\ncrédito le queda difícil saber cuál es la referencia\npodemos utilizar una configuración según lo que permite la normatividad de la\ndian de no enviar una referencia son eventualidades siempre se recomienda\nutilizar y mirar cuál es la factura que se va a utilizar como referencia pero si\nno puedo identificar la puedo configurará con está pyme para que este\ndato que está en color blanco que es obligatorio sea opcional por si de\npronto no puedo identificar la factura a hacerle la nota crédito como hago esa\nconfiguración de cambiar este dato de obligatorio opcional venimos por la\nopción de operación configuración de operación\noperación le indicamos configuración para todos\nlos usuarios y en esta opción que dice campos de la operación datos maestros de\nla operación encontramos la etiqueta o el campo referencia de la columna que\ndice requerido vamos a ir activarlo y le podemos decir\ncolor blanco como esta cliente que es obligatorio en este caso referencia a\ncambio de color blanco a color verde quiere decir que es opcional siempre\nsiempre recomendamos notificar cuál es la referencia en lo posible como les\ndije hace un momento pueden existir situaciones donde las referencias\ndifícil de identificar se dice inactiva esa opción y no se\nindica una referencia y simplemente se cargan los productos o servicios el\ncliente y el motivo del rechazo pues allí podemos enviar ese documento\nelectrónico como una nota crédito sin referencia ante la dian les recomendamos\nentrar a nuestra plataforma de capacitación virtual y visualizar\ndiferentes vídeos que se tienen publicados que complementan el manejo de\nlo que es el módulo de inventarios y facturación dentro del sistema contable"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 200.068,
+    "asr": 44100,
+    "filesizeApprox": 30864565,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2021",
+  "files": {
+    "year": "2021",
+    "kind": "videos",
+    "md": "videos/2021/MLkTxVZ9f8I.md",
+    "json": "videos/2021/MLkTxVZ9f8I.json",
+    "infoJson": "videos/2021/MLkTxVZ9f8I.info.json"
+  }
+}

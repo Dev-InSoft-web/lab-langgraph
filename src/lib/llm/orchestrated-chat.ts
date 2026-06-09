@@ -25,7 +25,10 @@ export type OrchestratedChatResult = {
 /** Orden = permutación en PG (sort_order); gemini/minimax vía OpenAI-compat donde aplique. */
 const CHAT_PROVIDERS: LabProvider[] = ["groq", "cerebras", "openrouter", "deepseek", "minimax"];
 
-export async function invokeOrchestratedPatyChat(opts: {
+/** Clasificador: solo proveedores lab (sin OpenAI / sin keys Paty producción). */
+const CLASSIFY_PROVIDERS: LabProvider[] = ["groq", "cerebras"];
+
+export async function invokeOrchestratedLanglabChat(opts: {
 	systemPrompt: string;
 	human: string;
 	temperature: number;
@@ -47,7 +50,40 @@ export async function invokeOrchestratedPatyChat(opts: {
 			};
 			return result.text;
 		},
-		{ logLabel: "paty-chat", maxCycles: 6 },
+		{ logLabel: "langlab-chat", maxCycles: 6 },
+	);
+
+	return { answer, ...picked.meta };
+}
+
+/** Clasificación tipo_consulta vía orquestador lab (Groq/Cerebras). */
+export async function invokeOrchestratedClassifier(opts: {
+	systemPrompt: string;
+	human: string;
+}): Promise<OrchestratedChatResult> {
+	const picked: { meta: Omit<OrchestratedChatResult, "answer"> } = {
+		meta: { provider: "groq", keyLabel: "", leaseId: "", model: "" },
+	};
+
+	const answer = await runCapabilityCascade(
+		"chat",
+		CLASSIFY_PROVIDERS,
+		async (ctx) => {
+			const result = await invokeChatOnProvider(ctx.provider, ctx.apiKey, {
+				systemPrompt: opts.systemPrompt,
+				human: opts.human,
+				temperature: 0,
+				jsonMode: ctx.provider === "groq",
+			});
+			picked.meta = {
+				provider: ctx.provider,
+				keyLabel: ctx.lease.keyLabel,
+				leaseId: ctx.lease.leaseId,
+				model: result.model,
+			};
+			return result.text;
+		},
+		{ logLabel: "langlab-classify", maxCycles: 4 },
 	);
 
 	return { answer, ...picked.meta };
@@ -56,12 +92,15 @@ export async function invokeOrchestratedPatyChat(opts: {
 async function invokeChatOnProvider(
 	provider: LabProvider,
 	apiKey: string,
-	opts: { systemPrompt: string; human: string; temperature: number },
+	opts: { systemPrompt: string; human: string; temperature: number; jsonMode?: boolean },
 ): Promise<{ text: string; model: string }> {
 	if (provider === "groq") {
 		const model = CHAT_MODEL;
 		const llm = new ChatGroq({ apiKey, model, temperature: opts.temperature });
-		const text = await llm
+		const runnable = opts.jsonMode
+			? llm.bind({ response_format: { type: "json_object" } })
+			: llm;
+		const text = await runnable
 			.pipe(new StringOutputParser())
 			.invoke([new SystemMessage(opts.systemPrompt), new HumanMessage(opts.human)]);
 		return { text, model };

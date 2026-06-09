@@ -1,0 +1,716 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:21:49.495Z",
+  "videoId": "OjYLK73UfMg",
+  "videoUrl": "https://www.youtube.com/watch?v=OjYLK73UfMg",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "OjYLK73UfMg",
+    "title": "Bienvenida FE Cenet",
+    "fulltitle": "Bienvenida FE Cenet",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 323,
+    "duration_string": "5:23",
+    "upload_date": "20201010",
+    "timestamp": 1602343962,
+    "view_count": 772,
+    "like_count": 2,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi/OjYLK73UfMg/sddefault.jpg",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNBDx16lTSiIEjD8jznpGqa311-Q",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC0v9361UFI6DHW6QLY6Qob0G4YYw",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBu_AivjHnluP-4PiOfEz2LYChWtw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAWeSpJ8fBciUvYgVj42ax18GEqBg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1JbmJBc62PKbNW0Y51GGOsH9ysw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAUDadrXbo3qfs9rCmdN02w4T_Ow",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdgBpLpi7uhpEcER81F_0rn6NTCg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxGCM2KnCV7K4NPTnmYD8JmGjZLQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/OjYLK73UfMg/maxresdefault.jpg",
+        "preference": -1,
+        "id": "44"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/OjYLK73UfMg/maxresdefault.webp",
+        "preference": 0,
+        "id": "45"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=OjYLK73UfMg",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.30959752321981426,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "93x45",
+        "width": 93,
+        "height": 45,
+        "fps": 0.2043343653250774,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "187x90",
+        "width": 187,
+        "height": 90,
+        "fps": 0.2043343653250774,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x308",
+        "width": 640,
+        "height": 308,
+        "fps": 30,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 187.227,
+        "asr": 44100,
+        "filesize_approx": 7552503,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Bienvenida FE Cenet",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/OjYLK73UfMg/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/OjYLK73UfMg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Bienvenida FE Cenet\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 58,
+    "transcriptChars": 4421,
+    "segments": [
+      {
+        "text": "iniciar facturación electrónica conjunta pyme es muy fácil desde el portal de",
+        "startMs": 0,
+        "durationMs": 4400
+      },
+      {
+        "text": "clientes gestione los requisitos necesarios para iniciar el proceso y",
+        "startMs": 4400,
+        "durationMs": 4140
+      },
+      {
+        "text": "monitoree en tiempo real el estado de su solicitud",
+        "startMs": 8540,
+        "durationMs": 3480
+      },
+      {
+        "text": "electrónica con con tapping una vez tenga la factura de compra de su plan de",
+        "startMs": 14020,
+        "durationMs": 5200
+      },
+      {
+        "text": "facturación electrónica ingrese a conta pyme puntocom y dé clic en portal",
+        "startMs": 19220,
+        "durationMs": 5309
+      },
+      {
+        "text": "clientes elija una de las opciones disponibles de ingreso al portal ya sea",
+        "startMs": 24529,
+        "durationMs": 5851
+      },
+      {
+        "text": "facebook cuenta de google de microsoft o su cuenta registrada en in soft si es la",
+        "startMs": 30380,
+        "durationMs": 6689
+      },
+      {
+        "text": "primera vez que va a ingresar al portal escriba al correo registrado contra pyme",
+        "startMs": 37069,
+        "durationMs": 4771
+      },
+      {
+        "text": "dé clic en solicitar contraseña y a su correo llegará un mensaje con la",
+        "startMs": 41840,
+        "durationMs": 4830
+      },
+      {
+        "text": "contraseña para ingresar al portal la cual podrá modificar cuando lo requiera",
+        "startMs": 46670,
+        "durationMs": 6080
+      },
+      {
+        "text": "de click en iniciar sesión e lija la empresa sobre la cual va a realizar el",
+        "startMs": 52750,
+        "durationMs": 5579
+      },
+      {
+        "text": "proceso de facturación electrónica de clic en aceptar",
+        "startMs": 12020,
+        "durationMs": 51420
+      },
+      {
+        "text": "en la columna izquierda seleccione la opción facturación electrónica si usted",
+        "startMs": 63440,
+        "durationMs": 5640
+      },
+      {
+        "text": "ya recibió la factura de los servicios de facturación electrónica su empresa se",
+        "startMs": 69080,
+        "durationMs": 5100
+      },
+      {
+        "text": "encuentra creada de clic en editar verifique que los datos son correctos y",
+        "startMs": 74180,
+        "durationMs": 6000
+      },
+      {
+        "text": "diligencia los demás campos si por el contrario no está creada dé clic en",
+        "startMs": 80180,
+        "durationMs": 5789
+      },
+      {
+        "text": "agregar y escriba los datos solicitados de clic en continuar",
+        "startMs": 85969,
+        "durationMs": 7281
+      },
+      {
+        "text": "en la parte superior visualice los pasos para el proceso de facturación",
+        "startMs": 93250,
+        "durationMs": 4140
+      },
+      {
+        "text": "electrónica haciendo un seguimiento a los pasos realizados el que está en",
+        "startMs": 97390,
+        "durationMs": 5400
+      },
+      {
+        "text": "curso y los pendientes por realizar paso número 1 registro diario aquí encontrará",
+        "startMs": 102790,
+        "durationMs": 7050
+      },
+      {
+        "text": "las instrucciones para registrarse como facturado electrónico en la dian estas",
+        "startMs": 109840,
+        "durationMs": 5100
+      },
+      {
+        "text": "instrucciones estarán disponibles directamente en el portal de clientes",
+        "startMs": 114940,
+        "durationMs": 4350
+      },
+      {
+        "text": "también en un videotutorial o con una guía completa de registro al finalizar",
+        "startMs": 119290,
+        "durationMs": 7020
+      },
+      {
+        "text": "los de clic en subir te set aydin registre el código del",
+        "startMs": 126310,
+        "durationMs": 5580
+      },
+      {
+        "text": "identificador del set de pruebas dé clic en subir requisito y da clic en",
+        "startMs": 131890,
+        "durationMs": 5910
+      },
+      {
+        "text": "siguiente para realizar el paso número 2 paso número 2 solicitar resolución bien",
+        "startMs": 137800,
+        "durationMs": 7080
+      },
+      {
+        "text": "aquí vamos a solicitar la resolución de facturación electrónica ante la dian",
+        "startMs": 144880,
+        "durationMs": 5030
+      },
+      {
+        "text": "seguimos las instrucciones y al tener el formato de resolución de facturación",
+        "startMs": 149910,
+        "durationMs": 5980
+      },
+      {
+        "text": "electrónica lo vamos a descargar y vamos a marcar",
+        "startMs": 155890,
+        "durationMs": 3990
+      },
+      {
+        "text": "de este paso al marcar ya complete este paso el sistema nos sugiere generar una",
+        "startMs": 159880,
+        "durationMs": 6510
+      },
+      {
+        "text": "resolución de facturación de contingencia podemos solicitarla",
+        "startMs": 166390,
+        "durationMs": 3750
+      },
+      {
+        "text": "siguiendo las instrucciones anteriores y en el tipo de facturación seleccionamos",
+        "startMs": 170140,
+        "durationMs": 4919
+      },
+      {
+        "text": "de contingencia podemos activarlo ahora o hacerlo más adelante",
+        "startMs": 175059,
+        "durationMs": 7250
+      },
+      {
+        "text": "damos clic en siguiente paso número 3 cargar documentos debe cargar 11 los",
+        "startMs": 182309,
+        "durationMs": 6961
+      },
+      {
+        "text": "documentos que el portal solicita en el documento donde aparece el botón generar",
+        "startMs": 189270,
+        "durationMs": 4799
+      },
+      {
+        "text": "debe dar clic para descargar el documento imprimirlo escanearlo",
+        "startMs": 194069,
+        "durationMs": 5160
+      },
+      {
+        "text": "diligenciar lo y subirlo al portal o puede firmarlo digitalmente y de igual",
+        "startMs": 199229,
+        "durationMs": 5791
+      },
+      {
+        "text": "forma subirlo al portal si algún documento es rechazado se le indicará el",
+        "startMs": 205020,
+        "durationMs": 6269
+      },
+      {
+        "text": "motivo para que en el menor tiempo posible pueda corregirlo y cargarlo",
+        "startMs": 211289,
+        "durationMs": 4261
+      },
+      {
+        "text": "nuevamente al portal recuerde que para la revisión de estos documentos debe",
+        "startMs": 215550,
+        "durationMs": 5099
+      },
+      {
+        "text": "contar con la factura emitida y aprobada por parte de in south una vez los",
+        "startMs": 220649,
+        "durationMs": 6091
+      },
+      {
+        "text": "documentos sean aprobados damos clic en siguiente para realizar el paso el",
+        "startMs": 226740,
+        "durationMs": 5430
+      },
+      {
+        "text": "número 4 que es finalizar habilitación aquí debe registrar la fecha en que",
+        "startMs": 232170,
+        "durationMs": 5610
+      },
+      {
+        "text": "comenzará la emisión de facturas electrónicas en su empresa cuando ya la",
+        "startMs": 237780,
+        "durationMs": 4440
+      },
+      {
+        "text": "haya registrado en el portal de la dian debe marcar ya complete este paso",
+        "startMs": 242220,
+        "durationMs": 5540
+      },
+      {
+        "text": "asocie la resolución con su proveedor tecnológico en el portal de la dian y",
+        "startMs": 247760,
+        "durationMs": 5310
+      },
+      {
+        "text": "marc que también ya complete este paso damos clic en siguiente y así hemos",
+        "startMs": 253070,
+        "durationMs": 6180
+      },
+      {
+        "text": "llegado al paso número 5 configurar en contra pyme active el uso de facturación",
+        "startMs": 259250,
+        "durationMs": 5970
+      },
+      {
+        "text": "electrónica en contra pyme y configure los documentos de soporte en modo",
+        "startMs": 265220,
+        "durationMs": 5160
+      },
+      {
+        "text": "producción uno de nuestros asesores se encargará de realizar la validación de",
+        "startMs": 270380,
+        "durationMs": 5550
+      },
+      {
+        "text": "la asociación exitosa en contra pyme este proceso dura aproximadamente un día",
+        "startMs": 275930,
+        "durationMs": 6600
+      },
+      {
+        "text": "hábil una vez realicemos el proceso de",
+        "startMs": 282530,
+        "durationMs": 2010
+      },
+      {
+        "text": "validación usted recibirá un mensaje en su correo electrónico confirmando que",
+        "startMs": 284540,
+        "durationMs": 5460
+      },
+      {
+        "text": "está listo para emitir facturación electrónica si tiene alguna duda acerca",
+        "startMs": 290000,
+        "durationMs": 6240
+      },
+      {
+        "text": "de este proceso solicite un tiquete de soporte con el tema consulta de estado",
+        "startMs": 296240,
+        "durationMs": 5460
+      },
+      {
+        "text": "efe puede generar su tiquete desde el sistema con está pyme en el teléfono",
+        "startMs": 301700,
+        "durationMs": 4710
+      },
+      {
+        "text": "verde o desde el portal de clientes en la opción soporte técnico",
+        "startMs": 306410,
+        "durationMs": 4500
+      },
+      {
+        "text": "recuerde que cuenta con soporte técnico el invitado de contacto con está pyme",
+        "startMs": 310910,
+        "durationMs": 11000
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\niniciar facturación electrónica conjunta pyme es muy fácil desde el portal de\nclientes gestione los requisitos necesarios para iniciar el proceso y\nmonitoree en tiempo real el estado de su solicitud\nelectrónica con con tapping una vez tenga la factura de compra de su plan de\nfacturación electrónica ingrese a conta pyme puntocom y dé clic en portal\nclientes elija una de las opciones disponibles de ingreso al portal ya sea\nfacebook cuenta de google de microsoft o su cuenta registrada en in soft si es la\nprimera vez que va a ingresar al portal escriba al correo registrado contra pyme\ndé clic en solicitar contraseña y a su correo llegará un mensaje con la\ncontraseña para ingresar al portal la cual podrá modificar cuando lo requiera\nde click en iniciar sesión e lija la empresa sobre la cual va a realizar el\nproceso de facturación electrónica de clic en aceptar\nen la columna izquierda seleccione la opción facturación electrónica si usted\nya recibió la factura de los servicios de facturación electrónica su empresa se\nencuentra creada de clic en editar verifique que los datos son correctos y\ndiligencia los demás campos si por el contrario no está creada dé clic en\nagregar y escriba los datos solicitados de clic en continuar\nen la parte superior visualice los pasos para el proceso de facturación\nelectrónica haciendo un seguimiento a los pasos realizados el que está en\ncurso y los pendientes por realizar paso número 1 registro diario aquí encontrará\nlas instrucciones para registrarse como facturado electrónico en la dian estas\ninstrucciones estarán disponibles directamente en el portal de clientes\ntambién en un videotutorial o con una guía completa de registro al finalizar\nlos de clic en subir te set aydin registre el código del\nidentificador del set de pruebas dé clic en subir requisito y da clic en\nsiguiente para realizar el paso número 2 paso número 2 solicitar resolución bien\naquí vamos a solicitar la resolución de facturación electrónica ante la dian\nseguimos las instrucciones y al tener el formato de resolución de facturación\nelectrónica lo vamos a descargar y vamos a marcar\nde este paso al marcar ya complete este paso el sistema nos sugiere generar una\nresolución de facturación de contingencia podemos solicitarla\nsiguiendo las instrucciones anteriores y en el tipo de facturación seleccionamos\nde contingencia podemos activarlo ahora o hacerlo más adelante\ndamos clic en siguiente paso número 3 cargar documentos debe cargar 11 los\ndocumentos que el portal solicita en el documento donde aparece el botón generar\ndebe dar clic para descargar el documento imprimirlo escanearlo\ndiligenciar lo y subirlo al portal o puede firmarlo digitalmente y de igual\nforma subirlo al portal si algún documento es rechazado se le indicará el\nmotivo para que en el menor tiempo posible pueda corregirlo y cargarlo\nnuevamente al portal recuerde que para la revisión de estos documentos debe\ncontar con la factura emitida y aprobada por parte de in south una vez los\ndocumentos sean aprobados damos clic en siguiente para realizar el paso el\nnúmero 4 que es finalizar habilitación aquí debe registrar la fecha en que\ncomenzará la emisión de facturas electrónicas en su empresa cuando ya la\nhaya registrado en el portal de la dian debe marcar ya complete este paso\nasocie la resolución con su proveedor tecnológico en el portal de la dian y\nmarc que también ya complete este paso damos clic en siguiente y así hemos\nllegado al paso número 5 configurar en contra pyme active el uso de facturación\nelectrónica en contra pyme y configure los documentos de soporte en modo\nproducción uno de nuestros asesores se encargará de realizar la validación de\nla asociación exitosa en contra pyme este proceso dura aproximadamente un día\nhábil una vez realicemos el proceso de\nvalidación usted recibirá un mensaje en su correo electrónico confirmando que\nestá listo para emitir facturación electrónica si tiene alguna duda acerca\nde este proceso solicite un tiquete de soporte con el tema consulta de estado\nefe puede generar su tiquete desde el sistema con está pyme en el teléfono\nverde o desde el portal de clientes en la opción soporte técnico\nrecuerde que cuenta con soporte técnico el invitado de contacto con está pyme"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x308",
+    "width": 640,
+    "height": 308,
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 187.227,
+    "asr": 44100,
+    "filesizeApprox": 7552503,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/OjYLK73UfMg.md",
+    "json": "videos/2020/OjYLK73UfMg.json",
+    "infoJson": "videos/2020/OjYLK73UfMg.info.json"
+  }
+}

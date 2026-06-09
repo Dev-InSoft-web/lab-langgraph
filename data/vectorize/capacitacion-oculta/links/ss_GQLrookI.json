@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entryId": "ss_GQLrookI",
+  "youtubeId": "ss_GQLrookI",
+  "status": "enriched_only",
+  "updatedAt": "2026-06-05T17:16:05.377Z",
+  "youtubeCorpusRef": "C:/Users/JAGUDELOE/Documents/Contapyme/lab-langgraph/data/vectorize/youtube/contapyme-software-contable/videos/2011/ss_GQLrookI.json",
+  "icursos": [
+    "DB:RECURSOS_ATRIBUTOS"
+  ],
+  "entries": [
+    {
+      "entryId": "ss_GQLrookI",
+      "youtubeId": "ss_GQLrookI",
+      "titulo": "ss_GQLrookI",
+      "source": "db-recursos-atributos",
+      "icurso": "DB:RECURSOS_ATRIBUTOS"
+    }
+  ],
+  "cursoContext": [
+    {
+      "icurso": "DB:RECURSOS_ATRIBUTOS",
+      "ncurso": "Videos ocultos — RECURSOS_ATRIBUTOS",
+      "descripcionCurso": "Importación directa desde clientesis.RECURSOS_ATRIBUTOS"
+    }
+  ]
+}

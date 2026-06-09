@@ -1,0 +1,3954 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T19:01:09.719Z",
+  "videoId": "X1EDiC8N8y4",
+  "videoUrl": "https://www.youtube.com/watch?v=X1EDiC8N8y4",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "X1EDiC8N8y4",
+    "title": "Configuraciones iniciales del módulo",
+    "fulltitle": "Configuraciones iniciales del módulo",
+    "description": "\\\nMódulo de nómina de ContaPyme® y AgroWin®\nTema: Configuraciones iniciales del módulo\n\nExperto: Thomas León\nEspecialista en producto de InSoft®\n\nDescripción:\nRealice la configuración inicial del módulo paso a paso, comprenda la utilidad de cada uno de los catálogos y a través de un ejemplo práctico comprenda cómo realizar la creación de contratos, cómo realizar el pago de nómina y su respectivo envío electrónico a la DIAN.\n\nSíganos en nuestras redes sociales:\nhttps://www.facebook.com/SoftwareContableContaPyme \nhttps://www.instagram.com/contapyme/ \n\nConozca más en https://www.contapyme.com/ y https://www.agrowin.com/ \n\n#nominaelectronica #nomina #contapyme #softwarecontable #dian",
+    "duration": 3425,
+    "duration_string": "57:05",
+    "upload_date": "20240702",
+    "timestamp": 1719940858,
+    "view_count": 18,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Education"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnZgFFWIR6d9JQf2laj_J-qeH_RA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCPtNfhKk_wQZD0-TV_PCa8uOX_bQ",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAv06_DqJX7ZnRuHbZdUCAozk-cEw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDadM4fXnzHjFQ1TYh1yNIsKEXY4Q",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJUoZJ55Co41vwMiI3TlOYjl7-jA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCioI86NqvfA8eSlO96OAEErwpuxg",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6rOjIHLir21oROhKUPZLUdU5yRw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBjioELKfAG-__U0r-Uud-TsFttDw",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/X1EDiC8N8y4/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/X1EDiC8N8y4/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=X1EDiC8N8y4",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb3",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.029197080291970802,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.10043795620437956,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.10043795620437956,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "320x180",
+        "width": 320,
+        "height": 180,
+        "fps": 0.10043795620437956,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 25,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 233.05,
+        "asr": 44100,
+        "filesize_approx": 99783008,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Configuraciones iniciales del módulo",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/X1EDiC8N8y4/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/X1EDiC8N8y4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Configuraciones iniciales del módulo\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 702,
+    "transcriptChars": 51783,
+    "segments": [
+      {
+        "text": "Buenos días mi nombre es Tomás León soy especialista de producto y en este",
+        "startMs": 1079,
+        "durationMs": 3670
+      },
+      {
+        "text": "tutorial hablaremos acerca de las configuraciones iniciales para el uso",
+        "startMs": 4749,
+        "durationMs": 3281
+      },
+      {
+        "text": "del módulo de nmina electrónica bienvenidos Perfecto entonces en este",
+        "startMs": 8030,
+        "durationMs": 5840
+      },
+      {
+        "text": "tutorial como les mencionaba entonces hablaremos acerca de cómo debo",
+        "startMs": 13870,
+        "durationMs": 3399
+      },
+      {
+        "text": "configurar el catálogo de empresa hablaremos qué consideraciones debo",
+        "startMs": 17269,
+        "durationMs": 3881
+      },
+      {
+        "text": "tener para configurar el catálogo de conceptos de nómina así como también el",
+        "startMs": 21150,
+        "durationMs": 4800
+      },
+      {
+        "text": "catálogo de perfiles de contratos veremos qué es el catálogo de entidades",
+        "startMs": 25950,
+        "durationMs": 5159
+      },
+      {
+        "text": "y cómo se puede configurar Y por último empezaremos a realizar algunas",
+        "startMs": 31109,
+        "durationMs": 4760
+      },
+      {
+        "text": "operaciones Empezando por la creación de los contratos de nuestros",
+        "startMs": 35869,
+        "durationMs": 3761
+      },
+      {
+        "text": "empleados después de tener esta configuración inicial entonces pasaremos",
+        "startMs": 39630,
+        "durationMs": 4040
+      },
+      {
+        "text": "a crear los pagos de nómina haremos un ejemplo del reporte de nómina",
+        "startMs": 43670,
+        "durationMs": 4480
+      },
+      {
+        "text": "electrónica y explicaremos la diferencia entre el reporte de ajuste y el reporte",
+        "startMs": 48150,
+        "durationMs": 4480
+      },
+      {
+        "text": "de anulación de nómina electrónica para eso Entonces vamos a dirigirnos a pasar",
+        "startMs": 52630,
+        "durationMs": 4719
+      },
+      {
+        "text": "a nuestro sistema contapyme para ver cada uno de estos puntos",
+        "startMs": 57349,
+        "durationMs": 4321
+      },
+      {
+        "text": "mencionados Perfecto entonces ubicados en nuestro sistema contapyme vamos a",
+        "startMs": 61670,
+        "durationMs": 4479
+      },
+      {
+        "text": "revisar cada uno de los puntos que mencionábamos en la presentación",
+        "startMs": 66149,
+        "durationMs": 3161
+      },
+      {
+        "text": "Entonces lo primero que vamos a hacer es revisar nuestra configuración en el",
+        "startMs": 69310,
+        "durationMs": 3320
+      },
+      {
+        "text": "catálogo de empresa lo ideal es que todo este montaje ya lo tengamos listo Pero",
+        "startMs": 72630,
+        "durationMs": 3799
+      },
+      {
+        "text": "entonces veremos Cuáles son esas configuraciones que yo como usuario de",
+        "startMs": 76429,
+        "durationMs": 2961
+      },
+      {
+        "text": "nómina debo tener en cuenta para su correcto funcionamiento Entonces nos",
+        "startMs": 79390,
+        "durationMs": 3320
+      },
+      {
+        "text": "vamos a dirigir a la pestaña de básico y vamos a abrir el catálogo de empresa",
+        "startMs": 82710,
+        "durationMs": 4600
+      },
+      {
+        "text": "aquí entonces sale creada mi empresa entonces voy a dar clic en modificar o",
+        "startMs": 87310,
+        "durationMs": 4439
+      },
+      {
+        "text": "visualizar para revisar la configuración qué es importante para el",
+        "startMs": 91749,
+        "durationMs": 5000
+      },
+      {
+        "text": "uso de la nómina electrónica aquí yo ya tengo que tener previamente configurado",
+        "startMs": 96749,
+        "durationMs": 3921
+      },
+      {
+        "text": "el tipo de documento el número de documento la razón social el dígito de",
+        "startMs": 100670,
+        "durationMs": 4759
+      },
+      {
+        "text": "de verificación y cada uno de esos datos básicos sin embargo entonces también",
+        "startMs": 105429,
+        "durationMs": 3921
+      },
+      {
+        "text": "debo verificar que en la pestaña de servicios electrónicos tenga activo el",
+        "startMs": 109350,
+        "durationMs": 4560
+      },
+      {
+        "text": "manejo de nómina electrónica también sugerimos que se tenga activo el uso de",
+        "startMs": 113910,
+        "durationMs": 4960
+      },
+      {
+        "text": "plataforma de de documentos para que se pueda publicar el pago de nómina y así",
+        "startMs": 118870,
+        "durationMs": 4839
+      },
+      {
+        "text": "le llegue el comprobante a cada uno de nuestros empleados ya veremos cómo",
+        "startMs": 123709,
+        "durationMs": 3561
+      },
+      {
+        "text": "funciona esta parte de plataforma de documentos en la pestaña de nómina",
+        "startMs": 127270,
+        "durationMs": 5200
+      },
+      {
+        "text": "Entonces tendremos una pestaña acerca de entidades otra pestaña acerca del",
+        "startMs": 132470,
+        "durationMs": 6160
+      },
+      {
+        "text": "reporte dian y otra pestaña acerca de los datos para planilla pila acerca de",
+        "startMs": 138630,
+        "durationMs": 5640
+      },
+      {
+        "text": "la pestaña de entidades hablaremos un poco más adelante cuando lleguemos al",
+        "startMs": 144270,
+        "durationMs": 4120
+      },
+      {
+        "text": "catálogo de entidades por ahora entonces no voy a no vamos a realizar ninguna",
+        "startMs": 148390,
+        "durationMs": 4760
+      },
+      {
+        "text": "configuración específica acá en la parte del reporte dian yo puedo escoger Cómo",
+        "startMs": 153150,
+        "durationMs": 4960
+      },
+      {
+        "text": "deseo reportar las prestaciones sociales y vacaciones a La dian es decir si yo",
+        "startMs": 158110,
+        "durationMs": 5800
+      },
+      {
+        "text": "quiero enviar las prestaciones sociales cuando",
+        "startMs": 163910,
+        "durationMs": 2399
+      },
+      {
+        "text": "efectivamente se paguen o cuando se realice la provisión para esto tenemos",
+        "startMs": 166309,
+        "durationMs": 5560
+      },
+      {
+        "text": "documentos y también tenemos videos de capacitación donde explicamos Cuáles son",
+        "startMs": 171869,
+        "durationMs": 4881
+      },
+      {
+        "text": "todas esas consideraciones que se deben tener en cuenta para para esta",
+        "startMs": 176750,
+        "durationMs": 3680
+      },
+      {
+        "text": "configuración lo ideal es que nuestros usuarios tengan en cuenta cada una de",
+        "startMs": 180430,
+        "durationMs": 4079
+      },
+      {
+        "text": "estas consideraciones antes de hacer algún cambio en este apartado También",
+        "startMs": 184509,
+        "durationMs": 5080
+      },
+      {
+        "text": "tenemos un más info que podemos abrir dando clic derecho y aquí podremos ver",
+        "startMs": 189589,
+        "durationMs": 4720
+      },
+      {
+        "text": "algunos ejemplos de información adicional para tener en cuenta sobre",
+        "startMs": 194309,
+        "durationMs": 5441
+      },
+      {
+        "text": "esta configuración perfecto vamos a entonces",
+        "startMs": 199750,
+        "durationMs": 2320
+      },
+      {
+        "text": "a dirigirnos a esta última pestaña que es datos para planilla pila Si yo soy un",
+        "startMs": 202070,
+        "durationMs": 3879
+      },
+      {
+        "text": "cotizante exonerado para el pago de salud por parte del empleado ador decena",
+        "startMs": 205949,
+        "durationMs": 5081
+      },
+      {
+        "text": "ebf bastará con dar clic y seleccionar este check y el sistema ya no realizará",
+        "startMs": 211030,
+        "durationMs": 5640
+      },
+      {
+        "text": "el cálculo de estas fórmulas o de estos aportes cuando se realicen los pagos de",
+        "startMs": 216670,
+        "durationMs": 4880
+      },
+      {
+        "text": "nómina en este caso vamos a dejarlo sin este check y aquí en el tipo de",
+        "startMs": 221550,
+        "durationMs": 5319
+      },
+      {
+        "text": "aportante puedo dejar empleador o el que corresponda perfecto antes de guardar",
+        "startMs": 226869,
+        "durationMs": 4720
+      },
+      {
+        "text": "las configuraciones nos vamos a dirigir a la pestaña de clasificación tributaria",
+        "startMs": 231589,
+        "durationMs": 5041
+      },
+      {
+        "text": "en esta parte de clasificación tributaria en la parte de actividades",
+        "startMs": 236630,
+        "durationMs": 4439
+      },
+      {
+        "text": "económicas es muy importante que nosotros tengamos correctamente",
+        "startMs": 241069,
+        "durationMs": 3800
+      },
+      {
+        "text": "configurados nuestros centros de trabajo con la con la respectiva clase de riesgo",
+        "startMs": 244869,
+        "durationMs": 5360
+      },
+      {
+        "text": "aquí en este apartado é nos va a preguntar cuál es nuestra actividad",
+        "startMs": 250229,
+        "durationMs": 3121
+      },
+      {
+        "text": "principal Cuál es la subactividad que realizamos Cuál es el nombre del centro",
+        "startMs": 253350,
+        "durationMs": 4480
+      },
+      {
+        "text": "de trabajo y su riesgo esta parte es importante porque cuando realicemos la",
+        "startMs": 257830,
+        "durationMs": 4799
+      },
+      {
+        "text": "creación de los contratos el sistema me va a preguntar cuál es el centro de",
+        "startMs": 262629,
+        "durationMs": 3401
+      },
+      {
+        "text": "trabajo al que pertenece el empleado y dependiendo de dicho centro de trabajo",
+        "startMs": 266030,
+        "durationMs": 4280
+      },
+      {
+        "text": "Se va a asignar una clase de riesgo recordemos que en esta parte yo puedo",
+        "startMs": 270310,
+        "durationMs": 3840
+      },
+      {
+        "text": "crear Cuántas actividades necesite y cuántos centros de trabajo necesite con",
+        "startMs": 274150,
+        "durationMs": 3840
+      },
+      {
+        "text": "su respectivo riesgo",
+        "startMs": 277990,
+        "durationMs": 3520
+      },
+      {
+        "text": "riesgo Perfecto perfecto entonces en la parte",
+        "startMs": 281510,
+        "durationMs": 2200
+      },
+      {
+        "text": "de empresa Estas son las configuraciones que yo debo tener en cuenta con respecto",
+        "startMs": 283710,
+        "durationMs": 4120
+      },
+      {
+        "text": "a nuestro módulo de nómina en este caso voy a dar clic en cerrar y no voy a",
+        "startMs": 287830,
+        "durationMs": 4359
+      },
+      {
+        "text": "guardar los cambios Perfecto entonces mencionamos también que otra de las",
+        "startMs": 292189,
+        "durationMs": 4921
+      },
+      {
+        "text": "configuraciones que se deben tener en cuenta es el catálogo de conceptos como",
+        "startMs": 297110,
+        "durationMs": 3919
+      },
+      {
+        "text": "mencionábamos en otras capacitaciones el catálogo de conceptos de nómina lo",
+        "startMs": 301029,
+        "durationMs": 3880
+      },
+      {
+        "text": "encontramos en la pestañita de nómina y Aquí vamos a encontrar este catálogo",
+        "startMs": 304909,
+        "durationMs": 5641
+      },
+      {
+        "text": "Perfecto entonces al abrir este catálogo podremos encontrar cuatro grandes grupos",
+        "startMs": 310550,
+        "durationMs": 5199
+      },
+      {
+        "text": "que se refieren al comportamiento que tienen cada uno de los conceptos es",
+        "startMs": 315749,
+        "durationMs": 3361
+      },
+      {
+        "text": "decir si Son prestaciones si son devengos si son deducciones o si son",
+        "startMs": 319110,
+        "durationMs": 3880
+      },
+      {
+        "text": "aportes o provisiones a cargo de la empresa vamos a revisar un ejemplo de",
+        "startMs": 322990,
+        "durationMs": 5080
+      },
+      {
+        "text": "devengos y vamos a revisar un ejemplo de deducciones para que veamos cómo se",
+        "startMs": 328070,
+        "durationMs": 3640
+      },
+      {
+        "text": "configuran los conceptos de nómina en este caso voy a desplegar este menú y",
+        "startMs": 331710,
+        "durationMs": 4400
+      },
+      {
+        "text": "voy a dirigirme al concepto de salario básico yo puedo dar clic en cualquiera",
+        "startMs": 336110,
+        "durationMs": 5799
+      },
+      {
+        "text": "de estas opciones y puedo hacer uso de de este catálogo como yo lo necesite es",
+        "startMs": 341909,
+        "durationMs": 4241
+      },
+      {
+        "text": "decir si necesito crear nuevos conceptos lo puedo hacer en este catálogo ya que",
+        "startMs": 346150,
+        "durationMs": 3360
+      },
+      {
+        "text": "es de libre definición por cada uno de los usuarios o si deseo modificar los",
+        "startMs": 349510,
+        "durationMs": 4200
+      },
+      {
+        "text": "parámetros que tiene alguno de los conceptos que ya están sugeridos por el",
+        "startMs": 353710,
+        "durationMs": 3280
+      },
+      {
+        "text": "sistema lo puedo hacer para este caso voy a entonces a Modificar el concepto",
+        "startMs": 356990,
+        "durationMs": 4680
+      },
+      {
+        "text": "de salario básico en este caso Entonces vamos a",
+        "startMs": 361670,
+        "durationMs": 4560
+      },
+      {
+        "text": "revisar cada una de las pestañas para que revisemos Cómo se debe configurar Y",
+        "startMs": 366230,
+        "durationMs": 5079
+      },
+      {
+        "text": "de qué se trata en la parte entonces superior podemos encontrar el concepto o",
+        "startMs": 371309,
+        "durationMs": 5720
+      },
+      {
+        "text": "el código que tiene el concepto podemos indicar un nombre y un nombre corto este",
+        "startMs": 377029,
+        "durationMs": 6681
+      },
+      {
+        "text": "nombre corto nos servirá para la visualización de este concepto en los",
+        "startMs": 383710,
+        "durationMs": 3680
+      },
+      {
+        "text": "informes en la parte inferior podemos encontrar un concepto base este concepto",
+        "startMs": 387390,
+        "durationMs": 4720
+      },
+      {
+        "text": "base es el que me va a definir a qué grupo va a pertenecer este concepto qué",
+        "startMs": 392110,
+        "durationMs": 4799
+      },
+      {
+        "text": "comportamiento va a tener Es decir si es un devengo si es una deducción si es una",
+        "startMs": 396909,
+        "durationMs": 4881
+      },
+      {
+        "text": "prestación o si es una provisión o aporte a cargo de la empresa aquí",
+        "startMs": 401790,
+        "durationMs": 4880
+      },
+      {
+        "text": "entonces también me habla acerca de qué tipo de registro trenda este concepto y",
+        "startMs": 406670,
+        "durationMs": 3799
+      },
+      {
+        "text": "en qué unidad se presenta es importante entonces tener en cuenta también que",
+        "startMs": 410469,
+        "durationMs": 4280
+      },
+      {
+        "text": "este concepto base es el que se va a enviar a la dian es decir a pesar de que",
+        "startMs": 414749,
+        "durationMs": 5481
+      },
+      {
+        "text": "nosotros como usuarios podemos cambiar el nombre del concepto básico nosotros",
+        "startMs": 420230,
+        "durationMs": 4880
+      },
+      {
+        "text": "en la nómina electrónica vamos a enviar es la información de este concepto base",
+        "startMs": 425110,
+        "durationMs": 5320
+      },
+      {
+        "text": "muy importante tener en cuenta esta parte vamos a poder encontrar también",
+        "startMs": 430430,
+        "durationMs": 3960
+      },
+      {
+        "text": "una un apartado que nos habla acerca del manejo con respecto a este check que que",
+        "startMs": 434390,
+        "durationMs": 7359
+      },
+      {
+        "text": "nos indica este concepto es de pago recurrente cuando nosotros utilizamos",
+        "startMs": 441749,
+        "durationMs": 4120
+      },
+      {
+        "text": "este botoncito se nos va a habilitar una pestaña adicional que se refiere a qué",
+        "startMs": 445869,
+        "durationMs": 5160
+      },
+      {
+        "text": "periodicidad queremos nosotros que maneje este concepto lo normal es que",
+        "startMs": 451029,
+        "durationMs": 4361
+      },
+      {
+        "text": "este concepto de salario básico se pague en cada uno de los comprobantes de pago",
+        "startMs": 455390,
+        "durationMs": 5000
+      },
+      {
+        "text": "de nómina Entonces yo puedo escoger En qué periodicidad quiero que se pague en",
+        "startMs": 460390,
+        "durationMs": 5239
+      },
+      {
+        "text": "este caso está por defecto para cada pago sin embargo para algunos conceptos",
+        "startMs": 465629,
+        "durationMs": 4120
+      },
+      {
+        "text": "como como lo son las prestaciones sociales yo puedo escoger",
+        "startMs": 469749,
+        "durationMs": 3041
+      },
+      {
+        "text": "específicamente En qué fecha deseo que se pague ya vamos a revisar un ejemplo",
+        "startMs": 472790,
+        "durationMs": 5560
+      },
+      {
+        "text": "adicional con respecto al tema de prestaciones para que veamos su",
+        "startMs": 478350,
+        "durationMs": 3880
+      },
+      {
+        "text": "configuración en este caso no aplica indicarle un mes en específico y una",
+        "startMs": 482230,
+        "durationMs": 4200
+      },
+      {
+        "text": "fecha de pago Ya que en todos los pagos de nómina se va a realizar el pago de",
+        "startMs": 486430,
+        "durationMs": 5479
+      },
+      {
+        "text": "este salario para la pestaña de forma de",
+        "startMs": 491909,
+        "durationMs": 2400
+      },
+      {
+        "text": "cálculo vamos a encontrar dos pestañas que nos hablan acerca de la cantidad y",
+        "startMs": 494309,
+        "durationMs": 4280
+      },
+      {
+        "text": "el valor cuando yo indico que deseo manejar la cantidad manual es porque voy",
+        "startMs": 498589,
+        "durationMs": 5521
+      },
+      {
+        "text": "a indicar la cantidad de días de que le voy a pagar por concepto de salario pero",
+        "startMs": 504110,
+        "durationMs": 4359
+      },
+      {
+        "text": "debo indicarlo a a través de una operación de novedad como nos indica el",
+        "startMs": 508469,
+        "durationMs": 4601
+      },
+      {
+        "text": "apartado aquí aquí el sistema nos hace el como la aclaración de Qué significa",
+        "startMs": 513070,
+        "durationMs": 5519
+      },
+      {
+        "text": "usar una opción u otra para este caso vamos a dejarlo de manera formulada es",
+        "startMs": 518589,
+        "durationMs": 4641
+      },
+      {
+        "text": "decir que el sistema va a tener en cuenta todas esas novedades como",
+        "startMs": 523230,
+        "durationMs": 3960
+      },
+      {
+        "text": "ausencias incapacidades vacaciones para calcular la cantidad del salario básico",
+        "startMs": 527190,
+        "durationMs": 5600
+      },
+      {
+        "text": "es decir que nosotros no Tendremos que hacer nada de manera manual sino que el",
+        "startMs": 532790,
+        "durationMs": 4120
+      },
+      {
+        "text": "sistema teniendo en cuenta cada una de los novedades que tenga el empleado en",
+        "startMs": 536910,
+        "durationMs": 4000
+      },
+      {
+        "text": "el periodo me va a calcular la respectiva cantidad ahora cómo obtiene",
+        "startMs": 540910,
+        "durationMs": 5320
+      },
+      {
+        "text": "el sistema el valor total del salario a pagar va a multiplicar el valor del",
+        "startMs": 546230,
+        "durationMs": 5240
+      },
+      {
+        "text": "salario y lo va a multiplicar por la cantidad de días que efectivamente haya",
+        "startMs": 551470,
+        "durationMs": 7400
+      },
+      {
+        "text": "elaborado el empleado y lo va a dividir entre 30 este va a ser el valor que se",
+        "startMs": 558870,
+        "durationMs": 5320
+      },
+      {
+        "text": "va obtener por concepto de salario básico ahora es important Resaltar que",
+        "startMs": 564190,
+        "durationMs": 6199
+      },
+      {
+        "text": "el sistema por defecto entrega una configuración en el manejo contable sin",
+        "startMs": 570389,
+        "durationMs": 4321
+      },
+      {
+        "text": "embargo nosotros como usuarios del sistema debemos validar que ese manejo",
+        "startMs": 574710,
+        "durationMs": 4239
+      },
+      {
+        "text": "contable se ajuste según las necesidades que nosotros tengamos dentro de nuestras",
+        "startMs": 578949,
+        "durationMs": 4440
+      },
+      {
+        "text": "empresas en este caso el sistema me sugiere la cuenta",
+        "startMs": 583389,
+        "durationMs": 3841
+      },
+      {
+        "text": "51006 que es sueldos sin embargo si yo deseo cambiarla bastará con abrir el",
+        "startMs": 587230,
+        "durationMs": 5599
+      },
+      {
+        "text": "asistente de plan único de cuentas y seleccionar la cuenta que necesite o",
+        "startMs": 592829,
+        "durationMs": 4161
+      },
+      {
+        "text": "también la puedo digitar aquí yo puedo decirle a Qué tipo de",
+        "startMs": 596990,
+        "durationMs": 4519
+      },
+      {
+        "text": "entidad o tercero va a quedar registrado este gasto en este caso vamos a dejar el",
+        "startMs": 601509,
+        "durationMs": 5440
+      },
+      {
+        "text": "empleado también puedo utilizar esta configuración para tener diferentes",
+        "startMs": 606949,
+        "durationMs": 5681
+      },
+      {
+        "text": "cuentas según la clase contable que tenga el centro de costos es decir Yo",
+        "startMs": 612630,
+        "durationMs": 4199
+      },
+      {
+        "text": "puedo configurarle a cada uno de nuestros empleados un centro de costos y",
+        "startMs": 616829,
+        "durationMs": 4601
+      },
+      {
+        "text": "a su vez los centros de costos tienen una clase asignada si yo tengo por",
+        "startMs": 621430,
+        "durationMs": 5519
+      },
+      {
+        "text": "ejemplo empleados que laboran en en el departamento administrativo otros que",
+        "startMs": 626949,
+        "durationMs": 4801
+      },
+      {
+        "text": "trabajan en el departamento de ventas y otros que trabajan en la parte de",
+        "startMs": 631750,
+        "durationMs": 3759
+      },
+      {
+        "text": "producción yo puedo decirle al sistema que si el empleado pertenece a un centro",
+        "startMs": 635509,
+        "durationMs": 5161
+      },
+      {
+        "text": "de costos de clase uno me registre el sueldo en la cuenta",
+        "startMs": 640670,
+        "durationMs": 5279
+      },
+      {
+        "text": "5105 si yo tengo un empleado que pertenece a un centro de costos de clase",
+        "startMs": 645949,
+        "durationMs": 4281
+      },
+      {
+        "text": "dos que me registre esta con este movimiento en la",
+        "startMs": 650230,
+        "durationMs": 5159
+      },
+      {
+        "text": "5205 Y así sucesivamente por ejemplo puedo asignar la clase tres que es de",
+        "startMs": 655389,
+        "durationMs": 5081
+      },
+      {
+        "text": "producción y asignar una cuenta 72 Ya pues es seleccionar la cuenta específica",
+        "startMs": 660470,
+        "durationMs": 5240
+      },
+      {
+        "text": "que manejemos para esta parte pero así es como nosotros podríamos utilizar este",
+        "startMs": 665710,
+        "durationMs": 5320
+      },
+      {
+        "text": "apartado sin necesidad de crear un concepto de nómina por cada una de las",
+        "startMs": 671030,
+        "durationMs": 4120
+      },
+      {
+        "text": "cuentas que yo maneje perfecto en esta parte de",
+        "startMs": 675150,
+        "durationMs": 3560
+      },
+      {
+        "text": "descripción Pues podría utilizar alguna nota específica que necesite en caso tal",
+        "startMs": 678710,
+        "durationMs": 5760
+      },
+      {
+        "text": "de que lo requiera Por ejemplo si estoy creando un concepto de auxilio y",
+        "startMs": 684470,
+        "durationMs": 5039
+      },
+      {
+        "text": "por lentes por ejemplo que se brinde a los empleados un auxilio para gafas Yo",
+        "startMs": 689509,
+        "durationMs": 4481
+      },
+      {
+        "text": "podría decir cuál va a ser el monto que se va a destinar para este auxilio",
+        "startMs": 693990,
+        "durationMs": 3959
+      },
+      {
+        "text": "podría decir cuáles son esas condiciones que se establecen o que se pactan con el",
+        "startMs": 697949,
+        "durationMs": 3641
+      },
+      {
+        "text": "empleado Entonces yo aquí puedo utilizar esta parte de descripción y hacer uso de",
+        "startMs": 701590,
+        "durationMs": 4400
+      },
+      {
+        "text": "este campo Eh pues como lo necesite y la vigencia me dice entonces a partir de de",
+        "startMs": 705990,
+        "durationMs": 5639
+      },
+      {
+        "text": "qué fecha está eh o se puede utilizar este concepto aquí pues el sistema trae",
+        "startMs": 711629,
+        "durationMs": 5041
+      },
+      {
+        "text": "por defecto una configuración y nosotros la podemos cambiar en caso de",
+        "startMs": 716670,
+        "durationMs": 3080
+      },
+      {
+        "text": "necesitarla lo común es que no se modifique pero ya pues nosotros",
+        "startMs": 719750,
+        "durationMs": 4199
+      },
+      {
+        "text": "podríamos utilizar esto en un caso particular Perfecto entonces vamos a dar",
+        "startMs": 723949,
+        "durationMs": 4481
+      },
+      {
+        "text": "clic en aceptar y a guardar los cambios y vamos a revisar eh un segundo ejemplo",
+        "startMs": 728430,
+        "durationMs": 5920
+      },
+      {
+        "text": "con respecto a la prima legal voy a dar clic en modificar y como podemos ver en",
+        "startMs": 734350,
+        "durationMs": 6000
+      },
+      {
+        "text": "la parte de pago recurrente el sistema trae por defecto que se pague cada 6",
+        "startMs": 740350,
+        "durationMs": 5560
+      },
+      {
+        "text": "meses el día 15 Es decir me va a pagar la prima el 15 de junio y el 15 de",
+        "startMs": 745910,
+        "durationMs": 6039
+      },
+      {
+        "text": "diciembre de cada año sin embargo si yo necesito cambiar esta fecha que no sea",
+        "startMs": 751949,
+        "durationMs": 5601
+      },
+      {
+        "text": "el 15 sino el 30 lo puedo hacer o al último día del mes entonces aquí podemos",
+        "startMs": 757550,
+        "durationMs": 5440
+      },
+      {
+        "text": "basarnos y utilizar Este ejemplo que nos muestra el sistema en la parte inferior",
+        "startMs": 762990,
+        "durationMs": 4680
+      },
+      {
+        "text": "que nos dice ya no se va a pagar el 15 sino el día 30 del mes 6 y el día 31 del",
+        "startMs": 767670,
+        "durationMs": 7159
+      },
+      {
+        "text": "mes 12 Perfecto entonces por ejemplo si yo necesito poner dos fechas específicas",
+        "startMs": 774829,
+        "durationMs": 6721
+      },
+      {
+        "text": "que no que no sean las mismas Por ejemplo si quiero en junio pagar la",
+        "startMs": 781550,
+        "durationMs": 4320
+      },
+      {
+        "text": "prima el día 15 pero en diciembre quiero pagarla en el día 30 lo que debo hacer",
+        "startMs": 785870,
+        "durationMs": 5160
+      },
+      {
+        "text": "es duplicar este concepto y cambiarle su periodicidad de manera anual Entonces",
+        "startMs": 791030,
+        "durationMs": 6280
+      },
+      {
+        "text": "por ejemplo esta primera prima yo la quiero pagar en el mes de junio pero lo",
+        "startMs": 797310,
+        "durationMs": 4879
+      },
+      {
+        "text": "quiero pagar el día 15 Entonces de esa manera se pagará esta primera prima en",
+        "startMs": 802189,
+        "durationMs": 6121
+      },
+      {
+        "text": "esta fecha específica voy a guardar los cambios y bastará con duplicar el",
+        "startMs": 808310,
+        "durationMs": 6519
+      },
+      {
+        "text": "concepto Entonces por ejemplo voy a indicarle que voy a crear un nuevo",
+        "startMs": 814829,
+        "durationMs": 3921
+      },
+      {
+        "text": "concepto de nómina aquí debo indicarle un un código diferente para poder",
+        "startMs": 818750,
+        "durationMs": 6480
+      },
+      {
+        "text": "guardar el cambio voy a ponerle mejor d de prima de",
+        "startMs": 825230,
+        "durationMs": 5000
+      },
+      {
+        "text": "diciembre voy a modificarla y me voy a dirigir a pago",
+        "startMs": 830230,
+        "durationMs": 5399
+      },
+      {
+        "text": "recurrente en este caso vemos que está de manera anual en el mes 6 pero en este",
+        "startMs": 835629,
+        "durationMs": 5000
+      },
+      {
+        "text": "caso no es en el mes de junio sino que esta será para el mes de diciembre voy a",
+        "startMs": 840629,
+        "durationMs": 4560
+      },
+      {
+        "text": "dar clic entonces en el mes 12 y quiero que el pago sea por ejemplo el día 31",
+        "startMs": 845189,
+        "durationMs": 6361
+      },
+      {
+        "text": "Entonces en este caso podemos dejarlo al último día del mes y puedo corroborar",
+        "startMs": 851550,
+        "durationMs": 4880
+      },
+      {
+        "text": "que efectivamente me va a pagar esta prima cada 31 del del mes",
+        "startMs": 856430,
+        "durationMs": 7000
+      },
+      {
+        "text": "12 me va a pagar esta prima el 31 del mes de diciembre de cada año",
+        "startMs": 863430,
+        "durationMs": 6199
+      },
+      {
+        "text": "Cómo asignamos nosotros esto a los contratos ya en un momento lo vamos a",
+        "startMs": 869629,
+        "durationMs": 4361
+      },
+      {
+        "text": "revisar cuando configuremos nuestros perfiles y nuestros",
+        "startMs": 873990,
+        "durationMs": 3279
+      },
+      {
+        "text": "contratos esto de la eh esta configuración de la periodicidad también",
+        "startMs": 877269,
+        "durationMs": 4480
+      },
+      {
+        "text": "la podemos utilizar como nosotros lo necesitemos con respecto al cálculo de",
+        "startMs": 881749,
+        "durationMs": 3640
+      },
+      {
+        "text": "la seguridad social por ejemplo si yo si yo pago de manera quincenal y deseo",
+        "startMs": 885389,
+        "durationMs": 4721
+      },
+      {
+        "text": "hacer los descuentos de salud y de pensión únicamente al final del mes y no",
+        "startMs": 890110,
+        "durationMs": 5120
+      },
+      {
+        "text": "en las en los dos pagos de nómina también lo puedo hacer A través de esta",
+        "startMs": 895230,
+        "durationMs": 3039
+      },
+      {
+        "text": "configuración de la la periodicidad eso también lo puedo",
+        "startMs": 898269,
+        "durationMs": 3480
+      },
+      {
+        "text": "utilizar Por ejemplo si yo pago El auxilio de transporte completo en la",
+        "startMs": 901749,
+        "durationMs": 3841
+      },
+      {
+        "text": "primera quincena o en la segunda quincena eh yo lo puedo hacer",
+        "startMs": 905590,
+        "durationMs": 4880
+      },
+      {
+        "text": "configurando la periodicidad para que se pague en una fecha específica o si lo",
+        "startMs": 910470,
+        "durationMs": 4279
+      },
+      {
+        "text": "hago en cada uno de los pagos simplemente dejo la configuración del",
+        "startMs": 914749,
+        "durationMs": 4320
+      },
+      {
+        "text": "auxilio de transporte para cada pago Perfecto entonces eh acabamos de",
+        "startMs": 919069,
+        "durationMs": 6721
+      },
+      {
+        "text": "Ver el catálogo de conceptos de nómina invitamos a cada uno de nuestros",
+        "startMs": 925790,
+        "durationMs": 3800
+      },
+      {
+        "text": "usuarios a validar que el manejo contable sea el adecuado según el",
+        "startMs": 929590,
+        "durationMs": 3799
+      },
+      {
+        "text": "requerimiento de cada una de sus empresas aquí Entonces como les",
+        "startMs": 933389,
+        "durationMs": 4240
+      },
+      {
+        "text": "mencionaba este catálogo es de libre definición por cada uno de de nosotros y",
+        "startMs": 937629,
+        "durationMs": 4120
+      },
+      {
+        "text": "podemos cambiar eh su información según las necesidades que tengamos en la",
+        "startMs": 941749,
+        "durationMs": 5200
+      },
+      {
+        "text": "empresa Perfecto entonces pasando eh al siguiente punto de este tutorial",
+        "startMs": 946949,
+        "durationMs": 6440
+      },
+      {
+        "text": "hablaremos entonces acerca de el catálogo de perfiles de contrato",
+        "startMs": 953389,
+        "durationMs": 4601
+      },
+      {
+        "text": "Entonces vamos a cerrar estos catálogos y Aquí vamos a encontrar el catálogo de",
+        "startMs": 957990,
+        "durationMs": 4680
+      },
+      {
+        "text": "perfiles de contrato Perfecto entonces aquí el",
+        "startMs": 962670,
+        "durationMs": 5120
+      },
+      {
+        "text": "sistema como podemos ver me entrega por defecto muchos perfiles que se tienen",
+        "startMs": 967790,
+        "durationMs": 4800
+      },
+      {
+        "text": "configurados y establecidos por defecto Entonces qué Cuál es la recomendación",
+        "startMs": 972590,
+        "durationMs": 3880
+      },
+      {
+        "text": "que nosotros realizamos revisemos Cuál es el tipo de contrato que nosotros",
+        "startMs": 976470,
+        "durationMs": 4400
+      },
+      {
+        "text": "utilizamos en nuestra empresa y cuál es la periodicidad Entonces por ejemplo si",
+        "startMs": 980870,
+        "durationMs": 4079
+      },
+      {
+        "text": "nosotros tenemos contratos a término fijo y si tenemos contratos a términos",
+        "startMs": 984949,
+        "durationMs": 4481
+      },
+      {
+        "text": "indefinidos entonces aquí podemos configurar cada uno de ellos ya es",
+        "startMs": 989430,
+        "durationMs": 4600
+      },
+      {
+        "text": "revisar si el pago es quincenal mensual semanal u otro y empezar a configurar y",
+        "startMs": 994030,
+        "durationMs": 5279
+      },
+      {
+        "text": "a revisar la configuración que tenga por defecto Entonces vamos a revisar este",
+        "startMs": 999309,
+        "durationMs": 5320
+      },
+      {
+        "text": "que es el 2050 el término indefinido pago mensual que puede ser uno de los",
+        "startMs": 1004629,
+        "durationMs": 3640
+      },
+      {
+        "text": "más utilizados lo que veamos en este en esta configuración se puede replicar en",
+        "startMs": 1008269,
+        "durationMs": 5161
+      },
+      {
+        "text": "cada uno de los perfiles que nosotros necesitemos vamos entonces a dar clic en",
+        "startMs": 1013430,
+        "durationMs": 3759
+      },
+      {
+        "text": "modificar para revisar la configur a ación que trae este perfil aquí entonces",
+        "startMs": 1017189,
+        "durationMs": 4241
+      },
+      {
+        "text": "él nos trae por defecto Qué tipo de contrato Qué tipo de contrato se va a",
+        "startMs": 1021430,
+        "durationMs": 4040
+      },
+      {
+        "text": "manejar Cuál es el periodo de pago la forma de pago el método de pago el tipo",
+        "startMs": 1025470,
+        "durationMs": 5000
+      },
+      {
+        "text": "de salario por defecto entonces eh es importante tener en cuenta que lo que yo",
+        "startMs": 1030470,
+        "durationMs": 5199
+      },
+      {
+        "text": "configuré en este perfil es lo que se va a cargar en cada uno de los contratos",
+        "startMs": 1035669,
+        "durationMs": 4280
+      },
+      {
+        "text": "que nosotros tengamos para nuestros empleados Entonces por ejemplo si el",
+        "startMs": 1039949,
+        "durationMs": 5000
+      },
+      {
+        "text": "tipo de contrato que yo manejo por defecto no es fijo sino variable lo",
+        "startMs": 1044949,
+        "durationMs": 5080
+      },
+      {
+        "text": "puedo hacer de esta forma No tengo que ir a cambiarle a cada uno de los",
+        "startMs": 1050029,
+        "durationMs": 3201
+      },
+      {
+        "text": "empleados que el contrato es fijo sino variable sino que desde el mismo perfil",
+        "startMs": 1053230,
+        "durationMs": 3760
+      },
+      {
+        "text": "yo puedo establecer que quiero que el tipo de salario por defecto sea tipo",
+        "startMs": 1056990,
+        "durationMs": 4600
+      },
+      {
+        "text": "variable entonces aquí es donde yo configuro esa todo lo que yo quiero por",
+        "startMs": 1061590,
+        "durationMs": 4439
+      },
+      {
+        "text": "defecto entonces aquí tengo otras opciones eh con respecto a si el perfil",
+        "startMs": 1066029,
+        "durationMs": 6201
+      },
+      {
+        "text": "está basado en el salario mínimo si yo necesito que tenga activa la opción de",
+        "startMs": 1072230,
+        "durationMs": 6600
+      },
+      {
+        "text": "de que el empleado es un extranjero que no cotiza pensión si es un colombiano en",
+        "startMs": 1078830,
+        "durationMs": 4280
+      },
+      {
+        "text": "el exterior o si el empleado realiza labores de obra eh Para más información",
+        "startMs": 1083110,
+        "durationMs": 5520
+      },
+      {
+        "text": "los invitamos a consultar cada uno de los vídeos específicos sobre estas",
+        "startMs": 1088630,
+        "durationMs": 4399
+      },
+      {
+        "text": "configuraciones ya que requieren de un de unas consideraciones",
+        "startMs": 1093029,
+        "durationMs": 4880
+      },
+      {
+        "text": "adicionales Perfecto entonces encontramos También en esta En esta",
+        "startMs": 1097909,
+        "durationMs": 4361
+      },
+      {
+        "text": "segunda pestaña los días laborales e intensidad horaria Aquí es importante",
+        "startMs": 1102270,
+        "durationMs": 4519
+      },
+      {
+        "text": "indicarle al sistema Cuáles son esos días que nosotros laboramos dentro de la",
+        "startMs": 1106789,
+        "durationMs": 3801
+      },
+      {
+        "text": "empresa si es de lunes a viernes o si es de lunes a sábado o si se trabaja una",
+        "startMs": 1110590,
+        "durationMs": 4319
+      },
+      {
+        "text": "jornada diferente si se trabaja en los días festivos y cuál es la intensidad",
+        "startMs": 1114909,
+        "durationMs": 5401
+      },
+      {
+        "text": "horaria que va a manejar este perfil yo puedo Entonces como podemos ver voy a",
+        "startMs": 1120310,
+        "durationMs": 3800
+      },
+      {
+        "text": "correr un poquito eso hacia esta parte Aquí también encontramos un perfil 2071",
+        "startMs": 1124110,
+        "durationMs": 4919
+      },
+      {
+        "text": "que es término indefinido pago mensual pero para 4 horas también el sistema",
+        "startMs": 1129029,
+        "durationMs": 5681
+      },
+      {
+        "text": "trae por defecto un contrato un perfil perdón con configurado con una",
+        "startMs": 1134710,
+        "durationMs": 4760
+      },
+      {
+        "text": "intensidad de 4 horas Si yo tengo empleados de medio tiempo en este caso",
+        "startMs": 1139470,
+        "durationMs": 3280
+      },
+      {
+        "text": "vamos a dejar esta intensidad horaria de 8 horas Si la empresa se acogió ya a la",
+        "startMs": 1142750,
+        "durationMs": 6120
+      },
+      {
+        "text": "normatividad vigente Entonces bastará con indicarle cuál es la intensidad",
+        "startMs": 1148870,
+        "durationMs": 4919
+      },
+      {
+        "text": "horaria que se maneja dentro de la empresa en este caso podríamos dejarlo",
+        "startMs": 1153789,
+        "durationMs": 4561
+      },
+      {
+        "text": "en 7.8 horas O si la empresa ya se acogió a toda a toda la reducción",
+        "startMs": 1158350,
+        "durationMs": 7679
+      },
+      {
+        "text": "laboral puedo indicar 7.3 horas Vamos a continuar en el concepto de en",
+        "startMs": 1166029,
+        "durationMs": 6441
+      },
+      {
+        "text": "los conceptos de pago de nómina y aquí esta configuración es muy importante",
+        "startMs": 1172470,
+        "durationMs": 4400
+      },
+      {
+        "text": "porque todos los conceptos que nosotros definamos en este en este apartado se",
+        "startMs": 1176870,
+        "durationMs": 3480
+      },
+      {
+        "text": "van a cargar en los contratos de los empleados cuando yo los esté creando",
+        "startMs": 1180350,
+        "durationMs": 4160
+      },
+      {
+        "text": "Entonces vamos a revisar que está en la parte de",
+        "startMs": 1184510,
+        "durationMs": 6800
+      },
+      {
+        "text": "bengoshi que se le cargue al empleado el salario básico y el auxilio de",
+        "startMs": 1191320,
+        "durationMs": 4829
+      },
+      {
+        "text": "transporte sin embargo si por ejemplo dentro del la empresa se maneja alguna",
+        "startMs": 1196149,
+        "durationMs": 5081
+      },
+      {
+        "text": "bonificación específica o si se maneja un auxilio extralegal o si se maneja",
+        "startMs": 1201230,
+        "durationMs": 6679
+      },
+      {
+        "text": "cualquier otro tipo de concepto que sea recurrente entonces se puede manejar",
+        "startMs": 1207909,
+        "durationMs": 4841
+      },
+      {
+        "text": "desde acá y yo lo puedo adicionar sin ningún",
+        "startMs": 1212750,
+        "durationMs": 4200
+      },
+      {
+        "text": "ningún inconveniente sin embargo en este",
+        "startMs": 1216950,
+        "durationMs": 2040
+      },
+      {
+        "text": "momento no vamos a adicionar ningún concepto de nómina en la parte de",
+        "startMs": 1218990,
+        "durationMs": 3679
+      },
+      {
+        "text": "devengos vamos a revisar la parte de prestaciones el sistema entonces me",
+        "startMs": 1222669,
+        "durationMs": 3921
+      },
+      {
+        "text": "muestra las santidades consignadas al fondo la prima legal y los intereses de",
+        "startMs": 1226590,
+        "durationMs": 3920
+      },
+      {
+        "text": "cesantías Por qué no sale aquí las vacaciones porque las vacaciones",
+        "startMs": 1230510,
+        "durationMs": 3720
+      },
+      {
+        "text": "recordemos que se indican a través de novedad de nómina cuando el empleado",
+        "startMs": 1234230,
+        "durationMs": 4080
+      },
+      {
+        "text": "efectivamente salga a disfrutar su periodo de vacaciones en la parte de",
+        "startMs": 1238310,
+        "durationMs": 5479
+      },
+      {
+        "text": "deducciones encontramos entonces el aporte a salud del empleado y el aporte",
+        "startMs": 1243789,
+        "durationMs": 4201
+      },
+      {
+        "text": "a pensión del empleado si el empleado tiene alguna",
+        "startMs": 1247990,
+        "durationMs": 4280
+      },
+      {
+        "text": "deducción específica adicional a esto lo recomendable es indicarlo",
+        "startMs": 1252270,
+        "durationMs": 5600
+      },
+      {
+        "text": "específicamente ente para el empleado que lo tenga por qué Porque como les",
+        "startMs": 1257870,
+        "durationMs": 4120
+      },
+      {
+        "text": "mencionaba anteriormente esta información Se va a cargar a cada uno de",
+        "startMs": 1261990,
+        "durationMs": 4320
+      },
+      {
+        "text": "los empleados cuando yo esté creando el contrato si solo un empleado tiene algún",
+        "startMs": 1266310,
+        "durationMs": 4400
+      },
+      {
+        "text": "concepto de deducción adicional es mejor indicá selo al empleado específico y no",
+        "startMs": 1270710,
+        "durationMs": 6079
+      },
+      {
+        "text": "a todos los empleados y tener que eliminar ese concepto a los demás",
+        "startMs": 1276789,
+        "durationMs": 3081
+      },
+      {
+        "text": "Entonces por ahora vamos a dejar estos conceptos de nómina eh Y ya más adelante",
+        "startMs": 1279870,
+        "durationMs": 6360
+      },
+      {
+        "text": "veremos también Cómo podemos asignar otros conceptos de",
+        "startMs": 1286230,
+        "durationMs": 3120
+      },
+      {
+        "text": "deducción en la parte de costos de empresa entonces encontramos todo este",
+        "startMs": 1289350,
+        "durationMs": 4319
+      },
+      {
+        "text": "listado sin embargo como vimos nosotros podemos exonerar a la empresa de los",
+        "startMs": 1293669,
+        "durationMs": 5480
+      },
+      {
+        "text": "aportes de salud sena e icf entonces no es necesario eliminar los renglones de",
+        "startMs": 1299149,
+        "durationMs": 6601
+      },
+      {
+        "text": "estos conceptos Ya que en la empresa indicamos si estamos exonerados o no",
+        "startMs": 1305750,
+        "durationMs": 5519
+      },
+      {
+        "text": "también si yo deseo y no quiero ver estos conceptos bastará con eliminar el",
+        "startMs": 1311269,
+        "durationMs": 4441
+      },
+      {
+        "text": "renglón y él ya tampoco pues lo va a cargar en el pago de nómina ya depende",
+        "startMs": 1315710,
+        "durationMs": 3800
+      },
+      {
+        "text": "pues como esa configuración que nosotros queramos en esta parte",
+        "startMs": 1319510,
+        "durationMs": 4920
+      },
+      {
+        "text": "eh Y en la parte de conceptos de liquidación son los conceptos que se",
+        "startMs": 1324430,
+        "durationMs": 4640
+      },
+      {
+        "text": "cargan por defecto en la operación de liquidación de contrato no vamos a",
+        "startMs": 1329070,
+        "durationMs": 3880
+      },
+      {
+        "text": "entrar en mucho detalle en esta capacitación acerca de la operación de",
+        "startMs": 1332950,
+        "durationMs": 3480
+      },
+      {
+        "text": "liquidación de contrato ya que hay un tutorial específico donde se explica el",
+        "startMs": 1336430,
+        "durationMs": 4640
+      },
+      {
+        "text": "uso y funcionamiento de esta operación sin embargo para que ustedes la conozcan",
+        "startMs": 1341070,
+        "durationMs": 5320
+      },
+      {
+        "text": "en este apartado yo yo le indico al sistema Cuáles son es esos conceptos que",
+        "startMs": 1346390,
+        "durationMs": 4639
+      },
+      {
+        "text": "se cargan en dicha operación eh Para que se liquide de manera automática también",
+        "startMs": 1351029,
+        "durationMs": 4921
+      },
+      {
+        "text": "encontramos devengos prestaciones deducciones y costos de empresa vamos",
+        "startMs": 1355950,
+        "durationMs": 5440
+      },
+      {
+        "text": "entonces a dar clic en aceptar y de esta manera finalizamos la configuración de",
+        "startMs": 1361390,
+        "durationMs": 4360
+      },
+      {
+        "text": "nuestro perfil como les mencionaba entonces anteriormente es importante que",
+        "startMs": 1365750,
+        "durationMs": 5120
+      },
+      {
+        "text": "nosotros hagamos el montaje primero de los conceptos de nómina y después",
+        "startMs": 1370870,
+        "durationMs": 5760
+      },
+      {
+        "text": "creemos o configuremos nuestros perfiles de contrato Ya que en",
+        "startMs": 1376630,
+        "durationMs": 4440
+      },
+      {
+        "text": "el perfil de contrato asignamos los conceptos que ya estén previamente",
+        "startMs": 1381070,
+        "durationMs": 4920
+      },
+      {
+        "text": "configurados Perfecto entonces una vez tengamos esta configuración ya podemos",
+        "startMs": 1385990,
+        "durationMs": 4640
+      },
+      {
+        "text": "seguir con el catálogo de entidades el catálogo de entidades lo",
+        "startMs": 1390630,
+        "durationMs": 5680
+      },
+      {
+        "text": "podremos encontrar en la pestaña de básico tercero tipos de entidad sin",
+        "startMs": 1396310,
+        "durationMs": 6719
+      },
+      {
+        "text": "embargo antes de pasar a ver este catálogo es es importante que tengamos",
+        "startMs": 1403029,
+        "durationMs": 4081
+      },
+      {
+        "text": "claro un concepto y es el catálogo de proveedores no es el es no es lo mismo",
+        "startMs": 1407110,
+        "durationMs": 6600
+      },
+      {
+        "text": "que el catálogo de tipos de entidad Ya que en el catálogo de tipos de entidad",
+        "startMs": 1413710,
+        "durationMs": 4160
+      },
+      {
+        "text": "yo voy a referenciar un proveedor que me que me preste el servicio de nómina",
+        "startMs": 1417870,
+        "durationMs": 6039
+      },
+      {
+        "text": "entonces antes de ver este catálogo vamos a revisar la configuración que",
+        "startMs": 1423909,
+        "durationMs": 3961
+      },
+      {
+        "text": "debe tener el proveedor de nómina el sistema también me entrega un gran",
+        "startMs": 1427870,
+        "durationMs": 4279
+      },
+      {
+        "text": "listado de proveedores de nómina si yo necesito adicionar alguno de ellos lo",
+        "startMs": 1432149,
+        "durationMs": 5601
+      },
+      {
+        "text": "puedo hacer dando clic en crear y asignando toda la información necesaria",
+        "startMs": 1437750,
+        "durationMs": 4600
+      },
+      {
+        "text": "vamos a revisar por ejemplo la configuración de eps surra voy a dar",
+        "startMs": 1442350,
+        "durationMs": 3760
+      },
+      {
+        "text": "modificar y vamos a abrir el catálogo completo para que veamos Cuáles son esas",
+        "startMs": 1446110,
+        "durationMs": 9799
+      },
+      {
+        "text": "configuraciones como podemos ver entonces está con toda su información",
+        "startMs": 1455919,
+        "durationMs": 4110
+      },
+      {
+        "text": "básica con su código nit tipo documento su razón social y Está marcado como",
+        "startMs": 1460029,
+        "durationMs": 5240
+      },
+      {
+        "text": "proveedor al estar marcado como proveedor voy a tener tener la",
+        "startMs": 1465269,
+        "durationMs": 3441
+      },
+      {
+        "text": "posibilidad de asignarle algunos datos específicos en la pestaña de datos de",
+        "startMs": 1468710,
+        "durationMs": 4760
+      },
+      {
+        "text": "proveedor cuando me dirijo a esta pestaña encuentro dos opciones para",
+        "startMs": 1473470,
+        "durationMs": 5919
+      },
+      {
+        "text": "seleccionar al tener activa esta opción se va a",
+        "startMs": 1479389,
+        "durationMs": 4481
+      },
+      {
+        "text": "habilitar esta pestaña que nos dice entidades de nómina entonces en esta",
+        "startMs": 1483870,
+        "durationMs": 5760
+      },
+      {
+        "text": "pestaña de entidades de nómina es donde yo le puedo decir al sistema Qué",
+        "startMs": 1489630,
+        "durationMs": 4800
+      },
+      {
+        "text": "servicio me presta este proveedor como podemos ver eps ura está que presta el",
+        "startMs": 1494430,
+        "durationMs": 5080
+      },
+      {
+        "text": "servicio de eps y tiene asociado su respectivo código para planilla pila",
+        "startMs": 1499510,
+        "durationMs": 5639
+      },
+      {
+        "text": "este código es de suma importancia para poder que cuando se genere el archivo",
+        "startMs": 1505149,
+        "durationMs": 5281
+      },
+      {
+        "text": "plano para subirlo al operador de pila se realice el respectivo pago a la",
+        "startMs": 1510430,
+        "durationMs": 5040
+      },
+      {
+        "text": "entidad adecuada ya que si tenemos un código incorrecto tendremos pues errada",
+        "startMs": 1515470,
+        "durationMs": 5000
+      },
+      {
+        "text": "la información cuando vayamos a subir la información a nuestro operador pila esta",
+        "startMs": 1520470,
+        "durationMs": 4559
+      },
+      {
+        "text": "información acerca de pila y cuáles son esas configuraciones iones También",
+        "startMs": 1525029,
+        "durationMs": 4081
+      },
+      {
+        "text": "tenemos un curso específico eh Para tener en cuenta todas las",
+        "startMs": 1529110,
+        "durationMs": 4679
+      },
+      {
+        "text": "consideraciones para su correcto funcionamiento si yo estoy creando un",
+        "startMs": 1533789,
+        "durationMs": 4240
+      },
+      {
+        "text": "nuevo proveedor es importante revisar el catálogo de códigos para planilla pila y",
+        "startMs": 1538029,
+        "durationMs": 5161
+      },
+      {
+        "text": "asignar el código correcto que se requiera vamos a cerrar entonces acá y",
+        "startMs": 1543190,
+        "durationMs": 6920
+      },
+      {
+        "text": "nos vamos a guardar los cambios aquí pues esta sería la configuración",
+        "startMs": 1550110,
+        "durationMs": 3840
+      },
+      {
+        "text": "principal que nosotros debemos tener en cuenta en nuestro proveedor ahora vamos",
+        "startMs": 1553950,
+        "durationMs": 4400
+      },
+      {
+        "text": "dirigirnos a la pestaña de tipos de entidad este catálogo me va a permitir a",
+        "startMs": 1558350,
+        "durationMs": 5760
+      },
+      {
+        "text": "mí asignar las entidades que yo voy a manejar por defecto para cada uno de los",
+        "startMs": 1564110,
+        "durationMs": 5400
+      },
+      {
+        "text": "tipos de servicio que yo tengo en en la parte de",
+        "startMs": 1569510,
+        "durationMs": 3200
+      },
+      {
+        "text": "nómina entonces revisemos por ejemplo el tema de la rl vamos a dar clic en",
+        "startMs": 1572710,
+        "durationMs": 5880
+      },
+      {
+        "text": "modificar y como podemos ver en este tipo de entidad yo tengo asignado el",
+        "startMs": 1578590,
+        "durationMs": 4920
+      },
+      {
+        "text": "proveedor es por eso que les mencionaba que primero debo tener creados los",
+        "startMs": 1583510,
+        "durationMs": 3480
+      },
+      {
+        "text": "proveedores para poder tener creados eh correctamente los tipos de entidad",
+        "startMs": 1586990,
+        "durationMs": 5080
+      },
+      {
+        "text": "Entonces para qué me va a servir a mí tener configurado este catálogo",
+        "startMs": 1592070,
+        "durationMs": 4440
+      },
+      {
+        "text": "correctamente porque el sistema cuando genere el movimiento en el pago de",
+        "startMs": 1596510,
+        "durationMs": 4240
+      },
+      {
+        "text": "nómina va a tener que contabilizar Cuál es la entidad a la cual se debe llevar",
+        "startMs": 1600750,
+        "durationMs": 5200
+      },
+      {
+        "text": "esa cuenta por pagar por concepto de arl de cena de icbf de las entidades de",
+        "startMs": 1605950,
+        "durationMs": 5640
+      },
+      {
+        "text": "pensión eh etcétera sin embargo Entonces vamos a revisar Cuáles son esas",
+        "startMs": 1611590,
+        "durationMs": 5199
+      },
+      {
+        "text": "configuraciones que yo encuentro aquí en la entidad aquí por ejemplo para el tema",
+        "startMs": 1616789,
+        "durationMs": 4081
+      },
+      {
+        "text": "de la rl yo puedo asignar eh la rl a la cual esté afiliada la empresa si no es",
+        "startMs": 1620870,
+        "durationMs": 6279
+      },
+      {
+        "text": "ura puedo seleccionar cualquier otra vamos a seleccionar por ejemplo Colmena",
+        "startMs": 1627149,
+        "durationMs": 5481
+      },
+      {
+        "text": "si esta es la entidad que se maneja por defecto para el tema de la rl otra",
+        "startMs": 1632630,
+        "durationMs": 4320
+      },
+      {
+        "text": "configuración Aquí muy especial que se refiere a si este dato se debe solicitar",
+        "startMs": 1636950,
+        "durationMs": 6360
+      },
+      {
+        "text": "en los datos de la empresa o en los datos del empleado Cuál es la diferencia",
+        "startMs": 1643310,
+        "durationMs": 5520
+      },
+      {
+        "text": "entre estas dos opciones cuando yo necesito",
+        "startMs": 1648830,
+        "durationMs": 3000
+      },
+      {
+        "text": "que el dato se solicite en el en la empresa es porque todos los empleados",
+        "startMs": 1651830,
+        "durationMs": 4719
+      },
+      {
+        "text": "están afiliados a la misma entidad para el servicio de nómina por ejemplo la rl",
+        "startMs": 1656549,
+        "durationMs": 5401
+      },
+      {
+        "text": "es común que todos los empleados manejen la misma por lo tanto no sería necesario",
+        "startMs": 1661950,
+        "durationMs": 3800
+      },
+      {
+        "text": "solicitar este dato en cada empleado sino que se solicita desde la empresa",
+        "startMs": 1665750,
+        "durationMs": 4960
+      },
+      {
+        "text": "Pero por ejemplo si revisamos la parte de vamos a guardar allí los cambios",
+        "startMs": 1670710,
+        "durationMs": 6559
+      },
+      {
+        "text": "revisemos por ejemplo la parte de eps en la parte de eps miremos que la entidad",
+        "startMs": 1677269,
+        "durationMs": 5120
+      },
+      {
+        "text": "se solicita en los datos del empleado porque no es común que todos los",
+        "startMs": 1682389,
+        "durationMs": 3760
+      },
+      {
+        "text": "empleados estén afiliados a la misma a la misma entidad Por lo tanto se",
+        "startMs": 1686149,
+        "durationMs": 4481
+      },
+      {
+        "text": "requiere este dato desde el empleado sin embargo como podemos ver yo yo sí puedo",
+        "startMs": 1690630,
+        "durationMs": 5200
+      },
+      {
+        "text": "asignar una entidad Por defecto Por ejemplo si yo tengo 100 empleados y 90",
+        "startMs": 1695830,
+        "durationMs": 4839
+      },
+      {
+        "text": "de Ellos están asignados en Nueva eps Entonces yo sí puedo dejar esta entidad",
+        "startMs": 1700669,
+        "durationMs": 5120
+      },
+      {
+        "text": "Por defecto pero para aquellos empleados que estén en una entidad diferente",
+        "startMs": 1705789,
+        "durationMs": 3841
+      },
+      {
+        "text": "entonces le asigno la entidad específica en el en el empleado ya vamos a ver de",
+        "startMs": 1709630,
+        "durationMs": 5519
+      },
+      {
+        "text": "qué manera se realiza esta parte para aclarar un poco Este ejemplo entonces",
+        "startMs": 1715149,
+        "durationMs": 5041
+      },
+      {
+        "text": "este es el catálogo de entidades tener en cuenta la diferencia con el catálogo",
+        "startMs": 1720190,
+        "durationMs": 4599
+      },
+      {
+        "text": "de proveedores ya que no son lo mismo Entonces vamos a revisar por ejemplo",
+        "startMs": 1724789,
+        "durationMs": 5201
+      },
+      {
+        "text": "dónde se indica la par la información para aquellas entidades que",
+        "startMs": 1729990,
+        "durationMs": 5880
+      },
+      {
+        "text": "se exige el dato desde la empresa Entonces nos vamos a devolver nuevamente",
+        "startMs": 1735870,
+        "durationMs": 4360
+      },
+      {
+        "text": "a la pestaña de básico empresa y Aquí vamos a mencionar la pestañita que",
+        "startMs": 1740230,
+        "durationMs": 5319
+      },
+      {
+        "text": "habíamos dejado pendiente en este caso vamos a dirigirnos a la pestaña de",
+        "startMs": 1745549,
+        "durationMs": 4201
+      },
+      {
+        "text": "nómina y aquí es donde vamos a encontrar la parte de entidades Entonces ahora",
+        "startMs": 1749750,
+        "durationMs": 4960
+      },
+      {
+        "text": "como ya tenemos en cuenta cuál es esa definición de este catálogo Entonces",
+        "startMs": 1754710,
+        "durationMs": 4959
+      },
+      {
+        "text": "Aquí es donde yo las voy a encontrar si yo voy a hacer un un traslado de entidad",
+        "startMs": 1764430,
+        "durationMs": 4680
+      },
+      {
+        "text": "lo que puedo hacer es indicar la nueva entidad e indicar su fecha efectiva de",
+        "startMs": 1769110,
+        "durationMs": 4159
+      },
+      {
+        "text": "traslado esto Pues en los casos que aplique sin embargo acá podemos ver que",
+        "startMs": 1773269,
+        "durationMs": 4161
+      },
+      {
+        "text": "el sistema ya me trae por defecto Cuáles son esas entidades a las cuales yo estoy",
+        "startMs": 1777430,
+        "durationMs": 3920
+      },
+      {
+        "text": "afiliado para cada uno de estos de estos servicios ahora como mencionábamos las",
+        "startMs": 1781350,
+        "durationMs": 6360
+      },
+      {
+        "text": "otras entidades como cesantías pensiones salud se debe indicar en cada uno de los",
+        "startMs": 1787710,
+        "durationMs": 5520
+      },
+      {
+        "text": "empleados Dónde encuentro yo esa información la voy a poder encontrar en",
+        "startMs": 1793230,
+        "durationMs": 4240
+      },
+      {
+        "text": "la parte parte del catálogo de empleados vamos a revisar por ejemplo la",
+        "startMs": 1797470,
+        "durationMs": 5240
+      },
+      {
+        "text": "configuración de Viviana Márquez vamos a abrir el catálogo",
+        "startMs": 1802710,
+        "durationMs": 4920
+      },
+      {
+        "text": "completo me voy a dirigir a la pestaña de datos de empleado y voy a encontrar",
+        "startMs": 1807630,
+        "durationMs": 5159
+      },
+      {
+        "text": "una pestaña específica de entidades entonces nuevamente recordemos yo tengo",
+        "startMs": 1812789,
+        "durationMs": 4841
+      },
+      {
+        "text": "unas entidades por defecto si el empleado tiene una entidad diferente o",
+        "startMs": 1817630,
+        "durationMs": 4399
+      },
+      {
+        "text": "si necesita hacer un traslado aquí es donde yo lo puedo indicar entonces tengo",
+        "startMs": 1822029,
+        "durationMs": 5921
+      },
+      {
+        "text": "tengo la información para caja de compensación fondo de cesantías entidad",
+        "startMs": 1827950,
+        "durationMs": 4000
+      },
+      {
+        "text": "para salud fondo de pensiones y aquí tengo entonces la entidad que yo definí",
+        "startMs": 1831950,
+        "durationMs": 4959
+      },
+      {
+        "text": "por defecto para mis empleados ahora si Viviana Márquez No hace parte de pssa o",
+        "startMs": 1759669,
+        "durationMs": 82201
+      },
+      {
+        "text": "no tiene esta entidad entonces lo que yo puedo hacer es simplemente hacer clic y",
+        "startMs": 1841870,
+        "durationMs": 4639
+      },
+      {
+        "text": "Llamar la entidad a la cual esté afiliada Entonces por ejemplo si está en",
+        "startMs": 1846509,
+        "durationMs": 5280
+      },
+      {
+        "text": "Sanitas lo que puedo hacer es indicar esta entidad aquí Él me pide una fecha",
+        "startMs": 1851789,
+        "durationMs": 5000
+      },
+      {
+        "text": "efectiva de traslado en este caso tendría que decirle a partir de qué",
+        "startMs": 1856789,
+        "durationMs": 3561
+      },
+      {
+        "text": "fecha está en esta entidad vamos a borrar esto ya que no vamos a hacer",
+        "startMs": 1860350,
+        "durationMs": 4080
+      },
+      {
+        "text": "ningún cambio entonces de esta manera es como nosotros podremos revisar el tema",
+        "startMs": 1864430,
+        "durationMs": 4880
+      },
+      {
+        "text": "de las entidades tanto para la empresa como para nuestros empleados ya que",
+        "startMs": 1869310,
+        "durationMs": 4640
+      },
+      {
+        "text": "recordemos que al generar el pago de nómina el sistema debe contabilizar esa",
+        "startMs": 1873950,
+        "durationMs": 4160
+      },
+      {
+        "text": "cuenta por pagar a la entidad que corresponde para no tener dificultades",
+        "startMs": 1878110,
+        "durationMs": 4279
+      },
+      {
+        "text": "al momento del pago Perfecto entonces",
+        "startMs": 1882389,
+        "durationMs": 5760
+      },
+      {
+        "text": "vamos a cerrar entonces estas pestañas y vamos entonces a empezar a hablar acerca",
+        "startMs": 1888149,
+        "durationMs": 5880
+      },
+      {
+        "text": "de las diferentes operaciones que yo puedo hacer en el módulo de",
+        "startMs": 1894029,
+        "durationMs": 4520
+      },
+      {
+        "text": "nómina para esto ya tengo que tener todas estas configuraciones realizadas",
+        "startMs": 1898549,
+        "durationMs": 4840
+      },
+      {
+        "text": "de manera correcta para garantizar que todo salga perfecto en el proceso de Mi",
+        "startMs": 1903389,
+        "durationMs": 5520
+      },
+      {
+        "text": "nómina vamos a empezar entonces a registrar los contratos para nuestros",
+        "startMs": 1908909,
+        "durationMs": 6281
+      },
+      {
+        "text": "empleados para esto vamos a hacer un ejemplo con completo desde cero para",
+        "startMs": 1915190,
+        "durationMs": 4160
+      },
+      {
+        "text": "revisar cada uno de esos aspectos que debemos considerar al momento de de",
+        "startMs": 1919350,
+        "durationMs": 5000
+      },
+      {
+        "text": "empezar a usar nuestro módulo para eso Entonces vamos a dirigirnos al catálogo",
+        "startMs": 1924350,
+        "durationMs": 3960
+      },
+      {
+        "text": "de empleados y vamos a empezar a registrar la información para este caso",
+        "startMs": 1928310,
+        "durationMs": 9680
+      },
+      {
+        "text": "empleado voy a indicar entonces que es de este tercero es de tipo",
+        "startMs": 1938000,
+        "durationMs": 5789
+      },
+      {
+        "text": "empleado voy a diligenciar su información voy a poner un unos datos",
+        "startMs": 1943789,
+        "durationMs": 13961
+      },
+      {
+        "text": "específicos vamos a indicar aquí su correo principal en este caso voy a",
+        "startMs": 1957760,
+        "durationMs": 4070
+      },
+      {
+        "text": "indicar mi correo electrónico para que veamos el ejemplo",
+        "startMs": 1961830,
+        "durationMs": 5480
+      },
+      {
+        "text": "completo Voy a indicar entonces su departamento vamos a poner caldas y",
+        "startMs": 1967310,
+        "durationMs": 14040
+      },
+      {
+        "text": "vamos a abrir el catálogo completo y vamos a revisar entonces en la parte de",
+        "startMs": 1981360,
+        "durationMs": 5269
+      },
+      {
+        "text": "datos del empleado entonces Aquí voy a encontrar",
+        "startMs": 1986629,
+        "durationMs": 4201
+      },
+      {
+        "text": "la ficha donde se va a ubicar toda la información del",
+        "startMs": 1990830,
+        "durationMs": 4880
+      },
+      {
+        "text": "contrato en un momento cuando realicemos la creación vamos a revisar De qué",
+        "startMs": 1995710,
+        "durationMs": 4640
+      },
+      {
+        "text": "manera queda Entonces esta información recordemos si el empleado Entonces está",
+        "startMs": 2000350,
+        "durationMs": 5039
+      },
+      {
+        "text": "en una entidad diferente a alguna de estas Simplemente yo puedo indicar su",
+        "startMs": 2005389,
+        "durationMs": 5081
+      },
+      {
+        "text": "entidad correspondiente en este caso vamos a dejar estas entidades por",
+        "startMs": 2010470,
+        "durationMs": 3880
+      },
+      {
+        "text": "defecto y yo puedo configurar la información de la cuenta bancaria si lo",
+        "startMs": 2014350,
+        "durationMs": 5039
+      },
+      {
+        "text": "necesito como información adicional o si tengo activo el manejo de programación",
+        "startMs": 2019389,
+        "durationMs": 4240
+      },
+      {
+        "text": "de pagos con el módulo de cartera Perfecto entonces ya vimos eh la",
+        "startMs": 2023629,
+        "durationMs": 5321
+      },
+      {
+        "text": "creación del tercero Entonces vamos a dar clic en aceptar para guardar los",
+        "startMs": 2028950,
+        "durationMs": 4920
+      },
+      {
+        "text": "cambios ya quedó creado entonces nuestro empleado y vamos a crearle su respectivo",
+        "startMs": 2033870,
+        "durationMs": 5320
+      },
+      {
+        "text": "contrato para esto nos vamos a dirigir a la pestaña básico y vamos a abrir el",
+        "startMs": 2039190,
+        "durationMs": 4319
+      },
+      {
+        "text": "manejador de operaciones a manera de ejemplo eh",
+        "startMs": 2043509,
+        "durationMs": 4721
+      },
+      {
+        "text": "digamos que este empleado empezó sus labores el primero de marzo entonces me",
+        "startMs": 2048230,
+        "durationMs": 5040
+      },
+      {
+        "text": "voy a dirigir a esta fecha en el manejador de operaciones voy a dar clic",
+        "startMs": 2053270,
+        "durationMs": 3879
+      },
+      {
+        "text": "en más operaciones nómina creación de contrato",
+        "startMs": 2057149,
+        "durationMs": 11000
+      },
+      {
+        "text": "aquí entonces se abre el asistente donde vamos a encontrar una operación que",
+        "startMs": 2068159,
+        "durationMs": 4391
+      },
+      {
+        "text": "tiene su respectivo documento de soporte donde yo puedo indicar un detalle me va",
+        "startMs": 2072550,
+        "durationMs": 5760
+      },
+      {
+        "text": "a crear un consecutivo de manera automática y la fecha de soporte en la",
+        "startMs": 2078310,
+        "durationMs": 4279
+      },
+      {
+        "text": "indicar ningún detalle específico vamos a llamar el empleado al cual le vamos a",
+        "startMs": 2086990,
+        "durationMs": 3800
+      },
+      {
+        "text": "crear el empleado en este caso es Lucas Duque vamos a seleccionarlo el contrato",
+        "startMs": 2090790,
+        "durationMs": 5760
+      },
+      {
+        "text": "Entonces el consecutivo va a salir de manera",
+        "startMs": 2096550,
+        "durationMs": 3120
+      },
+      {
+        "text": "manera automática vamos a llamar el perfil de",
+        "startMs": 2099670,
+        "durationMs": 2520
+      },
+      {
+        "text": "contrato que nosotros habíamos configurado en este caso es el 2050",
+        "startMs": 2102190,
+        "durationMs": 4200
+      },
+      {
+        "text": "vamos a dar clic en la Lupita o yo podría digitar como me parezca más",
+        "startMs": 2106390,
+        "durationMs": 5040
+      },
+      {
+        "text": "cómodo vamos a dar clic acá y en este caso el sistema ya me",
+        "startMs": 2111430,
+        "durationMs": 4880
+      },
+      {
+        "text": "arrojó toda la información que se tiene por defecto en este perfil ya vamos a",
+        "startMs": 2116310,
+        "durationMs": 5400
+      },
+      {
+        "text": "seguir a la siguiente pestaña para que lo corroboramos vamos a continuar",
+        "startMs": 2121710,
+        "durationMs": 3840
+      },
+      {
+        "text": "diligenciando Entonces el formato Aquí tengo la fecha de inicio del contrato",
+        "startMs": 2125550,
+        "durationMs": 3960
+      },
+      {
+        "text": "como es un contrato a término indefinido Entonces no aplica indicarle una fecha",
+        "startMs": 2129510,
+        "durationMs": 3920
+      },
+      {
+        "text": "de finalización voy a indicarle el centro de costos al cual pertenece",
+        "startMs": 2133430,
+        "durationMs": 5000
+      },
+      {
+        "text": "recordemos que esto es de Gran importancia ya que dependiendo de la",
+        "startMs": 2138430,
+        "durationMs": 3760
+      },
+      {
+        "text": "clase del centro de costos el sistema va a realizar una contabilización",
+        "startMs": 2142190,
+        "durationMs": 3639
+      },
+      {
+        "text": "específica si yo tengo correctamente configuradas las clases entonces aquí",
+        "startMs": 2145829,
+        "durationMs": 4601
+      },
+      {
+        "text": "vamos a dejarlo en sede principal aquí entonces el",
+        "startMs": 2150430,
+        "durationMs": 4960
+      },
+      {
+        "text": "sistema me va indicar mi centro de",
+        "startMs": 2155390,
+        "durationMs": 6360
+      },
+      {
+        "text": "trabajo va voy a poder indicar cuál es su jefe inmediato puedo decir que su",
+        "startMs": 2161760,
+        "durationMs": 5030
+      },
+      {
+        "text": "jefe inmediato es Marcelo campo que el cargo de este empleado es",
+        "startMs": 2166790,
+        "durationMs": 9240
+      },
+      {
+        "text": "operario el sistema me pregunta cuál es la dirección si yo quiero dejar la",
+        "startMs": 2176040,
+        "durationMs": 4950
+      },
+      {
+        "text": "dirección de la empresa o si quiero dejar la dirección del empleado o la",
+        "startMs": 2180990,
+        "durationMs": 4119
+      },
+      {
+        "text": "sede del centro de costos o una dirección específica",
+        "startMs": 2185109,
+        "durationMs": 3200
+      },
+      {
+        "text": "no vamos a cambiarlo vamos a dar clic en siguiente y aquí entonces el sistema ya",
+        "startMs": 2082589,
+        "durationMs": 110720
+      },
+      {
+        "text": "me empieza a cargar la información que yo traje desde el perfil recordemos que",
+        "startMs": 2193309,
+        "durationMs": 3520
+      },
+      {
+        "text": "yo había dejado por defecto que el tipo de salario era variable Entonces como",
+        "startMs": 2196829,
+        "durationMs": 4201
+      },
+      {
+        "text": "podemos ver aquí él ya me lo sugirió para este empleado si yo necesito",
+        "startMs": 2201030,
+        "durationMs": 4799
+      },
+      {
+        "text": "cambiarlo a fijo o a integral bastará Pues con cambiarle allí el dato vamos a",
+        "startMs": 2205829,
+        "durationMs": 5921
+      },
+      {
+        "text": "dejar Entonces el tipo de trabajador que será",
+        "startMs": 2211750,
+        "durationMs": 2880
+      },
+      {
+        "text": "será dependiente y que no aplica esta parte",
+        "startMs": 2214630,
+        "durationMs": 3000
+      },
+      {
+        "text": "de subtipo de trabajador aquí yo puedo indicar los atributos que si no aplica",
+        "startMs": 2217630,
+        "durationMs": 5400
+      },
+      {
+        "text": "auxilio de transporte este botón se refiere cuando el empleado vive en las",
+        "startMs": 2223030,
+        "durationMs": 5720
+      },
+      {
+        "text": "instalaciones de la empresa cuando vive cerca de la empresa o cuando la empresa",
+        "startMs": 2228750,
+        "durationMs": 4000
+      },
+      {
+        "text": "suministra el transporte cuando el extranjero no cotiza pensión cuando el",
+        "startMs": 2232750,
+        "durationMs": 4599
+      },
+      {
+        "text": "empleado está en el exterior o si realiza labores de obra recordemos que",
+        "startMs": 2237349,
+        "durationMs": 5760
+      },
+      {
+        "text": "cada uno de estos Campos cuenta con una información adicional si yo necesito",
+        "startMs": 2243109,
+        "durationMs": 4960
+      },
+      {
+        "text": "algún ejemplo o ampliar este dato aquí puedo encontrar un poco más acerca de",
+        "startMs": 2248069,
+        "durationMs": 4121
+      },
+      {
+        "text": "esto aquí yo puedo indicar algunos datos adicionales para el contrato en este",
+        "startMs": 2252190,
+        "durationMs": 4960
+      },
+      {
+        "text": "caso no vamos a indicarle ni datos ni valores vamos a dar clic en siguiente y",
+        "startMs": 2257150,
+        "durationMs": 5919
+      },
+      {
+        "text": "aquí voy a poder encontrar la parte de conceptos de nómina Entonces como",
+        "startMs": 2263069,
+        "durationMs": 5401
+      },
+      {
+        "text": "pudimos ver me está cargando toda la información que ya esta registrada desde",
+        "startMs": 2268470,
+        "durationMs": 3639
+      },
+      {
+        "text": "el perfil Entonces tenemos la parte de bengoshi y costos de empresa tal cual",
+        "startMs": 2272109,
+        "durationMs": 7121
+      },
+      {
+        "text": "como lo habíamos asignado en el perfil Entonces como podemos ver tener",
+        "startMs": 2279230,
+        "durationMs": 3680
+      },
+      {
+        "text": "previamente configurado el perfil del contrato me ahorra todo el montaje de",
+        "startMs": 2282910,
+        "durationMs": 4960
+      },
+      {
+        "text": "mis empleados entonces para este caso vamos a asignar el salario para el",
+        "startMs": 2287870,
+        "durationMs": 5600
+      },
+      {
+        "text": "empleado a manera de ejemplo este empleado se gana el salario mínimo por",
+        "startMs": 2293470,
+        "durationMs": 8080
+      },
+      {
+        "text": "lo tanto yo puedo dirigirme a la parte de asignar valor e indicarle el salario",
+        "startMs": 2301550,
+        "durationMs": 5279
+      },
+      {
+        "text": "mínimo para este año y El auxilio de transporte como está formulado el",
+        "startMs": 2306829,
+        "durationMs": 3881
+      },
+      {
+        "text": "sistema sabrá Cuál es su valor ahora si yo necesito adicionarle una deducción",
+        "startMs": 2310710,
+        "durationMs": 5760
+      },
+      {
+        "text": "específica a este empleado puedo dar doble clic y Llamar el concepto entonces",
+        "startMs": 2316470,
+        "durationMs": 6320
+      },
+      {
+        "text": "a manera de ejemplo si el empleado por ejemplo tiene un descuento por seguro",
+        "startMs": 2322790,
+        "durationMs": 6000
+      },
+      {
+        "text": "funerario puedo asignarle el valor acá o si tiene cualquier otro tipo de",
+        "startMs": 2328790,
+        "durationMs": 5039
+      },
+      {
+        "text": "deducción que nosotros tengamos configurados si por ejemplo el descuento",
+        "startMs": 2333829,
+        "durationMs": 3280
+      },
+      {
+        "text": "fue funerario es de 50,000 lo puedo asignar y de esta manera el sistema me",
+        "startMs": 2337109,
+        "durationMs": 6361
+      },
+      {
+        "text": "va a restar el valor a pagar al empleado deduciendo este",
+        "startMs": 2343470,
+        "durationMs": 6359
+      },
+      {
+        "text": "valor y de esa misma manera yo puedo adicionar devengos prestaciones y aplica",
+        "startMs": 2349829,
+        "durationMs": 5841
+      },
+      {
+        "text": "deducciones y costos de empresa perfecto en este caso vamos a",
+        "startMs": 2355670,
+        "durationMs": 4639
+      },
+      {
+        "text": "dar clic en siguiente y aquí puedo indicar Cuáles son esas cláusulas y",
+        "startMs": 2360309,
+        "durationMs": 3681
+      },
+      {
+        "text": "observaciones generales para para el contrato y también puedo cargar algunos",
+        "startMs": 2363990,
+        "durationMs": 5000
+      },
+      {
+        "text": "archivos si lo necesito si yo también necesito indicar",
+        "startMs": 2368990,
+        "durationMs": 4440
+      },
+      {
+        "text": "información acerca del beneficiario si el empleado tiene algún beneficiario",
+        "startMs": 2373430,
+        "durationMs": 3679
+      },
+      {
+        "text": "adicional lo puedo hacer en la parte de opciones habilitar paso de beneficiarios",
+        "startMs": 2377109,
+        "durationMs": 4921
+      },
+      {
+        "text": "adicionales en este caso no vamos a hablar acerca de este apartado y lo",
+        "startMs": 2382030,
+        "durationMs": 4039
+      },
+      {
+        "text": "vamos a dejar de esta manera vamos a dar clic en siguiente y",
+        "startMs": 2386069,
+        "durationMs": 4520
+      },
+      {
+        "text": "vamos a finalizar aquí Entonces ya nos quedó",
+        "startMs": 2390589,
+        "durationMs": 3520
+      },
+      {
+        "text": "creado nuestro contrato para el empleado Entonces qué qué podemos empezar a hacer",
+        "startMs": 2394109,
+        "durationMs": 4240
+      },
+      {
+        "text": "podemos empezar a registrar las novedades de nómina que hayan surgido en",
+        "startMs": 2398349,
+        "durationMs": 3801
+      },
+      {
+        "text": "este periodo antes de realizar el respectivo pago de nómina para tener la",
+        "startMs": 2402150,
+        "durationMs": 3720
+      },
+      {
+        "text": "información completa Entonces por ejemplo si el empleado realizó horas",
+        "startMs": 2405870,
+        "durationMs": 3760
+      },
+      {
+        "text": "extras si tiene algún recargo si tuvo alguna licencia o algún otro tipo de",
+        "startMs": 2409630,
+        "durationMs": 4719
+      },
+      {
+        "text": "novedad la podemos registrar a partir de la operación de Novedades nos podemos",
+        "startMs": 2414349,
+        "durationMs": 4720
+      },
+      {
+        "text": "dirigir a más operaciones nmina y vamos a abrir la operación de novedades de",
+        "startMs": 2419069,
+        "durationMs": 8481
+      },
+      {
+        "text": "nómina en este caso Entonces vamos a llamar al",
+        "startMs": 2427550,
+        "durationMs": 4759
+      },
+      {
+        "text": "Duque me carga la información del contrato y yo puedo entonces empezar a",
+        "startMs": 2432319,
+        "durationMs": 6111
+      },
+      {
+        "text": "llamar los conceptos de nómina entonces a manera de ejemplo voy a llamar el",
+        "startMs": 2438430,
+        "durationMs": 5639
+      },
+      {
+        "text": "concepto de hora extra diurna y voy a ponerle 5 horas extras el sistema",
+        "startMs": 2444069,
+        "durationMs": 5321
+      },
+      {
+        "text": "automáticamente calculará el valor en el pago de nómina la fecha liquidar",
+        "startMs": 2449390,
+        "durationMs": 6240
+      },
+      {
+        "text": "Entonces como el empleado se le paga de manera mensual la fecha liquidar será al",
+        "startMs": 2455630,
+        "durationMs": 5240
+      },
+      {
+        "text": "31 de de marzo y esta y esta operación yo la puedo dejar registrada al primero",
+        "startMs": 2460870,
+        "durationMs": 6320
+      },
+      {
+        "text": "del mes pero se va a liquidar es efectivamente en esta fecha con el pago",
+        "startMs": 2467190,
+        "durationMs": 3960
+      },
+      {
+        "text": "de nómina si yo por ejemplo pago de manera quincenal puedo escoger si quiero",
+        "startMs": 2471150,
+        "durationMs": 5880
+      },
+      {
+        "text": "pagarle en la la primera quincena o en la segunda quincena entonces para esto",
+        "startMs": 2477030,
+        "durationMs": 5000
+      },
+      {
+        "text": "nos sirve este este cajoncito de fecha a liquidar si yo amp un poco este esta",
+        "startMs": 2482030,
+        "durationMs": 6640
+      },
+      {
+        "text": "operación podré encontrar en qué fecha se realizó esta hora extra si por",
+        "startMs": 2488670,
+        "durationMs": 4639
+      },
+      {
+        "text": "ejemplo yo llamo Un concepto de vacaciones ya el sistema me pide el",
+        "startMs": 2493309,
+        "durationMs": 4121
+      },
+      {
+        "text": "rango de fechas en las cuales se se disfrutó el periodo de vacaciones o de",
+        "startMs": 2497430,
+        "durationMs": 4360
+      },
+      {
+        "text": "licencia Eh ya depende pues como la novedad que nosotros llamemos acá vamos",
+        "startMs": 2501790,
+        "durationMs": 5200
+      },
+      {
+        "text": "a indicar alguna observación podemos decir horas",
+        "startMs": 2506990,
+        "durationMs": 6119
+      },
+      {
+        "text": "extras realizadas el 20 de marzo del 24 y si",
+        "startMs": 2513109,
+        "durationMs": 5601
+      },
+      {
+        "text": "deseamos indicar la ahora también lo podemos hacer vamos a dejar la",
+        "startMs": 2518710,
+        "durationMs": 2760
+      },
+      {
+        "text": "observación hasta acá y vamos a guardarla ya tenemos registrada entonces",
+        "startMs": 2521470,
+        "durationMs": 5160
+      },
+      {
+        "text": "nuestra observación Entonces ahora vamos a realizar nuestro pago de nómina para",
+        "startMs": 2526630,
+        "durationMs": 5400
+      },
+      {
+        "text": "esto nos vamos a dirigir a más operaciones nómina y voy a realizar el",
+        "startMs": 2532030,
+        "durationMs": 4720
+      },
+      {
+        "text": "pago individual de nómina si yo cuento con el licenciamiento de nómina Plus y",
+        "startMs": 2536750,
+        "durationMs": 4520
+      },
+      {
+        "text": "ya tengo registrados todas las novedades y ya tengo creados todos los empleados",
+        "startMs": 2541270,
+        "durationMs": 6160
+      },
+      {
+        "text": "con su respectivo contrato podré hacer mis pagos en planilla y después hacer el",
+        "startMs": 2547430,
+        "durationMs": 5159
+      },
+      {
+        "text": "respectivo reporte de nómina electrónica en planilla para este ejemplo vamos a",
+        "startMs": 2552589,
+        "durationMs": 4401
+      },
+      {
+        "text": "realizar el pago de nómina individual vamos a abrir la",
+        "startMs": 2556990,
+        "durationMs": 8079
+      },
+      {
+        "text": "operación Perfecto entonces aquí vamos a encontrar la operación de pago",
+        "startMs": 2565079,
+        "durationMs": 4111
+      },
+      {
+        "text": "individual de nómina con su respectivo tipo de documento el consecutivo que se",
+        "startMs": 2569190,
+        "durationMs": 4639
+      },
+      {
+        "text": "va a generar de manera automática la fecha de soporte en la cual se va a",
+        "startMs": 2573829,
+        "durationMs": 3881
+      },
+      {
+        "text": "realizar la operación el el campo respectivo para llamar al empleado con",
+        "startMs": 2577710,
+        "durationMs": 5639
+      },
+      {
+        "text": "su contrato las fechas del periodo a liquidar y vamos a encontrar entonces",
+        "startMs": 2583349,
+        "durationMs": 6000
+      },
+      {
+        "text": "tres listados un primer listado será eh para la parte de debos en el la segunda",
+        "startMs": 2589349,
+        "durationMs": 6720
+      },
+      {
+        "text": "parte podremos encontrar la parte de deducciones es decir todo lo que le",
+        "startMs": 2596069,
+        "durationMs": 3841
+      },
+      {
+        "text": "reste al total a pagar para para la nómina del periodo y vamos a encontrar",
+        "startMs": 2599910,
+        "durationMs": 6520
+      },
+      {
+        "text": "un tercer ser listado que será la lista de provisiones y aportes y su respectiva",
+        "startMs": 2606430,
+        "durationMs": 5200
+      },
+      {
+        "text": "forma de pago vamos a llamar entonces al empleado",
+        "startMs": 2611630,
+        "durationMs": 4800
+      },
+      {
+        "text": "Lucas Duque vamos a cargar todos los conceptos",
+        "startMs": 2616430,
+        "durationMs": 2480
+      },
+      {
+        "text": "de nómina él me pregunta si deseo cargar devengos prestaciones y novedades yo",
+        "startMs": 2618910,
+        "durationMs": 4360
+      },
+      {
+        "text": "puedo seleccionar si quiero solamente alguno de estos específicamente en este",
+        "startMs": 2623270,
+        "durationMs": 4240
+      },
+      {
+        "text": "caso no vamos a Deshabilitar ninguno y vamos a dar clic en",
+        "startMs": 2627510,
+        "durationMs": 6079
+      },
+      {
+        "text": "aceptar Perfecto entonces aquí ya tenemos cargados nuestro listado de",
+        "startMs": 2633599,
+        "durationMs": 4111
+      },
+      {
+        "text": "devengos podemos ver entonces que cargó el salario básico que le asignamos en el",
+        "startMs": 2637710,
+        "durationMs": 4240
+      },
+      {
+        "text": "contrato con su respectivo auxilio de transporte y calculó las horas extras",
+        "startMs": 2641950,
+        "durationMs": 4840
+      },
+      {
+        "text": "para este empleado y me cargó la observación que habíamos diligenciado en",
+        "startMs": 2646790,
+        "durationMs": 3880
+      },
+      {
+        "text": "la novedad Aquí vemos que la fecha del periodo de liquidar es del primero de",
+        "startMs": 2650670,
+        "durationMs": 4200
+      },
+      {
+        "text": "marzo al 31 de marzo según la periodicidad que tengo en el contrato y",
+        "startMs": 2654870,
+        "durationMs": 4800
+      },
+      {
+        "text": "entonces vamos a revisar la parte de deducciones en la parte de deducciones",
+        "startMs": 2659670,
+        "durationMs": 4360
+      },
+      {
+        "text": "como podemos ver me Calcula los respectivos aportes a seguridad social y",
+        "startMs": 2664030,
+        "durationMs": 4200
+      },
+      {
+        "text": "el descuento de seguro funerario que fue el que yo le asé desde el contrato",
+        "startMs": 2668230,
+        "durationMs": 3800
+      },
+      {
+        "text": "recordemos que si yo necesito adicionar de bengoshi",
+        "startMs": 2672030,
+        "durationMs": 25120
+      },
+      {
+        "text": "llamar para hacer algún abono eh en la nómina si lo necesito vamos a dar clic",
+        "startMs": 2697160,
+        "durationMs": 5510
+      },
+      {
+        "text": "en siguiente y aquí encontramos entonces toda la parte de provisiones y aportes a",
+        "startMs": 2702670,
+        "durationMs": 4760
+      },
+      {
+        "text": "cargo de la empresa Entonces tenemos lo que es la parte de seguridad social y",
+        "startMs": 2707430,
+        "durationMs": 3600
+      },
+      {
+        "text": "prestación y provisión de prestaciones y yo puedo indicarle al sistema Cómo pagué",
+        "startMs": 2711030,
+        "durationMs": 5400
+      },
+      {
+        "text": "Mi nómina si la pagué a través de la caja del banco o si quedó pendiente en",
+        "startMs": 2716430,
+        "durationMs": 4000
+      },
+      {
+        "text": "una cuenta por pagar en este caso vamos a pagarlo a través del banco vamos a",
+        "startMs": 2720430,
+        "durationMs": 9200
+      },
+      {
+        "startMs": 2729640,
+        "durationMs": 4669,
+        "text": "indicando el tipo de movimiento que"
+      },
+      {
+        "startMs": 2734319,
+        "durationMs": 4911,
+        "text": "corresponda y vamos a"
+      },
+      {
+        "text": "finalizar perfecto como podemos ver en esta parte el sistema me muestra algunas",
+        "startMs": 2739240,
+        "durationMs": 5829
+      },
+      {
+        "text": "acciones pendientes de ejecutar esto se se refiere a la plataforma de",
+        "startMs": 2745069,
+        "durationMs": 6921
+      },
+      {
+        "text": "documentos Entonces como les mencionaba al inicio de la capacitación nosotros",
+        "startMs": 2751990,
+        "durationMs": 5720
+      },
+      {
+        "text": "sugerimos tener activo el uso de plataforma de",
+        "startMs": 2757710,
+        "durationMs": 2639
+      },
+      {
+        "text": "documentos también entonces debo tener correctamente configurado mi documento",
+        "startMs": 2760349,
+        "durationMs": 4161
+      },
+      {
+        "text": "de soporte para poder indicarle al sistema que este tipo de documento que",
+        "startMs": 2764510,
+        "durationMs": 5240
+      },
+      {
+        "text": "en este caso es el 750 pago de nómina se quiere publicar en plataforma de",
+        "startMs": 2769750,
+        "durationMs": 4680
+      },
+      {
+        "text": "documentos y enviarle el comprobante a nuestro empleado cómo lo hacemos lo",
+        "startMs": 2774430,
+        "durationMs": 4000
+      },
+      {
+        "text": "podemos revisar a través de la pestaña básico documentos de",
+        "startMs": 2778430,
+        "durationMs": 4679
+      },
+      {
+        "text": "soporte vamos a buscar el 750 que es pago de nómina vamos a dar clic en",
+        "startMs": 2783109,
+        "durationMs": 5321
+      },
+      {
+        "text": "modificar y vamos a revisar la configuración que debe tener este tipo",
+        "startMs": 2788430,
+        "durationMs": 3679
+      },
+      {
+        "text": "de documento de soporte aquí entonces nos vamos a dirigir a la parte de",
+        "startMs": 2792109,
+        "durationMs": 3641
+      },
+      {
+        "text": "acciones y como podemos ver tiene activo la publicación en plataforma de",
+        "startMs": 2795750,
+        "durationMs": 5000
+      },
+      {
+        "text": "documentos y el envío de email automático y que la aprobación del",
+        "startMs": 2800750,
+        "durationMs": 4160
+      },
+      {
+        "text": "documento se se debe realizar manualmente nosotros podemos decirle que",
+        "startMs": 2804910,
+        "durationMs": 4439
+      },
+      {
+        "text": "se apruebe de manera automática al finalizar la operación o que se solicite",
+        "startMs": 2809349,
+        "durationMs": 4681
+      },
+      {
+        "text": "aprobación al finalizar en este caso yo lo tengo por defecto que se aprueba",
+        "startMs": 2814030,
+        "durationMs": 4200
+      },
+      {
+        "text": "manualmente ya les voy a mostrar De qué manera lo hacemos en la parte de",
+        "startMs": 2818230,
+        "durationMs": 4240
+      },
+      {
+        "text": "publicación del documento debo tener entonces configurado correctamente Cuál",
+        "startMs": 2822470,
+        "durationMs": 4280
+      },
+      {
+        "text": "es el tipo de documento que yo voy a publicar en la plataforma Y a partir de",
+        "startMs": 2826750,
+        "durationMs": 3640
+      },
+      {
+        "text": "qué fecha se va a habilitar la publicación de este documento para más",
+        "startMs": 2830390,
+        "durationMs": 4520
+      },
+      {
+        "text": "información acerca del uso y configuración de plataforma de",
+        "startMs": 2834910,
+        "durationMs": 3040
+      },
+      {
+        "text": "documentos los invitamos a ver el tutorial acerca de este tema voy",
+        "startMs": 2837950,
+        "durationMs": 5520
+      },
+      {
+        "text": "entonces a cerrar acá no voy a guardar los cambios voy a volverme al manejador",
+        "startMs": 2843470,
+        "durationMs": 4240
+      },
+      {
+        "text": "de operaciones y voy a ejecutar las acciones cómo lo puedo hacer lo puedo",
+        "startMs": 2847710,
+        "durationMs": 3320
+      },
+      {
+        "text": "dar con clic derecho aprobar documento o lo puedo hacer en la parte superior",
+        "startMs": 2851030,
+        "durationMs": 4799
+      },
+      {
+        "text": "dando clic en aprobar documento aquí entonces el sistema enviará el",
+        "startMs": 2855829,
+        "durationMs": 5081
+      },
+      {
+        "text": "documento para que el empleado lo pueda ver en su correo",
+        "startMs": 2860910,
+        "durationMs": 10960
+      },
+      {
+        "text": "electrónico como podemos ver me dice comprobante de pago de nomina ha sido",
+        "startMs": 2871880,
+        "durationMs": 4110
+      },
+      {
+        "text": "subido y publicado en plataforma de documentos si yo deseo dar clic en para",
+        "startMs": 2875990,
+        "durationMs": 4559
+      },
+      {
+        "text": "ver el documento lo puedo hacer Vamos a esperar un momento que me llegue el",
+        "startMs": 2880549,
+        "durationMs": 4280
+      },
+      {
+        "text": "documento a mi correo para que lo veamos cómo se ve publicado en la",
+        "startMs": 2884829,
+        "durationMs": 6240
+      },
+      {
+        "text": "plataforma Perfecto entonces ahora me voy a dirigir a mi correo para revisar",
+        "startMs": 2891079,
+        "durationMs": 4230
+      },
+      {
+        "text": "la información que me llegó aquí podemos ver que ya tiene sus acciones ejecutadas",
+        "startMs": 2895309,
+        "durationMs": 3760
+      },
+      {
+        "text": "correctamente y voy a abrir Entonces el correo aquí Entonces veo que llegó el",
+        "startMs": 2899069,
+        "durationMs": 5361
+      },
+      {
+        "text": "respectivo correo voy a dar clic en ver documento al dar clic en ver documento",
+        "startMs": 2904430,
+        "durationMs": 10600
+      },
+      {
+        "text": "plataforma y aquí entonces podré encontrar con el tipo de formato",
+        "startMs": 2915040,
+        "durationMs": 5309
+      },
+      {
+        "text": "html el respectivo comprobante de pago yo eh Como empleado puedo dar clic en",
+        "startMs": 2920349,
+        "durationMs": 5401
+      },
+      {
+        "text": "aprobar rechazar si quiero que me llamen si quiero hacer o enviar un mensaje",
+        "startMs": 2925750,
+        "durationMs": 5559
+      },
+      {
+        "text": "podré encontrar toda la información que necesite acerca de mi comprobante y",
+        "startMs": 2931309,
+        "durationMs": 4240
+      },
+      {
+        "text": "también lo puedo descargar si lo necesito Entonces como podemos ver",
+        "startMs": 2935549,
+        "durationMs": 3401
+      },
+      {
+        "text": "podemos hacer uso de la plataforma de documentos que es una herramienta",
+        "startMs": 2938950,
+        "durationMs": 3560
+      },
+      {
+        "text": "bastante útil y bastante llamativa para nuestros",
+        "startMs": 2942510,
+        "durationMs": 5480
+      },
+      {
+        "text": "empleados Perfecto entonces ya tenemos creado nuestro contrato tenemos creadas",
+        "startMs": 2948000,
+        "durationMs": 4829
+      },
+      {
+        "text": "las novedades del periodo para nuestro empleado o nuestros empleados tenemos el",
+        "startMs": 2952829,
+        "durationMs": 4681
+      },
+      {
+        "text": "respectivo pago de nómina ahora veamos el movimiento contable generado por esta",
+        "startMs": 2957510,
+        "durationMs": 5160
+      },
+      {
+        "text": "operación antes de pasar a hacer el reporte electrónico voy a revisar",
+        "startMs": 2962670,
+        "durationMs": 4040
+      },
+      {
+        "text": "entonces a partir del Inspector lo puedo revisar acá o si quiero lo puedo ver un",
+        "startMs": 2966710,
+        "durationMs": 4639
+      },
+      {
+        "text": "poco más grande dando clic en la lupa de del explorador de contabilidad y aquí",
+        "startMs": 2971349,
+        "durationMs": 4521
+      },
+      {
+        "text": "este explorador qué me va a mostrar entonces me va a mostrar cada una de las",
+        "startMs": 2975870,
+        "durationMs": 3239
+      },
+      {
+        "text": "cuentas que se movieron en esta operación su nombre la cuenta el tercero",
+        "startMs": 2979109,
+        "durationMs": 4200
+      },
+      {
+        "text": "en transacción que en este caso es el empleado y el tercero eh en cartera que",
+        "startMs": 2983309,
+        "durationMs": 5721
+      },
+      {
+        "text": "en este caso es el tercero al cual se le generó la cuenta por pagar para las",
+        "startMs": 2989030,
+        "durationMs": 4200
+      },
+      {
+        "text": "cuentas del pasivo esta columna de tercero cuenta por cobrar y cuenta por",
+        "startMs": 2993230,
+        "durationMs": 4319
+      },
+      {
+        "text": "pagar la puedo habilitar en los filtros que tengo disponibles para el",
+        "startMs": 2997549,
+        "durationMs": 4201
+      },
+      {
+        "text": "explorador y de esta manera entonces puedo corroborar que todo esté",
+        "startMs": 3001750,
+        "durationMs": 4240
+      },
+      {
+        "text": "correctamente contabilizado voy a cerrar entonces allí voy a regresar al",
+        "startMs": 3005990,
+        "durationMs": 4520
+      },
+      {
+        "text": "manejador de operaciones recordemos entonces que uno de los fines de tener",
+        "startMs": 3010510,
+        "durationMs": 4039
+      },
+      {
+        "text": "el módulo de nómina electrónica es cumplir con ese requerimiento de envío",
+        "startMs": 3014549,
+        "durationMs": 4961
+      },
+      {
+        "text": "de la información a a la dian Entonces en este caso Cómo podemos hacerlo en",
+        "startMs": 3019510,
+        "durationMs": 4920
+      },
+      {
+        "text": "nuestro módulo como les mencionaba podemos hacerlo de manera masiva o en",
+        "startMs": 3024430,
+        "durationMs": 4480
+      },
+      {
+        "text": "bloque o lo podemos hacer de manera individual según el licenciamiento que",
+        "startMs": 3028910,
+        "durationMs": 3679
+      },
+      {
+        "text": "nosotros tengamos en este caso vamos a hacerlo de manera de manera individual",
+        "startMs": 3032589,
+        "durationMs": 4520
+      },
+      {
+        "text": "para este empleado nos vamos a Ubicar en más operaciones nómina reporte denomina",
+        "startMs": 3037109,
+        "durationMs": 5960
+      },
+      {
+        "text": "electrónica si vamos a realizar el reporte en planilla es esta operación de",
+        "startMs": 3043069,
+        "durationMs": 3841
+      },
+      {
+        "text": "la parte superior vamos a abrir Entonces el reporte",
+        "startMs": 3046910,
+        "durationMs": 4080
+      },
+      {
+        "text": "individual vamos a llamar el empleado y aquí el sistema tema me va a",
+        "startMs": 3050990,
+        "durationMs": 6119
+      },
+      {
+        "text": "cargar toda la información que nosotros tengamos en nuestros pagos de nómina si",
+        "startMs": 3057109,
+        "durationMs": 4480
+      },
+      {
+        "text": "yo pago semanal si pago mensual quincenal no va a haber ningún",
+        "startMs": 3061589,
+        "durationMs": 4720
+      },
+      {
+        "text": "inconveniente este esta operación me va a consolidar todos los pagos de nómina y",
+        "startMs": 3066309,
+        "durationMs": 4280
+      },
+      {
+        "text": "Se enviará Entonces esta información correspondiente para este mes entonces",
+        "startMs": 3070589,
+        "durationMs": 5281
+      },
+      {
+        "text": "puedo corroborar que el tipo de documento es el",
+        "startMs": 3075870,
+        "durationMs": 3919
+      },
+      {
+        "text": "815 este documento tiene que estar configurado previamente en nuestro",
+        "startMs": 3079789,
+        "durationMs": 5201
+      },
+      {
+        "text": "catálogo de tipos de documento de soporte tiene que tener activa la parte",
+        "startMs": 3084990,
+        "durationMs": 4599
+      },
+      {
+        "text": "de nómina electrónica con nuestro proveedor que tengamos asignado eh Para",
+        "startMs": 3089589,
+        "durationMs": 6681
+      },
+      {
+        "text": "poder que no tengamos inconvenientes y podamos hacer correctamente el envío a",
+        "startMs": 3096270,
+        "durationMs": 7000
+      },
+      {
+        "text": "Diana entonces una vez que yo ya tenga corroborada esta información y que esté",
+        "startMs": 3103280,
+        "durationMs": 4590
+      },
+      {
+        "text": "completamente seguro de que estos valores están correctos y que",
+        "startMs": 3107870,
+        "durationMs": 4160
+      },
+      {
+        "text": "corresponden a este empleado para el mes de marzo ya puedo dar clic en final",
+        "startMs": 3112030,
+        "durationMs": 4519
+      },
+      {
+        "text": "finalizar lo recomendable siempre es revisar esta información antes de",
+        "startMs": 3116549,
+        "durationMs": 4321
+      },
+      {
+        "text": "finalizar y aprobar esta operación ya que de lo contrario si hay algún valor",
+        "startMs": 3120870,
+        "durationMs": 4560
+      },
+      {
+        "text": "errado Tendremos que hacer un ajuste Entonces vamos a dar clic en finalizar",
+        "startMs": 3125430,
+        "durationMs": 4159
+      },
+      {
+        "text": "para aprobar esta transacción y aquí podemos ver que falta",
+        "startMs": 3129589,
+        "durationMs": 4720
+      },
+      {
+        "text": "por ejecutar una acción por lo tanto debo aprobar el",
+        "startMs": 3134309,
+        "durationMs": 4121
+      },
+      {
+        "text": "documento para que se envíe a la ad en este caso entonces podemos ver que",
+        "startMs": 3138430,
+        "durationMs": 6679
+      },
+      {
+        "text": "se envió correctamente nuestra nuestra nómina nos dice nómina enviada y",
+        "startMs": 3145109,
+        "durationMs": 4121
+      },
+      {
+        "text": "almacenada correctamente si yo quiero ver el documento en PDF simplemente",
+        "startMs": 3149230,
+        "durationMs": 3760
+      },
+      {
+        "text": "bastará con dar clic allí perfecto ya hicimos entonces un ejemplo completo",
+        "startMs": 3152990,
+        "durationMs": 4760
+      },
+      {
+        "text": "desde la creación de nuestro contrato el registro de las novedades para el mes el",
+        "startMs": 3157750,
+        "durationMs": 4400
+      },
+      {
+        "text": "pago de nómina realizamos el envío electrónico a la dian Pero entonces nos",
+        "startMs": 3162150,
+        "durationMs": 5080
+      },
+      {
+        "text": "queda faltando revisar algunas operaciones estas operaciones son el",
+        "startMs": 3167230,
+        "durationMs": 6079
+      },
+      {
+        "text": "reporte de ajuste y el reporte de anulación denomina elect ón el reporte",
+        "startMs": 3173309,
+        "durationMs": 4441
+      },
+      {
+        "text": "de ajuste lo utilizaremos cuando nosotros nos equivoquemos con algún",
+        "startMs": 3177750,
+        "durationMs": 4280
+      },
+      {
+        "text": "valor ya sea que hayamos enviado un menor un menor valor o un mayor valor a",
+        "startMs": 3182030,
+        "durationMs": 5480
+      },
+      {
+        "text": "nuestro empleado y este reporte de anulación lo podemos utilizar por",
+        "startMs": 3187510,
+        "durationMs": 4279
+      },
+      {
+        "text": "ejemplo en esos casos en los que reportamos la nómina electrónica de un",
+        "startMs": 3191789,
+        "durationMs": 3681
+      },
+      {
+        "text": "empleado que ya no labora dentro de la empresa Pero siempre que nos",
+        "startMs": 3195470,
+        "durationMs": 3839
+      },
+      {
+        "text": "equivoquemos con respecto a valores Tendremos que hacer un ajuste de nómina",
+        "startMs": 3199309,
+        "durationMs": 5881
+      },
+      {
+        "text": "electrónica entonces muy importante tener en cuenta esta información a",
+        "startMs": 3205190,
+        "durationMs": 4599
+      },
+      {
+        "text": "manera de ejemplo digamos que la persona de nómina se equivocó y no no tenía que",
+        "startMs": 3209789,
+        "durationMs": 5560
+      },
+      {
+        "text": "registrar estas horas extras sino que las horas extras eran para el siguiente",
+        "startMs": 3215349,
+        "durationMs": 3960
+      },
+      {
+        "text": "mes entonces qué podemos hacer podemos anular esta",
+        "startMs": 3219309,
+        "durationMs": 5161
+      },
+      {
+        "text": "novedad la procesamos anulamos el pago de",
+        "startMs": 3224470,
+        "durationMs": 4440
+      },
+      {
+        "text": "de nómina lo dejamos procesado también y",
+        "startMs": 3228910,
+        "durationMs": 3760
+      },
+      {
+        "text": "vamos a registrar el nuevo pago de nómina para el empleado como debe quedar",
+        "startMs": 3232670,
+        "durationMs": 5480
+      },
+      {
+        "text": "vamos entonces a llamar nuevamente al empleado Lucas Duque llamamos todos los",
+        "startMs": 3238150,
+        "durationMs": 7120
+      },
+      {
+        "text": "conceptos y aquí ya no me va a cargar las horas extras voy a dar entonces clic",
+        "startMs": 3245280,
+        "durationMs": 4789
+      },
+      {
+        "text": "en siguiente y voy a llevar este valor a la caja pues como a manera de ejemplo",
+        "startMs": 3250069,
+        "durationMs": 6561
+      },
+      {
+        "text": "tengo procesado el pago si yo quiero lo puedo volver a enviar al empleado para",
+        "startMs": 3256630,
+        "durationMs": 3840
+      },
+      {
+        "text": "el correo en este caso no lo vamos a hacer y ya no tengo Entonces que hacer",
+        "startMs": 3260470,
+        "durationMs": 3639
+      },
+      {
+        "text": "un reporte de nómina electrónica porque para este mes ya lo tenía enviado en",
+        "startMs": 3264109,
+        "durationMs": 3480
+      },
+      {
+        "text": "este caso voy a hacer entonces un reporte de ajuste cómo lo hago me dirijo",
+        "startMs": 3267589,
+        "durationMs": 5121
+      },
+      {
+        "text": "a más operaciones nómina y voy a abrir la operación de reporte de",
+        "startMs": 3272710,
+        "durationMs": 7680
+      },
+      {
+        "text": "ajuste como podemos ver esta operación también tiene un tipo de documento de",
+        "startMs": 3280400,
+        "durationMs": 4110
+      },
+      {
+        "text": "soporte que es automático y me pide Entonces el",
+        "startMs": 3284510,
+        "durationMs": 3839
+      },
+      {
+        "text": "empleado vamos a llamar al empleado aquí me cargó el respectivo empleado con el",
+        "startMs": 3288349,
+        "durationMs": 5361
+      },
+      {
+        "text": "mes que se va a ajustar en este caso es marzo el contrato y me pide Cuál es la",
+        "startMs": 3293710,
+        "durationMs": 4560
+      },
+      {
+        "text": "referencia que se va a ajustar yo puedo diligenciar de manera manual el",
+        "startMs": 3298270,
+        "durationMs": 3839
+      },
+      {
+        "text": "consecutivo o simplemente dar doble clic para llamar la referencia la referencia",
+        "startMs": 3302109,
+        "durationMs": 4361
+      },
+      {
+        "text": "que vamos a ajustar Entonces es el reporte número seis y ya tengo",
+        "startMs": 3306470,
+        "durationMs": 4599
+      },
+      {
+        "text": "correctamente diligenciada mi operación recordemos que lo ideal es que esta",
+        "startMs": 3311069,
+        "durationMs": 4801
+      },
+      {
+        "text": "operación de ajuste no la tengamos que realizar por eso se sugiere que siempre",
+        "startMs": 3315870,
+        "durationMs": 3840
+      },
+      {
+        "text": "se tenga Claridad sobre los valores que se van a enviar en el reporte nómina",
+        "startMs": 3319710,
+        "durationMs": 4720
+      },
+      {
+        "text": "electrónica vamos entonces a dar clic en finalizar para guardar la",
+        "startMs": 3324430,
+        "durationMs": 13320
+      },
+      {
+        "text": "aprobarla vemos entonces que se envió correctamente el ajuste de nómina",
+        "startMs": 3337760,
+        "durationMs": 5309
+      },
+      {
+        "text": "electrónica y ya entonces en la dian no se va a ver reflejada la información de",
+        "startMs": 3343069,
+        "durationMs": 5280
+      },
+      {
+        "text": "este primer reporte sino que va a ser reemplazado por este ajuste si yo por",
+        "startMs": 3348349,
+        "durationMs": 5760
+      },
+      {
+        "text": "algún motivo tengo algún inconveniente y me vuelvo a equivocar lo correcto sería",
+        "startMs": 3354109,
+        "durationMs": 4480
+      },
+      {
+        "text": "hacer nuevamente un reporte de ajuste y la el reporte de anulación",
+        "startMs": 3358589,
+        "durationMs": 6760
+      },
+      {
+        "text": "veamos eh Para que conozcamos la operación eh bastará simplemente con",
+        "startMs": 3365349,
+        "durationMs": 5240
+      },
+      {
+        "text": "indicar el empleado e indicar la referencia que se va a anular y se",
+        "startMs": 3370589,
+        "durationMs": 4121
+      },
+      {
+        "text": "eliminará pues como tal esa información para la dian Entonces en este caso",
+        "startMs": 3374710,
+        "durationMs": 4240
+      },
+      {
+        "text": "recordemos que el reporte de anulación solo se podrá utilizar En aquellos casos",
+        "startMs": 3378950,
+        "durationMs": 4320
+      },
+      {
+        "text": "en en los que el empleado ya no la no la por ejemplo en la",
+        "startMs": 3383270,
+        "durationMs": 4519
+      },
+      {
+        "text": "empresa Perfecto entonces ya tenemos realizado nuestro montaje en el módulo",
+        "startMs": 3387789,
+        "durationMs": 5121
+      },
+      {
+        "text": "de nómina ya podemos realizar la creación de nuestros contratos podremos",
+        "startMs": 3392910,
+        "durationMs": 4480
+      },
+      {
+        "text": "crear entonces las novedades hacer los pagos de nómina y enviar la información",
+        "startMs": 3397390,
+        "durationMs": 4399
+      },
+      {
+        "text": "a la dian es de suma importancia que tengamos correctamente configurados",
+        "startMs": 3401789,
+        "durationMs": 4441
+      },
+      {
+        "text": "todos nuestros catálogos para garantizar que las transacciones que se realicen",
+        "startMs": 3406230,
+        "durationMs": 4680
+      },
+      {
+        "text": "cumpla con los lineamientos y las políticas que se manejan dentro de la",
+        "startMs": 3410910,
+        "durationMs": 3960
+      },
+      {
+        "text": "empresa con respecto al manejo de la nómina esto es todo Que",
+        "startMs": 3414870,
+        "durationMs": 4520
+      },
+      {
+        "text": "tengan un excelente día esperamos que esta información haya sido de mucha",
+        "startMs": 3419390,
+        "durationMs": 7810
+      }
+    ],
+    "plainText": "## Descripción del video\n\n\\\nMódulo de nómina de ContaPyme® y AgroWin®\nTema: Configuraciones iniciales del módulo\n\nExperto: Thomas León\nEspecialista en producto de InSoft®\n\nDescripción:\nRealice la configuración inicial del módulo paso a paso, comprenda la utilidad de cada uno de los catálogos y a través de un ejemplo práctico comprenda cómo realizar la creación de contratos, cómo realizar el pago de nómina y su respectivo envío electrónico a la DIAN.\n\nSíganos en nuestras redes sociales:\nhttps://www.facebook.com/SoftwareContableContaPyme \nhttps://www.instagram.com/contapyme/ \n\nConozca más en https://www.contapyme.com/ y https://www.agrowin.com/ \n\n#nominaelectronica #nomina #contapyme #softwarecontable #dian\n\n## Transcripción\n\nBuenos días mi nombre es Tomás León soy especialista de producto y en este\ntutorial hablaremos acerca de las configuraciones iniciales para el uso\ndel módulo de nmina electrónica bienvenidos Perfecto entonces en este\ntutorial como les mencionaba entonces hablaremos acerca de cómo debo\nconfigurar el catálogo de empresa hablaremos qué consideraciones debo\ntener para configurar el catálogo de conceptos de nómina así como también el\ncatálogo de perfiles de contratos veremos qué es el catálogo de entidades\ny cómo se puede configurar Y por último empezaremos a realizar algunas\noperaciones Empezando por la creación de los contratos de nuestros\nempleados después de tener esta configuración inicial entonces pasaremos\na crear los pagos de nómina haremos un ejemplo del reporte de nómina\nelectrónica y explicaremos la diferencia entre el reporte de ajuste y el reporte\nde anulación de nómina electrónica para eso Entonces vamos a dirigirnos a pasar\na nuestro sistema contapyme para ver cada uno de estos puntos\nmencionados Perfecto entonces ubicados en nuestro sistema contapyme vamos a\nrevisar cada uno de los puntos que mencionábamos en la presentación\nEntonces lo primero que vamos a hacer es revisar nuestra configuración en el\ncatálogo de empresa lo ideal es que todo este montaje ya lo tengamos listo Pero\nentonces veremos Cuáles son esas configuraciones que yo como usuario de\nnómina debo tener en cuenta para su correcto funcionamiento Entonces nos\nvamos a dirigir a la pestaña de básico y vamos a abrir el catálogo de empresa\naquí entonces sale creada mi empresa entonces voy a dar clic en modificar o\nvisualizar para revisar la configuración qué es importante para el\nuso de la nómina electrónica aquí yo ya tengo que tener previamente configurado\nel tipo de documento el número de documento la razón social el dígito de\nde verificación y cada uno de esos datos básicos sin embargo entonces también\ndebo verificar que en la pestaña de servicios electrónicos tenga activo el\nmanejo de nómina electrónica también sugerimos que se tenga activo el uso de\nplataforma de de documentos para que se pueda publicar el pago de nómina y así\nle llegue el comprobante a cada uno de nuestros empleados ya veremos cómo\nfunciona esta parte de plataforma de documentos en la pestaña de nómina\nEntonces tendremos una pestaña acerca de entidades otra pestaña acerca del\nreporte dian y otra pestaña acerca de los datos para planilla pila acerca de\nla pestaña de entidades hablaremos un poco más adelante cuando lleguemos al\ncatálogo de entidades por ahora entonces no voy a no vamos a realizar ninguna\nconfiguración específica acá en la parte del reporte dian yo puedo escoger Cómo\ndeseo reportar las prestaciones sociales y vacaciones a La dian es decir si yo\nquiero enviar las prestaciones sociales cuando\nefectivamente se paguen o cuando se realice la provisión para esto tenemos\ndocumentos y también tenemos videos de capacitación donde explicamos Cuáles son\ntodas esas consideraciones que se deben tener en cuenta para para esta\nconfiguración lo ideal es que nuestros usuarios tengan en cuenta cada una de\nestas consideraciones antes de hacer algún cambio en este apartado También\ntenemos un más info que podemos abrir dando clic derecho y aquí podremos ver\nalgunos ejemplos de información adicional para tener en cuenta sobre\nesta configuración perfecto vamos a entonces\na dirigirnos a esta última pestaña que es datos para planilla pila Si yo soy un\ncotizante exonerado para el pago de salud por parte del empleado ador decena\nebf bastará con dar clic y seleccionar este check y el sistema ya no realizará\nel cálculo de estas fórmulas o de estos aportes cuando se realicen los pagos de\nnómina en este caso vamos a dejarlo sin este check y aquí en el tipo de\naportante puedo dejar empleador o el que corresponda perfecto antes de guardar\nlas configuraciones nos vamos a dirigir a la pestaña de clasificación tributaria\nen esta parte de clasificación tributaria en la parte de actividades\neconómicas es muy importante que nosotros tengamos correctamente\nconfigurados nuestros centros de trabajo con la con la respectiva clase de riesgo\naquí en este apartado é nos va a preguntar cuál es nuestra actividad\nprincipal Cuál es la subactividad que realizamos Cuál es el nombre del centro\nde trabajo y su riesgo esta parte es importante porque cuando realicemos la\ncreación de los contratos el sistema me va a preguntar cuál es el centro de\ntrabajo al que pertenece el empleado y dependiendo de dicho centro de trabajo\nSe va a asignar una clase de riesgo recordemos que en esta parte yo puedo\ncrear Cuántas actividades necesite y cuántos centros de trabajo necesite con\nsu respectivo riesgo\nriesgo Perfecto perfecto entonces en la parte\nde empresa Estas son las configuraciones que yo debo tener en cuenta con respecto\na nuestro módulo de nómina en este caso voy a dar clic en cerrar y no voy a\nguardar los cambios Perfecto entonces mencionamos también que otra de las\nconfiguraciones que se deben tener en cuenta es el catálogo de conceptos como\nmencionábamos en otras capacitaciones el catálogo de conceptos de nómina lo\nencontramos en la pestañita de nómina y Aquí vamos a encontrar este catálogo\nPerfecto entonces al abrir este catálogo podremos encontrar cuatro grandes grupos\nque se refieren al comportamiento que tienen cada uno de los conceptos es\ndecir si Son prestaciones si son devengos si son deducciones o si son\naportes o provisiones a cargo de la empresa vamos a revisar un ejemplo de\ndevengos y vamos a revisar un ejemplo de deducciones para que veamos cómo se\nconfiguran los conceptos de nómina en este caso voy a desplegar este menú y\nvoy a dirigirme al concepto de salario básico yo puedo dar clic en cualquiera\nde estas opciones y puedo hacer uso de de este catálogo como yo lo necesite es\ndecir si necesito crear nuevos conceptos lo puedo hacer en este catálogo ya que\nes de libre definición por cada uno de los usuarios o si deseo modificar los\nparámetros que tiene alguno de los conceptos que ya están sugeridos por el\nsistema lo puedo hacer para este caso voy a entonces a Modificar el concepto\nde salario básico en este caso Entonces vamos a\nrevisar cada una de las pestañas para que revisemos Cómo se debe configurar Y\nde qué se trata en la parte entonces superior podemos encontrar el concepto o\nel código que tiene el concepto podemos indicar un nombre y un nombre corto este\nnombre corto nos servirá para la visualización de este concepto en los\ninformes en la parte inferior podemos encontrar un concepto base este concepto\nbase es el que me va a definir a qué grupo va a pertenecer este concepto qué\ncomportamiento va a tener Es decir si es un devengo si es una deducción si es una\nprestación o si es una provisión o aporte a cargo de la empresa aquí\nentonces también me habla acerca de qué tipo de registro trenda este concepto y\nen qué unidad se presenta es importante entonces tener en cuenta también que\neste concepto base es el que se va a enviar a la dian es decir a pesar de que\nnosotros como usuarios podemos cambiar el nombre del concepto básico nosotros\nen la nómina electrónica vamos a enviar es la información de este concepto base\nmuy importante tener en cuenta esta parte vamos a poder encontrar también\nuna un apartado que nos habla acerca del manejo con respecto a este check que que\nnos indica este concepto es de pago recurrente cuando nosotros utilizamos\neste botoncito se nos va a habilitar una pestaña adicional que se refiere a qué\nperiodicidad queremos nosotros que maneje este concepto lo normal es que\neste concepto de salario básico se pague en cada uno de los comprobantes de pago\nde nómina Entonces yo puedo escoger En qué periodicidad quiero que se pague en\neste caso está por defecto para cada pago sin embargo para algunos conceptos\ncomo como lo son las prestaciones sociales yo puedo escoger\nespecíficamente En qué fecha deseo que se pague ya vamos a revisar un ejemplo\nadicional con respecto al tema de prestaciones para que veamos su\nconfiguración en este caso no aplica indicarle un mes en específico y una\nfecha de pago Ya que en todos los pagos de nómina se va a realizar el pago de\neste salario para la pestaña de forma de\ncálculo vamos a encontrar dos pestañas que nos hablan acerca de la cantidad y\nel valor cuando yo indico que deseo manejar la cantidad manual es porque voy\na indicar la cantidad de días de que le voy a pagar por concepto de salario pero\ndebo indicarlo a a través de una operación de novedad como nos indica el\napartado aquí aquí el sistema nos hace el como la aclaración de Qué significa\nusar una opción u otra para este caso vamos a dejarlo de manera formulada es\ndecir que el sistema va a tener en cuenta todas esas novedades como\nausencias incapacidades vacaciones para calcular la cantidad del salario básico\nes decir que nosotros no Tendremos que hacer nada de manera manual sino que el\nsistema teniendo en cuenta cada una de los novedades que tenga el empleado en\nel periodo me va a calcular la respectiva cantidad ahora cómo obtiene\nel sistema el valor total del salario a pagar va a multiplicar el valor del\nsalario y lo va a multiplicar por la cantidad de días que efectivamente haya\nelaborado el empleado y lo va a dividir entre 30 este va a ser el valor que se\nva obtener por concepto de salario básico ahora es important Resaltar que\nel sistema por defecto entrega una configuración en el manejo contable sin\nembargo nosotros como usuarios del sistema debemos validar que ese manejo\ncontable se ajuste según las necesidades que nosotros tengamos dentro de nuestras\nempresas en este caso el sistema me sugiere la cuenta\n51006 que es sueldos sin embargo si yo deseo cambiarla bastará con abrir el\nasistente de plan único de cuentas y seleccionar la cuenta que necesite o\ntambién la puedo digitar aquí yo puedo decirle a Qué tipo de\nentidad o tercero va a quedar registrado este gasto en este caso vamos a dejar el\nempleado también puedo utilizar esta configuración para tener diferentes\ncuentas según la clase contable que tenga el centro de costos es decir Yo\npuedo configurarle a cada uno de nuestros empleados un centro de costos y\na su vez los centros de costos tienen una clase asignada si yo tengo por\nejemplo empleados que laboran en en el departamento administrativo otros que\ntrabajan en el departamento de ventas y otros que trabajan en la parte de\nproducción yo puedo decirle al sistema que si el empleado pertenece a un centro\nde costos de clase uno me registre el sueldo en la cuenta\n5105 si yo tengo un empleado que pertenece a un centro de costos de clase\ndos que me registre esta con este movimiento en la\n5205 Y así sucesivamente por ejemplo puedo asignar la clase tres que es de\nproducción y asignar una cuenta 72 Ya pues es seleccionar la cuenta específica\nque manejemos para esta parte pero así es como nosotros podríamos utilizar este\napartado sin necesidad de crear un concepto de nómina por cada una de las\ncuentas que yo maneje perfecto en esta parte de\ndescripción Pues podría utilizar alguna nota específica que necesite en caso tal\nde que lo requiera Por ejemplo si estoy creando un concepto de auxilio y\npor lentes por ejemplo que se brinde a los empleados un auxilio para gafas Yo\npodría decir cuál va a ser el monto que se va a destinar para este auxilio\npodría decir cuáles son esas condiciones que se establecen o que se pactan con el\nempleado Entonces yo aquí puedo utilizar esta parte de descripción y hacer uso de\neste campo Eh pues como lo necesite y la vigencia me dice entonces a partir de de\nqué fecha está eh o se puede utilizar este concepto aquí pues el sistema trae\npor defecto una configuración y nosotros la podemos cambiar en caso de\nnecesitarla lo común es que no se modifique pero ya pues nosotros\npodríamos utilizar esto en un caso particular Perfecto entonces vamos a dar\nclic en aceptar y a guardar los cambios y vamos a revisar eh un segundo ejemplo\ncon respecto a la prima legal voy a dar clic en modificar y como podemos ver en\nla parte de pago recurrente el sistema trae por defecto que se pague cada 6\nmeses el día 15 Es decir me va a pagar la prima el 15 de junio y el 15 de\ndiciembre de cada año sin embargo si yo necesito cambiar esta fecha que no sea\nel 15 sino el 30 lo puedo hacer o al último día del mes entonces aquí podemos\nbasarnos y utilizar Este ejemplo que nos muestra el sistema en la parte inferior\nque nos dice ya no se va a pagar el 15 sino el día 30 del mes 6 y el día 31 del\nmes 12 Perfecto entonces por ejemplo si yo necesito poner dos fechas específicas\nque no que no sean las mismas Por ejemplo si quiero en junio pagar la\nprima el día 15 pero en diciembre quiero pagarla en el día 30 lo que debo hacer\nes duplicar este concepto y cambiarle su periodicidad de manera anual Entonces\npor ejemplo esta primera prima yo la quiero pagar en el mes de junio pero lo\nquiero pagar el día 15 Entonces de esa manera se pagará esta primera prima en\nesta fecha específica voy a guardar los cambios y bastará con duplicar el\nconcepto Entonces por ejemplo voy a indicarle que voy a crear un nuevo\nconcepto de nómina aquí debo indicarle un un código diferente para poder\nguardar el cambio voy a ponerle mejor d de prima de\ndiciembre voy a modificarla y me voy a dirigir a pago\nrecurrente en este caso vemos que está de manera anual en el mes 6 pero en este\ncaso no es en el mes de junio sino que esta será para el mes de diciembre voy a\ndar clic entonces en el mes 12 y quiero que el pago sea por ejemplo el día 31\nEntonces en este caso podemos dejarlo al último día del mes y puedo corroborar\nque efectivamente me va a pagar esta prima cada 31 del del mes\n12 me va a pagar esta prima el 31 del mes de diciembre de cada año\nCómo asignamos nosotros esto a los contratos ya en un momento lo vamos a\nrevisar cuando configuremos nuestros perfiles y nuestros\ncontratos esto de la eh esta configuración de la periodicidad también\nla podemos utilizar como nosotros lo necesitemos con respecto al cálculo de\nla seguridad social por ejemplo si yo si yo pago de manera quincenal y deseo\nhacer los descuentos de salud y de pensión únicamente al final del mes y no\nen las en los dos pagos de nómina también lo puedo hacer A través de esta\nconfiguración de la la periodicidad eso también lo puedo\nutilizar Por ejemplo si yo pago El auxilio de transporte completo en la\nprimera quincena o en la segunda quincena eh yo lo puedo hacer\nconfigurando la periodicidad para que se pague en una fecha específica o si lo\nhago en cada uno de los pagos simplemente dejo la configuración del\nauxilio de transporte para cada pago Perfecto entonces eh acabamos de\nVer el catálogo de conceptos de nómina invitamos a cada uno de nuestros\nusuarios a validar que el manejo contable sea el adecuado según el\nrequerimiento de cada una de sus empresas aquí Entonces como les\nmencionaba este catálogo es de libre definición por cada uno de de nosotros y\npodemos cambiar eh su información según las necesidades que tengamos en la\nempresa Perfecto entonces pasando eh al siguiente punto de este tutorial\nhablaremos entonces acerca de el catálogo de perfiles de contrato\nEntonces vamos a cerrar estos catálogos y Aquí vamos a encontrar el catálogo de\nperfiles de contrato Perfecto entonces aquí el\nsistema como podemos ver me entrega por defecto muchos perfiles que se tienen\nconfigurados y establecidos por defecto Entonces qué Cuál es la recomendación\nque nosotros realizamos revisemos Cuál es el tipo de contrato que nosotros\nutilizamos en nuestra empresa y cuál es la periodicidad Entonces por ejemplo si\nnosotros tenemos contratos a término fijo y si tenemos contratos a términos\nindefinidos entonces aquí podemos configurar cada uno de ellos ya es\nrevisar si el pago es quincenal mensual semanal u otro y empezar a configurar y\na revisar la configuración que tenga por defecto Entonces vamos a revisar este\nque es el 2050 el término indefinido pago mensual que puede ser uno de los\nmás utilizados lo que veamos en este en esta configuración se puede replicar en\ncada uno de los perfiles que nosotros necesitemos vamos entonces a dar clic en\nmodificar para revisar la configur a ación que trae este perfil aquí entonces\nél nos trae por defecto Qué tipo de contrato Qué tipo de contrato se va a\nmanejar Cuál es el periodo de pago la forma de pago el método de pago el tipo\nde salario por defecto entonces eh es importante tener en cuenta que lo que yo\nconfiguré en este perfil es lo que se va a cargar en cada uno de los contratos\nque nosotros tengamos para nuestros empleados Entonces por ejemplo si el\ntipo de contrato que yo manejo por defecto no es fijo sino variable lo\npuedo hacer de esta forma No tengo que ir a cambiarle a cada uno de los\nempleados que el contrato es fijo sino variable sino que desde el mismo perfil\nyo puedo establecer que quiero que el tipo de salario por defecto sea tipo\nvariable entonces aquí es donde yo configuro esa todo lo que yo quiero por\ndefecto entonces aquí tengo otras opciones eh con respecto a si el perfil\nestá basado en el salario mínimo si yo necesito que tenga activa la opción de\nde que el empleado es un extranjero que no cotiza pensión si es un colombiano en\nel exterior o si el empleado realiza labores de obra eh Para más información\nlos invitamos a consultar cada uno de los vídeos específicos sobre estas\nconfiguraciones ya que requieren de un de unas consideraciones\nadicionales Perfecto entonces encontramos También en esta En esta\nsegunda pestaña los días laborales e intensidad horaria Aquí es importante\nindicarle al sistema Cuáles son esos días que nosotros laboramos dentro de la\nempresa si es de lunes a viernes o si es de lunes a sábado o si se trabaja una\njornada diferente si se trabaja en los días festivos y cuál es la intensidad\nhoraria que va a manejar este perfil yo puedo Entonces como podemos ver voy a\ncorrer un poquito eso hacia esta parte Aquí también encontramos un perfil 2071\nque es término indefinido pago mensual pero para 4 horas también el sistema\ntrae por defecto un contrato un perfil perdón con configurado con una\nintensidad de 4 horas Si yo tengo empleados de medio tiempo en este caso\nvamos a dejar esta intensidad horaria de 8 horas Si la empresa se acogió ya a la\nnormatividad vigente Entonces bastará con indicarle cuál es la intensidad\nhoraria que se maneja dentro de la empresa en este caso podríamos dejarlo\nen 7.8 horas O si la empresa ya se acogió a toda a toda la reducción\nlaboral puedo indicar 7.3 horas Vamos a continuar en el concepto de en\nlos conceptos de pago de nómina y aquí esta configuración es muy importante\nporque todos los conceptos que nosotros definamos en este en este apartado se\nvan a cargar en los contratos de los empleados cuando yo los esté creando\nEntonces vamos a revisar que está en la parte de\nbengoshi que se le cargue al empleado el salario básico y el auxilio de\ntransporte sin embargo si por ejemplo dentro del la empresa se maneja alguna\nbonificación específica o si se maneja un auxilio extralegal o si se maneja\ncualquier otro tipo de concepto que sea recurrente entonces se puede manejar\ndesde acá y yo lo puedo adicionar sin ningún\nningún inconveniente sin embargo en este\nmomento no vamos a adicionar ningún concepto de nómina en la parte de\ndevengos vamos a revisar la parte de prestaciones el sistema entonces me\nmuestra las santidades consignadas al fondo la prima legal y los intereses de\ncesantías Por qué no sale aquí las vacaciones porque las vacaciones\nrecordemos que se indican a través de novedad de nómina cuando el empleado\nefectivamente salga a disfrutar su periodo de vacaciones en la parte de\ndeducciones encontramos entonces el aporte a salud del empleado y el aporte\na pensión del empleado si el empleado tiene alguna\ndeducción específica adicional a esto lo recomendable es indicarlo\nespecíficamente ente para el empleado que lo tenga por qué Porque como les\nmencionaba anteriormente esta información Se va a cargar a cada uno de\nlos empleados cuando yo esté creando el contrato si solo un empleado tiene algún\nconcepto de deducción adicional es mejor indicá selo al empleado específico y no\na todos los empleados y tener que eliminar ese concepto a los demás\nEntonces por ahora vamos a dejar estos conceptos de nómina eh Y ya más adelante\nveremos también Cómo podemos asignar otros conceptos de\ndeducción en la parte de costos de empresa entonces encontramos todo este\nlistado sin embargo como vimos nosotros podemos exonerar a la empresa de los\naportes de salud sena e icf entonces no es necesario eliminar los renglones de\nestos conceptos Ya que en la empresa indicamos si estamos exonerados o no\ntambién si yo deseo y no quiero ver estos conceptos bastará con eliminar el\nrenglón y él ya tampoco pues lo va a cargar en el pago de nómina ya depende\npues como esa configuración que nosotros queramos en esta parte\neh Y en la parte de conceptos de liquidación son los conceptos que se\ncargan por defecto en la operación de liquidación de contrato no vamos a\nentrar en mucho detalle en esta capacitación acerca de la operación de\nliquidación de contrato ya que hay un tutorial específico donde se explica el\nuso y funcionamiento de esta operación sin embargo para que ustedes la conozcan\nen este apartado yo yo le indico al sistema Cuáles son es esos conceptos que\nse cargan en dicha operación eh Para que se liquide de manera automática también\nencontramos devengos prestaciones deducciones y costos de empresa vamos\nentonces a dar clic en aceptar y de esta manera finalizamos la configuración de\nnuestro perfil como les mencionaba entonces anteriormente es importante que\nnosotros hagamos el montaje primero de los conceptos de nómina y después\ncreemos o configuremos nuestros perfiles de contrato Ya que en\nel perfil de contrato asignamos los conceptos que ya estén previamente\nconfigurados Perfecto entonces una vez tengamos esta configuración ya podemos\nseguir con el catálogo de entidades el catálogo de entidades lo\npodremos encontrar en la pestaña de básico tercero tipos de entidad sin\nembargo antes de pasar a ver este catálogo es es importante que tengamos\nclaro un concepto y es el catálogo de proveedores no es el es no es lo mismo\nque el catálogo de tipos de entidad Ya que en el catálogo de tipos de entidad\nyo voy a referenciar un proveedor que me que me preste el servicio de nómina\nentonces antes de ver este catálogo vamos a revisar la configuración que\ndebe tener el proveedor de nómina el sistema también me entrega un gran\nlistado de proveedores de nómina si yo necesito adicionar alguno de ellos lo\npuedo hacer dando clic en crear y asignando toda la información necesaria\nvamos a revisar por ejemplo la configuración de eps surra voy a dar\nmodificar y vamos a abrir el catálogo completo para que veamos Cuáles son esas\nconfiguraciones como podemos ver entonces está con toda su información\nbásica con su código nit tipo documento su razón social y Está marcado como\nproveedor al estar marcado como proveedor voy a tener tener la\nposibilidad de asignarle algunos datos específicos en la pestaña de datos de\nproveedor cuando me dirijo a esta pestaña encuentro dos opciones para\nseleccionar al tener activa esta opción se va a\nhabilitar esta pestaña que nos dice entidades de nómina entonces en esta\npestaña de entidades de nómina es donde yo le puedo decir al sistema Qué\nservicio me presta este proveedor como podemos ver eps ura está que presta el\nservicio de eps y tiene asociado su respectivo código para planilla pila\neste código es de suma importancia para poder que cuando se genere el archivo\nplano para subirlo al operador de pila se realice el respectivo pago a la\nentidad adecuada ya que si tenemos un código incorrecto tendremos pues errada\nla información cuando vayamos a subir la información a nuestro operador pila esta\ninformación acerca de pila y cuáles son esas configuraciones iones También\ntenemos un curso específico eh Para tener en cuenta todas las\nconsideraciones para su correcto funcionamiento si yo estoy creando un\nnuevo proveedor es importante revisar el catálogo de códigos para planilla pila y\nasignar el código correcto que se requiera vamos a cerrar entonces acá y\nnos vamos a guardar los cambios aquí pues esta sería la configuración\nprincipal que nosotros debemos tener en cuenta en nuestro proveedor ahora vamos\ndirigirnos a la pestaña de tipos de entidad este catálogo me va a permitir a\nmí asignar las entidades que yo voy a manejar por defecto para cada uno de los\ntipos de servicio que yo tengo en en la parte de\nnómina entonces revisemos por ejemplo el tema de la rl vamos a dar clic en\nmodificar y como podemos ver en este tipo de entidad yo tengo asignado el\nproveedor es por eso que les mencionaba que primero debo tener creados los\nproveedores para poder tener creados eh correctamente los tipos de entidad\nEntonces para qué me va a servir a mí tener configurado este catálogo\ncorrectamente porque el sistema cuando genere el movimiento en el pago de\nnómina va a tener que contabilizar Cuál es la entidad a la cual se debe llevar\nesa cuenta por pagar por concepto de arl de cena de icbf de las entidades de\npensión eh etcétera sin embargo Entonces vamos a revisar Cuáles son esas\nconfiguraciones que yo encuentro aquí en la entidad aquí por ejemplo para el tema\nde la rl yo puedo asignar eh la rl a la cual esté afiliada la empresa si no es\nura puedo seleccionar cualquier otra vamos a seleccionar por ejemplo Colmena\nsi esta es la entidad que se maneja por defecto para el tema de la rl otra\nconfiguración Aquí muy especial que se refiere a si este dato se debe solicitar\nen los datos de la empresa o en los datos del empleado Cuál es la diferencia\nentre estas dos opciones cuando yo necesito\nque el dato se solicite en el en la empresa es porque todos los empleados\nestán afiliados a la misma entidad para el servicio de nómina por ejemplo la rl\nes común que todos los empleados manejen la misma por lo tanto no sería necesario\nsolicitar este dato en cada empleado sino que se solicita desde la empresa\nPero por ejemplo si revisamos la parte de vamos a guardar allí los cambios\nrevisemos por ejemplo la parte de eps en la parte de eps miremos que la entidad\nse solicita en los datos del empleado porque no es común que todos los\nempleados estén afiliados a la misma a la misma entidad Por lo tanto se\nrequiere este dato desde el empleado sin embargo como podemos ver yo yo sí puedo\nasignar una entidad Por defecto Por ejemplo si yo tengo 100 empleados y 90\nde Ellos están asignados en Nueva eps Entonces yo sí puedo dejar esta entidad\nPor defecto pero para aquellos empleados que estén en una entidad diferente\nentonces le asigno la entidad específica en el en el empleado ya vamos a ver de\nqué manera se realiza esta parte para aclarar un poco Este ejemplo entonces\neste es el catálogo de entidades tener en cuenta la diferencia con el catálogo\nde proveedores ya que no son lo mismo Entonces vamos a revisar por ejemplo\ndónde se indica la par la información para aquellas entidades que\nse exige el dato desde la empresa Entonces nos vamos a devolver nuevamente\na la pestaña de básico empresa y Aquí vamos a mencionar la pestañita que\nhabíamos dejado pendiente en este caso vamos a dirigirnos a la pestaña de\nnómina y aquí es donde vamos a encontrar la parte de entidades Entonces ahora\ncomo ya tenemos en cuenta cuál es esa definición de este catálogo Entonces\nAquí es donde yo las voy a encontrar si yo voy a hacer un un traslado de entidad\nlo que puedo hacer es indicar la nueva entidad e indicar su fecha efectiva de\ntraslado esto Pues en los casos que aplique sin embargo acá podemos ver que\nel sistema ya me trae por defecto Cuáles son esas entidades a las cuales yo estoy\nafiliado para cada uno de estos de estos servicios ahora como mencionábamos las\notras entidades como cesantías pensiones salud se debe indicar en cada uno de los\nempleados Dónde encuentro yo esa información la voy a poder encontrar en\nla parte parte del catálogo de empleados vamos a revisar por ejemplo la\nconfiguración de Viviana Márquez vamos a abrir el catálogo\ncompleto me voy a dirigir a la pestaña de datos de empleado y voy a encontrar\nuna pestaña específica de entidades entonces nuevamente recordemos yo tengo\nunas entidades por defecto si el empleado tiene una entidad diferente o\nsi necesita hacer un traslado aquí es donde yo lo puedo indicar entonces tengo\ntengo la información para caja de compensación fondo de cesantías entidad\npara salud fondo de pensiones y aquí tengo entonces la entidad que yo definí\npor defecto para mis empleados ahora si Viviana Márquez No hace parte de pssa o\nno tiene esta entidad entonces lo que yo puedo hacer es simplemente hacer clic y\nLlamar la entidad a la cual esté afiliada Entonces por ejemplo si está en\nSanitas lo que puedo hacer es indicar esta entidad aquí Él me pide una fecha\nefectiva de traslado en este caso tendría que decirle a partir de qué\nfecha está en esta entidad vamos a borrar esto ya que no vamos a hacer\nningún cambio entonces de esta manera es como nosotros podremos revisar el tema\nde las entidades tanto para la empresa como para nuestros empleados ya que\nrecordemos que al generar el pago de nómina el sistema debe contabilizar esa\ncuenta por pagar a la entidad que corresponde para no tener dificultades\nal momento del pago Perfecto entonces\nvamos a cerrar entonces estas pestañas y vamos entonces a empezar a hablar acerca\nde las diferentes operaciones que yo puedo hacer en el módulo de\nnómina para esto ya tengo que tener todas estas configuraciones realizadas\nde manera correcta para garantizar que todo salga perfecto en el proceso de Mi\nnómina vamos a empezar entonces a registrar los contratos para nuestros\nempleados para esto vamos a hacer un ejemplo con completo desde cero para\nrevisar cada uno de esos aspectos que debemos considerar al momento de de\nempezar a usar nuestro módulo para eso Entonces vamos a dirigirnos al catálogo\nde empleados y vamos a empezar a registrar la información para este caso\nempleado voy a indicar entonces que es de este tercero es de tipo\nempleado voy a diligenciar su información voy a poner un unos datos\nespecíficos vamos a indicar aquí su correo principal en este caso voy a\nindicar mi correo electrónico para que veamos el ejemplo\ncompleto Voy a indicar entonces su departamento vamos a poner caldas y\nvamos a abrir el catálogo completo y vamos a revisar entonces en la parte de\ndatos del empleado entonces Aquí voy a encontrar\nla ficha donde se va a ubicar toda la información del\ncontrato en un momento cuando realicemos la creación vamos a revisar De qué\nmanera queda Entonces esta información recordemos si el empleado Entonces está\nen una entidad diferente a alguna de estas Simplemente yo puedo indicar su\nentidad correspondiente en este caso vamos a dejar estas entidades por\ndefecto y yo puedo configurar la información de la cuenta bancaria si lo\nnecesito como información adicional o si tengo activo el manejo de programación\nde pagos con el módulo de cartera Perfecto entonces ya vimos eh la\ncreación del tercero Entonces vamos a dar clic en aceptar para guardar los\ncambios ya quedó creado entonces nuestro empleado y vamos a crearle su respectivo\ncontrato para esto nos vamos a dirigir a la pestaña básico y vamos a abrir el\nmanejador de operaciones a manera de ejemplo eh\ndigamos que este empleado empezó sus labores el primero de marzo entonces me\nvoy a dirigir a esta fecha en el manejador de operaciones voy a dar clic\nen más operaciones nómina creación de contrato\naquí entonces se abre el asistente donde vamos a encontrar una operación que\ntiene su respectivo documento de soporte donde yo puedo indicar un detalle me va\na crear un consecutivo de manera automática y la fecha de soporte en la\nindicar ningún detalle específico vamos a llamar el empleado al cual le vamos a\ncrear el empleado en este caso es Lucas Duque vamos a seleccionarlo el contrato\nEntonces el consecutivo va a salir de manera\nmanera automática vamos a llamar el perfil de\ncontrato que nosotros habíamos configurado en este caso es el 2050\nvamos a dar clic en la Lupita o yo podría digitar como me parezca más\ncómodo vamos a dar clic acá y en este caso el sistema ya me\narrojó toda la información que se tiene por defecto en este perfil ya vamos a\nseguir a la siguiente pestaña para que lo corroboramos vamos a continuar\ndiligenciando Entonces el formato Aquí tengo la fecha de inicio del contrato\ncomo es un contrato a término indefinido Entonces no aplica indicarle una fecha\nde finalización voy a indicarle el centro de costos al cual pertenece\nrecordemos que esto es de Gran importancia ya que dependiendo de la\nclase del centro de costos el sistema va a realizar una contabilización\nespecífica si yo tengo correctamente configuradas las clases entonces aquí\nvamos a dejarlo en sede principal aquí entonces el\nsistema me va indicar mi centro de\ntrabajo va voy a poder indicar cuál es su jefe inmediato puedo decir que su\njefe inmediato es Marcelo campo que el cargo de este empleado es\noperario el sistema me pregunta cuál es la dirección si yo quiero dejar la\ndirección de la empresa o si quiero dejar la dirección del empleado o la\nsede del centro de costos o una dirección específica\nno vamos a cambiarlo vamos a dar clic en siguiente y aquí entonces el sistema ya\nme empieza a cargar la información que yo traje desde el perfil recordemos que\nyo había dejado por defecto que el tipo de salario era variable Entonces como\npodemos ver aquí él ya me lo sugirió para este empleado si yo necesito\ncambiarlo a fijo o a integral bastará Pues con cambiarle allí el dato vamos a\ndejar Entonces el tipo de trabajador que será\nserá dependiente y que no aplica esta parte\nde subtipo de trabajador aquí yo puedo indicar los atributos que si no aplica\nauxilio de transporte este botón se refiere cuando el empleado vive en las\ninstalaciones de la empresa cuando vive cerca de la empresa o cuando la empresa\nsuministra el transporte cuando el extranjero no cotiza pensión cuando el\nempleado está en el exterior o si realiza labores de obra recordemos que\ncada uno de estos Campos cuenta con una información adicional si yo necesito\nalgún ejemplo o ampliar este dato aquí puedo encontrar un poco más acerca de\nesto aquí yo puedo indicar algunos datos adicionales para el contrato en este\ncaso no vamos a indicarle ni datos ni valores vamos a dar clic en siguiente y\naquí voy a poder encontrar la parte de conceptos de nómina Entonces como\npudimos ver me está cargando toda la información que ya esta registrada desde\nel perfil Entonces tenemos la parte de bengoshi y costos de empresa tal cual\ncomo lo habíamos asignado en el perfil Entonces como podemos ver tener\npreviamente configurado el perfil del contrato me ahorra todo el montaje de\nmis empleados entonces para este caso vamos a asignar el salario para el\nempleado a manera de ejemplo este empleado se gana el salario mínimo por\nlo tanto yo puedo dirigirme a la parte de asignar valor e indicarle el salario\nmínimo para este año y El auxilio de transporte como está formulado el\nsistema sabrá Cuál es su valor ahora si yo necesito adicionarle una deducción\nespecífica a este empleado puedo dar doble clic y Llamar el concepto entonces\na manera de ejemplo si el empleado por ejemplo tiene un descuento por seguro\nfunerario puedo asignarle el valor acá o si tiene cualquier otro tipo de\ndeducción que nosotros tengamos configurados si por ejemplo el descuento\nfue funerario es de 50,000 lo puedo asignar y de esta manera el sistema me\nva a restar el valor a pagar al empleado deduciendo este\nvalor y de esa misma manera yo puedo adicionar devengos prestaciones y aplica\ndeducciones y costos de empresa perfecto en este caso vamos a\ndar clic en siguiente y aquí puedo indicar Cuáles son esas cláusulas y\nobservaciones generales para para el contrato y también puedo cargar algunos\narchivos si lo necesito si yo también necesito indicar\ninformación acerca del beneficiario si el empleado tiene algún beneficiario\nadicional lo puedo hacer en la parte de opciones habilitar paso de beneficiarios\nadicionales en este caso no vamos a hablar acerca de este apartado y lo\nvamos a dejar de esta manera vamos a dar clic en siguiente y\nvamos a finalizar aquí Entonces ya nos quedó\ncreado nuestro contrato para el empleado Entonces qué qué podemos empezar a hacer\npodemos empezar a registrar las novedades de nómina que hayan surgido en\neste periodo antes de realizar el respectivo pago de nómina para tener la\ninformación completa Entonces por ejemplo si el empleado realizó horas\nextras si tiene algún recargo si tuvo alguna licencia o algún otro tipo de\nnovedad la podemos registrar a partir de la operación de Novedades nos podemos\ndirigir a más operaciones nmina y vamos a abrir la operación de novedades de\nnómina en este caso Entonces vamos a llamar al\nDuque me carga la información del contrato y yo puedo entonces empezar a\nllamar los conceptos de nómina entonces a manera de ejemplo voy a llamar el\nconcepto de hora extra diurna y voy a ponerle 5 horas extras el sistema\nautomáticamente calculará el valor en el pago de nómina la fecha liquidar\nEntonces como el empleado se le paga de manera mensual la fecha liquidar será al\n31 de de marzo y esta y esta operación yo la puedo dejar registrada al primero\ndel mes pero se va a liquidar es efectivamente en esta fecha con el pago\nde nómina si yo por ejemplo pago de manera quincenal puedo escoger si quiero\npagarle en la la primera quincena o en la segunda quincena entonces para esto\nnos sirve este este cajoncito de fecha a liquidar si yo amp un poco este esta\noperación podré encontrar en qué fecha se realizó esta hora extra si por\nejemplo yo llamo Un concepto de vacaciones ya el sistema me pide el\nrango de fechas en las cuales se se disfrutó el periodo de vacaciones o de\nlicencia Eh ya depende pues como la novedad que nosotros llamemos acá vamos\na indicar alguna observación podemos decir horas\nextras realizadas el 20 de marzo del 24 y si\ndeseamos indicar la ahora también lo podemos hacer vamos a dejar la\nobservación hasta acá y vamos a guardarla ya tenemos registrada entonces\nnuestra observación Entonces ahora vamos a realizar nuestro pago de nómina para\nesto nos vamos a dirigir a más operaciones nómina y voy a realizar el\npago individual de nómina si yo cuento con el licenciamiento de nómina Plus y\nya tengo registrados todas las novedades y ya tengo creados todos los empleados\ncon su respectivo contrato podré hacer mis pagos en planilla y después hacer el\nrespectivo reporte de nómina electrónica en planilla para este ejemplo vamos a\nrealizar el pago de nómina individual vamos a abrir la\noperación Perfecto entonces aquí vamos a encontrar la operación de pago\nindividual de nómina con su respectivo tipo de documento el consecutivo que se\nva a generar de manera automática la fecha de soporte en la cual se va a\nrealizar la operación el el campo respectivo para llamar al empleado con\nsu contrato las fechas del periodo a liquidar y vamos a encontrar entonces\ntres listados un primer listado será eh para la parte de debos en el la segunda\nparte podremos encontrar la parte de deducciones es decir todo lo que le\nreste al total a pagar para para la nómina del periodo y vamos a encontrar\nun tercer ser listado que será la lista de provisiones y aportes y su respectiva\nforma de pago vamos a llamar entonces al empleado\nLucas Duque vamos a cargar todos los conceptos\nde nómina él me pregunta si deseo cargar devengos prestaciones y novedades yo\npuedo seleccionar si quiero solamente alguno de estos específicamente en este\ncaso no vamos a Deshabilitar ninguno y vamos a dar clic en\naceptar Perfecto entonces aquí ya tenemos cargados nuestro listado de\ndevengos podemos ver entonces que cargó el salario básico que le asignamos en el\ncontrato con su respectivo auxilio de transporte y calculó las horas extras\npara este empleado y me cargó la observación que habíamos diligenciado en\nla novedad Aquí vemos que la fecha del periodo de liquidar es del primero de\nmarzo al 31 de marzo según la periodicidad que tengo en el contrato y\nentonces vamos a revisar la parte de deducciones en la parte de deducciones\ncomo podemos ver me Calcula los respectivos aportes a seguridad social y\nel descuento de seguro funerario que fue el que yo le asé desde el contrato\nrecordemos que si yo necesito adicionar de bengoshi\nllamar para hacer algún abono eh en la nómina si lo necesito vamos a dar clic\nen siguiente y aquí encontramos entonces toda la parte de provisiones y aportes a\ncargo de la empresa Entonces tenemos lo que es la parte de seguridad social y\nprestación y provisión de prestaciones y yo puedo indicarle al sistema Cómo pagué\nMi nómina si la pagué a través de la caja del banco o si quedó pendiente en\nuna cuenta por pagar en este caso vamos a pagarlo a través del banco vamos a\nindicando el tipo de movimiento que\ncorresponda y vamos a\nfinalizar perfecto como podemos ver en esta parte el sistema me muestra algunas\nacciones pendientes de ejecutar esto se se refiere a la plataforma de\ndocumentos Entonces como les mencionaba al inicio de la capacitación nosotros\nsugerimos tener activo el uso de plataforma de\ndocumentos también entonces debo tener correctamente configurado mi documento\nde soporte para poder indicarle al sistema que este tipo de documento que\nen este caso es el 750 pago de nómina se quiere publicar en plataforma de\ndocumentos y enviarle el comprobante a nuestro empleado cómo lo hacemos lo\npodemos revisar a través de la pestaña básico documentos de\nsoporte vamos a buscar el 750 que es pago de nómina vamos a dar clic en\nmodificar y vamos a revisar la configuración que debe tener este tipo\nde documento de soporte aquí entonces nos vamos a dirigir a la parte de\nacciones y como podemos ver tiene activo la publicación en plataforma de\ndocumentos y el envío de email automático y que la aprobación del\ndocumento se se debe realizar manualmente nosotros podemos decirle que\nse apruebe de manera automática al finalizar la operación o que se solicite\naprobación al finalizar en este caso yo lo tengo por defecto que se aprueba\nmanualmente ya les voy a mostrar De qué manera lo hacemos en la parte de\npublicación del documento debo tener entonces configurado correctamente Cuál\nes el tipo de documento que yo voy a publicar en la plataforma Y a partir de\nqué fecha se va a habilitar la publicación de este documento para más\ninformación acerca del uso y configuración de plataforma de\ndocumentos los invitamos a ver el tutorial acerca de este tema voy\nentonces a cerrar acá no voy a guardar los cambios voy a volverme al manejador\nde operaciones y voy a ejecutar las acciones cómo lo puedo hacer lo puedo\ndar con clic derecho aprobar documento o lo puedo hacer en la parte superior\ndando clic en aprobar documento aquí entonces el sistema enviará el\ndocumento para que el empleado lo pueda ver en su correo\nelectrónico como podemos ver me dice comprobante de pago de nomina ha sido\nsubido y publicado en plataforma de documentos si yo deseo dar clic en para\nver el documento lo puedo hacer Vamos a esperar un momento que me llegue el\ndocumento a mi correo para que lo veamos cómo se ve publicado en la\nplataforma Perfecto entonces ahora me voy a dirigir a mi correo para revisar\nla información que me llegó aquí podemos ver que ya tiene sus acciones ejecutadas\ncorrectamente y voy a abrir Entonces el correo aquí Entonces veo que llegó el\nrespectivo correo voy a dar clic en ver documento al dar clic en ver documento\nplataforma y aquí entonces podré encontrar con el tipo de formato\nhtml el respectivo comprobante de pago yo eh Como empleado puedo dar clic en\naprobar rechazar si quiero que me llamen si quiero hacer o enviar un mensaje\npodré encontrar toda la información que necesite acerca de mi comprobante y\ntambién lo puedo descargar si lo necesito Entonces como podemos ver\npodemos hacer uso de la plataforma de documentos que es una herramienta\nbastante útil y bastante llamativa para nuestros\nempleados Perfecto entonces ya tenemos creado nuestro contrato tenemos creadas\nlas novedades del periodo para nuestro empleado o nuestros empleados tenemos el\nrespectivo pago de nómina ahora veamos el movimiento contable generado por esta\noperación antes de pasar a hacer el reporte electrónico voy a revisar\nentonces a partir del Inspector lo puedo revisar acá o si quiero lo puedo ver un\npoco más grande dando clic en la lupa de del explorador de contabilidad y aquí\neste explorador qué me va a mostrar entonces me va a mostrar cada una de las\ncuentas que se movieron en esta operación su nombre la cuenta el tercero\nen transacción que en este caso es el empleado y el tercero eh en cartera que\nen este caso es el tercero al cual se le generó la cuenta por pagar para las\ncuentas del pasivo esta columna de tercero cuenta por cobrar y cuenta por\npagar la puedo habilitar en los filtros que tengo disponibles para el\nexplorador y de esta manera entonces puedo corroborar que todo esté\ncorrectamente contabilizado voy a cerrar entonces allí voy a regresar al\nmanejador de operaciones recordemos entonces que uno de los fines de tener\nel módulo de nómina electrónica es cumplir con ese requerimiento de envío\nde la información a a la dian Entonces en este caso Cómo podemos hacerlo en\nnuestro módulo como les mencionaba podemos hacerlo de manera masiva o en\nbloque o lo podemos hacer de manera individual según el licenciamiento que\nnosotros tengamos en este caso vamos a hacerlo de manera de manera individual\npara este empleado nos vamos a Ubicar en más operaciones nómina reporte denomina\nelectrónica si vamos a realizar el reporte en planilla es esta operación de\nla parte superior vamos a abrir Entonces el reporte\nindividual vamos a llamar el empleado y aquí el sistema tema me va a\ncargar toda la información que nosotros tengamos en nuestros pagos de nómina si\nyo pago semanal si pago mensual quincenal no va a haber ningún\ninconveniente este esta operación me va a consolidar todos los pagos de nómina y\nSe enviará Entonces esta información correspondiente para este mes entonces\npuedo corroborar que el tipo de documento es el\n815 este documento tiene que estar configurado previamente en nuestro\ncatálogo de tipos de documento de soporte tiene que tener activa la parte\nde nómina electrónica con nuestro proveedor que tengamos asignado eh Para\npoder que no tengamos inconvenientes y podamos hacer correctamente el envío a\nDiana entonces una vez que yo ya tenga corroborada esta información y que esté\ncompletamente seguro de que estos valores están correctos y que\ncorresponden a este empleado para el mes de marzo ya puedo dar clic en final\nfinalizar lo recomendable siempre es revisar esta información antes de\nfinalizar y aprobar esta operación ya que de lo contrario si hay algún valor\nerrado Tendremos que hacer un ajuste Entonces vamos a dar clic en finalizar\npara aprobar esta transacción y aquí podemos ver que falta\npor ejecutar una acción por lo tanto debo aprobar el\ndocumento para que se envíe a la ad en este caso entonces podemos ver que\nse envió correctamente nuestra nuestra nómina nos dice nómina enviada y\nalmacenada correctamente si yo quiero ver el documento en PDF simplemente\nbastará con dar clic allí perfecto ya hicimos entonces un ejemplo completo\ndesde la creación de nuestro contrato el registro de las novedades para el mes el\npago de nómina realizamos el envío electrónico a la dian Pero entonces nos\nqueda faltando revisar algunas operaciones estas operaciones son el\nreporte de ajuste y el reporte de anulación denomina elect ón el reporte\nde ajuste lo utilizaremos cuando nosotros nos equivoquemos con algún\nvalor ya sea que hayamos enviado un menor un menor valor o un mayor valor a\nnuestro empleado y este reporte de anulación lo podemos utilizar por\nejemplo en esos casos en los que reportamos la nómina electrónica de un\nempleado que ya no labora dentro de la empresa Pero siempre que nos\nequivoquemos con respecto a valores Tendremos que hacer un ajuste de nómina\nelectrónica entonces muy importante tener en cuenta esta información a\nmanera de ejemplo digamos que la persona de nómina se equivocó y no no tenía que\nregistrar estas horas extras sino que las horas extras eran para el siguiente\nmes entonces qué podemos hacer podemos anular esta\nnovedad la procesamos anulamos el pago de\nde nómina lo dejamos procesado también y\nvamos a registrar el nuevo pago de nómina para el empleado como debe quedar\nvamos entonces a llamar nuevamente al empleado Lucas Duque llamamos todos los\nconceptos y aquí ya no me va a cargar las horas extras voy a dar entonces clic\nen siguiente y voy a llevar este valor a la caja pues como a manera de ejemplo\ntengo procesado el pago si yo quiero lo puedo volver a enviar al empleado para\nel correo en este caso no lo vamos a hacer y ya no tengo Entonces que hacer\nun reporte de nómina electrónica porque para este mes ya lo tenía enviado en\neste caso voy a hacer entonces un reporte de ajuste cómo lo hago me dirijo\na más operaciones nómina y voy a abrir la operación de reporte de\najuste como podemos ver esta operación también tiene un tipo de documento de\nsoporte que es automático y me pide Entonces el\nempleado vamos a llamar al empleado aquí me cargó el respectivo empleado con el\nmes que se va a ajustar en este caso es marzo el contrato y me pide Cuál es la\nreferencia que se va a ajustar yo puedo diligenciar de manera manual el\nconsecutivo o simplemente dar doble clic para llamar la referencia la referencia\nque vamos a ajustar Entonces es el reporte número seis y ya tengo\ncorrectamente diligenciada mi operación recordemos que lo ideal es que esta\noperación de ajuste no la tengamos que realizar por eso se sugiere que siempre\nse tenga Claridad sobre los valores que se van a enviar en el reporte nómina\nelectrónica vamos entonces a dar clic en finalizar para guardar la\naprobarla vemos entonces que se envió correctamente el ajuste de nómina\nelectrónica y ya entonces en la dian no se va a ver reflejada la información de\neste primer reporte sino que va a ser reemplazado por este ajuste si yo por\nalgún motivo tengo algún inconveniente y me vuelvo a equivocar lo correcto sería\nhacer nuevamente un reporte de ajuste y la el reporte de anulación\nveamos eh Para que conozcamos la operación eh bastará simplemente con\nindicar el empleado e indicar la referencia que se va a anular y se\neliminará pues como tal esa información para la dian Entonces en este caso\nrecordemos que el reporte de anulación solo se podrá utilizar En aquellos casos\nen en los que el empleado ya no la no la por ejemplo en la\nempresa Perfecto entonces ya tenemos realizado nuestro montaje en el módulo\nde nómina ya podemos realizar la creación de nuestros contratos podremos\ncrear entonces las novedades hacer los pagos de nómina y enviar la información\na la dian es de suma importancia que tengamos correctamente configurados\ntodos nuestros catálogos para garantizar que las transacciones que se realicen\ncumpla con los lineamientos y las políticas que se manejan dentro de la\nempresa con respecto al manejo de la nómina esto es todo Que\ntengan un excelente día esperamos que esta información haya sido de mucha"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 25,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 233.05,
+    "asr": 44100,
+    "filesizeApprox": 99783008,
+    "formatCount": 5
+  },
+  "contentKind": "videos",
+  "publishYear": "2024",
+  "files": {
+    "year": "2024",
+    "kind": "videos",
+    "md": "videos/2024/X1EDiC8N8y4.md",
+    "json": "videos/2024/X1EDiC8N8y4.json",
+    "infoJson": "videos/2024/X1EDiC8N8y4.info.json"
+  }
+}

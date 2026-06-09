@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 2,
+  "extractedAt": "2026-06-05T18:16:34.654Z",
+  "videoId": "TgYhU5bjEI0",
+  "videoUrl": "https://www.youtube.com/watch?v=TgYhU5bjEI0",
+  "channel": {
+    "title": "ContaPyme Software Contable",
+    "id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "listUrl": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg"
+  },
+  "ytdlp": {
+    "id": "TgYhU5bjEI0",
+    "title": "Ejemplo 1 reversión de deterioro",
+    "fulltitle": "Ejemplo 1 reversión de deterioro",
+    "description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "duration": 389,
+    "duration_string": "6:29",
+    "upload_date": "20200526",
+    "timestamp": 1590524284,
+    "view_count": 16,
+    "channel": "ContaPyme",
+    "channel_id": "UCPeasMTjLab3kMBdRvG7vAg",
+    "channel_url": "https://www.youtube.com/channel/UCPeasMTjLab3kMBdRvG7vAg",
+    "uploader": "ContaPyme",
+    "uploader_id": "@ContaPymeSoftwareContable",
+    "uploader_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "Software Contable",
+      "ContaPyme",
+      "Sistema de Facturación",
+      "Contabilidad",
+      "Programa Contable",
+      "NIIF"
+    ],
+    "language": "es",
+    "age_limit": 0,
+    "live_status": "not_live",
+    "availability": "unlisted",
+    "playable_in_embed": true,
+    "thumbnail": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/maxresdefault.webp",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/3.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/3.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/2.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/2.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/1.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/1.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/mq3.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/mq3.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/mq2.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/mq2.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/mq1.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/mq1.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hq3.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/hq3.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hq2.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/hq2.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hq1.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/hq1.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/sd3.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/sd3.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/sd2.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/sd2.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/sd1.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/sd1.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/default.jpg",
+        "height": 90,
+        "width": 120,
+        "preference": -13,
+        "id": "24",
+        "resolution": "120x90"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/default.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/mqdefault.jpg",
+        "height": 180,
+        "width": 320,
+        "preference": -11,
+        "id": "26",
+        "resolution": "320x180"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/mqdefault.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/0.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/0.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDH4tgvcQj6eXosAFv4wj9h5mjr-g",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "30",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBAYXK9VZOAZSWAga6dyCYMYjXKg",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfwwyN90T24qFg5F9BDTBHL_7nTg",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBsTFViUAeiCrPe0LwsU7TxV9lk-w",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "33",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeSOIGsPp2V2BHGUHdUOXm9aSdHA",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "34",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzIa-XHK0MP7gI_gwL5uCGZADoCw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "35",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBnQPu7AvTtqOInCMyUdm5eTm0UA",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "36",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhoUwmuxxtvcaLZ41JkCDuhIsBdQ",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "37",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg",
+        "height": 360,
+        "width": 480,
+        "preference": -7,
+        "id": "38",
+        "resolution": "480x360"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/hqdefault.webp",
+        "preference": -6,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/sddefault.jpg",
+        "height": 480,
+        "width": 640,
+        "preference": -5,
+        "id": "40",
+        "resolution": "640x480"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/sddefault.webp",
+        "preference": -4,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hq720.jpg",
+        "preference": -3,
+        "id": "42"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/hq720.webp",
+        "preference": -2,
+        "id": "43"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/TgYhU5bjEI0/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "44",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/TgYhU5bjEI0/maxresdefault.webp",
+        "height": 1080,
+        "width": 1920,
+        "preference": 0,
+        "id": "45",
+        "resolution": "1920x1080"
+      }
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=TgYhU5bjEI0",
+    "is_live": false,
+    "was_live": false,
+    "formats": [
+      {
+        "format_id": "sb2",
+        "ext": "mhtml",
+        "resolution": "48x27",
+        "width": 48,
+        "height": 27,
+        "fps": 0.2570694087403599,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb1",
+        "ext": "mhtml",
+        "resolution": "80x45",
+        "width": 80,
+        "height": 45,
+        "fps": 0.20308483290488433,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "sb0",
+        "ext": "mhtml",
+        "resolution": "160x90",
+        "width": 160,
+        "height": 90,
+        "fps": 0.20308483290488433,
+        "vcodec": "none",
+        "acodec": "none",
+        "abr": 0,
+        "vbr": 0,
+        "protocol": "mhtml"
+      },
+      {
+        "format_id": "18",
+        "ext": "mp4",
+        "resolution": "640x360",
+        "width": 640,
+        "height": 360,
+        "fps": 15,
+        "vcodec": "avc1.42001E",
+        "acodec": "mp4a.40.2",
+        "tbr": 213.827,
+        "asr": 44100,
+        "filesize_approx": 10394959,
+        "protocol": "https"
+      }
+    ],
+    "comments": []
+  },
+  "oembed": {
+    "title": "Ejemplo 1 reversión de deterioro",
+    "author_name": "ContaPyme",
+    "author_url": "https://www.youtube.com/@ContaPymeSoftwareContable",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/TgYhU5bjEI0/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/TgYhU5bjEI0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Ejemplo 1 reversión de deterioro\"></iframe>"
+  },
+  "transcript": {
+    "method": "yt-dlp-vtt-deduped",
+    "languageCode": "es",
+    "dedupeVersion": 5,
+    "segmentCount": 69,
+    "transcriptChars": 5242,
+    "segments": [
+      {
+        "text": "el objetivo de este vídeo es explicar por medio de un ejemplo cómo se realiza",
+        "startMs": 5370,
+        "durationMs": 5250
+      },
+      {
+        "text": "la operación de reversión de deterioro de cartera para este ejemplo vamos a",
+        "startMs": 10620,
+        "durationMs": 5310
+      },
+      {
+        "text": "aplicar la reversión de deterioro de cartera sobre una cuenta en particular",
+        "startMs": 15930,
+        "durationMs": 4100
+      },
+      {
+        "text": "el día 31 de diciembre de 2015 se aplicó deterioro a la cuenta la señora jenny",
+        "startMs": 20030,
+        "durationMs": 5949
+      },
+      {
+        "text": "espinoza la cual venía vencida desde el 25 de julio de 2015 y cuyo valor era de",
+        "startMs": 25979,
+        "durationMs": 6211
+      },
+      {
+        "text": "2 millones de pesos el día 4 de enero de 2016 la señora jenny se ha acercado a",
+        "startMs": 32190,
+        "durationMs": 6000
+      },
+      {
+        "text": "nosotros para cancelar la totalidad de la cuenta por lo que debemos aplicar la",
+        "startMs": 38190,
+        "durationMs": 4650
+      },
+      {
+        "text": "respectiva reversión del deterioro ubicados en el manejador de operaciones",
+        "startMs": 42840,
+        "durationMs": 5510
+      },
+      {
+        "text": "damos click al botón más operaciones y en la pestaña cartera encontramos la",
+        "startMs": 48350,
+        "durationMs": 5460
+      },
+      {
+        "text": "vamos a sustentar nuestra operación con el tipo de documento de soporte 275 de",
+        "startMs": 59180,
+        "durationMs": 5480
+      },
+      {
+        "text": "reversión de deterioro de cartera vemos que el sistema asigna de forma",
+        "startMs": 510,
+        "durationMs": 68470
+      },
+      {
+        "text": "automática el número del consecutivo en la fecha soporte vamos a colocar el día",
+        "startMs": 68980,
+        "durationMs": 5310
+      },
+      {
+        "text": "4 de enero de 2016 en el detalle escribiremos reversión de deterioro",
+        "startMs": 74290,
+        "durationMs": 7290
+      },
+      {
+        "text": "cuenta de jenny espinoza vamos a indicar el centro de costos sobre el cual se",
+        "startMs": 81580,
+        "durationMs": 5279
+      },
+      {
+        "text": "cargará la reversión por el deterioro abrimos el seleccionador",
+        "startMs": 86859,
+        "durationMs": 5261
+      },
+      {
+        "text": "y vamos a buscar el centro de costos de gastos generales",
+        "startMs": 92120,
+        "durationMs": 4850
+      },
+      {
+        "text": "como en este caso el deterioro de la cuenta se contabilizó en el año 2015 y",
+        "startMs": 96980,
+        "durationMs": 5540
+      },
+      {
+        "text": "la reversión del deterioro la están realizando en el año 2016 debemos",
+        "startMs": 102520,
+        "durationMs": 4560
+      },
+      {
+        "text": "activar la opción reversión de deterioro en distinto periodo esto con el fin de",
+        "startMs": 107080,
+        "durationMs": 5880
+      },
+      {
+        "text": "indicarle al sistema que al realizarse la reversión en un periodo diferente la",
+        "startMs": 112960,
+        "durationMs": 4950
+      },
+      {
+        "text": "cuenta sobre la cual se debe contabilizar la reversión ya no será una",
+        "startMs": 117910,
+        "durationMs": 3990
+      },
+      {
+        "text": "cuenta del gasto sino una cuenta de ingresos ya que la cuenta de gastos ha",
+        "startMs": 121900,
+        "durationMs": 4770
+      },
+      {
+        "text": "sido cancelada al cerrarse el año 2015 recordemos que las cuentas que el",
+        "startMs": 126670,
+        "durationMs": 5220
+      },
+      {
+        "text": "sistema imputará automáticamente al realizarse el deterioro y la reversión",
+        "startMs": 131890,
+        "durationMs": 4230
+      },
+      {
+        "text": "del deterioro las podremos configurar en la cuenta de cartera en el catálogo de",
+        "startMs": 136120,
+        "durationMs": 5010
+      },
+      {
+        "text": "cuentas ahora vamos a cargar la cuenta que tenemos pendiente con la señora",
+        "startMs": 141130,
+        "durationMs": 4980
+      },
+      {
+        "text": "jenny espinoza damos clic al botón cargar cuentas y en la ventana que el",
+        "startMs": 146110,
+        "durationMs": 5430
+      },
+      {
+        "text": "sistema nos abre podemos seleccionar un tercero en particular",
+        "startMs": 151540,
+        "durationMs": 4490
+      },
+      {
+        "text": "un rango de cuentas y una referencia en este caso abrimos el seleccionador",
+        "startMs": 156030,
+        "durationMs": 6750
+      },
+      {
+        "text": "y buscamos a la señora jenny espinoza no vamos a cargar un rango de cuentas y",
+        "startMs": 162780,
+        "durationMs": 6920
+      },
+      {
+        "text": "tampoco referencia damos clic al botón aceptar",
+        "startMs": 169700,
+        "durationMs": 4900
+      },
+      {
+        "text": "aceptar vemos entonces cómo se ha cargado toda",
+        "startMs": 174600,
+        "durationMs": 2280
+      },
+      {
+        "text": "la información de la deuda como el saldo actual en la fecha de vencimiento la",
+        "startMs": 176880,
+        "durationMs": 6060
+      },
+      {
+        "text": "fecha del último deterioro aplicado el valor del último deterioro y el valor de",
+        "startMs": 182940,
+        "durationMs": 6000
+      },
+      {
+        "text": "los deterioros acumulados ahora en el campo valor reversión debemos digitar el",
+        "startMs": 188940,
+        "durationMs": 5520
+      },
+      {
+        "text": "valor a revertir recordemos que el sistema no nos",
+        "startMs": 194460,
+        "durationMs": 3120
+      },
+      {
+        "text": "permitirá aplicar una reversión de deterioro mayor al valor ya deteriorado",
+        "startMs": 197580,
+        "durationMs": 4140
+      },
+      {
+        "text": "para este ejemplo el cliente nos va a cancelar el total de la deuda por lo que",
+        "startMs": 201720,
+        "durationMs": 4650
+      },
+      {
+        "text": "vamos a reversar los 46 1964 pesos con 33 centavos vamos a escribir el valor",
+        "startMs": 206370,
+        "durationMs": 10870
+      },
+      {
+        "text": "y finalmente verificamos que el botón auto procesado se encuentra encendido y",
+        "startMs": 217250,
+        "durationMs": 10210
+      },
+      {
+        "text": "vamos a verificar el movimiento contable de la operación a través del inspector",
+        "startMs": 227470,
+        "durationMs": 4100
+      },
+      {
+        "text": "de datos damos click al botón ver movimiento",
+        "startMs": 231570,
+        "durationMs": 7190
+      },
+      {
+        "text": "como podemos ver en la contabilización local no se ha hecho ningún tipo de",
+        "startMs": 238770,
+        "durationMs": 4400
+      },
+      {
+        "text": "afectación si nos pasamos para la contabilización nif el sistema ha",
+        "startMs": 243170,
+        "durationMs": 5040
+      },
+      {
+        "text": "imputado a la cuenta puente del deterioro un débito por los 46 mil 964",
+        "startMs": 248210,
+        "durationMs": 5700
+      },
+      {
+        "text": "pesos y en este caso ha imputado un crédito a la cuenta de reversión de",
+        "startMs": 253910,
+        "durationMs": 5340
+      },
+      {
+        "text": "deterioro configurada en la cuenta por los mismos 46 mil 964 pesos ahora vamos",
+        "startMs": 259250,
+        "durationMs": 7470
+      },
+      {
+        "text": "a visualizar un informe de cartera para ver esta afectación vamos a la pestaña",
+        "startMs": 266720,
+        "durationMs": 4560
+      },
+      {
+        "text": "cartera botón cartera y vamos a seleccionar la consulta de saldos de",
+        "startMs": 271280,
+        "durationMs": 5730
+      },
+      {
+        "text": "cuentas por cobrar en la ventana que el sistema nos abre",
+        "startMs": 277010,
+        "durationMs": 4290
+      },
+      {
+        "text": "podemos seleccionar la fecha de referencia es decir la fecha hasta la",
+        "startMs": 281300,
+        "durationMs": 4079
+      },
+      {
+        "text": "cual se está haciendo la consulta un rango de cuentas un tercero entre otros",
+        "startMs": 285379,
+        "durationMs": 6060
+      },
+      {
+        "text": "datos en este caso la fecha de referencia será el día 4 de enero de",
+        "startMs": 291439,
+        "durationMs": 5041
+      },
+      {
+        "text": "2016 que es la fecha en la cual hemos hecho la reversión del deterioro en el",
+        "startMs": 296480,
+        "durationMs": 5669
+      },
+      {
+        "text": "tercero abrimos el seleccionador y vamos a seleccionar a la señora jenny",
+        "startMs": 302149,
+        "durationMs": 11211
+      },
+      {
+        "text": "podemos ver que la contabilización local no ha habido ningún cambio para la",
+        "startMs": 313370,
+        "durationMs": 5090
+      },
+      {
+        "text": "contabilización y vemos que no se ve reflejado el deterioro que inicialmente",
+        "startMs": 318460,
+        "durationMs": 4169
+      },
+      {
+        "text": "se le había aplicado a la cuenta luego de haber aplicado la reversión del",
+        "startMs": 322629,
+        "durationMs": 4441
+      },
+      {
+        "text": "deterioro podemos proceder a realizar el abono de la cuenta por último vamos a",
+        "startMs": 327070,
+        "durationMs": 5730
+      },
+      {
+        "text": "verificar el documento de impresión de la operación regresamos al manejador de",
+        "startMs": 332800,
+        "durationMs": 4410
+      },
+      {
+        "text": "operaciones damos clic derecho sobre la operación botón informes y luego damos",
+        "startMs": 337210,
+        "durationMs": 6360
+      },
+      {
+        "text": "clic a la opción imprimir documento como el sistema nos abre la ventana en la",
+        "startMs": 343570,
+        "durationMs": 5690
+      },
+      {
+        "text": "cual podemos seleccionar el tipo de documento de impresión con el cual",
+        "startMs": 349260,
+        "durationMs": 3240
+      },
+      {
+        "text": "deseamos imprimir la transacción en este caso vamos a utilizar el documento 550",
+        "startMs": 352500,
+        "durationMs": 6510
+      },
+      {
+        "text": "de comprobante de reversión de deterioro de cartera damos clic a la opción vista",
+        "startMs": 359010,
+        "durationMs": 8700
+      },
+      {
+        "text": "como vemos el documento de impresión muestra todos los datos relacionados con",
+        "startMs": 367720,
+        "durationMs": 3890
+      },
+      {
+        "text": "la cuenta incluyendo la fecha en la cual se aplicó el último deterioro el valor",
+        "startMs": 371610,
+        "durationMs": 6120
+      },
+      {
+        "text": "del último deterioro y el valor de la reversión del deterioro",
+        "startMs": 377730,
+        "durationMs": 4890
+      },
+      {
+        "text": "esto es todo acerca de ejemplo 1 operación de reversión de deterioro de",
+        "startMs": 382620,
+        "durationMs": 7350
+      }
+    ],
+    "plainText": "## Descripción del video\n\nDisfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.\n\n## Transcripción\n\nel objetivo de este vídeo es explicar por medio de un ejemplo cómo se realiza\nla operación de reversión de deterioro de cartera para este ejemplo vamos a\naplicar la reversión de deterioro de cartera sobre una cuenta en particular\nel día 31 de diciembre de 2015 se aplicó deterioro a la cuenta la señora jenny\nespinoza la cual venía vencida desde el 25 de julio de 2015 y cuyo valor era de\n2 millones de pesos el día 4 de enero de 2016 la señora jenny se ha acercado a\nnosotros para cancelar la totalidad de la cuenta por lo que debemos aplicar la\nrespectiva reversión del deterioro ubicados en el manejador de operaciones\ndamos click al botón más operaciones y en la pestaña cartera encontramos la\nvamos a sustentar nuestra operación con el tipo de documento de soporte 275 de\nreversión de deterioro de cartera vemos que el sistema asigna de forma\nautomática el número del consecutivo en la fecha soporte vamos a colocar el día\n4 de enero de 2016 en el detalle escribiremos reversión de deterioro\ncuenta de jenny espinoza vamos a indicar el centro de costos sobre el cual se\ncargará la reversión por el deterioro abrimos el seleccionador\ny vamos a buscar el centro de costos de gastos generales\ncomo en este caso el deterioro de la cuenta se contabilizó en el año 2015 y\nla reversión del deterioro la están realizando en el año 2016 debemos\nactivar la opción reversión de deterioro en distinto periodo esto con el fin de\nindicarle al sistema que al realizarse la reversión en un periodo diferente la\ncuenta sobre la cual se debe contabilizar la reversión ya no será una\ncuenta del gasto sino una cuenta de ingresos ya que la cuenta de gastos ha\nsido cancelada al cerrarse el año 2015 recordemos que las cuentas que el\nsistema imputará automáticamente al realizarse el deterioro y la reversión\ndel deterioro las podremos configurar en la cuenta de cartera en el catálogo de\ncuentas ahora vamos a cargar la cuenta que tenemos pendiente con la señora\njenny espinoza damos clic al botón cargar cuentas y en la ventana que el\nsistema nos abre podemos seleccionar un tercero en particular\nun rango de cuentas y una referencia en este caso abrimos el seleccionador\ny buscamos a la señora jenny espinoza no vamos a cargar un rango de cuentas y\ntampoco referencia damos clic al botón aceptar\naceptar vemos entonces cómo se ha cargado toda\nla información de la deuda como el saldo actual en la fecha de vencimiento la\nfecha del último deterioro aplicado el valor del último deterioro y el valor de\nlos deterioros acumulados ahora en el campo valor reversión debemos digitar el\nvalor a revertir recordemos que el sistema no nos\npermitirá aplicar una reversión de deterioro mayor al valor ya deteriorado\npara este ejemplo el cliente nos va a cancelar el total de la deuda por lo que\nvamos a reversar los 46 1964 pesos con 33 centavos vamos a escribir el valor\ny finalmente verificamos que el botón auto procesado se encuentra encendido y\nvamos a verificar el movimiento contable de la operación a través del inspector\nde datos damos click al botón ver movimiento\ncomo podemos ver en la contabilización local no se ha hecho ningún tipo de\nafectación si nos pasamos para la contabilización nif el sistema ha\nimputado a la cuenta puente del deterioro un débito por los 46 mil 964\npesos y en este caso ha imputado un crédito a la cuenta de reversión de\ndeterioro configurada en la cuenta por los mismos 46 mil 964 pesos ahora vamos\na visualizar un informe de cartera para ver esta afectación vamos a la pestaña\ncartera botón cartera y vamos a seleccionar la consulta de saldos de\ncuentas por cobrar en la ventana que el sistema nos abre\npodemos seleccionar la fecha de referencia es decir la fecha hasta la\ncual se está haciendo la consulta un rango de cuentas un tercero entre otros\ndatos en este caso la fecha de referencia será el día 4 de enero de\n2016 que es la fecha en la cual hemos hecho la reversión del deterioro en el\ntercero abrimos el seleccionador y vamos a seleccionar a la señora jenny\npodemos ver que la contabilización local no ha habido ningún cambio para la\ncontabilización y vemos que no se ve reflejado el deterioro que inicialmente\nse le había aplicado a la cuenta luego de haber aplicado la reversión del\ndeterioro podemos proceder a realizar el abono de la cuenta por último vamos a\nverificar el documento de impresión de la operación regresamos al manejador de\noperaciones damos clic derecho sobre la operación botón informes y luego damos\nclic a la opción imprimir documento como el sistema nos abre la ventana en la\ncual podemos seleccionar el tipo de documento de impresión con el cual\ndeseamos imprimir la transacción en este caso vamos a utilizar el documento 550\nde comprobante de reversión de deterioro de cartera damos clic a la opción vista\ncomo vemos el documento de impresión muestra todos los datos relacionados con\nla cuenta incluyendo la fecha en la cual se aplicó el último deterioro el valor\ndel último deterioro y el valor de la reversión del deterioro\nesto es todo acerca de ejemplo 1 operación de reversión de deterioro de"
+  },
+  "comments": {
+    "fetched": 0,
+    "items": []
+  },
+  "technical": {
+    "bestFormatId": "18",
+    "container": "mp4",
+    "resolution": "640x360",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "tbr": 213.827,
+    "asr": 44100,
+    "filesizeApprox": 10394959,
+    "formatCount": 4
+  },
+  "contentKind": "videos",
+  "publishYear": "2020",
+  "files": {
+    "year": "2020",
+    "kind": "videos",
+    "md": "videos/2020/TgYhU5bjEI0.md",
+    "json": "videos/2020/TgYhU5bjEI0.json",
+    "infoJson": "videos/2020/TgYhU5bjEI0.info.json"
+  }
+}

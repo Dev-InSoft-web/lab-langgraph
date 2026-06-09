@@ -3,7 +3,7 @@
  *   npm run db:migrate-entity-domain
  */
 import { preloadLabSecrets } from "../src/lib/core/secrets.js";
-import { getPatyDatabaseUrl } from "../src/lib/core/config.js";
+import { getLanglabDatabaseUrl } from "../src/lib/core/config.js";
 import { getPatyPgPool, getClientesisPgPool, getRagPgPool, pingPatyDb, pingRagDb } from "../src/lib/db/pg.js";
 import { pgQ } from "../src/lib/db/pg-quote.js";
 import {
@@ -16,7 +16,7 @@ import {
 preloadLabSecrets();
 
 try {
-	getPatyDatabaseUrl();
+	getLanglabDatabaseUrl();
 } catch (e) {
 	console.error(e);
 	process.exit(1);
@@ -104,33 +104,33 @@ async function renameSequences(pool: { query: Function }): Promise<void> {
 }
 
 async function recreateFunctions(pool: { query: Function }): Promise<void> {
-	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_PATY"`);
+	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_LANGLAB"`);
 	await pool.query(`CREATE SCHEMA IF NOT EXISTS "BD_LAB"`);
 	await pool.query(`
-		CREATE OR REPLACE FUNCTION "BD_PATY"."CONVERSACION_NEXTTURNINDEX"(p_iconversacion BIGINT)
+		CREATE OR REPLACE FUNCTION "BD_LANGLAB"."CONVERSACION_NEXTTURNINDEX"(p_iconversacion BIGINT)
 		RETURNS INT LANGUAGE sql STABLE AS $$
 			SELECT COALESCE(MAX("ITURNINDEX"), 0) + 1
-			FROM "BD_PATY"."CONVERSACION_CONVERSACIONTURNO"
+			FROM "BD_LANGLAB"."CONVERSACION_TURNO"
 			WHERE "ICONVERSACION" = p_iconversacion;
 		$$`);
 	await pool.query(`
-		CREATE OR REPLACE FUNCTION "BD_PATY"."ORCHESTRATOR_EXPIRESTALORCHESTRATORLEASES"()
+		CREATE OR REPLACE FUNCTION "BD_LANGLAB"."ORCHESTRATOR_EXPIRESTALORCHESTRATORLEASES"()
 		RETURNS INT LANGUAGE plpgsql AS $$
 		DECLARE n INT;
 		BEGIN
-			UPDATE "BD_LAB"."ORCHESTRATOR_ORCHESTRATORLEASE"
+			UPDATE "BD_LAB"."ORCHESTRATOR_LEASE"
 			SET "RELEASEDAT" = NOW(), "BOK" = FALSE,
 				"LASTERROR" = COALESCE("LASTERROR", 'expired_stale_lease')
 			WHERE "RELEASEDAT" IS NULL AND "EXPIRESAT" < NOW();
 			GET DIAGNOSTICS n = ROW_COUNT;
-			DELETE FROM "BD_PATY"."CONVERSACION_CONVERSACIONTURNOLOCK" WHERE "LOCKEDUNTIL" < NOW();
+			DELETE FROM "BD_LANGLAB"."CONVERSACION_TURNOLOCK" WHERE "LOCKEDUNTIL" < NOW();
 			RETURN n;
 		END;
 		$$`);
 	// Quitar funciones con prefijo PATY_ si existen
 	for (const fn of ["PATY_NEXTTURNINDEX", "PATY_EXPIRESTALORCHESTRATORLEASES"]) {
-		await pool.query(`DROP FUNCTION IF EXISTS "BD_PATY".${pgQ(fn)}(BIGINT)`).catch(() => {});
-		await pool.query(`DROP FUNCTION IF EXISTS "BD_PATY".${pgQ(fn)}()`).catch(() => {});
+		await pool.query(`DROP FUNCTION IF EXISTS "BD_LANGLAB".${pgQ(fn)}(BIGINT)`).catch(() => {});
+		await pool.query(`DROP FUNCTION IF EXISTS "BD_LANGLAB".${pgQ(fn)}()`).catch(() => {});
 	}
 	console.log("  funciones CONVERSACION_/ORCHESTRATOR_ actualizadas");
 }
@@ -145,7 +145,7 @@ async function ensureClientesisSchema(pool: { query: Function }): Promise<void> 
 	);
 	for (const row of legacyTables.rows) {
 		const src = `${pgQ(row.schemaname)}.${pgQ(row.tablename)}`;
-		const hasNew = await tableExists(pool, "BD_CLIENTESIS", "ENTITY_ENTITYROW");
+		const hasNew = await tableExists(pool, "BD_CLIENTESIS", "ENTITY_ROW");
 		const hasOld = await tableExists(pool, row.schemaname, row.tablename);
 		if (!hasOld) continue;
 		if (!hasNew) {
@@ -154,9 +154,9 @@ async function ensureClientesisSchema(pool: { query: Function }): Promise<void> 
 				`ALTER TABLE ${src} SET SCHEMA "BD_CLIENTESIS"`,
 			);
 			await pool.query(
-				`ALTER TABLE "BD_CLIENTESIS".${pgQ(row.tablename)} RENAME TO ${pgQ("ENTITY_ENTITYROW")}`,
+				`ALTER TABLE "BD_CLIENTESIS".${pgQ(row.tablename)} RENAME TO ${pgQ("ENTITY_ROW")}`,
 			);
-			console.log(`  clientesis: ${row.schemaname}.${row.tablename} → BD_CLIENTESIS.ENTITY_ENTITYROW`);
+			console.log(`  clientesis: ${row.schemaname}.${row.tablename} → BD_CLIENTESIS.ENTITY_ROW`);
 		}
 	}
 }
@@ -197,7 +197,7 @@ async function migratePool(pool: { query: Function }, label: string, filter?: (r
 
 console.log("Migración prefijos entidad (PATY_/LAB_/… → CONVERSACION_/ENTITY_/…) …");
 const opsPool = getPatyPgPool();
-await migratePool(opsPool, "Ops (BD_PATY + BD_LAB)", (r) => r.schema !== "BD_RAG" && r.schema !== "BD_CLIENTESIS");
+await migratePool(opsPool, "Ops (BD_LANGLAB + BD_LAB)", (r) => r.schema !== "BD_RAG" && r.schema !== "BD_CLIENTESIS");
 await renameSequences(opsPool);
 await recreateFunctions(opsPool);
 await ensureClientesisSchema(opsPool);
