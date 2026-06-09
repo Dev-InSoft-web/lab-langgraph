@@ -13,7 +13,6 @@ export {
 	T_PATY_CONVERSACION_TURNO_LOCK,
 	T_PATY_CONVERSACION_TURNO_TIMING,
 	T_RAG_VEC_CONTAPYME,
-	T_RAG_VEC_FITDOCS,
 	Q_LAB_API_KEY_SLOT,
 	Q_LAB_ORCHESTRATOR_LEASE,
 } from "../db/pg-identifiers.js";
@@ -25,15 +24,13 @@ export const TABLE_CONVERSACION_TURN_TIMING = "CONVERSACION_TURNOTIMING";
 export const TABLE_LAB_CAPABILITY_TIMING = "ORCHESTRATOR_CAPABILITY";
 export const TABLE_LAB_ORCHESTRATOR_ROTATION_LOG = "ORCHESTRATOR_ROTATIONLOG";
 
-export const PGVECTOR_TABLE_FITDOCS = "VECTOR_FITDOCS";
 export const PGVECTOR_TABLE_CONTAPYME = "VECTOR_CONTAPYME";
 
 /** @deprecated Usar getRagVectorTableName() */
 export const PGVECTOR_COLLECTION = PGVECTOR_TABLE_CONTAPYME;
 
-export function getRagVectorTableName(profile?: "contapyme" | "fitdocs"): string {
-	const p = profile ?? (process.env.RAG_PROFILE?.toLowerCase() === "fitdocs" ? "fitdocs" : "contapyme");
-	return p === "fitdocs" ? PGVECTOR_TABLE_FITDOCS : PGVECTOR_TABLE_CONTAPYME;
+export function getRagVectorTableName(): string {
+	return PGVECTOR_TABLE_CONTAPYME;
 }
 
 export const EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2";

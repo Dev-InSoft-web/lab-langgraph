@@ -11,5 +11,6 @@ preloadIsaDocSecrets();
 const username = process.env.LAB_SEED_USERNAME?.trim() || "JAGUDELOE";
 const password = process.env.LAB_SEED_PASSWORD?.trim() || "Jeffrey1.618";
 
-await upsertLabUser({ username, password, displayName: username });
-console.log(`Usuario lab listo: ${username.toUpperCase()}`);
+const roleCode = process.env.LAB_SEED_ROLE?.trim() || "admin";
+await upsertLabUser({ username, password, displayName: username, roleCode });
+console.log(`Usuario lab listo: ${username.toUpperCase()} (rol: ${roleCode})`);

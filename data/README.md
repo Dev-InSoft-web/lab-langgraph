@@ -1,15 +1,17 @@
-# Datos persistentes del backend
+# Datos persistentes del backend (respaldo local)
 
-Todo lo que antes vivía en ISA-DOC para operar el lab está aquí.
+**Runtime en Azure:** solo consulta **PostgreSQL**. Esta carpeta alimenta migraciones (`npm run db:sync-runtime-data`), no el servidor en producción.
+
+Espejo JSON opcional en local: `LAB_DATA_MIRROR=true`.
 
 | Ruta | Uso |
 |------|-----|
-| `api-catalog.json` | Manifiesto único Postman (runtime default) |
-| `postman/` | Colecciones y environments fuente |
-| `patyia/prompts/catalog/` | Prompts Ultra → sync PostgreSQL |
-| `patyia/caches/` | Caches JSON conversaciones / identidades |
-| `bitacora/revisado.json` | Estado bitácora |
-| `openai-storage/` | OpenAI mirror (migrate con `--openai`) |
+| `api-catalog.json` | Respaldo local · runtime lee `BD_ISADOC.APICATALOG_MANIFEST` |
+| `postman/` | Fuente build → `catalog:build` → PG |
+| `patyia/prompts/catalog/` | Respaldo MD · runtime lee `BD_LANGLAB.INSTRUCCION` (`?refresh=1` sincroniza) |
+| `patyia/caches/` | Respaldo JSON · runtime lee `BD_ISADOC.ENTITY_ROW` (patyia/caches/*) |
+| `bitacora/revisado.json` | Respaldo · runtime lee `BD_ISADOC.BITACORA_REVISADO` |
+| `openai-storage/` | Respaldo JSON · runtime lee `BD_ISADOC.ENTITY_ROW` (isa-doc/openai-storage/*) |
 | `clientesis-schema/` | Árbol tablas y columnas |
 | `codegen/`, `sql/` | Editor SQL / DER |
 | `vectorize/` | Corpus RAG (YouTube, gobierno, PDFs) |

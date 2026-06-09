@@ -15,6 +15,7 @@ import "./functions/imgbbAssets.js";
 import "./functions/ticketMermaid.js";
 import "./functions/configConnections.js";
 import "./functions/mssqlEndpoints.js";
+import "./functions/pgLanglabEndpoints.js";
 import "./functions/labTools.js";
 import "./functions/apiAgent.js";
 import "./functions/askQuestion.js";

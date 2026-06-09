@@ -64,7 +64,6 @@ const OPS_MOVES: TableMove[] = [
 const RAG_MOVES: TableMove[] = [
 	{ oldSchema: "bd_rag", oldTable: "rag_index_run", newSchema: "BD_RAG", newTable: "INDEX_RUN" },
 	{ oldSchema: "bd_rag", oldTable: "rag_vec_contapyme", newSchema: "BD_RAG", newTable: "VECTOR_CONTAPYME" },
-	{ oldSchema: "bd_rag", oldTable: "rag_vec_fitdocs", newSchema: "BD_RAG", newTable: "VECTOR_FITDOCS" },
 ];
 
 async function tableExists(pool: { query: Function }, schema: string, table: string): Promise<boolean> {

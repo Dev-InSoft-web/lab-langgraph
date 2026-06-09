@@ -1,7 +1,5 @@
-import { readFile } from "node:fs/promises";
-import { join } from "node:path";
 import { invokeOrchestratedClassifier } from "../../llm/orchestrated-chat.js";
-import { PATYIA_PROMPTS_CATALOG } from "../../core/lab-data-paths.js";
+import { getClassifierPromptFromDb } from "../db/promptsRepo.js";
 import { type ConsultaTipo, isConsultaTipo, CONSULTA_TIPOS } from "./types.js";
 
 const CLASSIFIER_SYSTEM_DEFAULT = `Clasifica intención ContaPyme®. Solo JSON: {{"tipo_consulta":"CODIGO"}}.
@@ -27,20 +25,14 @@ let classifierSystemCache: string | null = null;
 
 async function loadClassifierSystem(): Promise<string> {
 	if (classifierSystemCache) return classifierSystemCache;
-	const path = join(
-		PATYIA_PROMPTS_CATALOG(),
-		"operativo",
-		"clasificador-tipo-consulta-pmpt.md",
-	);
 	try {
-		const md = await readFile(path, "utf8");
-		const block = md.match(/```\s*([\s\S]*?)```/);
-		if (block?.[1]?.includes("tipo_consulta")) {
-			classifierSystemCache = block[1].trim();
+		const fromDb = await getClassifierPromptFromDb();
+		if (fromDb) {
+			classifierSystemCache = fromDb;
 			return classifierSystemCache;
 		}
 	} catch {
-		/* bundled default */
+		/* PG no disponible */
 	}
 	classifierSystemCache = CLASSIFIER_SYSTEM_DEFAULT;
 	return classifierSystemCache;

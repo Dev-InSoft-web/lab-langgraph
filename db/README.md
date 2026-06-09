@@ -3,7 +3,7 @@
 | Variable | BD Render | Schemas / tablas |
 |----------|-----------|------------------|
 | `DATABASE_URL` | **langlab** (operacional) | `paty.*` conversaciones, prompts, orquestador · `lab.*` catálogo API |
-| `RAG_DATABASE_URL` | **rag_5hen** (solo RAG) | `rag.*` embeddings (`vec_contapyme`, `vec_fitdocs`, `index_run`) |
+| `RAG_DATABASE_URL` | **rag_5hen** (solo RAG) | `BD_RAG.*` embeddings (`VECTOR_CONTAPYME`, `INDEX_RUN`) |
 
 Todas las tablas quedan agrupadas por **prefijo de schema** (= dominio).
 

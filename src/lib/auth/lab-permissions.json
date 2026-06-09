@@ -1,0 +1,30 @@
+{
+  "_comment": "Plantilla de seed (npm run auth:seed-permissions). Runtime lee BD_LANGLAB.AUTH_ROLE / AUTH_ROLEALLOW / AUTH_USER.ROLECODE.",
+  "roles": {
+    "admin": {
+      "description": "Acceso total a endpoints protegidos",
+      "allow": ["*"]
+    },
+    "instrucciones_editor": {
+      "description": "GET libre para todos; solo POST de persistencia de instrucciones (MD → BD_LANGLAB)",
+      "allow": [
+        "POST:/pg/langlab/exec",
+        "POST:/patyia/prompts/upsert-sql"
+      ]
+    }
+  },
+  "users": {
+    "JAGUDELOE": { "role": "admin" },
+    "VRESTREPO": { "role": "instrucciones_editor" },
+    "INTEGRACIONES": { "role": "admin" }
+  },
+  "user_exceptions": {
+    "VRESTREPO": [
+      {
+        "description": "Única mutación MSSQL staging: fusión prompts en INSTRUCCION (+ enlace TDCONSULTAXINSTRUCCION)",
+        "allow": "POST:/mssql/paty/exec",
+        "sql_scope": "paty_staging_instrucciones"
+      }
+    ]
+  }
+}

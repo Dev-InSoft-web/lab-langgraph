@@ -1,8 +1,8 @@
-CREATE SCHEMA IF NOT EXISTS bd_rag;
+CREATE SCHEMA IF NOT EXISTS "BD_RAG";
 
-COMMENT ON SCHEMA bd_rag IS 'Corpus vectorizado. BD dedicada RAG_DATABASE_URL.';
+COMMENT ON SCHEMA "BD_RAG" IS 'Corpus vectorizado. BD dedicada RAG_DATABASE_URL.';
 
-CREATE TABLE IF NOT EXISTS bd_rag.rag_index_run (
+CREATE TABLE IF NOT EXISTS "BD_RAG"."INDEX_RUN" (
 	iid BIGSERIAL PRIMARY KEY,
 	profile TEXT NOT NULL,
 	sourcetype TEXT NOT NULL DEFAULT 'unknown',
@@ -13,25 +13,15 @@ CREATE TABLE IF NOT EXISTS bd_rag.rag_index_run (
 	meta JSONB NOT NULL DEFAULT '{}'
 );
 
-CREATE INDEX IF NOT EXISTS ix_rag_index_run_profile
-	ON bd_rag.rag_index_run (profile, startedat DESC);
+CREATE INDEX IF NOT EXISTS "IX_RAG_INDEX_RUN_PROFILE"
+	ON "BD_RAG"."INDEX_RUN" (profile, startedat DESC);
 
-CREATE TABLE IF NOT EXISTS bd_rag.rag_vec_contapyme (
+CREATE TABLE IF NOT EXISTS "BD_RAG"."VECTOR_CONTAPYME" (
 	id UUID NOT NULL DEFAULT gen_random_uuid() PRIMARY KEY,
 	content TEXT,
 	metadata JSONB,
 	embedding vector(384)
 );
 
-CREATE INDEX IF NOT EXISTS ix_rag_vec_contapyme_embedding
-	ON bd_rag.rag_vec_contapyme USING hnsw (embedding vector_cosine_ops);
-
-CREATE TABLE IF NOT EXISTS bd_rag.rag_vec_fitdocs (
-	id UUID NOT NULL DEFAULT gen_random_uuid() PRIMARY KEY,
-	content TEXT,
-	metadata JSONB,
-	embedding vector(384)
-);
-
-CREATE INDEX IF NOT EXISTS ix_rag_vec_fitdocs_embedding
-	ON bd_rag.rag_vec_fitdocs USING hnsw (embedding vector_cosine_ops);
+CREATE INDEX IF NOT EXISTS "IX_RAG_VEC_CONTAPYME_EMBEDDING"
+	ON "BD_RAG"."VECTOR_CONTAPYME" USING hnsw (embedding vector_cosine_ops);

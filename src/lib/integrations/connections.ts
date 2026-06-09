@@ -14,7 +14,7 @@ import {
 } from "../core/lab-constants.js";
 import { bundledCatalogExists } from "./postman/paths.js";
 import { loadEnvironments, mergeEnvSecrets, resolveEnvironment } from "./postman/env.js";
-import { getManifestMeta, getLoadedCatalogSource } from "./postman/manifest.js";
+import { getManifestMeta, getLoadedCatalogSource, loadApiCatalogManifest } from "./postman/manifest.js";
 import { loadCatalog } from "./postman/catalog.js";
 import { loadProjectToken } from "./tokens.js";
 import type { ApiProject } from "./postman/types.js";
@@ -41,6 +41,11 @@ export async function getConnectionsSummary(): Promise<{
 	projects: ConnectionProfile[];
 }> {
 	preloadLabSecrets();
+	try {
+		await loadApiCatalogManifest();
+	} catch {
+		/* catálogo aún sin seed en PG */
+	}
 	const projects: ApiProject[] = ["patyia", "clientesis"];
 	const out: ConnectionProfile[] = [];
 	for (const project of projects) {
@@ -62,7 +67,7 @@ export async function getConnectionsSummary(): Promise<{
 					]),
 				),
 				hasToken: Boolean(merged.token?.trim()),
-				collectionReady: bundledCatalogExists() && loadCatalog(project).length > 0,
+				collectionReady: loadCatalog(project).length > 0,
 			});
 		} catch {
 			out.push({
@@ -71,7 +76,7 @@ export async function getConnectionsSummary(): Promise<{
 				envName: "?",
 				vars: {},
 				hasToken: Boolean(loadProjectToken(project)),
-				collectionReady: bundledCatalogExists(),
+				collectionReady: false,
 			});
 		}
 	}

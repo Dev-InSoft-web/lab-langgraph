@@ -31,8 +31,22 @@ async function negotiateHandler(
 	}
 
 	try {
-		const info = context.extraInputs.get(connectionInfoInput);
-		return jsonResponse({ ok: true, hub: SIGNALR_HUB_NAME, connectionInfo: info }, 200, corsHeaders(origin));
+		const info = context.extraInputs.get(connectionInfoInput) as
+			| { url?: string; accessToken?: string; negotiateVersion?: number }
+			| undefined;
+		if (!info?.url || !info?.accessToken) {
+			return jsonResponse(
+				{ ok: false, error: "Negotiate sin url/accessToken", hub: SIGNALR_HUB_NAME },
+				502,
+				corsHeaders(origin),
+			);
+		}
+		// @microsoft/signalr espera url + accessToken en la raíz del JSON de negotiate.
+		return jsonResponse(
+			{ negotiateVersion: 1, url: info.url, accessToken: info.accessToken, hub: SIGNALR_HUB_NAME },
+			200,
+			corsHeaders(origin),
+		);
 	} catch (err) {
 		context.error("signalr negotiate", err);
 		return jsonResponse(

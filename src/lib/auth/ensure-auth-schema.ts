@@ -1,24 +1,103 @@
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import { getPatyPgPool } from "../db/pg.js";
 
 let applied = false;
 
-/** DDL embebido (el zip de Azure no incluye `db/schema/`). */
-const LAB_AUTHUSER_DDL = `
-CREATE SCHEMA IF NOT EXISTS "BD_LAB";
-CREATE TABLE IF NOT EXISTS "BD_LAB"."LAB_AUTHUSER" (
+/**
+ * BD_LAB y BD_LANGLAB son el mismo dominio operacional.
+ * Antes de crear tablas auth, consolidar esquema legacy (019).
+ */
+const CONSOLIDATE_BD_LAB = `
+CREATE SCHEMA IF NOT EXISTS "BD_LANGLAB";
+
+DO $$
+BEGIN
+	IF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LAB' AND tablename = 'LAB_AUTHUSER')
+	   AND EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'AUTH_USER') THEN
+		INSERT INTO "BD_LANGLAB"."AUTH_USER" ("USERNAME", "PASSWORDHASH", "DISPLAYNAME", "ROLECODE", "ACTIVE", "FHCRE", "FHULTACT")
+		SELECT s."USERNAME", s."PASSWORDHASH", s."DISPLAYNAME", s."ROLECODE", s."ACTIVE", s."FHCRE", s."FHULTACT"
+		FROM "BD_LAB"."LAB_AUTHUSER" s
+		WHERE NOT EXISTS (SELECT 1 FROM "BD_LANGLAB"."AUTH_USER" t WHERE t."USERNAME" = s."USERNAME");
+		DROP TABLE "BD_LAB"."LAB_AUTHUSER";
+	ELSIF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LAB' AND tablename = 'LAB_AUTHUSER')
+	   AND NOT EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename IN ('AUTH_USER', 'LAB_AUTHUSER')) THEN
+		ALTER TABLE "BD_LAB"."LAB_AUTHUSER" SET SCHEMA "BD_LANGLAB";
+		ALTER TABLE "BD_LANGLAB"."LAB_AUTHUSER" RENAME TO "AUTH_USER";
+	END IF;
+
+	IF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'LAB_AUTHUSER')
+	   AND NOT EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'AUTH_USER') THEN
+		ALTER TABLE "BD_LANGLAB"."LAB_AUTHUSER" RENAME TO "AUTH_USER";
+	ELSIF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'LAB_AUTHUSER')
+	   AND EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'AUTH_USER') THEN
+		DROP TABLE "BD_LANGLAB"."LAB_AUTHUSER";
+	END IF;
+
+	IF EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LAB' AND tablename = 'AUTH_AUTHUSER')
+	   AND NOT EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'BD_LANGLAB' AND tablename = 'AUTH_USER') THEN
+		ALTER TABLE "BD_LAB"."AUTH_AUTHUSER" SET SCHEMA "BD_LANGLAB";
+		ALTER TABLE "BD_LANGLAB"."AUTH_AUTHUSER" RENAME TO "AUTH_USER";
+	END IF;
+END $$;
+`;
+
+const LAB_AUTH_DDL = `
+CREATE TABLE IF NOT EXISTS "BD_LANGLAB"."AUTH_USER" (
 	"USERNAME" TEXT PRIMARY KEY,
 	"PASSWORDHASH" TEXT NOT NULL,
 	"DISPLAYNAME" TEXT,
+	"ROLECODE" TEXT,
 	"ACTIVE" BOOLEAN NOT NULL DEFAULT true,
 	"FHCRE" TIMESTAMPTZ NOT NULL DEFAULT now(),
 	"FHULTACT" TIMESTAMPTZ NOT NULL DEFAULT now()
 );
-CREATE INDEX IF NOT EXISTS "IX_LAB_AUTHUSER_ACTIVE" ON "BD_LAB"."LAB_AUTHUSER" ("USERNAME") WHERE "ACTIVE" = true;
+
+CREATE INDEX IF NOT EXISTS "IX_AUTH_USER_ACTIVE" ON "BD_LANGLAB"."AUTH_USER" ("USERNAME") WHERE "ACTIVE" = true;
+
+CREATE TABLE IF NOT EXISTS "BD_LANGLAB"."AUTH_ROLE" (
+	"ROLECODE" TEXT PRIMARY KEY,
+	"DESCRIPTION" TEXT,
+	"ACTIVE" BOOLEAN NOT NULL DEFAULT true,
+	"FHCRE" TIMESTAMPTZ NOT NULL DEFAULT now(),
+	"FHULTACT" TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS "BD_LANGLAB"."AUTH_ROLEALLOW" (
+	"ROLECODE" TEXT NOT NULL REFERENCES "BD_LANGLAB"."AUTH_ROLE" ("ROLECODE") ON DELETE CASCADE,
+	"ALLOWRULE" TEXT NOT NULL,
+	PRIMARY KEY ("ROLECODE", "ALLOWRULE")
+);
+
+CREATE TABLE IF NOT EXISTS "BD_LANGLAB"."AUTH_USERALLOW" (
+	"USERNAME" TEXT NOT NULL REFERENCES "BD_LANGLAB"."AUTH_USER" ("USERNAME") ON DELETE CASCADE,
+	"ALLOWRULE" TEXT NOT NULL,
+	"SQLSCOPE" TEXT,
+	"DESCRIPTION" TEXT,
+	PRIMARY KEY ("USERNAME", "ALLOWRULE")
+);
+
+ALTER TABLE "BD_LANGLAB"."AUTH_USER" ADD COLUMN IF NOT EXISTS "ROLECODE" TEXT;
 `;
 
-/** Solo tabla LAB_AUTHUSER — idempotente; no lee archivos del repo (compatible con Azure zip). */
+function loadConsolidate019Sql(): string {
+	try {
+		return readFileSync(
+			join(process.cwd(), "db/schema/ops/019_consolidate_bd_lab_into_bd_langlab.sql"),
+			"utf8",
+		);
+	} catch {
+		return "";
+	}
+}
+
+/** Auth + permisos en BD_LANGLAB únicamente (sin crear BD_LAB). */
 export async function ensureLabAuthSchema(): Promise<void> {
 	if (applied) return;
-	await getPatyPgPool().query(LAB_AUTHUSER_DDL);
+	const pool = getPatyPgPool();
+	await pool.query(CONSOLIDATE_BD_LAB);
+	const full019 = loadConsolidate019Sql();
+	if (full019) await pool.query(full019);
+	await pool.query(LAB_AUTH_DDL);
 	applied = true;
 }

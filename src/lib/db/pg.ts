@@ -24,7 +24,7 @@ function poolConfig(connectionString: string): PoolConfig {
 	};
 }
 
-/** PostgreSQL principal del lab (BD_LANGLAB, BD_LAB, …). */
+/** PostgreSQL principal del lab (esquema canónico BD_LANGLAB; BD_LAB = legacy consolidado). */
 export function getLanglabPgPool(): Pool {
 	if (!patyPool) {
 		patyPool = new Pool(poolConfig(getLanglabDatabaseUrl()));

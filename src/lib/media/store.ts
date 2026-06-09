@@ -1,6 +1,8 @@
 import { createHash } from "node:crypto";
-import { mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
+import { getEntityRow, upsertEntityRow } from "../ispgen/repository.js";
+import { unwrapPersistenceBody } from "../persistence/persistence-entity-map.js";
 
 export type MediaEntry = {
 	id: string;
@@ -14,7 +16,8 @@ export type MediaEntry = {
 type Manifest = { items: MediaEntry[] };
 
 const MEDIA_ROOT = process.env.MEDIA_STORAGE_PATH?.trim() || join(process.cwd(), "storage", "media");
-const MANIFEST_PATH = join(MEDIA_ROOT, "manifest.json");
+const MANIFEST_SEG = { project: "isa-doc", page: "media", entity: "manifest" } as const;
+const MANIFEST_PK = "default";
 
 let manifestCache: Manifest | null = null;
 
@@ -24,20 +27,19 @@ async function ensureDir(): Promise<void> {
 
 async function readManifest(): Promise<Manifest> {
 	if (manifestCache) return manifestCache;
-	try {
-		const raw = await readFile(MANIFEST_PATH, "utf8");
-		manifestCache = JSON.parse(raw) as Manifest;
-		return manifestCache;
-	} catch {
-		manifestCache = { items: [] };
+	const row = await getEntityRow(MANIFEST_SEG, MANIFEST_PK);
+	const fromPg = unwrapPersistenceBody<Manifest>(row?.body ?? null);
+	if (fromPg?.items) {
+		manifestCache = fromPg;
 		return manifestCache;
 	}
+	manifestCache = { items: [] };
+	return manifestCache;
 }
 
 async function writeManifest(manifest: Manifest): Promise<void> {
 	manifestCache = manifest;
-	await ensureDir();
-	await writeFile(MANIFEST_PATH, JSON.stringify(manifest, null, 2), "utf8");
+	await upsertEntityRow(MANIFEST_SEG, MANIFEST_PK, { id: MANIFEST_PK, body: manifest });
 }
 
 export function mediaFilePath(id: string): string {
@@ -94,7 +96,6 @@ export async function readMediaPng(id: string): Promise<Buffer | null> {
 	}
 }
 
-/** Páginas del chunk (ej. "5" o "3-7") vs imagen en página N. */
 export function pageMatches(chunkPage: string, imagePage: number): boolean {
 	const p = chunkPage.trim();
 	if (p === String(imagePage)) return true;

@@ -26,11 +26,22 @@ export function labAuthRequired(): boolean {
 	return true;
 }
 
-export async function signLabJwt(username: string): Promise<{ token: string; expiresAt: string }> {
+export type LabJwtExtras = {
+	onBehalfOf?: string;
+	sqlScope?: string;
+};
+
+export async function signLabJwt(
+	username: string,
+	extras?: LabJwtExtras,
+): Promise<{ token: string; expiresAt: string }> {
 	const now = Math.floor(Date.now() / 1000);
 	const exp = now + LAB_JWT_EXPIRY_DAYS * 24 * 60 * 60;
 	const { SignJWT } = await jose();
-	const token = await new SignJWT({ username })
+	const payload: Record<string, string> = { username };
+	if (extras?.onBehalfOf?.trim()) payload.onBehalfOf = extras.onBehalfOf.trim();
+	if (extras?.sqlScope?.trim()) payload.sqlScope = extras.sqlScope.trim();
+	const token = await new SignJWT(payload)
 		.setProtectedHeader({ alg: "HS256" })
 		.setSubject(username)
 		.setIssuedAt(now)

@@ -33,3 +33,47 @@ export function assertReadOnlySql(sql: string): void {
 		}
 	}
 }
+
+const PATY_STAGING_INSTRUCCIONES_MUTATION_TABLES = new Set(["INSTRUCCION", "TDCONSULTAXINSTRUCCION"]);
+
+const FORBIDDEN_EXEC_KEYWORDS =
+	/\b(DROP|ALTER|TRUNCATE|DELETE|EXEC(?:UTE)?|GRANT|REVOKE|DENY|BACKUP|RESTORE|DBCC|KILL|SHUTDOWN)\b/i;
+
+function extractMutationTables(sql: string): Set<string> {
+	const cleaned = stripComments(sql);
+	const tables = new Set<string>();
+	const patterns = [
+		/\bMERGE\s+(?:\[dbo\]\.)?\[?(\w+)\]?/gi,
+		/\bINSERT\s+INTO\s+(?:\[dbo\]\.)?\[?(\w+)\]?/gi,
+		/\bUPDATE\s+(?:\[dbo\]\.)?\[?(\w+)\]?/gi,
+	];
+	for (const pattern of patterns) {
+		for (const match of cleaned.matchAll(pattern)) {
+			const name = match[1]?.trim().toUpperCase();
+			if (name) tables.add(name);
+		}
+	}
+	return tables;
+}
+
+/** VRESTREPO: solo fusión de prompts en INSTRUCCION (+ enlace TDCONSULTAXINSTRUCCION) en Paty staging. */
+export function assertPatyStagingInstruccionesSql(sql: string): void {
+	const cleaned = stripComments(sql).trim();
+	if (!cleaned) throw new Error("SQL vacío");
+	if (FORBIDDEN_EXEC_KEYWORDS.test(cleaned)) {
+		throw new Error("Operación no permitida. Solo fusión de INSTRUCCION en PatyIA staging.");
+	}
+
+	const mutationTables = extractMutationTables(cleaned);
+	if (!mutationTables.size) {
+		throw new Error("Sin cambios en INSTRUCCION. Solo MERGE/INSERT/UPDATE sobre INSTRUCCION.");
+	}
+
+	for (const table of mutationTables) {
+		if (!PATY_STAGING_INSTRUCCIONES_MUTATION_TABLES.has(table)) {
+			throw new Error(
+				`Tabla no permitida (${table}). VRESTREPO solo puede actualizar INSTRUCCION y TDCONSULTAXINSTRUCCION en staging.`,
+			);
+		}
+	}
+}

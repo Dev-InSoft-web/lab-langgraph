@@ -16,7 +16,7 @@ function env(...keys: string[]): string {
 	return "";
 }
 
-/** PostgreSQL principal del lab (esquemas BD_LANGLAB, BD_LAB, … en Render `langlab`). */
+/** PostgreSQL principal del lab (BD_LANGLAB; BD_LAB es alias histórico consolidado). */
 export function getLanglabDatabaseUrl(): string {
 	preloadIsaDocSecrets();
 	const url = env(
@@ -120,8 +120,8 @@ export function getHuggingFaceApiKey(): string {
 	return key;
 }
 
-export function getPgCollection(profile?: "contapyme" | "fitdocs"): string {
-	return getRagVectorTableName(profile ?? getRagProfile());
+export function getPgCollection(): string {
+	return getRagVectorTableName();
 }
 
 export { EMBEDDING_MODEL, EMBEDDING_DIMENSIONS };
@@ -138,10 +138,4 @@ export function getOpenAiApiKeyOptional(): string | null {
 	preloadIsaDocSecrets();
 	const key = env("paty_openai_api_key", "OPENAI_API_KEY", "OPENAI_PROOFREAD_API_KEY");
 	return key || null;
-}
-
-/** `contapyme` = videos YouTube ContaPyme; `fitdocs` = PDFs fitness (default histórico). */
-export function getRagProfile(): "contapyme" | "fitdocs" {
-	const p = env("RAG_PROFILE").toLowerCase();
-	return p === "fitdocs" ? "fitdocs" : "contapyme";
 }

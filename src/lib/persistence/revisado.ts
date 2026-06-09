@@ -1,61 +1,36 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { ensureLanglabSchema } from "../db/ensure-schemas.js";
-import { readPersistenceJson, writePersistenceJson } from "./json-store.js";
-import { countRevisadoPg, readRevisadoAllPg, writeRevisadoManyPg } from "./revisado-pg.js";
-import { loadMergedRevisadoJson } from "./revisado-merge.js";
+import { writePersistenceData } from "./persistence-store.js";
+import { readRevisadoAllPg, writeRevisadoManyPg } from "./revisado-pg.js";
 
 const REL = "bitacora/revisado.json";
 export type RevisadoMap = Record<string, boolean>;
 
-let pgReady: Promise<void> | null = null;
-
 async function ensurePgRevisado(): Promise<void> {
-	if (!pgReady) {
-		pgReady = (async () => {
-			await ensureLanglabSchema();
-			if ((await countRevisadoPg()) > 0) return;
-			const merged = await loadMergedRevisadoJson();
-			if (Object.keys(merged).length) await writeRevisadoManyPg(merged);
-		})();
-	}
-	await pgReady;
+	await ensureLanglabSchema();
 }
 
 async function mirrorJson(map: RevisadoMap): Promise<void> {
 	try {
-		await writePersistenceJson(REL, map);
+		await writePersistenceData(REL, map);
 	} catch {
-		/* backup opcional */
+		/* ENTITY_ROW opcional si aún no hay seed */
 	}
 }
 
 export async function readRevisadoAll(): Promise<RevisadoMap> {
-	try {
-		await ensurePgRevisado();
-		const map = await readRevisadoAllPg();
-		await mirrorJson(map);
-		return map;
-	} catch {
-		const json = await readPersistenceJson<RevisadoMap>(REL);
-		if (json && Object.keys(json).length) return { ...json };
-		const merged = await loadMergedRevisadoJson();
-		return { ...merged };
-	}
+	await ensurePgRevisado();
+	const map = await readRevisadoAllPg();
+	await mirrorJson(map);
+	return map;
 }
 
 export async function writeRevisadoMany(updates: RevisadoMap): Promise<RevisadoMap> {
-	try {
-		await ensurePgRevisado();
-		const next = await writeRevisadoManyPg(updates);
-		await mirrorJson(next);
-		return next;
-	} catch {
-		const cur = (await readPersistenceJson<RevisadoMap>(REL)) ?? {};
-		for (const [k, v] of Object.entries(updates)) cur[k] = !!v;
-		await writePersistenceJson(REL, cur);
-		return { ...cur };
-	}
+	await ensurePgRevisado();
+	const next = await writeRevisadoManyPg(updates);
+	await mirrorJson(next);
+	return next;
 }
 
 /** Exporta JSON unificado a ISA-DOC (recuperación / gh-pages). */
@@ -69,6 +44,6 @@ export async function exportRevisadoSnapshots(): Promise<RevisadoMap> {
 		await mkdir(dirname(abs), { recursive: true });
 		await writeFile(abs, body, "utf8");
 	}
-	await writePersistenceJson(REL, map);
+	await mirrorJson(map);
 	return map;
 }

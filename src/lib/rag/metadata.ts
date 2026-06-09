@@ -11,8 +11,7 @@ export type RagCorpus =
 	| "dian"
 	| "legal"
 	| "minhacienda"
-	| "supersociedades"
-	| "fitdocs";
+	| "supersociedades";
 
 export type RagTipo = "youtube" | "pdf" | "web" | "normativa";
 
@@ -49,7 +48,6 @@ export function normalizeCorpusList(input: string[] | undefined): RagCorpus[] | 
 		"legal",
 		"minhacienda",
 		"supersociedades",
-		"fitdocs",
 	]);
 	const out = input
 		.map((c) => c.trim().toLowerCase())

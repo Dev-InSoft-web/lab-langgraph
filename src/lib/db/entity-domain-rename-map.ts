@@ -64,8 +64,6 @@ export const ENTITY_DOMAIN_TABLE_RENAMES: TableRename[] = [
 	{ schema: "BD_RAG", oldTable: "INDEX_INDEXRUN", newTable: "INDEX_RUN" },
 	{ schema: "BD_RAG", oldTable: "RAG_VECCONTAPYME", newTable: "VECTOR_CONTAPYME" },
 	{ schema: "BD_RAG", oldTable: "VECTOR_VECCONTAPYME", newTable: "VECTOR_CONTAPYME" },
-	{ schema: "BD_RAG", oldTable: "RAG_VECFITDOCS", newTable: "VECTOR_FITDOCS" },
-	{ schema: "BD_RAG", oldTable: "VECTOR_VECFITDOCS", newTable: "VECTOR_FITDOCS" },
 ];
 
 export const ENTITY_DOMAIN_SEQUENCE_RENAMES: Array<{ schema: string; oldSeq: string; newSeq: string }> = [

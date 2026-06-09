@@ -51,8 +51,15 @@ const legacy = await pool.query<{ n: number }>(
 const nuevo = await pool.query<{ n: number }>(
 	`SELECT count(*)::int AS n FROM pg_tables WHERE schemaname IN ('BD_LAB','BD_LANGLAB','BD_CLIENTESIS','BD_RAG')`,
 );
+const patyDup = await pool.query<{ n: number }>(
+	`SELECT count(*)::int AS n FROM pg_namespace WHERE nspname IN ('BD_PATY','BD_CLIENTESIS')`,
+);
 console.log(`\nTablas legacy (bd_*): ${legacy.rows[0]?.n ?? 0}`);
 console.log(`Tablas BD_*: ${nuevo.rows[0]?.n ?? 0}`);
+if ((patyDup.rows[0]?.n ?? 0) > 0) {
+	console.log("\n[LEGACY] BD_PATY/BD_CLIENTESIS coexisten con BD_ISADOC — ejecutar: npm run db:consolidate-isadoc");
+	process.exit(1);
+}
 
 const er = await pool.query(
 	`SELECT column_name FROM information_schema.columns

@@ -1,5 +1,4 @@
 import type { Document } from "@langchain/core/documents";
-import { getRagProfile } from "../core/config.js";
 import type { RagCorpus } from "./metadata.js";
 import { extractImagesFromPage } from "./pdfImages.js";
 import { loadPdfjs } from "./pdfjsRuntime.js";
@@ -11,7 +10,7 @@ export async function loadPdfWithMedia(
 	filename: string,
 	opts?: { corpus?: RagCorpus; url?: string },
 ): Promise<{ docs: Document[]; images: MediaEntry[] }> {
-	const corpus = opts?.corpus ?? (getRagProfile() === "fitdocs" ? "fitdocs" : "contapyme");
+	const corpus = opts?.corpus ?? "contapyme";
 	const { getDocument } = await loadPdfjs();
 	const data = new Uint8Array(buffer);
 	const pdf = await getDocument({ data, useSystemFonts: true, isEvalSupported: false }).promise;

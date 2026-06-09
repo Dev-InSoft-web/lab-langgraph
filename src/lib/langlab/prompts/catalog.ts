@@ -1,43 +1,21 @@
-import { readFile } from "node:fs/promises";
-import { join } from "node:path";
-import { PATYIA_PROMPTS_CATALOG } from "../../core/lab-data-paths.js";
-import { getAgentSystemPromptFromDb, listAgentTipos } from "../db/promptsRepo.js";
+import {
+	getAgentSystemPromptFromDb,
+	getBasePromptMarkdown,
+	listAgentTipos,
+	listInstruccionesFromDb,
+} from "../db/promptsRepo.js";
 import type { ConsultaTipo, PromptCatalogFile } from "./types.js";
 import { CONSULTA_TIPOS } from "./types.js";
 import { interpolatePromptVars } from "./vars.js";
 import { wrapAgentPrompt } from "./prompt-common.js";
-import { access } from "node:fs/promises";
 
 export { interpolatePromptVars };
 
-/** Prompts empaquetados en `data/langlab/prompts/catalog` (sync → PG). */
-export async function loadBundledPromptFiles(): Promise<{
-	baseMarkdown: string;
-	agents: Record<ConsultaTipo, { markdown: string; filename: string }>;
-}> {
-	const catalogRoot = PATYIA_PROMPTS_CATALOG();
-	const baseMarkdown = await readFile(join(catalogRoot, "90-general.md"), "utf8");
-	const agents = {} as Record<ConsultaTipo, { markdown: string; filename: string }>;
-	for (const tipo of CONSULTA_TIPOS) {
-		const catalogPath = join(catalogRoot, `PROMPT_${tipo}.md`);
-		const ultraPath = join(catalogRoot, "Ultra", `PROMPT_${tipo}.md`);
-		let markdown: string;
-		let filename: string;
-		try {
-			await access(catalogPath);
-			markdown = await readFile(catalogPath, "utf8");
-			filename = `PROMPT_${tipo}.md`;
-		} catch {
-			markdown = await readFile(ultraPath, "utf8");
-			filename = `Ultra/PROMPT_${tipo}.md`;
-		}
-		agents[tipo] = { markdown, filename };
-	}
-	return { baseMarkdown, agents };
-}
+/** @deprecated Solo sync/seed — usar `bundled-prompts-loader.ts` */
+export { loadBundledPromptFiles } from "../db/bundled-prompts-loader.js";
 
-/** @deprecated Alias — usar loadBundledPromptFiles */
-export const loadIsaDocPromptFiles = loadBundledPromptFiles;
+/** @deprecated Alias */
+export { loadBundledPromptFiles as loadIsaDocPromptFiles } from "../db/bundled-prompts-loader.js";
 
 export async function getAgentDefinition(
 	tipo: ConsultaTipo,
@@ -51,23 +29,37 @@ export async function getPromptCatalogSummary(): Promise<{
 	syncedAt: string;
 	agents: { tipo: string; filename: string }[];
 }> {
-	const tipos = await listAgentTipos();
+	const rows = await listInstruccionesFromDb();
+	const agents = rows
+		.filter((r) => r.iinstruccion !== "LANGLAB_BASE" && r.iinstruccion !== "CLASSIFIER_TIPO_CONSULTA")
+		.map((r) => ({
+			tipo: r.iinstruccion,
+			filename: r.descripcion?.includes(".md") ? r.descripcion : `PROMPT_${r.iinstruccion}.md`,
+		}));
 	return {
 		syncedAt: new Date().toISOString(),
-		agents: tipos.map((tipo) => ({ tipo, filename: `PROMPT_${tipo}.md` })),
+		agents,
 	};
 }
 
+/** Catálogo completo desde BD_LANGLAB.INSTRUCCION (sin leer MD locales). */
 export async function getPromptCatalog(_forceRefresh = false): Promise<PromptCatalogFile> {
-	const { baseMarkdown, agents } = await loadBundledPromptFiles();
+	const baseMarkdown = await getBasePromptMarkdown();
+	const rows = await listInstruccionesFromDb();
+	const byKey = new Map(rows.map((r) => [r.iinstruccion, r]));
+
 	const catalogAgents = {} as PromptCatalogFile["agents"];
 	for (const tipo of CONSULTA_TIPOS) {
-		const a = agents[tipo];
+		const row = byKey.get(tipo);
+		const markdown = row?.instruccion ?? "";
+		const filename = row?.descripcion?.includes(".md")
+			? row.descripcion
+			: `PROMPT_${tipo}.md`;
 		catalogAgents[tipo] = {
 			tipo,
-			filename: a.filename,
-			markdown: a.markdown,
-			systemPrompt: interpolatePromptVars(wrapAgentPrompt(baseMarkdown, a.markdown), {
+			filename,
+			markdown,
+			systemPrompt: interpolatePromptVars(wrapAgentPrompt(baseMarkdown, markdown), {
 				nombre_usuario: "{{nombre_usuario}}",
 			}),
 		};

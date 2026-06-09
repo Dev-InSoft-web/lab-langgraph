@@ -17,7 +17,8 @@ const CATALOG_ROW_ID = "default";
 let cached: ApiCatalogManifest | null = null;
 let cachedSource: ApiCatalogSource | null = null;
 
-function readBundledManifest(): ApiCatalogManifest {
+/** Solo scripts build/seed — no invocar desde handlers HTTP. */
+export function readBundledManifestForSeed(): ApiCatalogManifest {
 	const path = resolveBundledCatalogPath();
 	if (!existsSync(path)) {
 		throw new Error(`Falta ${path}. Ejecute: npm run catalog:build`);
@@ -27,36 +28,46 @@ function readBundledManifest(): ApiCatalogManifest {
 
 export function getCatalogSourcePreference(): ApiCatalogSource {
 	const raw = process.env.API_CATALOG_SOURCE?.trim().toLowerCase();
-	if (raw === "postgres" || raw === "pg") return "postgres";
-	return "bundled";
+	if (raw === "bundled" || raw === "json" || raw === "file") return "bundled";
+	return "postgres";
 }
 
 export async function loadApiCatalogManifest(refresh = false): Promise<ApiCatalogManifest> {
 	if (!refresh && cached) return cached;
 
-	if (getCatalogSourcePreference() === "postgres") {
-		try {
-			const fromPg = await loadManifestFromPg();
-			if (fromPg) {
-				cached = fromPg;
-				cachedSource = "postgres";
-				return fromPg;
-			}
-		} catch {
-			/* fallback JSON */
+	const preferPg = getCatalogSourcePreference() === "postgres";
+
+	if (preferPg) {
+		const fromPg = await loadManifestFromPg();
+		if (fromPg) {
+			cached = fromPg;
+			cachedSource = "postgres";
+			return fromPg;
 		}
 	}
 
-	cached = readBundledManifest();
-	cachedSource = "bundled";
-	return cached;
+	if (getCatalogSourcePreference() === "bundled" || bundledCatalogExists()) {
+		cached = readBundledManifestForSeed();
+		cachedSource = "bundled";
+		return cached;
+	}
+
+	throw new Error(
+		"Manifiesto API no encontrado en BD_ISADOC.APICATALOG_MANIFEST. Ejecute: npm run catalog:sync-pg",
+	);
 }
 
+/** Requiere caché calentada con loadApiCatalogManifest() o modo bundled explícito. */
 export function loadApiCatalogManifestSync(refresh = false): ApiCatalogManifest {
 	if (!refresh && cached) return cached;
-	cached = readBundledManifest();
-	cachedSource = "bundled";
-	return cached;
+	if (getCatalogSourcePreference() === "bundled" && bundledCatalogExists()) {
+		cached = readBundledManifestForSeed();
+		cachedSource = "bundled";
+		return cached;
+	}
+	throw new Error(
+		"Manifiesto API no en caché. Use await loadApiCatalogManifest() o npm run catalog:sync-pg",
+	);
 }
 
 export function getLoadedCatalogSource(): ApiCatalogSource | null {
@@ -104,6 +115,8 @@ export async function upsertManifestToPg(manifest: ApiCatalogManifest): Promise<
 		   ${c.body} = EXCLUDED.${c.body}`,
 		[CATALOG_ROW_ID, manifest.version, manifest.generatedAt, manifest.source, JSON.stringify(manifest)],
 	);
+	cached = manifest;
+	cachedSource = "postgres";
 }
 
 export async function loadManifestFromPg(): Promise<ApiCatalogManifest | null> {

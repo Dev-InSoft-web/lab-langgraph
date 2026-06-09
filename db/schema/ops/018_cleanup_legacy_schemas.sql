@@ -1,5 +1,5 @@
--- Elimina esquemas legacy duplicados (minúsculas / bd_*). NO toca BD_PATY (ISA-DOC).
--- Canónicos: BD_PATY (ISA-DOC store), BD_LANGLAB (runtime LangLab), BD_CLIENTESIS.
+-- Elimina esquemas legacy duplicados (minúsculas / bd_*).
+-- Canónicos: BD_ISADOC (entity store), BD_LANGLAB (runtime LangLab). BD_PATY → 021.
 -- RAG: instancia separada (RAG_DATABASE_URL).
 
 DO $$
@@ -104,7 +104,7 @@ DECLARE
 	tables TEXT[] := ARRAY[
 		'CONVERSACION', 'CONVERSACION_TURNO', 'CONVERSACION_MENSAJE', 'CONVERSACION_MENSAJE_METRICAS',
 		'CONVERSACION_TURNOLOCK', 'CONVERSACION_TURNOTIMING',
-		'INSTRUCCION', 'TDCONSULTA', 'TDCONSULTA_INSTRUCCION', 'TDCONSULTA_CORPUS'
+		'INSTRUCCION', 'CONVERSACION_TIPOCONSULTA'
 	];
 	t TEXT;
 BEGIN

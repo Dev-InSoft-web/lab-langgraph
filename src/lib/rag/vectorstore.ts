@@ -9,8 +9,9 @@ import {
 	PG_SCHEMA_RAG,
 	getRagVectorTableName,
 } from "../core/lab-constants.js";
-import { getHuggingFaceApiKey, getPgCollection, getRagProfile } from "../core/config.js";
+import { getHuggingFaceApiKey, getPgCollection } from "../core/config.js";
 import { ensureRagSchema } from "./ensureSchema.js";
+import { addDocumentsInBatches, type IndexBatchOptions } from "./embedBatches.js";
 
 const splitter = new RecursiveCharacterTextSplitter({
 	chunkSize: 1000,
@@ -29,8 +30,7 @@ function getEmbeddings(): HuggingFaceInferenceEmbeddings {
 	});
 }
 
-/** Asegura DDL en BD RAG (`bd_rag.rag_vec_*`). */
-export async function ensureVectorTable(profile?: "contapyme" | "fitdocs"): Promise<void> {
+export async function ensureVectorTable(): Promise<void> {
 	await ensureRagSchema();
 }
 
@@ -78,7 +78,10 @@ export async function indexDocuments(docs: Document[]): Promise<{ chunks: number
 
 const YOUTUBE_MAX_SEGMENT_CHARS = 1400;
 
-export async function indexYoutubeDocuments(docs: Document[]): Promise<{ chunks: number; files: string[] }> {
+export async function indexYoutubeDocuments(
+	docs: Document[],
+	opts?: IndexBatchOptions,
+): Promise<{ chunks: number; files: string[]; skipped?: number }> {
 	await ensurePgVectorExtension();
 	if (docs.length === 0) return { chunks: 0, files: [] };
 
@@ -97,21 +100,26 @@ export async function indexYoutubeDocuments(docs: Document[]): Promise<{ chunks:
 		}
 	}
 
-	const files: string[] = [
-		...new Set(toIndex.map((c) => String(c.metadata?.source ?? "desconocido"))),
-	];
 	const store = await ensureVectorInfrastructure();
-	await store.addDocuments(toIndex);
-	return { chunks: toIndex.length, files };
+	const result = await addDocumentsInBatches(store, toIndex, {
+		mergeYoutubeSegments: true,
+		...opts,
+	});
+	return result;
 }
 
-export async function indexWebDocuments(docs: Document[]): Promise<{ chunks: number; files: string[] }> {
-	return indexYoutubeDocuments(docs);
+export async function indexWebDocuments(
+	docs: Document[],
+	opts?: IndexBatchOptions,
+): Promise<{ chunks: number; files: string[]; skipped?: number }> {
+	await ensurePgVectorExtension();
+	if (docs.length === 0) return { chunks: 0, files: [] };
+	const store = await ensureVectorInfrastructure();
+	return addDocumentsInBatches(store, docs, { mergeYoutubeSegments: false, ...opts });
 }
 
 export async function clearVectorStore(): Promise<void> {
-	const profile = getRagProfile();
-	const table = getRagVectorTableName(profile);
+	const table = getRagVectorTableName();
 	await ensureRagSchema();
 	await getRagPgPool().query(`TRUNCATE TABLE ${qualifiedTable(table)}`);
 }

@@ -1,9 +1,15 @@
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join } from "node:path";
-import { resolveLabDataRoot, PATYIA_PROMPTS_CATALOG } from "../core/lab-data-paths.js";
+import {
+	OPENAI_STORAGE_ROOT,
+	PERSISTENCE_ALLOWLIST,
+	resolveLabDataRoot,
+	PATYIA_PROMPTS_CATALOG,
+} from "../core/lab-data-paths.js";
+import { persistenceRelToSegment } from "../persistence/persistence-entity-map.js";
 import { resolveLabRepoRoot } from "../core/data-paths.js";
 import { join as joinPath } from "node:path";
-import { loadApiCatalogManifestSync } from "../integrations/postman/manifest.js";
+import { readBundledManifestForSeed } from "../integrations/postman/manifest.js";
 import { upsertEntityRow } from "./repository.js";
 import { seedImgbbFromMap, seedRevisadoFromJson } from "./sync-from-files.js";
 
@@ -12,7 +18,7 @@ const ISA_DOC_ROOT =
 
 export async function seedApiCatalogEndpoints(): Promise<number> {
 	let n = 0;
-	const manifest = loadApiCatalogManifestSync();
+	const manifest = readBundledManifestForSeed();
 	for (const [apiProject, p] of Object.entries(manifest.projects)) {
 		for (const ep of p.endpoints) {
 			const pk = encodeURIComponent(ep.id);
@@ -38,7 +44,7 @@ export async function seedApiCatalogEndpoints(): Promise<number> {
 
 export async function seedPatyiaCatalogEndpoints(): Promise<number> {
 	let n = 0;
-	const manifest = loadApiCatalogManifestSync();
+	const manifest = readBundledManifestForSeed();
 	const p = manifest.projects.patyia;
 	if (!p) return 0;
 	for (const ep of p.endpoints) {
@@ -177,6 +183,23 @@ export async function seedClientesisTables(): Promise<number> {
 	return n;
 }
 
+export async function seedOpenaiStorageCaches(): Promise<number> {
+	let n = 0;
+	const root = OPENAI_STORAGE_ROOT();
+	for (const rel of PERSISTENCE_ALLOWLIST) {
+		if (!rel.startsWith("openai-storage/")) continue;
+		const seg = persistenceRelToSegment(rel);
+		if (!seg) continue;
+		const fileName = rel.slice("openai-storage/".length);
+		const path = join(root, fileName);
+		if (!existsSync(path)) continue;
+		const body = JSON.parse(readFileSync(path, "utf8"));
+		await upsertEntityRow(seg, "default", { id: "default", body });
+		n++;
+	}
+	return n;
+}
+
 export async function seedAllCatalogData(): Promise<Record<string, number>> {
 	return {
 		imgbb: await seedImgbbFromMap(),
@@ -186,6 +209,7 @@ export async function seedAllCatalogData(): Promise<Record<string, number>> {
 		postmanUi: await seedPostmanUiSnapshots(),
 		prompts: await seedPatyiaPromptsAsync(PATYIA_PROMPTS_CATALOG()),
 		caches: await seedPatyiaCaches(),
+		openaiStorage: await seedOpenaiStorageCaches(),
 		codegen: await seedCodegenState(),
 		tables: await seedClientesisTables(),
 	};

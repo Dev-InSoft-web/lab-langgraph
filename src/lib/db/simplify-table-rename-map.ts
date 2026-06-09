@@ -77,7 +77,4 @@ export const SIMPLIFY_TABLE_RENAMES: TableRename[] = [
 	{ schema: "BD_RAG", oldTable: "rag_vec_contapyme", newTable: "VECTOR_CONTAPYME" },
 	{ schema: "BD_RAG", oldTable: "RAG_VECCONTAPYME", newTable: "VECTOR_CONTAPYME" },
 	{ schema: "BD_RAG", oldTable: "VECTOR_VECCONTAPYME", newTable: "VECTOR_CONTAPYME" },
-	{ schema: "BD_RAG", oldTable: "rag_vec_fitdocs", newTable: "VECTOR_FITDOCS" },
-	{ schema: "BD_RAG", oldTable: "RAG_VECFITDOCS", newTable: "VECTOR_FITDOCS" },
-	{ schema: "BD_RAG", oldTable: "VECTOR_VECFITDOCS", newTable: "VECTOR_FITDOCS" },
 ];
