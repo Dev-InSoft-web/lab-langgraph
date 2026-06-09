@@ -81,7 +81,7 @@ async function loadCache(force = false): Promise<Cache> {
 	);
 
 	const allowRows = await pool.query<{ rolecode: string; allowrule: string }>(
-		`SELECT ${COL_AUTH_ROLEALLOW.ROLECODE} AS rolecode, ${COL_AUTH_ROLEALLOW.ALLOWRULE} AS allowrule
+		`SELECT a.${COL_AUTH_ROLEALLOW.ROLECODE} AS rolecode, a.${COL_AUTH_ROLEALLOW.ALLOWRULE} AS allowrule
 		 FROM ${Q_AUTH_ROLEALLOW} a
 		 INNER JOIN ${Q_AUTH_ROLE} r ON r.${COL_AUTH_ROLE.ROLECODE} = a.${COL_AUTH_ROLEALLOW.ROLECODE}
 		 WHERE r.${COL_AUTH_ROLE.ACTIVE} = true`,
