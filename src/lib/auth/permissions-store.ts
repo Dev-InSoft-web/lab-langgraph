@@ -194,7 +194,7 @@ export async function userMayAccessEndpoint(
 	return role.allow.some((rule) => matchAllowRule(rule, method, apiPath));
 }
 
-/** Alcance SQL restringido al emitir token de servicio (ej. VRESTREPO → solo INSTRUCCION staging). */
+/** Alcance SQL restringido al emitir token de servicio (ej. instrucciones_editor → solo INSTRUCCION staging). */
 export async function getUserSqlScopeForEndpoint(
 	username: string,
 	method: string,
@@ -204,6 +204,13 @@ export async function getUserSqlScopeForEndpoint(
 	const exceptions = c.userExceptions.get(normalizeUser(username)) ?? [];
 	for (const ex of exceptions) {
 		if (matchAllowRule(ex.allowrule, method, apiPath) && ex.sqlscope) return ex.sqlscope;
+	}
+	const roleName = c.userRoles.get(normalizeUser(username)) ?? (await resolveUserRole(username));
+	if (
+		roleName === "instrucciones_editor" &&
+		matchAllowRule("POST:/mssql/paty/exec", method, apiPath)
+	) {
+		return "paty_staging_instrucciones";
 	}
 	return null;
 }

@@ -6,9 +6,9 @@
       "allow": ["*"]
     },
     "instrucciones_editor": {
-      "description": "GET libre para todos; solo POST de persistencia de instrucciones (MD → BD_LANGLAB)",
+      "description": "GET libre para todos; solo POST de fusión de instrucciones en PatyIA staging (INSTRUCCION)",
       "allow": [
-        "POST:/patyia/prompts/upsert-sql"
+        "POST:/mssql/paty/exec"
       ]
     }
   },

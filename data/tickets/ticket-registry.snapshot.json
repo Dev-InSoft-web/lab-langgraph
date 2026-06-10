@@ -98,52 +98,62 @@
   },
   {
     "id": "TK-1432903",
-    "titulo": "Registro de log de peticiones de Paty IA",
+    "titulo": "Registro de log de peticiones del sistema de chat",
     "solicitante": "Área funcional",
     "fechaSolicitud": "02/jun./2026 02:30:29 pm",
     "noMaquillarFechas": true,
     "estimacionMinutos": 210,
     "diligenciaMinutos": 120,
     "extraMinutos": 150,
-    "extraDescripcion": "Demo ISA PatyIA (GH Pages), permisos asesora VRESTREPO, fixes persistencia staging Azure y QA F5 editor instrucciones.",
-    "resumen": "Log por turno en CONVERSACION_LOG (staging) vía appendConvTurno/UlConvLogDb; métricas, operativas y stream_ok; API GET conversacion/{id}/log; demo https://jeff-aporta.github.io/isa-patyia/ (visor log + editor instrucciones); acceso VRESTREPO por Teams.",
+    "extraDescripcion": "Herramienta web pública de consulta de historiales y corrección de persistencia del log en staging.",
+    "resumen": "Se registró cada turno del sistema de chat en la base de datos de staging con métricas y errores de transmisión. Se publicó una interfaz web para consultar historiales por número de conversación.",
     "commits": [
       {
         "hash": "67dd245",
         "descripcion": "feat: Mejora la gestión de conexiones a la base de datos en los logs de conversación, utilizando parámetros en las consultas SQL y optimizando el manejo de errores.",
         "repo": "PatyIA",
+        "ins": 27,
+        "del": 20,
         "fecha": "2026-06-09T19:53:51-05:00"
       },
       {
         "hash": "e5bcfae",
         "descripcion": "feat: se añaden logs de conversación",
         "repo": "PatyIA",
+        "ins": 90,
+        "del": 17,
         "fecha": "2026-06-09T16:44:54-05:00"
       },
       {
         "hash": "1205fc7",
         "descripcion": "feat(TK-1432903): Registra turnos fallidos del asistente y unifica el flujo de respuesta en streaming con indicadores de éxito y error.",
         "repo": "PatyIA",
+        "ins": 46,
+        "del": 37,
         "fecha": "2026-06-03T13:03:18-05:00"
       },
       {
         "hash": "89210f8",
         "descripcion": "feat(TK-1432903): Implementa persistencia dual del log de conversación con métricas por turno, depuración y fusión entre archivo y base de datos.",
         "repo": "PatyIA",
+        "ins": 829,
+        "del": 0,
         "fecha": "2026-06-03T13:03:18-05:00"
       },
       {
         "hash": "9a4b0ea",
         "descripcion": "refactor(TK-1432903): Reorganiza modelos y controladores en subcarpetas con capa de sistema y documentación de índices para la trazabilidad del log de conversación.",
         "repo": "PatyIA",
+        "ins": 198,
+        "del": 823,
         "fecha": "2026-06-03T13:03:18-05:00"
       }
     ],
     "cambiosBd": [
       {
         "tabla": "CONVERSACION_LOG (staging)",
-        "registro": "Tabla de log JSON",
-        "intencion": "Tabla para persistir el JSON de métricas por conversación (ICONVERSACION + CONTENT).",
+        "registro": "Un registro por conversación con historial en texto estructurado",
+        "intencion": "Se creó la tabla de log para guardar el historial completo de cada conversación del sistema de chat en staging.",
         "sql": "SET NOCOUNT ON;\nSET XACT_ABORT ON;\n\nIF OBJECT_ID(N'dbo.CONVERSACION_LOG', N'U') IS NULL\nBEGIN\n\tCREATE TABLE [dbo].[CONVERSACION_LOG] (\n\t\t[ICONVERSACION] BIGINT NOT NULL,\n\t\t[CONTENT]       NVARCHAR(MAX) NOT NULL\n\t);\nEND;"
       }
     ],
