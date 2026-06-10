@@ -32,6 +32,7 @@ import "./functions/conversaciones.js";
 import "./functions/postMensaje.js";
 import "./functions/postConversacionJailbreak.js";
 import "./functions/getLanglabPrompts.js";
+import "./functions/getPatyiaInstrucciones.js";
 import "./functions/persistence.js";
 import "./functions/orchestrator.js";
 import "./functions/punctuateYoutube.js";
