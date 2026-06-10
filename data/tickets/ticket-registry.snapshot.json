@@ -102,33 +102,41 @@
     "solicitante": "Área funcional",
     "fechaSolicitud": "02/jun./2026 02:30:29 pm",
     "noMaquillarFechas": true,
-    "estimacionMinutos": 90,
-    "diligenciaMinutos": 45,
-    "resumen": "Log estructurado por turno: archivo conv-*.json + CONVERSACION_LOG (staging) vía appendConvTurno/UlConvLogDb; métricas, operativas, errores de stream; lectura en ISA-DOC GET conversacion/{id}/log.",
+    "estimacionMinutos": 210,
+    "diligenciaMinutos": 120,
+    "extraMinutos": 150,
+    "extraDescripcion": "Demo ISA PatyIA (GH Pages), permisos asesora VRESTREPO, fixes persistencia staging Azure y QA F5 editor instrucciones.",
+    "resumen": "Log por turno en CONVERSACION_LOG (staging) vía appendConvTurno/UlConvLogDb; métricas, operativas y stream_ok; API GET conversacion/{id}/log; demo https://jeff-aporta.github.io/isa-patyia/ (visor log + editor instrucciones); acceso VRESTREPO por Teams.",
     "commits": [
+      {
+        "hash": "67dd245",
+        "descripcion": "feat: Mejora la gestión de conexiones a la base de datos en los logs de conversación, utilizando parámetros en las consultas SQL y optimizando el manejo de errores.",
+        "repo": "PatyIA",
+        "fecha": "2026-06-09T19:53:51-05:00"
+      },
+      {
+        "hash": "e5bcfae",
+        "descripcion": "feat: se añaden logs de conversación",
+        "repo": "PatyIA",
+        "fecha": "2026-06-09T16:44:54-05:00"
+      },
       {
         "hash": "1205fc7",
         "descripcion": "feat(TK-1432903): Registra turnos fallidos del asistente y unifica el flujo de respuesta en streaming con indicadores de éxito y error.",
         "repo": "PatyIA",
-        "fecha": "2026-06-03T12:59:47-05:00"
+        "fecha": "2026-06-03T13:03:18-05:00"
       },
       {
         "hash": "89210f8",
         "descripcion": "feat(TK-1432903): Implementa persistencia dual del log de conversación con métricas por turno, depuración y fusión entre archivo y base de datos.",
         "repo": "PatyIA",
-        "fecha": "2026-06-03T12:59:46-05:00"
+        "fecha": "2026-06-03T13:03:18-05:00"
       },
       {
         "hash": "9a4b0ea",
         "descripcion": "refactor(TK-1432903): Reorganiza modelos y controladores en subcarpetas con capa de sistema y documentación de índices para la trazabilidad del log de conversación.",
         "repo": "PatyIA",
-        "fecha": "2026-06-03T12:59:46-05:00"
-      },
-      {
-        "hash": "6327c2c",
-        "descripcion": "feat(TK-1431163): historial de conversación con operativas y request/response",
-        "repo": "PatyIA",
-        "fecha": "2026-06-02T10:52:22-05:00"
+        "fecha": "2026-06-03T13:03:18-05:00"
       }
     ],
     "cambiosBd": [
