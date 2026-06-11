@@ -1,0 +1,11 @@
+-- Penalización por intentos fallidos de login (anti fuerza bruta).
+-- 3 fallos seguidos → espera 1 min; 4º → 5 min; 5º en adelante → 10 min.
+CREATE SCHEMA IF NOT EXISTS "BD_LANGLAB";
+
+CREATE TABLE IF NOT EXISTS "BD_LANGLAB"."AUTH_LOGINPENALTY" (
+	"USERNAME" TEXT PRIMARY KEY,
+	"FAILCOUNT" INT NOT NULL DEFAULT 0,
+	"LOCKEDUNTIL" TIMESTAMPTZ,
+	"FHCRE" TIMESTAMPTZ NOT NULL DEFAULT now(),
+	"FHULTACT" TIMESTAMPTZ NOT NULL DEFAULT now()
+);

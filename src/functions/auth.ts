@@ -15,6 +15,11 @@ import {
 	userMayAccessEndpoint,
 } from "../lib/auth/permissions.js";
 import { findLabUser } from "../lib/auth/users.js";
+import {
+	checkLoginPenalty,
+	clearLoginPenalty,
+	registerLoginFailure,
+} from "../lib/auth/login-penalty.js";
 import { normalizeApiPath, verifyRequestLabJwt } from "../lib/auth/guard.js";
 
 const INTEGRACIONES_USER = () =>
@@ -41,6 +46,25 @@ async function tokenHandler(request: HttpRequest, _context: InvocationContext): 
 		return jsonResponse({ ok: false, error: "username y password requeridos" }, 400, corsHeaders(origin));
 	}
 
+	// Penalización anti fuerza bruta: 3 fallos seguidos → 1 min, 4º → 5 min, 5º+ → 10 min.
+	try {
+		const penalty = await checkLoginPenalty(username);
+		if (penalty.blocked) {
+			return jsonResponse(
+				{
+					ok: false,
+					error: "Demasiados intentos fallidos. Espera antes de reintentar.",
+					retryAfterSeconds: penalty.retryAfterSeconds,
+				},
+				429,
+				{ ...corsHeaders(origin), "Retry-After": String(penalty.retryAfterSeconds) },
+			);
+		}
+	} catch (err) {
+		_context.error("auth/token penalty check", err);
+		// Si la tabla de penalización falla no bloqueamos el login legítimo.
+	}
+
 	let user;
 	try {
 		user = await findLabUser(username);
@@ -58,12 +82,33 @@ async function tokenHandler(request: HttpRequest, _context: InvocationContext): 
 			corsHeaders(origin),
 		);
 	}
-	if (!user?.active) {
-		return jsonResponse({ ok: false, error: "Credenciales inválidas" }, 401, corsHeaders(origin));
+	const ok = user?.active ? await verifyPassword(password, user.passwordhash) : false;
+	if (!user || !ok) {
+		let retryAfterSeconds = 0;
+		try {
+			const penalty = await registerLoginFailure(username);
+			retryAfterSeconds = penalty.retryAfterSeconds;
+		} catch (err) {
+			_context.error("auth/token penalty register", err);
+		}
+		return jsonResponse(
+			{
+				ok: false,
+				error: "Credenciales inválidas",
+				...(retryAfterSeconds ? { retryAfterSeconds } : {}),
+			},
+			retryAfterSeconds ? 429 : 401,
+			{
+				...corsHeaders(origin),
+				...(retryAfterSeconds ? { "Retry-After": String(retryAfterSeconds) } : {}),
+			},
+		);
 	}
-	const ok = await verifyPassword(password, user.passwordhash);
-	if (!ok) {
-		return jsonResponse({ ok: false, error: "Credenciales inválidas" }, 401, corsHeaders(origin));
+
+	try {
+		await clearLoginPenalty(username);
+	} catch (err) {
+		_context.error("auth/token penalty clear", err);
 	}
 
 	try {

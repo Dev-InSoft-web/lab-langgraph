@@ -8,10 +8,12 @@ app.setup({ enableHttpStream: true });
 /** Registro explícito de HTTP triggers (el glob en package.json no siempre carga en Flex Linux). */
 import "./functions/health.js";
 import "./functions/swagger.js";
+import "./functions/isaJagudelo.js";
 import "./functions/auth.js";
 import "./functions/store.js";
 import "./functions/catalog.js";
 import "./functions/imgbbAssets.js";
+import "./functions/files.js";
 import "./functions/ticketMermaid.js";
 import "./functions/configConnections.js";
 import "./functions/mssqlEndpoints.js";
